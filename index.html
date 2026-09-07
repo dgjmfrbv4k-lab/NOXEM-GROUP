@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Montaugem — Papier A4 en gros</title>
+<meta name="description" content="Montaugem, vente de papier A4 en ligne pour particuliers, entreprises et administrations.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📄</text></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="header" id="header">
+  <div class="container header__inner">
+    <a href="#top" class="logo">
+      <span class="logo__mark">M</span>
+      <span class="logo__text">Montaugem</span>
+    </a>
+    <nav class="nav" id="nav">
+      <a href="#produits">Produits</a>
+      <a href="#pourquoi">Pourquoi nous</a>
+      <a href="#contact" class="nav__cta">Commander</a>
+    </nav>
+    <button class="burger" id="burger" aria-label="Ouvrir le menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main>
+
+  <section class="hero" id="top">
+    <div class="hero__bg" aria-hidden="true"></div>
+    <div class="container hero__inner">
+      <p class="eyebrow reveal">Vente de papier A4</p>
+      <h1 class="reveal">Du papier A4 de qualité,<br>livré rapidement</h1>
+      <p class="hero__lead reveal">Montaugem fournit particuliers, entreprises et administrations en papier A4 pour tous les usages : bureautique, impression, copie.</p>
+      <div class="hero__actions reveal">
+        <a href="#produits" class="btn btn--primary">Voir les produits</a>
+        <a href="#contact" class="btn btn--ghost">Demander un devis</a>
+      </div>
+      <div class="hero__stats reveal">
+        <div><strong data-count="500">0</strong><span>Tonnes vendues / an</span></div>
+        <div><strong data-count="1200">0</strong><span>Clients satisfaits</span></div>
+        <div><strong data-count="24">0</strong><span>Livraison en 24-48h</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="produits">
+    <div class="container">
+      <p class="eyebrow reveal">Nos produits</p>
+      <h2 class="reveal">Un papier A4 pour chaque besoin</h2>
+      <div class="grid grid--3">
+        <article class="card reveal">
+          <div class="card__icon">📄</div>
+          <h3>Papier A4 80g standard</h3>
+          <p>Le papier de bureau classique, blanc et fluide, idéal pour l'impression quotidienne. Ramette de 500 feuilles.</p>
+          <p class="price">4,90&nbsp;€ / ramette</p>
+        </article>
+        <article class="card reveal">
+          <div class="card__icon">✨</div>
+          <h3>Papier A4 90g premium</h3>
+          <p>Plus épais et plus opaque, parfait pour les documents recto-verso et les impressions haut de gamme.</p>
+          <p class="price">6,50&nbsp;€ / ramette</p>
+        </article>
+        <article class="card reveal">
+          <div class="card__icon">📦</div>
+          <h3>Carton de 5 ramettes</h3>
+          <p>2500 feuilles A4 80g, le format économique pour les bureaux et les administrations.</p>
+          <p class="price">21,90&nbsp;€ / carton</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="pourquoi">
+    <div class="container about">
+      <div class="about__text reveal">
+        <p class="eyebrow">Pourquoi Montaugem</p>
+        <h2>Simple, fiable, sans surprise</h2>
+        <p>Montaugem, c'est un fournisseur direct de papier A4 qui privilégie la simplicité : des prix clairs, un stock disponible et une livraison rapide partout en France.</p>
+        <ul class="check-list">
+          <li>Papier certifié, blancheur et grammage garantis</li>
+          <li>Livraison sous 24 à 48h</li>
+          <li>Tarifs dégressifs pour les commandes en gros volume</li>
+        </ul>
+        <a href="#contact" class="btn btn--primary">Demander un devis</a>
+      </div>
+      <div class="about__visual reveal" aria-hidden="true">
+        <div class="orb"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--cta">
+    <div class="container cta reveal">
+      <h2>Besoin de papier A4 ?</h2>
+      <p>Contactez-nous, réponse sous 24h ouvrées.</p>
+      <a href="#contact" class="btn btn--primary btn--lg">Nous contacter</a>
+    </div>
+  </section>
+
+  <section class="section" id="contact">
+    <div class="container contact">
+      <div class="contact__info reveal">
+        <p class="eyebrow">Contact</p>
+        <h2>Passer une commande</h2>
+        <p>Indiquez-nous la quantité souhaitée, nous revenons vers vous rapidement avec un devis.</p>
+        <div class="contact__detail">
+          <strong>Email</strong>
+          <a href="mailto:contact@montaugem.fr">contact@montaugem.fr</a>
+        </div>
+        <div class="contact__detail">
+          <strong>Téléphone</strong>
+          <a href="tel:+33100000000">+33 1 00 00 00 00</a>
+        </div>
+      </div>
+      <form class="contact__form" id="contact-form">
+        <div class="field">
+          <label for="name">Nom</label>
+          <input type="text" id="name" name="name" required autocomplete="name">
+        </div>
+        <div class="field">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required autocomplete="email">
+        </div>
+        <div class="field">
+          <label for="message">Message (quantité souhaitée)</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+        </div>
+        <button type="submit" class="btn btn--primary btn--full">Envoyer la demande</button>
+        <p class="form__status" id="form-status" role="status" aria-live="polite"></p>
+      </form>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="container footer__inner">
+    <div class="logo logo--footer">
+      <span class="logo__mark">M</span>
+      <span class="logo__text">Montaugem</span>
+    </div>
+    <p>&copy; <span id="year"></span> Montaugem. Site de démonstration.</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
