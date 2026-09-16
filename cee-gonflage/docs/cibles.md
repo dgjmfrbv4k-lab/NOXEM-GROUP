@@ -212,3 +212,77 @@ OpenStreetMap décrit des équipements, pas des dirigeants. Le nom du directeur 
 trouve en appelant l'accueil, en passant sur place, ou sur la page « qui sommes-nous »
 de l'enseigne. C'est ce travail-là qui fait la différence entre un e-mail à `contact@`
 et un e-mail qui obtient un rendez-vous.
+
+---
+
+# Annexe — cibles nommées (région lyonnaise)
+
+Recherche menée le 16/09/2026. **À revérifier avant tout contact** : les périmètres,
+les enseignes et les gestionnaires changent régulièrement.
+
+## Les têtes de réseau — la meilleure piste
+
+La simulation le montre sans ambiguïté : un accord au niveau d'un **groupement**
+vaut mieux que cinquante rendez-vous magasin par magasin. Voici les structures qui
+décident pour plusieurs dizaines de points de vente dans la région.
+
+| Structure | Rôle | Pourquoi c'est la bonne porte |
+|---|---|---|
+| **SOCARA** — Société coopérative d'approvisionnement Rhône-Alpes | L'une des 16 centrales régionales du mouvement E.Leclerc. Siège et base logistique à Villette-d'Anthon / Saint-Quentin-Fallavier (38). | Les adhérents Leclerc de la région s'y retrouvent. Un référencement régional ouvre l'ensemble du parc. |
+| **ITM Logistique International Sud-Est** (groupe Les Mousquetaires) | Base régionale desservant environ **96 points de vente** Intermarché. | 96 magasins, une seule structure de décision. Voir le chiffrage ci-dessous. |
+| **Coopérative U** — centrale régionale | Les magasins U sont des indépendants regroupés en coopératives régionales. | Même logique : un référencement, puis les adhérents décident site par site, mais la porte est ouverte. |
+
+**Attention à la nuance.** Chez ces enseignes, l'adhérent reste propriétaire de son
+magasin : la centrale ne peut pas signer à sa place. Ce qu'un accord régional apporte,
+c'est le **référencement** — vous cessez d'être un inconnu, vous devenez une offre
+validée que les adhérents peuvent prendre. C'est ce qui fait passer le cycle de vente
+de quatre rendez-vous à un.
+
+### Ce que pèserait un parc entier
+
+Hypothèses : 8,70 €/MWhc, 20 % de marge délégataire, 300 € d'entretien par station
+et par an, 900 € d'installation.
+
+| Périmètre | kWh cumac | CEE net / an | Marge / an | Investissement |
+|---|---:|---:|---:|---:|
+| 1 magasin | 148 400 | 1 033 € | 733 € | 900 € |
+| Grappe de 10 magasins | 1 484 000 | 10 329 € | 7 329 € | 9 000 € |
+| **Parc type d'une base régionale (96 points de vente)** | **14 246 400** | **99 155 €** | **70 355 €** | 86 400 € |
+
+Le dernier chiffre est le plus important de tout ce document : **un seul accord de
+référencement peut porter plus de 70 000 € de marge récurrente annuelle.** C'est le
+scénario à viser, et il change la façon de préparer le rendez-vous : on ne vend pas
+une station, on vend un dispositif clé en main pour un parc.
+
+## Les centres commerciaux de la métropole
+
+Le décideur est le **directeur du centre**, salarié de la foncière, jamais les
+enseignes locataires.
+
+| Centre | Commune | Foncière / gestionnaire |
+|---|---|---|
+| Westfield La Part-Dieu | Lyon 3e | Unibail-Rodamco-Westfield |
+| Confluence | Lyon 2e | Unibail-Rodamco-Westfield |
+| Carré de Soie | Vaulx-en-Velin | Altarea |
+| Écully Grand Ouest | Écully | Klépierre (exploitation Ségécé) |
+| Galeries adossées aux hypermarchés Carrefour | plusieurs communes | Carmila |
+
+Quatre foncières couvrent l'essentiel du parc : **un accord-cadre avec l'une d'elles
+vaut plusieurs sites**. La logique est la même que pour les groupements — viser la
+direction régionale plutôt que chaque centre séparément.
+
+## Méthode de contact pour ces structures
+
+Ces organisations ne se démarchent pas par un e-mail à `contact@`. La séquence qui
+fonctionne :
+
+1. **Appeler le standard** et demander le service concerné : services généraux,
+   direction technique, ou direction du développement selon la structure.
+2. **Demander le nom et la fonction** de la personne qui traite les équipements de
+   parking. C'est le seul moment où l'on collecte une donnée personnelle, et on la
+   collecte auprès de l'entreprise elle-même.
+3. **Envoyer l'e-mail nominatif** dans la foulée, en citant l'échange téléphonique
+   dès la première ligne.
+
+Ce que cela coûte : quelques appels. Ce que cela rapporte : un taux de réponse sans
+commune mesure avec un envoi anonyme, et un interlocuteur qui attend votre message.
