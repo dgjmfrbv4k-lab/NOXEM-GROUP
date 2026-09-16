@@ -3,9 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Montaugem — Papier A4 en gros</title>
-<meta name="description" content="Montaugem, vente de papier A4 en ligne pour particuliers, entreprises et administrations.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📄</text></svg>">
+<title>AURELIS — Comptoir d'Or | Rachat d'or, bijoux, pièces et lingots</title>
+<meta name="description" content="AURELIS, comptoir d'achat et de rachat d'or : estimation gratuite de vos bijoux, pièces et lingots, cours du jour transparent et paiement immédiat.">
+<meta property="og:title" content="AURELIS — Comptoir d'Or">
+<meta property="og:description" content="Vendez votre or au juste prix : estimation gratuite, grille de rachat publique, paiement immédiat.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#0e0e11">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%230e0e11%22/><text x=%2250%22 y=%2272%22 font-size=%2262%22 font-family=%22Georgia,serif%22 fill=%22%23e8c766%22 text-anchor=%22middle%22>A</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,15 +20,17 @@
 <header class="header" id="header">
   <div class="container header__inner">
     <a href="#top" class="logo">
-      <span class="logo__mark">M</span>
-      <span class="logo__text">Montaugem</span>
+      <span class="logo__mark">A</span>
+      <span class="logo__text">Aurelis<small>Comptoir d'Or</small></span>
     </a>
     <nav class="nav" id="nav">
-      <a href="#produits">Produits</a>
-      <a href="#pourquoi">Pourquoi nous</a>
-      <a href="#contact" class="nav__cta">Commander</a>
+      <a href="#grille">Grille de rachat</a>
+      <a href="#estimation">Estimation</a>
+      <a href="#process">Comment ça marche</a>
+      <a href="#faq">FAQ</a>
+      <a href="#contact" class="nav__cta">Prendre rendez-vous</a>
     </nav>
-    <button class="burger" id="burger" aria-label="Ouvrir le menu">
+    <button class="burger" id="burger" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="nav">
       <span></span><span></span><span></span>
     </button>
   </div>
@@ -32,72 +41,218 @@
   <section class="hero" id="top">
     <div class="hero__bg" aria-hidden="true"></div>
     <div class="container hero__inner">
-      <p class="eyebrow reveal">Vente de papier A4</p>
-      <h1 class="reveal">Du papier A4 de qualité,<br>livré rapidement</h1>
-      <p class="hero__lead reveal">Montaugem fournit particuliers, entreprises et administrations en papier A4 pour tous les usages : bureautique, impression, copie.</p>
+      <p class="eyebrow reveal">Achat &amp; rachat d'or</p>
+      <h1 class="reveal">Vendez votre or<br><em>au juste prix</em></h1>
+      <p class="hero__lead reveal">Bijoux, pièces, lingots, or dentaire : nous expertisons votre or devant vous, au cours du jour, et vous repartez payé. Sans frais, sans engagement.</p>
       <div class="hero__actions reveal">
-        <a href="#produits" class="btn btn--primary">Voir les produits</a>
-        <a href="#contact" class="btn btn--ghost">Demander un devis</a>
+        <a href="#estimation" class="btn btn--primary">Estimer mon or</a>
+        <a href="#grille" class="btn btn--ghost">Voir la grille de rachat</a>
       </div>
       <div class="hero__stats reveal">
-        <div><strong data-count="500">0</strong><span>Tonnes vendues / an</span></div>
-        <div><strong data-count="1200">0</strong><span>Clients satisfaits</span></div>
-        <div><strong data-count="24">0</strong><span>Livraison en 24-48h</span></div>
+        <div><strong data-count="0" data-suffix=" €">0</strong><span>Expertise et estimation gratuites</span></div>
+        <div><strong data-count="24" data-suffix=" h">0</strong><span>Délai légal de rétractation</span></div>
+        <div><strong data-count="100" data-suffix=" %">0</strong><span>Transparence sur le cours appliqué</span></div>
       </div>
     </div>
   </section>
 
-  <section class="section" id="produits">
+  <section class="section" id="grille">
     <div class="container">
-      <p class="eyebrow reveal">Nos produits</p>
-      <h2 class="reveal">Un papier A4 pour chaque besoin</h2>
-      <div class="grid grid--3">
+      <p class="eyebrow reveal">Nos prix</p>
+      <h2 class="reveal">Grille de rachat du jour</h2>
+      <p class="section__lead reveal">Nos prix sont publics et affichés en boutique. Ils suivent le cours de l'or et sont mis à jour chaque jour ouvré.</p>
+
+      <div class="table-wrap reveal">
+        <h3 class="table__title">Bijoux &amp; débris d'or</h3>
+        <table class="price-table">
+          <thead>
+            <tr><th scope="col">Titre de l'or</th><th scope="col">Exemples</th><th scope="col">Prix de rachat</th></tr>
+          </thead>
+          <tbody id="table-alliages"></tbody>
+        </table>
+      </div>
+
+      <div class="table-wrap reveal">
+        <h3 class="table__title">Pièces &amp; lingots</h3>
+        <table class="price-table">
+          <thead>
+            <tr><th scope="col">Produit</th><th scope="col">Caractéristiques</th><th scope="col">Prix de rachat</th></tr>
+          </thead>
+          <tbody id="table-pieces"></tbody>
+        </table>
+      </div>
+
+      <p class="note reveal">Cours indicatif mis à jour le <strong id="maj-date"></strong>. Le prix définitif est confirmé après pesée et test du titre en boutique. Les pièces sont rachetées hors prime de collection ; les pièces rares font l'objet d'une expertise séparée.</p>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="estimation">
+    <div class="container">
+      <p class="eyebrow reveal">Simulateur</p>
+      <h2 class="reveal">Estimez votre or en 30 secondes</h2>
+      <p class="section__lead reveal">Une estimation indicative, immédiate, sans inscription. Elle ne vous engage à rien.</p>
+
+      <div class="simulator reveal">
+        <div class="simulator__tabs" role="tablist" aria-label="Type d'or">
+          <button class="tab is-active" role="tab" id="tab-bijoux" aria-selected="true" aria-controls="panel-bijoux" data-panel="bijoux">Bijoux &amp; débris</button>
+          <button class="tab" role="tab" id="tab-pieces" aria-selected="false" aria-controls="panel-pieces" data-panel="pieces">Pièces &amp; lingots</button>
+        </div>
+
+        <div class="simulator__panel" id="panel-bijoux" role="tabpanel" aria-labelledby="tab-bijoux">
+          <div class="field">
+            <label for="sim-alliage">Titre de l'or</label>
+            <select id="sim-alliage"></select>
+          </div>
+          <div class="field">
+            <label for="sim-poids">Poids total (en grammes)</label>
+            <input type="number" id="sim-poids" min="0" step="0.1" value="10" inputmode="decimal">
+          </div>
+          <p class="hint">Pesez vos bijoux sur une balance de cuisine : c'est suffisant pour une estimation. Retirez les pierres et les fermoirs en acier si possible.</p>
+        </div>
+
+        <div class="simulator__panel is-hidden" id="panel-pieces" role="tabpanel" aria-labelledby="tab-pieces" hidden>
+          <div class="field">
+            <label for="sim-piece">Produit</label>
+            <select id="sim-piece"></select>
+          </div>
+          <div class="field">
+            <label for="sim-quantite">Quantité</label>
+            <input type="number" id="sim-quantite" min="1" step="1" value="1" inputmode="numeric">
+          </div>
+          <p class="hint">Les pièces sont rachetées à leur valeur or. Une pièce en excellent état ou recherchée peut valoir davantage : demandez une expertise.</p>
+        </div>
+
+        <div class="simulator__result" aria-live="polite">
+          <span class="simulator__label">Estimation indicative</span>
+          <strong class="simulator__amount" id="sim-result">0 €</strong>
+          <span class="simulator__detail" id="sim-detail"></span>
+          <a href="#contact" class="btn btn--primary btn--full">Confirmer avec un expert</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="process">
+    <div class="container">
+      <p class="eyebrow reveal">Comment ça marche</p>
+      <h2 class="reveal">Quatre étapes, une seule visite</h2>
+      <ol class="steps">
+        <li class="step reveal">
+          <span class="step__num">1</span>
+          <h3>Vous prenez rendez-vous</h3>
+          <p>Par téléphone ou via le formulaire. Le rendez-vous est gratuit et vous êtes reçu individuellement.</p>
+        </li>
+        <li class="step reveal">
+          <span class="step__num">2</span>
+          <h3>Nous testons et pesons</h3>
+          <p>Test du titre à la pierre de touche ou au spectromètre, pesée sur balance homologuée, devant vous.</p>
+        </li>
+        <li class="step reveal">
+          <span class="step__num">3</span>
+          <h3>Vous recevez une offre ferme</h3>
+          <p>Le détail du calcul vous est remis : poids, titre, cours appliqué, montant net. Libre à vous d'accepter.</p>
+        </li>
+        <li class="step reveal">
+          <span class="step__num">4</span>
+          <h3>Vous êtes payé</h3>
+          <p>Paiement immédiat par virement ou par chèque, avec bordereau d'achat et facture remis sur place.</p>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="rachetons">
+    <div class="container">
+      <p class="eyebrow reveal">Ce que nous rachetons</p>
+      <h2 class="reveal">Tout l'or, quel que soit son état</h2>
+      <div class="grid grid--4">
         <article class="card reveal">
-          <div class="card__icon">📄</div>
-          <h3>Papier A4 80g standard</h3>
-          <p>Le papier de bureau classique, blanc et fluide, idéal pour l'impression quotidienne. Ramette de 500 feuilles.</p>
-          <p class="price">4,90&nbsp;€ / ramette</p>
+          <div class="card__icon">💍</div>
+          <h3>Bijoux</h3>
+          <p>Bagues, alliances, chaînes, bracelets, boucles. Cassés, dépareillés ou démodés : la valeur est dans le métal.</p>
         </article>
         <article class="card reveal">
-          <div class="card__icon">✨</div>
-          <h3>Papier A4 90g premium</h3>
-          <p>Plus épais et plus opaque, parfait pour les documents recto-verso et les impressions haut de gamme.</p>
-          <p class="price">6,50&nbsp;€ / ramette</p>
+          <div class="card__icon">🪙</div>
+          <h3>Pièces d'or</h3>
+          <p>Napoléon, Souverain, Krugerrand, 50 pesos, 20 francs suisses et autres pièces d'investissement.</p>
         </article>
         <article class="card reveal">
-          <div class="card__icon">📦</div>
-          <h3>Carton de 5 ramettes</h3>
-          <p>2500 feuilles A4 80g, le format économique pour les bureaux et les administrations.</p>
-          <p class="price">21,90&nbsp;€ / carton</p>
+          <div class="card__icon">🧱</div>
+          <h3>Lingots &amp; lingotins</h3>
+          <p>De 1 g à 1 kg, avec ou sans bulletin d'essai. Nous vérifions le numéro de série et le poinçon.</p>
+        </article>
+        <article class="card reveal">
+          <div class="card__icon">🦷</div>
+          <h3>Or dentaire &amp; débris</h3>
+          <p>Couronnes, bridges, limailles, plaqué massif. Le titre réel est déterminé par analyse avant toute offre.</p>
         </article>
       </div>
     </div>
   </section>
 
-  <section class="section section--alt" id="pourquoi">
+  <section class="section" id="confiance">
     <div class="container about">
       <div class="about__text reveal">
-        <p class="eyebrow">Pourquoi Montaugem</p>
-        <h2>Simple, fiable, sans surprise</h2>
-        <p>Montaugem, c'est un fournisseur direct de papier A4 qui privilégie la simplicité : des prix clairs, un stock disponible et une livraison rapide partout en France.</p>
+        <p class="eyebrow">Pourquoi Aurelis</p>
+        <h2>Un rachat encadré, sans zone d'ombre</h2>
+        <p>Le rachat d'or est un métier réglementé. Nous appliquons la réglementation à la lettre et nous vous expliquons chaque ligne du calcul — c'est la seule façon de vendre son or sereinement.</p>
         <ul class="check-list">
-          <li>Papier certifié, blancheur et grammage garantis</li>
-          <li>Livraison sous 24 à 48h</li>
-          <li>Tarifs dégressifs pour les commandes en gros volume</li>
+          <li><strong>Grille de prix publique</strong> : le même cours pour tout le monde, affiché en vitrine et sur ce site.</li>
+          <li><strong>Aucun frais</strong> : ni expertise, ni pesée, ni dossier. Le montant annoncé est le montant versé.</li>
+          <li><strong>Pièce d'identité obligatoire</strong> et inscription au registre des achats, comme l'impose la loi.</li>
+          <li><strong>24 heures de rétractation</strong> : vous pouvez revenir sur la vente et récupérer votre or.</li>
+          <li><strong>Fiscalité prise en charge</strong> : nous déclarons et reversons la taxe pour vous.</li>
         </ul>
-        <a href="#contact" class="btn btn--primary">Demander un devis</a>
+        <a href="#contact" class="btn btn--primary">Prendre rendez-vous</a>
       </div>
       <div class="about__visual reveal" aria-hidden="true">
-        <div class="orb"></div>
+        <div class="ingot">
+          <span class="ingot__line">999,9</span>
+          <span class="ingot__line ingot__line--big">OR FIN</span>
+          <span class="ingot__line">AURELIS</span>
+        </div>
       </div>
     </div>
   </section>
 
   <section class="section section--cta">
     <div class="container cta reveal">
-      <h2>Besoin de papier A4 ?</h2>
-      <p>Contactez-nous, réponse sous 24h ouvrées.</p>
-      <a href="#contact" class="btn btn--primary btn--lg">Nous contacter</a>
+      <h2>Curieux de savoir ce que vaut votre or ?</h2>
+      <p>Apportez-le, nous l'expertisons gratuitement. Vous décidez ensuite.</p>
+      <a href="#contact" class="btn btn--primary btn--lg">Demander une estimation</a>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="faq">
+    <div class="container container--narrow">
+      <p class="eyebrow reveal">Questions fréquentes</p>
+      <h2 class="reveal">Ce qu'il faut savoir avant de vendre</h2>
+      <div class="faq">
+        <details class="faq__item reveal">
+          <summary>Quels documents dois-je apporter ?</summary>
+          <p>Une pièce d'identité en cours de validité (carte nationale d'identité, passeport ou titre de séjour) est obligatoire : la loi interdit tout achat d'or à une personne non identifiée. Si vous possédez la facture d'origine ou le bulletin d'essai d'un lingot, apportez-les également.</p>
+        </details>
+        <details class="faq__item reveal">
+          <summary>Comment est calculé le prix proposé ?</summary>
+          <p>Prix = poids réel × titre de l'or × cours de rachat du jour. Nous retirons le poids des pierres, du plaqué et des parties non précieuses. Le calcul détaillé vous est remis par écrit avant que vous décidiez.</p>
+        </details>
+        <details class="faq__item reveal">
+          <summary>Quelle fiscalité s'applique à la vente d'or ?</summary>
+          <p>En France, la vente d'or par un particulier est soumise soit à la taxe forfaitaire sur les métaux précieux (11,5 % du prix de vente), soit, sur option et justificatifs d'achat, au régime des plus-values avec abattement pour durée de détention. Nous prélevons et déclarons la taxe à votre place. Ces informations sont données à titre indicatif : votre situation personnelle peut justifier l'avis d'un conseiller fiscal.</p>
+        </details>
+        <details class="faq__item reveal">
+          <summary>Puis-je changer d'avis après la vente ?</summary>
+          <p>Oui. Vous disposez d'un délai légal de rétractation de 24 heures à compter de la signature du bordereau. Votre or est conservé intact et identifié pendant ce délai ; il vous est restitué en échange du remboursement.</p>
+        </details>
+        <details class="faq__item reveal">
+          <summary>Rachetez-vous le plaqué or ?</summary>
+          <p>Le plaqué contient une quantité d'or trop faible pour être rachetée au détail. En revanche, le vermeil, l'or 9 carats et les débris massifs sont rachetés normalement. En cas de doute, apportez la pièce : le test est gratuit et prend deux minutes.</p>
+        </details>
+        <details class="faq__item reveal">
+          <summary>Faut-il un rendez-vous ?</summary>
+          <p>Ce n'est pas obligatoire, mais c'est recommandé : le rendez-vous garantit qu'un expert vous reçoit sans attente, et il est nécessaire au-delà de 200 g d'or ou pour les lingots.</p>
+        </details>
+      </div>
     </div>
   </section>
 
@@ -105,15 +260,23 @@
     <div class="container contact">
       <div class="contact__info reveal">
         <p class="eyebrow">Contact</p>
-        <h2>Passer une commande</h2>
-        <p>Indiquez-nous la quantité souhaitée, nous revenons vers vous rapidement avec un devis.</p>
-        <div class="contact__detail">
-          <strong>Email</strong>
-          <a href="mailto:contact@montaugem.fr">contact@montaugem.fr</a>
-        </div>
+        <h2>Prendre rendez-vous</h2>
+        <p>Décrivez-nous ce que vous souhaitez vendre — un ordre de grandeur suffit. Nous revenons vers vous sous 24 h ouvrées avec une première estimation et un créneau.</p>
         <div class="contact__detail">
           <strong>Téléphone</strong>
           <a href="tel:+33100000000">+33 1 00 00 00 00</a>
+        </div>
+        <div class="contact__detail">
+          <strong>Email</strong>
+          <a href="mailto:contact@aurelis-or.fr">contact@aurelis-or.fr</a>
+        </div>
+        <div class="contact__detail">
+          <strong>Adresse</strong>
+          <span>12 rue de l'Exemple, 75000 Paris</span>
+        </div>
+        <div class="contact__detail">
+          <strong>Horaires</strong>
+          <span>Du mardi au samedi, 10 h – 18 h 30</span>
         </div>
       </div>
       <form class="contact__form" id="contact-form">
@@ -121,16 +284,33 @@
           <label for="name">Nom</label>
           <input type="text" id="name" name="name" required autocomplete="name">
         </div>
-        <div class="field">
-          <label for="email">Email</label>
-          <input type="email" id="email" name="email" required autocomplete="email">
+        <div class="field field--split">
+          <div>
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required autocomplete="email">
+          </div>
+          <div>
+            <label for="phone">Téléphone</label>
+            <input type="tel" id="phone" name="phone" autocomplete="tel">
+          </div>
         </div>
         <div class="field">
-          <label for="message">Message (quantité souhaitée)</label>
-          <textarea id="message" name="message" rows="5" required></textarea>
+          <label for="type">Ce que vous souhaitez vendre</label>
+          <select id="type" name="type">
+            <option>Bijoux en or</option>
+            <option>Pièces d'or</option>
+            <option>Lingot ou lingotin</option>
+            <option>Or dentaire ou débris</option>
+            <option>Je ne sais pas / plusieurs types</option>
+          </select>
         </div>
-        <button type="submit" class="btn btn--primary btn--full">Envoyer la demande</button>
+        <div class="field">
+          <label for="message">Précisions (poids approximatif, état, questions)</label>
+          <textarea id="message" name="message" rows="4"></textarea>
+        </div>
+        <button type="submit" class="btn btn--primary btn--full">Envoyer ma demande</button>
         <p class="form__status" id="form-status" role="status" aria-live="polite"></p>
+        <p class="form__legal">Vos données servent uniquement à traiter votre demande et ne sont jamais cédées à des tiers.</p>
       </form>
     </div>
   </section>
@@ -139,11 +319,30 @@
 
 <footer class="footer">
   <div class="container footer__inner">
-    <div class="logo logo--footer">
-      <span class="logo__mark">M</span>
-      <span class="logo__text">Montaugem</span>
+    <div class="footer__brand">
+      <div class="logo logo--footer">
+        <span class="logo__mark">A</span>
+        <span class="logo__text">Aurelis<small>Comptoir d'Or</small></span>
+      </div>
+      <p>Achat et rachat d'or au cours du jour. Estimation gratuite, paiement immédiat, transactions enregistrées conformément à la réglementation en vigueur.</p>
     </div>
-    <p>&copy; <span id="year"></span> Montaugem. Site de démonstration.</p>
+    <div class="footer__col">
+      <h4>Le comptoir</h4>
+      <a href="#grille">Grille de rachat</a>
+      <a href="#estimation">Estimation en ligne</a>
+      <a href="#process">Comment ça marche</a>
+      <a href="#faq">Questions fréquentes</a>
+    </div>
+    <div class="footer__col">
+      <h4>Informations</h4>
+      <a href="#contact">Nous contacter</a>
+      <a href="#confiance">Nos engagements</a>
+      <span class="footer__muted">Mentions légales — à compléter</span>
+      <span class="footer__muted">SIREN — à compléter</span>
+    </div>
+  </div>
+  <div class="container footer__bottom">
+    <p>&copy; <span id="year"></span> Aurelis — Comptoir d'Or. Les prix affichés sont indicatifs et ne constituent pas une offre contractuelle.</p>
   </div>
 </footer>
 
