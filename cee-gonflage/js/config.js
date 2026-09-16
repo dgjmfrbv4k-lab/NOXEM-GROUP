@@ -167,3 +167,59 @@ export const AVERTISSEMENT =
   + 'TRA-SE-104 ; le prix du CEE dépend du marché (EMMY) et varie chaque mois. '
   + 'Tout chiffrage doit être validé avec un délégataire CEE et la version de la '
   + 'fiche en vigueur à la date de signature du contrat.';
+
+/* ---------------------------------------------------------------------------
+   Identité Noxem Group : valeurs par défaut de la signature des e-mails.
+   Modifiables dans l'onglet E-mails, puis conservées dans le navigateur.
+   --------------------------------------------------------------------------- */
+export const SIGNATURE_DEFAUT = {
+  signatureNom: 'Aaron Harfi',
+  signatureSociete: 'Noxem Group',
+  signatureTelephone: '',
+  signatureEmail: 'harfiaaron@icloud.com',
+};
+
+/* ---------------------------------------------------------------------------
+   SECONDE OFFRE : bornes de recharge pour véhicules électriques (IRVE).
+
+   ATTENTION — ce n'est PAS le même mécanisme que le gonflage :
+   - le gonflage relève d'une FICHE d'opération standardisée (TRA-SE-104), avec
+     un volume de kWh cumac fixé par l'État et revendu au prix du marché ;
+   - la recharge relève du PROGRAMME ADVENIR, piloté par l'Avere-France et
+     financé par les CEE. C'est une prime à l'investissement : un pourcentage du
+     coût HT, plafonné par point de charge, avec dossier à déposer AVANT travaux
+     et enveloppe budgétaire limitée.
+
+   Conséquences commerciales, à ne jamais contourner dans les e-mails :
+   - la prise en charge est PARTIELLE : on n'écrit jamais « borne gratuite » ;
+   - les parkings privés d'entreprise (flotte et salariés) ne sont plus
+     éligibles depuis le 1er janvier 2023 : la cible est le parking ouvert au
+     public (commerce, centre commercial, hôtel, restaurant) ;
+   - la recharge peut rester payante pour l'usager : c'est même une recette pour
+     le site, à la différence du gonflage qui doit être gratuit ;
+   - les barèmes changent : ils sont ici des valeurs par défaut modifiables, à
+     revalider sur advenir.mobi / avere-france.org avant chaque proposition.
+   --------------------------------------------------------------------------- */
+export const PROGRAMME_RECHARGE = {
+  nom: 'Programme ADVENIR',
+  pilote: 'Avere-France',
+  financement: 'Certificats d’Économies d’Énergie (CEE)',
+  echeance: 'Programme prolongé jusqu’au 31 décembre 2027 (à revérifier).',
+  sources: ['https://advenir.mobi', 'https://www.avere-france.org'],
+  regles: [
+    'Dossier à déposer et à faire valider AVANT le début des travaux.',
+    'Prise en charge partielle : un pourcentage du coût HT, plafonné par point de charge.',
+    'Parkings privés d’entreprise (flotte et salariés) exclus depuis le 1er janvier 2023.',
+    'Cible éligible : parkings ouverts au public — commerces, centres commerciaux, hôtels, restaurants.',
+    'Enveloppe budgétaire limitée : les barèmes et l’éligibilité peuvent évoluer en cours d’année.',
+  ],
+};
+
+/** Barèmes ADVENIR par défaut — À REVALIDER avant toute proposition chiffrée. */
+export const DEFAUTS_RECHARGE = {
+  nbPoints: 4,
+  coutHtParPoint: 3500,
+  tauxPriseEnChargePct: 30,
+  plafondParPoint: 2100,
+  prixFactureClientParPoint: 0,
+};

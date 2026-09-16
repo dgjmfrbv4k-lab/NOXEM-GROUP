@@ -5,13 +5,16 @@
    --------------------------------------------------------------------------- */
 
 :root {
+  /* Charte Noxem Group : bleu nuit institutionnel + cyan d'accent. */
   --fond: #f4f6f8;
   --surface: #ffffff;
   --bordure: #d9e0e7;
-  --texte: #1c2833;
+  --texte: #14202c;
   --texte-doux: #5b6b7b;
-  --primaire: #1f4e79;
-  --primaire-clair: #2f6fa8;
+  --primaire: #0f2942;      /* bleu nuit Noxem */
+  --primaire-clair: #1d4a73;
+  --accent: #00a9b7;        /* cyan Noxem */
+  --accent-sombre: #007f8a;
   --positif: #1b7f5a;
   --vigilance: #9a6700;
   --vigilance-fond: #fff6e0;
@@ -46,8 +49,8 @@ body {
 .entete__inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; padding: 12px 0; }
 .logo { display: flex; align-items: center; gap: 12px; color: #fff; text-decoration: none; }
 .logo__marque {
-  background: #fff; color: var(--primaire); font-weight: 700; letter-spacing: .5px;
-  padding: 6px 10px; border-radius: var(--rayon);
+  background: var(--accent); color: #04222c; font-weight: 800; letter-spacing: 1px;
+  padding: 6px 11px; border-radius: var(--rayon); font-size: 14px;
 }
 .logo__texte { font-weight: 600; line-height: 1.2; }
 .logo__texte small { display: block; font-weight: 400; font-size: 12px; opacity: .8; }
@@ -57,7 +60,7 @@ body {
   font-size: 14px; position: relative;
 }
 .nav a:hover { background: rgba(255, 255, 255, .12); color: #fff; }
-.nav a.actif { background: #fff; color: var(--primaire); font-weight: 600; }
+.nav a.actif { background: var(--accent); color: #04222c; font-weight: 700; }
 .pastille {
   display: inline-block; margin-left: 6px; background: var(--vigilance); color: #fff;
   border-radius: 999px; font-size: 11px; padding: 1px 7px; font-weight: 700;
@@ -127,6 +130,8 @@ fieldset.question legend { font-weight: 600; font-size: 14px; padding: 0 6px; }
 }
 .btn--primaire { background: var(--primaire); color: #fff; }
 .btn--primaire:hover { background: var(--primaire-clair); }
+.btn--accent { background: var(--accent); color: #04222c; }
+.btn--accent:hover { background: var(--accent-sombre); color: #fff; }
 .btn--secondaire { background: #fff; color: var(--primaire); border-color: var(--bordure); }
 .btn--secondaire:hover { border-color: var(--primaire-clair); }
 .btn--danger { color: var(--danger); }
@@ -164,7 +169,7 @@ fieldset.question legend { font-weight: 600; font-size: 14px; padding: 0 6px; }
   display: inline-block; font-weight: 700; padding: 3px 10px; border-radius: 999px;
   font-size: 13px; background: #eef2f6; color: var(--texte-doux);
 }
-.badge-type--A { background: #e7f0fa; color: var(--primaire); }
+.badge-type--A { background: #e4f6f8; color: var(--accent-sombre); }
 .badge-type--B { background: #e6f5ee; color: var(--positif); }
 .badge-type--C { background: #f3eefa; color: #5b3f8c; }
 .resultat__titre { font-weight: 600; margin: 10px 0 2px; }
@@ -191,7 +196,7 @@ fieldset.question legend { font-weight: 600; font-size: 14px; padding: 0 6px; }
 .select-statut { width: auto; min-width: 130px; font-size: 13px; padding: 4px 6px; }
 .select-statut--signe { border-color: var(--positif); color: var(--positif); }
 .select-statut--refuse { border-color: var(--danger); color: var(--danger); }
-.formulaire--large { border-left: 4px solid var(--primaire); }
+.formulaire--large { border-left: 4px solid var(--accent); }
 
 /* --- Dossiers ------------------------------------------------------------- */
 .dossier__entete { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }

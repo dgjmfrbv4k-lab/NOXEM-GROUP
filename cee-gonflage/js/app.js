@@ -7,6 +7,7 @@ import { monter as monterSimulateur } from './views/simulateur.js';
 import { monter as monterClassification } from './views/classification.js';
 import { monter as monterCrm } from './views/crm.js';
 import { monter as monterEmails } from './views/emails-view.js';
+import { monter as monterRecharge } from './views/recharge.js';
 import { monter as monterDossiers } from './views/dossiers.js';
 import { chargerSites } from './storage.js';
 import { echeances } from './dossier.js';
@@ -17,6 +18,7 @@ const VUES = {
   classification: { titre: 'Classification', monter: monterClassification },
   crm: { titre: 'Prospection', monter: monterCrm },
   emails: { titre: 'E-mails', monter: monterEmails },
+  recharge: { titre: 'Bornes de recharge', monter: monterRecharge },
   dossiers: { titre: 'Dossiers CEE', monter: monterDossiers },
 };
 
@@ -42,7 +44,7 @@ function rendre() {
   for (const lien of $$('.nav a')) {
     lien.classList.toggle('actif', lien.dataset.vue === vue);
   }
-  document.title = `${VUES[vue].titre} — Stations de gonflage CEE`;
+  document.title = `${VUES[vue].titre} — Noxem Group`;
   window.scrollTo({ top: 0 });
 }
 
