@@ -67,3 +67,24 @@ test('la requête Overpass cible bien la zone demandée', () => {
   assert.match(r, /\["shop"="supermarket"\]\(area\.zone\)/);
   assert.match(r, /out center tags;/);
 });
+
+test('filtre par catégorie : uniquement les aires d’autoroute', async () => {
+  const { filtrerCategories, CATEGORIES } = await import('../outils/collecte-cibles.mjs');
+  assert.equal(filtrerCategories('').length, CATEGORIES.length);
+  assert.equal(filtrerCategories('aire_service,aire_repos').length, 2);
+  assert.equal(filtrerCategories('A').length, 2);       // les deux catégories de type A
+  assert.equal(filtrerCategories('B').length, 5);
+  assert.throws(() => filtrerCategories('inexistant'), /Catégorie inconnue/);
+});
+
+test('les notes reprennent l’axe, l’exploitant et les coordonnées', async () => {
+  const { versSite } = await import('../outils/collecte-cibles.mjs');
+  const site = versSite({
+    type: 'way', id: 99, center: { lat: 45.7325, lon: 4.8312 },
+    tags: { name: 'Aire de Solaize', highway: 'services', ref: 'A7', operator: 'ASF' },
+  });
+  assert.equal(site.typeCee, 'A');
+  assert.match(site.notes, /Axe \/ référence : A7/);
+  assert.match(site.notes, /Exploitant : ASF/);
+  assert.match(site.notes, /Coordonnées : 45\.73250, 4\.83120/);
+});

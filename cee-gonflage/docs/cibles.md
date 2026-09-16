@@ -164,3 +164,51 @@ long, c'est légal, et le message qui en découle est bien mieux reçu.
 CRM. Au-delà, un domaine récent se fait classer en spam en quelques jours, et un
 domaine grillé ne se répare pas. À ce rythme, la métropole est couverte en six
 semaines, avec une délivrabilité intacte et des réponses réellement traitables.
+
+---
+
+## Annexe — commandes prêtes à lancer
+
+Le script accepte `--categories` pour ne viser qu'une famille de sites. Les commandes
+ci-dessous couvrent la totalité de ce que la fiche rend éligible sur ta zone.
+
+```bash
+cd cee-gonflage
+
+# 1. Tout ce qui est éligible sur la Métropole de Lyon (A + B + C)
+node outils/collecte-cibles.mjs --zone "Métropole de Lyon" --sortie 01-metropole
+
+# 2. Les quatre départements limitrophes, un fichier chacun
+node outils/collecte-cibles.mjs --zone "Rhône"  --sortie 02-rhone
+node outils/collecte-cibles.mjs --zone "Ain"    --sortie 03-ain
+node outils/collecte-cibles.mjs --zone "Isère"  --sortie 04-isere
+node outils/collecte-cibles.mjs --zone "Loire"  --sortie 05-loire
+
+# 3. Uniquement les aires d'autoroute (type A) sur ces zones
+node outils/collecte-cibles.mjs --zone "Rhône" --categories A --sortie aires-rhone
+node outils/collecte-cibles.mjs --zone "Isère" --categories A --sortie aires-isere
+
+# 4. Le corridor A6 / A7 / A46 / A43 autour de Lyon, par emprise géographique
+node outils/collecte-cibles.mjs --bbox 45.45,4.60,46.05,5.20 --categories A --sortie aires-corridor-lyon
+```
+
+Chaque commande écrit un `.json` (import direct dans l'onglet Prospection) et un `.csv`.
+Pour les aires, les notes reprennent **l'axe** (`A7`, `A43`…), **l'exploitant** quand
+OpenStreetMap le connaît, et les **coordonnées GPS** — de quoi préparer une tournée.
+
+Deux repères utiles pour les aires, à recouper sur place :
+
+- l'espacement entre aires est d'environ 15 km sur l'A7, un peu moins sur l'A6 ;
+- l'**aire de Montélimar Ouest** (A7) est la plus grande d'Europe : c'est un site vitrine,
+  mais aussi le plus disputé. À garder pour quand tu auras des références.
+
+**Ne lance pas les cinq commandes d'affilée.** Overpass est un service public partagé :
+une requête, on attend qu'elle finisse, on enchaîne. Sinon le serveur coupe.
+
+## Ce que l'outil ne remplace pas
+
+Il donne les **sites**. Il ne donne pas les **personnes** — et c'est volontaire :
+OpenStreetMap décrit des équipements, pas des dirigeants. Le nom du directeur se
+trouve en appelant l'accueil, en passant sur place, ou sur la page « qui sommes-nous »
+de l'enseigne. C'est ce travail-là qui fait la différence entre un e-mail à `contact@`
+et un e-mail qui obtient un rendez-vous.

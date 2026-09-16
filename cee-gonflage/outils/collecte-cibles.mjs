@@ -87,6 +87,20 @@ export function classifierOsm(tags = {}) {
    2. Construction de la requête Overpass
    -------------------------------------------------------------------------- */
 
+/**
+ * Restreint les catégories recherchées.
+ * @param {string} liste clés séparées par des virgules, ou '' pour tout prendre
+ */
+export function filtrerCategories(liste, categories = CATEGORIES) {
+  if (!liste) return categories;
+  const voulues = liste.split(',').map((c) => c.trim()).filter(Boolean);
+  const retenues = categories.filter((c) => voulues.includes(c.cle) || voulues.includes(c.type));
+  if (!retenues.length) {
+    throw new Error(`Catégorie inconnue. Disponibles : ${categories.map((c) => c.cle).join(', ')} (ou A, B, C).`);
+  }
+  return retenues;
+}
+
 /** Requête Overpass pour une zone nommée (commune, département, métropole). */
 export function requeteParZone(nomZone, categories = CATEGORIES) {
   const corps = categories
@@ -140,8 +154,13 @@ export function versSite(element) {
     dateSignature: '',
     notes: [
       motif,
+      tags.ref ? `Axe / référence : ${tags.ref}` : '',
+      tags.operator ? `Exploitant : ${tags.operator}` : '',
       tags.website ? `Site : ${tags.website}` : '',
       tags.phone ? `Téléphone du site : ${tags.phone}` : '',
+      element.lat || element.center
+        ? `Coordonnées : ${(element.lat ?? element.center.lat).toFixed(5)}, ${(element.lon ?? element.center.lon).toFixed(5)}`
+        : '',
       `Source : OpenStreetMap (${element.type}/${element.id}).`,
     ].filter(Boolean).join(' '),
     eligibilite: {},
@@ -194,13 +213,14 @@ async function principal() {
   const zone = lire('zone', '');
   const bbox = lire('bbox', '');
   const sortie = lire('sortie', 'cibles');
+  const categories = filtrerCategories(lire('categories', ''));
 
   if (!zone && !bbox) {
     console.error('Indiquez une zone : --zone "Métropole de Lyon"  ou  --bbox sud,ouest,nord,est');
     process.exit(1);
   }
 
-  const requete = zone ? requeteParZone(zone) : requeteParBbox(bbox);
+  const requete = zone ? requeteParZone(zone, categories) : requeteParBbox(bbox, categories);
   console.log(`Interrogation d'Overpass pour ${zone || bbox}… (cela peut prendre une minute)`);
 
   const reponse = await fetch(OVERPASS, {
