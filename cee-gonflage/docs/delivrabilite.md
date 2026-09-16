@@ -1,6 +1,7 @@
 # Délivrabilité — diagnostic et mise en conformité
 
-Constat établi le 16/09/2026 à partir de la boîte connectée à l'outil.
+Constat établi le 16/09/2026 à partir de la boîte connectée à l'outil, complété par un
+relevé du DNS public de `noxemgroup.com` (voir « État réel du domaine » plus bas).
 
 ## Ce qui se passe aujourd'hui
 
@@ -36,30 +37,89 @@ compris ceux envoyés à des adresses parfaitement valides.
 `noxemgroup.com` associe ce domaine, encore récent, à un comportement d'envoi dégradé.
 Un domaine grillé ne se répare pas : il se remplace.
 
+## État réel du domaine `noxemgroup.com`
+
+Relevé dans le DNS public. À revérifier après chaque modification :
+
+```bash
+node outils/verifier-domaine.mjs noxemgroup.com
+```
+
+| | Valeur relevée | Verdict |
+|---|---|---|
+| **Hébergeur mail** | `mx10/20/30.antispam.mailspamprotection.com` → SiteGround, via un revendeur (NS : `french-connexion.com`, `domaine.fr`) | — |
+| **SPF** | `v=spf1 +a +mx include:noxemgroup.com.spf.auto.dnssmarthost.net ~all` | présent ✓ |
+| **DKIM** | sélecteur `default`, clé **1024 bits** | présent, mais faible |
+| **DMARC** | `v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com` | présent, sans application |
+
+**Bonne nouvelle : les trois piliers existent déjà.** Le domaine n'est pas nu. Ce n'est
+pas ce qui explique les problèmes rencontrés jusqu'ici — l'envoi se faisait depuis une
+adresse Gmail personnelle, pas depuis ce domaine.
+
+### Le défaut grave : Brevo à moitié configuré
+
+Le DNS porte un `brevo-code:…` de validation, et les rapports DMARC partent vers
+`rua@dmarc.brevo.com`. Un compte **Brevo** a donc été branché sur le domaine. Mais le
+SPF **ne contient pas** `include:spf.brevo.com`, et aucun sélecteur DKIM Brevo n'existe
+(`mail._domainkey`, `brevo._domainkey` : absents).
+
+Conséquence concrète : **tout envoi passant par Brevo échoue à l'authentification.**
+La plateforme affiche le domaine comme validé, l'envoi part, et il arrive en spam ou
+il est rejeté. Deux issues, au choix :
+
+- **Brevo ne sert plus** → retirer le TXT `brevo-code:…` et reprendre la main sur les
+  rapports DMARC (`rua=mailto:dmarc@noxemgroup.com`) ;
+- **Brevo doit servir** → ajouter `include:spf.brevo.com` au SPF et publier la clé DKIM
+  fournie par Brevo.
+
 ## La mise en conformité, dans l'ordre
 
-### 1. Envoyer depuis le bon domaine
+### 1. Corriger les trois enregistrements existants
 
-Configurer `aaron.harfi@noxemgroup.com` comme véritable compte d'envoi, et non comme
-simple signature. Avec Google Workspace, l'adresse professionnelle devient l'expéditeur
-réel et le décalage disparaît.
+À modifier dans la zone DNS, chez le revendeur qui gère `french-connexion.com` /
+`domaine.fr` :
 
-### 2. Publier les trois enregistrements d'authentification
+| Type | Nom | Valeur à poser | Pourquoi |
+|---|---|---|---|
+| TXT | `@` | `v=spf1 +a +mx include:noxemgroup.com.spf.auto.dnssmarthost.net -all` | `~all` → `-all` : le softfail laisse passer les usurpations. À ne passer en `-all` qu'une fois certain qu'aucun autre service n'envoie en votre nom. |
+| TXT | `default._domainkey` | clé **2048 bits** régénérée côté hébergeur | 1024 bits est en fin de vie ; certains fournisseurs commencent à l'ignorer. À demander au support. |
+| TXT | `_dmarc` | `v=DMARC1; p=none; rua=mailto:dmarc@noxemgroup.com; pct=100` | Reprendre les rapports : aujourd'hui ils partent chez Brevo et vous ne les voyez pas. |
 
-À créer dans la zone DNS de `noxemgroup.com`. Les valeurs dépendent de l'hébergeur de
-messagerie ; celles-ci valent pour Google Workspace.
+Puis, après deux à quatre semaines de rapports propres : `p=quarantine`, et enfin
+`p=reject`.
 
-| Type | Nom | Valeur |
-|---|---|---|
-| TXT | `@` | `v=spf1 include:_spf.google.com ~all` |
-| TXT | `google._domainkey` | la clé publique générée dans la console Workspace (Applications → Gmail → Authentifier les e-mails) |
-| TXT | `_dmarc` | `v=DMARC1; p=none; rua=mailto:dmarc@noxemgroup.com; pct=100` |
+### 2. Ne pas envoyer la prospection depuis la boîte principale
 
-Commencer DMARC en `p=none` : cette politique observe sans rien bloquer. Après deux à
-quatre semaines de rapports propres, passer à `p=quarantine`, puis `p=reject`.
+C'est le point structurel, et il découle de l'hébergeur relevé.
 
-Sans ces trois enregistrements, les grands fournisseurs classent d'office un domaine
-récent qui envoie du volume.
+La messagerie est sur une **mutualisée SiteGround**. Deux limites qui comptent :
+
+- le SMTP mutualisé plafonne bas (de l'ordre de quelques centaines de messages par
+  heure), et le démarchage à froid en volume sort de ce que ces offres autorisent ;
+- l'IP d'envoi est **partagée** avec d'autres clients : la réputation ne dépend pas
+  seulement de vous.
+
+`noxemgroup.com` est l'adresse qui reçoit les réponses, signe les devis et porte les
+dossiers CEE. **C'est l'outil de travail des prochaines années — il ne doit jamais
+servir de domaine de test.**
+
+La pratique standard du démarchage à froid en volume : des **domaines secondaires**
+dédiés à l'envoi, qui redirigent vers le site principal. Vérification faite, ils sont
+libres :
+
+| Domaine | État |
+|---|---|
+| `noxem-group.com` | libre |
+| `noxemgroup.fr` | libre |
+| `noxem-group.fr` | libre |
+| `noxemgroup.net` | libre |
+
+**Le montage pour 150 par jour :** 2 domaines secondaires × 2 boîtes chacun = 4 boîtes
+à ~38 messages. Chaque domaine avec son SPF, son DKIM 2048 et son DMARC, chauffé trois
+semaines. Si un domaine secondaire se fait classer, il est remplaçable — le principal
+n'est jamais exposé.
+
+Coût indicatif : une dizaine d'euros par domaine et par an, plus les boîtes.
 
 ### 3. Chauffer le domaine progressivement
 

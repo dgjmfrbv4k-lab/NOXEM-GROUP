@@ -239,6 +239,21 @@ Pour tenir 150 par jour, il manque 3 boîte(s) d'envoi.
 Il répartit en tourniquet et ne dépasse jamais le plafond d'une boîte. Ce qui excède la
 capacité du jour n'est pas envoyé — c'est le principe du plafond.
 
+### Vérifier le domaine avant d'envoyer
+
+```bash
+node outils/verifier-domaine.mjs noxemgroup.com
+```
+
+Relève SPF, DKIM, DMARC et MX dans le DNS public, identifie l'hébergeur mail et classe
+les défauts du plus grave au plus bénin. À passer **avant le premier envoi** et après
+chaque modification DNS. Il détecte notamment le défaut le plus coûteux : une plateforme
+d'envoi validée dans le DNS mais absente du SPF — la plateforme affiche le domaine comme
+validé, l'envoi part, et il échoue à l'authentification.
+
+L'état relevé pour `noxemgroup.com` et les correctifs exacts sont dans
+`docs/delivrabilite.md`.
+
 ### La montée en volume
 
 `volumeConseille(jour)` donne le palier hebdomadaire par boîte : **10 la première
