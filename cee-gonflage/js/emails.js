@@ -25,37 +25,49 @@ export const VARIABLES = {
   '[Type CEE]': 'Type de station retenu (A, B ou C)',
   '[Montant estimé]': 'Montant CEE net estimé par an pour le site',
   '[Votre nom]': 'Votre nom (signature)',
+  '[Votre fonction]': 'Votre fonction (signature)',
   '[Votre société]': 'Votre structure (signature)',
   '[Votre téléphone]': 'Votre téléphone (signature)',
   '[Votre email]': 'Votre e-mail (signature)',
+  '[Votre adresse]': 'Votre adresse postale (signature)',
 };
 
 export const MODELES = [
   {
     id: 'court',
-    nom: '1. Premier contact (court)',
-    description: 'E-mail d\u2019accroche, 30 secondes de lecture. Objectif unique : obtenir un \u00E9change de 15 minutes.',
-    objet: 'Station de gonflage pour vos clients, financée par les CEE',
+    offre: 'gonflage',
+    nom: '1. Premier contact (générique)',
+    description: 'Envoyable tel quel à tout établissement. Le gras porte le sens : le message se comprend en diagonale.',
+    objet: 'Le gonflage gratuit pour vos clients, financé par l\u2019État',
     corps: `Bonjour [Prénom],
 
-Je me permets de vous contacter au sujet de votre parking [nom du site].
+Offrez à vos clients le gonflage gratuit de leurs pneus sur votre parking. L'État en finance l'essentiel.
 
-Le dispositif des Certificats d'Économies d'Énergie (CEE), encadré par l'État, permet de financer une station de gonflage des pneus en libre accès pour vos clients, ainsi que son entretien (fiche officielle TRA-SE-104).
+Le dispositif des Certificats d'Économies d'Énergie, encadré par l'État, finance en grande partie l'installation d'une station de gonflage en libre accès sur votre parking, ainsi que son entretien (fiche officielle TRA-SE-104).
 
-Pour vous, c'est :
-- un service gratuit et visible pour vos clients ;
-- une station entretenue et réparée sous 15 jours en cas de panne ;
-- un coût en grande partie couvert par la prime CEE.
+Concrètement pour [nom du site] :
+- Un service gratuit et visible pour vos clients
+- Entretien assuré par un professionnel, pièces remplacées sous 15 jours
+- Aucune gestion de votre côté, aucun changement dans votre activité
+- Aucun critère de surface, de chiffre d'affaires ni d'ancienneté
 
-Seule condition : que le gonflage reste gratuit pour les usagers.
+Une seule condition : le gonflage doit rester gratuit pour les usagers.
 
-Auriez-vous 15 minutes cette semaine pour que je vous présente le fonctionnement et une estimation pour votre site ?
+15 minutes suffisent pour que je vous présente le dispositif et le montant pris en charge pour votre site.
 
-Bien cordialement,
+Appelez-moi au [Votre téléphone] ou répondez simplement à ce message.
+
+Cordialement,
 
 [Votre nom]
-[Votre société]
-[Votre téléphone]`,
+[Votre fonction] – [Votre société]
+Tél. : [Votre téléphone]
+E-mail : [Votre email]
+Adresse : [Votre adresse]
+
+--
+Montants indicatifs, confirmés avec le délégataire CEE avant signature.
+Message professionnel. Pour ne plus être contacté, répondez « STOP » à ce message.`,
   },
   {
     id: 'detaille',

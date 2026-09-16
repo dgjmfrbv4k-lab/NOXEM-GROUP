@@ -1,109 +1,117 @@
 <!DOCTYPE html>
 <!--
-  Gabarit d'e-mail HTML — Noxem Group, offre « station de gonflage ».
-  Contraintes de messagerie respectées : tableaux, styles en ligne, largeur 600 px,
-  aucune police distante, aucun script. Le texte reste lisible si les images
-  sont bloquées (cas le plus fréquent en prospection à froid).
-  Variables : [Prénom], [nom du site], [Votre nom], [Votre société], [Votre téléphone], [Votre email].
+  E-mail de prospection Noxem Group — offre « station de gonflage ».
+
+  Parti pris : un VRAI e-mail, pas un flyer.
+  - aucun texte en gris clair : tout est en #14202c ou #0f2942, lisible partout ;
+  - pas de gros blocs graphiques : le message se lit en 15 secondes ;
+  - le gras porte le sens : en diagonale, on comprend l'offre sans tout lire ;
+  - un seul appel à l'action, répété en clair (téléphone + réponse au message).
+
+  Variables : [Prénom], [nom du site], [Votre nom], [Votre fonction],
+  [Votre société], [Votre téléphone], [Votre email], [Votre adresse].
 -->
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Station de gonflage pour vos clients, financée par les CEE</title>
+<title>Une station de gonflage gratuite sur votre parking, financée par l'État</title>
 </head>
-<body style="margin:0; padding:0; background:#f4f6f8;">
+<body style="margin:0; padding:0; background:#ffffff;">
 
-<!-- Pré-en-tête : première ligne visible dans la liste des messages -->
+<!-- Pré-en-tête : la ligne affichée après l'objet dans la liste des messages -->
 <div style="display:none; max-height:0; overflow:hidden; opacity:0;">
-  Dispositif CEE encadré par l'État — fiche TRA-SE-104. 15 minutes pour en parler ?
+  Dispositif d'État (CEE) : l'installation et l'entretien financés en grande partie. 15 minutes pour en parler.
 </div>
 
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f4f6f8;">
-<tr><td align="center" style="padding:24px 12px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#ffffff;">
+<tr><td align="center" style="padding:0;">
 
   <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0"
-         style="width:600px; max-width:100%; background:#ffffff; border:1px solid #d9e0e7; border-radius:8px; overflow:hidden;">
+         style="width:600px; max-width:100%; background:#ffffff;">
 
-    <!-- En-tête : texte en HTML (toujours lisible, même images bloquées),
-         illustration en image (seul élément qui a besoin d'être chargé). -->
-    <tr><td style="background:#0f2942; border-top:4px solid #00a9b7; padding:0;">
-      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-        <tr>
-          <td style="padding:22px 8px 22px 32px; vertical-align:middle; font-family:Helvetica,Arial,sans-serif;">
-            <span style="display:inline-block; background:#00a9b7; color:#04222c; font-size:13px; font-weight:bold; letter-spacing:1.5px; padding:5px 10px; border-radius:4px;">NOXEM</span><span style="color:#9fb6c9; font-size:12px; letter-spacing:0.6px;">&nbsp;&nbsp;GROUP</span>
-            <div style="color:#ffffff; font-size:21px; font-weight:bold; line-height:1.25; margin-top:18px;">
-              Station de gonflage<br><span style="color:#00a9b7;">en libre accès</span>
-            </div>
-            <div style="color:#b9cbd9; font-size:12.5px; margin-top:12px;">Financée en grande partie par le dispositif CEE</div>
-            <div style="color:#7e97ab; font-size:11.5px; margin-top:3px;">Fiche officielle TRA-SE-104 — encadrée par l'État</div>
-          </td>
-          <td width="196" align="center" style="padding:16px 22px 16px 0; vertical-align:middle;">
-            <span style="display:inline-block; background:#00a9b7; color:#04222c; font-family:Helvetica,Arial,sans-serif; font-size:10.5px; font-weight:bold; letter-spacing:0.4px; padding:5px 11px; border-radius:11px; white-space:nowrap;">GRATUIT POUR L’USAGER</span>
-            <img src="illustration-borne.png" width="174" alt=""
-                 style="display:block; width:174px; max-width:174px; height:auto; border:0; margin:12px auto 0;">
-          </td>
-        </tr>
-      </table>
+    <!-- Bandeau d'identification, volontairement fin -->
+    <tr><td style="background:#0f2942; padding:14px 28px; font-family:Helvetica,Arial,sans-serif;">
+      <span style="display:inline-block; background:#00a9b7; color:#04222c; font-size:13px; font-weight:bold; letter-spacing:1.6px; padding:4px 9px; border-radius:3px;">NOXEM</span><span style="color:#ffffff; font-size:13px; font-weight:bold; letter-spacing:0.8px;">&nbsp;&nbsp;GROUP</span>
+      <span style="color:#ffffff; font-size:12.5px;">&nbsp;&nbsp;·&nbsp;&nbsp;Dispositif CEE — fiche d'État TRA-SE-104</span>
     </td></tr>
 
-    <!-- Corps -->
-    <tr><td style="padding:28px 32px 8px 32px; font-family:Helvetica,Arial,sans-serif; font-size:15px; line-height:1.6; color:#14202c;">
-      <p style="margin:0 0 16px;">Bonjour [Prénom],</p>
+    <tr><td style="padding:28px 28px 0 28px; font-family:Helvetica,Arial,sans-serif; font-size:16px; line-height:1.6; color:#14202c;">
 
-      <p style="margin:0 0 16px;">Je me permets de vous contacter au sujet de votre parking <strong>[nom du site]</strong>.</p>
+      <p style="margin:0 0 20px;">Bonjour [Prénom],</p>
 
-      <p style="margin:0 0 16px;">
-        Le dispositif des Certificats d'Économies d'Énergie (CEE), encadré par l'État, permet de financer
-        une station de gonflage des pneus en libre accès pour vos clients, ainsi que son entretien
+      <!-- L'accroche : la seule chose qui doit être lue si on ne lit qu'une ligne -->
+      <p style="margin:0 0 20px; font-size:18px; line-height:1.5; color:#0f2942;">
+        <strong>Offrez à vos clients le gonflage gratuit de leurs pneus sur votre parking.
+        L'État en finance l'essentiel.</strong>
+      </p>
+
+      <p style="margin:0 0 20px;">
+        Le dispositif des <strong>Certificats d'Économies d'Énergie</strong>, encadré par l'État,
+        finance <strong>en grande partie</strong> l'installation d'une <strong>station de gonflage
+        en libre accès</strong> sur votre parking, <strong>ainsi que son entretien</strong>
         (fiche officielle TRA-SE-104).
       </p>
 
-      <p style="margin:0 0 10px;">Pour vous, c'est :</p>
-      <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 18px;">
-        <tr><td style="padding:0 10px 8px 0; color:#00a9b7; font-family:Helvetica,Arial,sans-serif; font-size:15px; line-height:1.6;">&#9679;</td>
-            <td style="padding:0 0 8px; font-family:Helvetica,Arial,sans-serif; font-size:15px; line-height:1.6; color:#14202c;">un service gratuit et visible pour vos clients ;</td></tr>
-        <tr><td style="padding:0 10px 8px 0; color:#00a9b7; font-family:Helvetica,Arial,sans-serif; font-size:15px; line-height:1.6;">&#9679;</td>
-            <td style="padding:0 0 8px; font-family:Helvetica,Arial,sans-serif; font-size:15px; line-height:1.6; color:#14202c;">une station entretenue et réparée sous 15 jours en cas de panne ;</td></tr>
-        <tr><td style="padding:0 10px 0 0; color:#00a9b7; font-family:Helvetica,Arial,sans-serif; font-size:15px; line-height:1.6;">&#9679;</td>
-            <td style="padding:0; font-family:Helvetica,Arial,sans-serif; font-size:15px; line-height:1.6; color:#14202c;">un coût en grande partie couvert par la prime CEE.</td></tr>
+      <p style="margin:0 0 12px;"><strong>Concrètement pour [nom du site] :</strong></p>
+
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 22px;">
+        <tr>
+          <td width="26" style="padding:0 0 10px; color:#00868f; font-size:17px; font-weight:bold; line-height:1.5; vertical-align:top;">&#10003;</td>
+          <td style="padding:0 0 10px; font-size:16px; line-height:1.5; color:#14202c;"><strong>Un service gratuit et visible</strong> pour vos clients</td>
+        </tr>
+        <tr>
+          <td width="26" style="padding:0 0 10px; color:#00868f; font-size:17px; font-weight:bold; line-height:1.5; vertical-align:top;">&#10003;</td>
+          <td style="padding:0 0 10px; font-size:16px; line-height:1.5; color:#14202c;"><strong>Entretien assuré par un professionnel</strong>, pièces remplacées <strong>sous 15 jours</strong></td>
+        </tr>
+        <tr>
+          <td width="26" style="padding:0 0 10px; color:#00868f; font-size:17px; font-weight:bold; line-height:1.5; vertical-align:top;">&#10003;</td>
+          <td style="padding:0 0 10px; font-size:16px; line-height:1.5; color:#14202c;"><strong>Aucune gestion de votre côté</strong>, aucun changement dans votre activité</td>
+        </tr>
+        <tr>
+          <td width="26" style="padding:0 0 0; color:#00868f; font-size:17px; font-weight:bold; line-height:1.5; vertical-align:top;">&#10003;</td>
+          <td style="padding:0; font-size:16px; line-height:1.5; color:#14202c;"><strong>Aucun critère</strong> de surface, de chiffre d'affaires ni d'ancienneté</td>
+        </tr>
       </table>
 
-      <!-- La condition, annoncée franchement -->
-      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 20px;">
-        <tr><td style="border-left:3px solid #00a9b7; background:#f2fbfc; padding:12px 16px;
-                       font-family:Helvetica,Arial,sans-serif; font-size:15px; line-height:1.55; color:#14202c;">
-          <strong>Seule condition :</strong> que le gonflage reste gratuit pour les usagers.
+      <!-- La condition, annoncée franchement : elle protège la relation client -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 22px;">
+        <tr><td style="border-left:4px solid #00a9b7; background:#eaf8fa; padding:13px 16px;
+                       font-family:Helvetica,Arial,sans-serif; font-size:16px; line-height:1.5; color:#0f2942;">
+          <strong>Une seule condition : le gonflage doit rester gratuit pour les usagers.</strong>
         </td></tr>
       </table>
 
-      <p style="margin:0 0 22px;">
-        Auriez-vous 15 minutes cette semaine pour que je vous présente le fonctionnement
-        et une estimation pour votre site ?
+      <p style="margin:0 0 20px;">
+        <strong>15 minutes suffisent</strong> pour que je vous présente le dispositif et le montant
+        pris en charge pour votre site.
       </p>
 
-      <p style="margin:0 0 4px;">Bien cordialement,</p>
-    </td></tr>
+      <p style="margin:0 0 26px; font-size:17px; line-height:1.6; color:#0f2942;">
+        <strong>Appelez-moi au <a href="tel:[Votre téléphone sans espaces]" style="color:#0f2942; text-decoration:none;">[Votre téléphone]</a></strong>
+        ou <strong>répondez simplement à ce message</strong>.
+      </p>
 
-    <!-- Signature -->
-    <tr><td style="padding:12px 32px 28px 32px;">
-      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
-        <tr>
-          <td style="border-left:3px solid #00a9b7; padding:2px 0 2px 14px; font-family:Helvetica,Arial,sans-serif; font-size:14px; line-height:1.5; color:#14202c;">
-            <strong style="font-size:15px;">[Votre nom]</strong><br>
-            <span style="color:#5b6b7b;">[Votre société]</span><br>
-            <span style="color:#5b6b7b;">[Votre téléphone] &nbsp;·&nbsp; <a href="mailto:[Votre email]" style="color:#007f8a; text-decoration:none;">[Votre email]</a></span>
-          </td>
-        </tr>
+      <p style="margin:0 0 14px;">Cordialement,</p>
+
+      <!-- Signature -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 28px;">
+        <tr><td style="border-left:4px solid #00a9b7; padding:3px 0 3px 15px; font-family:Helvetica,Arial,sans-serif; font-size:15px; line-height:1.7; color:#14202c;">
+          <strong style="font-size:17px; color:#0f2942;">[Votre nom]</strong><br>
+          <strong style="color:#00868f;">[Votre fonction] – [Votre société]</strong><br>
+          Tél. : <strong>[Votre téléphone]</strong><br>
+          E-mail : <a href="mailto:[Votre email]" style="color:#00868f; text-decoration:none;"><strong>[Votre email]</strong></a><br>
+          Adresse : [Votre adresse]
+        </td></tr>
       </table>
+
     </td></tr>
 
-    <!-- Pied : mentions et désinscription -->
-    <tr><td style="background:#0f2942; padding:16px 32px; font-family:Helvetica,Arial,sans-serif; font-size:11px; line-height:1.6; color:#9fb6c9;">
-      Montants et prises en charge indicatifs, établis sur la fiche TRA-SE-104 et le cours du CEE du mois ;
-      ils sont confirmés avec le délégataire avant toute signature.<br>
-      Message professionnel adressé à [nom du site]. Si vous ne souhaitez plus être contacté,
-      répondez « STOP » à ce message : votre adresse sera retirée de nos relances.
+    <!-- Mentions : sur fond sombre, en texte clair et lisible -->
+    <tr><td style="background:#0f2942; padding:16px 28px; font-family:Helvetica,Arial,sans-serif; font-size:12px; line-height:1.6; color:#dbe6ef;">
+      Montants et prises en charge indicatifs, établis sur la fiche TRA-SE-104 et le cours du CEE
+      du mois ; ils sont confirmés avec le délégataire CEE avant toute signature.<br>
+      Message professionnel. Pour ne plus être contacté, répondez « STOP » à ce message.
     </td></tr>
 
   </table>

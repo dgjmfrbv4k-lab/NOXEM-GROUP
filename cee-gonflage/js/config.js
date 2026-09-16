@@ -174,9 +174,11 @@ export const AVERTISSEMENT =
    --------------------------------------------------------------------------- */
 export const SIGNATURE_DEFAUT = {
   signatureNom: 'Aaron Harfi',
-  signatureSociete: 'Noxem Group',
-  signatureTelephone: '',
-  signatureEmail: 'harfiaaron@icloud.com',
+  signatureFonction: 'Président',
+  signatureSociete: 'NOXEM GROUP',
+  signatureTelephone: '02 59 50 84 59',
+  signatureEmail: 'aaron.harfi@noxemgroup.com',
+  signatureAdresse: '5 chemin du Jubin – 69570 Dardilly',
 };
 
 /* ---------------------------------------------------------------------------

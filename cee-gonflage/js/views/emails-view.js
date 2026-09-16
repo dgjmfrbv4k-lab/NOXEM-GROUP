@@ -8,18 +8,20 @@
 import { MODELES, modele, remplir, variablesManquantes, lienMailto, VARIABLES } from '../emails.js';
 import { chargerSites, chargerParametres, sauverParametres } from '../storage.js';
 import { estimationPourType } from '../classify.js';
-import { DEFAUTS_SIMULATEUR } from '../config.js';
+import { DEFAUTS_SIMULATEUR, SIGNATURE_DEFAUT } from '../config.js';
 import { el, $, vider, euros, copier, notifier } from '../ui.js';
 
 const CHAMPS_SIGNATURE = [
   { cle: 'signatureNom', variable: '[Votre nom]', label: 'Votre nom' },
+  { cle: 'signatureFonction', variable: '[Votre fonction]', label: 'Votre fonction' },
   { cle: 'signatureSociete', variable: '[Votre société]', label: 'Votre structure' },
   { cle: 'signatureTelephone', variable: '[Votre téléphone]', label: 'Votre téléphone' },
   { cle: 'signatureEmail', variable: '[Votre email]', label: 'Votre e-mail' },
+  { cle: 'signatureAdresse', variable: '[Votre adresse]', label: 'Votre adresse' },
 ];
 
 export function monter(racine, requete = {}) {
-  const params = chargerParametres(DEFAUTS_SIMULATEUR);
+  const params = chargerParametres({ ...DEFAUTS_SIMULATEUR, ...SIGNATURE_DEFAUT });
   const sites = chargerSites();
   let siteId = requete.site || sites[0]?.id || '';
   let modeleId = MODELES[0].id;
@@ -66,7 +68,10 @@ export function monter(racine, requete = {}) {
     const site = sites.find((s) => s.id === siteId);
     const valeurs = {};
     for (const c of CHAMPS_SIGNATURE) valeurs[c.variable] = params[c.cle];
-    if (!site) return valeurs;
+    if (!site) {
+      // Version générique : envoyable telle quelle, sans fiche CRM.
+      return { ...valeurs, '[Prénom]': 'Madame, Monsieur', '[nom du site]': 'votre établissement' };
+    }
 
     const estimation = site.typeCee
       ? estimationPourType(site.typeCee, site.nbStations || 1, params.prixBrutEurMWhc, params.margeDelegatairePct)

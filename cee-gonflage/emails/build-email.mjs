@@ -1,9 +1,9 @@
 /**
  * build-email.mjs — remplit le gabarit HTML avec les variables d'une fiche site.
  *
- *   node emails/build-email.mjs --nom "Intermarché X" --prenom Claire > sortie.html
+ *   node emails/build-email.mjs --nom "Carrefour Bron" --prenom Sophie > sortie.html
  *
- * Sans argument, produit la version de démonstration utilisée pour les tests
+ * Sans argument, produit la version de démonstration servant aux tests
  * d'affichage dans les différents clients de messagerie.
  */
 import { readFileSync } from 'node:fs';
@@ -14,48 +14,75 @@ const lire = (cle, defaut) => {
   return i !== -1 && args[i + 1] ? args[i + 1] : defaut;
 };
 
-export const VALEURS_DEMO = {
-  '[Prénom]': lire('prenom', 'Claire'),
-  '[nom du site]': lire('nom', 'Intermarché Vaulx-en-Velin'),
+/** Signature Noxem Group (valeurs réelles, surchargeables en ligne de commande). */
+export const SIGNATURE = {
   '[Votre nom]': lire('signataire', 'Aaron Harfi'),
-  '[Votre société]': lire('societe', 'Noxem Group'),
-  '[Votre téléphone]': lire('telephone', '06 00 00 00 00'),
-  '[Votre email]': lire('email', 'harfiaaron@icloud.com'),
+  '[Votre fonction]': lire('fonction', 'Président'),
+  '[Votre société]': lire('societe', 'NOXEM GROUP'),
+  '[Votre téléphone]': lire('telephone', '02 59 50 84 59'),
+  '[Votre email]': lire('email', 'aaron.harfi@noxemgroup.com'),
+  '[Votre adresse]': lire('adresse', '5 chemin du Jubin – 69570 Dardilly'),
 };
 
-export function construire(valeurs = VALEURS_DEMO, srcImage = 'illustration-borne.png') {
+/**
+ * Valeurs par défaut : version GÉNÉRIQUE, envoyable telle quelle à n'importe
+ * quel établissement. Les options --prenom et --nom produisent la version
+ * personnalisée, qui obtient de bien meilleurs taux de réponse quand le nom
+ * du contact et celui du site sont connus (fiche CRM renseignée).
+ */
+export const VALEURS_GENERIQUES = {
+  '[Prénom]': 'Madame, Monsieur',
+  '[nom du site]': 'votre établissement',
+  ...SIGNATURE,
+};
+
+export const VALEURS_DEMO = {
+  '[Prénom]': lire('prenom', VALEURS_GENERIQUES['[Prénom]']),
+  '[nom du site]': lire('nom', VALEURS_GENERIQUES['[nom du site]']),
+  ...SIGNATURE,
+};
+
+export function construire(valeurs = VALEURS_DEMO) {
   let html = readFileSync(new URL('./email-gonflage.html', import.meta.url), 'utf8');
-  html = html.replace('src="illustration-borne.png"', `src="${srcImage}"`);
+  // Le lien « tel: » ne doit pas contenir d'espaces.
+  html = html.split('[Votre téléphone sans espaces]')
+    .join((valeurs['[Votre téléphone]'] || '').replace(/[^0-9+]/g, ''));
   for (const [variable, valeur] of Object.entries(valeurs)) {
     html = html.split(variable).join(valeur);
   }
   return html;
 }
 
-/** Version texte brut, envoyée en alternative au HTML (clients sans images). */
+/** Version texte brut, envoyée en alternative au HTML (clients sans images ni styles). */
 export function versionTexte(valeurs = VALEURS_DEMO) {
   return `Bonjour ${valeurs['[Prénom]']},
 
-Je me permets de vous contacter au sujet de votre parking ${valeurs['[nom du site]']}.
+1 véhicule sur 3 roule aujourd'hui avec des pneus mal gonflés. Vos clients peuvent y remédier sur votre parking, gratuitement - et l'État en finance l'essentiel.
 
-Le dispositif des Certificats d'Économies d'Énergie (CEE), encadré par l'État, permet de financer une station de gonflage des pneus en libre accès pour vos clients, ainsi que son entretien (fiche officielle TRA-SE-104).
+Je me permets de vous contacter au sujet du parking de ${valeurs['[nom du site]']}.
 
-Pour vous, c'est :
-- un service gratuit et visible pour vos clients ;
-- une station entretenue et réparée sous 15 jours en cas de panne ;
-- un coût en grande partie couvert par la prime CEE.
+Le dispositif des Certificats d'Économies d'Énergie, encadré par l'État, permet de financer en grande partie l'installation d'une station de gonflage en libre accès sur votre parking, ainsi que son entretien (fiche officielle TRA-SE-104).
 
-Seule condition : que le gonflage reste gratuit pour les usagers.
+- Un service visible et gratuit pour vos clients, sur votre parking
+- Entretien assuré par un professionnel, pièces défectueuses remplacées sous 15 jours
+- Aucune gestion de votre côté, aucun changement dans votre activité
+- Aucun critère de surface, de chiffre d'affaires ni d'ancienneté
 
-Auriez-vous 15 minutes cette semaine pour que je vous présente le fonctionnement et une estimation pour votre site ?
+Une seule condition : que le gonflage reste gratuit pour les usagers. C'est la règle du dispositif, et c'est tout.
 
-Bien cordialement,
+15 minutes suffisent pour que je vous présente le fonctionnement et le montant pris en charge pour ${valeurs['[nom du site]']}. Seriez-vous disponible cette semaine ou la suivante ?
+
+Cordialement,
 
 ${valeurs['[Votre nom]']}
-${valeurs['[Votre société]']}
-${valeurs['[Votre téléphone]']} · ${valeurs['[Votre email]']}
+${valeurs['[Votre fonction]']} – ${valeurs['[Votre société]']}
+
+Tél. : ${valeurs['[Votre téléphone]']}
+E-mail : ${valeurs['[Votre email]']}
+Adresse : ${valeurs['[Votre adresse]']}
 
 --
+Sources : ADEME (véhicules mal gonflés), Michelin (surconsommation liée au sous-gonflage).
 Montants indicatifs, confirmés avec le délégataire CEE avant signature.
 Pour ne plus être contacté, répondez « STOP » à ce message.`;
 }
