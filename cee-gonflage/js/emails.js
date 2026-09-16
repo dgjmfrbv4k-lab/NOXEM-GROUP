@@ -34,27 +34,28 @@ export const MODELES = [
   {
     id: 'court',
     nom: '1. Premier contact (court)',
-    description: 'E-mail d’accroche, 30 secondes de lecture. Objectif unique : obtenir un échange.',
-    objet: 'Station de gonflage entretenue pour [nom du site] – dispositif CEE',
+    description: 'E-mail d\u2019accroche, 30 secondes de lecture. Objectif unique : obtenir un \u00E9change de 15 minutes.',
+    objet: 'Station de gonflage pour vos clients, financée par les CEE',
     corps: `Bonjour [Prénom],
 
-Je travaille sur le déploiement de stations de gonflage des pneus en accès libre sur les parkings de la région lyonnaise.
+Je me permets de vous contacter au sujet de votre parking [nom du site].
 
-Ces équipements relèvent d'un dispositif d'État, les Certificats d'Économies d'Énergie (fiche officielle TRA-SE-104), qui en finance en grande partie l'installation et l'entretien.
+Le dispositif des Certificats d'Économies d'Énergie (CEE), encadré par l'État, permet de financer une station de gonflage des pneus en libre accès pour vos clients, ainsi que son entretien (fiche officielle TRA-SE-104).
 
-Pour [Société], concrètement :
-- aucun critère de surface, de chiffre d'affaires ou d'ancienneté : le dispositif est ouvert à tous les parkings concernés ;
-- gonflage gratuit pour vos visiteurs — c'est une condition du dispositif ;
-- entretien assuré par un professionnel, avec remplacement des pièces défectueuses sous 15 jours maximum ;
-- aucune gestion de votre côté, et aucune modification de votre activité.
+Pour vous, c'est :
+- un service gratuit et visible pour vos clients ;
+- une station entretenue et réparée sous 15 jours en cas de panne ;
+- un coût en grande partie couvert par la prime CEE.
 
-Seriez-vous disponible 15 minutes cette semaine ou la suivante ? Je vous présenterais le principe et le montant pris en charge pour [nom du site].
+Seule condition : que le gonflage reste gratuit pour les usagers.
+
+Auriez-vous 15 minutes cette semaine pour que je vous présente le fonctionnement et une estimation pour votre site ?
 
 Bien cordialement,
 
 [Votre nom]
 [Votre société]
-[Votre téléphone] — [Votre email]`,
+[Votre téléphone]`,
   },
   {
     id: 'detaille',
