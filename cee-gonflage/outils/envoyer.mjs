@@ -72,6 +72,30 @@ export function volumeConseille(jour) {
   return paliers[Math.min(semaine, paliers.length) - 1];
 }
 
+/**
+ * Jour de campagne, à partir de la date de premier envoi (jour 1 = le jour
+ * du démarrage). Sert à savoir sur quel palier on se trouve.
+ */
+export function jourDeCampagne(debut, aujourdhui = new Date()) {
+  const d0 = new Date(`${debut}T00:00:00Z`);
+  const d1 = new Date(`${aujourdhui.toISOString().slice(0, 10)}T00:00:00Z`);
+  if (Number.isNaN(d0.getTime())) throw new Error(`Date de début illisible : « ${debut} ».`);
+  return Math.floor((d1 - d0) / 86400000) + 1;
+}
+
+/**
+ * Plafond du jour, imposé par le palier de montée en charge.
+ *
+ * C'est le cœur du « commencer doucement » : le volume autorisé ne dépend pas
+ * de l'envie du jour mais de l'ancienneté de la campagne. Redemander 150 le
+ * troisième jour ne les débloque pas.
+ */
+export function plafondDuJour(campagne, nbBoites, aujourdhui = new Date()) {
+  const jour = jourDeCampagne(campagne.debut, aujourdhui);
+  const parBoite = Math.min(volumeConseille(jour), campagne.capMax ?? CAP_PAR_BOITE);
+  return { jour, parBoite, total: parBoite * nbBoites };
+}
+
 /** Journal des envois : la mémoire de ce qui est déjà parti. */
 export function chargerJournal(fichier) {
   if (!existsSync(fichier)) return { version: 1, envois: [] };
@@ -193,13 +217,21 @@ export async function transport(boite) {
 }
 
 /** Résumé lisible du plan de la journée. */
-export function resumePlan(lots, { demande, disponibles, capParBoite, intervalle }) {
+export function resumePlan(lots, { demande, disponibles, capParBoite, intervalle, palier }) {
   const prevus = lots.reduce((n, l) => n + l.sites.length, 0);
-  const lignes = [
+  const lignes = [];
+  if (palier) {
+    lignes.push(`Jour ${palier.jour} de la campagne — palier : ${palier.parBoite} par boîte.`);
+    if (demande > palier.total) {
+      lignes.push(`Vous avez demandé ${demande} : le palier prime, ce sera ${palier.total}.`);
+    }
+    lignes.push('');
+  }
+  lignes.push(
     `${disponibles} site(s) contactable(s) après journal et liste de suppression.`,
     `${lots.length} boîte(s) d'envoi × ${capParBoite} = ${capacite(lots.map((l) => l.boite), capParBoite)} de capacité aujourd'hui.`,
     `${prevus} message(s) au programme (${demande} demandé(s)).`,
-  ];
+  );
   if (demande > capacite(lots.map((l) => l.boite), capParBoite)) {
     const manque = Math.ceil((demande - capacite(lots.map((l) => l.boite), capParBoite)) / capParBoite);
     lignes.push('');
@@ -257,6 +289,18 @@ async function principal() {
   }
 
   const boites = JSON.parse(readFileSync(fichierBoites, 'utf8'));
+
+  // Mémoire du démarrage : c'est elle qui impose le palier, pas la ligne de commande.
+  const fichierCampagne = `${dossier}/campagne.json`;
+  if (!existsSync(fichierCampagne)) {
+    writeFileSync(fichierCampagne, JSON.stringify(
+      { debut: new Date().toISOString().slice(0, 10), capMax: CAP_PAR_BOITE }, null, 2,
+    ));
+    console.log(`Premier jour de campagne : ${fichierCampagne} vient d'être créé.\n`);
+  }
+  const campagne = JSON.parse(readFileSync(fichierCampagne, 'utf8'));
+  const palier = plafondDuJour(campagne, boites.length);
+
   const fichierJournal = `${dossier}/journal.json`;
   const journal = chargerJournal(fichierJournal);
   const suppression = chargerSuppression(`${dossier}/suppression.txt`);
@@ -264,9 +308,13 @@ async function principal() {
   const data = JSON.parse(readFileSync(fichierSites, 'utf8'));
   const tous = Array.isArray(data) ? data : data.sites || [];
   const candidats = filtrerEnvoyables(selectionner(tous, { statut, quota: Infinity }), { journal, suppression });
-  const lots = repartir(candidats.slice(0, quota), boites, capParBoite);
+  // Le plus contraignant des deux gagne : ce qui est demandé, ou le palier du jour.
+  const retenus = candidats.slice(0, Math.min(quota, palier.total));
+  const lots = repartir(retenus, boites, Math.min(capParBoite, palier.parBoite));
 
-  console.log(resumePlan(lots, { demande: quota, disponibles: candidats.length, capParBoite, intervalle }));
+  console.log(resumePlan(lots, {
+    demande: quota, disponibles: candidats.length, capParBoite, intervalle, palier,
+  }));
 
   if (!envoiReel) {
     console.log('\n--- SIMULATION : rien n\'a été envoyé. Ajoutez --envoyer pour lancer. ---');

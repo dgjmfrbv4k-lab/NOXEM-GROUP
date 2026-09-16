@@ -146,6 +146,10 @@ pas des personnes.
 
 ### Les communes
 
+> La séquence complète pour couvrir la France — l'ordre des départements, les commandes
+> de chaque vague et la boucle quotidienne — est dans **`docs/plan-france.md`**.
+
+
 `outils/collecte-mairies.mjs` constitue la liste des mairies d'un département à partir
 de l'**Annuaire de l'administration** (service-public.fr), avec leur adresse de contact
 officielle :
@@ -254,12 +258,23 @@ validé, l'envoi part, et il échoue à l'authentification.
 L'état relevé pour `noxemgroup.com` et les correctifs exacts sont dans
 `docs/delivrabilite.md`.
 
-### La montée en volume
+### La montée en volume est automatique
 
-`volumeConseille(jour)` donne le palier hebdomadaire par boîte : **10 la première
-semaine, 20 la deuxième, 30 la troisième, 40 ensuite.** Un domaine qui passe de 0 à 150
-en une journée est signalé pour cela seul, indépendamment du contenu. SPF, DKIM et DMARC
-doivent être en place **avant** le premier envoi — voir `docs/delivrabilite.md`.
+`envois/campagne.json` retient la date du premier envoi. À chaque exécution, l'outil en
+déduit le palier du jour : **10 par boîte la première semaine, 20 la deuxième, 30 la
+troisième, 40 ensuite.**
+
+`--quota` est une demande, pas un ordre — **le palier prime** :
+
+```
+Jour 1 de la campagne — palier : 10 par boîte.
+Vous avez demandé 150 : le palier prime, ce sera 40.
+```
+
+C'est voulu : un domaine qui passe de 0 à 150 en une journée est signalé pour cela seul,
+indépendamment du contenu. La commande reste la même tous les jours, et le volume monte
+tout seul. SPF, DKIM et DMARC doivent être en place **avant** le premier envoi — voir
+`docs/delivrabilite.md`.
 
 ## Règles de rédaction des e-mails
 
