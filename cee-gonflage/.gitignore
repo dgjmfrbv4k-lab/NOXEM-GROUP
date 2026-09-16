@@ -1,3 +1,8 @@
 # Dépendance locale, uniquement nécessaire pour régénérer les PNG des e-mails
 # (voir emails/build-banniere.mjs) : npm i playwright-core
 node_modules/
+
+# Envois : identifiants SMTP, journal des envois et liste de suppression.
+# Rien de tout cela ne doit être versionné.
+envois/
+*.eml

@@ -193,6 +193,59 @@ classé en spam en quelques jours. Un domaine grillé ne se répare pas. L'outil
 gagner le temps de rédaction, pas celui de l'envoi : vous restez l'expéditeur, à un
 rythme que les filtres acceptent.
 
+## Envoyer la série du jour (volume élevé)
+
+À 25 ou 50 messages par jour, les `.eml` de `preparer-envois.mjs` restent tenables :
+on relit chaque message avant de l'envoyer. **À 150 par jour, ce n'est plus possible.**
+`outils/envoyer.mjs` prend le relais :
+
+```bash
+# 1. Simulation (comportement par défaut) : rien n'est envoyé, le plan s'affiche
+node outils/envoyer.mjs --sites mairies-69.json --modele mairie --quota 150
+
+# 2. Envoi réel
+node outils/envoyer.mjs --sites mairies-69.json --modele mairie --quota 150 --envoyer
+```
+
+Prérequis : `npm i nodemailer`, et au moins une boîte déclarée dans `envois/boites.json`
+(un exemple est écrit automatiquement à la première exécution). **Les mots de passe ne
+sont jamais dans ce fichier** : il nomme la variable d'environnement qui les contient.
+Le dossier `envois/` est dans `.gitignore`.
+
+### Les trois garde-fous
+
+| Garde-fou | Fichier | Effet |
+|---|---|---|
+| **Journal** | `envois/journal.json` | Réécrit après *chaque* message. Une adresse déjà contactée ne repart jamais, même si la commande est relancée ou interrompue. |
+| **Suppression** | `envois/suppression.txt` | Une adresse par ligne (réponses « STOP », erreurs définitives). Jamais recontactée. |
+| **Rythme** | `--intervalle` (90 s par défaut) | Délai variable entre deux messages. Une cadence parfaitement régulière est une signature d'automate. |
+
+### 150 par jour : ajouter des boîtes, pas pousser une seule
+
+`CAP_PAR_BOITE` vaut **40**. Ce n'est pas la limite du fournisseur (Google Workspace
+accepte 2 000 destinataires externes par jour) : c'est le seuil au-delà duquel une boîte
+qui fait de la prospection à froid se fait repérer. Toutes les plateformes de cold
+e-mailing tournent entre 30 et 50 par boîte et par jour.
+
+**150 par jour = 4 boîtes à ~38.** L'outil le dit lui-même :
+
+```
+1 boîte(s) d'envoi × 40 = 40 de capacité aujourd'hui.
+40 message(s) au programme (150 demandé(s)).
+
+Pour tenir 150 par jour, il manque 3 boîte(s) d'envoi.
+```
+
+Il répartit en tourniquet et ne dépasse jamais le plafond d'une boîte. Ce qui excède la
+capacité du jour n'est pas envoyé — c'est le principe du plafond.
+
+### La montée en volume
+
+`volumeConseille(jour)` donne le palier hebdomadaire par boîte : **10 la première
+semaine, 20 la deuxième, 30 la troisième, 40 ensuite.** Un domaine qui passe de 0 à 150
+en une journée est signalé pour cela seul, indépendamment du contenu. SPF, DKIM et DMARC
+doivent être en place **avant** le premier envoi — voir `docs/delivrabilite.md`.
+
 ## Règles de rédaction des e-mails
 
 À respecter pour toute modification de `js/emails.js` :
