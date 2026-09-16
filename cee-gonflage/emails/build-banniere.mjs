@@ -16,6 +16,7 @@ import { chromium } from 'playwright-core';
 
 const SORTIES = [
   { svg: 'illustration-borne.svg', png: 'illustration-borne.png', largeur: 200, hauteur: 150, echelle: 1.5 },
+  { svg: 'scene-parking.svg', png: 'scene-parking.png', largeur: 416, hauteur: 120, echelle: 1 },
   { svg: 'banniere-gonflage.svg', png: 'banniere-gonflage.png', largeur: 620, hauteur: 200, echelle: 2 },
 ];
 
@@ -33,7 +34,7 @@ for (const sortie of SORTIES) {
   await page.setContent(`<body style="margin:0">${svg}</body>`);
   const png = await page.screenshot({
     clip: { x: 0, y: 0, width: sortie.largeur, height: sortie.hauteur },
-    omitBackground: sortie.svg.startsWith('illustration'),
+    omitBackground: sortie.svg.startsWith('illustration') || sortie.svg.startsWith('scene'),
   });
   writeFileSync(new URL(`./${sortie.png}`, import.meta.url), png);
   console.log(`${sortie.png} : ${sortie.largeur * sortie.echelle}x${sortie.hauteur * sortie.echelle}, ${(png.length / 1024).toFixed(1)} Ko`);

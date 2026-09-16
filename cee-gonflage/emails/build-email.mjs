@@ -36,6 +36,23 @@ export const VALEURS_GENERIQUES = {
   ...SIGNATURE,
 };
 
+/**
+ * Lien du bouton « Réserver 15 minutes ».
+ * Tant qu'aucun agenda en ligne n'est branché (Calendly, plages de rendez-vous
+ * Google Agenda...), on retombe sur un message pré-rempli : le prospect envoie
+ * ses disponibilités en un clic. Passer --rdv <url> pour brancher l'agenda.
+ */
+export function lienReservation(valeurs = SIGNATURE) {
+  const url = lire('rdv', '');
+  if (url) return url;
+  const objet = encodeURIComponent('Réservation d\u2019un créneau de 15 minutes');
+  const corps = encodeURIComponent(
+    'Bonjour,\n\nJe souhaite réserver un créneau de 15 minutes au sujet de la station de gonflage.\n\n'
+    + 'Mes disponibilités :\n- \n- \n\nÉtablissement :\nVille :\nTéléphone :\n',
+  );
+  return `mailto:${valeurs['[Votre email]']}?subject=${objet}&body=${corps}`;
+}
+
 export const VALEURS_DEMO = {
   '[Prénom]': lire('prenom', VALEURS_GENERIQUES['[Prénom]']),
   '[nom du site]': lire('nom', VALEURS_GENERIQUES['[nom du site]']),
@@ -47,6 +64,7 @@ export function construire(valeurs = VALEURS_DEMO) {
   // Le lien « tel: » ne doit pas contenir d'espaces.
   html = html.split('[Votre téléphone sans espaces]')
     .join((valeurs['[Votre téléphone]'] || '').replace(/[^0-9+]/g, ''));
+  html = html.split('[lien de réservation]').join(lienReservation(valeurs));
   for (const [variable, valeur] of Object.entries(valeurs)) {
     html = html.split(variable).join(valeur);
   }

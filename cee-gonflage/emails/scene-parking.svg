@@ -1,0 +1,42 @@
+<!--
+  Visuel de bas d'e-mail : la scène complète — un véhicule, la borne de
+  gonflage reliée au pneu par son flexible. Tracé original Noxem Group.
+  Le flexible relie visuellement la borne au pneu : l'usage se comprend
+  sans légende.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" width="520" height="150" role="img"
+     aria-label="Un véhicule, une borne de gonflage reliée à un pneu">
+  <g fill="none" stroke="#00a9b7" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+
+    <path d="M20 124 H500" stroke="#1d4a73" stroke-width="5"/>
+
+    <!-- Véhicule (profil) -->
+    <path d="M40 104 C38 88 46 82 62 78 C76 62 98 56 124 56 C150 56 168 62 182 74 L210 82
+             C226 86 236 92 236 102 C236 106 233 108 229 108 L224 108"/>
+    <path d="M40 104 H58"/>
+    <path d="M94 104 H170"/>
+    <path d="M206 104 H226"/>
+    <path d="M86 76 C94 66 108 61 122 61 L122 76 Z" stroke="#7fd9e1" stroke-width="2"/>
+    <path d="M132 61 C150 61 164 67 174 76 L132 76 Z" stroke="#7fd9e1" stroke-width="2"/>
+    <circle cx="76" cy="109" r="15"/>
+    <circle cx="76" cy="109" r="6" stroke="#7fd9e1"/>
+    <circle cx="188" cy="109" r="15"/>
+    <circle cx="188" cy="109" r="6" stroke="#7fd9e1"/>
+
+    <!-- Borne de gonflage -->
+    <rect x="296" y="48" width="36" height="76" rx="6"/>
+    <rect x="304" y="56" width="21" height="16" rx="3" stroke="#7fd9e1"/>
+    <path d="M308 66 l4 -6 4 4 4 -6" stroke="#7fd9e1" stroke-width="1.8"/>
+    <circle cx="310" cy="82" r="3.2" stroke="#7fd9e1"/>
+    <circle cx="322" cy="82" r="3.2" stroke="#7fd9e1"/>
+    <circle cx="314" cy="100" r="8"/>
+
+    <!-- Flexible : de l'enrouleur jusqu'à la valve du pneu -->
+    <path d="M322 100 C346 98 362 102 376 108"/>
+    <path d="M376 108 l8 -3" stroke-width="3"/>
+
+    <!-- Pneu -->
+    <circle cx="428" cy="96" r="28" stroke="#7fd9e1"/>
+    <circle cx="428" cy="96" r="12" stroke="#7fd9e1"/>
+  </g>
+</svg>
