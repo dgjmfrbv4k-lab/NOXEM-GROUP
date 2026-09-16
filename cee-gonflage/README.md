@@ -115,6 +115,19 @@ cee-gonflage/
 └── tests/                  tests Node natifs
 ```
 
+## Cibler les bons clients
+
+`outils/simuler-profils.mjs` chiffre chaque profil de client avec le moteur de calcul
+et les classe par marge rapportée à l'effort commercial :
+
+```bash
+node outils/simuler-profils.mjs
+node outils/simuler-profils.mjs --prix 9 --entretien 250 --md > docs/simulations.md
+```
+
+Le tableau produit est dans `docs/simulations.md`. Il répond à une question de
+prospection : à temps commercial égal, quel type de client rapporte le plus ?
+
 ## Constituer la liste de prospects
 
 `outils/collecte-cibles.mjs` interroge OpenStreetMap et produit la liste des sites
