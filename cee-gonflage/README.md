@@ -141,3 +141,20 @@ JSON régulièrement : vider les données du navigateur efface le CRM.
 - La fiche TRA-SE-104 est ancienne : elle peut être révisée ou abrogée. Vérifier la version
   en vigueur avant chaque campagne.
 - Un dossier non conforme peut entraîner l'annulation des CEE lors d'un contrôle du PNCEE.
+
+## Gabarit d'e-mail HTML (dossier `emails/`)
+
+| Fichier | Rôle |
+|---|---|
+| `email-gonflage.html` | Gabarit HTML de l'e-mail de premier contact (tableaux, styles en ligne, 600 px). |
+| `build-email.mjs` | Remplit les variables et produit la version texte : `node emails/build-email.mjs --nom "Carrefour Bron" --prenom Sophie > sortie.html`. |
+| `illustration-borne.svg` / `.png` | Illustration de la borne, seul élément en image. |
+| `banniere-gonflage.svg` / `.png` | Bandeau complet avec texte, pour la plaquette ou les réseaux sociaux. |
+| `build-banniere.mjs` | Régénère les PNG depuis les SVG (`npm i playwright-core` au préalable). |
+
+**Parti pris :** le texte de l'en-tête est en HTML, pas dans l'image. En prospection à froid,
+la plupart des messageries bloquent les images par défaut : le message doit rester entièrement
+lisible sans elles. Seule l'illustration est une image, et elle porte un `alt` vide pour ne pas
+polluer la lecture quand elle ne se charge pas.
+
+Les visuels sont des tracés originaux : aucune photo tierce, aucun droit à acquérir.

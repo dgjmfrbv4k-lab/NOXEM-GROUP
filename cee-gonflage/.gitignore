@@ -1,0 +1,3 @@
+# Dépendance locale, uniquement nécessaire pour régénérer les PNG des e-mails
+# (voir emails/build-banniere.mjs) : npm i playwright-core
+node_modules/
