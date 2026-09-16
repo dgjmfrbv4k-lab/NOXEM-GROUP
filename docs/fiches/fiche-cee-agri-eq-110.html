@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Fiche CEE AGRI-EQ-110 — mémo opérationnel</title>
+<style>
+  @page { size: A4; margin: 12mm 12mm 8mm 12mm; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; font-size:8.05pt; line-height:1.33; color:#1d2320; }
+  h1,h2,h3 { margin:0; font-weight:700; }
+  p { margin:0 0 5px; } ul { margin:0 0 5px; padding-left:14px; } li { margin-bottom:2px; }
+
+  .head { display:flex; justify-content:space-between; align-items:flex-start;
+          border-bottom:3px solid #1a6b4a; padding-bottom:7px; margin-bottom:10px; }
+  .brand { font-size:14pt; font-weight:800; letter-spacing:1.1px; color:#1a6b4a; }
+  .brand small { display:block; font-size:7.2pt; font-weight:500; letter-spacing:2.1px; color:#6b7671; margin-top:2px; }
+  .head__meta { text-align:right; font-size:7.5pt; color:#6b7671; line-height:1.6; }
+  .tag { display:inline-block; background:#1a6b4a; color:#fff; font-size:7pt; font-weight:700;
+         letter-spacing:.8px; padding:3px 8px; border-radius:3px; }
+
+  .ref { background:#1a6b4a; color:#fff; border-radius:5px; padding:7px 11px; margin-bottom:8px; }
+  .ref .code { font-size:13.5pt; font-weight:800; letter-spacing:1px; }
+  .ref .lib { font-size:8.4pt; margin-top:2px; opacity:.95; }
+
+  .row { display:flex; gap:8px; margin-bottom:6px; page-break-inside:avoid; }
+  .col { flex:1; }
+  .box { border:1px solid #d9e2dd; border-radius:5px; padding:7px 9px; background:#fff; }
+  .box--soft { background:#f4f8f6; border-color:#cfe0d7; }
+  .box--warn { background:#fff8f2; border-color:#f0d2b4; }
+  h2.sec { font-size:9.1pt; color:#1a6b4a; text-transform:uppercase; letter-spacing:.9px;
+           margin:0 0 6px; padding-bottom:4px; border-bottom:1px solid #d9e2dd; }
+  h3.sub { font-size:8.8pt; margin-bottom:3px; }
+
+  table { width:100%; border-collapse:collapse; font-size:7.9pt; page-break-inside:avoid; }
+  th,td { text-align:left; padding:3px 7px; border-bottom:1px solid #e4ebe7; }
+  th { background:#eef4f1; font-size:7.6pt; text-transform:uppercase; letter-spacing:.5px; color:#3c4a44; }
+  td.num { text-align:right; font-variant-numeric:tabular-nums; }
+  tr.grp td { background:#f7faf8; font-weight:700; font-size:8pt; color:#1a6b4a; }
+
+  .formula { background:#eef4f1; border-left:3px solid #1a6b4a; padding:6px 9px; border-radius:0 4px 4px 0;
+             font-size:8.4pt; margin-bottom:5px; }
+  .chk { color:#8a7d24; background:#fdf7d8; padding:0 3px; border-radius:2px; font-style:italic; }
+  .legal { font-size:6.4pt; color:#8a938e; line-height:1.4; margin-top:5px; border-top:1px solid #e4ebe7; padding-top:5px; }
+  .src { font-size:7.1pt; color:#47524d; }
+  .src b { color:#1a6b4a; }
+</style>
+</head>
+<body>
+
+<div class="head">
+  <div><div class="brand">NOXEM GROUP<small>EFFICACITÉ ÉNERGÉTIQUE</small></div></div>
+  <div class="head__meta">
+    <span class="tag">MÉMO CEE · AGRICULTURE</span><br>
+    Document de travail interne — 16/09/2026<br>
+    À vérifier sur la fiche officielle avant usage client
+  </div>
+</div>
+
+<div class="ref">
+  <div class="code">AGRI-EQ-110</div>
+  <div class="lib">Séchage solaire par insufflation des produits et co-produits agricoles et forestiers
+  utilisant des panneaux solaires hybrides</div>
+</div>
+
+<div class="row">
+  <div class="col box box--soft">
+    <h2 class="sec">Ce que la fiche couvre</h2>
+    <p>Secteur <b>AGRICULTURE</b>. Installation d'un séchage par <b>insufflation d'air</b> alimenté par des panneaux
+    solaires hybrides (photovoltaïque + thermique), pour une exploitation agricole ou forestière disposant d'un <b>bâtiment fermé</b>.</p>
+    <h3 class="sub">Deux configurations éligibles</h3>
+    <ul style="margin-bottom:0;">
+      <li><b>① Système complet neuf</b> — séchage solaire basse température (25–40 °C) : panneaux hybrides + ventilateur(s)
+      + caisson d'aspiration et caisson de compression.</li>
+      <li><b>② Toiture seule</b> — toiture en panneaux hybrides raccordée au réseau aéraulique d'un <b>séchoir existant</b>
+      (haute température, 60–80 °C). Barème nettement plus faible.</li>
+    </ul>
+  </div>
+  <div class="col box box--warn">
+    <h2 class="sec">⚠ Ce que la fiche ne couvre pas</h2>
+    <p>L'usage est <b>le séchage par insufflation</b>, et rien d'autre. Ne sont <b>pas</b> couverts par AGRI-EQ-110 :</p>
+    <ul>
+      <li>l'eau chaude de la salle de traite et du lavage du tank ;</li>
+      <li>le chauffage des bâtiments d'élevage (porc, volaille) ;</li>
+      <li>le chauffage de serres.</li>
+    </ul>
+    <p style="margin-bottom:0;">Ces usages relèvent d'une autre fiche ou d'une <b>opération spécifique</b>.
+    Et la <b>production d'électricité photovoltaïque n'ouvre jamais droit aux CEE</b> : ici le calcul ne porte que sur
+    la <b>puissance thermique</b>, même si le panneau hybride est obligatoire.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col box">
+    <h2 class="sec">Conditions techniques de délivrance</h2>
+    <ul style="margin-bottom:0;">
+      <li><b>Certification photovoltaïque</b> — panneaux certifiés <b>IEC 61215</b> et <b>IEC 61730</b>.</li>
+      <li><b>Performance thermique</b> — puissance thermique mesurée selon <b>ISO 9806</b> ou selon la norme européenne <b>ETV</b>.</li>
+      <li><b>Productivité minimale</b> — <b>≥ 500 W/m²</b> de surface d'entrée des capteurs, obtenue en additionnant
+      la puissance électrique (IEC 61215) et la puissance thermique (ISO 9806).</li>
+      <li><b>Preuve de réalisation</b> — la facture doit mentionner les équipements installés, leurs <b>marques et
+      références</b>, ainsi que le <b>type de système</b> mis en place.</li>
+    </ul>
+  </div>
+  <div class="col box">
+    <h2 class="sec">Calcul du volume de CEE</h2>
+    <div class="formula">kWh cumac = <b>Puissance thermique installée (kW)</b> × <b>coefficient</b> (zone climatique × filière)</div>
+    <ul style="margin-bottom:0;">
+      <li>La puissance thermique installée est celle mesurée <b>ISO 9806 / ETV</b> — pas la puissance crête PV.</li>
+      <li>Zones climatiques : <b>H1</b> (Nord, Est, montagne), <b>H2</b> (Ouest, Centre, Sud-Ouest), <b>H3</b> (pourtour méditerranéen).</li>
+      <li><b>Zones non interconnectées</b> (Corse, DOM) : le volume de kWh cumac calculé est <b>multiplié par 2</b>.</li>
+    </ul>
+  </div>
+</div>
+
+<h2 class="sec">Barème — kWh cumac par kW de puissance thermique installée</h2>
+<table>
+  <tr><th>Filière / configuration</th><th style="text-align:right">Zone H1</th><th style="text-align:right">Zone H2</th><th style="text-align:right">Zone H3</th></tr>
+  <tr class="grp"><td colspan="4">① Système complet de séchage neuf</td></tr>
+  <tr><td>Produits et co-produits <b>agricoles</b></td><td class="num"><span class="chk">42 700</span></td><td class="num">48 500</td><td class="num"><span class="chk">55 700</span></td></tr>
+  <tr><td>Produits et co-produits <b>forestiers</b></td><td class="num">102 600</td><td class="num">116 600</td><td class="num">134 100</td></tr>
+  <tr class="grp"><td colspan="4">② Toiture hybride couplée à un séchoir existant</td></tr>
+  <tr><td>Produits et co-produits <b>agricoles</b></td><td class="num" colspan="3" style="text-align:center"><span class="chk">valeurs à relever sur la fiche officielle</span></td></tr>
+  <tr><td>Produits et co-produits <b>forestiers</b></td><td class="num" colspan="3" style="text-align:center"><span class="chk">16 900 à 24 100 selon la zone</span></td></tr>
+</table>
+<p style="font-size:7.1pt; color:#8a938e; margin-top:4px;">
+Les valeurs <span class="chk">surlignées</span> n'ont pas pu être confirmées directement sur le texte officiel (accès réseau restreint) :
+elles proviennent de sources secondaires ou sont déduites de la fourchette publiée (42 700 – 55 700 pour la filière agricole).
+<b>Relever le barème complet sur la fiche officielle avant tout chiffrage client.</b>
+La filière forestière est valorisée environ 2,4 fois plus que la filière agricole.</p>
+
+<div class="row">
+  <div class="col box box--soft">
+    <h2 class="sec">Points de vigilance dossier</h2>
+    <ul style="margin-bottom:0;">
+      <li><b>Antériorité</b> — l'offre CEE (rôle actif et incitatif de l'obligé) doit être acceptée par l'exploitant
+      <b>avant la signature du devis</b>. Aucune régularisation possible après coup.</li>
+      <li><b>Période en cours</b> — 6<sup>e</sup> période CEE, du 01/01/2026 au 31/12/2030 (décret n° 2025-1048).
+      Les barèmes évoluent par arrêté : vérifier la version <b>en vigueur à la date de signature du devis</b>.</li>
+      <li><b>Durée de vie conventionnelle / arrêté créant la fiche</b> : <span class="chk">à relever sur le document officiel</span>.</li>
+      <li><b>Valorisation</b> — le prix du kWh cumac se négocie avec l'obligé ; il ne figure pas dans la fiche.</li>
+    </ul>
+  </div>
+  <div class="col box">
+    <h2 class="sec">Où récupérer le texte officiel</h2>
+    <p class="src"><b>ATEE — Club C2E, secteur Agriculture</b> (PDF de la fiche et de sa fiche de calcul) :<br>
+    atee.fr/efficacite-energetique/club-c2e/fiches-doperations-standardisees/agriculture</p>
+    <p class="src"><b>Legifrance</b> — arrêté définissant les opérations standardisées, rechercher « AGRI-EQ-110 » :<br>
+    legifrance.gouv.fr</p>
+    <p class="src" style="margin-bottom:0;"><b>Ministère de la Transition écologique</b> — liste consolidée des fiches
+    d'opérations standardisées : ecologie.gouv.fr</p>
+    <p class="src" style="margin-top:6px; color:#8a938e;">Ces trois sources font foi. Les comparateurs et sites d'obligés
+    reprennent les barèmes mais ne sont pas opposables.</p>
+  </div>
+</div>
+
+<p class="legal">Mémo interne NOXEM GROUP à usage commercial, établi le 16/09/2026 à partir de sources publiques secondaires,
+l'accès aux serveurs officiels étant restreint depuis l'environnement de rédaction. Il ne se substitue pas à la fiche
+d'opération standardisée AGRI-EQ-110 publiée par arrêté. Aucun montant de prime ne doit être annoncé à un exploitant sans
+vérification du barème en vigueur à la date de signature du devis et sans confirmation de la puissance thermique installée
+mesurée selon ISO 9806 / ETV.</p>
+
+</body>
+</html>
