@@ -28,7 +28,7 @@
  */
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
-import { construire, versionTexte, modele } from '../emails/build-email.mjs';
+import { construire, versionTexte, modele, MODELES } from '../emails/build-email.mjs';
 import { valeursPour, selectionner } from './preparer-envois.mjs';
 
 /**
@@ -103,10 +103,46 @@ export function chargerJournal(fichier) {
   return { version: 1, envois: data.envois || [] };
 }
 
-/** Une adresse déjà contactée avec succès ne repart jamais. */
-export function dejaTraite(journal, email) {
+/**
+ * Envois réussis pour une adresse, par type.
+ * Les entrées anciennes n'ont pas de champ `type` : ce sont des premiers envois.
+ */
+export function envoisReussis(journal, email) {
   const cle = String(email || '').toLowerCase();
-  return journal.envois.some((e) => e.email.toLowerCase() === cle && e.statut === 'ok');
+  return journal.envois
+    .filter((e) => e.email.toLowerCase() === cle && e.statut === 'ok')
+    .map((e) => ({ ...e, type: e.type || 'premier' }));
+}
+
+/** Une adresse déjà contactée une première fois ne repart jamais en premier envoi. */
+export function dejaTraite(journal, email) {
+  return envoisReussis(journal, email).some((e) => e.type === 'premier');
+}
+
+/**
+ * Sites à relancer : contactés il y a au moins `joursMin` jours, jamais
+ * relancés, et pas sur la liste de suppression.
+ *
+ * La relance est ce qui rapporte le plus en prospection froide — l'essentiel
+ * des réponses arrive après le deuxième message, pas après le premier. Mais
+ * une seule : au-delà, on fabrique des plaintes, pas des rendez-vous.
+ */
+export function candidatsRelance(sites, { journal, suppression, joursMin = 10, aujourdhui = new Date() }) {
+  return sites.map((site) => {
+    const email = String(site.contactEmail || '').toLowerCase();
+    if (!email.includes('@') || suppression.has(email)) return null;
+
+    const envois = envoisReussis(journal, email);
+    const premier = envois.find((e) => e.type === 'premier');
+    if (!premier) return null;                                   // jamais contacté
+    if (envois.some((e) => e.type === 'relance')) return null;    // déjà relancé
+
+    const jours = Math.floor((aujourdhui - new Date(premier.date)) / 86400000);
+    if (jours < joursMin) return null;                            // trop tôt
+
+    // On reprend le fil du premier message : la relance s'affichera dessous.
+    return { ...site, _fil: { messageId: premier.messageId, objet: premier.objet, jours } };
+  }).filter(Boolean);
 }
 
 /** Liste de suppression : une adresse par ligne, les vides et # ignorés. */
@@ -169,17 +205,35 @@ export function pause(intervalleSecondes, jitterPct = 40, alea = Math.random) {
   return Math.round(base - variation / 2 + alea() * variation);
 }
 
-/** Construit le message pour un site donné. */
+/**
+ * Construit le message pour un site donné.
+ *
+ * En relance, le message est rattaché au fil du premier envoi (In-Reply-To /
+ * References) et reprend son objet préfixé de « Re: ». Le destinataire le voit
+ * alors sous l'original, comme une conversation reprise — pas comme une
+ * deuxième sollicitation isolée.
+ */
 export function messagePour(site, nomModele, boite) {
   const valeurs = valeursPour(site);
   const gabarit = modele(nomModele);
-  return {
+  const fil = site._fil;
+
+  const message = {
     from: `${boite.nom} <${boite.de}>`,
     to: site.contactEmail,
     subject: gabarit.objet,
     text: versionTexte(valeurs, nomModele),
     html: construire(valeurs, nomModele),
   };
+
+  if (gabarit.relance && fil) {
+    if (fil.objet) message.subject = /^Re\s*:/i.test(fil.objet) ? fil.objet : `Re: ${fil.objet}`;
+    if (fil.messageId) {
+      message.inReplyTo = fil.messageId;
+      message.references = [fil.messageId];
+    }
+  }
+  return message;
 }
 
 /** Pièces jointes liées (images en cid:), communes à tous les messages. */
@@ -269,10 +323,12 @@ async function principal() {
   const dossier = lire('dossier', 'envois');
   const envoiReel = drapeau('envoyer');
 
+  let gabarit;
   try {
-    modele(nomModele);
+    gabarit = modele(nomModele);
   } catch (e) {
     console.error(e.message);
+    for (const [cle, m] of Object.entries(MODELES)) console.error(`  --modele ${cle}\t${m.libelle}`);
     process.exit(1);
   }
 
@@ -307,7 +363,16 @@ async function principal() {
 
   const data = JSON.parse(readFileSync(fichierSites, 'utf8'));
   const tous = Array.isArray(data) ? data : data.sites || [];
-  const candidats = filtrerEnvoyables(selectionner(tous, { statut, quota: Infinity }), { journal, suppression });
+  const joursMin = Number(lire('jours', 10));
+  const candidats = gabarit.relance
+    ? candidatsRelance(tous, { journal, suppression, joursMin })
+    : filtrerEnvoyables(selectionner(tous, { statut, quota: Infinity }), { journal, suppression });
+
+  if (gabarit.relance && !candidats.length) {
+    console.log(`Aucune relance à faire : aucun site contacté il y a ${joursMin} jours ou plus `
+      + 'qui ne soit pas déjà relancé ou désinscrit.');
+    return;
+  }
   // Le plus contraignant des deux gagne : ce qui est demandé, ou le palier du jour.
   const retenus = candidats.slice(0, Math.min(quota, palier.total));
   const lots = repartir(retenus, boites, Math.min(capParBoite, palier.parBoite));
@@ -321,7 +386,8 @@ async function principal() {
     return;
   }
 
-  const pieces = piecesJointes();
+  // Une relance n'embarque aucune image : elle doit ressembler à une réponse.
+  const pieces = gabarit.sansImages ? [] : piecesJointes();
   let envoyes = 0;
   let echecs = 0;
 
@@ -338,10 +404,15 @@ async function principal() {
     for (const site of lot.sites) {
       const message = { ...messagePour(site, nomModele, lot.boite), attachments: pieces };
       try {
-        await connexion.sendMail(message);
+        const envoi = await connexion.sendMail(message);
         journal.envois.push({
           email: site.contactEmail, nom: site.nom, boite: lot.boite.de,
           date: new Date().toISOString(), statut: 'ok',
+          // Conservés pour la relance : le fil à reprendre et l'objet à préfixer.
+          type: gabarit.relance ? 'relance' : 'premier',
+          modele: nomModele,
+          objet: message.subject,
+          messageId: envoi?.messageId || '',
         });
         envoyes += 1;
         console.log(`  ✓ ${site.contactEmail} (${site.nom || ''})`);
@@ -349,6 +420,7 @@ async function principal() {
         journal.envois.push({
           email: site.contactEmail, nom: site.nom, boite: lot.boite.de,
           date: new Date().toISOString(), statut: 'echec', erreur: e.message,
+          type: gabarit.relance ? 'relance' : 'premier', modele: nomModele,
         });
         echecs += 1;
         console.error(`  ✗ ${site.contactEmail} — ${e.message}`);

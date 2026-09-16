@@ -163,3 +163,75 @@ test('le plan annonce le palier et le fait primer sur la demande', async () => {
   assert.match(texte, /Jour 1 de la campagne — palier : 10 par boîte/);
   assert.match(texte, /le palier prime, ce sera 20/);
 });
+
+test('la relance ne part qu’après le délai, une seule fois, et jamais aux désinscrits', async () => {
+  const { candidatsRelance } = await import('../outils/envoyer.mjs');
+  const maintenant = new Date('2026-10-01T10:00:00Z');
+  const ilYA = (jours) => new Date(maintenant - jours * 86400000).toISOString();
+
+  const sites = [
+    { nom: 'Mûr', contactEmail: 'mur@x.fr' },          // contacté il y a 12 jours
+    { nom: 'Trop tôt', contactEmail: 'tot@x.fr' },     // contacté il y a 3 jours
+    { nom: 'Déjà relancé', contactEmail: 'deja@x.fr' },
+    { nom: 'Jamais contacté', contactEmail: 'rien@x.fr' },
+    { nom: 'Désinscrit', contactEmail: 'stop@x.fr' },  // mûr, mais a dit STOP
+    { nom: 'Échec', contactEmail: 'echec@x.fr' },      // le premier envoi a échoué
+  ];
+  const journal = {
+    envois: [
+      { email: 'mur@x.fr', statut: 'ok', type: 'premier', date: ilYA(12), messageId: '<a@noxem>', objet: 'Station de gonflage' },
+      { email: 'tot@x.fr', statut: 'ok', type: 'premier', date: ilYA(3) },
+      { email: 'deja@x.fr', statut: 'ok', type: 'premier', date: ilYA(30) },
+      { email: 'deja@x.fr', statut: 'ok', type: 'relance', date: ilYA(20) },
+      { email: 'stop@x.fr', statut: 'ok', type: 'premier', date: ilYA(15) },
+      { email: 'echec@x.fr', statut: 'echec', type: 'premier', date: ilYA(15) },
+    ],
+  };
+
+  const retenus = candidatsRelance(sites, {
+    journal, suppression: new Set(['stop@x.fr']), joursMin: 10, aujourdhui: maintenant,
+  });
+  assert.deepEqual(retenus.map((s) => s.nom), ['Mûr']);
+  // Le fil du premier message est conservé pour rattacher la relance.
+  assert.equal(retenus[0]._fil.messageId, '<a@noxem>');
+  assert.equal(retenus[0]._fil.jours, 12);
+});
+
+test('un journal ancien sans champ type reste interprétable', async () => {
+  const { dejaTraite, envoisReussis } = await import('../outils/envoyer.mjs');
+  const journal = { envois: [{ email: 'vieux@x.fr', statut: 'ok', date: '2026-01-01T00:00:00Z' }] };
+  assert.equal(envoisReussis(journal, 'vieux@x.fr')[0].type, 'premier');
+  assert.ok(dejaTraite(journal, 'vieux@x.fr'));
+});
+
+test('la relance reprend le fil et préfixe l’objet', async () => {
+  const { messagePour } = await import('../outils/envoyer.mjs');
+  const boite = { nom: 'Aaron Harfi', de: 'aaron@noxem-group.com' };
+  const site = {
+    nom: 'Mairie de Dardilly', ville: 'Dardilly', contactEmail: 'mairie@dardilly.fr',
+    _fil: { messageId: '<abc@noxem>', objet: 'Station de gonflage en libre accès', jours: 12 },
+  };
+
+  const m = messagePour(site, 'relance', boite);
+  assert.equal(m.subject, 'Re: Station de gonflage en libre accès');
+  assert.equal(m.inReplyTo, '<abc@noxem>');
+  assert.deepEqual(m.references, ['<abc@noxem>']);
+  assert.match(m.text, /revenir vers vous/);
+  assert.match(m.text, /Dardilly/);
+  // La porte de sortie doit être explicite : un « non » vaut mieux qu'un signalement.
+  assert.match(m.text, /je ne vous solliciterai plus/);
+
+  // Un objet déjà préfixé ne le devient pas deux fois.
+  const dejaRe = messagePour({ ...site, _fil: { ...site._fil, objet: 'Re: Déjà' } }, 'relance', boite);
+  assert.equal(dejaRe.subject, 'Re: Déjà');
+
+  // Sans fil connu, la relance part quand même, avec son objet par défaut.
+  const sansFil = messagePour({ ...site, _fil: undefined }, 'relance', boite);
+  assert.equal(sansFil.subject, 'Re: votre parking');
+  assert.equal(sansFil.inReplyTo, undefined);
+
+  // Un premier envoi n'est jamais rattaché à un fil.
+  const premier = messagePour(site, 'mairie', boite);
+  assert.equal(premier.inReplyTo, undefined);
+  assert.match(premier.subject, /commune/);
+});

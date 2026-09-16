@@ -145,6 +145,34 @@ Pour ne plus être contacté, répondez « STOP » à ce message.`;
 }
 
 /**
+ * Version texte de la relance.
+ * Même parti pris que le gabarit HTML : court, une seule information nouvelle,
+ * et une porte de sortie explicite.
+ */
+function texteRelance(valeurs) {
+  return `Bonjour ${valeurs['[Prénom]']},
+
+Je me permets de revenir vers vous au sujet de mon message concernant l'installation d'une station de gonflage en libre accès sur un parking de ${valeurs['[commune]']}.
+
+Ce type de dossier passe rarement en tête des priorités, et c'est normal. Une précision qui lève souvent la question principale : le dispositif ne demande aucune dépense communale, et l'instruction du dossier CEE se fait de notre côté. Il n'y a pas de budget à trouver, pas de ligne à voter.
+
+Si le sujet n'est pas d'actualité, répondez-moi simplement en un mot : je ne vous solliciterai plus.
+
+S'il vous intéresse, 15 minutes au téléphone suffisent pour que je vous présente le fonctionnement et le montant pris en charge - au ${valeurs['[Votre téléphone]']}, ou en réponse à ce message.
+
+Bien cordialement,
+
+${valeurs['[Votre nom]']}
+${valeurs['[Votre fonction]']} - ${valeurs['[Votre société]']}
+Tél. : ${valeurs['[Votre téléphone]']}
+E-mail : ${valeurs['[Votre email]']}
+
+--
+Fiche CEE TRA-SE-104. Montants indicatifs, confirmés avec le délégataire CEE avant signature.
+Pour ne plus être contacté, répondez « STOP » à ce message.`;
+}
+
+/**
  * Les modèles disponibles. Chacun associe un gabarit HTML, l'objet du message
  * et la version texte brut envoyée en alternative.
  */
@@ -160,6 +188,17 @@ export const MODELES = {
     fichier: 'email-mairie.html',
     objet: 'Station de gonflage en libre accès pour votre commune, financée par les CEE',
     texte: texteMairie,
+  },
+  relance: {
+    libelle: 'Relance (tous destinataires)',
+    fichier: 'email-relance.html',
+    // L'objet réel est « Re: » + celui du premier message, repris du journal :
+    // la relance doit s'afficher dans le fil de l'original, pas à côté.
+    objet: 'Re: votre parking',
+    texte: texteRelance,
+    // Aucune image : une relance ne doit pas ressembler à une seconde publicité.
+    sansImages: true,
+    relance: true,
   },
 };
 

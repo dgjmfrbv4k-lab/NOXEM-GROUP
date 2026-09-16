@@ -186,6 +186,7 @@ node outils/preparer-envois.mjs --sites mairies-lyon.json --quota 50 --modele ma
 |---|---|---|
 | `gonflage` *(défaut)* | Commerces, parkings privés ouverts au public, aires | Service gratuit et visible pour **vos clients**. |
 | `mairie` | Communes | **Aucune dépense communale**, service aux administrés, convention d'occupation du domaine public, parking public + parking des agents dans le même dossier. Le message demande explicitement sa **transmission au service concerné** — il arrive sur un accueil, pas chez le décideur. |
+| `relance` | Ceux déjà contactés | Deuxième message, à J+10. Voir « La relance » plus bas. |
 
 Il écrit un dossier `envois/` avec un fichier `.eml` par site — double-clic ou
 glisser-déposer dans le client de messagerie, le message s'ouvre rédigé, images
@@ -242,6 +243,35 @@ Pour tenir 150 par jour, il manque 3 boîte(s) d'envoi.
 
 Il répartit en tourniquet et ne dépasse jamais le plafond d'une boîte. Ce qui excède la
 capacité du jour n'est pas envoyé — c'est le principe du plafond.
+
+### La relance — c'est elle qui rapporte
+
+En prospection à froid, **l'essentiel des réponses arrive après le deuxième message**,
+pas après le premier. Un premier envoi sans relance gaspille la majeure partie du travail
+de collecte.
+
+```bash
+node outils/envoyer.mjs --sites mairies-01-rhone.json --modele relance --quota 150 --envoyer
+```
+
+L'outil sélectionne tout seul : contactés il y a **au moins 10 jours** (`--jours` pour
+changer le délai), **jamais relancés**, **pas sur la liste de suppression**. Quand il n'y
+a rien à relancer, il le dit et s'arrête.
+
+Trois partis pris dans le gabarit `emails/email-relance.html` :
+
+- **Le message est rattaché au fil du premier** (en-têtes `In-Reply-To` / `References`,
+  objet préfixé `Re:`). Il s'affiche sous l'original dans la boîte du destinataire :
+  une conversation reprise, pas une deuxième sollicitation isolée. C'est pour cela que
+  le journal conserve le `messageId` de chaque envoi.
+- **Aucune image, aucun bandeau, aucun bouton.** Une relance qui ressemble à une
+  deuxième publicité est supprimée ; une relance qui ressemble à quelqu'un qui reprend
+  contact est lue.
+- **Une porte de sortie explicite** (« répondez-moi en un mot, je ne vous solliciterai
+  plus »). Un « non » franc vaut mieux qu'un signalement en spam, et il nettoie la liste.
+
+**Une seule relance par destinataire.** Au-delà, on fabrique des plaintes, pas des
+rendez-vous — et le journal l'empêche.
 
 ### Vérifier le domaine avant d'envoyer
 

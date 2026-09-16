@@ -83,6 +83,19 @@ Jour 25 de la campagne — palier : 40 par boîte.
 Le journal empêche tout doublon d'un jour sur l'autre : quand une vague est épuisée,
 l'outil le dit, et on passe à la suivante.
 
+## La relance, dix jours après
+
+Le premier message ne fait que la moitié du travail. Dix jours après avoir attaqué une
+vague, la relance part sur la même liste, sans rien resélectionner à la main :
+
+```bash
+node outils/envoyer.mjs --sites mairies-01-rhone.json --modele relance --quota 150 --envoyer
+```
+
+Elle se rattache au fil du premier message, ne part qu'une fois par destinataire, et
+saute ceux qui ont demandé à ne plus être contactés. En rythme de croisière, les deux
+commandes alternent : premiers envois sur la vague en cours, relances sur la précédente.
+
 ## Prioriser à l'intérieur d'une vague
 
 Une commune de 300 habitants n'a le plus souvent pas de parking ouvert au public qui
