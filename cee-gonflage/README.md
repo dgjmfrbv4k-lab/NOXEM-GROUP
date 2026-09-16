@@ -115,6 +115,22 @@ cee-gonflage/
 └── tests/                  tests Node natifs
 ```
 
+## Constituer la liste de prospects
+
+`outils/collecte-cibles.mjs` interroge OpenStreetMap et produit la liste des sites
+d'une zone, déjà classés A / B / C au sens de la fiche :
+
+```bash
+node outils/collecte-cibles.mjs --zone "Métropole de Lyon" --sortie cibles-lyon
+```
+
+Sortie : `cibles-lyon.json` (à importer dans l'onglet Prospection) et `cibles-lyon.csv`.
+Aucune donnée personnelle n'est collectée : OpenStreetMap décrit des établissements,
+pas des personnes.
+
+`docs/cibles.md` détaille, pour chaque type A / B / C, les catégories de sites,
+**qui signe** dans chaque cas et l'ordre d'attaque conseillé.
+
 ## Règles de rédaction des e-mails
 
 À respecter pour toute modification de `js/emails.js` :

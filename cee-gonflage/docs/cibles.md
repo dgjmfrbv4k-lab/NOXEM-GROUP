@@ -1,0 +1,166 @@
+# Cartographie des clients potentiels — fiche TRA-SE-104
+
+Ce document liste **qui peut accueillir une station de gonflage valorisable en CEE**,
+et surtout **qui signe** dans chaque cas. Au sens de la fiche, le « bénéficiaire »
+est l'exploitant du site : c'est lui qui signe le contrat d'entretien et l'état
+récapitulatif. Viser le bon interlocuteur fait plus pour le taux de réponse que
+le nombre d'e-mails envoyés.
+
+---
+
+## Type A — 534 200 kWh cumac par station
+
+> Autoroutes et voies de type autoroutier disposant d'aires de repos.
+
+C'est le mieux valorisé, et le plus difficile d'accès. Deux mondes très différents :
+
+### A.1 Réseau concédé (payant)
+
+Autour de Lyon, trois niveaux de décision se superposent :
+
+| Axe | Concessionnaire | Groupe |
+|---|---|---|
+| A6, A40, A46, A42 | APRR | Eiffage |
+| A43, A48, A432 | AREA (filiale d'APRR) | Eiffage |
+| A7 (Lyon – Marseille) | ASF | Vinci Autoroutes |
+
+**Le piège à éviter :** écrire au concessionnaire. Sur une aire de service, l'exploitant
+au quotidien est le **sous-concessionnaire** (pétrolier ou groupe de restauration :
+TotalEnergies, Eni/Agip, Avia, Autogrill, Groupe Le Duff…). C'est lui l'exploitant du
+site au sens de la fiche. Le concessionnaire, lui, doit valider toute implantation sur
+son domaine : son accord est une **condition technique**, pas la porte d'entrée
+commerciale.
+
+**Réalité du marché :** ces aires sont déjà largement équipées, et les appels d'offres
+sont pilotés au niveau des groupes. À traiter comme une piste longue, pas comme un
+démarrage.
+
+### A.2 Réseau non concédé — la vraie piste
+
+Les voies express et rocades gratuites relèvent de la puissance publique, et personne
+ne les démarche :
+
+- **M6 et M7** (anciennes A6/A7 déclassées dans la traversée de Lyon) : gérées par la
+  **Métropole de Lyon**.
+- **Voies rapides nationales** de la région : **DIR Centre-Est** (direction
+  interdépartementale des routes).
+- **Voies express départementales** : conseils départementaux du Rhône, de l'Ain,
+  de l'Isère, de la Loire.
+
+**Interlocuteur :** direction des routes / direction de la voirie, puis l'élu délégué
+aux mobilités. Attention : sur le domaine public, il faut une **convention d'occupation**,
+et une éventuelle dépense publique relève des règles de la commande publique. C'est
+plus lent, mais le terrain est libre.
+
+---
+
+## Type B — 148 400 kWh cumac par station — **la cible prioritaire**
+
+> Zones urbaines, ZI, zones d'activité, parkings ouverts au grand public,
+> hors agglomération. Hors parkings privés d'entreprises ou de collectivités.
+
+Le meilleur rapport gain / accessibilité. Par ordre de facilité réelle :
+
+### B.1 Grande distribution — commencer par les indépendants
+
+La distinction qui change tout :
+
+| Enseignes | Structure | Qui décide |
+|---|---|---|
+| **E.Leclerc, Intermarché, Super U, Netto** | Indépendants adhérents | **Le directeur EST le propriétaire.** Décision possible en un rendez-vous. |
+| Carrefour, Auchan, Casino, Monoprix, Lidl, Aldi | Intégrés | Direction régionale ou centrale ; le directeur de magasin remonte la demande. |
+
+**Commence par les indépendants.** Même argumentaire, cycle de décision dix fois plus
+court, et une première référence obtenue vaut plus que cinquante e-mails à des centrales.
+
+**Interlocuteur :** le directeur du magasin. Le passage par l'accueil pour demander son
+nom fonctionne mieux qu'un e-mail à `contact@`.
+
+### B.2 Centres commerciaux
+
+Le décideur est le **directeur du centre**, employé du gestionnaire (Klépierre, Unibail,
+Nhood, Altarea, Frey, Apsys…), et non les enseignes locataires. Un centre = un parking
+de plusieurs centaines de places = un site à fort passage.
+
+### B.3 Parkings publics urbains
+
+Deux cas :
+- **exploités en délégation** (Indigo, Effia, Q-Park…) → direction régionale de
+  l'exploitant ;
+- **en régie municipale** → services techniques de la commune.
+
+Vérifier lequel avant d'écrire : se tromper de destinataire coûte un cycle entier.
+
+### B.4 Communes et collectivités
+
+Le parking municipal ouvert au public relève du **type B** ; le parking des agents,
+du type C. Beaucoup de communes ont les deux : c'est un **dossier groupé**, plus
+intéressant qu'il n'y paraît.
+
+**Interlocuteur, dans l'ordre :** le **DGS** (directeur général des services) dans les
+petites communes, le **service technique / voirie** pour l'emplacement, l'**élu aux
+mobilités ou à la transition écologique** pour l'arbitrage. Le maire ne traite pas ce
+type de dossier.
+
+### B.5 Stations-service indépendantes et zones d'activité
+
+Stations hors réseau pétrolier, garages et centres auto avec parking ouvert,
+concessions automobiles, zones d'activité avec parking mutualisé, parcs-relais TCL,
+gares routières.
+
+---
+
+## Type C — 39 600 kWh cumac par station
+
+> Parkings privés d'entreprises ou de collectivités (salariés, flotte).
+
+Quatre fois moins valorisé que le type B : **rentable en complément, rarement seul**.
+Deux cas où cela vaut le coup :
+
+- l'entreprise a **plusieurs sites** : un contrat, plusieurs stations ;
+- le site est **déjà client en type B** : on ajoute son parking salariés au même contrat.
+
+**Interlocuteur :** responsable des services généraux, responsable de flotte, ou
+directeur de site.
+
+---
+
+## Ordre d'attaque conseillé
+
+1. **Supermarchés indépendants** de la métropole (Leclerc, Intermarché, Super U) —
+   décision rapide, première référence.
+2. **Centres commerciaux** — gros volumes, un interlocuteur clairement identifié.
+3. **Communes** — dossiers groupés B + C, mais cycle long : à lancer tôt pour que
+   ça aboutisse plus tard.
+4. **Parkings publics délégués** — un accord au niveau régional peut couvrir
+   plusieurs sites d'un coup.
+5. **Type A non concédé** (Métropole, DIR, départements) — fort volume, terrain libre.
+6. **Type A concédé** — seulement avec une référence solide à montrer.
+7. **Type C** — en complément d'un contrat existant.
+
+---
+
+## Constituer la liste
+
+Le script `outils/collecte-cibles.mjs` interroge OpenStreetMap et produit la liste
+des sites d'une zone, déjà classés A / B / C :
+
+```bash
+cd cee-gonflage
+node outils/collecte-cibles.mjs --zone "Métropole de Lyon" --sortie cibles-lyon
+```
+
+Il écrit `cibles-lyon.json`, à importer directement dans l'onglet **Prospection**
+(bouton « Importer JSON »), et `cibles-lyon.csv` pour Excel.
+
+**Ce que le script ne fait pas, et ne fera pas :** collecter des données personnelles.
+OpenStreetMap décrit des établissements, pas des personnes. Le nom du directeur se
+demande à l'accueil ou se lit sur le site institutionnel de l'enseigne — c'est plus
+long, c'est légal, et le message qui en découle est bien mieux reçu.
+
+## Rythme d'envoi
+
+20 à 30 e-mails par jour depuis la boîte `@noxemgroup.com`, personnalisés depuis le
+CRM. Au-delà, un domaine récent se fait classer en spam en quelques jours, et un
+domaine grillé ne se répare pas. À ce rythme, la métropole est couverte en six
+semaines, avec une délivrabilité intacte et des réponses réellement traitables.
