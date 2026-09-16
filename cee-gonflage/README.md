@@ -144,6 +144,28 @@ pas des personnes.
 `docs/cibles.md` détaille, pour chaque type A / B / C, les catégories de sites,
 **qui signe** dans chaque cas et l'ordre d'attaque conseillé.
 
+### Les communes
+
+`outils/collecte-mairies.mjs` constitue la liste des mairies d'un département à partir
+de l'**Annuaire de l'administration** (service-public.fr), avec leur adresse de contact
+officielle :
+
+```bash
+node outils/collecte-mairies.mjs --departement 69
+node outils/collecte-mairies.mjs --departement 69,01,38,42 --sortie mairies-lyon
+```
+
+Ces adresses sont **institutionnelles et publiées par l'État** : ce sont des adresses
+d'établissement, pas des données personnelles. Aucun nom d'agent ni d'élu n'est collecté
+— le nom de l'interlocuteur se demande au téléphone.
+
+Le type CEE reste vide dans les fiches produites : une commune a le plus souvent un parking
+ouvert au public (**type B**) *et* un parking d'agents (**type C**). C'est un dossier groupé,
+à qualifier lors de l'échange.
+
+> L'API est publique mais bloquée depuis certains environnements d'exécution : lancer
+> cette commande depuis un poste avec un accès Internet ordinaire.
+
 ## Préparer les envois
 
 `outils/preparer-envois.mjs` transforme la liste de prospects en messages prêts à
@@ -151,7 +173,15 @@ envoyer **depuis votre messagerie** :
 
 ```bash
 node outils/preparer-envois.mjs --sites cibles-lyon.json --quota 25
+node outils/preparer-envois.mjs --sites mairies-lyon.json --quota 50 --modele mairie
 ```
+
+`--modele` choisit le gabarit (voir le dossier `emails/`) :
+
+| Modèle | Pour qui | Angle |
+|---|---|---|
+| `gonflage` *(défaut)* | Commerces, parkings privés ouverts au public, aires | Service gratuit et visible pour **vos clients**. |
+| `mairie` | Communes | **Aucune dépense communale**, service aux administrés, convention d'occupation du domaine public, parking public + parking des agents dans le même dossier. Le message demande explicitement sa **transmission au service concerné** — il arrive sur un accueil, pas chez le décideur. |
 
 Il écrit un dossier `envois/` avec un fichier `.eml` par site — double-clic ou
 glisser-déposer dans le client de messagerie, le message s'ouvre rédigé, images
@@ -195,7 +225,8 @@ JSON régulièrement : vider les données du navigateur efface le CRM.
 | Fichier | Rôle |
 |---|---|
 | `email-gonflage.html` | Gabarit HTML de l'e-mail de premier contact (tableaux, styles en ligne, 600 px). |
-| `build-email.mjs` | Remplit les variables et produit la version texte : `node emails/build-email.mjs --nom "Carrefour Bron" --prenom Sophie > sortie.html`. |
+| `email-mairie.html` | Même gabarit, version **collectivités** : demande de transmission en interne, cadre juridique, aucune dépense communale. |
+| `build-email.mjs` | Remplit les variables et produit la version texte : `node emails/build-email.mjs --nom "Carrefour Bron" --prenom Sophie > sortie.html`, ou `--modele mairie --commune Dardilly`. Les modèles sont déclarés dans `MODELES`. |
 | `illustration-borne.svg` / `.png` | Illustration de la borne, seul élément en image. |
 | `banniere-gonflage.svg` / `.png` | Bandeau complet avec texte, pour la plaquette ou les réseaux sociaux. |
 | `build-banniere.mjs` | Régénère les PNG depuis les SVG (`npm i playwright-core` au préalable). |

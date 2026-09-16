@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 import {
   encoderEntete, plierBase64, construireEml, nomFichier, selectionner, valeursPour,
 } from '../outils/preparer-envois.mjs';
+import { construire, versionTexte, MODELES, modele } from '../emails/build-email.mjs';
 
 test('les en-têtes non ASCII sont encodés (RFC 2047)', () => {
   assert.equal(encoderEntete('Hello'), 'Hello');
@@ -72,4 +73,30 @@ test('les variables reprennent la fiche, avec un repli générique', () => {
   const generique = valeursPour({});
   assert.equal(generique['[Prénom]'], 'Madame, Monsieur');
   assert.equal(generique['[nom du site]'], 'votre établissement');
+});
+
+test('le modèle mairie est disponible et demande la transmission au service concerné', () => {
+  const valeurs = valeursPour({ nom: 'Mairie de Dardilly', ville: 'Dardilly' });
+  assert.equal(valeurs['[commune]'], 'Dardilly');
+
+  const texte = versionTexte(valeurs, 'mairie');
+  assert.match(texte, /transmettre ce message au service concerné/);
+  assert.match(texte, /Concrètement pour Dardilly/);
+  assert.match(texte, /convention d’occupation du domaine public|convention d'occupation du domaine public/);
+  // Le dispositif ne doit jamais être présenté comme entièrement gratuit.
+  assert.match(texte, /en grande partie/);
+  assert.doesNotMatch(texte, /gratuit à 100/);
+
+  const html = construire(valeurs, 'mairie');
+  assert.match(html, /Merci de transmettre ce message au service concerné/);
+  assert.match(html, /parking de Dardilly/);
+  // Toutes les variables du gabarit ont été remplacées.
+  assert.doesNotMatch(html, /\[commune\]|\[Prénom\]|\[Votre nom\]|\[lien de réservation\]/);
+});
+
+test('l’objet dépend du modèle, et un modèle inconnu échoue clairement', () => {
+  assert.notEqual(MODELES.mairie.objet, MODELES.gonflage.objet);
+  assert.match(MODELES.mairie.objet, /commune/);
+  assert.equal(modele().fichier, 'email-gonflage.html');
+  assert.throws(() => modele('inexistant'), /Modèle inconnu/);
 });

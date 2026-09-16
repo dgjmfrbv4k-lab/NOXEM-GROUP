@@ -13,6 +13,7 @@
  *
  *   node outils/preparer-envois.mjs --sites cibles-lyon.json --quota 25
  *   node outils/preparer-envois.mjs --sites cibles-lyon.json --statut a_contacter
+ *   node outils/preparer-envois.mjs --sites mairies-69.json --quota 50 --modele mairie
  *
  * Produit un dossier `envois/` contenant :
  *   - un fichier .eml par site : double-clic (ou glisser-déposer dans votre
@@ -22,7 +23,7 @@
  */
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
-import { construire, versionTexte, SIGNATURE } from '../emails/build-email.mjs';
+import { construire, versionTexte, SIGNATURE, MODELES, modele } from '../emails/build-email.mjs';
 
 /** Encode un en-tête non ASCII selon la RFC 2047. */
 export function encoderEntete(texte) {
@@ -115,11 +116,17 @@ export function selectionner(sites, { statut = 'a_contacter', quota = 25 } = {})
     .slice(0, quota);
 }
 
-/** Valeurs de variables pour un site donné. */
+/**
+ * Valeurs de variables pour un site donné.
+ *
+ * `[commune]` sert au modèle « mairie » : on préfère le nom de la ville, qui
+ * se lit mieux dans une phrase que « Mairie de Dardilly ».
+ */
 export function valeursPour(site) {
   return {
     '[Prénom]': site.contactPrenom || 'Madame, Monsieur',
     '[nom du site]': site.nom || 'votre établissement',
+    '[commune]': site.ville || site.nom || 'votre commune',
     ...SIGNATURE,
   };
 }
@@ -141,6 +148,16 @@ function principal() {
   const quota = Number(lire('quota', 25));
   const statut = lire('statut', 'a_contacter');
   const dossier = lire('dossier', 'envois');
+  const nomModele = lire('modele', 'gonflage');
+
+  let gabarit;
+  try {
+    gabarit = modele(nomModele);
+  } catch (e) {
+    console.error(e.message);
+    for (const [cle, m] of Object.entries(MODELES)) console.error(`  --modele ${cle}\t${m.libelle}`);
+    process.exit(1);
+  }
 
   const data = JSON.parse(readFileSync(fichierSites, 'utf8'));
   const tous = Array.isArray(data) ? data : data.sites || [];
@@ -167,9 +184,9 @@ function principal() {
       de: SIGNATURE['[Votre email]'],
       nomExpediteur: `${SIGNATURE['[Votre nom]']} — ${SIGNATURE['[Votre société]']}`,
       a: site.contactEmail,
-      objet: 'Le gonflage gratuit pour vos clients, financé par l’État',
-      texte: versionTexte(valeurs),
-      html: construire(valeurs),
+      objet: gabarit.objet,
+      texte: versionTexte(valeurs, nomModele),
+      html: construire(valeurs, nomModele),
       images,
     });
     const fichier = nomFichier(i + 1, site);
@@ -179,7 +196,7 @@ function principal() {
 
   writeFileSync(`${dossier}/index.html`, consoleEnvoi(prepares, { quota, restants: tous.length }));
 
-  console.log(`${prepares.length} e-mail(s) préparé(s) dans ${dossier}/`);
+  console.log(`${prepares.length} e-mail(s) préparé(s) dans ${dossier}/ (modèle « ${nomModele} » — ${gabarit.libelle})`);
   console.log(`Ouvrez ${dossier}/index.html pour suivre vos envois du jour.`);
   console.log('\nChaque .eml s\'ouvre dans votre messagerie : vous relisez, vous envoyez.');
   console.log('Tenez-vous à ce quota quotidien : au-delà, votre domaine est classé en spam.');
@@ -212,8 +229,9 @@ export function consoleEnvoi(prepares, { quota, restants }) {
  <p class="doux">${prepares.length} e-mail(s) préparé(s) sur ${restants} site(s) au fichier. Quota retenu : ${quota} par jour.</p>
  <table><thead><tr><th></th><th>Site</th><th>Type</th><th>Message</th></tr></thead><tbody>${lignes}</tbody></table>
  <p class="rappel"><strong>Tenez le rythme.</strong> Chaque fichier s'ouvre dans votre messagerie :
- vous relisez, vous envoyez, vous cochez. Au-delà d'une trentaine d'envois par jour depuis un domaine
- récent, les filtres anti-spam classent le domaine entier — et cela ne se répare pas.
+ vous relisez, vous envoyez, vous cochez. Ne dépassez pas ${quota} envois aujourd'hui : depuis un
+ domaine récent, un volume qui grimpe d'un coup fait classer le domaine entier par les filtres
+ anti-spam — et cela ne se répare pas. Montez progressivement (voir docs/delivrabilite.md).
  Repassez les sites contactés au statut « Contacté » dans l'onglet Prospection avant la prochaine série.</p>
 </div></body></html>`;
 }

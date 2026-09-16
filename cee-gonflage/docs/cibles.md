@@ -158,12 +158,75 @@ OpenStreetMap décrit des établissements, pas des personnes. Le nom du directeu
 demande à l'accueil ou se lit sur le site institutionnel de l'enseigne — c'est plus
 long, c'est légal, et le message qui en découle est bien mieux reçu.
 
+## Constituer la liste des communes
+
+Les mairies ne sont pas dans OpenStreetMap avec une adresse de contact fiable. La
+source, c'est l'**Annuaire de l'administration** (service-public.fr), qui publie
+l'adresse e-mail officielle de chaque mairie :
+
+```bash
+cd cee-gonflage
+node outils/collecte-mairies.mjs --departement 69
+node outils/collecte-mairies.mjs --departement 69,01,38,42 --sortie mairies-lyon
+```
+
+Puis :
+
+```bash
+node outils/preparer-envois.mjs --sites mairies-lyon.json --quota 50 --modele mairie
+```
+
+Ces adresses sont **institutionnelles**, publiées par l'État pour être utilisées :
+ce sont des adresses d'établissement, pas des données personnelles. Aucun nom d'agent
+ni d'élu n'est collecté.
+
+> L'API de l'annuaire est publique mais bloquée depuis certains environnements
+> d'exécution : lancer la commande depuis un poste avec un accès Internet ordinaire.
+
+### Le message part sur un accueil, pas chez le décideur
+
+L'adresse publiée est celle de l'accueil (`mairie@`, `contact@`, `accueil@`). Le
+modèle `mairie` en tient compte : **la première ligne du corps demande la transmission
+au service concerné** — DGS, services techniques, ou voirie / stationnement selon
+l'organisation de la commune. C'est ce qui décide du sort du message : une mairie
+transmet volontiers, elle ne répond pas elle-même.
+
+L'angle du modèle est spécifique aux collectivités :
+
+- **aucune dépense communale** — c'est la première objection, on la retire d'entrée ;
+- **service aux administrés**, pas trafic client ;
+- **convention d'occupation du domaine public** : le cadre juridique attendu, nommé
+  dès le premier message, la commune reste propriétaire de son emplacement ;
+- **parking public (B) + parking des agents (C)** dans le même dossier.
+
+### Toute la France : l'ordre, pas le volume
+
+34 900 communes à 50 envois par jour, cinq jours par semaine, cela fait **près de trois
+ans**. Ce n'est pas une campagne, c'est un fond de roulement. Deux conséquences
+pratiques :
+
+1. **Prioriser par taille.** Une commune de 300 habitants a rarement un parking
+   ouvert au public qui justifie une station. Commencer par les communes de plus de
+   2 000 habitants, puis descendre. Le fichier CSV produit permet ce tri.
+2. **Avancer par département, en cercles concentriques autour de Dardilly.**
+   Un déplacement de qualification doit rester faisable : 69, puis 01 / 38 / 42 / 26 / 07 /
+   71 / 73 / 74, puis le reste de la région, puis les régions limitrophes.
+
+Chaque département donne un fichier autonome, importable dans l'onglet Prospection.
+Les statuts et les relances se suivent là, pas dans un tableur.
+
 ## Rythme d'envoi
 
 20 à 30 e-mails par jour depuis la boîte `@noxemgroup.com`, personnalisés depuis le
 CRM. Au-delà, un domaine récent se fait classer en spam en quelques jours, et un
 domaine grillé ne se répare pas. À ce rythme, la métropole est couverte en six
 semaines, avec une délivrabilité intacte et des réponses réellement traitables.
+
+**Monter à 50 par jour est possible, mais pas tout de suite.** Le volume n'est pas
+le problème — la *marche* en est un : un domaine qui passe de 0 à 50 en une journée
+est signalé. SPF, DKIM et DMARC doivent être en place, et le volume doit monter par
+paliers sur trois à quatre semaines. La procédure est dans `docs/delivrabilite.md`.
+Une fois le domaine chaud, 50 par jour tient sans difficulté.
 
 ---
 
