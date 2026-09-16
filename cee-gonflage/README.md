@@ -144,6 +144,25 @@ pas des personnes.
 `docs/cibles.md` détaille, pour chaque type A / B / C, les catégories de sites,
 **qui signe** dans chaque cas et l'ordre d'attaque conseillé.
 
+## Préparer les envois
+
+`outils/preparer-envois.mjs` transforme la liste de prospects en messages prêts à
+envoyer **depuis votre messagerie** :
+
+```bash
+node outils/preparer-envois.mjs --sites cibles-lyon.json --quota 25
+```
+
+Il écrit un dossier `envois/` avec un fichier `.eml` par site — double-clic ou
+glisser-déposer dans le client de messagerie, le message s'ouvre rédigé, images
+comprises — et un `index.html` pour suivre les envois du jour.
+
+**Pourquoi pas un envoi automatique en masse :** une boîte professionnelle plafonne
+à quelques centaines d'envois par jour, et un domaine récent qui dépasse ce seuil est
+classé en spam en quelques jours. Un domaine grillé ne se répare pas. L'outil fait
+gagner le temps de rédaction, pas celui de l'envoi : vous restez l'expéditeur, à un
+rythme que les filtres acceptent.
+
 ## Règles de rédaction des e-mails
 
 À respecter pour toute modification de `js/emails.js` :
