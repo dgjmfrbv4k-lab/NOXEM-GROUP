@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Fiche produit — Panneau solaire hybride pour exploitation agricole</title>
+<style>
+  @page { size: A4; margin: 14mm 13mm 12mm 13mm; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 8.7pt;
+    line-height: 1.38;
+    color: #1d2320;
+  }
+  h1, h2, h3 { margin: 0; font-weight: 700; }
+  p { margin: 0 0 5px; }
+  ul { margin: 0 0 6px; padding-left: 15px; }
+  li { margin-bottom: 2px; }
+  .ph { color: #8a7d24; background: #fdf7d8; padding: 0 3px; border-radius: 2px; font-style: italic; }
+
+  /* En-tête */
+  .head {
+    display: flex; justify-content: space-between; align-items: flex-start;
+    border-bottom: 3px solid #1a6b4a;
+    padding-bottom: 7px; margin-bottom: 10px;
+  }
+  .brand { font-size: 15pt; font-weight: 800; letter-spacing: 1.2px; color: #1a6b4a; }
+  .brand small { display: block; font-size: 7.4pt; font-weight: 500; letter-spacing: 2.2px; color: #6b7671; margin-top: 2px; }
+  .head__meta { text-align: right; font-size: 7.6pt; color: #6b7671; line-height: 1.6; }
+  .tag {
+    display: inline-block; background: #1a6b4a; color: #fff; font-size: 7.2pt;
+    font-weight: 700; letter-spacing: .8px; padding: 3px 8px; border-radius: 3px;
+  }
+
+  .title { font-size: 15.5pt; line-height: 1.15; margin-bottom: 4px; }
+  .title span { color: #1a6b4a; }
+  .lead { font-size: 8.9pt; color: #47524d; margin-bottom: 10px; }
+
+  /* Grilles */
+  .row { display: flex; gap: 9px; margin-bottom: 9px; }
+  .col { flex: 1; }
+
+  .box { border: 1px solid #d9e2dd; border-radius: 5px; padding: 8px 10px; background: #fff; }
+  .box--soft { background: #f4f8f6; border-color: #cfe0d7; }
+  .box--warn { background: #fff8f2; border-color: #f0d2b4; }
+
+  h2.sec {
+    font-size: 10.2pt; color: #1a6b4a; text-transform: uppercase; letter-spacing: 1px;
+    margin: 0 0 7px; padding-bottom: 4px; border-bottom: 1px solid #d9e2dd;
+  }
+  h3.sub { font-size: 9pt; margin-bottom: 4px; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 8.2pt; }
+  th, td { text-align: left; padding: 3px 7px; border-bottom: 1px solid #e4ebe7; vertical-align: top; }
+  th { background: #eef4f1; font-size: 7.8pt; text-transform: uppercase; letter-spacing: .5px; color: #3c4a44; }
+  td.lbl { font-weight: 600; width: 34%; }
+
+  .usages { display: flex; gap: 8px; }
+  .usage { flex: 1; border: 1px solid #d9e2dd; border-radius: 5px; padding: 8px 9px; background: #fff; }
+  .usage b { display: block; color: #1a6b4a; font-size: 8.8pt; margin-bottom: 3px; }
+  .usage span { font-size: 7.9pt; color: #47524d; }
+
+  ol.steps { counter-reset: s; list-style: none; padding: 0; margin: 0; display: flex; gap: 7px; }
+  ol.steps li {
+    counter-increment: s; flex: 1; background: #f4f8f6; border: 1px solid #cfe0d7;
+    border-radius: 5px; padding: 6px 7px; font-size: 7.7pt; margin: 0;
+  }
+  ol.steps li::before {
+    content: counter(s); display: inline-block; width: 15px; height: 15px; line-height: 15px;
+    text-align: center; background: #1a6b4a; color: #fff; border-radius: 50%;
+    font-weight: 700; font-size: 7.4pt; margin-right: 5px;
+  }
+
+  .foot {
+    margin-top: 12px; border-top: 2px solid #1a6b4a; padding-top: 8px;
+    display: flex; justify-content: space-between; align-items: flex-end;
+    font-size: 8pt; color: #47524d;
+  }
+  .foot b { color: #1a6b4a; }
+  .legal { font-size: 6.8pt; color: #8a938e; line-height: 1.4; margin-top: 7px; }
+  .page2 { page-break-before: always; }
+</style>
+</head>
+<body>
+
+<div class="head">
+  <div>
+    <div class="brand">NOXEM GROUP<small>EFFICACITÉ ÉNERGÉTIQUE</small></div>
+  </div>
+  <div class="head__meta">
+    <span class="tag">FICHE PRODUIT · AGRICULTURE</span><br>
+    Réf. <span class="ph">NX-PVT-AGRI-01</span> — Version <span class="ph">09/2026</span><br>
+    Document commercial non contractuel
+  </div>
+</div>
+
+<h1 class="title">Panneau solaire <span>hybride (PVT)</span><br>pour exploitation agricole</h1>
+<p class="lead">Un seul capteur, deux énergies : <b>électricité photovoltaïque</b> pour l'autoconsommation de l'exploitation
+et <b>chaleur récupérée</b> pour l'eau chaude sanitaire, le chauffage des bâtiments d'élevage ou le séchage.
+Valorisable dans le cadre du dispositif <b>CEE</b> (Certificats d'Économies d'Énergie) pour sa part thermique.</p>
+
+<div class="row">
+  <div class="col box box--soft">
+    <h2 class="sec">Le principe</h2>
+    <p>Un panneau hybride associe, sur un même module, des cellules photovoltaïques et un <b>échangeur thermique en face arrière</b>
+    (à eau glycolée ou à air).</p>
+    <ul>
+      <li>La chaleur captée sous les cellules est <b>récupérée au lieu d'être perdue</b> et envoyée vers un ballon, un réseau d'eau chaude ou un circuit d'air.</li>
+      <li>En refroidissant les cellules, le capteur <b>améliore le rendement électrique</b> : un module PV perd environ 0,3 à 0,45 % de puissance par °C au-dessus de 25 °C.</li>
+      <li>Résultat : <b>nettement plus d'énergie utile par m² de toiture</b> qu'un photovoltaïque seul — un atout quand la surface de toiture exploitable est limitée.</li>
+    </ul>
+  </div>
+  <div class="col box">
+    <h2 class="sec">Pourquoi en élevage / exploitation</h2>
+    <p>L'agriculture cumule des besoins <b>électriques et thermiques simultanés et quotidiens</b>, ce qui est le cas d'usage idéal du PVT :</p>
+    <ul>
+      <li><b>Élevage laitier</b> — eau chaude de lavage de la salle de traite et du tank, deux fois par jour, toute l'année.</li>
+      <li><b>Porc / volaille</b> — préchauffage de l'air de ventilation et chauffage des bâtiments (poste énergétique majeur).</li>
+      <li><b>Séchage</b> — foin en grange, céréales, plantes aromatiques : l'air chaud solaire remplace une part du propane / fioul.</li>
+      <li><b>Électricité autoconsommée</b> — tank à lait, robot de traite, pompes, ventilation, éclairage.</li>
+    </ul>
+  </div>
+</div>
+
+<h2 class="sec">Caractéristiques techniques</h2>
+<div class="row">
+  <div class="col box" style="padding:0; border:none;">
+    <table>
+      <tr><th colspan="2">Module — à compléter selon le modèle retenu</th></tr>
+      <tr><td class="lbl">Type de capteur</td><td>Hybride PVT <span class="ph">à eau glycolée / à air</span></td></tr>
+      <tr><td class="lbl">Puissance électrique crête</td><td><span class="ph">___</span> Wc par module (STC)</td></tr>
+      <tr><td class="lbl">Puissance thermique</td><td><span class="ph">___</span> Wth par module</td></tr>
+      <tr><td class="lbl">Dimensions / poids</td><td><span class="ph">___ × ___ mm</span> — <span class="ph">___</span> kg</td></tr>
+      <tr><td class="lbl">Coefficient de température</td><td><span class="ph">___</span> %/°C</td></tr>
+    </table>
+  </div>
+  <div class="col box" style="padding:0; border:none;">
+    <table>
+      <tr><th colspan="2">Installation type sur l'exploitation</th></tr>
+      <tr><td class="lbl">Nombre de modules</td><td><span class="ph">___</span> modules — <span class="ph">___</span> m² de toiture</td></tr>
+      <tr><td class="lbl">Production électrique</td><td><span class="ph">___</span> kWh/an (dont <span class="ph">___</span> % autoconsommés)</td></tr>
+      <tr><td class="lbl">Production thermique</td><td><span class="ph">___</span> kWh/an</td></tr>
+      <tr><td class="lbl">Énergie substituée</td><td><span class="ph">électricité / propane / fioul</span></td></tr>
+      <tr><td class="lbl">Garanties</td><td>Produit <span class="ph">__</span> ans — Rendement <span class="ph">__</span> ans</td></tr>
+    </table>
+  </div>
+</div>
+<p style="font-size:7.6pt; color:#8a938e; margin-top:-4px;">Les valeurs surlignées sont à renseigner à partir de la fiche technique du fabricant retenu et de l'étude de dimensionnement de l'exploitation. Aucun chiffre de performance ne doit être annoncé au client sans étude préalable.</p>
+
+<h2 class="sec">Les bénéfices pour l'exploitant</h2>
+<div class="usages">
+  <div class="usage"><b>Facture réduite</b><span>Deux postes couverts à la fois : l'électricité autoconsommée et l'énergie de chauffe (propane, fioul, électricité).</span></div>
+  <div class="usage"><b>Surface optimisée</b><span>Plus d'énergie par m² de toiture : utile quand la charpente ou la surface disponible est contrainte.</span></div>
+  <div class="usage"><b>Prix maîtrisé</b><span>Une part des besoins énergétiques devient indépendante des variations du prix des énergies.</span></div>
+  <div class="usage"><b>Image & durabilité</b><span>Argument valorisable auprès des laiteries et coopératives dans les démarches bas-carbone.</span></div>
+</div>
+
+<div class="page2"></div>
+
+<div class="head">
+  <div><div class="brand">NOXEM GROUP<small>EFFICACITÉ ÉNERGÉTIQUE</small></div></div>
+  <div class="head__meta"><span class="tag">VOLET FINANCEMENT · CEE</span><br>Réf. <span class="ph">NX-PVT-AGRI-01</span> — page 2/2</div>
+</div>
+
+<h2 class="sec">Le financement CEE — ce qui est éligible, ce qui ne l'est pas</h2>
+<div class="row">
+  <div class="col box box--soft">
+    <h3 class="sub">Comment fonctionne le dispositif</h3>
+    <p>Les CEE obligent les fournisseurs d'énergie (les « obligés ») à financer des travaux d'économies d'énergie chez leurs clients.
+    La prime est calculée en <b>kWh cumac</b> (kWh cumulés et actualisés sur la durée de vie de l'équipement), puis convertie en euros.</p>
+    <h3 class="sub" style="margin-top:8px;">Part thermique → valorisable</h3>
+    <p>C'est la <b>chaleur produite en substitution d'une énergie conventionnelle</b> (propane, fioul, électricité de chauffe)
+    qui constitue l'économie d'énergie reconnue par le dispositif.</p>
+    <p style="margin-bottom:0;">Opération applicable : <span class="ph">fiche d'opération standardisée à confirmer (secteur agricole / solaire thermique) ou opération spécifique</span>
+    — référence et montant à vérifier dans l'<b>arrêté en vigueur à la date de signature du devis</b>.</p>
+  </div>
+  <div class="col box box--warn">
+    <h3 class="sub">⚠ Point à dire clairement au client</h3>
+    <p><b>La production d'électricité photovoltaïque n'ouvre pas droit aux CEE.</b> Le dispositif finance des <i>économies</i>
+    d'énergie, pas la production d'électricité renouvelable. Seule la composante thermique du panneau hybride peut être valorisée en CEE.</p>
+    <p>La part photovoltaïque relève d'autres mécanismes (autoconsommation avec prime à l'investissement, obligation d'achat du surplus),
+    à présenter séparément dans le plan de financement.</p>
+    <p style="margin-bottom:0;">Ne jamais présenter une « prime CEE » calculée sur la puissance photovoltaïque installée.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col box">
+    <h2 class="sec">Conditions à respecter impérativement</h2>
+    <ul style="margin-bottom:0;">
+      <li><b>Antériorité de l'offre</b> — l'offre CEE doit être émise et acceptée par l'exploitant <b>avant la signature du devis</b> et tout engagement de travaux. Une offre postérieure annule le droit à la prime.</li>
+      <li><b>Qualification de l'installateur</b> — installation par un professionnel qualifié / <b>RGE</b> selon l'opération retenue.</li>
+      <li><b>Pièces du dossier</b> — devis et facture conformes (mentions techniques exigées par la fiche), attestation sur l'honneur signée, preuves de réalisation.</li>
+      <li><b>Cumul des aides</b> — vérifier la compatibilité avec les aides agricoles mobilisées (PCAE, aides régionales, France 2030 / FranceAgriMer) : <span class="ph">à confirmer au cas par cas</span>.</li>
+      <li><b>Fiscalité et statut</b> — traitement de la prime et de la revente d'électricité à valider avec le comptable de l'exploitation.</li>
+    </ul>
+  </div>
+  <div class="col box">
+    <h2 class="sec">Ce dont nous avons besoin pour chiffrer</h2>
+    <ul style="margin-bottom:0;">
+      <li>Type et taille de l'exploitation (nb de VL, places, surface de serre…)</li>
+      <li>Consommations annuelles : électricité (kWh), propane / fioul (litres ou kg)</li>
+      <li>Énergie actuelle de production d'eau chaude et température de besoin</li>
+      <li>Photos de la toiture, orientation, inclinaison, état de la charpente</li>
+      <li>Dernières factures d'énergie (12 mois) et plan de masse si disponible</li>
+    </ul>
+  </div>
+</div>
+
+<h2 class="sec">Déroulé du projet</h2>
+<ol class="steps">
+  <li>Visite technique et relevé des consommations</li>
+  <li>Étude de dimensionnement et simulation d'économies</li>
+  <li><b>Offre CEE + devis</b> (dans cet ordre)</li>
+  <li>Installation par un professionnel qualifié</li>
+  <li>Mise en service et dossier CEE</li>
+  <li>Versement de la prime</li>
+</ol>
+
+<div class="foot">
+  <div>
+    <b>NOXEM GROUP</b> — Votre contact : <span class="ph">Nom, fonction</span><br>
+    <span class="ph">téléphone</span> · <span class="ph">email</span> · <span class="ph">site web</span>
+  </div>
+  <div style="text-align:right; color:#8a938e;">Fiche à personnaliser avant envoi client</div>
+</div>
+
+<p class="legal">Document commercial à caractère informatif, non contractuel. Les performances, montants de prime et références de fiches d'opérations standardisées
+doivent être vérifiés au cas par cas selon la réglementation CEE en vigueur à la date de signature du devis et selon l'étude technique de l'exploitation.
+Les mentions surlignées sont des champs à compléter.</p>
+
+</body>
+</html>
