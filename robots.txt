@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dgjmfrbv4k-lab.github.io/NOXEM-GROUP/sitemap.xml

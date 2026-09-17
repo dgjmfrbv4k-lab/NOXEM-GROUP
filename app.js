@@ -58,6 +58,8 @@
      2. LANGUES
      ======================================================= */
   function detectLang() {
+    /* page pré-générée (/fr/, /ar/…) : sa langue prime */
+    if (window.NOXEM_LANG && T[window.NOXEM_LANG]) return window.NOXEM_LANG;
     var saved;
     try { saved = localStorage.getItem("noxem-lang"); } catch (e) {}
     if (saved && T[saved]) return saved;

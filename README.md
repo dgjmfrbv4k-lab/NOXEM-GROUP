@@ -62,3 +62,50 @@ tôle échantillon et caisse d'export. Cliquer une teinte repeint la scène,
 l'épaisseur choisie change l'épaisseur des tranches, et la scène se tourne à la
 souris ou au doigt. Le bouton « Request this specification » reporte le coloris
 et la configuration dans le formulaire de devis.
+
+## Référencement naturel (SEO)
+
+Tout ce qui se joue dans le code est en place :
+
+| Élément | Détail |
+|---|---|
+| Pages par langue | `/en/ /fr/ /ar/ /es/ /tr/ /pl/ /hr/ /nl/` — chaque page est **entièrement traduite dans le HTML**, donc indexable séparément par Google. C'est le point le plus important pour prospecter dans plusieurs pays. |
+| `hreflang` | Chaque page déclare ses huit sœurs + `x-default`, pour que Google serve la bonne langue selon le pays du visiteur. |
+| Balises `title` / `description` | Uniques et traduites par langue, calibrées pour l'affichage dans les résultats. |
+| Canonique | Chaque page pointe vers elle-même, pas de contenu dupliqué. |
+| Données structurées | JSON-LD `Organization`, `WebSite` et `Product` : nom, logo, email, langues parlées, 21 pays desservis, épaisseurs, âmes, revêtements, disponibilité. C'est ce qui alimente les fiches enrichies. |
+| `sitemap.xml` | Les 9 URL avec leurs alternates, régénéré à chaque build. |
+| `robots.txt` | Indexation autorisée + lien vers le sitemap. |
+| Image de partage | `assets/og-image.png` (1200 × 630) : aperçu propre sur WhatsApp, LinkedIn, Facebook, Slack. |
+| Vitesse | Aucune police ni bibliothèque externe, aucune requête tierce, logo en PNG transparent. Un site rapide est mieux classé. |
+| Sémantique | Un seul `h1` par page, `h2` par section, texte alternatif sur les images, langue déclarée sur `<html>`. |
+| Mots-clés | Vocabulaire métier réellement recherché : ACP, ACM, aluminium composite panel, PVDF, âme A2, B1, incoterms, plus 29 ports de destination nommés. |
+
+### Regénérer les pages
+
+Après toute modification de `index.html` ou de `i18n.js` :
+
+```bash
+node build.mjs
+```
+
+Le script réécrit les huit dossiers de langue, `sitemap.xml` et `robots.txt`.
+**Ne jamais modifier à la main les fichiers dans `/en/`, `/fr/`, etc.** : ils sont
+écrasés à chaque build. Le jour d'un nom de domaine, changer la constante `SITE`
+en haut de `build.mjs` puis relancer le build.
+
+### Ce qui ne peut pas se faire depuis le code
+
+Le référencement se gagne autant en dehors du site :
+
+1. **Un vrai nom de domaine.** `panneaux.noxemgroup.com` inspire confiance et se
+   classe mieux qu'une adresse `github.io`. Se branche gratuitement sur GitHub Pages.
+2. **Google Search Console** — déclarer le site et soumettre `sitemap.xml`.
+   C'est ce qui déclenche l'indexation, sinon Google peut mettre des mois.
+3. **Bing Webmaster Tools** — même chose, utile au Maghreb et en Turquie.
+4. **Fiche Google Business Profile** au nom de l'entreprise, avec l'adresse réelle :
+   c'est ce qui fait apparaître la société quand on tape son nom.
+5. **Annuaires professionnels export** : Europages, Kompass, Alibaba, Made-in-China,
+   les chambres de commerce. Chaque fiche est un lien entrant, et les acheteurs y cherchent.
+6. **LinkedIn d'entreprise** pointant vers le site.
+7. **Les photos réelles** dans `assets/` : Google Images amène des acheteurs du bâtiment.

@@ -452,3 +452,20 @@ select, input, textarea, button { font-family: inherit; }
 [dir="rtl"] .stage__pick em,
 [dir="rtl"] .chartcell em { direction: ltr; unicode-bidi: isolate; }
 [dir="rtl"] .marquee__track { animation-direction: reverse; }
+
+/* ---------------- Marchés / ports ---------------- */
+.markets { margin-top: 44px; padding-top: 34px; border-top: 1px solid var(--line); }
+.markets h3 { font-size: 1.3rem; }
+.markets > p { max-width: 640px; font-size: .96rem; }
+.ports { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+.ports li {
+  font-size: .84rem; font-weight: 600; color: var(--slate);
+  background: var(--alt); border: 1px solid var(--line);
+  padding: 7px 13px; border-radius: 999px;
+}
+
+/* ---------------- Liens de langue du pied de page ---------------- */
+.footer__langs { display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: flex-start; }
+.footer__langs a { text-decoration: none; font-size: .86rem; color: rgba(255,255,255,.55); transition: color .25s; }
+.footer__langs a:hover { color: #fff; text-decoration: underline; }
+@media (max-width: 760px) { .footer__langs { gap: 6px 14px; } }

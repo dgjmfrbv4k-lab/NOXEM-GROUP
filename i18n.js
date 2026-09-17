@@ -92,7 +92,11 @@ en: {
   foot_tag: "Aluminium composite panels — built to specification, packed for export, delivered to your port.",
   foot_rights: "All rights reserved.",
   foot_note: "Colours shown on screen are indicative. Order decisions should be made on a physical sample.",
-  fab: "Request a quote"
+  fab: "Request a quote",
+  meta_desc: "Aluminium composite panels (ACP / ACM) built to specification: any thickness, aluminium skin 0.06 to 0.50 mm per face, 30 stock colours, export packing in wooden crates, delivery to your port.",
+  mkt_eyebrow: "Markets",
+  mkt_title: "We ship to the ports you buy from",
+  mkt_lead: "Regular loadings to North Africa, the Gulf, Turkey, the Balkans and across Europe. Name the port and the offer comes back priced to it."
 },
 
 /* ---------------------------------------------------- FR */
@@ -182,7 +186,11 @@ fr: {
   foot_tag: "Panneaux composites aluminium — fabriqués sur spécification, emballés pour l'export, livrés à votre port.",
   foot_rights: "Tous droits réservés.",
   foot_note: "Les coloris affichés à l'écran sont indicatifs. Toute commande doit être décidée sur un échantillon physique.",
-  fab: "Demander un devis"
+  fab: "Demander un devis",
+  meta_desc: "Panneaux composites aluminium (ACP / ACM) fabriqués sur spécification : toutes épaisseurs, tôle 0,06 à 0,50 mm par face, 30 coloris en stock, caisses bois export, livraison à votre port.",
+  mkt_eyebrow: "Marchés",
+  mkt_title: "Nous expédions vers les ports où vous achetez",
+  mkt_lead: "Chargements réguliers vers l'Afrique du Nord, le Golfe, la Turquie, les Balkans et toute l'Europe. Donnez le port, l'offre revient chiffrée jusque-là."
 },
 
 /* ---------------------------------------------------- AR */
@@ -272,7 +280,11 @@ ar: {
   foot_tag: "ألواح ألمنيوم مركبة — تُصنع حسب المواصفات، وتُغلَّف للتصدير، وتُسلَّم إلى مينائكم.",
   foot_rights: "جميع الحقوق محفوظة.",
   foot_note: "الألوان المعروضة على الشاشة تقريبية. يُعتمد في الطلب على العينة الفعلية.",
-  fab: "اطلب عرض سعر"
+  fab: "اطلب عرض سعر",
+  meta_desc: "ألواح ألمنيوم مركبة (ACP / ACM) حسب المواصفات: أي سماكة، وجه ألمنيوم من 0.06 إلى 0.50 مم، 30 لوناً في المخزون، تغليف تصدير في صناديق خشبية، وتسليم إلى مينائكم.",
+  mkt_eyebrow: "الأسواق",
+  mkt_title: "نشحن إلى الموانئ التي تشترون منها",
+  mkt_lead: "شحنات منتظمة إلى شمال إفريقيا والخليج وتركيا والبلقان وأنحاء أوروبا. حدّدوا الميناء ليصلكم العرض مسعّراً إليه."
 },
 
 /* ---------------------------------------------------- ES */
@@ -362,7 +374,11 @@ es: {
   foot_tag: "Paneles composite de aluminio — fabricados a especificación, embalados para exportar, entregados en su puerto.",
   foot_rights: "Todos los derechos reservados.",
   foot_note: "Los colores en pantalla son orientativos. La decisión de compra debe tomarse sobre una muestra física.",
-  fab: "Solicitar presupuesto"
+  fab: "Solicitar presupuesto",
+  meta_desc: "Paneles composite de aluminio (ACP / ACM) fabricados a medida: cualquier espesor, chapa de 0,06 a 0,50 mm por cara, 30 colores en stock, cajas de madera de exportación y entrega en su puerto.",
+  mkt_eyebrow: "Mercados",
+  mkt_title: "Enviamos a los puertos donde usted compra",
+  mkt_lead: "Cargas regulares al Norte de África, el Golfo, Turquía, los Balcanes y toda Europa. Indique el puerto y la oferta vuelve con el precio puesto allí."
 },
 
 /* ---------------------------------------------------- TR */
@@ -452,7 +468,11 @@ tr: {
   foot_tag: "Alüminyum kompozit paneller — şartnameye göre üretilir, ihracata ambalajlanır, limanınıza teslim edilir.",
   foot_rights: "Tüm hakları saklıdır.",
   foot_note: "Ekranda görünen renkler yaklaşıktır. Sipariş kararı fiziksel numuneye göre verilmelidir.",
-  fab: "Teklif isteyin"
+  fab: "Teklif isteyin",
+  meta_desc: "Şartnameye göre üretilen alüminyum kompozit paneller (ACP / ACM): her kalınlık, yüz başına 0,06 – 0,50 mm sac, stokta 30 renk, ahşap sandıkla ihracat ambalajı, limanınıza teslim.",
+  mkt_eyebrow: "Pazarlar",
+  mkt_title: "Mal aldığınız limanlara sevk ediyoruz",
+  mkt_lead: "Kuzey Afrika, Körfez, Türkiye, Balkanlar ve Avrupa geneline düzenli yüklemeler. Limanı söyleyin, teklif oraya teslim fiyatla gelsin."
 },
 
 /* ---------------------------------------------------- PL */
@@ -542,7 +562,11 @@ pl: {
   foot_tag: "Panele kompozytowe aluminiowe — produkowane na specyfikację, pakowane na eksport, dostarczane do Twojego portu.",
   foot_rights: "Wszelkie prawa zastrzeżone.",
   foot_note: "Kolory na ekranie są poglądowe. Decyzję zakupową należy podejmować na podstawie fizycznej próbki.",
-  fab: "Zapytanie ofertowe"
+  fab: "Zapytanie ofertowe",
+  meta_desc: "Panele kompozytowe aluminiowe (ACP / ACM) na specyfikację: dowolna grubość, blacha 0,06 – 0,50 mm na stronę, 30 kolorów z magazynu, skrzynie drewniane na eksport, dostawa do Twojego portu.",
+  mkt_eyebrow: "Rynki",
+  mkt_title: "Wysyłamy do portów, w których kupujesz",
+  mkt_lead: "Regularne załadunki do Afryki Północnej, Zatoki, Turcji, na Bałkany i do całej Europy. Podaj port, a oferta wróci z ceną do niego."
 },
 
 /* ---------------------------------------------------- HR */
@@ -632,7 +656,11 @@ hr: {
   foot_tag: "Aluminijski kompozitni paneli — izrađeni prema specifikaciji, pakirani za izvoz, isporučeni u vašu luku.",
   foot_rights: "Sva prava pridržana.",
   foot_note: "Boje na zaslonu su okvirne. Odluku o narudžbi donesite na temelju fizičkog uzorka.",
-  fab: "Zatražite ponudu"
+  fab: "Zatražite ponudu",
+  meta_desc: "Aluminijski kompozitni paneli (ACP / ACM) po specifikaciji: bilo koja debljina, ploča 0,06 – 0,50 mm po strani, 30 boja sa zalihe, drveni sanduci za izvoz, isporuka u vašu luku.",
+  mkt_eyebrow: "Tržišta",
+  mkt_title: "Otpremamo u luke u kojima kupujete",
+  mkt_lead: "Redoviti utovari za sjevernu Afriku, Zaljev, Tursku, Balkan i cijelu Europu. Recite luku i ponuda stiže s cijenom do nje."
 },
 
 /* ---------------------------------------------------- NL */
@@ -722,7 +750,11 @@ nl: {
   foot_tag: "Aluminium composietpanelen — op specificatie gebouwd, exportklaar verpakt, geleverd in uw haven.",
   foot_rights: "Alle rechten voorbehouden.",
   foot_note: "Kleuren op het scherm zijn indicatief. Beslis uw order op basis van een fysiek monster.",
-  fab: "Offerte aanvragen"
+  fab: "Offerte aanvragen",
+  meta_desc: "Aluminium composietpanelen (ACP / ACM) op specificatie: elke dikte, plaat 0,06 tot 0,50 mm per zijde, 30 kleuren uit voorraad, exportverpakking in houten kisten, levering in uw haven.",
+  mkt_eyebrow: "Markten",
+  mkt_title: "Wij verschepen naar de havens waar u koopt",
+  mkt_lead: "Regelmatige ladingen naar Noord-Afrika, de Golf, Turkije, de Balkan en heel Europa. Noem de haven en de offerte komt daarheen geprijsd terug."
 }
 
 };
