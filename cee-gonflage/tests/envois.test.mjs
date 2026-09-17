@@ -100,3 +100,23 @@ test('l’objet dépend du modèle, et un modèle inconnu échoue clairement', (
   assert.equal(modele().fichier, 'email-gonflage.html');
   assert.throws(() => modele('inexistant'), /Modèle inconnu/);
 });
+
+test('l’élision évite le « de Écully » qui trahit l’envoi automatique', async () => {
+  const { deCommune, construire, versionTexte } = await import('../emails/build-email.mjs');
+
+  assert.equal(deCommune('Dardilly'), 'de Dardilly');
+  assert.equal(deCommune('Écully'), 'd’Écully');       // accent : la voyelle doit être vue
+  assert.equal(deCommune('Annecy'), 'd’Annecy');
+  assert.equal(deCommune('Oullins'), 'd’Oullins');
+  assert.equal(deCommune(''), 'de votre commune');
+  assert.equal(deCommune(null), 'de votre commune');
+
+  const v = (commune) => valeursPour({ nom: `Mairie`, ville: commune });
+  assert.match(construire(v('Écully'), 'mairie'), /parking d’Écully/);
+  assert.match(construire(v('Dardilly'), 'mairie'), /parking de Dardilly/);
+  assert.match(versionTexte(v('Écully'), 'mairie'), /parking d’Écully/);
+  assert.match(versionTexte(v('Écully'), 'relance'), /parking d’Écully/);
+  // La variable dérivée ne doit jamais rester dans le message envoyé.
+  assert.doesNotMatch(construire(v('Écully'), 'mairie'), /\[de commune\]/);
+  assert.doesNotMatch(construire(v('Écully'), 'relance'), /\[de commune\]/);
+});

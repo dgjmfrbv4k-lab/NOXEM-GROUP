@@ -66,6 +66,20 @@ export const VALEURS_DEMO = {
   ...SIGNATURE,
 };
 
+/**
+ * Élision devant voyelle ou h muet : « de Dardilly » mais « d'Écully ».
+ *
+ * Sans cela le message écrit « un parking de Écully », et c'est exactement
+ * le détail qui signale un envoi automatique à la lecture.
+ */
+export function deCommune(nom) {
+  const texte = String(nom || '').trim();
+  if (!texte) return 'de votre commune';
+  // On compare sans accent : « Écully » commence bien par une voyelle.
+  const premiere = texte.normalize('NFD').replace(/[\u0300-\u036f]/g, '')[0].toLowerCase();
+  return /[aeiouy]/.test(premiere) ? `d’${texte}` : `de ${texte}`;
+}
+
 /** Version texte du modèle « gonflage » (commerces, parkings, aires). */
 function texteGonflage(valeurs) {
   return `Bonjour ${valeurs['[Prénom]']},
@@ -110,7 +124,7 @@ function texteMairie(valeurs) {
 
 Merci de transmettre ce message au service concerné : direction générale des services, services techniques ou service voirie / stationnement selon votre organisation.
 
-Une station de gonflage en libre accès sur un parking de ${valeurs['[commune]']}, gratuite pour les usagers, sans dépense pour la commune.
+Une station de gonflage en libre accès sur un parking ${deCommune(valeurs['[commune]'])}, gratuite pour les usagers, sans dépense pour la commune.
 
 Le dispositif des Certificats d'Économies d'Énergie, encadré par l'État, finance en grande partie l'installation d'une station de gonflage en libre accès ainsi que son entretien (fiche officielle TRA-SE-104). Un véhicule sur trois roule avec des pneus sous-gonflés : c'est de la surconsommation de carburant, de l'usure prématurée et un risque routier.
 
@@ -152,7 +166,7 @@ Pour ne plus être contacté, répondez « STOP » à ce message.`;
 function texteRelance(valeurs) {
   return `Bonjour ${valeurs['[Prénom]']},
 
-Je me permets de revenir vers vous au sujet de mon message concernant l'installation d'une station de gonflage en libre accès sur un parking de ${valeurs['[commune]']}.
+Je me permets de revenir vers vous au sujet de mon message concernant l'installation d'une station de gonflage en libre accès sur un parking ${deCommune(valeurs['[commune]'])}.
 
 Ce type de dossier passe rarement en tête des priorités, et c'est normal. Une précision qui lève souvent la question principale : le dispositif ne demande aucune dépense communale, et l'instruction du dossier CEE se fait de notre côté. Il n'y a pas de budget à trouver, pas de ligne à voter.
 
@@ -214,6 +228,8 @@ export function modele(nom = 'gonflage') {
 /** Remplit le gabarit HTML du modèle demandé. */
 export function construire(valeurs = VALEURS_DEMO, nomModele = 'gonflage') {
   let html = readFileSync(new URL(`./${modele(nomModele).fichier}`, import.meta.url), 'utf8');
+  // Variable dérivée : « de Dardilly » / « d'Écully ».
+  html = html.split('[de commune]').join(deCommune(valeurs['[commune]']));
   // Le lien « tel: » ne doit pas contenir d'espaces.
   html = html.split('[Votre téléphone sans espaces]')
     .join((valeurs['[Votre téléphone]'] || '').replace(/[^0-9+]/g, ''));
