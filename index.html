@@ -3,134 +3,382 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Montaugem — Papier A4 en gros</title>
-<meta name="description" content="Montaugem, vente de papier A4 en ligne pour particuliers, entreprises et administrations.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📄</text></svg>">
+<title>NOXEM GROUP — Panneaux composites aluminium (type Alucobond®)</title>
+<meta name="description" content="NOXEM GROUP : fourniture et pose de panneaux composites aluminium type Alucobond® pour façades ventilées, enseignes, habillages et agencement. Devis sous 48h.">
+<meta name="theme-color" content="#0d1218">
+<meta property="og:title" content="NOXEM GROUP — Panneaux composites aluminium">
+<meta property="og:description" content="Façades ventilées, enseignes, habillages : panneaux composites aluminium 3 et 4 mm, plus de 40 finitions. Devis sous 48h.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2218%22 fill=%22%230d1218%22/><text x=%2250%22 y=%2272%22 font-size=%2262%22 font-family=%22Arial%22 font-weight=%22bold%22 fill=%22%23c9d3dd%22 text-anchor=%22middle%22>N</text></svg>">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
+<a href="#main" class="skip-link">Aller au contenu</a>
+
 <header class="header" id="header">
   <div class="container header__inner">
-    <a href="#top" class="logo">
-      <span class="logo__mark">M</span>
-      <span class="logo__text">Montaugem</span>
+    <a href="#top" class="logo" aria-label="NOXEM GROUP, accueil">
+      <span class="logo__mark">N</span>
+      <span class="logo__text">NOXEM <em>GROUP</em></span>
     </a>
-    <nav class="nav" id="nav">
+
+    <nav class="nav" id="nav" aria-label="Navigation principale">
       <a href="#produits">Produits</a>
-      <a href="#pourquoi">Pourquoi nous</a>
-      <a href="#contact" class="nav__cta">Commander</a>
+      <a href="#finitions">Finitions</a>
+      <a href="#applications">Applications</a>
+      <a href="#methode">Méthode</a>
+      <a href="#faq">FAQ</a>
+      <a href="#contact" class="nav__cta">Demander un devis</a>
     </nav>
-    <button class="burger" id="burger" aria-label="Ouvrir le menu">
+
+    <button class="burger" id="burger" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="nav">
       <span></span><span></span><span></span>
     </button>
   </div>
 </header>
 
-<main>
+<main id="main">
 
+  <!-- ================= HERO ================= -->
   <section class="hero" id="top">
-    <div class="hero__bg" aria-hidden="true"></div>
+    <div class="hero__metal" aria-hidden="true"></div>
+    <div class="hero__grid" aria-hidden="true"></div>
     <div class="container hero__inner">
-      <p class="eyebrow reveal">Vente de papier A4</p>
-      <h1 class="reveal">Du papier A4 de qualité,<br>livré rapidement</h1>
-      <p class="hero__lead reveal">Montaugem fournit particuliers, entreprises et administrations en papier A4 pour tous les usages : bureautique, impression, copie.</p>
+      <p class="eyebrow eyebrow--light reveal">Panneaux composites aluminium</p>
+      <h1 class="reveal">
+        La façade qui reste<br>
+        <span class="shine">nette 20 ans plus tard</span>
+      </h1>
+      <p class="hero__lead reveal">
+        NOXEM GROUP fournit et pose des panneaux composites aluminium type Alucobond® :
+        façades ventilées, enseignes, habillages et agencement. Planéité parfaite,
+        laquage durable, mise en œuvre maîtrisée.
+      </p>
       <div class="hero__actions reveal">
-        <a href="#produits" class="btn btn--primary">Voir les produits</a>
-        <a href="#contact" class="btn btn--ghost">Demander un devis</a>
+        <a href="#contact" class="btn btn--primary">Demander un devis</a>
+        <a href="#produits" class="btn btn--ghost">Voir les panneaux</a>
       </div>
-      <div class="hero__stats reveal">
-        <div><strong data-count="500">0</strong><span>Tonnes vendues / an</span></div>
-        <div><strong data-count="1200">0</strong><span>Clients satisfaits</span></div>
-        <div><strong data-count="24">0</strong><span>Livraison en 24-48h</span></div>
+
+      <ul class="hero__stats reveal">
+        <li><strong data-count="40" data-suffix="+">0</strong><span>finitions disponibles</span></li>
+        <li><strong data-count="48" data-suffix="h">0</strong><span>pour recevoir un devis</span></li>
+        <li><strong data-count="20" data-suffix=" ans">0</strong><span>de tenue du laquage</span></li>
+      </ul>
+    </div>
+
+    <div class="marquee" aria-hidden="true">
+      <div class="marquee__track">
+        <span>Façades ventilées</span><i>◆</i>
+        <span>Enseignes &amp; signalétique</span><i>◆</i>
+        <span>Habillage de balcons</span><i>◆</i>
+        <span>Bardage</span><i>◆</i>
+        <span>Agencement intérieur</span><i>◆</i>
+        <span>Façades ventilées</span><i>◆</i>
+        <span>Enseignes &amp; signalétique</span><i>◆</i>
+        <span>Habillage de balcons</span><i>◆</i>
+        <span>Bardage</span><i>◆</i>
+        <span>Agencement intérieur</span><i>◆</i>
       </div>
     </div>
   </section>
 
+  <!-- ================= PRODUITS ================= -->
   <section class="section" id="produits">
     <div class="container">
-      <p class="eyebrow reveal">Nos produits</p>
-      <h2 class="reveal">Un papier A4 pour chaque besoin</h2>
+      <header class="section__head">
+        <p class="eyebrow reveal">Nos panneaux</p>
+        <h2 class="reveal">Trois références qui couvrent 95 % des chantiers</h2>
+        <p class="section__lead reveal">
+          Deux tôles d'aluminium laquées enserrant une âme minérale ou polyéthylène.
+          Léger, rigide, parfaitement plan — et usinable comme du bois.
+        </p>
+      </header>
+
       <div class="grid grid--3">
         <article class="card reveal">
-          <div class="card__icon">📄</div>
-          <h3>Papier A4 80g standard</h3>
-          <p>Le papier de bureau classique, blanc et fluide, idéal pour l'impression quotidienne. Ramette de 500 feuilles.</p>
-          <p class="price">4,90&nbsp;€ / ramette</p>
+          <div class="card__badge">Le plus demandé</div>
+          <h3>Composite 4 mm — âme PE</h3>
+          <p>Le standard de la façade et de l'enseigne. Excellent rapport rigidité / poids, pliage et rainurage faciles.</p>
+          <ul class="specs">
+            <li><span>Épaisseur</span><b>4 mm</b></li>
+            <li><span>Tôle alu</span><b>0,50 mm</b></li>
+            <li><span>Poids</span><b>≈ 5,5 kg/m²</b></li>
+            <li><span>Formats</span><b>1250 / 1500 × 3200 mm</b></li>
+          </ul>
+          <p class="price">Sur devis <em>— tarif dégressif dès 50 m²</em></p>
+          <a href="#contact" class="card__link">Demander le prix →</a>
         </article>
-        <article class="card reveal">
-          <div class="card__icon">✨</div>
-          <h3>Papier A4 90g premium</h3>
-          <p>Plus épais et plus opaque, parfait pour les documents recto-verso et les impressions haut de gamme.</p>
-          <p class="price">6,50&nbsp;€ / ramette</p>
+
+        <article class="card card--featured reveal">
+          <div class="card__badge card__badge--accent">Classement A2</div>
+          <h3>Composite 4 mm — âme minérale FR</h3>
+          <p>Âme minérale à réaction au feu améliorée (A2-s1,d0). Exigé sur les ERP et les bâtiments de grande hauteur.</p>
+          <ul class="specs">
+            <li><span>Épaisseur</span><b>4 mm</b></li>
+            <li><span>Réaction au feu</span><b>A2-s1,d0</b></li>
+            <li><span>Poids</span><b>≈ 7,6 kg/m²</b></li>
+            <li><span>Formats</span><b>1250 / 1500 × 3200 mm</b></li>
+          </ul>
+          <p class="price">Sur devis <em>— fiches techniques fournies</em></p>
+          <a href="#contact" class="card__link">Demander le prix →</a>
         </article>
+
         <article class="card reveal">
-          <div class="card__icon">📦</div>
-          <h3>Carton de 5 ramettes</h3>
-          <p>2500 feuilles A4 80g, le format économique pour les bureaux et les administrations.</p>
-          <p class="price">21,90&nbsp;€ / carton</p>
+          <div class="card__badge">Signalétique</div>
+          <h3>Composite 3 mm</h3>
+          <p>Plus fin et plus léger, idéal pour les enseignes, les caissons, la PLV et l'habillage intérieur.</p>
+          <ul class="specs">
+            <li><span>Épaisseur</span><b>3 mm</b></li>
+            <li><span>Tôle alu</span><b>0,30 mm</b></li>
+            <li><span>Poids</span><b>≈ 3,9 kg/m²</b></li>
+            <li><span>Formats</span><b>1250 × 2500 / 3050 mm</b></li>
+          </ul>
+          <p class="price">Sur devis <em>— découpe à la demande</em></p>
+          <a href="#contact" class="card__link">Demander le prix →</a>
+        </article>
+      </div>
+
+      <p class="note reveal">
+        Découpe numérique, rainurage, pliage, perçage et cassettes prêtes à poser : nous livrons le panneau
+        brut ou l'élément fini, aux cotes de votre calepinage.
+      </p>
+    </div>
+  </section>
+
+  <!-- ================= FINITIONS ================= -->
+  <section class="section section--dark" id="finitions">
+    <div class="container">
+      <header class="section__head">
+        <p class="eyebrow eyebrow--light reveal">Finitions</p>
+        <h2 class="reveal">Choisissez la peau du bâtiment</h2>
+        <p class="section__lead reveal">
+          Laquage PVDF haute tenue, teintes RAL sur demande, effets métallisés, bois et miroir.
+          Cliquez une finition pour la visualiser.
+        </p>
+      </header>
+
+      <div class="finish">
+        <div class="finish__preview reveal">
+          <div class="panel" id="panel" data-finish="silver">
+            <div class="panel__sheen" aria-hidden="true"></div>
+            <div class="panel__joint" aria-hidden="true"></div>
+            <div class="panel__joint panel__joint--v" aria-hidden="true"></div>
+          </div>
+          <div class="finish__meta">
+            <strong id="finish-name">Silver Metallic</strong>
+            <span id="finish-ref">Réf. NX-101 · laquage PVDF</span>
+          </div>
+        </div>
+
+        <div class="finish__list reveal" role="group" aria-label="Choix de la finition">
+          <button class="swatch is-active" data-finish="silver" data-name="Silver Metallic" data-ref="Réf. NX-101 · laquage PVDF"><span></span>Silver Metallic</button>
+          <button class="swatch" data-finish="champagne" data-name="Champagne Metallic" data-ref="Réf. NX-118 · laquage PVDF"><span></span>Champagne</button>
+          <button class="swatch" data-finish="anthracite" data-name="Anthracite" data-ref="Réf. NX-704 · RAL 7016"><span></span>Anthracite</button>
+          <button class="swatch" data-finish="blanc" data-name="Blanc pur" data-ref="Réf. NX-901 · RAL 9010"><span></span>Blanc pur</button>
+          <button class="swatch" data-finish="noir" data-name="Noir mat" data-ref="Réf. NX-905 · RAL 9005 mat"><span></span>Noir mat</button>
+          <button class="swatch" data-finish="cuivre" data-name="Cuivre brossé" data-ref="Réf. NX-220 · effet métal"><span></span>Cuivre brossé</button>
+          <button class="swatch" data-finish="bois" data-name="Chêne naturel" data-ref="Réf. NX-330 · décor bois"><span></span>Chêne naturel</button>
+          <button class="swatch" data-finish="miroir" data-name="Miroir poli" data-ref="Réf. NX-150 · effet miroir"><span></span>Miroir poli</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= APPLICATIONS ================= -->
+  <section class="section" id="applications">
+    <div class="container">
+      <header class="section__head">
+        <p class="eyebrow reveal">Applications</p>
+        <h2 class="reveal">Là où le composite aluminium fait la différence</h2>
+      </header>
+
+      <div class="grid grid--4">
+        <article class="tile reveal">
+          <div class="tile__icon" aria-hidden="true">🏢</div>
+          <h3>Façade ventilée</h3>
+          <p>Pose sur ossature alu, lame d'air et isolant. Un habillage qui protège le bâti et rattrape les défauts de planéité.</p>
+        </article>
+        <article class="tile reveal">
+          <div class="tile__icon" aria-hidden="true">🔤</div>
+          <h3>Enseignes &amp; signalétique</h3>
+          <p>Caissons, lettrages, totems. Support parfaitement plan pour l'impression numérique et l'adhésif.</p>
+        </article>
+        <article class="tile reveal">
+          <div class="tile__icon" aria-hidden="true">🛗</div>
+          <h3>Habillage &amp; rénovation</h3>
+          <p>Balcons, acrotères, auvents, gaines d'ascenseur : on recouvre l'existant sans le démolir.</p>
+        </article>
+        <article class="tile reveal">
+          <div class="tile__icon" aria-hidden="true">🛋️</div>
+          <h3>Agencement intérieur</h3>
+          <p>Comptoirs, cloisons, stands, mobilier urbain. Léger à manipuler, propre à l'assemblage.</p>
         </article>
       </div>
     </div>
   </section>
 
-  <section class="section section--alt" id="pourquoi">
+  <!-- ================= ATOUTS ================= -->
+  <section class="section section--alt" id="atouts">
     <div class="container about">
       <div class="about__text reveal">
-        <p class="eyebrow">Pourquoi Montaugem</p>
-        <h2>Simple, fiable, sans surprise</h2>
-        <p>Montaugem, c'est un fournisseur direct de papier A4 qui privilégie la simplicité : des prix clairs, un stock disponible et une livraison rapide partout en France.</p>
+        <p class="eyebrow">Pourquoi NOXEM GROUP</p>
+        <h2>Le panneau est un produit. La pose est un métier.</h2>
+        <p>
+          Nous ne vendons pas seulement de la matière : nous préparons le calepinage, nous usinons aux cotes
+          et nous posons. Un seul interlocuteur du relevé au nettoyage de fin de chantier.
+        </p>
         <ul class="check-list">
-          <li>Papier certifié, blancheur et grammage garantis</li>
-          <li>Livraison sous 24 à 48h</li>
-          <li>Tarifs dégressifs pour les commandes en gros volume</li>
+          <li>Relevé sur site et calepinage fourni avant commande</li>
+          <li>Usinage numérique : découpe, rainurage, pliage, cassettes</li>
+          <li>Fiches techniques et PV de réaction au feu sur demande</li>
+          <li>Pose par nos équipes, chantier livré propre</li>
+          <li>Tarifs dégressifs sur les grandes surfaces</li>
         </ul>
-        <a href="#contact" class="btn btn--primary">Demander un devis</a>
+        <a href="#contact" class="btn btn--primary">Parler de votre projet</a>
       </div>
+
       <div class="about__visual reveal" aria-hidden="true">
-        <div class="orb"></div>
+        <div class="stack">
+          <div class="stack__layer stack__layer--alu"><span>Tôle aluminium laquée</span></div>
+          <div class="stack__layer stack__layer--core"><span>Âme minérale / PE</span></div>
+          <div class="stack__layer stack__layer--alu"><span>Tôle aluminium</span></div>
+          <div class="stack__caption">Structure du panneau composite</div>
+        </div>
       </div>
     </div>
   </section>
 
+  <!-- ================= METHODE ================= -->
+  <section class="section" id="methode">
+    <div class="container">
+      <header class="section__head">
+        <p class="eyebrow reveal">Méthode</p>
+        <h2 class="reveal">Du premier appel au panneau posé</h2>
+      </header>
+
+      <ol class="steps">
+        <li class="step reveal"><span class="step__num">01</span><h3>Échange</h3><p>Vous décrivez le projet : surface, support, contraintes feu, délai.</p></li>
+        <li class="step reveal"><span class="step__num">02</span><h3>Relevé &amp; calepinage</h3><p>Visite sur site, plan de pose et choix de la finition.</p></li>
+        <li class="step reveal"><span class="step__num">03</span><h3>Devis sous 48h</h3><p>Prix détaillé au m², fourniture et pose séparées si besoin.</p></li>
+        <li class="step reveal"><span class="step__num">04</span><h3>Usinage &amp; pose</h3><p>Panneaux usinés aux cotes, ossature montée, chantier réceptionné.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- ================= CTA ================= -->
   <section class="section section--cta">
     <div class="container cta reveal">
-      <h2>Besoin de papier A4 ?</h2>
-      <p>Contactez-nous, réponse sous 24h ouvrées.</p>
-      <a href="#contact" class="btn btn--primary btn--lg">Nous contacter</a>
+      <h2>Un projet de façade ou d'enseigne ?</h2>
+      <p>Envoyez-nous vos surfaces et vos photos : vous avez un devis chiffré sous 48h ouvrées.</p>
+      <a href="#contact" class="btn btn--light btn--lg">Demander un devis gratuit</a>
     </div>
   </section>
 
-  <section class="section" id="contact">
+  <!-- ================= FAQ ================= -->
+  <section class="section" id="faq">
+    <div class="container container--narrow">
+      <header class="section__head">
+        <p class="eyebrow reveal">Questions fréquentes</p>
+        <h2 class="reveal">Ce qu'on nous demande le plus souvent</h2>
+      </header>
+
+      <div class="faq">
+        <details class="faq__item reveal">
+          <summary>Quelle différence entre l'âme PE et l'âme minérale A2 ?</summary>
+          <p>L'âme polyéthylène est plus légère et moins chère, parfaite pour l'enseigne et les bâtiments courants de faible hauteur. L'âme minérale FR est classée A2-s1,d0 : elle est exigée par la réglementation sur les ERP, les IGH et la plupart des façades de logements collectifs. En cas de doute, nous vérifions avec vous avant le devis.</p>
+        </details>
+        <details class="faq__item reveal">
+          <summary>Livrez-vous le panneau seul, sans la pose ?</summary>
+          <p>Oui. Nous livrons en plaques brutes, en panneaux découpés à vos cotes, ou en cassettes pliées prêtes à clipser. La pose reste optionnelle.</p>
+        </details>
+        <details class="faq__item reveal">
+          <summary>Peut-on obtenir une teinte RAL précise ?</summary>
+          <p>Oui, la quasi-totalité du nuancier RAL est réalisable en laquage, ainsi que les effets métallisés, bois et miroir. Les teintes hors stock demandent un délai de fabrication supplémentaire — comptez 3 à 5 semaines.</p>
+        </details>
+        <details class="faq__item reveal">
+          <summary>Quelle durée de vie et quel entretien ?</summary>
+          <p>Le laquage PVDF tient couramment 20 ans et plus sans écaillage. L'entretien se limite à un lavage à l'eau savonneuse. Pas de peinture à refaire, pas de corrosion comme sur l'acier.</p>
+        </details>
+        <details class="faq__item reveal">
+          <summary>Intervenez-vous partout ?</summary>
+          <p>La fourniture est expédiée partout ; la pose se fait dans notre zone d'intervention habituelle. Indiquez-nous la ville du chantier et nous vous confirmons immédiatement.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= CONTACT ================= -->
+  <section class="section section--alt" id="contact">
     <div class="container contact">
       <div class="contact__info reveal">
         <p class="eyebrow">Contact</p>
-        <h2>Passer une commande</h2>
-        <p>Indiquez-nous la quantité souhaitée, nous revenons vers vous rapidement avec un devis.</p>
+        <h2>Demander un devis</h2>
+        <p>Décrivez votre projet en quelques lignes. Plus vous nous donnez de détails (surface, hauteur, support existant), plus le chiffrage sera précis.</p>
+
         <div class="contact__detail">
           <strong>Email</strong>
-          <a href="mailto:contact@montaugem.fr">contact@montaugem.fr</a>
+          <a href="mailto:contact@noxem-group.com">contact@noxem-group.com</a>
         </div>
         <div class="contact__detail">
           <strong>Téléphone</strong>
-          <a href="tel:+33100000000">+33 1 00 00 00 00</a>
+          <a href="tel:+33000000000">+33 0 00 00 00 00</a>
+        </div>
+        <div class="contact__detail">
+          <strong>Horaires</strong>
+          <span>Lundi – vendredi, 8h – 18h</span>
         </div>
       </div>
-      <form class="contact__form" id="contact-form">
-        <div class="field">
-          <label for="name">Nom</label>
-          <input type="text" id="name" name="name" required autocomplete="name">
+
+      <form class="contact__form reveal" id="quote-form" novalidate>
+        <div class="field-row">
+          <div class="field">
+            <label for="name">Nom</label>
+            <input type="text" id="name" name="name" required autocomplete="name" placeholder="Votre nom">
+          </div>
+          <div class="field">
+            <label for="company">Société <em>(facultatif)</em></label>
+            <input type="text" id="company" name="company" autocomplete="organization" placeholder="Nom de la société">
+          </div>
         </div>
-        <div class="field">
-          <label for="email">Email</label>
-          <input type="email" id="email" name="email" required autocomplete="email">
+
+        <div class="field-row">
+          <div class="field">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required autocomplete="email" placeholder="vous@exemple.com">
+          </div>
+          <div class="field">
+            <label for="phone">Téléphone <em>(facultatif)</em></label>
+            <input type="tel" id="phone" name="phone" autocomplete="tel" placeholder="06 00 00 00 00">
+          </div>
         </div>
-        <div class="field">
-          <label for="message">Message (quantité souhaitée)</label>
-          <textarea id="message" name="message" rows="5" required></textarea>
+
+        <div class="field-row">
+          <div class="field">
+            <label for="type">Type de projet</label>
+            <select id="type" name="type">
+              <option>Façade ventilée</option>
+              <option>Enseigne / signalétique</option>
+              <option>Habillage / rénovation</option>
+              <option>Agencement intérieur</option>
+              <option>Fourniture de panneaux seule</option>
+              <option>Autre</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="surface">Surface estimée (m²)</label>
+            <input type="number" id="surface" name="surface" min="1" step="1" placeholder="120">
+          </div>
         </div>
+
+        <div class="field">
+          <label for="message">Votre projet</label>
+          <textarea id="message" name="message" rows="5" required placeholder="Ville du chantier, support existant, finition souhaitée, délai…"></textarea>
+        </div>
+
         <button type="submit" class="btn btn--primary btn--full">Envoyer la demande</button>
         <p class="form__status" id="form-status" role="status" aria-live="polite"></p>
+        <p class="form__hint">Votre logiciel de messagerie s'ouvrira avec la demande pré-remplie.</p>
       </form>
     </div>
   </section>
@@ -139,13 +387,30 @@
 
 <footer class="footer">
   <div class="container footer__inner">
-    <div class="logo logo--footer">
-      <span class="logo__mark">M</span>
-      <span class="logo__text">Montaugem</span>
+    <div class="footer__brand">
+      <div class="logo logo--footer">
+        <span class="logo__mark">N</span>
+        <span class="logo__text">NOXEM <em>GROUP</em></span>
+      </div>
+      <p>Panneaux composites aluminium — fourniture, usinage et pose.</p>
     </div>
-    <p>&copy; <span id="year"></span> Montaugem. Site de démonstration.</p>
+
+    <nav class="footer__nav" aria-label="Navigation de pied de page">
+      <a href="#produits">Produits</a>
+      <a href="#finitions">Finitions</a>
+      <a href="#applications">Applications</a>
+      <a href="#faq">FAQ</a>
+      <a href="#contact">Devis</a>
+    </nav>
+  </div>
+
+  <div class="container footer__legal">
+    <p>&copy; <span id="year"></span> NOXEM GROUP. Tous droits réservés.</p>
+    <p class="footer__tm">Alucobond® est une marque déposée de 3A Composites GmbH. NOXEM GROUP n'est pas affilié au fabricant ; la marque n'est citée qu'à titre de référence produit.</p>
   </div>
 </footer>
+
+<a href="#contact" class="fab" id="fab">Devis gratuit</a>
 
 <script src="script.js"></script>
 </body>

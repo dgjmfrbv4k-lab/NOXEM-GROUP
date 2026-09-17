@@ -2,7 +2,7 @@ name: Deploy static site to Pages
 
 on:
   push:
-    branches: ["claude/site-web-wk26wl"]
+    branches: ["main", "claude/zen-pascal-ymm47r"]
   workflow_dispatch:
 
 permissions:
