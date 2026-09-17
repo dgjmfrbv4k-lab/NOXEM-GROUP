@@ -95,3 +95,31 @@ test('le nom de commune se déduit des domaines explicites, et se signale douteu
   // ressort collé — donc impossible à envoyer sans relecture.
   assert.equal(communeDepuisDomaine('ville-saintefoyleslyon.fr').nom, 'Saintefoyleslyon');
 });
+
+test('les services sans rapport avec un parking sont écartés', async () => {
+  const { estMauvaisService } = await import('../outils/analyser-liste.mjs');
+  assert.ok(estMauvaisService('accueil_bij@ville-antibes.fr'));        // info jeunesse
+  assert.ok(estMauvaisService('accueil.mdj@mairie-guipavas.fr'));      // maison des jeunes
+  assert.ok(estMauvaisService('cuisine.centrale@mairie-meyzieu.fr'));
+  assert.ok(estMauvaisService('etat-civil@ville-x.fr'));
+  assert.ok(estMauvaisService('bibliotheque@ville-x.fr'));
+  // Ceux qui décident d'un aménagement de parking passent.
+  assert.ok(!estMauvaisService('accueil-mairie@ville-guise.fr'));
+  assert.ok(!estMauvaisService('accueil.environnement@mairie-mandelieu.fr'));
+  assert.ok(!estMauvaisService('cadredevie@mairie-francheville69.fr'));
+  assert.ok(!estMauvaisService('services.techniques@ville-x.fr'));
+});
+
+test('un nom composé aplati bascule en version générique', async () => {
+  const { nomProbablementColle } = await import('../outils/analyser-liste.mjs');
+  assert.ok(nomProbablementColle('Sinlenoble'));     // Sin-le-Noble
+  assert.ok(nomProbablementColle('Azaysurcher'));    // Azay-sur-Cher
+  assert.ok(nomProbablementColle('Batzsurmer'));     // Batz-sur-Mer
+  // Les noms simples passent.
+  assert.ok(!nomProbablementColle('Montjean'));
+  assert.ok(!nomProbablementColle('Albi'));
+  assert.ok(!nomProbablementColle('Guipavas'));
+  // Déjà décomposé : rien à signaler.
+  assert.ok(!nomProbablementColle('Vern-sur-Seiche'));
+  assert.ok(!nomProbablementColle(''));
+});

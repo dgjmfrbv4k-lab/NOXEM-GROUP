@@ -203,3 +203,32 @@ export function communeDepuisDomaine(domaine) {
 
   return { nom, sur: Boolean(explicite) };
 }
+
+/**
+ * Services d'une collectivité qui ne décident jamais d'un aménagement de
+ * parking. Écrire au Bureau Information Jeunesse ou à la bibliothèque, c'est
+ * un message perdu et un agacement gratuit.
+ */
+const MAUVAIS_SERVICE = new RegExp([
+  'bij', 'mdj', 'jeunesse', 'patrimoine', 'prevention', 'sport', 'culture',
+  'bibliotheque', 'mediatheque', 'ecole', 'creche', 'cantine', 'cuisine',
+  'periscolaire', 'etat[.-]?civil', 'etatcivil', 'elections?', 'cimetiere',
+  'social', 'seniors?', 'petite[.-]?enfance', 'scolaire', 'musee', 'archives',
+  'tourisme', 'communication', 'presse', 'rh', 'recrutement', 'paie',
+].join('|'));
+
+/** L'adresse vise-t-elle un service sans rapport avec un parking ? */
+export function estMauvaisService(email) {
+  return MAUVAIS_SERVICE.test(String(email).split('@')[0].toLowerCase());
+}
+
+/**
+ * Un nom de commune composé mais écrit collé : « Sinlenoble », « Azaysurcher ».
+ * L'envoyer tel quel signale l'automate ; on préfère la version générique.
+ */
+export function nomProbablementColle(nom) {
+  const n = String(nom || '').toLowerCase();
+  if (n.includes('-')) return false;                       // déjà décomposé
+  // Une particule enfouie au milieu d'un mot trahit un nom composé aplati.
+  return /.{2}(sur|sous|les|lez|lelas?|en|aux)[a-z]{2,}/.test(n);
+}
