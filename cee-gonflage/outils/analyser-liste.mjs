@@ -185,7 +185,13 @@ if (import.meta.url === `file://${process.argv[1]}`) principal();
  */
 export function communeDepuisDomaine(domaine) {
   const base = String(domaine || '').toLowerCase().replace(/\.(fr|com|net|org)$/, '');
-  const explicite = base.match(/^(?:mairie|ville|commune|mun)[-.]?(.+)$/)
+  // Le séparateur est OBLIGATOIRE : sans lui, « mairiedevalmont » se coupe en
+  // « devalmont » et « mairiedemassiac » en « demassiac ». Retirer un « de »
+  // collé serait pire encore — « Denain » deviendrait « nain ». Sans
+  // séparateur, on préfère donc ne pas savoir.
+  // « villede-lyon » et « mairie-de-x » restent lisibles : le « de » y est
+  // suivi d'un séparateur. « mairiedevalmont » ne l'est pas.
+  const explicite = base.match(/^(?:mairie|ville|commune|mun)(?:de|du|des)?[-.](.+)$/)
     || base.match(/^(.+?)[-.](?:mairie|ville|commune)$/);
   const brut = (explicite ? explicite[1] : base)
     .replace(/\d+$/, '')                       // mairie-montjean53 -> montjean

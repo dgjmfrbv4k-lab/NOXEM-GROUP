@@ -135,3 +135,16 @@ test('les formes d’adresse qui ont rebondi à 100 % sont écartées', async ()
   assert.equal(formeRisquee('accueil-mairie@ville-guise.fr'), '');
   assert.equal(formeRisquee('accueil.environnement@mairie-mandelieu.fr'), '');
 });
+
+test('sans séparateur, le nom de commune n’est pas deviné', async () => {
+  const { communeDepuisDomaine } = await import('../outils/analyser-liste.mjs');
+  // « mairiedevalmont » donnerait « Devalmont », « mairiedemassiac » « Demassiac ».
+  assert.equal(communeDepuisDomaine('mairiedevalmont.fr').sur, false);
+  assert.equal(communeDepuisDomaine('mairiedemassiac.fr').sur, false);
+  assert.equal(communeDepuisDomaine('mairielescarroz.com').sur, false);
+  // Retirer un « de » collé serait pire : Denain deviendrait « nain ».
+  assert.equal(communeDepuisDomaine('mairie-denain.fr').nom, 'Denain');
+  // Avec séparateur, la déduction reste fiable.
+  assert.equal(communeDepuisDomaine('mairie-montjean53.fr').sur, true);
+  assert.equal(communeDepuisDomaine('ville-antibes.fr').nom, 'Antibes');
+});
