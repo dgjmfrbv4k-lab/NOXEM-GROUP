@@ -109,3 +109,31 @@ Le référencement se gagne autant en dehors du site :
    les chambres de commerce. Chaque fiche est un lien entrant, et les acheteurs y cherchent.
 6. **LinkedIn d'entreprise** pointant vers le site.
 7. **Les photos réelles** dans `assets/` : Google Images amène des acheteurs du bâtiment.
+
+## Pages légales
+
+Six pages, en français et en anglais, dans `legal/` :
+
+| Français | English |
+|---|---|
+| `mentions-legales.html` | `legal-notice.html` |
+| `politique-de-confidentialite.html` | `privacy-policy.html` |
+| `conditions-generales-de-vente.html` | `terms-of-sale.html` |
+
+Elles sont liées depuis le pied de page de toutes les pages du site : version
+française sur `/fr/`, version anglaise partout ailleurs.
+
+**Avant diffusion commerciale, il reste à faire deux choses :**
+
+1. Remplacer les mentions surlignées en jaune (`<mark class="fill">`) par les
+   informations officielles : forme juridique et capital, RCS, TVA
+   intracommunautaire, directeur de la publication, délai de validité des offres,
+   modalités de paiement, tolérance de quantité.
+2. Faire relire les conditions générales de vente par votre conseil juridique,
+   puis supprimer l'encadré orange `<div class="todo">` en haut de chaque page.
+
+La politique de confidentialité décrit fidèlement le fonctionnement réel du site :
+aucun cookie de suivi, aucun service tiers, formulaire qui ouvre la messagerie du
+visiteur sans passer par un serveur, et mémorisation locale de la langue choisie.
+Si le fonctionnement du formulaire change (branchement d'un service type
+Formspree), cette page doit être mise à jour en conséquence.

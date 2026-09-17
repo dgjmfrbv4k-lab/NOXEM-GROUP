@@ -96,7 +96,13 @@ en: {
   meta_desc: "Aluminium composite panels (ACP / ACM) built to specification: any thickness, aluminium skin 0.06 to 0.50 mm per face, 30 stock colours, export packing in wooden crates, delivery to your port.",
   mkt_eyebrow: "Markets",
   mkt_title: "We ship to the ports you buy from",
-  mkt_lead: "Regular loadings to North Africa, the Gulf, Turkey, the Balkans and across Europe. Name the port and the offer comes back priced to it."
+  mkt_lead: "Regular loadings to North Africa, the Gulf, Turkey, the Balkans and across Europe. Name the port and the offer comes back priced to it.",
+  q_address: "Address",
+  q_phone: "Phone",
+  foot_legal: "Legal notice",
+  foot_privacy: "Privacy policy",
+  foot_terms: "Terms of sale",
+  foot_contact: "Contact"
 },
 
 /* ---------------------------------------------------- FR */
@@ -190,7 +196,13 @@ fr: {
   meta_desc: "Panneaux composites aluminium (ACP / ACM) fabriqués sur spécification : toutes épaisseurs, tôle 0,06 à 0,50 mm par face, 30 coloris en stock, caisses bois export, livraison à votre port.",
   mkt_eyebrow: "Marchés",
   mkt_title: "Nous expédions vers les ports où vous achetez",
-  mkt_lead: "Chargements réguliers vers l'Afrique du Nord, le Golfe, la Turquie, les Balkans et toute l'Europe. Donnez le port, l'offre revient chiffrée jusque-là."
+  mkt_lead: "Chargements réguliers vers l'Afrique du Nord, le Golfe, la Turquie, les Balkans et toute l'Europe. Donnez le port, l'offre revient chiffrée jusque-là.",
+  q_address: "Adresse",
+  q_phone: "Téléphone",
+  foot_legal: "Mentions légales",
+  foot_privacy: "Politique de confidentialité",
+  foot_terms: "Conditions générales de vente",
+  foot_contact: "Contact"
 },
 
 /* ---------------------------------------------------- AR */
@@ -284,7 +296,13 @@ ar: {
   meta_desc: "ألواح ألمنيوم مركبة (ACP / ACM) حسب المواصفات: أي سماكة، وجه ألمنيوم من 0.06 إلى 0.50 مم، 30 لوناً في المخزون، تغليف تصدير في صناديق خشبية، وتسليم إلى مينائكم.",
   mkt_eyebrow: "الأسواق",
   mkt_title: "نشحن إلى الموانئ التي تشترون منها",
-  mkt_lead: "شحنات منتظمة إلى شمال إفريقيا والخليج وتركيا والبلقان وأنحاء أوروبا. حدّدوا الميناء ليصلكم العرض مسعّراً إليه."
+  mkt_lead: "شحنات منتظمة إلى شمال إفريقيا والخليج وتركيا والبلقان وأنحاء أوروبا. حدّدوا الميناء ليصلكم العرض مسعّراً إليه.",
+  q_address: "العنوان",
+  q_phone: "الهاتف",
+  foot_legal: "البيانات القانونية",
+  foot_privacy: "سياسة الخصوصية",
+  foot_terms: "الشروط العامة للبيع",
+  foot_contact: "اتصلوا بنا"
 },
 
 /* ---------------------------------------------------- ES */
@@ -378,7 +396,13 @@ es: {
   meta_desc: "Paneles composite de aluminio (ACP / ACM) fabricados a medida: cualquier espesor, chapa de 0,06 a 0,50 mm por cara, 30 colores en stock, cajas de madera de exportación y entrega en su puerto.",
   mkt_eyebrow: "Mercados",
   mkt_title: "Enviamos a los puertos donde usted compra",
-  mkt_lead: "Cargas regulares al Norte de África, el Golfo, Turquía, los Balcanes y toda Europa. Indique el puerto y la oferta vuelve con el precio puesto allí."
+  mkt_lead: "Cargas regulares al Norte de África, el Golfo, Turquía, los Balcanes y toda Europa. Indique el puerto y la oferta vuelve con el precio puesto allí.",
+  q_address: "Dirección",
+  q_phone: "Teléfono",
+  foot_legal: "Aviso legal",
+  foot_privacy: "Política de privacidad",
+  foot_terms: "Condiciones de venta",
+  foot_contact: "Contacto"
 },
 
 /* ---------------------------------------------------- TR */
@@ -472,7 +496,13 @@ tr: {
   meta_desc: "Şartnameye göre üretilen alüminyum kompozit paneller (ACP / ACM): her kalınlık, yüz başına 0,06 – 0,50 mm sac, stokta 30 renk, ahşap sandıkla ihracat ambalajı, limanınıza teslim.",
   mkt_eyebrow: "Pazarlar",
   mkt_title: "Mal aldığınız limanlara sevk ediyoruz",
-  mkt_lead: "Kuzey Afrika, Körfez, Türkiye, Balkanlar ve Avrupa geneline düzenli yüklemeler. Limanı söyleyin, teklif oraya teslim fiyatla gelsin."
+  mkt_lead: "Kuzey Afrika, Körfez, Türkiye, Balkanlar ve Avrupa geneline düzenli yüklemeler. Limanı söyleyin, teklif oraya teslim fiyatla gelsin.",
+  q_address: "Adres",
+  q_phone: "Telefon",
+  foot_legal: "Yasal bilgiler",
+  foot_privacy: "Gizlilik politikası",
+  foot_terms: "Genel satış şartları",
+  foot_contact: "İletişim"
 },
 
 /* ---------------------------------------------------- PL */
@@ -566,7 +596,13 @@ pl: {
   meta_desc: "Panele kompozytowe aluminiowe (ACP / ACM) na specyfikację: dowolna grubość, blacha 0,06 – 0,50 mm na stronę, 30 kolorów z magazynu, skrzynie drewniane na eksport, dostawa do Twojego portu.",
   mkt_eyebrow: "Rynki",
   mkt_title: "Wysyłamy do portów, w których kupujesz",
-  mkt_lead: "Regularne załadunki do Afryki Północnej, Zatoki, Turcji, na Bałkany i do całej Europy. Podaj port, a oferta wróci z ceną do niego."
+  mkt_lead: "Regularne załadunki do Afryki Północnej, Zatoki, Turcji, na Bałkany i do całej Europy. Podaj port, a oferta wróci z ceną do niego.",
+  q_address: "Adres",
+  q_phone: "Telefon",
+  foot_legal: "Nota prawna",
+  foot_privacy: "Polityka prywatności",
+  foot_terms: "Ogólne warunki sprzedaży",
+  foot_contact: "Kontakt"
 },
 
 /* ---------------------------------------------------- HR */
@@ -660,7 +696,13 @@ hr: {
   meta_desc: "Aluminijski kompozitni paneli (ACP / ACM) po specifikaciji: bilo koja debljina, ploča 0,06 – 0,50 mm po strani, 30 boja sa zalihe, drveni sanduci za izvoz, isporuka u vašu luku.",
   mkt_eyebrow: "Tržišta",
   mkt_title: "Otpremamo u luke u kojima kupujete",
-  mkt_lead: "Redoviti utovari za sjevernu Afriku, Zaljev, Tursku, Balkan i cijelu Europu. Recite luku i ponuda stiže s cijenom do nje."
+  mkt_lead: "Redoviti utovari za sjevernu Afriku, Zaljev, Tursku, Balkan i cijelu Europu. Recite luku i ponuda stiže s cijenom do nje.",
+  q_address: "Adresa",
+  q_phone: "Telefon",
+  foot_legal: "Pravne informacije",
+  foot_privacy: "Politika privatnosti",
+  foot_terms: "Opći uvjeti prodaje",
+  foot_contact: "Kontakt"
 },
 
 /* ---------------------------------------------------- NL */
@@ -754,7 +796,13 @@ nl: {
   meta_desc: "Aluminium composietpanelen (ACP / ACM) op specificatie: elke dikte, plaat 0,06 tot 0,50 mm per zijde, 30 kleuren uit voorraad, exportverpakking in houten kisten, levering in uw haven.",
   mkt_eyebrow: "Markten",
   mkt_title: "Wij verschepen naar de havens waar u koopt",
-  mkt_lead: "Regelmatige ladingen naar Noord-Afrika, de Golf, Turkije, de Balkan en heel Europa. Noem de haven en de offerte komt daarheen geprijsd terug."
+  mkt_lead: "Regelmatige ladingen naar Noord-Afrika, de Golf, Turkije, de Balkan en heel Europa. Noem de haven en de offerte komt daarheen geprijsd terug.",
+  q_address: "Adres",
+  q_phone: "Telefoon",
+  foot_legal: "Juridische informatie",
+  foot_privacy: "Privacybeleid",
+  foot_terms: "Algemene verkoopvoorwaarden",
+  foot_contact: "Contact"
 }
 
 };

@@ -55,6 +55,15 @@ function translate(html, lang) {
   html = html.replace(/(<button type="button" role="option" data-lang="([a-z]{2})")/g,
     (m, start, code) => `${start} aria-selected="${code === lang ? "true" : "false"}"`);
 
+  // pages légales : version française pour /fr/, version anglaise ailleurs
+  const LEGAL = lang === "fr"
+    ? { "legal-notice.html": "mentions-legales.html",
+        "privacy-policy.html": "politique-de-confidentialite.html",
+        "terms-of-sale.html": "conditions-generales-de-vente.html" }
+    : {};
+  html = html.replace(/href="legal\/([a-z-]+\.html)"/g,
+    (m, file) => `href="../legal/${LEGAL[file] || file}"`);
+
   // chemins relatifs : la page vit dans un sous-dossier
   html = html.replace(/(href|src)="(styles\.css|app\.js|i18n\.js|assets\/)/g, '$1="../$2');
   html = html.replace(/href="([a-z]{2})\/"/g, 'href="../$1/"');
@@ -79,7 +88,14 @@ const alts = (u) =>
     .concat(LANGS.map((l) => `    <xhtml:link rel="alternate" hreflang="${l}" href="${SITE}/${l}/"/>`))
     .join("\n");
 
-const urls = [`${SITE}/`].concat(LANGS.map((l) => `${SITE}/${l}/`));
+const LEGAL_PAGES = [
+  "legal/mentions-legales.html", "legal/legal-notice.html",
+  "legal/politique-de-confidentialite.html", "legal/privacy-policy.html",
+  "legal/conditions-generales-de-vente.html", "legal/terms-of-sale.html",
+];
+const urls = [`${SITE}/`]
+  .concat(LANGS.map((l) => `${SITE}/${l}/`))
+  .concat(LEGAL_PAGES.map((f) => `${SITE}/${f}`));
 writeFileSync(
   "sitemap.xml",
   `<?xml version="1.0" encoding="UTF-8"?>
@@ -91,7 +107,7 @@ ${urls
     <lastmod>${today}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>${u === SITE + "/" ? "1.0" : "0.9"}</priority>
-${alts(u)}
+${u.includes("/legal/") ? "" : alts(u)}
   </url>`
   )
   .join("\n")}
