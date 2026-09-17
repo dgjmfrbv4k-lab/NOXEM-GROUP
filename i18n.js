@@ -115,7 +115,21 @@ en: {
   exp3_t: "As signage",
   exp3_d: "Perfectly flat, it is the standard backing for shop signs, light boxes and store fronts. Print or apply vinyl straight onto it.",
   wa_label: "Chat on WhatsApp",
-  wa_msg: "Hello, I would like a quotation for aluminium composite panels."
+  wa_msg: "Hello, I would like a quotation for aluminium composite panels.",
+  faq_eyebrow: "Questions buyers ask",
+  faq_title: "The six questions we answer every week",
+  faq_q1: "PE, FR (B1) or A2 core — which one do I need?",
+  faq_a1: "PE is the light, economical core for signage and low-rise buildings. FR (B1) is mineral-filled with improved fire behaviour. A2-s1,d0 is the non-combustible classification required on public buildings and high-rise in most countries. If your tender names a fire class, send it to us and we confirm the core before quoting.",
+  faq_q2: "What thickness should I order?",
+  faq_a2: "3 mm for signage, light boxes and interior work. 4 mm for façades and cladding — it is the standard on the great majority of projects. 6 mm where large panels or high wind loads are involved. Below 3 mm the panel is used for printing and display only.",
+  faq_q3: "Can I get an exact RAL colour?",
+  faq_a3: "Yes. The full RAL range, plus metallics, wood and marble décors, brushed and mirror finishes — over 500 shades in total. Send the RAL number or a physical sample and we match it. Custom colours are produced to order from 500 m²; the 30 stock shades ship immediately.",
+  faq_q4: "How many square metres fit in a container?",
+  faq_a4: "Around 2 000 m² of 4 mm panels in a 20'GP and around 4 500 m² in a 40'HQ, crated. The exact figure depends on sheet size and crate height, and is confirmed on the offer with the packing list.",
+  faq_q5: "What are your lead times?",
+  faq_a5: "Stock shades load quickly; a special colour has to be coil-coated and produced, which adds time. The lead time is stated on the offer and runs from the signed specification sheet and the deposit, not from the first enquiry.",
+  faq_q6: "How is the panel installed?",
+  faq_a6: "On an aluminium frame, either riveted flat or folded into cassettes clipped onto the structure, with a ventilated cavity behind. Panels cut, groove and fold with standard workshop tools — your installer needs no special equipment."
 },
 
 /* ---------------------------------------------------- FR */
@@ -228,7 +242,21 @@ fr: {
   exp3_t: "En enseigne",
   exp3_d: "Parfaitement plate, c'est le support classique des enseignes, des caissons lumineux et des devantures. On imprime ou on colle directement dessus.",
   wa_label: "Écrire sur WhatsApp",
-  wa_msg: "Bonjour, je souhaite un devis pour des panneaux composites aluminium."
+  wa_msg: "Bonjour, je souhaite un devis pour des panneaux composites aluminium.",
+  faq_eyebrow: "Questions d'acheteurs",
+  faq_title: "Les six questions qu'on nous pose toutes les semaines",
+  faq_q1: "Âme PE, FR (B1) ou A2 — laquelle me faut-il ?",
+  faq_a1: "Le PE est l'âme légère et économique, pour l'enseigne et les bâtiments de faible hauteur. L'âme FR (B1) est chargée minérale, avec une réaction au feu améliorée. L'A2-s1,d0 est le classement incombustible exigé sur les bâtiments publics et les immeubles de grande hauteur dans la plupart des pays. Si votre appel d'offres impose un classement, envoyez-le-nous : nous confirmons l'âme avant de chiffrer.",
+  faq_q2: "Quelle épaisseur commander ?",
+  faq_a2: "3 mm pour l'enseigne, les caissons lumineux et l'agencement intérieur. 4 mm pour la façade et le bardage — c'est le standard sur la grande majorité des chantiers. 6 mm quand les panneaux sont grands ou la prise au vent importante. En dessous de 3 mm, le panneau sert uniquement à l'impression et à la PLV.",
+  faq_q3: "Peut-on avoir une teinte RAL précise ?",
+  faq_a3: "Oui. Tout le nuancier RAL, plus les métallisés, les décors bois et marbre, les finitions brossées et miroir — plus de 500 teintes au total. Envoyez le numéro RAL ou un échantillon physique, nous le reproduisons. Les teintes sur mesure sont produites à la commande à partir de 500 m² ; les 30 teintes en stock partent immédiatement.",
+  faq_q4: "Combien de mètres carrés dans un conteneur ?",
+  faq_a4: "Environ 2 000 m² de panneaux 4 mm en 20'GP et environ 4 500 m² en 40'HQ, mis en caisses. Le chiffre exact dépend du format des tôles et de la hauteur des caisses ; il est confirmé sur l'offre avec la liste de colisage.",
+  faq_q5: "Quels sont vos délais ?",
+  faq_a5: "Les teintes en stock se chargent rapidement ; une teinte spéciale doit être laquée puis produite, ce qui allonge le délai. Celui-ci figure sur l'offre et court à partir de la fiche de spécification signée et de l'acompte, pas de la première demande.",
+  faq_q6: "Comment le panneau se pose-t-il ?",
+  faq_a6: "Sur une ossature aluminium, soit rivé à plat, soit plié en cassettes clipsées sur la structure, avec une lame d'air derrière. Le panneau se découpe, se rainure et se plie avec l'outillage d'atelier courant — votre poseur n'a besoin d'aucun matériel spécial."
 },
 
 /* ---------------------------------------------------- AR */
@@ -341,7 +369,21 @@ ar: {
   exp3_t: "في اللافتات",
   exp3_d: "لاستوائه التام، هو الأساس المعتاد للّافتات وصناديق الإضاءة وواجهات المحلات. تُطبع عليه أو تُلصق عليه الملصقات مباشرة.",
   wa_label: "راسلنا على واتساب",
-  wa_msg: "مرحباً، أرغب في الحصول على عرض سعر لألواح ألمنيوم مركبة."
+  wa_msg: "مرحباً، أرغب في الحصول على عرض سعر لألواح ألمنيوم مركبة.",
+  faq_eyebrow: "أسئلة المشترين",
+  faq_title: "الأسئلة الستة التي نجيب عنها كل أسبوع",
+  faq_q1: "قلب PE أم FR (B1) أم A2 — أيّها أحتاج؟",
+  faq_a1: "قلب PE خفيف واقتصادي، مناسب للّافتات والمباني المنخفضة. وقلب FR (B1) معدني الحشو بسلوك محسّن تجاه الحريق. أما A2-s1,d0 فهو التصنيف غير القابل للاحتراق المطلوب في المباني العامة والأبراج في معظم الدول. إن كانت مناقصتكم تحدد تصنيفاً للحريق فأرسلوه إلينا لنؤكد نوع القلب قبل التسعير.",
+  faq_q2: "ما السماكة التي أطلبها؟",
+  faq_a2: "3 مم للّافتات وصناديق الإضاءة والتشطيبات الداخلية. و4 مم للواجهات والتكسية، وهي المعتمدة في الغالبية العظمى من المشاريع. و6 مم عند استخدام ألواح كبيرة أو في مواقع الرياح العالية. وما دون 3 مم يُستخدم للطباعة والعرض فقط.",
+  faq_q3: "هل يمكن الحصول على لون RAL محدد؟",
+  faq_a3: "نعم. كامل دليل RAL، إضافة إلى الألوان المعدنية وديكورات الخشب والرخام والتشطيبات المصقولة والمرآة — أكثر من 500 درجة. أرسلوا رقم RAL أو عيّنة فعلية ونطابقها. تُنتَج الألوان الخاصة عند الطلب اعتباراً من 500 م²، بينما الثلاثون لوناً في المخزون تُشحن فوراً.",
+  faq_q4: "كم متراً مربعاً تتسع الحاوية؟",
+  faq_a4: "نحو 2000 م² من ألواح 4 مم في حاوية 20 قدماً، ونحو 4500 م² في حاوية 40 قدماً عالية، معبأة في صناديق. ويعتمد الرقم الدقيق على مقاس الألواح وارتفاع الصناديق، ويُؤكَّد في العرض مع قائمة التعبئة.",
+  faq_q5: "ما هي مدد التسليم لديكم؟",
+  faq_a5: "الألوان المتوفرة في المخزون تُحمَّل بسرعة، أما اللون الخاص فيحتاج إلى طلاء وإنتاج، وهو ما يطيل المدة. تُذكر المدة في العرض وتبدأ من توقيع ورقة المواصفات ودفع العربون، لا من أول استفسار.",
+  faq_q6: "كيف يُركَّب اللوح؟",
+  faq_a6: "على هيكل ألمنيوم، إما مثبتاً بالبرشام بشكل مسطح أو مثنياً على هيئة كاسيتات تُركَّب على الهيكل، مع فراغ تهوية خلفه. ويُقصّ اللوح ويُحزّ ويُثنى بأدوات الورشة المعتادة، فلا يحتاج المركّب إلى معدات خاصة."
 },
 
 /* ---------------------------------------------------- ES */
@@ -454,7 +496,21 @@ es: {
   exp3_t: "En rotulación",
   exp3_d: "Perfectamente plana, es el soporte habitual de rótulos, cajas de luz y escaparates. Se imprime o se aplica vinilo directamente encima.",
   wa_label: "Escribir por WhatsApp",
-  wa_msg: "Hola, quisiera un presupuesto de paneles composite de aluminio."
+  wa_msg: "Hola, quisiera un presupuesto de paneles composite de aluminio.",
+  faq_eyebrow: "Preguntas de compradores",
+  faq_title: "Las seis preguntas que respondemos cada semana",
+  faq_q1: "Núcleo PE, FR (B1) o A2: ¿cuál necesito?",
+  faq_a1: "El PE es el núcleo ligero y económico, para rotulación y edificios de poca altura. El FR (B1) lleva carga mineral y mejor comportamiento al fuego. El A2-s1,d0 es la clasificación incombustible exigida en edificios públicos y gran altura en la mayoría de países. Si su licitación fija una clase de fuego, envíenosla y confirmamos el núcleo antes de ofertar.",
+  faq_q2: "¿Qué espesor debo pedir?",
+  faq_a2: "3 mm para rotulación, cajas de luz e interiorismo. 4 mm para fachada y revestimiento: es el estándar en la gran mayoría de obras. 6 mm cuando los paneles son grandes o la carga de viento es alta. Por debajo de 3 mm el panel sólo se usa para impresión y PLV.",
+  faq_q3: "¿Pueden igualar un RAL exacto?",
+  faq_a3: "Sí. Toda la carta RAL, más metalizados, decorados de madera y mármol, acabados cepillados y espejo: más de 500 tonos. Envíe el número RAL o una muestra física y lo igualamos. Los colores a medida se fabrican bajo pedido desde 500 m²; los 30 tonos en stock salen de inmediato.",
+  faq_q4: "¿Cuántos metros cuadrados caben en un contenedor?",
+  faq_a4: "Unos 2 000 m² de paneles de 4 mm en un 20'GP y unos 4 500 m² en un 40'HQ, encajonados. La cifra exacta depende del formato de chapa y de la altura de las cajas, y se confirma en la oferta con el packing list.",
+  faq_q5: "¿Cuáles son sus plazos?",
+  faq_a5: "Los tonos en stock se cargan rápido; un color especial hay que lacarlo y producirlo, lo que alarga el plazo. Éste figura en la oferta y cuenta desde la hoja de especificación firmada y el anticipo, no desde la primera consulta.",
+  faq_q6: "¿Cómo se instala el panel?",
+  faq_a6: "Sobre una estructura de aluminio, remachado en plano o plegado en casetas que se clipan al soporte, con cámara ventilada detrás. El panel se corta, se ranura y se pliega con herramienta de taller corriente: su instalador no necesita equipo especial."
 },
 
 /* ---------------------------------------------------- TR */
@@ -567,7 +623,21 @@ tr: {
   exp3_t: "Tabelada",
   exp3_d: "Kusursuz düz olduğu için tabelaların, ışıklı kutuların ve mağaza cephelerinin standart taşıyıcısıdır. Doğrudan üzerine baskı yapılır veya folyo kaplanır.",
   wa_label: "WhatsApp'tan yazın",
-  wa_msg: "Merhaba, alüminyum kompozit panel için teklif almak istiyorum."
+  wa_msg: "Merhaba, alüminyum kompozit panel için teklif almak istiyorum.",
+  faq_eyebrow: "Alıcıların soruları",
+  faq_title: "Her hafta yanıtladığımız altı soru",
+  faq_q1: "PE, FR (B1) yoksa A2 çekirdek — hangisi gerekli?",
+  faq_a1: "PE hafif ve ekonomik çekirdektir; tabela ve alçak yapılar için uygundur. FR (B1) mineral dolguludur ve yangına tepkisi iyileştirilmiştir. A2-s1,d0 ise çoğu ülkede kamu binaları ve yüksek yapılarda istenen yanmaz sınıftır. İhaleniz bir yangın sınıfı belirtiyorsa bize iletin, teklif öncesi çekirdeği teyit edelim.",
+  faq_q2: "Hangi kalınlığı sipariş etmeliyim?",
+  faq_a2: "Tabela, ışıklı kutu ve iç mekân için 3 mm. Cephe ve kaplama için 4 mm — projelerin büyük çoğunluğunda standarttır. Paneller büyükse veya rüzgâr yükü yüksekse 6 mm. 3 mm'nin altı yalnızca baskı ve teşhir içindir.",
+  faq_q3: "Tam bir RAL rengi alabilir miyim?",
+  faq_a3: "Evet. Tüm RAL kartelası, ayrıca metalikler, ahşap ve mermer desenler, fırçalı ve ayna yüzeyler — toplamda 500'den fazla ton. RAL numarasını veya fiziksel numuneyi gönderin, eşleyelim. Özel renkler 500 m²'den itibaren siparişe göre üretilir; stoktaki 30 ton hemen sevk edilir.",
+  faq_q4: "Bir konteynere kaç metrekare sığar?",
+  faq_a4: "Sandıklanmış 4 mm panelden 20'GP'ye yaklaşık 2 000 m², 40'HQ'ya yaklaşık 4 500 m². Kesin rakam levha ölçüsüne ve sandık yüksekliğine bağlıdır; teklifte çeki listesiyle birlikte teyit edilir.",
+  faq_q5: "Teslim süreniz nedir?",
+  faq_a5: "Stok renkler hızla yüklenir; özel bir renk önce boyanıp üretilmelidir, bu da süreyi uzatır. Süre teklifte belirtilir ve ilk sorudan değil, imzalı şartname ile avanstan itibaren işler.",
+  faq_q6: "Panel nasıl monte edilir?",
+  faq_a6: "Alüminyum taşıyıcı üzerine; düz perçinlenerek ya da kasetlenip yapıya klipslenerek, arkasında havalandırma boşluğu bırakılarak. Panel sıradan atölye aletleriyle kesilir, kanal açılır ve bükülür — montajcınızın özel ekipmana ihtiyacı yoktur."
 },
 
 /* ---------------------------------------------------- PL */
@@ -680,7 +750,21 @@ pl: {
   exp3_t: "W reklamie",
   exp3_d: "Dzięki idealnej płaskości jest standardowym podłożem szyldów, kasetonów i witryn. Drukuje się lub oklejaja bezpośrednio na niej.",
   wa_label: "Napisz na WhatsApp",
-  wa_msg: "Dzień dobry, proszę o wycenę paneli kompozytowych aluminiowych."
+  wa_msg: "Dzień dobry, proszę o wycenę paneli kompozytowych aluminiowych.",
+  faq_eyebrow: "Pytania kupujących",
+  faq_title: "Sześć pytań, na które odpowiadamy co tydzień",
+  faq_q1: "Rdzeń PE, FR (B1) czy A2 — którego potrzebuję?",
+  faq_a1: "PE to lekki i ekonomiczny rdzeń, do reklamy i budynków niskich. FR (B1) ma wypełnienie mineralne i lepsze zachowanie w ogniu. A2-s1,d0 to klasa niepalna wymagana w budynkach użyteczności publicznej i wysokościowcach w większości krajów. Jeśli przetarg wskazuje klasę ogniową, prześlij ją — potwierdzimy rdzeń przed wyceną.",
+  faq_q2: "Jaką grubość zamówić?",
+  faq_a2: "3 mm do reklamy, kasetonów i wnętrz. 4 mm na elewacje i okładziny — to standard na zdecydowanej większości budów. 6 mm przy dużych panelach lub wysokim obciążeniu wiatrem. Poniżej 3 mm panel służy wyłącznie do druku i ekspozycji.",
+  faq_q3: "Czy można uzyskać dokładny kolor RAL?",
+  faq_a3: "Tak. Cała paleta RAL, a do tego metaliki, dekory drewna i marmuru, wykończenia szczotkowane i lustrzane — ponad 500 odcieni. Prześlij numer RAL albo fizyczną próbkę, a odwzorujemy kolor. Kolory na zamówienie produkujemy od 500 m²; 30 odcieni magazynowych wysyłamy od ręki.",
+  faq_q4: "Ile metrów kwadratowych mieści kontener?",
+  faq_a4: "Około 2 000 m² paneli 4 mm w 20'GP i około 4 500 m² w 40'HQ, w skrzyniach. Dokładna liczba zależy od formatu arkuszy i wysokości skrzyń; potwierdzamy ją w ofercie wraz z packing listą.",
+  faq_q5: "Jakie są terminy realizacji?",
+  faq_a5: "Kolory magazynowe ładujemy szybko; kolor specjalny trzeba najpierw polakierować i wyprodukować, co wydłuża termin. Termin podajemy w ofercie i liczymy od podpisanej karty specyfikacji i zaliczki, a nie od pierwszego zapytania.",
+  faq_q6: "Jak montuje się panel?",
+  faq_a6: "Na ruszcie aluminiowym — nitowany na płasko albo gięty w kasety zaczepiane na konstrukcji, z pustką wentylacyjną z tyłu. Panel tnie się, frezuje i gnie zwykłymi narzędziami warsztatowymi — monter nie potrzebuje specjalnego sprzętu."
 },
 
 /* ---------------------------------------------------- HR */
@@ -793,7 +877,21 @@ hr: {
   exp3_t: "Na reklami",
   exp3_d: "Zbog savršene ravnoće standardna je podloga za natpise, svjetleće kutije i izloge. Na nju se izravno tiska ili lijepi folija.",
   wa_label: "Pišite na WhatsApp",
-  wa_msg: "Dobar dan, molim ponudu za aluminijske kompozitne panele."
+  wa_msg: "Dobar dan, molim ponudu za aluminijske kompozitne panele.",
+  faq_eyebrow: "Pitanja kupaca",
+  faq_title: "Šest pitanja na koja odgovaramo svaki tjedan",
+  faq_q1: "PE, FR (B1) ili A2 jezgra — koja mi treba?",
+  faq_a1: "PE je lagana i povoljna jezgra, za reklame i niske građevine. FR (B1) je mineralno punjena, s boljim ponašanjem u požaru. A2-s1,d0 je negoriva klasifikacija koja se u većini zemalja traži na javnim i visokim zgradama. Ako natječaj propisuje razred reakcije na požar, pošaljite nam ga i potvrdit ćemo jezgru prije ponude.",
+  faq_q2: "Koju debljinu naručiti?",
+  faq_a2: "3 mm za reklame, svjetleće kutije i interijere. 4 mm za fasade i obloge — standard na velikoj većini gradilišta. 6 mm kada su paneli veliki ili je opterećenje vjetrom veliko. Ispod 3 mm panel služi samo za tisak i izlaganje.",
+  faq_q3: "Možete li pogoditi točnu RAL boju?",
+  faq_a3: "Da. Cijela RAL paleta, uz metalik, dekore drva i mramora, brušene i zrcalne obrade — više od 500 nijansi. Pošaljite RAL broj ili fizički uzorak i uskladit ćemo boju. Posebne boje proizvodimo po narudžbi od 500 m²; 30 nijansi sa zalihe otprema se odmah.",
+  faq_q4: "Koliko četvornih metara stane u kontejner?",
+  faq_a4: "Oko 2 000 m² panela od 4 mm u 20'GP i oko 4 500 m² u 40'HQ, u sanducima. Točna brojka ovisi o formatu ploča i visini sanduka, a potvrđuje se u ponudi zajedno s popisom pakiranja.",
+  faq_q5: "Koji su vaši rokovi?",
+  faq_a5: "Boje sa zalihe utovaruju se brzo; posebnu boju treba prvo lakirati i proizvesti, što produljuje rok. Rok je naveden u ponudi i teče od potpisanog specifikacijskog lista i predujma, a ne od prvog upita.",
+  faq_q6: "Kako se panel montira?",
+  faq_a6: "Na aluminijsku podkonstrukciju — zakovicama u ravnini ili savijen u kasete koje se kvače na konstrukciju, s ventiliranim razmakom iza. Panel se reže, glodá i savija običnim radioničkim alatom — vaš monter ne treba posebnu opremu."
 },
 
 /* ---------------------------------------------------- NL */
@@ -906,7 +1004,21 @@ nl: {
   exp3_t: "In reclame",
   exp3_d: "Doordat ze perfect vlak is, is ze de standaarddrager voor uithangborden, lichtbakken en winkelpuien. Er wordt direct op gedrukt of folie op gezet.",
   wa_label: "Chat via WhatsApp",
-  wa_msg: "Goedendag, ik wil graag een offerte voor aluminium composietpanelen."
+  wa_msg: "Goedendag, ik wil graag een offerte voor aluminium composietpanelen.",
+  faq_eyebrow: "Vragen van kopers",
+  faq_title: "De zes vragen die wij elke week beantwoorden",
+  faq_q1: "PE-, FR (B1)- of A2-kern — welke heb ik nodig?",
+  faq_a1: "PE is de lichte, voordelige kern, voor signing en laagbouw. FR (B1) is mineraal gevuld met beter brandgedrag. A2-s1,d0 is de onbrandbare classificatie die in de meeste landen wordt geëist bij openbare gebouwen en hoogbouw. Schrijft uw bestek een brandklasse voor, stuur die door: wij bevestigen de kern vóór de offerte.",
+  faq_q2: "Welke dikte moet ik bestellen?",
+  faq_a2: "3 mm voor signing, lichtbakken en interieur. 4 mm voor gevel en bekleding — de standaard op verreweg de meeste projecten. 6 mm bij grote panelen of hoge windbelasting. Onder 3 mm wordt het paneel alleen voor druk en display gebruikt.",
+  faq_q3: "Kan ik een exacte RAL-kleur krijgen?",
+  faq_a3: "Ja. De volledige RAL-waaier, plus metallics, hout- en marmerdecors, geborstelde en spiegelende afwerkingen — meer dan 500 tinten. Stuur het RAL-nummer of een fysiek monster en wij stemmen het af. Maatkleuren produceren wij op bestelling vanaf 500 m²; de 30 voorraadtinten gaan direct mee.",
+  faq_q4: "Hoeveel vierkante meter gaat er in een container?",
+  faq_a4: "Ongeveer 2 000 m² aan 4 mm panelen in een 20'GP en ongeveer 4 500 m² in een 40'HQ, gekist. Het exacte aantal hangt af van het plaatformaat en de kisthoogte en wordt in de offerte met de packinglijst bevestigd.",
+  faq_q5: "Wat zijn uw levertijden?",
+  faq_a5: "Voorraadtinten laden snel; een speciale kleur moet eerst gecoat en geproduceerd worden, wat tijd kost. De levertijd staat in de offerte en loopt vanaf het getekende specificatieblad en de aanbetaling, niet vanaf de eerste aanvraag.",
+  faq_q6: "Hoe wordt het paneel gemonteerd?",
+  faq_a6: "Op een aluminium regelwerk — vlak geklonken of gekant tot cassettes die op de constructie klikken, met een geventileerde spouw erachter. Het paneel wordt met gewoon werkplaatsgereedschap gezaagd, gefreesd en gekant — uw monteur heeft geen speciale apparatuur nodig."
 }
 
 };

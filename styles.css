@@ -659,3 +659,22 @@ mark.fill { background: #ffe9a8; color: #6b4a00; padding: 1px 6px; border-radius
   .wa span { display: none; }
   .wa { padding: 14px; }
 }
+
+/* ---------------- FAQ ---------------- */
+.faq { display: grid; gap: 12px; }
+.faq__item {
+  background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 2px 22px; transition: border-color .3s var(--ease), box-shadow .3s var(--ease);
+}
+.faq__item[open] { border-color: rgba(198,48,58,.35); box-shadow: var(--shadow-sm); }
+.faq__item summary {
+  cursor: pointer; list-style: none; padding: 18px 40px 18px 0; position: relative;
+  font-weight: 700; color: var(--ink); font-size: 1rem;
+}
+.faq__item summary::-webkit-details-marker { display: none; }
+.faq__item summary::after {
+  content: "+"; position: absolute; inset-inline-end: 0; top: 50%; transform: translateY(-50%);
+  font-size: 1.5rem; font-weight: 400; color: var(--red); transition: transform .3s var(--ease);
+}
+.faq__item[open] summary::after { transform: translateY(-50%) rotate(45deg); }
+.faq__item p { padding-bottom: 20px; margin: 0; font-size: .95rem; }
