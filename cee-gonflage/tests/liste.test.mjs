@@ -68,3 +68,30 @@ test('une liste vide ne fait pas diviser par zéro', () => {
   assert.equal(bilan.tauxRebondEstime, 0);
   assert.match(verdict(bilan), /0 adresse/);
 });
+
+test('le nom de commune se déduit des domaines explicites, et se signale douteux ailleurs', async () => {
+  const { communeDepuisDomaine } = await import('../outils/analyser-liste.mjs');
+
+  // Domaines explicites : déduction fiable.
+  assert.deepEqual(communeDepuisDomaine('mairie-montjean53.fr'), { nom: 'Montjean', sur: true });
+  assert.deepEqual(communeDepuisDomaine('ville-antibes.fr'), { nom: 'Antibes', sur: true });
+  assert.deepEqual(communeDepuisDomaine('villede-lyon.fr'), { nom: 'Lyon', sur: true });
+
+  // Domaine nu : le nom est probable mais non garanti.
+  assert.equal(communeDepuisDomaine('capbreton.fr').sur, false);
+  assert.equal(communeDepuisDomaine('capbreton.fr').nom, 'Capbreton');
+
+  // Capitalisation française : les particules restent en minuscules.
+  assert.equal(communeDepuisDomaine('mairie-vern-sur-seiche.fr').nom, 'Vern-sur-Seiche');
+  assert.equal(communeDepuisDomaine('ville-aix-en-provence.fr').nom, 'Aix-en-Provence');
+
+  // Trop court ou vide : on ne devine pas.
+  assert.deepEqual(communeDepuisDomaine('ab.fr'), { nom: '', sur: false });
+  assert.deepEqual(communeDepuisDomaine(''), { nom: '', sur: false });
+  assert.deepEqual(communeDepuisDomaine(null), { nom: '', sur: false });
+
+  // LIMITE CONNUE, volontairement figée par ce test : un nom composé collé
+  // ne peut pas être recoupé sans dictionnaire des communes. « Sainte-Foy-lès-Lyon »
+  // ressort collé — donc impossible à envoyer sans relecture.
+  assert.equal(communeDepuisDomaine('ville-saintefoyleslyon.fr').nom, 'Saintefoyleslyon');
+});

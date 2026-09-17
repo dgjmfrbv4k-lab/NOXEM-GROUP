@@ -173,3 +173,33 @@ function principal() {
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) principal();
+
+/**
+ * Déduit le nom de la commune à partir du domaine.
+ *
+ * Nécessaire parce que le message nomme la commune (« un parking de X ») :
+ * une liste d'adresses nues ne suffit pas à écrire. La déduction est fiable
+ * sur les domaines explicites (mairie-xxx.fr, ville-xxx.fr) et douteuse
+ * ailleurs — d'où le drapeau `sur`, qui décide si on peut envoyer sans
+ * relecture humaine.
+ */
+export function communeDepuisDomaine(domaine) {
+  const base = String(domaine || '').toLowerCase().replace(/\.(fr|com|net|org)$/, '');
+  const explicite = base.match(/^(?:mairie|ville|commune|mun)[-.]?(.+)$/)
+    || base.match(/^(.+?)[-.](?:mairie|ville|commune)$/);
+  const brut = (explicite ? explicite[1] : base)
+    .replace(/\d+$/, '')                       // mairie-montjean53 -> montjean
+    .replace(/^(de|la|le|les|du|des)[-.]/, '') // villede-x -> x
+    .replace(/[-.]/g, ' ')
+    .trim();
+
+  if (!brut || brut.length < 3) return { nom: '', sur: false };
+
+  // Capitalisation française : Saint-Étienne, Aix-en-Provence.
+  const petits = new Set(['en', 'sur', 'sous', 'les', 'le', 'la', 'de', 'du', 'des', 'aux', 'au', 'lez', 'et']);
+  const nom = brut.split(' ')
+    .map((mot, i) => (i > 0 && petits.has(mot) ? mot : mot.charAt(0).toUpperCase() + mot.slice(1)))
+    .join('-');
+
+  return { nom, sur: Boolean(explicite) };
+}
