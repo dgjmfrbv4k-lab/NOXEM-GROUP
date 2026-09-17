@@ -514,3 +514,61 @@ mark.fill { background: #ffe9a8; color: #6b4a00; padding: 1px 6px; border-radius
   display: grid; place-items: center; box-shadow: none;
 }
 .sw--custom:hover { border-color: var(--orange); color: #fff; background: rgba(224,148,67,.12); }
+
+/* =========================================================
+   Accueil : deux colonnes + vitrine 3D animée
+   ========================================================= */
+@property --c { syntax: "<color>"; inherits: true; initial-value: #C6CACD; }
+
+.hero__grid {
+  display: grid; grid-template-columns: 1.02fr .98fr; gap: 46px;
+  align-items: center; padding-bottom: 76px;
+}
+.hero__copy { max-width: 640px; }
+.hero__grid h1 { font-size: clamp(1.95rem, 3.5vw, 3.05rem); }
+.hero__grid .hero__lead { font-size: clamp(.98rem, 1.35vw, 1.08rem); }
+.hero__grid .hero__actions { margin: 28px 0 44px; }
+.hero__grid .hero__stats { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 30px; max-width: 470px; }
+.hero__grid .hero__stats span { max-width: 190px; font-size: .8rem; }
+.hero__grid .hero__stats strong { font-size: clamp(1.6rem, 2.6vw, 2.1rem); }
+
+.hero__visual { position: relative; }
+.hero__caption {
+  margin: 14px 0 0; text-align: center; font-size: .8rem;
+  color: rgba(255,255,255,.5);
+}
+
+.stage--showcase {
+  height: clamp(300px, 33vw, 430px); cursor: default; touch-action: auto;
+  animation: hue 32s linear infinite;
+}
+.stage--showcase .room { position: absolute; left: 50%; top: 50%; }
+.room--auto { animation: turn 32s ease-in-out infinite; }
+
+@keyframes turn {
+  0%, 100% { transform: scale(.56) rotateX(-17deg) rotateY(-10deg); }
+  50%      { transform: scale(.56) rotateX(-23deg) rotateY(-46deg); }
+}
+@keyframes hue {
+  0%, 15%   { --c: #C6CACD; }
+  22%, 35%  { --c: #D5211D; }
+  42%, 55%  { --c: #DFC667; }
+  62%, 75%  { --c: #A9C5DB; }
+  82%, 95%  { --c: #1E1E1E; }
+  100%      { --c: #C6CACD; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stage--showcase, .room--auto { animation: none; }
+  .room--auto { transform: scale(.56) rotateX(-19deg) rotateY(-26deg); }
+}
+
+@media (max-width: 1080px) {
+  .hero__grid { grid-template-columns: 1fr; gap: 34px; }
+  .hero__copy { max-width: 720px; }
+  .hero__visual { max-width: 620px; }
+}
+@media (max-width: 760px) {
+  .stage--showcase { height: 280px; }
+  .hero__grid { padding-bottom: 54px; }
+}

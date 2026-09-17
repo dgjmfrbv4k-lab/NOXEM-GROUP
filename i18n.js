@@ -8,14 +8,14 @@ window.NOXEM_I18N = {
 /* ---------------------------------------------------- EN */
 en: {
   _name: "English", _dir: "ltr",
-  meta_title: "NOXEM GROUP FRANCE — Aluminium Composite Panels | Manufacturer & Exporter",
+  meta_title: "Alucobond®-type Aluminium Composite Panels — NOXEM GROUP FRANCE | Manufacturer & Exporter",
   skip: "Skip to content",
   nav_products: "Panels", nav_specs: "Specification", nav_colors: "Colours & 3D",
   nav_packing: "Packing & shipping", nav_quality: "Quality", nav_quote: "Request a quote",
 
-  hero_eyebrow: "Aluminium composite panels · ACP / ACM",
-  hero_title: "Panels built to your specification, delivered to your port.",
-  hero_lead: "Any panel thickness. Any aluminium gauge from 0.06 to 0.50 mm per face — symmetrical, asymmetrical, or aluminium on one face only. Over 500 colours: 30 held in stock, every RAL and custom shade produced to order. Export packing in fumigated wooden crates.",
+  hero_eyebrow: "Aluminium composite panels · ACP / ACM · Alucobond® type",
+  hero_title: "Alucobond®-type panels, built to your specification and delivered to your port.",
+  hero_lead: "What the trade calls an Alucobond panel: two coil-coated aluminium skins bonded to a core, for façades, signage and cladding. We build it to your figures — any thickness, skin from 0.06 to 0.50 mm per face, over 500 colours — and crate it for export.",
   hero_cta1: "See colours in 3D", hero_cta2: "Request a quote",
   hero_stat1: "colours available", hero_stat2: "panel thickness, up to",
   hero_stat3: "quotation time", hero_stat4: "languages, worldwide export",
@@ -93,7 +93,7 @@ en: {
   foot_rights: "All rights reserved.",
   foot_note: "Colours shown on screen are indicative. Order decisions should be made on a physical sample.",
   fab: "Request a quote",
-  meta_desc: "Aluminium composite panels (ACP / ACM) built to specification: any thickness, aluminium skin 0.06 to 0.50 mm per face, over 500 colours, export packing in wooden crates, delivery to your port.",
+  meta_desc: "Alucobond®-type aluminium composite panels (ACP / ACM) built to specification: any thickness, aluminium skin 0.06 to 0.50 mm per face, over 500 colours, export packing, delivery to your port.",
   mkt_eyebrow: "Markets",
   mkt_title: "We ship to the ports you buy from",
   mkt_lead: "Regular loadings to North Africa, the Gulf, Turkey, the Balkans and across Europe. Name the port and the offer comes back priced to it.",
@@ -102,20 +102,22 @@ en: {
   foot_legal: "Legal notice",
   foot_privacy: "Privacy policy",
   foot_terms: "Terms of sale",
-  foot_contact: "Contact"
+  foot_contact: "Contact",
+  hero_caption: "3D preview of our panels in the warehouse — the shades cycle on their own",
+  foot_tm: "Alucobond® is a registered trademark of 3A Composites GmbH, mentioned here only as a product reference. NOXEM GROUP FRANCE is not affiliated with that manufacturer."
 },
 
 /* ---------------------------------------------------- FR */
 fr: {
   _name: "Français", _dir: "ltr",
-  meta_title: "NOXEM GROUP FRANCE — Panneaux composites aluminium | Fabricant & exportateur",
+  meta_title: "Panneaux composites aluminium type Alucobond® — NOXEM GROUP FRANCE | Fabricant & exportateur",
   skip: "Aller au contenu",
   nav_products: "Panneaux", nav_specs: "Spécifications", nav_colors: "Coloris & 3D",
   nav_packing: "Emballage & expédition", nav_quality: "Qualité", nav_quote: "Demander un devis",
 
-  hero_eyebrow: "Panneaux composites aluminium · ACP / ACM",
-  hero_title: "Des panneaux fabriqués selon vos spécifications, livrés à votre port.",
-  hero_lead: "Toutes les épaisseurs de panneau. Toutes les épaisseurs d'aluminium, de 0,06 à 0,50 mm par face — symétrique, asymétrique, ou aluminium sur une seule face. Plus de 500 coloris : 30 tenus en stock, tout le nuancier RAL et les teintes sur mesure produits à la commande. Emballage export en caisses bois fumigées.",
+  hero_eyebrow: "Panneaux composites aluminium · ACP / ACM · type Alucobond®",
+  hero_title: "Panneaux type Alucobond®, fabriqués à vos cotes et livrés à votre port.",
+  hero_lead: "Ce que le métier appelle un panneau Alucobond : deux tôles d'aluminium laquées collées sur une âme, pour les façades, les enseignes et l'habillage. Nous le fabriquons à vos chiffres — toutes épaisseurs, tôle de 0,06 à 0,50 mm par face, plus de 500 coloris — et nous le mettons en caisse pour l'export.",
   hero_cta1: "Voir les coloris en 3D", hero_cta2: "Demander un devis",
   hero_stat1: "coloris réalisables", hero_stat2: "épaisseur de panneau, jusqu'à",
   hero_stat3: "pour recevoir votre devis", hero_stat4: "langues, export dans le monde entier",
@@ -193,7 +195,7 @@ fr: {
   foot_rights: "Tous droits réservés.",
   foot_note: "Les coloris affichés à l'écran sont indicatifs. Toute commande doit être décidée sur un échantillon physique.",
   fab: "Demander un devis",
-  meta_desc: "Panneaux composites aluminium (ACP / ACM) fabriqués sur spécification : toutes épaisseurs, tôle 0,06 à 0,50 mm par face, plus de 500 coloris, caisses bois export, livraison à votre port.",
+  meta_desc: "Panneaux composites aluminium type Alucobond® (ACP / ACM) fabriqués sur spécification : toutes épaisseurs, tôle 0,06 à 0,50 mm par face, plus de 500 coloris, emballage export, livraison à votre port.",
   mkt_eyebrow: "Marchés",
   mkt_title: "Nous expédions vers les ports où vous achetez",
   mkt_lead: "Chargements réguliers vers l'Afrique du Nord, le Golfe, la Turquie, les Balkans et toute l'Europe. Donnez le port, l'offre revient chiffrée jusque-là.",
@@ -202,20 +204,22 @@ fr: {
   foot_legal: "Mentions légales",
   foot_privacy: "Politique de confidentialité",
   foot_terms: "Conditions générales de vente",
-  foot_contact: "Contact"
+  foot_contact: "Contact",
+  hero_caption: "Aperçu 3D de nos panneaux en entrepôt — les teintes défilent toutes seules",
+  foot_tm: "Alucobond® est une marque déposée de 3A Composites GmbH, citée ici uniquement à titre de référence produit. NOXEM GROUP FRANCE n'est pas affilié à ce fabricant."
 },
 
 /* ---------------------------------------------------- AR */
 ar: {
   _name: "العربية", _dir: "rtl",
-  meta_title: "نوكسيم غروب فرنسا — ألواح الألمنيوم المركبة | تصنيع وتصدير",
+  meta_title: "ألواح ألمنيوم مركبة من نوع Alucobond® — نوكسيم غروب فرنسا | تصنيع وتصدير",
   skip: "انتقل إلى المحتوى",
   nav_products: "الألواح", nav_specs: "المواصفات", nav_colors: "الألوان والعرض ثلاثي الأبعاد",
   nav_packing: "التغليف والشحن", nav_quality: "الجودة", nav_quote: "اطلب عرض سعر",
 
-  hero_eyebrow: "ألواح الألمنيوم المركبة · ACP / ACM",
-  hero_title: "ألواح تُصنع حسب مواصفاتكم، وتُسلَّم إلى مينائكم.",
-  hero_lead: "أي سماكة للّوح. أي سماكة ألمنيوم من 0.06 إلى 0.50 مم لكل وجه — متماثلة أو غير متماثلة، أو ألمنيوم على وجه واحد فقط. أكثر من 500 لون: 30 متوفرة في المخزون، وكامل دليل RAL والألوان الخاصة تُنتَج عند الطلب. تغليف للتصدير في صناديق خشبية مُعالَجة.",
+  hero_eyebrow: "ألواح الألمنيوم المركبة · ACP / ACM · من نوع Alucobond®",
+  hero_title: "ألواح من نوع Alucobond®، تُصنع حسب مقاساتكم وتُسلَّم إلى مينائكم.",
+  hero_lead: "ما يسميه أهل المهنة لوح الألوكوبوند: وجهان من الألمنيوم المطلي مثبتان على قلب داخلي، للواجهات واللافتات والتكسية. نصنعه بأرقامكم — أي سماكة، ووجه من 0.06 إلى 0.50 مم، وأكثر من 500 لون — ونعبّئه في صناديق للتصدير.",
   hero_cta1: "شاهد الألوان ثلاثية الأبعاد", hero_cta2: "اطلب عرض سعر",
   hero_stat1: "لوناً قابلاً للتنفيذ", hero_stat2: "سماكة اللوح حتى",
   hero_stat3: "مدة إصدار العرض", hero_stat4: "لغات، تصدير إلى العالم",
@@ -293,7 +297,7 @@ ar: {
   foot_rights: "جميع الحقوق محفوظة.",
   foot_note: "الألوان المعروضة على الشاشة تقريبية. يُعتمد في الطلب على العينة الفعلية.",
   fab: "اطلب عرض سعر",
-  meta_desc: "ألواح ألمنيوم مركبة (ACP / ACM) حسب المواصفات: أي سماكة، وجه ألمنيوم من 0.06 إلى 0.50 مم، أكثر من 500 لون، تغليف تصدير في صناديق خشبية، وتسليم إلى مينائكم.",
+  meta_desc: "ألواح ألمنيوم مركبة من نوع Alucobond® (ACP / ACM) حسب المواصفات: أي سماكة، وجه ألمنيوم من 0.06 إلى 0.50 مم، أكثر من 500 لون، تغليف للتصدير، وتسليم إلى مينائكم.",
   mkt_eyebrow: "الأسواق",
   mkt_title: "نشحن إلى الموانئ التي تشترون منها",
   mkt_lead: "شحنات منتظمة إلى شمال إفريقيا والخليج وتركيا والبلقان وأنحاء أوروبا. حدّدوا الميناء ليصلكم العرض مسعّراً إليه.",
@@ -302,20 +306,22 @@ ar: {
   foot_legal: "البيانات القانونية",
   foot_privacy: "سياسة الخصوصية",
   foot_terms: "الشروط العامة للبيع",
-  foot_contact: "اتصلوا بنا"
+  foot_contact: "اتصلوا بنا",
+  hero_caption: "عرض ثلاثي الأبعاد لألواحنا في المستودع — الألوان تتبدّل تلقائياً",
+  foot_tm: "Alucobond® علامة تجارية مسجلة لشركة 3A Composites GmbH، وتُذكر هنا للإشارة إلى نوع المنتج فقط. ولا ترتبط نوكسيم غروب فرنسا بتلك الشركة."
 },
 
 /* ---------------------------------------------------- ES */
 es: {
   _name: "Español", _dir: "ltr",
-  meta_title: "NOXEM GROUP FRANCE — Paneles composite de aluminio | Fabricante y exportador",
+  meta_title: "Paneles composite de aluminio tipo Alucobond® — NOXEM GROUP FRANCE | Fabricante y exportador",
   skip: "Ir al contenido",
   nav_products: "Paneles", nav_specs: "Especificaciones", nav_colors: "Colores y 3D",
   nav_packing: "Embalaje y envío", nav_quality: "Calidad", nav_quote: "Solicitar presupuesto",
 
-  hero_eyebrow: "Paneles composite de aluminio · ACP / ACM",
-  hero_title: "Paneles fabricados según su especificación, entregados en su puerto.",
-  hero_lead: "Cualquier espesor de panel. Cualquier espesor de aluminio, de 0,06 a 0,50 mm por cara — simétrico, asimétrico o aluminio en una sola cara. Más de 500 colores: 30 en stock, toda la carta RAL y los tonos a medida fabricados bajo pedido. Embalaje de exportación en cajas de madera fumigadas.",
+  hero_eyebrow: "Paneles composite de aluminio · ACP / ACM · tipo Alucobond®",
+  hero_title: "Paneles tipo Alucobond®, fabricados a su medida y entregados en su puerto.",
+  hero_lead: "Lo que el sector llama un panel Alucobond: dos chapas de aluminio lacadas unidas a un núcleo, para fachadas, rotulación y revestimientos. Lo fabricamos con sus cifras — cualquier espesor, chapa de 0,06 a 0,50 mm por cara, más de 500 colores — y lo encajonamos para la exportación.",
   hero_cta1: "Ver los colores en 3D", hero_cta2: "Solicitar presupuesto",
   hero_stat1: "colores realizables", hero_stat2: "espesor de panel, hasta",
   hero_stat3: "plazo de oferta", hero_stat4: "idiomas, exportación mundial",
@@ -393,7 +399,7 @@ es: {
   foot_rights: "Todos los derechos reservados.",
   foot_note: "Los colores en pantalla son orientativos. La decisión de compra debe tomarse sobre una muestra física.",
   fab: "Solicitar presupuesto",
-  meta_desc: "Paneles composite de aluminio (ACP / ACM) fabricados a medida: cualquier espesor, chapa de 0,06 a 0,50 mm por cara, más de 500 colores, cajas de madera de exportación y entrega en su puerto.",
+  meta_desc: "Paneles composite de aluminio tipo Alucobond® (ACP / ACM) fabricados a medida: cualquier espesor, chapa de 0,06 a 0,50 mm por cara, más de 500 colores, embalaje de exportación y entrega en su puerto.",
   mkt_eyebrow: "Mercados",
   mkt_title: "Enviamos a los puertos donde usted compra",
   mkt_lead: "Cargas regulares al Norte de África, el Golfo, Turquía, los Balcanes y toda Europa. Indique el puerto y la oferta vuelve con el precio puesto allí.",
@@ -402,20 +408,22 @@ es: {
   foot_legal: "Aviso legal",
   foot_privacy: "Política de privacidad",
   foot_terms: "Condiciones de venta",
-  foot_contact: "Contacto"
+  foot_contact: "Contacto",
+  hero_caption: "Vista 3D de nuestros paneles en el almacén — los tonos van cambiando solos",
+  foot_tm: "Alucobond® es una marca registrada de 3A Composites GmbH, citada aquí únicamente como referencia de producto. NOXEM GROUP FRANCE no está afiliada a ese fabricante."
 },
 
 /* ---------------------------------------------------- TR */
 tr: {
   _name: "Türkçe", _dir: "ltr",
-  meta_title: "NOXEM GROUP FRANCE — Alüminyum kompozit paneller | Üretici ve ihracatçı",
+  meta_title: "Alucobond® tipi alüminyum kompozit paneller — NOXEM GROUP FRANCE | Üretici ve ihracatçı",
   skip: "İçeriğe geç",
   nav_products: "Paneller", nav_specs: "Teknik özellikler", nav_colors: "Renkler ve 3D",
   nav_packing: "Ambalaj ve sevkiyat", nav_quality: "Kalite", nav_quote: "Teklif isteyin",
 
-  hero_eyebrow: "Alüminyum kompozit paneller · ACP / ACM",
-  hero_title: "Şartnamenize göre üretilen paneller, limanınıza teslim.",
-  hero_lead: "Her panel kalınlığı. Yüz başına 0,06 ile 0,50 mm arası her alüminyum kalınlığı — simetrik, asimetrik veya yalnızca tek yüzü alüminyum. 500'den fazla renk: 30'u stokta, tüm RAL kartelası ve özel tonlar siparişe göre üretilir. Fümige ahşap sandıklarda ihracat ambalajı.",
+  hero_eyebrow: "Alüminyum kompozit paneller · ACP / ACM · Alucobond® tipi",
+  hero_title: "Alucobond® tipi paneller, ölçünüze göre üretilir ve limanınıza teslim edilir.",
+  hero_lead: "Sektörün Alucobond paneli dediği ürün: bir çekirdeğe yapıştırılmış iki boyalı alüminyum yüz; cepheler, tabelalar ve kaplamalar için. Sizin rakamlarınızla üretiyoruz — her kalınlık, yüz başına 0,06 – 0,50 mm sac, 500'den fazla renk — ve ihracat için sandıklıyoruz.",
   hero_cta1: "Renkleri 3D görün", hero_cta2: "Teklif isteyin",
   hero_stat1: "üretilebilir renk", hero_stat2: "panel kalınlığı, azami",
   hero_stat3: "teklif süresi", hero_stat4: "dil, dünya geneline ihracat",
@@ -493,7 +501,7 @@ tr: {
   foot_rights: "Tüm hakları saklıdır.",
   foot_note: "Ekranda görünen renkler yaklaşıktır. Sipariş kararı fiziksel numuneye göre verilmelidir.",
   fab: "Teklif isteyin",
-  meta_desc: "Şartnameye göre üretilen alüminyum kompozit paneller (ACP / ACM): her kalınlık, yüz başına 0,06 – 0,50 mm sac, 500'den fazla renk, ahşap sandıkla ihracat ambalajı, limanınıza teslim.",
+  meta_desc: "Alucobond® tipi alüminyum kompozit paneller (ACP / ACM), şartnameye göre: her kalınlık, yüz başına 0,06 – 0,50 mm sac, 500'den fazla renk, ihracat ambalajı, limanınıza teslim.",
   mkt_eyebrow: "Pazarlar",
   mkt_title: "Mal aldığınız limanlara sevk ediyoruz",
   mkt_lead: "Kuzey Afrika, Körfez, Türkiye, Balkanlar ve Avrupa geneline düzenli yüklemeler. Limanı söyleyin, teklif oraya teslim fiyatla gelsin.",
@@ -502,20 +510,22 @@ tr: {
   foot_legal: "Yasal bilgiler",
   foot_privacy: "Gizlilik politikası",
   foot_terms: "Genel satış şartları",
-  foot_contact: "İletişim"
+  foot_contact: "İletişim",
+  hero_caption: "Panellerimizin depodaki 3D görünümü — renkler kendiliğinden değişir",
+  foot_tm: "Alucobond®, 3A Composites GmbH'nin tescilli markasıdır ve burada yalnızca ürün tipine atıf olarak anılmaktadır. NOXEM GROUP FRANCE bu üreticiyle bağlantılı değildir."
 },
 
 /* ---------------------------------------------------- PL */
 pl: {
   _name: "Polski", _dir: "ltr",
-  meta_title: "NOXEM GROUP FRANCE — Panele kompozytowe aluminiowe | Producent i eksporter",
+  meta_title: "Panele kompozytowe aluminiowe typu Alucobond® — NOXEM GROUP FRANCE | Producent i eksporter",
   skip: "Przejdź do treści",
   nav_products: "Panele", nav_specs: "Specyfikacja", nav_colors: "Kolory i 3D",
   nav_packing: "Pakowanie i wysyłka", nav_quality: "Jakość", nav_quote: "Zapytanie ofertowe",
 
-  hero_eyebrow: "Panele kompozytowe aluminiowe · ACP / ACM",
-  hero_title: "Panele produkowane według Twojej specyfikacji, dostarczane do Twojego portu.",
-  hero_lead: "Dowolna grubość panelu. Dowolna grubość aluminium od 0,06 do 0,50 mm na stronę — symetrycznie, niesymetrycznie albo aluminium tylko po jednej stronie. Ponad 500 kolorów: 30 z magazynu, cała paleta RAL i kolory na zamówienie produkowane pod zlecenie. Pakowanie eksportowe w fumigowane skrzynie drewniane.",
+  hero_eyebrow: "Panele kompozytowe aluminiowe · ACP / ACM · typu Alucobond®",
+  hero_title: "Panele typu Alucobond®, produkowane na Twój wymiar i dostarczane do Twojego portu.",
+  hero_lead: "To, co w branży nazywa się panelem Alucobond: dwie powlekane blachy aluminiowe połączone z rdzeniem, na elewacje, reklamę i okładziny. Produkujemy go według Twoich liczb — dowolna grubość, blacha 0,06 – 0,50 mm na stronę, ponad 500 kolorów — i pakujemy w skrzynie na eksport.",
   hero_cta1: "Zobacz kolory w 3D", hero_cta2: "Zapytanie ofertowe",
   hero_stat1: "możliwych kolorów", hero_stat2: "grubość panelu, do",
   hero_stat3: "czas przygotowania oferty", hero_stat4: "języków, eksport na cały świat",
@@ -593,7 +603,7 @@ pl: {
   foot_rights: "Wszelkie prawa zastrzeżone.",
   foot_note: "Kolory na ekranie są poglądowe. Decyzję zakupową należy podejmować na podstawie fizycznej próbki.",
   fab: "Zapytanie ofertowe",
-  meta_desc: "Panele kompozytowe aluminiowe (ACP / ACM) na specyfikację: dowolna grubość, blacha 0,06 – 0,50 mm na stronę, ponad 500 kolorów, skrzynie drewniane na eksport, dostawa do Twojego portu.",
+  meta_desc: "Panele kompozytowe aluminiowe typu Alucobond® (ACP / ACM) na specyfikację: dowolna grubość, blacha 0,06 – 0,50 mm na stronę, ponad 500 kolorów, pakowanie eksportowe, dostawa do Twojego portu.",
   mkt_eyebrow: "Rynki",
   mkt_title: "Wysyłamy do portów, w których kupujesz",
   mkt_lead: "Regularne załadunki do Afryki Północnej, Zatoki, Turcji, na Bałkany i do całej Europy. Podaj port, a oferta wróci z ceną do niego.",
@@ -602,20 +612,22 @@ pl: {
   foot_legal: "Nota prawna",
   foot_privacy: "Polityka prywatności",
   foot_terms: "Ogólne warunki sprzedaży",
-  foot_contact: "Kontakt"
+  foot_contact: "Kontakt",
+  hero_caption: "Podgląd 3D naszych paneli w magazynie — kolory zmieniają się same",
+  foot_tm: "Alucobond® jest zastrzeżonym znakiem towarowym 3A Composites GmbH, przywołanym tu wyłącznie jako odniesienie do typu produktu. NOXEM GROUP FRANCE nie jest powiązana z tym producentem."
 },
 
 /* ---------------------------------------------------- HR */
 hr: {
   _name: "Hrvatski", _dir: "ltr",
-  meta_title: "NOXEM GROUP FRANCE — Aluminijski kompozitni paneli | Proizvođač i izvoznik",
+  meta_title: "Aluminijski kompozitni paneli tipa Alucobond® — NOXEM GROUP FRANCE | Proizvođač i izvoznik",
   skip: "Prijeđi na sadržaj",
   nav_products: "Paneli", nav_specs: "Specifikacija", nav_colors: "Boje i 3D",
   nav_packing: "Pakiranje i otprema", nav_quality: "Kvaliteta", nav_quote: "Zatražite ponudu",
 
-  hero_eyebrow: "Aluminijski kompozitni paneli · ACP / ACM",
-  hero_title: "Paneli izrađeni prema vašoj specifikaciji, isporučeni u vašu luku.",
-  hero_lead: "Bilo koja debljina panela. Bilo koja debljina aluminija od 0,06 do 0,50 mm po strani — simetrično, asimetrično ili aluminij samo s jedne strane. Više od 500 boja: 30 na zalihi, cijela RAL paleta i posebne nijanse izrađuju se po narudžbi. Izvozno pakiranje u fumigirane drvene sanduke.",
+  hero_eyebrow: "Aluminijski kompozitni paneli · ACP / ACM · tipa Alucobond®",
+  hero_title: "Paneli tipa Alucobond®, izrađeni po vašoj mjeri i isporučeni u vašu luku.",
+  hero_lead: "Ono što struka zove Alucobond panel: dvije lakirane aluminijske ploče spojene na jezgru, za fasade, reklame i obloge. Izrađujemo ga prema vašim brojkama — bilo koja debljina, ploča 0,06 – 0,50 mm po strani, više od 500 boja — i pakiramo u sanduke za izvoz.",
   hero_cta1: "Pogledajte boje u 3D-u", hero_cta2: "Zatražite ponudu",
   hero_stat1: "izvedivih boja", hero_stat2: "debljina panela, do",
   hero_stat3: "rok za ponudu", hero_stat4: "jezika, izvoz u cijeli svijet",
@@ -693,7 +705,7 @@ hr: {
   foot_rights: "Sva prava pridržana.",
   foot_note: "Boje na zaslonu su okvirne. Odluku o narudžbi donesite na temelju fizičkog uzorka.",
   fab: "Zatražite ponudu",
-  meta_desc: "Aluminijski kompozitni paneli (ACP / ACM) po specifikaciji: bilo koja debljina, ploča 0,06 – 0,50 mm po strani, više od 500 boja, drveni sanduci za izvoz, isporuka u vašu luku.",
+  meta_desc: "Aluminijski kompozitni paneli tipa Alucobond® (ACP / ACM) po specifikaciji: bilo koja debljina, ploča 0,06 – 0,50 mm po strani, više od 500 boja, izvozno pakiranje, isporuka u vašu luku.",
   mkt_eyebrow: "Tržišta",
   mkt_title: "Otpremamo u luke u kojima kupujete",
   mkt_lead: "Redoviti utovari za sjevernu Afriku, Zaljev, Tursku, Balkan i cijelu Europu. Recite luku i ponuda stiže s cijenom do nje.",
@@ -702,20 +714,22 @@ hr: {
   foot_legal: "Pravne informacije",
   foot_privacy: "Politika privatnosti",
   foot_terms: "Opći uvjeti prodaje",
-  foot_contact: "Kontakt"
+  foot_contact: "Kontakt",
+  hero_caption: "3D prikaz naših panela u skladištu — boje se same izmjenjuju",
+  foot_tm: "Alucobond® je registrirani žig tvrtke 3A Composites GmbH i ovdje se navodi isključivo kao oznaka tipa proizvoda. NOXEM GROUP FRANCE nije povezan s tim proizvođačem."
 },
 
 /* ---------------------------------------------------- NL */
 nl: {
   _name: "Nederlands", _dir: "ltr",
-  meta_title: "NOXEM GROUP FRANCE — Aluminium composietpanelen | Fabrikant & exporteur",
+  meta_title: "Aluminium composietpanelen type Alucobond® — NOXEM GROUP FRANCE | Fabrikant & exporteur",
   skip: "Naar de inhoud",
   nav_products: "Panelen", nav_specs: "Specificaties", nav_colors: "Kleuren & 3D",
   nav_packing: "Verpakking & verzending", nav_quality: "Kwaliteit", nav_quote: "Offerte aanvragen",
 
-  hero_eyebrow: "Aluminium composietpanelen · ACP / ACM",
-  hero_title: "Panelen gebouwd volgens uw specificatie, geleverd in uw haven.",
-  hero_lead: "Elke paneeldikte. Elke aluminiumdikte van 0,06 tot 0,50 mm per zijde — symmetrisch, asymmetrisch of aluminium op één zijde. Meer dan 500 kleuren: 30 uit voorraad, de volledige RAL-waaier en kleuren op maat op bestelling geproduceerd. Exportverpakking in gefumigeerde houten kisten.",
+  hero_eyebrow: "Aluminium composietpanelen · ACP / ACM · type Alucobond®",
+  hero_title: "Panelen type Alucobond®, op uw maat gebouwd en geleverd in uw haven.",
+  hero_lead: "Wat de branche een Alucobond-paneel noemt: twee gecoate aluminium platen op een kern, voor gevels, signing en bekleding. Wij bouwen het met uw cijfers — elke dikte, plaat van 0,06 tot 0,50 mm per zijde, meer dan 500 kleuren — en kisten het voor export.",
   hero_cta1: "Bekijk de kleuren in 3D", hero_cta2: "Offerte aanvragen",
   hero_stat1: "mogelijke kleuren", hero_stat2: "paneeldikte, tot",
   hero_stat3: "offertetijd", hero_stat4: "talen, wereldwijde export",
@@ -793,7 +807,7 @@ nl: {
   foot_rights: "Alle rechten voorbehouden.",
   foot_note: "Kleuren op het scherm zijn indicatief. Beslis uw order op basis van een fysiek monster.",
   fab: "Offerte aanvragen",
-  meta_desc: "Aluminium composietpanelen (ACP / ACM) op specificatie: elke dikte, plaat 0,06 tot 0,50 mm per zijde, meer dan 500 kleuren, exportverpakking in houten kisten, levering in uw haven.",
+  meta_desc: "Aluminium composietpanelen type Alucobond® (ACP / ACM) op specificatie: elke dikte, plaat 0,06 tot 0,50 mm per zijde, meer dan 500 kleuren, exportverpakking, levering in uw haven.",
   mkt_eyebrow: "Markten",
   mkt_title: "Wij verschepen naar de havens waar u koopt",
   mkt_lead: "Regelmatige ladingen naar Noord-Afrika, de Golf, Turkije, de Balkan en heel Europa. Noem de haven en de offerte komt daarheen geprijsd terug.",
@@ -802,7 +816,9 @@ nl: {
   foot_legal: "Juridische informatie",
   foot_privacy: "Privacybeleid",
   foot_terms: "Algemene verkoopvoorwaarden",
-  foot_contact: "Contact"
+  foot_contact: "Contact",
+  hero_caption: "3D-weergave van onze panelen in het magazijn — de kleuren wisselen vanzelf",
+  foot_tm: "Alucobond® is een geregistreerd handelsmerk van 3A Composites GmbH en wordt hier uitsluitend als producttype-aanduiding genoemd. NOXEM GROUP FRANCE is niet verbonden aan die fabrikant."
 }
 
 };
