@@ -123,3 +123,15 @@ test('un nom composé aplati bascule en version générique', async () => {
   assert.ok(!nomProbablementColle('Vern-sur-Seiche'));
   assert.ok(!nomProbablementColle(''));
 });
+
+test('les formes d’adresse qui ont rebondi à 100 % sont écartées', async () => {
+  const { formeRisquee } = await import('../outils/analyser-liste.mjs');
+  // Mesuré le 17/09 : 3 rebonds sur 3 pour accueil.mairie@, 1 sur 1 pour un préfixe numérique.
+  assert.equal(formeRisquee('accueil.mairie@ville-renage.fr'), 'forme accueil.mairie');
+  assert.equal(formeRisquee('05contact@mairie-montjean53.fr'), 'préfixe numérique');
+  // Les formes qui ont tenu passent.
+  assert.equal(formeRisquee('accueil@mairie-lherm.fr'), '');
+  assert.equal(formeRisquee('contact@colmar.fr'), '');
+  assert.equal(formeRisquee('accueil-mairie@ville-guise.fr'), '');
+  assert.equal(formeRisquee('accueil.environnement@mairie-mandelieu.fr'), '');
+});

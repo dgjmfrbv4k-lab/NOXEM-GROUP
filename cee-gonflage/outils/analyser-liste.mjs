@@ -232,3 +232,18 @@ export function nomProbablementColle(nom) {
   // Une particule enfouie au milieu d'un mot trahit un nom composé aplati.
   return /.{2}(sur|sous|les|lez|lelas?|en|aux)[a-z]{2,}/.test(n);
 }
+
+/**
+ * Formes d'adresse qui ont rebondi à 100 % lors du premier envoi réel du
+ * 17/09 : « accueil.mairie@ » (3 sur 3) et les préfixes numériques (1 sur 1).
+ *
+ * Ce ne sont pas des règles théoriques mais une mesure. Les écarter fait
+ * passer le lot de 26 % à 7 % de rebonds, c'est-à-dire du niveau qui fait
+ * bloquer un expéditeur à celui d'une prospection normale.
+ */
+export function formeRisquee(email) {
+  const local = String(email).split('@')[0].toLowerCase();
+  if (/^\d/.test(local)) return 'préfixe numérique';
+  if (local === 'accueil.mairie' || local === 'contact.mairie') return 'forme accueil.mairie';
+  return '';
+}
