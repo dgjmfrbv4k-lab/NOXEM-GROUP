@@ -6,6 +6,7 @@
   "use strict";
 
   var MAIL = "aaron.harfi@noxemgroup.com";
+  var WHATSAPP = "33769725892";
   var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   var T = window.NOXEM_I18N;
   var lang = "en";
@@ -87,6 +88,10 @@
 
     var cur = $("#lang-current");
     if (cur) cur.textContent = d._name;
+
+    /* lien WhatsApp : message pré-rempli dans la langue affichée */
+    var wa = $("#wa-float");
+    if (wa) wa.href = "https://wa.me/" + WHATSAPP + "?text=" + encodeURIComponent(d.wa_msg);
     $$("#lang-menu button").forEach(function (b) {
       b.setAttribute("aria-selected", b.getAttribute("data-lang") === code ? "true" : "false");
     });

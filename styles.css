@@ -635,3 +635,27 @@ mark.fill { background: #ffe9a8; color: #6b4a00; padding: 1px 6px; border-radius
 .explain__art svg { width: 100%; height: auto; display: block; }
 .explain h3 { margin: 22px 26px 8px; }
 .explain p { margin: 0 26px; font-size: .94rem; }
+
+/* ---------------- Bouton WhatsApp flottant ---------------- */
+.wa {
+  position: fixed; inset-inline-end: 20px; bottom: 20px; z-index: 95;
+  display: inline-flex; align-items: center; gap: 10px;
+  background: #25D366; color: #fff; text-decoration: none;
+  font-weight: 700; font-size: .9rem; padding: 12px 20px 12px 15px;
+  border-radius: 999px; box-shadow: 0 12px 30px rgba(37,211,102,.38);
+  transition: transform .25s var(--ease), box-shadow .25s var(--ease), background .25s;
+}
+.wa:hover { background: #1FB855; transform: translateY(-2px); box-shadow: 0 18px 38px rgba(37,211,102,.45); }
+.wa svg { width: 25px; height: 25px; fill: #fff; flex: none; }
+
+/* le bouton devis se place au-dessus */
+.fab { bottom: 84px; }
+
+@media (max-width: 760px) {
+  .wa { inset-inline-end: 14px; bottom: 14px; padding: 12px 17px 12px 13px; font-size: .85rem; }
+  .fab { display: none; }
+}
+@media (max-width: 380px) {
+  .wa span { display: none; }
+  .wa { padding: 14px; }
+}

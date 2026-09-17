@@ -113,7 +113,9 @@ en: {
   exp2_t: "On a building",
   exp2_d: "Fixed to a frame, it dresses a new façade or covers an old damaged one. It protects the wall, hides its defects and keeps its colour for twenty years.",
   exp3_t: "As signage",
-  exp3_d: "Perfectly flat, it is the standard backing for shop signs, light boxes and store fronts. Print or apply vinyl straight onto it."
+  exp3_d: "Perfectly flat, it is the standard backing for shop signs, light boxes and store fronts. Print or apply vinyl straight onto it.",
+  wa_label: "Chat on WhatsApp",
+  wa_msg: "Hello, I would like a quotation for aluminium composite panels."
 },
 
 /* ---------------------------------------------------- FR */
@@ -224,7 +226,9 @@ fr: {
   exp2_t: "Sur un bâtiment",
   exp2_d: "Fixée sur une ossature, elle habille une façade neuve ou recouvre une vieille façade abîmée. Elle protège le mur, masque ses défauts et garde sa couleur vingt ans.",
   exp3_t: "En enseigne",
-  exp3_d: "Parfaitement plate, c'est le support classique des enseignes, des caissons lumineux et des devantures. On imprime ou on colle directement dessus."
+  exp3_d: "Parfaitement plate, c'est le support classique des enseignes, des caissons lumineux et des devantures. On imprime ou on colle directement dessus.",
+  wa_label: "Écrire sur WhatsApp",
+  wa_msg: "Bonjour, je souhaite un devis pour des panneaux composites aluminium."
 },
 
 /* ---------------------------------------------------- AR */
@@ -335,7 +339,9 @@ ar: {
   exp2_t: "على المبنى",
   exp2_d: "يُثبَّت على هيكل فيكسو واجهة جديدة أو يغطي واجهة قديمة متضررة. يحمي الجدار ويخفي عيوبه ويحتفظ بلونه عشرين عاماً.",
   exp3_t: "في اللافتات",
-  exp3_d: "لاستوائه التام، هو الأساس المعتاد للّافتات وصناديق الإضاءة وواجهات المحلات. تُطبع عليه أو تُلصق عليه الملصقات مباشرة."
+  exp3_d: "لاستوائه التام، هو الأساس المعتاد للّافتات وصناديق الإضاءة وواجهات المحلات. تُطبع عليه أو تُلصق عليه الملصقات مباشرة.",
+  wa_label: "راسلنا على واتساب",
+  wa_msg: "مرحباً، أرغب في الحصول على عرض سعر لألواح ألمنيوم مركبة."
 },
 
 /* ---------------------------------------------------- ES */
@@ -446,7 +452,9 @@ es: {
   exp2_t: "En un edificio",
   exp2_d: "Fijada a una estructura, viste una fachada nueva o cubre una antigua deteriorada. Protege el muro, disimula sus defectos y conserva su color veinte años.",
   exp3_t: "En rotulación",
-  exp3_d: "Perfectamente plana, es el soporte habitual de rótulos, cajas de luz y escaparates. Se imprime o se aplica vinilo directamente encima."
+  exp3_d: "Perfectamente plana, es el soporte habitual de rótulos, cajas de luz y escaparates. Se imprime o se aplica vinilo directamente encima.",
+  wa_label: "Escribir por WhatsApp",
+  wa_msg: "Hola, quisiera un presupuesto de paneles composite de aluminio."
 },
 
 /* ---------------------------------------------------- TR */
@@ -557,7 +565,9 @@ tr: {
   exp2_t: "Binada",
   exp2_d: "Taşıyıcıya monte edilerek yeni bir cepheyi giydirir ya da eski ve yıpranmış bir cepheyi kapatır. Duvarı korur, kusurlarını gizler ve rengini yirmi yıl korur.",
   exp3_t: "Tabelada",
-  exp3_d: "Kusursuz düz olduğu için tabelaların, ışıklı kutuların ve mağaza cephelerinin standart taşıyıcısıdır. Doğrudan üzerine baskı yapılır veya folyo kaplanır."
+  exp3_d: "Kusursuz düz olduğu için tabelaların, ışıklı kutuların ve mağaza cephelerinin standart taşıyıcısıdır. Doğrudan üzerine baskı yapılır veya folyo kaplanır.",
+  wa_label: "WhatsApp'tan yazın",
+  wa_msg: "Merhaba, alüminyum kompozit panel için teklif almak istiyorum."
 },
 
 /* ---------------------------------------------------- PL */
@@ -668,7 +678,9 @@ pl: {
   exp2_t: "Na budynku",
   exp2_d: "Zamocowana na ruszcie okrywa nową elewację albo zakrywa starą, zniszczoną. Chroni ścianę, ukrywa jej wady i zachowuje kolor przez dwadzieścia lat.",
   exp3_t: "W reklamie",
-  exp3_d: "Dzięki idealnej płaskości jest standardowym podłożem szyldów, kasetonów i witryn. Drukuje się lub oklejaja bezpośrednio na niej."
+  exp3_d: "Dzięki idealnej płaskości jest standardowym podłożem szyldów, kasetonów i witryn. Drukuje się lub oklejaja bezpośrednio na niej.",
+  wa_label: "Napisz na WhatsApp",
+  wa_msg: "Dzień dobry, proszę o wycenę paneli kompozytowych aluminiowych."
 },
 
 /* ---------------------------------------------------- HR */
@@ -779,7 +791,9 @@ hr: {
   exp2_t: "Na zgradi",
   exp2_d: "Pričvršćena na podkonstrukciju oblaže novu fasadu ili prekriva staru i oštećenu. Štiti zid, skriva njegove nedostatke i zadržava boju dvadeset godina.",
   exp3_t: "Na reklami",
-  exp3_d: "Zbog savršene ravnoće standardna je podloga za natpise, svjetleće kutije i izloge. Na nju se izravno tiska ili lijepi folija."
+  exp3_d: "Zbog savršene ravnoće standardna je podloga za natpise, svjetleće kutije i izloge. Na nju se izravno tiska ili lijepi folija.",
+  wa_label: "Pišite na WhatsApp",
+  wa_msg: "Dobar dan, molim ponudu za aluminijske kompozitne panele."
 },
 
 /* ---------------------------------------------------- NL */
@@ -890,7 +904,9 @@ nl: {
   exp2_t: "Op een gebouw",
   exp2_d: "Op een regelwerk bevestigd kleedt ze een nieuwe gevel aan of dekt ze een oude, beschadigde gevel af. Ze beschermt de muur, verbergt de oneffenheden en houdt haar kleur twintig jaar.",
   exp3_t: "In reclame",
-  exp3_d: "Doordat ze perfect vlak is, is ze de standaarddrager voor uithangborden, lichtbakken en winkelpuien. Er wordt direct op gedrukt of folie op gezet."
+  exp3_d: "Doordat ze perfect vlak is, is ze de standaarddrager voor uithangborden, lichtbakken en winkelpuien. Er wordt direct op gedrukt of folie op gezet.",
+  wa_label: "Chat via WhatsApp",
+  wa_msg: "Goedendag, ik wil graag een offerte voor aluminium composietpanelen."
 }
 
 };
