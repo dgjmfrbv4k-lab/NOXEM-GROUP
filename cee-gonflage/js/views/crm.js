@@ -8,9 +8,10 @@
 
 import { STATUTS, TYPES_SITE, ORDRE_TYPES, TYPES_STATION, DEFAUTS_SIMULATEUR } from '../config.js';
 import {
-  chargerSites, ajouterSite, majSite, supprimerSite, trouverSite,
+  chargerSites, sauverSites, ajouterSite, majSite, supprimerSite, trouverSite,
   chargerParametres, exporterJSON, importerJSON,
 } from '../storage.js';
+import { collecterDepartement, versSite, nettoyer } from '../annuaire.js';
 import { estimationPourType } from '../classify.js';
 import { sitesVersCSV, telecharger } from '../csv.js';
 import { el, vider, euros, dateFr, aujourdhuiISO, notifier } from '../ui.js';
@@ -40,6 +41,77 @@ export function monter(racine, requete = {}) {
     el('input', { type: 'file', id: 'import-json', accept: 'application/json', class: 'cache', onChange: importerSauvegarde }),
   ]);
   racine.appendChild(barre);
+  racine.appendChild(blocMairies());
+
+  /**
+   * Import des mairies d'un département, directement depuis le navigateur.
+   *
+   * Pourquoi ici plutôt qu'en ligne de commande : l'outil equivalent
+   * (outils/collecte-mairies.mjs) suppose Node installé et un terminal
+   * ouvert. Ce bloc fait la même chose en un clic, sans rien installer.
+   * La logique de lecture est la même, partagée dans js/annuaire.js.
+   */
+  function blocMairies() {
+    const saisie = el('input', {
+      type: 'text', id: 'dep-mairies', placeholder: '69  ou  69,01,38,42',
+      attrs: { 'aria-label': 'Numéros de département' },
+    });
+    const etatTexte = el('span', { class: 'sous-titre' });
+    const bouton = el('button', {
+      type: 'button', class: 'btn btn--primaire', text: 'Importer les mairies',
+      onClick: () => lancer(),
+    });
+
+    async function lancer() {
+      const departements = saisie.value.split(',').map((d) => d.trim()).filter(Boolean);
+      if (!departements.length) {
+        notifier('Indiquez au moins un numéro de département, par exemple 69.', 'erreur');
+        return;
+      }
+
+      bouton.disabled = true;
+      const fiches = [];
+      try {
+        for (const departement of departements) {
+          etatTexte.textContent = `Département ${departement} : interrogation de l'annuaire…`;
+          const enregistrements = await collecterDepartement(departement, {
+            surAvancement: ({ recus, total }) => {
+              etatTexte.textContent = `Département ${departement} : ${recus}${total ? ` / ${total}` : ''} mairie(s)…`;
+            },
+          });
+          fiches.push(...enregistrements.map(versSite));
+        }
+      } catch (erreur) {
+        etatTexte.textContent = '';
+        bouton.disabled = false;
+        notifier(`Échec de la collecte : ${erreur.message}`, 'erreur');
+        return;
+      }
+
+      // On ne réimporte pas ce qui est déjà en base : les statuts et les
+      // notes déjà saisis ne doivent jamais être écrasés.
+      const existantes = new Set(chargerSites()
+        .map((s) => (s.contactEmail || '').toLowerCase()).filter(Boolean));
+      const nouvelles = nettoyer(fiches).filter((s) => !existantes.has(s.contactEmail.toLowerCase()));
+
+      if (nouvelles.length) sauverSites([...chargerSites(), ...nouvelles]);
+
+      etatTexte.textContent = '';
+      bouton.disabled = false;
+      saisie.value = '';
+      notifier(`${nouvelles.length} mairie(s) ajoutée(s) sur ${fiches.length} trouvée(s). `
+        + `${fiches.length - nouvelles.length} déjà connue(s) ou sans adresse e-mail.`, 'succes');
+      rendreListe();
+    }
+
+    return el('details', { class: 'bloc-import' }, [
+      el('summary', { text: 'Importer les mairies d’un département' }),
+      el('p', { class: 'sous-titre', text: 'Source : Annuaire de l’administration (service-public.fr). '
+        + 'Adresses institutionnelles publiées par l’État — aucun nom d’agent ni d’élu n’est collecté. '
+        + 'Les fiches déjà présentes ne sont pas réimportées.' }),
+      el('div', { class: 'barre-outils' }, [saisie, bouton, etatTexte]),
+    ]);
+  }
 
   const zoneEdition = el('div', { id: 'zone-edition' });
   const zoneListe = el('div', { id: 'zone-liste' });

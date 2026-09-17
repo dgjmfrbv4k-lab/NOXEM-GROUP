@@ -146,18 +146,31 @@ pas des personnes.
 
 ### Les communes
 
+**Sans rien installer : directement dans l'application.** Onglet **Prospection** →
+*Importer les mairies d'un département* → taper `69` (ou `69,01,38,42`) → *Importer*.
+Les fiches arrivent dans le CRM, prêtes à être contactées. C'est la voie normale ; le
+terminal n'est utile que pour produire des fichiers destinés à `preparer-envois.mjs`
+ou `envoyer.mjs`.
+
+Les fiches déjà présentes ne sont jamais réimportées : les statuts et les notes déjà
+saisis ne peuvent pas être écrasés par un second import.
+
 > La séquence complète pour couvrir la France — l'ordre des départements, les commandes
 > de chaque vague et la boucle quotidienne — est dans **`docs/plan-france.md`**.
 
+#### La même collecte en ligne de commande
 
-`outils/collecte-mairies.mjs` constitue la liste des mairies d'un département à partir
-de l'**Annuaire de l'administration** (service-public.fr), avec leur adresse de contact
-officielle :
+
+`outils/collecte-mairies.mjs` fait exactement la même chose depuis un terminal, et écrit
+un `.json` + un `.csv` :
 
 ```bash
 node outils/collecte-mairies.mjs --departement 69
 node outils/collecte-mairies.mjs --departement 69,01,38,42 --sortie mairies-lyon
 ```
+
+La logique de lecture de l'annuaire est partagée entre les deux chemins
+(`js/annuaire.js`) : une seule implémentation, testée une seule fois.
 
 Ces adresses sont **institutionnelles et publiées par l'État** : ce sont des adresses
 d'établissement, pas des données personnelles. Aucun nom d'agent ni d'élu n'est collecté

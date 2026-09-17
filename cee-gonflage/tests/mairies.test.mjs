@@ -1,8 +1,10 @@
 /** Tests de la collecte des mairies (parsing de l'Annuaire de l'administration). */
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { lireChamp, extraireCourriel, extraireTelephone, extraireAdresse, versSite, nettoyer, versCSV }
-  from '../outils/collecte-mairies.mjs';
+import { lireChamp, extraireCourriel, extraireTelephone, extraireAdresse, versSite, nettoyer }
+  from '../js/annuaire.js';
+// versCSV reste côté outil : le navigateur importe directement dans le CRM.
+import { versCSV } from '../outils/collecte-mairies.mjs';
 
 // L'annuaire sérialise certains champs en JSON dans une chaîne : les deux
 // formes doivent être acceptées, faute de quoi la collecte rend des fiches vides.
@@ -71,4 +73,43 @@ test('export CSV', () => {
   const csv = versCSV([{ nom: 'Mairie de X', adresse: '1 rue; test', codePostal: '69000', ville: 'X', contactEmail: 'm@x.fr', notes: '' }]);
   assert.ok(csv.startsWith('﻿Commune;Adresse;'));
   assert.match(csv, /"1 rue; test"/);
+});
+
+test('l’URL de requête cible bien les mairies du département', async () => {
+  const { urlRequete } = await import('../js/annuaire.js');
+  const url = new URL(urlRequete('69', { limit: 100, offset: 200 }));
+  assert.equal(url.searchParams.get('where'), 'pivot LIKE "mairie" AND code_insee_commune LIKE "69%"');
+  assert.equal(url.searchParams.get('limit'), '100');
+  assert.equal(url.searchParams.get('offset'), '200');
+  // Un département corse ou d'outre-mer passe par le même chemin.
+  assert.match(new URL(urlRequete('2A')).searchParams.get('where'), /"2A%"/);
+});
+
+test('la collecte pagine jusqu’au bout et remonte l’avancement', async () => {
+  const { collecterDepartement } = await import('../js/annuaire.js');
+  const appels = [];
+  const avancements = [];
+  const fetchFn = async (url) => {
+    const offset = Number(new URL(url).searchParams.get('offset'));
+    appels.push(offset);
+    // Deux pages pleines, puis une partielle : la collecte doit s'arrêter là.
+    const n = offset < 20 ? 10 : 4;
+    return { ok: true, json: async () => ({ total_count: 24, results: Array.from({ length: n }, (_, i) => ({ id: offset + i })) }) };
+  };
+
+  const r = await collecterDepartement('69', {
+    fetchFn, parPage: 10, surAvancement: (a) => avancements.push(a.recus),
+  });
+  assert.equal(r.length, 24);
+  assert.deepEqual(appels, [0, 10, 20]);
+  assert.deepEqual(avancements, [10, 20, 24]);
+});
+
+test('une erreur de l’annuaire est remontée en clair', async () => {
+  const { collecterDepartement } = await import('../js/annuaire.js');
+  const fetchFn = async () => ({ ok: false, status: 503 });
+  await assert.rejects(
+    () => collecterDepartement('69', { fetchFn }),
+    /L'annuaire a répondu 503/,
+  );
 });

@@ -32,6 +32,12 @@ communes ayant **une adresse e-mail publiée** — c'est toujours moins.
 | 7 | Occitanie nord et Massif central | `12` `48` `46` `19` `23` `87` | Continuité géographique. |
 | 8 | Reste de la France | les autres départements | Une fois les sept premières purgées. |
 
+**Le plus simple :** onglet **Prospection** de l'application → *Importer les mairies
+d'un département* → taper les numéros de la vague → *Importer*. Aucune installation.
+
+Les commandes ci-dessous font la même chose depuis un terminal, quand on veut en plus
+un fichier `.json` / `.csv` à passer à `preparer-envois.mjs` ou `envoyer.mjs` :
+
 ```bash
 cd cee-gonflage
 
