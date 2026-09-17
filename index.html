@@ -1,38 +1,68 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NOXEM GROUP — Panneaux composites aluminium (type Alucobond®)</title>
-<meta name="description" content="NOXEM GROUP : fourniture et pose de panneaux composites aluminium type Alucobond® pour façades ventilées, enseignes, habillages et agencement. Devis sous 48h.">
-<meta name="theme-color" content="#0d1218">
-<meta property="og:title" content="NOXEM GROUP — Panneaux composites aluminium">
-<meta property="og:description" content="Façades ventilées, enseignes, habillages : panneaux composites aluminium 3 et 4 mm, plus de 40 finitions. Devis sous 48h.">
+<title>NOXEM GROUP FRANCE — Aluminium Composite Panels | Manufacturer &amp; Exporter</title>
+<meta name="description" content="NOXEM GROUP FRANCE — aluminium composite panels (ACP/ACM) made to specification: any thickness, any skin gauge from 0.06 to 0.50 mm per face, 30 stock colours, export packing in wooden crates, delivery to your port.">
+<meta name="theme-color" content="#3F4D5C">
+<meta property="og:title" content="NOXEM GROUP FRANCE — Aluminium Composite Panels">
+<meta property="og:description" content="Panels made to your specification. Any thickness, any colour, delivered to your port.">
 <meta property="og:type" content="website">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2218%22 fill=%22%230d1218%22/><text x=%2250%22 y=%2272%22 font-size=%2262%22 font-family=%22Arial%22 font-weight=%22bold%22 fill=%22%23c9d3dd%22 text-anchor=%22middle%22>N</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 64 64%22><rect width=%2264%22 height=%2264%22 rx=%2212%22 fill=%22%233F4D5C%22/><path d=%22M12 18 L28 10 L28 30 L12 38 Z%22 fill=%22%23C6303A%22/><path d=%22M34 10 L52 18 L52 38 L34 30 Z%22 fill=%22%23E09443%22/></svg>">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<a href="#main" class="skip-link">Aller au contenu</a>
+<a href="#main" class="skip-link" data-i18n="skip">Skip to content</a>
 
+<!-- ============ HEADER ============ -->
 <header class="header" id="header">
   <div class="container header__inner">
-    <a href="#top" class="logo" aria-label="NOXEM GROUP, accueil">
-      <span class="logo__mark">N</span>
-      <span class="logo__text">NOXEM <em>GROUP</em></span>
+
+    <a href="#home" class="brand" aria-label="NOXEM GROUP FRANCE">
+      <svg class="brand__mark" viewBox="0 0 120 132" aria-hidden="true">
+        <path d="M58 2 L58 62 L6 32 Z"   fill="#C6303A"/>
+        <path d="M62 2 L114 32 L114 92 L62 62 Z" fill="#E09443"/>
+        <path d="M58 68 L58 130 L6 100 L6 38 Z" fill="#D6C9BC"/>
+        <path d="M62 68 L114 98 L62 130 Z" fill="#E09443"/>
+      </svg>
+      <span class="brand__divider" aria-hidden="true"></span>
+      <span class="brand__text">
+        <strong>NOXEM GROUP</strong>
+        <span class="brand__bar" aria-hidden="true"><i></i><b></b></span>
+        <em>FRANCE</em>
+      </span>
     </a>
 
-    <nav class="nav" id="nav" aria-label="Navigation principale">
-      <a href="#produits">Produits</a>
-      <a href="#finitions">Finitions</a>
-      <a href="#applications">Applications</a>
-      <a href="#methode">Méthode</a>
-      <a href="#faq">FAQ</a>
-      <a href="#contact" class="nav__cta">Demander un devis</a>
+    <nav class="nav" id="nav" aria-label="Main">
+      <a href="#products"  data-i18n="nav_products">Panels</a>
+      <a href="#specs"     data-i18n="nav_specs">Specification</a>
+      <a href="#colors"    data-i18n="nav_colors">Colours &amp; 3D</a>
+      <a href="#packing"   data-i18n="nav_packing">Packing &amp; shipping</a>
+      <a href="#quality"   data-i18n="nav_quality">Quality</a>
+      <a href="#quote" class="nav__cta" data-i18n="nav_quote">Request a quote</a>
     </nav>
 
-    <button class="burger" id="burger" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="nav">
+    <div class="lang">
+      <span class="lang__icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+          <circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.8 2.6 15.2 0 18M12 3c-2.6 2.8-2.6 15.2 0 18"/>
+        </svg>
+      </span>
+      <select id="lang-select" aria-label="Language">
+        <option value="en">English</option>
+        <option value="fr">Français</option>
+        <option value="ar">العربية</option>
+        <option value="es">Español</option>
+        <option value="tr">Türkçe</option>
+        <option value="pl">Polski</option>
+        <option value="hr">Hrvatski</option>
+        <option value="nl">Nederlands</option>
+      </select>
+    </div>
+
+    <button class="burger" id="burger" aria-label="Menu" aria-expanded="false" aria-controls="nav">
       <span></span><span></span><span></span>
     </button>
   </div>
@@ -40,378 +70,424 @@
 
 <main id="main">
 
-  <!-- ================= HERO ================= -->
-  <section class="hero" id="top">
-    <div class="hero__metal" aria-hidden="true"></div>
-    <div class="hero__grid" aria-hidden="true"></div>
+  <!-- ============ HERO ============ -->
+  <section class="hero" id="home">
+    <div class="hero__bg" aria-hidden="true"></div>
     <div class="container hero__inner">
-      <p class="eyebrow eyebrow--light reveal">Panneaux composites aluminium</p>
-      <h1 class="reveal">
-        La façade qui reste<br>
-        <span class="shine">nette 20 ans plus tard</span>
-      </h1>
-      <p class="hero__lead reveal">
-        NOXEM GROUP fournit et pose des panneaux composites aluminium type Alucobond® :
-        façades ventilées, enseignes, habillages et agencement. Planéité parfaite,
-        laquage durable, mise en œuvre maîtrisée.
-      </p>
+      <p class="eyebrow eyebrow--light reveal" data-i18n="hero_eyebrow">Aluminium composite panels · ACP / ACM</p>
+      <h1 class="reveal" data-i18n="hero_title">Panels built to your specification, delivered to your port.</h1>
+      <p class="hero__lead reveal" data-i18n="hero_lead">Any panel thickness. Any aluminium gauge, from 0.06 to 0.50 mm per face — symmetrical, asymmetrical, or aluminium on one face only. 30 stock colours, RAL on request. Export packing in fumigated wooden crates.</p>
       <div class="hero__actions reveal">
-        <a href="#contact" class="btn btn--primary">Demander un devis</a>
-        <a href="#produits" class="btn btn--ghost">Voir les panneaux</a>
+        <a href="#colors" class="btn btn--primary" data-i18n="hero_cta1">See colours in 3D</a>
+        <a href="#quote" class="btn btn--ghost" data-i18n="hero_cta2">Request a quote</a>
       </div>
-
       <ul class="hero__stats reveal">
-        <li><strong data-count="40" data-suffix="+">0</strong><span>finitions disponibles</span></li>
-        <li><strong data-count="48" data-suffix="h">0</strong><span>pour recevoir un devis</span></li>
-        <li><strong data-count="20" data-suffix=" ans">0</strong><span>de tenue du laquage</span></li>
+        <li><strong data-count="30" data-suffix="">0</strong><span data-i18n="hero_stat1">stock colours</span></li>
+        <li><strong data-count="6" data-suffix=" mm">0</strong><span data-i18n="hero_stat2">panel thickness, up to</span></li>
+        <li><strong data-count="48" data-suffix="h">0</strong><span data-i18n="hero_stat3">quotation time</span></li>
+        <li><strong data-count="8" data-suffix="">0</strong><span data-i18n="hero_stat4">languages, worldwide export</span></li>
       </ul>
     </div>
 
     <div class="marquee" aria-hidden="true">
-      <div class="marquee__track">
-        <span>Façades ventilées</span><i>◆</i>
-        <span>Enseignes &amp; signalétique</span><i>◆</i>
-        <span>Habillage de balcons</span><i>◆</i>
-        <span>Bardage</span><i>◆</i>
-        <span>Agencement intérieur</span><i>◆</i>
-        <span>Façades ventilées</span><i>◆</i>
-        <span>Enseignes &amp; signalétique</span><i>◆</i>
-        <span>Habillage de balcons</span><i>◆</i>
-        <span>Bardage</span><i>◆</i>
-        <span>Agencement intérieur</span><i>◆</i>
-      </div>
+      <div class="marquee__track" id="marquee-track"></div>
     </div>
   </section>
 
-  <!-- ================= PRODUITS ================= -->
-  <section class="section" id="produits">
+  <!-- ============ PRODUCTS ============ -->
+  <section class="section" id="products">
     <div class="container">
       <header class="section__head">
-        <p class="eyebrow reveal">Nos panneaux</p>
-        <h2 class="reveal">Trois références qui couvrent 95 % des chantiers</h2>
-        <p class="section__lead reveal">
-          Deux tôles d'aluminium laquées enserrant une âme minérale ou polyéthylène.
-          Léger, rigide, parfaitement plan — et usinable comme du bois.
-        </p>
+        <p class="eyebrow reveal" data-i18n="prod_eyebrow">What we supply</p>
+        <h2 class="reveal" data-i18n="prod_title">Three product families, one production line</h2>
+        <p class="section__lead reveal" data-i18n="prod_lead">Two coil-coated aluminium skins bonded to a core. We control both skins and the core, so the panel is built around your project — not around a catalogue.</p>
       </header>
 
       <div class="grid grid--3">
         <article class="card reveal">
-          <div class="card__badge">Le plus demandé</div>
-          <h3>Composite 4 mm — âme PE</h3>
-          <p>Le standard de la façade et de l'enseigne. Excellent rapport rigidité / poids, pliage et rainurage faciles.</p>
-          <ul class="specs">
-            <li><span>Épaisseur</span><b>4 mm</b></li>
-            <li><span>Tôle alu</span><b>0,50 mm</b></li>
-            <li><span>Poids</span><b>≈ 5,5 kg/m²</b></li>
-            <li><span>Formats</span><b>1250 / 1500 × 3200 mm</b></li>
+          <div class="card__tag" data-i18n="prod1_tag">Façade</div>
+          <h3 data-i18n="prod1_title">PVDF façade panel</h3>
+          <p data-i18n="prod1_desc">Coil-coated PVDF 70/30 on 3003 alloy. For ventilated façades, cladding and rainscreen, where the colour has to hold for twenty years.</p>
+          <ul class="ticks">
+            <li data-i18n="prod1_b1">Panel 3 – 6 mm, skin 0.30 / 0.40 / 0.50 mm</li>
+            <li data-i18n="prod1_b2">PVDF 25 µm, 3-coat 2-bake</li>
+            <li data-i18n="prod1_b3">10 to 20 year coating warranty</li>
           </ul>
-          <p class="price">Sur devis <em>— tarif dégressif dès 50 m²</em></p>
-          <a href="#contact" class="card__link">Demander le prix →</a>
         </article>
 
         <article class="card card--featured reveal">
-          <div class="card__badge card__badge--accent">Classement A2</div>
-          <h3>Composite 4 mm — âme minérale FR</h3>
-          <p>Âme minérale à réaction au feu améliorée (A2-s1,d0). Exigé sur les ERP et les bâtiments de grande hauteur.</p>
-          <ul class="specs">
-            <li><span>Épaisseur</span><b>4 mm</b></li>
-            <li><span>Réaction au feu</span><b>A2-s1,d0</b></li>
-            <li><span>Poids</span><b>≈ 7,6 kg/m²</b></li>
-            <li><span>Formats</span><b>1250 / 1500 × 3200 mm</b></li>
+          <div class="card__tag card__tag--accent" data-i18n="prod2_tag">Best seller</div>
+          <h3 data-i18n="prod2_title">Signage &amp; advertising panel</h3>
+          <p data-i18n="prod2_desc">Economical build for signboards, light boxes, shop fronts and printing. Perfectly flat surface for digital print and vinyl.</p>
+          <ul class="ticks">
+            <li data-i18n="prod2_b1">Panel 2 – 4 mm, skin 0.06 – 0.21 mm</li>
+            <li data-i18n="prod2_b2">Polyester coating, 18 µm</li>
+            <li data-i18n="prod2_b3">Printable protective film</li>
           </ul>
-          <p class="price">Sur devis <em>— fiches techniques fournies</em></p>
-          <a href="#contact" class="card__link">Demander le prix →</a>
         </article>
 
         <article class="card reveal">
-          <div class="card__badge">Signalétique</div>
-          <h3>Composite 3 mm</h3>
-          <p>Plus fin et plus léger, idéal pour les enseignes, les caissons, la PLV et l'habillage intérieur.</p>
-          <ul class="specs">
-            <li><span>Épaisseur</span><b>3 mm</b></li>
-            <li><span>Tôle alu</span><b>0,30 mm</b></li>
-            <li><span>Poids</span><b>≈ 3,9 kg/m²</b></li>
-            <li><span>Formats</span><b>1250 × 2500 / 3050 mm</b></li>
+          <div class="card__tag" data-i18n="prod3_tag">Fire rated</div>
+          <h3 data-i18n="prod3_title">FR &amp; A2 mineral core</h3>
+          <p data-i18n="prod3_desc">Mineral-filled core for public buildings, high-rise and tenders that ask for a reaction-to-fire class. Test reports supplied with the offer.</p>
+          <ul class="ticks">
+            <li data-i18n="prod3_b1">B1 (FR) and A2-s1,d0 cores</li>
+            <li data-i18n="prod3_b2">Same colour range as standard panels</li>
+            <li data-i18n="prod3_b3">Classification reports on request</li>
           </ul>
-          <p class="price">Sur devis <em>— découpe à la demande</em></p>
-          <a href="#contact" class="card__link">Demander le prix →</a>
         </article>
       </div>
-
-      <p class="note reveal">
-        Découpe numérique, rainurage, pliage, perçage et cassettes prêtes à poser : nous livrons le panneau
-        brut ou l'élément fini, aux cotes de votre calepinage.
-      </p>
     </div>
   </section>
 
-  <!-- ================= FINITIONS ================= -->
-  <section class="section section--dark" id="finitions">
+  <!-- ============ SPECIFICATION ============ -->
+  <section class="section section--alt" id="specs">
     <div class="container">
       <header class="section__head">
-        <p class="eyebrow eyebrow--light reveal">Finitions</p>
-        <h2 class="reveal">Choisissez la peau du bâtiment</h2>
-        <p class="section__lead reveal">
-          Laquage PVDF haute tenue, teintes RAL sur demande, effets métallisés, bois et miroir.
-          Cliquez une finition pour la visualiser.
-        </p>
+        <p class="eyebrow reveal" data-i18n="spec_eyebrow">Build your panel</p>
+        <h2 class="reveal" data-i18n="spec_title">Everything on this list is yours to choose</h2>
+        <p class="section__lead reveal" data-i18n="spec_lead">Give us the four numbers that matter — panel thickness, skin per face, core, colour — and we build exactly that. Nothing here is a fixed catalogue item.</p>
       </header>
 
-      <div class="finish">
-        <div class="finish__preview reveal">
-          <div class="panel" id="panel" data-finish="silver">
-            <div class="panel__sheen" aria-hidden="true"></div>
-            <div class="panel__joint" aria-hidden="true"></div>
-            <div class="panel__joint panel__joint--v" aria-hidden="true"></div>
+      <div class="spec-wrap">
+        <table class="spec-table reveal">
+          <tbody>
+            <tr><th data-i18n="spec_r1">Panel thickness</th><td>2 · 3 · 4 · 5 · 6 mm</td></tr>
+            <tr><th data-i18n="spec_r2">Aluminium skin, per face</th><td>0.06 · 0.10 · 0.12 · 0.15 · 0.18 · 0.21 · 0.25 · 0.30 · 0.40 · 0.50 mm</td></tr>
+            <tr><th data-i18n="spec_r3">Alloy / temper</th><td>3003 · 5005 — H16 / H24</td></tr>
+            <tr><th data-i18n="spec_r4">Core</th><td>LDPE · FR (B1) · A2 mineral</td></tr>
+            <tr><th data-i18n="spec_r5">Width</th><td>1000 · 1220 · 1250 · 1500 · 1575 · 2000 mm</td></tr>
+            <tr><th data-i18n="spec_r6">Length</th><td>2000 – 6000 mm <span data-i18n="spec_r6b">(longer on request)</span></td></tr>
+            <tr><th data-i18n="spec_r7">Coating</th><td>PVDF 70/30 · Polyester · Nano · Brushed · Mirror · Wood &amp; marble décor</td></tr>
+            <tr><th data-i18n="spec_r8">Gloss</th><td>10 – 90 GU</td></tr>
+            <tr><th data-i18n="spec_r9">Protective film</th><td>50 – 80 µm, <span data-i18n="spec_r9b">printable with your logo</span></td></tr>
+          </tbody>
+        </table>
+
+        <aside class="callout reveal">
+          <h3 data-i18n="spec_call_title">Asymmetrical builds are standard for us</h3>
+          <p data-i18n="spec_call_p1">0.50 mm on both faces. 0.50 front and 0.20 back. Aluminium on the visible face only. Whatever the project or the budget calls for, the line is set for it.</p>
+          <div class="build-demo" aria-hidden="true">
+            <div class="build-demo__row"><span class="bd-skin bd-skin--thick"></span><span class="bd-core"></span><span class="bd-skin bd-skin--thick"></span><b>0.50 / 0.50</b></div>
+            <div class="build-demo__row"><span class="bd-skin bd-skin--thick"></span><span class="bd-core"></span><span class="bd-skin bd-skin--thin"></span><b>0.50 / 0.20</b></div>
+            <div class="build-demo__row"><span class="bd-skin bd-skin--thick"></span><span class="bd-core"></span><span class="bd-skin bd-skin--none"></span><b data-i18n="spec_call_one">one face</b></div>
           </div>
-          <div class="finish__meta">
-            <strong id="finish-name">Silver Metallic</strong>
-            <span id="finish-ref">Réf. NX-101 · laquage PVDF</span>
+          <p class="callout__note" data-i18n="spec_call_p2">Tell us the face that will be seen — we do the rest.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ COLOURS + 3D STUDIO ============ -->
+  <section class="section section--dark" id="colors">
+    <div class="container">
+      <header class="section__head">
+        <p class="eyebrow eyebrow--light reveal" data-i18n="col_eyebrow">Colours &amp; 3D preview</p>
+        <h2 class="reveal" data-i18n="col_title">Pick a colour. See it on the panels, in the warehouse.</h2>
+        <p class="section__lead reveal" data-i18n="col_lead">30 shades held in stock — metallics, solids, pastels, deep reds and blacks. Click one and the scene below is repainted: the cladding, the stack of panels and the sample sheet.</p>
+      </header>
+
+      <div class="studio">
+        <!-- 3D scene -->
+        <div class="studio__stage reveal">
+          <div class="stage" id="stage">
+            <div class="room" id="room">
+
+              <div class="room__floor" aria-hidden="true"></div>
+              <div class="room__backwall" aria-hidden="true"></div>
+
+              <!-- cladding on the wall -->
+              <div class="facade" aria-hidden="true">
+                <span class="facade__p"></span><span class="facade__p"></span><span class="facade__p"></span>
+                <span class="facade__p"></span><span class="facade__p"></span><span class="facade__p"></span>
+              </div>
+
+              <!-- stack of panels -->
+              <div class="box box--stack" aria-hidden="true">
+                <span class="f f--top"></span>
+                <span class="f f--front"></span>
+                <span class="f f--right"></span>
+              </div>
+
+              <!-- wooden export crate -->
+              <div class="box box--crate" aria-hidden="true">
+                <span class="f f--top"></span>
+                <span class="f f--front"></span>
+                <span class="f f--right"></span>
+              </div>
+
+              <!-- single sample sheet leaning -->
+              <div class="sheet" aria-hidden="true"><span class="sheet__face"></span></div>
+
+              <div class="room__shadow" aria-hidden="true"></div>
+            </div>
+          </div>
+
+          <div class="stage__bar">
+            <div class="stage__pick">
+              <span class="stage__dot" id="pick-dot"></span>
+              <span>
+                <strong id="pick-name">Silver Metallic</strong>
+                <em id="pick-sub">NX-01 · Argent brillant</em>
+              </span>
+            </div>
+            <p class="stage__hint" data-i18n="col_hint">Drag the scene to turn it</p>
           </div>
         </div>
 
-        <div class="finish__list reveal" role="group" aria-label="Choix de la finition">
-          <button class="swatch is-active" data-finish="silver" data-name="Silver Metallic" data-ref="Réf. NX-101 · laquage PVDF"><span></span>Silver Metallic</button>
-          <button class="swatch" data-finish="champagne" data-name="Champagne Metallic" data-ref="Réf. NX-118 · laquage PVDF"><span></span>Champagne</button>
-          <button class="swatch" data-finish="anthracite" data-name="Anthracite" data-ref="Réf. NX-704 · RAL 7016"><span></span>Anthracite</button>
-          <button class="swatch" data-finish="blanc" data-name="Blanc pur" data-ref="Réf. NX-901 · RAL 9010"><span></span>Blanc pur</button>
-          <button class="swatch" data-finish="noir" data-name="Noir mat" data-ref="Réf. NX-905 · RAL 9005 mat"><span></span>Noir mat</button>
-          <button class="swatch" data-finish="cuivre" data-name="Cuivre brossé" data-ref="Réf. NX-220 · effet métal"><span></span>Cuivre brossé</button>
-          <button class="swatch" data-finish="bois" data-name="Chêne naturel" data-ref="Réf. NX-330 · décor bois"><span></span>Chêne naturel</button>
-          <button class="swatch" data-finish="miroir" data-name="Miroir poli" data-ref="Réf. NX-150 · effet miroir"><span></span>Miroir poli</button>
+        <!-- controls -->
+        <div class="studio__panel reveal">
+          <div class="control">
+            <label class="control__label" data-i18n="col_lbl_colour">Colour</label>
+            <div class="swatches" id="swatches" role="group" aria-label="Colour"></div>
+          </div>
+
+          <div class="control-row">
+            <div class="control">
+              <label class="control__label" for="cfg-thickness" data-i18n="col_lbl_thick">Panel thickness</label>
+              <select id="cfg-thickness">
+                <option>2 mm</option><option>3 mm</option><option selected>4 mm</option><option>5 mm</option><option>6 mm</option>
+              </select>
+            </div>
+            <div class="control">
+              <label class="control__label" for="cfg-skin" data-i18n="col_lbl_skin">Skin per face</label>
+              <select id="cfg-skin">
+                <option>0.06 / 0.06 mm</option><option>0.10 / 0.10 mm</option><option>0.12 / 0.12 mm</option>
+                <option>0.15 / 0.15 mm</option><option>0.18 / 0.18 mm</option><option selected>0.21 / 0.21 mm</option>
+                <option>0.25 / 0.25 mm</option><option>0.30 / 0.30 mm</option><option>0.40 / 0.40 mm</option>
+                <option>0.50 / 0.50 mm</option><option>0.50 / 0.20 mm</option><option data-i18n="col_skin_one">0.50 mm — one face only</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="control-row">
+            <div class="control">
+              <label class="control__label" for="cfg-core" data-i18n="col_lbl_core">Core</label>
+              <select id="cfg-core">
+                <option>LDPE</option><option>FR (B1)</option><option>A2 mineral</option>
+              </select>
+            </div>
+            <div class="control">
+              <label class="control__label" for="cfg-coating" data-i18n="col_lbl_coating">Coating</label>
+              <select id="cfg-coating">
+                <option>PVDF 70/30</option><option>Polyester</option><option>Nano</option><option>Brushed</option><option>Mirror</option>
+              </select>
+            </div>
+          </div>
+
+          <button class="btn btn--primary btn--full" id="to-quote" data-i18n="col_cta">Request this specification</button>
+          <p class="studio__note" data-i18n="col_note">Your selection is carried into the quotation form automatically. RAL and custom shades are produced from 500 m².</p>
         </div>
       </div>
+
+      <!-- physical chart -->
+      <figure class="shot shot--chart reveal">
+        <img src="assets/color-chart.jpg" alt="NOXEM GROUP colour chart" class="shot__img" id="chart-img">
+        <div class="shot__fallback" id="chart-fallback"><div class="chartgrid" id="chartgrid"></div></div>
+        <figcaption data-i18n="col_chart_cap">Physical sample chart — the 30 stock shades, sent free of charge on request.</figcaption>
+      </figure>
     </div>
   </section>
 
-  <!-- ================= APPLICATIONS ================= -->
-  <section class="section" id="applications">
+  <!-- ============ PACKING &amp; SHIPPING ============ -->
+  <section class="section" id="packing">
     <div class="container">
       <header class="section__head">
-        <p class="eyebrow reveal">Applications</p>
-        <h2 class="reveal">Là où le composite aluminium fait la différence</h2>
+        <p class="eyebrow reveal" data-i18n="pack_eyebrow">Packing &amp; shipping</p>
+        <h2 class="reveal" data-i18n="pack_title">Loaded to be unloaded — in one piece, in ten minutes</h2>
+        <p class="section__lead reveal" data-i18n="pack_lead">Panels are filmed, interleaved, strapped on a pallet and closed inside a braced wooden crate. The crate is blocked against the container walls so nothing moves at sea, and comes straight out on the forklift at your port.</p>
       </header>
 
-      <div class="grid grid--4">
-        <article class="tile reveal">
-          <div class="tile__icon" aria-hidden="true">🏢</div>
-          <h3>Façade ventilée</h3>
-          <p>Pose sur ossature alu, lame d'air et isolant. Un habillage qui protège le bâti et rattrape les défauts de planéité.</p>
-        </article>
-        <article class="tile reveal">
-          <div class="tile__icon" aria-hidden="true">🔤</div>
-          <h3>Enseignes &amp; signalétique</h3>
-          <p>Caissons, lettrages, totems. Support parfaitement plan pour l'impression numérique et l'adhésif.</p>
-        </article>
-        <article class="tile reveal">
-          <div class="tile__icon" aria-hidden="true">🛗</div>
-          <h3>Habillage &amp; rénovation</h3>
-          <p>Balcons, acrotères, auvents, gaines d'ascenseur : on recouvre l'existant sans le démolir.</p>
-        </article>
-        <article class="tile reveal">
-          <div class="tile__icon" aria-hidden="true">🛋️</div>
-          <h3>Agencement intérieur</h3>
-          <p>Comptoirs, cloisons, stands, mobilier urbain. Léger à manipuler, propre à l'assemblage.</p>
-        </article>
+      <div class="shots">
+        <figure class="shot reveal">
+          <img src="assets/container-loading.jpg" alt="Crates loaded in a container" class="shot__img">
+          <div class="shot__fallback">
+            <svg viewBox="0 0 400 300" class="ill" role="img" aria-label="Container loaded with crates">
+              <rect x="20" y="30" width="360" height="230" rx="6" fill="#48586a"/>
+              <rect x="34" y="44" width="332" height="202" rx="3" fill="#8d9aa8"/>
+              <rect x="50" y="60" width="300" height="170" fill="#b7c0c9"/>
+              <g fill="none" stroke="#e8dcc6" stroke-width="11">
+                <rect x="62" y="72" width="276" height="146"/>
+                <path d="M200 72v146M62 145h276M62 72l60 40"/>
+              </g>
+              <rect x="74" y="84" width="112" height="50" fill="#9aa6b2" opacity=".75"/>
+              <rect x="214" y="84" width="112" height="50" fill="#9aa6b2" opacity=".75"/>
+              <rect x="74" y="157" width="112" height="50" fill="#9aa6b2" opacity=".75"/>
+              <rect x="214" y="157" width="112" height="50" fill="#9aa6b2" opacity=".75"/>
+              <rect x="20" y="258" width="360" height="16" rx="4" fill="#C6303A"/>
+            </svg>
+          </div>
+          <figcaption data-i18n="pack_cap1">Crates braced inside the container</figcaption>
+        </figure>
+
+        <figure class="shot reveal">
+          <img src="assets/crates.jpg" alt="Wooden export crates" class="shot__img">
+          <div class="shot__fallback">
+            <svg viewBox="0 0 400 300" class="ill" role="img" aria-label="Wooden export crate">
+              <rect x="0" y="0" width="400" height="300" fill="#eef0f3"/>
+              <path d="M60 90h230v150H60z" fill="#cbb691"/>
+              <path d="M290 90l50-32v150l-50 32z" fill="#b39d78"/>
+              <path d="M60 90l50-32h230l-50 32z" fill="#dcc9a6"/>
+              <g stroke="#8d7a58" stroke-width="7" fill="none">
+                <path d="M60 90h230v150H60zM60 140h230M60 190h230M140 90v150M215 90v150"/>
+              </g>
+              <rect x="150" y="150" width="60" height="34" fill="#fff"/>
+              <rect x="0" y="262" width="400" height="12" fill="#E09443"/>
+            </svg>
+          </div>
+          <figcaption data-i18n="pack_cap2">Fumigated crates, ISPM 15 stamped</figcaption>
+        </figure>
+
+        <figure class="shot reveal">
+          <img src="assets/warehouse.jpg" alt="Warehouse stock" class="shot__img">
+          <div class="shot__fallback">
+            <svg viewBox="0 0 400 300" class="ill" role="img" aria-label="Warehouse stock">
+              <rect width="400" height="300" fill="#e9ecef"/>
+              <path d="M0 210h400v90H0z" fill="#d3d8de"/>
+              <g fill="#3F4D5C" opacity=".14"><rect x="30" y="60" width="16" height="150"/><rect x="180" y="60" width="16" height="150"/><rect x="330" y="60" width="16" height="150"/><rect x="20" y="120" width="336" height="10"/><rect x="20" y="60" width="336" height="10"/></g>
+              <g><rect x="56" y="132" width="110" height="74" fill="#C6303A"/><rect x="206" y="132" width="110" height="74" fill="#E09443"/><rect x="56" y="72" width="110" height="44" fill="#D6C9BC"/><rect x="206" y="72" width="110" height="44" fill="#9aa6b2"/></g>
+            </svg>
+          </div>
+          <figcaption data-i18n="pack_cap3">Stock held ready for loading</figcaption>
+        </figure>
+      </div>
+
+      <div class="ship">
+        <ul class="ship__list reveal">
+          <li><b data-i18n="pack_s1_t">Protection</b><span data-i18n="pack_s1_d">50 – 80 µm PE film on the face, paper interleaving, edge and corner protection.</span></li>
+          <li><b data-i18n="pack_s2_t">Crate</b><span data-i18n="pack_s2_d">Braced wooden crate on a pallet, up to 2.5 t, heat-treated and ISPM 15 stamped.</span></li>
+          <li><b data-i18n="pack_s3_t">Container load</b><span data-i18n="pack_s3_d">≈ 2 000 m² in a 20'GP, ≈ 4 500 m² in a 40'HQ for 4 mm panels — indicative, confirmed on the offer.</span></li>
+          <li><b data-i18n="pack_s4_t">Incoterms</b><span data-i18n="pack_s4_d">EXW, FOB, CFR, CIF. Tell us the destination port and the offer comes back landed.</span></li>
+          <li><b data-i18n="pack_s5_t">Documents</b><span data-i18n="pack_s5_d">Invoice, packing list, B/L, certificate of origin, EUR.1 where applicable.</span></li>
+        </ul>
       </div>
     </div>
   </section>
 
-  <!-- ================= ATOUTS ================= -->
-  <section class="section section--alt" id="atouts">
+  <!-- ============ QUALITY ============ -->
+  <section class="section section--alt" id="quality">
     <div class="container about">
       <div class="about__text reveal">
-        <p class="eyebrow">Pourquoi NOXEM GROUP</p>
-        <h2>Le panneau est un produit. La pose est un métier.</h2>
-        <p>
-          Nous ne vendons pas seulement de la matière : nous préparons le calepinage, nous usinons aux cotes
-          et nous posons. Un seul interlocuteur du relevé au nettoyage de fin de chantier.
-        </p>
+        <p class="eyebrow" data-i18n="qual_eyebrow">Quality</p>
+        <h2 data-i18n="qual_title">Checked before it is crated, not after it lands</h2>
+        <p data-i18n="qual_lead">Every order is produced against a written specification sheet that you sign off before the line starts. What leaves the plant is what is on that sheet.</p>
         <ul class="check-list">
-          <li>Relevé sur site et calepinage fourni avant commande</li>
-          <li>Usinage numérique : découpe, rainurage, pliage, cassettes</li>
-          <li>Fiches techniques et PV de réaction au feu sur demande</li>
-          <li>Pose par nos équipes, chantier livré propre</li>
-          <li>Tarifs dégressifs sur les grandes surfaces</li>
+          <li data-i18n="qual_b1">Coil coating on line — colour measured per coil, ΔE ≤ 1</li>
+          <li data-i18n="qual_b2">Peel strength, adhesion and boiling-water tests per batch</li>
+          <li data-i18n="qual_b3">Salt spray 3 000 h, QUV and gloss retention on PVDF</li>
+          <li data-i18n="qual_b4">Thickness and skin gauge measured on the crated panels</li>
+          <li data-i18n="qual_b5">Photo report of the loading sent before the container leaves</li>
+          <li data-i18n="qual_b6">Free samples and colour chart shipped worldwide</li>
         </ul>
-        <a href="#contact" class="btn btn--primary">Parler de votre projet</a>
+        <a href="#quote" class="btn btn--primary" data-i18n="qual_cta">Ask for samples</a>
       </div>
 
       <div class="about__visual reveal" aria-hidden="true">
-        <div class="stack">
-          <div class="stack__layer stack__layer--alu"><span>Tôle aluminium laquée</span></div>
-          <div class="stack__layer stack__layer--core"><span>Âme minérale / PE</span></div>
-          <div class="stack__layer stack__layer--alu"><span>Tôle aluminium</span></div>
-          <div class="stack__caption">Structure du panneau composite</div>
+        <div class="layers">
+          <div class="layers__l layers__l--skin"><span data-i18n="lay_skin">Coated aluminium skin</span></div>
+          <div class="layers__l layers__l--glue"><span data-i18n="lay_glue">Bonding film</span></div>
+          <div class="layers__l layers__l--core"><span data-i18n="lay_core">LDPE / FR / A2 core</span></div>
+          <div class="layers__l layers__l--glue"><span data-i18n="lay_glue2">Bonding film</span></div>
+          <div class="layers__l layers__l--skin"><span data-i18n="lay_skin2">Aluminium skin</span></div>
+          <p class="layers__cap" data-i18n="lay_cap">Panel build-up</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- ================= METHODE ================= -->
-  <section class="section" id="methode">
-    <div class="container">
-      <header class="section__head">
-        <p class="eyebrow reveal">Méthode</p>
-        <h2 class="reveal">Du premier appel au panneau posé</h2>
-      </header>
-
-      <ol class="steps">
-        <li class="step reveal"><span class="step__num">01</span><h3>Échange</h3><p>Vous décrivez le projet : surface, support, contraintes feu, délai.</p></li>
-        <li class="step reveal"><span class="step__num">02</span><h3>Relevé &amp; calepinage</h3><p>Visite sur site, plan de pose et choix de la finition.</p></li>
-        <li class="step reveal"><span class="step__num">03</span><h3>Devis sous 48h</h3><p>Prix détaillé au m², fourniture et pose séparées si besoin.</p></li>
-        <li class="step reveal"><span class="step__num">04</span><h3>Usinage &amp; pose</h3><p>Panneaux usinés aux cotes, ossature montée, chantier réceptionné.</p></li>
-      </ol>
-    </div>
-  </section>
-
-  <!-- ================= CTA ================= -->
-  <section class="section section--cta">
-    <div class="container cta reveal">
-      <h2>Un projet de façade ou d'enseigne ?</h2>
-      <p>Envoyez-nous vos surfaces et vos photos : vous avez un devis chiffré sous 48h ouvrées.</p>
-      <a href="#contact" class="btn btn--light btn--lg">Demander un devis gratuit</a>
-    </div>
-  </section>
-
-  <!-- ================= FAQ ================= -->
-  <section class="section" id="faq">
-    <div class="container container--narrow">
-      <header class="section__head">
-        <p class="eyebrow reveal">Questions fréquentes</p>
-        <h2 class="reveal">Ce qu'on nous demande le plus souvent</h2>
-      </header>
-
-      <div class="faq">
-        <details class="faq__item reveal">
-          <summary>Quelle différence entre l'âme PE et l'âme minérale A2 ?</summary>
-          <p>L'âme polyéthylène est plus légère et moins chère, parfaite pour l'enseigne et les bâtiments courants de faible hauteur. L'âme minérale FR est classée A2-s1,d0 : elle est exigée par la réglementation sur les ERP, les IGH et la plupart des façades de logements collectifs. En cas de doute, nous vérifions avec vous avant le devis.</p>
-        </details>
-        <details class="faq__item reveal">
-          <summary>Livrez-vous le panneau seul, sans la pose ?</summary>
-          <p>Oui. Nous livrons en plaques brutes, en panneaux découpés à vos cotes, ou en cassettes pliées prêtes à clipser. La pose reste optionnelle.</p>
-        </details>
-        <details class="faq__item reveal">
-          <summary>Peut-on obtenir une teinte RAL précise ?</summary>
-          <p>Oui, la quasi-totalité du nuancier RAL est réalisable en laquage, ainsi que les effets métallisés, bois et miroir. Les teintes hors stock demandent un délai de fabrication supplémentaire — comptez 3 à 5 semaines.</p>
-        </details>
-        <details class="faq__item reveal">
-          <summary>Quelle durée de vie et quel entretien ?</summary>
-          <p>Le laquage PVDF tient couramment 20 ans et plus sans écaillage. L'entretien se limite à un lavage à l'eau savonneuse. Pas de peinture à refaire, pas de corrosion comme sur l'acier.</p>
-        </details>
-        <details class="faq__item reveal">
-          <summary>Intervenez-vous partout ?</summary>
-          <p>La fourniture est expédiée partout ; la pose se fait dans notre zone d'intervention habituelle. Indiquez-nous la ville du chantier et nous vous confirmons immédiatement.</p>
-        </details>
-      </div>
-    </div>
-  </section>
-
-  <!-- ================= CONTACT ================= -->
-  <section class="section section--alt" id="contact">
+  <!-- ============ QUOTE ============ -->
+  <section class="section" id="quote">
     <div class="container contact">
       <div class="contact__info reveal">
-        <p class="eyebrow">Contact</p>
-        <h2>Demander un devis</h2>
-        <p>Décrivez votre projet en quelques lignes. Plus vous nous donnez de détails (surface, hauteur, support existant), plus le chiffrage sera précis.</p>
+        <p class="eyebrow" data-i18n="q_eyebrow">Quotation</p>
+        <h2 data-i18n="q_title">Send the specification, get a price</h2>
+        <p data-i18n="q_lead">Fill in what you know. If you are not sure about the skin gauge or the core, leave it and write the application instead — we will propose the build.</p>
 
         <div class="contact__detail">
-          <strong>Email</strong>
-          <a href="mailto:contact@noxem-group.com">contact@noxem-group.com</a>
+          <strong data-i18n="q_email">Email</strong>
+          <a href="mailto:aaron.harfi@noxemgroup.com">aaron.harfi@noxemgroup.com</a>
         </div>
         <div class="contact__detail">
-          <strong>Téléphone</strong>
-          <a href="tel:+33000000000">+33 0 00 00 00 00</a>
+          <strong data-i18n="q_web">Website</strong>
+          <a href="https://noxemgroup.com" target="_blank" rel="noopener">noxemgroup.com</a>
         </div>
         <div class="contact__detail">
-          <strong>Horaires</strong>
-          <span>Lundi – vendredi, 8h – 18h</span>
+          <strong data-i18n="q_langs">We answer in</strong>
+          <span>English · Français · العربية · Español · Türkçe · Polski · Hrvatski · Nederlands</span>
         </div>
       </div>
 
       <form class="contact__form reveal" id="quote-form" novalidate>
         <div class="field-row">
-          <div class="field">
-            <label for="name">Nom</label>
-            <input type="text" id="name" name="name" required autocomplete="name" placeholder="Votre nom">
-          </div>
-          <div class="field">
-            <label for="company">Société <em>(facultatif)</em></label>
-            <input type="text" id="company" name="company" autocomplete="organization" placeholder="Nom de la société">
-          </div>
+          <div class="field"><label for="f-name" data-i18n="f_name">Name</label><input id="f-name" type="text" autocomplete="name" required></div>
+          <div class="field"><label for="f-company" data-i18n="f_company">Company</label><input id="f-company" type="text" autocomplete="organization"></div>
         </div>
-
         <div class="field-row">
-          <div class="field">
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email" required autocomplete="email" placeholder="vous@exemple.com">
-          </div>
-          <div class="field">
-            <label for="phone">Téléphone <em>(facultatif)</em></label>
-            <input type="tel" id="phone" name="phone" autocomplete="tel" placeholder="06 00 00 00 00">
-          </div>
+          <div class="field"><label for="f-email" data-i18n="f_email">Email</label><input id="f-email" type="email" autocomplete="email" required></div>
+          <div class="field"><label for="f-phone" data-i18n="f_phone">Phone / WhatsApp</label><input id="f-phone" type="tel" autocomplete="tel"></div>
         </div>
-
         <div class="field-row">
-          <div class="field">
-            <label for="type">Type de projet</label>
-            <select id="type" name="type">
-              <option>Façade ventilée</option>
-              <option>Enseigne / signalétique</option>
-              <option>Habillage / rénovation</option>
-              <option>Agencement intérieur</option>
-              <option>Fourniture de panneaux seule</option>
-              <option>Autre</option>
-            </select>
-          </div>
-          <div class="field">
-            <label for="surface">Surface estimée (m²)</label>
-            <input type="number" id="surface" name="surface" min="1" step="1" placeholder="120">
-          </div>
+          <div class="field"><label for="f-country" data-i18n="f_country">Country</label><input id="f-country" type="text" autocomplete="country-name"></div>
+          <div class="field"><label for="f-port" data-i18n="f_port">Destination port</label><input id="f-port" type="text" placeholder="Casablanca, Jebel Ali, Gdańsk…"></div>
         </div>
-
+        <div class="field-row">
+          <div class="field"><label for="f-colour" data-i18n="f_colour">Colour</label><input id="f-colour" type="text"></div>
+          <div class="field"><label for="f-thickness" data-i18n="f_thickness">Panel thickness</label><input id="f-thickness" type="text" placeholder="4 mm"></div>
+        </div>
+        <div class="field-row">
+          <div class="field"><label for="f-skin" data-i18n="f_skin">Skin per face</label><input id="f-skin" type="text" placeholder="0.21 / 0.21 mm"></div>
+          <div class="field"><label for="f-core" data-i18n="f_core">Core</label><input id="f-core" type="text" placeholder="LDPE"></div>
+        </div>
+        <div class="field-row">
+          <div class="field"><label for="f-size" data-i18n="f_size">Sheet size</label><input id="f-size" type="text" placeholder="1250 × 3200 mm"></div>
+          <div class="field"><label for="f-qty" data-i18n="f_qty">Quantity (m²)</label><input id="f-qty" type="number" min="1" step="1" placeholder="2000"></div>
+        </div>
         <div class="field">
-          <label for="message">Votre projet</label>
-          <textarea id="message" name="message" rows="5" required placeholder="Ville du chantier, support existant, finition souhaitée, délai…"></textarea>
+          <label for="f-msg" data-i18n="f_msg">Project / message</label>
+          <textarea id="f-msg" rows="4" required></textarea>
         </div>
-
-        <button type="submit" class="btn btn--primary btn--full">Envoyer la demande</button>
+        <button type="submit" class="btn btn--primary btn--full" data-i18n="f_send">Send the enquiry</button>
         <p class="form__status" id="form-status" role="status" aria-live="polite"></p>
-        <p class="form__hint">Votre logiciel de messagerie s'ouvrira avec la demande pré-remplie.</p>
+        <p class="form__hint" data-i18n="f_hint">Your mail application opens with the enquiry already written.</p>
       </form>
     </div>
   </section>
 
 </main>
 
+<!-- ============ FOOTER ============ -->
 <footer class="footer">
   <div class="container footer__inner">
     <div class="footer__brand">
-      <div class="logo logo--footer">
-        <span class="logo__mark">N</span>
-        <span class="logo__text">NOXEM <em>GROUP</em></span>
-      </div>
-      <p>Panneaux composites aluminium — fourniture, usinage et pose.</p>
+      <a href="#home" class="brand brand--footer" aria-label="NOXEM GROUP FRANCE">
+        <svg class="brand__mark" viewBox="0 0 120 132" aria-hidden="true">
+          <path d="M58 2 L58 62 L6 32 Z"   fill="#C6303A"/>
+          <path d="M62 2 L114 32 L114 92 L62 62 Z" fill="#E09443"/>
+          <path d="M58 68 L58 130 L6 100 L6 38 Z" fill="#D6C9BC"/>
+          <path d="M62 68 L114 98 L62 130 Z" fill="#E09443"/>
+        </svg>
+        <span class="brand__divider" aria-hidden="true"></span>
+        <span class="brand__text"><strong>NOXEM GROUP</strong><span class="brand__bar" aria-hidden="true"><i></i><b></b></span><em>FRANCE</em></span>
+      </a>
+      <p data-i18n="foot_tag">Aluminium composite panels — built to specification, packed for export, delivered to your port.</p>
     </div>
-
-    <nav class="footer__nav" aria-label="Navigation de pied de page">
-      <a href="#produits">Produits</a>
-      <a href="#finitions">Finitions</a>
-      <a href="#applications">Applications</a>
-      <a href="#faq">FAQ</a>
-      <a href="#contact">Devis</a>
+    <nav class="footer__nav" aria-label="Footer">
+      <a href="#products"  data-i18n="nav_products">Panels</a>
+      <a href="#specs"     data-i18n="nav_specs">Specification</a>
+      <a href="#colors"    data-i18n="nav_colors">Colours &amp; 3D</a>
+      <a href="#packing"   data-i18n="nav_packing">Packing &amp; shipping</a>
+      <a href="#quote"     data-i18n="nav_quote">Request a quote</a>
     </nav>
   </div>
-
   <div class="container footer__legal">
-    <p>&copy; <span id="year"></span> NOXEM GROUP. Tous droits réservés.</p>
-    <p class="footer__tm">Alucobond® est une marque déposée de 3A Composites GmbH. NOXEM GROUP n'est pas affilié au fabricant ; la marque n'est citée qu'à titre de référence produit.</p>
+    <p>&copy; <span id="year"></span> NOXEM GROUP FRANCE. <span data-i18n="foot_rights">All rights reserved.</span></p>
+    <p class="footer__note" data-i18n="foot_note">Colours shown on screen are indicative. Order decisions should be made on a physical sample.</p>
   </div>
 </footer>
 
-<a href="#contact" class="fab" id="fab">Devis gratuit</a>
+<a href="#quote" class="fab" id="fab" data-i18n="fab">Request a quote</a>
 
-<script src="script.js"></script>
+<script src="i18n.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
