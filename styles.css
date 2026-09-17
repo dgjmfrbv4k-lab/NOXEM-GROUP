@@ -506,3 +506,11 @@ select, input, textarea, button { font-family: inherit; }
 .todo b { display: block; margin-bottom: 4px; }
 mark.fill { background: #ffe9a8; color: #6b4a00; padding: 1px 6px; border-radius: 4px; font-weight: 700; font-size: .9em; }
 @media (max-width: 620px) { .legal dl { grid-template-columns: 1fr; gap: 2px 0; } .legal dd { margin-bottom: 10px; } }
+
+/* pastille « toute autre teinte RAL / sur mesure » */
+.sw--custom {
+  background: transparent; border: 1px dashed rgba(255,255,255,.45);
+  color: rgba(255,255,255,.8); font-size: .66rem; font-weight: 800; letter-spacing: .06em;
+  display: grid; place-items: center; box-shadow: none;
+}
+.sw--custom:hover { border-color: var(--orange); color: #fff; background: rgba(224,148,67,.12); }

@@ -166,6 +166,20 @@
         grid.appendChild(cell);
       }
     });
+
+    addCustomSwatch(wrap);
+  }
+
+  /* tuile finale : toute autre teinte RAL ou sur mesure */
+  function addCustomSwatch(wrap) {
+    var b = document.createElement("button");
+    b.type = "button";
+    b.className = "sw sw--custom";
+    b.textContent = "RAL";
+    b.title = "RAL / custom";
+    b.setAttribute("aria-label", "RAL / custom colour");
+    b.addEventListener("click", function () { fillQuote("RAL / custom — reference to be specified"); });
+    wrap.appendChild(b);
   }
 
   function pick(c) {
@@ -230,11 +244,11 @@
   /* =======================================================
      4. FORMULAIRE
      ======================================================= */
-  function fillQuote() {
+  function fillQuote(forcedColour) {
     var g = function (id) { var e = $(id); return e ? e.value : ""; };
     var set = function (id, v) { var e = $(id); if (e) e.value = v; };
 
-    set("#f-colour", current.ref + " " + current.en + " (" + current.fr + ")");
+    set("#f-colour", forcedColour || (current.ref + " " + current.en + " (" + current.fr + ")"));
     set("#f-thickness", g("#cfg-thickness"));
     set("#f-skin", g("#cfg-skin"));
     set("#f-core", g("#cfg-core"));
@@ -398,6 +412,6 @@
   if (th) th.addEventListener("change", applyThickness);
 
   var cta = $("#to-quote");
-  if (cta) cta.addEventListener("click", fillQuote);
+  if (cta) cta.addEventListener("click", function () { fillQuote(); });
 
 })();
