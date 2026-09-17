@@ -82,8 +82,43 @@
     buildMarquee(d.mq);
     paintPick();
     try { localStorage.setItem("noxem-lang", code); } catch (e) {}
-    var sel = $("#lang-select");
-    if (sel && sel.value !== code) sel.value = code;
+
+    var cur = $("#lang-current");
+    if (cur) cur.textContent = d._name;
+    $$("#lang-menu button").forEach(function (b) {
+      b.setAttribute("aria-selected", b.getAttribute("data-lang") === code ? "true" : "false");
+    });
+  }
+
+  /* menu déroulant des langues */
+  function initLangMenu() {
+    var box = $("#lang"), btn = $("#lang-btn");
+    if (!box || !btn) return;
+
+    function close() {
+      box.classList.remove("is-open");
+      btn.setAttribute("aria-expanded", "false");
+    }
+
+    btn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      var open = box.classList.toggle("is-open");
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+
+    $$("#lang-menu button").forEach(function (b) {
+      b.addEventListener("click", function () {
+        applyLang(b.getAttribute("data-lang"));
+        close();
+      });
+    });
+
+    document.addEventListener("click", function (e) {
+      if (!box.contains(e.target)) close();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") close();
+    });
   }
 
   function buildMarquee(items) {
@@ -354,10 +389,8 @@
   enableDrag();
   initForm();
   initChrome();
+  initLangMenu();
   applyLang(detectLang());
-
-  var ls = $("#lang-select");
-  if (ls) ls.addEventListener("change", function () { applyLang(ls.value); });
 
   var th = $("#cfg-thickness");
   if (th) th.addEventListener("change", applyThickness);

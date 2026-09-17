@@ -9,7 +9,7 @@
 <meta property="og:title" content="NOXEM GROUP FRANCE — Aluminium Composite Panels">
 <meta property="og:description" content="Panels made to your specification. Any thickness, any colour, delivered to your port.">
 <meta property="og:type" content="website">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 64 64%22><rect width=%2264%22 height=%2264%22 rx=%2212%22 fill=%22%233F4D5C%22/><path d=%22M12 18 L28 10 L28 30 L12 38 Z%22 fill=%22%23C6303A%22/><path d=%22M34 10 L52 18 L52 38 L34 30 Z%22 fill=%22%23E09443%22/></svg>">
+<link rel="icon" type="image/png" href="assets/favicon.png">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -21,18 +21,7 @@
   <div class="container header__inner">
 
     <a href="#home" class="brand" aria-label="NOXEM GROUP FRANCE">
-      <svg class="brand__mark" viewBox="0 0 120 132" aria-hidden="true">
-        <path d="M58 2 L58 62 L6 32 Z"   fill="#C6303A"/>
-        <path d="M62 2 L114 32 L114 92 L62 62 Z" fill="#E09443"/>
-        <path d="M58 68 L58 130 L6 100 L6 38 Z" fill="#D6C9BC"/>
-        <path d="M62 68 L114 98 L62 130 Z" fill="#E09443"/>
-      </svg>
-      <span class="brand__divider" aria-hidden="true"></span>
-      <span class="brand__text">
-        <strong>NOXEM GROUP</strong>
-        <span class="brand__bar" aria-hidden="true"><i></i><b></b></span>
-        <em>FRANCE</em>
-      </span>
+      <img src="assets/logo.png" alt="NOXEM GROUP FRANCE" class="brand__img" width="1762" height="609">
     </a>
 
     <nav class="nav" id="nav" aria-label="Main">
@@ -44,22 +33,24 @@
       <a href="#quote" class="nav__cta" data-i18n="nav_quote">Request a quote</a>
     </nav>
 
-    <div class="lang">
-      <span class="lang__icon" aria-hidden="true">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+    <div class="lang" id="lang">
+      <button class="lang__btn" id="lang-btn" type="button" aria-haspopup="listbox" aria-expanded="false">
+        <svg class="lang__globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
           <circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.8 2.6 15.2 0 18M12 3c-2.6 2.8-2.6 15.2 0 18"/>
         </svg>
-      </span>
-      <select id="lang-select" aria-label="Language">
-        <option value="en">English</option>
-        <option value="fr">Français</option>
-        <option value="ar">العربية</option>
-        <option value="es">Español</option>
-        <option value="tr">Türkçe</option>
-        <option value="pl">Polski</option>
-        <option value="hr">Hrvatski</option>
-        <option value="nl">Nederlands</option>
-      </select>
+        <span id="lang-current">English</span>
+        <svg class="lang__caret" viewBox="0 0 12 8" aria-hidden="true"><path d="M1 1l5 5 5-5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>
+      </button>
+      <ul class="lang__menu" id="lang-menu" role="listbox" aria-label="Language">
+        <li><button type="button" role="option" data-lang="en">English</button></li>
+        <li><button type="button" role="option" data-lang="fr">Français</button></li>
+        <li><button type="button" role="option" data-lang="ar">العربية</button></li>
+        <li><button type="button" role="option" data-lang="es">Español</button></li>
+        <li><button type="button" role="option" data-lang="tr">Türkçe</button></li>
+        <li><button type="button" role="option" data-lang="pl">Polski</button></li>
+        <li><button type="button" role="option" data-lang="hr">Hrvatski</button></li>
+        <li><button type="button" role="option" data-lang="nl">Nederlands</button></li>
+      </ul>
     </div>
 
     <button class="burger" id="burger" aria-label="Menu" aria-expanded="false" aria-controls="nav">
@@ -460,14 +451,7 @@
   <div class="container footer__inner">
     <div class="footer__brand">
       <a href="#home" class="brand brand--footer" aria-label="NOXEM GROUP FRANCE">
-        <svg class="brand__mark" viewBox="0 0 120 132" aria-hidden="true">
-          <path d="M58 2 L58 62 L6 32 Z"   fill="#C6303A"/>
-          <path d="M62 2 L114 32 L114 92 L62 62 Z" fill="#E09443"/>
-          <path d="M58 68 L58 130 L6 100 L6 38 Z" fill="#D6C9BC"/>
-          <path d="M62 68 L114 98 L62 130 Z" fill="#E09443"/>
-        </svg>
-        <span class="brand__divider" aria-hidden="true"></span>
-        <span class="brand__text"><strong>NOXEM GROUP</strong><span class="brand__bar" aria-hidden="true"><i></i><b></b></span><em>FRANCE</em></span>
+        <img src="assets/logo-light.png" alt="NOXEM GROUP FRANCE" class="brand__img" width="1762" height="609">
       </a>
       <p data-i18n="foot_tag">Aluminium composite panels — built to specification, packed for export, delivered to your port.</p>
     </div>

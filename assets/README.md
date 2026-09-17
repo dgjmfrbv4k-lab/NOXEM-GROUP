@@ -1,4 +1,13 @@
-# Photos du site
+# Images du site
+
+## Logo (déjà en place)
+
+`logo.png`, `logo-light.png` et `favicon.png` sont extraits du logo officiel
+(PDF Canva « Logo couleur »), en pleine définition et sur fond transparent.
+`logo-light.png` est la version au texte blanc, utilisée sur le pied de page
+sombre. Ne pas les renommer.
+
+## Photos
 
 Déposer les photos dans ce dossier avec **exactement** ces noms de fichiers.
 Le site les affiche automatiquement dès qu'elles sont présentes ; tant qu'un
