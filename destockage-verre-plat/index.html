@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Déstockage Verre Plat — NOXEM GROUP</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#FAF8F3;
+  --paper-2:#F0ECE1;
+  --ink:#1E2430;
+  --ink-soft:#585F6E;
+  --red:#B5261F;
+  --amber:#C97A2E;
+  --beige:#B7A06E;
+  --line: rgba(30,36,48,0.15);
+  --line-strong: rgba(30,36,48,0.40);
+  --card:#FFFFFF;
+}
+*{box-sizing:border-box;}
+html{background:var(--paper);}
+body{background:var(--paper); color:var(--ink); font-family:"Public Sans",system-ui,sans-serif; line-height:1.4; margin:0;}
+h1,h2,h3{font-family:"Archivo",system-ui,sans-serif; font-weight:700; text-wrap:balance; margin:0; color:var(--ink);}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums;}
+.eyebrow-txt{font-family:"IBM Plex Mono"; font-size:11px; text-transform:uppercase; letter-spacing:0.09em; color:var(--ink-soft);}
+a{color:inherit;}
+.wrap{max-width:1060px; margin-inline:auto; padding-inline:24px;}
+img,video{max-width:100%; display:block;}
+button{font:inherit;}
+
+.topbar{position:sticky; top:0; z-index:40; background:var(--paper); border-bottom:1px solid var(--ink);}
+.topbar-inner{display:flex; align-items:center; justify-content:space-between; gap:16px; padding-block:14px;}
+.brand img{height:30px; width:auto; display:block;}
+.top-cta{display:flex; align-items:center; gap:8px; background:var(--ink); color:var(--paper); padding:9px 16px; font-weight:600; font-size:13px; text-decoration:none; white-space:nowrap; border:1px solid var(--ink);}
+.top-cta:hover{background:var(--red); border-color:var(--red);}
+.top-cta svg{width:15px; height:15px; flex:none;}
+
+.hero{border-bottom:1px solid var(--line);}
+.hero-grid{display:grid; grid-template-columns:1.2fr 1fr; gap:0; align-items:stretch;}
+@media (max-width:860px){ .hero-grid{grid-template-columns:1fr;} }
+.hero-copy{padding-block:44px 40px; padding-right:36px;}
+@media (max-width:860px){ .hero-copy{padding-right:0;} }
+.eyebrow{display:inline-flex; align-items:center; gap:8px; font-family:"IBM Plex Mono"; font-size:11.5px; letter-spacing:0.08em; text-transform:uppercase; color:var(--red); border-left:3px solid var(--red); padding-left:10px;}
+h1.hero-title{font-size:clamp(30px,4.4vw,44px); line-height:1.08; margin-top:16px; letter-spacing:-0.01em;}
+h1.hero-title .accent{color:var(--red);}
+.hero-sub{margin-top:16px; font-size:16px; line-height:1.6; color:var(--ink-soft); max-width:48ch;}
+.hero-actions{display:flex; flex-wrap:wrap; gap:10px; margin-top:26px;}
+.btn{display:inline-flex; align-items:center; gap:9px; padding:14px 22px; font-weight:600; font-size:14.5px; text-decoration:none; border:1px solid var(--ink); cursor:pointer; background:none; color:var(--ink);}
+.btn-primary{background:var(--ink); color:var(--paper);}
+.btn-primary:hover{background:var(--red); border-color:var(--red);}
+.btn-outline{background:transparent; color:var(--ink); border-color:var(--line-strong);}
+.btn-outline:hover{border-color:var(--ink);}
+.btn svg{width:17px; height:17px; flex:none;}
+
+.hero-photo{position:relative; border-left:1px solid var(--line); overflow:hidden; background:var(--paper-2);}
+.hero-photo img{width:100%; height:100%; object-fit:cover;}
+@media (max-width:860px){ .hero-photo{border-left:none; border-top:1px solid var(--line); aspect-ratio:16/10;} }
+.tag-devis{position:absolute; top:0; right:0; background:var(--ink); color:var(--paper); font-family:"IBM Plex Mono"; font-size:11.5px; text-transform:uppercase; letter-spacing:0.06em; padding:9px 14px;}
+.tag-devis b{color:var(--red);}
+
+.manifest{background:var(--ink); color:var(--paper); border-bottom:1px solid var(--ink);}
+.manifest .wrap{display:grid; grid-template-columns:repeat(4,1fr); padding-block:0;}
+@media (max-width:760px){ .manifest .wrap{grid-template-columns:repeat(2,1fr);} }
+.manifest-item{padding:20px 16px; border-right:1px solid rgba(250,248,243,0.16); border-top:1px solid rgba(250,248,243,0.16);}
+.manifest .wrap>*:nth-child(4n){border-right:none;}
+@media (max-width:760px){ .manifest .wrap>*:nth-child(2n){border-right:none;} .manifest .wrap>*:nth-child(4n){border-right:1px solid rgba(250,248,243,0.16);} }
+.manifest-num{font-family:"Archivo"; font-weight:700; font-size:24px; line-height:1;}
+.manifest-label{font-family:"IBM Plex Mono"; font-size:10.5px; text-transform:uppercase; letter-spacing:0.07em; opacity:0.62; margin-top:5px;}
+
+section{padding-block:56px; border-bottom:1px solid var(--line);}
+section:last-of-type{border-bottom:none;}
+.section-head{display:flex; align-items:baseline; justify-content:space-between; gap:16px; margin-bottom:26px;}
+.section-head h2{font-size:clamp(21px,3vw,28px);}
+
+.stock-table{width:100%; border-collapse:collapse; font-size:14.5px;}
+.stock-table thead th{text-align:left; font-family:"IBM Plex Mono"; font-size:10.5px; text-transform:uppercase; letter-spacing:0.06em; color:var(--ink-soft); font-weight:600; padding:0 10px 12px; border-bottom:1px solid var(--ink);}
+.stock-table td{padding:15px 10px; border-bottom:1px solid var(--line);}
+.ref-name{font-weight:600;}
+.ref-swatch{display:inline-block; width:10px; height:10px; margin-right:9px; vertical-align:middle; border:1px solid var(--line-strong);}
+.devis-pill{font-family:"IBM Plex Mono"; font-size:10.5px; text-transform:uppercase; letter-spacing:0.05em; color:var(--ink-soft); border:1px solid var(--line-strong); padding:3px 9px; white-space:nowrap;}
+.stock-table tfoot td{padding-top:18px; font-weight:700; border-top:2px solid var(--ink); border-bottom:none;}
+.tbl-scroll{overflow-x:auto;}
+
+.filmstrip{display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:var(--line);}
+@media (max-width:760px){ .filmstrip{grid-template-columns:repeat(2,1fr);} }
+.frame{background:var(--card);}
+.frame img{aspect-ratio:4/5; object-fit:cover; width:100%;}
+.frame-cap{padding:14px 14px 16px;}
+.frame-step{font-family:"IBM Plex Mono"; font-size:10.5px; letter-spacing:0.04em; color:var(--red); font-weight:600; text-transform:uppercase;}
+.frame-cap p{margin:5px 0 0; font-size:13px; line-height:1.45; color:var(--ink-soft);}
+
+.video-block{border:1px solid var(--line);}
+.video-block video{width:100%; display:block; background:#000;}
+.video-cap{display:flex; justify-content:space-between; gap:12px; padding:12px 16px; border-top:1px solid var(--line); font-size:13px; color:var(--ink-soft); flex-wrap:wrap;}
+
+.builder{border:1px solid var(--ink);}
+.builder-head{display:flex; justify-content:space-between; align-items:center; gap:12px; padding:18px 22px; border-bottom:1px solid var(--ink); background:var(--paper-2);}
+.builder-head h3{font-size:18px;}
+.toggle-all{display:flex; align-items:center; gap:9px; font-family:"IBM Plex Mono"; font-size:12px; cursor:pointer; user-select:none;}
+.toggle-all input{width:15px; height:15px; accent-color:var(--ink);}
+.line-item{display:grid; grid-template-columns:auto 1fr auto; gap:16px; align-items:center; padding:16px 22px; border-bottom:1px solid var(--line);}
+@media (max-width:640px){ .line-item{grid-template-columns:1fr;} .line-item .stepper-col{justify-self:start;} }
+.li-swatch{width:30px; height:30px; border:1px solid var(--line-strong); flex:none;}
+.li-info b{display:block; font-size:14.5px; font-weight:600;}
+.li-info .li-mono{font-family:"IBM Plex Mono"; font-size:11.5px; color:var(--ink-soft); display:block; margin-top:3px;}
+.stepper{display:flex; align-items:center; border:1px solid var(--ink); height:38px;}
+.stepper button{width:36px; height:100%; border:none; background:var(--paper); color:var(--ink); font-size:17px; cursor:pointer; line-height:1;}
+.stepper button:disabled{opacity:0.3; cursor:not-allowed;}
+.stepper button:not(:disabled):hover{background:var(--ink); color:var(--paper);}
+.stepper .count{width:82px; text-align:center; font-family:"IBM Plex Mono"; font-weight:600; font-size:13.5px; border-inline:1px solid var(--ink);}
+.stepper .count small{display:block; font-weight:400; font-size:10px; color:var(--ink-soft); margin-top:1px;}
+
+.builder-foot{display:grid; grid-template-columns:1fr auto; gap:16px; align-items:center; padding:20px 22px; background:var(--ink); color:var(--paper);}
+@media (max-width:640px){ .builder-foot{grid-template-columns:1fr;} }
+.total-label{font-family:"IBM Plex Mono"; font-size:10.5px; text-transform:uppercase; letter-spacing:0.07em; opacity:0.62;}
+.total-value{font-family:"Archivo"; font-weight:700; font-size:26px; margin-top:3px;}
+.price-row{display:flex; flex-wrap:wrap; gap:10px; align-items:center;}
+.price-input{display:flex; align-items:center; gap:8px; background:rgba(250,248,243,0.08); border:1px solid rgba(250,248,243,0.35); padding:0 12px; height:44px;}
+.price-input input{background:transparent; border:none; color:var(--paper); font-family:"IBM Plex Mono"; font-size:14.5px; width:120px; outline:none;}
+.price-input input::placeholder{color:rgba(250,248,243,0.45);}
+.price-input span{font-family:"IBM Plex Mono"; font-size:13px; opacity:0.7;}
+.send-btn{display:inline-flex; align-items:center; gap:8px; background:var(--red); color:#fff; border:1px solid var(--red); padding:0 20px; height:44px; font-weight:600; font-size:14.5px; cursor:pointer;}
+.send-btn:hover{background:var(--paper); color:var(--ink);}
+.send-btn svg{width:17px; height:17px;}
+.send-btn:disabled{opacity:0.35; cursor:not-allowed;}
+
+.logistics{border:1px solid var(--line); display:grid; grid-template-columns:1.1fr 1fr;}
+@media (max-width:760px){ .logistics{grid-template-columns:1fr;} }
+.logistics-copy{padding:30px 32px;}
+.logistics ul{list-style:none; margin:16px 0 0; padding:0; display:grid; gap:12px;}
+.logistics li{display:flex; gap:11px; font-size:14.5px; line-height:1.5;}
+.logistics li svg{width:17px; height:17px; flex:none; color:var(--red); margin-top:2px;}
+.logistics-photo{border-left:1px solid var(--line);}
+@media (max-width:760px){ .logistics-photo{border-left:none; border-top:1px solid var(--line);} }
+.logistics-photo img{width:100%; height:100%; object-fit:cover;}
+
+.gallery{display:grid; grid-template-columns:2fr 1fr; gap:1px; background:var(--line);}
+@media (max-width:760px){ .gallery{grid-template-columns:1fr;} }
+.gallery img{width:100%; height:100%; object-fit:cover; display:block;}
+.gallery figure{margin:0; background:var(--card);}
+
+.contact{background:var(--ink); color:var(--paper); padding:44px 32px; text-align:center;}
+.contact h2{color:var(--paper); font-size:clamp(22px,3.6vw,32px);}
+.contact p{color:rgba(250,248,243,0.72); max-width:52ch; margin:14px auto 0; font-size:15px; line-height:1.6;}
+.contact-actions{display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin-top:26px;}
+.contact-actions .btn-primary{background:var(--red); border-color:var(--red); padding:15px 26px; font-size:15px;}
+.contact-actions .btn-primary:hover{background:var(--paper); color:var(--ink);}
+.contact-actions .btn-outline{border-color:rgba(250,248,243,0.35); color:var(--paper);}
+.contact-actions .btn-outline:hover{border-color:#fff;}
+.tel-num{font-family:"IBM Plex Mono"; letter-spacing:0.02em;}
+
+footer{padding-block:22px;}
+footer .wrap{display:flex; flex-wrap:wrap; justify-content:space-between; gap:10px; font-size:12px; color:var(--ink-soft);}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="wrap topbar-inner">
+    <div class="brand"><img src="assets/logo.jpg" alt="NOXEM GROUP"></div>
+    <a class="top-cta" id="topWaBtn" href="#" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38a9.9 9.9 0 0 0 4.79 1.22h.01c5.46 0 9.91-4.45 9.91-9.91C21.96 6.45 17.5 2 12.04 2Zm0 18.06h-.01a8.2 8.2 0 0 1-4.19-1.15l-.3-.18-3.12.82.83-3.04-.2-.31a8.2 8.2 0 0 1-1.27-4.39c0-4.55 3.71-8.26 8.27-8.26 2.21 0 4.28.86 5.85 2.42a8.2 8.2 0 0 1 2.42 5.85c0 4.56-3.71 8.24-8.28 8.24Z"/></svg>
+      WhatsApp
+    </a>
+  </div>
+</div>
+
+<div class="hero">
+  <div class="wrap" style="padding-inline:0;">
+  <div class="hero-grid">
+    <div class="hero-copy wrap" style="padding-inline:24px;">
+      <span class="eyebrow">Déménagement d'entrepôt — vente accélérée</span>
+      <h1 class="hero-title">Déstockage total<br><span class="accent">8&nbsp;230,66&nbsp;m²</span> de verre plat</h1>
+      <p class="hero-sub">NOXEM GROUP change d'entrepôt et liquide l'intégralité de son stock de verre plat — 6 références, format 2550&nbsp;×&nbsp;3210&nbsp;mm, conditionnées en caisses bois prêtes à charger. Disponible par caisse ou en lot complet.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" id="heroWaBtn" href="#" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38a9.9 9.9 0 0 0 4.79 1.22h.01c5.46 0 9.91-4.45 9.91-9.91C21.96 6.45 17.5 2 12.04 2Z"/></svg>
+          Écrire sur WhatsApp
+        </a>
+        <a class="btn btn-outline" href="#stock">Voir le stock disponible</a>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <img src="assets/crane-truck.jpg" alt="Chargement d'une caisse de verre sur camion inloader">
+      <div class="tag-devis">Prix <b>sur devis</b></div>
+    </div>
+  </div>
+  </div>
+</div>
+
+<div class="manifest">
+  <div class="wrap">
+    <div class="manifest-item"><div class="manifest-num mono">8 230,66</div><div class="manifest-label">m² disponibles</div></div>
+    <div class="manifest-item"><div class="manifest-num mono">6</div><div class="manifest-label">références</div></div>
+    <div class="manifest-item"><div class="manifest-num mono">50</div><div class="manifest-label">caisses bois</div></div>
+    <div class="manifest-item"><div class="manifest-num mono">2550×3210</div><div class="manifest-label">format (mm)</div></div>
+  </div>
+</div>
+
+<div class="wrap">
+
+<section id="stock">
+  <div class="section-head">
+    <h2>Le stock disponible</h2>
+    <span class="eyebrow-txt">Prêt à charger — Mollem, Belgique</span>
+  </div>
+  <div class="tbl-scroll">
+  <table class="stock-table">
+    <thead><tr><th>Référence</th><th>Épaisseur</th><th>Format</th><th>Caisses</th><th>Surface</th><th>Tarif</th></tr></thead>
+    <tbody id="stockBody"></tbody>
+    <tfoot><tr><td colspan="3">Total lot complet</td><td class="mono" id="totalCrates"></td><td class="mono">8 230,66 m²</td><td><span class="devis-pill">Sur devis</span></td></tr></tfoot>
+  </table>
+  </div>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>D'où ça vient, comment ça part</h2>
+    <span class="eyebrow-txt">Le déroulé réel, chez nous</span>
+  </div>
+  <div class="filmstrip">
+    <div class="frame">
+      <img src="assets/crates-row.jpg" alt="Réception des caisses en bois à l'entrepôt">
+      <div class="frame-cap"><div class="frame-step">01 — Réception</div><p>Les caisses en bois arrivent et sont mises en rangée à l'entrepôt.</p></div>
+    </div>
+    <div class="frame">
+      <img src="assets/crate-unpack.jpg" alt="Déballage du bois de caisse">
+      <div class="frame-cap"><div class="frame-step">02 — Déballage</div><p>On retire le bois de caisse, référence par référence.</p></div>
+    </div>
+    <div class="frame">
+      <img src="assets/stack-ready.jpg" alt="Pile de verre prête, filmée">
+      <div class="frame-cap"><div class="frame-step">03 — Mise en pile</div><p>Les panneaux sont regroupés en piles filmées, prêtes au transport.</p></div>
+    </div>
+    <div class="frame">
+      <img src="assets/crane-lift.jpg" alt="Levage d'une pile de verre à la grue">
+      <div class="frame-cap"><div class="frame-step">04 — Levage</div><p>Manutention à la grue, chaque pile est déplacée en sécurité.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>Chargement en camion inloader</h2>
+    <span class="eyebrow-txt">Vidéo réelle, entrepôt de Mollem</span>
+  </div>
+  <div class="video-block">
+    <video controls playsinline preload="metadata" poster="assets/crane-truck.jpg">
+      <source src="assets/truck-inloader.mp4" type="video/mp4">
+    </video>
+    <div class="video-cap">
+      <span>Manutention et chargement d'une pile de verre sur camion inloader.</span>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="logistics">
+    <div class="logistics-copy">
+      <h2 style="font-size:22px;">Livraison inloader, partout en Europe</h2>
+      <ul>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 8h-3V4H3a1 1 0 0 0-1 1v11h2M20 8l3 4v4h-2M20 8v9m-13 0h9m-9 0a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm13 0a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z"/></svg> Chargement direct en camions inloader — déchargement facilité chez vous.</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20 15 15 0 0 1 0-20Z"/></svg> Livraison possible dans toute l'Europe continentale, UK et Irlande.</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 7 9 18l-5-5"/></svg> Transport offert sur l'achat de l'intégralité du stock, à prix convenu.</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="7" width="18" height="13" rx="1"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg> Enlèvement sur notre site de Mollem (Asse) également possible.</li>
+      </ul>
+    </div>
+    <div class="logistics-photo"><img src="assets/edge-tag.jpg" alt="Étiquette d'expédition Saint-Gobain sur une caisse"></div>
+  </div>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>Construisez votre demande</h2>
+    <span class="eyebrow-txt">Par caisse, par référence, ou tout le lot</span>
+  </div>
+  <div class="builder">
+    <div class="builder-head">
+      <h3>Ma sélection</h3>
+      <label class="toggle-all"><input type="checkbox" id="selectAll"> Je veux tout le stock</label>
+    </div>
+    <div id="lineItems"></div>
+    <div class="builder-foot">
+      <div>
+        <div class="total-label">Sélection actuelle</div>
+        <div class="total-value mono" id="footTotal">0 m² — 0 caisse</div>
+      </div>
+      <div class="price-row">
+        <div class="price-input">
+          <span>€</span>
+          <input type="number" id="offerPrice" placeholder="Votre proposition" min="0">
+        </div>
+        <button class="send-btn" id="sendBtn" disabled>
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38a9.9 9.9 0 0 0 4.79 1.22h.01c5.46 0 9.91-4.45 9.91-9.91C21.96 6.45 17.5 2 12.04 2Z"/></svg>
+          Envoyer ma demande
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>En images</h2>
+    <span class="eyebrow-txt">Manutention réelle, entrepôt de Mollem</span>
+  </div>
+  <div class="gallery">
+    <figure><img src="assets/panels-wrapped.jpg" alt="Panneaux de verre emballés, prêts à charger" style="aspect-ratio:16/11;"></figure>
+    <figure><img src="assets/crates-row.jpg" alt="Rangée de caisses en bois à l'entrepôt" style="aspect-ratio:16/11;"></figure>
+  </div>
+</section>
+
+<section style="border-bottom:none; padding-bottom:0;">
+  <div class="contact">
+    <h2>Une question, une offre à faire ?</h2>
+    <p>Écrivez-nous directement sur WhatsApp avec votre sélection, ou appelez notre ligne professionnelle. Réponse rapide, du lundi au samedi.</p>
+    <div class="contact-actions">
+      <a class="btn btn-primary" id="contactWaBtn" href="#" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2 22l5.25-1.38a9.9 9.9 0 0 0 4.79 1.22h.01c5.46 0 9.91-4.45 9.91-9.91C21.96 6.45 17.5 2 12.04 2Z"/></svg>
+        07 69 72 58 92
+      </a>
+      <a class="btn btn-outline" href="tel:+33259508459"><span class="tel-num">02 59 50 84 59</span>&nbsp;— ligne pro</a>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>NOXEM GROUP — Mollem (Asse), Belgique</span>
+    <span class="mono">Déstockage août–septembre 2026 · document commercial, sous réserve de disponibilité</span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var WA_NUMBER = "33769725892";
+
+  var REFS = [
+    {name:"Verre float Low-E", thickness:"4 mm", crates:9, sqm:2357.42, color:"#E7E2D3"},
+    {name:"Miroir argenté", thickness:"4 mm", crates:10, sqm:2373.80, color:"#C9CBCE"},
+    {name:"Verre float", thickness:"6 mm", crates:10, sqm:1555.25, color:"#DAD3BE"},
+    {name:"Verre float", thickness:"8 mm", crates:5, sqm:572.99, color:"#C7BA95"},
+    {name:"Verre float", thickness:"10 mm", crates:5, sqm:450.20, color:"#B7A06E"},
+    {name:"Verre feuilleté 55.2", thickness:"10,8 mm", crates:11, sqm:921.00, color:"#B5261F"}
+  ];
+
+  var fmt = function(n, d){ d = d===undefined?2:d; return n.toLocaleString('fr-FR', {minimumFractionDigits:d, maximumFractionDigits:d}); };
+
+  var totalCratesAll = REFS.reduce(function(a,r){return a+r.crates;},0);
+  document.getElementById('totalCrates').textContent = totalCratesAll + ' caisses';
+
+  var stockBody = document.getElementById('stockBody');
+  REFS.forEach(function(r){
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<td><span class="ref-swatch" style="background:'+r.color+'"></span><span class="ref-name">'+r.name+'</span></td>'+
+      '<td class="mono">'+r.thickness+'</td>'+
+      '<td class="mono">2550×3210 mm</td>'+
+      '<td class="mono">'+r.crates+'</td>'+
+      '<td class="mono">'+fmt(r.sqm)+' m²</td>'+
+      '<td><span class="devis-pill">Sur devis</span></td>';
+    stockBody.appendChild(tr);
+  });
+
+  var lineItems = document.getElementById('lineItems');
+  var state = REFS.map(function(){ return 0; });
+
+  function perCrate(r){ return r.sqm / r.crates; }
+
+  function render(){
+    lineItems.querySelectorAll('.count b').forEach(function(el, i){ el.textContent = state[i]; });
+    lineItems.querySelectorAll('.count small').forEach(function(el, i){
+      var r = REFS[i];
+      el.textContent = '≈ ' + fmt(state[i]*perCrate(r),0) + ' m²';
+    });
+    lineItems.querySelectorAll('.minus').forEach(function(btn,i){ btn.disabled = state[i] <= 0; });
+    lineItems.querySelectorAll('.plus').forEach(function(btn,i){ btn.disabled = state[i] >= REFS[i].crates; });
+
+    var totalCrates = state.reduce(function(a,v){return a+v;},0);
+    var totalSqm = state.reduce(function(a,v,i){return a+v*perCrate(REFS[i]);},0);
+    document.getElementById('footTotal').textContent = fmt(totalSqm,0) + ' m² — ' + totalCrates + ' caisse' + (totalCrates>1?'s':'');
+    document.getElementById('sendBtn').disabled = totalCrates <= 0;
+
+    var allFull = state.every(function(v,i){ return v === REFS[i].crates; });
+    document.getElementById('selectAll').checked = allFull;
+
+    try{
+      localStorage.setItem('noxem_destock_selection', JSON.stringify(state));
+      localStorage.setItem('noxem_destock_offer', document.getElementById('offerPrice').value || '');
+    }catch(e){}
+  }
+
+  REFS.forEach(function(r, i){
+    var row = document.createElement('div');
+    row.className = 'line-item';
+    row.innerHTML =
+      '<div class="li-swatch" style="background:'+r.color+'"></div>'+
+      '<div class="li-info"><b>'+r.name+' — '+r.thickness+'</b><span class="li-mono">2550×3210 mm · '+fmt(r.sqm)+' m² disponibles · '+r.crates+' caisses</span></div>'+
+      '<div class="stepper-col"><div class="stepper">'+
+        '<button type="button" class="minus" aria-label="Retirer une caisse">−</button>'+
+        '<div class="count mono"><b>0</b><small>≈ 0 m²</small></div>'+
+        '<button type="button" class="plus" aria-label="Ajouter une caisse">+</button>'+
+      '</div></div>';
+    lineItems.appendChild(row);
+    row.querySelector('.minus').addEventListener('click', function(){ if(state[i]>0){ state[i]--; render(); } });
+    row.querySelector('.plus').addEventListener('click', function(){ if(state[i]<r.crates){ state[i]++; render(); } });
+  });
+
+  document.getElementById('selectAll').addEventListener('change', function(e){
+    state = REFS.map(function(r){ return e.target.checked ? r.crates : 0; });
+    render();
+  });
+
+  document.getElementById('offerPrice').addEventListener('input', render);
+
+  function buildMessage(){
+    var lines = ["Bonjour, je suis intéressé(e) par votre déstockage de verre plat :"];
+    var any = false;
+    REFS.forEach(function(r,i){
+      if(state[i] > 0){
+        any = true;
+        lines.push("- " + r.name + " " + r.thickness + " : " + state[i] + " caisse(s), ≈ " + fmt(state[i]*perCrate(r),0) + " m²");
+      }
+    });
+    if(!any){ lines.push("(sélection à préciser)"); }
+    var offer = document.getElementById('offerPrice').value;
+    if(offer){ lines.push("Ma proposition de tarif : " + offer + " €"); }
+    else { lines.push("Merci de me communiquer un tarif."); }
+    return lines.join("\n");
+  }
+
+  function waLink(){ return "https://wa.me/" + WA_NUMBER + "?text=" + encodeURIComponent(buildMessage()); }
+
+  function refreshWaLinks(){
+    var generic = "https://wa.me/" + WA_NUMBER + "?text=" + encodeURIComponent("Bonjour, je vous contacte au sujet de votre déstockage de verre plat (8 230,66 m²).");
+    ["topWaBtn","heroWaBtn","contactWaBtn"].forEach(function(id){
+      var el = document.getElementById(id);
+      if(el) el.href = generic;
+    });
+    document.getElementById('sendBtn').onclick = function(){ window.open(waLink(), '_blank', 'noopener'); };
+  }
+
+  try{
+    var saved = JSON.parse(localStorage.getItem('noxem_destock_selection') || 'null');
+    if(saved && saved.length === REFS.length){ state = saved.map(function(v,i){ return Math.min(v, REFS[i].crates); }); }
+    var savedOffer = localStorage.getItem('noxem_destock_offer');
+    if(savedOffer){ document.getElementById('offerPrice').value = savedOffer; }
+  }catch(e){}
+
+  refreshWaLinks();
+  render();
+})();
+</script>
+</body>
+</html>
