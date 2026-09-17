@@ -546,8 +546,8 @@ mark.fill { background: #ffe9a8; color: #6b4a00; padding: 1px 6px; border-radius
 .room--auto { animation: turn 32s ease-in-out infinite; }
 
 @keyframes turn {
-  0%, 100% { transform: scale(.56) rotateX(-17deg) rotateY(-10deg); }
-  50%      { transform: scale(.56) rotateX(-23deg) rotateY(-46deg); }
+  0%, 100% { transform: scale(.63) rotateX(-14deg) rotateY(-12deg); }
+  50%      { transform: scale(.63) rotateX(-20deg) rotateY(-42deg); }
 }
 @keyframes hue {
   0%, 15%   { --c: #C6CACD; }
@@ -560,7 +560,7 @@ mark.fill { background: #ffe9a8; color: #6b4a00; padding: 1px 6px; border-radius
 
 @media (prefers-reduced-motion: reduce) {
   .stage--showcase, .room--auto { animation: none; }
-  .room--auto { transform: scale(.56) rotateX(-19deg) rotateY(-26deg); }
+  .room--auto { transform: scale(.63) rotateX(-17deg) rotateY(-27deg); }
 }
 
 @media (max-width: 1080px) {
@@ -572,3 +572,66 @@ mark.fill { background: #ffe9a8; color: #6b4a00; padding: 1px 6px; border-radius
   .stage--showcase { height: 280px; }
   .hero__grid { padding-bottom: 54px; }
 }
+
+/* =========================================================
+   Scène 3D de l'accueil : immeuble habillé, boutique, stock
+   ========================================================= */
+.room--city .box--tower { --w: 200px; --h: 288px; --d: 150px; transform: translate3d(-252px, -158px, -70px); }
+.room--city .box--annex { --w: 176px; --h: 116px; --d: 140px; transform: translate3d(-8px, 14px, 34px); }
+.room--city .box--stack { --w: 142px; --h: 34px;  --d: 92px;  transform: translate3d(-336px, 96px, 152px); }
+.room--city .box--crate { --w: 112px; --h: 80px;  --d: 92px;  transform: translate3d(188px, 50px, 124px); }
+
+.city__ground {
+  position: absolute; width: 940px; height: 560px;
+  transform: translate3d(-470px, 130px, -280px) rotateX(90deg);
+  background: linear-gradient(180deg, #222a32 0%, #171d23 100%);
+  background-image:
+    linear-gradient(rgba(255,255,255,.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.045) 1px, transparent 1px);
+  background-size: 70px 70px;
+}
+.city__shadow {
+  position: absolute; width: 760px; height: 360px;
+  transform: translate3d(-400px, 128px, -130px) rotateX(90deg);
+  background: radial-gradient(closest-side, rgba(0,0,0,.6), transparent 74%);
+}
+
+/* immeuble : bardage + bandeaux vitrés */
+.box--tower .f--front, .box--tower .f--right {
+  background-color: var(--c);
+  background-image:
+    repeating-linear-gradient(180deg, transparent 0 26px, rgba(12,18,24,.9) 26px 50px),
+    repeating-linear-gradient(90deg, rgba(0,0,0,.24) 0 1.5px, transparent 1.5px 40px),
+    repeating-linear-gradient(180deg, rgba(0,0,0,.14) 0 1.5px, transparent 1.5px 25px);
+  background-position: 0 22px, 0 0, 0 0;
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,.25);
+}
+.box--tower .f--top { background: linear-gradient(135deg,#414c57,#333c45); box-shadow: inset 0 0 0 2px rgba(0,0,0,.25); }
+
+/* boutique : vitrine + enseigne */
+.box--annex .f--front, .box--annex .f--right {
+  background-color: var(--c);
+  background-image:
+    linear-gradient(180deg, transparent 0 62px, rgba(12,18,24,.88) 62px 104px, rgba(255,255,255,.08) 104px 116px),
+    repeating-linear-gradient(90deg, rgba(0,0,0,.2) 0 1.5px, transparent 1.5px 42px);
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,.25);
+}
+.box--annex .f--front::after {
+  content: ""; position: absolute; left: 20px; top: 20px; width: 78px; height: 17px;
+  background: var(--red); box-shadow: 0 2px 7px rgba(0,0,0,.45);
+}
+.box--annex .f--top { background: linear-gradient(135deg,#46515c,#39424b); }
+
+/* =========================================================
+   Section « en deux mots »
+   ========================================================= */
+.explain {
+  background: #fff; border: 1px solid var(--line); border-radius: var(--radius-lg);
+  padding: 0 0 26px; overflow: hidden;
+  transition: transform .35s var(--ease), box-shadow .35s var(--ease), border-color .35s;
+}
+.explain:hover { transform: translateY(-5px); box-shadow: var(--shadow-lg); border-color: transparent; }
+.explain__art { background: var(--alt); border-bottom: 1px solid var(--line); }
+.explain__art svg { width: 100%; height: auto; display: block; }
+.explain h3 { margin: 22px 26px 8px; }
+.explain p { margin: 0 26px; font-size: .94rem; }

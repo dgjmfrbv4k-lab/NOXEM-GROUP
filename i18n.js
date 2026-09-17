@@ -14,8 +14,8 @@ en: {
   nav_packing: "Packing & shipping", nav_quality: "Quality", nav_quote: "Request a quote",
 
   hero_eyebrow: "Aluminium composite panels · ACP / ACM · Alucobond® type",
-  hero_title: "Alucobond®-type panels, built to your specification and delivered to your port.",
-  hero_lead: "What the trade calls an Alucobond panel: two coil-coated aluminium skins bonded to a core, for façades, signage and cladding. We build it to your figures — any thickness, skin from 0.06 to 0.50 mm per face, over 500 colours — and crate it for export.",
+  hero_title: "The aluminium panels that clad buildings and signs.",
+  hero_lead: "They are called aluminium composite panels — or Alucobond®-type panels. Two thin coated aluminium sheets bonded onto a core: light, perfectly flat, cut and folded like board. It is what covers office blocks, shop fronts and signage. We build them to your sizes, in over 500 colours, and deliver them to your port.",
   hero_cta1: "See colours in 3D", hero_cta2: "Request a quote",
   hero_stat1: "colours available", hero_stat2: "panel thickness, up to",
   hero_stat3: "quotation time", hero_stat4: "languages, worldwide export",
@@ -103,8 +103,17 @@ en: {
   foot_privacy: "Privacy policy",
   foot_terms: "Terms of sale",
   foot_contact: "Contact",
-  hero_caption: "3D preview of our panels in the warehouse — the shades cycle on their own",
-  foot_tm: "Alucobond® is a registered trademark of 3A Composites GmbH, mentioned here only as a product reference. NOXEM GROUP FRANCE is not affiliated with that manufacturer."
+  hero_caption: "3D view — the cladding changes colour on its own",
+  foot_tm: "Alucobond® is a registered trademark of 3A Composites GmbH, mentioned here only as a product reference. NOXEM GROUP FRANCE is not affiliated with that manufacturer.",
+  exp_eyebrow: "In plain words",
+  exp_title: "What exactly is an aluminium composite panel?",
+  exp_lead: "Three layers, one result: a light rigid sheet, in the colour you want, that can be fixed onto almost anything.",
+  exp1_t: "The sheet",
+  exp1_d: "Aluminium, core, aluminium. 3 to 6 mm thick, up to 2 m wide and 6 m long. It cuts, folds and screws like a board — but it is metal, and it stays flat.",
+  exp2_t: "On a building",
+  exp2_d: "Fixed to a frame, it dresses a new façade or covers an old damaged one. It protects the wall, hides its defects and keeps its colour for twenty years.",
+  exp3_t: "As signage",
+  exp3_d: "Perfectly flat, it is the standard backing for shop signs, light boxes and store fronts. Print or apply vinyl straight onto it."
 },
 
 /* ---------------------------------------------------- FR */
@@ -116,8 +125,8 @@ fr: {
   nav_packing: "Emballage & expédition", nav_quality: "Qualité", nav_quote: "Demander un devis",
 
   hero_eyebrow: "Panneaux composites aluminium · ACP / ACM · type Alucobond®",
-  hero_title: "Panneaux type Alucobond®, fabriqués à vos cotes et livrés à votre port.",
-  hero_lead: "Ce que le métier appelle un panneau Alucobond : deux tôles d'aluminium laquées collées sur une âme, pour les façades, les enseignes et l'habillage. Nous le fabriquons à vos chiffres — toutes épaisseurs, tôle de 0,06 à 0,50 mm par face, plus de 500 coloris — et nous le mettons en caisse pour l'export.",
+  hero_title: "Les plaques d'aluminium qui habillent les façades et les enseignes.",
+  hero_lead: "On les appelle panneaux composites aluminium — ou panneaux type Alucobond®. Deux fines tôles d'aluminium laquées collées sur une âme : léger, parfaitement plat, ça se découpe et ça se plie. C'est ce qui recouvre les immeubles, les devantures de magasin et les enseignes. Nous les fabriquons à vos cotes, dans plus de 500 coloris, et nous les livrons à votre port.",
   hero_cta1: "Voir les coloris en 3D", hero_cta2: "Demander un devis",
   hero_stat1: "coloris réalisables", hero_stat2: "épaisseur de panneau, jusqu'à",
   hero_stat3: "pour recevoir votre devis", hero_stat4: "langues, export dans le monde entier",
@@ -205,8 +214,17 @@ fr: {
   foot_privacy: "Politique de confidentialité",
   foot_terms: "Conditions générales de vente",
   foot_contact: "Contact",
-  hero_caption: "Aperçu 3D de nos panneaux en entrepôt — les teintes défilent toutes seules",
-  foot_tm: "Alucobond® est une marque déposée de 3A Composites GmbH, citée ici uniquement à titre de référence produit. NOXEM GROUP FRANCE n'est pas affilié à ce fabricant."
+  hero_caption: "Vue 3D — le bardage change de couleur tout seul",
+  foot_tm: "Alucobond® est une marque déposée de 3A Composites GmbH, citée ici uniquement à titre de référence produit. NOXEM GROUP FRANCE n'est pas affilié à ce fabricant.",
+  exp_eyebrow: "En deux mots",
+  exp_title: "C'est quoi, exactement, un panneau composite aluminium ?",
+  exp_lead: "Trois couches, un résultat : une plaque rigide et légère, dans la couleur que vous voulez, qui se pose sur à peu près tout.",
+  exp1_t: "La plaque",
+  exp1_d: "Aluminium, âme, aluminium. De 3 à 6 mm d'épaisseur, jusqu'à 2 m de large et 6 m de long. Ça se découpe, ça se plie et ça se visse comme du bois — sauf que c'est du métal, et que ça reste plat.",
+  exp2_t: "Sur un bâtiment",
+  exp2_d: "Fixée sur une ossature, elle habille une façade neuve ou recouvre une vieille façade abîmée. Elle protège le mur, masque ses défauts et garde sa couleur vingt ans.",
+  exp3_t: "En enseigne",
+  exp3_d: "Parfaitement plate, c'est le support classique des enseignes, des caissons lumineux et des devantures. On imprime ou on colle directement dessus."
 },
 
 /* ---------------------------------------------------- AR */
@@ -218,8 +236,8 @@ ar: {
   nav_packing: "التغليف والشحن", nav_quality: "الجودة", nav_quote: "اطلب عرض سعر",
 
   hero_eyebrow: "ألواح الألمنيوم المركبة · ACP / ACM · من نوع Alucobond®",
-  hero_title: "ألواح من نوع Alucobond®، تُصنع حسب مقاساتكم وتُسلَّم إلى مينائكم.",
-  hero_lead: "ما يسميه أهل المهنة لوح الألوكوبوند: وجهان من الألمنيوم المطلي مثبتان على قلب داخلي، للواجهات واللافتات والتكسية. نصنعه بأرقامكم — أي سماكة، ووجه من 0.06 إلى 0.50 مم، وأكثر من 500 لون — ونعبّئه في صناديق للتصدير.",
+  hero_title: "ألواح الألمنيوم التي تكسو الواجهات واللافتات.",
+  hero_lead: "تُسمّى ألواح الألمنيوم المركبة، أو ألواح من نوع Alucobond®. وجهان رقيقان من الألمنيوم المطلي مثبتان على قلب داخلي: خفيف، مستوٍ تماماً، يُقصّ ويُثنى بسهولة. وهو ما يكسو المباني وواجهات المحلات واللافتات. نصنعه بمقاساتكم، بأكثر من 500 لون، ونسلّمه إلى مينائكم.",
   hero_cta1: "شاهد الألوان ثلاثية الأبعاد", hero_cta2: "اطلب عرض سعر",
   hero_stat1: "لوناً قابلاً للتنفيذ", hero_stat2: "سماكة اللوح حتى",
   hero_stat3: "مدة إصدار العرض", hero_stat4: "لغات، تصدير إلى العالم",
@@ -307,8 +325,17 @@ ar: {
   foot_privacy: "سياسة الخصوصية",
   foot_terms: "الشروط العامة للبيع",
   foot_contact: "اتصلوا بنا",
-  hero_caption: "عرض ثلاثي الأبعاد لألواحنا في المستودع — الألوان تتبدّل تلقائياً",
-  foot_tm: "Alucobond® علامة تجارية مسجلة لشركة 3A Composites GmbH، وتُذكر هنا للإشارة إلى نوع المنتج فقط. ولا ترتبط نوكسيم غروب فرنسا بتلك الشركة."
+  hero_caption: "عرض ثلاثي الأبعاد — التكسية تتغيّر ألوانها تلقائياً",
+  foot_tm: "Alucobond® علامة تجارية مسجلة لشركة 3A Composites GmbH، وتُذكر هنا للإشارة إلى نوع المنتج فقط. ولا ترتبط نوكسيم غروب فرنسا بتلك الشركة.",
+  exp_eyebrow: "بكلمات بسيطة",
+  exp_title: "ما هو لوح الألمنيوم المركب بالضبط؟",
+  exp_lead: "ثلاث طبقات ونتيجة واحدة: لوح خفيف وصلب، باللون الذي تريدونه، يمكن تثبيته على أي سطح تقريباً.",
+  exp1_t: "اللوح",
+  exp1_d: "ألمنيوم، قلب، ألمنيوم. سماكة من 3 إلى 6 مم، بعرض حتى مترين وطول حتى ستة أمتار. يُقصّ ويُثنى ويُثبّت بالبراغي مثل الخشب — لكنه معدن، ويبقى مستوياً.",
+  exp2_t: "على المبنى",
+  exp2_d: "يُثبَّت على هيكل فيكسو واجهة جديدة أو يغطي واجهة قديمة متضررة. يحمي الجدار ويخفي عيوبه ويحتفظ بلونه عشرين عاماً.",
+  exp3_t: "في اللافتات",
+  exp3_d: "لاستوائه التام، هو الأساس المعتاد للّافتات وصناديق الإضاءة وواجهات المحلات. تُطبع عليه أو تُلصق عليه الملصقات مباشرة."
 },
 
 /* ---------------------------------------------------- ES */
@@ -320,8 +347,8 @@ es: {
   nav_packing: "Embalaje y envío", nav_quality: "Calidad", nav_quote: "Solicitar presupuesto",
 
   hero_eyebrow: "Paneles composite de aluminio · ACP / ACM · tipo Alucobond®",
-  hero_title: "Paneles tipo Alucobond®, fabricados a su medida y entregados en su puerto.",
-  hero_lead: "Lo que el sector llama un panel Alucobond: dos chapas de aluminio lacadas unidas a un núcleo, para fachadas, rotulación y revestimientos. Lo fabricamos con sus cifras — cualquier espesor, chapa de 0,06 a 0,50 mm por cara, más de 500 colores — y lo encajonamos para la exportación.",
+  hero_title: "Las planchas de aluminio que revisten fachadas y rótulos.",
+  hero_lead: "Se llaman paneles composite de aluminio — o paneles tipo Alucobond®. Dos chapas finas de aluminio lacado unidas a un núcleo: ligero, perfectamente plano, se corta y se pliega. Es lo que cubre los edificios, los escaparates y los rótulos. Los fabricamos a su medida, en más de 500 colores, y se los entregamos en su puerto.",
   hero_cta1: "Ver los colores en 3D", hero_cta2: "Solicitar presupuesto",
   hero_stat1: "colores realizables", hero_stat2: "espesor de panel, hasta",
   hero_stat3: "plazo de oferta", hero_stat4: "idiomas, exportación mundial",
@@ -409,8 +436,17 @@ es: {
   foot_privacy: "Política de privacidad",
   foot_terms: "Condiciones de venta",
   foot_contact: "Contacto",
-  hero_caption: "Vista 3D de nuestros paneles en el almacén — los tonos van cambiando solos",
-  foot_tm: "Alucobond® es una marca registrada de 3A Composites GmbH, citada aquí únicamente como referencia de producto. NOXEM GROUP FRANCE no está afiliada a ese fabricante."
+  hero_caption: "Vista 3D — el revestimiento cambia de color solo",
+  foot_tm: "Alucobond® es una marca registrada de 3A Composites GmbH, citada aquí únicamente como referencia de producto. NOXEM GROUP FRANCE no está afiliada a ese fabricante.",
+  exp_eyebrow: "En pocas palabras",
+  exp_title: "¿Qué es exactamente un panel composite de aluminio?",
+  exp_lead: "Tres capas, un resultado: una plancha rígida y ligera, del color que quiera, que se fija sobre casi cualquier cosa.",
+  exp1_t: "La plancha",
+  exp1_d: "Aluminio, núcleo, aluminio. De 3 a 6 mm de espesor, hasta 2 m de ancho y 6 m de largo. Se corta, se pliega y se atornilla como un tablero — pero es metal y se mantiene plano.",
+  exp2_t: "En un edificio",
+  exp2_d: "Fijada a una estructura, viste una fachada nueva o cubre una antigua deteriorada. Protege el muro, disimula sus defectos y conserva su color veinte años.",
+  exp3_t: "En rotulación",
+  exp3_d: "Perfectamente plana, es el soporte habitual de rótulos, cajas de luz y escaparates. Se imprime o se aplica vinilo directamente encima."
 },
 
 /* ---------------------------------------------------- TR */
@@ -422,8 +458,8 @@ tr: {
   nav_packing: "Ambalaj ve sevkiyat", nav_quality: "Kalite", nav_quote: "Teklif isteyin",
 
   hero_eyebrow: "Alüminyum kompozit paneller · ACP / ACM · Alucobond® tipi",
-  hero_title: "Alucobond® tipi paneller, ölçünüze göre üretilir ve limanınıza teslim edilir.",
-  hero_lead: "Sektörün Alucobond paneli dediği ürün: bir çekirdeğe yapıştırılmış iki boyalı alüminyum yüz; cepheler, tabelalar ve kaplamalar için. Sizin rakamlarınızla üretiyoruz — her kalınlık, yüz başına 0,06 – 0,50 mm sac, 500'den fazla renk — ve ihracat için sandıklıyoruz.",
+  hero_title: "Cepheleri ve tabelaları kaplayan alüminyum levhalar.",
+  hero_lead: "Adı alüminyum kompozit panel — ya da Alucobond® tipi panel. Bir çekirdeğe yapıştırılmış iki ince boyalı alüminyum sac: hafif, kusursuz düz, kesilir ve bükülür. Binaları, mağaza cephelerini ve tabelaları kaplayan malzeme budur. Ölçünüze göre üretir, 500'den fazla renkte hazırlar ve limanınıza teslim ederiz.",
   hero_cta1: "Renkleri 3D görün", hero_cta2: "Teklif isteyin",
   hero_stat1: "üretilebilir renk", hero_stat2: "panel kalınlığı, azami",
   hero_stat3: "teklif süresi", hero_stat4: "dil, dünya geneline ihracat",
@@ -511,8 +547,17 @@ tr: {
   foot_privacy: "Gizlilik politikası",
   foot_terms: "Genel satış şartları",
   foot_contact: "İletişim",
-  hero_caption: "Panellerimizin depodaki 3D görünümü — renkler kendiliğinden değişir",
-  foot_tm: "Alucobond®, 3A Composites GmbH'nin tescilli markasıdır ve burada yalnızca ürün tipine atıf olarak anılmaktadır. NOXEM GROUP FRANCE bu üreticiyle bağlantılı değildir."
+  hero_caption: "3D görünüm — kaplama rengi kendiliğinden değişir",
+  foot_tm: "Alucobond®, 3A Composites GmbH'nin tescilli markasıdır ve burada yalnızca ürün tipine atıf olarak anılmaktadır. NOXEM GROUP FRANCE bu üreticiyle bağlantılı değildir.",
+  exp_eyebrow: "Kısaca",
+  exp_title: "Alüminyum kompozit panel tam olarak nedir?",
+  exp_lead: "Üç katman, tek sonuç: istediğiniz renkte, hafif ve rijit bir levha; neredeyse her yüzeye monte edilir.",
+  exp1_t: "Levha",
+  exp1_d: "Alüminyum, çekirdek, alüminyum. 3 – 6 mm kalınlık, 2 m genişliğe ve 6 m uzunluğa kadar. Ahşap gibi kesilir, bükülür, vidalanır — ama metaldir ve düz kalır.",
+  exp2_t: "Binada",
+  exp2_d: "Taşıyıcıya monte edilerek yeni bir cepheyi giydirir ya da eski ve yıpranmış bir cepheyi kapatır. Duvarı korur, kusurlarını gizler ve rengini yirmi yıl korur.",
+  exp3_t: "Tabelada",
+  exp3_d: "Kusursuz düz olduğu için tabelaların, ışıklı kutuların ve mağaza cephelerinin standart taşıyıcısıdır. Doğrudan üzerine baskı yapılır veya folyo kaplanır."
 },
 
 /* ---------------------------------------------------- PL */
@@ -524,8 +569,8 @@ pl: {
   nav_packing: "Pakowanie i wysyłka", nav_quality: "Jakość", nav_quote: "Zapytanie ofertowe",
 
   hero_eyebrow: "Panele kompozytowe aluminiowe · ACP / ACM · typu Alucobond®",
-  hero_title: "Panele typu Alucobond®, produkowane na Twój wymiar i dostarczane do Twojego portu.",
-  hero_lead: "To, co w branży nazywa się panelem Alucobond: dwie powlekane blachy aluminiowe połączone z rdzeniem, na elewacje, reklamę i okładziny. Produkujemy go według Twoich liczb — dowolna grubość, blacha 0,06 – 0,50 mm na stronę, ponad 500 kolorów — i pakujemy w skrzynie na eksport.",
+  hero_title: "Płyty aluminiowe, które okrywają elewacje i szyldy.",
+  hero_lead: "Nazywa się je panelami kompozytowymi aluminiowymi — albo panelami typu Alucobond®. Dwie cienkie powlekane blachy aluminiowe połączone z rdzeniem: lekkie, idealnie płaskie, tnie się je i gnie. To właśnie pokrywa budynki, witryny sklepowe i szyldy. Produkujemy je na Twój wymiar, w ponad 500 kolorach, i dostarczamy do Twojego portu.",
   hero_cta1: "Zobacz kolory w 3D", hero_cta2: "Zapytanie ofertowe",
   hero_stat1: "możliwych kolorów", hero_stat2: "grubość panelu, do",
   hero_stat3: "czas przygotowania oferty", hero_stat4: "języków, eksport na cały świat",
@@ -613,8 +658,17 @@ pl: {
   foot_privacy: "Polityka prywatności",
   foot_terms: "Ogólne warunki sprzedaży",
   foot_contact: "Kontakt",
-  hero_caption: "Podgląd 3D naszych paneli w magazynie — kolory zmieniają się same",
-  foot_tm: "Alucobond® jest zastrzeżonym znakiem towarowym 3A Composites GmbH, przywołanym tu wyłącznie jako odniesienie do typu produktu. NOXEM GROUP FRANCE nie jest powiązana z tym producentem."
+  hero_caption: "Widok 3D — okładzina sama zmienia kolor",
+  foot_tm: "Alucobond® jest zastrzeżonym znakiem towarowym 3A Composites GmbH, przywołanym tu wyłącznie jako odniesienie do typu produktu. NOXEM GROUP FRANCE nie jest powiązana z tym producentem.",
+  exp_eyebrow: "W skrócie",
+  exp_title: "Czym właściwie jest panel kompozytowy aluminiowy?",
+  exp_lead: "Trzy warstwy, jeden efekt: lekka i sztywna płyta w wybranym kolorze, którą można zamocować na prawie wszystkim.",
+  exp1_t: "Płyta",
+  exp1_d: "Aluminium, rdzeń, aluminium. Grubość 3 – 6 mm, do 2 m szerokości i 6 m długości. Tnie się, gnie i przykręca jak płytę drewnianą — ale to metal i pozostaje płaska.",
+  exp2_t: "Na budynku",
+  exp2_d: "Zamocowana na ruszcie okrywa nową elewację albo zakrywa starą, zniszczoną. Chroni ścianę, ukrywa jej wady i zachowuje kolor przez dwadzieścia lat.",
+  exp3_t: "W reklamie",
+  exp3_d: "Dzięki idealnej płaskości jest standardowym podłożem szyldów, kasetonów i witryn. Drukuje się lub oklejaja bezpośrednio na niej."
 },
 
 /* ---------------------------------------------------- HR */
@@ -626,8 +680,8 @@ hr: {
   nav_packing: "Pakiranje i otprema", nav_quality: "Kvaliteta", nav_quote: "Zatražite ponudu",
 
   hero_eyebrow: "Aluminijski kompozitni paneli · ACP / ACM · tipa Alucobond®",
-  hero_title: "Paneli tipa Alucobond®, izrađeni po vašoj mjeri i isporučeni u vašu luku.",
-  hero_lead: "Ono što struka zove Alucobond panel: dvije lakirane aluminijske ploče spojene na jezgru, za fasade, reklame i obloge. Izrađujemo ga prema vašim brojkama — bilo koja debljina, ploča 0,06 – 0,50 mm po strani, više od 500 boja — i pakiramo u sanduke za izvoz.",
+  hero_title: "Aluminijske ploče koje oblažu fasade i reklame.",
+  hero_lead: "Zovu se aluminijski kompozitni paneli — ili paneli tipa Alucobond®. Dvije tanke lakirane aluminijske ploče spojene na jezgru: lagano, savršeno ravno, reže se i savija. To je ono što prekriva zgrade, izloge i reklame. Izrađujemo ih po vašoj mjeri, u više od 500 boja, i isporučujemo u vašu luku.",
   hero_cta1: "Pogledajte boje u 3D-u", hero_cta2: "Zatražite ponudu",
   hero_stat1: "izvedivih boja", hero_stat2: "debljina panela, do",
   hero_stat3: "rok za ponudu", hero_stat4: "jezika, izvoz u cijeli svijet",
@@ -715,8 +769,17 @@ hr: {
   foot_privacy: "Politika privatnosti",
   foot_terms: "Opći uvjeti prodaje",
   foot_contact: "Kontakt",
-  hero_caption: "3D prikaz naših panela u skladištu — boje se same izmjenjuju",
-  foot_tm: "Alucobond® je registrirani žig tvrtke 3A Composites GmbH i ovdje se navodi isključivo kao oznaka tipa proizvoda. NOXEM GROUP FRANCE nije povezan s tim proizvođačem."
+  hero_caption: "3D prikaz — obloga sama mijenja boju",
+  foot_tm: "Alucobond® je registrirani žig tvrtke 3A Composites GmbH i ovdje se navodi isključivo kao oznaka tipa proizvoda. NOXEM GROUP FRANCE nije povezan s tim proizvođačem.",
+  exp_eyebrow: "Ukratko",
+  exp_title: "Što je zapravo aluminijski kompozitni panel?",
+  exp_lead: "Tri sloja, jedan rezultat: lagana i kruta ploča u boji koju želite, koja se može pričvrstiti na gotovo sve.",
+  exp1_t: "Ploča",
+  exp1_d: "Aluminij, jezgra, aluminij. Debljina 3 – 6 mm, do 2 m širine i 6 m duljine. Reže se, savija i vijči kao drvena ploča — ali je metal i ostaje ravna.",
+  exp2_t: "Na zgradi",
+  exp2_d: "Pričvršćena na podkonstrukciju oblaže novu fasadu ili prekriva staru i oštećenu. Štiti zid, skriva njegove nedostatke i zadržava boju dvadeset godina.",
+  exp3_t: "Na reklami",
+  exp3_d: "Zbog savršene ravnoće standardna je podloga za natpise, svjetleće kutije i izloge. Na nju se izravno tiska ili lijepi folija."
 },
 
 /* ---------------------------------------------------- NL */
@@ -728,8 +791,8 @@ nl: {
   nav_packing: "Verpakking & verzending", nav_quality: "Kwaliteit", nav_quote: "Offerte aanvragen",
 
   hero_eyebrow: "Aluminium composietpanelen · ACP / ACM · type Alucobond®",
-  hero_title: "Panelen type Alucobond®, op uw maat gebouwd en geleverd in uw haven.",
-  hero_lead: "Wat de branche een Alucobond-paneel noemt: twee gecoate aluminium platen op een kern, voor gevels, signing en bekleding. Wij bouwen het met uw cijfers — elke dikte, plaat van 0,06 tot 0,50 mm per zijde, meer dan 500 kleuren — en kisten het voor export.",
+  hero_title: "De aluminium platen die gevels en reclame bekleden.",
+  hero_lead: "Ze heten aluminium composietpanelen — of panelen type Alucobond®. Twee dunne gecoate aluminium platen op een kern: licht, perfect vlak, te zagen en te kanten. Dit is wat gebouwen, winkelpuien en reclameborden bedekt. Wij bouwen ze op uw maat, in meer dan 500 kleuren, en leveren ze in uw haven.",
   hero_cta1: "Bekijk de kleuren in 3D", hero_cta2: "Offerte aanvragen",
   hero_stat1: "mogelijke kleuren", hero_stat2: "paneeldikte, tot",
   hero_stat3: "offertetijd", hero_stat4: "talen, wereldwijde export",
@@ -817,8 +880,17 @@ nl: {
   foot_privacy: "Privacybeleid",
   foot_terms: "Algemene verkoopvoorwaarden",
   foot_contact: "Contact",
-  hero_caption: "3D-weergave van onze panelen in het magazijn — de kleuren wisselen vanzelf",
-  foot_tm: "Alucobond® is een geregistreerd handelsmerk van 3A Composites GmbH en wordt hier uitsluitend als producttype-aanduiding genoemd. NOXEM GROUP FRANCE is niet verbonden aan die fabrikant."
+  hero_caption: "3D-weergave — de bekleding verandert vanzelf van kleur",
+  foot_tm: "Alucobond® is een geregistreerd handelsmerk van 3A Composites GmbH en wordt hier uitsluitend als producttype-aanduiding genoemd. NOXEM GROUP FRANCE is niet verbonden aan die fabrikant.",
+  exp_eyebrow: "Kort gezegd",
+  exp_title: "Wat is een aluminium composietpaneel precies?",
+  exp_lead: "Drie lagen, één resultaat: een lichte, stijve plaat in de kleur die u wilt, die op vrijwel alles bevestigd kan worden.",
+  exp1_t: "De plaat",
+  exp1_d: "Aluminium, kern, aluminium. 3 tot 6 mm dik, tot 2 m breed en 6 m lang. Zagen, kanten en schroeven als een plaat hout — maar het is metaal, en het blijft vlak.",
+  exp2_t: "Op een gebouw",
+  exp2_d: "Op een regelwerk bevestigd kleedt ze een nieuwe gevel aan of dekt ze een oude, beschadigde gevel af. Ze beschermt de muur, verbergt de oneffenheden en houdt haar kleur twintig jaar.",
+  exp3_t: "In reclame",
+  exp3_d: "Doordat ze perfect vlak is, is ze de standaarddrager voor uithangborden, lichtbakken en winkelpuien. Er wordt direct op gedrukt of folie op gezet."
 }
 
 };
