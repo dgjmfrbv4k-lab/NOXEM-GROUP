@@ -2,18 +2,35 @@
 
 | Fichier | Rôle |
 |---|---|
-| `modele-fr.html` | Le message, version HTML. Tables et styles en ligne : tient dans Gmail, Outlook, Apple Mail. |
+| `modele-fr.html` | **Le modèle à utiliser par défaut.** Zéro image : bandeau, logo et filets sont faits de couleurs de fond et de texte. S'affiche partout, même images bloquées. |
+| `modele-fr-avec-logo-image.html` | Même message, mais avec le vrai logo en image (`cid:noxem-logo.png`). À réserver aux outils d'emailing qui gèrent correctement les images. |
 | `modele-fr.txt` | La version texte, à envoyer en alternative — elle évite le classement en spam. |
-| `noxem-logo.png` | Le logo, 181 × 60 px, 2 Ko. À joindre en pièce inline sous le nom `noxem-logo.png` : le HTML le référence par `cid:noxem-logo.png`. |
-| `banniere-image.png` | La même bannière sous forme d'image unique, 1200 × 420 px, si un outil d'emailing exige une image plutôt qu'un bandeau HTML. |
+| `noxem-logo.png` | Le logo, 181 × 60 px, 2 Ko, pour la version avec image. |
+| `banniere-image.png` | La bannière entière en une image, 1200 × 420 px, pour LinkedIn, un en-tête de devis ou un outil qui l'exige. |
 
-## Pourquoi la bannière est en HTML et non en image
+## Pourquoi le modèle par défaut ne contient aucune image
 
-Une bonne partie des messageries bloquent les images par défaut. Un bandeau
-construit en tableaux et couleurs de fond s'affiche toujours : l'accroche
-« Votre livraison à votre port, en conteneur complet » reste lisible même
-images coupées. Seul le logo est une image, et son texte alternatif prend le
-relais s'il ne charge pas.
+Deux raisons, l'une vérifiée sur le terrain :
+
+1. **Une bonne partie des messageries bloquent les images par défaut.** Un bandeau
+   construit en tableaux et couleurs de fond s'affiche toujours : l'accroche
+   « Votre livraison à votre port, en conteneur complet » reste lisible.
+2. **Certains chemins d'envoi filtrent le HTML.** Un envoi via l'API Gmail, par
+   exemple, supprime *toutes* les balises `<img>` — pièce jointe, data URI ou URL
+   distante — et efface le raccourci CSS `background:`. Le message arrive alors
+   entièrement blanc.
+
+D'où deux règles à respecter en modifiant ce modèle :
+
+- **Jamais `background:`** — toujours l'attribut `bgcolor="#RRGGBB"` sur la cellule,
+  doublé de `background-color:` dans le style. Ces deux-là passent partout.
+- **Pas d'image indispensable à la lecture.** Le logo est redessiné en cellules
+  colorées et en typographie ; le message se tient sans une seule image.
+
+Sont également vérifiés comme passant sans dommage : `border`, `padding`,
+`font-family`, `font-size`, `font-weight`, `letter-spacing`, `color`,
+`text-transform`, `line-height`, et les attributs `width`, `height`, `align`,
+`valign`, `colspan` des tableaux.
 
 ## Ce que le message détaille
 
