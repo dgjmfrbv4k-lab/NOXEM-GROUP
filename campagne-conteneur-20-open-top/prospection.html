@@ -318,19 +318,25 @@ Vitrerie du Littoral;CI;miroiterie;M. Kouassi;contact@vitrerie-littoral.ci"></te
     return t.replace(/\{(\w+)\}/g, function(m, k){ return v[k] !== undefined ? v[k] : m; });
   }
 
+  /* dans une phrase, le port se dit sans sa précision entre parenthèses ni son « via » :
+     « CFR Jebel Ali », pas « CFR Jebel Ali (Dubaï) » ni « CFR via Dakar » */
+  function portLabel(p){
+    return String(p).replace(/^via\s+/i, '').replace(/\s*\([^)]*\)/g, '').trim();
+  }
+
   function build(country, company, contact, segment, port){
     var t = MSG[country.l];
     var v = {
       contact: contact || '',
       company: company || '…',
       country: country.fr,
-      port: port || country.p[0],
+      port: portLabel(port || country.p[0]),
       transit: country.t,
       sender: $('fSender').value,
       site: $('fSite').value
     };
-    /* le pays doit être nommé dans la langue du message, jamais en français */
-    if(country.l !== 'fr') v.country = country.loc || country.en;
+    /* le pays doit être nommé dans la langue du message, article et déclinaison compris */
+    v.country = country.loc || (country.l === 'fr' ? country.fr : country.en);
 
     var sign = [$('fSender').value, 'NOXEM GROUP', $('fPhone').value + ' · ' + $('fEmail').value, $('fSite').value]
       .filter(Boolean).join('\n');
