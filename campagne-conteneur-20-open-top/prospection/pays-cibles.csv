@@ -1,0 +1,172 @@
+﻿region;pays;code;langue du message;relecture;ports;transit (j);alertes;marche
+Afrique australe;Afrique du Sud;ZA;English;;Durban · Le Cap · Ngqura (Coega) · Port Elizabeth · East London · Richards Bay · Saldanha · Mossel Bay;18-28;float local — viser miroir, Low-E, feuilleté, jumbo;Float local : positionner miroir, Low-E et jumbo en complément.
+Afrique australe;Botswana;BW;English;;via Durban · via Walvis Bay;28-38;enclavé;Enclavé, marché solvable.
+Afrique australe;Eswatini;SZ;English;;via Durban · via Maputo;28-38;enclavé;Enclavé, petits volumes.
+Afrique australe;Lesotho;LS;English;;via Durban;28-38;enclavé;Enclavé, via Durban.
+Afrique australe;Namibie;NA;English;;Walvis Bay · Lüderitz;20-30;;Walvis Bay dessert aussi le Botswana et la Zambie.
+Afrique centrale;Angola;AO;Português;;Luanda · Lobito · Namibe · Cabinda · Soyo;16-24;;Grand marché construction, portugais obligatoire.
+Afrique centrale;Cameroun;CM;Français;;Douala · Kribi · Limbé;14-22;;Porte d'entrée du Tchad et de la Centrafrique.
+Afrique centrale;Centrafrique;CF;Français;;via Douala;22-32;enclavé;Enclavé, logistique lourde : réserver aux lots complets.
+Afrique centrale;Congo;CG;Français;;Pointe-Noire;14-22;;Pointe-Noire bien desservi depuis l'Europe du Nord.
+Afrique centrale;Gabon;GA;Français;;Owendo (Libreville) · Port-Gentil · Mayumba;14-22;;Pouvoir d'achat élevé, tout importé.
+Afrique centrale;Guinée équatoriale;GQ;Español;;Malabo · Bata · Luba;14-22;;Espagnol langue officielle.
+Afrique centrale;RD Congo;CD;Français;;Matadi · Boma · Banana · via Dar es Salaam;16-26;;"Kinshasa via Matadi ; l'est du pays passe par Dar es Salaam ou Mombasa."
+Afrique centrale;Sao Tomé-et-Principe;ST;Português;;São Tomé;16-26;;Très petits volumes, groupage conseillé.
+Afrique centrale;Tchad;TD;Français;;via Douala · via Kribi;20-30;enclavé;Enclavé : corridor Douala-N'Djamena.
+Afrique de l'Est & océan Indien;Burundi;BI;Français;;via Dar es Salaam;30-40;enclavé;Enclavé, petits volumes.
+Afrique de l'Est & océan Indien;Comores;KM;Français;;Moroni · Mutsamudu;28-38;;Petits volumes, groupage via Maurice ou Dar.
+Afrique de l'Est & océan Indien;Djibouti;DJ;Français;;Djibouti · Doraleh;18-28;;Porte d'entrée de l'Éthiopie, plateforme logistique régionale.
+Afrique de l'Est & océan Indien;Kenya;KE;English;;Mombasa · Lamu;22-32;;Mombasa dessert l'Ouganda, le Rwanda, le Sud-Soudan et l'est de la RDC.
+Afrique de l'Est & océan Indien;La Réunion;RE;Français;;Port-Réunion;25-35;;Territoire français dans l'océan Indien.
+Afrique de l'Est & océan Indien;Madagascar;MG;Français;;Toamasina · Ehoala · Mahajanga · Antsiranana · Toliara;25-35;;Français langue des affaires, demande hôtelière et résidentielle.
+Afrique de l'Est & océan Indien;Malawi;MW;English;;via Beira · via Nacala;30-40;enclavé;Enclavé, petits volumes.
+Afrique de l'Est & océan Indien;Maurice;MU;Français;;Port-Louis;25-35;;Marché exigeant : feuilleté, trempé, verre de sécurité normé.
+Afrique de l'Est & océan Indien;Mayotte;YT;Français;;Longoni;28-38;;Territoire français, construction publique soutenue.
+Afrique de l'Est & océan Indien;Mozambique;MZ;Português;;Maputo · Beira · Nacala · Pemba · Quelimane;22-32;;Beira dessert le Zimbabwe, le Malawi et la Zambie.
+Afrique de l'Est & océan Indien;Ouganda;UG;English;;via Mombasa · via Dar es Salaam;28-38;enclavé;Enclavé : coter CFR Mombasa + transit routier Kampala.
+Afrique de l'Est & océan Indien;Rwanda;RW;Français;;via Dar es Salaam · via Mombasa;30-40;enclavé;Enclavé, construction très active à Kigali.
+Afrique de l'Est & océan Indien;Seychelles;SC;English;;Victoria;28-38;;Hôtellerie haut de gamme, petits lots.
+Afrique de l'Est & océan Indien;Somalie;SO;Soomaali;à faire relire;Berbera · Mogadiscio · Bossaso · Kismayo;20-30;;Reconstruction de Mogadiscio et Hargeisa : forte demande de float et miroir.
+Afrique de l'Est & océan Indien;Soudan;SD;العربية;;Port-Soudan;18-28;SANCTIONS à vérifier;Conflit en cours : faisabilité, sanctions et assurance à vérifier.
+Afrique de l'Est & océan Indien;Soudan du Sud;SS;English;;via Mombasa · via Port-Soudan;30-40;enclavé;Enclavé, logistique difficile.
+Afrique de l'Est & océan Indien;Tanzanie;TZ;Kiswahili;à faire relire;Dar es Salaam · Tanga · Mtwara · Zanzibar;22-32;;Hub pour la Zambie, le Burundi, le Rwanda et le Malawi.
+Afrique de l'Est & océan Indien;Zambie;ZM;English;;via Dar es Salaam · via Beira · via Durban · via Walvis Bay;30-40;enclavé;Enclavé, cuivre et construction : demande régulière.
+Afrique de l'Est & océan Indien;Zimbabwe;ZW;English;;via Beira · via Durban;28-38;enclavé;Enclavé, paiement en devises à sécuriser.
+Afrique de l'Est & océan Indien;Érythrée;ER;English;;Massaoua · Assab;20-30;;Marché fermé, volumes limités.
+Afrique de l'Est & océan Indien;Éthiopie;ET;አማርኛ;à faire relire;via Djibouti · via Berbera;24-34;enclavé;Enclavé : tout passe par Djibouti. Devises rares, sécuriser le paiement.
+Afrique de l'Ouest;Burkina Faso;BF;Français;;via Lomé · via Abidjan · via Tema · via Cotonou;16-26;enclavé;Enclavé : corridor Lomé-Ouagadougou le plus utilisé.
+Afrique de l'Ouest;Bénin;BJ;Français;;Cotonou;12-20;;Cotonou sert aussi le Niger et le nord du Nigéria.
+Afrique de l'Ouest;Cap-Vert;CV;Português;;Praia · Mindelo · Palmeira;10-18;;Hôtellerie et résidentiel : verre décoratif et miroir.
+Afrique de l'Ouest;Côte d'Ivoire;CI;Français;;Abidjan · San Pédro;12-18;;Un des marchés bâtiment les plus dynamiques d'Afrique de l'Ouest.
+Afrique de l'Ouest;Gambie;GM;English;;Banjul;12-20;;Souvent groupé avec le Sénégal.
+Afrique de l'Ouest;Ghana;GH;English;;Tema · Takoradi;12-20;;Miroiteries et façadiers à Accra et Kumasi.
+Afrique de l'Ouest;Guinée;GN;Français;;Conakry · Kamsar;12-20;;Construction soutenue à Conakry, tout est importé.
+Afrique de l'Ouest;Guinée-Bissau;GW;Português;;Bissau;14-22;;Petits volumes, portugais des affaires.
+Afrique de l'Ouest;Libéria;LR;English;;Monrovia · Buchanan · Greenville;14-22;;Marché émergent, demande de float et miroir.
+Afrique de l'Ouest;Mali;ML;Français;;via Dakar · via Abidjan · via Conakry;16-26;enclavé;Enclavé : coter en CFR port + post-acheminement routier annoncé séparément.
+Afrique de l'Ouest;Niger;NE;Français;;via Cotonou · via Lomé · via Tema;18-28;enclavé;Enclavé : corridor Cotonou-Niamey.
+Afrique de l'Ouest;Nigéria;NG;English;;Apapa (Lagos) · Tin Can Island · Lekki Deep Sea Port · Onne · Port Harcourt · Calabar · Warri;14-22;float local — viser miroir, Low-E, feuilleté, jumbo;Premier marché de la région. Vérifier Form M / PAAR et la solvabilité.
+Afrique de l'Ouest;Sierra Leone;SL;English;;Freetown · Pepel;14-22;;Petit marché, peu de concurrence à l'import.
+Afrique de l'Ouest;Sénégal;SN;Français;;Dakar · Ndayane;10-16;;Plateforme pour le Mali et la Mauritanie. Chantiers immobiliers Dakar/Diamniadio.
+Afrique de l'Ouest;Togo;TG;Français;;Lomé;12-20;;Hub de transbordement régional, dessert le Burkina et le Niger.
+Afrique du Nord;Algérie;DZ;Français;;Alger · Oran · Béjaïa · Skikda · Annaba · Mostaganem · Arzew · Djen Djen · Ténès · Ghazaouet;7-13;float local — viser miroir, Low-E, feuilleté, jumbo;Import encadré (domiciliation bancaire, licences) : valider les autorisations avec l'acheteur avant cotation.
+Afrique du Nord;Libye;LY;العربية;;Misrata · Tripoli · Benghazi · Khoms · Zouara · Tobrouk · Derna · Ras Lanouf;8-16;;Reconstruction : forte demande de float et de miroir. Paiement à sécuriser.
+Afrique du Nord;Maroc;MA;Français;;Casablanca · Tanger Med · Agadir · Jorf Lasfar · Mohammedia · Nador · Safi · Laâyoune · Dakhla;6-12;;Menuiserie alu et miroiterie très actives. Français langue des affaires.
+Afrique du Nord;Mauritanie;MR;Français;;Nouakchott · Nouadhibou;10-16;;Marché petit mais peu concurrencé, tout est importé.
+Afrique du Nord;Tunisie;TN;Français;;Radès · Sfax · Bizerte · Sousse · Gabès · La Goulette · Zarzis;7-13;;Nombreux transformateurs et exportateurs de menuiserie.
+Afrique du Nord;Égypte;EG;العربية;;Alexandrie · Dekheila · Damiette · Port-Saïd Est · Port-Saïd Ouest · Sokhna · Suez · Adabiya · Safaga · El Arich;10-16;float local — viser miroir, Low-E, feuilleté, jumbo;Production locale importante : positionner Low-E, feuilleté et formats jumbo.
+Amérique centrale;Belize;BZ;English;;Belize City · Big Creek;18-28;;Très petits volumes.
+Amérique centrale;Costa Rica;CR;Español;;Moín (Limón) · Puerto Limón · Caldera;16-26;;Marché structuré, exigences de qualité.
+Amérique centrale;Guatemala;GT;Español;;Puerto Quetzal · Puerto Barrios · Santo Tomás de Castilla;18-28;;Construction résidentielle et commerciale en hausse.
+Amérique centrale;Honduras;HN;Español;;Puerto Cortés · Puerto Castilla · San Lorenzo · Roatán;18-28;;Puerto Cortés dessert aussi le Salvador et le Nicaragua.
+Amérique centrale;Nicaragua;NI;Español;;Corinto · Puerto Cabezas · Bluefields;18-28;;Volumes modestes.
+Amérique centrale;Panama;PA;Español;;Colón (Manzanillo) · Cristóbal · Balboa · PSA Rodman · Zone franche de Colón;14-22;;Zone franche de Colón : plateforme de réexport vers toute la région.
+Amérique centrale;Salvador;SV;Español;;Acajutla · La Unión;18-28;;Petit marché, importations régulières.
+Amérique du Nord;Canada;CA;English;;Montréal · Halifax · Vancouver · Prince Rupert · Saint-Jean (Nouveau-Brunswick) · Québec · Hamilton (fluvial) · Toronto (fluvial) · Thunder Bay;10-18;float local — viser miroir, Low-E, feuilleté, jumbo;Québec : prospection en français.
+Amérique du Nord;Mexique;MX;Español;;Veracruz · Altamira · Manzanillo · Lázaro Cárdenas · Ensenada · Progreso · Tampico · Coatzacoalcos · Mazatlán · Guaymas;16-26;float local — viser miroir, Low-E, feuilleté, jumbo;Production locale (Vitro) : cibler les transformateurs et les manques.
+Amérique du Nord;États-Unis;US;English;;New York/New Jersey · Houston · Savannah · Los Angeles · Long Beach · Charleston · Norfolk · Baltimore · Miami · Port Everglades · Jacksonville · Oakland · Seattle · Tacoma · La Nouvelle-Orléans · Mobile · Philadelphie · Boston · Wilmington (NC) · Galveston · Corpus Christi · Portland (Oregon) · Honolulu · San Juan (Porto Rico);12-20;float local — viser miroir, Low-E, feuilleté, jumbo;Marché énorme mais float local : viser le miroir, les formats jumbo et les niches déco.
+Amérique du Sud;Argentine;AR;Español;;Buenos Aires · Zárate · Rosario · Bahía Blanca · La Plata · Campana · Ushuaia;22-32;float local — viser miroir, Low-E, feuilleté, jumbo;Contrôle des changes : vérifier les autorisations d'import (SIRA).
+Amérique du Sud;Bolivie;BO;Español;;via Arica · via Iquique · via Matarani;25-35;enclavé;Enclavé : via les ports chiliens.
+Amérique du Sud;Brésil;BR;Português;;Santos · Itajaí · Suape · Rio de Janeiro · Paranaguá · Rio Grande · Navegantes · Salvador · Vitória · Itaguaí · São Francisco do Sul · Itapoá · Pecém · Fortaleza · Manaus · Belém;18-28;float local — viser miroir, Low-E, feuilleté, jumbo;Production locale : viser miroir, extra-clair et verres décoratifs.
+Amérique du Sud;Chili;CL;Español;;San Antonio · Valparaíso · Coronel · Lirquén · Iquique · Antofagasta · Arica · Talcahuano · Puerto Montt;22-32;;Normes sismiques : feuilleté et trempé recherchés.
+Amérique du Sud;Colombie;CO;Español;;Carthagène · Barranquilla · Buenaventura · Santa Marta · Turbo;16-26;float local — viser miroir, Low-E, feuilleté, jumbo;Production locale (Tecnoglass) : viser les transformateurs indépendants.
+Amérique du Sud;Guyana;GY;English;;Georgetown;18-28;;Boom pétrolier : construction en très forte hausse.
+Amérique du Sud;Guyane française;GF;Français;;Dégrad des Cannes;16-26;;Territoire français, construction publique.
+Amérique du Sud;Paraguay;PY;Español;;via Montevideo · via Buenos Aires · Asunción (fluvial) · Villeta (fluvial);28-38;enclavé;Enclavé, fluvial depuis Montevideo.
+Amérique du Sud;Pérou;PE;Español;;Callao · Paita · Matarani · Salaverry · Chancay · Ilo;20-30;float local — viser miroir, Low-E, feuilleté, jumbo;Marché en croissance, Lima très actif.
+Amérique du Sud;Suriname;SR;Nederlands;;Paramaribo;18-28;;Néerlandais langue officielle : atout direct depuis la Belgique.
+Amérique du Sud;Uruguay;UY;Español;;Montevideo · Nueva Palmira;20-30;;Montevideo dessert aussi le Paraguay.
+Amérique du Sud;Venezuela;VE;Español;;Puerto Cabello · La Guaira · Maracaibo · Guanta;18-28;SANCTIONS à vérifier;Sanctions et contraintes bancaires : vérifier avant toute offre.
+Amérique du Sud;Équateur;EC;Español;;Guayaquil · Posorja · Manta · Puerto Bolívar · Esmeraldas;20-30;;Construction côtière et andine.
+Asie centrale;Kazakhstan;KZ;Русский;;Aktaou · Kuryk · via Poti · rail depuis l'Europe;25-40;enclavé;Enclavé : comparer rail via la Chine/Europe et maritime via Poti.
+Asie centrale;Kirghizistan;KG;Русский;;via Poti · rail depuis l'Europe;35-50;enclavé;Enclavé, petits volumes.
+Asie centrale;Mongolie;MN;Русский;;via Tianjin · rail transsibérien;35-50;enclavé;Enclavé, transit par la Chine ou la Russie.
+Asie centrale;Ouzbékistan;UZ;Русский;;via Poti · via Bandar Abbas · rail depuis l'Europe;30-45;enclavé;Enclavé, construction très active à Tachkent.
+Asie centrale;Tadjikistan;TJ;Русский;;via Poti · via Karachi · rail depuis l'Europe;35-50;enclavé;Enclavé, logistique difficile.
+Asie centrale;Turkménistan;TM;Русский;;Turkmenbachi · via Bakou;30-45;enclavé;Marché fermé, procédures lourdes.
+Asie du Sud;Afghanistan;AF;فارسی;à faire relire;via Karachi · via Bandar Abbas · via Chabahar;35-50;SANCTIONS à vérifier · enclavé;Enclavé, sanctions et faisabilité à vérifier.
+Asie du Sud;Bangladesh;BD;বাংলা;à faire relire;Chattogram · Mongla · Payra;24-34;float local — viser miroir, Low-E, feuilleté, jumbo;Construction en forte croissance, sensible au prix.
+Asie du Sud;Inde;IN;हिन्दी;à faire relire;Nhava Sheva (JNPT) · Mundra · Chennai · Haldia · Kolkata · Kandla (Deendayal) · Cochin · Tuticorin · Visakhapatnam · Krishnapatnam · Kattupalli · Pipavav · Hazira · Kamarajar (Ennore) · Mormugao · Paradip · New Mangalore · Vizhinjam;20-28;float local — viser miroir, Low-E, feuilleté, jumbo;Gros producteur : ne viser que les niches (miroir extra-clair, feuilleté spécial, surplus européens).
+Asie du Sud;Maldives;MV;English;;Malé;24-34;;Hôtellerie haut de gamme : feuilleté, trempé, grands formats.
+Asie du Sud;Népal;NP;English;;via Kolkata · via Haldia · via Visakhapatnam;30-40;enclavé;Enclavé, via l'Inde.
+Asie du Sud;Pakistan;PK;اردو;à faire relire;Karachi · Port Qasim · Gwadar;20-30;float local — viser miroir, Low-E, feuilleté, jumbo;Menuiserie et miroiterie actives à Lahore et Karachi.
+Asie du Sud;Sri Lanka;LK;English;;Colombo · Hambantota · Trincomalee · Galle;20-30;;Colombo : hub de transbordement, marché hôtelier.
+Asie du Sud-Est;Birmanie;MM;English;;Yangon · Thilawa;30-40;SANCTIONS à vérifier;Sanctions partielles : vérification préalable nécessaire.
+Asie du Sud-Est;Brunei;BN;English;;Muara;30-40;;Petits volumes, marché solvable.
+Asie du Sud-Est;Cambodge;KH;English;;Sihanoukville · Phnom Penh (fluvial);30-40;;Construction en croissance, tout importé.
+Asie du Sud-Est;Indonésie;ID;Bahasa Indonesia;;Tanjung Priok (Jakarta) · Tanjung Perak (Surabaya) · Belawan · Semarang · Makassar · Panjang · Balikpapan · Batam · Bitung;28-38;float local — viser miroir, Low-E, feuilleté, jumbo;Grand marché, production locale : viser miroir et verres techniques.
+Asie du Sud-Est;Malaisie;MY;Bahasa Melayu;à faire relire;Port Klang · Tanjung Pelepas · Penang · Johor · Kuantan · Bintulu · Kota Kinabalu · Kuching;26-36;float local — viser miroir, Low-E, feuilleté, jumbo;Hub régional, float local abondant.
+Asie du Sud-Est;Philippines;PH;English;;Manille Nord · Manille Sud · Batangas · Subic · Cebu · Davao · Cagayan de Oro · General Santos · Iloilo;30-40;;Peu de float local : import massif, bon potentiel.
+Asie du Sud-Est;Singapour;SG;English;;Singapour (PSA) · Tuas;26-36;;Plateforme de négoce et de réexport régionale.
+Asie du Sud-Est;Thaïlande;TH;ไทย;à faire relire;Laem Chabang · Bangkok (Klong Toey) · Map Ta Phut · Songkhla · Sattahip;28-38;float local — viser miroir, Low-E, feuilleté, jumbo;Marché hôtelier et résidentiel, sensible aux certifications.
+Asie du Sud-Est;Viêt Nam;VN;Tiếng Việt;;Hai Phong · Cat Lai (HCMV) · Cai Mep · Da Nang · Quy Nhon · Cua Lo;28-38;float local — viser miroir, Low-E, feuilleté, jumbo;Production locale forte : viser les verres spéciaux européens.
+Caraïbes;Barbade;BB;English;;Bridgetown;16-26;;Hôtellerie, petits lots.
+Caraïbes;Cuba;CU;Español;;Mariel · La Havane · Santiago de Cuba · Cienfuegos;16-26;SANCTIONS à vérifier;Restrictions américaines : vérifier les incidences bancaires avant de coter.
+Caraïbes;Guadeloupe;GP;Français;;Pointe-à-Pitre (Jarry);12-20;;Territoire français : pas de droits de douane UE.
+Caraïbes;Haïti;HT;Français;;Port-au-Prince · Cap-Haïtien · Saint-Marc;16-26;;Reconstruction, paiement à sécuriser.
+Caraïbes;Jamaïque;JM;English;;Kingston · Montego Bay;14-24;;Kingston : hub de transbordement caribéen.
+Caraïbes;Martinique;MQ;Français;;Fort-de-France;12-20;;Territoire français : circuit simplifié.
+Caraïbes;République dominicaine;DO;Español;;Caucedo · Haina · Santo Domingo · Puerto Plata · Boca Chica;14-24;;Hôtellerie et résidentiel : très bon potentiel.
+Caraïbes;Trinité-et-Tobago;TT;English;;Port of Spain · Point Lisas · Scarborough;14-24;;Industrie et résidentiel, marché solvable.
+Caucase;Arménie;AM;Հայերեն;à faire relire;via Poti · via Batoumi;20-30;enclavé;Enclavé : CFR Poti + camion vers Erevan.
+Caucase;Azerbaïdjan;AZ;Azərbaycan;à faire relire;Bakou (Alat) · via Poti;20-30;enclavé;Construction soutenue à Bakou, transit par la Géorgie.
+Caucase;Géorgie;GE;ქართული;à faire relire;Poti · Batoumi · Koulevi · Anaklia;16-24;;Poti est la porte d'entrée de l'Arménie, de l'Azerbaïdjan et de l'Asie centrale.
+Europe de l'Est, Balkans & mer Noire;Albanie;AL;Shqip;;Durrës · Vlora · Shëngjin · Saranda;10-16;;Construction en forte hausse à Tirana et sur la côte.
+Europe de l'Est, Balkans & mer Noire;Biélorussie;BY;Русский;;via Klaipėda · via Gdańsk;12-20;SANCTIONS à vérifier · enclavé;Sanctions UE : vérification juridique obligatoire.
+Europe de l'Est, Balkans & mer Noire;Bosnie-Herzégovine;BA;Hrvatski;;Ploče · via Rijeka;10-18;;Transformation et menuiserie exportatrices.
+Europe de l'Est, Balkans & mer Noire;Bulgarie;BG;Български;;Varna · Bourgas · Roussé · Lom;12-18;;Transformateurs nombreux, proximité avec la Turquie.
+Europe de l'Est, Balkans & mer Noire;Chypre;CY;Ελληνικά;;Limassol · Larnaca · Vassiliko;10-16;;Résidentiel et hôtelier, tout importé.
+Europe de l'Est, Balkans & mer Noire;Croatie;HR;Hrvatski;;Rijeka · Ploče · Split · Zadar · Šibenik · Pula · Dubrovnik;8-14;;Rijeka dessert aussi la Bosnie, la Serbie et la Hongrie.
+Europe de l'Est, Balkans & mer Noire;Grèce;GR;Ελληνικά;;Le Pirée · Thessalonique · Volos · Patras · Héraklion · Igoumenitsa · Kavala · Elefsina · Lavrio · Astakos;8-14;;Transformateurs et hôtellerie, forte saisonnalité.
+Europe de l'Est, Balkans & mer Noire;Hongrie;HU;Magyar;;via Koper · via Constanța · Budapest (fluvial) · route depuis l'Europe du Nord;3-8;enclavé;Enclavé : souvent plus simple en camion direct depuis Anvers.
+Europe de l'Est, Balkans & mer Noire;Kosovo;XK;Shqip;;via Durrës · via Thessalonique · via Bar;12-20;enclavé;Enclavé, menuiserie alu/PVC active.
+Europe de l'Est, Balkans & mer Noire;Macédoine du Nord;MK;Македонски;à faire relire;via Thessalonique · via Durrës;12-20;enclavé;Enclavé : via Thessalonique ou Durrës.
+Europe de l'Est, Balkans & mer Noire;Malte;MT;English;;Marsaxlokk · La Valette;8-14;;Petits lots, hub de transbordement.
+Europe de l'Est, Balkans & mer Noire;Moldavie;MD;Română;;Giurgiulești · via Constanța;14-20;enclavé;Enclavé : CFR Constanța + camion. Roumain langue des affaires.
+Europe de l'Est, Balkans & mer Noire;Monténégro;ME;Srpski;;Bar;10-18;;Hôtellerie et résidentiel côtier.
+Europe de l'Est, Balkans & mer Noire;Pologne;PL;Polski;;Gdańsk · Gdynia · Szczecin · Świnoujście · Police · Elbląg;4-9;float local — viser miroir, Low-E, feuilleté, jumbo;Gros transformateurs exportateurs : cibler les références manquantes et les surplus.
+Europe de l'Est, Balkans & mer Noire;Roumanie;RO;Română;;Constanța · Midia · Mangalia · Galați · Brăila · Tulcea;12-18;;Marché prioritaire : menuiserie PVC/alu et double vitrage très développés, Constanța dessert toute la région.
+Europe de l'Est, Balkans & mer Noire;Russie;RU;Русский;;Saint-Pétersbourg · Ust-Luga · Novorossiisk · Kaliningrad · Taganrog · Rostov-sur-le-Don · Arkhangelsk · Mourmansk · Vladivostok · Vostotchny;10-20;SANCTIONS à vérifier · float local — viser miroir, Low-E, feuilleté, jumbo;Sanctions UE : vérification juridique obligatoire avant toute offre.
+Europe de l'Est, Balkans & mer Noire;Serbie;RS;Srpski;;via Constanța · via Koper · via Thessalonique · Belgrade (fluvial) · Novi Sad (fluvial);12-20;enclavé;Enclavé : comparer Koper et Constanța selon la destination finale.
+Europe de l'Est, Balkans & mer Noire;Slovaquie;SK;Slovenčina;;via Koper · Bratislava (fluvial) · route depuis l'Europe du Nord;3-8;enclavé;Enclavé, industrie menuiserie développée.
+Europe de l'Est, Balkans & mer Noire;Slovénie;SI;Slovenščina;;Koper;8-14;;Koper : porte d'entrée de l'Autriche, la Hongrie et la Serbie.
+Europe de l'Est, Balkans & mer Noire;Tchéquie;CZ;Čeština;;via Hambourg · via Koper · route depuis l'Europe du Nord;3-8;float local — viser miroir, Low-E, feuilleté, jumbo · enclavé;Enclavé : camion direct souvent plus compétitif que le conteneur.
+Europe de l'Est, Balkans & mer Noire;Ukraine;UA;Українська;;Odessa · Tchornomorsk · Pivdennyi · Izmaïl · Reni · Mykolaïv · Kherson;14-22;SANCTIONS à vérifier;Guerre en cours : assurance, faisabilité et itinéraire (souvent via Constanța/Gdańsk) à valider.
+Europe de l'Ouest & du Sud;Espagne;ES;Español;;Valence · Barcelone · Algésiras · Bilbao · Las Palmas · Santa Cruz de Tenerife · Vigo · Castellón · Malaga · Séville · Tarragone · Alicante · Santander · Gijón · Cadix · Carthagène · Huelva · Palma de Majorque;5-10;float local — viser miroir, Low-E, feuilleté, jumbo;Grande base de transformateurs : jouer sur les manques et les délais.
+Europe de l'Ouest & du Sud;Irlande;IE;English;;Dublin · Cork · Waterford · Shannon Foynes · Rosslare;3-8;;Construction résidentielle soutenue.
+Europe de l'Ouest & du Sud;Italie;IT;Italiano;;Gênes · Trieste · Gioia Tauro · La Spezia · Livourne · Naples · Salerne · Venise · Ravenne · Ancône · Civitavecchia · Bari · Tarente · Savone-Vado · Cagliari · Catane · Palerme · Marghera;6-12;float local — viser miroir, Low-E, feuilleté, jumbo;Miroiterie et décoration : miroir et verres teintés très demandés.
+Europe de l'Ouest & du Sud;Portugal;PT;Português;;Leixões · Lisbonne · Sines · Setúbal · Aveiro · Figueira da Foz · Funchal · Ponta Delgada;6-12;;Transformateurs exportateurs, marché rénovation actif.
+Europe de l'Ouest & du Sud;Royaume-Uni;GB;English;;Felixstowe · Southampton · London Gateway · Liverpool · Tilbury · Immingham · Teesport · Hull · Bristol · Grangemouth · Belfast · Greenock;3-8;float local — viser miroir, Low-E, feuilleté, jumbo;Post-Brexit : douane et UKCA à anticiper. Inloader possible aussi.
+Europe du Nord & Baltique;Danemark;DK;Dansk;à faire relire;Aarhus · Copenhague · Esbjerg · Fredericia · Aalborg · Kalundborg;3-8;;Livraison camion souvent préférable au conteneur.
+Europe du Nord & Baltique;Estonie;EE;Eesti;à faire relire;Tallinn (Muuga) · Paldiski · Sillamäe;5-10;;Transformateurs orientés export scandinave.
+Europe du Nord & Baltique;Finlande;FI;Suomi;à faire relire;Helsinki (Vuosaari) · HaminaKotka · Rauma · Turku · Pori · Oulu · Kokkola;5-12;;Double vitrage et triple vitrage, exigences Low-E fortes.
+Europe du Nord & Baltique;Islande;IS;English;;Reykjavik · Hafnarfjörður · Akureyri · Reyðarfjörður;8-14;;Tout importé, lots complets par conteneur.
+Europe du Nord & Baltique;Lettonie;LV;Latviešu;à faire relire;Riga · Ventspils · Liepāja;5-10;;Marché rénovation et menuiserie.
+Europe du Nord & Baltique;Lituanie;LT;Lietuvių;à faire relire;Klaipėda;5-10;;Klaipėda dessert aussi la Biélorussie et le Kazakhstan.
+Europe du Nord & Baltique;Norvège;NO;Norsk;à faire relire;Oslo · Bergen · Stavanger · Trondheim · Kristiansand · Ålesund · Larvik;4-10;;Hors UE : prévoir les formalités douanières.
+Europe du Nord & Baltique;Suède;SE;Svenska;à faire relire;Göteborg · Stockholm · Helsingborg · Malmö · Norrköping · Gävle · Luleå;4-10;;Marché normé, demande de Low-E et feuilleté.
+Extrême-Orient;Chine;CN;中文;;Shanghai · Ningbo-Zhoushan · Shenzhen · Guangzhou · Qingdao · Tianjin · Xiamen · Dalian · Lianyungang · Yingkou · Fuzhou · Nanjing · Zhanjiang · Rizhao · Yantai · Shantou · Haikou;30-40;float local — viser miroir, Low-E, feuilleté, jumbo;Premier producteur mondial : uniquement niches haut de gamme européennes.
+Extrême-Orient;Corée du Sud;KR;한국어;;Busan · Incheon · Gwangyang · Ulsan · Pyeongtaek · Mokpo;30-40;float local — viser miroir, Low-E, feuilleté, jumbo;Marché exigeant, certifications strictes.
+Extrême-Orient;Hong Kong;HK;中文;;Hong Kong (Kwai Tsing);30-40;;Négoce et réexport, façades haut de gamme.
+Extrême-Orient;Japon;JP;日本語;;Yokohama · Kobe · Nagoya · Osaka · Tokyo · Hakata · Shimizu · Kitakyushu (Moji) · Sendai · Niigata · Naha;30-42;float local — viser miroir, Low-E, feuilleté, jumbo;"Qualité et régularité avant le prix ; cycle de décision long."
+Extrême-Orient;Taïwan;TW;中文;;Kaohsiung · Taichung · Keelung · Taipei · Hualien;30-40;float local — viser miroir, Low-E, feuilleté, jumbo;Marché technique, volumes moyens.
+Moyen-Orient;Arabie saoudite;SA;العربية;;Djeddah · King Abdulaziz (Dammam) · King Abdullah Port · Jubail · Yanbu · Jizan · Ras Al Khair · Duba;18-26;float local — viser miroir, Low-E, feuilleté, jumbo;Gros marché façade et menuiserie. Certificat de conformité SASO/SABER obligatoire — à anticiper avant expédition.
+Moyen-Orient;Bahreïn;BH;العربية;;Khalifa Bin Salman · Mina Salman · Sitra;18-26;;Petits volumes réguliers, souvent groupés avec l'Arabie saoudite.
+Moyen-Orient;Irak;IQ;العربية;;Umm Qasr Nord · Umm Qasr Sud · Khor Al Zubair · Al Maqal (Bassorah) · Al Faw;20-28;;Forte demande reconstruction. Prévoir paiement sécurisé (L/C ou avance).
+Moyen-Orient;Iran;IR;فارسی;à faire relire;Bandar Abbas (Shahid Rajaee) · Bouchehr · Bandar Imam Khomeini · Chabahar · Bandar Anzali · Khorramshahr;20-30;SANCTIONS à vérifier · float local — viser miroir, Low-E, feuilleté, jumbo;Sanctions lourdes UE/US : ne pas démarcher sans validation juridique préalable.
+Moyen-Orient;Israël;IL;עברית;à faire relire;Haïfa · Ashdod · Eilat · Bay Port (Haïfa);12-20;;Marché transformation et double vitrage développé.
+Moyen-Orient;Jordanie;JO;العربية;;Aqaba · Aqaba Container Terminal;16-24;;Aqaba dessert aussi le sud de la Syrie et une partie de l'Irak.
+Moyen-Orient;Koweït;KW;العربية;;Shuwaikh · Shuaiba · Doha Port (Koweït) · Mubarak Al Kabeer;18-26;;Miroiteries et menuisiers alu nombreux, volumes réguliers.
+Moyen-Orient;Liban;LB;العربية;;Beyrouth · Tripoli (Liban) · Saïda · Tyr;12-18;;Reconstruction du port et du bâti. Vérifier la solvabilité et privilégier le prépaiement.
+Moyen-Orient;Oman;OM;العربية;;Sohar · Salalah · Duqm · Sultan Qaboos (Mascate) · Khasab;16-24;;Salalah très bien desservi, bons transbordements.
+Moyen-Orient;Qatar;QA;العربية;;Hamad Port (Doha) · Doha Port · Mesaieed · Ruwais;18-26;;Marché chantier soutenu, pas de float local : tout est importé.
+Moyen-Orient;Syrie;SY;العربية;;Lattaquié · Tartous · Banias;12-20;SANCTIONS à vérifier;Régime de sanctions et de contrôles à l'export : vérification obligatoire avant toute offre.
+Moyen-Orient;Turquie;TR;Türkçe;;Mersin · Izmir (Alsancak) · Ambarlı (Istanbul) · Gemlik · Asyaport (Tekirdağ) · Evyap · Aliağa · Iskenderun · Haydarpaşa · Antalya · Bandırma · Derince · Samsun · Trabzon · Zonguldak · Çeşme;10-16;float local — viser miroir, Low-E, feuilleté, jumbo;Gros producteur float : cibler les transformateurs sur les références absentes du marché local et les surplus.
+Moyen-Orient;Yémen;YE;العربية;;Aden · Hodeïda · Mukalla · Mokha · Nishtun;20-30;SANCTIONS à vérifier;Zone de conflit : assurance, sanctions et faisabilité à vérifier au cas par cas.
+Moyen-Orient;Émirats arabes unis;AE;العربية;;Jebel Ali (Dubaï) · Port Rashid · Khalifa Port (Abu Dhabi) · Zayed Port · Khor Fakkan · Port Khalid (Sharjah) · Hamriyah · Fujaïrah · Ajman · Saqr Port (Ras Al Khaimah) · Umm Al Quwain;16-24;float local — viser miroir, Low-E, feuilleté, jumbo;Hub de réexport vers tout le Golfe, l'Iran et l'Afrique de l'Est. Float local : viser miroir, Low-E, feuilleté, teintés.
+Océanie;Australie;AU;English;;Sydney (Port Botany) · Melbourne · Brisbane · Fremantle · Adélaïde · Port Kembla · Townsville · Darwin · Newcastle;32-45;float local — viser miroir, Low-E, feuilleté, jumbo;Normes AS/NZS strictes : feuilleté et trempé certifiés exigés.
+Océanie;Fidji;FJ;English;;Suva · Lautoka;38-50;;Hôtellerie, lots complets.
+Océanie;Nouvelle-Calédonie;NC;Français;;Nouméa;35-48;;Territoire français : circuit douanier simplifié depuis l'UE.
+Océanie;Nouvelle-Zélande;NZ;English;;Auckland · Tauranga · Lyttelton · Napier · Wellington · Port Chalmers · Nelson · Timaru;35-48;;Tout importé, normes AS/NZS.
+Océanie;Papouasie-Nouvelle-Guinée;PG;English;;Lae · Port Moresby · Rabaul · Madang;35-48;;Construction minière et publique.
+Océanie;Polynésie française;PF;Français;;Papeete;38-50;;Territoire français, hôtellerie et résidentiel.
