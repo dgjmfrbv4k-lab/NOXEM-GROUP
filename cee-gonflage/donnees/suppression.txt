@@ -24,3 +24,6 @@ dgs@mairie-houplin-ancoisne.fr
 contact@ville-pouguesleseaux.fr
 mairie@mairie-sarzeau.fr
 mairie@mairie-charlevillemezieres.fr
+mairie@mairie-narbonne.fr
+mairie@ville-gieres.fr
+mairie@ville-penvenan.fr   # remplacee par accueil.mairie@ville-penvenan.fr
