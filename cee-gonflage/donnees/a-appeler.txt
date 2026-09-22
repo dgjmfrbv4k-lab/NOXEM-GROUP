@@ -11,3 +11,5 @@ mairie@ville-mehun-sur-yevre.fr # message bloque
 mairie@ville-eybens.fr          # message bloque
 mairie@ville-riedisheim.com     # message bloque
 urbanisme@mairie-saintquayportrieux.fr # serveur distant mal configure
+moyens.techniques@mairie-meyzieu.fr # message bloque
+cabinet@mairieloches.com            # message bloque

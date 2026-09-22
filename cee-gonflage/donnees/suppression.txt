@@ -27,3 +27,6 @@ mairie@mairie-charlevillemezieres.fr
 mairie@mairie-narbonne.fr
 mairie@ville-gieres.fr
 mairie@ville-penvenan.fr   # remplacee par accueil.mairie@ville-penvenan.fr
+moncourrier@mairie-sarreguemines.fr
+courrier@ville-sainte-adresse.fr
+info@mairie-lumio.fr
