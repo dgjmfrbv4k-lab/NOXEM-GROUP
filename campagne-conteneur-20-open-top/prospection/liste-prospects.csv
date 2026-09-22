@@ -1,4 +1,4 @@
-﻿pays;code;ville;societe;activite;site;email repere;telephone repere;note commerciale;email a completer
+﻿pays;code;ville;societe;activite;site;email repere;telephone repere;note commerciale;statut
 Algérie;DZ;Annaba;SARL Miroiterie El-Kods;Miroiterie;;;;Import encadré : valider la domiciliation bancaire.;
 Arabie saoudite;SA;Djeddah (Bani Malik);Abu Sarhad Glass Shaping Factory;Trempé, façade, feuilleté pare-balles;abusarhadhc.sa;;;Groupe Abu Sarhad. Prévoir la conformité SASO/SABER.;
 Arabie saoudite;SA;Riyad;Al Ashoury Glass;Département verre depuis 1988, 5 agences;alashoury-glass.com;;;Réseau national, profil négociant-transformateur.;
@@ -20,20 +20,20 @@ Côte d'Ivoire;CI;Abidjan;SIVIMI — Sté Ivoirienne de Vitrerie et Miroiterie;V
 Côte d'Ivoire;CI;Abidjan (Koumassi);Vitrolux;Menuiserie aluminium et miroiterie;vitrolux-ci.com;;;Fabricant-installateur : consommateur régulier.;
 Ghana;GH;Accra (Oyarifa);Brittin Industries;Trempé, feuilleté, isolant, simple vitrage;brittinindustries.com;;;Usine de transformation, port de Tema.;
 Ghana;GH;Accra;Glass Experts Ghana;Trempé sans cadre, vitrines, dépoli, garde-corps;myglassexperts.com;;;Poseur-transformateur.;
-Ghana;GH;Accra;Sofaamy Glass Processing Ghana Ltd;Usine moderne : verre, profilés alu, panneaux composites, garde-corps;glass.sofaamy.com;;;Dessert Ghana, Côte d'Ivoire, Burkina, Togo, Bénin et Nigéria : six marchés par un seul contact.;
+Ghana;GH;Accra;Sofaamy Glass Processing Ghana Ltd;Usine moderne : verre, profilés alu, panneaux composites, garde-corps;glass.sofaamy.com;info@sofaamy.com;+233 24 795 8357;Dessert Ghana, Côte d'Ivoire, Burkina, Togo, Bénin et Nigéria : six marchés par un seul contact.;prete a envoyer
 Guadeloupe;GP;Baie-Mahault (ZI Jarry);Miroiterie des Antilles;Miroiterie, SAS, 288 Impasse des Palétuviers;;;;Sur la zone portuaire de Jarry, à côté du port.;
 Guadeloupe;GP;—;Univers du Verre;Vitrerie et miroiterie, Guadeloupe, Martinique, Saint-Martin;universduverre.fr;;;Couvre plusieurs îles : volume mutualisé.;
 Irak;IQ;Erbil;Arturaya Glass Company;Importateur et installateur, 2014;arturaya.com;;;IMPORTATEUR : se fournit déjà à l'étranger.;
 Irak;IQ;—;Rozhano Tempered Glass & Aluminium;Trempe et aluminium, 2006, groupe Dijla (1978);rozhano.com;;;Groupe établi. Paiement à sécuriser, port d'Umm Qasr.;
-Jordanie;JO;Amman (Abu Alanda);Horizon Glass Processing Co.;Transformation, plus de 30 ans;horizonglasspro.com;;;Ancienneté et volume. Port d'Aqaba.;
-Jordanie;JO;Amman;Lana International Est.;"Matériaux de construction depuis 1990 ; sert Jordanie, Palestine, Syrie, Irak, Liban, EAU, Arabie, Qatar, Bahreïn, Koweït, Égypte, Algérie";lanaest.com;;;NÉGOCIANT RÉGIONAL sur 12 pays : un seul contact, douze marchés.;
+Jordanie;JO;Amman (Abu Alanda);Horizon Glass Processing Co.;Transformation, plus de 30 ans;horizonglasspro.com;info@horizon-jor.com;+962 6 4636193;Ancienneté et volume. Port d'Aqaba.;prete a envoyer
+Jordanie;JO;Amman;Lana International Est.;"Matériaux de construction depuis 1990 ; sert Jordanie, Palestine, Syrie, Irak, Liban, EAU, Arabie, Qatar, Bahreïn, Koweït, Égypte, Algérie";lanaest.com;info@lanaest.com;+962 6 5810 487;NÉGOCIANT RÉGIONAL sur 12 pays : un seul contact, douze marchés.;prete a envoyer
 Kenya;KE;Nairobi (Industrial Area);Empire Glass Industries Ltd;Transformation de float, créée en 2015;;;;Jeune et en croissance : bon moment pour entrer.;
 Kenya;KE;Nairobi;Essajee Amijee & Sons Ltd;Fabricant et distributeur, 80+ références bâtiment;;;;Distributeur : cible conteneur complet.;
-Kenya;KE;Nairobi;Hebatullah Bros Ltd;Transformation verre, uPVC et aluminium, depuis 1930;hebatullah.com;;;Maison ancienne, gamme large.;
+Kenya;KE;Nairobi;Hebatullah Bros Ltd;Transformation verre, uPVC et aluminium, depuis 1930;hebatullah.com;sales@hebatullah.com;+254 722 786 606;Maison ancienne, gamme large.;prete a envoyer
 Kenya;KE;Nairobi;Mufaddal Glass Distributors Ltd;Distributeur, four de trempe jusqu'à 2440 × 3660 mm;mufaddalglass.com;;;Four au format 2440 × 3660 — exactement un de vos formats.;
 Kenya;KE;Nairobi (Athi River);Titan Glass Ltd;Double vitrage, trempé, feuilleté pour l'Afrique de l'Est;titanglass.co.ke;;+254 700 178 144;Transformateur régional.;
 La Réunion;RE;—;SOREMIR — Sté Réunionnaise de Miroiterie;Miroiterie;;;;À qualifier.;
-Maroc;MA;Mohammedia (ZI);Arkiglass;Transformation du verre architectural, verre de sécurité;arkiglass.ma;;;Se présente en leader marocain. Proche de Casablanca.;
+Maroc;MA;Mohammedia (ZI);Arkiglass;Transformation du verre architectural, verre de sécurité;arkiglass.ma;info.contact@arkiglass.com;+212 5 23 31 00 00;Se présente en leader marocain. Proche de Casablanca.;ENVOYE
 Maroc;MA;Casablanca;Choix Verre (ex-Miroiterie la Corniche);Transformation et pose, familiale depuis 1995;choixverre.ma;;;Ancienneté : relation durable possible.;
 Maroc;MA;Casablanca;El Wifaq Verre;Trempé, feuilleté, double vitrage, miroirs;elwifaqverre.ma;;;Distribue dans tout le Maroc.;
 Maroc;MA;—;Inalver;Vitrerie, miroiterie, aluminium, façonnage;inalver.com;;;Transformateur complet.;
@@ -53,8 +53,8 @@ Qatar;QA;—;Bullseye Zoujaj;Verre bâtiment;bullseyezoujaj.com;;;À qualifier.;
 Qatar;QA;—;Calisto Glass;Verre bâtiment;calistoglass.com;;;À qualifier.;
 Qatar;QA;Doha (New Industrial City);Dallas Glass;Usine de transformation de 7 400 m²;dallasqatar.com;;;Outil industriel conséquent.;
 Qatar;QA;Doha;Kyda International;Fourniture de verre, Doha, Lusail, Al Wakra;kyda.qa;;;À qualifier.;
-Qatar;QA;Doha (New Industrial Area);Panorama Glass Factory;Stockiste, importateur, exportateur, grossiste, depuis 2015;panoramaglass.net;;;IMPORTATEUR-GROSSISTE : achète au conteneur, cible prioritaire.;
-Qatar;QA;Doha;Technical Glass & Aluminium (TGAC);"Façade ; 2 500 m²/j de trempe, 1 000 m²/j de feuilleté";tgac.net;;;Capacité chiffrée : le plus gros consommateur de float de la liste.;
+Qatar;QA;Doha (New Industrial Area);Panorama Glass Factory;Stockiste, importateur, exportateur, grossiste, depuis 2015;panoramaglass.net;info@panoramaglass.net;+974 4488 9185;IMPORTATEUR-GROSSISTE : achète au conteneur, cible prioritaire.;prete a envoyer
+Qatar;QA;Doha;Technical Glass & Aluminium (TGAC);"Façade ; 2 500 m²/j de trempe, 1 000 m²/j de feuilleté";tgac.net;glass.qatar@tgac.net;+974 4460 4488;Capacité chiffrée : le plus gros consommateur de float de la liste.;prete a envoyer
 Roumanie;RO;—;AGOTERM;Double et triple vitrage de 14 à 52 mm, securizat, ornemental;agoterm.ro;;;Fabricant de vitrage isolant : gros consommateur de float et Low-E.;
 Roumanie;RO;—;Brad Glass;Termoizolant, securizat, portes et garde-corps;bradglass.ro;;;À qualifier.;
 Roumanie;RO;Sălaj;Cristal Grup;Distributeur de verre, transport assuré;cristalgeam.ro;;;DISTRIBUTEUR : cible conteneur complet.;
@@ -72,7 +72,7 @@ Viêt Nam;VN;Hô Chi Minh-Ville;Phu Phong Glass JSC;Verre architectural et float
 Émirats arabes unis;AE;Dubaï (Al Quoz 4);Emirates Glass LLC;Façade, verre de sécurité, pare-balles;emiratesglass.com;;;Gros acteur façade, appartient au groupe Dubai Investments.;
 Émirats arabes unis;AE;Dubaï (Al Quoz 3);Glass Maestro Industries;Transformation verre plat;glass-maestro.com;info@glass-maestro.com;+971 4 3933299;Adresse repérée en recherche, à confirmer sur le site.;
 Émirats arabes unis;AE;Dubaï;Glass World;Verre et aluminium;glassworld.ae;;;À qualifier.;
-Émirats arabes unis;AE;Dubaï;Glass World Industries;Float, trempé, feuilleté de sécurité, +25 ans;glassworldindustries.ae;;;Transformateur généraliste, consomme du float en continu.;
-Émirats arabes unis;AE;Dubaï;Green Glass Industries LLC;Transformation architecturale, feuilleté jusqu'à 2,8 × 6 m;greenglassindustries.com;;;Grande capacité feuilleté : cible prioritaire pour le float et le Low-E.;
+Émirats arabes unis;AE;Dubaï;Glass World Industries;Float, trempé, feuilleté de sécurité, +25 ans;glassworldindustries.ae;rfq@glassworld.ae;+971 4 333 3606;Transformateur généraliste, consomme du float en continu.;prete a envoyer
+Émirats arabes unis;AE;Dubaï;Green Glass Industries LLC;Transformation architecturale, feuilleté jusqu'à 2,8 × 6 m;greenglassindustries.com;greengls@eim.ae;+971 7 258 8369;Grande capacité feuilleté : cible prioritaire pour le float et le Low-E.;prete a envoyer
 Émirats arabes unis;AE;Dubaï;Khaiber Glass;Verre et aluminium;khaiberglass.com;;;À qualifier.;
 Émirats arabes unis;AE;Dubaï;Mirodec Gulf;Miroiterie et verre décoratif;mirodec.com;mirodec-gulf@mirodec.com;+971 4 8850202;Miroir et déco : viser le miroir argenté et le laqué.;
