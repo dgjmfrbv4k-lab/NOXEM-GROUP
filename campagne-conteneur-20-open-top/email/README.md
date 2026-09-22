@@ -15,6 +15,19 @@ construit en tableaux et couleurs de fond s'affiche toujours : l'accroche
 images coupées. Seul le logo est une image, et son texte alternatif prend le
 relais s'il ne charge pas.
 
+## Ce que le message détaille
+
+Trois blocs, dans cet ordre : **la gamme** (float, trempé, feuilleté, Low-E,
+contrôle solaire, vitrage isolant, miroirs, laqué, dépoli, imprimé, émaillé),
+**les formats** — le 3210 × 2550 mis en avant, les huit autres formats courants
+listés, et la découpe sur plan — puis **caisses bois & livraison** : verre lavé
+et contrôlé, caisses d'export traitées NIMP-15, chargement 20' ou 40', photos et
+numéro de conteneur le jour de l'empotage, livraison au port avec les documents.
+
+Les formats et les épaisseurs viennent du catalogue professionnel. Si le
+catalogue évolue, corriger ici aussi : un acheteur qui compare les deux relève
+la moindre différence.
+
 ## Champs à remplacer pour chaque destinataire
 
 Le modèle est volontairement sans nom de société : il s'envoie tel quel. Pour
