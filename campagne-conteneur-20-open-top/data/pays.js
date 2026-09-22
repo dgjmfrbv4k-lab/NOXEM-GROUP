@@ -2,7 +2,8 @@
    Généré pour la campagne verre plat en 20'/40' Open Top. Modifiable à la main.
    c = code ISO · r = région · l = langue du message · p = ports · t = transit indicatif (jours)
    f = drapeaux : p production float locale · x vérifier sanctions/restrictions · e pays enclavé
-   loc = nom du pays dans la langue du message, quand il diffère du nom anglais */
+   loc = nom du pays dans la langue du message, quand il diffère du nom anglais
+   exp = 1 cible export · 0 marché de proximité livré en camion, hors campagne */
 window.NOXEM_REGIONS = {
  "me": {
   "fr": "Moyen-Orient",
@@ -105,7 +106,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-24",
   "f": "p",
   "n": "Hub de réexport vers tout le Golfe, l'Iran et l'Afrique de l'Est. Float local : viser miroir, Low-E, feuilleté, teintés.",
-  "loc": "الإمارات العربية المتحدة"
+  "loc": "الإمارات العربية المتحدة",
+  "exp": 1
  },
  {
   "c": "SA",
@@ -126,7 +128,8 @@ window.NOXEM_COUNTRIES = [
   "t": "18-26",
   "f": "p",
   "n": "Gros marché façade et menuiserie. Certificat de conformité SASO/SABER obligatoire — à anticiper avant expédition.",
-  "loc": "المملكة العربية السعودية"
+  "loc": "المملكة العربية السعودية",
+  "exp": 1
  },
  {
   "c": "QA",
@@ -143,7 +146,8 @@ window.NOXEM_COUNTRIES = [
   "t": "18-26",
   "f": "",
   "n": "Marché chantier soutenu, pas de float local : tout est importé.",
-  "loc": "قطر"
+  "loc": "قطر",
+  "exp": 1
  },
  {
   "c": "KW",
@@ -160,7 +164,8 @@ window.NOXEM_COUNTRIES = [
   "t": "18-26",
   "f": "",
   "n": "Miroiteries et menuisiers alu nombreux, volumes réguliers.",
-  "loc": "الكويت"
+  "loc": "الكويت",
+  "exp": 1
  },
  {
   "c": "BH",
@@ -176,7 +181,8 @@ window.NOXEM_COUNTRIES = [
   "t": "18-26",
   "f": "",
   "n": "Petits volumes réguliers, souvent groupés avec l'Arabie saoudite.",
-  "loc": "البحرين"
+  "loc": "البحرين",
+  "exp": 1
  },
  {
   "c": "OM",
@@ -194,7 +200,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-24",
   "f": "",
   "n": "Salalah très bien desservi, bons transbordements.",
-  "loc": "سلطنة عُمان"
+  "loc": "سلطنة عُمان",
+  "exp": 1
  },
  {
   "c": "IQ",
@@ -212,7 +219,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-28",
   "f": "",
   "n": "Forte demande reconstruction. Prévoir paiement sécurisé (L/C ou avance).",
-  "loc": "العراق"
+  "loc": "العراق",
+  "exp": 1
  },
  {
   "c": "JO",
@@ -227,7 +235,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-24",
   "f": "",
   "n": "Aqaba dessert aussi le sud de la Syrie et une partie de l'Irak.",
-  "loc": "الأردن"
+  "loc": "الأردن",
+  "exp": 1
  },
  {
   "c": "LB",
@@ -244,7 +253,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-18",
   "f": "",
   "n": "Reconstruction du port et du bâti. Vérifier la solvabilité et privilégier le prépaiement.",
-  "loc": "لبنان"
+  "loc": "لبنان",
+  "exp": 1
  },
  {
   "c": "SY",
@@ -260,7 +270,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "x",
   "n": "Régime de sanctions et de contrôles à l'export : vérification obligatoire avant toute offre.",
-  "loc": "سوريا"
+  "loc": "سوريا",
+  "exp": 1
  },
  {
   "c": "YE",
@@ -278,7 +289,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-30",
   "f": "x",
   "n": "Zone de conflit : assurance, sanctions et faisabilité à vérifier au cas par cas.",
-  "loc": "اليمن"
+  "loc": "اليمن",
+  "exp": 1
  },
  {
   "c": "IR",
@@ -297,7 +309,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-30",
   "f": "px",
   "n": "Sanctions lourdes UE/US : ne pas démarcher sans validation juridique préalable.",
-  "loc": "ایران"
+  "loc": "ایران",
+  "exp": 1
  },
  {
   "c": "IL",
@@ -314,7 +327,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "",
   "n": "Marché transformation et double vitrage développé.",
-  "loc": "ישראל"
+  "loc": "ישראל",
+  "exp": 1
  },
  {
   "c": "TR",
@@ -343,7 +357,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-16",
   "f": "p",
   "n": "Gros producteur float : cibler les transformateurs sur les références absentes du marché local et les surplus.",
-  "loc": "Türkiye"
+  "loc": "Türkiye",
+  "exp": 1
  },
  {
   "c": "MA",
@@ -365,7 +380,8 @@ window.NOXEM_COUNTRIES = [
   "t": "6-12",
   "f": "",
   "n": "Menuiserie alu et miroiterie très actives. Français langue des affaires.",
-  "loc": "le Maroc"
+  "loc": "le Maroc",
+  "exp": 1
  },
  {
   "c": "DZ",
@@ -388,7 +404,8 @@ window.NOXEM_COUNTRIES = [
   "t": "7-13",
   "f": "p",
   "n": "Import encadré (domiciliation bancaire, licences) : valider les autorisations avec l'acheteur avant cotation.",
-  "loc": "l'Algérie"
+  "loc": "l'Algérie",
+  "exp": 1
  },
  {
   "c": "TN",
@@ -408,7 +425,8 @@ window.NOXEM_COUNTRIES = [
   "t": "7-13",
   "f": "",
   "n": "Nombreux transformateurs et exportateurs de menuiserie.",
-  "loc": "la Tunisie"
+  "loc": "la Tunisie",
+  "exp": 1
  },
  {
   "c": "LY",
@@ -429,7 +447,8 @@ window.NOXEM_COUNTRIES = [
   "t": "8-16",
   "f": "",
   "n": "Reconstruction : forte demande de float et de miroir. Paiement à sécuriser.",
-  "loc": "ليبيا"
+  "loc": "ليبيا",
+  "exp": 1
  },
  {
   "c": "EG",
@@ -452,7 +471,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-16",
   "f": "p",
   "n": "Production locale importante : positionner Low-E, feuilleté et formats jumbo.",
-  "loc": "مصر"
+  "loc": "مصر",
+  "exp": 1
  },
  {
   "c": "MR",
@@ -467,7 +487,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-16",
   "f": "",
   "n": "Marché petit mais peu concurrencé, tout est importé.",
-  "loc": "la Mauritanie"
+  "loc": "la Mauritanie",
+  "exp": 1
  },
  {
   "c": "SN",
@@ -482,7 +503,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-16",
   "f": "",
   "n": "Plateforme pour le Mali et la Mauritanie. Chantiers immobiliers Dakar/Diamniadio.",
-  "loc": "le Sénégal"
+  "loc": "le Sénégal",
+  "exp": 1
  },
  {
   "c": "CI",
@@ -497,7 +519,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-18",
   "f": "",
   "n": "Un des marchés bâtiment les plus dynamiques d'Afrique de l'Ouest.",
-  "loc": "la Côte d'Ivoire"
+  "loc": "la Côte d'Ivoire",
+  "exp": 1
  },
  {
   "c": "GH",
@@ -511,7 +534,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "12-20",
   "f": "",
-  "n": "Miroiteries et façadiers à Accra et Kumasi."
+  "n": "Miroiteries et façadiers à Accra et Kumasi.",
+  "exp": 1
  },
  {
   "c": "NG",
@@ -530,7 +554,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "14-22",
   "f": "p",
-  "n": "Premier marché de la région. Vérifier Form M / PAAR et la solvabilité."
+  "n": "Premier marché de la région. Vérifier Form M / PAAR et la solvabilité.",
+  "exp": 1
  },
  {
   "c": "BJ",
@@ -544,7 +569,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "",
   "n": "Cotonou sert aussi le Niger et le nord du Nigéria.",
-  "loc": "le Bénin"
+  "loc": "le Bénin",
+  "exp": 1
  },
  {
   "c": "TG",
@@ -558,7 +584,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "",
   "n": "Hub de transbordement régional, dessert le Burkina et le Niger.",
-  "loc": "le Togo"
+  "loc": "le Togo",
+  "exp": 1
  },
  {
   "c": "GN",
@@ -573,7 +600,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "",
   "n": "Construction soutenue à Conakry, tout est importé.",
-  "loc": "la Guinée"
+  "loc": "la Guinée",
+  "exp": 1
  },
  {
   "c": "ML",
@@ -589,7 +617,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-26",
   "f": "e",
   "n": "Enclavé : coter en CFR port + post-acheminement routier annoncé séparément.",
-  "loc": "le Mali"
+  "loc": "le Mali",
+  "exp": 1
  },
  {
   "c": "BF",
@@ -606,7 +635,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-26",
   "f": "e",
   "n": "Enclavé : corridor Lomé-Ouagadougou le plus utilisé.",
-  "loc": "le Burkina Faso"
+  "loc": "le Burkina Faso",
+  "exp": 1
  },
  {
   "c": "NE",
@@ -622,7 +652,8 @@ window.NOXEM_COUNTRIES = [
   "t": "18-28",
   "f": "e",
   "n": "Enclavé : corridor Cotonou-Niamey.",
-  "loc": "le Niger"
+  "loc": "le Niger",
+  "exp": 1
  },
  {
   "c": "SL",
@@ -636,7 +667,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "14-22",
   "f": "",
-  "n": "Petit marché, peu de concurrence à l'import."
+  "n": "Petit marché, peu de concurrence à l'import.",
+  "exp": 1
  },
  {
   "c": "LR",
@@ -651,7 +683,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "14-22",
   "f": "",
-  "n": "Marché émergent, demande de float et miroir."
+  "n": "Marché émergent, demande de float et miroir.",
+  "exp": 1
  },
  {
   "c": "GM",
@@ -664,7 +697,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "12-20",
   "f": "",
-  "n": "Souvent groupé avec le Sénégal."
+  "n": "Souvent groupé avec le Sénégal.",
+  "exp": 1
  },
  {
   "c": "GW",
@@ -678,7 +712,8 @@ window.NOXEM_COUNTRIES = [
   "t": "14-22",
   "f": "",
   "n": "Petits volumes, portugais des affaires.",
-  "loc": "a Guiné-Bissau"
+  "loc": "a Guiné-Bissau",
+  "exp": 1
  },
  {
   "c": "CV",
@@ -694,7 +729,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-18",
   "f": "",
   "n": "Hôtellerie et résidentiel : verre décoratif et miroir.",
-  "loc": "Cabo Verde"
+  "loc": "Cabo Verde",
+  "exp": 1
  },
  {
   "c": "CM",
@@ -710,7 +746,8 @@ window.NOXEM_COUNTRIES = [
   "t": "14-22",
   "f": "",
   "n": "Porte d'entrée du Tchad et de la Centrafrique.",
-  "loc": "le Cameroun"
+  "loc": "le Cameroun",
+  "exp": 1
  },
  {
   "c": "GA",
@@ -726,7 +763,8 @@ window.NOXEM_COUNTRIES = [
   "t": "14-22",
   "f": "",
   "n": "Pouvoir d'achat élevé, tout importé.",
-  "loc": "le Gabon"
+  "loc": "le Gabon",
+  "exp": 1
  },
  {
   "c": "CG",
@@ -740,7 +778,8 @@ window.NOXEM_COUNTRIES = [
   "t": "14-22",
   "f": "",
   "n": "Pointe-Noire bien desservi depuis l'Europe du Nord.",
-  "loc": "le Congo"
+  "loc": "le Congo",
+  "exp": 1
  },
  {
   "c": "CD",
@@ -757,7 +796,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-26",
   "f": "",
   "n": "Kinshasa via Matadi ; l'est du pays passe par Dar es Salaam ou Mombasa.",
-  "loc": "la République démocratique du Congo"
+  "loc": "la République démocratique du Congo",
+  "exp": 1
  },
  {
   "c": "GQ",
@@ -773,7 +813,8 @@ window.NOXEM_COUNTRIES = [
   "t": "14-22",
   "f": "",
   "n": "Espagnol langue officielle.",
-  "loc": "Guinea Ecuatorial"
+  "loc": "Guinea Ecuatorial",
+  "exp": 1
  },
  {
   "c": "TD",
@@ -788,7 +829,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-30",
   "f": "e",
   "n": "Enclavé : corridor Douala-N'Djamena.",
-  "loc": "le Tchad"
+  "loc": "le Tchad",
+  "exp": 1
  },
  {
   "c": "CF",
@@ -802,7 +844,8 @@ window.NOXEM_COUNTRIES = [
   "t": "22-32",
   "f": "e",
   "n": "Enclavé, logistique lourde : réserver aux lots complets.",
-  "loc": "la Centrafrique"
+  "loc": "la Centrafrique",
+  "exp": 1
  },
  {
   "c": "AO",
@@ -820,7 +863,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-24",
   "f": "",
   "n": "Grand marché construction, portugais obligatoire.",
-  "loc": "Angola"
+  "loc": "Angola",
+  "exp": 1
  },
  {
   "c": "ST",
@@ -834,7 +878,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-26",
   "f": "",
   "n": "Très petits volumes, groupage conseillé.",
-  "loc": "São Tomé e Príncipe"
+  "loc": "São Tomé e Príncipe",
+  "exp": 1
  },
  {
   "c": "KE",
@@ -848,7 +893,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "22-32",
   "f": "",
-  "n": "Mombasa dessert l'Ouganda, le Rwanda, le Sud-Soudan et l'est de la RDC."
+  "n": "Mombasa dessert l'Ouganda, le Rwanda, le Sud-Soudan et l'est de la RDC.",
+  "exp": 1
  },
  {
   "c": "TZ",
@@ -865,7 +911,8 @@ window.NOXEM_COUNTRIES = [
   "t": "22-32",
   "f": "",
   "n": "Hub pour la Zambie, le Burundi, le Rwanda et le Malawi.",
-  "loc": "Tanzania"
+  "loc": "Tanzania",
+  "exp": 1
  },
  {
   "c": "UG",
@@ -879,7 +926,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "28-38",
   "f": "e",
-  "n": "Enclavé : coter CFR Mombasa + transit routier Kampala."
+  "n": "Enclavé : coter CFR Mombasa + transit routier Kampala.",
+  "exp": 1
  },
  {
   "c": "RW",
@@ -894,7 +942,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-40",
   "f": "e",
   "n": "Enclavé, construction très active à Kigali.",
-  "loc": "le Rwanda"
+  "loc": "le Rwanda",
+  "exp": 1
  },
  {
   "c": "BI",
@@ -908,7 +957,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-40",
   "f": "e",
   "n": "Enclavé, petits volumes.",
-  "loc": "le Burundi"
+  "loc": "le Burundi",
+  "exp": 1
  },
  {
   "c": "ET",
@@ -923,7 +973,8 @@ window.NOXEM_COUNTRIES = [
   "t": "24-34",
   "f": "e",
   "n": "Enclavé : tout passe par Djibouti. Devises rares, sécuriser le paiement.",
-  "loc": "ኢትዮጵያ"
+  "loc": "ኢትዮጵያ",
+  "exp": 1
  },
  {
   "c": "DJ",
@@ -938,7 +989,8 @@ window.NOXEM_COUNTRIES = [
   "t": "18-28",
   "f": "",
   "n": "Porte d'entrée de l'Éthiopie, plateforme logistique régionale.",
-  "loc": "Djibouti"
+  "loc": "Djibouti",
+  "exp": 1
  },
  {
   "c": "SO",
@@ -955,7 +1007,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-30",
   "f": "",
   "n": "Reconstruction de Mogadiscio et Hargeisa : forte demande de float et miroir.",
-  "loc": "Soomaaliya"
+  "loc": "Soomaaliya",
+  "exp": 1
  },
  {
   "c": "SD",
@@ -969,7 +1022,8 @@ window.NOXEM_COUNTRIES = [
   "t": "18-28",
   "f": "x",
   "n": "Conflit en cours : faisabilité, sanctions et assurance à vérifier.",
-  "loc": "السودان"
+  "loc": "السودان",
+  "exp": 1
  },
  {
   "c": "SS",
@@ -983,7 +1037,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "30-40",
   "f": "e",
-  "n": "Enclavé, logistique difficile."
+  "n": "Enclavé, logistique difficile.",
+  "exp": 1
  },
  {
   "c": "ER",
@@ -997,7 +1052,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "20-30",
   "f": "",
-  "n": "Marché fermé, volumes limités."
+  "n": "Marché fermé, volumes limités.",
+  "exp": 1
  },
  {
   "c": "MG",
@@ -1015,7 +1071,8 @@ window.NOXEM_COUNTRIES = [
   "t": "25-35",
   "f": "",
   "n": "Français langue des affaires, demande hôtelière et résidentielle.",
-  "loc": "Madagascar"
+  "loc": "Madagascar",
+  "exp": 1
  },
  {
   "c": "MU",
@@ -1029,7 +1086,8 @@ window.NOXEM_COUNTRIES = [
   "t": "25-35",
   "f": "",
   "n": "Marché exigeant : feuilleté, trempé, verre de sécurité normé.",
-  "loc": "Maurice"
+  "loc": "Maurice",
+  "exp": 1
  },
  {
   "c": "SC",
@@ -1042,7 +1100,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "28-38",
   "f": "",
-  "n": "Hôtellerie haut de gamme, petits lots."
+  "n": "Hôtellerie haut de gamme, petits lots.",
+  "exp": 1
  },
  {
   "c": "KM",
@@ -1057,7 +1116,8 @@ window.NOXEM_COUNTRIES = [
   "t": "28-38",
   "f": "",
   "n": "Petits volumes, groupage via Maurice ou Dar.",
-  "loc": "les Comores"
+  "loc": "les Comores",
+  "exp": 1
  },
  {
   "c": "MZ",
@@ -1075,7 +1135,8 @@ window.NOXEM_COUNTRIES = [
   "t": "22-32",
   "f": "",
   "n": "Beira dessert le Zimbabwe, le Malawi et la Zambie.",
-  "loc": "Moçambique"
+  "loc": "Moçambique",
+  "exp": 1
  },
  {
   "c": "ZM",
@@ -1091,7 +1152,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "30-40",
   "f": "e",
-  "n": "Enclavé, cuivre et construction : demande régulière."
+  "n": "Enclavé, cuivre et construction : demande régulière.",
+  "exp": 1
  },
  {
   "c": "ZW",
@@ -1105,7 +1167,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "28-38",
   "f": "e",
-  "n": "Enclavé, paiement en devises à sécuriser."
+  "n": "Enclavé, paiement en devises à sécuriser.",
+  "exp": 1
  },
  {
   "c": "MW",
@@ -1119,7 +1182,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "30-40",
   "f": "e",
-  "n": "Enclavé, petits volumes."
+  "n": "Enclavé, petits volumes.",
+  "exp": 1
  },
  {
   "c": "BW",
@@ -1133,7 +1197,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "28-38",
   "f": "e",
-  "n": "Enclavé, marché solvable."
+  "n": "Enclavé, marché solvable.",
+  "exp": 1
  },
  {
   "c": "NA",
@@ -1147,7 +1212,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "20-30",
   "f": "",
-  "n": "Walvis Bay dessert aussi le Botswana et la Zambie."
+  "n": "Walvis Bay dessert aussi le Botswana et la Zambie.",
+  "exp": 1
  },
  {
   "c": "ZA",
@@ -1167,7 +1233,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "18-28",
   "f": "p",
-  "n": "Float local : positionner miroir, Low-E et jumbo en complément."
+  "n": "Float local : positionner miroir, Low-E et jumbo en complément.",
+  "exp": 1
  },
  {
   "c": "LS",
@@ -1180,7 +1247,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "28-38",
   "f": "e",
-  "n": "Enclavé, via Durban."
+  "n": "Enclavé, via Durban.",
+  "exp": 1
  },
  {
   "c": "SZ",
@@ -1194,7 +1262,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "28-38",
   "f": "e",
-  "n": "Enclavé, petits volumes."
+  "n": "Enclavé, petits volumes.",
+  "exp": 1
  },
  {
   "c": "RO",
@@ -1213,7 +1282,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-18",
   "f": "",
   "n": "Marché prioritaire : menuiserie PVC/alu et double vitrage très développés, Constanța dessert toute la région.",
-  "loc": "România"
+  "loc": "România",
+  "exp": 1
  },
  {
   "c": "BG",
@@ -1230,7 +1300,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-18",
   "f": "",
   "n": "Transformateurs nombreux, proximité avec la Turquie.",
-  "loc": "България"
+  "loc": "България",
+  "exp": 1
  },
  {
   "c": "MD",
@@ -1245,7 +1316,8 @@ window.NOXEM_COUNTRIES = [
   "t": "14-20",
   "f": "e",
   "n": "Enclavé : CFR Constanța + camion. Roumain langue des affaires.",
-  "loc": "Republica Moldova"
+  "loc": "Republica Moldova",
+  "exp": 1
  },
  {
   "c": "UA",
@@ -1265,7 +1337,8 @@ window.NOXEM_COUNTRIES = [
   "t": "14-22",
   "f": "x",
   "n": "Guerre en cours : assurance, faisabilité et itinéraire (souvent via Constanța/Gdańsk) à valider.",
-  "loc": "України"
+  "loc": "України",
+  "exp": 1
  },
  {
   "c": "RU",
@@ -1288,7 +1361,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-20",
   "f": "px",
   "n": "Sanctions UE : vérification juridique obligatoire avant toute offre.",
-  "loc": "Россию"
+  "loc": "Россию",
+  "exp": 1
  },
  {
   "c": "BY",
@@ -1303,7 +1377,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "ex",
   "n": "Sanctions UE : vérification juridique obligatoire.",
-  "loc": "Беларусь"
+  "loc": "Беларусь",
+  "exp": 1
  },
  {
   "c": "GE",
@@ -1320,7 +1395,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-24",
   "f": "",
   "n": "Poti est la porte d'entrée de l'Arménie, de l'Azerbaïdjan et de l'Asie centrale.",
-  "loc": "საქართველოში"
+  "loc": "საქართველოში",
+  "exp": 1
  },
  {
   "c": "AM",
@@ -1335,7 +1411,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-30",
   "f": "e",
   "n": "Enclavé : CFR Poti + camion vers Erevan.",
-  "loc": "Հայաստան"
+  "loc": "Հայաստան",
+  "exp": 1
  },
  {
   "c": "AZ",
@@ -1350,7 +1427,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-30",
   "f": "e",
   "n": "Construction soutenue à Bakou, transit par la Géorgie.",
-  "loc": "Azərbaycan"
+  "loc": "Azərbaycan",
+  "exp": 1
  },
  {
   "c": "GR",
@@ -1373,7 +1451,8 @@ window.NOXEM_COUNTRIES = [
   "t": "8-14",
   "f": "",
   "n": "Transformateurs et hôtellerie, forte saisonnalité.",
-  "loc": "την Ελλάδα"
+  "loc": "την Ελλάδα",
+  "exp": 1
  },
  {
   "c": "CY",
@@ -1389,7 +1468,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-16",
   "f": "",
   "n": "Résidentiel et hôtelier, tout importé.",
-  "loc": "την Κύπρο"
+  "loc": "την Κύπρο",
+  "exp": 1
  },
  {
   "c": "MT",
@@ -1403,7 +1483,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "8-14",
   "f": "",
-  "n": "Petits lots, hub de transbordement."
+  "n": "Petits lots, hub de transbordement.",
+  "exp": 1
  },
  {
   "c": "AL",
@@ -1420,7 +1501,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-16",
   "f": "",
   "n": "Construction en forte hausse à Tirana et sur la côte.",
-  "loc": "Shqipërisë"
+  "loc": "Shqipërisë",
+  "exp": 1
  },
  {
   "c": "MK",
@@ -1435,7 +1517,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "e",
   "n": "Enclavé : via Thessalonique ou Durrës.",
-  "loc": "Северна Македонија"
+  "loc": "Северна Македонија",
+  "exp": 1
  },
  {
   "c": "XK",
@@ -1451,7 +1534,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "e",
   "n": "Enclavé, menuiserie alu/PVC active.",
-  "loc": "Kosovës"
+  "loc": "Kosovës",
+  "exp": 1
  },
  {
   "c": "RS",
@@ -1469,7 +1553,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "e",
   "n": "Enclavé : comparer Koper et Constanța selon la destination finale.",
-  "loc": "Srbiju"
+  "loc": "Srbiju",
+  "exp": 1
  },
  {
   "c": "BA",
@@ -1484,7 +1569,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-18",
   "f": "",
   "n": "Transformation et menuiserie exportatrices.",
-  "loc": "Bosnu i Hercegovinu"
+  "loc": "Bosnu i Hercegovinu",
+  "exp": 1
  },
  {
   "c": "ME",
@@ -1498,7 +1584,8 @@ window.NOXEM_COUNTRIES = [
   "t": "10-18",
   "f": "",
   "n": "Hôtellerie et résidentiel côtier.",
-  "loc": "Crnu Goru"
+  "loc": "Crnu Goru",
+  "exp": 1
  },
  {
   "c": "HR",
@@ -1518,7 +1605,8 @@ window.NOXEM_COUNTRIES = [
   "t": "8-14",
   "f": "",
   "n": "Rijeka dessert aussi la Bosnie, la Serbie et la Hongrie.",
-  "loc": "Hrvatsku"
+  "loc": "Hrvatsku",
+  "exp": 1
  },
  {
   "c": "SI",
@@ -1532,7 +1620,8 @@ window.NOXEM_COUNTRIES = [
   "t": "8-14",
   "f": "",
   "n": "Koper : porte d'entrée de l'Autriche, la Hongrie et la Serbie.",
-  "loc": "Slovenijo"
+  "loc": "Slovenijo",
+  "exp": 1
  },
  {
   "c": "HU",
@@ -1549,7 +1638,8 @@ window.NOXEM_COUNTRIES = [
   "t": "3-8",
   "f": "e",
   "n": "Enclavé : souvent plus simple en camion direct depuis Anvers.",
-  "loc": "Magyarország"
+  "loc": "Magyarország",
+  "exp": 1
  },
  {
   "c": "SK",
@@ -1565,7 +1655,8 @@ window.NOXEM_COUNTRIES = [
   "t": "3-8",
   "f": "e",
   "n": "Enclavé, industrie menuiserie développée.",
-  "loc": "Slovenska"
+  "loc": "Slovenska",
+  "exp": 1
  },
  {
   "c": "CZ",
@@ -1581,7 +1672,8 @@ window.NOXEM_COUNTRIES = [
   "t": "3-8",
   "f": "ep",
   "n": "Enclavé : camion direct souvent plus compétitif que le conteneur.",
-  "loc": "Česka"
+  "loc": "Česka",
+  "exp": 1
  },
  {
   "c": "PL",
@@ -1600,7 +1692,8 @@ window.NOXEM_COUNTRIES = [
   "t": "4-9",
   "f": "p",
   "n": "Gros transformateurs exportateurs : cibler les références manquantes et les surplus.",
-  "loc": "Polski"
+  "loc": "Polski",
+  "exp": 1
  },
  {
   "c": "LT",
@@ -1614,7 +1707,8 @@ window.NOXEM_COUNTRIES = [
   "t": "5-10",
   "f": "",
   "n": "Klaipėda dessert aussi la Biélorussie et le Kazakhstan.",
-  "loc": "Lietuvą"
+  "loc": "Lietuvą",
+  "exp": 1
  },
  {
   "c": "LV",
@@ -1630,7 +1724,8 @@ window.NOXEM_COUNTRIES = [
   "t": "5-10",
   "f": "",
   "n": "Marché rénovation et menuiserie.",
-  "loc": "Latviju"
+  "loc": "Latviju",
+  "exp": 1
  },
  {
   "c": "EE",
@@ -1646,7 +1741,8 @@ window.NOXEM_COUNTRIES = [
   "t": "5-10",
   "f": "",
   "n": "Transformateurs orientés export scandinave.",
-  "loc": "Eesti"
+  "loc": "Eesti",
+  "exp": 1
  },
  {
   "c": "FI",
@@ -1666,7 +1762,8 @@ window.NOXEM_COUNTRIES = [
   "t": "5-12",
   "f": "",
   "n": "Double vitrage et triple vitrage, exigences Low-E fortes.",
-  "loc": "Suomeen"
+  "loc": "Suomeen",
+  "exp": 1
  },
  {
   "c": "SE",
@@ -1686,7 +1783,8 @@ window.NOXEM_COUNTRIES = [
   "t": "4-10",
   "f": "",
   "n": "Marché normé, demande de Low-E et feuilleté.",
-  "loc": "Sverige"
+  "loc": "Sverige",
+  "exp": 1
  },
  {
   "c": "NO",
@@ -1706,7 +1804,8 @@ window.NOXEM_COUNTRIES = [
   "t": "4-10",
   "f": "",
   "n": "Hors UE : prévoir les formalités douanières.",
-  "loc": "Norge"
+  "loc": "Norge",
+  "exp": 1
  },
  {
   "c": "DK",
@@ -1725,7 +1824,8 @@ window.NOXEM_COUNTRIES = [
   "t": "3-8",
   "f": "",
   "n": "Livraison camion souvent préférable au conteneur.",
-  "loc": "Danmark"
+  "loc": "Danmark",
+  "exp": 1
  },
  {
   "c": "IS",
@@ -1742,7 +1842,8 @@ window.NOXEM_COUNTRIES = [
   "t": "8-14",
   "f": "",
   "n": "Tout importé, lots complets par conteneur.",
-  "loc": "Iceland"
+  "loc": "Iceland",
+  "exp": 1
  },
  {
   "c": "IE",
@@ -1759,7 +1860,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "3-8",
   "f": "",
-  "n": "Construction résidentielle soutenue."
+  "n": "Construction résidentielle soutenue.",
+  "exp": 1
  },
  {
   "c": "GB",
@@ -1784,7 +1886,8 @@ window.NOXEM_COUNTRIES = [
   "t": "3-8",
   "f": "p",
   "n": "Post-Brexit : douane et UKCA à anticiper. Inloader possible aussi.",
-  "loc": "the United Kingdom"
+  "loc": "the United Kingdom",
+  "exp": 1
  },
  {
   "c": "PT",
@@ -1805,7 +1908,8 @@ window.NOXEM_COUNTRIES = [
   "t": "6-12",
   "f": "",
   "n": "Transformateurs exportateurs, marché rénovation actif.",
-  "loc": "Portugal"
+  "loc": "Portugal",
+  "exp": 1
  },
  {
   "c": "ES",
@@ -1835,7 +1939,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "5-10",
   "f": "p",
-  "n": "Grande base de transformateurs : jouer sur les manques et les délais."
+  "n": "Grande base de transformateurs : jouer sur les manques et les délais.",
+  "exp": 1
  },
  {
   "c": "IT",
@@ -1866,7 +1971,8 @@ window.NOXEM_COUNTRIES = [
   "t": "6-12",
   "f": "p",
   "n": "Miroiterie et décoration : miroir et verres teintés très demandés.",
-  "loc": "l'Italia"
+  "loc": "l'Italia",
+  "exp": 1
  },
  {
   "c": "DE",
@@ -1888,7 +1994,8 @@ window.NOXEM_COUNTRIES = [
   "t": "2-6",
   "f": "p",
   "n": "Camion inloader souvent plus adapté que le conteneur.",
-  "loc": "nach Deutschland"
+  "loc": "nach Deutschland",
+  "exp": 0
  },
  {
   "c": "NL",
@@ -1907,7 +2014,8 @@ window.NOXEM_COUNTRIES = [
   "t": "1-3",
   "f": "",
   "n": "Livraison camion directe depuis Mollem.",
-  "loc": "Nederland"
+  "loc": "Nederland",
+  "exp": 0
  },
  {
   "c": "BE",
@@ -1925,7 +2033,8 @@ window.NOXEM_COUNTRIES = [
   "t": "1-3",
   "f": "",
   "n": "Anvers et Zeebrugge : premières portes de sortie du verre européen vers le reste du monde.",
-  "loc": "België"
+  "loc": "België",
+  "exp": 0
  },
  {
   "c": "LU",
@@ -1941,7 +2050,8 @@ window.NOXEM_COUNTRIES = [
   "t": "2-5",
   "f": "e",
   "n": "Enclavé : livraison par camion depuis Anvers ou Rotterdam.",
-  "loc": "le Luxembourg"
+  "loc": "le Luxembourg",
+  "exp": 0
  },
  {
   "c": "FR",
@@ -1970,7 +2080,8 @@ window.NOXEM_COUNTRIES = [
   "t": "1-4",
   "f": "p",
   "n": "DOM-TOM par conteneur : Fort-de-France, Pointe-à-Pitre, La Réunion, Cayenne.",
-  "loc": "la France"
+  "loc": "la France",
+  "exp": 0
  },
  {
   "c": "CH",
@@ -1987,7 +2098,8 @@ window.NOXEM_COUNTRIES = [
   "t": "2-6",
   "f": "e",
   "n": "Hors UE : formalités douanières, camion direct.",
-  "loc": "in die Schweiz"
+  "loc": "in die Schweiz",
+  "exp": 0
  },
  {
   "c": "AT",
@@ -2004,7 +2116,8 @@ window.NOXEM_COUNTRIES = [
   "t": "3-8",
   "f": "e",
   "n": "Camion direct généralement préférable.",
-  "loc": "nach Österreich"
+  "loc": "nach Österreich",
+  "exp": 0
  },
  {
   "c": "KZ",
@@ -2021,7 +2134,8 @@ window.NOXEM_COUNTRIES = [
   "t": "25-40",
   "f": "e",
   "n": "Enclavé : comparer rail via la Chine/Europe et maritime via Poti.",
-  "loc": "Казахстан"
+  "loc": "Казахстан",
+  "exp": 1
  },
  {
   "c": "UZ",
@@ -2037,7 +2151,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-45",
   "f": "e",
   "n": "Enclavé, construction très active à Tachkent.",
-  "loc": "Узбекистан"
+  "loc": "Узбекистан",
+  "exp": 1
  },
  {
   "c": "TM",
@@ -2052,7 +2167,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-45",
   "f": "e",
   "n": "Marché fermé, procédures lourdes.",
-  "loc": "Туркменистан"
+  "loc": "Туркменистан",
+  "exp": 1
  },
  {
   "c": "KG",
@@ -2067,7 +2183,8 @@ window.NOXEM_COUNTRIES = [
   "t": "35-50",
   "f": "e",
   "n": "Enclavé, petits volumes.",
-  "loc": "Кыргызстан"
+  "loc": "Кыргызстан",
+  "exp": 1
  },
  {
   "c": "TJ",
@@ -2083,7 +2200,8 @@ window.NOXEM_COUNTRIES = [
   "t": "35-50",
   "f": "e",
   "n": "Enclavé, logistique difficile.",
-  "loc": "Таджикистан"
+  "loc": "Таджикистан",
+  "exp": 1
  },
  {
   "c": "MN",
@@ -2098,7 +2216,8 @@ window.NOXEM_COUNTRIES = [
   "t": "35-50",
   "f": "e",
   "n": "Enclavé, transit par la Chine ou la Russie.",
-  "loc": "Монголию"
+  "loc": "Монголию",
+  "exp": 1
  },
  {
   "c": "IN",
@@ -2129,7 +2248,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-28",
   "f": "p",
   "n": "Gros producteur : ne viser que les niches (miroir extra-clair, feuilleté spécial, surplus européens).",
-  "loc": "भारत"
+  "loc": "भारत",
+  "exp": 1
  },
  {
   "c": "PK",
@@ -2145,7 +2265,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-30",
   "f": "p",
   "n": "Menuiserie et miroiterie actives à Lahore et Karachi.",
-  "loc": "پاکستان"
+  "loc": "پاکستان",
+  "exp": 1
  },
  {
   "c": "BD",
@@ -2161,7 +2282,8 @@ window.NOXEM_COUNTRIES = [
   "t": "24-34",
   "f": "p",
   "n": "Construction en forte croissance, sensible au prix.",
-  "loc": "বাংলাদেশে"
+  "loc": "বাংলাদেশে",
+  "exp": 1
  },
  {
   "c": "LK",
@@ -2178,7 +2300,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-30",
   "f": "",
   "n": "Colombo : hub de transbordement, marché hôtelier.",
-  "loc": "Sri Lanka"
+  "loc": "Sri Lanka",
+  "exp": 1
  },
  {
   "c": "NP",
@@ -2194,7 +2317,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-40",
   "f": "e",
   "n": "Enclavé, via l'Inde.",
-  "loc": "Nepal"
+  "loc": "Nepal",
+  "exp": 1
  },
  {
   "c": "MV",
@@ -2208,7 +2332,8 @@ window.NOXEM_COUNTRIES = [
   "t": "24-34",
   "f": "",
   "n": "Hôtellerie haut de gamme : feuilleté, trempé, grands formats.",
-  "loc": "the Maldives"
+  "loc": "the Maldives",
+  "exp": 1
  },
  {
   "c": "AF",
@@ -2224,7 +2349,8 @@ window.NOXEM_COUNTRIES = [
   "t": "35-50",
   "f": "ex",
   "n": "Enclavé, sanctions et faisabilité à vérifier.",
-  "loc": "افغانستان"
+  "loc": "افغانستان",
+  "exp": 1
  },
  {
   "c": "VN",
@@ -2243,7 +2369,8 @@ window.NOXEM_COUNTRIES = [
   "t": "28-38",
   "f": "p",
   "n": "Production locale forte : viser les verres spéciaux européens.",
-  "loc": "Việt Nam"
+  "loc": "Việt Nam",
+  "exp": 1
  },
  {
   "c": "TH",
@@ -2261,7 +2388,8 @@ window.NOXEM_COUNTRIES = [
   "t": "28-38",
   "f": "p",
   "n": "Marché hôtelier et résidentiel, sensible aux certifications.",
-  "loc": "ประเทศไทย"
+  "loc": "ประเทศไทย",
+  "exp": 1
  },
  {
   "c": "KH",
@@ -2275,7 +2403,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "30-40",
   "f": "",
-  "n": "Construction en croissance, tout importé."
+  "n": "Construction en croissance, tout importé.",
+  "exp": 1
  },
  {
   "c": "MM",
@@ -2289,7 +2418,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "30-40",
   "f": "x",
-  "n": "Sanctions partielles : vérification préalable nécessaire."
+  "n": "Sanctions partielles : vérification préalable nécessaire.",
+  "exp": 1
  },
  {
   "c": "MY",
@@ -2310,7 +2440,8 @@ window.NOXEM_COUNTRIES = [
   "t": "26-36",
   "f": "p",
   "n": "Hub régional, float local abondant.",
-  "loc": "Malaysia"
+  "loc": "Malaysia",
+  "exp": 1
  },
  {
   "c": "SG",
@@ -2324,7 +2455,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "26-36",
   "f": "",
-  "n": "Plateforme de négoce et de réexport régionale."
+  "n": "Plateforme de négoce et de réexport régionale.",
+  "exp": 1
  },
  {
   "c": "ID",
@@ -2346,7 +2478,8 @@ window.NOXEM_COUNTRIES = [
   "t": "28-38",
   "f": "p",
   "n": "Grand marché, production locale : viser miroir et verres techniques.",
-  "loc": "Indonesia"
+  "loc": "Indonesia",
+  "exp": 1
  },
  {
   "c": "PH",
@@ -2368,7 +2501,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-40",
   "f": "",
   "n": "Peu de float local : import massif, bon potentiel.",
-  "loc": "the Philippines"
+  "loc": "the Philippines",
+  "exp": 1
  },
  {
   "c": "BN",
@@ -2381,7 +2515,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "30-40",
   "f": "",
-  "n": "Petits volumes, marché solvable."
+  "n": "Petits volumes, marché solvable.",
+  "exp": 1
  },
  {
   "c": "CN",
@@ -2411,7 +2546,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-40",
   "f": "p",
   "n": "Premier producteur mondial : uniquement niches haut de gamme européennes.",
-  "loc": "中国"
+  "loc": "中国",
+  "exp": 1
  },
  {
   "c": "HK",
@@ -2425,7 +2561,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-40",
   "f": "",
   "n": "Négoce et réexport, façades haut de gamme.",
-  "loc": "香港"
+  "loc": "香港",
+  "exp": 1
  },
  {
   "c": "KR",
@@ -2444,7 +2581,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-40",
   "f": "p",
   "n": "Marché exigeant, certifications strictes.",
-  "loc": "대한민국"
+  "loc": "대한민국",
+  "exp": 1
  },
  {
   "c": "JP",
@@ -2468,7 +2606,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-42",
   "f": "p",
   "n": "Qualité et régularité avant le prix ; cycle de décision long.",
-  "loc": "日本"
+  "loc": "日本",
+  "exp": 1
  },
  {
   "c": "TW",
@@ -2486,7 +2625,8 @@ window.NOXEM_COUNTRIES = [
   "t": "30-40",
   "f": "p",
   "n": "Marché technique, volumes moyens.",
-  "loc": "台灣"
+  "loc": "台灣",
+  "exp": 1
  },
  {
   "c": "AU",
@@ -2507,7 +2647,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "32-45",
   "f": "p",
-  "n": "Normes AS/NZS strictes : feuilleté et trempé certifiés exigés."
+  "n": "Normes AS/NZS strictes : feuilleté et trempé certifiés exigés.",
+  "exp": 1
  },
  {
   "c": "NZ",
@@ -2527,7 +2668,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "35-48",
   "f": "",
-  "n": "Tout importé, normes AS/NZS."
+  "n": "Tout importé, normes AS/NZS.",
+  "exp": 1
  },
  {
   "c": "PG",
@@ -2543,7 +2685,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "35-48",
   "f": "",
-  "n": "Construction minière et publique."
+  "n": "Construction minière et publique.",
+  "exp": 1
  },
  {
   "c": "FJ",
@@ -2557,7 +2700,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "38-50",
   "f": "",
-  "n": "Hôtellerie, lots complets."
+  "n": "Hôtellerie, lots complets.",
+  "exp": 1
  },
  {
   "c": "NC",
@@ -2571,7 +2715,8 @@ window.NOXEM_COUNTRIES = [
   "t": "35-48",
   "f": "",
   "n": "Territoire français : circuit douanier simplifié depuis l'UE.",
-  "loc": "la Nouvelle-Calédonie"
+  "loc": "la Nouvelle-Calédonie",
+  "exp": 1
  },
  {
   "c": "PF",
@@ -2585,7 +2730,8 @@ window.NOXEM_COUNTRIES = [
   "t": "38-50",
   "f": "",
   "n": "Territoire français, hôtellerie et résidentiel.",
-  "loc": "la Polynésie française"
+  "loc": "la Polynésie française",
+  "exp": 1
  },
  {
   "c": "US",
@@ -2622,7 +2768,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "p",
   "n": "Marché énorme mais float local : viser le miroir, les formats jumbo et les niches déco.",
-  "loc": "the United States"
+  "loc": "the United States",
+  "exp": 1
  },
  {
   "c": "CA",
@@ -2643,7 +2790,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "10-18",
   "f": "p",
-  "n": "Québec : prospection en français."
+  "n": "Québec : prospection en français.",
+  "exp": 1
  },
  {
   "c": "MX",
@@ -2666,7 +2814,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-26",
   "f": "p",
   "n": "Production locale (Vitro) : cibler les transformateurs et les manques.",
-  "loc": "México"
+  "loc": "México",
+  "exp": 1
  },
  {
   "c": "GT",
@@ -2681,7 +2830,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "18-28",
   "f": "",
-  "n": "Construction résidentielle et commerciale en hausse."
+  "n": "Construction résidentielle et commerciale en hausse.",
+  "exp": 1
  },
  {
   "c": "HN",
@@ -2697,7 +2847,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "18-28",
   "f": "",
-  "n": "Puerto Cortés dessert aussi le Salvador et le Nicaragua."
+  "n": "Puerto Cortés dessert aussi le Salvador et le Nicaragua.",
+  "exp": 1
  },
  {
   "c": "SV",
@@ -2711,7 +2862,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "18-28",
   "f": "",
-  "n": "Petit marché, importations régulières."
+  "n": "Petit marché, importations régulières.",
+  "exp": 1
  },
  {
   "c": "NI",
@@ -2726,7 +2878,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "18-28",
   "f": "",
-  "n": "Volumes modestes."
+  "n": "Volumes modestes.",
+  "exp": 1
  },
  {
   "c": "CR",
@@ -2741,7 +2894,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "16-26",
   "f": "",
-  "n": "Marché structuré, exigences de qualité."
+  "n": "Marché structuré, exigences de qualité.",
+  "exp": 1
  },
  {
   "c": "PA",
@@ -2759,7 +2913,8 @@ window.NOXEM_COUNTRIES = [
   "t": "14-22",
   "f": "",
   "n": "Zone franche de Colón : plateforme de réexport vers toute la région.",
-  "loc": "Panamá"
+  "loc": "Panamá",
+  "exp": 1
  },
  {
   "c": "BZ",
@@ -2773,7 +2928,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "18-28",
   "f": "",
-  "n": "Très petits volumes."
+  "n": "Très petits volumes.",
+  "exp": 1
  },
  {
   "c": "CU",
@@ -2789,7 +2945,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "16-26",
   "f": "x",
-  "n": "Restrictions américaines : vérifier les incidences bancaires avant de coter."
+  "n": "Restrictions américaines : vérifier les incidences bancaires avant de coter.",
+  "exp": 1
  },
  {
   "c": "DO",
@@ -2807,7 +2964,8 @@ window.NOXEM_COUNTRIES = [
   "t": "14-24",
   "f": "",
   "n": "Hôtellerie et résidentiel : très bon potentiel.",
-  "loc": "la República Dominicana"
+  "loc": "la República Dominicana",
+  "exp": 1
  },
  {
   "c": "HT",
@@ -2823,7 +2981,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-26",
   "f": "",
   "n": "Reconstruction, paiement à sécuriser.",
-  "loc": "Haïti"
+  "loc": "Haïti",
+  "exp": 1
  },
  {
   "c": "JM",
@@ -2837,7 +2996,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "14-24",
   "f": "",
-  "n": "Kingston : hub de transbordement caribéen."
+  "n": "Kingston : hub de transbordement caribéen.",
+  "exp": 1
  },
  {
   "c": "TT",
@@ -2852,7 +3012,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "14-24",
   "f": "",
-  "n": "Industrie et résidentiel, marché solvable."
+  "n": "Industrie et résidentiel, marché solvable.",
+  "exp": 1
  },
  {
   "c": "BB",
@@ -2865,7 +3026,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "16-26",
   "f": "",
-  "n": "Hôtellerie, petits lots."
+  "n": "Hôtellerie, petits lots.",
+  "exp": 1
  },
  {
   "c": "GP",
@@ -2879,7 +3041,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "",
   "n": "Territoire français : pas de droits de douane UE.",
-  "loc": "la Guadeloupe"
+  "loc": "la Guadeloupe",
+  "exp": 1
  },
  {
   "c": "MQ",
@@ -2893,7 +3056,8 @@ window.NOXEM_COUNTRIES = [
   "t": "12-20",
   "f": "",
   "n": "Territoire français : circuit simplifié.",
-  "loc": "la Martinique"
+  "loc": "la Martinique",
+  "exp": 1
  },
  {
   "c": "GF",
@@ -2907,7 +3071,8 @@ window.NOXEM_COUNTRIES = [
   "t": "16-26",
   "f": "",
   "n": "Territoire français, construction publique.",
-  "loc": "la Guyane française"
+  "loc": "la Guyane française",
+  "exp": 1
  },
  {
   "c": "RE",
@@ -2921,7 +3086,8 @@ window.NOXEM_COUNTRIES = [
   "t": "25-35",
   "f": "",
   "n": "Territoire français dans l'océan Indien.",
-  "loc": "La Réunion"
+  "loc": "La Réunion",
+  "exp": 1
  },
  {
   "c": "YT",
@@ -2935,7 +3101,8 @@ window.NOXEM_COUNTRIES = [
   "t": "28-38",
   "f": "",
   "n": "Territoire français, construction publique soutenue.",
-  "loc": "Mayotte"
+  "loc": "Mayotte",
+  "exp": 1
  },
  {
   "c": "CO",
@@ -2952,7 +3119,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "16-26",
   "f": "p",
-  "n": "Production locale (Tecnoglass) : viser les transformateurs indépendants."
+  "n": "Production locale (Tecnoglass) : viser les transformateurs indépendants.",
+  "exp": 1
  },
  {
   "c": "VE",
@@ -2968,7 +3136,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "18-28",
   "f": "x",
-  "n": "Sanctions et contraintes bancaires : vérifier avant toute offre."
+  "n": "Sanctions et contraintes bancaires : vérifier avant toute offre.",
+  "exp": 1
  },
  {
   "c": "EC",
@@ -2985,7 +3154,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "20-30",
   "f": "",
-  "n": "Construction côtière et andine."
+  "n": "Construction côtière et andine.",
+  "exp": 1
  },
  {
   "c": "PE",
@@ -3004,7 +3174,8 @@ window.NOXEM_COUNTRIES = [
   "t": "20-30",
   "f": "p",
   "n": "Marché en croissance, Lima très actif.",
-  "loc": "Perú"
+  "loc": "Perú",
+  "exp": 1
  },
  {
   "c": "BO",
@@ -3019,7 +3190,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "25-35",
   "f": "e",
-  "n": "Enclavé : via les ports chiliens."
+  "n": "Enclavé : via les ports chiliens.",
+  "exp": 1
  },
  {
   "c": "CL",
@@ -3040,7 +3212,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "22-32",
   "f": "",
-  "n": "Normes sismiques : feuilleté et trempé recherchés."
+  "n": "Normes sismiques : feuilleté et trempé recherchés.",
+  "exp": 1
  },
  {
   "c": "AR",
@@ -3059,7 +3232,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "22-32",
   "f": "p",
-  "n": "Contrôle des changes : vérifier les autorisations d'import (SIRA)."
+  "n": "Contrôle des changes : vérifier les autorisations d'import (SIRA).",
+  "exp": 1
  },
  {
   "c": "UY",
@@ -3073,7 +3247,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "20-30",
   "f": "",
-  "n": "Montevideo dessert aussi le Paraguay."
+  "n": "Montevideo dessert aussi le Paraguay.",
+  "exp": 1
  },
  {
   "c": "PY",
@@ -3089,7 +3264,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "28-38",
   "f": "e",
-  "n": "Enclavé, fluvial depuis Montevideo."
+  "n": "Enclavé, fluvial depuis Montevideo.",
+  "exp": 1
  },
  {
   "c": "BR",
@@ -3118,7 +3294,8 @@ window.NOXEM_COUNTRIES = [
   "t": "18-28",
   "f": "p",
   "n": "Production locale : viser miroir, extra-clair et verres décoratifs.",
-  "loc": "o Brasil"
+  "loc": "o Brasil",
+  "exp": 1
  },
  {
   "c": "GY",
@@ -3131,7 +3308,8 @@ window.NOXEM_COUNTRIES = [
   ],
   "t": "18-28",
   "f": "",
-  "n": "Boom pétrolier : construction en très forte hausse."
+  "n": "Boom pétrolier : construction en très forte hausse.",
+  "exp": 1
  },
  {
   "c": "SR",
@@ -3145,6 +3323,7 @@ window.NOXEM_COUNTRIES = [
   "t": "18-28",
   "f": "",
   "n": "Néerlandais langue officielle : atout direct depuis la Belgique.",
-  "loc": "Suriname"
+  "loc": "Suriname",
+  "exp": 1
  }
 ];

@@ -4,70 +4,63 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
-<title>Console de prospection — Conteneur direct verre plat | NOXEM GROUP</title>
+<title>Console de prospection export — NOXEM GROUP</title>
 <link rel="icon" type="image/png" href="../assets/favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{
-  --paper:#FAF8F3; --paper-2:#F0ECE1; --ink:#1E2430; --ink-soft:#585F6E;
-  --red:#B5261F; --amber:#C97A2E; --green:#2F6B4F; --beige:#B7A06E;
-  --line:rgba(30,36,48,0.15); --line-strong:rgba(30,36,48,0.4); --card:#fff;
-}
+:root{--paper:#FAF8F3;--paper-2:#F0ECE1;--ink:#1E2430;--ink-soft:#585F6E;--red:#B5261F;
+ --amber:#C97A2E;--green:#2F6B4F;--line:rgba(30,36,48,.15);--line-strong:rgba(30,36,48,.4);--card:#fff}
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--paper);color:var(--ink);font-family:"Public Sans",system-ui,sans-serif;line-height:1.45}
-h1,h2,h3{font-family:"Archivo",system-ui,sans-serif;margin:0;text-wrap:balance}
+h1,h2,h3{font-family:"Archivo",system-ui,sans-serif;margin:0}
 .mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
 a{color:var(--red)}
-.wrap{max-width:1180px;margin-inline:auto;padding-inline:20px}
-
-.topbar{position:sticky;top:0;z-index:30;background:var(--ink);color:var(--paper);border-bottom:1px solid var(--ink)}
+.wrap{max-width:1240px;margin-inline:auto;padding-inline:20px}
+.topbar{position:sticky;top:0;z-index:30;background:var(--ink);color:var(--paper)}
 .topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;padding-block:12px;flex-wrap:wrap}
-.topbar h1{font-size:16px;letter-spacing:-0.01em}
-.topbar .sub{font-family:"IBM Plex Mono";font-size:10.5px;text-transform:uppercase;letter-spacing:0.08em;opacity:0.62;margin-top:2px}
-.topbar a{color:var(--paper);font-size:12.5px;text-decoration:none;border:1px solid rgba(250,248,243,0.4);padding:7px 12px}
+.topbar h1{font-size:16px}
+.topbar .sub{font-family:"IBM Plex Mono";font-size:10.5px;text-transform:uppercase;letter-spacing:.08em;opacity:.62;margin-top:2px}
+.topbar a{color:var(--paper);font-size:12.5px;text-decoration:none;border:1px solid rgba(250,248,243,.4);padding:7px 12px}
 .topbar a:hover{background:var(--paper);color:var(--ink)}
-
+.stats{display:grid;grid-template-columns:repeat(4,1fr);background:var(--ink);color:var(--paper)}
+@media(max-width:700px){.stats{grid-template-columns:repeat(2,1fr)}}
+.stat{padding:14px 16px;border-right:1px solid rgba(250,248,243,.16)}
+.stat:last-child{border-right:none}
+.stat b{font-family:"Archivo";font-size:22px;display:block;line-height:1}
+.stat span{font-family:"IBM Plex Mono";font-size:10px;text-transform:uppercase;letter-spacing:.07em;opacity:.62}
 section{padding-block:26px;border-bottom:1px solid var(--line)}
-.eyebrow{font-family:"IBM Plex Mono";font-size:10.5px;text-transform:uppercase;letter-spacing:0.09em;color:var(--red);font-weight:600}
+.eyebrow{font-family:"IBM Plex Mono";font-size:10.5px;text-transform:uppercase;letter-spacing:.09em;color:var(--red);font-weight:600}
 h2{font-size:20px;margin-top:6px;margin-bottom:14px}
 .hint{font-size:13px;color:var(--ink-soft);margin:0 0 14px}
-
 .grid-set{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
 @media(max-width:900px){.grid-set{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.grid-set{grid-template-columns:1fr}}
-label{display:block;font-family:"IBM Plex Mono";font-size:10.5px;text-transform:uppercase;letter-spacing:0.05em;color:var(--ink-soft);margin-bottom:4px}
+label{display:block;font-family:"IBM Plex Mono";font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-soft);margin-bottom:4px}
 input,select,textarea{width:100%;font:inherit;font-size:14px;background:var(--card);color:var(--ink);border:1px solid var(--line-strong);padding:9px 10px}
 input:focus,select:focus,textarea:focus{outline:2px solid var(--ink);outline-offset:-2px}
-textarea{font-family:"IBM Plex Mono";font-size:12.5px;line-height:1.55;resize:vertical}
-
-.stats{display:grid;grid-template-columns:repeat(4,1fr);background:var(--ink);color:var(--paper)}
-@media(max-width:700px){.stats{grid-template-columns:repeat(2,1fr)}}
-.stat{padding:14px 16px;border-right:1px solid rgba(250,248,243,0.16)}
-.stat:last-child{border-right:none}
-.stat b{font-family:"Archivo";font-size:22px;display:block;line-height:1}
-.stat span{font-family:"IBM Plex Mono";font-size:10px;text-transform:uppercase;letter-spacing:0.07em;opacity:0.62}
-
+textarea{font-family:"IBM Plex Mono";font-size:12px;line-height:1.55;resize:vertical}
 .filters{display:flex;flex-wrap:wrap;gap:10px;align-items:end;margin-bottom:14px}
-.filters>div{flex:1 1 180px}
+.filters>div{flex:1 1 170px}
+.chk{display:flex;align-items:center;gap:8px;font-size:13.5px;white-space:nowrap;padding-bottom:9px}
+.chk input{width:16px;height:16px;accent-color:var(--ink)}
 .tbl-scroll{overflow-x:auto;border:1px solid var(--line)}
 table{width:100%;border-collapse:collapse;font-size:13.5px;background:var(--card)}
-thead th{position:sticky;top:0;z-index:2;background:var(--paper-2);text-align:left;font-family:"IBM Plex Mono";font-size:10px;text-transform:uppercase;letter-spacing:0.05em;color:var(--ink-soft);padding:9px 10px;border-bottom:1px solid var(--ink);white-space:nowrap}
+thead th{position:sticky;top:0;z-index:2;background:var(--paper-2);text-align:left;font-family:"IBM Plex Mono";font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-soft);padding:9px 10px;border-bottom:1px solid var(--ink);white-space:nowrap}
 td{padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
 tbody tr{position:relative}
 tbody tr:hover{background:var(--paper-2);cursor:pointer}
 tbody tr.on{background:#EDE6D6;box-shadow:inset 3px 0 0 var(--red)}
-.flag{display:inline-block;font-family:"IBM Plex Mono";font-size:9.5px;text-transform:uppercase;letter-spacing:0.04em;padding:1px 6px;border:1px solid var(--line-strong);margin-right:4px;white-space:nowrap}
+.flag{display:inline-block;font-family:"IBM Plex Mono";font-size:9.5px;text-transform:uppercase;letter-spacing:.04em;padding:1px 6px;border:1px solid var(--line-strong);margin-right:4px;white-space:nowrap}
 .flag.x{color:#fff;background:var(--red);border-color:var(--red)}
 .flag.p{color:var(--amber);border-color:var(--amber)}
 .flag.e{color:var(--ink-soft)}
 .note{color:var(--ink-soft);font-size:12.5px}
-
 .two{display:grid;grid-template-columns:1fr 1fr;gap:18px}
-@media(max-width:900px){.two{grid-template-columns:1fr}}
+@media(max-width:1000px){.two{grid-template-columns:1fr}}
 .card{border:1px solid var(--ink);background:var(--card)}
-.card-head{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:11px 14px;border-bottom:1px solid var(--ink);background:var(--paper-2);flex-wrap:wrap}
+.card-head{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 14px;border-bottom:1px solid var(--ink);background:var(--paper-2);flex-wrap:wrap}
 .card-head h3{font-size:14px}
 .card-body{padding:14px}
 .btn{display:inline-flex;align-items:center;gap:7px;padding:9px 14px;font-size:13px;font-weight:600;border:1px solid var(--ink);background:var(--card);color:var(--ink);cursor:pointer;text-decoration:none}
@@ -76,129 +69,121 @@ tbody tr.on{background:#EDE6D6;box-shadow:inset 3px 0 0 var(--red)}
 .btn-primary:hover{background:var(--red);border-color:var(--red)}
 .btn-sm{padding:6px 10px;font-size:12px}
 .btn-row{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.tabs{display:flex;gap:0;border-bottom:1px solid var(--ink)}
+.tab{padding:9px 14px;font-size:12.5px;font-weight:600;border:none;background:none;cursor:pointer;color:var(--ink-soft);border-bottom:3px solid transparent}
+.tab.on{color:var(--ink);border-bottom-color:var(--red)}
+.pane{display:none}.pane.on{display:block}
+iframe{width:100%;height:620px;border:1px solid var(--line);background:#EFEAE2}
 .warn{border-left:3px solid var(--red);background:#FBF0EF;padding:10px 12px;font-size:13px;margin-bottom:12px}
 .warn.amber{border-color:var(--amber);background:#FBF5EC}
 .ok{color:var(--green);font-size:12.5px;font-family:"IBM Plex Mono"}
-footer{padding-block:24px;font-size:12.5px;color:var(--ink-soft)}
 .pill{font-family:"IBM Plex Mono";font-size:10.5px;border:1px solid var(--line-strong);padding:2px 7px}
+footer{padding-block:24px;font-size:12.5px;color:var(--ink-soft)}
 </style>
 </head>
 <body>
 
 <div class="topbar"><div class="wrap">
-  <div>
-    <h1>Console de prospection — conteneur direct verre plat</h1>
-    <div class="sub">NOXEM GROUP · 20' / 40' Open Top · 3210 × 2250 mm · usage interne</div>
-  </div>
+  <div><h1>Console de prospection export</h1>
+  <div class="sub">NOXEM GROUP · verre plat en conteneur · usage interne</div></div>
   <a href="index.html">Voir la page de campagne →</a>
 </div></div>
 
 <div class="stats">
-  <div class="stat"><b id="sCountries">—</b><span>pays ciblés</span></div>
-  <div class="stat"><b id="sLangs">—</b><span>langues de contact</span></div>
+  <div class="stat"><b id="sCountries">—</b><span>pays à l'export</span></div>
+  <div class="stat"><b id="sLangs">—</b><span>langues rédigées</span></div>
   <div class="stat"><b id="sPorts">—</b><span>ports référencés</span></div>
-  <div class="stat"><b id="sSegs">—</b><span>types de clients</span></div>
+  <div class="stat"><b>3 700</b><span>ports dans le monde</span></div>
 </div>
 
 <section><div class="wrap">
-  <div class="eyebrow">Étape 0</div>
-  <h2>Votre signature</h2>
-  <p class="hint">Ces informations sont reprises dans tous les messages générés. Elles restent dans ce navigateur, rien n'est envoyé nulle part.</p>
+  <div class="eyebrow">Étape 0</div><h2>Votre signature</h2>
+  <p class="hint">Repris dans chaque message. Tout reste dans ce navigateur.</p>
   <div class="grid-set">
     <div><label for="fSender">Votre nom</label><input id="fSender" value="Aaron Harfi"></div>
     <div><label for="fEmail">E-mail</label><input id="fEmail" value="aaron.harfi@noxemgroup.com"></div>
-    <div><label for="fPhone">Téléphone</label><input id="fPhone" value="+33 2 59 50 84 59"></div>
+    <div><label for="fPhone">Téléphone WhatsApp affiché</label><input id="fPhone" value="+33 7 69 72 58 92"></div>
     <div><label for="fWa">WhatsApp (chiffres)</label><input id="fWa" value="33769725892"></div>
-    <div><label for="fSite">Lien de campagne</label><input id="fSite" value="https://dgjmfrbv4k-lab.github.io/NOXEM-GROUP/campagne-conteneur-20-open-top/"></div>
-    <div><label for="fLoad">Port de chargement</label><input id="fLoad" value="Anvers"></div>
-  </div>
-</div></section>
-
-<section><div class="wrap">
-  <div class="eyebrow">Étape 1</div>
-  <h2>Choisir le pays</h2>
-  <div class="filters">
-    <div><label for="fSearch">Rechercher (pays ou port)</label><input id="fSearch" placeholder="Roumanie, Jebel Ali, Lomé…"></div>
-    <div><label for="fRegion">Région</label><select id="fRegion"><option value="">Toutes les régions</option></select></div>
-    <div><label for="fLang">Langue</label><select id="fLang"><option value="">Toutes les langues</option></select></div>
-    <div style="flex:0 0 auto"><label>&nbsp;</label><button class="btn btn-sm" id="bReset">Réinitialiser</button></div>
-  </div>
-  <div class="tbl-scroll" style="max-height:380px;overflow-y:auto">
-    <table><thead><tr>
-      <th>Pays</th><th>Région</th><th>Langue</th><th>Ports</th><th>Transit</th><th>À savoir</th><th></th>
-    </tr></thead><tbody id="tbody"></tbody></table>
+    <div><label for="fSite">Site</label><input id="fSite" value="https://noxemgroup.com"></div>
+    <div><label for="fLogo">Source du logo dans le HTML</label><input id="fLogo" value="cid:noxem-logo.png"></div>
   </div>
   <p class="hint" style="margin-top:10px">
-    <span class="flag x">Sanctions</span> vérification réglementaire obligatoire avant toute offre ·
-    <span class="flag p">Float local</span> production sur place, viser les niches ·
-    <span class="flag e">Enclavé</span> coter CFR port de transit + acheminement terrestre.
-    Transit indicatif en jours depuis Anvers, à confirmer auprès du transitaire.
+    <b>Le logo :</b> laissez <code>cid:noxem-logo.png</code> et joignez <code>email/noxem-logo.png</code>
+    en pièce inline sous ce nom exact. Si votre plateforme héberge les images, remplacez par l'adresse du fichier.
   </p>
 </div></section>
 
 <section><div class="wrap">
-  <div class="eyebrow">Étape 2</div>
-  <h2>La société et le message</h2>
+  <div class="eyebrow">Étape 1</div><h2>Choisir le pays</h2>
+  <div class="filters">
+    <div><label for="fSearch">Rechercher (pays ou port)</label><input id="fSearch" placeholder="Émirats, Jebel Ali, Constanța…"></div>
+    <div><label for="fRegion">Région</label><select id="fRegion"><option value="">Toutes les régions</option></select></div>
+    <div><label for="fLang">Langue</label><select id="fLang"><option value="">Toutes les langues</option></select></div>
+    <div style="flex:0 0 auto"><div class="chk"><input type="checkbox" id="fExp" checked><label for="fExp" style="margin:0;text-transform:none;font-family:inherit;font-size:13.5px;color:var(--ink)">Export seulement</label></div></div>
+    <div style="flex:0 0 auto"><label>&nbsp;</label><button class="btn btn-sm" id="bReset">Réinitialiser</button></div>
+  </div>
+  <div class="tbl-scroll" style="max-height:340px;overflow-y:auto">
+    <table><thead><tr><th>Pays</th><th>Région</th><th>Langue</th><th>Ports</th><th>Transit</th><th>À savoir</th><th></th></tr></thead>
+    <tbody id="tbody"></tbody></table>
+  </div>
+  <p class="hint" style="margin-top:10px">
+    <span class="flag x">Sanctions</span> vérification réglementaire obligatoire ·
+    <span class="flag p">Float local</span> viser miroir, Low-E, feuilleté, jumbo ·
+    <span class="flag e">Enclavé</span> coter le port de transit puis l'acheminement terrestre.
+  </p>
+</div></section>
+
+<section><div class="wrap">
+  <div class="eyebrow">Étape 2</div><h2>La société et le message</h2>
   <div class="grid-set" style="margin-bottom:16px">
-    <div><label for="fCompany">Société</label><input id="fCompany" placeholder="Nom de la société"></div>
+    <div><label for="fCompany">Société (mémo, n'apparaît pas)</label><input id="fCompany" placeholder="Nom de la société"></div>
     <div><label for="fContact">Interlocuteur (facultatif)</label><input id="fContact" placeholder="M. Popescu"></div>
-    <div><label for="fSegment">Type de client</label><select id="fSegment"></select></div>
     <div><label for="fPort">Port de destination</label><select id="fPort"></select></div>
+    <div><label>&nbsp;</label><span class="pill" id="langTag">—</span></div>
   </div>
   <div id="warnBox"></div>
   <div class="two">
     <div class="card">
-      <div class="card-head">
-        <h3>E-mail</h3>
-        <span class="pill" id="langTag">—</span>
-      </div>
+      <div class="card-head"><h3>Le message</h3><span class="pill" id="subjTag">objet</span></div>
       <div class="card-body">
-        <label for="oSubject">Objet</label>
-        <input id="oSubject" readonly>
-        <label for="oBody" style="margin-top:10px">Corps du message</label>
-        <textarea id="oBody" rows="20" readonly></textarea>
+        <label for="oSubject">Objet</label><input id="oSubject" readonly>
+        <div class="tabs" style="margin-top:14px">
+          <button class="tab on" data-pane="pv">Aperçu</button>
+          <button class="tab" data-pane="ht">HTML</button>
+          <button class="tab" data-pane="tx">Texte</button>
+          <button class="tab" data-pane="wa">WhatsApp</button>
+        </div>
+        <div class="pane on" id="pv" style="margin-top:12px"><iframe id="frame" title="Aperçu"></iframe></div>
+        <div class="pane" id="ht" style="margin-top:12px"><textarea id="oHtml" rows="22" readonly></textarea></div>
+        <div class="pane" id="tx" style="margin-top:12px"><textarea id="oText" rows="22" readonly></textarea></div>
+        <div class="pane" id="wa" style="margin-top:12px"><textarea id="oWa" rows="8" readonly></textarea></div>
         <div class="btn-row">
-          <button class="btn btn-primary" id="bCopyMail">Copier l'e-mail</button>
-          <a class="btn" id="bMailto" href="#">Ouvrir dans la messagerie</a>
-          <span class="ok" id="okMail"></span>
+          <button class="btn btn-primary" id="bCopyHtml">Copier le HTML</button>
+          <button class="btn" id="bCopyText">Copier le texte</button>
+          <button class="btn" id="bCopyWa">Copier WhatsApp</button>
+          <a class="btn" id="bWaLink" href="#" target="_blank" rel="noopener">Ouvrir WhatsApp</a>
+          <span class="ok" id="okMsg"></span>
         </div>
       </div>
     </div>
     <div class="card">
-      <div class="card-head">
-        <h3>WhatsApp / LinkedIn</h3>
-        <span class="pill">version courte</span>
-      </div>
-      <div class="card-body">
-        <textarea id="oWa" rows="7" readonly></textarea>
-        <div class="btn-row">
-          <button class="btn btn-primary" id="bCopyWa">Copier</button>
-          <a class="btn" id="bWaLink" href="#" target="_blank" rel="noopener">Ouvrir WhatsApp</a>
-          <span class="ok" id="okWa"></span>
-        </div>
-        <div style="margin-top:18px;border-top:1px solid var(--line);padding-top:14px">
-          <label for="oIntel">Mémo pays</label>
-          <textarea id="oIntel" rows="7" readonly></textarea>
-        </div>
-      </div>
+      <div class="card-head"><h3>Mémo pays</h3><span class="pill">à garder sous les yeux</span></div>
+      <div class="card-body"><textarea id="oIntel" rows="14" readonly></textarea></div>
     </div>
   </div>
 </div></section>
 
 <section><div class="wrap">
-  <div class="eyebrow">Étape 3</div>
-  <h2>Série de sociétés</h2>
-  <p class="hint">
-    Une ligne par société, séparateur <code>;</code> — colonnes :
-    <code class="mono">société ; pays ; type ; interlocuteur ; e-mail ; port</code>.
-    Le pays s'écrit en toutes lettres ou en code ISO (RO, AE, CI…). Les trois dernières colonnes
-    sont facultatives. Le fichier CSV produit s'ouvre dans Excel et alimente un publipostage.
-  </p>
-  <textarea id="bulkIn" rows="7" placeholder="Sticla Prod SRL;RO;vitrage;Dl. Popescu;office@sticlaprod.ro
-Gulf Mirror Industries;AE;miroir;;info@gulfmirror.ae;Jebel Ali
-Vitrerie du Littoral;CI;miroiterie;M. Kouassi;contact@vitrerie-littoral.ci"></textarea>
+  <div class="eyebrow">Étape 3</div><h2>Série de sociétés</h2>
+  <p class="hint">Une ligne par société, séparateur <code>;</code> — colonnes :
+    <code class="mono">société ; pays ; interlocuteur ; e-mail ; port</code>.
+    Pays en toutes lettres ou en code ISO. Le CSV produit contient l'objet, le HTML, le texte et le WhatsApp,
+    prêts pour un publipostage.</p>
+  <textarea id="bulkIn" rows="6" placeholder="Gulf Mirror Industries;AE;;info@gulfmirror.ae;Jebel Ali
+Vitrerie du Littoral;CI;M. Kouassi;contact@vitrerie-littoral.ci
+Sticla Prod SRL;RO;Dl. Popescu;office@sticlaprod.ro"></textarea>
   <div class="btn-row">
-    <button class="btn btn-primary" id="bRun">Générer les messages</button>
+    <button class="btn btn-primary" id="bRun">Générer</button>
     <button class="btn" id="bCsv">Télécharger le CSV</button>
     <span class="ok" id="okBulk"></span>
   </div>
@@ -206,198 +191,228 @@ Vitrerie du Littoral;CI;miroiterie;M. Kouassi;contact@vitrerie-littoral.ci"></te
 </div></section>
 
 <footer><div class="wrap">
-  NOXEM GROUP — Mollem (Asse), Belgique · Page interne, non indexée.
-  Prospection B2B : conserver la preuve de l'intérêt professionnel, indiquer l'origine des coordonnées
-  sur demande et traiter toute demande de retrait sous 30 jours (RGPD, art. 6.1.f et 21).
+  NOXEM GROUP · page interne, non indexée. Prospection B2B : conserver la preuve de l'intérêt
+  professionnel, indiquer l'origine des coordonnées sur demande, traiter tout retrait sous 30 jours.
 </div></footer>
 
 <script src="data/pays.js"></script>
-<script src="data/messages.js"></script>
+<script src="data/emails.js"></script>
 <script>
 (function(){
-  var C = window.NOXEM_COUNTRIES, R = window.NOXEM_REGIONS,
-      MSG = window.NOXEM_MSG, SEG = window.NOXEM_SEGMENTS;
-  var SETTINGS = ["fSender","fEmail","fPhone","fWa","fSite","fLoad"];
-  var cur = null;
+  var C = window.NOXEM_COUNTRIES, R = window.NOXEM_REGIONS, M = window.NOXEM_MAIL;
+  var SET = ["fSender","fEmail","fPhone","fWa","fSite","fLogo"];
+  var cur = null, bulk = [];
   var $ = function(id){ return document.getElementById(id); };
+  var esc = function(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;'); };
 
-  /* ---------- réglages persistés ---------- */
-  SETTINGS.forEach(function(id){
-    try{ var v = localStorage.getItem('noxem_camp_'+id); if(v !== null) $(id).value = v; }catch(e){}
+  SET.forEach(function(id){
+    try{ var v = localStorage.getItem('nx_'+id); if(v !== null) $(id).value = v; }catch(e){}
     $(id).addEventListener('input', function(){
-      try{ localStorage.setItem('noxem_camp_'+id, $(id).value); }catch(e){}
+      try{ localStorage.setItem('nx_'+id, $(id).value); }catch(e){}
       render();
     });
   });
 
-  /* ---------- compteurs ---------- */
-  var allPorts = {};
-  C.forEach(function(c){ c.p.forEach(function(p){ allPorts[p] = 1; }); });
-  $('sCountries').textContent = C.length;
-  $('sLangs').textContent = Object.keys(MSG).length;
-  $('sPorts').textContent = Object.keys(allPorts).length;
-  $('sSegs').textContent = Object.keys(SEG).length;
+  var NAMED = /^(via |rail |route )/;
+  var portSet = {};
+  C.forEach(function(c){ c.p.forEach(function(p){ if(!NAMED.test(p)) portSet[p] = 1; }); });
+  $('sCountries').textContent = C.filter(function(c){ return c.exp; }).length;
+  $('sLangs').textContent = Object.keys(M).length;
+  $('sPorts').textContent = Object.keys(portSet).length;
 
-  /* ---------- filtres ---------- */
   Object.keys(R).forEach(function(k){
     var o = document.createElement('option'); o.value = k; o.textContent = R[k].fr; $('fRegion').appendChild(o);
   });
-  var usedLangs = {};
-  C.forEach(function(c){ usedLangs[c.l] = 1; });
-  Object.keys(usedLangs).sort(function(a,b){
-    return MSG[a].name.localeCompare(MSG[b].name);
-  }).forEach(function(l){
-    var o = document.createElement('option'); o.value = l;
-    o.textContent = MSG[l].name + ' (' + l + ')'; $('fLang').appendChild(o);
-  });
-  Object.keys(SEG).forEach(function(k){
-    var o = document.createElement('option'); o.value = k; o.textContent = SEG[k].fr; $('fSegment').appendChild(o);
+  Object.keys(M).sort(function(a,b){ return M[a].name.localeCompare(M[b].name); }).forEach(function(l){
+    var o = document.createElement('option'); o.value = l; o.textContent = M[l].name + ' (' + l + ')';
+    $('fLang').appendChild(o);
   });
 
+  function portLabel(p){
+    return String(p).replace(/^via\s+/i,'').replace(/\s*\([^)]*\)/g,'').trim();
+  }
   function flags(c){
     var h = '';
     if(c.f.indexOf('x') !== -1) h += '<span class="flag x">Sanctions</span>';
     if(c.f.indexOf('p') !== -1) h += '<span class="flag p">Float local</span>';
     if(c.f.indexOf('e') !== -1) h += '<span class="flag e">Enclavé</span>';
+    if(!c.exp) h += '<span class="flag">Proximité</span>';
     return h;
   }
-
   function list(){
-    var q = $('fSearch').value.trim().toLowerCase(),
-        rg = $('fRegion').value, lg = $('fLang').value;
+    var q = $('fSearch').value.trim().toLowerCase(), rg = $('fRegion').value,
+        lg = $('fLang').value, ex = $('fExp').checked;
     return C.filter(function(c){
+      if(ex && !c.exp) return false;
       if(rg && c.r !== rg) return false;
       if(lg && c.l !== lg) return false;
       if(!q) return true;
       return (c.fr + ' ' + c.en + ' ' + c.c + ' ' + c.p.join(' ')).toLowerCase().indexOf(q) !== -1;
     });
   }
-
   function drawTable(){
     var rows = list(), tb = $('tbody');
     tb.innerHTML = '';
-    if(!rows.length){
-      tb.innerHTML = '<tr><td colspan="7" class="note">Aucun pays ne correspond à ce filtre.</td></tr>';
-      return;
-    }
+    if(!rows.length){ tb.innerHTML = '<tr><td colspan="7" class="note">Aucun pays ne correspond.</td></tr>'; return; }
     rows.forEach(function(c){
       var tr = document.createElement('tr');
       if(cur && cur.c === c.c) tr.className = 'on';
-      tr.innerHTML =
-        '<td><b>' + c.fr + '</b><br><span class="note mono">' + c.c + '</span></td>' +
-        '<td class="note">' + R[c.r].fr + '</td>' +
-        '<td>' + MSG[c.l].name + '</td>' +
-        '<td class="note">' + c.p.join(' · ') + '</td>' +
+      tr.innerHTML = '<td><b>' + c.fr + '</b><br><span class="note mono">' + c.c + '</span></td>' +
+        '<td class="note">' + R[c.r].fr + '</td><td>' + M[c.l].name + '</td>' +
+        '<td class="note">' + c.p.slice(0,4).join(' · ') + (c.p.length > 4 ? ' …' : '') + '</td>' +
         '<td class="mono">' + c.t + ' j</td>' +
         '<td>' + flags(c) + '<div class="note">' + c.n + '</div></td>' +
         '<td><button class="btn btn-sm" type="button">Choisir</button></td>';
-      /* la sélection se fait dès l'enfoncement : dans une liste défilante, le focus
-         peut déplacer la ligne entre le mousedown et le mouseup et supprimer le clic */
       tr.addEventListener('mousedown', function(){ select(c); });
       tr.addEventListener('click', function(){ select(c); });
-      tr.querySelector('button').addEventListener('keydown', function(e){
-        if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); select(c); }
-      });
       tb.appendChild(tr);
     });
   }
-
   function select(c){
     cur = c;
     $('fPort').innerHTML = '';
     c.p.forEach(function(p){
       var o = document.createElement('option'); o.value = p; o.textContent = p; $('fPort').appendChild(o);
     });
-    drawTable();
-    render();
-    $('fCompany').focus();
+    drawTable(); render(); $('fCompany').focus();
   }
 
   /* ---------- fabrication du message ---------- */
-  function fill(t, v){
-    return t.replace(/\{(\w+)\}/g, function(m, k){ return v[k] !== undefined ? v[k] : m; });
-  }
+  function build(country, contact, port){
+    var t = M[country.l], rtl = !!t.rtl, pt = portLabel(port || country.p[0]);
+    var v = { contact: contact || '', port: pt };
+    var f = function(s){ return s.replace(/\{(\w+)\}/g, function(m,k){ return v[k] !== undefined ? v[k] : m; }); };
+    var S = { sender:$('fSender').value, email:$('fEmail').value, phone:$('fPhone').value,
+              wa:$('fWa').value, site:$('fSite').value, logo:$('fLogo').value };
+    var waUrl = 'https://wa.me/' + S.wa;
+    var mailto = 'mailto:' + S.email + '?subject=' + encodeURIComponent(f(t.subj));
+    var align = rtl ? 'right' : 'left', dir = rtl ? ' dir="rtl"' : '';
+    var F = 'font-family:Helvetica,Arial,sans-serif;';
 
-  /* dans une phrase, le port se dit sans sa précision entre parenthèses ni son « via » :
-     « CFR Jebel Ali », pas « CFR Jebel Ali (Dubaï) » ni « CFR via Dakar » */
-  function portLabel(p){
-    return String(p).replace(/^via\s+/i, '').replace(/\s*\([^)]*\)/g, '').trim();
-  }
+    function bullets(arr){
+      return arr.map(function(b, i){
+        return '<tr><td width="16" valign="top" style="font-size:13px;line-height:1.6;color:#C1272D;">&#9642;</td>' +
+          '<td style="font-size:14.5px;line-height:1.6;color:#2A323D;padding-bottom:' +
+          (i === arr.length-1 ? 0 : 11) + 'px;">' + f(b) + '</td></tr>';
+      }).join('');
+    }
+    function title(x){
+      return '<div style="' + F + 'font-size:10px;font-weight:bold;letter-spacing:2px;color:#C1272D;' +
+        'text-transform:uppercase;padding-bottom:14px;">' + x + '</div>';
+    }
 
-  function build(country, company, contact, segment, port){
-    var t = MSG[country.l];
-    var v = {
-      contact: contact || '',
-      company: company || '…',
-      country: country.fr,
-      port: portLabel(port || country.p[0]),
-      transit: country.t,
-      sender: $('fSender').value,
-      site: $('fSite').value
-    };
-    /* le pays doit être nommé dans la langue du message, article et déclinaison compris */
-    v.country = country.loc || (country.l === 'fr' ? country.fr : country.en);
+    var html =
+'<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#EFEAE2" style="background-color:#EFEAE2;">\n' +
+'<tr><td align="center" style="padding:24px 12px;">\n' +
+'<table width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF" style="width:600px;max-width:600px;background-color:#FFFFFF;border:1px solid #DCD4C8;"' + dir + '>\n' +
+'  <tr><td bgcolor="#F7F4F0" style="background-color:#F7F4F0;padding:18px 28px;border-bottom:1px solid #E6DFD4;">\n' +
+'    <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>\n' +
+'      <td align="' + align + '" valign="middle" style="line-height:0;"><img src="' + S.logo + '" width="181" height="60" alt="NOXEM GROUP FRANCE" style="display:block;border:0;width:181px;height:60px;"></td>\n' +
+'      <td align="' + (rtl ? 'left' : 'right') + '" valign="middle" style="' + F + 'font-size:10px;font-weight:bold;letter-spacing:2px;color:#6B7585;text-transform:uppercase;">' + t.eyebrow + '</td>\n' +
+'    </tr></table></td></tr>\n' +
+'  <tr><td bgcolor="#3E4757" style="background-color:#3E4757;padding:32px 28px 30px;">\n' +
+'    <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>\n' +
+'      <td width="4" bgcolor="#C1272D" style="background-color:#C1272D;font-size:0;line-height:0;">&nbsp;</td>\n' +
+'      <td width="18" style="font-size:0;line-height:0;">&nbsp;</td>\n' +
+'      <td style="' + F + '">\n' +
+'        <div style="font-size:25px;line-height:1.24;font-weight:bold;color:#FFFFFF;">' + t.h1a + '</div>\n' +
+'        <div style="font-size:25px;line-height:1.24;font-weight:bold;color:#D4853A;">' + t.h1b + '</div>\n' +
+'        <div style="margin-top:12px;font-size:10.5px;font-weight:bold;letter-spacing:1.8px;color:#C7BDB0;text-transform:uppercase;">' + t.tag + '</div>\n' +
+'      </td></tr></table></td></tr>\n' +
+'  <tr><td style="font-size:0;line-height:0;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>\n' +
+'      <td width="33%" height="5" bgcolor="#D9CCBC" style="background-color:#D9CCBC;font-size:0;line-height:0;">&nbsp;</td>\n' +
+'      <td width="33%" height="5" bgcolor="#D4853A" style="background-color:#D4853A;font-size:0;line-height:0;">&nbsp;</td>\n' +
+'      <td width="34%" height="5" bgcolor="#C1272D" style="background-color:#C1272D;font-size:0;line-height:0;">&nbsp;</td>\n' +
+'  </tr></table></td></tr>\n' +
+'  <tr><td style="padding:30px 36px 0;' + F + 'color:#2A323D;">\n' +
+'    <p style="margin:0 0 16px;font-size:15px;line-height:1.6;">' + (contact ? f(t.hi) : t.hiG) + '</p>\n' +
+'    <p style="margin:0 0 24px;font-size:15px;line-height:1.65;">' + t.intro + '</p></td></tr>\n' +
+'  <tr><td style="padding:0 36px;"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #E6DFD4;">\n' +
+'    <tr><td style="padding:20px 0 4px;' + F + '">' + title(t.t1) +
+'      <table cellpadding="0" cellspacing="0" border="0" width="100%">' + bullets(t.g) + '</table>\n' +
+'    </td></tr></table></td></tr>\n' +
+'  <tr><td style="padding:22px 36px 0;">\n' +
+'    <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#F9F7F3" style="background-color:#F9F7F3;border:1px solid #E6DFD4;">\n' +
+'      <tr><td style="padding:20px 22px 18px;' + F + '">' + title(t.t2) +
+'        <table width="100%" cellpadding="0" cellspacing="0" border="0">\n' +
+'          <tr><td style="padding-bottom:14px;">\n' +
+'            <div style="font-size:12px;color:#6B7585;letter-spacing:.5px;">' + t.fmain + '</div>\n' +
+'            <div style="font-size:23px;font-weight:bold;color:#3E4757;line-height:1.3;">3210&nbsp;×&nbsp;2550&nbsp;mm</div></td></tr>\n' +
+'          <tr><td style="border-top:1px solid #E6DFD4;padding-top:14px;">\n' +
+'            <div style="font-size:12px;color:#6B7585;letter-spacing:.5px;padding-bottom:6px;">' + t.falso + '</div>\n' +
+'            <div style="font-size:14px;line-height:1.75;color:#2A323D;">3210 × 2250 &nbsp;·&nbsp; 2140 × 3300 &nbsp;·&nbsp; 2440 × 3300 &nbsp;·&nbsp; 2440 × 3660<br>2745 × 3658 &nbsp;·&nbsp; 3300 × 5100 &nbsp;·&nbsp; 1830 × 2440 &nbsp;·&nbsp; 1220 × 1830&nbsp;mm</div></td></tr>\n' +
+'          <tr><td style="border-top:1px solid #E6DFD4;padding-top:14px;">\n' +
+'            <div style="font-size:14.5px;line-height:1.6;color:#2A323D;">' + t.fcut + '</div></td></tr>\n' +
+'        </table></td></tr></table></td></tr>\n' +
+'  <tr><td style="padding:22px 36px 0;"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #E6DFD4;">\n' +
+'    <tr><td style="padding:20px 0 4px;' + F + '">' + title(t.t3) +
+'      <table cellpadding="0" cellspacing="0" border="0" width="100%">' + bullets(t.l) + '</table>\n' +
+'    </td></tr></table></td></tr>\n' +
+'  <tr><td style="padding:26px 36px 6px;' + F + '"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #E6DFD4;">\n' +
+'    <tr><td style="padding-top:24px;">\n' +
+'      <p style="margin:0 0 22px;font-size:15px;line-height:1.65;color:#2A323D;">' + f(t.cta) + '</p>\n' +
+'      <table cellpadding="0" cellspacing="0" border="0"><tr>\n' +
+'        <td bgcolor="#C1272D" style="background-color:#C1272D;"><a href="' + mailto + '" style="display:inline-block;padding:15px 28px;' + F + 'font-size:14.5px;font-weight:bold;color:#FFFFFF;text-decoration:none;">' + t.btn1 + '</a></td>\n' +
+'        <td width="12" style="font-size:0;">&nbsp;</td>\n' +
+'        <td style="border:1px solid #3E4757;"><a href="' + waUrl + '" style="display:inline-block;padding:14px 26px;' + F + 'font-size:14.5px;font-weight:bold;color:#3E4757;text-decoration:none;">' + t.btn2 + '</a></td>\n' +
+'      </tr></table></td></tr></table></td></tr>\n' +
+'  <tr><td style="padding:28px 36px 30px;' + F + '"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top:1px solid #E6DFD4;">\n' +
+'    <tr><td style="padding-top:18px;font-size:14px;line-height:1.75;color:#2A323D;">\n' +
+'      <strong style="color:#3E4757;">' + S.sender + '</strong> — NOXEM GROUP<br>\n' +
+'      <a href="' + waUrl + '" style="color:#C1272D;text-decoration:none;font-weight:bold;">WhatsApp ' + S.phone + '</a><br>\n' +
+'      <a href="mailto:' + S.email + '" style="color:#3E4757;text-decoration:none;">' + S.email + '</a><br>\n' +
+'      <a href="' + S.site + '" style="color:#3E4757;text-decoration:none;">' + S.site.replace(/^https?:\/\//,'') + '</a>\n' +
+'    </td></tr></table></td></tr>\n' +
+'  <tr><td bgcolor="#3E4757" style="background-color:#3E4757;padding:13px 36px;' + F + '">\n' +
+'    <p style="margin:0;font-size:11px;line-height:1.5;color:#B9C0CA;">' + t.ps + '</p></td></tr>\n' +
+'</table></td></tr></table>';
 
-    var sign = [$('fSender').value, 'NOXEM GROUP', $('fPhone').value + ' · ' + $('fEmail').value, $('fSite').value]
-      .filter(Boolean).join('\n');
-
-    var body = [
-      contact ? fill(t.hi, v) : t.hiG,
-      '',
-      fill(t.intro, v),
-      '',
-      fill(t.seg[segment] || t.seg.negoce, v),
-      '',
-      fill(t.offer, v),
-      '',
-      fill(t.load, v),
-      '',
-      fill(t.logi, v),
-      '',
-      fill(t.ask, v),
-      '',
-      t.close,
-      sign,
-      '',
-      '— ' + t.ps
+    var strip = function(s){ return f(s).replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&nbsp;/g,' '); };
+    var text = [
+      t.h1a.toUpperCase() + ' ' + t.h1b.toUpperCase(), t.tag, '',
+      contact ? strip(t.hi) : t.hiG, '', strip(t.intro), '',
+      t.t1.toUpperCase(), t.g.map(function(x){ return '- ' + strip(x); }).join('\n'), '',
+      strip(t.t2).toUpperCase(), t.fmain + ' : 3210 x 2550 mm',
+      t.falso + ' : 3210 x 2250 · 2140 x 3300 · 2440 x 3300 · 2440 x 3660 · 2745 x 3658 · 3300 x 5100 · 1830 x 2440 · 1220 x 1830 mm',
+      strip(t.fcut), '',
+      strip(t.t3).toUpperCase(), t.l.map(function(x){ return '- ' + strip(x); }).join('\n'), '',
+      strip(t.cta), '',
+      S.sender + ' - NOXEM GROUP', 'WhatsApp ' + S.phone + ' - ' + waUrl, S.email, S.site, '', t.ps
     ].join('\n');
 
-    return {
-      lang: country.l,
-      subject: fill(t.subj, v),
-      body: body,
-      wa: fill(t.wa, v)
-    };
+    return { lang: country.l, rtl: rtl, subject: f(t.subj), html: html, text: text, wa: f(t.wa), waUrl: waUrl };
   }
 
   function render(){
     if(!cur){
-      $('oSubject').value = ''; $('oBody').value = 'Choisissez un pays dans la liste ci-dessus.';
+      $('oSubject').value = ''; $('oHtml').value = ''; $('oText').value = 'Choisissez un pays ci-dessus.';
       $('oWa').value = ''; $('oIntel').value = ''; $('langTag').textContent = '—';
-      $('warnBox').innerHTML = ''; return;
+      $('warnBox').innerHTML = ''; $('frame').srcdoc = ''; return;
     }
-    var seg = $('fSegment').value || 'negoce';
-    var out = build(cur, $('fCompany').value, $('fContact').value.trim(), seg, $('fPort').value);
-    var t = MSG[cur.l];
-
+    var out = build(cur, $('fContact').value.trim(), $('fPort').value), t = M[cur.l];
     $('oSubject').value = out.subject;
-    $('oBody').value = out.body;
+    $('oHtml').value = out.html;
+    $('oText').value = out.text;
     $('oWa').value = out.wa;
+    $('bWaLink').href = out.waUrl + '?text=' + encodeURIComponent(out.wa);
     $('langTag').textContent = t.name + ' · ' + cur.l.toUpperCase();
-
-    var dir = t.rtl ? 'rtl' : 'ltr';
-    $('oBody').setAttribute('dir', dir); $('oWa').setAttribute('dir', dir);
-    $('oSubject').setAttribute('dir', dir);
-
-    $('bMailto').href = 'mailto:?subject=' + encodeURIComponent(out.subject) +
-      '&body=' + encodeURIComponent(out.body);
-    $('bWaLink').href = 'https://wa.me/?text=' + encodeURIComponent(out.wa);
+    $('subjTag').textContent = cur.fr;
+    var d = out.rtl ? 'rtl' : 'ltr';
+    ['oSubject','oText','oWa'].forEach(function(id){ $(id).setAttribute('dir', d); });
+    /* dans l'aperçu, le cid: ne se résout pas : on pointe le fichier local */
+    $('frame').srcdoc = '<!doctype html><html dir="' + d + '"><head><meta charset="utf-8">' +
+      '<base href="' + location.href + '"></head><body style="margin:0;background:#EFEAE2;">' +
+      out.html.replace('src="cid:noxem-logo.png"', 'src="email/noxem-logo.png"') + '</body></html>';
 
     var w = '';
     if(cur.f.indexOf('x') !== -1){
       w += '<div class="warn"><b>Contrôle réglementaire requis.</b> ' + cur.fr +
-        ' fait l\'objet de sanctions ou de restrictions. Faites valider la destination, ' +
-        'le destinataire et le circuit bancaire avant d\'envoyer une offre.</div>';
+        ' fait l\'objet de sanctions ou de restrictions : faites valider destination, destinataire et circuit bancaire avant d\'envoyer.</div>';
+    }
+    if(!cur.exp){
+      w += '<div class="warn amber"><b>Marché de proximité.</b> ' + cur.fr +
+        ' se livre en camion depuis l\'entrepôt : ce message parle de conteneur et de port, adaptez-le ou passez votre chemin.</div>';
     }
     if(t.q === 'check'){
       w += '<div class="warn amber"><b>Traduction à faire relire.</b> Le modèle ' + t.name +
@@ -407,130 +422,112 @@ Vitrerie du Littoral;CI;miroiterie;M. Kouassi;contact@vitrerie-littoral.ci"></te
 
     $('oIntel').value = [
       cur.fr + ' (' + cur.c + ') — ' + R[cur.r].fr,
-      'Langue de contact : ' + t.name,
+      'Langue du message : ' + t.name,
       'Ports : ' + cur.p.join(' · '),
-      'Transit indicatif depuis ' + $('fLoad').value + ' : ' + cur.t + ' jours',
-      cur.f.indexOf('p') !== -1 ? 'Float produit sur place — viser miroir, Low-E, feuilleté, formats jumbo.' : 'Pas de production float locale connue — tout est importé.',
-      cur.f.indexOf('e') !== -1 ? 'Pays enclavé — coter CFR port de transit, acheminement terrestre à part.' : '',
-      '',
-      cur.n
+      'Transit indicatif : ' + cur.t + ' jours',
+      cur.f.indexOf('p') !== -1 ? 'Float produit sur place — viser miroir, Low-E, feuilleté, jumbo.'
+                                : 'Pas de production float locale connue — tout est importé.',
+      cur.f.indexOf('e') !== -1 ? 'Pays enclavé — coter le port de transit, acheminement terrestre à part.' : '',
+      '', cur.n
     ].filter(Boolean).join('\n');
   }
 
-  function flash(el, txt){
-    el.textContent = txt;
-    setTimeout(function(){ el.textContent = ''; }, 2200);
-  }
+  function flash(el, txt){ el.textContent = txt; setTimeout(function(){ el.textContent = ''; }, 2200); }
   function copy(text, okEl){
     function done(){ flash(okEl, 'Copié'); }
-    if(navigator.clipboard && navigator.clipboard.writeText){
-      navigator.clipboard.writeText(text).then(done, function(){ fallback(); });
-    } else { fallback(); }
     function fallback(){
-      var ta = document.createElement('textarea');
-      ta.value = text; document.body.appendChild(ta); ta.select();
+      var ta = document.createElement('textarea'); ta.value = text;
+      document.body.appendChild(ta); ta.select();
       try{ document.execCommand('copy'); done(); }catch(e){ flash(okEl, 'Copie impossible'); }
       document.body.removeChild(ta);
     }
+    if(navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(text).then(done, fallback);
+    } else { fallback(); }
   }
+  $('bCopyHtml').addEventListener('click', function(){ copy($('oHtml').value, $('okMsg')); });
+  $('bCopyText').addEventListener('click', function(){ copy($('oSubject').value + '\n\n' + $('oText').value, $('okMsg')); });
+  $('bCopyWa').addEventListener('click', function(){ copy($('oWa').value, $('okMsg')); });
 
-  $('bCopyMail').addEventListener('click', function(){
-    copy($('oSubject').value + '\n\n' + $('oBody').value, $('okMail'));
+  Array.prototype.forEach.call(document.querySelectorAll('.tab'), function(b){
+    b.addEventListener('click', function(){
+      Array.prototype.forEach.call(document.querySelectorAll('.tab'), function(x){ x.classList.remove('on'); });
+      Array.prototype.forEach.call(document.querySelectorAll('.pane'), function(x){ x.classList.remove('on'); });
+      b.classList.add('on'); $(b.getAttribute('data-pane')).classList.add('on');
+    });
   });
-  $('bCopyWa').addEventListener('click', function(){ copy($('oWa').value, $('okWa')); });
-
-  ['fSearch','fRegion','fLang'].forEach(function(id){
-    $(id).addEventListener('input', drawTable);
-    $(id).addEventListener('change', drawTable);
+  ['fSearch','fRegion','fLang','fExp'].forEach(function(id){
+    $(id).addEventListener('input', drawTable); $(id).addEventListener('change', drawTable);
   });
   $('bReset').addEventListener('click', function(){
-    $('fSearch').value = ''; $('fRegion').value = ''; $('fLang').value = ''; drawTable();
+    $('fSearch').value = ''; $('fRegion').value = ''; $('fLang').value = ''; $('fExp').checked = true; drawTable();
   });
-  ['fCompany','fContact','fSegment','fPort'].forEach(function(id){
-    $(id).addEventListener('input', render);
-    $(id).addEventListener('change', render);
+  ['fContact','fPort'].forEach(function(id){
+    $(id).addEventListener('input', render); $(id).addEventListener('change', render);
   });
 
   /* ---------- série ---------- */
-  var bulkRows = [];
-
   function findCountry(s){
     s = (s || '').trim().toLowerCase();
     if(!s) return null;
-    for(var i=0;i<C.length;i++){ if(C[i].c.toLowerCase() === s) return C[i]; }
-    for(i=0;i<C.length;i++){ if(C[i].fr.toLowerCase() === s || C[i].en.toLowerCase() === s) return C[i]; }
-    for(i=0;i<C.length;i++){
-      if(C[i].fr.toLowerCase().indexOf(s) !== -1 || C[i].en.toLowerCase().indexOf(s) !== -1) return C[i];
-    }
+    var i;
+    for(i=0;i<C.length;i++) if(C[i].c.toLowerCase() === s) return C[i];
+    for(i=0;i<C.length;i++) if(C[i].fr.toLowerCase() === s || C[i].en.toLowerCase() === s) return C[i];
+    for(i=0;i<C.length;i++) if(C[i].fr.toLowerCase().indexOf(s) !== -1 || C[i].en.toLowerCase().indexOf(s) !== -1) return C[i];
     return null;
   }
-  function findSegment(s){
-    s = (s || '').trim().toLowerCase();
-    return SEG[s] ? s : 'negoce';
-  }
-
   $('bRun').addEventListener('click', function(){
     var lines = $('bulkIn').value.split('\n').map(function(l){ return l.trim(); }).filter(Boolean);
-    if(lines.length && /soci[eé]t[eé]|company/i.test(lines[0].split(/[;\t,]/)[0])) lines.shift();
-    bulkRows = [];
+    if(lines.length && /soci[eé]t[eé]|company/i.test(lines[0].split(/[;\t]/)[0])) lines.shift();
+    bulk = [];
     var html = '<div class="tbl-scroll"><table><thead><tr><th>Société</th><th>Pays</th><th>Langue</th>' +
       '<th>Objet</th><th>E-mail</th><th></th></tr></thead><tbody>';
     lines.forEach(function(line, idx){
       var f = line.split(/\t|;/).map(function(x){ return x.trim(); });
-      var company = f[0] || '', country = findCountry(f[1]), segment = findSegment(f[2]),
-          contact = f[3] || '', mail = f[4] || '', port = f[5] || '';
+      var company = f[0] || '', country = findCountry(f[1]), contact = f[2] || '',
+          mail = f[3] || '', port = f[4] || '';
       if(!country){
-        html += '<tr><td>' + esc(company) + '</td><td colspan="5" class="note">' +
-          'Pays non reconnu : « ' + esc(f[1] || '') + ' » — corrigez la ligne ' + (idx+1) + '.</td></tr>';
+        html += '<tr><td>' + esc(company) + '</td><td colspan="5" class="note">Pays non reconnu : « ' +
+          esc(f[1] || '') + ' » — corrigez la ligne ' + (idx+1) + '.</td></tr>';
         return;
       }
-      var out = build(country, company, contact, segment, port || country.p[0]);
-      bulkRows.push({
-        company: company, country: country.fr, lang: MSG[country.l].name, email: mail,
-        subject: out.subject, body: out.body, wa: out.wa,
-        warn: (country.f.indexOf('x') !== -1 ? 'SANCTIONS À VÉRIFIER' : '') +
-              (MSG[country.l].q === 'check' ? (country.f.indexOf('x') !== -1 ? ' + ' : '') + 'traduction à relire' : '')
-      });
-      var i = bulkRows.length - 1;
+      var out = build(country, contact, port || country.p[0]);
+      var alert = [];
+      if(country.f.indexOf('x') !== -1) alert.push('SANCTIONS À VÉRIFIER');
+      if(!country.exp) alert.push('marché de proximité');
+      if(M[country.l].q === 'check') alert.push('traduction à relire');
+      bulk.push({ company:company, country:country.fr, lang:M[country.l].name, email:mail,
+                  subject:out.subject, html:out.html, text:out.text, wa:out.wa, alert:alert.join(' + ') });
+      var i = bulk.length - 1;
       html += '<tr><td><b>' + esc(company) + '</b>' +
-        (bulkRows[i].warn ? '<br><span class="flag x">' + esc(bulkRows[i].warn) + '</span>' : '') +
-        '</td><td class="note">' + esc(country.fr) + '</td><td class="note">' + esc(MSG[country.l].name) +
+        (bulk[i].alert ? '<br><span class="flag x">' + esc(bulk[i].alert) + '</span>' : '') +
+        '</td><td class="note">' + esc(country.fr) + '</td><td class="note">' + esc(M[country.l].name) +
         '</td><td class="note">' + esc(out.subject) + '</td><td class="note mono">' + esc(mail) +
-        '</td><td><button class="btn btn-sm" data-i="' + i + '">Copier</button></td></tr>';
+        '</td><td><button class="btn btn-sm" data-i="' + i + '">Copier le HTML</button></td></tr>';
     });
     html += '</tbody></table></div>';
     $('bulkOut').innerHTML = html;
     Array.prototype.forEach.call($('bulkOut').querySelectorAll('button[data-i]'), function(b){
-      b.addEventListener('click', function(){
-        var r = bulkRows[+b.getAttribute('data-i')];
-        copy(r.subject + '\n\n' + r.body, $('okBulk'));
-      });
+      b.addEventListener('click', function(){ copy(bulk[+b.getAttribute('data-i')].html, $('okBulk')); });
     });
-    flash($('okBulk'), bulkRows.length + ' message(s) prêt(s)');
+    flash($('okBulk'), bulk.length + ' message(s) prêt(s)');
   });
-
-  function esc(s){
-    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-  }
-
   $('bCsv').addEventListener('click', function(){
-    if(!bulkRows.length){ flash($('okBulk'), 'Générez d\'abord les messages'); return; }
-    var head = ['societe','pays','langue','email','objet','message','whatsapp','alerte'];
+    if(!bulk.length){ flash($('okBulk'), 'Générez d\'abord'); return; }
     var q = function(s){ return '"' + String(s == null ? '' : s).replace(/"/g,'""') + '"'; };
-    var csv = head.join(';') + '\n' + bulkRows.map(function(r){
-      return [r.company, r.country, r.lang, r.email, r.subject, r.body, r.wa, r.warn].map(q).join(';');
-    }).join('\n');
-    var blob = new Blob(["﻿" + csv], {type:'text/csv;charset=utf-8'});
+    var csv = ['societe','pays','langue','email','objet','html','texte','whatsapp','alerte'].join(';') + '\n' +
+      bulk.map(function(r){
+        return [r.company,r.country,r.lang,r.email,r.subject,r.html,r.text,r.wa,r.alert].map(q).join(';');
+      }).join('\n');
     var a = document.createElement('a');
-    a.href = URL.createObjectURL(blob);
-    a.download = 'noxem-prospection-conteneur.csv';
+    a.href = URL.createObjectURL(new Blob(["﻿" + csv], {type:'text/csv;charset=utf-8'}));
+    a.download = 'noxem-prospection-export.csv';
     document.body.appendChild(a); a.click(); document.body.removeChild(a);
     setTimeout(function(){ URL.revokeObjectURL(a.href); }, 1000);
     flash($('okBulk'), 'CSV téléchargé');
   });
 
-  drawTable();
-  render();
+  drawTable(); render();
 })();
 </script>
 </body>

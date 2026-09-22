@@ -118,7 +118,7 @@ chargé en conteneur 20' / 40' Open Top, formats 3210 × 2250 et 3210 × 2550 mm
 | Page | Adresse | Rôle |
 |---|---|---|
 | Page de campagne | `/campagne-conteneur-20-open-top/` | Publique, 10 langues, avec calculateur de chargement par conteneur |
-| Console de prospection | `/campagne-conteneur-20-open-top/prospection.html` | Interne, non indexée : 176 pays, 314 ports, messages sur mesure dans 48 langues |
+| Console de prospection | `/campagne-conteneur-20-open-top/prospection.html` | Interne, non indexée : 178 pays, 706 ports, l'e-mail complet dans 48 langues |
 
 Le détail — types de clients, alertes sanctions, ajout d'un pays ou d'une langue, règles
 d'envoi et sources pour constituer les listes de sociétés — est dans

@@ -9,10 +9,11 @@ Elle tient en deux pages et trois fichiers de données, sans serveur ni abonneme
 | Fichier | Rôle |
 |---|---|
 | `index.html` | Page publique de campagne, 10 langues, avec calculateur de chargement |
-| `prospection.html` | Console interne : choisir un pays, générer le message dans la bonne langue |
-| `data/pays.js` | 176 pays, leurs ports, la langue de contact, le transit indicatif, les alertes |
-| `data/messages.js` | Les modèles de message dans 48 langues, par type de client |
+| `prospection.html` | Console interne : choisir un pays, obtenir l'e-mail complet dans sa langue |
+| `data/pays.js` | 178 pays, 706 ports, langue de contact, transit indicatif, alertes, cible export |
+| `data/emails.js` | Le message de prospection dans 48 langues |
 | `data/page.js` | Les textes de la page publique, 10 langues |
+| `email/` | Le modèle de référence en français, le logo, la bannière |
 
 ## La page publique
 
@@ -44,24 +45,23 @@ Elle est tout de même accessible à qui connaît l'adresse : ne la diffusez pas
    conservés dans le navigateur, repris dans tous les messages.
 2. **Le pays** — recherche par pays ou par port, filtre par région et par langue. Chaque ligne
    donne les ports, le transit indicatif depuis Anvers et ce qu'il faut savoir du marché.
-3. **La société** — nom, interlocuteur, type de client, port de destination. Le message se
-   réécrit à chaque frappe, dans la langue du pays, avec l'e-mail complet d'un côté et la
-   version courte WhatsApp / LinkedIn de l'autre, plus un mémo pays à garder sous les yeux.
+3. **La société** — interlocuteur et port de destination. Le message se réécrit à chaque
+   frappe, dans la langue du pays : **aperçu** du rendu réel, **HTML** prêt à coller dans
+   votre plateforme d'envoi, **texte** pour la version alternative, **WhatsApp** pour la
+   version courte. Un mémo pays reste affiché à côté.
 4. **La série** — collez une liste de sociétés, récupérez un CSV prêt pour le publipostage
-   (colonnes `societe ; pays ; langue ; email ; objet ; message ; whatsapp ; alerte`).
+   (colonnes `societe ; pays ; langue ; email ; objet ; html ; texte ; whatsapp ; alerte`).
 
-### Les six types de client
+### Le message
 
-Chaque type a sa propre accroche, traduite dans les 48 langues :
+Un seul message, le même partout, traduit dans 48 langues : bannière aux couleurs
+de la marque, la gamme, les formats avec le 3210 × 2550 en tête, les caisses bois
+et la livraison au port, puis la demande de devis avec les deux boutons. Le nom du
+port du destinataire s'insère dans la phrase de livraison et dans le message
+WhatsApp. Rien d'autre ne varie — c'est ce qui rend la campagne tenable.
 
-| Clé | Cible | Angle du message |
-|---|---|---|
-| `miroiterie` | Miroiterie, transformateur | le jumbo livré à l'atelier, sans grossiste local |
-| `trempe` | Trempeur, verre de sécurité | la régularité du float pour la ligne de trempe |
-| `vitrage` | Double vitrage, menuiserie alu-PVC | les formats qui limitent les chutes de découpe |
-| `negoce` | Négociant, importateur | le prix départ Europe et les documents pris en charge |
-| `miroir` | Miroiterie déco, mobilier | le miroir argenté et les références introuvables sur place |
-| `chantier` | Façadier, promoteur | éviter la rupture et le prix local en pleine saison |
+Le détail du modèle, et les règles d'écriture HTML à respecter, sont dans
+`email/README.md`.
 
 ### Les alertes
 
@@ -71,7 +71,10 @@ Chaque type a sa propre accroche, traduite dans les 48 langues :
 - 🟠 **Float local** — le pays produit son propre float (Turquie, Égypte, Inde, Chine,
   Pologne, Espagne, Brésil…). Inutile d'y vendre du float clair standard : viser le miroir,
   le Low-E, le feuilleté et les formats jumbo.
-- ⚪ **Enclavé** — coter CFR le port de transit, annoncer l'acheminement terrestre à part.
+- ⚪ **Enclavé** — coter le port de transit, annoncer l'acheminement terrestre à part.
+- ⚪ **Proximité** — France, Belgique, Luxembourg, Pays-Bas, Allemagne, Suisse, Autriche :
+  livrés en camion depuis l'entrepôt, hors campagne export. Le filtre « Export seulement »
+  les masque par défaut ; il reste 171 pays à prospecter.
 
 ## Ajouter un pays, un port, une langue
 
@@ -81,13 +84,13 @@ Chaque type a sa propre accroche, traduite dans les 48 langues :
 dans la langue du message, article et déclinaison compris — c'est ce qui évite les
 « vers Maroc » et les « do Polska »).
 
-**Une langue** : copiez un bloc de `data/messages.js`, traduisez les valeurs, gardez les
-champs de fusion `{contact} {company} {country} {port} {transit} {sender} {site}` intacts,
+**Une langue** : copiez un bloc de `data/emails.js`, traduisez les valeurs, gardez les
+champs de fusion `{contact}` et `{port}` intacts, laissez les balises `<strong>` en place,
 puis mettez `l` à ce code dans les pays concernés.
 
 ## Avant un envoi en nombre
 
-1. **Faire relire les traductions marquées `"q":"check"`** dans `data/messages.js` :
+1. **Faire relire les traductions marquées `"q":"check"`** dans `data/emails.js` :
    amharique, azéri, bengali, danois, estonien, persan, finnois, hébreu, hindi, arménien,
    géorgien, lituanien, letton, macédonien, malais, norvégien, somali, suédois, swahili,
    thaï, ourdou. La console affiche un bandeau orange quand le modèle est dans ce cas.
