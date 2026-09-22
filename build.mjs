@@ -93,9 +93,17 @@ const LEGAL_PAGES = [
   "legal/politique-de-confidentialite.html", "legal/privacy-policy.html",
   "legal/conditions-generales-de-vente.html", "legal/terms-of-sale.html",
 ];
+/* Pages autonomes : une seule URL, la langue se choisit dans la page.
+   Pas d'alternates hreflang, sinon Google les renverrait vers l'accueil. */
+const STANDALONE_PAGES = [
+  "campagne-conteneur-20-open-top/",
+];
 const urls = [`${SITE}/`]
   .concat(LANGS.map((l) => `${SITE}/${l}/`))
+  .concat(STANDALONE_PAGES.map((f) => `${SITE}/${f}`))
   .concat(LEGAL_PAGES.map((f) => `${SITE}/${f}`));
+const noAlts = (u) =>
+  u.includes("/legal/") || STANDALONE_PAGES.some((f) => u === `${SITE}/${f}`);
 writeFileSync(
   "sitemap.xml",
   `<?xml version="1.0" encoding="UTF-8"?>
@@ -107,7 +115,7 @@ ${urls
     <lastmod>${today}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>${u === SITE + "/" ? "1.0" : "0.9"}</priority>
-${u.includes("/legal/") ? "" : alts(u)}
+${noAlts(u) ? "" : alts(u)}
   </url>`
   )
   .join("\n")}
@@ -121,6 +129,7 @@ writeFileSync(
   "robots.txt",
   `User-agent: *
 Allow: /
+Disallow: /campagne-conteneur-20-open-top/prospection.html
 
 Sitemap: ${SITE}/sitemap.xml
 `

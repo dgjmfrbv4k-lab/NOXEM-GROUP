@@ -1,0 +1,531 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Console de prospection — Conteneur direct verre plat | NOXEM GROUP</title>
+<link rel="icon" type="image/png" href="../assets/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#FAF8F3; --paper-2:#F0ECE1; --ink:#1E2430; --ink-soft:#585F6E;
+  --red:#B5261F; --amber:#C97A2E; --green:#2F6B4F; --beige:#B7A06E;
+  --line:rgba(30,36,48,0.15); --line-strong:rgba(30,36,48,0.4); --card:#fff;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--paper);color:var(--ink);font-family:"Public Sans",system-ui,sans-serif;line-height:1.45}
+h1,h2,h3{font-family:"Archivo",system-ui,sans-serif;margin:0;text-wrap:balance}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+a{color:var(--red)}
+.wrap{max-width:1180px;margin-inline:auto;padding-inline:20px}
+
+.topbar{position:sticky;top:0;z-index:30;background:var(--ink);color:var(--paper);border-bottom:1px solid var(--ink)}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;padding-block:12px;flex-wrap:wrap}
+.topbar h1{font-size:16px;letter-spacing:-0.01em}
+.topbar .sub{font-family:"IBM Plex Mono";font-size:10.5px;text-transform:uppercase;letter-spacing:0.08em;opacity:0.62;margin-top:2px}
+.topbar a{color:var(--paper);font-size:12.5px;text-decoration:none;border:1px solid rgba(250,248,243,0.4);padding:7px 12px}
+.topbar a:hover{background:var(--paper);color:var(--ink)}
+
+section{padding-block:26px;border-bottom:1px solid var(--line)}
+.eyebrow{font-family:"IBM Plex Mono";font-size:10.5px;text-transform:uppercase;letter-spacing:0.09em;color:var(--red);font-weight:600}
+h2{font-size:20px;margin-top:6px;margin-bottom:14px}
+.hint{font-size:13px;color:var(--ink-soft);margin:0 0 14px}
+
+.grid-set{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+@media(max-width:900px){.grid-set{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.grid-set{grid-template-columns:1fr}}
+label{display:block;font-family:"IBM Plex Mono";font-size:10.5px;text-transform:uppercase;letter-spacing:0.05em;color:var(--ink-soft);margin-bottom:4px}
+input,select,textarea{width:100%;font:inherit;font-size:14px;background:var(--card);color:var(--ink);border:1px solid var(--line-strong);padding:9px 10px}
+input:focus,select:focus,textarea:focus{outline:2px solid var(--ink);outline-offset:-2px}
+textarea{font-family:"IBM Plex Mono";font-size:12.5px;line-height:1.55;resize:vertical}
+
+.stats{display:grid;grid-template-columns:repeat(4,1fr);background:var(--ink);color:var(--paper)}
+@media(max-width:700px){.stats{grid-template-columns:repeat(2,1fr)}}
+.stat{padding:14px 16px;border-right:1px solid rgba(250,248,243,0.16)}
+.stat:last-child{border-right:none}
+.stat b{font-family:"Archivo";font-size:22px;display:block;line-height:1}
+.stat span{font-family:"IBM Plex Mono";font-size:10px;text-transform:uppercase;letter-spacing:0.07em;opacity:0.62}
+
+.filters{display:flex;flex-wrap:wrap;gap:10px;align-items:end;margin-bottom:14px}
+.filters>div{flex:1 1 180px}
+.tbl-scroll{overflow-x:auto;border:1px solid var(--line)}
+table{width:100%;border-collapse:collapse;font-size:13.5px;background:var(--card)}
+thead th{position:sticky;top:0;z-index:2;background:var(--paper-2);text-align:left;font-family:"IBM Plex Mono";font-size:10px;text-transform:uppercase;letter-spacing:0.05em;color:var(--ink-soft);padding:9px 10px;border-bottom:1px solid var(--ink);white-space:nowrap}
+td{padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+tbody tr{position:relative}
+tbody tr:hover{background:var(--paper-2);cursor:pointer}
+tbody tr.on{background:#EDE6D6;box-shadow:inset 3px 0 0 var(--red)}
+.flag{display:inline-block;font-family:"IBM Plex Mono";font-size:9.5px;text-transform:uppercase;letter-spacing:0.04em;padding:1px 6px;border:1px solid var(--line-strong);margin-right:4px;white-space:nowrap}
+.flag.x{color:#fff;background:var(--red);border-color:var(--red)}
+.flag.p{color:var(--amber);border-color:var(--amber)}
+.flag.e{color:var(--ink-soft)}
+.note{color:var(--ink-soft);font-size:12.5px}
+
+.two{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media(max-width:900px){.two{grid-template-columns:1fr}}
+.card{border:1px solid var(--ink);background:var(--card)}
+.card-head{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:11px 14px;border-bottom:1px solid var(--ink);background:var(--paper-2);flex-wrap:wrap}
+.card-head h3{font-size:14px}
+.card-body{padding:14px}
+.btn{display:inline-flex;align-items:center;gap:7px;padding:9px 14px;font-size:13px;font-weight:600;border:1px solid var(--ink);background:var(--card);color:var(--ink);cursor:pointer;text-decoration:none}
+.btn:hover{background:var(--ink);color:var(--paper)}
+.btn-primary{background:var(--ink);color:var(--paper)}
+.btn-primary:hover{background:var(--red);border-color:var(--red)}
+.btn-sm{padding:6px 10px;font-size:12px}
+.btn-row{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.warn{border-left:3px solid var(--red);background:#FBF0EF;padding:10px 12px;font-size:13px;margin-bottom:12px}
+.warn.amber{border-color:var(--amber);background:#FBF5EC}
+.ok{color:var(--green);font-size:12.5px;font-family:"IBM Plex Mono"}
+footer{padding-block:24px;font-size:12.5px;color:var(--ink-soft)}
+.pill{font-family:"IBM Plex Mono";font-size:10.5px;border:1px solid var(--line-strong);padding:2px 7px}
+</style>
+</head>
+<body>
+
+<div class="topbar"><div class="wrap">
+  <div>
+    <h1>Console de prospection — conteneur direct verre plat</h1>
+    <div class="sub">NOXEM GROUP · 20' / 40' Open Top · 3210 × 2250 mm · usage interne</div>
+  </div>
+  <a href="index.html">Voir la page de campagne →</a>
+</div></div>
+
+<div class="stats">
+  <div class="stat"><b id="sCountries">—</b><span>pays ciblés</span></div>
+  <div class="stat"><b id="sLangs">—</b><span>langues de contact</span></div>
+  <div class="stat"><b id="sPorts">—</b><span>ports référencés</span></div>
+  <div class="stat"><b id="sSegs">—</b><span>types de clients</span></div>
+</div>
+
+<section><div class="wrap">
+  <div class="eyebrow">Étape 0</div>
+  <h2>Votre signature</h2>
+  <p class="hint">Ces informations sont reprises dans tous les messages générés. Elles restent dans ce navigateur, rien n'est envoyé nulle part.</p>
+  <div class="grid-set">
+    <div><label for="fSender">Votre nom</label><input id="fSender" value="Aaron Harfi"></div>
+    <div><label for="fEmail">E-mail</label><input id="fEmail" value="aaron.harfi@noxemgroup.com"></div>
+    <div><label for="fPhone">Téléphone</label><input id="fPhone" value="+33 2 59 50 84 59"></div>
+    <div><label for="fWa">WhatsApp (chiffres)</label><input id="fWa" value="33769725892"></div>
+    <div><label for="fSite">Lien de campagne</label><input id="fSite" value="https://dgjmfrbv4k-lab.github.io/NOXEM-GROUP/campagne-conteneur-20-open-top/"></div>
+    <div><label for="fLoad">Port de chargement</label><input id="fLoad" value="Anvers"></div>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="eyebrow">Étape 1</div>
+  <h2>Choisir le pays</h2>
+  <div class="filters">
+    <div><label for="fSearch">Rechercher (pays ou port)</label><input id="fSearch" placeholder="Roumanie, Jebel Ali, Lomé…"></div>
+    <div><label for="fRegion">Région</label><select id="fRegion"><option value="">Toutes les régions</option></select></div>
+    <div><label for="fLang">Langue</label><select id="fLang"><option value="">Toutes les langues</option></select></div>
+    <div style="flex:0 0 auto"><label>&nbsp;</label><button class="btn btn-sm" id="bReset">Réinitialiser</button></div>
+  </div>
+  <div class="tbl-scroll" style="max-height:380px;overflow-y:auto">
+    <table><thead><tr>
+      <th>Pays</th><th>Région</th><th>Langue</th><th>Ports</th><th>Transit</th><th>À savoir</th><th></th>
+    </tr></thead><tbody id="tbody"></tbody></table>
+  </div>
+  <p class="hint" style="margin-top:10px">
+    <span class="flag x">Sanctions</span> vérification réglementaire obligatoire avant toute offre ·
+    <span class="flag p">Float local</span> production sur place, viser les niches ·
+    <span class="flag e">Enclavé</span> coter CFR port de transit + acheminement terrestre.
+    Transit indicatif en jours depuis Anvers, à confirmer auprès du transitaire.
+  </p>
+</div></section>
+
+<section><div class="wrap">
+  <div class="eyebrow">Étape 2</div>
+  <h2>La société et le message</h2>
+  <div class="grid-set" style="margin-bottom:16px">
+    <div><label for="fCompany">Société</label><input id="fCompany" placeholder="Nom de la société"></div>
+    <div><label for="fContact">Interlocuteur (facultatif)</label><input id="fContact" placeholder="M. Popescu"></div>
+    <div><label for="fSegment">Type de client</label><select id="fSegment"></select></div>
+    <div><label for="fPort">Port de destination</label><select id="fPort"></select></div>
+  </div>
+  <div id="warnBox"></div>
+  <div class="two">
+    <div class="card">
+      <div class="card-head">
+        <h3>E-mail</h3>
+        <span class="pill" id="langTag">—</span>
+      </div>
+      <div class="card-body">
+        <label for="oSubject">Objet</label>
+        <input id="oSubject" readonly>
+        <label for="oBody" style="margin-top:10px">Corps du message</label>
+        <textarea id="oBody" rows="20" readonly></textarea>
+        <div class="btn-row">
+          <button class="btn btn-primary" id="bCopyMail">Copier l'e-mail</button>
+          <a class="btn" id="bMailto" href="#">Ouvrir dans la messagerie</a>
+          <span class="ok" id="okMail"></span>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-head">
+        <h3>WhatsApp / LinkedIn</h3>
+        <span class="pill">version courte</span>
+      </div>
+      <div class="card-body">
+        <textarea id="oWa" rows="7" readonly></textarea>
+        <div class="btn-row">
+          <button class="btn btn-primary" id="bCopyWa">Copier</button>
+          <a class="btn" id="bWaLink" href="#" target="_blank" rel="noopener">Ouvrir WhatsApp</a>
+          <span class="ok" id="okWa"></span>
+        </div>
+        <div style="margin-top:18px;border-top:1px solid var(--line);padding-top:14px">
+          <label for="oIntel">Mémo pays</label>
+          <textarea id="oIntel" rows="7" readonly></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="eyebrow">Étape 3</div>
+  <h2>Série de sociétés</h2>
+  <p class="hint">
+    Une ligne par société, séparateur <code>;</code> — colonnes :
+    <code class="mono">société ; pays ; type ; interlocuteur ; e-mail ; port</code>.
+    Le pays s'écrit en toutes lettres ou en code ISO (RO, AE, CI…). Les trois dernières colonnes
+    sont facultatives. Le fichier CSV produit s'ouvre dans Excel et alimente un publipostage.
+  </p>
+  <textarea id="bulkIn" rows="7" placeholder="Sticla Prod SRL;RO;vitrage;Dl. Popescu;office@sticlaprod.ro
+Gulf Mirror Industries;AE;miroir;;info@gulfmirror.ae;Jebel Ali
+Vitrerie du Littoral;CI;miroiterie;M. Kouassi;contact@vitrerie-littoral.ci"></textarea>
+  <div class="btn-row">
+    <button class="btn btn-primary" id="bRun">Générer les messages</button>
+    <button class="btn" id="bCsv">Télécharger le CSV</button>
+    <span class="ok" id="okBulk"></span>
+  </div>
+  <div id="bulkOut" style="margin-top:16px"></div>
+</div></section>
+
+<footer><div class="wrap">
+  NOXEM GROUP — Mollem (Asse), Belgique · Page interne, non indexée.
+  Prospection B2B : conserver la preuve de l'intérêt professionnel, indiquer l'origine des coordonnées
+  sur demande et traiter toute demande de retrait sous 30 jours (RGPD, art. 6.1.f et 21).
+</div></footer>
+
+<script src="data/pays.js"></script>
+<script src="data/messages.js"></script>
+<script>
+(function(){
+  var C = window.NOXEM_COUNTRIES, R = window.NOXEM_REGIONS,
+      MSG = window.NOXEM_MSG, SEG = window.NOXEM_SEGMENTS;
+  var SETTINGS = ["fSender","fEmail","fPhone","fWa","fSite","fLoad"];
+  var cur = null;
+  var $ = function(id){ return document.getElementById(id); };
+
+  /* ---------- réglages persistés ---------- */
+  SETTINGS.forEach(function(id){
+    try{ var v = localStorage.getItem('noxem_camp_'+id); if(v !== null) $(id).value = v; }catch(e){}
+    $(id).addEventListener('input', function(){
+      try{ localStorage.setItem('noxem_camp_'+id, $(id).value); }catch(e){}
+      render();
+    });
+  });
+
+  /* ---------- compteurs ---------- */
+  var allPorts = {};
+  C.forEach(function(c){ c.p.forEach(function(p){ allPorts[p] = 1; }); });
+  $('sCountries').textContent = C.length;
+  $('sLangs').textContent = Object.keys(MSG).length;
+  $('sPorts').textContent = Object.keys(allPorts).length;
+  $('sSegs').textContent = Object.keys(SEG).length;
+
+  /* ---------- filtres ---------- */
+  Object.keys(R).forEach(function(k){
+    var o = document.createElement('option'); o.value = k; o.textContent = R[k].fr; $('fRegion').appendChild(o);
+  });
+  var usedLangs = {};
+  C.forEach(function(c){ usedLangs[c.l] = 1; });
+  Object.keys(usedLangs).sort(function(a,b){
+    return MSG[a].name.localeCompare(MSG[b].name);
+  }).forEach(function(l){
+    var o = document.createElement('option'); o.value = l;
+    o.textContent = MSG[l].name + ' (' + l + ')'; $('fLang').appendChild(o);
+  });
+  Object.keys(SEG).forEach(function(k){
+    var o = document.createElement('option'); o.value = k; o.textContent = SEG[k].fr; $('fSegment').appendChild(o);
+  });
+
+  function flags(c){
+    var h = '';
+    if(c.f.indexOf('x') !== -1) h += '<span class="flag x">Sanctions</span>';
+    if(c.f.indexOf('p') !== -1) h += '<span class="flag p">Float local</span>';
+    if(c.f.indexOf('e') !== -1) h += '<span class="flag e">Enclavé</span>';
+    return h;
+  }
+
+  function list(){
+    var q = $('fSearch').value.trim().toLowerCase(),
+        rg = $('fRegion').value, lg = $('fLang').value;
+    return C.filter(function(c){
+      if(rg && c.r !== rg) return false;
+      if(lg && c.l !== lg) return false;
+      if(!q) return true;
+      return (c.fr + ' ' + c.en + ' ' + c.c + ' ' + c.p.join(' ')).toLowerCase().indexOf(q) !== -1;
+    });
+  }
+
+  function drawTable(){
+    var rows = list(), tb = $('tbody');
+    tb.innerHTML = '';
+    if(!rows.length){
+      tb.innerHTML = '<tr><td colspan="7" class="note">Aucun pays ne correspond à ce filtre.</td></tr>';
+      return;
+    }
+    rows.forEach(function(c){
+      var tr = document.createElement('tr');
+      if(cur && cur.c === c.c) tr.className = 'on';
+      tr.innerHTML =
+        '<td><b>' + c.fr + '</b><br><span class="note mono">' + c.c + '</span></td>' +
+        '<td class="note">' + R[c.r].fr + '</td>' +
+        '<td>' + MSG[c.l].name + '</td>' +
+        '<td class="note">' + c.p.join(' · ') + '</td>' +
+        '<td class="mono">' + c.t + ' j</td>' +
+        '<td>' + flags(c) + '<div class="note">' + c.n + '</div></td>' +
+        '<td><button class="btn btn-sm" type="button">Choisir</button></td>';
+      /* la sélection se fait dès l'enfoncement : dans une liste défilante, le focus
+         peut déplacer la ligne entre le mousedown et le mouseup et supprimer le clic */
+      tr.addEventListener('mousedown', function(){ select(c); });
+      tr.addEventListener('click', function(){ select(c); });
+      tr.querySelector('button').addEventListener('keydown', function(e){
+        if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); select(c); }
+      });
+      tb.appendChild(tr);
+    });
+  }
+
+  function select(c){
+    cur = c;
+    $('fPort').innerHTML = '';
+    c.p.forEach(function(p){
+      var o = document.createElement('option'); o.value = p; o.textContent = p; $('fPort').appendChild(o);
+    });
+    drawTable();
+    render();
+    $('fCompany').focus();
+  }
+
+  /* ---------- fabrication du message ---------- */
+  function fill(t, v){
+    return t.replace(/\{(\w+)\}/g, function(m, k){ return v[k] !== undefined ? v[k] : m; });
+  }
+
+  function build(country, company, contact, segment, port){
+    var t = MSG[country.l];
+    var v = {
+      contact: contact || '',
+      company: company || '…',
+      country: country.fr,
+      port: port || country.p[0],
+      transit: country.t,
+      sender: $('fSender').value,
+      site: $('fSite').value
+    };
+    /* le pays doit être nommé dans la langue du message, jamais en français */
+    if(country.l !== 'fr') v.country = country.loc || country.en;
+
+    var sign = [$('fSender').value, 'NOXEM GROUP', $('fPhone').value + ' · ' + $('fEmail').value, $('fSite').value]
+      .filter(Boolean).join('\n');
+
+    var body = [
+      contact ? fill(t.hi, v) : t.hiG,
+      '',
+      fill(t.intro, v),
+      '',
+      fill(t.seg[segment] || t.seg.negoce, v),
+      '',
+      fill(t.offer, v),
+      '',
+      fill(t.load, v),
+      '',
+      fill(t.logi, v),
+      '',
+      fill(t.ask, v),
+      '',
+      t.close,
+      sign,
+      '',
+      '— ' + t.ps
+    ].join('\n');
+
+    return {
+      lang: country.l,
+      subject: fill(t.subj, v),
+      body: body,
+      wa: fill(t.wa, v)
+    };
+  }
+
+  function render(){
+    if(!cur){
+      $('oSubject').value = ''; $('oBody').value = 'Choisissez un pays dans la liste ci-dessus.';
+      $('oWa').value = ''; $('oIntel').value = ''; $('langTag').textContent = '—';
+      $('warnBox').innerHTML = ''; return;
+    }
+    var seg = $('fSegment').value || 'negoce';
+    var out = build(cur, $('fCompany').value, $('fContact').value.trim(), seg, $('fPort').value);
+    var t = MSG[cur.l];
+
+    $('oSubject').value = out.subject;
+    $('oBody').value = out.body;
+    $('oWa').value = out.wa;
+    $('langTag').textContent = t.name + ' · ' + cur.l.toUpperCase();
+
+    var dir = t.rtl ? 'rtl' : 'ltr';
+    $('oBody').setAttribute('dir', dir); $('oWa').setAttribute('dir', dir);
+    $('oSubject').setAttribute('dir', dir);
+
+    $('bMailto').href = 'mailto:?subject=' + encodeURIComponent(out.subject) +
+      '&body=' + encodeURIComponent(out.body);
+    $('bWaLink').href = 'https://wa.me/?text=' + encodeURIComponent(out.wa);
+
+    var w = '';
+    if(cur.f.indexOf('x') !== -1){
+      w += '<div class="warn"><b>Contrôle réglementaire requis.</b> ' + cur.fr +
+        ' fait l\'objet de sanctions ou de restrictions. Faites valider la destination, ' +
+        'le destinataire et le circuit bancaire avant d\'envoyer une offre.</div>';
+    }
+    if(t.q === 'check'){
+      w += '<div class="warn amber"><b>Traduction à faire relire.</b> Le modèle ' + t.name +
+        ' n\'a pas été validé par un locuteur natif : relisez-le avant un envoi en nombre.</div>';
+    }
+    $('warnBox').innerHTML = w;
+
+    $('oIntel').value = [
+      cur.fr + ' (' + cur.c + ') — ' + R[cur.r].fr,
+      'Langue de contact : ' + t.name,
+      'Ports : ' + cur.p.join(' · '),
+      'Transit indicatif depuis ' + $('fLoad').value + ' : ' + cur.t + ' jours',
+      cur.f.indexOf('p') !== -1 ? 'Float produit sur place — viser miroir, Low-E, feuilleté, formats jumbo.' : 'Pas de production float locale connue — tout est importé.',
+      cur.f.indexOf('e') !== -1 ? 'Pays enclavé — coter CFR port de transit, acheminement terrestre à part.' : '',
+      '',
+      cur.n
+    ].filter(Boolean).join('\n');
+  }
+
+  function flash(el, txt){
+    el.textContent = txt;
+    setTimeout(function(){ el.textContent = ''; }, 2200);
+  }
+  function copy(text, okEl){
+    function done(){ flash(okEl, 'Copié'); }
+    if(navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(text).then(done, function(){ fallback(); });
+    } else { fallback(); }
+    function fallback(){
+      var ta = document.createElement('textarea');
+      ta.value = text; document.body.appendChild(ta); ta.select();
+      try{ document.execCommand('copy'); done(); }catch(e){ flash(okEl, 'Copie impossible'); }
+      document.body.removeChild(ta);
+    }
+  }
+
+  $('bCopyMail').addEventListener('click', function(){
+    copy($('oSubject').value + '\n\n' + $('oBody').value, $('okMail'));
+  });
+  $('bCopyWa').addEventListener('click', function(){ copy($('oWa').value, $('okWa')); });
+
+  ['fSearch','fRegion','fLang'].forEach(function(id){
+    $(id).addEventListener('input', drawTable);
+    $(id).addEventListener('change', drawTable);
+  });
+  $('bReset').addEventListener('click', function(){
+    $('fSearch').value = ''; $('fRegion').value = ''; $('fLang').value = ''; drawTable();
+  });
+  ['fCompany','fContact','fSegment','fPort'].forEach(function(id){
+    $(id).addEventListener('input', render);
+    $(id).addEventListener('change', render);
+  });
+
+  /* ---------- série ---------- */
+  var bulkRows = [];
+
+  function findCountry(s){
+    s = (s || '').trim().toLowerCase();
+    if(!s) return null;
+    for(var i=0;i<C.length;i++){ if(C[i].c.toLowerCase() === s) return C[i]; }
+    for(i=0;i<C.length;i++){ if(C[i].fr.toLowerCase() === s || C[i].en.toLowerCase() === s) return C[i]; }
+    for(i=0;i<C.length;i++){
+      if(C[i].fr.toLowerCase().indexOf(s) !== -1 || C[i].en.toLowerCase().indexOf(s) !== -1) return C[i];
+    }
+    return null;
+  }
+  function findSegment(s){
+    s = (s || '').trim().toLowerCase();
+    return SEG[s] ? s : 'negoce';
+  }
+
+  $('bRun').addEventListener('click', function(){
+    var lines = $('bulkIn').value.split('\n').map(function(l){ return l.trim(); }).filter(Boolean);
+    if(lines.length && /soci[eé]t[eé]|company/i.test(lines[0].split(/[;\t,]/)[0])) lines.shift();
+    bulkRows = [];
+    var html = '<div class="tbl-scroll"><table><thead><tr><th>Société</th><th>Pays</th><th>Langue</th>' +
+      '<th>Objet</th><th>E-mail</th><th></th></tr></thead><tbody>';
+    lines.forEach(function(line, idx){
+      var f = line.split(/\t|;/).map(function(x){ return x.trim(); });
+      var company = f[0] || '', country = findCountry(f[1]), segment = findSegment(f[2]),
+          contact = f[3] || '', mail = f[4] || '', port = f[5] || '';
+      if(!country){
+        html += '<tr><td>' + esc(company) + '</td><td colspan="5" class="note">' +
+          'Pays non reconnu : « ' + esc(f[1] || '') + ' » — corrigez la ligne ' + (idx+1) + '.</td></tr>';
+        return;
+      }
+      var out = build(country, company, contact, segment, port || country.p[0]);
+      bulkRows.push({
+        company: company, country: country.fr, lang: MSG[country.l].name, email: mail,
+        subject: out.subject, body: out.body, wa: out.wa,
+        warn: (country.f.indexOf('x') !== -1 ? 'SANCTIONS À VÉRIFIER' : '') +
+              (MSG[country.l].q === 'check' ? (country.f.indexOf('x') !== -1 ? ' + ' : '') + 'traduction à relire' : '')
+      });
+      var i = bulkRows.length - 1;
+      html += '<tr><td><b>' + esc(company) + '</b>' +
+        (bulkRows[i].warn ? '<br><span class="flag x">' + esc(bulkRows[i].warn) + '</span>' : '') +
+        '</td><td class="note">' + esc(country.fr) + '</td><td class="note">' + esc(MSG[country.l].name) +
+        '</td><td class="note">' + esc(out.subject) + '</td><td class="note mono">' + esc(mail) +
+        '</td><td><button class="btn btn-sm" data-i="' + i + '">Copier</button></td></tr>';
+    });
+    html += '</tbody></table></div>';
+    $('bulkOut').innerHTML = html;
+    Array.prototype.forEach.call($('bulkOut').querySelectorAll('button[data-i]'), function(b){
+      b.addEventListener('click', function(){
+        var r = bulkRows[+b.getAttribute('data-i')];
+        copy(r.subject + '\n\n' + r.body, $('okBulk'));
+      });
+    });
+    flash($('okBulk'), bulkRows.length + ' message(s) prêt(s)');
+  });
+
+  function esc(s){
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  $('bCsv').addEventListener('click', function(){
+    if(!bulkRows.length){ flash($('okBulk'), 'Générez d\'abord les messages'); return; }
+    var head = ['societe','pays','langue','email','objet','message','whatsapp','alerte'];
+    var q = function(s){ return '"' + String(s == null ? '' : s).replace(/"/g,'""') + '"'; };
+    var csv = head.join(';') + '\n' + bulkRows.map(function(r){
+      return [r.company, r.country, r.lang, r.email, r.subject, r.body, r.wa, r.warn].map(q).join(';');
+    }).join('\n');
+    var blob = new Blob(["﻿" + csv], {type:'text/csv;charset=utf-8'});
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'noxem-prospection-conteneur.csv';
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    setTimeout(function(){ URL.revokeObjectURL(a.href); }, 1000);
+    flash($('okBulk'), 'CSV téléchargé');
+  });
+
+  drawTable();
+  render();
+})();
+</script>
+</body>
+</html>

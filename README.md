@@ -110,6 +110,24 @@ Le référencement se gagne autant en dehors du site :
 6. **LinkedIn d'entreprise** pointant vers le site.
 7. **Les photos réelles** dans `assets/` : Google Images amène des acheteurs du bâtiment.
 
+## Campagne « conteneur direct » — verre plat
+
+Dossier `campagne-conteneur-20-open-top/` : campagne d'export mondiale du verre plat
+chargé en conteneur 20' / 40' Open Top, formats 3210 × 2250 et 3210 × 2550 mm.
+
+| Page | Adresse | Rôle |
+|---|---|---|
+| Page de campagne | `/campagne-conteneur-20-open-top/` | Publique, 10 langues, avec calculateur de chargement par conteneur |
+| Console de prospection | `/campagne-conteneur-20-open-top/prospection.html` | Interne, non indexée : 176 pays, 314 ports, messages sur mesure dans 48 langues |
+
+Le détail — types de clients, alertes sanctions, ajout d'un pays ou d'une langue, règles
+d'envoi et sources pour constituer les listes de sociétés — est dans
+`campagne-conteneur-20-open-top/README.md`.
+
+Ces deux pages sont autonomes : elles ne dépendent ni de `i18n.js` ni de `build.mjs`, et ne
+sont pas réécrites par le build. Seule la page publique est déclarée dans `sitemap.xml` ;
+la console est explicitement exclue dans `robots.txt`.
+
 ## Pages légales
 
 Six pages, en français et en anglais, dans `legal/` :

@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /campagne-conteneur-20-open-top/prospection.html
 
 Sitemap: https://dgjmfrbv4k-lab.github.io/NOXEM-GROUP/sitemap.xml
