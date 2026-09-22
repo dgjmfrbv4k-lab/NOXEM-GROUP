@@ -2,25 +2,27 @@
 
 | Fichier | Rôle |
 |---|---|
-| `modele-fr.html` | **Le modèle à utiliser par défaut.** Zéro image : bandeau, logo et filets sont faits de couleurs de fond et de texte. S'affiche partout, même images bloquées. |
-| `modele-fr-avec-logo-image.html` | Même message, mais avec le vrai logo en image (`cid:noxem-logo.png`). À réserver aux outils d'emailing qui gèrent correctement les images. |
+| `modele-fr.html` | **Le modèle.** Le vrai logo en image (`cid:noxem-logo.png`), tout le reste en couleurs de fond et en texte. |
+| `modele-fr-sans-image.html` | Le même sans aucune image, logo compris : à utiliser si la plateforme d'envoi filtre les images. |
 | `modele-fr.txt` | La version texte, à envoyer en alternative — elle évite le classement en spam. |
-| `noxem-logo.png` | Le logo, 181 × 60 px, 2 Ko, pour la version avec image. |
-| `banniere-image.png` | La bannière entière en une image, 1200 × 420 px, pour LinkedIn, un en-tête de devis ou un outil qui l'exige. |
+| `apercu-autonome.html` | Le modèle avec le logo intégré au fichier : s'ouvre dans un navigateur pour vérifier le rendu. |
+| `noxem-logo.png` | Le logo, 181 × 60 px, 2 Ko. À joindre en pièce inline sous ce nom exact. |
+| `banniere-image.png` | La bannière entière en une image, 1200 × 420 px, pour LinkedIn ou un en-tête de devis. |
 
-## Pourquoi le modèle par défaut ne contient aucune image
+## Deux règles à ne jamais enfreindre
 
-Deux raisons, l'une vérifiée sur le terrain :
+Le logo est une image, mais **rien d'autre ne l'est** : le bandeau, les filets et
+les aplats sont faits de couleurs de fond et de texte. Deux raisons :
 
-1. **Une bonne partie des messageries bloquent les images par défaut.** Un bandeau
-   construit en tableaux et couleurs de fond s'affiche toujours : l'accroche
-   « Votre livraison à votre port, en conteneur complet » reste lisible.
+1. **Une bonne partie des messageries bloquent les images par défaut.** L'accroche
+   « Votre livraison à votre port, en conteneur complet » doit rester lisible même
+   dans ce cas — elle l'est, seul le logo manque alors.
 2. **Certains chemins d'envoi filtrent le HTML.** Un envoi via l'API Gmail, par
    exemple, supprime *toutes* les balises `<img>` — pièce jointe, data URI ou URL
-   distante — et efface le raccourci CSS `background:`. Le message arrive alors
-   entièrement blanc.
+   distante — et efface le raccourci CSS `background:`. C'est pour ce cas qu'existe
+   `modele-fr-sans-image.html`.
 
-D'où deux règles à respecter en modifiant ce modèle :
+D'où les deux règles :
 
 - **Jamais `background:`** — toujours l'attribut `bgcolor="#RRGGBB"` sur la cellule,
   doublé de `background-color:` dans le style. Ces deux-là passent partout.

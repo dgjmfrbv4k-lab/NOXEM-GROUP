@@ -1,6 +1,6 @@
 /* NOXEM GROUP — campagne conteneur direct : pays, ports, langue de prospection.
    Généré pour la campagne verre plat en 20'/40' Open Top. Modifiable à la main.
-   c = code ISO · r = région · l = langue du message · p = ports · t = transit indicatif (jours, depuis Anvers)
+   c = code ISO · r = région · l = langue du message · p = ports · t = transit indicatif (jours)
    f = drapeaux : p production float locale · x vérifier sanctions/restrictions · e pays enclavé
    loc = nom du pays dans la langue du message, quand il diffère du nom anglais */
 window.NOXEM_REGIONS = {
@@ -91,8 +91,16 @@ window.NOXEM_COUNTRIES = [
   "l": "ar",
   "p": [
    "Jebel Ali (Dubaï)",
+   "Port Rashid",
    "Khalifa Port (Abu Dhabi)",
-   "Sharjah"
+   "Zayed Port",
+   "Khor Fakkan",
+   "Port Khalid (Sharjah)",
+   "Hamriyah",
+   "Fujaïrah",
+   "Ajman",
+   "Saqr Port (Ras Al Khaimah)",
+   "Umm Al Quwain"
   ],
   "t": "16-24",
   "f": "p",
@@ -107,8 +115,13 @@ window.NOXEM_COUNTRIES = [
   "l": "ar",
   "p": [
    "Djeddah",
-   "Dammam",
-   "Jubail"
+   "King Abdulaziz (Dammam)",
+   "King Abdullah Port",
+   "Jubail",
+   "Yanbu",
+   "Jizan",
+   "Ras Al Khair",
+   "Duba"
   ],
   "t": "18-26",
   "f": "p",
@@ -122,7 +135,10 @@ window.NOXEM_COUNTRIES = [
   "r": "me",
   "l": "ar",
   "p": [
-   "Hamad Port (Doha)"
+   "Hamad Port (Doha)",
+   "Doha Port",
+   "Mesaieed",
+   "Ruwais"
   ],
   "t": "18-26",
   "f": "",
@@ -137,7 +153,9 @@ window.NOXEM_COUNTRIES = [
   "l": "ar",
   "p": [
    "Shuwaikh",
-   "Shuaiba"
+   "Shuaiba",
+   "Doha Port (Koweït)",
+   "Mubarak Al Kabeer"
   ],
   "t": "18-26",
   "f": "",
@@ -151,7 +169,9 @@ window.NOXEM_COUNTRIES = [
   "r": "me",
   "l": "ar",
   "p": [
-   "Khalifa Bin Salman"
+   "Khalifa Bin Salman",
+   "Mina Salman",
+   "Sitra"
   ],
   "t": "18-26",
   "f": "",
@@ -167,7 +187,9 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Sohar",
    "Salalah",
-   "Duqm"
+   "Duqm",
+   "Sultan Qaboos (Mascate)",
+   "Khasab"
   ],
   "t": "16-24",
   "f": "",
@@ -181,7 +203,11 @@ window.NOXEM_COUNTRIES = [
   "r": "me",
   "l": "ar",
   "p": [
-   "Umm Qasr"
+   "Umm Qasr Nord",
+   "Umm Qasr Sud",
+   "Khor Al Zubair",
+   "Al Maqal (Bassorah)",
+   "Al Faw"
   ],
   "t": "20-28",
   "f": "",
@@ -195,7 +221,8 @@ window.NOXEM_COUNTRIES = [
   "r": "me",
   "l": "ar",
   "p": [
-   "Aqaba"
+   "Aqaba",
+   "Aqaba Container Terminal"
   ],
   "t": "16-24",
   "f": "",
@@ -210,7 +237,9 @@ window.NOXEM_COUNTRIES = [
   "l": "ar",
   "p": [
    "Beyrouth",
-   "Tripoli (Liban)"
+   "Tripoli (Liban)",
+   "Saïda",
+   "Tyr"
   ],
   "t": "12-18",
   "f": "",
@@ -225,7 +254,8 @@ window.NOXEM_COUNTRIES = [
   "l": "ar",
   "p": [
    "Lattaquié",
-   "Tartous"
+   "Tartous",
+   "Banias"
   ],
   "t": "12-20",
   "f": "x",
@@ -240,7 +270,10 @@ window.NOXEM_COUNTRIES = [
   "l": "ar",
   "p": [
    "Aden",
-   "Hodeïda"
+   "Hodeïda",
+   "Mukalla",
+   "Mokha",
+   "Nishtun"
   ],
   "t": "20-30",
   "f": "x",
@@ -254,8 +287,12 @@ window.NOXEM_COUNTRIES = [
   "r": "me",
   "l": "fa",
   "p": [
-   "Bandar Abbas",
-   "Bushehr"
+   "Bandar Abbas (Shahid Rajaee)",
+   "Bouchehr",
+   "Bandar Imam Khomeini",
+   "Chabahar",
+   "Bandar Anzali",
+   "Khorramshahr"
   ],
   "t": "20-30",
   "f": "px",
@@ -270,7 +307,9 @@ window.NOXEM_COUNTRIES = [
   "l": "he",
   "p": [
    "Haïfa",
-   "Ashdod"
+   "Ashdod",
+   "Eilat",
+   "Bay Port (Haïfa)"
   ],
   "t": "12-20",
   "f": "",
@@ -285,9 +324,21 @@ window.NOXEM_COUNTRIES = [
   "l": "tr",
   "p": [
    "Mersin",
-   "Izmir",
+   "Izmir (Alsancak)",
    "Ambarlı (Istanbul)",
-   "Gemlik"
+   "Gemlik",
+   "Asyaport (Tekirdağ)",
+   "Evyap",
+   "Aliağa",
+   "Iskenderun",
+   "Haydarpaşa",
+   "Antalya",
+   "Bandırma",
+   "Derince",
+   "Samsun",
+   "Trabzon",
+   "Zonguldak",
+   "Çeşme"
   ],
   "t": "10-16",
   "f": "p",
@@ -303,7 +354,13 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Casablanca",
    "Tanger Med",
-   "Agadir"
+   "Agadir",
+   "Jorf Lasfar",
+   "Mohammedia",
+   "Nador",
+   "Safi",
+   "Laâyoune",
+   "Dakhla"
   ],
   "t": "6-12",
   "f": "",
@@ -320,7 +377,13 @@ window.NOXEM_COUNTRIES = [
    "Alger",
    "Oran",
    "Béjaïa",
-   "Skikda"
+   "Skikda",
+   "Annaba",
+   "Mostaganem",
+   "Arzew",
+   "Djen Djen",
+   "Ténès",
+   "Ghazaouet"
   ],
   "t": "7-13",
   "f": "p",
@@ -336,7 +399,11 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Radès",
    "Sfax",
-   "Bizerte"
+   "Bizerte",
+   "Sousse",
+   "Gabès",
+   "La Goulette",
+   "Zarzis"
   ],
   "t": "7-13",
   "f": "",
@@ -353,7 +420,11 @@ window.NOXEM_COUNTRIES = [
    "Misrata",
    "Tripoli",
    "Benghazi",
-   "Khoms"
+   "Khoms",
+   "Zouara",
+   "Tobrouk",
+   "Derna",
+   "Ras Lanouf"
   ],
   "t": "8-16",
   "f": "",
@@ -368,9 +439,15 @@ window.NOXEM_COUNTRIES = [
   "l": "ar",
   "p": [
    "Alexandrie",
+   "Dekheila",
    "Damiette",
-   "Port-Saïd",
-   "Sokhna"
+   "Port-Saïd Est",
+   "Port-Saïd Ouest",
+   "Sokhna",
+   "Suez",
+   "Adabiya",
+   "Safaga",
+   "El Arich"
   ],
   "t": "10-16",
   "f": "p",
@@ -399,7 +476,8 @@ window.NOXEM_COUNTRIES = [
   "r": "wa",
   "l": "fr",
   "p": [
-   "Dakar"
+   "Dakar",
+   "Ndayane"
   ],
   "t": "10-16",
   "f": "",
@@ -444,8 +522,11 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Apapa (Lagos)",
    "Tin Can Island",
+   "Lekki Deep Sea Port",
    "Onne",
-   "Port Harcourt"
+   "Port Harcourt",
+   "Calabar",
+   "Warri"
   ],
   "t": "14-22",
   "f": "p",
@@ -486,7 +567,8 @@ window.NOXEM_COUNTRIES = [
   "r": "wa",
   "l": "fr",
   "p": [
-   "Conakry"
+   "Conakry",
+   "Kamsar"
   ],
   "t": "12-20",
   "f": "",
@@ -501,7 +583,8 @@ window.NOXEM_COUNTRIES = [
   "l": "fr",
   "p": [
    "via Dakar",
-   "via Abidjan"
+   "via Abidjan",
+   "via Conakry"
   ],
   "t": "16-26",
   "f": "e",
@@ -516,7 +599,9 @@ window.NOXEM_COUNTRIES = [
   "l": "fr",
   "p": [
    "via Lomé",
-   "via Abidjan"
+   "via Abidjan",
+   "via Tema",
+   "via Cotonou"
   ],
   "t": "16-26",
   "f": "e",
@@ -531,7 +616,8 @@ window.NOXEM_COUNTRIES = [
   "l": "fr",
   "p": [
    "via Cotonou",
-   "via Lomé"
+   "via Lomé",
+   "via Tema"
   ],
   "t": "18-28",
   "f": "e",
@@ -545,7 +631,8 @@ window.NOXEM_COUNTRIES = [
   "r": "wa",
   "l": "en",
   "p": [
-   "Freetown"
+   "Freetown",
+   "Pepel"
   ],
   "t": "14-22",
   "f": "",
@@ -558,7 +645,9 @@ window.NOXEM_COUNTRIES = [
   "r": "wa",
   "l": "en",
   "p": [
-   "Monrovia"
+   "Monrovia",
+   "Buchanan",
+   "Greenville"
   ],
   "t": "14-22",
   "f": "",
@@ -599,7 +688,8 @@ window.NOXEM_COUNTRIES = [
   "l": "pt",
   "p": [
    "Praia",
-   "Mindelo"
+   "Mindelo",
+   "Palmeira"
   ],
   "t": "10-18",
   "f": "",
@@ -614,7 +704,8 @@ window.NOXEM_COUNTRIES = [
   "l": "fr",
   "p": [
    "Douala",
-   "Kribi"
+   "Kribi",
+   "Limbé"
   ],
   "t": "14-22",
   "f": "",
@@ -629,7 +720,8 @@ window.NOXEM_COUNTRIES = [
   "l": "fr",
   "p": [
    "Owendo (Libreville)",
-   "Port-Gentil"
+   "Port-Gentil",
+   "Mayumba"
   ],
   "t": "14-22",
   "f": "",
@@ -659,6 +751,7 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Matadi",
    "Boma",
+   "Banana",
    "via Dar es Salaam"
   ],
   "t": "16-26",
@@ -674,7 +767,8 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "Malabo",
-   "Bata"
+   "Bata",
+   "Luba"
   ],
   "t": "14-22",
   "f": "",
@@ -688,7 +782,8 @@ window.NOXEM_COUNTRIES = [
   "r": "ca",
   "l": "fr",
   "p": [
-   "via Douala"
+   "via Douala",
+   "via Kribi"
   ],
   "t": "20-30",
   "f": "e",
@@ -718,7 +813,9 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Luanda",
    "Lobito",
-   "Namibe"
+   "Namibe",
+   "Cabinda",
+   "Soyo"
   ],
   "t": "16-24",
   "f": "",
@@ -746,7 +843,8 @@ window.NOXEM_COUNTRIES = [
   "r": "ea",
   "l": "en",
   "p": [
-   "Mombasa"
+   "Mombasa",
+   "Lamu"
   ],
   "t": "22-32",
   "f": "",
@@ -760,7 +858,9 @@ window.NOXEM_COUNTRIES = [
   "l": "sw",
   "p": [
    "Dar es Salaam",
-   "Tanga"
+   "Tanga",
+   "Mtwara",
+   "Zanzibar"
   ],
   "t": "22-32",
   "f": "",
@@ -817,7 +917,8 @@ window.NOXEM_COUNTRIES = [
   "r": "ea",
   "l": "am",
   "p": [
-   "via Djibouti"
+   "via Djibouti",
+   "via Berbera"
   ],
   "t": "24-34",
   "f": "e",
@@ -831,7 +932,8 @@ window.NOXEM_COUNTRIES = [
   "r": "ea",
   "l": "fr",
   "p": [
-   "Djibouti"
+   "Djibouti",
+   "Doraleh"
   ],
   "t": "18-28",
   "f": "",
@@ -847,7 +949,8 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Berbera",
    "Mogadiscio",
-   "Bossaso"
+   "Bossaso",
+   "Kismayo"
   ],
   "t": "20-30",
   "f": "",
@@ -904,7 +1007,10 @@ window.NOXEM_COUNTRIES = [
   "l": "fr",
   "p": [
    "Toamasina",
-   "Ehoala"
+   "Ehoala",
+   "Mahajanga",
+   "Antsiranana",
+   "Toliara"
   ],
   "t": "25-35",
   "f": "",
@@ -962,7 +1068,9 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Maputo",
    "Beira",
-   "Nacala"
+   "Nacala",
+   "Pemba",
+   "Quelimane"
   ],
   "t": "22-32",
   "f": "",
@@ -978,7 +1086,8 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "via Dar es Salaam",
    "via Beira",
-   "via Durban"
+   "via Durban",
+   "via Walvis Bay"
   ],
   "t": "30-40",
   "f": "e",
@@ -1033,7 +1142,8 @@ window.NOXEM_COUNTRIES = [
   "r": "sa_af",
   "l": "en",
   "p": [
-   "Walvis Bay"
+   "Walvis Bay",
+   "Lüderitz"
   ],
   "t": "20-30",
   "f": "",
@@ -1048,7 +1158,12 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Durban",
    "Le Cap",
-   "Port Elizabeth"
+   "Ngqura (Coega)",
+   "Port Elizabeth",
+   "East London",
+   "Richards Bay",
+   "Saldanha",
+   "Mossel Bay"
   ],
   "t": "18-28",
   "f": "p",
@@ -1088,7 +1203,12 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_e",
   "l": "ro",
   "p": [
-   "Constanța"
+   "Constanța",
+   "Midia",
+   "Mangalia",
+   "Galați",
+   "Brăila",
+   "Tulcea"
   ],
   "t": "12-18",
   "f": "",
@@ -1103,7 +1223,9 @@ window.NOXEM_COUNTRIES = [
   "l": "bg",
   "p": [
    "Varna",
-   "Bourgas"
+   "Bourgas",
+   "Roussé",
+   "Lom"
   ],
   "t": "12-18",
   "f": "",
@@ -1117,6 +1239,7 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_e",
   "l": "ro",
   "p": [
+   "Giurgiulești",
    "via Constanța"
   ],
   "t": "14-20",
@@ -1133,7 +1256,11 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Odessa",
    "Tchornomorsk",
-   "Izmaïl"
+   "Pivdennyi",
+   "Izmaïl",
+   "Reni",
+   "Mykolaïv",
+   "Kherson"
   ],
   "t": "14-22",
   "f": "x",
@@ -1148,7 +1275,15 @@ window.NOXEM_COUNTRIES = [
   "l": "ru",
   "p": [
    "Saint-Pétersbourg",
-   "Novorossiisk"
+   "Ust-Luga",
+   "Novorossiisk",
+   "Kaliningrad",
+   "Taganrog",
+   "Rostov-sur-le-Don",
+   "Arkhangelsk",
+   "Mourmansk",
+   "Vladivostok",
+   "Vostotchny"
   ],
   "t": "10-20",
   "f": "px",
@@ -1162,7 +1297,8 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_e",
   "l": "ru",
   "p": [
-   "via Klaipėda"
+   "via Klaipėda",
+   "via Gdańsk"
   ],
   "t": "12-20",
   "f": "ex",
@@ -1177,7 +1313,9 @@ window.NOXEM_COUNTRIES = [
   "l": "ka",
   "p": [
    "Poti",
-   "Batoumi"
+   "Batoumi",
+   "Koulevi",
+   "Anaklia"
   ],
   "t": "16-24",
   "f": "",
@@ -1191,7 +1329,8 @@ window.NOXEM_COUNTRIES = [
   "r": "cauc",
   "l": "hy",
   "p": [
-   "via Poti"
+   "via Poti",
+   "via Batoumi"
   ],
   "t": "20-30",
   "f": "e",
@@ -1205,7 +1344,8 @@ window.NOXEM_COUNTRIES = [
   "r": "cauc",
   "l": "az",
   "p": [
-   "Bakou (via Poti)"
+   "Bakou (Alat)",
+   "via Poti"
   ],
   "t": "20-30",
   "f": "e",
@@ -1220,7 +1360,15 @@ window.NOXEM_COUNTRIES = [
   "l": "el",
   "p": [
    "Le Pirée",
-   "Thessalonique"
+   "Thessalonique",
+   "Volos",
+   "Patras",
+   "Héraklion",
+   "Igoumenitsa",
+   "Kavala",
+   "Elefsina",
+   "Lavrio",
+   "Astakos"
   ],
   "t": "8-14",
   "f": "",
@@ -1234,7 +1382,9 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_e",
   "l": "el",
   "p": [
-   "Limassol"
+   "Limassol",
+   "Larnaca",
+   "Vassiliko"
   ],
   "t": "10-16",
   "f": "",
@@ -1248,7 +1398,8 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_e",
   "l": "en",
   "p": [
-   "Marsaxlokk"
+   "Marsaxlokk",
+   "La Valette"
   ],
   "t": "8-14",
   "f": "",
@@ -1261,7 +1412,10 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_e",
   "l": "sq",
   "p": [
-   "Durrës"
+   "Durrës",
+   "Vlora",
+   "Shëngjin",
+   "Saranda"
   ],
   "t": "10-16",
   "f": "",
@@ -1275,7 +1429,8 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_e",
   "l": "mk",
   "p": [
-   "via Thessalonique"
+   "via Thessalonique",
+   "via Durrës"
   ],
   "t": "12-20",
   "f": "e",
@@ -1290,7 +1445,8 @@ window.NOXEM_COUNTRIES = [
   "l": "sq",
   "p": [
    "via Durrës",
-   "via Thessalonique"
+   "via Thessalonique",
+   "via Bar"
   ],
   "t": "12-20",
   "f": "e",
@@ -1306,7 +1462,9 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "via Constanța",
    "via Koper",
-   "via Thessalonique"
+   "via Thessalonique",
+   "Belgrade (fluvial)",
+   "Novi Sad (fluvial)"
   ],
   "t": "12-20",
   "f": "e",
@@ -1350,7 +1508,12 @@ window.NOXEM_COUNTRIES = [
   "l": "hr",
   "p": [
    "Rijeka",
-   "Ploče"
+   "Ploče",
+   "Split",
+   "Zadar",
+   "Šibenik",
+   "Pula",
+   "Dubrovnik"
   ],
   "t": "8-14",
   "f": "",
@@ -1380,7 +1543,8 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "via Koper",
    "via Constanța",
-   "route depuis Anvers"
+   "Budapest (fluvial)",
+   "route depuis l'Europe du Nord"
   ],
   "t": "3-8",
   "f": "e",
@@ -1395,7 +1559,8 @@ window.NOXEM_COUNTRIES = [
   "l": "sk",
   "p": [
    "via Koper",
-   "route depuis Anvers"
+   "Bratislava (fluvial)",
+   "route depuis l'Europe du Nord"
   ],
   "t": "3-8",
   "f": "e",
@@ -1410,7 +1575,8 @@ window.NOXEM_COUNTRIES = [
   "l": "cs",
   "p": [
    "via Hambourg",
-   "route depuis Anvers"
+   "via Koper",
+   "route depuis l'Europe du Nord"
   ],
   "t": "3-8",
   "f": "ep",
@@ -1426,7 +1592,10 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Gdańsk",
    "Gdynia",
-   "Szczecin"
+   "Szczecin",
+   "Świnoujście",
+   "Police",
+   "Elbląg"
   ],
   "t": "4-9",
   "f": "p",
@@ -1455,7 +1624,8 @@ window.NOXEM_COUNTRIES = [
   "l": "lv",
   "p": [
    "Riga",
-   "Ventspils"
+   "Ventspils",
+   "Liepāja"
   ],
   "t": "5-10",
   "f": "",
@@ -1469,7 +1639,9 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_n",
   "l": "et",
   "p": [
-   "Tallinn"
+   "Tallinn (Muuga)",
+   "Paldiski",
+   "Sillamäe"
   ],
   "t": "5-10",
   "f": "",
@@ -1483,9 +1655,13 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_n",
   "l": "fi",
   "p": [
-   "Helsinki",
-   "Kotka",
-   "Rauma"
+   "Helsinki (Vuosaari)",
+   "HaminaKotka",
+   "Rauma",
+   "Turku",
+   "Pori",
+   "Oulu",
+   "Kokkola"
   ],
   "t": "5-12",
   "f": "",
@@ -1500,7 +1676,12 @@ window.NOXEM_COUNTRIES = [
   "l": "sv",
   "p": [
    "Göteborg",
-   "Stockholm"
+   "Stockholm",
+   "Helsingborg",
+   "Malmö",
+   "Norrköping",
+   "Gävle",
+   "Luleå"
   ],
   "t": "4-10",
   "f": "",
@@ -1515,7 +1696,12 @@ window.NOXEM_COUNTRIES = [
   "l": "no",
   "p": [
    "Oslo",
-   "Bergen"
+   "Bergen",
+   "Stavanger",
+   "Trondheim",
+   "Kristiansand",
+   "Ålesund",
+   "Larvik"
   ],
   "t": "4-10",
   "f": "",
@@ -1530,7 +1716,11 @@ window.NOXEM_COUNTRIES = [
   "l": "da",
   "p": [
    "Aarhus",
-   "Copenhague"
+   "Copenhague",
+   "Esbjerg",
+   "Fredericia",
+   "Aalborg",
+   "Kalundborg"
   ],
   "t": "3-8",
   "f": "",
@@ -1544,7 +1734,10 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_n",
   "l": "en",
   "p": [
-   "Reykjavik"
+   "Reykjavik",
+   "Hafnarfjörður",
+   "Akureyri",
+   "Reyðarfjörður"
   ],
   "t": "8-14",
   "f": "",
@@ -1559,7 +1752,10 @@ window.NOXEM_COUNTRIES = [
   "l": "en",
   "p": [
    "Dublin",
-   "Cork"
+   "Cork",
+   "Waterford",
+   "Shannon Foynes",
+   "Rosslare"
   ],
   "t": "3-8",
   "f": "",
@@ -1574,8 +1770,16 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Felixstowe",
    "Southampton",
+   "London Gateway",
    "Liverpool",
-   "Tilbury"
+   "Tilbury",
+   "Immingham",
+   "Teesport",
+   "Hull",
+   "Bristol",
+   "Grangemouth",
+   "Belfast",
+   "Greenock"
   ],
   "t": "3-8",
   "f": "p",
@@ -1591,7 +1795,12 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Leixões",
    "Lisbonne",
-   "Sines"
+   "Sines",
+   "Setúbal",
+   "Aveiro",
+   "Figueira da Foz",
+   "Funchal",
+   "Ponta Delgada"
   ],
   "t": "6-12",
   "f": "",
@@ -1608,7 +1817,21 @@ window.NOXEM_COUNTRIES = [
    "Valence",
    "Barcelone",
    "Algésiras",
-   "Bilbao"
+   "Bilbao",
+   "Las Palmas",
+   "Santa Cruz de Tenerife",
+   "Vigo",
+   "Castellón",
+   "Malaga",
+   "Séville",
+   "Tarragone",
+   "Alicante",
+   "Santander",
+   "Gijón",
+   "Cadix",
+   "Carthagène",
+   "Huelva",
+   "Palma de Majorque"
   ],
   "t": "5-10",
   "f": "p",
@@ -1624,7 +1847,21 @@ window.NOXEM_COUNTRIES = [
    "Gênes",
    "Trieste",
    "Gioia Tauro",
-   "La Spezia"
+   "La Spezia",
+   "Livourne",
+   "Naples",
+   "Salerne",
+   "Venise",
+   "Ravenne",
+   "Ancône",
+   "Civitavecchia",
+   "Bari",
+   "Tarente",
+   "Savone-Vado",
+   "Cagliari",
+   "Catane",
+   "Palerme",
+   "Marghera"
   ],
   "t": "6-12",
   "f": "p",
@@ -1639,8 +1876,14 @@ window.NOXEM_COUNTRIES = [
   "l": "de",
   "p": [
    "Hambourg",
+   "Bremerhaven",
    "Brême",
-   "route depuis Anvers"
+   "Wilhelmshaven",
+   "Lübeck",
+   "Rostock",
+   "Kiel",
+   "Emden",
+   "Duisbourg (fluvial)"
   ],
   "t": "2-6",
   "f": "p",
@@ -1655,12 +1898,50 @@ window.NOXEM_COUNTRIES = [
   "l": "nl",
   "p": [
    "Rotterdam",
-   "Anvers (à 60 km)"
+   "Amsterdam",
+   "Flessingue",
+   "Moerdijk",
+   "Terneuzen",
+   "Eemshaven"
   ],
   "t": "1-3",
   "f": "",
   "n": "Livraison camion directe depuis Mollem.",
   "loc": "Nederland"
+ },
+ {
+  "c": "BE",
+  "fr": "Belgique",
+  "en": "Belgium",
+  "r": "eu_w",
+  "l": "nl",
+  "p": [
+   "Anvers",
+   "Zeebrugge",
+   "Gand",
+   "Ostende",
+   "Liège (fluvial)"
+  ],
+  "t": "1-3",
+  "f": "",
+  "n": "Anvers et Zeebrugge : premières portes de sortie du verre européen vers le reste du monde.",
+  "loc": "België"
+ },
+ {
+  "c": "LU",
+  "fr": "Luxembourg",
+  "en": "Luxembourg",
+  "r": "eu_w",
+  "l": "fr",
+  "p": [
+   "via Anvers",
+   "via Rotterdam",
+   "Mertert (fluvial)"
+  ],
+  "t": "2-5",
+  "f": "e",
+  "n": "Enclavé : livraison par camion depuis Anvers ou Rotterdam.",
+  "loc": "le Luxembourg"
  },
  {
   "c": "FR",
@@ -1670,8 +1951,21 @@ window.NOXEM_COUNTRIES = [
   "l": "fr",
   "p": [
    "Le Havre",
-   "Marseille",
-   "Anvers (route)"
+   "Marseille-Fos",
+   "Dunkerque",
+   "Rouen",
+   "Nantes-Saint-Nazaire",
+   "La Rochelle",
+   "Bordeaux",
+   "Sète",
+   "Brest",
+   "Lorient",
+   "Bayonne",
+   "Toulon",
+   "Calais",
+   "Port-la-Nouvelle",
+   "Ajaccio",
+   "Bastia"
   ],
   "t": "1-4",
   "f": "p",
@@ -1685,7 +1979,10 @@ window.NOXEM_COUNTRIES = [
   "r": "eu_w",
   "l": "de",
   "p": [
-   "route depuis Anvers"
+   "Bâle (fluvial)",
+   "via Rotterdam",
+   "via Anvers",
+   "via Gênes"
   ],
   "t": "2-6",
   "f": "e",
@@ -1700,7 +1997,9 @@ window.NOXEM_COUNTRIES = [
   "l": "de",
   "p": [
    "via Koper",
-   "route depuis Anvers"
+   "via Hambourg",
+   "via Rotterdam",
+   "Vienne (fluvial)"
   ],
   "t": "3-8",
   "f": "e",
@@ -1714,9 +2013,10 @@ window.NOXEM_COUNTRIES = [
   "r": "casia",
   "l": "ru",
   "p": [
+   "Aktaou",
+   "Kuryk",
    "via Poti",
-   "via Klaipėda (rail)",
-   "Aktaou"
+   "rail depuis l'Europe"
   ],
   "t": "25-40",
   "f": "e",
@@ -1731,6 +2031,7 @@ window.NOXEM_COUNTRIES = [
   "l": "ru",
   "p": [
    "via Poti",
+   "via Bandar Abbas",
    "rail depuis l'Europe"
   ],
   "t": "30-45",
@@ -1745,7 +2046,8 @@ window.NOXEM_COUNTRIES = [
   "r": "casia",
   "l": "ru",
   "p": [
-   "Turkmenbachi (via Bakou)"
+   "Turkmenbachi",
+   "via Bakou"
   ],
   "t": "30-45",
   "f": "e",
@@ -1760,7 +2062,7 @@ window.NOXEM_COUNTRIES = [
   "l": "ru",
   "p": [
    "via Poti",
-   "rail"
+   "rail depuis l'Europe"
   ],
   "t": "35-50",
   "f": "e",
@@ -1775,7 +2077,8 @@ window.NOXEM_COUNTRIES = [
   "l": "ru",
   "p": [
    "via Poti",
-   "rail"
+   "via Karachi",
+   "rail depuis l'Europe"
   ],
   "t": "35-50",
   "f": "e",
@@ -1804,10 +2107,24 @@ window.NOXEM_COUNTRIES = [
   "r": "sasia",
   "l": "hi",
   "p": [
-   "Nhava Sheva",
+   "Nhava Sheva (JNPT)",
    "Mundra",
    "Chennai",
-   "Kolkata"
+   "Haldia",
+   "Kolkata",
+   "Kandla (Deendayal)",
+   "Cochin",
+   "Tuticorin",
+   "Visakhapatnam",
+   "Krishnapatnam",
+   "Kattupalli",
+   "Pipavav",
+   "Hazira",
+   "Kamarajar (Ennore)",
+   "Mormugao",
+   "Paradip",
+   "New Mangalore",
+   "Vizhinjam"
   ],
   "t": "20-28",
   "f": "p",
@@ -1822,7 +2139,8 @@ window.NOXEM_COUNTRIES = [
   "l": "ur",
   "p": [
    "Karachi",
-   "Port Qasim"
+   "Port Qasim",
+   "Gwadar"
   ],
   "t": "20-30",
   "f": "p",
@@ -1837,7 +2155,8 @@ window.NOXEM_COUNTRIES = [
   "l": "bn",
   "p": [
    "Chattogram",
-   "Mongla"
+   "Mongla",
+   "Payra"
   ],
   "t": "24-34",
   "f": "p",
@@ -1851,7 +2170,10 @@ window.NOXEM_COUNTRIES = [
   "r": "sasia",
   "l": "en",
   "p": [
-   "Colombo"
+   "Colombo",
+   "Hambantota",
+   "Trincomalee",
+   "Galle"
   ],
   "t": "20-30",
   "f": "",
@@ -1866,7 +2188,8 @@ window.NOXEM_COUNTRIES = [
   "l": "en",
   "p": [
    "via Kolkata",
-   "via Haldia"
+   "via Haldia",
+   "via Visakhapatnam"
   ],
   "t": "30-40",
   "f": "e",
@@ -1895,7 +2218,8 @@ window.NOXEM_COUNTRIES = [
   "l": "fa",
   "p": [
    "via Karachi",
-   "via Bandar Abbas"
+   "via Bandar Abbas",
+   "via Chabahar"
   ],
   "t": "35-50",
   "f": "ex",
@@ -1911,7 +2235,10 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Hai Phong",
    "Cat Lai (HCMV)",
-   "Da Nang"
+   "Cai Mep",
+   "Da Nang",
+   "Quy Nhon",
+   "Cua Lo"
   ],
   "t": "28-38",
   "f": "p",
@@ -1926,7 +2253,10 @@ window.NOXEM_COUNTRIES = [
   "l": "th",
   "p": [
    "Laem Chabang",
-   "Bangkok"
+   "Bangkok (Klong Toey)",
+   "Map Ta Phut",
+   "Songkhla",
+   "Sattahip"
   ],
   "t": "28-38",
   "f": "p",
@@ -1941,7 +2271,7 @@ window.NOXEM_COUNTRIES = [
   "l": "en",
   "p": [
    "Sihanoukville",
-   "Phnom Penh"
+   "Phnom Penh (fluvial)"
   ],
   "t": "30-40",
   "f": "",
@@ -1954,7 +2284,8 @@ window.NOXEM_COUNTRIES = [
   "r": "sea",
   "l": "en",
   "p": [
-   "Yangon"
+   "Yangon",
+   "Thilawa"
   ],
   "t": "30-40",
   "f": "x",
@@ -1968,8 +2299,13 @@ window.NOXEM_COUNTRIES = [
   "l": "ms",
   "p": [
    "Port Klang",
+   "Tanjung Pelepas",
    "Penang",
-   "Tanjung Pelepas"
+   "Johor",
+   "Kuantan",
+   "Bintulu",
+   "Kota Kinabalu",
+   "Kuching"
   ],
   "t": "26-36",
   "f": "p",
@@ -1983,7 +2319,8 @@ window.NOXEM_COUNTRIES = [
   "r": "sea",
   "l": "en",
   "p": [
-   "Singapour"
+   "Singapour (PSA)",
+   "Tuas"
   ],
   "t": "26-36",
   "f": "",
@@ -1997,8 +2334,14 @@ window.NOXEM_COUNTRIES = [
   "l": "id",
   "p": [
    "Tanjung Priok (Jakarta)",
-   "Surabaya",
-   "Semarang"
+   "Tanjung Perak (Surabaya)",
+   "Belawan",
+   "Semarang",
+   "Makassar",
+   "Panjang",
+   "Balikpapan",
+   "Batam",
+   "Bitung"
   ],
   "t": "28-38",
   "f": "p",
@@ -2012,9 +2355,15 @@ window.NOXEM_COUNTRIES = [
   "r": "sea",
   "l": "en",
   "p": [
-   "Manille",
+   "Manille Nord",
+   "Manille Sud",
+   "Batangas",
+   "Subic",
    "Cebu",
-   "Subic"
+   "Davao",
+   "Cagayan de Oro",
+   "General Santos",
+   "Iloilo"
   ],
   "t": "30-40",
   "f": "",
@@ -2042,8 +2391,22 @@ window.NOXEM_COUNTRIES = [
   "l": "zh",
   "p": [
    "Shanghai",
-   "Ningbo",
-   "Shenzhen"
+   "Ningbo-Zhoushan",
+   "Shenzhen",
+   "Guangzhou",
+   "Qingdao",
+   "Tianjin",
+   "Xiamen",
+   "Dalian",
+   "Lianyungang",
+   "Yingkou",
+   "Fuzhou",
+   "Nanjing",
+   "Zhanjiang",
+   "Rizhao",
+   "Yantai",
+   "Shantou",
+   "Haikou"
   ],
   "t": "30-40",
   "f": "p",
@@ -2057,7 +2420,7 @@ window.NOXEM_COUNTRIES = [
   "r": "fe",
   "l": "zh",
   "p": [
-   "Hong Kong"
+   "Hong Kong (Kwai Tsing)"
   ],
   "t": "30-40",
   "f": "",
@@ -2072,7 +2435,11 @@ window.NOXEM_COUNTRIES = [
   "l": "ko",
   "p": [
    "Busan",
-   "Incheon"
+   "Incheon",
+   "Gwangyang",
+   "Ulsan",
+   "Pyeongtaek",
+   "Mokpo"
   ],
   "t": "30-40",
   "f": "p",
@@ -2088,7 +2455,15 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Yokohama",
    "Kobe",
-   "Nagoya"
+   "Nagoya",
+   "Osaka",
+   "Tokyo",
+   "Hakata",
+   "Shimizu",
+   "Kitakyushu (Moji)",
+   "Sendai",
+   "Niigata",
+   "Naha"
   ],
   "t": "30-42",
   "f": "p",
@@ -2103,7 +2478,10 @@ window.NOXEM_COUNTRIES = [
   "l": "zh",
   "p": [
    "Kaohsiung",
-   "Taipei"
+   "Taichung",
+   "Keelung",
+   "Taipei",
+   "Hualien"
   ],
   "t": "30-40",
   "f": "p",
@@ -2117,10 +2495,15 @@ window.NOXEM_COUNTRIES = [
   "r": "oce",
   "l": "en",
   "p": [
-   "Sydney",
+   "Sydney (Port Botany)",
    "Melbourne",
    "Brisbane",
-   "Fremantle"
+   "Fremantle",
+   "Adélaïde",
+   "Port Kembla",
+   "Townsville",
+   "Darwin",
+   "Newcastle"
   ],
   "t": "32-45",
   "f": "p",
@@ -2135,7 +2518,12 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Auckland",
    "Tauranga",
-   "Lyttelton"
+   "Lyttelton",
+   "Napier",
+   "Wellington",
+   "Port Chalmers",
+   "Nelson",
+   "Timaru"
   ],
   "t": "35-48",
   "f": "",
@@ -2149,7 +2537,9 @@ window.NOXEM_COUNTRIES = [
   "l": "en",
   "p": [
    "Lae",
-   "Port Moresby"
+   "Port Moresby",
+   "Rabaul",
+   "Madang"
   ],
   "t": "35-48",
   "f": "",
@@ -2208,7 +2598,26 @@ window.NOXEM_COUNTRIES = [
    "Houston",
    "Savannah",
    "Los Angeles",
-   "Miami"
+   "Long Beach",
+   "Charleston",
+   "Norfolk",
+   "Baltimore",
+   "Miami",
+   "Port Everglades",
+   "Jacksonville",
+   "Oakland",
+   "Seattle",
+   "Tacoma",
+   "La Nouvelle-Orléans",
+   "Mobile",
+   "Philadelphie",
+   "Boston",
+   "Wilmington (NC)",
+   "Galveston",
+   "Corpus Christi",
+   "Portland (Oregon)",
+   "Honolulu",
+   "San Juan (Porto Rico)"
   ],
   "t": "12-20",
   "f": "p",
@@ -2225,7 +2634,12 @@ window.NOXEM_COUNTRIES = [
    "Montréal",
    "Halifax",
    "Vancouver",
-   "Toronto (via Montréal)"
+   "Prince Rupert",
+   "Saint-Jean (Nouveau-Brunswick)",
+   "Québec",
+   "Hamilton (fluvial)",
+   "Toronto (fluvial)",
+   "Thunder Bay"
   ],
   "t": "10-18",
   "f": "p",
@@ -2240,7 +2654,14 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Veracruz",
    "Altamira",
-   "Manzanillo"
+   "Manzanillo",
+   "Lázaro Cárdenas",
+   "Ensenada",
+   "Progreso",
+   "Tampico",
+   "Coatzacoalcos",
+   "Mazatlán",
+   "Guaymas"
   ],
   "t": "16-26",
   "f": "p",
@@ -2255,7 +2676,8 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "Puerto Quetzal",
-   "Puerto Barrios"
+   "Puerto Barrios",
+   "Santo Tomás de Castilla"
   ],
   "t": "18-28",
   "f": "",
@@ -2268,7 +2690,10 @@ window.NOXEM_COUNTRIES = [
   "r": "cam",
   "l": "es",
   "p": [
-   "Puerto Cortés"
+   "Puerto Cortés",
+   "Puerto Castilla",
+   "San Lorenzo",
+   "Roatán"
   ],
   "t": "18-28",
   "f": "",
@@ -2281,7 +2706,8 @@ window.NOXEM_COUNTRIES = [
   "r": "cam",
   "l": "es",
   "p": [
-   "Acajutla"
+   "Acajutla",
+   "La Unión"
   ],
   "t": "18-28",
   "f": "",
@@ -2294,7 +2720,9 @@ window.NOXEM_COUNTRIES = [
   "r": "cam",
   "l": "es",
   "p": [
-   "Corinto"
+   "Corinto",
+   "Puerto Cabezas",
+   "Bluefields"
   ],
   "t": "18-28",
   "f": "",
@@ -2308,6 +2736,7 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "Moín (Limón)",
+   "Puerto Limón",
    "Caldera"
   ],
   "t": "16-26",
@@ -2321,9 +2750,11 @@ window.NOXEM_COUNTRIES = [
   "r": "cam",
   "l": "es",
   "p": [
-   "Colón",
+   "Colón (Manzanillo)",
+   "Cristóbal",
    "Balboa",
-   "Manzanillo (PA)"
+   "PSA Rodman",
+   "Zone franche de Colón"
   ],
   "t": "14-22",
   "f": "",
@@ -2337,7 +2768,8 @@ window.NOXEM_COUNTRIES = [
   "r": "cam",
   "l": "en",
   "p": [
-   "Belize City"
+   "Belize City",
+   "Big Creek"
   ],
   "t": "18-28",
   "f": "",
@@ -2351,7 +2783,9 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "Mariel",
-   "La Havane"
+   "La Havane",
+   "Santiago de Cuba",
+   "Cienfuegos"
   ],
   "t": "16-26",
   "f": "x",
@@ -2365,7 +2799,10 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "Caucedo",
-   "Haina"
+   "Haina",
+   "Santo Domingo",
+   "Puerto Plata",
+   "Boca Chica"
   ],
   "t": "14-24",
   "f": "",
@@ -2380,7 +2817,8 @@ window.NOXEM_COUNTRIES = [
   "l": "fr",
   "p": [
    "Port-au-Prince",
-   "Cap-Haïtien"
+   "Cap-Haïtien",
+   "Saint-Marc"
   ],
   "t": "16-26",
   "f": "",
@@ -2394,7 +2832,8 @@ window.NOXEM_COUNTRIES = [
   "r": "carib",
   "l": "en",
   "p": [
-   "Kingston"
+   "Kingston",
+   "Montego Bay"
   ],
   "t": "14-24",
   "f": "",
@@ -2408,7 +2847,8 @@ window.NOXEM_COUNTRIES = [
   "l": "en",
   "p": [
    "Port of Spain",
-   "Point Lisas"
+   "Point Lisas",
+   "Scarborough"
   ],
   "t": "14-24",
   "f": "",
@@ -2434,7 +2874,7 @@ window.NOXEM_COUNTRIES = [
   "r": "carib",
   "l": "fr",
   "p": [
-   "Pointe-à-Pitre"
+   "Pointe-à-Pitre (Jarry)"
   ],
   "t": "12-20",
   "f": "",
@@ -2506,7 +2946,9 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "Carthagène",
    "Barranquilla",
-   "Buenaventura"
+   "Buenaventura",
+   "Santa Marta",
+   "Turbo"
   ],
   "t": "16-26",
   "f": "p",
@@ -2520,7 +2962,9 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "Puerto Cabello",
-   "La Guaira"
+   "La Guaira",
+   "Maracaibo",
+   "Guanta"
   ],
   "t": "18-28",
   "f": "x",
@@ -2534,7 +2978,10 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "Guayaquil",
-   "Posorja"
+   "Posorja",
+   "Manta",
+   "Puerto Bolívar",
+   "Esmeraldas"
   ],
   "t": "20-30",
   "f": "",
@@ -2548,7 +2995,11 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "Callao",
-   "Paita"
+   "Paita",
+   "Matarani",
+   "Salaverry",
+   "Chancay",
+   "Ilo"
   ],
   "t": "20-30",
   "f": "p",
@@ -2563,7 +3014,8 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "via Arica",
-   "via Iquique"
+   "via Iquique",
+   "via Matarani"
   ],
   "t": "25-35",
   "f": "e",
@@ -2578,7 +3030,13 @@ window.NOXEM_COUNTRIES = [
   "p": [
    "San Antonio",
    "Valparaíso",
-   "Coronel"
+   "Coronel",
+   "Lirquén",
+   "Iquique",
+   "Antofagasta",
+   "Arica",
+   "Talcahuano",
+   "Puerto Montt"
   ],
   "t": "22-32",
   "f": "",
@@ -2592,7 +3050,12 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "Buenos Aires",
-   "Zárate"
+   "Zárate",
+   "Rosario",
+   "Bahía Blanca",
+   "La Plata",
+   "Campana",
+   "Ushuaia"
   ],
   "t": "22-32",
   "f": "p",
@@ -2605,7 +3068,8 @@ window.NOXEM_COUNTRIES = [
   "r": "sam",
   "l": "es",
   "p": [
-   "Montevideo"
+   "Montevideo",
+   "Nueva Palmira"
   ],
   "t": "20-30",
   "f": "",
@@ -2619,7 +3083,9 @@ window.NOXEM_COUNTRIES = [
   "l": "es",
   "p": [
    "via Montevideo",
-   "via Buenos Aires"
+   "via Buenos Aires",
+   "Asunción (fluvial)",
+   "Villeta (fluvial)"
   ],
   "t": "28-38",
   "f": "e",
@@ -2635,7 +3101,19 @@ window.NOXEM_COUNTRIES = [
    "Santos",
    "Itajaí",
    "Suape",
-   "Rio de Janeiro"
+   "Rio de Janeiro",
+   "Paranaguá",
+   "Rio Grande",
+   "Navegantes",
+   "Salvador",
+   "Vitória",
+   "Itaguaí",
+   "São Francisco do Sul",
+   "Itapoá",
+   "Pecém",
+   "Fortaleza",
+   "Manaus",
+   "Belém"
   ],
   "t": "18-28",
   "f": "p",

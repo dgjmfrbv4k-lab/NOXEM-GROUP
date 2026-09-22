@@ -118,6 +118,8 @@ ul.inco li::before{content:"";position:absolute;left:0;top:9px;width:8px;height:
 .pr-c b{font-weight:600}
 .pr-c span{color:var(--ink-soft)}
 .pr-search{max-width:320px;margin-bottom:18px}
+.world-ports{border-left:3px solid var(--red);padding:2px 0 2px 14px;margin:0 0 20px;font-size:14.5px;line-height:1.6;color:var(--ink);max-width:66ch}
+[dir="rtl"] .world-ports{border-left:none;border-right:3px solid var(--red);padding:2px 14px 2px 0}
 
 .cta{background:var(--paper-2)}
 .cta-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:26px;align-items:center}
@@ -229,6 +231,7 @@ footer a{color:var(--ink-soft)}
 <section><div class="wrap">
   <h2 data-i18n="portsH"></h2>
   <p class="lead" data-i18n="portsP"></p>
+  <p class="world-ports" id="portsWorld"></p>
   <input class="pr-search" id="portSearch" type="search" placeholder="Constanța, Jebel Ali, Abidjan…">
   <div class="ports" id="portsList"></div>
   <p class="lead" style="margin-top:18px;font-size:13px" data-i18n="portsNote"></p>
@@ -334,6 +337,9 @@ footer a{color:var(--ink-soft)}
     $('waHero').href = links.wa; $('waCta').href = links.wa; $('waFloat').href = links.wa;
     $('mailHero').href = links.mail; $('mailCta').href = links.mail;
 
+    $('portsWorld').textContent = t.portsWorld
+      .replace('{n}', nf(nPorts)).replace('{p}', nf(C.length));
+
     drawPorts();
     calc();
   }
@@ -426,10 +432,12 @@ footer a{color:var(--ink-soft)}
   }
 
   /* ---------- compteurs ---------- */
+  var NAMED = /^(via |rail |route )/;
   var ports = {};
-  C.forEach(function(c){ c.p.forEach(function(p){ ports[p] = 1; }); });
+  C.forEach(function(c){ c.p.forEach(function(p){ if(!NAMED.test(p)) ports[p] = 1; }); });
+  var nPorts = Object.keys(ports).length;
   $('nCountries').textContent = C.length;
-  $('nPorts').textContent = Object.keys(ports).length;
+  $('nPorts').textContent = nPorts;
 
   sel.addEventListener('change', function(){
     lang = sel.value;

@@ -57,7 +57,8 @@ window.NOXEM_PAGE = {
   "mailBody": "Bonjour,\n\nNous souhaitons recevoir un prix par conteneur pour :\n- Produit : \n- Épaisseur : \n- Format : 3210 × 2250 mm\n- Quantité (m² ou conteneurs) : \n- Port de destination : \n- Incoterm souhaité : CFR\n\nSociété : \nPays : \n\nMerci.",
   "waText": "Bonjour, je souhaite un prix par conteneur pour du verre plat (format 3210 × 2250 mm). Port de destination : ",
   "footL1": "NOXEM GROUP — Mollem (Asse), Belgique · Chargement Anvers et Zeebrugge",
-  "footL2": "Document commercial, sous réserve de disponibilité et de confirmation écrite."
+  "footL2": "Document commercial, sous réserve de disponibilité et de confirmation écrite.",
+  "portsWorld": "Environ 3 700 ports maritimes sont recensés dans le monde par le World Port Index. Nous en listons {n}, dans {p} pays. Si le vôtre n'y figure pas, il se cote quand même."
  },
  "en": {
   "langName": "English",
@@ -116,7 +117,8 @@ window.NOXEM_PAGE = {
   "mailBody": "Hello,\n\nWe would like a per-container price for:\n- Product: \n- Thickness: \n- Size: 3210 × 2250 mm\n- Quantity (m² or containers): \n- Port of destination: \n- Preferred Incoterm: CFR\n\nCompany: \nCountry: \n\nThank you.",
   "waText": "Hello, I would like a per-container price for flat glass (size 3210 × 2250 mm). Port of destination: ",
   "footL1": "NOXEM GROUP — Mollem (Asse), Belgium · Loading in Antwerp and Zeebrugge",
-  "footL2": "Commercial document, subject to availability and written confirmation."
+  "footL2": "Commercial document, subject to availability and written confirmation.",
+  "portsWorld": "Around 3,700 seaports are listed worldwide in the World Port Index. We list {n} of them, across {p} countries. If yours is not there, we will still quote it."
  },
  "es": {
   "langName": "Español",
@@ -175,7 +177,8 @@ window.NOXEM_PAGE = {
   "mailBody": "Buenos días:\n\nDeseamos recibir un precio por contenedor para:\n- Producto: \n- Espesor: \n- Formato: 3210 × 2250 mm\n- Cantidad (m² o contenedores): \n- Puerto de destino: \n- Incoterm preferido: CFR\n\nEmpresa: \nPaís: \n\nGracias.",
   "waText": "Buenos días, deseo un precio por contenedor de vidrio plano (formato 3210 × 2250 mm). Puerto de destino: ",
   "footL1": "NOXEM GROUP — Mollem (Asse), Bélgica · Carga en Amberes y Zeebrugge",
-  "footL2": "Documento comercial, sujeto a disponibilidad y confirmación por escrito."
+  "footL2": "Documento comercial, sujeto a disponibilidad y confirmación por escrito.",
+  "portsWorld": "El World Port Index registra unos 3.700 puertos marítimos en el mundo. Aquí figuran {n}, en {p} países. Si el suyo no aparece, se lo cotizamos igualmente."
  },
  "pt": {
   "langName": "Português",
@@ -234,7 +237,8 @@ window.NOXEM_PAGE = {
   "mailBody": "Bom dia,\n\nPretendemos receber um preço por contentor para:\n- Produto: \n- Espessura: \n- Formato: 3210 × 2250 mm\n- Quantidade (m² ou contentores): \n- Porto de destino: \n- Incoterm pretendido: CFR\n\nEmpresa: \nPaís: \n\nObrigado.",
   "waText": "Bom dia, pretendo um preço por contentor de vidro plano (formato 3210 × 2250 mm). Porto de destino: ",
   "footL1": "NOXEM GROUP — Mollem (Asse), Bélgica · Carga em Antuérpia e Zeebrugge",
-  "footL2": "Documento comercial, sujeito a disponibilidade e confirmação por escrito."
+  "footL2": "Documento comercial, sujeito a disponibilidade e confirmação por escrito.",
+  "portsWorld": "O World Port Index regista cerca de 3.700 portos marítimos no mundo. Aqui constam {n}, em {p} países. Se o vosso não estiver, cotamos à mesma."
  },
  "ar": {
   "langName": "العربية",
@@ -294,7 +298,8 @@ window.NOXEM_PAGE = {
   "mailBody": "تحية طيبة،\n\nنرجو موافاتنا بسعر الحاوية لما يلي:\n- الصنف: \n- السماكة: \n- المقاس: 3210 × 2250 مم\n- الكمية (م² أو عدد الحاويات): \n- ميناء الوصول: \n- شرط التسليم المطلوب: CFR\n\nالشركة: \nالدولة: \n\nوشكراً.",
   "waText": "مرحباً، أرغب في سعر حاوية من الزجاج المسطّح (مقاس 3210 × 2250 مم). ميناء الوصول: ",
   "footL1": "NOXEM GROUP — موليم (آسه)، بلجيكا · التحميل من أنتويرب وزيبروخه",
-  "footL2": "مستند تجاري، رهن التوافر والتأكيد الخطي."
+  "footL2": "مستند تجاري، رهن التوافر والتأكيد الخطي.",
+  "portsWorld": "يُحصي World Port Index نحو 3700 ميناء بحري في العالم. نُدرج هنا {n} ميناءً في {p} دولة، وإن لم يكن ميناؤكم مذكوراً فإننا نسعّره أيضاً."
  },
  "ro": {
   "langName": "Română",
@@ -353,7 +358,8 @@ window.NOXEM_PAGE = {
   "mailBody": "Bună ziua,\n\nDorim un preț per container pentru:\n- Produs: \n- Grosime: \n- Format: 3210 × 2250 mm\n- Cantitate (m² sau containere): \n- Port de destinație: \n- Incoterm dorit: CFR\n\nFirma: \nȚara: \n\nMulțumim.",
   "waText": "Bună ziua, doresc un preț per container pentru sticlă plană (format 3210 × 2250 mm). Port de destinație: ",
   "footL1": "NOXEM GROUP — Mollem (Asse), Belgia · Încărcare la Anvers și Zeebrugge",
-  "footL2": "Document comercial, sub rezerva disponibilității și a confirmării scrise."
+  "footL2": "Document comercial, sub rezerva disponibilității și a confirmării scrise.",
+  "portsWorld": "World Port Index înregistrează circa 3.700 de porturi maritime în lume. Aici apar {n}, în {p} țări. Dacă al dumneavoastră nu este pe listă, îl cotăm oricum."
  },
  "ru": {
   "langName": "Русский",
@@ -412,7 +418,8 @@ window.NOXEM_PAGE = {
   "mailBody": "Здравствуйте!\n\nПросим цену за контейнер:\n- Продукт: \n- Толщина: \n- Формат: 3210 × 2250 мм\n- Количество (м² или контейнеров): \n- Порт назначения: \n- Желаемый базис: CFR\n\nКомпания: \nСтрана: \n\nСпасибо.",
   "waText": "Здравствуйте! Прошу цену за контейнер листового стекла (формат 3210 × 2250 мм). Порт назначения: ",
   "footL1": "NOXEM GROUP — Моллем (Ассе), Бельгия · Погрузка в Антверпене и Зебрюгге",
-  "footL2": "Коммерческий документ, при наличии товара и письменном подтверждении."
+  "footL2": "Коммерческий документ, при наличии товара и письменном подтверждении.",
+  "portsWorld": "По данным World Port Index в мире насчитывается около 3700 морских портов. Здесь перечислено {n} в {p} странах. Если вашего в списке нет, мы всё равно его просчитаем."
  },
  "tr": {
   "langName": "Türkçe",
@@ -471,7 +478,8 @@ window.NOXEM_PAGE = {
   "mailBody": "Merhaba,\n\nAşağıdaki için konteyner bazında fiyat rica ederiz:\n- Ürün: \n- Kalınlık: \n- Ebat: 3210 × 2250 mm\n- Miktar (m² veya konteyner): \n- Varış limanı: \n- Tercih edilen teslim şekli: CFR\n\nFirma: \nÜlke: \n\nTeşekkürler.",
   "waText": "Merhaba, düzcam için konteyner fiyatı rica ediyorum (ebat 3210 × 2250 mm). Varış limanı: ",
   "footL1": "NOXEM GROUP — Mollem (Asse), Belçika · Yükleme Anvers ve Zeebrugge",
-  "footL2": "Ticari belgedir; stok durumuna ve yazılı teyide tabidir."
+  "footL2": "Ticari belgedir; stok durumuna ve yazılı teyide tabidir.",
+  "portsWorld": "World Port Index dünyada yaklaşık 3.700 deniz limanı kaydediyor. Burada {p} ülkede {n} liman yer alıyor. Sizinki listede yoksa yine de fiyatlandırırız."
  },
  "it": {
   "langName": "Italiano",
@@ -530,7 +538,8 @@ window.NOXEM_PAGE = {
   "mailBody": "Buongiorno,\n\nDesideriamo un prezzo per container per:\n- Prodotto: \n- Spessore: \n- Formato: 3210 × 2250 mm\n- Quantità (m² o container): \n- Porto di destino: \n- Incoterm preferito: CFR\n\nAzienda: \nPaese: \n\nGrazie.",
   "waText": "Buongiorno, desidero un prezzo per container di vetro piano (formato 3210 × 2250 mm). Porto di destino: ",
   "footL1": "NOXEM GROUP — Mollem (Asse), Belgio · Carico ad Anversa e Zeebrugge",
-  "footL2": "Documento commerciale, salvo disponibilità e conferma scritta."
+  "footL2": "Documento commerciale, salvo disponibilità e conferma scritta.",
+  "portsWorld": "Il World Port Index censisce circa 3.700 porti marittimi nel mondo. Qui ne figurano {n}, in {p} paesi. Se il vostro non c'è, lo quotiamo lo stesso."
  },
  "de": {
   "langName": "Deutsch",
@@ -589,6 +598,7 @@ window.NOXEM_PAGE = {
   "mailBody": "Guten Tag,\n\nwir bitten um einen Containerpreis für:\n- Produkt: \n- Dicke: \n- Format: 3210 × 2250 mm\n- Menge (m² oder Container): \n- Bestimmungshafen: \n- Gewünschter Incoterm: CFR\n\nFirma: \nLand: \n\nVielen Dank.",
   "waText": "Guten Tag, ich bitte um einen Containerpreis für Flachglas (Format 3210 × 2250 mm). Bestimmungshafen: ",
   "footL1": "NOXEM GROUP — Mollem (Asse), Belgien · Verladung in Antwerpen und Zeebrügge",
-  "footL2": "Handelsdokument, vorbehaltlich Verfügbarkeit und schriftlicher Bestätigung."
+  "footL2": "Handelsdokument, vorbehaltlich Verfügbarkeit und schriftlicher Bestätigung.",
+  "portsWorld": "Der World Port Index verzeichnet weltweit rund 3.700 Seehäfen. Hier stehen {n} davon, in {p} Ländern. Fehlt Ihrer, kalkulieren wir ihn trotzdem."
  }
 };
