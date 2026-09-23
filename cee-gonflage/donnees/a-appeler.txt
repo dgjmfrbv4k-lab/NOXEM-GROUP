@@ -17,3 +17,5 @@ cabinet@mairieloches.com            # message bloque
 courrier@mairie-balma.fr            # message bloque
 info@mairie-gemenos.fr              # message bloque
 cabinet.du.maire@mairie-argenton-sur-creuse.fr # message bloque
+# Vague du 23/09/2026 apres-midi — serveurs bloquants.
+accueil@mairie-fayauxloges.fr       # message bloque

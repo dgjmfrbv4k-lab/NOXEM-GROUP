@@ -39,7 +39,6 @@ accueil@mairie-bruguieres.fr
 accueil@mairie-cadenet.fr
 accueil@mairie-combloux.fr
 accueil@mairie-de-vaujany.fr
-accueil@mairie-fayauxloges.fr
 accueil@mairie-geste.fr
 accueil@mairie-labry.fr
 accueil@mairie-lachapelleheulin.fr
@@ -139,7 +138,6 @@ contact@mairie-benouville.fr
 contact@mairie-blagnac.fr
 contact@mairie-chamboulive.com
 contact@mairie-chanas.fr
-contact@mairie-chantemerlelesgrignan.fr
 contact@mairie-chatillon-sur-seine.fr
 contact@mairie-confolens.fr
 contact@mairie-coucy.fr
@@ -157,7 +155,6 @@ contact@mairie-lachatre.fr
 contact@mairie-lacheze.fr
 contact@mairie-lacollesurloup.fr
 contact@mairie-le-verger.fr
-contact@mairie-le-vibal.fr
 contact@mairie-lecoteau.fr
 contact@mairie-lectoure.fr
 contact@mairie-lepallet.fr

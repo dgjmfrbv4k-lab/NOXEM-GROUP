@@ -33,3 +33,6 @@ info@mairie-lumio.fr
 # Vague du 23/09/2026 matin.
 courrier@mairie-colombes.fr
 secretariat@mairie-caussade.com
+# Vague du 23/09/2026 apres-midi.
+contact@mairie-le-vibal.fr
+contact@mairie-chantemerlelesgrignan.fr
