@@ -1,0 +1,38 @@
+# Adresses à ne plus jamais contacter.
+# Rebonds durs constatés le 17/09/2026 sur le lot issu de la liste fournie.
+05contact@mairie-montjean53.fr
+accueil.mairie@mairie-lagord.fr
+accueil.mairie@ville-de-meriel.fr
+accueil.mairie@ville-renage.fr
+accueil@mairie-leognan.fr
+# Rebond sur une adresse trouvée par recherche web (service communication).
+communication@ville-vaulx-en-velin.fr
+# Rebonds durs "550 5.1.1 adresse introuvable" constates le 22/09/2026.
+contact@mairie-luneville.fr
+accueil@saint-pierre-oleron.com
+accueil@carrieres-sous-poissy.fr
+secretariat@ville-ilerousse.fr
+chloe.gueguen@mairie-gouesnou.fr
+mairie@dole.org
+mairie@albiez-montrond.com
+mairie@denneville.fr
+mairie@pralognan.com
+mairie@lafautesurmer.fr
+contact@agglo-saumur.fr
+contactweb@reimsmetropole.fr
+dgs@mairie-houplin-ancoisne.fr
+contact@ville-pouguesleseaux.fr
+mairie@mairie-sarzeau.fr
+mairie@mairie-charlevillemezieres.fr
+mairie@mairie-narbonne.fr
+mairie@ville-gieres.fr
+mairie@ville-penvenan.fr   # remplacee par accueil.mairie@ville-penvenan.fr
+moncourrier@mairie-sarreguemines.fr
+courrier@ville-sainte-adresse.fr
+info@mairie-lumio.fr
+# Vague du 23/09/2026 matin.
+courrier@mairie-colombes.fr
+secretariat@mairie-caussade.com
+# Vague du 23/09/2026 apres-midi.
+contact@mairie-le-vibal.fr
+contact@mairie-chantemerlelesgrignan.fr

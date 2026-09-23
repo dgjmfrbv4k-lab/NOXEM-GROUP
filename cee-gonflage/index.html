@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Noxem Group — Dispositifs CEE</title>
+<meta name="description" content="Outil interne : simulateur de rentabilité, classification de sites, prospection et suivi des dossiers CEE pour les stations de gonflage (fiche TRA-SE-104).">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛞</text></svg>">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="entete">
+  <div class="conteneur entete__inner">
+    <a href="#/simulateur" class="logo">
+      <span class="logo__marque">NOXEM</span>
+      <span class="logo__texte">Noxem Group <small>Dispositifs financés par les CEE — outil interne</small></span>
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#/simulateur" data-vue="simulateur">Simulateur</a>
+      <a href="#/classification" data-vue="classification">Classification</a>
+      <a href="#/crm" data-vue="crm">Prospection</a>
+      <a href="#/emails" data-vue="emails">E-mails</a>
+      <a href="#/recharge" data-vue="recharge">Bornes de recharge</a>
+      <a href="#/dossiers" data-vue="dossiers">Dossiers CEE</a>
+    </nav>
+  </div>
+</header>
+
+<main id="vue" class="conteneur vue">
+  <!-- Contenu injecté par js/app.js -->
+</main>
+
+<footer class="pied">
+  <div class="conteneur">
+    <p>
+      <strong>Montants indicatifs.</strong> Les volumes en kWh cumac proviennent de la fiche d'opération
+      standardisée TRA-SE-104 (version A14). Le prix du CEE n'est pas fixé par l'État : il dépend du marché
+      (registre national EMMY) et varie chaque mois. Tout chiffrage doit être validé avec un délégataire CEE
+      et avec la version de la fiche en vigueur à la date de signature du contrat.
+    </p>
+    <p>
+      Données enregistrées uniquement dans ce navigateur (localStorage), aucun serveur, aucun transfert.
+      Ne saisir que les données professionnelles nécessaires au suivi commercial (RGPD : minimisation des données).
+    </p>
+  </div>
+</footer>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
