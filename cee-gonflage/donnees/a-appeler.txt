@@ -13,3 +13,7 @@ mairie@ville-riedisheim.com     # message bloque
 urbanisme@mairie-saintquayportrieux.fr # serveur distant mal configure
 moyens.techniques@mairie-meyzieu.fr # message bloque
 cabinet@mairieloches.com            # message bloque
+# Vague du 23/09/2026 matin — serveurs bloquants.
+courrier@mairie-balma.fr            # message bloque
+info@mairie-gemenos.fr              # message bloque
+cabinet.du.maire@mairie-argenton-sur-creuse.fr # message bloque

@@ -115,7 +115,6 @@ administration@ville-mettray.fr
 antenne4.mairie@ville-grenoble.fr
 bal.mairie@ville-gujanmestras.fr
 cabinet-maire@mairie-le-rove.fr
-cabinet.du.maire@mairie-argenton-sur-creuse.fr
 cabinet.maire@ville-granville.fr
 cabinet.maire@ville-pamiers.fr
 cabinet@mairie-auch.fr
@@ -221,8 +220,6 @@ contactavc@mairie-clisson.fr
 contactmairie@mairie-lille.fr
 contacts-accueil@ville-lespinasse.com
 courrier.mairie@ville-auray.fr
-courrier@mairie-balma.fr
-courrier@mairie-colombes.fr
 courrier@mairie-compiegne.fr
 courrier@mairie-fos-sur-mer.fr
 courrier@mairie-launaguet.fr
@@ -257,7 +254,6 @@ hvilleneuve@mairie-talence.fr
 info@mairie-alpedhuez.fr
 info@mairie-chalamont.org
 info@mairie-eterville.fr
-info@mairie-gemenos.fr
 info@mairie-jans.fr
 info@mairie-laragne.fr
 info@mairie-le-bouscat.fr
@@ -567,7 +563,6 @@ secretariat@mairie-bascons.fr
 secretariat@mairie-billy02.fr
 secretariat@mairie-bosmie.fr
 secretariat@mairie-bulles.fr
-secretariat@mairie-caussade.com
 secretariat@mairie-cazilhac.fr
 secretariat@mairie-cheroy.fr
 secretariat@mairie-coligny.fr

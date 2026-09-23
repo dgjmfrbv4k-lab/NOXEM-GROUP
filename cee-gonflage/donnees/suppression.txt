@@ -30,3 +30,6 @@ mairie@ville-penvenan.fr   # remplacee par accueil.mairie@ville-penvenan.fr
 moncourrier@mairie-sarreguemines.fr
 courrier@ville-sainte-adresse.fr
 info@mairie-lumio.fr
+# Vague du 23/09/2026 matin.
+courrier@mairie-colombes.fr
+secretariat@mairie-caussade.com
