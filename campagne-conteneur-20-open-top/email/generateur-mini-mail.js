@@ -9,7 +9,7 @@ const CAT='https://raw.githubusercontent.com/dgjmfrbv4k-lab/NOXEM-GROUP/claude/c
 function build(o){
   const mailto='mailto:'+MAIL+'?subject='+encodeURIComponent(o.objet);
   const wa=WA+'?text='+encodeURIComponent(o.waTxt||o.objet);
-  const L=Object.assign({filiale:'subsidiary of MONTAUGEM',capital:'share capital EUR 5,177,000'},o.labels);
+  const L=Object.assign({filiale:'share capital EUR 100,000',capital:'subsidiary of MONTAUGEM, share capital EUR 5,177,000'},o.labels);
   const plain=s=>s.replace(/<[^>]+>/g,'').replace(/&#8242;/g,"'").replace(/&#215;/g,'x').replace(/&#178;/g,'2').replace(/&#8212;/g,'-').replace(/&#8217;/g,"'").replace(/&#233;/g,'e').replace(/&#232;/g,'e').replace(/&#234;/g,'e').replace(/&#224;/g,'a').replace(/&#231;/g,'c').replace(/&#244;/g,'o').replace(/&#249;/g,'u').replace(/&#238;/g,'i').replace(/&#9654;/g,'').replace(/&#183;/g,'-').replace(/&amp;/g,'&').replace(/&nbsp;/g,' ').replace(/&#\d+;/g,'').replace(/&euro;/g,'EUR').replace(/&eacute;|&egrave;|&ecirc;/g,'e').replace(/&agrave;|&acirc;/g,'a').replace(/&ccedil;/g,'c').replace(/&ocirc;/g,'o').replace(/&ugrave;/g,'u').replace(/&icirc;|&iuml;/g,'i').replace(/&[a-zA-Z]+;/g,'');
   const txt=[plain(o.salut),'',...o.lignes.map(plain),'',
     '>>> '+plain(o.cta)+' : '+mailto,
