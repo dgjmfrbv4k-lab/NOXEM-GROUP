@@ -87,7 +87,7 @@ S.append(Paragraph(
     'The customer is a <b>major glass distribution and installation group in Southern Africa</b>, with a network of '
     'branches across several countries. They run their own float plant in the region, but they buy laminated glass '
     'from outside — and they are <b>selecting their suppliers right now</b>. They have asked me for a price '
-    '<b>CIF Walvis Bay, Namibia</b>, with the freight shown on a separate line.', body))
+    '<b>CIF Walvis Bay, Namibia</b>, with the freight shown on a separate line. They have confirmed <b>standard closed 20\u2032 containers</b> \u2014 no Open Top.', body))
 S.append(Spacer(1, 2*mm))
 
 S.append(Paragraph('WHAT THEY ARE ASKING FOR', h2))
@@ -124,7 +124,7 @@ for txt in [
     'How many <b>m²</b> and how many <b>sheets</b> you load per 20′',
     '<b>Production lead time</b> and your earliest loading slot',
     '<b>Payment terms</b>, and how long the price stays valid',
-    'Can you load <b>Open Top with crane lifting</b> if the customer asks for it?',
+    'Confirm the crates go in through the <b>doors of a standard closed 20\u2032</b> (2.34 \u00d7 2.28 m opening)',
     'Which <b>certificates</b> come with the goods',
 ]:
     S.append(Paragraph('<font color="#C1272D">▪</font>&nbsp;&nbsp;' + txt, bullet))
