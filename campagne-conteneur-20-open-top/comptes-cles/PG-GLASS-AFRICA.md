@@ -45,6 +45,18 @@ Actionnariat : PGSI détient 37,7 % de la holding qui contrôle 90 % de PG Group
 | Botswana | Richard | richard@pgglass.co.bw | Envoyé le 24/09 |
 | Afrique du Sud | PG Smartglass | pgsmartglassinfo@pg.co.za | Envoyé le 25/09 |
 
+## Leurs deux gammes, relevées sur leur site
+
+- **PG SmartGlass** : leur gamme de verre de performance — Low-E, contrôle
+  solaire, sécurité, acoustique, coloris et finitions. C'est exactement notre
+  cœur de catalogue.
+- **PG Aluminium** : fabrication et pose de fenêtres et portes architecturales
+  en aluminium. Toutes ces menuiseries demandent du verre.
+- Plus de **120 centres de pose** sur l'ensemble du réseau.
+
+Ces deux gammes sont le levier pour élargir la commande au-delà des quatre
+premières références.
+
 ## Le point clé à comprendre
 
 Willem l'écrit lui-même : *« We get glass from our Factory in South Africa but
