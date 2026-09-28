@@ -1,9 +1,31 @@
-# Campagne bornes de gonflage CEE — CLÔTURÉE
+# Campagne bornes de gonflage — ÉTAT AU 28/09/2026
 
-**Arrêt définitif : 28/09/2026.**
-(Mise en pause le 23/09, reprise brièvement le 24, arrêtée pour de bon le 28.)
+**Reprise le 28/09 après-midi, sur un argumentaire réécrit.**
+(Pause le 23/09, arrêt le 28 au matin, reprise le 28 après-midi.)
 
-## Pourquoi
+## L'argumentaire a changé, et pourquoi
+
+Les messages ne promettent plus un financement. Ils annoncent que le
+dispositif est arrivé à son terme, qu'un nouveau cadre se met en place, et
+que nous constituons la liste des communes prêtes à partir dès qu'il ouvre.
+La seule demande est le nombre de parkings et de places.
+
+Deux raisons. D'abord le modèle officiel de la DGEC : l'engagement devait
+être signé au plus tard le 23/09/2026, donc une commune qui signerait
+aujourd'hui n'entrerait pas dans le dispositif. Ensuite Combloux, à qui
+nous avons écrit le 28/09 au matin que la fiche était arrivée à son terme :
+écrire l'inverse à d'autres communes exposerait à une contradiction directe.
+
+Le message reste vrai, court, et il ramène la donnée qui compte — les
+places — pour être prêts le jour où le nouveau cadre paraît.
+
+## Première vague du nouvel argumentaire — 28/09/2026
+
+Douze communes, aucun rebond : Bouliac, Brix, Cepoy, Château-Renault,
+Chavagne, Commentry, Custines, Jarnac, Dompierre-sur-Mer, Durtal,
+Échillais, Changé.
+
+## Le contexte CEE
 
 La fiche d'opération standardisée TRA-SE-104 est arrivée à son terme.
 Le modèle officiel de recensement le confirme noir sur blanc : seules les
@@ -16,11 +38,10 @@ paie ni l'installation ni l'entretien — n'était plus défendable. Continuer
 à démarcher des mairies là-dessus revenait à promettre ce qu'on ne pouvait
 pas tenir.
 
-## Ce qui a été arrêté
+## L'automatisation
 
-- La Routine quotidienne d'envoi est **supprimée** (et non plus seulement
-  désactivée). Plus aucun envoi automatique possible.
-- Plus aucun envoi manuel depuis le 23/09 après-midi.
+La Routine quotidienne d'envoi a été supprimée le 28/09. Les vagues se
+lancent désormais à la demande, jamais toutes seules.
 
 ## Bilan
 
