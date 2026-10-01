@@ -1,0 +1,21 @@
+# Adresses VALIDES mais dont le serveur bloque le courriel entrant
+# (anti-spam / RBL cote mairie). L'e-mail ne passera jamais :
+# ces communes se travaillent par telephone ou formulaire web.
+# Constate le 22/09/2026.
+mairie@ville-cognac.fr          # 550 An RBL has blocked the sender's IP address
+mairie@mairie-bergerac.fr       # message bloque
+stechniques@ville-gruissan.fr   # message bloque
+mairie@ville-portdesbarques.fr  # message bloque
+mairie@mairie-neuvillesursaone.fr # message bloque
+mairie@ville-mehun-sur-yevre.fr # message bloque
+mairie@ville-eybens.fr          # message bloque
+mairie@ville-riedisheim.com     # message bloque
+urbanisme@mairie-saintquayportrieux.fr # serveur distant mal configure
+moyens.techniques@mairie-meyzieu.fr # message bloque
+cabinet@mairieloches.com            # message bloque
+# Vague du 23/09/2026 matin — serveurs bloquants.
+courrier@mairie-balma.fr            # message bloque
+info@mairie-gemenos.fr              # message bloque
+cabinet.du.maire@mairie-argenton-sur-creuse.fr # message bloque
+# Vague du 23/09/2026 apres-midi — serveurs bloquants.
+accueil@mairie-fayauxloges.fr       # message bloque
