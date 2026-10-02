@@ -73,8 +73,13 @@ RCS Mâcon 321 798 076 — inscrit le 13/01/2000
 Sept colonnes : Désignation · Épaisseur · Caisses · Surface · Tarif de base ·
 Votre prix au m² · Remise · Total HT.
 
-Le **tarif de base doit apparaître** (idéalement en gris ou barré) à côté du
-prix accordé : c'est l'écart qui fait vendre.
+**Le tarif de base doit apparaître BARRÉ**, en gris clair, juste à gauche du
+prix accordé. Le prix accordé est en gras et en noir, visuellement plus fort.
+L'œil doit lire : « ce n'est pas ce prix-là — c'est celui-ci. »
+
+C'est l'effet le plus important du document : l'écart entre les deux chiffres,
+ligne après ligne, est ce qui fait vendre. Même traitement sur le sous-total
+au tarif de base et sur la ligne transport, tous deux barrés.
 
 | Désignation | Épais. | Caisses | Surface | Tarif de base | Votre prix au m² | Remise | Total HT |
 |---|---|---:|---:|---:|---:|---:|---:|

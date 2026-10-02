@@ -92,7 +92,7 @@ tb=tp=tm=0; tc=0
 for n,e,c,m,b,p in DATA:
     tb+=m*b; tp+=m*p; tm+=m; tc+=c
     rows.append([Paragraph(n,cell),Paragraph(e,cell),Paragraph(str(c),cellr),
-        Paragraph(m2(m)+' m&#178;',cellr),Paragraph(('%.2f'%b).replace('.',',')+' €',old),
+        Paragraph(m2(m)+' m&#178;',cellr),Paragraph('<strike>'+('%.2f'%b).replace('.',',')+' €</strike>',old),
         Paragraph('<b>'+('%.2f'%p).replace('.',',')+' €</b>',cellrb),
         Paragraph('<font color="#1E7A4B"><b>'+('%.0f'%((p/b-1)*100))+' %</b></font>',cellr),
         Paragraph(eur(m*p),cellrb)])
@@ -106,10 +106,10 @@ S+=[t,Spacer(1,3.5*mm)]
 
 TRANSP=7500.00
 tva=tp*0.20; ttc=tp+tva
-rec=[[Paragraph('Sous-total marchandise au tarif de base',cell),Paragraph(eur(tb),old)],
+rec=[[Paragraph('Sous-total marchandise au tarif de base',cell),Paragraph('<strike>'+eur(tb)+'</strike>',old)],
      [Paragraph('Sous-total marchandise remis&#233;',cell),Paragraph(eur(tp),cellr)],
      [Paragraph('<b>Transport</b> &#8212; 5 camions inloader, rendu ZA de Hautefond',cell),
-      Paragraph(eur(TRANSP),cellr)],
+      Paragraph('<strike>'+eur(TRANSP)+'</strike>',cellr)],
      [Paragraph('<font color="#1E7A4B"><b>Remise exceptionnelle sur le transport</b></font>',cell),
       Paragraph('<font color="#1E7A4B"><b>- '+eur(TRANSP)+'</b></font>',cellr)],
      [Paragraph('<b>TOTAL HT &#8212; TRANSPORT INCLUS</b>',cellb),Paragraph('<b>'+eur(tp)+'</b>',cellrb)],
