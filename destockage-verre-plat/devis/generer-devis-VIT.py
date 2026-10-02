@@ -104,17 +104,23 @@ t.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,0),NAVY),
  ('LEFTPADDING',(0,0),(-1,-1),5),('RIGHTPADDING',(0,0),(-1,-1),5)]))
 S+=[t,Spacer(1,3.5*mm)]
 
+TRANSP=7500.00
 tva=tp*0.20; ttc=tp+tva
-rec=[[Paragraph('Total au tarif de base',cell),Paragraph(eur(tb),old)],
-     [Paragraph('<b>VOTRE PRIX &#8212; transport inclus</b>',cellb),Paragraph('<b>'+eur(tp)+'</b>',cellrb)],
-     [Paragraph('<font color="#1E7A4B"><b>Votre &#233;conomie</b></font>',cell),
-      Paragraph('<font color="#1E7A4B"><b>'+eur(tb-tp)+'  (-33 %)</b></font>',cellr)],
+rec=[[Paragraph('Sous-total marchandise au tarif de base',cell),Paragraph(eur(tb),old)],
+     [Paragraph('Sous-total marchandise remis&#233;',cell),Paragraph(eur(tp),cellr)],
+     [Paragraph('<b>Transport</b> &#8212; 5 camions inloader, rendu ZA de Hautefond',cell),
+      Paragraph(eur(TRANSP),cellr)],
+     [Paragraph('<font color="#1E7A4B"><b>Remise exceptionnelle sur le transport</b></font>',cell),
+      Paragraph('<font color="#1E7A4B"><b>- '+eur(TRANSP)+'</b></font>',cellr)],
+     [Paragraph('<b>TOTAL HT &#8212; TRANSPORT INCLUS</b>',cellb),Paragraph('<b>'+eur(tp)+'</b>',cellrb)],
+     [Paragraph('<font color="#1E7A4B"><b>Votre &#233;conomie totale</b></font>',cell),
+      Paragraph('<font color="#1E7A4B"><b>'+eur(tb-tp+TRANSP)+'</b></font>',cellr)],
      [Paragraph('TVA 20 %',cell),Paragraph(eur(tva),cellr)],
      [Paragraph('<b>TOTAL TTC</b>',cellb),Paragraph('<b>'+eur(ttc)+'</b>',cellrb)]]
 rt=Table(rec,colWidths=[110*mm,60*mm])
-rt.setStyle(TableStyle([('BACKGROUND',(0,1),(-1,1),colors.HexColor('#FDF3F3')),
- ('BACKGROUND',(0,4),(-1,4),CREAM),('BOX',(0,0),(-1,-1),0.6,LINE),('INNERGRID',(0,0),(-1,-1),0.4,LINE),
- ('TOPPADDING',(0,0),(-1,-1),3.5),('BOTTOMPADDING',(0,0),(-1,-1),3.5),
+rt.setStyle(TableStyle([('BACKGROUND',(0,4),(-1,4),colors.HexColor('#FDF3F3')),
+ ('BACKGROUND',(0,7),(-1,7),CREAM),('BOX',(0,0),(-1,-1),0.6,LINE),('INNERGRID',(0,0),(-1,-1),0.4,LINE),
+ ('TOPPADDING',(0,0),(-1,-1),3.2),('BOTTOMPADDING',(0,0),(-1,-1),3.2),
  ('LEFTPADDING',(0,0),(-1,-1),8),('RIGHTPADDING',(0,0),(-1,-1),8)]))
 S+=[rt,Spacer(1,3.5*mm)]
 
@@ -133,7 +139,7 @@ cb.setStyle(TableStyle([('BACKGROUND',(0,0),(0,0),RED),('BACKGROUND',(0,1),(0,1)
 S+=[KeepTogether(cb),Spacer(1,3.5*mm)]
 
 S.append(Paragraph('CONDITIONS',h2))
-for x in ['<b>Transport inclus</b> &#8212; livraison rendue ZA de Hautefond, 71600 Paray-le-Monial.',
+for x in ['<b>Transport offert</b> &#8212; valoris&#233; 7 500 &#8364;, int&#233;gralement remis. Livraison rendue ZA de Hautefond, 71600 Paray-le-Monial.',
  '<b>5 camions inloader</b>, 10 piles par camion, 50 piles au total. '
  'Composition de chaque pile d&#233;finie par le client.',
  '<b>D&#233;lai : 4 &#224; 5 jours</b> apr&#232;s accord, &#224; la date de votre convenance.',

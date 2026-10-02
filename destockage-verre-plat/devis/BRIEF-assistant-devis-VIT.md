@@ -85,15 +85,27 @@ prix accordé : c'est l'écart qui fait vendre.
 | Verre float clair | 10 mm | 5 | 450,20 m² | 12,50 € | **7,40 €** | −41 % | 3 331,48 € |
 | Verre feuilleté 55.2 | 10,8 mm | 11 | 921,00 m² | 15,50 € | **10,50 €** | −32 % | 9 670,50 € |
 
-### Récapitulatif
+### Récapitulatif — AVEC LA SECTION TRANSPORT
+
+**Point important : le transport doit apparaître à 7 500 €, puis être déduit
+en totalité.** Le client doit voir le geste, pas le deviner.
 
 ```
-Total au tarif de base ...................  92 664,82 €
-VOTRE PRIX — transport inclus ............  62 347,51 € HT
-Votre économie ...........................  30 317,31 €   (−33 %)
-TVA 20 % .................................  12 469,50 €
-TOTAL TTC ................................  74 817,01 €
+Sous-total marchandise au tarif de base ........  92 664,82 €
+Sous-total marchandise remisé ..................  62 347,51 €
+
+Transport — 5 camions inloader, rendu Hautefond .  7 500,00 €
+Remise exceptionnelle sur le transport ......... − 7 500,00 €
+
+TOTAL HT — TRANSPORT INCLUS ....................  62 347,51 €
+Votre économie totale ..........................  37 817,31 €
+TVA 20 % .......................................  12 469,50 €
+TOTAL TTC ......................................  74 817,01 €
 ```
+
+Le total HT reste **62 347,51 €** : le transport est intégralement offert.
+L'économie totale annoncée passe à **37 817,31 €** (30 317,31 € sur la
+marchandise + 7 500 € de transport).
 
 ---
 
@@ -117,7 +129,8 @@ Titre : **COMPARAISON AVEC VOTRE COMMANDE DU 29 MAI 2026**
 
 ## 7. CONDITIONS — à faire figurer
 
-- **Transport inclus** — livraison rendue ZA de Hautefond, 71600 Paray-le-Monial.
+- **Transport offert** — valorisé 7 500 €, intégralement remis. Livraison rendue
+  ZA de Hautefond, 71600 Paray-le-Monial.
 - **5 camions inloader**, 10 piles par camion, 50 piles au total.
   **La composition de chaque pile est définie par le client** (type de verre
   et quantité, pile par pile).
@@ -141,8 +154,8 @@ Prévoir en bas : **« Bon pour accord, le ............ — signature et cachet 
 ## 8. TON ET MISE EN FORME
 
 - Sobre et professionnel. Pas de superlatifs, pas de points d'exclamation.
-- **Trois chiffres doivent sauter aux yeux** : le prix total, l'économie, et
-  la mention « transport inclus ».
+- **Quatre chiffres doivent sauter aux yeux** : le total HT, l'économie totale
+  de 37 817,31 €, la ligne transport à 7 500 € et sa remise à −7 500 €.
 - Les prix accordés en gras, les tarifs de base en gris clair à côté.
 - Les pourcentages de remise en vert.
 - **Une seule page.** Si ça déborde, resserrer les interlignes, ne rien
