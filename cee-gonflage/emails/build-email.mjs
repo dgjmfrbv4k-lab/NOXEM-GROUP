@@ -24,7 +24,7 @@ export const SIGNATURE = {
   '[Votre nom]': lire('signataire', 'Aaron Harfi'),
   '[Votre fonction]': lire('fonction', 'Président'),
   '[Votre société]': lire('societe', 'NOXEM GROUP'),
-  '[Votre téléphone]': lire('telephone', '02 59 50 84 59'),
+  '[Votre téléphone]': lire('telephone', '06 86 13 12 71'),
   '[Votre email]': lire('email', 'aaron.harfi@noxemgroup.com'),
   '[Votre adresse]': lire('adresse', '5 chemin du Jubin – 69570 Dardilly'),
 };
