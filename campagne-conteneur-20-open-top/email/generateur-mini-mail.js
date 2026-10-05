@@ -1,7 +1,7 @@
 // Generateur de mini-mail NOXEM GROUP : 5-8 lignes, langue locale, banniere cliquable
 const MAIL='aaron.harfi@noxemgroup.com';
-const TEL='+33 7 69 72 58 92';
-const WA='https://wa.me/33769725892';
+const TEL='+33 6 86 13 12 71';
+const WA='https://wa.me/33686131271';
 const SITE='https://noxemgroup.com';
 const CAT='https://raw.githubusercontent.com/dgjmfrbv4k-lab/NOXEM-GROUP/claude/campagne-conteneur-20-open-fl0382/campagne-conteneur-20-open-top/catalogue/NOXEM-GROUP-catalogue-EN.pdf';
 
@@ -54,7 +54,7 @@ ${o.signature}<br><strong>Aaron Harfi</strong> &#8212; NOXEM GROUP
 <tr><td style="padding:12px 28px 24px;">
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#F9F7F3" style="background-color:#F9F7F3;border:1px solid #E6DFD4;">
 <tr><td style="padding:14px 18px;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:1.85;color:#2A323D;">
-<strong style="color:#C1272D;">${L.tel}</strong> <a href="tel:+33769725892" style="color:#2A323D;text-decoration:none;">${TEL}</a><br>
+<strong style="color:#C1272D;">${L.tel}</strong> <a href="tel:+33686131271" style="color:#2A323D;text-decoration:none;">${TEL}</a><br>
 <strong style="color:#25D366;">WhatsApp</strong> <a href="${wa}" style="color:#2A323D;text-decoration:none;">${TEL}</a><br>
 <strong style="color:#C1272D;">${L.mail}</strong> <a href="mailto:${MAIL}" style="color:#2A323D;text-decoration:none;">${MAIL}</a><br>
 <strong style="color:#C1272D;">${L.site}</strong> <a href="${SITE}" style="color:#2A323D;text-decoration:none;">noxemgroup.com</a><br>

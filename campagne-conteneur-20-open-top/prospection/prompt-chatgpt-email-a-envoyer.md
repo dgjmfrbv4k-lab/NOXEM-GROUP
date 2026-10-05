@@ -9,7 +9,7 @@ Tu envoies des emails de prospection depuis ma boîte mail. Voici exactement quo
 ## QUI JE SUIS
 
 Aaron Harfi — NOXEM GROUP, distributeur français de verre plat.
-aaron.harfi@noxemgroup.com · WhatsApp +33 7 69 72 58 92 · noxemgroup.com
+aaron.harfi@noxemgroup.com · WhatsApp +33 6 86 13 12 71 · noxemgroup.com
 
 ## CE QUE JE VENDS ET À QUI
 
@@ -78,7 +78,7 @@ CAISSES BOIS & LIVRAISON
 Dites-nous le type de verre, l'épaisseur, le format, la quantité et votre port : votre devis part sous 24 heures.
 
 Aaron Harfi — NOXEM GROUP
-WhatsApp +33 7 69 72 58 92
+WhatsApp +33 6 86 13 12 71
 aaron.harfi@noxemgroup.com
 noxemgroup.com
 
@@ -118,7 +118,7 @@ WOODEN CRATES & DELIVERY
 Tell us the glass type, thickness, size, quantity and your port: your quote goes out within 24 hours.
 
 Aaron Harfi — NOXEM GROUP
-WhatsApp +33 7 69 72 58 92
+WhatsApp +33 6 86 13 12 71
 aaron.harfi@noxemgroup.com
 noxemgroup.com
 
@@ -158,7 +158,7 @@ NOXEM GROUP موزّع فرنسي للزجاج المسطّح يعمل حصري�
 أخبرونا بنوع الزجاج والسماكة والمقاس والكمية والميناء: يصلكم عرض السعر خلال 24 ساعة.
 
 Aaron Harfi — NOXEM GROUP
-واتساب +33 7 69 72 58 92
+واتساب +33 6 86 13 12 71
 aaron.harfi@noxemgroup.com
 noxemgroup.com
 
@@ -198,7 +198,7 @@ CAJAS DE MADERA Y ENTREGA
 Indíquenos el tipo de vidrio, el espesor, el formato, la cantidad y su puerto: su presupuesto sale en 24 horas.
 
 Aaron Harfi — NOXEM GROUP
-WhatsApp +33 7 69 72 58 92
+WhatsApp +33 6 86 13 12 71
 aaron.harfi@noxemgroup.com
 noxemgroup.com
 
@@ -238,7 +238,7 @@ CAIXAS DE MADEIRA E ENTREGA
 Diga-nos o tipo de vidro, a espessura, o formato, a quantidade e o vosso porto: o orçamento segue em 24 horas.
 
 Aaron Harfi — NOXEM GROUP
-WhatsApp +33 7 69 72 58 92
+WhatsApp +33 6 86 13 12 71
 aaron.harfi@noxemgroup.com
 noxemgroup.com
 

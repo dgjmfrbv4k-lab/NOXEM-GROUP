@@ -43,7 +43,7 @@ def hf(canv,doc):
     canv.setFillColor(colors.HexColor('#9AA4B2')); canv.setFont('Helvetica',6.8)
     canv.drawString(20*mm,9.2*mm,'NOXEM GROUP SAS — capital social 100 000 € — filiale de MONTAUGEM, capital social 5 177 000 €')
     canv.drawString(20*mm,6.3*mm,'5 chemin du Jubin, 69570 Dardilly, France — RCS Lyon 945 290 310 — TVA FR88945290310 — APE 46.73A')
-    canv.drawString(20*mm,3.4*mm,'aaron.harfi@noxemgroup.com — Tél. / WhatsApp +33 7 69 72 58 92 — noxemgroup.com')
+    canv.drawString(20*mm,3.4*mm,'aaron.harfi@noxemgroup.com — Tél. / WhatsApp +33 6 86 13 12 71 — noxemgroup.com')
     canv.drawRightString(w-20*mm,3.4*mm,'Page %d'%doc.page)
     canv.restoreState()
 

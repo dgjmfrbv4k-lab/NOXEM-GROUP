@@ -33,7 +33,7 @@ TVA intracommunautaire : FR88945290310
 Code APE : 46.73A
 
 Contact : Aaron Harfi
-Tél. / WhatsApp : +33 7 69 72 58 92
+Tél. / WhatsApp : +33 6 86 13 12 71
 Email : aaron.harfi@noxemgroup.com
 Site : noxemgroup.com
 ```

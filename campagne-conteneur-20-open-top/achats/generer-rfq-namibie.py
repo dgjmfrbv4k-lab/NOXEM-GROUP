@@ -48,7 +48,7 @@ def header_footer(canv, doc):
     canv.setFillColor(NAVY); canv.rect(0, 0, w, 15*mm, stroke=0, fill=1)
     canv.setFillColor(colors.HexColor('#9AA4B2')); canv.setFont('Helvetica', 7.2)
     canv.drawString(20*mm, 8.6*mm, 'NOXEM GROUP  —  share capital EUR 100,000  —  subsidiary of MONTAUGEM, share capital EUR 5,177,000  —  5 chemin du Jubin, 69570 Dardilly, France  —  RCS Lyon 945 290 310')
-    canv.drawString(20*mm, 5.2*mm, 'Aaron Harfi  —  aaron.harfi@noxemgroup.com  —  Tel / WhatsApp +33 7 69 72 58 92  —  noxemgroup.com')
+    canv.drawString(20*mm, 5.2*mm, 'Aaron Harfi  —  aaron.harfi@noxemgroup.com  —  Tel / WhatsApp +33 6 86 13 12 71  —  noxemgroup.com')
     canv.drawRightString(w-20*mm, 5.2*mm, 'Page %d' % doc.page)
     canv.restoreState()
 
@@ -162,7 +162,7 @@ S.append(Paragraph('Thank you — and please come back to me quickly.', body))
 S.append(Spacer(1, 1.5*mm))
 S.append(Paragraph('<b>Aaron Harfi</b> \u2014 NOXEM GROUP, share capital EUR 100,000<br/>'
                    'Subsidiary of MONTAUGEM, share capital EUR 5,177,000<br/>'
-                   'Tel / WhatsApp +33 7 69 72 58 92 \u00b7 aaron.harfi@noxemgroup.com', body))
+                   'Tel / WhatsApp +33 6 86 13 12 71 \u00b7 aaron.harfi@noxemgroup.com', body))
 
 doc.build(S)
 print('OK', OUT)

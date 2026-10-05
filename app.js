@@ -6,7 +6,7 @@
   "use strict";
 
   var MAIL = "aaron.harfi@noxemgroup.com";
-  var WHATSAPP = "33769725892";
+  var WHATSAPP = "33686131271";
   var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   var T = window.NOXEM_I18N;
   var lang = "en";
