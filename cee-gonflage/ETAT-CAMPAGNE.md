@@ -1,4 +1,4 @@
-# Campagne bornes de gonflage — ÉTAT AU 28/09/2026
+# Campagne bornes de gonflage — ÉTAT AU 05/10/2026
 
 **Reprise le 28/09 après-midi, sur un argumentaire réécrit.**
 (Pause le 23/09, arrêt le 28 au matin, reprise le 28 après-midi.)
@@ -78,3 +78,39 @@ resservir : il suffira de reprendre le vivier et de réécrire l'accroche.
 
 Neuilly-sur-Marne et Pannes attendent toujours une réponse sur leurs
 propositions de rendez-vous. Combloux a été prévenue, pas elles.
+
+---
+
+## Vague du 05/10/2026 — 27 communes
+
+Reprise des envois depuis `harfiaaron0@gmail.com`, dans l'ordre du fichier
+(population décroissante), de Lannion (20 525 hab.) à Hem (18 579 hab.).
+
+**27 messages partis, 6 rejetés** — soit 22 %, au-dessus du seuil de 10 %
+fixé par Aaron. Les envois s'arrêtent là en attendant sa décision.
+
+| Adresse rejetée | Motif |
+|---|---|
+| `kdominguez@mitry-mory.fr` | 550 5.4.1 — accès refusé (Exchange) |
+| `isp@ville-grande-synthe.fr` | adresse introuvable (postmaster) |
+| `cbiout@ville-chevilly-larue.fr` | 550 — adresse introuvable |
+| `sa@villedemougins.com` | 550 5.4.1 — accès refusé |
+| `m.catillon@ville-sorgues.fr` | 550 5.1.1 — adresse introuvable |
+| `mdy@meylan.fr` | 550 5.4.1 — accès refusé (Exchange) |
+
+Aucun rejet n'est dû à un blocage de l'expéditeur : ce sont des boîtes
+fermées ou réservées aux expéditeurs internes. Le vivier est périmé, pas
+la réputation du compte.
+
+**Trois mairies filtrent par Mailinblack** — Ronchin, Vence et
+Bourg-lès-Valence. Le message n'arrivera qu'après un clic de validation sur
+le lien reçu en retour. Ce clic doit être fait depuis la boîte d'Aaron ;
+il n'est pas possible depuis ce conteneur.
+
+### Compteurs
+
+| | 05/10/2026 |
+|---|---|
+| Contactées, adresse vivante | 220 |
+| Adresses mortes | 66 |
+| Restantes sur les 1 000 | 714 |
