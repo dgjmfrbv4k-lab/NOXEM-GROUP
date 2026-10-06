@@ -215,3 +215,26 @@ Deux détails à corriger au passage : la campagne photovoltaïque porte encore 
 - Les fuseaux horaires expliquent probablement une partie du silence : Vancouver recevait à 8 h du matin, Auckland à 4 h, Manille à 23 h. La moitié des destinataires n'avait pas encore ouvert sa boîte.
 - Le délai normal de première réponse sur une approche froide en B2B industriel se compte en jours, pas en heures. Conclure quoi que ce soit aujourd'hui serait prématuré.
 - L'argument canadien devrait mieux convertir que la moyenne, parce qu'il repose sur un fait vérifiable que l'acheteur connaît déjà. Non démontré pour l'instant.
+
+## Blocage du 06/10 à 18 h 05 — quota d'envoi Gmail atteint
+
+Cinq messages prêts, adresses vérifiées, textes personnalisés : Clearrex, ProTemp Glass,
+High Performance Glazing, VMIK et Centennial Glass. Les cinq appels ont été refusés par
+l'API Gmail avec « Resource has been exhausted (e.g. check quota) ». Un essai isolé quelques
+minutes plus tard a renvoyé la même erreur. Ce n'est donc pas un pic passager mais le
+plafond journalier de la boîte.
+
+**Aucun de ces cinq messages n'est parti.** Ils sont conservés mot pour mot dans
+`a-envoyer/2026-10-07-lot-ontario-quebec.md` et les fiches portent le statut
+`A ENVOYER — QUOTA GMAIL 06/10`. Point de reprise : les envoyer en premier demain matin,
+après avoir vérifié qu'ils ne sont pas déjà partis.
+
+**Cause probable, et c'est une hypothèse, pas un fait établi :** la boîte
+`harfiaaron0@gmail.com` a porté aujourd'hui deux campagnes à la fois — mes 53 envois
+conteneur plus la campagne de déstockage des 8 230 m². Le plafond d'une boîte Gmail
+gratuite est d'environ 500 destinataires par jour, tous expéditeurs confondus. Je n'ai pas
+le décompte de la seconde campagne, donc je ne peux pas affirmer que c'est elle qui a
+consommé le solde — seulement que les deux puisent au même seau.
+
+**Recommandation :** séparer les deux campagnes sur deux adresses d'expédition distinctes,
+et laisser `harfiaaron9@gmail.com` intouchée pour les fils Maltha et GRL. Décision d'Aaron.
