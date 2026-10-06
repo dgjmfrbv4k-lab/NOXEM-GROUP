@@ -85,3 +85,20 @@ fournisseur qu'il ne connaît pas veut savoir qu'il y a un groupe et une surface
 financière derrière. Les deux capitaux affichés ensemble répondent à la question
 avant qu'elle soit posée, et le RCS ancre le tout sur une immatriculation
 vérifiable.
+
+## Bascule de boite expeditrice — 06/10/2026
+
+La connexion Gmail de la session a basculé en cours de journée :
+
+- envois du matin : `harfiaaron9@gmail.com`
+- envois de l'après-midi, à partir de 12h47 : `harfiaaron0@gmail.com`
+
+Conséquences à surveiller :
+
+1. **Les envois du 06/10 sont répartis sur deux boîtes.** Il faut regarder les
+   deux pour retrouver un message.
+2. **Les fils Maltha (Edwin Frijters) et GRL (Dries Op 't Eijnde) sont dans
+   `harfiaaron9`.** Y répondre depuis `harfiaaron0` casserait le fil — et dans
+   le cas de Maltha, changer d'adresse en pleine discussion est exactement le
+   signal qui inquiète un service conformité.
+3. Les réponses aux relances de l'après-midi arriveront dans `harfiaaron0`.
