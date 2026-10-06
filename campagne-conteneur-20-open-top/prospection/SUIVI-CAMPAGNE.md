@@ -165,3 +165,53 @@ Trois constats, vérifiés et pas supposés :
 3. **Deux zones ne donnent rien par le web.** L'Asie centrale (Kazakhstan, Ouzbékistan, Géorgie) a des importateurs de float identifiables par les bases douanières mais aucune adresse professionnelle publiée. Les Caraïbes anglophones publient des adresses sur des domaines qui ne se recoupent nulle part — j'en ai écarté trois pour cette raison.
 
 **Ce qui reste à faire et qui vaut plus que vingt e-mails de plus : 164 appels.** Le fichier `LISTE-APPELS.md` les classe par valeur commerciale avec les créneaux horaires en heure de Paris. Ce sont des entreprises déjà qualifiées, dont beaucoup sont de gros acheteurs — Metro Performance Glass, Hartung Canada, IGD, Float Glass Centre en Inde, Nassau Glass aux Bahamas, Bars Facade en Géorgie. Elles ne répondront jamais à un e-mail puisqu'elles n'en publient pas.
+
+---
+
+# Bilan du 06/10/2026 — 18 h
+
+## Entonnoir réel, au 06/10 18 h
+
+| Étage | Volume |
+|---|---|
+| Sociétés identifiées (registre) | 689 fiches, 147 pays |
+| Envois confirmés sur le nouveau mandat | 53 |
+| Rejetés par le serveur destinataire | 3 |
+| Messages effectivement délivrés | 50 |
+| Accusés de réception automatiques | 3 |
+| **Réponses humaines qualifiées** | **0** |
+| **Demandes de devis** | **0** |
+| **Commandes** | **0** |
+
+Cumul registre : 272 sociétés contactées au moins une fois, 172 en attente d'appel.
+
+## Ce que disent les trois accusés automatiques
+
+Ce ne sont pas des réponses, mais ils prouvent que les messages arrivent au bon endroit :
+
+- **Metro Performance Glass (NZ)** — boîte surveillée par le service client d'Auckland de 8 h à 16 h 30 heure néo-zélandaise, avec un numéro direct : 09 927 3000. Mon message est arrivé à 4 h 18 du matin heure locale. Il sera lu ce matin, pas hier soir.
+- **Sydney Glass (AU)** — « traité par notre Sales and Service Team ». Le message est entre les mains d'une équipe commerciale.
+- **Quality Group (Papouasie-Nouvelle-Guinée)** — ils publient eux-mêmes l'adresse de leur service commercial, `reception_sales@qualitygroup.com.pg`. Je l'utiliserai demain, pas aujourd'hui : écrire deux fois en trois heures à la même société n'est pas de l'énergie, c'est du bruit.
+
+## Fait important découvert pendant la revue
+
+**Une seconde campagne part de la même boîte `harfiaaron0@gmail.com`.** Entre 16 h 42 et 17 h 39 heure de Paris, des messages de déstockage « URGENT – Déstockage TOTAL du stock verre plat (8 230 m²) » sont partis vers Verstein, Kral Glas, Vetreria Ciri et d'autres — et une campagne panneaux photovoltaïques tourne depuis le 29/09. Ce ne sont pas mes envois.
+
+Quatre réponses sont arrivées à cette campagne cet après-midi : **trois STOP** (Kral Glas aux Pays-Bas, Verstein en France, Pellier en France) et une absence de bureau (Glasbau Hahn, Francfort). Aucune de ces sociétés n'est dans mon registre conteneur, donc pas de double démarchage constaté à ce stade.
+
+**Le risque, lui, est réel et il faut le dire :** les deux campagnes partagent une seule boîte Gmail gratuite. Elles partagent donc le plafond d'envoi quotidien et surtout la réputation d'expéditeur. Trois STOP en un après-midi sur une même adresse, c'est le signal exact que Google surveille. Si la boîte saute, elle emporte le fil Maltha, qui est aujourd'hui la seule piste vivante sur les 8 230 m².
+
+Deux détails à corriger au passage : la campagne photovoltaïque porte encore le numéro 02 59 50 84 59, et la campagne déstockage annonce « prix imbattables » et « transport offert » — ce qui est le choix d'Aaron sur son opération, mais incompatible avec la règle que j'applique sur la campagne conteneur.
+
+## Analyse — faits et hypothèses séparés
+
+**Faits :**
+- 50 messages délivrés, 0 réponse humaine, le plus ancien a moins de six heures.
+- Les trois accusés automatiques prouvent que les messages atteignent des boîtes commerciales actives.
+- Trois rebonds sur 53 envois, soit 5,7 %. Deux adresses mortes, une boîte pleine. Aucun rejet de réputation.
+- Le Canada concentre 21 des 53 envois, et c'est le marché où l'argument est le plus solide : plus aucune ligne float depuis 2008.
+
+**Hypothèses, assumées comme telles :**
+- Les fuseaux horaires expliquent probablement une partie du silence : Vancouver recevait à 8 h du matin, Auckland à 4 h, Manille à 23 h. La moitié des destinataires n'avait pas encore ouvert sa boîte.
+- Le délai normal de première réponse sur une approche froide en B2B industriel se compte en jours, pas en heures. Conclure quoi que ce soit aujourd'hui serait prématuré.
+- L'argument canadien devrait mieux convertir que la moyenne, parce qu'il repose sur un fait vérifiable que l'acheteur connaît déjà. Non démontré pour l'instant.
