@@ -16,15 +16,17 @@ Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Ara
 
 | Étage | Volume | Définition |
 |---|---|---|
-| Sociétés identifiées (registre complet) | 656 | fiche existante, tous statuts confondus |
-| Prospects qualifiés ce jour | 25 | activité et capacité d'achat examinées avant contact |
+| Sociétés identifiées (registre complet) | 667 | fiche existante, tous statuts confondus |
+| Prospects qualifiés depuis le nouveau mandat | 54 | activité et capacité d'achat examinées avant contact |
 | Écartés après qualification | 1 | structure sans capacité conteneur apparente |
-| Qualifiés sans adresse publiée | 6 | basculés en liste d'appels |
+| Qualifiés sans adresse publiée | 12 | basculés en liste d'appels |
 | **Envois confirmés — lot 1** | **21** | accusé d'envoi Gmail obtenu, identifiant message enregistré |
+| **Envois confirmés — lot 2** | **20** | idem |
+| **Total envois confirmés sur le nouveau mandat** | **41** | — |
 | Réponses reçues | 0 | — |
 | Demandes de devis | 0 | — |
 
-Cumul registre : 253 sociétés contactées au moins une fois, 169 en attente d'appel téléphonique, 167 relancées le 06/10.
+Cumul registre : 272 sociétés contactées au moins une fois, 161 en attente d'appel téléphonique, 167 relancées le 06/10.
 
 ## Lot 1 — 21 envois confirmés le 06/10/2026
 
@@ -80,3 +82,60 @@ Cumul registre : 253 sociétés contactées au moins une fois, 169 en attente d'
 ## Point à arbitrer par Aaron
 
 Le catalogue PDF (`catalogue/NOXEM-GROUP-catalogue-EN.pdf`) annonce en couverture « all certified lenses available at the most competitive prices in the market » et parle d'une politique de prix. C'est incompatible avec la consigne « ne promets aucun prix ni certificat ». Il n'est donc **plus joint ni lié** dans les messages depuis ce lot. Il porte en outre encore l'ancien numéro 04 22 91 55 80 et l'adresse contact@noxemgroup.com. À refaire avant de le remettre en circulation.
+
+
+## Lot 2 — 20 envois confirmés le 06/10/2026
+
+Méthode du lot 2 : moitié nouvelles sociétés, moitié reprise de fiches déjà qualifiées mais restées sans adresse. Pour celles-là j'ai cherché l'adresse là où elle était publiée (page contact, annuaire professionnel, fiche distributeur d'un fournisseur) au lieu de les laisser dormir en « à appeler ». Quatorze des vingt sont des fiches ainsi débloquées.
+
+| Entreprise | Pays | Site | Activité | Potentiel conteneur et justification | Interlocuteur vérifié | Coordonnées | Source | Message | Réponse | Prochaine action |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Corporación Miyasato | Pérou | miyasato.com.pe | Transformation et distribution verre et aluminium, 7 sites, depuis 1939 | **Élevé** — un des plus gros transformateurs-distributeurs d'Amérique latine | aucun | ventas@miyasato.com.pe | page contact | 06/10 ES, porte de sortie | — | relance 20/10 |
+| Interglass USA | États-Unis | interglassusa.com | Distribution verre architectural, miroir, quincaillerie, 35+ États | **Élevé** — importateur déjà structuré sur Miami, Savannah et Houston | aucun | sales@interglassusa.com / +1 800 576 6044 | site | 06/10 EN, porte de sortie | — | relance 20/10 |
+| Capital Glass Distributor | États-Unis | capitalglassdistributor.com | Distribution verre plat et vitrage isolant, feuilleté en 5 teintes | **Moyen à élevé** — stocke 5 teintes de feuilleté, donc vrai stock | aucun | sales@capitalglassdistributor.com | page contact | 06/10 EN | — | relance 20/10 |
+| Chain Glass Enterprises | Philippines | chainglass.com | Réseau d'agences national, 50 ans | **Élevé** — réseau national, volumes de distribution | aucun | marketing@chainglass.com | page contact | 06/10 EN, transmission demandée | — | relance 20/10 |
+| Richmond Top Glass Works | Philippines | richmondtopglass.com | Trempe architecturale, plusieurs agences | **Élevé** — four de trempe, consommation continue de substrat | aucun | richmondglasssales@gmail.com | page contact | 06/10 EN | — | relance 20/10 |
+| Metro Performance Glass | Nouvelle-Zélande | metroglass.co.nz | Premier transformateur du pays, usines Auckland et Christchurch | **Élevé** — pays sans ligne float, tout est importé | aucun | akl@metroglass.co.nz | page contact | 06/10 EN, porte de sortie | — | relance 20/10 |
+| Woods Glass | Nouvelle-Zélande | woodsglass.co.nz | Transformation, Auckland et Wellington | **Élevé** — importe son float par construction | aucun | enquiry.akl@woodsglass.co.nz | page contact | 06/10 EN | — | relance 20/10 |
+| IMDV — Industrie Marocaine du Verre | Maroc | imdv.ma | Transformation et distribution de verre plat bâtiment | **Élevé** — usine plus réseau de distribution | aucun | contact@imdv.ma / +212 535 65 74 84 | page contact | 06/10 FR, porte de sortie | — | relance 20/10 |
+| Hai Long Glass | Vietnam | hailongglass.vn | Usine, zone industrielle Ha Binh Phuong, Hanoï | **Moyen** — le Vietnam produit du float, angle extra-clair/miroir/feuilleté seulement | aucun | info@hailongglass.vn | site | 06/10 EN, argument honnête sur la production locale | — | relance 20/10 |
+| Minhquang Trading & Production | Vietnam | — | Négoce et production, Hanoï | **Moyen** — double métier, même réserve que ci-dessus | aucun | minhquangglass2000@gmail.com | annuaire vietnamien | 06/10 EN | — | relance 20/10 |
+| Al Naseem Glass (NSM) | Koweït | nsmglass.com | Transformation de verre | **Moyen à élevé** — Koweït sans ligne float | aucun | info@nsmglass.com | site | 06/10 EN | — | relance 20/10 |
+| Metular Glass | Bahreïn | metularglass.com | Verre et aluminium | **Moyen** — marché insulaire, conteneur mixte proposé | aucun | metularglassofficial@gmail.com | site | 06/10 EN | — | relance 20/10 |
+| Fortal Vidros Temperados | Brésil | fortalvidros.com.br | Trempe, Guarulhos, livre tout le Brésil | **Moyen à élevé** — four de trempe, consommation continue | aucun | contato@fortalvidros.com.br | site | 06/10 PT | — | relance 20/10 |
+| Mundial Vidros | Brésil | mundialvidros.ind.br | Distribution ET transformation | **Moyen à élevé** — double métier | aucun | contato@mundialvidros.ind.br | site | 06/10 PT | — | relance 20/10 |
+| NSA Vidros | Brésil | nsacomerciodevidros.com.br | Distribution verre et accessoires | **Moyen** — distributeur, capacité à confirmer | aucun | nsa.vidros@hotmail.com | annuaire brésilien | 06/10 PT, porte de sortie | — | relance 20/10 |
+| Vidrios Coral | Costa Rica | vidrioscoral.com | Distribution et commercialisation verre architectural | **Moyen à élevé** — pays sans float | aucun | info@vidrioscoral.com | site | 06/10 ES | — | relance 20/10 |
+| Prefalum | Costa Rica | prefalumcr.com | Solutions verre, aluminium, plastique | **Moyen** — le verre est une matière première chez eux | aucun | ventas@prefalumcr.com | site | 06/10 ES, porte de sortie | — | relance 20/10 |
+| Glass Aluminium Services | Curaçao | glassaluminiumservices.com | Verre et aluminium, Willemstad | **Moyen** — marché insulaire, conteneur mixte proposé | aucun | info@glass-aluminium.com | page contact | 06/10 EN | — | relance 20/10 |
+| Kuta Glass Accessories | Canada | kutaglass.com | Grossiste national verre décoratif | **À confirmer** — décalage de gamme assumé dans le message | aucun | kuta@bellnet.ca / +1 905 873 8800 | annuaire et fiche distributeur Wissmach | 06/10 EN, porte de sortie explicite | — | pas de relance si refus |
+| Horizontal Tempering Glass | Liban | htempglass.com | Trempe, feuilleté, isolant, Beyrouth | **Élevé** — four de trempe, Liban sans float | aucun | info@htempglass.com | site | 06/10 EN — **doublon, voir erreurs** | — | ne pas recontacter avant réponse |
+
+## Erreurs du jour
+
+- **Horizontal Tempering Glass (Liban) a reçu deux messages le même jour.** La société avait déjà été relancée le matin ; j'ai cherché son adresse dans le cadre du lot 2 sans vérifier son statut avant d'envoyer, alors que c'est précisément la vérification que je m'impose. Pas de conséquence grave, mais c'est une faute de méthode, consignée dans le registre.
+- **Une erreur de nom corrigée dans le registre.** La fiche IDASA (République dominicaine) portait « Contact nommé Michael Robinson ». Ce nom est en réalité celui du National Sales Manager de McCoy's Glass en Afrique du Sud. Je ne peux pas trancher s'il s'agit d'une confusion ou d'un homonyme, donc la fiche porte désormais la mention que le nom n'est pas vérifié et ne doit pas être utilisé dans un message. Le nom vérifié a été reporté sur la bonne fiche, celle de McCoy's.
+
+## Interlocuteurs vérifiés identifiés (fonction confirmée, pas encore utilisés)
+
+| Nom | Fonction | Société | Pays | Statut |
+|---|---|---|---|---|
+| Michael Robinson | National Sales Manager | McCoy's Glass Wholesale | Afrique du Sud | fonction commerciale, pas achats — société déjà relancée le 06/10 |
+| Katrina Hahn | Representative Wholesale / Manufacturing / Distribution | Quality Glass & Mirror | États-Unis (Omaha) | pas d'adresse publiée, à appeler |
+
+Aucun de ces deux noms n'a été utilisé dans un message : l'un n'est pas aux achats, l'autre n'a pas d'adresse joignable. Conformément à la consigne, aucun dirigeant n'a été inventé sur les 41 envois.
+
+## Adresses écartées pour risque de rebond
+
+Règle appliquée : si le domaine de l'adresse n'apparaît dans aucune URL de résultat et contredit le domaine du site, on n'envoie pas.
+
+| Société | Pays | Adresse écartée | Raison |
+|---|---|---|---|
+| Saudi American Glass (SAG) | Arabie saoudite | saglass@saglass.com | circule chez les revendeurs de données, absente du site |
+| Caribbean Glass Specialists | Trinité-et-Tobago | info@caribbeanglasstt.com | domaine jamais recoupé |
+| Caribbean Glass Company | Jamaïque | info@caribbeanglassja.com | domaine jamais recoupé |
+| Gordon's Glass & Mirror | États-Unis | sales@glassbygordon.com | domaine différent du site |
+| Glass Global Distributors | États-Unis | sales@glassglobalonline.com | domaine différent du site |
+| Imporvidrios | République dominicaine | ventas@imporvidrios.com | domaine jamais recoupé |
+
+Deux adresses ont été envoyées malgré un domaine différent du site, parce que la page de contact de la société elle-même les publie : NSA Vidros et Glass Aluminium Services. Le risque de rebond est assumé et noté dans le registre.
