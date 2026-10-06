@@ -174,3 +174,28 @@ Send me those and I will come back with a proposal. If container volumes are not
 
 - **Artisans du Vitrail (Montréal)** — grossiste-importateur de vitrail d'art. Hors gamme :
   nous ne vendons pas de verre d'art. Pas de relance.
+
+---
+
+# Deuxième liste — fiches dormantes réveillées le 06/10
+
+Le registre contenait **27 fiches sans aucun statut** : identifiées puis jamais traitées.
+Je les ai reprises. Six avaient une adresse publique retrouvable, elles sont prêtes à partir.
+
+| Société | Pays | Adresse | Pourquoi elle vaut le coup | Précaution |
+|---|---|---|---|---|
+| **Glass World** | Émirats arabes unis | `rfq@glassworld.ae` | c'est littéralement leur boîte de demande de devis — on écrit à l'endroit prévu pour ça | — |
+| Kyda International | Qatar | `sales@kyda.qa` | fournisseur de verre à Doha | — |
+| Calisto Glass | Qatar | `info@calistoglass.com` | transformateur à Doha | — |
+| Khaiber Star Safety Glass | Dubaï | `info@khaiberglass.com` | verre de sécurité | — |
+| Titan Glass Ltd | Kenya | `info@titanglass.co.ke` | transformateur à Nairobi | **PVoC** : ne pas parler certificat avant validation d'Aaron |
+| FITglass | Nigéria | `info@fitglass.com.ng` | verre trempé sans cadre, Lagos | **SONCAP** : idem |
+
+Quatre fiches ont été reclassées plutôt que contactées :
+- **Obeikan Glass** (Arabie saoudite) et **Pioneer Float Glass** (Philippines) → producteurs de
+  float, donc concurrents. `NE PAS DEMARCHER`.
+- **Univers du Verre** et **Miroiterie des Antilles** (Guadeloupe) → territoire français,
+  hors périmètre de la campagne export. `NE PAS DEMARCHER`.
+
+Les dix-sept autres fiches dormantes n'ont aucune adresse publiée. Elles rejoignent la
+liste d'appels.
