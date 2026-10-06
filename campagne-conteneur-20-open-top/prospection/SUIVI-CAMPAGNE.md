@@ -22,7 +22,10 @@ Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Ara
 | Qualifiés sans adresse publiée | 12 | basculés en liste d'appels |
 | **Envois confirmés — lot 1** | **21** | accusé d'envoi Gmail obtenu, identifiant message enregistré |
 | **Envois confirmés — lot 2** | **20** | idem |
-| **Total envois confirmés sur le nouveau mandat** | **41** | — |
+| **Envois confirmés — lot 3** | **5** | idem |
+| **Total envois confirmés sur le nouveau mandat** | **46** | — |
+| dont rejetés par le serveur destinataire | 3 | adresses mortes ou boîte pleine, consignées |
+| **Messages effectivement délivrés** | **43** | — |
 | Réponses reçues | 0 | — |
 | Demandes de devis | 0 | — |
 
@@ -139,3 +142,26 @@ Règle appliquée : si le domaine de l'adresse n'apparaît dans aucune URL de r�
 | Imporvidrios | République dominicaine | ventas@imporvidrios.com | domaine jamais recoupé |
 
 Deux adresses ont été envoyées malgré un domaine différent du site, parce que la page de contact de la société elle-même les publie : NSA Vidros et Glass Aluminium Services. Le risque de rebond est assumé et noté dans le registre.
+
+
+## Lot 3 — 5 envois confirmés le 06/10/2026 (lot incomplet, voir blocage)
+
+| Entreprise | Pays | Site | Activité | Potentiel conteneur et justification | Coordonnées | Message | Suite |
+|---|---|---|---|---|---|---|---|
+| Goldland Trading | Sri Lanka | goldlandtc.com | Négoce de verre dont float clair | **Élevé** — maison de négoce, pays sans float | sales@goldlandtc.com | 06/10 EN | relance 20/10 |
+| Vaughan Glass & Mirror | Canada | vglassmirror.ca | Verre et miroir, Concord et Oakville | **Moyen à élevé** — deux sites, donc stock | sales@vglassmirror.com | 06/10 EN, porte de sortie | relance 20/10 |
+| Glass Dubai Aluminium Profile | Tanzanie | glassdubaialuminium.co.tz | Fabrication et pose alu-verre depuis 2006 | **Moyen** — argument revu : la float de Mkuranga existe, angle seconde source | info@glassdubaialuminium.co.tz | 06/10 EN | relance 20/10 |
+| Distriglass | Uruguay | wixsite | Import et distribution de verre plat dans tout l'Uruguay | **Élevé** — importateur déclaré, pays quasi vierge dans le registre | ventas@avibrasuruguay.com | 06/10 ES | relance 20/10 |
+| Adriatic Glass & Mirrors | Canada | adriaticglass.com | Fabrication commerciale, recuit et feuilleté | **Moyen à élevé** — capacité de feuilletage propre | sales@adriaticglass.com | 06/10 EN — **rejeté** | appeler le +1 905 738 1587 |
+
+## Pourquoi le lot 3 s'arrête à 5
+
+Le gisement d'adresses e-mail publiques accessibles est à sec pour aujourd'hui, et il vaut mieux le dire que de remplir un lot avec des adresses devinées.
+
+Trois constats, vérifiés et pas supposés :
+
+1. **Les fiches « à appeler » le sont pour une vraie raison.** J'ai repassé 25 des plus grosses d'entre elles au crible : Glasshouse et Al Tbaynawi en Arabie saoudite, VILUX au Paraguay, Nasir au Bangladesh, Glass Network et Keng Ying en Malaisie, Patagonia Glass au Chili, Distribuidora del Caribe au Costa Rica, Hartung, IGD et Canada Glass Industries au Canada. Quatorze ont livré une adresse et sont parties dans le lot 2. Les autres n'en publient aucune, nulle part : formulaire de contact, WhatsApp, ou rien. Ce ne sont pas des fiches bâclées, ce sont des entreprises qui ont choisi de ne pas publier d'adresse.
+2. **Les marchés les plus denses sont déjà couverts.** Arabie saoudite 32 fiches, Sri Lanka 12, Afrique du Sud 9, Qatar et Oman 12 chacun. Sur ces pays, chaque recherche ramène maintenant des sociétés déjà contactées.
+3. **Deux zones ne donnent rien par le web.** L'Asie centrale (Kazakhstan, Ouzbékistan, Géorgie) a des importateurs de float identifiables par les bases douanières mais aucune adresse professionnelle publiée. Les Caraïbes anglophones publient des adresses sur des domaines qui ne se recoupent nulle part — j'en ai écarté trois pour cette raison.
+
+**Ce qui reste à faire et qui vaut plus que vingt e-mails de plus : 164 appels.** Le fichier `LISTE-APPELS.md` les classe par valeur commerciale avec les créneaux horaires en heure de Paris. Ce sont des entreprises déjà qualifiées, dont beaucoup sont de gros acheteurs — Metro Performance Glass, Hartung Canada, IGD, Float Glass Centre en Inde, Nassau Glass aux Bahamas, Bars Facade en Géorgie. Elles ne répondront jamais à un e-mail puisqu'elles n'en publient pas.
