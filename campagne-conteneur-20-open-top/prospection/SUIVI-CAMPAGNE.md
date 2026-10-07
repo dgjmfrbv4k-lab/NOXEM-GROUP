@@ -531,3 +531,82 @@ sans ce fichier, ce serait risquer d'écrire deux fois aux mêmes sociétés.
 **Ce que j'ai fait à la place :** déclenché sa propre routine, qui réveille la session qui
 détient ce registre, avec les deux consignes nouvelles — plus de signature, et le contrôle
 MX obligatoire avec le chemin de l'outil. Elle travaille sur ses propres données.
+
+---
+
+# BILAN DU 07/10/2026 — 18 h, heure de Paris
+
+## Les cinq chiffres, distincts
+
+| | |
+|---|---|
+| Sociétés qualifiées examinées | ~160 sur 32 marchés |
+| **Envois confirmés** | **54** |
+| **Relances** | **50** |
+| Rebonds | 9 |
+| **Réponses qualifiées** | **1** (Duravidrio, Équateur) |
+| Demandes de devis | 0 nouvelle — United Glass reste la seule ouverte |
+| Commandes | **0** |
+
+Registre : **774 fiches**. Liste d'appels : **219**.
+**104 messages partis dans la journée** depuis `aaron.harfi@noxem-group.com`.
+
+## La réponse du jour — et elle est exploitable
+
+**DURAVIDRIO (Équateur)** a répondu par un auto-répondeur, mais le contenu vaut mieux
+qu'une réponse humaine vague. Deux informations :
+
+1. Ils renvoient toute demande de cotation vers un **WhatsApp direct : +593 99 972 8592**.
+   L'e-mail ne mènera nulle part, ils le disent eux-mêmes.
+2. Leur positionnement réel : **vitrages acoustiques, antibruit, blindés et pare-balles**.
+   Ces quatre familles consomment du float clair épais — 10 et 12 mm — et du feuilleté
+   multicouche. C'est précisément notre gamme, et c'est la partie du marché où le verre
+   de base coûte le plus cher et se trouve le moins facilement.
+
+**Prochaine action : Aaron écrit sur WhatsApp.** Échéance : demain 08/10.
+
+## Rebonds de la journée — 9
+
+| Adresse | Cause |
+|---|---|
+| `ventas1@aluminiosdelsurhn.com` | 550 adresse introuvable |
+| `info@arturaya.com` | domaine NXDOMAIN |
+| `info@vitrolux-ci.com` | domaine NXDOMAIN |
+| `info@fitglass.com.ng` | boîte pleine → `A RENVOYER` |
+| `info@` et `ventas@vidrieriauniversal.com.co` | boîte pleine sur les deux adresses |
+| `ventasenlinea@vidri.com.sv` | Exchange : l'adresse n'existe pas |
+| `info@mihgroup.ae` | 5.1.3 la boîte n'existe pas, alors que le domaine a des MX |
+| `greengls@eim.ae` | 550 5.5.0 une IP sortante de Google est sur leur liste de blocage |
+
+## Analyse — faits et hypothèses séparées
+
+**Faits.**
+- Zéro réponse humaine sur 104 messages. Mais 54 envois ont moins de cinq heures et
+  50 relances moins de deux heures. Conclure quoi que ce soit serait malhonnête.
+- Le registre était à sec : avant aujourd'hui, **7 fiches sur 735** avaient une adresse
+  sans avoir jamais été contactées. La prospection par e-mail a balayé l'essentiel des
+  sociétés qui publient une adresse.
+- Sur les deux tours de recherche de l'après-midi, **6 sociétés trouvées sur 10 étaient
+  déjà au registre et déjà contactées**.
+- Le contrôle MX mis en place ce matin a évité 25 rebonds. Il a aussi montré sa limite :
+  il valide le domaine, pas la boîte — MIH Group est passé au travers.
+- **La boîte `aaron.harfi@noxem-group.com` sert maintenant trois campagnes** : conteneurs
+  export, déstockage, et film étirable. Les volumes s'additionnent sur un domaine de deux
+  jours.
+
+**Hypothèses, annoncées comme telles.**
+- Le silence vient probablement d'un mélange de trois causes : le délai (quelques heures),
+  la délivrabilité (DMARC absent, domaine neuf), et le fait que l'acheteur de verre ne
+  répond pas à un premier message tant qu'il n'a pas un besoin ouvert. Je ne peux pas
+  départager ces trois causes **tant que je ne sais pas si les messages arrivent**.
+- Les deux tests envoyés à Aaron, iCloud et Gmail, restent sans retour de sa part. C'est
+  la mesure qui manque pour trancher.
+
+## Les trois priorités pour demain
+
+1. **WhatsApp à Duravidrio** (+593 99 972 8592) — la seule réponse de la journée, et un
+   profil qui achète exactement ce que nous vendons.
+2. **United Glass / John** — Aaron a engagé « prix jeudi », c'est demain. Bloqué sur la
+   grille, les conditions de paiement et la faisabilité du 2 438 × 3 302 mm.
+3. **Poser le DMARC**, et me dire lequel des deux tests est arrivé. Sans ça je prospecte
+   sans savoir si quoi que ce soit atterrit.
