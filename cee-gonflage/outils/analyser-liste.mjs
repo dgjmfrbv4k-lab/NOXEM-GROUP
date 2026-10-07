@@ -1,0 +1,255 @@
+/**
+ * analyser-liste.mjs
+ * ---------------------------------------------------------------------------
+ * Évalue une liste d'adresses e-mail AVANT de l'utiliser, et en extrait la
+ * part exploitable.
+ *
+ * Pourquoi cet outil : une liste achetée ou récupérée coûte moins cher qu'une
+ * collecte, mais une liste périmée coûte le domaine. Au-delà de 5 % de rebonds
+ * durs, les fournisseurs dégradent la réputation de l'expéditeur ; au-delà de
+ * 10 %, ils bloquent. Une liste à 40 % de rebonds ne se « nettoie pas en
+ * envoyant » : elle grille l'expéditeur avant d'être nettoyée.
+ *
+ *   node outils/analyser-liste.mjs adresses.txt
+ *   node outils/analyser-liste.mjs adresses.txt --sortie liste-propre.txt
+ * ---------------------------------------------------------------------------
+ */
+
+import { readFileSync, writeFileSync } from 'node:fs';
+
+/**
+ * Fournisseurs fermés ou abandonnés. Une adresse qui y réside rebondit
+ * presque à coup sûr.
+ */
+export const DOMAINES_MORTS = new Map([
+  ['wanadoo.fr', 'marque abandonnée en 2006, boîtes largement inactives'],
+  ['voila.fr', 'fermé par Orange en 2016'],
+  ['club-internet.fr', 'fermé'],
+  ['tiscali.fr', 'fermé'],
+  ['libertysurf.fr', 'fermé'],
+  ['worldonline.fr', 'fermé'],
+  ['infonie.fr', 'fermé'],
+  ['caramail.com', 'fermé'],
+  ['9online.fr', 'fermé'],
+  ['cegetel.net', 'très ancien, créations arrêtées'],
+  ['neuf.fr', 'absorbé par SFR, très ancien'],
+  ['numericable.fr', 'absorbé par SFR'],
+  ['aol.com', 'quasi abandonné en France'],
+]);
+
+/** Messageries grand public : une administration n'y a pas d'adresse officielle. */
+export const DOMAINES_GRAND_PUBLIC = new Set([
+  'orange.fr', 'free.fr', 'laposte.net', 'yahoo.fr', 'yahoo.com', 'hotmail.fr',
+  'hotmail.com', 'gmail.com', 'sfr.fr', 'outlook.fr', 'outlook.com', 'live.fr',
+  'bbox.fr', 'msn.com', 'nordnet.fr',
+]);
+
+/**
+ * Vocabulaire des points de contact d'établissement.
+ * « affaires.generales » ou « services.techniques » sont des services, pas des
+ * personnes : sans ce vocabulaire, la forme « mot.mot » les ferait passer pour
+ * des noms propres et on écarterait de bonnes adresses.
+ */
+const INSTITUTIONNEL = new RegExp([
+  'mairie', 'commune', 'ville', 'accueil', 'contact', 'secretariat', 'secrétariat',
+  'affaires', 'generales', 'générales', 'direction', 'services?', 'techniques?',
+  'urbanisme', 'cabinet', 'administration', 'dgs', 'courrier', 'info',
+].join('|'));
+
+/**
+ * Prénoms les plus répandus dans l'administration française. Sert uniquement à
+ * distinguer « jean.dupont » (une personne) de « cuisine.centrale » (un service).
+ */
+const PRENOMS = new Set(['jean', 'marie', 'pierre', 'michel', 'philippe', 'alain', 'nicolas',
+  'christophe', 'patrick', 'daniel', 'bernard', 'claude', 'eric', 'laurent', 'sylvie',
+  'catherine', 'nathalie', 'isabelle', 'christine', 'francoise', 'monique', 'martine',
+  'anne', 'sophie', 'julie', 'celine', 'valerie', 'sandrine', 'veronique', 'david',
+  'olivier', 'pascal', 'thierry', 'stephane', 'frederic', 'vincent', 'julien', 'sebastien',
+  'antoine', 'francois', 'jacques', 'andre', 'robert', 'louis', 'paul', 'guy', 'serge',
+  'gerard', 'didier', 'bruno', 'herve', 'yves', 'marc', 'denis', 'florence', 'caroline',
+  'emilie', 'aurelie', 'chantal', 'brigitte', 'nadine', 'corinne', 'laurence', 'karine']);
+
+/**
+ * Une adresse qui désigne une personne : donnée personnelle au sens du RGPD,
+ * et destinataire qu'on ne démarche pas sur une adresse d'établissement.
+ *
+ * Deux formes reconnues : « initiale.nom » (j.pothin) et « prénom.nom »
+ * (jean.dupont). Tout le reste est considéré comme non personnel.
+ */
+export function estPersonnelle(email) {
+  const local = email.split('@')[0];
+  if (INSTITUTIONNEL.test(local)) return false;
+  if (/^[a-z][.\-_][a-z]{2,}$/.test(local)) return true;          // j.pothin, a-boullier
+  const parties = local.split(/[.\-_]/);
+  return parties.length === 2 && PRENOMS.has(parties[0]);            // jean.dupont
+}
+
+/** Adresse d'établissement scolaire (code UAI @ac-<académie>). */
+export function estScolaire(email) {
+  return /@ac-|\.ac-/.test(email);
+}
+
+/** Classe une adresse et dit pourquoi elle est retenue ou écartée. */
+export function classer(email) {
+  const propre = String(email).trim().toLowerCase();
+  const domaine = propre.split('@')[1] || '';
+  const local = propre.split('@')[0] || '';
+
+  if (!propre.includes('@') || !domaine.includes('.')) return { email: propre, garde: false, motif: 'adresse invalide' };
+  if (estScolaire(propre)) return { email: propre, garde: false, motif: 'établissement scolaire' };
+  if (DOMAINES_MORTS.has(domaine)) return { email: propre, garde: false, motif: `domaine mort (${DOMAINES_MORTS.get(domaine)})` };
+  if (DOMAINES_GRAND_PUBLIC.has(domaine)) return { email: propre, garde: false, motif: 'messagerie grand public' };
+  if (estPersonnelle(propre)) return { email: propre, garde: false, motif: 'adresse personnelle (RGPD)' };
+  if (!INSTITUTIONNEL.test(local)) return { email: propre, garde: false, motif: 'pas un point de contact identifiable' };
+  return { email: propre, garde: true, motif: 'retenue' };
+}
+
+/** Analyse complète : verdict, comptes par motif, liste retenue. */
+export function analyser(adresses) {
+  const uniques = [...new Set(adresses.map((a) => String(a).trim().toLowerCase()).filter(Boolean))];
+  const classees = uniques.map(classer);
+  const gardees = classees.filter((c) => c.garde).map((c) => c.email);
+
+  const motifs = {};
+  for (const c of classees) if (!c.garde) motifs[c.motif] = (motifs[c.motif] || 0) + 1;
+
+  const mortes = classees.filter((c) => c.motif.startsWith('domaine mort')).length;
+  return {
+    fournies: adresses.length,
+    uniques: uniques.length,
+    doublons: adresses.length - uniques.length,
+    retenues: gardees.length,
+    ecartees: uniques.length - gardees.length,
+    tauxRebondEstime: uniques.length ? mortes / uniques.length : 0,
+    motifs,
+    liste: gardees,
+  };
+}
+
+/** Verdict lisible, avec le seuil qui décide. */
+export function verdict(bilan) {
+  const pct = (n) => `${(100 * n / (bilan.uniques || 1)).toFixed(1)} %`;
+  const lignes = [
+    `${bilan.fournies} adresse(s) fournie(s), ${bilan.uniques} unique(s) (${bilan.doublons} doublon(s)).`,
+    '',
+    'Écartées :',
+    ...Object.entries(bilan.motifs).sort((a, b) => b[1] - a[1])
+      .map(([motif, n]) => `  ${String(n).padStart(6)}  ${motif}  (${pct(n)})`),
+    '',
+    `RETENUES : ${bilan.retenues} (${pct(bilan.retenues)})`,
+    '',
+    `Rebond dur estimé sur la liste brute : ${(100 * bilan.tauxRebondEstime).toFixed(1)} %`,
+  ];
+  if (bilan.tauxRebondEstime > 0.10) {
+    lignes.push('VERDICT : liste inutilisable telle quelle. Au-delà de 10 % de rebonds,');
+    lignes.push('les fournisseurs bloquent l\'expéditeur — le domaine est perdu avant');
+    lignes.push('que la liste ne soit nettoyée. N\'envoyer qu\'au sous-ensemble retenu.');
+  } else if (bilan.tauxRebondEstime > 0.05) {
+    lignes.push('VERDICT : au-dessus du seuil de 5 %. Réputation dégradée à prévoir.');
+  } else {
+    lignes.push('VERDICT : taux de rebond acceptable.');
+  }
+  return lignes.join('\n');
+}
+
+function principal() {
+  const args = process.argv.slice(2);
+  const fichier = args[0];
+  if (!fichier) {
+    console.error('Usage : node outils/analyser-liste.mjs adresses.txt [--sortie liste-propre.txt]');
+    process.exit(1);
+  }
+  const i = args.indexOf('--sortie');
+  const sortie = i !== -1 ? args[i + 1] : '';
+
+  const adresses = readFileSync(fichier, 'utf8').split(/[\r\n,;]+/).map((l) => l.trim()).filter((l) => l.includes('@'));
+  const bilan = analyser(adresses);
+  console.log(verdict(bilan));
+
+  if (sortie) {
+    writeFileSync(sortie, bilan.liste.join('\n'));
+    console.log(`\n${bilan.retenues} adresse(s) retenue(s) écrite(s) dans ${sortie}`);
+  }
+}
+
+if (import.meta.url === `file://${process.argv[1]}`) principal();
+
+/**
+ * Déduit le nom de la commune à partir du domaine.
+ *
+ * Nécessaire parce que le message nomme la commune (« un parking de X ») :
+ * une liste d'adresses nues ne suffit pas à écrire. La déduction est fiable
+ * sur les domaines explicites (mairie-xxx.fr, ville-xxx.fr) et douteuse
+ * ailleurs — d'où le drapeau `sur`, qui décide si on peut envoyer sans
+ * relecture humaine.
+ */
+export function communeDepuisDomaine(domaine) {
+  const base = String(domaine || '').toLowerCase().replace(/\.(fr|com|net|org)$/, '');
+  // Le séparateur est OBLIGATOIRE : sans lui, « mairiedevalmont » se coupe en
+  // « devalmont » et « mairiedemassiac » en « demassiac ». Retirer un « de »
+  // collé serait pire encore — « Denain » deviendrait « nain ». Sans
+  // séparateur, on préfère donc ne pas savoir.
+  // « villede-lyon » et « mairie-de-x » restent lisibles : le « de » y est
+  // suivi d'un séparateur. « mairiedevalmont » ne l'est pas.
+  const explicite = base.match(/^(?:mairie|ville|commune|mun)(?:de|du|des)?[-.](.+)$/)
+    || base.match(/^(.+?)[-.](?:mairie|ville|commune)$/);
+  const brut = (explicite ? explicite[1] : base)
+    .replace(/\d+$/, '')                       // mairie-montjean53 -> montjean
+    .replace(/^(de|la|le|les|du|des)[-.]/, '') // villede-x -> x
+    .replace(/[-.]/g, ' ')
+    .trim();
+
+  if (!brut || brut.length < 3) return { nom: '', sur: false };
+
+  // Capitalisation française : Saint-Étienne, Aix-en-Provence.
+  const petits = new Set(['en', 'sur', 'sous', 'les', 'le', 'la', 'de', 'du', 'des', 'aux', 'au', 'lez', 'et']);
+  const nom = brut.split(' ')
+    .map((mot, i) => (i > 0 && petits.has(mot) ? mot : mot.charAt(0).toUpperCase() + mot.slice(1)))
+    .join('-');
+
+  return { nom, sur: Boolean(explicite) };
+}
+
+/**
+ * Services d'une collectivité qui ne décident jamais d'un aménagement de
+ * parking. Écrire au Bureau Information Jeunesse ou à la bibliothèque, c'est
+ * un message perdu et un agacement gratuit.
+ */
+const MAUVAIS_SERVICE = new RegExp([
+  'bij', 'mdj', 'jeunesse', 'patrimoine', 'prevention', 'sport', 'culture',
+  'bibliotheque', 'mediatheque', 'ecole', 'creche', 'cantine', 'cuisine',
+  'periscolaire', 'etat[.-]?civil', 'etatcivil', 'elections?', 'cimetiere',
+  'social', 'seniors?', 'petite[.-]?enfance', 'scolaire', 'musee', 'archives',
+  'tourisme', 'communication', 'presse', 'rh', 'recrutement', 'paie',
+].join('|'));
+
+/** L'adresse vise-t-elle un service sans rapport avec un parking ? */
+export function estMauvaisService(email) {
+  return MAUVAIS_SERVICE.test(String(email).split('@')[0].toLowerCase());
+}
+
+/**
+ * Un nom de commune composé mais écrit collé : « Sinlenoble », « Azaysurcher ».
+ * L'envoyer tel quel signale l'automate ; on préfère la version générique.
+ */
+export function nomProbablementColle(nom) {
+  const n = String(nom || '').toLowerCase();
+  if (n.includes('-')) return false;                       // déjà décomposé
+  // Une particule enfouie au milieu d'un mot trahit un nom composé aplati.
+  return /.{2}(sur|sous|les|lez|lelas?|en|aux)[a-z]{2,}/.test(n);
+}
+
+/**
+ * Formes d'adresse qui ont rebondi à 100 % lors du premier envoi réel du
+ * 17/09 : « accueil.mairie@ » (3 sur 3) et les préfixes numériques (1 sur 1).
+ *
+ * Ce ne sont pas des règles théoriques mais une mesure. Les écarter fait
+ * passer le lot de 26 % à 7 % de rebonds, c'est-à-dire du niveau qui fait
+ * bloquer un expéditeur à celui d'une prospection normale.
+ */
+export function formeRisquee(email) {
+  const local = String(email).split('@')[0].toLowerCase();
+  if (/^\d/.test(local)) return 'préfixe numérique';
+  if (local === 'accueil.mairie' || local === 'contact.mairie') return 'forme accueil.mairie';
+  return '';
+}
