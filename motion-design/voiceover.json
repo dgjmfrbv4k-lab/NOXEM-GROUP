@@ -1,0 +1,13 @@
+{
+  "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+  "model_id": "eleven_multilingual_v2",
+  "segments": [
+    { "start": 0.8,  "end": 6.3,  "text": "NOXEM GROUP déménage son entrepôt." },
+    { "start": 7.0,  "end": 13.8, "text": "Et liquide tout son stock de verre plat : six références, au format 2550 par 3210, en caisses bois prêtes à charger." },
+    { "start": 14.6, "end": 23.2, "text": "Au total : plus de huit mille deux cents mètres carrés, répartis en cinquante caisses." },
+    { "start": 24.2, "end": 33.7, "text": "Float Low-E, miroir argenté, float de six à dix millimètres, et feuilleté cinquante-cinq deux. À la caisse, à la référence, ou en lot complet. Prix sur devis." },
+    { "start": 34.8, "end": 44.6, "text": "Tout est manipulé chez nous, à Mollem, en Belgique : réception, déballage, mise en pile, puis levage à la grue." },
+    { "start": 45.6, "end": 52.7, "text": "Livraison en camion inloader partout en Europe, au Royaume-Uni et en Irlande. Transport offert pour l'achat de tout le stock." },
+    { "start": 53.6, "end": 59.4, "text": "Une question, une offre ? Écrivez-nous sur WhatsApp. NOXEM GROUP." }
+  ]
+}
