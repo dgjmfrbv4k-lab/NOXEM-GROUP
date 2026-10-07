@@ -249,8 +249,8 @@ Première journée pleine sur la nouvelle boîte. Registre : **728 lignes**.
 
 | | |
 |---|---|
-| Recherches / qualifications | 38 sociétés examinées sur 11 marchés |
-| **Envois confirmés** | **29** (33 partis, 4 rebonds immédiats) |
+| Recherches / qualifications | 52 sociétés examinées sur 16 marchés |
+| **Envois confirmés** | **31** (35 partis, 4 rebonds immédiats) |
 | Réponses qualifiées | **0** — aucun prospect n'a répondu sur la nouvelle boîte |
 | Demandes de devis | 0 nouvelle (United Glass reste la seule, ouverte le 06/10) |
 | Commandes | 0 |
@@ -344,3 +344,32 @@ que le DMARC soit posé.
    (importateur de feuilleté selon les registres douaniers américains) et
    **Walshs Glass** (premier distributeur indépendant d'Australie-Occidentale).
 3. **Poser le DMARC**, puis reprendre les lots.
+
+## Deuxième tour de l'après-midi — deux profils à part
+
+Les deux meilleurs profils de la journée sont arrivés en fin de recherche, et les
+deux adresses sont passées au contrôle MX avant l'envoi :
+
+- **Glass Georgia (Tbilissi)** — importateur pur, fondé en 2018, qui annonce sept
+  familles de produits : float clair, teinté, réfléchissant, imprimé, miroir,
+  feuilleté, trempé. Personne ne tient ce catalogue sans acheter au conteneur.
+  Je ne lui ai donc rien expliqué sur les conteneurs : je lui ai proposé une
+  seconde place de chargement, sans rien changer à son opération. Ports Poti
+  ou Batoumi.
+- **Alumex (Bagdad, branche à Bassorah)** — fabricant de façades depuis 2011.
+  La branche de Bassorah le met à côté d'Umm Qasr, ce qui simplifie la route.
+
+Aucun rebond sur les sept derniers envois : le contrôle MX fonctionne.
+
+## Marchés prospectés sans résultat exploitable, et pourquoi
+
+| Marché | Ce que j'ai cherché | Pourquoi rien n'est parti |
+|---|---|---|
+| **Zone libre de Colón (Panama)** | Distributeurs de verre plat en zone franche | Premier hub de réexport des Amériques, mais aucune société de verre plat identifiable par les moteurs. Piste à reprendre par les annuaires `camaracolon.com` et `colonfreezone.com`, ou par appel à la chambre au +507 474 6780 |
+| **Maldives** | Importateurs de float | Deux acheteurs déclarés de float et de trempé, M-Glass et Oak Development, aucune adresse hors réseaux sociaux. Versés aux appels |
+| **Barbade, Sainte-Lucie** | Fabricants et négociants | Saint Lu Metal fabrique lui-même trempé, float et feuilleté sur deux sites : vraie cible, mais aucun des quatre n'a d'adresse publiée. Versés aux appels |
+| **RDC, Haïti, Mauritanie, Guinée** | Importateurs et miroiteries | Aucune adresse publiée dans aucun des quatre pays |
+
+Ce n'est pas un échec de ciblage : c'est la limite d'une prospection par e-mail
+dans les marchés où les sociétés ne publient pas d'adresse. Ces marchés se
+travaillent au téléphone, et la liste d'appels est passée de 171 à **201 fiches**.
