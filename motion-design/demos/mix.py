@@ -167,7 +167,9 @@ def main():
         m /= max(1e-9, np.abs(m).max())
         # baisse la musique quand la voix parle (enveloppe lissée de la voix)
         k = int(0.25 * SR)
-        e = np.convolve(np.abs(voice), np.ones(k) / k, mode='same')
+        c = np.concatenate([[0], np.cumsum(np.abs(voice))])
+        idx = np.arange(n)
+        e = (c[np.minimum(idx + k // 2, n)] - c[np.maximum(idx - k // 2, 0)]) / k  # moyenne glissante rapide
         duck = 1 - 0.65 * np.clip(e / 0.05, 0, 1)
         fade_in = np.clip(np.arange(n) / (0.5 * SR), 0, 1)
         fade_out = np.clip((n - np.arange(n)) / (3 * SR), 0, 1)
