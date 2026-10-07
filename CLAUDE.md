@@ -153,6 +153,14 @@ aaron.harfi@noxem-group.com | www.noxemgroup.com
 Le +33 7 69 72 58 92 est **mort** : il ne doit plus jamais apparaitre nulle part.
 Le fixe +33 2 59 50 84 59 figure dans la signature donnee par Aaron — a reverifier avec lui.
 
+**SIGNATURE — consigne d'Aaron du 07/10/2026 : n'ajouter AUCUNE signature aux e-mails,
+ni en texte ni en image, sur les deux campagnes.** Gmail l'integre automatiquement.
+Rediger uniquement le message commercial. Le bloc ci-dessus reste la reference des
+mentions legales, il ne se colle plus dans les messages.
+L'identification se fait en premiere ligne du corps (« Je m'appelle Aaron Harfi, je dirige
+NOXEM GROUP, fournisseur et exportateur de verre plat pres de Lyon »), ce qui n'est pas une
+signature mais l'ouverture imposee au paragraphe 9.
+
 Ne jamais se presenter comme trader ou negociant : **fournisseur de verre plat**.
 
 DNS du domaine, verifie le 07/10 : MX Google OK, SPF OK, DKIM OK, **DMARC absent**.

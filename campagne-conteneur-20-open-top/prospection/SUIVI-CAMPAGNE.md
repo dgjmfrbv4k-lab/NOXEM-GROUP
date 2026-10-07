@@ -459,3 +459,75 @@ boîte, le bon numéro, le contrôle MX obligatoire et les comptes protégés.
 
 Ce que ces routines ne font pas : prospecter en continu. Elles se déclenchent deux fois par
 jour, pas en permanence. Entre deux déclenchements, rien ne tourne.
+
+---
+
+# 07/10 — troisième lot, et fin des signatures
+
+## Consigne appliquée
+
+Aaron a confirmé : **aucune signature dans les e-mails, ni texte ni image, sur les deux
+campagnes.** Gmail l'intègre. Inscrit au §10 du mandat. Les huit messages de ce lot sont
+partis sans bloc de signature.
+
+L'identification reste en première ligne du corps — « Je m'appelle Aaron Harfi, je dirige
+NOXEM GROUP, fournisseur et exportateur de verre plat près de Lyon » — ce qui n'est pas une
+signature mais l'ouverture imposée par le §9.
+
+## Lot 3 — 8 envois, zéro rebond
+
+Amérique centrale, Caraïbes et Cône Sud : trois zones sans ligne float, peu couvertes.
+
+| Société | Pays | Pourquoi au conteneur | Port |
+|---|---|---|---|
+| Grupo Vitrum | Guatemala | Trempeur : achète du float brut en continu | Santo Tomás / Quetzal |
+| Acabados Profesionales | Guatemala | Le verre est une ligne d'une offre de finitions plus large | Santo Tomás / Quetzal |
+| VOLGUA | Guatemala | Trempeur : le four exige une référence constante | Santo Tomás / Quetzal |
+| INVEFA Panamá | Panama | 15 ans de fourniture et pose alu-verre, **et le pays est le port** | Colón / Balboa |
+| AGlass Panamá | Panama | Même avantage géographique | Colón / Balboa |
+| Arquitectura en Vidrio | Panama | Gère le lot complet, donc porte le risque de délai et de prix | Colón / Balboa |
+| Belglass | Paraguay | Trempeur en pays enclavé : le tronçon depuis Montevideo est dans le prix | via Montevideo |
+| Arch Glass & Aluminium | Îles Caïmans | Île : les vitriers paient la traversée deux fois, dans la marge du distributeur continental puis dans leur fret | George Town |
+
+**Angle neuf testé : Panamá.** Le pays est la porte d'entrée logistique de la région. Pour
+un acheteur panaméen, ce qui est un transbordement pour tout le monde est le port d'à côté.
+Personne n'utilise cet avantage pour le verre.
+
+**Angle neuf testé : l'île.** Pour Arch Glass, j'ai posé que la plupart des vitriers
+insulaires achètent via un distributeur continental qui a déjà pris sa marge sur la caisse —
+donc ils paient la traversée deux fois. Et le chargement mixte prend tout son sens sur une
+île : une caisse au lieu de trois expéditions.
+
+## Chiffres de la journée
+
+| | |
+|---|---|
+| Sociétés qualifiées examinées | ~120 sur 26 marchés |
+| **Envois confirmés** | **51** |
+| Rebonds | 6 |
+| Réponses qualifiées | **0** |
+| Demandes de devis | 0 nouvelle |
+| Commandes | 0 |
+
+Registre : **770 lignes**. Liste d'appels : **214 fiches**.
+
+## Rebonds du jour, complet
+
+| Adresse | Cause |
+|---|---|
+| `ventas1@aluminiosdelsurhn.com` | 550 adresse introuvable |
+| `info@arturaya.com` | domaine NXDOMAIN |
+| `info@vitrolux-ci.com` | domaine NXDOMAIN |
+| `info@fitglass.com.ng` | boîte pleine → `A RENVOYER` |
+| `info@` puis `ventas@vidrieriauniversal.com.co` | boîte pleine sur les deux → `A APPELER` |
+| `ventasenlinea@vidri.com.sv` | Exchange : l'adresse n'existe pas → `A APPELER` |
+
+## Campagne déstockage
+
+Son registre de leads n'est pas dans ce dépôt : il vit dans le répertoire de travail d'une
+autre session, auquel je n'ai pas accès d'ici. Prospecter le déstockage depuis cette session
+sans ce fichier, ce serait risquer d'écrire deux fois aux mêmes sociétés.
+
+**Ce que j'ai fait à la place :** déclenché sa propre routine, qui réveille la session qui
+détient ce registre, avec les deux consignes nouvelles — plus de signature, et le contrôle
+MX obligatoire avec le chemin de l'outil. Elle travaille sur ses propres données.
