@@ -29,10 +29,11 @@ import json, os
 SFX = json.load(open('sfx.json')) if os.path.exists('sfx.json') else []
 
 
-def decode(path):
-    raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', path, '-f', 'f32le', '-ac', '1', '-ar', str(SR), '-'],
+def decode(path, ch=1):
+    raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', path, '-f', 'f32le', '-ac', str(ch), '-ar', str(SR), '-'],
                          capture_output=True, check=True).stdout
-    return np.frombuffer(raw, dtype=np.float32).astype(np.float64)
+    a = np.frombuffer(raw, dtype=np.float32).astype(np.float64)
+    return a if ch == 1 else a.reshape(-1, ch)
 
 
 def env(n, attack, decay):
@@ -163,10 +164,10 @@ def main():
     for kind, at in SFX:
         place(sfx, gen[kind](), at)
 
-    mix = voice * 0.9 + sfx * 0.45
+    mix = np.repeat((voice * 0.9 + sfx * 0.45)[:, None], 2, axis=1)
     if music:
-        m = decode(music)[:n]
-        m = np.pad(m, (0, n - len(m)))
+        m = decode(music, 2)[:n]
+        m = np.pad(m, ((0, n - len(m)), (0, 0)))
         m /= max(1e-9, np.abs(m).max())
         # baisse la musique quand la voix parle (enveloppe lissée de la voix)
         k = int(0.25 * SR)
@@ -174,11 +175,11 @@ def main():
         duck = 1 - 0.65 * np.clip(e / 0.05, 0, 1)
         fade_in = np.clip(np.arange(n) / (0.5 * SR), 0, 1)
         fade_out = np.clip((n - np.arange(n)) / (3 * SR), 0, 1)
-        mix += m * 0.35 * duck * fade_in * fade_out
+        mix += m * (0.35 * duck * fade_in * fade_out)[:, None]
     mix /= max(1.0, np.abs(mix).max() / 0.95)
 
     pcm = (mix * 32767).astype('<i2')
-    stereo = np.repeat(pcm[:, None], 2, axis=1)
+    stereo = pcm
     with wave.open('audio/mix.wav', 'wb') as w:
         w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR); w.writeframes(stereo.tobytes())
 
