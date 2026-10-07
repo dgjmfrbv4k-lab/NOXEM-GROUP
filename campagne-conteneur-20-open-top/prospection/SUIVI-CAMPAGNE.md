@@ -685,3 +685,84 @@ Détail et marche à suivre dans `POINT-DE-REPRISE.md`.
 
 **Ce qui n'est pas en risque :** les 145 messages de la journée sont partis, c'est
 irréversible et consultable dans les envoyés. Seules les annotations du registre attendent.
+
+---
+
+# BILAN DU 07/10/2026 — 19 h, heure de Paris
+
+## Les cinq chiffres, distincts
+
+| | |
+|---|---|
+| Sociétés qualifiées examinées | ~180 sur 36 marchés |
+| **Envois confirmés** | **55** |
+| **Relances** | **99** |
+| Rebonds | 11 |
+| **Réponses qualifiées** | **2** |
+| **Demandes de prix** | **1 nouvelle** — Caribbean Glass Specialists |
+| Commandes | **0** |
+
+**154 messages partis** depuis `aaron.harfi@noxem-group.com`. Registre : **778 fiches**,
+liste d'appels : **219**. Il reste **30** fiches de septembre à relancer, les plus faibles.
+
+## L'événement de la journée
+
+**Caribbean Glass Specialists (Trinité) a répondu en trois heures à une relance** — et c'est
+une demande de prix, la deuxième de la campagne.
+
+Akeeda demande prix **et** fret rendu Port of Spain sur cinq références :
+4 mm gris foncé (48"×96" et 72"×96"), 6 mm feuilleté clair (96"×72" et 130"×89"),
+6 mm miroir (96"×72").
+
+**Ce qu'elle n'a pas donné :** aucune quantité, aucun nombre de conteneurs, aucun type de
+conteneur. Ce n'est pas une commande, c'est un test de prix contre ses fournisseurs actuels.
+
+**Ce qu'elle a donné sans qu'on le demande, et qui vaut plus :** *« nos fournisseurs de
+longue date nous accordent des conditions de crédit »*. Dit au premier message, c'est son
+vrai critère. Un concurrent 3 % moins cher qui exige le paiement d'avance perd contre celui
+qui laisse du délai.
+
+**Réponse envoyée le 07/10 sur autorisation d'Aaron**, construite dans cet ordre :
+1. Le crédit en première ligne, pas en dernière — c'est son objection.
+2. Port of Spain confirmé.
+3. Deux demandes seulement : quantités par référence et fréquence, puis 20 pieds open top
+   ou dry selon son quai.
+4. Le 130"×89" signalé comme hors cotes à 3302 mm, à confirmer avec l'usine, sans promesse.
+
+Aucun prix, aucun délai, aucun certificat. **Prochaine action : attendre les quantités, puis
+Aaron fournit la grille et tranche sur le 3302 mm.**
+
+## Ce que la journée a appris sur la méthode
+
+**Le format court gagne.** Les 99 relances étaient toutes bâties sur le même squelette :
+une seule question — *quelles références et épaisseurs au plus gros volume annuel* — et une
+porte de sortie. La seule réponse humaine de la journée est venue de là, pas d'un long
+message de prospection.
+
+**L'argument qui porte face à un distributeur n'est pas le prix, c'est le chargement mixte.**
+Kristal 90C tient float, imprimé et miroir ; Lasiposti vend du verre de construction et du
+décoratif qui n'ont rien à voir ; AC Taylor vend sa largeur de gamme. Pour eux un conteneur
+mono-référence a simplement la mauvaise forme.
+
+**Signaler une difficulté technique renforce la position au lieu de l'affaiblir.** Le
+130"×89" a été annoncé comme à vérifier plutôt que promis. Un acheteur de cinquante-cinq ans
+de métier repère immédiatement un fournisseur qui dit oui à tout.
+
+## Problèmes du jour
+
+| Problème | État |
+|---|---|
+| Push GitHub rejeté 11 fois (erreur serveur) | **résolu** — contourné par le serveur MCP puis rebase, voir `POINT-DE-REPRISE.md` |
+| 11 rebonds | tous consignés, adresses retirées ou fiches basculées en appel |
+| `5.7.1 Message rejected` vers un gmail | **isolé** : c'est le contact qui avait envoyé STOP et qui nous a bloqués. Six autres gmail.com sont partis sans rebond le même jour |
+| Répondeur automatique de la boîte | il répond **en français** à une prospecte anglophone et affiche le fixe +33 2 59 50 84 59, que le mandat note encore « à revérifier » |
+| Lecture web coupée | **toujours actif** — c'est le vrai plafond, voir `POINT-DE-REPRISE.md` §2 |
+| DMARC absent | toujours absent |
+
+## Les trois priorités de demain
+
+1. **Caribbean Glass** — dès que les quantités arrivent : grille de prix, décision sur le
+   crédit, faisabilité du 3302 mm. C'est la seule affaire chaude de la campagne.
+2. **United Glass / John** — « prix jeudi » engagé, c'est demain.
+3. **WhatsApp à Duravidrio**, +593 99 972 8592 — acoustique, blindé, pare-balles, donc du
+   float clair épais : exactement notre gamme.
