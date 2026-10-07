@@ -27,3 +27,14 @@ changer de voix).
 
 Le minutage des scènes est dans `SC` en bas de `index.html` ; chaque scène a sa
 fonction dans `R` (temps local en secondes).
+
+## Voix off déjà générée (fichier ElevenLabs) + bruitages
+
+Si la voix off est générée sur le site ElevenLabs (un seul fichier pour tout
+le texte), la placer dans `audio/voix.mp3`, puis :
+
+    python3 mix.py noxem.mp4 noxem-voix.mp4              # voix + bruitages
+    python3 mix.py noxem.mp4 noxem-voix.mp4 musique.mp3  # + musique baissée sous la voix
+
+Les points de découpe de la voix (`VOICE_CUTS`) et les instants des bruitages
+(`SFX`) sont en haut de `mix.py`. Les bruitages sont synthétisés par le script.
