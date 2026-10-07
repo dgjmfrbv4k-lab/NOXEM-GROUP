@@ -15,7 +15,18 @@ VOICE = 'audio/voix.mp3'  # voix off de cette vidéo (à recevoir)
 
 # (début dans le fichier voix, fin dans le fichier voix, position dans la vidéo)
 # découpe aux pauses du fichier (ffmpeg silencedetect)
-VOICE_CUTS = []  # à remplir quand la voix off sera reçue
+# (début dans le fichier voix, fin dans le fichier voix, position dans la vidéo)
+VOICE_CUTS = [
+    (0.00, 7.90, 0.50),    # NOXEM GROUP passe ... / Portes ... / On fabrique, on livre, on pose
+    (7.90, 12.67, 8.50),   # Une porte moderne ? ... Voilà !
+    (12.67, 18.85, 14.14), # fenêtres et baies ... volets, des dizaines de coloris
+    (18.85, 21.76, 20.47), # Des dizaines de modèles ... sur mesure
+    (21.76, 24.36, 23.46), # usines européennes
+    (24.36, 27.80, 26.14), # Et la pose ? ... partout en France
+    (27.80, 31.55, 29.75), # Plus de lumière ... d'énergie
+    (31.55, 36.55, 33.63), # Particuliers ou professionnels ...
+    (36.55, 43.31, 38.88), # NOXEM GROUP. Très bientôt ... Appelez le ...
+]
 
 # instants des bruitages : exportés depuis index.html (node record.js sfx sfx.json)
 import json, os
