@@ -22,7 +22,8 @@ VOICE_CUTS = [
     (12.67, 18.85, 14.14), # fenêtres et baies ... volets, des dizaines de coloris
     (18.85, 21.76, 20.47), # Des dizaines de modèles ... sur mesure
     (21.76, 24.36, 23.46), # usines européennes
-    (24.36, 27.80, 26.14), # Et la pose ? ... partout en France
+    (24.36, 25.15, 26.14), # Et la pose ?
+    (26.74, 27.80, 28.52), # partout en France.  ("Ce sont nos propres artisans" retiré)
     (27.80, 31.55, 29.75), # Plus de lumière ... d'énergie
     (31.55, 36.55, 33.63), # Particuliers ou professionnels ...
     (36.55, 43.31, 38.88), # NOXEM GROUP. Très bientôt ... Appelez le ...
