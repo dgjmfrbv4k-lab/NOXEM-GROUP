@@ -1,4 +1,4 @@
-# Campagne bornes de gonflage — ÉTAT AU 05/10/2026
+# Campagne bornes de gonflage — ÉTAT AU 07/10/2026
 
 **Reprise le 28/09 après-midi, sur un argumentaire réécrit.**
 (Pause le 23/09, arrêt le 28 au matin, reprise le 28 après-midi.)
@@ -114,3 +114,50 @@ il n'est pas possible depuis ce conteneur.
 | Contactées, adresse vivante | 220 |
 | Adresses mortes | 66 |
 | Restantes sur les 1 000 | 714 |
+
+---
+
+## 07/10/2026 — aucun envoi : quota Gmail épuisé
+
+La vague du matin n'est pas partie. Les 25 premiers envois ont tous été
+refusés par Gmail : « Resource has been exhausted ». Zéro message délivré.
+
+### Pourquoi
+
+`harfiaaron0@gmail.com` ne sert plus seulement aux bornes de gonflage.
+Le 6 octobre, **plus de 200 messages** sont partis de cette adresse pour une
+campagne de verre plat à l'export, plus une campagne de panneaux solaires
+fin septembre. Le plafond d'envoi Gmail (~500 par 24 h glissantes) était
+déjà consommé ce matin.
+
+Ce n'est pas qu'un problème de volume. Sur la seule journée du 6 octobre,
+cette adresse a collecté un blocage SpamAssassin, une quinzaine de rebonds
+et **trois demandes STOP** (`info@kralglas.nl`, `verstein@verstein.fr`,
+`info@pellier.com`). La réputation de l'expéditeur se dégrade, et les
+mairies — souvent derrière Exchange ou Mailinblack — y sont très sensibles.
+
+Tant que les trois campagnes partagent une adresse, la prospection bornes
+subit le plafond et la réputation des deux autres. Il faut une adresse
+dédiée.
+
+### Rattrapage du suivi
+
+En constituant le lot, 13 communes du haut de la liste se sont révélées
+**déjà contactées en septembre, sans avoir jamais été marquées** : Dole,
+Auch, Villeneuve-sur-Lot, Montigny-lès-Metz, Voiron, Carrières-sous-Poissy,
+Moissy-Cramayel, Cognac, Pornic, Bagnols-sur-Cèze, Écully, Pontarlier,
+Balma. Dates relevées une par une dans les messages envoyés, de sorte que
+le suivi dit enfin la vérité. Trois adresses alors essayées avaient rebondi
+et sont consignées ; l'adresse portée au fichier, elle, n'a jamais été
+essayée pour ces trois-là.
+
+### Compteurs
+
+| | 07/10/2026 |
+|---|---|
+| Contactées, adresse vivante | 233 |
+| Adresses mortes | 66 |
+| Restantes sur les 1 000 | 701 |
+
+Le lot de 25 communes est prêt et vérifié sans doublon : il partira dès que
+le quota se libère ou qu'une adresse dédiée est en place.

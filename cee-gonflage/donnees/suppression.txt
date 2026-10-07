@@ -48,3 +48,13 @@ sa@villedemougins.com  # rejetée le 05/10/2026 — message bloqué
 cbiout@ville-chevilly-larue.fr  # rejetée le 05/10/2026 — 550 adresse introuvable
 kdominguez@mitry-mory.fr  # rejetée le 05/10/2026 — message bloqué
 isp@ville-grande-synthe.fr  # rejetée le 05/10/2026 — adresse introuvable (postmaster)
+mairie@dole.org  # rejetée le 22/09/2026 — relevée le 07/10, adresse du fichier non essayée
+mairie@ville-cognac.fr  # rejetée le 22/09/2026 — relevée le 07/10, adresse du fichier non essayée
+courrier@mairie-balma.fr  # rejetée le 23/09/2026 — relevée le 07/10, adresse du fichier non essayée
+
+# Demandes STOP reçues sur harfiaaron0@gmail.com les 06/10 et 29/09/2026.
+# Elles ne viennent pas de la campagne bornes, mais l'adresse d'expédition est
+# la même : aucun message ne doit plus partir vers elles, quelle que soit la campagne.
+info@kralglas.nl  # STOP le 06/10/2026
+verstein@verstein.fr  # STOP le 06/10/2026
+info@pellier.com  # STOP le 06/10/2026 (campagne panneaux solaires du 29/09)

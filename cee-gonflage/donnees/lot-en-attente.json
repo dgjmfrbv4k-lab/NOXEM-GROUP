@@ -1,0 +1,177 @@
+[
+ {
+  "row": 279,
+  "nom": "Châteauneuf-les-Martigues",
+  "raison": "Commune de Châteauneuf-les-Martigues",
+  "mail": "remi.laurent@chateauneuf-les-martigues.fr",
+  "pop": 18364
+ },
+ {
+  "row": 280,
+  "nom": "Louviers",
+  "raison": "Commune de Louviers",
+  "mail": "kiosque.famille@ville-louviers.fr",
+  "pop": 18347
+ },
+ {
+  "row": 281,
+  "nom": "Bonneuil-sur-Marne",
+  "raison": "Commune de Bonneuil-sur-Marne",
+  "mail": "jsports@ville-bonneuil-sur-marne.fr",
+  "pop": 18340
+ },
+ {
+  "row": 284,
+  "nom": "Cesson-Sévigné",
+  "raison": "Commune de Cesson-Sévigné",
+  "mail": "etat.civil@ville-cesson-sevigne.fr",
+  "pop": 18076
+ },
+ {
+  "row": 285,
+  "nom": "Hendaye",
+  "raison": "Commune de Hendaye",
+  "mail": "benoitjardin@hendaye.com",
+  "pop": 18074
+ },
+ {
+  "row": 287,
+  "nom": "Fécamp",
+  "raison": "Commune de Fécamp",
+  "mail": "patrice.vautier@ville-fecamp.fr",
+  "pop": 17961
+ },
+ {
+  "row": 289,
+  "nom": "Brignoles",
+  "raison": "Commune de Brignoles",
+  "mail": "pensos@brignoles.fr",
+  "pop": 17846
+ },
+ {
+  "row": 290,
+  "nom": "Digne-les-Bains",
+  "raison": "Commune de Digne-les-Bains",
+  "mail": "regiedeseaux@dignelesbains.fr",
+  "pop": 17694
+ },
+ {
+  "row": 291,
+  "nom": "Lattes",
+  "raison": "Commune de Lattes",
+  "mail": "le-square@ville-lattes.fr",
+  "pop": 17592
+ },
+ {
+  "row": 292,
+  "nom": "Yutz",
+  "raison": "Commune de Yutz",
+  "mail": "yutz@mairie-yutz.fr",
+  "pop": 17497
+ },
+ {
+  "row": 293,
+  "nom": "Osny",
+  "raison": "Commune de Osny",
+  "mail": "communication@ville-osny.fr",
+  "pop": 17471
+ },
+ {
+  "row": 295,
+  "nom": "Jouy-le-Moutier",
+  "raison": "Commune de Jouy-le-Moutier",
+  "mail": "mediatheque@jouylemoutier.fr",
+  "pop": 17411
+ },
+ {
+  "row": 296,
+  "nom": "Cluses",
+  "raison": "Commune de Cluses",
+  "mail": "maintien.domicile@cluses.fr",
+  "pop": 17366
+ },
+ {
+  "row": 297,
+  "nom": "Marmande",
+  "raison": "Commune de Marmande",
+  "mail": "conques@mairie-marmande.fr",
+  "pop": 17361
+ },
+ {
+  "row": 298,
+  "nom": "Ambarès-et-Lagrave",
+  "raison": "Commune de Ambarès-et-Lagrave",
+  "mail": "mairie@ville-ambaresetlagrave.fr",
+  "pop": 17298
+ },
+ {
+  "row": 299,
+  "nom": "Annonay",
+  "raison": "Commune de Annonay",
+  "mail": "s-maire@mairie-annonay.fr",
+  "pop": 17222
+ },
+ {
+  "row": 301,
+  "nom": "Les Clayes-sous-Bois",
+  "raison": "Commune de Les Clayes-sous-Bois",
+  "mail": "espace.jeunes@lesclayessousbois.fr",
+  "pop": 16940
+ },
+ {
+  "row": 303,
+  "nom": "Saint-Cyr-sur-Loire",
+  "raison": "Commune de Saint-Cyr-sur-Loire",
+  "mail": "info@saint-cyr-sur-loire.com",
+  "pop": 16766
+ },
+ {
+  "row": 305,
+  "nom": "Villeneuve-Loubet",
+  "raison": "Commune de Villeneuve-Loubet",
+  "mail": "service-environnement@mairie-villeneuve-loubet.fr",
+  "pop": 16729
+ },
+ {
+  "row": 306,
+  "nom": "Sedan",
+  "raison": "Commune de Sedan",
+  "mail": "cos@mairie-sedan.fr",
+  "pop": 16727
+ },
+ {
+  "row": 307,
+  "nom": "Guérande",
+  "raison": "Commune de Guérande",
+  "mail": "sebastien.visine@ville-guerande.fr",
+  "pop": 16684
+ },
+ {
+  "row": 308,
+  "nom": "Marly-le-Roi",
+  "raison": "Commune de Marly-le-Roi",
+  "mail": "police@marlyleroi.fr",
+  "pop": 16619
+ },
+ {
+  "row": 309,
+  "nom": "Les Herbiers",
+  "raison": "Commune de Les Herbiers",
+  "mail": "mairie@lesherbiers.fr",
+  "pop": 16589
+ },
+ {
+  "row": 311,
+  "nom": "Port-de-Bouc",
+  "raison": "Commune de Port-de-Bouc",
+  "mail": "centre.arts@portdebouc.fr",
+  "pop": 16138
+ },
+ {
+  "row": 312,
+  "nom": "Montbrison",
+  "raison": "Commune de Montbrison",
+  "mail": "reservationcantine@ville-montbrison.fr",
+  "pop": 16098
+ }
+]
