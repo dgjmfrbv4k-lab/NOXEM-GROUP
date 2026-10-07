@@ -1,11 +1,12 @@
 // Génère la voix off avec ElevenLabs et la mixe dans la vidéo.
-// usage : ELEVENLABS_API_KEY=... node voiceover.mjs noxem.mp4 noxem-voix.mp4 [musique.mp3]
+// usage : [ELEVENLABS_API_KEY=...] node voiceover.mjs noxem.mp4 noxem-voix.mp4 [musique.mp3]
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 
 const [video = 'noxem.mp4', out = 'noxem-voix.mp4', music] = process.argv.slice(2);
 const key = process.env.ELEVENLABS_API_KEY;
-if (!key) { console.error('ELEVENLABS_API_KEY manquante'); process.exit(1); }
+// sans variable, la clé peut être ajoutée par le proxy de l'environnement (API credentials)
+if (!key) console.warn('ELEVENLABS_API_KEY absente : on compte sur la clé ajoutée par le proxy');
 const cfg = JSON.parse(readFileSync(new URL('./voiceover.json', import.meta.url)));
 const voice = process.env.ELEVENLABS_VOICE_ID || cfg.voice_id;
 mkdirSync('vo', { recursive: true });
@@ -16,7 +17,7 @@ const inputs = [], filters = [];
 for (const [i, s] of cfg.segments.entries()) {
   const res = await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${voice}?output_format=mp3_44100_128`, {
     method: 'POST',
-    headers: { 'xi-api-key': key, 'Content-Type': 'application/json' },
+    headers: { ...(key ? { 'xi-api-key': key } : {}), 'Content-Type': 'application/json' },
     body: JSON.stringify({ text: s.text, model_id: cfg.model_id,
       voice_settings: { stability: 0.5, similarity_boost: 0.8, style: 0.2, use_speaker_boost: true } }),
   });
