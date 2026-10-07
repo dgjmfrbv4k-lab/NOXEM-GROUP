@@ -5,3 +5,4 @@ part*.mp4
 render.log
 stills/
 vo/
+__pycache__/
