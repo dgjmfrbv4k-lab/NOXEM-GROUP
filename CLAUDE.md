@@ -128,20 +128,31 @@ plus diffusé : il annonce des prix et porte l'ancien numéro 04 22 91 55 80. À
 Langue professionnelle du prospect : EN, FR, ES, PT selon le pays.
 Jamais le même catalogue pour tout le monde. Texte brut, pas de newsletter HTML.
 
-## 10. Signature
+## 10. Signature — mise a jour du 07/10/2026
+
+**Boite d'envoi : `aaron.harfi@noxem-group.com`** (Google Workspace, domaine avec tiret).
+L'ancienne boite `harfiaaron0@gmail.com` garde l'historique des fils ouverts avant le 07/10 :
+pour repondre dans un de ces fils, il faut y retourner.
 
 ```
-Aaron Harfi
-NOXEM GROUP
-Tél. / WhatsApp : +33 6 86 13 12 71
-aaron.harfi@noxemgroup.com — https://noxemgroup.com
-
-NOXEM GROUP — capital social 100 000 € — filiale de MONTAUGEM, capital social 5 177 000 €
-5 chemin du Jubin, 69570 Dardilly, France — RCS Lyon 945 290 310
+Aaron HARFI
+Président – NOXEM GROUP
+Verre plat & matériaux de construction
+Tél : +33 2 59 50 84 59 | WhatsApp : +33 6 86 13 12 71
+aaron.harfi@noxem-group.com | www.noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly – France
 ```
 
-Référence : `email/SIGNATURE.md`. L'ancien numéro +33 7 69 72 58 92 ne doit plus apparaître.
-Le +33 2 59 50 84 59 qui traîne sur le site GitHub Pages est également à vérifier.
+**Le seul numero valide est le +33 6 86 13 12 71.** Confirme par Aaron le 07/10.
+Le +33 7 69 72 58 92 est **mort** : il ne doit plus jamais apparaitre nulle part.
+Le fixe +33 2 59 50 84 59 figure dans la signature donnee par Aaron — a reverifier avec lui.
+
+Ne jamais se presenter comme trader ou negociant : **fournisseur de verre plat**.
+
+DNS du domaine, verifie le 07/10 : MX Google OK, SPF OK, DKIM OK, **DMARC absent**.
+Le domaine est neuf, donc sans reputation : monter le volume progressivement, ne pas
+envoyer en rafale, et surveiller les non-delivrances silencieuses (Apple ne renvoie
+aucun rebond, il filtre sans prevenir).
 
 ## 11. Quand solliciter Aaron
 
