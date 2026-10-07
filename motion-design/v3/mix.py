@@ -140,7 +140,8 @@ def place(track, clip, at):
 def main():
     video, out = sys.argv[1], sys.argv[2]
     music = sys.argv[3] if len(sys.argv) > 3 else None
-    n = int(DUR * SR)
+    dur = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', video], capture_output=True, text=True).stdout)
+    n = int(dur * SR)
 
     voice = np.zeros(n)
     v = decode(VOICE) if VOICE_CUTS else np.zeros(1)
