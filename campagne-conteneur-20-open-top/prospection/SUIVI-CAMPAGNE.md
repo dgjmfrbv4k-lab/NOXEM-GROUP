@@ -373,3 +373,89 @@ Aucun rebond sur les sept derniers envois : le contrôle MX fonctionne.
 Ce n'est pas un échec de ciblage : c'est la limite d'une prospection par e-mail
 dans les marchés où les sociétés ne publient pas d'adresse. Ces marchés se
 travaillent au téléphone, et la liste d'appels est passée de 171 à **201 fiches**.
+
+---
+
+# 07/10 après-midi — exécution demandée par Aaron : diagnostic du blocage puis lot
+
+## Le blocage exact, vérifié et non supposé
+
+J'ai testé un par un chacun des blocages possibles.
+
+| Candidat | Vérification faite | Verdict |
+|---|---|---|
+| Accès à la messagerie | 46 envois partis dans la journée depuis `aaron.harfi@noxem-group.com` | **Pas un blocage** |
+| Quota d'envoi | Aucune erreur de quota de la journée, Workspace | **Pas un blocage** |
+| Validation du test export | Donnée par Aaron avec « prospecte à fond » | **Pas un blocage, et pas à redemander** |
+| Autorisation d'envoi | Idem | **Pas un blocage** |
+| Tâche planifiée | 7 routines actives, dont 2 liées à cette session | **Fonctionne** |
+| Réponses non lues | `in:inbox newer_than:1d` hors rebonds et Google → **réponse vide** | **Zéro réponse, c'est un fait** |
+
+**Le blocage réel, chiffré :** sur les 735 fiches du registre avant ce lot, **7 seulement** avaient
+une adresse e-mail et n'avaient jamais été contactées. **196** étaient en `A APPELER`,
+c'est-à-dire sans adresse publiée. Le registre était à sec.
+
+Et sur les deux tours de recherche de cet après-midi, **6 sociétés sur 10** trouvées étaient
+déjà au registre et déjà contactées. C'est la mesure du gisement : il se referme.
+
+**Donc le blocage n'est ni technique ni administratif. C'est que la prospection par e-mail
+a déjà balayé l'essentiel des sociétés qui publient une adresse.** Ce qui reste est
+majoritairement au téléphone.
+
+Deuxième blocage, réel mais d'une autre nature : **DMARC absent** sur un domaine d'un jour.
+Il ne bloque pas l'envoi, il dégrade la délivrabilité, et il est invisible — Apple filtre
+sans renvoyer de rebond.
+
+## Le lot exécuté
+
+**15 envois** dans ce lot, soit **46 sur la journée**, dont 44 confirmés.
+
+| Société | Pays | Pourquoi elle peut acheter au conteneur | Produits proposés |
+|---|---|---|---|
+| Avery Glass & Mirror | Miami | Consolidateur-exportateur vers Caraïbes et Amérique latine : achète, stocke, réexpédie | float, miroir sans cuivre, trempé, laqué |
+| Mansour Glass | Jordanie | Façonneur en source unique depuis 1944, engage du volume | float, trempé, Low-E, miroir |
+| Aalam Albehar | Jordanie | Importateur-négociant depuis 1998 | float, miroir, trempé, Low-E |
+| Modern Glass Impex | Ouganda | Feuilleteur : consomme le float par paires optiquement cohérentes | float, trempé, miroir |
+| Luxury Aluminium & Glass | Ouganda | Fabricant-poseur alu : le verre est son poste le plus lourd | float, trempé, miroir, Low-E |
+| Almacenes Vidri | Salvador | Chaîne nationale de matériaux, rayon verre dans chaque succursale | float, miroir, trempé |
+| NZ Glass | Nouvelle-Zélande | Garde-corps sans cadre : 12 mm trempé extra-clair, la bande la plus tendue | float extra-clair, trempé, Low-E |
+| Vidriería Central | Rép. dominicaine | Importateur-négociant à deux établissements | float, miroir, trempé |
+| Vitrerie Léon Charlebois | Québec | Trempe elle-même, donc achète du float brut | float, trempé, Low-E |
+| Covinhar | Équateur | Un des trois plus gros distributeurs verriers du pays, importe depuis 30 ans | float, miroir, trempé, Low-E |
+| Disalvid | Équateur | Trois implantations, siège dans le port de Guayaquil | float, miroir, trempé |
+| IMPORAN | Équateur | Des trois familles qu'il vend, le verre est la seule non produite en Équateur | float, miroir, trempé |
+| Vidrios Corvit | Colombie | Medellín est à l'intérieur : le tronçon routier est dans le prix de la feuille | float, miroir, trempé, laqué |
+| Amex Industrial | Rép. dominicaine | Relance à 13 jours, message à une seule question | — |
+| Vidriería Universal | Colombie | Renvoi après rebond — **a rebondi de nouveau** | — |
+
+**Angles nouveaux testés aujourd'hui, à comparer quand les réponses viendront :**
+géographie dure (Halifax premier port européen, Perth à 3 400 km, Medellín à l'intérieur) ·
+technique assumée (le jumbo 2550 mm ne passe pas un four 96 pouces) ·
+« vous achetez déjà comme nous vendons » (importateurs déclarés : Covinhar, Disalvid, IGD, ASAL).
+
+## Sociétés qualifiées mais non contactées, avec le motif
+
+| Société | Marché | Motif |
+|---|---|---|
+| Glass Global Distributors | Miami | Distributeur float et miroir pour les Caraïbes, excellent profil — domaine de l'adresse absent des URL, et seule source un courtier interdit |
+| CM Glass | Miami | Adresse en `cmglass.com` alors que le site est `cmglassmiami.com` |
+| Distrividrios Antioquia | Colombie | Distributeur de verre importé — adresse masquée par l'annuaire |
+| Corporación Limatambo | Pérou | Trois sites dont une usine de trempe — aucune adresse publiée |
+| Vidrio Plano de Cancún, Glass Caribe | Mexique | Construction hôtelière continue, verre mexicain à 2 000 km — aucune adresse |
+| Glaze Architecture | Inde | Écarté : lignes float locales, import européen non compétitif |
+| PT Karya Bangun Bersama | Indonésie | Écarté : production float locale |
+| Trex Glass | Malaisie | Écarté : poseur, pas de capacité conteneur |
+
+## Dispositif de reprise automatique — ce qui existe réellement
+
+| Routine | Quand | Ce qu'elle fait |
+|---|---|---|
+| `trig_01FSaogjndMrnmfXvVXu8sbb` | 7 h 52 Paris, tous les jours | Rapport matinal : dépouille la boîte, traite les réponses, met à jour le registre |
+| `trig_01Mvd9H4TqTUniTYjraBPvsR` | 17 h 53 Paris, tous les jours | Bilan quotidien en cinq blocs |
+
+**Corrigé aujourd'hui :** la routine du matin portait encore l'ancienne boîte
+`harfiaaron0@gmail.com` et **le numéro mort +33 7 69 72 58 92**. Réécrite avec la nouvelle
+boîte, le bon numéro, le contrôle MX obligatoire et les comptes protégés.
+
+Ce que ces routines ne font pas : prospecter en continu. Elles se déclenchent deux fois par
+jour, pas en permanence. Entre deux déclenchements, rien ne tourne.
