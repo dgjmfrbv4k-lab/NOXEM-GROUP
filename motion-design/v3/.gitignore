@@ -3,3 +3,9 @@ cat/
 stills_*.png
 sheet3d.jpg
 photos_sheet.jpg
+img/usine/
+audio/mix.wav
+!clips/*.mp4
+clips/*.jpg
+__pycache__/
+doors/

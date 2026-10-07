@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>NOXEM — Menuiseries (intro)</title>
+<style>
+@font-face{font-family:'Archivo';font-weight:100 900;src:url(fonts/Archivo-700.woff2) format('woff2');}
+@font-face{font-family:'Poppins';font-weight:300;src:url(fonts/Poppins-300.woff2) format('woff2');}
+@font-face{font-family:'Poppins';font-weight:400;src:url(fonts/Poppins-400.woff2) format('woff2');}
+@font-face{font-family:'Poppins';font-weight:600;src:url(fonts/Poppins-600.woff2) format('woff2');}
+@font-face{font-family:'Plex';font-weight:500;src:url(fonts/IBMPlexMono-500.woff2) format('woff2');}
+:root{--paper:#FAF8F3;--paper2:#F0ECE1;--ink:#1E2430;--soft:#5E6573;--red:#C0242F;--orange:#D0853C;--beige:#D9CAB5}
+*{box-sizing:border-box}
+html,body{margin:0;background:#000}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;background:var(--paper);font-family:'Poppins',sans-serif;color:var(--ink)}
+.scene{position:absolute;inset:0;visibility:hidden;overflow:hidden}
+.abs{position:absolute}
+.c{left:0;width:100%;text-align:center}
+.disp{font-family:'Archivo',sans-serif;font-weight:800;letter-spacing:-.025em;line-height:.95}
+.mono{font-family:'Plex',monospace;text-transform:uppercase;letter-spacing:.12em}
+.w{display:inline-block;will-change:transform}
+.full{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.shade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(14,17,23,.82),rgba(14,17,23,.35) 55%,rgba(14,17,23,.1))}
+.card{position:absolute;overflow:hidden;border-radius:22px;box-shadow:0 40px 90px rgba(20,24,32,.28);background:#ddd}
+.card img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.tag{display:inline-block;font-family:'Plex';font-size:26px;letter-spacing:.08em;text-transform:uppercase;padding:12px 22px;border-radius:10px;background:var(--ink);color:var(--paper)}
+.band{position:absolute;top:-200px;height:1480px;width:3600px;left:0;transform:translateX(-5000px) skewX(-20deg);z-index:50}
+#flash{position:absolute;inset:0;background:#fff;opacity:0;z-index:40}
+.sheen{position:absolute;top:-20%;height:140%;width:30%;left:-40%;background:linear-gradient(90deg,rgba(255,255,255,0),rgba(255,255,255,.55),rgba(255,255,255,0));transform:skewX(-18deg)}
+.step{position:absolute;top:640px;width:330px;text-align:center}
+.step .ic{width:150px;height:150px;margin:0 auto;border-radius:50%;background:var(--ink);display:flex;align-items:center;justify-content:center}
+.step .lb{font-family:'Archivo';font-weight:700;font-size:40px;margin-top:22px}
+</style>
+</head>
+<body>
+<div id="stage">
+
+<!-- A · logo -->
+<div class="scene" id="A">
+  <svg id="logoA" class="abs" style="left:310px;top:250px;width:1300px" viewBox="0 0 1760 610"></svg>
+  <div class="abs c disp" style="top:810px;font-size:64px;font-weight:700"><span class="w" id="A1">passe à la vitesse supérieure</span></div>
+</div>
+
+<!-- B · produits + fabrique/livre/pose -->
+<div class="scene" id="B" style="background:#111">
+  <img class="full" id="Bi0" src="img/door_hero.jpg"><img class="full" id="Bi1" src="img/ss2.jpg"><img class="full" id="Bi2" src="img/ss4.jpg"><img class="full" id="Bi3" src="img/vr3.jpg">
+  <div class="shade"></div>
+  <div class="abs disp" style="left:130px;top:400px;font-size:210px;color:#fff"><span class="w" id="Bw">PORTES</span></div>
+  <div class="abs" id="Bdark" style="inset:0;background:var(--ink)"></div>
+  <div class="abs c disp" style="top:200px;font-size:170px;color:var(--paper)"><span class="w" id="B1">On fabrique.</span></div>
+  <div class="abs c disp" style="top:410px;font-size:170px;color:var(--beige)"><span class="w" id="B2">On livre.</span></div>
+  <div class="abs c disp" style="top:620px;font-size:170px;color:#F05A4F"><span class="w" id="B3">On pose.</span></div>
+</div>
+
+<!-- C · portes, toutes les couleurs -->
+<div class="scene" id="C">
+  <div class="abs" id="Cbg" style="inset:0"></div>
+  <div class="abs disp" style="left:130px;top:380px;font-size:150px;width:900px"><span class="w" id="Cq">Moderne ?</span></div>
+  <div class="abs disp" style="left:130px;top:380px;font-size:190px;color:var(--red)"><span class="w" id="Cv">Voilà !</span></div>
+  <div id="Cdoors"></div>
+  <div class="abs" id="Cdots" style="left:130px;top:640px;display:flex;gap:18px"></div>
+</div>
+
+<!-- W · fenêtres & finitions -->
+<div class="scene" id="W" style="background:var(--paper)">
+  <div class="card" style="left:0;top:0;width:1100px;height:1080px;border-radius:0">
+    <img id="Wi0" src="img/win_corner.jpg"><img id="Wi1" src="img/ss4.jpg"><img id="Wi2" src="img/ss2.jpg">
+  </div>
+  <div class="abs" style="left:1180px;top:140px;width:680px">
+    <div class="mono" id="Wk" style="font-size:28px;color:var(--red)">Fenêtres · Baies vitrées</div>
+    <div class="disp" style="font-size:110px;margin-top:22px"><span class="w" id="W1">Effet bois,</span></div>
+    <div class="disp" style="font-size:110px"><span class="w" id="W2">aluminium,</span></div>
+    <div class="disp" style="font-size:110px;color:var(--orange)"><span class="w" id="W3">toutes les teintes</span></div>
+  </div>
+  <div id="Wsw" class="abs" style="left:1180px;top:700px;width:680px;display:grid;grid-template-columns:repeat(6,1fr);gap:12px"></div>
+</div>
+
+<!-- V · volets -->
+<div class="scene" id="V" style="background:var(--ink)">
+  <div id="Vgrid" class="abs" style="left:-40px;top:-40px;width:2000px;display:grid;grid-template-columns:repeat(10,1fr);gap:8px;transform:rotate(-6deg)"></div>
+  <div class="abs" style="left:0;top:330px;width:100%;height:420px;background:rgba(30,36,48,.86)"></div>
+  <div class="abs c" style="top:380px"><div class="mono" id="Vk" style="font-size:32px;color:var(--beige)">Volets roulants</div>
+    <div class="disp" style="font-size:150px;color:var(--paper);margin-top:20px"><span class="w" id="V1">Des dizaines de coloris</span></div></div>
+</div>
+
+<!-- D · mur de modèles -->
+<div class="scene" id="D" style="background:var(--paper)">
+  <img id="Dwall" src="img/doors/wall.jpg" class="abs" style="left:0;top:0;transform-origin:0 0">
+  <div class="abs" style="inset:0;background:radial-gradient(ellipse at center,rgba(250,248,243,.0) 30%,rgba(250,248,243,.55) 80%)"></div>
+  <div class="abs c" style="top:330px"><span class="w disp" id="D1" style="font-size:150px;background:var(--ink);color:var(--paper);padding:14px 50px 30px;border-radius:20px">Des dizaines de modèles</span></div>
+  <div class="abs c" style="top:600px"><span class="w disp" id="D2" style="font-size:130px;background:var(--red);color:#fff;padding:14px 50px 26px;border-radius:20px;transform:rotate(-2deg)">100 % sur mesure</span></div>
+</div>
+
+<!-- E · usine -->
+<div class="scene" id="E" style="background:#111">
+  <img class="full" id="Ef" src="img/usine/001.jpg">
+  <div class="abs" id="Eph" style="inset:0;display:none"><img class="full" src="img/user_usine.jpg" style="filter:blur(30px) brightness(.6);transform:scale(1.2)"><div class="card" id="Ecard" style="left:620px;top:60px;width:680px;height:960px"><img src="img/user_usine.jpg"></div></div>
+  <div class="abs" style="left:0;right:0;bottom:0;height:420px;background:linear-gradient(0deg,rgba(10,12,16,.8),rgba(10,12,16,0))"></div>
+  <div class="abs" style="left:130px;bottom:120px">
+    <div class="mono" id="Ek" style="font-size:30px;color:var(--beige)">Fabrication</div>
+    <div class="disp" style="font-size:140px;color:#fff;margin-top:14px"><span class="w" id="E1">Usines européennes</span></div>
+  </div>
+</div>
+
+<!-- F · la pose -->
+<div class="scene" id="F" style="background:var(--paper2)">
+  <div class="card" id="Fcard" style="left:110px;top:70px;width:780px;height:940px"><img id="Fimg" src="img/user_pose.jpg"></div>
+  <div class="abs" style="left:990px;top:110px">
+    <div class="disp" style="font-size:120px"><span class="w" id="F1">Et la pose ?</span></div>
+    <div class="disp" style="font-size:84px;color:var(--red);margin-top:18px"><span class="w" id="F2">Nos propres artisans</span></div>
+  </div>
+  <svg id="Fmap" class="abs" style="left:1100px;top:400px;width:620px;height:620px" viewBox="0 0 640 640"></svg>
+  <div class="abs mono" id="F3" style="left:996px;top:330px;font-size:34px;color:var(--ink)">Partout en France</div>
+</div>
+
+<!-- G · avant / après -->
+<div class="scene" id="G" style="background:#111">
+  <div class="abs" id="Gwrap" style="inset:0">
+    <div class="abs" id="Gafter" style="inset:0;background:url(img/user_avantapres.jpg);background-size:200% 100%;background-position:100% 50%"></div>
+    <div class="abs" id="Gbefore" style="inset:0;background:url(img/user_avantapres.jpg);background-size:200% 100%;background-position:0% 50%"></div>
+    <div class="abs" id="Gline" style="top:0;bottom:0;width:8px;background:#fff;box-shadow:0 0 30px rgba(0,0,0,.4)"></div>
+  </div>
+  <div class="abs" style="left:0;right:0;bottom:0;height:330px;background:linear-gradient(0deg,rgba(10,12,16,.85),rgba(10,12,16,0))"></div>
+  <div class="abs" style="left:0;width:100%;bottom:90px;display:flex;justify-content:center;gap:30px">
+    <span class="tag disp" id="G1" style="font-size:52px;background:#fff;color:var(--ink);text-transform:none;letter-spacing:0">+ de lumière</span>
+    <span class="tag disp" id="G2" style="font-size:52px;background:#fff;color:var(--ink);text-transform:none;letter-spacing:0">+ de confort</span>
+    <span class="tag disp" id="G3" style="font-size:52px;background:var(--red);color:#fff;text-transform:none;letter-spacing:0">− d'énergie</span>
+  </div>
+</div>
+
+<!-- H · particuliers & pros -->
+<div class="scene" id="H">
+  <div class="abs" style="left:0;top:0;width:960px;height:560px;background:var(--ink)" id="Hl"></div>
+  <div class="abs" style="left:960px;top:0;width:960px;height:560px;background:var(--red)" id="Hr"></div>
+  <div class="abs disp" style="left:0;width:960px;top:200px;text-align:center;font-size:110px;color:var(--paper)"><span class="w" id="H1">Particuliers</span></div>
+  <div class="abs disp" style="left:960px;width:960px;top:200px;text-align:center;font-size:110px;color:#fff"><span class="w" id="H2">Professionnels</span></div>
+  <div class="abs c" style="top:500px"><span class="w tag" id="H3" style="font-size:34px;background:var(--paper);color:var(--ink);border:4px solid var(--ink);padding:16px 36px">Un seul interlocuteur</span></div>
+  <div id="Hsteps"></div>
+  <div class="abs" id="Hline" style="left:300px;top:715px;width:1320px;height:6px;background:var(--ink);transform-origin:left;z-index:0"></div>
+</div>
+
+<!-- I · fin -->
+<div class="scene" id="I">
+  <svg id="logoI" class="abs" style="left:510px;top:90px;width:900px" viewBox="0 0 1760 610"></svg>
+  <div class="abs c disp" style="top:470px;font-size:120px"><span class="w" id="I1">Très bientôt chez vous</span></div>
+  <div class="abs c" style="top:660px"><div id="Iph" style="display:inline-flex;align-items:center;gap:26px;background:var(--ink);color:#fff;font-family:'Archivo';font-weight:700;font-size:72px;padding:26px 60px 28px 46px;border-radius:999px;position:relative;overflow:hidden">
+    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="#F05A4F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>
+    02 59 50 84 59<div class="sheen" id="Isheen"></div></div></div>
+  <div class="abs c mono" id="I2" style="top:870px;font-size:30px;color:var(--soft)">Portes · Fenêtres · Baies vitrées · Volets — Pose partout en France</div>
+</div>
+
+<div id="flash"></div>
+<div class="band" id="b0" style="background:var(--beige)"></div>
+<div class="band" id="b1" style="background:var(--orange)"></div>
+<div class="band" id="b2" style="background:var(--red)"></div>
+</div>
+
+<script>
+const clamp=(x,a=0,b=1)=>Math.min(b,Math.max(a,x)), P=(t,s,d)=>clamp((t-s)/d);
+const eo=x=>1-Math.pow(1-x,3), eo5=x=>1-Math.pow(1-x,5), eio=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2;
+const eback=x=>{const c1=1.6,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2)}, lerp=(a,b,x)=>a+(b-a)*x;
+const $=id=>document.getElementById(id), set=(el,o)=>{for(const k in o)el.style[k]=o[k];};
+const NS='http://www.w3.org/2000/svg';
+function svg(tag,attrs,parent){const e=document.createElementNS(NS,tag);for(const k in attrs)e.setAttribute(k,attrs[k]);parent&&parent.appendChild(e);return e;}
+function rise(el,t,s,d=.5,dist=40){const x=eo(P(t,s,d));set(el,{opacity:x,transform:`translateY(${(1-x)*dist}px)`});}
+function slam(el,t,s,from=1.7,d=.3){const x=eo5(P(t,s,d));set(el,{opacity:P(t,s,.06),transform:`scale(${lerp(from,1,x)})`,filter:`blur(${(1-x)*10}px)`});}
+function pop(el,t,s,d=.4,base=''){const x=eback(P(t,s,d));set(el,{opacity:P(t,s,.06),transform:`${base} scale(${Math.max(0,x)})`});}
+function shake(t,hits,amp=14){let dx=0,dy=0;for(const h of hits){const k=t-h;if(k>=0&&k<.35){const a=amp*Math.exp(-k*14);dx+=a*Math.sin(k*90);dy+=a*Math.cos(k*70);}}return [dx,dy];}
+function show(el,on){el.style.visibility=on?'visible':'hidden';}
+
+/* ---------- logo ---------- */
+const LOGO={red:'#C1222E',orange:'#CF853B',beige:'#D8C9B5',slate:'#3F4B58'};
+function buildLogo(root,id){
+  const pieces=[['30,180 242,55 242,265 30,390',LOGO.red,[-260,-120,-25]],['270,52 482,178 482,388 270,262',LOGO.orange,[240,-160,30]],['35,420 242,292 242,558',LOGO.beige,[-240,180,30]],['270,290 478,418 270,558',LOGO.orange,[220,200,-30]]];
+  const g=svg('g',{},root);
+  root._pieces=pieces.map(([pts,fill,from])=>{const p=svg('polygon',{points:pts,fill},g);p.style.transformBox='fill-box';p.style.transformOrigin='center';p._from=from;return p;});
+  root._div=svg('rect',{x:594,y:22,width:7,height:565,rx:3.5,fill:LOGO.slate},root);root._div.style.transformBox='fill-box';root._div.style.transformOrigin='center top';
+  const cp=svg('clipPath',{id:id+'clip'},root);root._clip=svg('rect',{x:700,y:150,width:0,height:200},cp);
+  const tx=svg('text',{x:712,y:300,'font-family':'Poppins','font-weight':300,'font-size':146,fill:LOGO.slate,'clip-path':`url(#${id}clip)`,textLength:1025,lengthAdjust:'spacingAndGlyphs'},root);tx.textContent='NOXEM GROUP';
+  root._b1=svg('polygon',{points:'714,347 1306,347 1283,386 714,386',fill:LOGO.beige},root);root._b2=svg('polygon',{points:'1327,347 1738,347 1738,386 1300,386',fill:LOGO.red},root);
+  [root._b1,root._b2].forEach(b=>{b.style.transformBox='fill-box';b.style.transformOrigin='left center';});
+  root._fr=svg('text',{x:1465,y:480,'font-family':'Poppins','font-weight':600,'font-size':54,fill:LOGO.slate,'letter-spacing':2},root);root._fr.textContent='FRANCE';
+}
+function animLogo(root,t,s,k=1){t=(t-s)*k;
+  root._pieces.forEach((p,i)=>{const x=eback(P(t,i*.08,.55)),o=P(t,i*.08,.15);const [dx,dy,r]=p._from;
+    p.style.opacity=o;p.style.transform=`translate(${(1-x)*dx}px,${(1-x)*dy}px) rotate(${(1-x)*r}deg) scale(${lerp(.4,1,x)})`;});
+  root._div.style.transform=`scaleY(${eio(P(t,.5,.35))})`;root._clip.setAttribute('width',1100*eio(P(t,.6,.6)));
+  root._b1.style.transform=`scaleX(${eo(P(t,1.0,.4))})`;root._b2.style.transform=`scaleX(${eo(P(t,1.2,.35))})`;
+  const f=eo(P(t,1.4,.4));root._fr.style.opacity=f;root._fr.style.transform=`translateY(${(1-f)*20}px)`;}
+buildLogo($('logoA'),'la');buildLogo($('logoI'),'li');
+
+/* ---------- C : portes ---------- */
+const DSEQ=[ // [début, image, question, fond, pastille]
+  [0.2,'moderne','Moderne ?','#FAF8F3','#3a3d42'],[1.2,'classique','Classique ?','#F3ECE2','#b97a35'],
+  [2.2,'bleu','En bleu ?','#E1E8F2','#1f4585'],[3.1,'rouge','En rouge ?','#F5E2E0','#8d1517'],[4.0,'anthracite','En anthracite ?','#E4E5E7','#383a3e'],
+];
+const FLASH=['vert','creme','chene','blanc','noir','grisclair','bleu','rouge'];
+const DIMG={};
+[...new Set([...DSEQ.map(d=>d[1]),...FLASH])].forEach(k=>{const im=document.createElement('img');im.src=`img/doors/c_${k}.png`;
+  set(im,{position:'absolute',height:'880px',left:'1150px',top:'100px',filter:'drop-shadow(0 40px 50px rgba(20,24,32,.35))',transformOrigin:'50% 100%'});$('Cdoors').appendChild(im);DIMG[k]=im;});
+DSEQ.forEach((d,i)=>{const s=document.createElement('div');s.id='Cd'+i;set(s,{width:'56px',height:'56px',borderRadius:'50%',background:d[4],border:'5px solid #fff',boxShadow:'0 6px 14px rgba(0,0,0,.18)'});$('Cdots').appendChild(s);});
+
+/* ---------- W / V : nuanciers ---------- */
+for(let i=0;i<11;i++){const d=document.createElement('div');d.id='Ws'+i;set(d,{height:'92px',borderRadius:'10px',background:`url(img/sw/f${String(i).padStart(2,'0')}.jpg) center/cover`,boxShadow:'0 8px 18px rgba(0,0,0,.15)'});$('Wsw').appendChild(d);}
+const VN=57;for(let i=0;i<120;i++){const d=document.createElement('div');d.id='Vs'+i;set(d,{height:'120px',borderRadius:'8px',background:`url(img/sw/v${String(i%VN).padStart(2,'0')}.jpg) center/cover`});$('Vgrid').appendChild(d);}
+
+/* ---------- F : carte de France ---------- */
+const FR=[[2.5,51.1],[1.6,50.9],[1.6,50.2],[0.2,49.7],[-1.0,49.4],[-1.9,49.7],[-1.6,48.65],[-3.0,48.8],[-4.8,48.4],[-4.3,47.8],[-2.5,47.3],[-2.1,46.9],[-1.2,46.0],[-1.4,44.5],[-1.8,43.3],[0.0,42.7],[1.7,42.5],[3.1,42.45],[3.1,43.1],[4.0,43.5],[5.0,43.3],[6.6,43.2],[7.5,43.8],[6.6,44.5],[7.1,45.2],[6.8,45.9],[6.0,46.15],[6.1,46.6],[6.9,47.4],[7.6,47.6],[8.2,48.97],[7.6,49.0],[6.4,49.5],[5.8,49.5],[4.9,49.8],[4.2,50.0],[3.2,50.8]];
+const fp=([lon,lat])=>[(lon+5.3)/13.9*600+20,(51.4-lat)/9.2*600+20];
+(function(){const s=$('Fmap');s._shape=svg('path',{d:'M'+FR.map(p=>fp(p).join(',')).join('L')+'Z',fill:'#1E2430',stroke:'#1E2430','stroke-width':6,'stroke-linejoin':'round'},s);
+  const C=[[2.35,48.85],[3.06,50.63],[4.83,45.76],[5.37,43.3],[-0.58,44.84],[1.44,43.6],[-1.55,47.22],[7.75,48.58],[7.26,43.7],[-1.68,48.11],[3.88,43.61],[1.1,49.44],[5.04,47.32],[3.08,45.78],[0.69,47.39],[6.18,48.69],[-0.37,49.18],[5.72,45.19],[2.3,49.9],[-4.49,48.39]];
+  s._pins=C.map((c,i)=>{const [x,y]=fp(c);const g=svg('g',{},s);const r=svg('circle',{cx:x,cy:y,r:11,fill:'none',stroke:'#F05A4F','stroke-width':3},g);const d=svg('circle',{cx:x,cy:y,r:9,fill:'#F05A4F',stroke:'#fff','stroke-width':3},g);return {g,r,d,x,y};});})();
+
+/* ---------- H : étapes ---------- */
+const ICON={mesure:'<path d="M3 17l14-14 4 4-14 14H3z"/><path d="M7 13l2 2M10 10l2 2M13 7l2 2"/>',fab:'<path d="M3 21V9l6 4V9l6 4V5h6v16z"/><path d="M7 17h2M12 17h2M17 17h2"/>',livr:'<path d="M1 7h13v10H1zM14 10h4l3 3v4h-7z"/><circle cx="5" cy="18" r="2"/><circle cx="17" cy="18" r="2"/>',pose:'<path d="M20 6L9 17l-5-5"/>'};
+[['mesure','Mesure'],['fab','Fabrication'],['livr','Livraison'],['pose','Pose']].forEach(([k,l],i)=>{const d=document.createElement('div');d.className='step';d.id='Hs'+i;d.style.left=(135+i*440)+'px';
+  d.innerHTML=`<div class="ic"><svg width="78" height="78" viewBox="0 0 24 24" fill="none" stroke="#FAF8F3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${ICON[k]}</svg></div><div class="lb">${l}</div>`;$('Hsteps').appendChild(d);});
+
+/* ---------- timeline (à recaler sur la voix off) ---------- */
+const SC=[['A',0,3.4],['B',3.4,9.2],['C',9.2,15.4],['W',15.4,20.6],['V',20.6,23.8],['D',23.8,27.8],['E',27.8,32.6],['F',32.6,37.4],['G',37.4,44.0],['H',44.0,50.2],['I',50.2,60]];
+const WIPES=[9.2,27.8,50.2]; const DUR=60; const S0=Object.fromEntries(SC.map(s=>[s[0],s[1]]));
+
+const SFX=[];const sfx=(k,sc,t)=>SFX.push([k,+(S0[sc]+t).toFixed(3)]);
+SC.slice(1).forEach(([id,a])=>{if(!WIPES.includes(a))SFX.push(['swish',a-.12]);});WIPES.forEach(c=>SFX.push(['whoosh',c-.45]));
+[0,1,2,3].forEach(i=>sfx('tap','A',.2+i*.08+.3));sfx('shine','A',1.4);sfx('boom','A',2.0);
+[.2,1.0,1.8,2.6].forEach(t=>sfx('swish','B',t-.05));[3.5,4.1,4.7].forEach(t=>sfx('boom','B',t));
+DSEQ.forEach(d=>sfx('pop','C',d[0]));sfx('boom','C',5.0);FLASH.forEach((k,i)=>sfx('click','C',5.25+i*.12));
+[.3,.7,1.1].forEach(t=>sfx('boom','W',t));for(let i=0;i<11;i++)sfx('click','W',1.6+i*.07);sfx('swish','W',2.9);sfx('swish','W',3.9);
+for(let i=0;i<10;i++)sfx('tap','V',.05+i*.1);sfx('boom','V',.6);
+sfx('riser','D',0);sfx('boom','D',.4);sfx('stamp','D',1.6);
+sfx('draw','E',.5);sfx('boom','E',.6);sfx('swish','E',2.9);
+sfx('boom','F',.3);sfx('pop','F',1.2);for(let i=0;i<20;i+=2)sfx('pop','F',2.0+i*.08);
+sfx('swish','G',.9);[3.0,3.6,4.3].forEach(t=>sfx('pop','G',t));
+sfx('boom','H',.15);sfx('boom','H',.45);sfx('pop','H',1.6);[2.5,3.1,3.7,4.3].forEach(t=>sfx('pop','H',t));sfx('draw','H',2.4);
+[0,1,2,3].forEach(i=>sfx('tap','I',.1+i*.08+.3));sfx('boom','I',1.2);sfx('pop','I',2.4);sfx('shine','I',3.2);
+window.SFX=SFX;
+
+let pending=[];
+function frameImg(el,src){if(el.getAttribute('src')!==src){el.src=src;pending.push(el.decode().catch(()=>{}));}}
+
+const R={
+A(t){$('logoA').style.transform=`scale(${lerp(.92,1.02,eio(P(t,0,3.4)))})`;animLogo($('logoA'),t,.2,1.1);slam($('A1'),t,1.9,1.6);return shake(t,[2.0],10);},
+B(t){const cuts=[0,.8,1.6,2.4],words=['PORTES','FENÊTRES','BAIES VITRÉES','VOLETS'];let k=0;cuts.forEach((c,i)=>{if(t>=c)k=i;});
+  for(let i=0;i<4;i++){const im=$('Bi'+i);im.style.visibility=i===k?'inherit':'hidden';im.style.transform=`scale(${1.15-.08*P(t,cuts[i],.8)})`;}
+  const w=$('Bw');if(w.textContent!==words[k])w.textContent=words[k];slam(w,t,cuts[k]+.02,1.5,.25);
+  const dk=t>=3.3;$('Bdark').style.visibility=dk?'inherit':'hidden';['B1','B2','B3'].forEach((id,i)=>{$(id).style.visibility=dk?'inherit':'hidden';slam($(id),t,3.5+i*.6,1.8);});
+  return shake(t,[3.55,4.15,4.75]);},
+C(t){let k=0;DSEQ.forEach((d,i)=>{if(t>=d[0])k=i;});const flashOn=t>=5.2;const fi=Math.min(FLASH.length-1,Math.floor((t-5.2)/.12));
+  const cur=flashOn?FLASH[fi]:DSEQ[k][1];
+  Object.entries(DIMG).forEach(([n,im])=>{const on=n===cur;im.style.visibility=on?'inherit':'hidden';
+    if(on){const s=flashOn?5.2+fi*.12:DSEQ[k][0];const x=eo5(P(t,s,.35));im.style.transform=`translateX(${(1-x)*500}px) rotate(${(1-x)*8}deg) scale(${lerp(.85,1,x)})`;}});
+  $('Cbg').style.background=flashOn?'#FAF8F3':DSEQ[k][3];
+  const q=$('Cq');if(q.textContent!==DSEQ[k][2])q.textContent=DSEQ[k][2];q.style.visibility=t<5.0?'inherit':'hidden';slam(q,t,DSEQ[k][0],1.5,.25);
+  $('Cv').style.visibility=t>=5.0?'inherit':'hidden';slam($('Cv'),t,5.0,2.2);
+  DSEQ.forEach((d,i)=>{pop($('Cd'+i),t,d[0],.35);$('Cd'+i).style.outline=i===k&&!flashOn?'5px solid var(--ink)':'none';});
+  return shake(t,[5.05],18);},
+W(t){const cuts=[0,2.9,3.9];let k=0;cuts.forEach((c,i)=>{if(t>=c)k=i;});
+  for(let i=0;i<3;i++){const im=$('Wi'+i);im.style.visibility=i===k?'inherit':'hidden';im.style.transform=`scale(${1.12-.08*P(t,cuts[i],2.5)})`;}
+  rise($('Wk'),t,.1,.4,20);slam($('W1'),t,.3,1.5);slam($('W2'),t,.7,1.5);slam($('W3'),t,1.1,1.5);
+  for(let i=0;i<11;i++)pop($('Ws'+i),t,1.6+i*.07,.35);return shake(t,[.35,.75,1.15],8);},
+V(t){for(let i=0;i<120;i++){const r=Math.floor(i/10),c=i%10;pop($('Vs'+i),t,.05+(r+c)*.06,.35);}
+  $('Vgrid').style.transform=`rotate(-6deg) translateY(${-t*40}px)`;rise($('Vk'),t,.4,.4,20);slam($('V1'),t,.6,1.6);return shake(t,[.65],10);},
+D(t){const z=lerp(1.25,.62,eio(P(t,0,4)));$('Dwall').style.transform=`translate(${lerp(-200,-60,P(t,0,4))}px,${lerp(-300,-80,P(t,0,4))}px) scale(${z})`;
+  slam($('D1'),t,.4,1.6);slam($('D2'),t,1.6,2.0);$('D2').style.transform+=' rotate(-2deg)';return shake(t,[.45,1.65],14);},
+E(t){const fr=Math.min(150,1+Math.floor(t*30));frameImg($('Ef'),`img/usine/${String(fr).padStart(3,'0')}.jpg`);
+  const ph=t>=2.9;$('Eph').style.display=ph?'block':'none';$('Ef').style.visibility=ph?'hidden':'visible';
+  if(ph){const x=eo5(P(t,2.9,.5));$('Ecard').style.transform=`translateY(${(1-x)*200}px) scale(${lerp(1.05,1,x)})`;$('Ecard').querySelector('img').style.transform=`scale(${lerp(1.15,1.05,P(t,2.9,2))})`;}
+  rise($('Ek'),t,.3,.4,20);slam($('E1'),t,.55,1.4);return shake(t,[.6],8);},
+F(t){const x=eo5(P(t,0,.5));$('Fcard').style.transform=`translateX(${(1-x)*-300}px)`;$('Fimg').style.transform=`scale(${lerp(1.18,1.05,P(t,0,4.8))})`;
+  slam($('F1'),t,.3,1.6);slam($('F2'),t,1.2,1.5);const s=$('Fmap');rise(s,t,1.6,.5,40);
+  s._pins.forEach((p,i)=>{const k=eback(P(t,2.0+i*.08,.35));p.d.setAttribute('r',9*Math.max(0,k));const ph=((t-2.4-i*.05)*.8)%1;p.r.setAttribute('r',9+ph*22);p.r.style.opacity=t>2.4?(1-ph):0;});
+  rise($('F3'),t,2.6,.4,20);return shake(t,[.35],12);},
+G(t){const sp=lerp(1920,0,eio(P(t,.9,1.4)));$('Gbefore').style.clipPath=`inset(0 ${1920-sp}px 0 0)`;$('Gline').style.left=(sp-4)+'px';$('Gline').style.opacity=t>.85&&t<2.4?1:0;
+  $('Gwrap').style.transform=`scale(${lerp(1.0,1.06,P(t,0,6.6))})`;[3.0,3.6,4.3].forEach((s,i)=>pop($('G'+(i+1)),t,s,.4));},
+H(t){const a=eo5(P(t,0,.4));$('Hl').style.transform=`translateX(${(1-a)*-960}px)`;$('Hr').style.transform=`translateX(${(1-a)*960}px)`;
+  slam($('H1'),t,.15,1.6);slam($('H2'),t,.45,1.6);pop($('H3'),t,1.6,.4);$('Hline').style.transform=`scaleX(${eio(P(t,2.4,2.2))})`;
+  for(let i=0;i<4;i++)pop($('Hs'+i),t,2.5+i*.6,.45);return shake(t,[.2,.5],12);},
+I(t){animLogo($('logoI'),t,.1,1.1);slam($('I1'),t,1.2,1.6);pop($('Iph'),t,2.4,.5);if(t>3)$('Iph').style.transform=`scale(${1+.025*Math.sin((t-3)*5)})`;
+  $('Isheen').style.left=lerp(-40,140,eio(P(t,3.2,.8)))+'%';rise($('I2'),t,2.9,.5,20);return shake(t,[1.25],10);},
+};
+
+function render(t){
+  pending=[];
+  for(const [id,a,b] of SC){const on=t>=a&&t<b,el=$(id);show(el,on);
+    if(on){const lt=t-a;const sh=R[id](lt)||[0,0];const punch=WIPES.includes(a)||a===0?0:1;const k=eo5(P(lt,0,.3));
+      el.style.transform=`translate(${sh[0]}px,${sh[1]}px) scale(${lerp(1+.07*punch,1,k)*(1+.008*lt)})`;el.style.filter=punch&&k<1?`blur(${(1-k)*6}px)`:'none';}}
+  let f=0;for(const [id,a] of SC){if(a>0&&!WIPES.includes(a)){const k=t-a;if(k>=0&&k<.12)f=Math.max(f,.35*(1-k/.12));}}$('flash').style.opacity=f;
+  ['b0','b1','b2'].forEach((id,j)=>{let x=-5000;for(const c of WIPES){const s=c-.575+j*.05,k=P(t,s,.95);if(k>0&&k<1)x=lerp(-4200,2600,eio(k));}$(id).style.transform=`translateX(${x}px) skewX(-20deg)`;});
+  $('stage').style.filter=`brightness(${1-P(t,DUR-.5,.5)})`;
+  return Promise.all(pending);
+}
+window.DUR=DUR;
+const BG=[...Array(11).keys()].map(i=>`img/sw/f${String(i).padStart(2,'0')}.jpg`).concat([...Array(VN).keys()].map(i=>`img/sw/v${String(i).padStart(2,'0')}.jpg`),['img/user_avantapres.jpg']);
+Promise.all([document.fonts.ready,...[...document.images].map(i=>i.decode().catch(()=>{})),...BG.map(u=>{const i=new Image();i.src=u;return i.decode().catch(()=>{});})]).then(()=>{render(0);window.READY=true;});
+</script>
+</body>
+</html>
