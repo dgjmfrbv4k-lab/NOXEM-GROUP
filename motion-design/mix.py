@@ -11,17 +11,22 @@ import numpy as np
 
 SR = 44100
 DUR = 60.0
-VOICE = 'audio/voix.mp3'
+VOICE = 'audio/voix-hugo.mp3'
 
 # (début dans le fichier voix, fin dans le fichier voix, position dans la vidéo)
+# découpe aux pauses du fichier (ffmpeg silencedetect)
 VOICE_CUTS = [
-    (0.00, 2.25, 1.0),     # NOXEM GROUP déménage son entrepôt.
-    (2.49, 10.58, 6.8),    # Et liquide tout son stock ... prêtes à charger.
-    (10.83, 15.31, 15.0),  # Au total : plus de huit mille deux cents m² ...
-    (15.53, 25.37, 23.9),  # Float Low-E ... Prix sur devis.
-    (25.61, 32.16, 34.7),  # Tout est manipulé chez nous ...
-    (32.34, 39.28, 45.5),  # Livraison en camion inloader ...
-    (39.52, 43.73, 53.7),  # Une question, une offre ? ... NOXEM GROUP.
+    (0.00, 2.22, 1.0),     # NOXEM GROUP déménage son entrepôt !
+    (2.29, 9.56, 6.85),    # Et liquide tout son stock ... prêtes à charger.
+    (9.70, 14.15, 15.05),  # Au total : plus de huit mille deux cents m² ...
+    (14.30, 19.64, 23.95), # Float Low-E ... feuilleté cinquante-cinq deux.
+    (19.80, 22.13, 30.11), # À la caisse, à la référence, ou en lot complet.
+    (22.18, 22.99, 32.92), # Prix sur devis.
+    (23.19, 29.08, 35.15), # Tout est manipulé chez nous ...
+    (29.22, 36.10, 45.55), # Livraison ... transport offert pour tout le stock !
+    (36.29, 37.60, 53.75), # Une question, une offre ?
+    (37.68, 38.96, 55.30), # Écrivez-nous sur WhatsApp.
+    (39.09, 40.20, 56.85), # NOXEM GROUP.
 ]
 
 # instants des bruitages : exportés depuis index.html (node record.js sfx sfx.json)

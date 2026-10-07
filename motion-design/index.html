@@ -296,8 +296,8 @@ for(let i=0;i<3;i++){const d=document.createElement('div');d.id='Hs'+i;
   d.innerHTML=`<div class="disp" style="font-size:110px;color:var(--paper);line-height:150px;white-space:nowrap">${'TOUT DOIT PARTIR · '.repeat(8)}</div>`;$('Hstripes').appendChild(d);}
 
 /* ---------- I : cartes références ---------- */
-const REFS=[['Verre float Low-E','4 mm',9,'2 357','#DCEDE9',0.40],['Miroir argenté','4 mm',10,'2 374','#C9CBCE',1.20],['Verre float','6 mm',10,'1 555','#CFE6E2',2.19],
-  ['Verre float','8 mm',5,'573','#BFDDD8',2.75],['Verre float','10 mm',5,'450','#AFD3CD',3.35],['Verre feuilleté 55.2','10,8 mm',11,'921','#D5E7EC',4.16]];
+const REFS=[['Verre float Low-E','4 mm',9,'2 357','#DCEDE9',0.39],['Miroir argenté','4 mm',10,'2 374','#C9CBCE',1.11],['Verre float','6 mm',10,'1 555','#CFE6E2',1.99],
+  ['Verre float','8 mm',5,'573','#BFDDD8',2.49],['Verre float','10 mm',5,'450','#AFD3CD',3.02],['Verre feuilleté 55.2','10,8 mm',11,'921','#D5E7EC',3.74]];
 REFS.forEach((r,i)=>{const c=document.createElement('div');c.className='card';c.id='Ic'+i;
   set(c,{left:'460px',top:'210px',width:'1000px',height:'640px',padding:'60px 70px'});
   c.innerHTML=`<div style="display:flex;gap:60px;align-items:center">
@@ -361,7 +361,7 @@ sfx('pop','F',1.0);sfx('ding','F',1.05);
 sfx('boom','G',.1);sfx('riser','G',.3);sfx('ding','G',2.35);
 for(let i=0;i<50;i+=5)sfx('pop','H',.1+i*.025);sfx('boom','H',.05);[0,1,2].forEach(i=>sfx('whoosh','H',2.0+i*.18));
 REFS.forEach((r,i)=>sfx('swish','I',r[5]-.1));
-[[.1,0],[.75,1],[1.6,2]].forEach(([t])=>sfx('click','J',t+.02));
+[[.1,0],[.65,1],[1.38,2]].forEach(([t])=>sfx('click','J',t+.02));
 sfx('boom','K',.12);sfx('stamp','K',.12);
 sfx('drop','L',.3);sfx('pop','L',.62);
 [.1,.85,1.6,2.4].forEach(t=>sfx('pop','M',t+.15));
@@ -406,7 +406,7 @@ I(t){rise($('Ik'),t,.1,.4,20);
     $('Id'+i).style.transform=`scale(${t>=s-.1&&t<e-.1?1.4:1})`;});},
 J(t){rise($('Jt'),t,0,.35,30);const btn=[0,1,2].map(i=>$('J'+i));
   btn.forEach((b,i)=>{pop(b,t,.0+i*.06,.4);});
-  const pts=[[0,1100,950],[.1,520,560],[.75,960,560],[1.6,1420,560]];const tt=[.1,.75,1.6];
+  const pts=[[0,1100,950],[.1,520,560],[.65,960,560],[1.38,1420,560]];const tt=[.1,.65,1.38];
   // trajectoire du curseur entre les boutons
   let x=pts[0][1],y=pts[0][2];for(let i=1;i<pts.length;i++){const k=eio(P(t,pts[i-1][0],pts[i][0]-pts[i-1][0]-.02));x=lerp(x,pts[i][1],k);y=lerp(y,pts[i][2],k);}
   const r=btn.map(b=>b.getBoundingClientRect());
