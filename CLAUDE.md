@@ -215,9 +215,14 @@ Claude-Session: https://claude.ai/code/session_0134xCHaCcZaB58qTdao9hfu
 ```
 Aucun identifiant de modèle ailleurs que dans ces lignes.
 
-## 15. Bilan quotidien — 18 h, heure de Paris
+## 15. Journee de travail et bilan quotidien — fin a 19 h, heure de Paris
 
-15 minutes de revue, puis résumé **très court** à Aaron :
+**Consigne d'Aaron du 07/10/2026 : la journee de prospection va jusqu'a 19 h, heure de
+Paris.** Jusque-la, on enchaine les lots sans attendre de relance : recherche, qualification,
+envois autorises, relances echues, traitement des reponses. On ne termine pas sur un bilan
+intermediaire tant qu'il reste des actions possibles.
+
+A 19 h : 15 minutes de revue, puis résumé **très court** à Aaron :
 
 - **Activité** : entreprises contactées, envois confirmés, relances faites.
 - **Réponses** : qui, ce qu'il demande, l'action à faire.
