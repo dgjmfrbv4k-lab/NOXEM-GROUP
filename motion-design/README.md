@@ -1,5 +1,7 @@
 # Vidéo motion design — Déstockage verre plat
 
+`index.html` = version 2 (18 plans courts, rythme rapide). `index-v1.html` = première version (7 scènes).
+
 Animation codée en HTML/JS (`index.html`), rendue image par image avec Chromium
 (Playwright) puis assemblée en MP4 avec ffmpeg. 1920×1080, 30 i/s, 60 s.
 
@@ -36,5 +38,6 @@ le texte), la placer dans `audio/voix.mp3`, puis :
     python3 mix.py noxem.mp4 noxem-voix.mp4              # voix + bruitages
     python3 mix.py noxem.mp4 noxem-voix.mp4 musique.mp3  # + musique baissée sous la voix
 
-Les points de découpe de la voix (`VOICE_CUTS`) et les instants des bruitages
-(`SFX`) sont en haut de `mix.py`. Les bruitages sont synthétisés par le script.
+Les points de découpe de la voix (`VOICE_CUTS`) sont en haut de `mix.py`. Les
+instants des bruitages sont définis dans `index.html` (`SFX`) et exportés avec
+`node record.js sfx sfx.json`. Les bruitages sont synthétisés par `mix.py`.

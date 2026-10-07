@@ -1,6 +1,7 @@
 *.mp4
-vo/
-part*.mp4
-list.txt
-stills/
 audio/mix.wav
+list.txt
+part*.mp4
+render.log
+stills/
+vo/

@@ -24,20 +24,9 @@ VOICE_CUTS = [
     (39.52, 43.73, 53.7),  # Une question, une offre ? ... NOXEM GROUP.
 ]
 
-# instants des animations (voir SC / R dans index.html)
-CUTS = [6.5, 14, 23.5, 34, 45, 53]
-SFX = (
-    [('whoosh', c - 0.45) for c in CUTS]
-    + [('tap', 0.3 + i * 0.14 + 0.45) for i in range(4)]          # pièces du logo
-    + [('click', 2.2), ('click', 2.55)]                             # barres du logo
-    + [('pop', 6.5 + 2.6 + i * 0.22 + 0.1) for i in range(3)]       # étiquettes
-    + [('ding', 14 + 0.7 + i * 0.55 + 1.6) for i in range(4)]       # compteurs
-    + [('click', 23.5 + 1.2 + i * 0.32 + 0.1) for i in range(6)]    # lignes du stock
-    + [('pop', 34 + 1.3 + i * 1.6 + 0.15) for i in range(4)]        # étapes
-    + [('click', 45 + 1.8 + i * 0.55 + 0.3) for i in range(4)]      # coches
-    + [('tap', 53 + 0.1 + i * 0.14 + 0.45) for i in range(4)]       # logo final
-    + [('pop', 53 + 1.9 + 0.25)]                                    # bouton WhatsApp
-)
+# instants des bruitages : exportés depuis index.html (node record.js sfx sfx.json)
+import json, os
+SFX = json.load(open('sfx.json')) if os.path.exists('sfx.json') else []
 
 
 def decode(path):
@@ -90,6 +79,63 @@ def ding(d=0.7):
     return (np.sin(2 * np.pi * 1320 * t) + 0.35 * np.sin(2 * np.pi * 1980 * t)) * env(n, 0.003, 0.18) * 0.18
 
 
+def swish(d=0.35):
+    return whoosh(d) * 0.6
+
+
+def boom(d=0.6):
+    n = int(d * SR); t = np.arange(n) / SR
+    f = 45 + 70 * np.exp(-t / 0.05)
+    body = np.sin(2 * np.pi * np.cumsum(f) / SR) * env(n, 0.002, 0.18)
+    hit = rng.standard_normal(n) * env(n, 0.0005, 0.02) * 0.4
+    return (body + hit) * 0.75
+
+
+def shine(d=0.9):
+    n = int(d * SR); t = np.arange(n) / SR
+    out = sum(np.sin(2 * np.pi * f * t + p) for f, p in [(2093, 0), (2637, 1), (3136, 2), (4186, 3)])
+    trem = 0.6 + 0.4 * np.sin(2 * np.pi * 14 * t)
+    return out / 4 * trem * env(n, 0.05, 0.3) * 0.16
+
+
+def draw(d=0.8):
+    n = int(d * SR); t = np.arange(n) / SR
+    return rng.standard_normal(n) * (0.5 + 0.5 * np.sin(2 * np.pi * 9 * t)) * env(n, 0.05, 0.5) * 0.06
+
+
+def riser(d=2.0):
+    n = int(d * SR); t = np.arange(n) / SR
+    f = 200 + 900 * (t / d) ** 2
+    tone = np.sin(2 * np.pi * np.cumsum(f) / SR) * 0.4 + rng.standard_normal(n) * 0.3
+    return tone * (t / d) ** 2 * 0.25
+
+
+def stamp(d=0.3):
+    n = int(d * SR)
+    return rng.standard_normal(n) * env(n, 0.001, 0.04) * 0.5
+
+
+def drop(d=0.35):
+    n = int(d * SR); t = np.arange(n) / SR
+    f = 1400 * np.exp(-t / 0.08) + 200
+    return np.sin(2 * np.pi * np.cumsum(f) / SR) * env(n, 0.002, 0.08) * 0.35
+
+
+def truck(d=3.0):
+    n = int(d * SR); t = np.arange(n) / SR
+    eng = np.sin(2 * np.pi * 55 * t) + 0.5 * np.sin(2 * np.pi * 110 * t)
+    road = rng.standard_normal(n) * 0.3
+    pan = np.sin(np.pi * t / d)
+    return (eng * 0.5 + road) * pan * 0.18
+
+
+def type_(d=0.5):
+    out = np.zeros(int(d * SR))
+    for k in range(6):
+        place(out, click() * 0.7, k * 0.075 + rng.random() * 0.02)
+    return out
+
+
 def place(track, clip, at):
     i = int(at * SR)
     j = min(len(track), i + len(clip))
@@ -112,7 +158,8 @@ def main():
     voice /= max(1e-9, np.abs(voice).max())
 
     sfx = np.zeros(n)
-    gen = {'whoosh': whoosh, 'pop': pop, 'tap': tap, 'click': click, 'ding': ding}
+    gen = {'whoosh': whoosh, 'swish': swish, 'pop': pop, 'tap': tap, 'click': click, 'ding': ding, 'boom': boom,
+           'shine': shine, 'draw': draw, 'riser': riser, 'stamp': stamp, 'drop': drop, 'truck': truck, 'type': type_}
     for kind, at in SFX:
         place(sfx, gen[kind](), at)
 

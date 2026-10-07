@@ -1,4 +1,4 @@
-// usage: node record.js frames <start> <end> <out.mp4>   |   node record.js stills t1,t2,... <outdir>
+// usage: node record.js frames <start> <end> <out.mp4>  |  node record.js stills t1,t2,... <outdir>  |  node record.js sfx [sfx.json]
 const {chromium}=require('/opt/node22/lib/node_modules/playwright');
 const {spawn}=require('child_process');
 const path=require('path');
@@ -10,7 +10,9 @@ const path=require('path');
   pg.on('pageerror',e=>console.error('PAGE ERROR',e));
   await pg.goto('file://'+path.join(__dirname,'index.html'));
   await pg.waitForFunction(()=>window.READY===true);
-  if(mode==='stills'){
+  if(mode==='sfx'){
+    require('fs').writeFileSync(a||'sfx.json',JSON.stringify(await pg.evaluate(()=>window.SFX)));
+  } else if(mode==='stills'){
     for(const t of a.split(',').map(Number)){
       await pg.evaluate(t=>render(t),t);
       await pg.screenshot({path:path.join(b,`t${t.toFixed(2)}.png`)});
