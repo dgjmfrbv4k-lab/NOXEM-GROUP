@@ -238,3 +238,109 @@ consommé le solde — seulement que les deux puisent au même seau.
 
 **Recommandation :** séparer les deux campagnes sur deux adresses d'expédition distinctes,
 et laisser `harfiaaron9@gmail.com` intouchée pour les fils Maltha et GRL. Décision d'Aaron.
+
+---
+
+# 07/10/2026 — reprise depuis `aaron.harfi@noxem-group.com`
+
+Première journée pleine sur la nouvelle boîte. Registre : **728 lignes**.
+
+## Les cinq chiffres du 07/10, distincts
+
+| | |
+|---|---|
+| Recherches / qualifications | 38 sociétés examinées sur 11 marchés |
+| **Envois confirmés** | **29** (33 partis, 4 rebonds immédiats) |
+| Réponses qualifiées | **0** — aucun prospect n'a répondu sur la nouvelle boîte |
+| Demandes de devis | 0 nouvelle (United Glass reste la seule, ouverte le 06/10) |
+| Commandes | 0 |
+
+Aucune réponse à 15 h n'est une information nulle : les premiers envois du jour
+ont moins de trois heures. Les envois du 06/10 ont 24 h, c'est le délai où les
+premières réponses commencent, pas celui où leur absence signifie quelque chose.
+
+## Marchés choisis aujourd'hui, et pourquoi
+
+| Marché | Raison du choix | Résultat |
+|---|---|---|
+| **Porto Rico** | Zéro fiche au registre. Île sans ligne float : 100 % du verre plat arrive en conteneur. Port de San Juan. | 2 envois, 2 fiches d'appel dont un importateur confirmé par les douanes américaines |
+| **Canada — Manitoba** | Province absente des lots précédents. Winnipeg = hiver où le Low-E se juge. | 2 envois |
+| **Canada — Nouvelle-Écosse** | Argument structurel inédit : Halifax est le premier port nord-américain sur les routes européennes. | 2 envois |
+| **Canada — réseau national** | IGD, sept plateformes de la C.-B. à l'Ontario : achat de reconstitution de stock. | 1 envoi |
+| **Irak (Erbil)** | 4 fiches seulement pour un marché de reconstruction. | 1 envoi (IIALCO), 1 rebond (Arturaya) |
+| **Australie — Perth et Adélaïde** | Marché développé, 13 fiches. Perth est à 3 400 km de route des États de l'est : le float domestique arrive par camion, le nôtre par mer à Fremantle. | 3 envois, 4 fiches d'appel |
+| **Éthiopie** | Importateurs déclarés, pays enclavé via Djibouti, pas de ligne float. | 2 envois |
+| **Kenya / Nigéria** | File d'attente du 06/10 vidée. | 1 envoi, 1 boîte pleine |
+| **Jamaïque, Guyana, Bolivie, Guinée, RDC** | Prospectés, mais aucune adresse publiable : versés à la liste d'appels. | 0 envoi, 7 fiches d'appel |
+
+Marchés écartés après recherche faute de contacts vérifiables : **RDC** (aucun
+verrier avec adresse publiée, seulement des commissionnaires), **Haïti** (rien),
+**Mauritanie** (rien), **Guinée** (métier actif à Conakry, aucune adresse).
+
+## Un trou dans ma méthode, corrigé aujourd'hui
+
+Deux envois sont partis vers des domaines qui **ne résolvent pas** :
+`arturaya.com` et `vitrolux-ci.com`. Les deux adresses étaient pourtant publiées
+sur le site de la société et le domaine figurait bien dans les URL de résultats :
+la règle anti-rebond du §5 était respectée. Elle ne détecte pas un domaine sans MX.
+
+**Correctif en place :** `prospection/outils/verif-mx.py`. Contrôle MX obligatoire
+avant tout envoi, et passage sur le registre entier.
+
+Résultat du passage sur les 728 lignes :
+- **15 domaines morts (NXDOMAIN)** → adresses retirées, fiches basculées en
+  `A APPELER` ou `ADRESSE INVALIDE`. Ces 15 envois n'auront pas lieu.
+- **10 domaines sans MX mais avec un A** → livraison incertaine, annotés. À tester
+  un par un, jamais dans un lot groupé.
+
+C'est 25 rebonds évités. Sur un domaine d'un jour sans réputation, chaque rebond
+compte double.
+
+## Rebonds du 07/10
+
+| Adresse | Cause | Suite |
+|---|---|---|
+| `ventas1@aluminiosdelsurhn.com` | 550 5.1.1 adresse introuvable | `A APPELER` |
+| `info@arturaya.com` | domaine NXDOMAIN | `A APPELER`, +964 751 667 6876 |
+| `info@vitrolux-ci.com` | domaine NXDOMAIN | `A APPELER`, +225 02 18 88 88 |
+| `info@fitglass.com.ng` | boîte pleine | `A RENVOYER` dans quelques jours |
+
+## Doublon évité
+
+**Express Tempered Glass Ltd** et **Glass.com.ng** sont la même société, Suite 203E
+City Hall, Lagos Island, déjà contactée le 22/09 et relancée le 06/10. Un troisième
+message au même inbox aurait été une faute. Fiche reclassée `DOUBLON`.
+
+**Alutrade (Ghana)**, **Rozhano (Erbil)** et **Caribbean Glass (Kingston)** sont
+remontés dans mes recherches du jour : tous trois déjà relancés le 06/10, aucun
+nouvel envoi.
+
+## Ce que je surveille sur l'approche
+
+Trois angles nouveaux testés aujourd'hui, à comparer quand les réponses arriveront :
+
+1. **L'angle géographique dur** — Halifax premier port européen, Perth à 3 400 km
+   de route. Un fait que le concurrent local ne peut pas contredire.
+2. **L'angle technique assumé** — dire à Security Glass Products que notre jumbo
+   2550 mm *ne passe pas* leur four 96 pouces, et proposer la découpe à 2438 mm.
+   Reconnaître une limite pour prouver qu'on a lu leur capacité.
+3. **L'angle « vous achetez déjà comme nous vendons »** — importateurs déclarés
+   (ASAL, IGD, Alum Glass Depot) : ne rien leur demander de changer, juste ouvrir
+   une seconde source.
+
+## Risque à garder en tête
+
+Le domaine `noxem-group.com` a un jour. **DMARC est toujours absent.** 33 messages
+froids en une journée depuis un domaine sans réputation et sans DMARC, c'est le
+profil que les filtres regardent de près — et Apple filtre sans renvoyer de rebond,
+le test iCloud d'Aaron l'a montré. Je ne monte pas le volume davantage avant
+que le DMARC soit posé.
+
+## Trois priorités pour demain
+
+1. **United Glass / John** — Aaron a engagé « prix jeudi ». Bloqué sur la grille
+   de prix, les conditions de paiement et la faisabilité du 2438 × 3302 mm.
+2. **Appeler** les deux importateurs confirmés sans adresse : **San Juan Glass Corp**
+   (importateur de feuilleté selon les registres douaniers américains) et
+   **Walshs Glass** (premier distributeur indépendant d'Australie-Occidentale).
+3. **Poser le DMARC**, puis reprendre les lots.

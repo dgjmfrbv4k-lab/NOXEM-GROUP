@@ -65,6 +65,12 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 - **Jamais pousser sur une autre branche** que `claude/campagne-conteneur-20-open-fl0382`.
 - **Vérifier le registre AVANT d'envoyer**, jamais après :
   `grep -in '<société-ou-domaine>' liste-prospects.csv`
+- **Contrôle MX obligatoire avant tout envoi** (ajouté le 07/10/2026 après deux rebonds
+  « domaine introuvable » sur des adresses pourtant publiées par la société elle-même) :
+  `python3 campagne-conteneur-20-open-top/prospection/outils/verif-mx.py <adresse…>`
+  La règle anti-rebond ci-dessus vérifie que le domaine apparaît dans les URL de résultats ;
+  elle ne détecte pas un domaine sans MX. Pas de `OK`, pas d'envoi. Un domaine sans MX mais
+  avec un A se teste seul, jamais dans un lot groupé.
 
 ## 6. Géographie
 
