@@ -610,3 +610,78 @@ qu'une réponse humaine vague. Deux informations :
    grille, les conditions de paiement et la faisabilité du 2 438 × 3 302 mm.
 3. **Poser le DMARC**, et me dire lequel des deux tests est arrivé. Sans ça je prospecte
    sans savoir si quoi que ce soit atterrit.
+
+---
+
+# 07/10 — fin de journée portée à 19 h, et le vrai plafond de la campagne
+
+## Consigne appliquée
+
+Aaron porte la journée de prospection à **19 h, heure de Paris**. §15 du mandat réécrit,
+routine du bilan recalée à **18 h 52** (minute décalée volontairement : à l'heure pile les
+déclenchements se font retarder par le trafic serveur).
+
+## Deux lots de plus — 21 messages
+
+**Lot 11** (10 relances) : Chypre, Émirats, Égypte, Espagne, Croatie.
+**Lot 12** (10 relances) : Nouvelle-Calédonie, Mozambique, Portugal, Lituanie, Croatie,
+Serbie, Italie, Roumanie.
+**Plus un envoi neuf** : Perkins Glass & Mirror, Seattle, maison de 1906.
+
+Journée : **55 envois, 90 relances, 774 → 777 fiches.**
+
+## Le plafond réel de la campagne, mesuré aujourd'hui
+
+Deux faits, et ils expliquent tout le reste.
+
+**1. Le gisement e-mail est épuisé à ce niveau de recherche.** Sur les trois derniers tours,
+chaque profil fort trouvé était déjà au registre : Western States Glass et Glaz-Tech
+contactés le 05/10, Savage Wholesale le 07/10, Alutrade, Rozhano, Caribbean Glass, IMDV,
+Shibaam, RAMP, ProGlass, Amex, C3S, Indusvit, Vidrio Premier, Cristalinos. Ce n'est plus
+un problème de ciblage : c'est que je repasse sur mes propres pas.
+
+**2. Et je sais pourquoi : je ne peux lire aucun site.** Test fait aujourd'hui sur dix
+domaines représentatifs — tous bloqués par la politique réseau de la session, **y compris
+Google** :
+
+| Domaine testé | Résultat |
+|---|---|
+| `exhibitors.big5constructkenya.com` (liste d'exposants) | bloqué |
+| `vidrioperfil.com` (portail verrier) | bloqué |
+| `abravidro.org.br` (association brésilienne des distributeurs) | bloqué |
+| `apevic.org` (association péruvienne) | bloqué |
+| `amevec.mx` (association mexicaine) | bloqué |
+| `glasstec-online.com` | bloqué |
+| `noxemgroup.com` (notre propre site) | bloqué |
+| `wsglass.com` | bloqué |
+| `google.com`, `duckduckgo.com` | bloqués |
+
+**Ma seule fenêtre sur le web est le résumé que le moteur de recherche veut bien afficher.**
+Je ne peux pas ouvrir une page contact, pas lire un annuaire d'association, pas parcourir
+une liste d'exposants. C'est la cause directe de deux choses : le tarissement du gisement,
+et la règle anti-rebond qui écarte tant d'adresses — je ne peux jamais vérifier sur le site.
+
+**C'est le point à débloquer en priorité, et il ne dépend pas de moi** : réglages réseau de
+l'environnement.
+
+## Une source écartée après analyse — et pourquoi c'est utile de le savoir
+
+Aaron avait cité les listes d'exposants. J'ai regardé **glasstec Düsseldorf** : c'est la
+mauvaise source. Les exposants d'un salon verrier sont des **producteurs de float et des
+équipementiers** — nos concurrents et nos fournisseurs. Les acheteurs y sont **visiteurs**,
+et les listes de visiteurs ne sont jamais publiques.
+
+La bonne source est l'inverse : les **salons du bâtiment des marchés cibles** — Big 5
+Construct Kenya, Nigeria, Égypte, Arabie saoudite — où ce sont les distributeurs et
+transformateurs locaux qui exposent. Les listes existent et sont publiques. **Elles sont
+bloquées par le proxy.** Dès que l'accès est ouvert, c'est le premier endroit où aller.
+
+## Blocage technique en cours — push GitHub
+
+`git push` est rejeté par GitHub avec « Internal Server Error », neuf tentatives, toutes
+stratégies confondues (`--no-thin`, commit par commit). Écarté : le réseau (l'API du même
+dépôt répond), la taille (27 lignes), le proxy (aucun échec de relais).
+Détail et marche à suivre dans `POINT-DE-REPRISE.md`.
+
+**Ce qui n'est pas en risque :** les 145 messages de la journée sont partis, c'est
+irréversible et consultable dans les envoyés. Seules les annotations du registre attendent.
