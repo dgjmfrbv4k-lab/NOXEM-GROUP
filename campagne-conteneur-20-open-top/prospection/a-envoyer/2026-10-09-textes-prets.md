@@ -1,11 +1,10 @@
 # Textes prêts à envoyer — 09 et 10/10/2026
 
-**Quarante-huit messages préparés le 08/10 sur les 56 de la file.** Quinze rédigés intégralement
+**Cinquante-trois messages préparés le 08/10 sur les 56 de la file.** Quinze rédigés intégralement
 (1 à 10, 16 à 20), cinq australiens bâtis sur un socle commun avec leur personnalisation (11 à 15),
 vingt-huit donnés en ouverture plus gamme plus port, le corps reprenant un socle déjà écrit
-(21 à 48). **Les huit qui manquent** sont celles dont la rédaction dépend d'une réponse qu'on
-attend : les trois datées au 13/10 pour ciblage faible, El Wifaq et GPS Ibérica, M&A Glass,
-Taniglass et The Glass Warehouse.
+(21 à 48). **Les trois qui manquent** sont les seules datées au 13/10 pour ciblage faible — Réunivitre,
+Göteborgs Byggnadsglas et Vidral Guatemala — et elles s'écriront le jour où elles partiront.
 
 **Les quatre numéros 45 à 48 sont à lire avant d'écrire** : ce sont les seuls où le message doit
 porter une **réserve explicite** — demander à Miami s'il est client ou concurrent, ne pas proposer
@@ -904,6 +903,24 @@ parce que c'est la seule phrase qui prouve qu'on a regardé la société.
 | 48 | **Vanbo Glass** — Surrey · `info@vanboglass.ca` · EN | **Ne pas écrire comme s'ils n'avaient pas de fournisseur** : une partie de leur site est en chinois, ils sont probablement approvisionnés en Asie. « You almost certainly have an Asian supply line already, and I am not writing to replace it. » |
 
 ---
+
+## 49 à 53. Les cinq dernières, et deux portent une réserve de douane
+
+| # | Société · adresse · langue | Ouverture | Gamme · port |
+|---|---|---|---|
+| 49 | **El Wifaq Verre** — Fès · `contact@elwifaqverre.ma` · **FR** | « Votre gamme va du trempé au double vitrage à gaz argon, du feuilleté Stadip aux miroirs décoratifs, en passant par le plexiglas et les panneaux composites. C'est une gamme de négociant-transformateur, et elle suppose un approvisionnement large plutôt qu'une référence bon marché. » | float + low-E + miroir sans cuivre · Casablanca |
+| 50 | **GPS Glass Partners Ibérica** — Astigarraga · `marketing@gps-glass.com` · ES | **Demande de transmission en première ligne, c'est une boîte marketing** : « Les escribo a esta dirección porque es la publicada, y les pido un favor concreto: hacer llegar este mensaje a **Rubén Martínez**, director de GPS Ibérica, o a quien gestione las compras. » Puis : « Distribuyen desde almacenes repartidos por toda la península. » **Ne pas écrire à Tony Afonso comme s'il achetait** : sa fonction publiée est la logistique, le §5 ne l'autorise pas. | float + low-E · Bilbao ou Valence |
+| 51 | **M&A Glass Processing** — 6 Octobre · `maglass@maglassegypt.com` · EN | « I am writing because of one page in your catalogue: washing machine glass. An appliance door is the least forgiving glass there is - thickness, flatness and thermal behaviour have to be identical from one batch to the next, or the part is scrap rather than discounted. » **Dire que `info@` a rebondi**, c'est plus honnête que de faire comme si rien n'était parti. *Sphinx Glass : pas d'argument « pas de float local ».* | float + vitrage technique · Alexandrie |
+| 52 | **Taniglass** — HCMC · `sales@kinhtanbinh.com` · EN | « Long Thành airport is in your project list, which tells me more about your capacity than any brochure could. » *(Exception §5 : domaine `kinhtanbinh` ≠ site.)* *Phu My et CFG Ha Long : pas d'argument « pas de float local ».* L'angle est la spécialité, pas l'absence d'alternative. | low-E + vitrage technique + extra-clair · Cat Lai ou Cai Mep |
+| 53 | **The Glass Warehouse** — Ilford · `info@theglasswarehouse.co.uk` · EN | « You have a page dedicated to trade and wholesale, which is the only kind of customer a full container suits. » *NSG Pilkington et Guardian produisent au Royaume-Uni : pas d'argument d'absence de production locale.* L'angle est la gamme et le grand format. | float + miroir sans cuivre · Londres ou Felixstowe |
+
+**Et la réserve qui vaut pour tout le lot, écrite au §6 le 08/10 :** trois questions de douane sont
+en attente chez Aaron — droit applicable au float européen au **Mexique** (fraction 7005.29.99, où
+un droit général de 35 % s'applique depuis le 01/01/2026), **aux États-Unis et au Brésil**, et à
+l'entrée de la **SACU**. **Tant qu'elles n'ont pas de réponse, aucun message ne dit ni ne laisse
+entendre que nous entrons en franchise.** Les textes du Canada et des États-Unis parlent des droits
+qui frappent l'Asie — c'est vérifié et ça reste vrai — et le texte américain dit lui-même, en une
+phrase, qu'il ne prétend rien sur le droit de douane ordinaire.
 
 ## Ce qui reste à rédiger
 
