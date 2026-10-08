@@ -137,7 +137,12 @@ présentant comme producteur float de premier plan au Moyen-Orient et en Afrique
 donc un concurrent sur toute la zone, et un concurrent actif commercialement en Libye),
 **Arabian United Float Glass Company (UFG)** (Arabie saoudite — ajouté le 08/10. Le royaume compte
 donc au moins quatre producteurs float avec Obeikan, Zoujaj et Guardian : **ne jamais employer
-l'argument du float absent en Arabie saoudite**, c'est le marché le mieux pourvu de la zone).
+l'argument du float absent en Arabie saoudite**, c'est le marché le mieux pourvu de la zone),
+**Nasir Float Glass Industries** (Bangladesh — ajouté le 08/10. Premier float du pays, en service
+depuis 2005, environ 55 % du marché local annoncé, complexe de Tangail et centrale gaz propre.
+La fiche existait comme cible : le mot « float » dans une raison sociale impose la vérification
+**avant** d'ouvrir la fiche, pas après. Avec PHP, le Bangladesh produit son propre float — aucun
+message vers ce pays ne doit affirmer l'absence de production locale).
 
 ## 7. Comptes protégés — ne pas démarcher sur cette campagne
 
@@ -312,7 +317,9 @@ deux entités réelles, comme les quatre antennes PG sur `pgglassafrica.com`.
 Statuts. **Aucune fiche ne doit avoir un statut vide** : le 08/10 onze fiches en portaient un,
 ce qui les rendait invisibles aux pools de relance comme au décompte des fiches jamais contactées.
 
-Prospection : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A APPELER` · `A RENVOYER` ·
+Prospection : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A ENVOYER YYYY-MM-DD` (ajouté le
+08/10 : adresse déverrouillée, envoi daté et programmé — à ne pas confondre avec `A RENVOYER`,
+qui vise une adresse ayant rebondi) · `A APPELER` · `A RENVOYER` ·
 `A QUALIFIER` · `NE PAS DEMARCHER` · `A VALIDER AARON` · `ADRESSE INVALIDE` ·
 `ECARTE — PETITE STRUCTURE` · `ECARTE — HORS MARCHE` · `ECARTE — HORS GAMME`
 
@@ -332,10 +339,21 @@ il a dit ne pas avoir de besoin actuellement.
   Deux échecs distincts qu'il ne faut plus confondre :
   · `curl` vers un site de prospect → `CONNECT tunnel failed, response 403` (refus du proxy)
   · l'outil WebFetch → `getaddrinfo ENOTFOUND` (le nom n'est pas dans la liste blanche)
-  **Conséquence à retenir : on ne sait pas encore si WebFetch est autorisé**, puisque la
-  résolution échoue avant même la requête. **Dès que le réseau est ouvert, retester WebFetch
-  en premier** : s'il passe, il permet de lire les pages de contact des sociétés, et c'est
-  exactement ce qui débloquerait le premier facteur limitant de la campagne.
+  **RETEST FAIT LE 08/10, QUESTION TRANCHÉE : WebFetch échoue lui aussi.** Appelé sur
+  `nassauglass.com`, il rend `getaddrinfo ENOTFOUND` — la résolution tombe avant la requête,
+  donc l'outil n'est pas en cause, c'est bien la liste blanche. **Aucun des trois chemins
+  (curl, WebFetch, DNS direct) n'atteint le site d'un prospect.** Ne plus perdre de temps à
+  retester tant que le réglage « Network access » n'a pas changé.
+  **CONTOURNEMENT TROUVÉ LE 08/10, ET IL MARCHE — c'est la méthode de déverrouillage standard
+  désormais.** `WebSearch` passe par un autre chemin que WebFetch. Lancé avec `allowed_domains`
+  limité au **seul domaine de la société**, il renvoie le contenu de sa page de contact, adresse
+  e-mail comprise, sans jamais résoudre le domaine localement. Rendement mesuré le 08/10 :
+  **11 adresses sur 15 sociétés testées**, là où la recherche large n'en donnait aucune. La règle
+  anti-rebond du §5 est satisfaite par construction, puisque le domaine interrogé est celui du
+  site. Deux pièges : une page de contact peut publier une adresse sur un **autre domaine**
+  (gmail, ou un domaine de société sœur) — l'exception du §5 s'applique alors et doit être notée
+  dans la fiche ; et beaucoup de sites n'exposent qu'un formulaire ou une adresse obfusquée, qui
+  reste un dossier téléphonique.
 - **Ce blocage est devenu LE goulot d'étranglement, devant le ciblage et devant le message.**
   Mesuré sur les lots du 08/10 : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7,
   Zone Libre de Colón 0, Cap-Vert 1 sur 6. Les sociétés sont trouvées et qualifiées, mais
