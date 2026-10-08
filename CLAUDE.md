@@ -84,6 +84,19 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   verres à pied. La fiche SEVAM (Maroc) portait le seul mot « Verrerie » : vérification faite, c'est
   **90 ans de bouteilles, pots alimentaires et verres de table**, donc du verre creux — ni client ni
   concurrent, hors sujet. **Établir verre PLAT ou verre CREUX avant d'ouvrir une fiche**, pas après.
+  **DEUX AUTRES CAS LE MÊME JOUR, ce qui en fait trois et donc une règle, pas un accident :**
+  · **Desert Glass** (Tripoli) : leur propre site les décrit comme fabriquant des **récipients en
+    verre pour la boisson et l'alimentaire**. Verre creux. Et l'usine est en construction.
+  · **Caribbean Glass Industry S.A.** (Rép. dominicaine) : la presse dominicaine est unanime — une
+    usine de **500 millions de bouteilles par an** en zone franche de Pedro Brand, avec la
+    Cervecería Nacional Dominicana engagée à acheter 70 % de la production pendant six ans.
+    **À ne surtout pas confondre avec Caribbean Glass Specialists Ltd (Trinidad)**, qui est l'un de
+    nos quatre dossiers de prix ouverts. Deux sociétés sans rapport dont les noms commencent pareil.
+  **LE TEST À FAIRE, et il coûte une recherche :** chercher dans ce que la société dit d'elle-même
+  les mots **bouteille, flacon, bocal, récipient, container (en anglais), emballage, boisson,
+  brasserie** — s'ils y sont, c'est du creux, et la fiche se ferme avant qu'on cherche son adresse.
+  Les mots *glass*, *verre*, *verrerie* et *glass industry* dans une raison sociale ne disent
+  **rien** du métier. Trois fiches fermées ainsi le 08/10, trois recherches d'adresse économisées.
 - **Jamais inventer un dirigeant.** Nom utilisé uniquement si la **fonction est vérifiée**
   et pertinente (achats, import, direction). Sinon, message au service.
 - **Jamais prétendre qu'un prospect a consulté le site** sans donnée le confirmant.
