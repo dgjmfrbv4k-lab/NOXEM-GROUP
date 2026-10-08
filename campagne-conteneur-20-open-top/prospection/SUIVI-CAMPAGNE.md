@@ -3196,7 +3196,7 @@ Le travail reprend — il reste quarante minutes de fenêtre et des fiches à ou
 
 ---
 
-## 08/10/2026, 17 h 45 — fin du travail de masse : 498 prospects sur les 500 demandés
+## 08/10/2026, 17 h 39 — fin du travail de masse : 498 prospects sur les 500 demandés
 
 ### Le chiffre, et pourquoi il s'arrête à 498 et non à 500
 
@@ -3275,3 +3275,17 @@ les ventes.**
    feuilletage (Caribbean Glass), grille de prix (PG Namibie attend depuis 10 jours), périmètre
    Riou Glass, lien PG Industries Zimbabwe.
 3. **Trancher les 16 fiches** avec adresse en statut d'appel, dont les 6 camerounaises en attente.
+
+**CINQUIÈME DÉRIVE D'HORODATAGE, ET IL FAUT MAINTENANT EN TIRER UNE RÈGLE DE CODE ET NON UNE
+RÉSOLUTION.** J'ai titré l'entrée ci-dessus « 17 h 45 » ; il était **17 h 39**. Corrigé, ainsi que
+les six fiches algériennes datées 17h40 au lieu de 17h38.
+
+**Le compte de la journée : 15h25, 15h45, 17h20, 17h45 — cinq fautes sur la même chose, dont trois
+après avoir écrit la règle au §13.** La consigne « lancer `TZ=Europe/Paris date` avant d'horodater »
+est donc inopérante telle quelle, parce que je la lis une fois et j'écris trois heures plus tard.
+
+**Ce qui marche, mesuré aujourd'hui :** les seuls horodatages justes de la journée sont ceux où la
+commande était **dans le même appel d'outil que l'écriture**. Donc la règle devient :
+**ne jamais écrire une heure dans un fichier sans que `TZ=Europe/Paris date` figure dans le MÊME
+appel d'outil** — en tête du script, pas dans un appel précédent. C'est vérifiable, là où « penser
+à regarder l'heure » ne l'est pas.
