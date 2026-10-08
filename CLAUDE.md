@@ -163,7 +163,12 @@ droits antidumping provisoires sud-africains contre le float tanzanien** — on 
 contre un concurrent négligeable.
 **Conséquences pour le registre, et elles sont lourdes :** Kenya (10 fiches), Ouganda (9),
 Madagascar (8), Rwanda (3), Mozambique (3), Zambie (2), Malawi (2), Congo RDC (2) sont **déjà
-desservis par un producteur local qui exporte**. L'argument de l'absence de production locale y est
+desservis par un producteur local qui exporte**.
+**MAIS LE PÉRIMÈTRE EST CELUI DE LA SOURCE, PAS DE LA GÉOGRAPHIE** — correction de ma part le 08/10,
+dans le quart d'heure. J'avais étendu le déclassement à **Maurice et aux Seychelles**, qui ne
+figurent pas dans les marchés d'export documentés de Sapphire. Ces îles importent tout leur verre
+et rien n'établit qu'un producteur régional les desserve : **elles ne sont pas déclassées.**
+Une conclusion s'applique au périmètre que la source donne, pas à la région qu'on imagine autour. L'argument de l'absence de production locale y est
 **faux** — il avait déjà été rattrapé pour le Kenya le 08/10 au matin. **Ne plus ouvrir de fiches
 dans cette zone et ne pas y investir d'effort de relance**, sauf sur ce que Sapphire ne fait pas :
 low-E, miroir sans cuivre ni plomb, vitrage technique, grands formats.
