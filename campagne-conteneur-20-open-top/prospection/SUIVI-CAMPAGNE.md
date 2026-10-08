@@ -1162,3 +1162,81 @@ consignés.
 Les deux noms sont ajoutés au §5, avec un principe qui rend la liste moins fragile :
 **tout site qui vend des relevés d'importation ou des contacts d'acheteurs tombe sous la
 règle, qu'il soit nommé ou non.** C'est la nature du service qui compte, pas le nom.
+
+---
+
+# Lot du 08/10 — Haïti, et une hypothèse de cible qui ne tient pas
+
+## Chiffres de ce lot
+
+| | |
+|---|---|
+| Recherches | 2 (Haïti ; fabricants de meubles indonésiens) |
+| Fiches créées | 6 |
+| Envois confirmés | **1** |
+| Réponses qualifiées | 0 |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+Registre : **834 fiches**, 154 pays.
+
+## Haïti : zéro envoi, et c'est la règle qui le décide
+
+Onze millions d'habitants, aucune ligne float, zéro fiche au registre : sur le papier, le
+marché le plus évident de la journée. **Il n'a produit aucun envoi.**
+
+Les quatre sociétés trouvées — dont **Action Enterprises Windows & Blinds**, un vrai
+fabricant-installateur avec un entrepôt à Croix-des-Bouquets, et **GB Group**, présenté comme
+la plus grande entreprise de matériaux de construction du pays — ont toutes leur adresse dans
+un **annuaire**, jamais sur leur propre site, et aucun de leurs domaines n'apparaît dans les
+URL de résultats. La règle anti-rebond du §5 les écarte toutes les quatre. Elles passent en
+appel, avec leurs téléphones consignés.
+
+À noter, un piège évité : la recherche a fait remonter « High Import » comme fournisseur
+haïtien. Le code postal 97420 est celui de **La Réunion**, pas d'Haïti. Écarté.
+
+## L'hypothèse « fabricants de meubles » ne survit pas aux faits
+
+Je voulais tester un **type d'acheteur** jamais essayé : les fabricants de meubles, qui
+consomment miroir et verre laqué pour les plateaux de table et les portes de penderie. Jepara,
+en Indonésie, est l'un des premiers bassins mondiaux du meuble.
+
+**L'hypothèse est fausse, au moins là.** Jepara fabrique du **teck massif pour l'export** : le
+verre y est un composant marginal, acheté localement. Les sources le disent elles-mêmes — les
+maisons centrées sur le teck ne font pas forcément de meuble à miroir. Aucun fabricant de
+meubles n'a été contacté, et l'axe est consigné comme testé et non concluant pour ne pas être
+relancé dans trois semaines.
+
+Ce que la recherche a donné d'utile est ailleurs, et c'est une leçon de méthode : en cherchant
+des **acheteurs** de verre, j'ai trouvé des **transformateurs** à Semarang, une ville que nos
+sept fiches indonésiennes — toutes à Jakarta, Surabaya et Tangerang — ne couvraient pas.
+
+## Le seul envoi du lot, et pourquoi il reconnaît d'emblée sa faiblesse
+
+**PT Matahari Silverindo** (Semarang) fabrique des miroirs argentés. L'angle est purement
+technique et vérifiable :
+
+- **l'argenture ne pardonne pas.** Chaque défaut du substrat est rendu permanent et *doublé*
+  par le reflet. Une production de miroir exige donc une qualité float plus stricte que la
+  vitrerie courante.
+- **le miroir haut de gamme se fait en extra-clair**, parce que le clair standard met une
+  dominante verte dans le reflet.
+
+Et le message **commence par admettre que l'Indonésie produit son propre float** et qu'il n'est
+pas question de concourir sur le float clair ordinaire : ce combat n'est pas gagnable depuis la
+France. Seul l'extra-clair est défendable. Dire la limite d'entrée est ce qui rend le reste
+crédible — c'est le même mécanisme que sur le 3302 mm de Caribbean Glass, et c'est ce qui a
+déclenché la seule vraie discussion de la campagne.
+
+## Ce que trois lots consécutifs confirment
+
+Le facteur limitant n'est plus de trouver des sociétés, c'est de trouver une **adresse
+utilisable**. Sur les trois derniers lots : Haïti 0 envoi sur 4 sociétés, Paraguay 0 sur 7,
+Zone Libre de Colón 0, Cap-Vert 1 sur 6. Partout la même cause : les sociétés sont réelles et
+identifiées, mais seuls les annuaires publient leurs coordonnées, et un annuaire ne satisfait
+pas la règle anti-rebond.
+
+**C'est la lecture web coupée qui fait ce plafond.** Avec l'accès aux pages de contact des
+sociétés, la plupart de ces fiches basculeraient en envoi. Le blocage réseau n'est donc pas une
+gêne de confort : il est devenu le premier facteur limitant de la campagne, devant le ciblage
+et devant le message.
