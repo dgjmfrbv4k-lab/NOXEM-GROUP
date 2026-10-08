@@ -132,6 +132,32 @@ dans l'ordre où elles débloquent de l'argent, avec ce que je recommande. Les d
 | **4** | **Créer l'enregistrement DMARC** : TXT sur `_dmarc`, valeur `v=DMARC1; p=none; rua=mailto:aaron.harfi@noxem-group.com` | Le domaine a huit jours et n'a pas de DMARC. Tout ce que je prépare part avec un handicap de délivrabilité. **C'est la plus urgente des trois demandes techniques.** |
 | **5** | **Relever `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`** | Le plafond de 200 appels par journée est atteint aujourd'hui. Il décide combien de prospects deviennent joignables : ~80 fiches par jour aujourd'hui, ~160 si tu le doubles. |
 
+## Une question de périmètre, nouvelle, et elle vaut une très bonne fiche
+
+**TINIS Company (Belgrade et Kragujevac, Serbie) — j'ai son adresse et je ne l'envoie pas.**
+
+**Pourquoi c'est une bonne fiche :** ils se déclarent **négociants en verre**, et précisément
+« commerce du verre et de tous les produits nécessaires à la fabrication des unités de vitrage
+isolant » — autrement dit ils fournissent les fabricants de double vitrage, ce qui est exactement
+notre aval. Gamme publiée : extra-clair, feuilleté, miroir, satiné acide, ornement. Deux sites,
+une page certificats. Importateur-grossiste familial depuis 1992. C'est l'une des meilleures
+fiches du registre sur le papier.
+
+**Pourquoi je bloque :** la Serbie est en Europe, et le §6 interdit la **nouvelle** prospection
+européenne en n'autorisant que la **relance** des fiches déjà contactées. Or le seul envoi vers
+cette fiche a **rebondi** le 25/09 : ils n'ont jamais rien reçu. Écrire à `lukak@tinisco.com` —
+le contact commercial que leur page publie — serait donc un **premier contact**, pas une relance.
+
+**Je ne tranche pas seul une règle de périmètre.** Dis-moi oui ou non.
+- **Si oui**, elle part immédiatement, l'adresse est bonne et le texte est rapide à écrire.
+- **Si non**, je la laisse et je n'y reviens pas.
+
+**Et la question derrière, qui vaut pour tout le registre :** une fiche européenne dont l'unique
+envoi a rebondi compte-t-elle comme « déjà contactée » ou comme « nouvelle » ? Ta réponse réglera
+tous les cas suivants d'un coup, et il y en aura.
+
+---
+
 ## Les deux informations que je ne peux pas obtenir d'ici
 
 | # | Décision | Pourquoi ça bloque l'écriture |

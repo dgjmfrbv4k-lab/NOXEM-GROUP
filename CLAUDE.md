@@ -97,6 +97,16 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   brasserie** — s'ils y sont, c'est du creux, et la fiche se ferme avant qu'on cherche son adresse.
   Les mots *glass*, *verre*, *verrerie* et *glass industry* dans une raison sociale ne disent
   **rien** du métier. Trois fiches fermées ainsi le 08/10, trois recherches d'adresse économisées.
+  **QUATRIÈME CAS LE MÊME JOUR, ET CELUI-LÀ A COÛTÉ DEUX ENVOIS — c'est celui qui prouve la règle.**
+  **Distrividrios** (Maracay, Venezuela) : leur propre site dit qu'ils commercialisent et
+  distribuent des **envases y botellas de vidrio**, bouchons plastiques et matériel d'emballage.
+  Verre creux. **Mais contrairement aux trois autres, elle n'a pas été fermée avant l'envoi :** elle
+  était à `RELANCE 2026-10-07`, donc un premier contact **et** une relance en espagnol étaient
+  partis vers un distributeur de bouteilles. Le nom — *Distri-vidrios* — avait suffi à ouvrir la
+  fiche et personne n'avait lu ce qu'ils vendaient.
+  **Ajouter au test les mots espagnols et portugais**, puisque c'est là que le piège se referme :
+  **envase, botella, tapa, frasco, embalaje, embalagem, garrafa**. Quatre fiches fermées le 08/10,
+  et la quatrième dit ce que les trois premières ont économisé.
 - **Jamais inventer un dirigeant.** Nom utilisé uniquement si la **fonction est vérifiée**
   et pertinente (achats, import, direction). Sinon, message au service.
 - **Jamais prétendre qu'un prospect a consulté le site** sans donnée le confirmant.
@@ -847,6 +857,21 @@ TZ=Europe/Paris date '+%H:%M %Z (%d/%m/%Y)'
     le rebond du 06/10. **Signature à reconnaître : site vieux de plusieurs années, et un rebond
     de Google qui parle du DOMAINE et non de la boîte.** Dans ce cas, ni la méthode ni un autre
     essai n'y feront rien, et la fiche est téléphonique pour de bon.
+  **LE PIÈGE DU DOMAINE VOISIN — trois cas le 08/10, c'est donc le premier réflexe à avoir sur un
+  rebond `No Such User`.** Une société héberge souvent son **site** sur un domaine et sa
+  **messagerie** sur un autre, et l'adresse qu'on reconstruit sur le domaine du site ne peut alors
+  que rebondir.
+  · **Al Ashoury Glass** (Riyad) : site `alASHOURY-glass.com`, mail publié
+    `info@alSHOURY-industry.com` — un A en moins **et** *industry* au lieu de *glass*.
+  · **Comercial Cristal** (Saint-Domingue) : site en **`.net`**, adresses publiées en **`.com`**,
+    et par succursale — `Elinvi@`, `losrobles@`. Le registre portait `info@…net`, qui a rebondi.
+  · **Liberty Aluminium** (Ajman) : site `libertyaluminium.**ae**`, adresses publiées
+    `info@` et `sales@libertyALUM.com` — domaine raccourci **et** extension différente.
+  **Donc, devant un rebond `550 No Such User` : avant de conclure que la boîte est morte, aller
+  lire quel domaine la société écrit dans SA page de contact.** Trois fois sur trois le 08/10, il
+  n'était pas celui du site. Et dans les trois cas **l'exception du §5 s'applique et doit être
+  notée dans la fiche**, puisque le domaine de l'adresse diffère de celui du site.
+
   **UNE SUBTILITÉ QUI VAUT UN DÉVERROUILLAGE, trouvée sur Grupo Visemex (Monterrey) :** le registre
   portait `ventas1@visemex.com.mx` et leur page publie `venta1@`, **au singulier**. Même piège
   qu'Al Ashoury. Mais ici l'arbitrage s'est fait sur un fait et non sur la source la plus récente :
