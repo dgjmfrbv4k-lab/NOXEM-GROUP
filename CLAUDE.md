@@ -241,15 +241,44 @@ information indispensable qui n'existe nulle part.
 | `campagne-conteneur-20-open-top/prospection/DECISIONS-AARON.md` | ce qui attend un arbitrage d'Aaron, en faits → options → recommandation. **À tenir à jour à chaque dossier chaud** |
 | `email/SIGNATURE.md` | mentions légales de référence |
 
-Contrôle d'intégrité après chaque écriture (exactement **3** lignes à 11 champs sont légitimes) :
+Contrôle d'intégrité après chaque écriture — **toute** ligne doit avoir 10 champs, sans exception :
 ```bash
 awk -F';' 'NR>1{gsub(/\r/,""); if(NF!=10) print "MALFORME "NR": "NF}' liste-prospects.csv
 ```
-Retri après ajout, collation française (`locale.strxfrm` sur `fr_FR.UTF-8`).
+**Correction du 08/10 :** ce paragraphe affirmait que « exactement 3 lignes à 11 champs sont
+légitimes ». **C'était faux.** Ces trois lignes — Lana International, Pacific Glass Corporation,
+TGAC Qatar — étaient cassées par un `;` placé dans un champ entre guillemets, et le mandat
+bénissait le bug. Conséquence mesurée : leur **statut réel se trouvait dans le champ 11**, donc
+invisible à toute requête sur `$10`. Le balayage des relances de septembre avait ainsi manqué
+Lana International, négociant régional sur douze pays. Les trois lignes sont réparées.
+**Si le contrôle sort quoi que ce soit, c'est un bug à réparer, jamais une exception à tolérer.**
 
-Statuts : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A APPELER` · `A RENVOYER` ·
+Retri après ajout avec `sorted()` **sans locale** (voir §13).
+
+**Balayage des doublons après chaque lot d'ajouts :**
+```bash
+python3 campagne-conteneur-20-open-top/prospection/outils/detecte-doublons.py
+```
+Il croise quatre signaux, car aucun ne suffit seul : pays + nom normalisé, domaine du site,
+adresse e-mail, téléphone. Le 08/10 il a trouvé **douze doublons** d'un coup. Rozhano prouve
+l'utilité du croisement : les deux fiches ne différaient que par *Aluminum* / *Aluminium*, donc
+le nom ne les voyait pas et seul le domaine les a réunies. À l'inverse, **un même domaine ou un
+même standard ne suffit pas à fusionner** : Mirodec SARL au Liban et Mirodec Gulf à Dubaï sont
+deux entités réelles, comme les quatre antennes PG sur `pgglassafrica.com`.
+
+Statuts. **Aucune fiche ne doit avoir un statut vide** : le 08/10 onze fiches en portaient un,
+ce qui les rendait invisibles aux pools de relance comme au décompte des fiches jamais contactées.
+
+Prospection : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A APPELER` · `A RENVOYER` ·
 `A QUALIFIER` · `NE PAS DEMARCHER` · `A VALIDER AARON` · `ADRESSE INVALIDE` ·
-`ECARTE — PETITE STRUCTURE`
+`ECARTE — PETITE STRUCTURE` · `ECARTE — HORS MARCHE` · `ECARTE — HORS GAMME`
+
+Aval, ajoutés au vocabulaire le 08/10 parce qu'ils étaient déjà employés sur les dossiers vivants
+et qu'il manquait de quoi dire un refus : `REPONSE YYYY-MM-DD` · `DEMANDE DE PRIX YYYY-MM-DD` ·
+`DEMANDE DE DEVIS YYYY-MM-DD` · `EN NEGOCIATION` · `REFUS YYYY-MM-DD`.
+Un refus courtois se note `REFUS` **avec la date de reprise dans la note**, et non
+`NE PAS DEMARCHER`, qui surtraduit : Glass Jet n'a pas demandé qu'on le laisse tranquille,
+il a dit ne pas avoir de besoin actuellement.
 
 ## 13. Limites techniques connues
 

@@ -1501,3 +1501,87 @@ l'interlocuteur connaît mieux que moi, et proposent la référence qui le corri
   interdit d'inventer une adresse.
 - **Texas Glass Group** envoyée **seule** : domaine sans MX mais avec un A. Quatrième cas du
   jour après Thai Tempered, Eurowindow et Qaswa, tous sans rebond.
+
+---
+
+# Lot du 08/10 — hygiène du registre : douze doublons, trois lignes cassées, dix statuts vides
+
+## Pourquoi j'ai arrêté d'envoyer pour faire ça
+
+Quatre doublons avaient été trouvés **par accident** dans la journée (Mwenzo, Tropic Glass,
+Flat Glass Distributors, Limatambo). Quatre accidents, c'est un symptôme, pas une série de
+coïncidences. J'ai donc écrit un balayage systématique au lieu d'attendre le cinquième.
+
+## Ce qu'il a trouvé
+
+**Douze doublons d'un coup**, dont neuf fusionnés automatiquement et trois traités à la main.
+Le balayage croise quatre signaux, parce qu'aucun ne suffit seul :
+
+- **Rozhano** justifie à lui seul le croisement : les deux fiches ne différaient que par
+  *Aluminum* / *Aluminium*. Le balayage par nom ne les voyait pas — **seul le domaine les a
+  réunies**.
+- **Al-Manna et Almanco Factory** partagent le téléphone +966 11 265 0065 mais portent des noms
+  trop différents pour trancher. **Non fusionnées** : la fiche porte la consigne d'appeler une
+  fois pour clarifier avant tout envoi.
+- **Mirodec SARL (Liban) et Mirodec Gulf (Dubaï)**, comme les quatre antennes PG sur
+  `pgglassafrica.com`, partagent un domaine **sans être des doublons**. Le même domaine ne suffit
+  donc jamais à fusionner, et l'outil le dit explicitement en sortie.
+
+L'outil est conservé : `outils/detecte-doublons.py`, à relancer après chaque lot (§12).
+
+## Ma deuxième faute du jour, identique à la première
+
+**Mirror King Udhyog a reçu un troisième message en deux jours**, comme Shibaam ce matin. Sa
+fiche était à `RELANCE 2026-10-06` et j'en ai créé une seconde avant d'envoyer.
+
+Cause exacte, et elle est précise : avant le lot Népal–Bolivie j'ai bien grepé *Gapex*,
+*Silverback*, *Arménie* et *Rwanda* — **mais pas Mirror King ni Sumes Glass**. J'avais appliqué
+la règle durcie à une partie seulement des noms rendus par la recherche. **Un grep partiel ne
+vaut pas un grep.** Les deux comptes sont gelés jusqu'en janvier 2027.
+
+## Le mandat déclarait trois bugs légitimes
+
+Le §12 affirmait que « exactement 3 lignes à 11 champs sont légitimes ». **C'était faux.** Les
+trois lignes — Lana International, Pacific Glass, TGAC Qatar — étaient cassées par un `;` placé
+dans un champ entre guillemets, ce que le §12 interdit par ailleurs lui-même.
+
+**La conséquence n'était pas cosmétique : leur statut réel se trouvait dans le champ 11, donc
+invisible à toute requête sur `$10`.** C'est exactement pour cela que mon balayage des relances
+de septembre avait manqué **Lana International**, et c'est la meilleure fiche du lot :
+
+> négociant en matériaux depuis 1990, servant **douze marchés** depuis un seul bureau — Jordanie,
+> Palestine, Syrie, Irak, Liban, Émirats, Arabie, Qatar, Bahreïn, Koweït, Égypte, Algérie — avec
+> une adresse valide et aucune relance depuis le 22 septembre.
+
+Relancée aujourd'hui. **Pacific Glass Corporation** aussi, leader philippin de la transformation,
+dont le statut `A RENVOYER` était invisible pour la même raison : ses adresses `info@` et
+`sales@` rebondissaient, seule `csa@` passe.
+
+Les trois lignes sont réparées et le §12 est corrigé : si le contrôle d'intégrité sort quoi que
+ce soit, c'est un bug, jamais une exception à tolérer.
+
+## Dix statuts vides
+
+Dix fiches n'avaient **aucun statut**, donc étaient invisibles aux pools de relance comme au
+décompte des fiches jamais contactées. Renseignées selon ce qu'elles portent : `A APPELER` quand
+il y a un téléphone, `A QUALIFIER` sinon. Dont deux belles capacités qui dormaient — **Samyat
+Glass** (300 000 m²/an) et **Barrak Glass Factories** (quatre usines, groupe Al-Barrak).
+
+Le numéro d'Abbas Tempering, au format local de Dubaï, est passé au format international.
+
+## Vocabulaire des statuts étendu
+
+Les dossiers vivants employaient déjà des statuts absents du §12 (`DEMANDE DE PRIX`, `REPONSE`,
+`EN NEGOCIATION`). Ils y sont désormais inscrits, avec le `REFUS` qui manquait : un refus
+courtois se note **`REFUS` avec la date de reprise dans la note**, et non `NE PAS DEMARCHER`
+qui surtraduit — Glass Jet n'a pas demandé qu'on le laisse tranquille.
+
+## État du registre après nettoyage
+
+| | |
+|---|---|
+| Fiches | **841**, dont 824 actives et 17 doublons neutralisés |
+| Lignes malformées | **0** |
+| Statuts vides | **0** |
+| Doublons restants | 0 réel — 4 groupes vérifiés et légitimement distincts |
+| Envois du lot | 2 relances à haute valeur, rendues possibles par la réparation |
