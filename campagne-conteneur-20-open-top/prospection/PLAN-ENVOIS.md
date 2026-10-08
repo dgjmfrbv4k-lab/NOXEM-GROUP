@@ -71,7 +71,21 @@ Puis : **Almacenes Vidrí**, **Alico Egypt** (textes 9 et 10), les **cinq austra
 commun, textes 11 à 15), **Albitar**, **Sahara Glass**, **SOVEP**, **TechnoGlass**, **Mirodec**
 (textes 16 à 20), mélangées avec le reste des relances.
 
-### Lundi 13/10 et au-delà
+### Lundi 13/10 et au-delà — et le lot canadien devient la priorité
+
+**Le Canada passe devant le reste de la file, et c'est un changement de priorité du 08/10 14 h 20.**
+61 fiches, dont **43 avec une adresse et déjà contactées**, et un argument neuf vérifié le même
+jour : ~90 % du verre des fabricants canadiens vient des États-Unis, et cette frontière est passée
+sous droits de 50 % dans les deux sens en sept semaines. Ce n'est pas un argument de prix, c'est un
+argument d'origine unique — et il ne demande pas d'être moins cher que les Américains, seulement
+d'exister. Texte prêt dans `a-envoyer/2026-10-10-canada-angle-tarifaire.md`.
+
+**Pourquoi devant le reste de la file :** 43 relances sur des adresses dont on sait qu'elles ont
+pris livraison, avec un argument qui n'était pas dans le premier message, cela vaut mieux que
+30 premiers contacts sur des marchés où nous n'avons aucun angle neuf. C'est le même raisonnement
+que celui qui met les relances avant les nouvelles adresses, appliqué au bloc le plus gros.
+
+### Le reste, ensuite
 
 Le reste de la file, dans l'ordre du fichier du lot 2, **plus les cinq fiches volontairement
 datées au 13/10** : GlasPro et Northwestern Glass Fab (États-Unis, float produit sur place),
