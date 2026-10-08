@@ -195,3 +195,71 @@ Deux d'entre elles sont déjà identifiées comme ne devant plus passer par l'e-
 laisser au téléphone : **Vidrieria Universal** (Colombie), dont les deux adresses rebondissent en
 boîte pleine, et **Green Glass Industries** (Dubaï), bloquée par une IP sortante de Google
 blacklistée chez eux.
+
+---
+
+# Troisième série, 08/10 après-midi — deux fiches que le registre sous-estimait
+
+Les envois du jour sont arrêtés (un `5.7.1 High probability of spam` est tombé sur Alawadhi), donc
+ces deux-là partent le 09/10. Dans les deux cas la recherche n'a pas seulement trouvé une adresse :
+**elle a montré que la fiche décrivait une société plus petite que la réalité.**
+
+## 8. Importadora Crispieri (Chili) — `ventasiqq@crispieri.cl`
+
+La fiche la situait vaguement au Chili comme « importateur pur ». En réalité elle est à **Iquique**,
+avec **une succursale en zone franche ZOFRI** et une troisième à Antofagasta.
+
+**C'est ce qui change tout :** une importatrice de verre plat installée à Iquique avec un point en
+zone franche n'est pas un négociant local, c'est un **hub de réexport**. C'est le profil conteneur
+le plus net du Chili, et la ZOFRI dessert la Bolivie, le Pérou et le nord argentin.
+
+Registre du commerce : fabrication, manipulation et transformation de verre plat.
+Almirante Latorre 740, 9h–14h et 14h30–17h30 en semaine. Tél. +56 57 242 4712, Zofri
++56 57 241 6555, Antofagasta +56 55 222 5857.
+
+**Trois adresses existent sur leur domaine** — `ventasiqq@`, `ventaszofri@`, `ventasantof@`.
+Réserve honnête : elles ont été relevées sur leur page Facebook et une ancienne page Wix, celle de
+leur site étant obfusquée dans l'index. Le domaine correspond, donc la règle est satisfaite, mais
+**tester `ventasiqq@` seule d'abord**.
+
+Deux pièges écartés : `pbarsot@gmail.com`, un compte personnel ; et la page « contacto » de leur
+site, qui affiche des adresses à **Milan et Turin** sans rapport avec la filiale chilienne.
+
+## 9. Barrak Glass (Arabie saoudite) — `barrakgdf@gmail.com`
+
+La fiche annonçait **quatre** usines. Il y en a **sept** : première unité en 2005 à la cité
+industrielle d'Al-Hassa, puis Riyad, Al-Qassim, Djeddah, Khamis Mushait, puis Al-Jawf, puis une
+usine à **Dammam lancée fin 2025** que le groupe présente comme complétant sa couverture régionale.
+
+Transformation annoncée : trempe, travail de chant, perçage, polissage, biseautage, sablage,
+double vitrage. **Un parc de cette taille consomme du substrat en volume.**
+
+L'adresse est une Gmail, ce qui est inhabituel à ce niveau — mais elle est **publiée par le groupe
+sur son propre site** `al-barrakgroup.com`, donc l'exception du §5 s'applique et c'est noté.
+Service client 920005339.
+
+**À ne pas utiliser :** le site `barrakglass.com` affiche `info@massivedynamic.com` dans son
+en-tête — un reste de gabarit appartenant à un tiers. Leurs deux sites officiels donnent aussi des
+numéros différents, +966 13 582 6507 et +966 13 583 3735 : les deux à tester.
+
+**Rappel pour le message : l'Arabie saoudite produit son propre float** (Obeikan, Zoujaj,
+Guardian). Pas d'argument « pas de float local » — l'angle est le bout de gamme, comme pour Alma
+Glass et Uniglass.
+
+---
+
+# Récapitulatif complet du 09/10
+
+| Société | Adresse | Statut |
+|---|---|---|
+| Alma Glass (Riyad) | `info@almaglass.com.sa` | **parti le 08/10** |
+| Al Fozan Uniglass (Riyad) | `info@uniglass.com.sa` | **parti le 08/10** |
+| Al Abbar Group (Dubaï) | `info@` + `sales@` | **parti le 08/10** |
+| Float Glass Ltd (Edmonton) | `info@floatglass.ltd` | **parti le 08/10** |
+| Walshs Glass (Perth) | `sales@walshsglass.com.au` | **parti le 08/10** |
+| 55 Glass (Los Angeles) | `info@55glass.com` | **parti le 08/10** |
+| **Importadora Crispieri (Iquique)** | `ventasiqq@crispieri.cl` | **à envoyer** |
+| **Barrak Glass (Al-Hassa)** | `barrakgdf@gmail.com` | **à envoyer** |
+
+**Onze recherches de déverrouillage, huit adresses trouvées.** Le reste des 160 fiches d'appel
+mérite le même traitement.

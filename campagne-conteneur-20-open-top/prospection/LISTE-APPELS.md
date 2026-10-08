@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **158 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **160 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -15,7 +15,7 @@ l'**Australie** et le **Paraguay** sont passes a l'heure d'ete australe, leurs f
 ## Pourquoi cette liste est l'actif le plus sous-exploite de la campagne
 
 Mesure du 08/10 : **aucun pays du registre n'a plus de fiche avec adresse jamais contactee.**
-Tout ce qui pouvait partir par e-mail est parti. Ces 158 fiches sont le gisement restant,
+Tout ce qui pouvait partir par e-mail est parti. Ces 160 fiches sont le gisement restant,
 et elles ne s'ouvriront pas autrement qu'au telephone.
 
 La cause est connue et chiffree : la lecture web est coupee, donc je ne peux pas atteindre les
@@ -31,10 +31,11 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 144 societes
+## Hors Europe — 146 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
+| Chili | **Importadora Crispieri** | `+56 57 242 4712` | 14h00 - 22h00 | A APPELER | IMPORTATEUR PUR : cible prioritaire. Aucune adresse publiee. DEVERROUILLEE LE 08/10, ET LA FICHE SOUS-ESTIMAIT LARGEMENT LA CIBLE. Elle n est pas a Santiago mais a IQUIQUE, avec une succursale en ZONE FRANCHE ZOFRI et une trois... |
 | Jamaïque | **Virgin's International Trading Ltd** | `+1 876 754 1318` | 16h00 - 00h00 | A APPELER | IMPORTATEUR DECLARE D EXTRUSIONS ALUMINIUM : profil conteneur, fabricants de fenetres comme clients. Adresse masquee par les annuaires, aucune adresse lisible : ne pas deviner, appeler. CORRECTION D EMPHASE LE 08/10 : cette fic... |
 | Géorgie | **Bars Facade LLC** | `+995 577 41 51 36` | 07h00 - 15h00 | A APPELER | Fonde en 1998, importateur historique de verre entre la Georgie et la Turquie, deux sites Tbilissi et Batoumi. CIBLE PRIORITAIRE. Aucune adresse email publiee : appeler. Port Poti. CORRECTION DU 08/10 apres lecture de leur page... |
 | Inde | **Float Glass Centre (Sri Renuka Enterprises)** | `+91 80478 18693` | 05h30 - 13h30 | A APPELER | SE DECLARE PREMIER IMPORTATEUR DE VERRE D INDE. Le numero publie est un relais IndiaMART : chercher la ligne directe avant d appeler. Port Chennai. FUSION DU 08/10, detectee par un balayage systematique du registre : 1 fiche(s)... |
@@ -57,6 +58,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Mexique | **Javalfer** | `+52 81 1999 1007` | 17h00 - 01h00 | A APPELER | Mexique produit du float : approche directe sur trois references. Port Altamira. Rebond le 05/10 : adresse introuvable. |
 | Paraguay | **Vidrieria TEMPLAR — Templados del Paraguay** | `+595 21 326 97 55` | 14h00 - 22h00 | A APPELER | Trempeur donc acheteur de substrat. Aucune adresse publiee dans les resultats et fiche annuaire ancienne. Transit par Montevideo. A appeler. |
 | Pérou | **Corporación Limatambo** | `+51 1 338 2282` | 16h00 - 00h00 | A APPELER | TROIS IMPLANTATIONS dont une usine de trempe a San Juan de Lurigancho : acheteur de float regulier. Le Perou n a pas de ligne float. Aucune adresse publiee : a appeler. Port Callao. FUSION DU 08/10 : une seconde fiche existait ... |
+| Yémen | **Alawadhi Trading Group** | `+967 778 888 597` | 08h00 - 16h00 | A APPELER | Usine verrière et réseau à Sanaa, Aden, Mukalla, Hodeïda et Taïz. Pas d adresse publiee : appeler. Port . Fonde en 1974. Transformateur de verre architectural et bardage Alucobond, agences Yale Wacker et Dow. Dessert Yemen Arab... |
 | Égypte | **Dr Greiche Glass** | `+20 554 410 001` | 08h00 - 16h00 | A APPELER | TRES GROSSE MAISON. Pas d'adresse publiee : hotline 19864, WhatsApp +20 100 169 4476. VERIFIE LE 08/10, TOUJOURS SANS ADRESSE. Leur page de contact ne publie qu une hotline, le 19864, un lien WhatsApp et un numero par agence, L... |
 | États-Unis | **Gordon's Glass and Mirror** | `+1 904 388 5555` | 15h00 - 23h00 | A APPELER | Adresse citee sur un domaine different du site : ne pas deviner, appeler. |
 | États-Unis | **Glass Global Distributors LLC** | `+1 305 652 0101` | 15h00 - 23h00 | A APPELER | DISTRIBUTEUR FLOAT ET MIROIR POUR LES CARAIBES : tres bon profil. Le domaine de l adresse citee n apparait dans aucune URL de resultat, seulement des agregateurs dont un courtier de donnees interdit : aucun envoi. A appeler. |
@@ -83,7 +85,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Arabie saoudite | **Badr Glass** | `+966 12 608 0402` | 08h00 - 16h00 | A APPELER | Releve sur annuaire arabe. Aucune adresse publiee. |
 | Arabie saoudite | **Al-Manna** | `+966 11 265 0065` | 08h00 - 16h00 | A APPELER | Four de trempe identifié : acheteur de float régulier. Tel releve sur annuaire arabe. A VERIFIER AU TELEPHONE, releve le 08/10 : cette fiche partage le numero +966 11 265 0065 avec la fiche Almanco Factory. Soit la meme societe... |
 | Arabie saoudite | **Al Tbaynawi Glass** | `+966 16 532 5322` | 08h00 - 16h00 | A APPELER | Four Glaston et ligne de vitrage isolant LiSEC, trempe annoncée de 1600 m² par 10 heures. Pas d adresse publiee : appeler. Port Dammam. |
-| Arabie saoudite | **Barrak Glass Factories** | `+966 13 582 8509` | 08h00 - 16h00 | A APPELER | Groupe Al-Barrak. Volume important. Tel Al-Ahsa releve sur annuaire arabe.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relance comme au decompte des fiches jamais cont... |
+| Arabie saoudite | **Barrak Glass Factories** | `+966 13 582 6507` | 08h00 - 16h00 | A APPELER | Groupe Al-Barrak. Volume important. Tel Al-Ahsa releve sur annuaire arabe.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relance comme au decompte des fiches jamais cont... |
 | Arabie saoudite | **Glasshouse Company Ltd.** | `+966 11 498 5959` | 08h00 - 16h00 | A APPELER | Site de 10468 m² et deux lignes de production, près de 200000 m² de verre par an annoncés. Pas d adresse publiee : appeler. Port Dammam. FUSION DU 08/10, detectee par un balayage systematique du registre : 1 fiche(s) en double ... |
 | Bahamas | **Glass Suppliers & Installers Ltd** | `+1 242 341 2048` | 15h00 - 23h00 | A QUALIFIER | Reperee le 08/10 en verifiant Nassau Glass. Fenetres a impact anti-cyclone, donc consommatrice de feuillete, exactement notre gamme technique. ADRESSE larada arobase gsibahamas.com ECARTEE : relevee sur leur page Facebook et no... |
 | Bahreïn | **Bahrain Prism Glass Factory WLL** | `+973 1746 4000` | 08h00 - 16h00 | A APPELER | Transformateur complet, zone portuaire de Hidd. ADRESSE REBONDIE : rappeler au +973 1746 4000. CONTROLE MX DU 07/10 : le domaine prismbahrain.com ne resout pas (NXDOMAIN), l adresse info@prismbahrain.com ne peut pas recevoir. A... |
