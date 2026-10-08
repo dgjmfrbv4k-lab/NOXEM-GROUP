@@ -380,6 +380,25 @@ les autres fiches caribéennes du registre.
 
 ## 4. United Glass / John (Canada) — le prix était promis pour AUJOURD'HUI
 
+> **MISE À JOUR DE 15 h 40, ET C'EST LA MEILLEURE NOUVELLE DE LA JOURNÉE SUR CE DOSSIER.**
+> **John a répondu à 15 h 17 et il renonce à la cote 96 × 130.** Mot pour mot : *« To confirm, you
+> do not stock 96x130, correct? You can only achieve this if you cut it from a jumbo sheet. In this
+> case, just use your pricing based on jumbo sheet size. »*
+> **L'obstacle technique tombe donc : il demande un prix au jumbo.** Il ne reste plus **rien** à
+> régler sur ce dossier que **ton prix**. C'est le dossier le plus avancé après PG Namibie, et le
+> seul où le client a lui-même retiré la difficulté.
+> **Ce que j'ai répondu à 15 h 40, sans aucun prix.** J'ai confirmé que nous ne stockons pas cette
+> cote, puis j'ai soulevé un contrôle dimensionnel qu'il valait mieux poser avant une commande
+> qu'après : **si 96 × 130 est en pouces, 130 pouces font 3302 mm**, alors que le jumbo mesure
+> 3210 × 2550 — sa plus grande dimension est donc 3210 mm, soit environ 126,4 pouces. **Une pièce
+> de 130 pouces ne sort pas d'un jumbo standard, dans aucune orientation : il lui manque environ
+> 92 mm.** Elle exigerait un grand format, que je me suis explicitement refusé à promettre avant
+> confirmation de l'usine. Si la cote est en **centimètres**, il n'y a aucun problème. Je lui ai
+> donc demandé l'unité : cette seule réponse décide si c'est une fourniture jumbo ordinaire ou une
+> question de grand format. Et dans les deux cas, le prix sera établi au jumbo comme il le demande.
+> **Donc : un prix au jumbo, CIF Toronto, sur ses neuf références. C'est tout ce qui manque.**
+
+
 **Faits.** Demande de devis le 06/10 à 18h14, **une heure** après notre message. John veut un
 prix au pied carré CIF Toronto sur **neuf références**, open top et closed, caisses
 96 × 130 pouces.
