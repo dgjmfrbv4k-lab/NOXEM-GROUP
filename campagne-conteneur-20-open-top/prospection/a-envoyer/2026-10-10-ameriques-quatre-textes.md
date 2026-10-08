@@ -215,3 +215,53 @@ ensemble.
 un `5.7.1 High probability of spam`, ce qui a arrete les envois a froid de la journee (§10).
 **Avant le premier envoi du 10/10, verifier qu'aucun nouveau `5.7.1` n'est tombe dans la nuit.**
 Si un seul est arrive d'un serveur nouveau, ce lot attend.
+
+---
+
+## 5. Ajout — Vidrios y Cristales Guadalajara — Jalisco, Mexique — `info@vidriosycristalesguadalajara.com` — espagnol
+
+**Pourquoi eux :** cinquante ans de metier, des usines au Jalisco et une distribution nationale.
+Leur gamme va du trempe au feuillete, au bombe et a l'anti-bruit, plus l'aluminium. Une maison qui
+fait de l'acoustique travaille le feuillete epais et le substrat regulier.
+
+**Reserve importante :** cette adresse a rebondi **deux fois sur boite pleine**, le 24/09 et le
+06/10. Une boite pleine n'est pas une mauvaise adresse, c'est une boite saturee — mais deux fois
+en douze jours sur la meme boite dit que personne ne la vide. **Donc : un seul essai de plus, et
+si la boite est encore pleine, la fiche passe au telephone au +52 33 2212 1941 et on arrete d'y
+depenser des envois.** C'est ecrit ici pour ne pas y revenir une quatrieme fois.
+
+**Objet :** `Sustrato para laminado acustico y curvo, puerto de Manzanillo - NOXEM GROUP (Francia)`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio plano con
+sede cerca de Lyon, Francia. Les agradeceria hacer llegar este mensaje a quien gestione
+las compras.
+
+Les escribo por una razon precisa dentro de su gama: hacen laminado acustico y vidrio
+curvo. Son las dos fabricaciones mas exigentes con la regularidad del sustrato, porque un
+defecto de planimetria se ve en el curvado y se oye en el acustico. Cincuenta anos de
+oficio, plantas en Jalisco y distribucion nacional suponen tambien un consumo que se mide
+en contenedores y no en hojas.
+
+Lo que podemos cubrir de nuestra gama:
+- float claro y extra-claro, la base del laminado: https://noxemgroup.com/en/float-glass/
+- sustrato para templado: https://noxemgroup.com/en/tempered-glass/
+- vidrio tecnico para los proyectos especiales: https://noxemgroup.com/en/technical-glazing/
+
+Trabajamos por contenedor completo, en cajas de madera tratada conforme a la NIMP-15, en
+formato jumbo 3210 x 2550 mm o cortado a sus medidas. Podemos preparar una oferta para la
+entrega en Manzanillo o Veracruz, a su eleccion, sujeta a validacion por nuestra parte.
+
+Para que esa oferta signifique algo, solo necesito saber esto: que espesores consumen en
+mayor cantidad para el laminado y el curvado, en que formato, y cada cuanto mueven un
+contenedor.
+
+Si estan comprometidos con sus proveedores actuales, digamelo y no insisto.
+
+Un saludo cordial,
+```
+
+**Note sur l'ordre :** cette cinquieme fiche part **apres** les quatre premieres, et seule, pour
+la meme raison que Javalfer et Dellorto — sortie de rebond.

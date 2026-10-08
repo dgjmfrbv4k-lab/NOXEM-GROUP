@@ -161,7 +161,7 @@ commande signée.
 
 ---
 
-## Ajout du 08/10 a 15h45 — le lot du 10/10 sur les Ameriques
+## Ajout du 08/10 a 15h00 — le lot du 10/10 sur les Ameriques
 
 Quatre fiches deverrouillees ou corrigees en fin d'apres-midi, **textes integraux ecrits** dans
 `a-envoyer/2026-10-10-ameriques-quatre-textes.md` :

@@ -586,6 +586,17 @@ il a dit ne pas avoir de besoin actuellement.
 
 ## 13. Limites techniques connues
 
+- **L'HORLOGE DE LA SESSION EST EN UTC, ET J'AI DERIVE DEUX FOIS LE 08/10.** `date` tout court
+  rend l'heure UTC ; Paris est a **UTC+2** jusqu'au 25/10, puis UTC+1. J'ai horodate des entrees
+  de suivi a 15h25 et 15h45 alors qu'il etait 14h55 et 15h00, en ajoutant mentalement un decalage
+  en plus de celui deja applique. **Commande a utiliser systematiquement avant d'horodater quoi
+  que ce soit, et avant de decider si la fenetre de bilan est ouverte :**
+```bash
+TZ=Europe/Paris date '+%H:%M %Z (%d/%m/%Y)'
+```
+  Ce n'est pas un detail de forme : la journee se termine a 19 h heure de Paris et les bilans ont
+  une fenetre horaire. Une derive d'une demi-heure fait conclure trop tot.
+
 - **DIAGNOSTIC CORRIGÉ LE 08/10 — ce n'est pas une panne, c'est une liste blanche DNS.**
   Mesuré : `github.com` résout normalement, mais `gmail.com`, `example.com` et
   `noxemgroup.com` renvoient tous « Name or service not known ». La résolution fonctionne,
@@ -651,7 +662,7 @@ il a dit ne pas avoir de besoin actuellement.
     son accueil, et son propre serveur la refuse en `550 No Such User`. Ce n'est ni une adresse
     devinée ni une vieille page. **La méthode ne répare pas cela** : il reste le téléphone, ou
     mieux, le WhatsApp quand il est publié. Ne pas s'acharner.
-  **BILAN DU 08/10 À 15 h, SUR HUIT FICHES DE PLUS, ET IL CORRIGE DEUX CHOSES.**
+  **BILAN DU 08/10 À 14 h 55, SUR HUIT FICHES DE PLUS, ET IL CORRIGE DEUX CHOSES.**
   Rendement : **4 déverrouillages sur 8**, soit 50 %, en dessous des 62 % du matin. L'écart
   s'explique : les fiches faciles étaient déjà faites, et ce qui reste est le résidu dur.
   · **LE MEILLEUR GISEMENT N'EST PAS LES FICHES SANS ADRESSE, C'EST LES FICHES DONT L'ADRESSE A

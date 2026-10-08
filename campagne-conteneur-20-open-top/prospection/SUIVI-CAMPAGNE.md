@@ -2677,7 +2677,7 @@ pas — la mesure est sous reserve, donc on ne s'en sert pas comme argument.
 
 ---
 
-## 08/10/2026 — 15h25 · Douze fiches testees de plus, et le gisement n'est pas celui que je croyais
+## 08/10/2026 — 14h55 · Douze fiches testees de plus, et le gisement n'est pas celui que je croyais
 
 **Chiffres de la serie, d'abord.** Douze fiches testees par la methode du paragraphe 13, **cinq
 resultats exploitables** : trois adresses nouvelles ou corrigees et deux confirmations qui
