@@ -222,6 +222,7 @@ information indispensable qui n'existe nulle part.
 | `campagne-conteneur-20-open-top/prospection/SUIVI-CAMPAGNE.md` | tableau de suivi et entonnoir |
 | `campagne-conteneur-20-open-top/prospection/LISTE-APPELS.md` | fiches sans e-mail, par valeur, créneaux heure de Paris |
 | `campagne-conteneur-20-open-top/prospection/outils/genere-liste-appels.py` | régénère la liste d'appels depuis le registre. **À relancer après chaque lot**, pour que les fiches passées en `A APPELER` y entrent et que les créneaux suivent les changements d'heure |
+| `campagne-conteneur-20-open-top/prospection/DECISIONS-AARON.md` | ce qui attend un arbitrage d'Aaron, en faits → options → recommandation. **À tenir à jour à chaque dossier chaud** |
 | `email/SIGNATURE.md` | mentions légales de référence |
 
 Contrôle d'intégrité après chaque écriture (exactement **3** lignes à 11 champs sont légitimes) :
