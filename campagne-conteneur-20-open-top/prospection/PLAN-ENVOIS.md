@@ -244,18 +244,17 @@ verification douaniere a promus aujourd hui.** Et les textes existent deja :
 `a-envoyer/2026-10-10-canada-angle-tarifaire.md` (43 relances) et
 `a-envoyer/2026-10-10-etats-unis-angle-antidumping.md` (26 relances), ecrits ce matin.
 
-## Les onze plus urgentes, et ce ne sont pas celles-la
+## Les dix plus urgentes, et ce ne sont pas celles-la
 
-**Onze fiches sont a `ENVOYE` depuis le 22/09, le 01/10 ou le 02/10 — six a huit jours sans
-relance.** Elles passent AVANT les quarante-cinq nord-americaines, pour une raison de calendrier et
-non de valeur : **sept des onze sont en Afrique de l'Ouest**, le seul marche de la campagne qui ait
+**Dix fiches sont a `ENVOYE` depuis le 01/10 ou le 02/10 — six a sept jours sans relance.**
+Elles passent AVANT les quarante-cinq nord-americaines, pour une raison de calendrier et
+non de valeur : **six des dix sont en Afrique de l'Ouest**, le seul marche de la campagne qui ait
 une date. L'usine ghaneenne de KEDA annonce sa premiere ligne pour aout 2026, avec une incertitude
 d'environ un an ; chaque semaine compte, et une relance a huit jours est encore credible la ou une
 relance a trois semaines ne l'est plus.
 
 | Depuis | Pays | Societe | Adresse |
 |---|---|---|---|
-| 22/09 | Croatie | Staklo Bakar d.o.o. | `staklobakar2002@gmail.com` |
 | 01/10 | Maurice | G&S Aluminium Mauritius | `gnscontracting2023@gmail.com` |
 | 02/10 | Burkina Faso | Tropicalu | `tropicalu@yahoo.fr` |
 | 02/10 | Gambie | KJ Glass & Aluminium Co. Ltd | `kjglass@hotmail.com` |
@@ -272,9 +271,20 @@ a mis le float clair de 4 a 12 mm en regime restreint avec prix minimum depuis l
 verifier avant d'ecrire si cette restriction touche le transit vers un pays tiers — si oui, la
 relance n'a pas de sens et les deux fiches se declassent.
 
-**Reserve sur Staklo Bakar :** la Croatie est en Europe, donc §6, pas de nouvelle prospection. Mais
-c'est une fiche deja contactee, et le §6 autorise explicitement la relance des fiches europeennes
-existantes.
+**CORRECTION IMMEDIATE DE CE QUE JE VENAIS D ECRIRE.** J'avais mis **Staklo Bakar** (Croatie,
+`ENVOYE 2026-09-22`) en tete de ce tableau comme la plus urgente des relances — seize jours. **A
+tort :** sa fiche porte deja une decision contraire, prise et motivee, et je ne l'avais pas lue
+avant de compter. Leur relance conteneur est **volontairement reportee au 13/10**, parce qu'ils ont
+recu le 07/10 un message de l'autre campagne et que deux messages en deux jours depuis le meme
+expediteur nuiraient a la credibilite. Elle est donc retiree du tableau, qui compte **dix fiches**
+et non onze.
+
+**Et cela met le doigt sur un manque du vocabulaire des statuts, deja signale a Aaron :** une
+relance volontairement differee n'a pas de statut pour le dire. Elle reste a `ENVOYE` avec sa
+vieille date, donc **elle ressort comme echue dans tout comptage automatique** — y compris le mien,
+il y a cinq minutes. Tant qu'un statut `RELANCE DIFFEREE <date>` n'existe pas, **lire la note avant
+de compter une fiche comme en retard.** Le texte de sa relance du 13/10 est ecrit dans
+`a-envoyer/2026-10-13-qatar-maroc-deux-textes.md`.
 
 ## L'ordre des envois, revise a 15h50
 

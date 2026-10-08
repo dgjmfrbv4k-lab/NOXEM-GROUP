@@ -1,4 +1,6 @@
-# Lot du 13/10/2026 — Qatar, Winnipeg, Casablanca et Costa Rica, quatre textes prets
+# Lot du 13/10/2026 — cinq textes prets
+
+*Qatar, Winnipeg, Casablanca, Costa Rica, plus la relance croate reportee du 22/09.*
 
 *La troisieme fiche du 13/10, SXM Aluminium Installation, a son texte dans
 `2026-10-12-outre-mer-trois-textes.md` — elle a ete redigee avec le lot outre-mer.*
@@ -251,6 +253,69 @@ Un saludo cordial,
 
 ---
 
+## 5. STAKLO BAKAR d.o.o. — Bakar, Croatie — `staklobakar2002@gmail.com` — **relance**, pas premier contact
+
+**Pourquoi elle est ici et pas plus tot.** Elle est a `ENVOYE` depuis le **22/09**, soit la plus
+ancienne relance en attente de tout le registre. Ce n'est pas un oubli : **sa relance a ete
+volontairement reportee au 13/10**, parce qu'ils ont recu le 07/10 un message de la campagne
+destockage et que deux messages en deux jours depuis le meme expediteur auraient coute plus qu'ils
+n'auraient rapporte. Six jours d'ecart, c'est le minimum acceptable. **Aujourd'hui est la date
+prevue.**
+
+**Trois precautions propres a cette fiche.**
+- **C'est une RELANCE** : ils ont deja recu notre message du 22/09. Le texte le dit en premiere
+  ligne, et ne re-sert pas l'argumentaire complet. Une seule question, et une porte de sortie.
+- **Ils ont aussi recu le message destockage du 07/10.** Donc on ne fait pas semblant : on le
+  mentionne, parce qu'ils s'en souviennent et que l'ignorer donnerait l'impression de deux
+  services qui ne se parlent pas. C'est exactement ce qui a pese dans le refus de Cilvea, qui avait
+  recu les deux campagnes en vingt-quatre heures.
+- **Croatie = Europe, donc §6 : pas de nouvelle prospection europeenne.** Cette fiche est autorisee
+  parce qu'elle est **deja contactee**, et le §6 autorise explicitement la relance des fiches
+  europeennes existantes. **Ne pas en deduire qu'on peut ouvrir d'autres fiches croates.** Et ne pas
+  confondre avec les deux autres croates du registre : **Zrcalo** (fil vivant) et **Gorica Staklo**
+  (compte protege au §7).
+
+**Objet :** `Relance - verre plat par conteneur, Rijeka - une seule question`
+
+```
+Dobar dan,
+
+Je vous ai ecrit le 22 septembre au sujet de la fourniture de verre plat par conteneur
+complet depuis la France, et je n'ai pas eu de retour - ce qui est normal. Je relance une
+seule fois, avec une seule question.
+
+Et je prends les choses dans l'ordre : vous avez aussi recu de notre part, le 7 octobre, un
+message sur un destockage de verre en Belgique. Ce sont deux sujets differents et je
+prefere le dire plutot que de faire comme si vous ne l'aviez pas vu. Le destockage est une
+operation ponctuelle, livree par camion. Celui-ci est une fourniture reguliere par
+conteneur complet, et c'est de celle-la que je vous parle.
+
+Vous etes negociant et transformateur a dix kilometres de Rijeka, donc a cote d'un port.
+C'est la seule raison pour laquelle le conteneur a un sens pour vous : le verre arrive au
+quai et pas au bout de mille kilometres de route.
+
+La question, et c'est la seule : quelles references et epaisseurs achetez-vous en plus
+grande quantite dans l'annee, et dans quels formats ?
+
+Si vous etes engages avec vos fournisseurs actuels et que cela ne bougera pas, dites-le-moi
+et je n'insiste plus.
+
+Nos references de gamme, pour situer : float clair et extra-clair
+https://noxemgroup.com/en/float-glass/ et miroir sans cuivre ni plomb
+https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Nous pouvons etablir une offre pour la livraison a votre port de destination, sous reserve
+de validation de notre cote.
+
+Lijep pozdrav,
+```
+
+**Note de langue :** ouverture et cloture en croate, corps en francais. Leur site est croate et je
+n'ai pas de version croate de nos pages ; le francais est la langue de l'expediteur et l'anglais
+serait un choix par defaut. Si une reponse arrive en anglais, continuer en anglais.
+
+---
+
 ## Ordre du 13/10
 
 Trois envois, **espaces et non groupes**, dans cet ordre :
@@ -259,7 +324,8 @@ Trois envois, **espaces et non groupes**, dans cet ordre :
 2. **Border Glass** — seule, ses pages etant anciennes.
 3. **Choix Verre** — seule, meme raison.
 4. **Vidrios Brenes** — seule, verification incomplete.
-5. **SXM Aluminium Installation** — texte dans le fichier du 12/10.
+5. **Staklo Bakar** — **relance**, date prevue de longue date, a ne pas repousser une seconde fois.
+6. **SXM Aluminium Installation** — texte dans le fichier du 12/10.
 
 **Verification prealable, comme pour les autres lots :** controler qu'aucun `5.7.1` n'est tombe
 depuis un serveur **nouveau**. Un verdict repete depuis un serveur deja connu n'arrete rien — mise
