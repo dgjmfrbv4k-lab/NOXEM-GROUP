@@ -353,6 +353,7 @@ donc un concurrent sur toute la zone, et un concurrent actif commercialement en 
 **Arabian United Float Glass Company (UFG)** (Arabie saoudite — ajouté le 08/10. Le royaume compte
 donc au moins quatre producteurs float avec Obeikan, Zoujaj et Guardian : **ne jamais employer
 l'argument du float absent en Arabie saoudite**, c'est le marché le mieux pourvu de la zone),
+**SGC International Inc.** (États-Unis — ajouté le 08/10 : ce n'est pas un transformateur mais **le bureau exclusif de vente et de service de CSG, China Southern Glass, pour les États-Unis et le Canada**, à Commerce en Californie. La fiche du registre le nommait « SGC Specialty Glass Company », ce qui masquait sa nature. Trouvaille utile par l'autre bout : c'est exactement le circuit que le droit antidumping américain de 181 % frappe, donc exactement l'intermédiaire que les transformateurs américains doivent quitter),
 **Nasir Float Glass Industries** (Bangladesh — ajouté le 08/10. Premier float du pays, en service
 depuis 2005, environ 55 % du marché local annoncé, complexe de Tangail et centrale gaz propre.
 La fiche existait comme cible : le mot « float » dans une raison sociale impose la vérification
