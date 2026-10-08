@@ -7,6 +7,86 @@ Présenté comme l'impose le §11 : **faits → options → ma recommandation.**
 
 ---
 
+# URGENT — L'OFFRE ENVOYÉE À JOHN EST CALCULÉE SUR UNE COTE QU'IL N'A PAS DEMANDÉE
+
+**Relevé le 08/10 au soir sur la photo de l'offre. Ce n'est pas une impression, c'est vérifiable
+à la calculatrice, et ça peut aller dans les deux sens.**
+
+**Le fait.** L'en-tête de l'offre porte **Sheet size : 2440 × 3300 mm**. Or John a écrit, mot pour
+mot, à 15 h 48 : *« You can quote based on jumbo sheet size 3210 x 2550 mm. »*
+
+**La preuve, parce qu'une en-tête peut être une coquille et les chiffres non.** 2440 × 3300 fait
+**8,0520 m² par feuille**, un jumbo 3210 × 2550 en fait **8,1855**. Les quantités de l'offre
+collent à la première au centième près, sur toutes les lignes :
+
+| Feuilles | m² annoncés sur l'offre | si 2440 × 3300 | si jumbo 3210 × 2550 |
+|---|---|---|---|
+| 440 | 3 542,88 | **3 542,88** ✓ | 3 601,62 |
+| 220 | 1 771,44 | **1 771,44** ✓ | 1 800,81 |
+| 130 | 1 046,76 | **1 046,76** ✓ | 1 064,12 |
+| 110 | 885,72 | **885,72** ✓ | 900,40 |
+| 260 | 2 093,52 | **2 093,52** ✓ | 2 128,23 |
+
+**Donc l'offre entière est bâtie sur 2440 × 3300, pas sur le jumbo.** Et 2440 × 3300, c'est
+**exactement le 96 × 130 pouces** que John avait demandé au départ puis retiré (96 in = 2438 mm,
+130 in = 3302 mm).
+
+**Et voilà pourquoi ça compte, au-delà de la cote.** Le 08/10 à 15 h 40 j'ai écrit à John, noir sur
+blanc : *« That size needs an oversize sheet, and I am not going to tell you we can supply oversize
+until I have it confirmed on my side. »* C'est aussi ce qu'impose le §4 — ne jamais annoncer un
+grand format disponible avant que tu aies dit si une usine partenaire le fournit.
+
+**LA QUESTION, ET C'EST LA SEULE QUI COMPTE : as-tu confirmé 2440 × 3300 auprès de l'usine ?**
+- **Si OUI**, alors l'offre est bonne, John reçoit même mieux que ce qu'il demandait puisqu'il n'a
+  plus à recouper — **et surtout tu viens de répondre à la question qui bloque deux autres
+  dossiers.** Rubex demande du 3300 × 2140 et Caribbean Glass du 3302 × 2261 : les deux sortent
+  d'une feuille de 3300. **Dis-le-moi et je relance les deux demain.**
+- **Si NON**, il faut reprendre John avant qu'il ne commande sur une cote qu'on ne sait pas faire.
+  C'est rattrapable aujourd'hui, pas après un acompte de 30 %.
+
+## Deuxième point, moins grave mais à vérifier avec le transitaire : le poids
+
+Au ratio du §4 — 1 m² de 1 mm = 2,5 kg — **neuf conteneurs sur dix sortent entre 26,2 et 26,6 t de
+verre nu**, caisses bois non comprises. Le §4 retient une charge utile de 23 à 25 t.
+
+| Ligne | m² | Poids verre seul |
+|---|---|---|
+| float 3 mm · 440 feuilles | 3 542,88 | **26,57 t** |
+| float 6 mm · 220 feuilles | 1 771,44 | **26,57 t** |
+| float 10 mm · 130 feuilles | 1 046,76 | **26,17 t** |
+| float 12 mm · 110 feuilles | 885,72 | **26,57 t** |
+| feuilleté 6.38 · 130 feuilles | 1 046,76 | 16,70 t — le seul confortable |
+
+Avec dix caisses bois, on ajoute encore de l'ordre d'une tonne. **Je ne dis pas que c'est faux :
+la charge utile réelle d'un 40'HC dépend du transporteur et de la route, et je ne peux pas la
+vérifier d'ici.** Je dis que l'écart avec notre propre chiffre est systématique et qu'il vaut une
+question au transitaire avant la mise en production.
+
+## Ce qui est juste, et il faut le dire aussi
+
+- **Le total est exact.** La somme des dix conteneurs fait 194 367,22 €, exactement le total
+  imprimé. Aucune erreur d'addition.
+- **Les deux numéros du pied de page sont les bons** (+33 2 59 50 84 59 et WhatsApp
+  +33 6 86 13 12 71), conformes au §10.
+- **Les prix tiennent face aux deux repères de la campagne.** Le float 6 mm à 9,46 €/m² fait de
+  l'ordre de 6,3 €/m² en équivalent 4 mm, très au-dessus du repère indien de ~1,50 $/m² — ce qui
+  est cohérent avec la stratégie : on ne se bat pas contre l'Asie, on se place sur un marché où
+  elle est écartée par les droits. Et **le miroir argent à 8,35 et 11,33 €/m² dépasse le plancher
+  antidumping colombien de 7,70 $/m²** : ça confirme que le miroir est bien la ligne où un prix
+  européen tient le mieux.
+
+## Deux questions pour que je puisse travailler avec ça
+
+1. **Les conditions de paiement — 30 % T/T à la commande, 70 % contre copie du B/L — sont-elles la
+   règle de la campagne, ou spécifiques à John ?** Tant que tu ne l'as pas dit, le §5 m'interdit de
+   les reprendre ailleurs.
+2. **Puis-je me servir de cette grille comme base pour les trois autres dossiers ouverts** (PG
+   Namibie, Rubex, Caribbean Glass) ? Elle est en CIF Toronto, donc le fret change, mais le niveau
+   de prix départ serait enfin un point d'appui. **C'est ce qui débloque le plus de dossiers d'un
+   seul mot.**
+
+---
+
 # SI TU NE LIS QUE CETTE PAGE
 
 Ce document fait 660 lignes parce que chaque point porte ses faits. Voici les **sept décisions**,
