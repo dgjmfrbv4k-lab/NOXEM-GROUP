@@ -2169,3 +2169,43 @@ si Willem a écrit et qu'on ne l'a pas vu, le problème de ce dossier n'est plus
 Kajaani. C'est le **déstockage en camion inloader**, pas la campagne conteneur (§4), et un message
 lui a déjà été envoyé à 11 h 27. Consigné ici pour mémoire seulement : ce fil ne relève pas de ce
 suivi.
+
+### Deux des quatre demandes de prix relancées sans prix — et c'était la bonne décision
+
+Après l'incident Willem j'ai vérifié les adresses des quatre demandes de prix ouvertes. Résultat :
+**Caribbean Glass et Duravidrio sont confirmées** (elles ont écrit à cette boîte), mais une
+recherche sur `rubex` et `unitedglass` dans cette boîte ne rend **rien du tout**. Les deux fils
+vivent dans l'ancienne boîte, que cette session ne lit pas : **ces deux adresses n'ont jamais été
+vues fonctionner depuis le domaine actuel.** Après ce qui vient de se passer avec Willem, c'est un
+risque qu'il ne faut pas garder : le pire scénario serait que la grille de prix arrive enfin et
+que le devis rebondisse.
+
+**Et une erreur de date découverte au passage.** Le dossier d'Aaron disait, pour United Glass,
+« prix jeudi, c'était hier ». **Faux : aujourd'hui est jeudi.** Le prix promis à John était dû
+aujourd'hui, et rien n'était parti.
+
+**Décision prise : écrire aux deux, sans prix.** Le silence le jour promis coûte plus qu'un aveu.
+
+**United Glass / John (Canada).** Le message répond d'abord à son objection explicite — il avait
+dit que l'adresse Gmail ne le rassurait pas — en partant du domaine. Puis il dit franchement que
+la grille n'est pas prête et qu'aucun chiffre ne partira pour être corrigé la semaine suivante.
+Et il pose la question qui fait avancer le dossier sans prix : **96 pouces font 2438 mm, ce n'est
+pas une division du jumbo 3210 × 2550, et un four calibré 96 pouces ne prend pas 2550.** Coupe à
+la cote, à valider à l'usine, ou cotes standard qu'il recoupe — le second cas lui est annoncé
+comme meilleur pour lui, parce que c'est vrai.
+
+**Rubex (Égypte), à Nada Hassan**, Import and Export Specialist, fonction publiée donc nommable.
+Le message dit d'abord la vérité technique inconfortable : **le 3300 × 2140 ne sort pas d'un jumbo,
+il faut un PLF 6000 × 3210**, autre format et autre ligne, et rien ne sera annoncé disponible avant
+confirmation de l'usine. Puis deux questions : la quantité par épaisseur, et surtout **si le
+3300 × 2140 est une exigence de leur client ou seulement leur plan de coupe**. Aucune fiche
+technique envoyée, et c'est justifié dans le message : les fiches suivent la réponse sur le format,
+pas l'inverse, et aucun document portant des chiffres non validés ne partira.
+
+**Ces deux envois ne violent pas l'arrêt des envois à froid :** ce sont des comptes vivants qui
+attendent une réponse, pas de la prospection.
+
+**Correction de ma part, faite dans la minute :** j'avais passé les deux fiches en
+`RELANCE 2026-10-08`, ce qui effaçait du registre le fait qu'une demande de prix ferme y est
+ouverte. Le §3 impose de distinguer les demandes de devis des simples envois. Statuts restaurés :
+`DEMANDE DE DEVIS — RELANCEE 2026-10-08` et `DEMANDE DE PRIX — A CHIFFRER`.
