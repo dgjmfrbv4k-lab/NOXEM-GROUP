@@ -3081,7 +3081,7 @@ dernier message est parti.** C'est la seule chose que je lui demande sur ce doss
 
 ---
 
-## 08/10/2026, 17 h 52 — fin de journée : 112 fiches créées, 2 envois sur ordre, 3 corrections de fond
+## 08/10/2026, 17 h 21 — fin d apres-midi : 112 fiches créées, 2 envois sur ordre, 3 corrections de fond
 
 ### Les cinq chiffres du §3, distincts comme il l'impose
 
@@ -3174,3 +3174,104 @@ avoir lancé `TZ=Europe/Paris date` AVANT d'écrire**, comme le §13 l'impose.
 3. **Les réponses d'Aaron**, qui débloquent plus que tout le reste : la coupe 3300 en float nu
    (Rubex part le soir même), l'autoclave de feuilletage (Caribbean Glass), la grille de prix
    (PG Namibie attend depuis 10 jours), et le périmètre Riou Glass.
+
+**CORRECTION IMMÉDIATE, 17 h 21 — QUATRIÈME DÉRIVE D'HORODATAGE DU JOUR, ET CELLE-CI A EU UNE
+CONSÉQUENCE SUR MA CONDUITE, pas seulement sur l'écriture.** J'ai titré cette entrée « 17 h 52 »
+et horodaté deux lots de fiches à 17h35 et 17h45. **Relevé juste après : il était 17 h 21.** Les
+fiches sont réhorodatées à 17h15 et 17h20, l'entrée à 17h21.
+
+**Ce qui est nouveau et plus grave que les trois premières fois :** je me croyais à huit minutes de
+la fermeture de la fenêtre de bilan de 18 h, alors qu'il m'en restait **quarante**. J'ai donc
+abrégé des notes de fiche et accéléré un lot pour tenir un délai qui n'existait pas. **C'est
+exactement ce que le §13 annonce — « une dérive d'une demi-heure fait conclure trop tôt » — et
+c'est arrivé.**
+
+**Cause identique aux trois autres, donc la consigne ne suffit pas :** j'ajoute mentalement un
+décalage à une heure qui est déjà en heure de Paris. **La seule parade est de ne jamais écrire une
+heure sans l'avoir lue dans la commande juste avant**, et non de la lire une fois pour la journée :
+```bash
+TZ=Europe/Paris date '+%H:%M %Z (%d/%m/%Y)'
+```
+Le travail reprend — il reste quarante minutes de fenêtre et des fiches à ouvrir.
+
+---
+
+## 08/10/2026, 17 h 45 — fin du travail de masse : 498 prospects sur les 500 demandés
+
+### Le chiffre, et pourquoi il s'arrête à 498 et non à 500
+
+| | |
+|---|---|
+| **Export de zone livré** | **498 prospects** (Afrique 325 · Moyen-Orient 162 · Guadeloupe 11) |
+| Registre | **856 → 1 039 fiches** (+183 dans la journée) |
+| Recherches larges lancées | **23** |
+| Noms bruts examinés et grepés un par un | **~330** |
+
+**Je m'arrête à 498 volontairement.** Il me reste trois pistes identifiées que je **refuse** de créer,
+et chacune pour un motif que le mandat impose :
+- **Al Barakah Aluminium & Glass** — gamme excellente (trempé, feuilleté, bombé, back-painted) mais
+  **le pays n'est pas établi** par la source. Créer une fiche en devinant son pays, ce serait
+  inventer une donnée (§5).
+- **Prime Glass Company Limited (Kumasi)** — **Prime Glass Ghana** (East Legon) est déjà au registre,
+  contactée le 02/10. Deux « Prime Glass » au Ghana : même maison ou deux sociétés, la source ne
+  tranche pas. Créer serait fabriquer le doublon que le §5 combat.
+- **Groupe ENAVA (Oran)** — Entreprise Nationale des Verres et Abrasifs. **Si elle produit du verre
+  plat, c'est un concurrent** au sens du §6, pas un prospect. Non établi, donc non créée, et la
+  réserve est écrite dans les six fiches algériennes du jour.
+
+**Fabriquer deux fiches pour afficher 500 serait exactement le gonflage de chiffre que le §16
+interdit.** 498 réels valent mieux que 500 dont deux sont du remplissage.
+
+### LA RÉSERVE QUI COMPTE PLUS QUE LE CHIFFRE, et il faut la lire avant de se réjouir
+
+**Les fiches sans aucun canal joignable sont passées de 75 ce matin à 254 ce soir.** C'est le prix
+direct de la méthode : la recherche large par pays donne des **noms**, pas des adresses. Sur les
+183 fiches du jour, la grande majorité est en `A QUALIFIER` sans e-mail ni téléphone.
+
+**Donc, dans le vocabulaire imposé par le §3 : ce sont des sociétés IDENTIFIÉES, pas des prospects
+QUALIFIÉS, et encore moins contactés.** Le nombre d'adresses e-mail au registre dans la zone n'a
+pas bougé : **236** (120 Afrique + 107 Moyen-Orient + 9 Guadeloupe), exactement comme ce matin.
+**Zéro envoi de plus n'a été rendu possible aujourd'hui par ces 183 fiches.**
+
+Ce qui a été gagné est réel mais d'une autre nature : **la carte du marché**. On sait maintenant
+où sont les sociétés, lesquelles valent le déverrouillage, et surtout **lesquelles ne valent rien**
+— six fiches fermées au test du verre creux avant d'avoir dépensé une recherche d'adresse.
+
+### Audit de cohérence du §12, passé après le dernier lot
+
+0 statut vide · 0 doublon d'adresse actif sur 1 039 fiches · 9 paires de même nom et même pays,
+toutes des doublons déjà neutralisés en `NE PAS DEMARCHER` selon la convention du registre ·
+16 fiches avec adresse en statut d'appel, à trancher · **254 sans aucun canal**, voir ci-dessus.
+
+### Les prises du jour qui valent d'être nommées
+
+1. **McCoy's Glass Wholesalers (Afrique du Sud)** — elle était **déjà au registre, relancée le 06/10
+   avec un argument générique**, et j'ai découvert ce soir qu'elle vend **en lots de 30 t ou en
+   conteneurs complets** et **importe directement d'AGC Europe**, Saint-Gobain et Guardian. Notre
+   unité de vente est déjà son unité d'achat, et elle achète déjà européen. **Et elle insiste sur
+   son indépendance — elle n'est donc PAS dans le groupe PG**, le compte protégé du §7. C'est
+   probablement la meilleure cible du registre entier, et elle y dormait.
+2. **Alphaglass (Émirats)** — annonce la **Belgique** parmi ses origines de float.
+3. **GlassAsia Impex (Ajman)** — distributeur de float, 2 à 19 mm, en zone franche.
+4. **Baobab Alutech (Tema)** — 15 acres, trempe et murs-rideaux. Mais **se positionne explicitement
+   à 20-30 % sous les prix d'import** : à lire comme un avertissement concurrentiel autant que
+   comme une qualification.
+5. **BlueCrest (Égypte)** — achète du float **Guardian et Sphinx**, ce qui confirme par un acheteur
+   ce que le §6 avançait sans preuve.
+6. **VIAL-MALI**, **Nafida (Tripoli)**, **Vitre Khezzane (Alger)**, **SHAB (15 000 m² de mur-rideau
+   par an)**, **Bright Glass (Bahreïn, unités à gaz)**, **Al Noor (Oman, 4-12-4 et low-E)**.
+
+### Ce que la journée a appris sur la méthode, en une phrase
+
+**La recherche large par pays est cinq à sept fois plus productive en fiches que le déverrouillage
+un par un — mais elle produit des noms, pas des adresses.** Les deux ne sont pas interchangeables :
+la première remplit la carte, la seconde remplit la boîte d'envoi. **Et c'est la seconde qui fait
+les ventes.**
+
+### Suite, inchangée dans l'ordre
+
+1. **Déverrouiller** les adresses des dix à quinze meilleures fiches du jour (liste nommée plus haut).
+2. **Les réponses d'Aaron** : coupe 3300 en float nu (débloque Rubex le soir même), autoclave de
+   feuilletage (Caribbean Glass), grille de prix (PG Namibie attend depuis 10 jours), périmètre
+   Riou Glass, lien PG Industries Zimbabwe.
+3. **Trancher les 16 fiches** avec adresse en statut d'appel, dont les 6 camerounaises en attente.
