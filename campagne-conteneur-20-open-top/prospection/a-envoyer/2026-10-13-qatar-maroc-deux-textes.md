@@ -1,4 +1,4 @@
-# Lot du 13/10/2026 — Qatar, Winnipeg et Casablanca, trois textes prets
+# Lot du 13/10/2026 — Qatar, Winnipeg, Casablanca et Costa Rica, quatre textes prets
 
 *La troisieme fiche du 13/10, SXM Aluminium Installation, a son texte dans
 `2026-10-12-outre-mer-trois-textes.md` — elle a ete redigee avec le lot outre-mer.*
@@ -180,6 +180,77 @@ Best regards,
 
 ---
 
+## 4. VIDRIOS BRENES — Cartago, Costa Rica — `ventas@vidriosbrenes.com` — ES
+
+**Ajoutee a 15h50, et avec une reserve de verification qu'il faut dire.** Le domaine
+`vidriosbrenes.com` figure bien dans les URL de resultats, donc la regle anti-rebond du §5 est
+satisfaite **a la lettre** pour une adresse du meme domaine. Mais le second temps de la methode —
+la recherche restreinte a leur domaine, qui aurait confirme que l'adresse est sur **leur** page de
+contact et non sur un miroir — n'a pas pu etre fait : le budget de recherche etait epuise. **A
+envoyer seule**, et si elle rebondit, ne pas s'acharner. Une copie de leur page d'accueil est
+hebergee sur `vidrios-brenes.odoo.com`, donc le site canonique n'est pas certain a cent pour cent.
+
+**Pourquoi eux, et il y a un mot qui decide.** Leur gamme publiee comprend le **vidrio crudo**, le
+verre brut. Une maison qui vend du verre brut en plus du transforme **achete de la feuille**, et
+c'est la seule chose qu'il faut savoir avant d'ecrire. Le reste confirme l'echelle : affaire
+familiale fondee en 1984 a Cartago par Rodrigo Brenes Rodriguez avec son fils Jacob, plus de 35 ans
+de marche, plus de 950 chantiers revendiques, et **trois implantations** — Cartago-Belen, Heredia et
+Curridabat. Gamme : fenetres fixes, coulissantes et a projection, trempe, verre brut, verres
+speciaux, miroirs, garde-corps et **tableaux blancs**.
+
+**Deux angles a servir, dans cet ordre.** Le **miroir sans cuivre ni plomb**, parce que c'est notre
+produit le plus differenciant et qu'il vaut deux a cinq fois le float nu au metre carre. Et le
+**verre laque**, parce que leurs tableaux blancs en verre sont exactement du back-painted : c'est
+une ligne que peu de fournisseurs leur proposent nommement.
+
+**Ce qu'on n'ecrit pas.** Aucun argument d'absence de production locale : je n'ai pas verifie le
+parc float d'Amerique centrale et le §6 ne me l'autorise pas sans verification. Et rien sur les
+droits de douane. Ports Puerto Limon ou Caldera, a leur laisser le choix.
+
+**Objet :** `Vidrio crudo, espejo sin cobre y vidrio lacado por contenedor - NOXEM GROUP (Francia)`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio plano con
+sede cerca de Lyon, Francia. Les agradeceria hacer llegar este mensaje a quien gestione
+las compras.
+
+Les escribo por una palabra de su propio catalogo: vidrio crudo. Una casa que vende vidrio
+crudo junto con el templado y el transformado compra hoja, no producto terminado, y eso es
+lo unico que necesitaba saber antes de escribirles. Treinta y cinco anos de oficio, tres
+sedes entre Cartago-Belen, Heredia y Curridabat, y mas de novecientos cincuenta proyectos
+dicen el resto.
+
+Dos lineas de nuestra gama me parecen hechas para ustedes, y las pongo en este orden:
+
+- Espejo sin cobre ni plomo. El espejo plateado corriente lleva una capa de cobre que se
+  corroe en los cantos cuando el aire es humedo, y ustedes lo ven volver en bano y en
+  hoteleria. El nuestro no lleva ni cobre ni plomo:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+- Vidrio lacado. Sus pizarras de vidrio son back-painted, y es una linea que pocos
+  proveedores les proponen por su nombre: https://noxemgroup.com/en/lacquered-glass/
+
+Y la base, naturalmente: float claro y extra-claro
+https://noxemgroup.com/en/float-glass/ y sustrato para templado
+https://noxemgroup.com/en/tempered-glass/
+
+Trabajamos por contenedor completo, en cajas de madera tratada conforme a la NIMP-15, en
+formato jumbo 3210 x 2550 mm o cortado a sus medidas. Podemos preparar una oferta para la
+entrega en Puerto Limon o en Caldera, a su eleccion, sujeta a validacion por nuestra parte.
+
+Para que esa oferta signifique algo, solo necesito saber esto: que espesores y formatos
+consumen en mayor cantidad en crudo y en espejo, en que cantidad al ano, y si hoy los
+compran importados o a un distribuidor local.
+
+Si estan comprometidos con sus proveedores actuales, digamelo y no insisto.
+
+Un saludo cordial,
+```
+
+---
+
 ## Ordre du 13/10
 
 Trois envois, **espaces et non groupes**, dans cet ordre :
@@ -187,7 +258,8 @@ Trois envois, **espaces et non groupes**, dans cet ordre :
 1. **Bullseye Zoujaj** — adresse de demandes commerciales, la plus grosse du lot.
 2. **Border Glass** — seule, ses pages etant anciennes.
 3. **Choix Verre** — seule, meme raison.
-4. **SXM Aluminium Installation** — texte dans le fichier du 12/10.
+4. **Vidrios Brenes** — seule, verification incomplete.
+5. **SXM Aluminium Installation** — texte dans le fichier du 12/10.
 
 **Verification prealable, comme pour les autres lots :** controler qu'aucun `5.7.1` n'est tombe
 depuis un serveur **nouveau**. Un verdict repete depuis un serveur deja connu n'arrete rien — mise
