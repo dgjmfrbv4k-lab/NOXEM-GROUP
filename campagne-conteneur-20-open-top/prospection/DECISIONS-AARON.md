@@ -24,6 +24,11 @@ a été écartée par les douanes.**
 | **Canada** — 61 fiches | **Le verre américain**, qui fournit ~90 % du marché, à travers une frontière passée sous droits de 50 % dans les deux sens depuis août-septembre 2026. | Même parapluie haut, plus un argument de risque. Le float n'est pas surtaxé à l'entrée au Canada — **ne pas le prétendre** — mais la frontière est devenue coûteuse en délais. |
 | **Caraïbe** — Trinidad, Bahamas, Jamaïque… | **Miami, à deux jours de bateau**, et pas l'Asie. CM Glass Miami annonce exporter du verre américain ; Glass Global Distributors se dit distributeur pour la Floride du Sud **et les Caraïbes**. | Il faut tenir face à du **verre américain rendu**, qui n'est pas bon marché. C'est jouable. Mais ils ont le délai et le crédit pour eux — d'où l'objection d'Akeeda. |
 | **Afrique de l'Ouest** — ~40 fiches | Aujourd'hui personne de local. **Demain le Ghana** : usine KEDA de 250 M$ à Shama, 1 400 t/jour à terme, mandat d'export explicite, à 20 km du port de Takoradi. | **La seule zone avec une horloge.** Si une grille doit sortir en premier quelque part pour prendre des clients avant un concurrent, c'est là. |
+| **Afrique de l'Est** — 39 fiches | **Déjà fermée, et je ne l'avais pas mesuré.** Sapphire Float Glass à Mkuranga, Tanzanie, capital chinois : 700 t/jour de capacité, 450 effectives en mai 2024, et **elle exporte déjà vers Madagascar, le Burundi, la Zambie, le Rwanda, la RDC et l'Afrique du Sud**, 60 à 80 % de sa production. PFG a obtenu contre elle des droits sud-africains en janvier 2026. | **Arrêter d'y investir.** 39 fiches, zéro commande — je l'attribuais au ciblage, c'est au moins en partie le marché. Ne rester que sur ce que Sapphire ne fait pas : low-E, miroir sans cuivre, vitrage technique, grands formats. |
+| **Afrique australe** — 9 fiches, gelées | Le seul producteur de la SACU, **PFG, appartient au groupe de Willem.** | Prospecter là, c'est concurrencer le père pendant qu'on négocie avec le fils. **Gelé jusqu'à ton arbitrage.** |
+
+**En une phrase : l'Afrique se ferme, les Amériques s'ouvrent.** C'est l'inverse de l'intuition qui
+guidait la campagne, et c'est le résultat le plus utile de la journée.
 
 **Ce que j'en tire, et c'est une recommandation, pas une certitude :** la campagne a passé des
 semaines à chercher des marchés « sans production locale », en supposant que c'était là que le prix
