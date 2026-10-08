@@ -85,6 +85,24 @@ pris livraison, avec un argument qui n'était pas dans le premier message, cela 
 30 premiers contacts sur des marchés où nous n'avons aucun angle neuf. C'est le même raisonnement
 que celui qui met les relances avant les nouvelles adresses, appliqué au bloc le plus gros.
 
+### Et les États-Unis juste derrière — 26 relances, sur un argument encore plus fort
+
+**Trouvé le 08/10 en toute fin de journée, et il corrige un jugement que j'avais porté le même
+après-midi.** J'avais déclassé les fiches américaines au motif que les États-Unis produisent leur
+float. **C'est l'inverse qui compte :** depuis les ordres du 06/04/2026, le float chinois porte
+~181 % de droits antidumping et le malaisien jusqu'à 102 % de droits compensateurs. **L'Europe n'en
+porte aucun.** Les deux origines qui cassaient les prix viennent d'être sorties du marché, et les
+acheteurs qui s'y fournissaient cherchent une autre origine maintenant.
+
+26 fiches américaines ont une adresse et ont déjà reçu un message. Texte prêt dans
+`a-envoyer/2026-10-10-etats-unis-angle-antidumping.md`.
+
+**Ordre retenu : Canada d'abord, États-Unis ensuite.** Non pas que l'argument américain soit plus
+faible — il est plus fort — mais parce que le lot canadien est plus gros (43 contre 26) et que
+l'argument américain demande une vérification préalable : les ordres datent d'avril, et révisions
+ou recours peuvent avoir bougé. **Une vérification avant la première vague américaine**, et si les
+taux ont changé le texte change avec eux.
+
 ### Le reste, ensuite
 
 Le reste de la file, dans l'ordre du fichier du lot 2, **plus les cinq fiches volontairement

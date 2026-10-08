@@ -172,6 +172,32 @@ renverrait plutôt à août 2027. L'échéance réelle est donc **incertaine d'u
    ouest-africaine se referme.** Ce n'est pas une raison de ralentir, c'est une raison d'y aller
    maintenant — et c'est un élément à verser à la décision de prix d'Aaron.
 
+**ÉTATS-UNIS — 43 fiches, et mon jugement du 08/10 après-midi était faux. À corriger d'abord.**
+J'avais déclassé les fiches américaines en écrivant que « les États-Unis produisent leur float en
+abondance, donc l'offre européenne y part avec un handicap ». **Vérifié en fin de journée : c'est
+l'inverse qui vient de se produire, et c'est le fait le plus favorable de toute la journée.**
+- **Ordres antidumping et compensateurs publiés le 06/04/2026** sur le float glass, à effet
+  retroactif au **15/07/2025**. Pétitionnaires : **Vitro** Flat Glass et Vitro Meadville. Ce sont
+  **les premières procédures jamais dirigées contre les importations de float aux États-Unis.**
+- **Chine : droit antidumping de 181,52 %** pour l'entité nationale, 151,27 % pour les entités
+  Xinyi — les taux préliminaires allaient de 247 à 312 % — **plus un droit compensateur de 19,75 %
+  à 113,34 %** selon l'exportateur.
+- **Malaisie : l'antidumping a été abandonné** (importations jugées négligeables) **mais le droit
+  compensateur tient : 17,3 % à 102 %**, dont 102 % pour NSG Malaysian Sheet Glass et 27,3 % pour
+  « tous les autres ».
+- **L'Europe n'est visée par aucun de ces droits.**
+**Conséquence, et elle est directe :** les deux origines qui cassaient les prix sur le marché
+américain viennent d'être frappées à 181 % et à 27-102 %. Un transformateur américain qui achetait
+chinois ou malaisien cherche une autre origine **maintenant**. Les 43 fiches américaines passent
+donc de « ciblage faible » à **cible qualifiée**, et GlasPro et Northwestern Glass Fab, que j'avais
+datées au 13/10 pour ciblage faible, sont à requalifier.
+**Précaution de formulation :** on ne dit pas que notre verre est bon marché, on dit que **les deux
+origines les moins chères portent désormais des droits**, ce qui change la comparaison. Et on ne
+cite pas de taux comme une promesse de prix : ce sont des faits douaniers, pas notre tarif.
+**À reverifier avant chaque usage :** révisions administratives, décisions de portée et recours
+judiciaires peuvent avoir bougé depuis avril 2026. Les taux de dépôt en vigueur se lisent chez
+Commerce.
+
 **Canada — 61 fiches, le plus gros bloc du registre, et l'argument a changé le 08/10.**
 Ce qui était écrit jusqu'ici — « pas de ligne float depuis la fermeture d'Owen Sound en 2008 » —
 est **vrai mais faible, et imprécis**. Vérifié : l'usine d'Owen Sound était à **PPG**, pas à
