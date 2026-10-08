@@ -1441,3 +1441,63 @@ Registre : **839 fiches**, 156 pays.
 Repasser les 160 fiches `A APPELER` au crible de la recherche par auto-description, en
 commençant par les mieux notées. Bear Glass prouve qu'une partie d'entre elles a une adresse
 que l'ancienne méthode n'avait pas vue.
+
+---
+
+# Lot du 08/10 — quatrième tranche de relances, bloc Canada et États-Unis
+
+## Chiffres
+
+| | |
+|---|---|
+| Recherches | 0 |
+| Envois confirmés | **11 relances**, aucun rebond |
+| Réponses qualifiées | 0 |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+Journée : **72 relances**, 21 envois neufs. Reliquat du 1er–5 octobre : **30 fiches**.
+Registre : **841 fiches**.
+
+## Le bloc canadien a un argument commun et vérifié
+
+**Le Canada n'a plus de ligne float depuis 2008.** Tout le verre y est importé, quel que soit le
+fournisseur, et la seule variable réellement maîtrisée est l'origine. Les cinq relances
+canadiennes le posent d'entrée — ce n'est pas un argument de vente, c'est le cadre de la
+conversation.
+
+## Trois angles techniques qui valent d'être réutilisés
+
+Ce sont les plus solides écrits aujourd'hui, parce qu'ils sortent du prix :
+
+**Tri-Temp — le chant est le produit.** Ils font garde-corps et parois de douche. À 10 et 12 mm,
+la dominante verte du float clair standard se voit dans le chant, et sur un garde-corps sans
+cadre **le chant est précisément ce que le client regarde**. L'extra-clair n'est donc pas un
+raffinement, c'est la réponse au défaut.
+
+**Curved Glass — le bombage n'est pas indulgent.** Le verre repasse au four, et la courbe
+**amplifie** toute distorsion déjà présente dans la feuille au lieu de la masquer. C'est pour
+cela que le bombé et l'extra-clair vont ensemble.
+
+**American Insulated Glass — l'économie est dans le substrat.** Fabriquer du vitrage isolant,
+c'est consommer du float clair et du Low-E en volume sans en produire. La marge se joue donc
+presque entièrement sur l'achat du substrat, pas sur le process.
+
+Ces trois messages ne mentionnent ni prix ni délai : ils décrivent un défaut physique que
+l'interlocuteur connaît mieux que moi, et proposent la référence qui le corrige.
+
+## Deux angles logistiques vérifiés
+
+- **Houston est sur une ligne directe depuis Anvers et Le Havre** — la jambe atlantique la plus
+  courte pour une origine européenne vers les États-Unis. Utilisé sur Clarity et Texas Glass.
+- **Hawaï** : le verre qui atteint Honolulu via un port continental est manipulé deux fois et
+  paie la jambe continentale en plus. Un conteneur direct bat souvent ce schéma. Utilisé sur
+  U.S. Glass & Aluminum, dont la fiche signale cinq implantations dont Hawaï.
+
+## Deux précautions respectées
+
+- **U.S. Glass & Aluminum** : l'adresse publiée est un accueil (`frontdesk@`), pas un service
+  achats. Le message le dit explicitement et demande la transmission, conformément au §5 qui
+  interdit d'inventer une adresse.
+- **Texas Glass Group** envoyée **seule** : domaine sans MX mais avec un A. Quatrième cas du
+  jour après Thai Tempered, Eurowindow et Qaswa, tous sans rebond.
