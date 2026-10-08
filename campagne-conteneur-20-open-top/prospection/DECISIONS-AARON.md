@@ -143,6 +143,15 @@ a été renvoyé à la bonne adresse à 13 h 50**, avec la confirmation de l'adr
 tu voulais, le rappel des quatre références confirmées et ton WhatsApp proposé comme canal plus
 rapide. Aucun prix, puisqu'il n'y en a pas.
 
+**ET IL A RÉPONDU À 14 H 27, trente-sept minutes après le renvoi.** Mot pour mot : « Thanks, your
+email is well received, and we can communicate on this address, or on WhatsApp. » Signature :
+**Willem Heunis, Regional Manager**, fixe +264 83 387 5000, mobile +264 81 149 3977.
+
+**Donc le canal est rétabli et il est réactif. Et il attend maintenant la proposition que je lui ai
+annoncée.** Le coût du retard sur la grille n'est plus théorique : un client qui vient de confirmer
+son adresse attend une réponse. Je ne lui réécrirai pas pour ne rien dire — il a été sollicité deux
+fois en six heures — **donc la prochaine action sur ce dossier est la tienne.**
+
 **Deux choses te reviennent.**
 1. **Si tu as donné `willem@pgglass.com` à quelqu'un d'autre, ou si tu l'as en contact dans ton
    téléphone, corrige-le** : tout ce qui partira dessus rebondira.

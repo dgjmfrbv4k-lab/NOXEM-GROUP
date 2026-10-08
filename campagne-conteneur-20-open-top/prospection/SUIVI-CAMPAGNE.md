@@ -2573,3 +2573,24 @@ prospection :**
 les droits de douane.** Les textes préparés aujourd'hui pour le Canada et les États-Unis parlent
 des droits frappant l'Asie, ce qui est vérifié et reste vrai — mais aucun ne doit laisser entendre
 que nous entrons en franchise.
+
+### 14h30 · Willem a répondu. La réparation a tenu, et le dossier est reconnecté.
+
+**Trente-sept minutes après le renvoi à la bonne adresse**, Willem Heunis a répondu :
+
+> « Thanks, your email is well received, and we can communicate on this address, or on WhatsApp. »
+
+Signature : **Willem Heunis, Regional Manager** — fonction désormais confirmée par lui-même, donc
+nommable au titre du §5 — fixe **+264 83 387 5000** (nouveau) et mobile +264 81 149 3977.
+
+**Ce que cela règle, et ce que cela ouvre.** Le canal est rétabli sur `willem@pgglass.com.na` et sur
+WhatsApp, au choix. **Et le coût du retard sur la grille de prix cesse d'être théorique :** un
+client qui vient de confirmer son adresse attend la proposition que je lui ai annoncée dans le
+message. Je ne lui réécrirai pas pour ne rien dire — il a été sollicité deux fois en six heures.
+**La prochaine action sur ce dossier appartient à Aaron.**
+
+**Et le répondeur automatique français s'est encore déclenché**, à 14 h 27 et 27 secondes, juste
+après sa réponse. **Cinquième fois aujourd'hui.** À un interlocuteur anglophone en pleine
+négociation, un accusé automatique en français renvoyant vers un numéro fixe donne l'image d'une
+maison qui ne lit pas son courrier. C'est déjà remonté à Aaron ; cette occurrence-là est la plus
+coûteuse de la journée.
