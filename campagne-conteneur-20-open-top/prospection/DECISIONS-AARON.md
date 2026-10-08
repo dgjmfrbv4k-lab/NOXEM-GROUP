@@ -38,6 +38,39 @@ perçue comme bien organisée, réactivité appréciée.
 **Autrement dit : tout est tranché sauf le prix.** Un prix a été promis « aujourd'hui ou
 demain » le 28/09. Dix jours plus tard il n'est pas parti.
 
+### Mise à jour du 08/10 — deux choses à savoir avant d'écrire un prix
+
+**L'adresse.** Tu m'as donné `willem@pgglass.com` et tu lui as écrit là à 10h55. Mais la
+demande de prix du 28/09 vient de **`willem@pgglass.com.na`**. J'ai renvoyé le message sur
+cette adresse-là à 11h20 en assumant la répétition : si `pgglass.com` n'est pas la boîte qu'il
+relève, ton message de 10h55 ne lui arrivera jamais, et ce dossier est trop avancé pour être
+perdu sur une adresse.
+
+**Le prix.** Tu m'as demandé de regarder quel prix tu lui avais donné, et sur quelle base il
+t'avait dit que tu étais compétitif. **Je n'ai trouvé aucun prix envoyé à Willem**, et j'ai
+cherché partout : registre, suivi, boîte pro, fiche compte clé, dossier `achats/`.
+
+Ce que les sources disent réellement :
+- la RFQ `NOXEM-RFQ-2026-09-28-Namibia.pdf` **demande** un prix au m² à nos fournisseurs. Les
+  seuls montants en euros qu'elle porte sont les capitaux sociaux ;
+- le registre dit « en attente des prix fournisseur » et « prix promis pour aujourd'hui ou
+  demain » ;
+- la fiche compte clé portait « demande de prix en cours ».
+
+Et surtout, ce que Willem a dit n'est pas un retour sur le prix : il a trouvé la société bien
+organisée et a apprécié la réactivité, puis il a écrit qu'il s'organiserait selon notre
+approvisionnement **si le prix est bon**. C'est conditionnel. Il n'a jamais dit que nous étions
+compétitifs, parce qu'il n'a jamais reçu de chiffre.
+
+**Je n'ai donc mis aucun prix dans le message.** Sur un dossier où tout est confirmé sauf le
+prix, annoncer un chiffre de mémoire puis le corriger coûterait le compte. S'il te reste un
+prix en tête ou dans ton téléphone, donne-le-moi et je monte le devis ; sinon, ce qui bloque
+est le retour fournisseur à la RFQ du 28/09.
+
+**Réserve honnête** : le fil du 28/09 est né dans `harfiaaron0@gmail.com`, que cette session ne
+lit pas. Je ne peux donc pas exclure qu'un chiffre y ait circulé sans être consigné — mais le
+registre a justement été tenu pour ça, et il dit l'inverse.
+
 **Options.** (a) Envoyer la grille sur les 4 références et conclure. (b) Envoyer un prix
 partiel sur le seul 4 mm float clair, qui est la référence la plus simple, pour tenir le
 contact. (c) Dire franchement à Willem qu'il nous faut X jours de plus.

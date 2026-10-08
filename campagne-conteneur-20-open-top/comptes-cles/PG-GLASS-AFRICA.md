@@ -1,6 +1,6 @@
 # PG GLASS AFRICA — fiche compte clé
 
-Dernière mise à jour : 28/09/2026
+Dernière mise à jour : 08/10/2026
 
 ## Ce que c'est
 
@@ -85,3 +85,44 @@ déjà des contacts ouverts.
 négociation namibienne. Willem est Regional Manager — si nous nous présentons en
 même temps chez ses voisins avec un autre prix, nous nous décrédibilisons.
 Gagner la Namibie d'abord, puis se faire recommander en interne.
+
+
+---
+
+## 08/10/2026 — bascule vers la boîte pro, et le point sur les prix
+
+**Deux adresses coexistent pour Willem, et c'est un risque de livraison.**
+
+| Adresse | Origine | Usage |
+|---|---|---|
+| `willem@pgglass.com.na` | **adresse prouvée** — c'est de là qu'est venue la demande de prix ferme du 28/09 | la bonne |
+| `willem@pgglass.com` | adresse transmise par Aaron le 08/10 | sans le `.na` |
+
+Aaron a écrit lui-même à **`willem@pgglass.com` le 08/10 à 10h55** (heure de Paris) depuis la
+boîte pro, pour annoncer la nouvelle adresse et demander un accusé de réception. Aucun rebond,
+mais aucune réponse non plus à ce stade.
+
+**J'ai donc renvoyé le même message à `willem@pgglass.com.na` à 11h20**, en assumant
+explicitement la répétition dans le corps du message. Raison : si `pgglass.com` n'est pas la
+boîte qu'il relève, le message de 10h55 ne lui parviendra jamais, et ce dossier est trop avancé
+pour se permettre un silence dû à une adresse.
+
+### Aucun prix n'a jamais été communiqué à Willem
+
+Vérifié le 08/10 dans le registre, le suivi, la boîte pro, la fiche compte clé et le dossier
+`achats/`. Ce que les sources disent réellement :
+
+- la RFQ `NOXEM-RFQ-2026-09-28-Namibia.pdf` **demande** un prix au m² à nos fournisseurs — les
+  seuls montants en euros qu'elle porte sont les capitaux sociaux ;
+- le registre indique « en attente des prix fournisseur pour monter le devis » et
+  « prix promis pour aujourd'hui ou demain » ;
+- la fiche compte clé portait « **DEMANDE DE PRIX EN COURS** ».
+
+**Ce que Willem a réellement dit**, et qu'il ne faut pas confondre avec un retour sur le prix :
+société perçue comme bien organisée, réactivité appréciée, et surtout une phrase
+**conditionnelle** — il s'organisera selon notre approvisionnement **si le prix est bon**.
+Nous avons annoncé de la force sur le prix ; il n'a jamais dit que nous étions compétitifs,
+puisqu'il n'a jamais reçu de chiffre.
+
+**Conséquence : aucun prix ne doit être évoqué de mémoire dans ce fil.** Sur un dossier où tout
+est confirmé sauf le prix, un chiffre approximatif puis corrigé coûterait le compte.
