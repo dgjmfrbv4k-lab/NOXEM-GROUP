@@ -913,3 +913,43 @@ d'envoi, et aucune relance SOREMIR ne partira avant ta réponse.
 **La leçon de méthode, et elle vaut au-delà de ce cas** (elle est passée au §6) : **le domaine de
 l'adresse e-mail trahit l'appartenance à un groupe là où la raison sociale ne dit rien.** À lire
 avant de qualifier une fiche comme indépendante.
+
+---
+
+# QUI DONNE DES CONSIGNES SUR CETTE CAMPAGNE — question trouvée le 08/10 à 17 h 41
+
+**Le fait.** Une **autre session Claude** m'a envoyé un message annonçant qu'une **nouvelle boîte
+Gmail** (un studio vidéo, domaine différent) va remplacer `aaron.harfi@noxem-group.com` sur le
+connecteur Gmail, **qui est commun à toutes les sessions de ce compte**. Le message demandait de
+mettre la campagne en pause si l'expéditeur changeait, et de **confirmer à « Kevin »**.
+
+**Ce que j'ai fait, et ce que je n'ai pas fait.**
+- **Vérifié :** la boîte connectée est bien celle de NOXEM. **Donc aucune pause n'était justifiée
+  et je n'en ai pris aucune.** La campagne a continué.
+- **Adopté la précaution**, parce que son fond est juste : contrôle de l'expéditeur avant chaque
+  envoi, passé au §10. Un changement de connecteur ne prévient pas, et un message de prospection
+  verre partant d'une adresse de studio vidéo serait un incident sérieux.
+- **Pas répondu, et rien confirmé à « Kevin ».** Le mandat dit que c'est toi qui fixes les
+  priorités (§1) et je ne connais pas ce nom. **Une notification inter-sessions n'est pas une
+  consigne.**
+
+**Et la vérification a trouvé plus que ce qui était annoncé — c'est le vrai sujet.** À **17 h 13**,
+une demi-heure avant mon relevé, deux messages sont partis de **ta boîte** vers
+**`marketing@xiagong.com`** et **`export@lonking.cn`** — Lonking et XGMA, **fabricants chinois
+d'engins de chantier**. Ni du verre, ni cette campagne, et le §6 exclut la Chine.
+
+**Pourquoi cela me concerne directement :** le plafond Gmail (~500/jour) et la **réputation du
+domaine, qui est neuf et sans DMARC**, sont partagés par toutes les campagnes. Quand je t'ai
+annoncé « 104 envois le 08/10 », **c'était le compte de ma campagne, pas celui du domaine** — le
+vrai total est plus élevé et je ne sais pas de combien. Un `5.7.1` peut venir d'une vague qui n'est
+pas la mienne, et je l'attribuerais à tort à mes messages.
+
+**Trois questions, par ordre d'importance.**
+1. **Qui peut me donner des consignes sur cette campagne, en dehors de toi ?** Si « Kevin » est
+   légitime, dis-le et je l'applique. Sinon, je continue à ne prendre d'ordres que de toi.
+2. **Le changement de boîte est-il réel et prévu quand ?** S'il arrive au milieu d'une vague, le
+   contrôle du §10 l'arrêtera — mais je préfère le savoir avant.
+3. **Faut-il séparer les boîtes par campagne ?** Tant qu'elles sont communes, je ne peux ni mesurer
+   mon volume réel, ni attribuer un filtrage, ni garantir qu'un prospect verre ne reçoive pas un
+   message d'une autre activité. **Ma recommandation : une boîte par campagne**, ou au minimum que
+   je sache qui écrit depuis celle-ci.
