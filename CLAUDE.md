@@ -601,6 +601,7 @@ information indispensable qui n'existe nulle part.
 | `campagne-conteneur-20-open-top/prospection/APPELS-PRIORITAIRES.md` | **les 15 appels qui valent le temps d'Aaron**, un objectif par appel, fuseaux recalculés à la main. Extrait de la liste complète : personne ne passe 127 appels |
 | `campagne-conteneur-20-open-top/prospection/outils/genere-liste-appels.py` | régénère la liste d'appels depuis le registre. **À relancer après chaque lot**, pour que les fiches passées en `A APPELER` y entrent et que les créneaux suivent les changements d'heure |
 | `campagne-conteneur-20-open-top/prospection/DECISIONS-AARON.md` | ce qui attend un arbitrage d'Aaron, en faits → options → recommandation. **À tenir à jour à chaque dossier chaud** |
+| `campagne-conteneur-20-open-top/prospection/PRIORITES-RECHERCHE.md` | **où dépenser les 200 appels de recherche du tour** (ajouté le 08/10). Les 26 fiches en rebond avec un domaine propre, jamais retestées, triées par valeur — c'est le meilleur gisement établi ce jour-là. **À régénérer après chaque journée de déverrouillage**, le script est dans le fichier. |
 | `email/SIGNATURE.md` | mentions légales de référence |
 
 **INCIDENT DU 08/10 À 15 h 40 — J'AI DÉTRUIT LE REGISTRE, ET LE GARDE-FOU NE L'A PAS VU.**
