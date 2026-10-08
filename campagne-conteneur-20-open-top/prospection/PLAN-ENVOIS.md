@@ -214,3 +214,75 @@ serveur NOUVEAU qui compte.** Un `5.7.1` repete depuis un serveur deja connu n'a
 autorise a continuer a volume mesure. Le seul verdict du 08/10 venait de `info@yemenglass.com`,
 qui nous avait deja rejetes la veille — donc rien de neuf. Ce qui limitait les envois le 08/10
 etait le volume deja parti, 104 messages contre les 15 a 20 du plan, et non le filtrage.
+
+---
+
+# MESURE DU 08/10 A 15h50 — LE VRAI RESERVOIR N'EST PAS LES NOUVELLES ADRESSES, C'EST LES RELANCES
+
+**Chiffre mesure dans le registre, pas estime : 136 fiches sont a `ENVOYE` des 05, 06 ou 07/10 et
+n'ont JAMAIS ete relancees.** A cote, la file de premiers contacts compte 75 fiches. **Le
+reservoir de relances est donc presque deux fois plus gros que celui des envois neufs** — et une
+relance coute moins cher a ecrire, porte sur une adresse dont la delivrabilite est deja prouvee, et
+touche quelqu'un qui a deja vu notre nom une fois.
+
+C'est aussi l'ordre que le §2 impose : **relances echues avant nouvelle prospection.** Je l'ai
+respecte dans l'ordre des vagues, mais je n'avais pas mesure l'ampleur du gisement.
+
+## Et sa concentration geographique tombe exactement sur la carte du jour
+
+| Pays | Fiches a relancer | Ce que la carte du 08/10 en dit |
+|---|---|---|
+| **Canada** | **33** | pas de production float, 90 % venu des Etats-Unis, frontiere sous droits reciproques depuis le 22/08/2026 |
+| **Etats-Unis** | **12** | antidumping de 181 % sur le float chinois, plus CVD. Parapluie de prix le plus haut de la campagne |
+| Australie | 6 | derniere ligne float d'Australasie fermee, tout est importe |
+| Mexique | 5 | quotas contre la Chine et la Malaisie, mais droit general de 35 % — question en attente |
+| Bresil | 4 | antidumping Malaisie, Pakistan, Turquie confirme |
+| Costa Rica, Guatemala, Panama, Colombie | 16 | Amerique centrale et Caraibe |
+
+**Quarante-cinq fiches canadiennes et americaines a relancer, dans les deux marches que la
+verification douaniere a promus aujourd hui.** Et les textes existent deja :
+`a-envoyer/2026-10-10-canada-angle-tarifaire.md` (43 relances) et
+`a-envoyer/2026-10-10-etats-unis-angle-antidumping.md` (26 relances), ecrits ce matin.
+
+## Les onze plus urgentes, et ce ne sont pas celles-la
+
+**Onze fiches sont a `ENVOYE` depuis le 22/09, le 01/10 ou le 02/10 — six a huit jours sans
+relance.** Elles passent AVANT les quarante-cinq nord-americaines, pour une raison de calendrier et
+non de valeur : **sept des onze sont en Afrique de l'Ouest**, le seul marche de la campagne qui ait
+une date. L'usine ghaneenne de KEDA annonce sa premiere ligne pour aout 2026, avec une incertitude
+d'environ un an ; chaque semaine compte, et une relance a huit jours est encore credible la ou une
+relance a trois semaines ne l'est plus.
+
+| Depuis | Pays | Societe | Adresse |
+|---|---|---|---|
+| 22/09 | Croatie | Staklo Bakar d.o.o. | `staklobakar2002@gmail.com` |
+| 01/10 | Maurice | G&S Aluminium Mauritius | `gnscontracting2023@gmail.com` |
+| 02/10 | Burkina Faso | Tropicalu | `tropicalu@yahoo.fr` |
+| 02/10 | Gambie | KJ Glass & Aluminium Co. Ltd | `kjglass@hotmail.com` |
+| 02/10 | Ghana | Prime Glass Ghana | `info@primeglassghana.com` |
+| 02/10 | Liberia | International Aluminum Factory (IAF) | `sales@iafliberia.com` |
+| 02/10 | Nigeria | GLASSAL Nigeria Ltd | `info@glassalng.com` |
+| 02/10 | Nigeria | GlassFusion | `info@glassfusion.ng` |
+| 02/10 | Guyana | Glaze Manufacturing | `glazemanufacturing@gmail.com` |
+| 02/10 | Nepal | Nepal Glass Udhyog | `nepalglasstech@gmail.com` |
+| 02/10 | Nepal | Sky Light Pvt. Ltd. | `info@skylight.com.np` |
+
+**Reserve sur les deux fiches nepalaises :** le Nepal depend de l'Inde pour son transit, et l'Inde
+a mis le float clair de 4 a 12 mm en regime restreint avec prix minimum depuis le 18/08/2026. A
+verifier avant d'ecrire si cette restriction touche le transit vers un pays tiers — si oui, la
+relance n'a pas de sens et les deux fiches se declassent.
+
+**Reserve sur Staklo Bakar :** la Croatie est en Europe, donc §6, pas de nouvelle prospection. Mais
+c'est une fiche deja contactee, et le §6 autorise explicitement la relance des fiches europeennes
+existantes.
+
+## L'ordre des envois, revise a 15h50
+
+1. **Les 11 relances les plus anciennes**, Afrique de l'Ouest d'abord. Deux vagues de 5 et une de 1.
+2. **Les 57 premiers contacts du 09/10**, textes prets.
+3. **Les 45 relances nord-americaines** du 10/10, textes prets, angle tarifaire verifie.
+4. Les lots des 10, 12 et 13/10 deja decrits plus haut.
+
+**Et le rappel de volume, qui prime sur tout le reste :** 15 a 20 envois par jour, par vagues de 5
+espacees. 104 le 08/10 etait trop pour un domaine de huit jours sans DMARC, et c'est cela, et non
+le filtrage, qui a arrete les envois de l'apres-midi.
