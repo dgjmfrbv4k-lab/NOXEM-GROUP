@@ -1013,3 +1013,73 @@ Aucun statut du §12 ne dit ça. `NE PAS DEMARCHER` surtraduit — ils n'ont pas
 les laisse tranquilles. J'ai consigné le refus dans la note avec une relance en janvier 2027
 et gardé le statut de dernier contact. **Il manque un statut `REFUS` avec date de
 reprise** ; à arbitrer avec Aaron plutôt que de l'inventer seul.
+
+---
+
+# Lot du 08/10 — Petites Antilles, en suivant la preuve
+
+## Pourquoi les Antilles et pas ailleurs
+
+Choix fondé sur ce qui marche, pas sur la taille des marchés. La **seule demande de prix
+vivante de la campagne vient de Caribbean Glass Specialists à Trinidad**, et la deuxième
+fiche insulaire travaillée est Caribbean Metals à Sainte-Lucie. En face, les petits marchés
+d'Afrique francophone ont produit une série de rebonds : tout le bloc camerounais, le
+domaine mort de Vitrolux.
+
+Donc : **une île sans ligne float, anglophone, avec une présence web exploitable**, est le
+profil qui a effectivement répondu. Les Petites Antilles manquaient au registre — Antigua,
+Saint-Kitts, la Grenade, Saint-Vincent et la Dominique étaient à zéro fiche.
+
+## Chiffres de ce lot
+
+| | |
+|---|---|
+| Recherches | 2 requêtes sur six îles |
+| Fiches créées | **7**, plus 2 fiches existantes enrichies |
+| Envois confirmés | **3**, aucun rebond |
+| Réponses qualifiées | 0 |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+Pays couverts au registre : **150**. Fiches : **809**.
+
+## La vérification du registre a payé tout de suite
+
+Faite **avant** d'écrire cette fois, elle a bloqué un doublon et clarifié deux fiches :
+
+- **Glass Aluminium Services (Curaçao)** était déjà `ENVOYE 2026-10-06`. C'est exactement le
+  piège où je suis tombé avec Shibaam une heure plus tôt. Rien envoyé.
+- **Saint Lu Metal Grenada** s'est révélée être la **filiale grenadienne** du groupe Saint Lu
+  Metal déjà au registre pour Sainte-Lucie. Les deux fiches sont liées : un même groupe, à
+  traiter ensemble, pas deux prospects étrangers l'un à l'autre.
+- **Caribbean Glass & Aluminium Products** était déjà là pour Port of Spain ; sa succursale
+  de Kingstown à Saint-Vincent est venue compléter la fiche. À ne pas confondre avec
+  Caribbean Glass **Specialists**, qui est notre dossier chaud — deux sociétés distinctes au
+  nom voisin, dans le même petit marché.
+
+## Les trois envois, et l'argument de chacun
+
+| Société | Angle |
+|---|---|
+| **King Aluminium** (Trinidad) | Fournit la Jamaïque, Antigua, la Grenade, le Guyana, le Suriname et Saint-Kitts. Un réseau de cette portée impose du volume sur calendrier prévisible, pas de l'achat à la feuille |
+| **KHANS Aluminium** (Trinidad) | Émet des certificats d'origine pour entrer en franchise à la Barbade, en Grenade, à Sainte-Lucie, à Saint-Vincent et en Dominique. Fabricant exportateur : sa contrainte est l'intrant, pas le carnet de commandes |
+| **Domus Windows** | Fabricant PVC distribuant sur sept îles. Message bâti sur **une question qui tranche** : achètent-ils de la feuille qu'ils vitrent, ou des vitrages scellés déjà montés ? Si c'est la seconde réponse, nous ne servons à rien et je le dis dans le message |
+
+## Deux adresses écartées par la règle anti-rebond
+
+Les deux étaient tentantes, et c'est précisément pour ces cas que la règle existe :
+
+- **Saint Lu Metal Grenada** : `slmw@spiceisle.com`, relevée dans un annuaire. Le domaine
+  `spiceisle.com` n'apparaît **pas** dans les URL de résultats, et ce n'est pas le domaine du
+  site de la société. Écartée → appel.
+- **King's Glass (Antigua)** : adresse Gmail trouvée dans l'annuaire local, pas sur
+  `kingsglassantigua.com`, qui n'apparaît pas non plus dans les URL. Écartée → appel. Son
+  profil — parois de douche et miroirs automobiles — n'était de toute façon pas celui d'un
+  acheteur par conteneur.
+
+## Note de marché à garder en tête
+
+Trinidad est un petit marché, et nous approchons deux concurrents locaux de Caribbean Glass
+Specialists pendant qu'une discussion de prix est ouverte avec elle. C'est légitime pour un
+fournisseur non exclusif, et aucun de ces comptes n'est protégé au §7. Mais l'information
+circule vite sur une île : à savoir si l'un d'eux mentionne l'autre.
