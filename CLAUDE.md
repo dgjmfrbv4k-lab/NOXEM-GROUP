@@ -120,6 +120,11 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 ## 6. Géographie
 
 **Exclus définitivement :** Chine, Hong Kong, Macao (source d'approvisionnement), France.
+**Précision du 08/10, parce que la question s'est posée :** « France » veut dire la **métropole**.
+Les départements et territoires d'outre-mer sont **dans** le périmètre de cette campagne — ils sont
+approvisionnés par conteneur, et la Martinique est notre seul client export. Mayotte, La Réunion,
+la Guadeloupe, la Guyane, Saint-Martin, la Nouvelle-Calédonie et la Polynésie se prospectent donc
+normalement. C'est la métropole, livrable en camion, qui relève de l'autre campagne.
 **Exclus comme concurrents :** Corée du Sud, Japon, Taïwan, Turquie, Israël.
 **Europe :** pas de nouvelle prospection ; les fiches européennes existantes se relancent.
 
@@ -368,7 +373,7 @@ il a dit ne pas avoir de besoin actuellement.
   désormais.** `WebSearch` passe par un autre chemin que WebFetch. Lancé avec `allowed_domains`
   limité au **seul domaine de la société**, il renvoie le contenu de sa page de contact, adresse
   e-mail comprise, sans jamais résoudre le domaine localement. Rendement mesuré le 08/10 :
-  **40 adresses sur 65 sociétés testées**, soit 62 %, là où la recherche large n'en
+  **50 adresses sur 81 sociétés testées**, soit 62 %, là où la recherche large n'en
   donnait aucune. Les 10 échecs sont tous du même type : page de contact derrière un formulaire,
   adresse obfusquée, ou domaine qui ne rend plus aucun résultat — aucun n'est un échec de la
   méthode. **Et le gisement est connu : 102 fiches du registre ont un site et pas d'adresse.**

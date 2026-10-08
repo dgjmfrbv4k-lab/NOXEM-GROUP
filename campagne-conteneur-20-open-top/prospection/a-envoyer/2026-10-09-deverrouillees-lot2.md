@@ -1,13 +1,17 @@
-# Lot du 09/10/2026 — 31 adresses déverrouillées le 08/10
+# Lot des 09 et 10/10/2026 — 41 adresses déverrouillées le 08/10
 
 **Pourquoi ce lot existe.** Ces 21 sociétés étaient toutes au statut `A APPELER` : elles avaient
 un site, aucune adresse, et elles étaient donc inatteignables. La méthode de déverrouillage
 (`WebSearch` restreint au seul domaine de la société) a rendu l'adresse publiée sur leur propre
 page de contact.
 
-**Rendement mesuré, chiffres distincts à ne pas confondre :** 65 sociétés testées → **40 adresses
-obtenues** (62 %) → **31 mises en file d'envoi**. Les deux écarts se recoupent exactement : 40 moins
-les 9 non envoyables, c'est 31. L'écart de 5 est assumé et documenté :
+**Rendement mesuré, chiffres distincts à ne pas confondre :** 81 sociétés testées → **50 adresses
+obtenues** (62 %) → **41 mises en file d'envoi**. L'écart de 9 est documenté fiche par fiche.
+
+**41 envois à froid en une journée, c'est trop.** Le domaine a deux jours, il n'a pas de DMARC et
+le §10 impose de monter le volume progressivement. **Le lot se fait donc sur deux jours : 20 le
+09/10, 21 le 10/10**, par vagues de 5, en commençant par les plus gros comptes. L'ordre de priorité
+est celui des vagues ci-dessous. L'écart de 5 est assumé et documenté :
 Distribuidora del Caribe et Corporación Limatambo sont **déjà parties** le 08/10 ; Templar est
 déclassé (distributeur officiel Blindex, donc il achète du trempé fini à AGPAR et n'importe pas de
 substrat) ; Color Glass Import est hors périmètre (verre d'art Spectrum, pas verre plat de
@@ -152,3 +156,30 @@ de la commission anti-dumping à rétablir des droits suspendus pendant la pand�
   Vitralite (Kelowna), Float Glass Centre (Chennai), Universal Africa (Juba), Alutex (Asunción),
   Hartung (pays à établir), Action Enterprises (Haïti, domaine mort), IDASA et Wholesale Glass
   Distributors (domaines morts, à requalifier).
+
+---
+
+## Vague 7 — récupérations après rebond, et trois pays d'Asie
+
+Ces quatre-là valent plus que leur taille : **trois portent une adresse qui remplace une adresse
+morte**, donc elles étaient déjà perdues et sont récupérées.
+
+| Société | Adresse | Langue | Angle | Port |
+|---|---|---|---|---|
+| **Almacenes Vidrí** — Salvador | `canales.digitalessv@vidri.com.sv` | ES | **Le rebond du 07/10 est expliqué** : `ventasenlinea@` figure sur une version *ancienne* de leurs conditions générales ; la version à jour donne celle-ci. Chaîne de matériaux qui se présente comme « plus qu'une quincaillerie », réseau de succursales, vente en ligne. Une chaîne de cette taille achète par conteneur ou pas du tout. **Canaux numériques ≠ achats : demander la transmission au *departamento de compras*.** Ne pas utiliser `eventos64@`. | Acajutla |
+| **M&A Glass Processing** — Égypte | `maglass@maglassegypt.com` | EN | **Remplace `info@`, qui a rebondi hier en Recipient Unknown.** Boîte de société, trouvée en pied de page. Une adresse nominative existe aussi mais **n'est pas utilisée** : aucune fonction publiée (§5), et une boîte personnelle sur une page ancienne peut être celle d'un partant. L'angle est le plus précis du lot égyptien : ils ont des pages produits dédiées au **verre de lave-linge** et à l'électroménager. Une porte de hublot exige épaisseur, planéité et tenue thermique constantes lot après lot. *Sphinx Glass : pas d'argument « pas de float local ».* | Alexandrie |
+| **Pang Luon (Pranet)** — Cambodge | `info@pangluon.com` | EN | **Importateur déclaré depuis 1992**, dans un pays **sans production float**. Gamme float, structurel, sécurité, miroir, trempé, feuilleté, durci, cintré, dépoli. Piège : leur accueil écrit `pangLOUN.com`, lettres inversées — utiliser la version de la page de contact. | Sihanoukville |
+| **Taniglass** — Vietnam | `sales@kinhtanbinh.com` | EN | Marque de **Tan Binh Production-Trade-Invest JSC** (`kinh` = verre). Top 10 du verre vietnamien d'après eux, et surtout **l'aéroport international de Long Thành** à leur portefeuille, le plus gros chantier du pays. Exception §5 : domaine ≠ site. *Phu My et CFG Ha Long : pas d'argument « pas de float local »* — l'angle est la spécialité et le volume. | Cat Lai ou Cai Mep |
+
+---
+
+## Vague 8 — Canada, Tunisie, Pérou, Caraïbe
+
+| Société | Adresse | Langue | Angle | Port |
+|---|---|---|---|---|
+| **SOVEP** — Tunisie | `info@sovep-glass.com` | **FR** | **Première usine verrière de Tunisie, depuis 1979.** Trempé, feuilleté, isolant, décoratif et **pare-balles**. Le pare-balles est un empilement de feuilleté épais où la moindre irrégularité de planéité se voit et se paie : lier la page **vitrage technique**, pas la page float seule. **Ne citer aucun certificat de notre côté (§5).** | Radès |
+| **GlassTempCorr** — Pérou | `ventas@glasstempcorr.com.pe` | ES | **Quatre implantations** dont une à **Arequipa** : couverture nationale, pas seulement Lima. Exception §5 : adresse en `.com.pe`, site en `.com`. **À savoir et à ne pas ignorer :** leur usine est Av. México 421 à La Victoria et Corporación Limatambo, contactée le 08/10, est Av. México 512 dans le même quartier. Concurrents directs sur la même avenue — **ne pas leur servir le même message mot pour mot.** | Callao |
+| **Vanbo Glass Industries** — Canada | `info@vanboglass.ca` | EN | Surrey BC + installation à Sooke. Trempé, feuilleté, sérigraphie. **Une partie de leur site est en chinois** : maison probablement sino-canadienne, donc déjà approvisionnée en Asie. L'angle n'est pas le prix mais ce qu'une origine européenne apporte — **ne pas écrire comme s'ils n'avaient pas de fournisseur.** Plus de ligne float au Canada depuis 2008. | Vancouver |
+| **Dynamic Glass & Door** — Canada | `administration@dynamic-glass.com` | EN | Saskatoon, plus un partenariat avec **Clear-View Glass** à Prince Albert : le volume à considérer est celui des deux. `administration@` ≠ achats, demander la transmission. **Contrainte à ne pas ignorer :** la Saskatchewan est enclavée, un conteneur arrive par Vancouver ou Montréal **puis par rail**. Ne rien promettre en rendu, s'en tenir au port et à la réserve de validation. | Vancouver puis rail |
+| **SkyHigh Greenhouse** — Canada | `info@skyhighgreen.com` | EN | **Segment à part, et c'est son intérêt.** Leamington est le cœur de la serriculture canadienne et une serre consomme du verre au millier de m². **Réserve technique :** le verre horticole est un produit spécifique, souvent 4 mm diffusant en cotes Venlo. **La question du message doit porter sur qui achète le verre et sous quelles cotes**, pas sur une gamme. | Montréal ou Toronto |
+| **Kendra's Aluminium Products** — Saint-Vincent | `info@kendrawindows.com` | EN | Campden Park Industrial Estate : fabricant, pas boutique. Fenêtres, portes, **volet roulant anti-cyclonique**, barreaux de sécurité. **Réserve assumée :** 100 000 habitants, un conteneur peut représenter une année de consommation. Question sur le volume annuel avant toute offre, et accepter que la réponse puisse être « trop pour nous ». | Kingstown |
