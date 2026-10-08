@@ -35,11 +35,34 @@ Faute commise aujourd'hui sur Shibaam Uganda : recherche, redaction, envoi, **pu
 la fiche etait deja relancee deux jours plus tot. Le `grep` se fait des que la recherche rend des
 noms.
 
+## DEUX CORRECTIONS À LIRE AVANT D'OUVRIR CE TABLEAU (08/10)
+
+**1. L'argument australien était mal nommé, et le bon est plus fort.** Ce fichier parlait de la
+« fermeture de la float Viridian ». Vérifié le 08/10 : ce n'est plus Viridian mais **Oceania
+Glass**, née du rachat de Viridian à CSR par Crescent Capital (2018) puis renommée en 2019.
+Administrateurs Grant Thornton vers **février 2025**, aucun repreneur, arrêt de la ligne float de
+**Dandenong**, 56 licenciements puis 95 annoncés. C'était **la seule ligne float d'Australasie**.
+L'échec a été attribué publiquement aux importations asiatiques à bas prix et au retard de la
+commission anti-dumping à rétablir des droits suspendus pendant la pandémie.
+**Formule à employer : « with the Dandenong float line wound down, there is no float line left in
+Australasia ». Dire que la ligne a été arrêtée, pas qu'elle ne redémarrera jamais.**
+
+**2. L'argument chilien est FAUX et il est déjà parti.** Ce fichier demandait d'écrire à Forpec
+qu'il n'y a « aucune float au Chili ». **Il y en a une : Vidrios Lirquén.** Le premier message à
+Forpec est parti avec cette affirmation, le 08/10 au matin — la faute est consommée et la
+crédibilité entamée. **La relance ne doit surtout pas y revenir** : elle porte sur le Low-E, le
+miroir sans cuivre et le feuilleté, et rien sur l'absence de production locale. Même interdit
+pour Interglass.
+
+**Et un garde-fou général ajouté au §6 du mandat :** avant d'écrire qu'un pays n'a pas de
+production float, le vérifier. L'outil `outils/verif-argument-float.py` balaie le registre pour
+cette faute précise.
+
 ## Le reliquat, par valeur decroissante
 
 | Pays | Societe | Adresse | Envoye le | Pourquoi elle compte |
 |---|---|---|---|---|
-| Australie | **GlassCo Australia** | `info@glasscoaustralia.com.au` | 10-05 | IMPORTATEUR DECLARE. Copie a orders@. Argument : fermeture de la float Viridian, l'Australie importe tout. Port Melbourne. |
+| Australie | **GlassCo Australia** | `info@glasscoaustralia.com.au` | 10-05 | IMPORTATEUR DECLARE. Copie a orders@. Argument : **la dernière ligne float d'Australasie a été arrêtée** — voir la correction en tête de fichier. Port Melbourne. |
 | Brésil | **Mercinglass** | `atendimento@mercinglass.com.br` | 10-05 | IMPORTATEUR DECLARE. Bresil produit du float : approche sur trois references. Port Santos. |
 | Brésil | **Divinal Vidros** | `comunicacao@divinalvidros.com.br` | 10-05 | DISTRIBUTEUR HISTORIQUE (1953), sites SP et Belo Horizonte. Float local : viser Low-E, miroir et formats jumbo. Port Santos. Adresse trouvee le 05/10 : boite communication, demande de transfert aux ac |
 | Brésil | **Xanglass** | `vendas6@xanglass.com.br` | 10-05 | Stockiste : achete en volume. Port Santos. |
@@ -47,20 +70,20 @@ noms.
 | États-Unis | **Western States Glass** | `sales@wsglass.com` | 10-05 | Stockiste : achete en volume. Port Long Beach. |
 | États-Unis | **Glaz-Tech Industries** | `info@glaztech.com` | 10-05 | Grossiste float. Ports Houston ou Long Beach. |
 | Argentine | **Marcelo Trento S.R.L.** | `ventas@marcelotrento.com.ar` | 10-05 | Grossiste historique. Port Buenos Aires ou Rosario. Envoi en espagnol. |
-| Australie | **Glass Outlet** | `salesdan@glassoutlet.com.au` | 10-05 | Copie a salesbris@ pour l'agence de Brisbane. Argument fermeture Viridian. |
+| Australie | **Glass Outlet** | `salesdan@glassoutlet.com.au` | 10-05 | Copie a salesbris@ pour l'agence de Brisbane. Argument de la ligne float arrêtée — **voir la correction en tête de fichier**. |
 | Oman | **Al Kharusi International LLC** | `sales@alkharusi.com` | 10-05 | Distributeur national, adresse commerciale directe. |
 | États-Unis | **Wholesale Glass Distributors Memphis** | `sales@wgdmemphis.com` | 10-05 | Interieur des terres : CIF Houston ou Nouvelle-Orleans. |
 | Arabie saoudite | **Safwa Glass** | `info@safwaglass.com` | 10-05 | Zone Est, proche du port de Dammam. Adresse trouvee le 05/10. |
-| Australie | **Tough Glass** | `info@toughglass.com.au` | 10-05 | Argument fermeture Viridian. Port Fremantle. |
-| Australie | **V&N Glass** | `sales@vnglass.com.au` | 10-05 | Argument fermeture Viridian. Port Botany. |
+| Australie | **Tough Glass** | `info@toughglass.com.au` | 10-05 | Argument de la ligne float arrêtée — **voir la correction en tête de fichier**. Port Fremantle. |
+| Australie | **V&N Glass** | `sales@vnglass.com.au` | 10-05 | Argument de la ligne float arrêtée — **voir la correction en tête de fichier**. Port Botany. |
 | Canada | **BG Glass Technologies** | `info@bgglasstech.com` | 10-05 | Argument low-iron europeen. |
 | Canada | **IGG Glass** | `sales@igg-glass.ca` | 10-05 | Port Montreal. |
 | Canada | **Central Canadian Glass Ltd** | `sales@ccgglass.com` | 10-05 | Fabricant architectural ontarien. Port Montreal. |
 | Canada | **Imagic Glass Inc.** | `info@imagicglass.com` | 10-05 | Travaille le jumbo : argument open-top. |
 | Canada | **Canadian Architectural Glass** | `info@caglass.ca` | 10-05 | Port Montreal. |
 | Canada | **North Temp Glass** | `info@northtemp.com` | 10-05 | Port Montreal. |
-| Chili | **Forpec** | `ventas@forpec.cl` | 10-05 | Envoi en espagnol, argument : aucune float au Chili. |
-| Chili | **Interglass** | `contacto@interglass.cl` | 10-05 | Envoi en espagnol. |
+| Chili | **Forpec** | `ventas@forpec.cl` | 10-05 | Envoi en espagnol. **ARGUMENT INTERDIT, CORRIGÉ LE 08/10 : il y a bien une float au Chili, Vidrios Lirquén.** Le premier message à Forpec est déjà parti avec cette affirmation fausse, la crédibilité est entamée — la relance doit porter sur autre chose : Low-E, miroir sans cuivre, feuilleté. |
+| Chili | **Interglass** | `contacto@interglass.cl` | 10-05 | Envoi en espagnol. **Même interdit que Forpec : le Chili produit du float (Vidrios Lirquén).** Ne pas annoncer l'absence de production locale. |
 | Koweït | **Glass World** | `info@glassworld.co` | 10-05 | Ne pas confondre avec Glass World Industries aux Emirats. |
 | Liberia | **International Aluminum Factory (IAF)** | `sales@iafliberia.com` | 10-02 | Fabricant aluminium-verre de Monrovia depuis 1982, 5th Street Tubman Blvd. Aucune adresse email publiee : appeler. Port Monrovia. Adresse retrouvee. Usine depuis 1982, IAF Building 5th Street Sinkor T |
 | Mexique | **Vycisa** | `karene@vycisa.com` | 10-05 | Contact nomme. Port Veracruz. |

@@ -172,6 +172,29 @@ renverrait plutôt à août 2027. L'échéance réelle est donc **incertaine d'u
    ouest-africaine se referme.** Ce n'est pas une raison de ralentir, c'est une raison d'y aller
    maintenant — et c'est un élément à verser à la décision de prix d'Aaron.
 
+**Canada — 61 fiches, le plus gros bloc du registre, et l'argument a changé le 08/10.**
+Ce qui était écrit jusqu'ici — « pas de ligne float depuis la fermeture d'Owen Sound en 2008 » —
+est **vrai mais faible, et imprécis**. Vérifié : l'usine d'Owen Sound était à **PPG**, pas à
+Pilkington ; la fermeture a été annoncée en 2008 mais l'arrêt de la production était attendu
+**début 2009**. Donc ne plus dater au millésime : dire « plus de ligne float au Canada ».
+**Les faits forts, eux, sont ailleurs, et ils sont d'actualité :**
+- le Canada est **le seul pays du G20 sans production float nationale** (Fenestration Canada) ;
+- **environ 90 % du verre utilisé par les fabricants canadiens vient des États-Unis** (chiffre
+  industriel 2025) ;
+- les États-Unis ont imposé le **22/08/2026 des droits de 50 % au titre de la Section 338** sur
+  certains produits canadiens, y compris des marchandises conformes à l'USMCA ; le Canada a
+  riposté le **08/09/2026** par des surtaxes de 15, 25 ou 50 % sur environ 874 lignes tarifaires,
+  ramenées à 629, soit 27,6 Md$ de produits américains ;
+- **le float (SH 7005) n'est PAS sur ces listes de riposte** — le verre creux y est à 50 %, pas le
+  verre plat de bâtiment. **Ne jamais écrire qu'il est taxé : ce serait faux.**
+- en revanche les expéditions depuis les États-Unis subissent des **procédures douanières et des
+  délais supplémentaires**, documentés, et **trois façadiers canadiens ont déposé le bilan**
+  (Integro, Antamex, TAGG) en citant les droits et contre-droits parmi les causes.
+**L'argument à employer, et il est de gestion du risque, pas de prix :** un marché qui importe
+90 % de son verre d'un seul pays, et dont les échanges avec ce pays sont sous droits de 50 % et
+surtaxes réciproques, a un intérêt objectif à connaître une seconde origine. **C'est tout — ne
+pas citer les faillites des concurrents dans un message, c'est à garder en interne.**
+
 **Australie et Nouvelle-Zélande — fait établi le 08/10, vérifié avant usage :** la **dernière ligne
 float d'Australasie a fermé**. Ce n'est plus Viridian mais **Oceania Glass**, née du rachat de
 Viridian à CSR par Crescent Capital (2018) puis renommée en 2019. Administrateurs Grant Thornton

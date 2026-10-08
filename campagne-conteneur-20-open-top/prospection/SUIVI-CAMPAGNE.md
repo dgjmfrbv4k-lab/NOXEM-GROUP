@@ -2248,3 +2248,40 @@ disponible, et ne plus qualifier un feuilleteur grand format comme cible priorit
 `info@glass.lk` (**Gamini Enterprises**, Sri Lanka) a renvoyé un accusé automatique à 10 h 46 :
 l'adresse fonctionne et le message est entré. Ce n'est pas une réponse commerciale, mais tant que
 le contrôle MX est impossible, une preuve de délivrabilité se note.
+
+### 14h20 · Le Canada — 61 fiches, et l'argument employé jusqu'ici était le plus faible disponible
+
+En vérifiant une affirmation qui figure dans **plusieurs messages déjà partis** — « Canada has had
+no float line since the Owen Sound plant closed in 2008 » — j'ai trouvé mieux, et plus actuel.
+
+**Ce qui était inexact, sans être faux.** L'usine d'Owen Sound était à **PPG**, pas à Pilkington
+(je ne l'avais heureusement jamais attribuée dans un message). La fermeture a été **annoncée** en
+2008, mais l'arrêt de la production était attendu **début 2009**, avec des fermetures aux 2e et 3e
+trimestres. Les sources divergent sur l'année. **Donc ne plus dater au millésime** : « plus de
+ligne float au Canada » suffit et ne peut pas être contredit.
+
+**Ce qui est fort, vérifié, et d'actualité :**
+
+| Fait | Source |
+|---|---|
+| Le Canada est **le seul pays du G20 sans production float nationale** | Fenestration Canada |
+| **~90 % du verre utilisé par les fabricants canadiens vient des États-Unis** | chiffre industriel 2025 |
+| **22/08/2026 : droits américains de 50 %** (Section 338) sur certains produits canadiens, y compris des marchandises conformes à l'USMCA | — |
+| **08/09/2026 : riposte canadienne**, surtaxes de 15, 25 ou 50 % sur ~874 lignes tarifaires ramenées à 629, soit 27,6 Md$ de produits américains | — |
+| **Le float (SH 7005) n'est PAS sur ces listes** — le verre creux y est à 50 %, pas le verre plat de bâtiment | — |
+| Les expéditions depuis les États-Unis subissent des **procédures douanières et des délais supplémentaires** | — |
+| **Trois façadiers canadiens ont déposé le bilan** — Integro, Antamex, TAGG — en citant droits et contre-droits parmi les causes | Glass Canada |
+
+**L'argument à employer est donc de gestion du risque, pas de prix** : un marché qui importe 90 %
+de son verre d'un seul pays, et dont les échanges avec ce pays sont sous droits de 50 % et
+surtaxes réciproques, a un intérêt objectif à connaître une seconde origine. C'est vrai, c'est
+vérifiable, et ça ne demande pas d'être moins cher que les Américains — seulement d'exister.
+
+**Deux interdits qui vont avec, et ils comptent :**
+1. **Ne jamais écrire que le float est taxé au Canada.** Il ne l'est pas, les listes de riposte
+   ne le contiennent pas. L'écrire serait faux et un acheteur canadien le saurait immédiatement.
+2. **Ne jamais citer les faillites des concurrents dans un message.** C'est un renseignement
+   interne, pas un argument de vente.
+
+Ajouté au §6 du mandat. **Les 61 fiches canadiennes sont à relancer sur cet angle**, et c'est
+probablement le meilleur emploi d'une vague de relances après le lot en cours.

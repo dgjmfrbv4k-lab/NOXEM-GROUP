@@ -121,7 +121,7 @@ Si están comprometidos con sus proveedores actuales, díganmelo y no insisto.
 
 ## 3. Green Glass Industries — Émirats — `Info@greenglassindustries.com` — anglais
 
-**Objet :** Float and PLF substrate by the full container, Ras Al Khaimah - NOXEM GROUP (France)
+**Objet :** Float substrate by the full container, Ras Al Khaimah - NOXEM GROUP (France)
 
 ```
 Hello,
