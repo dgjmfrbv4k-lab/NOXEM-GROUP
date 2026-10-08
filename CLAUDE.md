@@ -708,6 +708,19 @@ non de verre plat de bâtiment. À ne pas confondre avec une petite structure, q
 Aval, ajoutés au vocabulaire le 08/10 parce qu'ils étaient déjà employés sur les dossiers vivants
 et qu'il manquait de quoi dire un refus : `REPONSE YYYY-MM-DD` · `DEMANDE DE PRIX YYYY-MM-DD` ·
 `DEMANDE DE DEVIS YYYY-MM-DD` · `EN NEGOCIATION` · `REFUS YYYY-MM-DD`.
+
+**`RELANCE DIFFEREE YYYY-MM-DD`, ajouté le 08/10 à 15 h 50 après m'être trompé moi-même.**
+Staklo Bakar restait à `ENVOYE 2026-09-22` alors que sa relance était **volontairement reportée au
+13/10** — ils avaient reçu le 07/10 un message de l'autre campagne, et deux messages en deux jours
+depuis le même expéditeur coûtent plus qu'ils ne rapportent, comme cela a pesé dans le refus de
+Cilvea. **Résultat : elle ressortait comme la relance la plus en retard du registre**, et je l'ai
+comptée ainsi dans le plan d'envois avant d'avoir lu sa note. La décision était bonne, le statut ne
+la portait pas.
+**Donc : une relance différée se date dans son statut, pas seulement dans sa note.** Le statut
+porte la date à laquelle elle doit partir, ce qui la rend invisible aux comptages d'échéances
+jusqu'à cette date — et visible le jour voulu. Même logique que `A ENVOYER YYYY-MM-DD`.
+**Et la règle générale, qui vaut au-delà de ce statut : avant de compter une fiche en retard, lire
+sa note.** Un comptage automatique sur les statuts ne voit pas une décision écrite en prose.
 Un refus courtois se note `REFUS` **avec la date de reprise dans la note**, et non
 `NE PAS DEMARCHER`, qui surtraduit : Glass Jet n'a pas demandé qu'on le laisse tranquille,
 il a dit ne pas avoir de besoin actuellement.
