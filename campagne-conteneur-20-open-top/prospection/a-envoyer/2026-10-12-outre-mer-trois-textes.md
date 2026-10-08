@@ -1,4 +1,6 @@
-# Lot du 12 et 13/10/2026 — outre-mer, trois textes prets
+# Lot du 12 et 13/10/2026 — quatre textes prets
+
+*Trois fiches d'outre-mer, plus Glass Australia ajoutee a 15h25 parce qu'elle part le meme jour.*
 
 Trois fiches deverrouillees le 08/10 apres-midi. **C'est le marche ou nous sommes les plus
 credibles** : on expedie de France, on ecrit en francais, les normes sont les memes, et il n'y a ni
@@ -182,16 +184,85 @@ Best regards,
 
 ---
 
+## 4. GLASS AUSTRALIA PTY LTD — Malaga, Australie-Occidentale — `sales@glassaustralia.com` — le 12/10
+
+**Ajoutee a ce lot le 08/10 a 15h25, et c'est la meilleure fiche neuve de l'apres-midi.** Rien a
+voir avec l'outre-mer : elle rejoint ce lot parce qu'elle part le meme jour.
+
+**Pourquoi elle est excellente, et tout est dans leurs propres mots.** Ils se declarent
+**grossiste** de produits verriers de base, **ne vendent pas au grand public**, et **ne font pas de
+pose**. Distribution pure, sans chantier : le profil qui raisonne au metre carre et a la rotation,
+et pour qui le conteneur complet est l'unite naturelle. Leur gamme publiee est la notre page par
+page — verre imprime, Low-E, float teinte, miroir et miroir teinte. **Et le paragraphe 6 etablit
+que la derniere ligne float d'Australasie a ferme avec Oceania Glass : tout le float consomme en
+Australie est importe.** Aucun producteur local a contourner.
+
+**LE POINT D'HONNETETE QUI FAIT L'OUVERTURE DE CE MESSAGE :** leur specialite declaree est le
+**verre imprime**, et nous n'avons pas de page produit la-dessus au paragraphe 8. **Donc on ne
+revendique rien sur le verre imprime** — et le dire soi-meme, en premiere ligne, vaut mieux que de
+se faire reprendre : c'est ce qui etablit qu'on a lu leur site et qu'on ne vend pas au bluff.
+
+**Reserve :** leur page de contact rend son champ e-mail brouille dans l'index, et l'adresse vient
+de leurs pages FAQ et About Us, deux pages concordantes. Regle anti-rebond satisfaite. Port
+Fremantle, a vingt kilometres. Perth est en UTC+8.
+
+**Objet :** `Low-E, tinted float and copper-free mirror by the container - NOXEM GROUP (France)`
+
+```
+Hello,
+
+My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter based near
+Lyon, France. Please pass this to whoever handles purchasing.
+
+Let me start with what I am not writing about. Patterned glass is your declared
+speciality, and I have nothing to add there - we do not carry a patterned range and I am
+not going to pretend otherwise. I am writing about the other three lines on your product
+pages.
+
+The reason I am writing to you rather than to a glazier is simple: you say yourself that
+you are a wholesale supplier, that you do not sell to the general public, and that you do
+not install. That means landed cost and batch-to-batch consistency are the only two things
+that matter to you - which is exactly the conversation a full container is for.
+
+Where our range meets yours:
+- low emissivity glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- clear and extra-clear float, including high-transmission extra-clear:
+  https://noxemgroup.com/en/float-glass/
+- copper and lead free mirror: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+  This one is worth a line of its own. Ordinary silver mirror carries a copper layer that
+  corrodes at the cut edges in humid conditions. Ours has neither copper nor lead, which
+  changes how it behaves in bathrooms, coastal work and anywhere the air is wet.
+- lacquered and back-painted glass: https://noxemgroup.com/en/lacquered-glass/
+
+We work by full container, in ISPM-15 treated wooden crates, in jumbo 3210 x 2550 mm or
+cut to your sizes. We can put together an offer for delivery to Fremantle, subject to
+validation on our side.
+
+What I need to make that offer mean anything: which references and thicknesses you move in
+the largest volume, in which sizes, your annual volume, and how often you would take a
+container.
+
+If you are locked in with your current supply, tell me and I will not push.
+
+Best regards,
+```
+
+---
+
 ## Ordre et rythme
 
 **Trois envois, tous les trois seuls.** Savima et Univers du Verre parce que leurs pages sont
 anciennes et que l'adresse peut avoir vieilli ; SXM parce que son adresse est sur un domaine
 exterieur. Rien ne se groupe dans ce lot.
 
-1. **Savima** le 12/10, en premier et seule — c'est la plus grosse prise, elle merite l'envoi le
-   plus propre.
-2. **Univers du Verre** le 12/10, apres verification qu'aucun rebond n'est revenu sur Savima.
-3. **SXM Aluminium** le 13/10.
+1. **Savima** le 12/10, en premier et seule — c'est la plus grosse prise des outre-mer, elle
+   merite l'envoi le plus propre.
+2. **Glass Australia** le 12/10, ensuite. Son adresse n'a jamais rebondi et son domaine est sain,
+   donc elle n'a pas besoin d'etre isolee pour la meme raison que les deux guadeloupeennes — mais
+   on l'espace tout de meme de Savima, pour ne pas faire de rafale.
+3. **Univers du Verre** le 12/10, apres verification qu'aucun rebond n'est revenu sur les deux
+   premieres.
+4. **SXM Aluminium** le 13/10.
 
 **Et la verification prealable, comme pour le lot du 10/10 :** controler au matin qu'aucun nouveau
 `5.7.1` n'est tombe depuis un serveur **nouveau**. Rappel de la mise au point du 08/10 a 15h15 : un
