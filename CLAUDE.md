@@ -107,6 +107,24 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   site qui vend des relevés d'importation ou des contacts d'acheteurs tombe sous cette règle,
   qu'il soit nommé ici ou non — c'est la nature du service qui compte, pas le nom).
 - **Jamais pousser sur une autre branche** que `claude/campagne-conteneur-20-open-fl0382`.
+- **JAMAIS RÉPONDRE À UN PROSPECT SANS L'ACCORD D'AARON. Je prépare le texte, je le consigne dans
+  la fiche, et j'attends.** La règle existait au §15 ; elle monte ici, dans les interdits absolus,
+  **parce que je l'ai enfreinte le 08/10 et qu'Aaron a dû me le dire lui-même.**
+  **Ce qui s'est passé :** John d'United Glass a répondu deux fois dans l'après-midi, et je lui ai
+  répondu deux fois, à 15 h 40 et 15 h 50, de ma propre initiative. Le fond était conforme — aucun
+  prix, aucun délai, aucun engagement, aucune signature — et le résultat a été bon, John ayant
+  tranché la question du format. **Rien de tout cela n'excuse l'envoi.**
+  **Et voici pourquoi la règle n'est pas une formalité, c'est la leçon du cas :** pendant que
+  j'écrivais à John, **Aaron lui envoyait sa proposition de son côté**. Deux personnes qui écrivent
+  au même client dans la même heure sans se coordonner, c'est exactement ce que cette règle
+  empêche. Le risque n'est pas que mon texte soit mauvais, c'est qu'il arrive **en travers** de ce
+  que fait Aaron.
+  **Le réflexe correct, dans l'ordre :** rédiger la réponse → la coller dans la note de la fiche →
+  passer au prospect suivant → présenter le texte à Aaron au bilan. **Jamais d'envoi, même d'une
+  ligne, même purement technique, même quand le client attend.** Un client qui attend une heure de
+  plus ne coûte rien ; un client qui reçoit deux messages contradictoires coûte le dossier.
+  **Exception unique : un ordre explicite d'Aaron sur ce message-là.** Il est alors cité dans la
+  fiche, avec l'heure.
 - **L'adresse à utiliser est celle du REGISTRE. Jamais une adresse de mémoire, pas même celle
   qu'Aaron vient de dicter.** Règle ajoutée le 08/10 après **deux fautes dans la même journée**.
   Le matin, la relance Zrcalo est partie à `info@zrcalo.hr`, reconstruite de tête, alors que la
@@ -707,7 +725,7 @@ non de verre plat de bâtiment. À ne pas confondre avec une petite structure, q
 
 Aval, ajoutés au vocabulaire le 08/10 parce qu'ils étaient déjà employés sur les dossiers vivants
 et qu'il manquait de quoi dire un refus : `REPONSE YYYY-MM-DD` · `DEMANDE DE PRIX YYYY-MM-DD` ·
-`DEMANDE DE DEVIS YYYY-MM-DD` · `EN NEGOCIATION` · `REFUS YYYY-MM-DD`.
+`DEMANDE DE DEVIS YYYY-MM-DD` · **`DEVIS ENVOYE YYYY-MM-DD`** (ajouté le 08/10 : le devis est parti, c'est l'étape du §3 entre la demande et la négociation. Premier cas : United Glass, proposition envoyée par Aaron lui-même) · `EN NEGOCIATION` · `REFUS YYYY-MM-DD`.
 
 **`RELANCE DIFFEREE YYYY-MM-DD`, ajouté le 08/10 à 15 h 50 après m'être trompé moi-même.**
 Staklo Bakar restait à `ENVOYE 2026-09-22` alors que sa relance était **volontairement reportée au
@@ -909,6 +927,15 @@ awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $9 !~ /TE
   massif. On avance par lots, pas en rafale. Perdre la boîte tuerait les dossiers en cours.
 - Deux boîtes : `harfiaaron9@gmail.com` (fils Maltha et GRL) et `harfiaaron0@gmail.com`
   (envois depuis le 06/10 12h47). **Répondre dans la boîte où le fil est né.**
+  **ET UNE CONSÉQUENCE MESURÉE LE 08/10, qui va plus loin que « répondre au bon endroit » :
+  Aaron envoie aussi depuis ces boîtes, et je ne le vois pas.** Sa proposition à John est partie
+  en fin d'après-midi et **n'apparaît pas** dans la boîte Workspace : une recherche sur
+  `to:john@unitedglass.ca OR from:john@unitedglass.ca newer_than:1d` ne rend que le fil existant.
+  **Donc : l'absence d'un message dans cette boîte ne prouve pas qu'il n'a pas été envoyé, et
+  l'absence de réponse d'un client ne prouve pas qu'il n'a pas répondu** — sa réponse peut être
+  partie vers la boîte d'où l'offre est sortie. **Avant d'écrire « pas de réponse » sur un dossier
+  chaud, demander à Aaron de quelle boîte son dernier message est parti.** C'est noté sur la fiche
+  United Glass.
 
 ## 14. Commits
 
