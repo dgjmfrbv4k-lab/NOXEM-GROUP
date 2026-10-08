@@ -114,6 +114,23 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--c2);outline-offset:
 @media (prefers-reduced-motion:reduce){.caret,.wave i{animation:none}.tile{transition:none}}
 [dir="rtl"] .pipe,[dir="rtl"] .prompt{direction:ltr;text-align:left}
 
+
+.ctop .tc{margin-left:auto;font:500 12px var(--mono);color:var(--c2);font-variant-numeric:tabular-nums}
+.vid .veil .spin{width:34px;height:34px;border-radius:50%;border:3px solid rgba(255,255,255,.15);border-top-color:var(--c2);animation:sp 1s linear infinite}
+@keyframes sp{to{transform:rotate(360deg)}}
+.tl{position:relative;margin:0 16px 14px;padding-top:18px;font:500 11px var(--mono);color:var(--mute)}
+.ruler{position:absolute;left:92px;right:0;top:0;height:14px;background-image:linear-gradient(90deg,rgba(255,255,255,.25) 1px,transparent 1px);background-size:10% 100%;border-bottom:1px solid var(--line)}
+.trk{display:flex;align-items:center;gap:8px;height:24px;margin-top:5px}
+.tn{width:84px;flex:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.lane{position:relative;flex:1;height:100%;border-radius:6px;background:rgba(255,255,255,.035)}
+.clip{position:absolute;top:2px;bottom:2px;border-radius:5px;opacity:.9}
+.clip.wave{background-image:repeating-linear-gradient(90deg,rgba(255,255,255,.35) 0 2px,transparent 2px 5px);background-blend-mode:overlay}
+.ph{position:absolute;top:0;bottom:0;width:2px;background:#fff;box-shadow:0 0 12px var(--c2);left:92px;pointer-events:none}
+.ph::before{content:"";position:absolute;top:-2px;left:-5px;border:6px solid transparent;border-top:8px solid #fff}
+.eyebrow i.rec{background:#EF4444;color:#fff;animation:blink2 1.4s infinite}
+@keyframes blink2{50%{opacity:.45}}
+[dir="rtl"] .tl{direction:ltr}
+
 /* ---------- intro : entrée dans l'agence ---------- */
 #intro{position:fixed;inset:0;z-index:100;background:#020306;overflow:hidden;display:block}
 #intro.gone{display:none}
@@ -179,7 +196,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--c2);outline-offset:
 
   <div class="hero">
     <div>
-      <span class="eyebrow"><i>AI</i><span data-k="eyebrow"></span></span>
+      <span class="eyebrow"><i class="rec">REC</i><span data-k="eyebrow"></span></span>
       <h1 data-k="h1" data-html="1"></h1>
       <p class="lead" data-k="lead"></p>
       <div class="cta"><a class="btn main" href="#contact"><span data-k="cta1"></span> →</a><a class="btn" href="#work" data-k="cta2"></a></div>
@@ -187,12 +204,20 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--c2);outline-offset:
     </div>
     <div>
       <div class="console"><div class="cin">
-        <div class="ctop"><b></b><b></b><b></b><span>piwa.ai / generate</span></div>
-        <div class="prompt" id="prompt"></div>
-        <div class="pipe" id="pipe"></div>
-        <div class="prog"><i id="bar"></i></div>
-        <div class="vid"><img src="videos/noxem-menuiseries.jpg" alt=""><video id="hero" muted loop playsinline preload="none"></video><div class="scan"></div><div class="veil" id="veil"><span data-k="gen"></span></div></div>
-        <div class="vfoot"><div class="row" style="gap:8px"><span class="chip ok" data-k="real"></span><span class="chip">NOXEM GROUP · 48 s</span></div><button type="button" class="chip" id="sound" data-k="sound"></button></div>
+        <div class="ctop"><b></b><b></b><b></b><span>piwa · <span data-k="edit"></span> — NOXEM GROUP</span><span class="tc" id="tc">00:00 / 00:48</span></div>
+        <div class="vid"><img src="videos/noxem-menuiseries.jpg" alt=""><video id="hero" muted loop playsinline preload="none"></video><div class="veil" id="veil"><span class="spin"></span></div></div>
+        <div class="tl" id="tl">
+          <div class="ruler" id="ruler"></div>
+          <div class="trk"><span class="tn" data-i="0"></span><div class="lane" id="ln0"></div></div>
+          <div class="trk"><span class="tn" data-i="1"></span><div class="lane" id="ln1"></div></div>
+          <div class="trk"><span class="tn" data-i="2"></span><div class="lane" id="ln2"></div></div>
+          <div class="trk"><span class="tn" data-i="3"></span><div class="lane" id="ln3"></div></div>
+          <div class="ph" id="ph"></div>
+        </div>
+        <div class="vfoot">
+          <div class="row" style="gap:8px"><span class="chip ok" data-k="real"></span><span class="chip">NOXEM GROUP · 48 s</span></div>
+          <button type="button" class="chip" id="sound" data-k="sound"></button>
+        </div>
       </div></div>
       <p class="consent"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" style="flex:none;margin-top:3px"><path d="M20 6L9 17l-5-5"/></svg><span data-k="consent"></span></p>
     </div>
@@ -263,7 +288,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--c2);outline-offset:
 <script>
 (function(){
 var root=document.documentElement,still=matchMedia('(prefers-reduced-motion: reduce)').matches;
-var ORDER=["fr", "en", "es", "de", "it", "pt", "nl", "pl", "ar", "tr", "ro", "cs", "sv", "da", "fi", "el", "ru", "uk", "zh", "ja", "ko", "hi", "id", "vi", "hu"], NAMES={"fr": "Français", "en": "English", "es": "Español", "de": "Deutsch", "it": "Italiano", "pt": "Português", "nl": "Nederlands", "pl": "Polski", "ar": "العربية", "tr": "Türkçe", "ro": "Română", "cs": "Čeština", "sv": "Svenska", "da": "Dansk", "fi": "Suomi", "el": "Ελληνικά", "ru": "Русский", "uk": "Українська", "zh": "中文", "ja": "日本語", "ko": "한국어", "hi": "हिन्दी", "id": "Bahasa Indonesia", "vi": "Tiếng Việt", "hu": "Magyar"}, DICT={fr:{"name": "Français", "nav_work": "Réalisations", "nav_pricing": "Tarifs", "nav_contact": "Contact", "eyebrow": "Studio vidéo nouvelle génération", "h1": "Votre vidéo d'entreprise, <span class=\"gt\">créée avec l'IA</span>, livrée en 7 jours.", "lead": "Nos équipes associent motion design et intelligence artificielle : script, voix off, musique, animation, dans plus de 25 langues. Le niveau d'une agence, en une semaine, à partir de 390 € HT.", "cta1": "Lancer mon projet", "cta2": "Voir les vidéos", "t1": "Livraison en 7 jours", "t2": "Plus de 25 langues", "t3": "2 retouches incluses", "prompt": "Crée une vidéo de présentation de 48 s pour le lancement des menuiseries de NOXEM GROUP : portes, fenêtres, baies, volets, toutes les couleurs, voix off française, ton dynamique.", "steps": ["Script", "Voix off", "Musique", "Animation", "Rendu HD"], "gen": "Génération en cours…", "real": "Client réel", "demo": "Exemple", "sound": "Activer le son", "consent": "Vidéo réalisée pour NOXEM GROUP et publiée avec l'accord de la société NOXEM GROUP.", "ai_kick": "Ce que fait l'IA pour vous", "ai_h2": "Une chaîne de production complète, accélérée par l'IA", "c1t": "Script sur mesure", "c1p": "Votre message, vos arguments, votre ton. Écrit pour capter l'attention dès la première seconde.", "c2t": "Voix off naturelle", "c2p": "Des voix professionnelles dans plus de 25 langues.", "c3t": "Musique et sound design", "c3p": "Une musique originale et des effets sonores calés sur chaque animation.", "c4t": "Tous les formats", "c4p": "Horizontal pour LinkedIn et YouTube, vertical pour TikTok et Reels, carré pour vos pubs.", "lg_kick": "Toutes les langues", "lg_h2": "Une vidéo, toutes les langues de vos clients", "lg_sub": "Nos équipes adaptent la même vidéo dans chaque langue : voix off native, textes traduits à l'écran. Idéal pour l'export, les salons internationaux et vos filiales.", "lg_note": "Votre langue n'est pas dans la liste ? Demandez-nous.", "w_kick": "Réalisations", "w_h2": "Un style pour chaque secteur", "w_sub": "Industrie, bâtiment, immobilier, restauration, logiciels : le rythme, les couleurs et le ton s'adaptent à votre marque.", "w_note": "Les vidéos « Exemple » sont des démonstrations réalisées avec des marques fictives. Les vidéos NOXEM GROUP sont publiées avec l'accord de la société NOXEM GROUP.", "g": ["NOXEM GROUP · Déstockage", "Rénovation énergétique", "Recrutement · Industrie", "Application · Logiciel", "Immobilier", "Restaurant"], "p_kick": "Tarifs", "p_h2": "Des prix clairs, livrés en 7 jours", "p1t": "Vidéo courte", "p1d": "15 à 20 s pour les réseaux sociaux.", "p2t": "Vidéo promo", "p2d": "30 à 45 s pour une offre, un produit, un événement.", "p3t": "Vidéo de présentation", "p3d": "45 à 60 s, voix off, musique et sound design.", "p4t": "Abonnement", "p4d": "4 vidéos courtes par mois, toute l'année.", "badge": "La plus demandée", "ht": "HT", "permonth": "HT / mois", "p_note": "Inclus : 2 séries de retouches. Format vertical ou autre langue : + 90 € HT. Acompte de 50 % à la commande.", "f_kick": "Méthode", "f_h2": "De l'idée à la vidéo en 7 jours", "d1": "Jour 1", "d2": "Jours 2–3", "d3": "Jours 4–6", "d4": "Jour 7", "s1t": "Brief", "s1p": "15 minutes pour cerner votre message et votre cible.", "s2t": "Script", "s2p": "Nos équipes écrivent le texte et le déroulé. Vous validez.", "s3t": "Production", "s3p": "Animation, voix, musique et sound design, assistés par l'IA.", "s4t": "Livraison", "s4p": "Votre vidéo prête à publier, dans tous les formats utiles.", "k_h2": "Parlons de votre vidéo", "copy": "Copier le numéro", "k_p": "Kevin · appel ou WhatsApp, du lundi au samedi. Nous travaillons en France et à l'international.", "foot": "Vidéos motion design & IA pour les entreprises", "skip": "Passer ›", "itag": "Studio vidéo IA"}}, T=DICT.fr;
+var ORDER=["fr", "en", "es", "de", "it", "pt", "nl", "pl", "ar", "tr", "ro", "cs", "sv", "da", "fi", "el", "ru", "uk", "zh", "ja", "ko", "hi", "id", "vi", "hu"], NAMES={"fr": "Français", "en": "English", "es": "Español", "de": "Deutsch", "it": "Italiano", "pt": "Português", "nl": "Nederlands", "pl": "Polski", "ar": "العربية", "tr": "Türkçe", "ro": "Română", "cs": "Čeština", "sv": "Svenska", "da": "Dansk", "fi": "Suomi", "el": "Ελληνικά", "ru": "Русский", "uk": "Українська", "zh": "中文", "ja": "日本語", "ko": "한국어", "hi": "हिन्दी", "id": "Bahasa Indonesia", "vi": "Tiếng Việt", "hu": "Magyar"}, DICT={fr:{"name": "Français", "nav_work": "Réalisations", "nav_pricing": "Tarifs", "nav_contact": "Contact", "eyebrow": "Studio de création vidéo", "h1": "Des vidéos qui <span class=\"gt\">font vendre</span>, livrées en 7 jours.", "lead": "Nos équipes créent vos vidéos de présentation, de produits, d'offres et de recrutement : script, voix off, musique, animation, dans plus de 25 langues. Le niveau d'une agence, en une semaine, à partir de 390 € HT.", "cta1": "Lancer mon projet", "cta2": "Voir les vidéos", "t1": "Livraison en 7 jours", "t2": "Plus de 25 langues", "t3": "2 retouches incluses", "steps": ["Vidéo", "Voix off", "Musique", "Sound design"], "real": "Client réel", "demo": "Exemple", "sound": "Activer le son", "consent": "Vidéo réalisée pour NOXEM GROUP et publiée avec l'accord de la société NOXEM GROUP.", "ai_kick": "Notre savoir-faire", "ai_h2": "Une équipe complète au service de votre vidéo", "c1t": "Script sur mesure", "c1p": "Votre message, vos arguments, votre ton. Écrit pour capter l'attention dès la première seconde.", "c2t": "Voix off naturelle", "c2p": "Des voix professionnelles dans plus de 25 langues.", "c3t": "Musique et sound design", "c3p": "Une musique originale et des effets sonores calés sur chaque animation.", "c4t": "Tous les formats", "c4p": "Horizontal pour LinkedIn et YouTube, vertical pour TikTok et Reels, carré pour vos pubs.", "lg_kick": "Toutes les langues", "lg_h2": "Une vidéo, toutes les langues de vos clients", "lg_sub": "Nos équipes adaptent la même vidéo dans chaque langue : voix off native, textes traduits à l'écran. Idéal pour l'export, les salons internationaux et vos filiales.", "lg_note": "Votre langue n'est pas dans la liste ? Demandez-nous.", "w_kick": "Réalisations", "w_h2": "Un style pour chaque secteur", "w_sub": "Industrie, bâtiment, immobilier, restauration, logiciels : le rythme, les couleurs et le ton s'adaptent à votre marque.", "w_note": "Les vidéos « Exemple » sont des démonstrations réalisées avec des marques fictives. Les vidéos NOXEM GROUP sont publiées avec l'accord de la société NOXEM GROUP.", "g": ["NOXEM GROUP · Déstockage", "Rénovation énergétique", "Recrutement · Industrie", "Application · Logiciel", "Immobilier", "Restaurant"], "p_kick": "Tarifs", "p_h2": "Des prix clairs, livrés en 7 jours", "p1t": "Vidéo courte", "p1d": "15 à 20 s pour les réseaux sociaux.", "p2t": "Vidéo promo", "p2d": "30 à 45 s pour une offre, un produit, un événement.", "p3t": "Vidéo de présentation", "p3d": "45 à 60 s, voix off, musique et sound design.", "p4t": "Abonnement", "p4d": "4 vidéos courtes par mois, toute l'année.", "badge": "La plus demandée", "ht": "HT", "permonth": "HT / mois", "p_note": "Inclus : 2 séries de retouches. Format vertical ou autre langue : + 90 € HT. Acompte de 50 % à la commande.", "f_kick": "Méthode", "f_h2": "De l'idée à la vidéo en 7 jours", "d1": "Jour 1", "d2": "Jours 2–3", "d3": "Jours 4–6", "d4": "Jour 7", "s1t": "Brief", "s1p": "15 minutes pour cerner votre message et votre cible.", "s2t": "Script", "s2p": "Nos équipes écrivent le texte et le déroulé. Vous validez.", "s3t": "Production", "s3p": "Animation, voix, musique et sound design réalisés par nos équipes.", "s4t": "Livraison", "s4p": "Votre vidéo prête à publier, dans tous les formats utiles.", "k_h2": "Parlons de votre vidéo", "copy": "Copier le numéro", "k_p": "Kevin · appel ou WhatsApp, du lundi au samedi. Nous travaillons en France et à l'international.", "foot": "Vidéos motion design pour les entreprises", "skip": "Passer ›", "itag": "Studio vidéo", "edit": "Montage", "prod": "Production"}}, T=DICT.fr;
 
 /* --- langues --- */
 var sel=document.getElementById('lang');
@@ -272,7 +297,7 @@ document.getElementById('langs').innerHTML=ORDER.map(function(c,i){return '<span
 function getDict(c){if(DICT[c])return Promise.resolve(DICT[c]);return fetch('i18n/'+c+'.json').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){DICT[c]=d;return d}).catch(function(){return DICT.fr});}
 function apply(c,d){T=d;root.lang=c;root.dir=d.dir||'ltr';sel.value=c;
   document.querySelectorAll('[data-k]').forEach(function(e){var v=d[e.getAttribute('data-k')];if(v==null)return;if(e.hasAttribute('data-html'))e.innerHTML=v;else e.textContent=v;});
-  renderPipe();renderGallery();if(done)document.getElementById('prompt').innerHTML='<span class="u">›</span> '+esc(T.prompt);
+  renderPipe();renderGallery();
   try{localStorage.setItem('lang',c)}catch(e){}}
 function setLang(c){getDict(c).then(function(d){apply(c,d)});}
 sel.addEventListener('change',function(){setLang(sel.value)});
@@ -283,15 +308,20 @@ var cache={};
 function load(video,src){if(cache[src]){video.src=cache[src];return Promise.resolve();}
   return fetch(src).then(function(r){if(!r.ok)throw 0;return r.blob()}).then(function(b){cache[src]=URL.createObjectURL(b);video.src=cache[src];}).catch(function(){video.src=src;});}
 
-/* --- console de génération --- */
-var pipe=document.getElementById('pipe'),bar=document.getElementById('bar'),hero=document.getElementById('hero'),veil=document.getElementById('veil'),stage=-1,done=false;
-function renderPipe(){pipe.innerHTML=T.steps.map(function(x,i){var ok=i<stage||done;return '<div class="pp'+(ok?' done':i===stage?' run':'')+'">'+(ok?'✓ ':'')+esc(x)+'</div>'}).join('');}
+/* --- écran de montage --- */
+var hero=document.getElementById('hero'),veil=document.getElementById('veil'),ph=document.getElementById('ph'),tc=document.getElementById('tc');
+var CLIPS=[[[0,7,'#22D3EE'],[7.4,14,'#8B5CF6'],[14.4,23,'#22D3EE'],[23.4,34,'#F472B6'],[34.4,41,'#8B5CF6'],[41.4,48.5,'#22D3EE']],
+  [[1,3,'#A78BFA'],[8.5,13.3,'#A78BFA'],[14.1,20.3,'#A78BFA'],[20.5,26,'#A78BFA'],[26.1,33.5,'#A78BFA'],[33.6,38.6,'#A78BFA'],[38.9,45.6,'#A78BFA']],
+  [[0,48.5,'#0EA5E9']],[[2,2.6,'#F59E0B'],[8.4,9,'#F59E0B'],[12.5,13.1,'#F59E0B'],[17.9,18.5,'#F59E0B'],[23.4,24,'#F59E0B'],[29.7,30.3,'#F59E0B'],[33.6,34.2,'#F59E0B'],[38.7,39.3,'#F59E0B'],[41,41.6,'#F59E0B']]];
+var VD=48.5;
+CLIPS.forEach(function(cl,i){var ln=document.getElementById('ln'+i);cl.forEach(function(c){var d=document.createElement('div');d.className='clip'+(i===1||i===2?' wave':'');d.style.left=(c[0]/VD*100)+'%';d.style.width=((c[1]-c[0])/VD*100)+'%';d.style.background=c[2];ln.appendChild(d);});});
+function renderPipe(){[].forEach.call(document.querySelectorAll('.tn'),function(e){e.textContent=T.steps[+e.getAttribute('data-i')]||'';});}
+var done=false;
 var heroReady=load(hero,'videos/noxem-menuiseries.mp4');
-function typeIt(cb){var p=document.getElementById('prompt'),i=0;
-  if(still){p.innerHTML='<span class="u">›</span> '+esc(T.prompt);return cb();}
-  (function tick(){var txt=T.prompt;p.innerHTML='<span class="u">›</span> '+esc(txt.slice(0,i))+'<span class="caret"></span>';i+=2;if(i<=txt.length+2)setTimeout(tick,22);else cb();})();}
-function runPipe(){var n=5,k=0;(function next(){stage=k;renderPipe();bar.style.width=((k+1)/n*100)+'%';k++;if(k<n)setTimeout(next,still?0:650);else setTimeout(finish,still?0:650);})();}
-function finish(){done=true;stage=99;renderPipe();heroReady.then(function(){veil.style.opacity=0;var pr=hero.play();if(pr&&pr.catch)pr.catch(function(){});});}
+heroReady.then(function(){veil.style.opacity=0;var pr=hero.play();if(pr&&pr.catch)pr.catch(function(){});});
+var mm=function(x){x=Math.floor(x);return ('0'+Math.floor(x/60)).slice(-2)+':'+('0'+x%60).slice(-2)};
+(function tick(){var t=hero.currentTime||0,d=hero.duration||VD;var lane=document.getElementById('ln0');
+  var x=lane.offsetLeft+lane.offsetWidth*(t/d);ph.style.left=x+'px';tc.textContent=mm(t)+' / '+mm(d);requestAnimationFrame(tick);})();
 document.getElementById('sound').onclick=function(){heroReady.then(function(){hero.muted=!hero.muted;if(!hero.muted)hero.currentTime=0;veil.style.opacity=0;var pr=hero.play();if(pr&&pr.catch)pr.catch(function(){});});};
 
 /* --- vague audio --- */
@@ -314,7 +344,6 @@ var start='fr',h=(location.hash||'').slice(1).toLowerCase();
 if(ORDER.indexOf(h)>=0)start=h;else{var s=null;try{s=localStorage.getItem('lang')}catch(e){}
   if(s&&ORDER.indexOf(s)>=0)start=s;else{var nav=(navigator.language||'fr').slice(0,2).toLowerCase();start=ORDER.indexOf(nav)>=0?nav:'en';}}
 apply('fr',DICT.fr);if(start!=='fr')setLang(start);
-typeIt(runPipe);
 
 /* --- copier le numéro --- */
 document.getElementById('copy').addEventListener('click',function(){var t=document.getElementById('tel').textContent,b=this;
