@@ -462,6 +462,13 @@ sur cette liste, c'est la société qui compte, jamais le mot. Vérifier le mét
 une fiche sur une ressemblance de nom** — le §5 interdit déjà de déduire une activité d'un mot,
 c'est la même erreur que « verrerie » sur SEVAM, prise par l'autre bout.
 **SGC International Inc.** (États-Unis — ajouté le 08/10 : ce n'est pas un transformateur mais **le bureau exclusif de vente et de service de CSG, China Southern Glass, pour les États-Unis et le Canada**, à Commerce en Californie. La fiche du registre le nommait « SGC Specialty Glass Company », ce qui masquait sa nature. Trouvaille utile par l'autre bout : c'est exactement le circuit que le droit antidumping américain de 181 % frappe, donc exactement l'intermédiaire que les transformateurs américains doivent quitter),
+**Emirates Float Glass (EFG)** (Abou Dabi — ajouté le 08/10, et c'est le concurrent le plus menaçant
+trouvé ce jour-là : 600 t/jour depuis 2009, propriété de **Dubai Investments**, **exporte vers plus de
+65 pays**, et Dubai Investments a annoncé en **octobre 2025 DOUBLER sa capacité**. Avec Guardian, les
+Émirats ont donc leur float et il grossit. **Ne jamais employer l'argument du float absent aux Émirats.**
+Ce qui reste exploitable, et c'est différent : les Émirats sont une place de **réexport**, donc un
+négociant y achète plusieurs origines à la fois pour servir l'Afrique de l'Est et l'Asie du Sud — une
+origine européenne de plus l'intéresse **en tant qu'origine**, pas en tant que secours),
 **Misr Glass Manufacturing** (Égypte — ajouté le 08/10 : elle annonce elle-même du **float**, du feuilleté,
 du trempé et du verre couché. Avec **Sphinx Glass**, l'Égypte compte donc au moins deux producteurs float :
 **ne jamais écrire qu'il n'y a pas de production locale en Égypte**, c'est le marché le mieux pourvu de la
