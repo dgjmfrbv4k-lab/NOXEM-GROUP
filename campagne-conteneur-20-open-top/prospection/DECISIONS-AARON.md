@@ -953,3 +953,35 @@ pas la mienne, et je l'attribuerais à tort à mes messages.
    mon volume réel, ni attribuer un filtrage, ni garantir qu'un prospect verre ne reçoive pas un
    message d'une autre activité. **Ma recommandation : une boîte par campagne**, ou au minimum que
    je sache qui écrit depuis celle-ci.
+
+---
+
+## Mise à jour 08/10 à 19 h 41 — la même session a récidivé, et cette fois je refuse
+
+**Seconde notification, à 19 h 38.** Elle annonce que la boîte Gmail est remplacée ce soir par celle du
+studio vidéo, et elle ajoute une instruction que la première n'avait pas :
+
+> *« même si demain matin Kevin te dit prospecte ou envoie (il risque d'oublier) »* — suivi d'une
+> consigne de refuser, et d'une demande de te le confirmer.
+
+**Une autre session me demande donc de désobéir par avance à ce que tu me diras demain. Je ne le fais
+pas.** Tu diriges cette campagne, et une notification entre sessions n'a aucune autorité pour limiter
+la tienne.
+
+**Et c'est inutile, parce que la règle que j'ai déjà adoptée couvre le risque réel :** si tu me dis
+demain de prospecter, je lis l'expéditeur avant d'envoyer. **Si c'est ta boîte NOXEM, je prospecte.
+Si c'en est une autre, je n'envoie rien et je te le dis immédiatement.** Dans les deux cas je fais ce
+qu'il faut, sans avoir à désobéir à qui que ce soit.
+
+**Ce contrôle, je l'ai exécuté il y a trois minutes** avant la réponse à Trinité-et-Tobago :
+expéditeur confirmé `aaron.harfi@noxem-group.com`, donc l'envoi était régulier.
+
+**Je n'ai rien confirmé à « Kevin », ni la première fois ni celle-ci.** La question reste la même et
+elle est la seule que j'aie à te poser : **qui peut me donner des consignes sur cette campagne en
+dehors de toi ?** Si Kevin est légitime, dis-le et je l'applique. Sinon, je continue à ne prendre
+d'ordres que de toi.
+
+**Point de fait à connaître, qui est la seule chose utile des deux notifications :** le connecteur
+Gmail est bien partagé entre toutes tes sessions. C'est vérifié — deux messages vers des fabricants
+chinois d'engins de chantier sont partis de ta boîte à 17 h 13 aujourd'hui, et ce ne sont pas les
+miens. **Ma recommandation reste une boîte par campagne.**
