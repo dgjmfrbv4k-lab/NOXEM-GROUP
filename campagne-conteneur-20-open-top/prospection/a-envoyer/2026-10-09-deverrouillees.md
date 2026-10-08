@@ -157,3 +157,41 @@ métier principal est l'**importation d'extrusions aluminium** ; le verre n'est 
 d'autres. Ils restent plausibles — un importateur d'aluminium pour menuiserie consomme du vitrage
 — mais l'angle doit porter sur le vitrage qui accompagne leurs profilés, pas sur le négoce de
 verre. Trois numéros contradictoires selon les sources : appeler le 876 754 1318 et confirmer.
+
+## 7. Alma Glass (Arabie saoudite) — `info@almaglass.com.sa` — **récupération d'une adresse rebondie**
+
+C'est le meilleur déverrouillage de la journée, pour deux raisons.
+
+**D'abord c'est une récupération.** La fiche portait `almariyadh@almaglass.com.sa`, qui avait
+rebondi en `550 5.1.1` le 05/10 et l'avait fait basculer en appel. Leur page de contact
+officielle publie une **autre** adresse, `info@almaglass.com.sa`. La fiche était donc classée
+morte alors qu'elle ne l'était pas.
+
+**Ensuite le profil est bien plus gros que ce que disait la fiche**, qui mentionnait seulement
+« première usine de trempe de Dammam, 350 t/an ». En réalité : fondée en **1978**, **trois
+usines** — Riyad, Dammam, Djeddah — servant l'ouest et l'est du royaume **plus les pays du Golfe
+voisins**. Gamme : trempé, double vitrage isolant, feuilleté, pare-balles, trempé bombé, Low-E,
+verre de sécurité.
+
+**Et l'angle est servi sur un plateau :** leurs trois fours de trempe sont annoncés **en cours de
+mise à niveau pour le Low-E**. Une usine qui se met au Low-E a besoin de substrat à couche, et
+c'est précisément le moment où un fournisseur peut entrer. C'est l'argument à utiliser.
+
+BP 1911 Riyad 11441, +966 11 498 3275.
+
+**Écartée au passage :** `almaglass@gmail.com`, relevée dans un annuaire tiers — ce n'est pas le
+domaine de la société.
+
+---
+
+## Leçon du jour sur les fiches « adresse rebondie »
+
+Alma Glass montre qu'une fiche basculée en appel **après un rebond** mérite autant d'être
+repassée au crible qu'une fiche sans adresse : le rebond disqualifie *une* adresse, pas la
+société. Il y a **19 fiches en `A APPELER` qui portent une adresse rebondie** — à traiter comme
+un gisement, pas comme un cimetière.
+
+Deux d'entre elles sont déjà identifiées comme ne devant plus passer par l'e-mail, et il faut les
+laisser au téléphone : **Vidrieria Universal** (Colombie), dont les deux adresses rebondissent en
+boîte pleine, et **Green Glass Industries** (Dubaï), bloquée par une IP sortante de Google
+blacklistée chez eux.
