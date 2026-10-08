@@ -125,3 +125,35 @@ architectural est à Ras Al Khor, ligne +971 4 333 1362.
 - **Saudi American Glass**, décrite comme parmi les mieux équipées du Moyen-Orient. Introuvable.
 
 Dans les deux cas : établir d'abord qui ils sont, l'argumentaire ensuite.
+
+## 6. 55 Glass (Los Angeles) — `info@55glass.com`
+
+Publiée sur leur page de contact. Lignes +1 800 554 5277 et +1 323 233 0090, ouvert 7h30–16h en
+semaine.
+
+**Profil confirmé, et c'est le bon :** ils annoncent faire **uniquement la fourniture de verre**,
+sans pose ni travaux. C'est précisément le profil acheteur qui nous intéresse, par opposition à un
+poseur qui achète au détail. Adresse 2035 East 38th Street, en plein quartier du gros de Los
+Angeles, et **Long Beach est le premier complexe portuaire d'import des États-Unis**.
+
+---
+
+## Récapitulatif : ce qui part le 09/10
+
+| Société | Adresse retenue | Précaution |
+|---|---|---|
+| Float Glass Ltd (Edmonton) | `info@floatglass.ltd` | cotes nord-américaines 2438 × 1829, proposer à cotes |
+| Walshs Glass (Perth) | `sales@walshsglass.com.au` | probable distributeur Saint-Gobain |
+| Al Fozan Uniglass (Riyad) | `info@uniglass.com.sa` | probable distributeur Saint-Gobain |
+| Al Abbar Group (Dubaï) | `info@` + copie `sales@alabbargroup.com` | le `sales@` est peut-être périmé |
+| 55 Glass (Los Angeles) | `info@55glass.com` | aucune |
+
+**Cinq envois prêts, tous issus de fiches qui portaient « aucune adresse publiée ».**
+
+## Correction d'emphase à ne pas perdre
+
+**Virgin's International Trading (Jamaïque)** était classée haut dans la liste d'appels. Leur
+métier principal est l'**importation d'extrusions aluminium** ; le verre n'est qu'une ligne parmi
+d'autres. Ils restent plausibles — un importateur d'aluminium pour menuiserie consomme du vitrage
+— mais l'angle doit porter sur le vitrage qui accompagne leurs profilés, pas sur le négoce de
+verre. Trois numéros contradictoires selon les sources : appeler le 876 754 1318 et confirmer.
