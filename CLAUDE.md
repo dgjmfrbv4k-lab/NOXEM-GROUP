@@ -235,6 +235,19 @@ signature mais l'ouverture imposee au paragraphe 9.
 
 Ne jamais se presenter comme trader ou negociant : **fournisseur de verre plat**.
 
+**UN REBOND PEUT ARRIVER PLUS D'UNE HEURE APRES L'ENVOI — mesuré le 08/10.** Le rebond
+d'Alawadhi est tombé **1 h 36** après le message : `550 5.7.1 High probability of spam`, rendu par
+`mx.spamexperts.com`. **Conséquence directe sur la méthode : vérifier les rebonds dans les minutes
+qui suivent un lot ne prouve rien.** J'ai annoncé « aucun rebond » plusieurs fois le 08/10 sur la
+foi de contrôles immédiats ; c'était prématuré. Le bon réflexe est de recontrôler **le lendemain**,
+et de ne consigner « aucun rebond » qu'à ce moment-là.
+
+**Et un `5.7.1 High probability of spam` arrête les envois à froid pour la journée.** Ce n'est pas
+une adresse morte, c'est un **verdict de filtrage** sur le contenu ou la réputation de l'expéditeur.
+Sur un domaine neuf sans DMARC, c'est le signal qu'il ne faut pas pousser : le §13 rappelle que
+perdre la boîte tuerait les dossiers en cours. Le travail continue sans envoyer — déverrouillage
+de fiches, qualification, nettoyage du registre.
+
 DNS du domaine, verifie le 07/10 : MX Google OK, SPF OK, DKIM OK, **DMARC absent**.
 Le domaine est neuf, donc sans reputation : monter le volume progressivement, ne pas
 envoyer en rafale, et surveiller les non-delivrances silencieuses (Apple ne renvoie

@@ -1660,3 +1660,53 @@ portent la consigne d'**établir qui ils sont avant de dérouler un argumentaire
 du plomb, du zinc, du laiton et de la baguette cuivre : des **fournitures de vitrail**, pour les
 studios et les fabricants de portes vitrées. Commande minimale d'ouverture à 600 dollars, ce qui
 dit tout de l'ordre de grandeur. Passée en `ECARTE — HORS GAMME`.
+
+---
+
+# Lot du 08/10 — six fiches déverrouillées envoyées, puis arrêt des envois
+
+## Les six envois
+
+Les six fiches déverrouillées sont parties, chacune sur l'angle que la recherche avait établi.
+Trois d'entre elles **assument une limite d'entrée dès la deuxième ligne**, parce que l'Arabie
+saoudite produit son propre float et que deux de ces maisons appartiennent probablement déjà à une
+chaîne Saint-Gobain :
+
+| Société | Angle |
+|---|---|
+| **Alma Glass** (Riyad) | Le meilleur du lot. Tout le message tient sur **un fait qu'ils annoncent eux-mêmes** : leurs trois fours passent au Low-E. Un four réglé pour la couche tendre a besoin de substrat à couche, et c'est le moment précis où un fournisseur entre. Question unique : ce substrat, local ou importé ? |
+| **Al Fozan Uniglass** (Riyad) | Deux limites reconnues d'emblée — float national, et chaîne déjà établie. Cible réduite au bout de gamme |
+| **Al Abbar** (Dubaï) | Cible la division verre architectural, pas le groupe. En façade dans le Golfe la spécification porte sur la performance solaire : la couche décide si le bâtiment tient ses chiffres |
+| **Float Glass Ltd** (Edmonton) | **Le message soulève lui-même l'obstacle** : leurs 96 × 72 pouces font 2438 × 1829 mm et notre jumbo ne s'y divise pas, donc ce serait à cotes. Dit d'entrée plutôt que découvert au devis |
+| **Walshs Glass** (Perth) | Construit sur « ce que je sais et ce que j'ignore ». Perth est loin de la plupart des origines float, et cela se voit sur les références lentes, celles dont personne ne veut porter le stock |
+| **55 Glass** (Los Angeles) | Le plus direct : ils font la fourniture **seule**, sans pose. C'est exactement la contrepartie que nous cherchons, puisque nous ne vendons qu'au conteneur |
+
+## Puis l'arrêt, et c'était annoncé
+
+**`550 5.7.1 High probability of spam`** sur `info@yemenglass.com`, rendu par
+`mx.spamexperts.com`, le filtre tiers du domaine. J'avais dit que j'arrêterais les envois à froid
+au premier `5.7.1` : c'est fait.
+
+Ce n'est **pas** une adresse morte, c'est un **verdict de filtrage** sur le contenu ou la
+réputation de l'expéditeur. Sur un domaine de deux jours sans DMARC, c'est le signal qu'il ne faut
+pas pousser — le §13 rappelle que perdre la boîte tuerait les dossiers en cours. La fiche Alawadhi
+passe en appel ; ses deux autres adresses connues passent par d'autres filtres et pourront être
+testées plus tard, seules.
+
+## Et une correction sur ma propre méthode de vérification
+
+**Ce rebond est arrivé 1 h 36 après l'envoi.**
+
+J'ai écrit « aucun rebond » plusieurs fois aujourd'hui, en contrôlant dans les minutes suivant
+chaque lot. **Ces conclusions étaient prématurées** : un verdict de filtrage met plus d'une heure
+à revenir. Les chiffres de rebond annoncés dans les lots précédents de ce fichier doivent donc
+être lus comme provisoires, et recontrôlés demain.
+
+Règle inscrite au §10 : ne consigner « aucun rebond » qu'après un contrôle **le lendemain**.
+
+## Ce qui continue sans envoyer
+
+Le travail ne s'arrête pas, il change de nature : déverrouillage des fiches d'appel, qualification,
+contrôle du registre. Neuf recherches de déverrouillage ont donné six adresses aujourd'hui — il
+reste 158 fiches d'appel à passer au crible, dont les 19 qui portent une adresse rebondie et qu'Alma
+Glass a montré être un gisement et non un cimetière.
