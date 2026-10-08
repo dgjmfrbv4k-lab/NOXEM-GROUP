@@ -1,8 +1,9 @@
 # Textes prêts à envoyer — 09 et 10/10/2026
 
-**Vingt messages rédigés le 08/10, à envoyer tels quels.** Dix rédigés intégralement (1 à 10),
-cinq australiens bâtis sur un socle commun avec leur personnalisation (11 à 15), et cinq de plus
-rédigés intégralement (16 à 20). L'intérêt est que la journée de
+**Vingt-huit messages préparés le 08/10, à envoyer tels quels.** Quinze rédigés intégralement
+(1 à 10, 16 à 20), cinq australiens bâtis sur un socle commun avec leur personnalisation (11 à 15),
+et huit donnés en premier paragraphe plus gamme plus port, le reste reprenant un socle déjà écrit
+(21 à 28). L'intérêt est que la journée de
 demain soit de l'exécution et pas de la rédaction : le goulot d'étranglement se déplace vers le
 nombre d'envois que la boîte supporte, pas vers mon temps de travail.
 
@@ -12,7 +13,7 @@ validation de notre côté » présente partout, une seule question exploitable 
 page produit choisie selon le métier du prospect (§8). Aucun n'affirme l'absence de production
 locale dans un pays qui en a.
 
-**Ordre d'envoi : par vagues de 5, en commençant par 1 à 5.** Les trente autres fiches de la
+**Ordre d'envoi : par vagues de 5, en commençant par 1 à 5.** Les vingt-six autres fiches de la
 file gardent leur angle noté dans leur fiche du registre, sans texte rédigé.
 
 **Et une raison de ne pas tout envoyer le même jour, mesurée le 08/10 :** deux serveurs sans
@@ -744,6 +745,104 @@ to one conversation.
 
 Forty years in means suppliers you trust. If you are not looking, say so and I will not push.
 ```
+
+---
+
+## 21 à 24. Amérique latine — le reste du bloc hispanophone
+
+### 21. VILUX S.A. — Paraguay — `recepcion@vilux.com.py` — espagnol
+**Objet :** Vidrio float por contenedor completo para sus cuatro plantas - NOXEM GROUP (Francia)
+
+```
+Buenos días,
+
+Les pido que hagan llegar este mensaje a la persona que gestiona las compras de vidrio. Escribo a
+esta dirección porque es la publicada en su página de contacto.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio plano cerca de Lyon,
+Francia.
+
+Escribo a VILUX por una razón de escala y de logística a la vez. Ustedes operan cuatro
+implantaciones - Fernando de la Mora, Minga Guazú, Pedro Juan Caballero y Encarnación - y
+trabajan el vidrio de seguridad y de diseño bajo la marca que era Vidriocar. Cuatro puntos
+repartidos de la frontera brasileña a la argentina significa que un contenedor no se queda en un
+almacén: se reparte.
+
+Y hay un punto que pesa en un país sin litoral. Cada rotura en el trayecto cuesta dos veces: el
+vidrio y el plazo de reposición, que no se mide en días sino en semanas. Por eso embalamos en
+cajas de madera tratada NIMP-15 y no en bastidores abiertos, y por eso la calidad del calce
+importa más aquí que en un puerto.
+
+Lo que suministramos:
+
+- Float incoloro y extra claro, la base: https://noxemgroup.com/en/float-glass/
+- Vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+(Nuestra web está en francés e inglés. Los enlaces son la versión inglesa; cualquier referencia
+se la explico en español.)
+
+Contenedores completos, formato jumbo 3210 x 2550 mm o cortado a sus medidas, carga útil de 23 a
+25 toneladas. El tránsito sería vía Montevideo. Podemos preparar una oferta para la entrega en su
+puerto de destino, sujeto a validación por nuestra parte.
+
+Una sola pregunta: ¿qué espesores y medidas compran en mayor volumen al año entre las cuatro
+plantas, y con qué frecuencia reponen?
+
+Si están cerrados con su proveedor actual, díganmelo y no insisto.
+```
+
+### 22. Casa Barrios e Hijos — Paraguay — `ventas@casabarrios.com` — espagnol
+*Même socle que VILUX, avec ce premier paragraphe :*
+« Escribo a Casa Barrios porque trabajan el templado, las mamparas y las puertas giratorias. Una
+puerta giratoria de vidrio no admite aproximaciones: el espesor tiene que ser el que dice la
+ficha, en toda la hoja, o la puerta no gira bien y el problema vuelve al que suministró el
+vidrio. Es el tipo de producto que obliga a mirar al proveedor y no sólo al precio. »
+*Gamme :* float clair et extra-clair + vitrage technique. Transit via Montevideo.
+
+### 23. Corporación Elio — Pérou — `ventas@elio.com.pe` — espagnol
+*Premier paragraphe :*
+« Escribo a Corporación Elio por una línea de su propio catálogo: el vidrio crudo. Quien vende
+vidrio crudo lo compra, y quien monta muro cortina lo compra en volumen. No hace falta que les
+explique el interés de importar: la única pregunta útil es si un segundo origen les sirve. »
+*Gamme :* float clair et extra-clair + low-E + vitrage technique. Port Callao.
+
+### 24. Providrio — Équateur — `ventas@providrio.com` — espagnol
+*Premier paragraphe :*
+« Escribo a Providrio porque su catálogo es casi exactamente nuestra gama: float incoloro y de
+color, float de seguridad, laminado, templado, reflectivos, espejos y vidrios especiales. Cuando
+las dos listas se parecen tanto, la conversación es corta: se compara el precio puesto en
+Guayaquil y la regularidad de un contenedor al siguiente, y nada más. »
+*Gamme :* float clair et extra-clair + miroir sans cuivre. Port Guayaquil.
+*À noter dans le message :* leur délai annoncé de huit jours ouvrables sur le trempé suggère une
+sous-traitance — **ne pas l'affirmer, le demander.**
+
+---
+
+## 25 à 28. Golfe, Caraïbe, Asie — le reste des gros comptes
+
+### 25. Desert Line Glass — Qatar — `naijo@desertline-ag.com` — anglais
+*Ouverture, **sans nommer personne** (aucune fonction publiée) :*
+« Hello, please pass this to whoever handles glass purchasing in the glass division. »
+*Angle :* division verre d'un groupe BTP qatari, donc un acheteur qui travaille sur programme de
+chantier et non sur stock. Le Qatar a un marché de projets : la régularité container après
+container compte plus que le prix d'une commande.
+*Gamme :* float clair et extra-clair + vitrage technique + low-E. Port Hamad.
+*Repli :* `info@desertlineprojects.com`. **Question à poser :** quel lien avec Calisto Glass, qui
+partage leur adresse e-mail à une autre adresse postale.
+
+### 26. Albitar, 27. Sahara Glass, 28. MIH Group
+Albitar et Sahara ont leur texte intégral aux numéros 16 et 17. **MIH Group** (`purchase@mihgroup.ae`)
+est le seul des trois à être écrit directement aux achats, donc **sans demande de transmission** -
+remplacer la première ligne par :
+« Hello, I am writing to your purchasing department directly, since your site publishes this
+address for it. I will be brief. »
+*Angle MIH :* négoce de matériaux avec showrooms dans **tous les Émirats et au Qatar**, gamme
+profilés et accessoires aluminium, verre et accessoires verriers, bois et MDF. Un négociant
+multi-émirats achète en volume agrégé. **Demander le bon interlocuteur verre** : leur site actuel
+attribue la boîte `gw@` à la division bois alors que l'ancien l'attribuait au verre, les deux
+pages se contredisent.
+*Ports :* Khalid ou Khor Fakkan.
 
 ---
 
