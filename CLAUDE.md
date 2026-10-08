@@ -719,6 +719,21 @@ TZ=Europe/Paris date '+%H:%M %Z (%d/%m/%Y)'
   `venta1@` ne repose que sur une page dont le copyright s'arrête à 2014. **Donc : une boîte pleine
   est une preuve d'existence, et elle vaut mieux qu'une orthographe lue sur une page ancienne.**
   L'alternative se garde en second essai, pas en remplacement.
+  **DEUX PIÈGES D'IDENTITÉ DE PLUS, trouvés sur les outre-mer le 08/10, et ils sont symétriques.**
+  · **Le cas facile : une filiale sous un autre nom.** Savima (Baie-Mahault) annonce sur son propre
+    site s'être installée à Saint-Martin **sous le nom Glass Alu SXM**, avec sa propre adresse.
+    L'identité est établie par la société elle-même, donc **une seule fiche, un seul message**, et
+    la seconde adresse sert de secours si la première rebondit. Créer la deuxième fiche
+    fabriquerait le doublon que le §5 cherche à éviter — et l'argument à servir découle de la
+    découverte : un conteneur réparti entre les deux sites donne le prix du volume groupé.
+  · **Le cas dangereux : deux noms quasi inversés.** « Miroiterie des Antilles » (Jarry,
+    `mdantilles.fr`) et « Antilles Miroiterie » (`antilles-miroiterie.com`) sont deux fiches du
+    registre, et un annuaire attribue le second domaine à la première. Or **nous avons écrit à
+    Antilles Miroiterie le 06/10**, avec son adresse Guadeloupe en copie. Si c'est la même maison,
+    un envoi serait un troisième message en quelques jours — la faute Shibaam. **Signature à
+    reconnaître : deux raisons sociales dont les mots sont les mêmes dans l'ordre inverse.** C'est
+    soit un même groupe, soit deux concurrents aux noms voisins, jamais un hasard. **Statut
+    `A QUALIFIER` et un appel dont l'unique objet est de trancher le lien — pas d'envoi avant.**
   **ERREUR DE SÉLECTION À NE PAS REFAIRE, commise dans cette même série :** j'ai bâti la liste des
   fiches à tester en filtrant sur le **statut seul** (`A APPELER` ou `A QUALIFIER`). Résultat,
   4 des 8 fiches portaient déjà une adresse ou avaient déjà été traitées le matin même, et c'est

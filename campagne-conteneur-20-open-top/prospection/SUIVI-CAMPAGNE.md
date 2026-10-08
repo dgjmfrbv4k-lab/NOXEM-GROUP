@@ -2729,3 +2729,66 @@ statut, champ e-mail vide et absence de marqueur de test dans la note. Il est ec
 13 pour ne plus etre a redecouvrir.
 
 **Etat de la file apres cette serie : 62 fiches en `A ENVOYER`, 5 en `A RENVOYER`, 124 en appel.**
+
+---
+
+## 08/10/2026 — 15h15 · Les outre-mer, et une affirmation fausse arretee avant qu'elle serve
+
+**Point de depart.** Les quatre questions de douane bloquent l'argumentaire sur le Mexique, les
+Etats-Unis, le Bresil et la SACU. J'ai donc regarde les outre-mer, en me disant qu'ils etaient le
+seul marche ou la question ne se posait pas, puisqu'ils sont dans l'Union.
+
+### Et c'etait faux. La verification l'a montre avant tout envoi
+
+La **loi du 2 juillet 2004 sur l'octroi de mer** traite comme une **importation** l'entree en
+Guadeloupe ou en Martinique de marchandises « originaires ou en provenance de la France
+metropolitaine ou d'un autre Etat membre ». L'octroi de mer **externe** s'applique donc a notre
+verre europeen, et pour la TVA les DOM sont traites comme un **territoire d'exportation** par
+rapport a la metropole. Les taux sont fixes par deliberation des conseils regionaux et je n'ai pas
+pu etablir celui du chapitre 70 pour 2026 : en Martinique, la deliberation qui actualisait les taux
+2023 a pris fin le 30/09/2025 et je n'ai pas trouve la suivante. Le seul chiffre rencontre, 7 pour
+cent en Guadeloupe et 20 pour cent en Martinique, vient d'une reponse ministerielle de 2020-2021 et
+porte sur les **verres d'optique** : il ne vaut rien ici.
+
+**Deux consequences.** Une **quatrieme question de douane** ajoutee au dossier d'Aaron, et une
+consigne identique a celle du Mexique : rien sur la fiscalite a l'entree, ni ecrit ni sous-entendu.
+Seize fiches sont concernees, dont onze deja contactees. La fiche SAMIR portait « territoire
+francais : pas de droits de douane UE », exact sur le droit de douane et incomplet sur la
+fiscalite : corrigee. Et la Nouvelle-Caledonie et la Polynesie ne sont pas des DOM, elles sont hors
+du territoire douanier de l'Union, avec leurs propres taxes. A noter aussi, parce que cela a une
+date : la derogation europeenne sur l'octroi de mer differencie **expire fin 2027**.
+
+**Ce que je retiens pour moi :** j'ai ecrit l'affirmation dans une fiche avant de la verifier, et je
+l'ai retiree dix minutes apres. L'ordre correct est l'inverse.
+
+### Mais la serie a donne la meilleure fiche des outre-mer
+
+**SAVIMA** (Baie-Mahault) : `accueil@savima.fr`, publiee sur sa propre page de contact. SAS Savima
+Vitrerie Acces Antillai, SIREN 303 109 953, **creee en 1974**, president Georges Gabriel, fonction
+verifiee. **Chiffre d'affaires 2025 d'environ 10,1 millions d'euros** — de tres loin le plus gros
+acheteur potentiel des outre-mer. Aluminier agree Technal, showroom, et une gamme qui couvre vitrage
+isolant, vitrage de securite, miroir sur mesure, baies coulissantes, garde-corps et jalousies.
+**Et ils sont sur deux territoires :** Savima s'est installee a Saint-Martin sous le nom **Glass Alu
+SXM**, avec sa propre adresse. Une seule fiche, un seul message, et l'argument tombe tout seul : un
+conteneur reparti entre Jarry et La Savane donne le prix du volume groupe.
+
+**UNIVERS DU VERRE** (Baie-Mahault) : `contact@universduverre.fr`, meme domaine que le site. Ils
+couvrent la Guadeloupe, la **Martinique**, Marie-Galante, les Saintes et **Saint-Martin** — cinq
+territoires depuis une base.
+
+**SXM ALUMINIUM INSTALLATION** (Saint-Martin) : `sxmaluinstallation@outlook.com`, exception du
+paragraphe 5 puisque le domaine differe, autorisee parce que la societe la publie en lien mailto
+dans ses propres donnees structurees. Traitement Kendra's et TecAlu : message court, volume d'abord,
+et accepter un trop gros pour nous sans insister.
+
+### Et un piege d'identite a ne pas rater
+
+**MIROITERIE DES ANTILLES** (`mdantilles.fr`, Jarry) et **ANTILLES MIROITERIE**
+(`antilles-miroiterie.com`) sont deux fiches de ce registre, et un annuaire attribue le second
+domaine a la premiere. **Nous avons ecrit a Antilles Miroiterie le 06/10**, adresse Guadeloupe en
+copie. Si c'est la meme maison, envoyer ici serait un troisieme message en quelques jours, soit
+exactement la faute Shibaam. **Deux raisons sociales dont les mots sont les memes dans l'ordre
+inverse, ce n'est jamais un hasard.** Statut `A QUALIFIER`, aucun envoi, et un appel dont l'unique
+objet est de trancher le lien. La regle est ecrite au paragraphe 13.
+
+**Etat de la file : 65 fiches en `A ENVOYER`, 5 en `A RENVOYER`, 124 en appel.**
