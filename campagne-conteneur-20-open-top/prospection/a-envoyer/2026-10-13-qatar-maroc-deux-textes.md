@@ -1,4 +1,4 @@
-# Lot du 13/10/2026 — Qatar et Casablanca, deux textes prets
+# Lot du 13/10/2026 — Qatar, Winnipeg et Casablanca, trois textes prets
 
 *La troisieme fiche du 13/10, SXM Aluminium Installation, a son texte dans
 `2026-10-12-outre-mer-trois-textes.md` — elle a ete redigee avec le lot outre-mer.*
@@ -113,14 +113,81 @@ Bien cordialement,
 
 ---
 
+## 3. BORDER GLASS AND ALUMINUM — Winnipeg, Manitoba — `info@borderglass.com` — EN
+
+**Ajoutee a 15h45.** Deverrouillee par la methode en deux temps : domaine propre trouve, puis
+`info@borderglass.com` relevee sur la page de contact de leur **division contrat commercial** —
+c'est bien la boite des demandes commerciales, pas l'accueil ni le depannage.
+
+**Pourquoi eux.** Fondee en 1967 a Selkirk par Don Borys, detenue aujourd'hui par ses fils David et
+Paul. Ils servent des clients de **mur-rideau** de faible et moyenne hauteur dans tout l'Ouest
+canadien, Manitoba et Alberta, et leur portefeuille comprend le **MTS Centre** de Winnipeg et le
+Manitoba Remand Centre. Le mur-rideau veut dire float epais et vitrage isolant en volume.
+
+**ET LE FAIT QUI FAIT L'OUVERTURE DU MESSAGE : ils ont une implantation a PHOENIX, ARIZONA.** Une
+maison qui achete des deux cotes de la frontiere compare deja des couts rendus, et elle subit de
+plein fouet les droits reciproques du 22/08/2026. C'est le seul prospect du registre dont on sait
+qu'il vit la question de la frontiere nord-americaine **dans ses propres comptes**. On ne lui
+explique donc rien : on lui demande.
+
+**Trois reserves de forme.** Le Manitoba est **enclave** : un conteneur y arrive par Vancouver,
+Montreal ou Thunder Bay puis par rail, et on le dit soi-meme plutot que de promettre un prix rendu
+qu'on ne tiendrait pas — meme traitement que Dynamic Glass a Saskatoon. Leurs pages sont indexees
+depuis plusieurs annees, donc **adresse a essayer seule**. Et une adresse nominative a fonction
+verifiee existe, `greggraham@borderglass.com`, vitrerie — mais il est a la division **depannage** :
+a n'essayer que si `info@` ne repond pas. **Ne pas confondre avec `borderglass.com.au`**, une
+societe australienne sans rapport.
+
+**Objet :** `European float and coated glass by the container - a second route into Manitoba`
+
+```
+Hello,
+
+My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter based near
+Lyon, France. Please pass this to whoever handles glass purchasing.
+
+I am writing to you rather than to a glazing shop for one specific reason: you run a
+commercial contract division doing low and medium rise curtain wall across Manitoba and
+Alberta, and you also have an operation in Phoenix. That means you already buy glass on
+both sides of the border and compare landed costs for a living - which also means the
+reciprocal duties that came in on 22 August are not an abstraction in your accounts.
+
+I am not going to explain your own market to you. I am asking a question instead: on your
+Canadian jobs, where does the glass come from today, and what does the border cost you
+per square metre?
+
+If a European route is worth pricing, here is what we cover:
+- clear and extra-clear float, including thick sections for facade work:
+  https://noxemgroup.com/en/float-glass/
+- low emissivity glass for the insulated units: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- substrate for toughening: https://noxemgroup.com/en/tempered-glass/
+- technical glazing where a job calls for it: https://noxemgroup.com/en/technical-glazing/
+
+We work by full container, in ISPM-15 treated wooden crates, in jumbo 3210 x 2550 mm or
+cut to your sizes. Let me be straight about one thing rather than promise what I cannot
+hold: Manitoba is landlocked, so a container reaches you through Vancouver, Montreal or
+Thunder Bay and then by rail. We can put together an offer for delivery to the port of
+your choice, subject to validation on our side, and the inland leg is a separate
+conversation I would rather have openly than bury in a figure.
+
+What I need: the references and thicknesses you consume in the largest volume, the sizes,
+and how often a container's worth would move through your shop.
+
+If you are locked in with your current supply, tell me and I will not push.
+
+Best regards,
+```
+
+---
+
 ## Ordre du 13/10
 
 Trois envois, **espaces et non groupes**, dans cet ordre :
 
-1. **Bullseye Zoujaj** — la plus grosse des trois, et la seule dont l'adresse est une boite de
-   demandes commerciales.
-2. **Choix Verre** — seule, ses pages etant anciennes.
-3. **SXM Aluminium Installation** — texte dans le fichier du 12/10.
+1. **Bullseye Zoujaj** — adresse de demandes commerciales, la plus grosse du lot.
+2. **Border Glass** — seule, ses pages etant anciennes.
+3. **Choix Verre** — seule, meme raison.
+4. **SXM Aluminium Installation** — texte dans le fichier du 12/10.
 
 **Verification prealable, comme pour les autres lots :** controler qu'aucun `5.7.1` n'est tombe
 depuis un serveur **nouveau**. Un verdict repete depuis un serveur deja connu n'arrete rien — mise
