@@ -56,6 +56,20 @@ Ne pas annoncer de prix, de délai ni de certificat (§5). Ne pas dire « direct
 
 ---
 
+## Ajout du 08/10 à 15h20 — une dix-septième, et c'est la meilleure prise de l'après-midi
+
+| # | Société | Numéro | Fenêtre (Paris) | Demander | Pourquoi |
+|---|---|---|---|---|---|
+| 17 | **Millet Industria de Vidrio** — Mérida, Yucatán | `+52 999 432 1000` (ventes, devis, échantillons : une seule ligne) | 16h-00h · **viser 16h-20h** | l'adresse du **service achats**, et surtout : **achètent-ils leur substrat au Mexique ou à l'import ?** | **Elle remonte très au-dessus de son score, et pour des raisons vérifiées sur leur propre site.** Siège commercial à Chichí Suárez (Mérida), **usine en propre à Conkal** (km 10 carretera federal Mérida), succursales à Mérida et à **Cancún**. Deux signaux qui comptent plus que la taille : leur site existe en espagnol, **en anglais et en français**, et ils affichent un chantier à Miami, le **Monad Terrace**. Une verrerie mexicaine qui tient une version française de son site et livre en Floride n'est pas un atelier local — et cette version française est notre point d'entrée naturel. **Leur adresse est publiée mais obfusquée** (protection Cloudflare) : on sait qu'elle existe, on ne peut pas la lire, donc seul le téléphone l'ouvre. Ports Progreso ou Altamira. *Rappel §6 : le Mexique produit son float (Vitro), aucun argument d'absence de production locale — et rien sur les droits de douane tant que les trois questions sont sans réponse.* |
+
+## Et une dix-huitième, trouvée dix minutes plus tard, qui passe devant la dix-septième
+
+| # | Société | Numéro | Fenêtre (Paris) | Demander | Pourquoi |
+|---|---|---|---|---|---|
+| 18 | **Kamri Glass Investments** — Marabella, Trinidad *(aussi Kamri Investments Ltd, Kamri Trinidad)* | `+1 868 235-4527` | 15h-23h · **viser 15h-19h** | l'adresse des achats, **d'où vient leur substrat aujourd'hui**, et la question franche : client ou concurrent sur la Caraïbe ? | **Leur site porte une page « Breakthrough Exporter of the Year 2022 », une visite de la TTMA et une rubrique presse.** Et voilà ce que ce titre implique : **Trinidad n'a aucune production float.** Une maison de verre trinidadienne primée à l'export est donc nécessairement un **transformateur qui importe son substrat et réexporte du verre travaillé** dans la Caraïbe. C'est le profil qui achète au conteneur et qui raisonne en coût rendu, pas en prix départ usine. **Réserve à poser franchement**, comme pour Glass Global Distributors : s'ils exportent du verre fini, ils peuvent aussi être concurrents sur certaines lignes — mieux vaut le demander que le découvrir. Ports Point Lisas ou Port of Spain. **Et un atout de contexte : nous avons déjà un dossier vivant à Trinidad**, Caribbean Glass Specialists en demande de prix. Deux fiches du même marché qui bougent en même temps.
+
+---
+
 ## Ce qu'un appel réussi doit rapporter
 
 Une adresse e-mail et un nom avec sa fonction. Rien d'autre n'est nécessaire : dès que l'adresse
