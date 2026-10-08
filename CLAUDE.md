@@ -530,6 +530,32 @@ et c'est arrivé le 08/10 : yemenglass et `porfyriosglass@cytanet.com.cy` (`554 
 - **deux serveurs distincts** le même jour → arrêt des envois à froid, comme la règle d'origine.
 Et dans tous les cas, jamais de rafale : des vagues de 5, espacées.
 
+**VÉRIFICATION DU 08/10 À 15 h 15, ET ELLE DÉMOLIT LE DÉCLENCHEUR QUE JE VENAIS D'ÉCRIRE.**
+J'avais noté que deux serveurs distincts avaient rendu un `5.7.1` **le 08/10**, yemenglass et
+`porfyriosglass@cytanet.com.cy`, et j'en avais déduit l'arrêt des envois à froid. **Relevé dans la
+boîte, les dates ne disent pas cela :**
+- le `554 5.7.1` de **cytanet est tombé le 07/10 à 15 h 08 UTC**, soit la veille ;
+- le seul verdict du 08/10 est le `550 High probability of spam` de **10 h 04 UTC sur
+  `info@yemenglass.com`** ;
+- et **`info@yemenglass.com` est l'adresse de la fiche Alawadhi Trading Group** — vérifié au
+  registre. Ce que je comptais pour deux événements, « Alawadhi » et « yemenglass », est **une
+  seule société, un seul serveur**.
+**Donc le 08/10 ne compte qu'UN `5.7.1`, rendu par un serveur qui nous avait déjà rejetés la
+veille pour le même motif.** C'est exactement le premier cas de la règle : « répété depuis un
+serveur déjà connu → on continue, à volume mesuré ». Le déclencheur des deux serveurs distincts a
+été atteint le **07/10**, pas le 08.
+**Et la lecture positive, qu'il faut dire aussi :** sur une centaine d'envois le 08/10, **aucun
+serveur nouveau ne nous a filtrés**. C'est un bon signal de réputation, et c'est l'inverse de ce
+que j'avais conclu le matin.
+**MAIS LA DÉCISION DE NE PLUS ENVOYER À FROID LE 08/10 RESTE LA BONNE — pour une autre raison, et
+c'est elle qu'il faut retenir.** 104 messages sont partis dans la journée, contre les 15 à 20
+retenus au plan d'envois précisément parce que 104 est trop pour un domaine neuf sans DMARC. **Ce
+qui limite les envois ce jour-là n'est pas le filtrage, c'est le volume déjà consommé.** Bonne
+décision, mauvais motif : il faut corriger le motif, sinon la règle bloquera demain des envois
+qu'elle autorise.
+**Leçon de méthode, et elle vaut au-delà de ce cas : avant de compter deux événements, vérifier
+que ce ne sont pas deux noms de la même chose, et lire l'heure du rebond en UTC avant de le dater.**
+
 DNS du domaine, verifie le 07/10 : MX Google OK, SPF OK, DKIM OK, **DMARC absent**.
 Le domaine est neuf, donc sans reputation : monter le volume progressivement, ne pas
 envoyer en rafale, et surveiller les non-delivrances silencieuses (Apple ne renvoie

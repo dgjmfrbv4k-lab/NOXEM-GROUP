@@ -2792,3 +2792,55 @@ inverse, ce n'est jamais un hasard.** Statut `A QUALIFIER`, aucun envoi, et un a
 objet est de trancher le lien. La regle est ecrite au paragraphe 13.
 
 **Etat de la file : 65 fiches en `A ENVOYER`, 5 en `A RENVOYER`, 124 en appel.**
+
+---
+
+## 08/10/2026 — 15h20 · L'arret des envois a froid reposait sur une erreur de comptage
+
+**Il faut le dire avant la suite, parce que ca a coute des heures d'envoi.** Ce matin j'ai arrete
+les envois a froid en invoquant la regle du paragraphe 10 : deux serveurs distincts rendant un
+`5.7.1` le meme jour. **Releve dans la boite, les dates ne disent pas cela.**
+
+- Le `554 5.7.1` de `porfyriosglass@cytanet.com.cy` est tombe le **07/10 a 15h08 UTC**, la veille.
+- Le seul verdict du 08/10 est le `550 High probability of spam` de **10h04 UTC** sur
+  `info@yemenglass.com`.
+- Et `info@yemenglass.com` **est l'adresse de la fiche Alawadhi Trading Group**, verifie au
+  registre. Ce que je comptais pour deux evenements, « Alawadhi » et « yemenglass », est une seule
+  societe et un seul serveur.
+
+**Donc le 08/10 ne compte qu'un seul `5.7.1`, venu d'un serveur qui nous avait deja rejetes la
+veille pour le meme motif** — c'est le premier cas de la regle, celui ou l'on continue a volume
+mesure. Le declencheur des deux serveurs distincts a ete atteint le **07/10**, pas le 08.
+
+### Et la lecture positive, qui est le vrai enseignement
+
+**Sur une centaine d'envois dans la journee, aucun serveur nouveau ne nous a filtres.** C'est un
+bon signal de reputation pour un domaine de huit jours, et c'est l'inverse de ce que je concluais
+ce matin en ecrivant que la delivrabilite etait devenue le goulot d'etranglement.
+
+### Mais la decision de ne plus envoyer a froid aujourd hui reste la bonne
+
+**Pour une autre raison, et c'est elle qu'il faut retenir : 104 messages sont partis dans la
+journee, contre les 15 a 20 retenus au plan d'envois**, precisement parce que 104 est trop pour un
+domaine neuf sans DMARC. Ce qui limite les envois ce jour-la n'est pas le filtrage, c'est le volume
+deja consomme. **Bonne decision, mauvais motif** — et corriger le motif compte, sinon la regle
+bloquera demain des envois qu'elle autorise.
+
+### Rebonds du 08/10, releves un par un
+
+| Adresse | Rebond | Lecture |
+|---|---|---|
+| `info@almaglass.com.sa` | `550 5.1.1` adresse introuvable, **1h41 apres l'envoi** | adresse morte, la fiche est deja passee sur les boites d'agence |
+| `info@yemenglass.com` | `550 High probability of spam` | verdict de filtrage, deuxieme jour de suite, meme serveur |
+| `export@mataharisilverindo.com` | `550 No Such User` | la societe publie une adresse morte, cas unique du registre |
+| `lowavitrerie@yahoo.fr` | `554 30` | rejet Yahoo |
+| `kometayembu@yahoo.fr` | `552 1` | rejet Yahoo |
+| `willem@pgglass.com` | adresse introuvable | **ma faute**, l'adresse du registre etait `pgglass.com.na` |
+
+**Deux choses a en tirer.** Les deux rebonds Yahoo tombent sur des fiches camerounaises a adresse
+Yahoo : ces boites gratuites africaines sont fragiles et il faut les traiter comme telles. Et le
+rebond Alma Glass a mis **1h41** a revenir, ce qui confirme le rappel du paragraphe 10 : verifier
+les rebonds dans les minutes qui suivent un lot ne prouve rien.
+
+**Lecon de methode, et elle depasse ce cas : avant de compter deux evenements, verifier que ce ne
+sont pas deux noms de la meme chose, et lire l'heure d'un rebond en UTC avant de le dater.**
