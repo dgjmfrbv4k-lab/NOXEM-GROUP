@@ -587,6 +587,34 @@ rapports. C'est l'étape qui compte pour la réputation, et on pourra durcir plu
 
 **Je ne peux pas le faire moi-même** : la session n'a pas accès à la zone DNS du domaine.
 
+### a ter) Le plafond de recherche — une demande neuve, et elle est chiffrable
+
+**Fait, mesuré le 08/10 à 15 h 50.** L'outil de recherche de la session est plafonné à **200 appels
+par journée de travail**. Je l'ai atteint.
+
+**Ce que ça coûte, en fiches.** La méthode de déverrouillage qui a tout changé aujourd'hui coûte
+**deux appels par fiche** — un pour trouver le domaine propre de la société, un pour lire l'adresse
+qu'elle publie — parfois trois quand la première requête ne donne rien. **Le plafond représente
+donc 70 à 90 fiches par jour, pas plus.** Il reste **195 fiches en appel ou à qualifier** dans le
+registre : au rythme autorisé, les passer toutes prend deux à trois journées entières de recherche,
+pendant lesquelles je ne fais rien d'autre.
+
+**Et le plafond tombe au mauvais moment.** Quand il est arrivé, deux fiches étaient à moitié
+faites : **Vidrios Brenes** (Costa Rica), dont l'adresse satisfait la règle du §5 à la lettre mais
+dont je n'ai pas pu lire la page de contact, et **Cristembo** (Bolivie) — trois usines de trempe à
+Cochabamba, La Paz et Oruro, deux fours et 11 000 m² par poste sur le seul site de Cochabamba, et
+pas encore d'adresse. Une fiche à moitié vérifiée coûte plus cher qu'une fiche non commencée.
+
+**Ce que je te demande, et c'est un réglage, pas un budget.** Le plafond se relève par la variable
+`CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`. **Le doubler ferait passer la capacité de ~80 à ~160
+fiches par jour.** C'est le même genre de demande que le DMARC : cinq minutes de réglage, et ça
+lève directement le facteur qui limite le nombre de prospects joignables.
+
+**Ordre de priorité de mes trois demandes techniques, pour que tu n'aies pas à le deviner :**
+le **DMARC** d'abord — sans lui, les messages que je prépare partent avec un handicap de
+délivrabilité. Le **plafond de recherche** ensuite — il décide combien de fiches deviennent
+joignables. L'**accès réseau** en dernier, puisque la méthode de recherche l'a largement remplacé.
+
 ### b) Le réseau de la session — demande MAINTENUE mais DÉCLASSÉE
 
 **Correction honnête : ce que j'ai écrit ce matin était trop pessimiste.** J'affirmais que le
