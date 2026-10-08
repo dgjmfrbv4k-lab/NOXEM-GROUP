@@ -651,6 +651,48 @@ il a dit ne pas avoir de besoin actuellement.
     son accueil, et son propre serveur la refuse en `550 No Such User`. Ce n'est ni une adresse
     devinée ni une vieille page. **La méthode ne répare pas cela** : il reste le téléphone, ou
     mieux, le WhatsApp quand il est publié. Ne pas s'acharner.
+  **BILAN DU 08/10 À 15 h, SUR HUIT FICHES DE PLUS, ET IL CORRIGE DEUX CHOSES.**
+  Rendement : **4 déverrouillages sur 8**, soit 50 %, en dessous des 62 % du matin. L'écart
+  s'explique : les fiches faciles étaient déjà faites, et ce qui reste est le résidu dur.
+  · **LE MEILLEUR GISEMENT N'EST PAS LES FICHES SANS ADRESSE, C'EST LES FICHES DONT L'ADRESSE A
+    REBONDI.** Les deux vrais gains de la série sont Javalfer (Monterrey) et Vidrios Dellorto
+    (Santiago), tous deux en rebond : la recherche restreinte a rendu **des boîtes de succursale
+    sur le même domaine** que le premier passage n'avait jamais cherchées — trois chez Javalfer
+    (`lindavista@`, `santacatarina@`, `guadalupe@`), trois chez Dellorto (`contacto@`, `express@`,
+    `motero@`). C'est le troisième usage ci-dessus, et c'est le plus rentable des trois : une
+    société qui a déjà un site indexé et une boîte qui rebondit a presque toujours une autre boîte
+    publiée. À faire **avant** d'aller chercher des fiches sans adresse du tout.
+  · **UN SITE VIVANT ET INDEXÉ N'IMPLIQUE PAS UN DOMAINE DE COURRIER JOIGNABLE.** Arturaya Glass
+    (Erbil) : la recherche restreinte rend son site et sa section *Get in Touch* publie bien
+    `info@arturaya.com`, mais le rebond du 07/10 vient du serveur **de Google**, pas de notre
+    résolveur de session, et il dit que le domaine est introuvable pour la messagerie. Un site peut
+    vivre sur `www` sans aucun MX. **Donc un rebond rendu par Google sur « domaine introuvable »
+    n'est pas un faux NXDOMAIN de session et ne se rattrape pas** : à distinguer soigneusement du
+    garde-fou du §5, qui ne vise que notre propre résolveur.
+    **CONFIRMÉ DEUX FOIS DE PLUS dans l'heure qui suit, donc c'est un cas de figure et non un
+    accident :** Vitrolux (Abidjan) publie `info@vitrolux-ci.com` sur un site toujours indexé, et
+    Google a rendu le même « domaine introuvable » le 07/10 ; la page est datée d'environ
+    3 100 jours, ce qui concorde — site laissé en ligne, hébergement courrier abandonné. Et
+    Commercial Glass & Aluminium (Bermudes) ne remonte **aucune** page du tout, ce qui confirmait
+    le rebond du 06/10. **Signature à reconnaître : site vieux de plusieurs années, et un rebond
+    de Google qui parle du DOMAINE et non de la boîte.** Dans ce cas, ni la méthode ni un autre
+    essai n'y feront rien, et la fiche est téléphonique pour de bon.
+  **UNE SUBTILITÉ QUI VAUT UN DÉVERROUILLAGE, trouvée sur Grupo Visemex (Monterrey) :** le registre
+  portait `ventas1@visemex.com.mx` et leur page publie `venta1@`, **au singulier**. Même piège
+  qu'Al Ashoury. Mais ici l'arbitrage s'est fait sur un fait et non sur la source la plus récente :
+  le rebond du 05/10 était une **boîte pleine**, ce qui *prouve* que `ventas1@` existe, tandis que
+  `venta1@` ne repose que sur une page dont le copyright s'arrête à 2014. **Donc : une boîte pleine
+  est une preuve d'existence, et elle vaut mieux qu'une orthographe lue sur une page ancienne.**
+  L'alternative se garde en second essai, pas en remplacement.
+  **ERREUR DE SÉLECTION À NE PAS REFAIRE, commise dans cette même série :** j'ai bâti la liste des
+  fiches à tester en filtrant sur le **statut seul** (`A APPELER` ou `A QUALIFIER`). Résultat,
+  4 des 8 fiches portaient déjà une adresse ou avaient déjà été traitées le matin même, et c'est
+  le garde-fou de `ecrire-registre.py` qui l'a arrêté, pas moi. Le bon filtre croise **trois**
+  conditions — statut, champ e-mail vide, et absence de marqueur de test dans la note :
+```bash
+awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $9 !~ /TESTEE|DEVERROUILLEE/ \
+  {print $1" | "$4" | "$6}' liste-prospects.csv
+```
 - **Ce blocage est devenu LE goulot d'étranglement, devant le ciblage et devant le message.**
   Mesuré sur les lots du 08/10 : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7,
   Zone Libre de Colón 0, Cap-Vert 1 sur 6. Les sociétés sont trouvées et qualifiées, mais

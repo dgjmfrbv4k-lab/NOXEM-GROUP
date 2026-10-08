@@ -2674,3 +2674,58 @@ conteneur, avant ou avec la grille float.**
 **Ce que je ne change pas :** les dix fiches colombiennes restent en l'etat, huit deja contactees
 et deux en file pour demain (Vitelsa, Distrividrios Antioquia). L'angle de leur message ne bouge
 pas — la mesure est sous reserve, donc on ne s'en sert pas comme argument.
+
+---
+
+## 08/10/2026 — 15h25 · Douze fiches testees de plus, et le gisement n'est pas celui que je croyais
+
+**Chiffres de la serie, d'abord.** Douze fiches testees par la methode du paragraphe 13, **cinq
+resultats exploitables** : trois adresses nouvelles ou corrigees et deux confirmations qui
+debloquent un renvoi. Sept sans resultat. Rendement 42 pour cent, contre 62 pour cent ce matin.
+L'ecart s'explique sans mystere : les fiches faciles ont ete faites dans la journee, et ce qui
+reste est le residu dur.
+
+**Et le resultat utile n'est pas le rendement, c'est le changement de cible.**
+
+### 1. Le meilleur gisement, ce sont les fiches dont l'adresse a REBONDI
+
+**Javalfer** (Monterrey) et **Vidrios Dellorto** (Santiago) etaient en rebond. La recherche
+restreinte a leur domaine a rendu ce que le premier passage n'avait jamais cherche : **des boites
+de succursale sur le meme domaine.** Trois chez Javalfer, `lindavista@`, `santacatarina@`,
+`guadalupe@`. Trois chez Dellorto, `contacto@`, `express@`, `motero@`. Les deux fiches passent de
+`A APPELER` ou rebond a `A RENVOYER` avec une adresse neuve et reguliere au titre du paragraphe 5.
+Dellorto s'agrandit au passage : une seconde implantation a Temuco, inconnue de la fiche.
+
+**Grupo Visemex** (Monterrey) donne le cas le plus fin de la journee. Le registre porte
+`ventas1@visemex.com.mx`, leur page publie `venta1@`, **au singulier**. J'ai garde `ventas1` : le
+rebond du 05/10 etait une **boite pleine**, ce qui prouve que cette boite existe, alors que
+`venta1` ne repose que sur une page dont le copyright s'arrete a 2014. Une boite pleine est une
+preuve d'existence et vaut mieux qu'une orthographe lue sur une page ancienne. `venta1` reste en
+second essai.
+
+**Glass Camp** (Paulinia, Bresil) : meme logique, boite pleine et non mauvaise adresse, et leur
+site confirme `vendas@`. Rien a corriger, seulement a reessayer. La lecture fait monter la fiche :
+ils annoncent **du float commun en gamme propre**, plus laminé, acoustique, trempé-feuilleté et
+contrôle solaire, et tiennent un e-commerce de commandes. Avec l'antidumping bresilien confirme par
+le Gecex 961 du 03/09/2026, c'est une bonne fiche dans un marche a parapluie de prix.
+
+### 2. Et la limite de la methode, maintenant mesuree trois fois
+
+**Un site vivant et indexe n'implique pas un domaine de courrier joignable.** Arturaya (Erbil) et
+Vitrolux (Abidjan) publient tous deux une adresse sur un site que la recherche remonte sans
+probleme — et Google a rendu sur les deux un « domaine introuvable ». Ce n'est pas le faux
+NXDOMAIN de notre resolveur de session : c'est le serveur de Google qui le dit. La page de Vitrolux
+est datee d'environ 3 100 jours, ce qui concorde : site laisse en ligne, hebergement courrier
+abandonne. Commercial Glass aux Bermudes ne remonte meme aucune page. **Signature a reconnaitre :
+site vieux de plusieurs annees, et un rebond qui parle du DOMAINE et non de la boite.** Ces fiches
+sont telephoniques pour de bon, et il ne faut plus y perdre de temps.
+
+### 3. Une erreur de methode de ma part, dans cette meme serie
+
+J'ai bati la liste des fiches a tester en filtrant sur le **statut seul**. Resultat, quatre des
+huit premieres portaient deja une adresse ou avaient deja ete traitees le matin meme — et c'est le
+garde-fou de `ecrire-registre.py` qui l'a arrete, pas moi. Le bon filtre croise trois conditions,
+statut, champ e-mail vide et absence de marqueur de test dans la note. Il est ecrit au paragraphe
+13 pour ne plus etre a redecouvrir.
+
+**Etat de la file apres cette serie : 62 fiches en `A ENVOYER`, 5 en `A RENVOYER`, 124 en appel.**

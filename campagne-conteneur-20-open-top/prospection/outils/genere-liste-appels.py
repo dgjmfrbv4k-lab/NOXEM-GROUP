@@ -104,10 +104,19 @@ ces fiches ne s'ouvriraient qu'au telephone, parce que la lecture web est coupee
 ne satisfait pas la regle anti-rebond du paragraphe 5. Les deux premieres affirmations restent
 vraies. La conclusion, non.
 
-**Une methode de recherche trouvee l'apres-midi en a deverrouille 55 sur 88 testees, soit 62 %** :
+**Une methode de recherche trouvee l'apres-midi en a deverrouille 54 sur 93 testees, soit 58 %** :
 recherche large sur le nom de la societe avec les annuaires et les courtiers bloques, pour faire
-remonter son domaine propre, puis recherche restreinte a ce domaine pour l'adresse publiee. Trente-
-cinq fiches sont ainsi sorties de cette liste dans la journee, et **54 attendent desormais un envoi**.
+remonter son domaine propre, puis recherche restreinte a ce domaine pour l'adresse publiee. Des
+fiches sont ainsi sorties de cette liste tout au long de la journee, et **62 attendent desormais un
+envoi**, plus 5 un renvoi apres rebond.
+
+**Deux enseignements de la derniere serie, a connaitre avant de decrocher un telephone.**
+Le meilleur gisement n'est pas cette liste, c'est les fiches dont l'adresse a REBONDI : une societe
+qui a un site indexe et une boite qui rebondit publie presque toujours une autre boite, souvent une
+boite de succursale. Et a l'inverse, une fiche dont le site est vieux de plusieurs annees et dont le
+rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du tout : le telephone y
+est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
+et Commercial Glass aux Bermudes.
 
 **Ce qui reste ici est donc un residu, mais un residu reel :** ces {len(rows)} societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
