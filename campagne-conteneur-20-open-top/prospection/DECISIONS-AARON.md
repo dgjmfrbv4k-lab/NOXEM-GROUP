@@ -102,6 +102,37 @@ grille, les deux candidates sont **les États-Unis** — parapluie de prix le pl
 asiatique écartée, 26 fiches déjà contactées et prêtes à être relancées — et **l'Afrique de
 l'Ouest**, parce que c'est la seule qui a une date.
 
+### Et un deuxieme repere, obtenu en fin d'apres-midi, qui pointe vers le miroir
+
+La Colombie n'a **rien** contre le float, j'avais ecrit le contraire ce matin et c'est corrige.
+Mais elle a une mesure precise sur **le miroir**, et elle donne un chiffre.
+
+**Resolution 284 du 17/10/2025 du MinCIT colombien** : droits antidumping definitifs sur les
+miroirs non encadres, argent ou aluminium, de Chine (sous-position 7009.91.00.00). Le droit comble
+l'ecart entre un **prix plancher FOB de 0,77 USD/kg** et le prix declare. Marge de dumping
+constatee : **113,89 %**, le miroir chinois s'exportant a **0,36 USD/kg**. Demandeur : Espejos S.A.S.
+
+**Reserve honnete : Espejos a depose un recours en revocatoria, tranche par la Resolution 123 du
+19/03/2026, et je n'ai pas pu etablir dans quel sens.** Donc je n'ecris a personne que la mesure
+est intacte. Pour ta decision de prix, le chiffre reste valable meme si la mesure a bouge : c'est
+l'autorite colombienne qui a mesure ces prix, pas moi.
+
+**Et voila ce que le chiffre dit.** A 2,5 kg/m² par millimetre, un miroir de 4 mm pese 10 kg/m².
+Donc **3,60 $/m² a l'export chinois, 7,70 $/m² au plancher colombien**, contre **~1,50 $/m² pour
+le float nu indien en 4 mm**. **Le miroir vaut deux a cinq fois le float nu.**
+
+**Conclusion pratique, et c'est une recommandation :** si tu ne calibres qu'un seul prix, ne
+commence pas par le float clair. Commence par **le miroir sans cuivre ni plomb**. Trois raisons
+qui se tiennent : la valeur au m² est deux a cinq fois superieure, donc un ecart de fret ou de
+marge se dilue au lieu de tout decider ; c'est le produit le plus differenciant de notre gamme
+(§8), face a un miroir chinois classique argent-cuivre ; et le conteneur vaut beaucoup plus cher,
+donc moins de volume a vendre pour le meme chiffre d'affaires. Nos cibles naturelles sont la,
+deja dans le registre : miroitiers, hotellerie, climats humides et insulaires.
+
+**Ce que je te demande concretement :** un prix au m² sur le miroir sans cuivre 4 mm en conteneur
+complet, avant ou en meme temps que la grille float. C'est la question la plus rentable de la
+liste.
+
 ---
 
 ## Le constat qui compte

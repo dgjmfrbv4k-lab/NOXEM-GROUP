@@ -2638,3 +2638,39 @@ technique, grands formats.
 
 C'est l'inverse de l'intuition qui guidait la campagne, et c'est le résultat le plus utile de la
 journée.
+
+---
+
+## 08/10/2026 — 14h45 · Colombie verifiee : rien sur le float, une mesure sur le miroir, et le deuxieme repere de prix
+
+**Correction de ce que j'ecrivais ce matin.** J'avais note la Colombie comme « non confirme sur le
+float » avec une mesure vague sur les miroirs. La verification donne le detail, et il est utile.
+
+**Fait.** Resolution 284 du 17/10/2025 du MinCIT : droits antidumping definitifs sur les miroirs
+non encadres argent ou aluminium de Chine, sous-position 7009.91.00.00, pour cinq ans a compter de
+la publication au Diario Oficial 53.276. Le droit est l'ecart entre un prix plancher FOB de
+0,77 USD/kg et le prix declare quand celui-ci est inferieur. Demandeur Espejos S.A.S. Marge de
+dumping 113,89 %, prix d'exportation chinois 0,36 USD/kg contre valeur normale 0,77.
+
+**Reserve, et elle est importante.** Espejos a depose une revocatoria directa contre sa propre
+resolution favorable, tranchee par la Resolution 123 du 19/03/2026, et les sources ne disent pas
+dans quel sens. Le site du MinCIT est lui-meme incoherent : la fiche du dossier porte « enquete en
+cours » alors que la mesure figure dans la liste des droits en vigueur. **Donc aucun message a un
+prospect colombien n'affirmera que le miroir chinois est taxe.** C'est inscrit au §6.
+
+**Ce que ca apporte vraiment : un repere de prix, le deuxieme de la campagne.** A 2,5 kg/m² par
+millimetre, un miroir 4 mm pese 10 kg/m², soit **3,60 $/m² a l'export chinois et 7,70 $/m² au
+plancher**. Le float indien de reference est a ~1,50 $/m² en 4 mm. **Le miroir vaut deux a cinq
+fois le float nu.**
+
+**Consequence sur la conduite de la campagne, et c'est un changement.** Jusqu'ici je raisonnais
+float d'abord, miroir en complement. Les deux reperes dont je dispose disent l'inverse : le float
+nu est le produit ou l'ecart de prix avec l'Asie est le plus brutal et la valeur au m² la plus
+faible, donc celui ou le fret et la marge pesent le plus lourd. Le miroir sans cuivre ni plomb
+cumule une valeur trois a cinq fois superieure et une vraie differenciation technique face au
+miroir argent-cuivre chinois. **Demande portee a Aaron : un prix miroir sans cuivre 4 mm en
+conteneur, avant ou avec la grille float.**
+
+**Ce que je ne change pas :** les dix fiches colombiennes restent en l'etat, huit deja contactees
+et deux en file pour demain (Vitelsa, Distrividrios Antioquia). L'angle de leur message ne bouge
+pas — la mesure est sous reserve, donc on ne s'en sert pas comme argument.

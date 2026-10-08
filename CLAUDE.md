@@ -245,9 +245,26 @@ droits et l'Europe non, l'argument américain se transpose.
   des producteurs, qui demande ces mesures) : même parapluie de prix haut qu'aux États-Unis.
   **Formulation prudente obligatoire sur la Chine** : parler de la Malaisie, du Pakistan et de la
   Turquie, dont la mesure est confirmée, et ne pas affirmer l'état du droit chinois sans l'avoir lu.
-- **Colombie** : **non confirmé sur le float.** La seule mesure colombienne confirmée porte sur les
-  **miroirs non encadrés** (demandée par Espejos SAS, en vigueur depuis octobre). C'est utile
-  autrement — notre miroir sans cuivre y affronterait une origine taxée — mais ce n'est pas le float.
+- **COLOMBIE : VÉRIFIÉ EN DÉTAIL LE 08/10. Rien sur le float, mais une mesure précise sur LE MIROIR,
+  et c'est un produit que nous différencions.**
+  **Résolution 284 du 17/10/2025** du MinCIT : droits antidumping définitifs sur les **miroirs non
+  encadrés, argent ou aluminium, de Chine**, sous-position 7009.91.00.00. Le droit est la
+  **différence entre un prix de base FOB de 0,77 USD/kg et le prix déclaré**, quand celui-ci est
+  inférieur. Cinq ans à compter de la publication au Diario Oficial 53.276, donc en principe
+  jusque vers octobre 2030. Demandeur : Espejos S.A.S. **Marge de dumping constatée : 113,89 %**,
+  le prix d'exportation chinois étant de 0,36 USD/kg contre une valeur normale de 0,77.
+  **RÉSERVE À DIRE : Espejos S.A.S. a déposé une revocatoria directa contre cette résolution, et
+  l'autorité l'a tranchée par la Résolution 123 du 19/03/2026 — je n'ai pas pu établir dans quel
+  sens.** Donc ne pas affirmer que la mesure est intacte sans vérification. Le site du MinCIT est
+  lui-même incohérent, la fiche du dossier portant « enquête en cours » alors que la mesure figure
+  dans la liste des droits en vigueur.
+  **DEUXIÈME REPÈRE DE PRIX DE LA CAMPAGNE, et il est bien plus haut que celui de l'Inde :** le
+  miroir chinois s'exportait à **0,36 USD/kg** et le plancher colombien est à **0,77 USD/kg**. À
+  2,5 kg par m² et par mm, un miroir de 4 mm fait 10 kg/m², soit **3,60 USD/m² à l'export chinois
+  et 7,70 USD/m² au plancher**. À comparer au float indien à ~1,50 USD/m² en 4 mm : **le miroir
+  vaut deux à cinq fois le float nu.** C'est cohérent avec le fait que notre miroir sans cuivre ni
+  plomb est le produit le plus différenciant de la gamme (§8), et cela dit où un prix européen a
+  le plus de chances de tenir.
 - **INDE : VÉRIFIÉ LE 08/10, ET C'EST DÉFAVORABLE. 16 fiches à déclasser.** Deux faits.
   · **DGFT, notification nº 29/2026-27 du 18/08/2026** : le float clair de 4 à 12 mm
     (SH 70051090 et 70052990) passe de « Free » à **« Restricted »**, avec un **prix minimum à

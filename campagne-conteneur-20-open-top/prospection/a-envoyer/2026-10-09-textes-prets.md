@@ -883,7 +883,7 @@ parce que c'est la seule phrase qui prouve qu'on a regardé la société.
 | 35 | **City Glasses** — Bahreïn · `info@cityglassbh.com` · EN/AR | « Three sites - the glass plant and trading head office at Salmabad, a second glass plant at Hidd, an aluminium plant at Hamala - for a market the size of Bahrain tells me you are supplying beyond it. » | float + trempe + miroir · Khalifa Bin Salman |
 | 36 | **GlassTempCorr** — Lima · `ventas@glasstempcorr.com.pe` · ES | « Cuatro plantas, incluida una en **Arequipa**: eso es cobertura nacional y no sólo Lima. » *(Ne pas servir le même message qu'à Corporación Limatambo : ce sont des concurrents directs sur la même avenue.)* | float + low-E · Callao |
 | 37 | **Conlumi / Contempera** — São Paulo · `contatos@contempera.com.br` · **PT** | « Escrevo pelo laminado estrutural e de temperado do catálogo de vocês: é o produto que menos perdoa um substrato irregular, porque o defeito aparece depois do autoclave e não antes. » **Et demander, sans affirmer** : « A Contempera e a Conlumi são a mesma casa? » | float + vitrage technique · Santos |
-| 38 | **Distrividrios Antioquia** — Medellín · `distrividriosantioquia.lh@hotmail.es` · ES | « Se describen como venta de vidrio **al por mayor**, en todos los tipos y calibres. » **Message court** : structure modeste, question de volume d'abord, pas d'effort de rédaction. | float · Carthagène |
+| 38 | **Distrividrios Antioquia** — Medellín · `distrividriosantioquia.lh@hotmail.es` · ES | « Se describen como venta de vidrio **al por mayor**, en todos los tipos y calibres. » **Message court** : structure modeste, question de volume d'abord, pas d'effort de rédaction. | **miroir sans cuivre** + float · Carthagène |
 | 39 | **Vidrios y Más** — Panama · `consultas@vidriosymaspa.com` · ES | **Message court**, même traitement : question de volume annuel avant toute offre. **Dernier du lot.** | float · Balboa ou Colón |
 | 40 | **Virgin's International Trading** — Kingston · `virgins.intltrading18@gmail.com` · EN | « You extrude and trade aluminium, and you carry a glass category - balcony balustrades, shower screens, windows and doors. Balustrades and showers mean thick toughened glass, and Jamaica means laminated. » *(Exception §5 : gmail publié par eux.)* | float épais + vitrage technique · Kingston |
 | 41 | **Kendra's Aluminium** — Saint-Vincent · `info@kendrawindows.com` · EN | « Your range includes a roll-up hurricane shutter and security bars, which tells me what your market asks of glass. » **Poser le volume annuel d'abord**, et accepter un « trop pour nous » : 100 000 habitants. | feuilleté · Kingstown |
@@ -955,3 +955,29 @@ Celles qui demandent le plus d'attention en rédaction, et pourquoi :
 - **Imporvidrios** : poser la question d'identité avec la fiche Milagros.
 - **GPS Ibérica**, **Almacenes Vidrí**, **Dynamic Glass** : l'adresse n'est pas celle des achats,
   la demande de transmission doit être la première ligne.
+
+---
+
+## Correctif du 08/10 fin d'apres-midi — le miroir passe devant le float sur les fiches qui en importent
+
+**Raison, et elle est chiffree.** La verification de la Colombie a donne le deuxieme repere de prix
+de la campagne : le miroir chinois s'exporte a **0,36 USD/kg** et le plancher antidumping colombien
+est a **0,77 USD/kg**, soit **3,60 et 7,70 USD/m2 en 4 mm**, contre **~1,50 USD/m2** pour le float
+nu indien de reference. **Le miroir vaut deux a cinq fois le float nu au metre carre.**
+
+**Consequence sur ce lot.** Partout ou la fiche dit elle-meme que la societe importe ou distribue
+du **miroir**, le message met le **miroir sans cuivre ni plomb** en premiere ligne de gamme et le
+float ensuite — et non l'inverse. Trois raisons : la valeur au m2 est trois a cinq fois superieure
+donc le fret se dilue au lieu de tout decider ; le miroir sans cuivre est techniquement different
+du miroir argent-cuivre chinois, ce que le float clair n'est pas ; et le conteneur vaut beaucoup
+plus cher a volume egal.
+
+**Fiches de ce lot concernees :** Distrividrios Antioquia (miroirs importes 2 a 4 mm, ligne 38,
+corrigee ci-dessus), Gr8 Vision (ligne 43, deja float + miroir, garder cet ordre inverse), El Wifaq
+Verre (ligne 49, miroirs decoratifs a sa gamme), The Glass Warehouse (ligne 53, deja float +
+miroir, inverser). Les autres gardent leur gamme en l'etat.
+
+**INTERDIT, et c'est la reserve du §6 :** ne jamais invoquer la mesure antidumping colombienne sur
+le miroir chinois comme argument dans un message. La Resolution 284 du 17/10/2025 existe, mais
+Espejos S.A.S. a depose une revocatoria tranchee par la Resolution 123 du 19/03/2026 dans un sens
+que je n'ai pas pu etablir. Le chiffre me sert a hierarchiser notre gamme, pas a argumenter.
