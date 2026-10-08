@@ -2974,5 +2974,22 @@ Javalfer et Dellorto l'ont prouve.
    onze mille metres carres par poste sur le seul site de Cochabamba, et pas encore d'adresse.
 
 **Et le point qui ne depend pas de moi : les quatre dossiers de prix attendent tous la meme chose,
-une grille.** John a retire aujourd hui le seul obstacle technique qui restait sur le dossier
-canadien. Il ne manque plus que le prix.
+une grille.**
+
+## Ajout de 15h53 — le dossier canadien est passe de trois inconnues a zero dans la journee
+
+**John a ecrit deux fois cet apres-midi.** A 15h17 il renonce a la cote 96 x 130 et demande un prix
+au jumbo. Je lui reponds a 15h40 sans prix, en soulevant un controle dimensionnel plutot qu'en
+supposant : si 96 x 130 est en pouces, 130 pouces font 3302 mm quand la plus grande dimension du
+jumbo est 3210 mm, donc la piece ne sort d'aucune orientation et il lui manque environ 92 mm. Je
+demande l'unite. **A 15h48 il tranche : « You can quote based on jumbo sheet size 3210 x 2550 mm. »**
+
+**Base de chiffrage desormais arretee** et ecrite dans le fil pour qu'il y ait une trace de ce que
+chacun chiffre : jumbo 3210 x 2550, ses neuf references, CIF Toronto, conteneur complet. Reponse de
+confirmation envoyee a 15h50, courte, **sans prix et sans date** — en disant explicitement que je
+ne donne pas une date que je ne maitrise pas, donc aucun engagement de delai.
+
+**Ce que ca vaut.** Ce dossier portait ce matin trois inconnues : l'adresse d'expedition qui ne le
+rassurait pas, la cote 96 x 130, et l'unite de cette cote. **Les trois sont levees ce soir, et le
+client a leve les deux dernieres lui-meme.** Il ne manque que le prix, et le grand format PLF sort
+entierement de ce dossier — il reste pose pour Rubex et Caribbean Glass, pas pour le Canada.
