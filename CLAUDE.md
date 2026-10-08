@@ -302,6 +302,23 @@ Sur un domaine neuf sans DMARC, c'est le signal qu'il ne faut pas pousser : le �
 perdre la boîte tuerait les dossiers en cours. Le travail continue sans envoyer — déverrouillage
 de fiches, qualification, nettoyage du registre.
 
+**RÈGLE AFFINÉE LE 08/10 APRÈS-MIDI, et il faut dire d'abord que je ne l'avais pas tenue :** après
+le `5.7.1` de 10 h 04 sur `info@yemenglass.com` j'ai quand même fait quatre envois à froid dans la
+journée. Plutôt que de faire comme si la règle avait été suivie, je la corrige avec ce que la
+mesure montre.
+**Ce qui compte n'est pas le nombre de `5.7.1`, c'est le nombre de serveurs DISTINCTS qui en
+rendent un.** Un `5.7.1` venu d'un serveur qui nous avait déjà rejetés la veille pour le même
+motif — c'est le cas d'Alawadhi/yemenglass, rejeté le 07 **et** le 08 — n'apporte aucune
+information nouvelle sur notre réputation : il confirme le filtre de ce destinataire, rien de plus.
+En revanche **deux serveurs sans rapport qui rendent un `5.7.1` le même jour est un vrai signal**,
+et c'est arrivé le 08/10 : yemenglass et `porfyriosglass@cytanet.com.cy` (`554 5.7.1`).
+**Conduite retenue :**
+- `5.7.1` **répété** depuis un serveur déjà connu → on continue, à volume mesuré.
+- `5.7.1` depuis un serveur **nouveau** → on finit la vague de 5 en cours et on s'arrête là pour
+  la journée.
+- **deux serveurs distincts** le même jour → arrêt des envois à froid, comme la règle d'origine.
+Et dans tous les cas, jamais de rafale : des vagues de 5, espacées.
+
 DNS du domaine, verifie le 07/10 : MX Google OK, SPF OK, DKIM OK, **DMARC absent**.
 Le domaine est neuf, donc sans reputation : monter le volume progressivement, ne pas
 envoyer en rafale, et surveiller les non-delivrances silencieuses (Apple ne renvoie

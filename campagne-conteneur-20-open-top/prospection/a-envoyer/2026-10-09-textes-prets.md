@@ -1,6 +1,8 @@
-# Textes prêts à envoyer — vague 1 du 09/10/2026
+# Textes prêts à envoyer — 09 et 10/10/2026
 
-Dix messages rédigés le 08/10, à envoyer tels quels le 09/10. L'intérêt est que la journée de
+**Vingt messages rédigés le 08/10, à envoyer tels quels.** Dix rédigés intégralement (1 à 10),
+cinq australiens bâtis sur un socle commun avec leur personnalisation (11 à 15), et cinq de plus
+rédigés intégralement (16 à 20). L'intérêt est que la journée de
 demain soit de l'exécution et pas de la rédaction : le goulot d'étranglement se déplace vers le
 nombre d'envois que la boîte supporte, pas vers mon temps de travail.
 
@@ -10,7 +12,13 @@ validation de notre côté » présente partout, une seule question exploitable 
 page produit choisie selon le métier du prospect (§8). Aucun n'affirme l'absence de production
 locale dans un pays qui en a.
 
-**Ordre d'envoi : par vagues de 5, en commençant par 1 à 5.**
+**Ordre d'envoi : par vagues de 5, en commençant par 1 à 5.** Les trente autres fiches de la
+file gardent leur angle noté dans leur fiche du registre, sans texte rédigé.
+
+**Et une raison de ne pas tout envoyer le même jour, mesurée le 08/10 :** deux serveurs sans
+rapport ont rendu un `5.7.1 High probability of spam` dans la journée. Selon la règle affinée du
+§10, deux serveurs distincts le même jour arrêtent les envois à froid — c'est ce qui a été
+appliqué, et c'est pourquoi ces vingt textes sont écrits mais pas partis.
 
 ---
 
@@ -461,10 +469,299 @@ If your supply is settled, tell me and I will not push.
 
 ---
 
+## 11 à 15. Australie — un socle commun et cinq personnalisations
+
+**Le socle.** Les cinq messages australiens partagent le même argument de fond et ne diffèrent que
+par le premier paragraphe et la page produit liée. Le socle est ci-dessous ; les personnalisations
+suivent. **Réserve tenue : « has been wound down », pas « will never restart ».**
+
+```
+[PERSONNALISATION - un paragraphe, voir ci-dessous]
+
+My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I will not pretend to tell you something about your own market that you do not know. But it is
+the reason I am writing, so I will say it plainly: with the Dandenong float line wound down,
+there is no float line left in Australasia. Every sheet of float in this country now arrives in
+a container. That does not make an offer from France interesting by itself - it makes the
+question different. It is no longer local against imported. It is which origin, on what terms,
+and with what consistency from one container to the next.
+
+[GAMME - voir ci-dessous]
+
+Full containers, treated ISPM-15 wooden crates, jumbo 3210 x 2550 mm or cut to your sizes.
+Payload roughly 23 to 25 tonnes per container. We can put together an offer for delivery to
+[PORT], subject to validation on our side.
+
+One question, and it is the only one I need: which references and thicknesses do you buy the
+largest annual volume of, and how often does a container land?
+
+If your supply is settled and you are not looking, tell me and I will not push.
+```
+
+### 11. Glass Processing Australia — `sales@glassprocessing.com.au` — port Fremantle
+*Personnalisation :* « I am writing to Glass Processing Australia because you supply the trade,
+not the public - glaziers and trade businesses across Western Australia, since 1989. A trade
+supplier buys in sheet form and buys continuously, which is the only profile a full container
+actually suits. »
+*Gamme :* float clair et extra-clair + miroir sans cuivre + vitrage technique.
+
+### 12. Auxin Glass — `info@auxinglass.com.au` — port Fremantle
+*Personnalisation :* « I am writing to Auxin because you cut glass and mirror to size for
+businesses, factories and builders. Cutting to size means buying in sheet form, and it means the
+mirror you buy has to survive the cut - which is where a lot of mirror fails. »
+*Gamme :* **miroir sans cuivre ni plomb en premier**, puis float clair et extra-clair.
+
+### 13. Glass Wholesale — `info@glasswholesale.com.au` — port Melbourne
+*Personnalisation :* « I am writing to Glass Wholesale Group because you run credit accounts for
+your customers. A business that extends credit is a business that holds stock and plans its
+replenishment - which is the opposite of buying hand to mouth, and the only way a container makes
+sense. »
+*Gamme :* float clair et extra-clair + low-E + verre laqué.
+
+### 14. KOMO — `info@komo.com.au` — ports Melbourne ou Adelaide
+*Personnalisation :* « I am writing to KOMO because of the 12 mm curved panels and the frameless
+work in your catalogue. Frameless and curved mean thick toughened glass, and thick substrate is
+the part of the range that is hardest to source in small quantities and easiest to place in a
+full container. »
+*Gamme :* float clair et extra-clair (épaisseurs fortes) + vitrage technique.
+*Replis si pas de réponse :* `sales.vic@komo.com.au`, `sales.sa@komo.com.au`.
+
+### 15. Multiglass & Cladding — `info@multiglass.com.au` — port Melbourne
+*Personnalisation, et elle doit être franche :* « I am writing to Multiglass knowing that you are
+SYP's agent in Australia, so I am not going to pretend you have no supplier. An agency covers a
+range, and my interest is in what it does not cover well: extra-clear, European Low-E, and
+copper-free mirror. If that is nothing you are short of, this will be a short conversation and I
+will not waste your time. »
+*Gamme :* extra-clair + low-E + miroir sans cuivre. **Ne pas lier la page float seule** : ce
+serait leur proposer exactement ce que SYP leur fournit déjà.
+
+---
+
+## 16. Albitar Factory — Arabie saoudite — `info@company-albitar.com` — anglais
+
+**Objet :** Fire-rated and architectural glass by the container - Dammam - NOXEM GROUP (France)
+
+```
+Hello,
+
+Please pass this to whoever handles glass purchasing.
+
+My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to Albitar because of one item in your catalogue: fire-rated glass. That is not
+ordinary glazing and it does not get bought like ordinary glazing. The build-up is unforgiving,
+the documentation follows the product, and a substrate that varies from batch to batch shows up
+as a rejected panel rather than a discount. A house that makes fire-rated glass alongside
+aluminium, steel and doors is buying on consistency, not on the lowest line price.
+
+There is also a practical point in your favour, and it is not a small one: you are in the First
+Industrial City in Dammam. Dammam is the discharge port. The container is unloaded where you
+already are, with no inland leg.
+
+What we supply:
+
+- Technical glazing, which is where your fire-rated work sits:
+  https://noxemgroup.com/en/technical-glazing/
+- Clear and extra-clear float, the substrate: https://noxemgroup.com/en/float-glass/
+- Low-E glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Full containers, treated ISPM-15 wooden crates, jumbo 3210 x 2550 mm or cut to your sizes.
+Payload roughly 23 to 25 tonnes. We can put together an offer for delivery to Dammam, subject to
+validation on our side.
+
+One question: which thicknesses and sizes do you buy the largest annual volume of, and which ones
+are hardest to get when you need them?
+
+If you are locked in with your current supplier, tell me and I will not push.
+```
+
+---
+
+## 17. Sahara Glass Group — Émirats — `info@saharaglass.com` — anglais
+
+**Objet :** Flat glass by the full container, Sharjah - NOXEM GROUP (France)
+
+```
+Hello,
+
+Please pass this to whoever handles glass purchasing.
+
+My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to Sahara Glass because of the project list on your own site - EMAAR and Abyaar among
+them. Work at that level is not retail work. It comes with specifications, with a programme that
+does not move, and with a main contractor who will not accept a substitution halfway through a
+façade. That changes what matters in a glass supply: not the keenest price on one order, but the
+same product arriving the same way on the third container as on the first.
+
+What we supply, against your range of architectural and decorative glass and mirror:
+
+- Clear and extra-clear float: https://noxemgroup.com/en/float-glass/
+- Copper-free and lead-free mirror, which matters in a coastal climate:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- Lacquered glass, for interiors and shopfitting: https://noxemgroup.com/en/lacquered-glass/
+
+Full containers, treated ISPM-15 wooden crates, jumbo 3210 x 2550 mm or cut to your sizes.
+Payload roughly 23 to 25 tonnes. Your base is in Industrial Area 17 in Sharjah, so Khor Fakkan or
+Khalid are the sensible discharge ports rather than Jebel Ali. We can put together an offer for
+delivery to your port of destination, subject to validation on our side.
+
+One question: which references and thicknesses do you buy the largest annual volume of, and how
+often do you reorder?
+
+If you are committed to your current suppliers, say so and I will not push.
+```
+
+---
+
+## 18. SOVEP — Tunisie — `info@sovep-glass.com` — français
+
+**Objet :** Substrat pour vos empilages, par conteneur complet - NOXEM GROUP (France)
+
+```
+Bonjour,
+
+Merci de transmettre ce message à la personne qui gère les achats de verre.
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de verre plat près de
+Lyon.
+
+Je vous écris pour une raison qui figure dans votre propre catalogue : le pare-balles. Vous
+annoncez par ailleurs être la première usine verrière de Tunisie, depuis 1979, ce qui veut dire
+que vous avez vu passer bien des fournisseurs. Alors je vais droit à ce qui compte.
+
+Un empilage pare-balles ne pardonne rien. Chaque défaut de planéité du substrat se cumule d'une
+feuille à l'autre, et ce qui passe inaperçu sur un simple vitrage se voit en sortie d'autoclave.
+Sur ce produit-là, un verre un peu moins cher qui oblige à refaire un empilage coûte plus que la
+différence de prix. C'est la seule chose que j'ai à vous proposer : un substrat régulier, lot
+après lot.
+
+Ce que nous fournissons, au regard de votre gamme - trempé, feuilleté, isolant, décoratif,
+pare-balles :
+
+- Vitrage technique : https://noxemgroup.com/en/technical-glazing/
+- Float clair et extra-clair, le substrat : https://noxemgroup.com/en/float-glass/
+- Verre à faible émissivité, pour vos isolants :
+  https://noxemgroup.com/service/verre-a-faible-emissivite/
+
+Conteneurs complets, caisses bois traitées NIMP-15, jumbo 3210 x 2550 mm ou à vos cotes. Charge
+utile de 23 à 25 tonnes environ. Nous pouvons établir une offre pour la livraison au port de
+Radès, sous réserve de validation de notre côté.
+
+Une seule question : sur quelles épaisseurs portent vos plus gros volumes annuels, et lesquelles
+sont les plus difficiles à obtenir quand vous en avez besoin ?
+
+Quarante-cinq ans de métier, cela veut dire des fournisseurs installés. Si vous êtes verrouillés,
+dites-le-moi et je n'insiste pas.
+```
+
+---
+
+## 19. TechnoGlass Industries — Nigeria — `info@technoglassng.com` — anglais
+
+**Objet :** Float by the full container, Apapa - NOXEM GROUP (France)
+
+```
+Hello,
+
+Please pass this to whoever handles glass purchasing.
+
+My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to TechnoGlass for a reason that is almost geographical. Your plant is on Crystal
+Glass Close in the Amuwo Odofin industrial estate, off the Oshodi-Apapa expressway - which puts
+you a few kilometres from the Apapa quay. Anyone who has moved glass through Lagos knows that the
+inland leg is where sheets get broken and where days get lost. Being that close to the port is an
+advantage most of your competitors do not have, and it is exactly the advantage a full container
+is built around.
+
+The second reason is your range: float, decorative, energy-efficient and safety glass, toughened,
+laminated and curtain wall, with work like the Mercedes-Benz Centre at Lekki behind you. That is
+a broad book for one origin to supply well.
+
+What we supply:
+
+- Clear and extra-clear float: https://noxemgroup.com/en/float-glass/
+- Low-E glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Copper-free and lead-free mirror, for a humid coastal climate:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Full containers, treated ISPM-15 wooden crates, jumbo 3210 x 2550 mm or cut to your sizes.
+Payload roughly 23 to 25 tonnes. We can put together an offer for delivery to Apapa, subject to
+validation on our side.
+
+One question: which references and thicknesses do you buy the largest annual volume of, and how
+often does a container land?
+
+If your supply is settled, tell me plainly and I will not push.
+```
+
+---
+
+## 20. Mirodec — Liban — `mirodec@mirodec.com` — anglais
+
+**Objet :** Mirror and float by the full container, Beirut - NOXEM GROUP (France)
+
+```
+Hello,
+
+Please pass this to whoever handles glass purchasing.
+
+My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to Mirodec because of your name and because of what it commits you to. A house that
+has been in mirror since 1982, with work like the Issam Fares Institute and Planet Discovery
+behind it, does not need an introduction to silvered glass. But Beirut is a coastal city, and
+humidity finds the edge of a silvered sheet within a few seasons. On mirror, the difference
+between a good supply and a cheap one does not show on delivery. It shows two years later, in a
+bathroom or a hotel corridor, and it comes back to the person who supplied it.
+
+Our mirror is copper-free and lead-free, built for exactly that exposure. That is the product I
+would want to talk to you about first, rather than a general offer.
+
+What we supply:
+
+- Copper-free and lead-free mirror: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- Clear and extra-clear float: https://noxemgroup.com/en/float-glass/
+- Lacquered glass, for interiors and shopfitting: https://noxemgroup.com/en/lacquered-glass/
+
+Full containers, treated ISPM-15 wooden crates, jumbo 3210 x 2550 mm or cut to your sizes.
+Payload roughly 23 to 25 tonnes. We can put together an offer for delivery to Beirut, subject to
+validation on our side.
+
+One question: in mirror, which thicknesses and sizes do you buy the largest annual volume of, and
+how often do you reorder?
+
+I am also writing separately to your Dubai office, since the two have separate purchasing
+addresses on your own site. If that is one decision rather than two, tell me and I will keep it
+to one conversation.
+
+Forty years in means suppliers you trust. If you are not looking, say so and I will not push.
+```
+
+---
+
 ## Ce qui reste à rédiger
 
-Les 33 autres fiches de la file (vagues 2 à 8 du fichier `2026-10-09-deverrouillees-lot2.md`)
-gardent leur angle noté dans leur fiche du registre, mais pas de texte rédigé. À faire au fil
-des envois, en commençant par l'Australie, qui partage un seul argument - la fermeture de la
-dernière ligne float d'Australasie - et peut donc se rédiger en une fois avec cinq
-personnalisations courtes.
+**Trente fiches de la file n'ont pas de texte**, mais toutes ont leur angle, leur port, leur
+langue et leurs réserves notés dans leur fiche du registre et dans
+`2026-10-09-deverrouillees-lot2.md`. À rédiger au fil des envois.
+
+Celles qui demandent le plus d'attention en rédaction, et pourquoi :
+- **Distrividrios Antioquia** et **Vidrios y Más** : structures modestes, à ne pas traiter comme
+  des importateurs — question de volume d'abord.
+- **Glass Global Distributors** (Miami) : peut être client ou concurrent sur la Caraïbe. Le
+  message doit poser la question sans supposer la réponse.
+- **SkyHigh Greenhouse** : segment horticole, cotes Venlo probables. **Ne pas proposer une gamme
+  architecturale** — demander qui achète le verre et sous quelles cotes.
+- **Kendra's** (Saint-Vincent) et **TecAlu** (Sint Maarten) : marchés de 100 000 et 40 000
+  habitants. Poser le volume annuel avant toute offre, et accepter un « trop pour nous ».
+- **Imporvidrios** : poser la question d'identité avec la fiche Milagros.
+- **GPS Ibérica**, **Almacenes Vidrí**, **Dynamic Glass** : l'adresse n'est pas celle des achats,
+  la demande de transmission doit être la première ligne.
