@@ -603,6 +603,26 @@ information indispensable qui n'existe nulle part.
 | `campagne-conteneur-20-open-top/prospection/DECISIONS-AARON.md` | ce qui attend un arbitrage d'Aaron, en faits → options → recommandation. **À tenir à jour à chaque dossier chaud** |
 | `email/SIGNATURE.md` | mentions légales de référence |
 
+**INCIDENT DU 08/10 À 15 h 40 — J'AI DÉTRUIT LE REGISTRE, ET LE GARDE-FOU NE L'A PAS VU.**
+Dans un script de mise à jour j'ai oublié le `out.append()` de la boucle. Les 848 fiches ont donc
+été perdues et `ecrire()` a écrit sans broncher un fichier de **deux lignes** : l'en-tête et une
+ligne vide. **Le contrôle de champs n'a rien vu, puisqu'il n'y avait plus aucun champ à contrôler.**
+Rattrapé par `git checkout -- liste-prospects.csv`, sans aucune perte, **parce que le commit
+précédent datait de trois minutes**.
+**Trois conclusions, dans l'ordre d'importance.**
+1. **Un garde-fou qui ne vérifie que la FORME des lignes ne protège pas de leur DISPARITION.**
+   `ecrire-registre.py` relit désormais le fichier existant, compte ses fiches et **refuse
+   d'écrire si le nouveau nombre est inférieur** — avec un message qui nomme la cause probable,
+   l'`out.append()` oublié. Une fiche ne se supprime jamais dans ce registre, elle change de
+   statut : une baisse du nombre de lignes est toujours un bug, jamais une intention. Le refus est
+   testé dans les deux sens, écriture vide et écriture tronquée.
+2. **Commiter souvent n'est pas une coquetterie, c'est le filet.** Trois minutes entre le dernier
+   commit et la destruction, donc zéro perte. Une heure, et c'était une heure de fiches à refaire
+   de mémoire, c'est-à-dire mal.
+3. **Le squelette de script ci-dessous doit toujours finir par `out.append()` HORS du `if`**, et
+   l'`assert` de couverture (`touche == set(MAJ)`) ne dit rien sur les lignes non modifiées : il
+   vérifie qu'on a touché les bonnes fiches, pas qu'on a conservé les autres.
+
 Contrôle d'intégrité après chaque écriture — **toute** ligne doit avoir 10 champs, sans exception :
 ```bash
 awk -F';' 'NR>1{gsub(/\r/,""); if(NF!=10) print "MALFORME "NR": "NF}' liste-prospects.csv
