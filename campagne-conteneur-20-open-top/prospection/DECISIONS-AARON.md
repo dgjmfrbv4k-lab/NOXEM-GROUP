@@ -450,9 +450,17 @@ prix. Elle est antérieure au prix.**
 
 **Et un quatrième, arrivé cet après-midi, qui est le plus direct des quatre** — il vient de
 l'autre campagne mais il dit la même chose. **Rákosy Üveg (Hongrie)** nous a répondu ceci, mot
-pour mot : « For our glass raw materials, our standard purchasing sizes are jumbo sheets,
-**typically 6000 × 3210 mm**. We are unfortunately unable to work economically with these
-[autres formats]. »
+pour mot, et la citation est maintenant complete, relevee dans le fil : « For our glass raw
+materials, our standard purchasing sizes are jumbo sheets, **typically 6000 × 3210 mm**. We are
+unfortunately unable to work economically with these **smaller sheet sizes, so we do not plan to
+purchase them**. » Signe **Sándor Fekete, sales manager de Rákosy-Glass Kft.** — fonction verifiee
+par sa propre signature, donc nom utilisable au titre du §5.
+**Deux precisions d'honnetete sur ce quatrieme fait.** Il vient de la campagne destockage et porte
+donc sur des feuilles de stock, pas sur un conteneur. Mais sa phrase ne parle pas de notre stock :
+elle parle de **ses achats de matiere premiere en general**, et c'est ce qui la rend transposable.
+Et il ne dit pas que 2550 × 3210 est inutilisable, il dit qu'il ne peut pas le travailler
+**economiquement** — c'est-a-dire que la perte a la decoupe mange sa marge. Un transformateur qui
+raisonne comme cela ne se convainc pas avec un prix, il se convainc avec une cote.
 
 Autrement dit : un transformateur sérieux appelle « jumbo » le **6000 × 3210**, pas le
 3210 × 2550, et il dit ne pas pouvoir travailler économiquement avec autre chose.
