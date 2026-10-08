@@ -29,7 +29,37 @@ def mx(domaine):
     except Exception as e:
         return 'ERREUR %s' % type(e).__name__
 
+TEMOINS = ('gmail.com', 'google.com', 'outlook.com')
+
+
+def resolveur_vivant():
+    """Un domaine temoin doit repondre, sinon le resolveur est HS.
+
+    Sans ce garde-fou, une panne DNS fait rendre NXDOMAIN a TOUS les domaines,
+    y compris les bons. Le 08/10/2026 le resolveur est tombe et l outil a
+    annonce gmail.com introuvable. Utilise tel quel, il aurait fait supprimer
+    du registre des adresses parfaitement valides. Un faux NXDOMAIN coute
+    beaucoup plus cher qu un rebond.
+    """
+    for t in TEMOINS:
+        try:
+            dns.resolver.resolve(t, 'MX', lifetime=8)
+            return True
+        except Exception:
+            continue
+    return False
+
+
 def main(args):
+    if not resolveur_vivant():
+        print('RESOLVEUR INDISPONIBLE : aucun domaine temoin ne repond '
+              '(%s).' % ', '.join(TEMOINS))
+        print('La resolution DNS est hors service dans cette session.')
+        print("AUCUN RESULTAT N EST EXPLOITABLE. Ne retirer aucune adresse du")
+        print('registre sur la foi de cette execution, et ne pas conclure')
+        print("qu un domaine est mort. Reessayer plus tard.")
+        return 2
+
     if args and args[0] == '--registre':
         import csv, os
         base = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')

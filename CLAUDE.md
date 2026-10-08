@@ -71,6 +71,11 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   La règle anti-rebond ci-dessus vérifie que le domaine apparaît dans les URL de résultats ;
   elle ne détecte pas un domaine sans MX. Pas de `OK`, pas d'envoi. Un domaine sans MX mais
   avec un A se teste seul, jamais dans un lot groupé.
+  **Si l'outil affiche `RESOLVEUR INDISPONIBLE`, aucun résultat n'est exploitable** : la
+  résolution DNS est tombée et tous les domaines, même bons, ressortiraient en NXDOMAIN.
+  Ne retirer alors **aucune** adresse du registre et ne déclarer aucun domaine mort.
+  Garde-fou ajouté le 08/10/2026 après une panne DNS qui faisait répondre `gmail.com`
+  introuvable : un faux NXDOMAIN coûte bien plus cher qu'un rebond.
 
 ## 6. Géographie
 
