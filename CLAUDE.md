@@ -134,7 +134,10 @@ Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,
 Vidrios Lirquén, VASA, Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long,
 **Sphinx Glass** (Égypte — ajouté le 08/10 : repéré en train d'exposer à Libya Build 2025 en se
 présentant comme producteur float de premier plan au Moyen-Orient et en Afrique du Nord. C'est
-donc un concurrent sur toute la zone, et un concurrent actif commercialement en Libye).
+donc un concurrent sur toute la zone, et un concurrent actif commercialement en Libye),
+**Arabian United Float Glass Company (UFG)** (Arabie saoudite — ajouté le 08/10. Le royaume compte
+donc au moins quatre producteurs float avec Obeikan, Zoujaj et Guardian : **ne jamais employer
+l'argument du float absent en Arabie saoudite**, c'est le marché le mieux pourvu de la zone).
 
 ## 7. Comptes protégés — ne pas démarcher sur cette campagne
 

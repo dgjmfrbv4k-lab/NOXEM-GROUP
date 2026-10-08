@@ -1710,3 +1710,54 @@ Le travail ne s'arrête pas, il change de nature : déverrouillage des fiches d'
 contrôle du registre. Neuf recherches de déverrouillage ont donné six adresses aujourd'hui — il
 reste 158 fiches d'appel à passer au crible, dont les 19 qui portent une adresse rebondie et qu'Alma
 Glass a montré être un gisement et non un cimetière.
+
+---
+
+# Lot du 08/10 — trois corrections de fond, dont une qui annule ma propre conclusion
+
+Aucune adresse trouvée sur ces deux recherches, mais elles ont corrigé trois choses fausses dans
+le registre. C'est au moins aussi utile : une fiche fausse fait partir un appel sur un faux
+présupposé.
+
+## 1. Une capacité attribuée à la mauvaise société
+
+La fiche **Al Tbaynawi** annonçait « four Glaston et ligne de vitrage isolant LiSEC, trempe de
+1 600 m² par dix heures ». Vérification faite, **cette capacité n'est pas la leur** : la référence
+saoudienne de Glaston est **Al-Manna**, qui installe des lignes de trempe sur trois sites — Riyad,
+Djeddah et Dammam. Source : la page de références de Glaston elle-même.
+
+Deux fiches du registre avaient donc été confondues. Et l'erreur était doublée d'une seconde :
+**Al Tbaynawi est à Ha'il, pas à Dammam.**
+
+**Le gain est pour Al-Manna**, dont la fiche était presque vide : trois sites équipés en trempe
+Glaston font un consommateur de substrat de premier plan. Elle remonte dans les priorités — ce qui
+rend d'autant plus urgent de lever le doute sur son lien avec **Almanco Factory**, avec qui elle
+partage un numéro de téléphone.
+
+## 2. J'avais tort sur Saudi American Glass
+
+Ce matin j'ai noté que cette société était **introuvable** et que sa fiche reposait sur une
+affirmation non vérifiable. **C'était faux.** Glaston a annoncé avoir reçu d'elle une commande de
+**ligne de feuilletage ProL SPEED**.
+
+Une société qui commande une ligne de feuilletage neuve est un acheteur de substrat en devenir, et
+le feuilletage exige une qualité optique constante — c'est exactement notre argument. La fiche
+redevient une cible sérieuse. Toujours sans adresse publiée, donc dossier téléphonique.
+
+**Leçon :** « je ne trouve pas » n'est pas « ça n'existe pas ». Ma requête de ce matin cherchait le
+nom avec des mots-clés de contact ; celle-ci l'a trouvé par ses achats d'équipement. **Chercher une
+société par ses fournisseurs de machines est un angle qui marche** quand la recherche directe échoue.
+
+## 3. Un quatrième producteur float saoudien
+
+**Arabian United Float Glass Company (UFG)** est remontée au passage. Elle est ajoutée au §6.
+Avec Obeikan, Zoujaj et Guardian, **l'Arabie saoudite compte donc au moins quatre producteurs
+float** : c'est le marché le mieux pourvu de la zone, et l'argument du float absent n'y a aucune
+place. Les trois messages saoudiens partis aujourd'hui le reconnaissaient déjà d'entrée.
+
+## Et une fiche enrichie
+
+**Vidrio Centro (Managua)** : adresse toujours masquée, mais le profil est confirmé par leur propre
+site — fournisseur **et importateur** de verre, aluminium et quincaillerie, plus de 25 ans. À noter,
+leur LinkedIn dit 20 ans et 1995 : divergence consignée. Horaires relevés pour viser le créneau,
+8h–17h en semaine et 8h–12h le samedi, plus un WhatsApp.
