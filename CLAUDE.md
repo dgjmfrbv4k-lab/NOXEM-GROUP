@@ -172,6 +172,32 @@ renverrait plutôt à août 2027. L'échéance réelle est donc **incertaine d'u
    ouest-africaine se referme.** Ce n'est pas une raison de ralentir, c'est une raison d'y aller
    maintenant — et c'est un élément à verser à la décision de prix d'Aaron.
 
+**LA CARTE DOUANIÈRE DU FLOAT CHINOIS — piste ouverte le 08/10, à vérifier pays par pays avant
+tout usage.** Une résolution mexicaine de juin 2025 énumère les pays qui avaient déjà, à cette
+date, des mesures antidumping contre le float clair chinois et malaisien : **Brésil, Inde, Corée,
+Afrique du Sud et Colombie**. Le Mexique les a rejoints, décision finale du **20/03/2026**
+(droits rapportés par une source secondaire : 0,13739 $/kg sur la Chine, 0,04964 à 0,07359 $/kg
+sur la Malaisie — **le texte officiel du DOF reste à lire**). Les États-Unis les ont rejoints en
+avril 2026, et c'est le seul cas que j'ai vérifié sur des sources de premier rang.
+**Pourquoi cela compte : 102 fiches du registre** sont dans ces marchés — États-Unis 43, Inde 16,
+Mexique 13, Brésil 11, Colombie 10, Afrique du Sud 9. Si la concurrence asiatique y porte des
+droits et l'Europe non, l'argument américain se transpose.
+**MAIS RIEN DE TOUT CELA NE S'ÉCRIT AVANT VÉRIFICATION PAR PAYS, et voici les réserves connues :**
+- **Brésil** : droits définitifs de 2014 sur la Chine, l'Égypte, les Émirats, le Mexique, l'Arabie
+  saoudite **et les États-Unis**, puis une prorogation sur Chine/Égypte/Mexique/Émirats avec
+  suspension du Mexique et levée pour l'Arabie et les États-Unis. **Statut 2026 non vérifié.**
+  Noter que le Brésil a déjà frappé beaucoup d'origines : vérifier que l'Europe n'en fait pas
+  partie avant de présenter l'Europe comme non taxée.
+- **Colombie** : **non confirmé sur le float.** La seule mesure colombienne confirmée porte sur les
+  **miroirs non encadrés** (demandée par Espejos SAS, en vigueur depuis octobre). C'est utile
+  autrement — notre miroir sans cuivre y affronterait une origine taxée — mais ce n'est pas le float.
+- **Inde, Corée, Afrique du Sud** : cités par la résolution mexicaine, aucune source directe lue.
+  La Corée est de toute façon exclue au titre des concurrents.
+- **Pérou** : rien trouvé. À chercher côté INDECOPI.
+**Conduite : ne jamais affirmer dans un message qu'un pays taxe le float chinois sans avoir lu la
+source de ce pays.** Un acheteur qui importe sait ce qu'il paie, et une erreur sur ce terrain-là
+ruine le message entier.
+
 **ÉTATS-UNIS — 43 fiches, et mon jugement du 08/10 après-midi était faux. À corriger d'abord.**
 J'avais déclassé les fiches américaines en écrivant que « les États-Unis produisent leur float en
 abondance, donc l'offre européenne y part avec un handicap ». **Vérifié en fin de journée : c'est
