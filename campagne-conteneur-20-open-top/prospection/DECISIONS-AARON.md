@@ -7,7 +7,29 @@ Présenté comme l'impose le §11 : **faits → options → ma recommandation.**
 
 ---
 
-# URGENT — L'OFFRE ENVOYÉE À JOHN EST CALCULÉE SUR UNE COTE QU'IL N'A PAS DEMANDÉE
+# L'OFFRE ENVOYÉE À JOHN — ce que j'ai cru y voir, et ce qui tient vraiment
+
+**CORRECTION DU 08/10 AU SOIR, ÉCRITE AVANT LE RESTE PARCE QU'ELLE L'ANNULE EN PARTIE.**
+J'ai alerté Aaron sur un risque de faisabilité du format 2440 × 3300. **Cette alerte était mal
+fondée et je la retire.** Mon raisonnement — repris de ce que j'avais écrit à John à 15 h 40 —
+était : « 3300 mm dépasse les 3210 mm du jumbo, donc la pièce ne sort pas d'un jumbo ». C'est vrai
+**si on découpe dans une feuille jumbo déjà faite**. Ce n'est pas comme ça qu'on fabrique une cote
+de stock.
+
+**Une ligne float produit un ruban dont seule la LARGEUR est contrainte**, de l'ordre de 3210 mm
+une fois ébavuré ; la longueur se coupe à la demande. Une feuille 2440 × 3300 se coupe donc
+directement sur ligne, **2440 en travers du ruban — largement sous les 3210 — et 3300 dans le sens
+du défilement.** C'est précisément pour cette raison que le 96 × 130 pouces est la cote de stock
+nord-américaine. **Il n'y a aucun problème de grand format ici, et la question PLF du §4 n'est donc
+PAS répondue par cette offre** — elle reste entière pour Rubex et Caribbean Glass, dont les cotes
+(3300 × 2140 et 3302 × 2261) posent la même question mais dans l'autre sens.
+
+**Ce qui reste du constat initial, et c'est commercial et non technique :** Aaron a chiffré la cote
+que John voulait **au départ**, et John avait demandé par écrit à 15 h 48 un prix **au jumbo**.
+Les deux sont défendables — mais c'est moi qui avais écrit à John, à 13 h 54, que le jumbo serait
+« much better for you » sur l'arithmétique du conteneur. **Il peut donc comparer avec une attente
+que j'ai moi-même installée.** C'est le seul vrai point de vigilance, et il se traite en une
+phrase si la question vient.
 
 **Relevé le 08/10 au soir sur la photo de l'offre. Ce n'est pas une impression, c'est vérifiable
 à la calculatrice, et ça peut aller dans les deux sens.**
@@ -36,13 +58,16 @@ blanc : *« That size needs an oversize sheet, and I am not going to tell you we
 until I have it confirmed on my side. »* C'est aussi ce qu'impose le §4 — ne jamais annoncer un
 grand format disponible avant que tu aies dit si une usine partenaire le fournit.
 
-**LA QUESTION, ET C'EST LA SEULE QUI COMPTE : as-tu confirmé 2440 × 3300 auprès de l'usine ?**
-- **Si OUI**, alors l'offre est bonne, John reçoit même mieux que ce qu'il demandait puisqu'il n'a
-  plus à recouper — **et surtout tu viens de répondre à la question qui bloque deux autres
-  dossiers.** Rubex demande du 3300 × 2140 et Caribbean Glass du 3302 × 2261 : les deux sortent
-  d'une feuille de 3300. **Dis-le-moi et je relance les deux demain.**
-- **Si NON**, il faut reprendre John avant qu'il ne commande sur une cote qu'on ne sait pas faire.
-  C'est rattrapable aujourd'hui, pas après un acompte de 30 %.
+**CE QU'IL RESTE À DÉCIDER, ET C'EST UN CHOIX COMMERCIAL, PAS UNE CORRECTION :** faut-il donner
+aussi à John le prix au jumbo 3210 × 2550, pour qu'il choisisse ?
+- **Pour :** c'est ce qu'il a demandé par écrit, et je lui avais dit que ce serait meilleur pour
+  lui. S'il compare et trouve l'écart, autant que ce soit nous qui le lui ayons montré.
+- **Contre :** deux prix peuvent brouiller une offre nette, et il reçoit déjà exactement la cote
+  qu'il voulait au départ, sans avoir à recouper — ce qui lui économise de la perte et du travail.
+- **Ma recommandation :** ne rien renvoyer maintenant. Attendre sa réaction. **S'il demande
+  pourquoi ce n'est pas le jumbo, la réponse est bonne et tient en une ligne** — on lui a chiffré
+  sa cote d'origine, prête à poser, sans recoupe ni perte chez lui. Et on tient le prix jumbo en
+  réserve au cas où il insiste.
 
 ## Deuxième point, moins grave mais à vérifier avec le transitaire : le poids
 
