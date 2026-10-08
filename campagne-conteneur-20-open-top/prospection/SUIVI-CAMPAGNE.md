@@ -2903,3 +2903,76 @@ About du premier porte l'adresse `glasspec@` du second, ce qui leve tout doute s
 notre envoi. Etablis en 1962 ou 1963 par Pooran Ramsingh, ils se declarent fabricant de fenetres,
 portes, **vitrines et devantures de magasin** : grandes feuilles, ce qui recoupe leur demande de
 3302 x 2261 mm et confirme la question du grand format PLF.
+
+---
+
+# BILAN DU 08/10/2026 — chiffres arretes a 15h45, heure de Paris
+
+## Les cinq chiffres du paragraphe 3, distincts comme ils doivent l'etre
+
+| | |
+|---|---|
+| **Recherches** | **99 fiches** testees ou enrichies dans la journee, marqueur verifiable dans le registre. Plus la verification du regime commercial de **sept marches** : Etats-Unis, Canada, Bresil, Mexique, Inde, Colombie, Afrique du Sud et Afrique de l'Est. |
+| **Envois confirmes** | **104** — 30 premiers contacts, 73 relances, 1 relance de demande de devis. Chiffre lu dans les statuts du registre portant la date du 08/10, pas estime. |
+| **Reponses qualifiees** | **3** — Willem Heunis (PG Namibie), Serab Ali (Glass Jet, negative) et **John (United Glass) a 15h17**. |
+| **Demandes de devis** | **4 ouvertes, 0 nouvelle aujourd hui** : PG Namibie, Rubex, Caribbean Glass Specialists, United Glass. |
+| **Commandes** | **0.** |
+
+## Etat du registre
+
+848 fiches, dont **636 avec adresse** (+9 dans l'apres-midi). **75 fiches en file d'envoi** —
+57 datees du 09/10, 2 du 10/10, 3 du 12/10, 8 du 13/10, 5 en renvoi apres rebond. **195 fiches en
+appel ou a qualifier**, dont 121 portent un telephone exploitable. Zero ligne malformee, zero
+statut vide.
+
+## Ce que la journee a vraiment produit, au-dela des chiffres
+
+**1. Une carte des barrieres douanieres, verifiee marche par marche, qui inverse le ciblage.**
+L'Afrique se ferme, les Ameriques s'ouvrent. Avec une nuance trouvee en fin de journee et qui la
+tempere : **les mesures antidumping ne disent rien du droit de douane ordinaire**, et le Mexique
+applique 35 pour cent a toutes origines depuis le 01/01/2026. **Quatre questions sont parties chez
+Aaron pour un transitaire**, dont une que je ne m'attendais pas a devoir poser — l'octroi de mer
+s'applique a notre verre a l'entree des DOM.
+
+**2. Deux reperes de prix, et ils pointent vers le miroir.** Le float indien de reference est a
+~1,50 USD/m2 en 4 mm. Le miroir chinois s'exporte a 3,60 USD/m2 et le plancher colombien est a
+7,70. **Le miroir vaut deux a cinq fois le float nu**, ce qui change l'ordre de nos demandes de
+prix a Aaron : le miroir sans cuivre d'abord, le float ensuite.
+
+**3. Une methode de deverrouillage qui a change de cible.** Le meilleur gisement n'est pas les
+fiches sans adresse, c'est **celles dont l'adresse a rebondi** : une societe qui a un site indexe
+et une boite qui rebondit publie presque toujours une autre boite, souvent une boite de succursale.
+Javalfer et Dellorto l'ont prouve.
+
+**4. Trois fiches de verre creux fermees** — SEVAM, Desert Glass, Caribbean Glass Industry. Le mot
+*glass* dans une raison sociale ne dit rien du metier. Le test est ecrit au paragraphe 5.
+
+## Problemes, et je les mets au meme niveau que le reste
+
+- **J'ai detruit le registre a 15h40** par un `out.append()` oublie. Restaure sans perte par git
+  parce que le commit precedent datait de trois minutes. Le garde-fou refuse desormais toute
+  ecriture qui perd des lignes, et le refus est teste.
+- **J'ai arrete les envois a froid ce matin sur une erreur de comptage.** Les deux verdicts de spam
+  que je croyais simultanes etaient a vingt-quatre heures d'ecart, et les deux societes n'en
+  faisaient qu'une. La decision restait bonne pour une autre raison — 104 envois contre les 15 a 20
+  du plan — mais le motif etait faux, et un motif faux bloque demain des envois autorises.
+- **J'avais ecrit que les DOM etaient le seul marche sans question de douane.** Faux, corrige avant
+  tout envoi.
+- **Le budget de recherche du tour est epuise**, 200 appels. Deux fiches restent a moitie
+  verifiees, Vidrios Brenes et Cristembo.
+- **Aucune reponse n'est encore arrivee sur les 104 envois du jour**, et c'est normal : un envoi du
+  jour n'a pas eu le temps de produire une reponse. Ne pas confondre avec un echec de ciblage.
+
+## Les trois actions prioritaires de demain
+
+1. **Les envois du 09/10 : 57 fiches, textes prets.** Par vagues de 5, 15 a 20 maximum, relances
+   avant premiers contacts. Verifier d'abord qu'aucun `5.7.1` n'est tombe depuis un serveur
+   **nouveau** — un verdict repete depuis un serveur deja connu n'arrete rien.
+2. **Recontroler les rebonds de la veille**, et seulement alors. Le rebond Alma Glass a mis 1h41 a
+   revenir : un controle immediat ne prouve rien.
+3. **Reprendre Cristembo** en premier quand le budget de recherche revient : trois usines de trempe,
+   onze mille metres carres par poste sur le seul site de Cochabamba, et pas encore d'adresse.
+
+**Et le point qui ne depend pas de moi : les quatre dossiers de prix attendent tous la meme chose,
+une grille.** John a retire aujourd hui le seul obstacle technique qui restait sur le dossier
+canadien. Il ne manque plus que le prix.
