@@ -17,7 +17,7 @@ dans l'ordre où elles débloquent de l'argent, avec ce que je recommande. Les d
 | # | Décision | Pourquoi maintenant | Ma recommandation |
 |---|---|---|---|
 | **1** | **Un prix miroir sans cuivre 4 mm en conteneur** | Les deux seuls repères de prix que la campagne ait obtenus disent la même chose : le miroir vaut **deux à cinq fois le float nu** au m² (3,60 à 7,70 $/m² contre ~1,50). À valeur double, le fret et la marge se diluent au lieu de tout décider. | **Commence par là, pas par le float.** C'est la question la plus rentable de la liste, et nos cibles miroitières sont déjà dans le registre. |
-| **2** | **Un prix float au jumbo, CIF Toronto, sur les 9 références de John** | **John a retiré aujourd'hui le seul obstacle technique** : il renonce à la cote 96 × 130 et demande un prix au jumbo. Il ne manque plus rien d'autre. | Donne-moi ce prix **demain**. C'est le dossier le plus avancé après PG Namibie, et le seul où le client a lui-même levé la difficulté. |
+| **2** | **Un prix float sur jumbo 3210 × 2550, CIF Toronto, sur les 9 références de John** | **John a écrit à 15 h 48 : « You can quote based on jumbo sheet size 3210 x 2550 mm. »** Il a retiré lui-même la cote 96 × 130 et tranché l'unité. **Zéro inconnue restante.** | Donne-moi ce prix **demain**. C'est le dossier le plus avancé après PG Namibie, et le seul où le client a levé lui-même toutes les difficultés. |
 | **3** | **Le prix PG Namibia** | Willem a confirmé le canal aujourd'hui et attend la proposition annoncée. Quatre conteneurs Walvis Bay. | Mais **lis d'abord le §1** : PG possède PFG, premier producteur float d'Afrique australe. Son prix est un prix protégé, ce qui explique sa phrase sur le prix. |
 
 ## Les deux réglages techniques — cinq minutes chacun, et ils conditionnent le reste
@@ -435,7 +435,16 @@ les autres fiches caribéennes du registre.
 > confirmation de l'usine. Si la cote est en **centimètres**, il n'y a aucun problème. Je lui ai
 > donc demandé l'unité : cette seule réponse décide si c'est une fourniture jumbo ordinaire ou une
 > question de grand format. Et dans les deux cas, le prix sera établi au jumbo comme il le demande.
-> **Donc : un prix au jumbo, CIF Toronto, sur ses neuf références. C'est tout ce qui manque.**
+> **COMPLÉMENT DE 15 h 50 — IL A RÉPONDU À MA QUESTION ET IL NE RESTE PLUS AUCUNE INCONNUE.**
+> Mot pour mot : *« You can quote based on jumbo sheet size 3210 x 2550 mm. »* **La question de
+> l'unité est tranchée et le grand format sort entièrement de ce dossier.** Base de chiffrage
+> arrêtée, et je l'ai écrite dans le fil pour qu'il y ait une trace de ce que chacun chiffre :
+> **jumbo 3210 × 2550 mm · ses neuf références · CIF Toronto · conteneur complet.**
+> Je lui ai répondu court, **sans prix et sans date** — je lui ai dit que le prix se finalise chez
+> nous et que je ne lui donnerai pas une date que je ne maîtrise pas. Aucun engagement de délai
+> n'a été pris.
+> **Ce dossier est passé en une journée de trois inconnues à zéro : l'adresse d'expédition, la cote,
+> l'unité. Il ne manque que ton prix.**
 
 
 **Faits.** Demande de devis le 06/10 à 18h14, **une heure** après notre message. John veut un
