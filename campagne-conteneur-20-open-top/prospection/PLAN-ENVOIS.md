@@ -296,3 +296,47 @@ de compter une fiche comme en retard.** Le texte de sa relance du 13/10 est ecri
 **Et le rappel de volume, qui prime sur tout le reste :** 15 a 20 envois par jour, par vagues de 5
 espacees. 104 le 08/10 etait trop pour un domaine de huit jours sans DMARC, et c'est cela, et non
 le filtrage, qui a arrete les envois de l'apres-midi.
+
+---
+
+# LA PREMIERE VAGUE DE DEMAIN, NOMMEE — pour n'avoir rien a decider au moment d'envoyer
+
+Ecrit le 08/10 a 15h55. **L'ordre des vagues etait decrit, les destinataires ne l'etaient pas.**
+Une decision prise la veille vaut mieux qu'une decision prise la main sur le clavier.
+
+## Vague 1 du 09/10 — les cinq relances les plus en retard, Afrique de l'Ouest d'abord
+
+| # | Societe | Pays | Adresse | Depuis | Texte |
+|---|---|---|---|---|---|
+| 1 | **Prime Glass Ghana** | Ghana | `info@primeglassghana.com` | 02/10 | `2026-10-09-reliquat-relances.md` |
+| 2 | **GLASSAL Nigeria Ltd** | Nigeria | `info@glassalng.com` | 02/10 | idem |
+| 3 | **GlassFusion** | Nigeria | `info@glassfusion.ng` | 02/10 | idem |
+| 4 | **International Aluminum Factory** | Liberia | `sales@iafliberia.com` | 02/10 | idem |
+| 5 | **KJ Glass & Aluminium** | Gambie | `kjglass@hotmail.com` | 02/10 | idem |
+
+**Pourquoi ces cinq et dans cet ordre.** Ce sont les plus anciennes relances reellement echues du
+registre — sept jours — et **toutes les cinq sont en Afrique de l'Ouest**, le seul marche de la
+campagne qui ait une date : l'usine ghaneenne de KEDA annonce sa premiere ligne pour aout 2026 avec
+une incertitude d'environ un an. Une relance a sept jours est encore credible ; a trois semaines,
+elle ne l'est plus. Le Ghana passe premier parce que c'est le pays ou l'usine se construit.
+
+## Vague 2 du 09/10 — le reste des relances echues
+
+Tropicalu (Burkina Faso), Glaze Manufacturing (Guyana), G&S Aluminium (Maurice), Nepal Glass Udhyog
+et Sky Light (Nepal). **Reserve sur les deux nepalaises** : verifier avant d'ecrire si la
+restriction indienne a l'importation du float 4-12 mm, en vigueur depuis le 18/08/2026, touche le
+transit vers un pays tiers. Si oui, les deux fiches se declassent au lieu d'etre relancees.
+
+## Vagues 3 et suivantes — les premiers contacts du 09/10
+
+Les 57 fiches de `2026-10-09-textes-prets.md`, dans l'ordre du fichier, qui met l'Afrique de l'Ouest
+en tete pour la meme raison d'horloge. **Plafond du jour : 15 a 20 envois au total**, vagues 1 et 2
+comprises. Donc en pratique : les 10 relances, puis 5 a 10 premiers contacts, et on s'arrete.
+
+## Les trois controles a passer AVANT le premier envoi
+
+1. **Un `5.7.1` venu d'un serveur NOUVEAU depuis hier ?** Si oui, le lot attend. Un verdict repete
+   depuis un serveur deja connu n'arrete rien — mise au point du 08/10 a 15h15.
+2. **Les rebonds de la veille**, et seulement maintenant : le rebond Alma Glass du 08/10 a mis
+   **1h41** a revenir, donc un controle immediat apres un lot ne prouve rien.
+3. **Le registre avant chaque envoi**, societe par societe, comme l'impose le §5 — et non apres.
