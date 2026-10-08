@@ -117,6 +117,18 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 **Exclus définitivement :** Chine, Hong Kong, Macao (source d'approvisionnement), France.
 **Exclus comme concurrents :** Corée du Sud, Japon, Taïwan, Turquie, Israël.
 **Europe :** pas de nouvelle prospection ; les fiches européennes existantes se relancent.
+**Avant d'écrire « ce pays n'a pas de production float », vérifier.** C'est l'argument le plus
+employé de la campagne et celui qui se retourne le plus vite : un acheteur sait mieux que nous ce
+qui se produit chez lui. Deux erreurs le 08/10 — le **Kenya**, alors que Sapphire produit à
+Mkuranga et livre la zone, et le **Chili**, alors que la liste ci-dessous nomme elle-même Vidrios
+Lirquén. Sur Forpec le message était déjà parti avec l'argument faux.
+```bash
+python3 campagne-conteneur-20-open-top/prospection/outils/verif-argument-float.py
+```
+Il croise les notes du registre avec les pays qui abritent ou sont desservis par un producteur,
+et signale toute fiche qui affirme le contraire. **À relancer après chaque lot, et surtout avant
+d'employer cet argument dans un message neuf.**
+
 **Producteurs float = concurrents, pas prospects :** Obeikan, Guardian, Mediterranean Float
 Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,
 Vidrios Lirquén, VASA, Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long,

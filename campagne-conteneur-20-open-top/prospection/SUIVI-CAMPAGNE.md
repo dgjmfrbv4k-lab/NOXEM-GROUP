@@ -1585,3 +1585,78 @@ qui surtraduit — Glass Jet n'a pas demandé qu'on le laisse tranquille.
 | Statuts vides | **0** |
 | Doublons restants | 0 réel — 4 groupes vérifiés et légitimement distincts |
 | Envois du lot | 2 relances à haute valeur, rendues possibles par la réparation |
+
+---
+
+# Lot du 08/10 — déverrouillage des fiches d'appel, et une erreur d'argument déjà partie
+
+## Le gisement : les fiches « sans adresse » en ont souvent une
+
+**Neuf recherches de déverrouillage, six adresses trouvées.** La méthode : chercher
+l'auto-description de la société en bloquant annuaires et courtiers dans la requête, pour faire
+remonter sa page de contact et non sa fiche d'annuaire.
+
+| Société | Adresse trouvée | Où |
+|---|---|---|
+| Bear Glass (NY/NJ) | `sales@bearglass.com` | leur site — **déjà envoyée** |
+| Float Glass Ltd (Edmonton) | `info@floatglass.ltd` | leur **page de tarifs** |
+| Walshs Glass (Perth) | `sales@walshsglass.com.au` | page de contact, 4 adresses dédiées |
+| Al Fozan Uniglass (Riyad) | `info@uniglass.com.sa` | page de contact officielle |
+| Al Abbar Group (Dubaï) | `info@` + `sales@alabbargroup.com` | page de contact, écrites avec `[at]` |
+| 55 Glass (Los Angeles) | `info@55glass.com` | page de contact |
+| **Alma Glass (Riyad)** | `info@almaglass.com.sa` | **récupération d'un rebond** |
+
+**Alma Glass est le cas le plus instructif.** Sa fiche portait une adresse qui avait rebondi en
+`550 5.1.1`, ce qui l'avait classée en appel. Leur page officielle publie une **autre** adresse.
+Le rebond disqualifiait l'adresse, pas la société. Et le profil réel est bien plus gros que la
+fiche ne le disait : fondée en 1978, **trois usines** (Riyad, Dammam, Djeddah), servant le royaume
+et les pays du Golfe. Surtout, **leurs trois fours de trempe sont annoncés en cours de mise à
+niveau pour le Low-E** — une usine qui se met au Low-E a besoin de substrat à couche, et c'est
+exactement le moment où un fournisseur entre.
+
+**Conclusion de méthode :** les **19 fiches en appel qui portent une adresse rebondie** sont un
+gisement, pas un cimetière.
+
+## Une erreur d'argument, et elle était déjà partie
+
+Deux fiches chiliennes affirmaient qu'**il n'y a pas de production float au Chili**. C'est faux :
+le §6 de notre propre mandat nomme **Vidrios Lirquén**, qui est chilien.
+
+**Et le message de Forpec est parti le 05/10 avec cet argument.** Le coût de crédibilité est déjà
+payé ; on ne peut que ne pas le répéter. C'est le même défaut que le Kenya ce matin, où la fiche
+ignorait Sapphire.
+
+J'en ai fait un contrôle automatique, `outils/verif-argument-float.py`, qui croise les notes avec
+les pays abritant ou desservis par un producteur. **Il sort désormais zéro.** Il distingue aussi
+les fiches déjà corrigées — sans quoi il signalerait indéfiniment les notes de correction, qui
+citent forcément l'affirmation fausse.
+
+**C'est l'argument le plus employé de la campagne et celui qui se retourne le plus vite** : un
+acheteur sait mieux que nous ce qui se produit chez lui. Règle inscrite au §6.
+
+## Trois voies d'entrée qui ne sont pas l'e-mail
+
+- **Adriatic Glass (Ontario)** : le `sales@` des annuaires est exactement celui qui a rebondi en
+  `550 Access denied`, leur Outlook refusant le courrier externe. Mais leur page feuilleté annonce
+  traiter les **commandes en volume** pour projets commerciaux, et ils livrent Ontario, Québec et
+  les États frontaliers. **La voie est le formulaire « Request A Quote » ou le téléphone.**
+- **Vidrios Dellorto (Chili)** : deux limites relevées sur leur site — ils ne livrent que le Grand
+  Santiago et renvoient les cotations hors Santiago vers WhatsApp. Et les annuaires les décrivent
+  comme **transformateur**, pas importateur : l'affirmation « importateur » de la fiche n'est pas
+  établie.
+- **Dr Greiche (Égypte)** : hotline 19864 seulement. Deux réserves nouvelles — fusion annoncée
+  avec High Glass, et gamme annoncée sur le **miroir**, le float n'étant pas confirmé.
+
+## Deux identités invérifiables, classées cibles de premier plan
+
+**North Africa for Importing Glass** (Libye) et **Saudi American Glass** portaient des
+affirmations flatteuses — « importe du float de Chine, de Belgique et de France », « parmi les
+mieux équipées du Moyen-Orient ». Aucune des deux sociétés n'est trouvable sous ce nom. Les fiches
+portent la consigne d'**établir qui ils sont avant de dérouler un argumentaire**.
+
+## Et une cible qui n'en était pas une
+
+**Kuta Glass** était en tête de la liste d'appels comme « grossiste national ». Leur stock réel est
+du plomb, du zinc, du laiton et de la baguette cuivre : des **fournitures de vitrail**, pour les
+studios et les fabricants de portes vitrées. Commande minimale d'ouverture à 600 dollars, ce qui
+dit tout de l'ordre de grandeur. Passée en `ECARTE — HORS GAMME`.
