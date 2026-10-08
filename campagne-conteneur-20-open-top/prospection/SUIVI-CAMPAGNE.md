@@ -1363,3 +1363,81 @@ Glass : **dire la limite d'entrée est ce qui rend le reste crédible.**
 - **Qaswa Glass** (Oman) a été envoyée **seule**, son domaine n'ayant aucun MX mais un
   enregistrement A. Aucun rebond immédiat — troisième cas du jour qui confirme le repli
   implicite du RFC 5321.
+
+---
+
+# Lot du 08/10 — changement de méthode de recherche, et il paie
+
+## Pourquoi changer
+
+Trois lots d'affilée avaient donné le même résultat : Haïti 0 envoi sur 4 sociétés réelles,
+Paraguay 0 sur 7, Zone Libre de Colón 0, Mauritanie 0, Congo-Brazzaville 0. Toujours la même
+cause — **chercher « pays + métier » ne remonte que des annuaires**, et un annuaire ne satisfait
+pas la règle anti-rebond du §5.
+
+La consigne d'Aaron est explicite : méthode qui ne marche pas, on change de méthode.
+
+## La nouvelle méthode
+
+Au lieu de chercher un pays, je cherche **l'auto-description de l'acheteur** — les formules
+qu'une société écrit sur son propre site : « importers and distributors of flat glass », « we
+import float glass », « stocking distributor ». Et je **bloque explicitement les annuaires et
+les courtiers** dans la requête.
+
+**Résultat immédiat : des pages de contact de sociétés, et non des fiches d'annuaire.** Sur deux
+requêtes, huit sociétés avec une adresse publiée sur leur propre domaine, là où les cinq lots
+précédents en donnaient une ou zéro.
+
+Écartés au passage, et c'est le signe que le filtrage fonctionne : **rocketreach** (nommé au
+§5), **importinfo** et **exporthub** (relevés douaniers et contacts d'acheteurs masqués, même
+nature que Volza), et quatre fabricants chinois de Qingdao — la Chine est exclue comme source au
+§6 et ce sont des concurrents, pas des prospects.
+
+## Ce que le registre a encore évité, et ce qu'il a débloqué
+
+La vérification du registre, faite avant d'écrire, a montré que **sept des huit sociétés y
+étaient déjà** : FloatGlass Malte relancée le 07/10, Wholesale Glass and Supplies le 06/10,
+Capital Glass le 06/10, plus Gordon's, Flat Glass Distributors et les deux Jacksonville en
+statut appel. Sans cette vérification, c'était sept doublons.
+
+Mais la même recherche a produit deux gains réels :
+
+**1. Bear Glass déverrouillée.** La fiche portait « aucune adresse publiée » et le statut appel
+depuis des jours. La recherche par auto-description a fait remonter `sales@bearglass.com` et
+`sales@bearglassnj.com` **sur leur propre domaine**, qui figure bien dans les URL de résultats.
+La règle anti-rebond est satisfaite, la fiche est passée en envoi. Profil excellent : ils se
+présentent comme l'un des plus gros stockistes de feuilles de verre et de miroir, avec du float
+jusqu'au miroir ancien en stock — donc l'argument du conteneur mixte à l'état pur.
+
+**C'est la leçon de méthode du jour** : une fiche en `A APPELER` n'est pas définitivement sans
+adresse. Elle est sans adresse *trouvée par la méthode employée à l'époque*. Changer la méthode
+de recherche rouvre une partie des 160 fiches d'appel.
+
+**2. Dallas Flat Glass Distributors**, genuinement absente du registre. Adresse `sales@dfgdbiz.com`
+publiée par la société sur sa propre page de contact, sur un domaine différent de son site :
+exception du §5 appliquée et notée dans la fiche.
+
+## Un doublon de plus corrigé
+
+**Flat Glass Distributors** et **Flat Glass Distributors Inc.** portaient le même téléphone
++1 904 354 5413 : même société, deux lignes. Fusionnées, la seconde neutralisée. Troisième
+doublon détecté aujourd'hui après Mwenzo au Rwanda et Tropic Glass aux Îles Salomon.
+
+## Chiffres de ce lot
+
+| | |
+|---|---|
+| Recherches | 4 (Mauritanie, Congo-Brazzaville, puis 2 par auto-description) |
+| Fiches créées | 5 |
+| Envois confirmés | **2** |
+| Réponses qualifiées | 0 |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+Registre : **839 fiches**, 156 pays.
+
+## À faire ensuite avec cette méthode
+
+Repasser les 160 fiches `A APPELER` au crible de la recherche par auto-description, en
+commençant par les mieux notées. Bear Glass prouve qu'une partie d'entre elles a une adresse
+que l'ancienne méthode n'avait pas vue.
