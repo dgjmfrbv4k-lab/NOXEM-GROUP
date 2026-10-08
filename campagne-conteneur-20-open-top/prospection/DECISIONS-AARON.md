@@ -116,6 +116,37 @@ Le gris teinté et le feuilleté ne figurent pas dans la gamme publiée du site 
 **Prochaine action : attendre leurs quantités.** La balle est chez eux, c'est le seul dossier
 où nous ne sommes pas en retard.
 
+### Trouvaille du 08/10 qui change le cadre de la question du prix
+
+En déverrouillant des fiches américaines j'ai établi un fait que nous n'avions pas, et il porte
+directement sur ce dossier et sur toute la Caraïbe.
+
+**Notre concurrent sur la Caraïbe n'est pas asiatique. Il est à Miami, à deux jours de bateau.**
+Deux maisons de Miami du registre le disent elles-mêmes :
+- **CM Glass Miami** annonce sur sa page *Export Glass* qu'elle fournit du **verre fabriqué en
+  Amérique à des clients à l'étranger**, avec du verre à impact et anti-cyclonique au catalogue.
+  Fiche reclassée en concurrent, aucun message ne lui sera envoyé.
+- **Glass Global Distributors** se présente comme distributeur de float pour la Floride du Sud
+  **et les Caraïbes**.
+
+**Pourquoi cela compte pour ta décision.** L'objection d'Akeeda — « nos fournisseurs de longue
+date nous accordent du crédit » — s'éclaire : un fournisseur à deux jours de transit peut
+accorder du crédit sans risque, parce qu'il réapprovisionne vite et connaît le client depuis
+des années. Nous sommes à trois semaines de mer. **Nous ne gagnerons donc ni sur le délai ni
+sur la familiarité.** Il reste deux terrains :
+1. **le prix au m² rendu**, qui nous revient face à du verre américain — et le verre américain
+   n'est pas du verre bon marché ;
+2. **ce que Miami ne fournit pas** : le grand format PLF, le miroir sans cuivre ni plomb, le
+   Low-E européen.
+
+C'est un argument pour chiffrer, pas contre : si notre prix rendu Port of Spain tient face à
+Miami, le crédit devient discutable. S'il ne tient pas, la Caraïbe n'est pas notre marché et
+mieux vaut le savoir avant d'y mettre d'autres semaines.
+
+**Recommandation :** sur la Caraïbe, calibrer la grille contre le verre américain rendu, pas
+contre un prix d'usine asiatique. Et le même raisonnement vaut pour Nassau Glass (Bahamas) et
+les autres fiches caribéennes du registre.
+
 ---
 
 ## 4. United Glass / John (Canada) — « prix jeudi », c'était hier

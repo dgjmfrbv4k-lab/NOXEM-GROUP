@@ -1,12 +1,13 @@
-# Lot du 09/10/2026 — 27 adresses déverrouillées le 08/10
+# Lot du 09/10/2026 — 31 adresses déverrouillées le 08/10
 
 **Pourquoi ce lot existe.** Ces 21 sociétés étaient toutes au statut `A APPELER` : elles avaient
 un site, aucune adresse, et elles étaient donc inatteignables. La méthode de déverrouillage
 (`WebSearch` restreint au seul domaine de la société) a rendu l'adresse publiée sur leur propre
 page de contact.
 
-**Rendement mesuré, chiffres distincts à ne pas confondre :** 52 sociétés testées → **33 adresses
-obtenues** (63 %) → **27 mises en file d'envoi**. L'écart de 5 est assumé et documenté :
+**Rendement mesuré, chiffres distincts à ne pas confondre :** 65 sociétés testées → **40 adresses
+obtenues** (62 %) → **31 mises en file d'envoi**. Les deux écarts se recoupent exactement : 40 moins
+les 9 non envoyables, c'est 31. L'écart de 5 est assumé et documenté :
 Distribuidora del Caribe et Corporación Limatambo sont **déjà parties** le 08/10 ; Templar est
 déclassé (distributeur officiel Blindex, donc il achète du trempé fini à AGPAR et n'importe pas de
 substrat) ; Color Glass Import est hors périmètre (verre d'art Spectrum, pas verre plat de
@@ -15,7 +16,7 @@ bâtiment) ; Hartung attend qu'on établisse s'il existe vraiment une entité ca
 SEVAM (Maroc) s'ajoute aux écartés, et pour une raison qui vaut une règle : son champ activité portait
 le seul mot « verrerie », or ce sont **90 ans de bouteilles et de verres de table**. Verre creux, pas
 verre plat. Règle ajoutée au §5 : établir plat ou creux **avant** d'ouvrir une fiche.
-Les 19 échecs sont tous du même type : formulaire de contact, adresse obfusquée, ou domaine qui ne
+Les 25 échecs sont tous du même type : formulaire de contact, adresse obfusquée, ou domaine qui ne
 rend plus aucun résultat. Aucun n'est un échec de la méthode.
 
 **Pourquoi rien n'est parti le 08/10.** Un rebond `550 5.7.1 High probability of spam` est tombé
@@ -127,6 +128,17 @@ de la commission anti-dumping à rétablir des droits suspendus pendant la pand�
 | **TechnoGlass** — Nigeria | `info@technoglassng.com` | EN | Plot C62, **Crystal Glass Close**, Amuwo Odofin — à quelques kilomètres du **port d'Apapa**. Maison de 2004, float, low-E, sécurité, trempé, feuilleté, murs rideaux. Références Mercedes-Benz Lekki, Orchid Court Ikeja. **Un seul message : la fiche Crystal Glass Nigeria est la maison mère et partage l'implantation** — passée en `NE PAS DEMARCHER` pour éviter la faute Shibaam. | Apapa (Lagos) |
 | **Mirodec SARL** — Liban | `mirodec@mirodec.com` | EN ou **FR** | Miroitier, maison familiale de **1982**. L'angle est dans leur nom : **miroir sans cuivre ni plomb**, et Beyrouth est un marché côtier donc humide. Le signalement de doublon sur `mirodec.com` **n'en était pas un** : deux boîtes distinctes, `mirodec@` pour le Liban et `mirodec-gulf@` pour Dubaï — deux envois légitimes, et la fiche Gulf a déjà été relancée le 08/10. | Beyrouth |
 | **Gr8 Vision / Premier Aluminium** — Sierra Leone | `info@gr8vision-sl.com` | EN | Trois sites dont un **atelier** (Freetown, route Bo-Kenema, Obama Junction) : structure réelle, pas un revendeur. Leur site publie deux domaines pour la même boîte — `gr8vision-sl.com` retenu car c'est celui du site, `gr8vision.com` en repli. | Freetown |
+
+---
+
+## Vague 6 — dernières déverrouillées du 08/10
+
+| Société | Adresse | Langue | Angle | Port |
+|---|---|---|---|---|
+| **Med Glass Industry** — Maroc | `contact@medglassindustry.ma` | **FR** | **Le meilleur angle du Maghreb.** Leur site annonce qu'ils sont la **seule société marocaine certifiée CEKAL** pour le vitrage isolant et le trempé — CEKAL est l'organisme **français**. Un transformateur certifié CEKAL doit justifier la conformité de son verre entrant aux normes européennes : une origine européenne n'est pas un argument de prix chez eux, c'est un argument de dossier technique. Et nous sommes français. **Ne citer aucun certificat de notre côté (§5)** : on parle de leur certification, pas de la nôtre. Exception §5 : adresse en `medglassindustry.ma`, site en `medglass.ma`. | Casablanca ou Tanger Med |
+| **TecAlu N.V.** — Sint Maarten | `info@tecalu.com` | EN ou FR | **Pays corrigé** : la fiche la classait côté français, leur mention légale nomme TECALU **N.V.**, société néerlandaise, Ocean Building Union Road 88. Angle franc : leur catalogue est bâti sur **TECHNAL**, système aluminium français du groupe Hydro — ils n'ont pas à être convaincus que l'Europe sait livrer une île des Caraïbes. Marché cyclonique = **feuilleté**. | Philipsburg |
+| **Glass Global Distributors** — Miami | `sales@glassglobalonline.com` | EN | Distributeur de float pour la Floride du Sud **et les Caraïbes**. **Deux fiches fusionnées** : `ggdglass.com` et `glassglobalonline.com` sont la même maison, 353 NE 185th Street. **Réserve : Miami est un hub d'export concurrent sur la Caraïbe** (voir CM Glass, reclassée en concurrent le même jour). Client sur le float importé ou concurrent sur la Caraïbe — à lever dans l'échange, pas à supposer. **À envoyer en dernier.** | Miami |
+| **Vidrios y Más** — Panama | `consultas@vidriosymaspa.com` | ES | Boutique de Río Abajo, mobile pour seul numéro : **structure modeste, et c'est assumé**. Ce qui la distingue de Santurce Glass (écartée le même jour) est que l'adresse est sur le domaine de la société et non un gmail personnel. **Dernière du lot, sans effort de rédaction particulier.** | Balboa ou Colón |
 
 ---
 

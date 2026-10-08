@@ -368,7 +368,7 @@ il a dit ne pas avoir de besoin actuellement.
   désormais.** `WebSearch` passe par un autre chemin que WebFetch. Lancé avec `allowed_domains`
   limité au **seul domaine de la société**, il renvoie le contenu de sa page de contact, adresse
   e-mail comprise, sans jamais résoudre le domaine localement. Rendement mesuré le 08/10 :
-  **26 adresses sur 36 sociétés testées**, soit 72 %, là où la recherche large n'en
+  **40 adresses sur 65 sociétés testées**, soit 62 %, là où la recherche large n'en
   donnait aucune. Les 10 échecs sont tous du même type : page de contact derrière un formulaire,
   adresse obfusquée, ou domaine qui ne rend plus aucun résultat — aucun n'est un échec de la
   méthode. **Et le gisement est connu : 102 fiches du registre ont un site et pas d'adresse.**
