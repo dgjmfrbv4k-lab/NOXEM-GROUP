@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **127 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **128 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -24,7 +24,7 @@ recherche large sur le nom de la societe avec les annuaires et les courtiers blo
 remonter son domaine propre, puis recherche restreinte a ce domaine pour l'adresse publiee. Trente-
 cinq fiches sont ainsi sorties de cette liste dans la journee, et **54 attendent desormais un envoi**.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 127 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 128 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -42,7 +42,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 116 societes
+## Hors Europe — 117 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | États-Unis | **Glass Enterprises Inc** | `+1 215 638 1007` | 15h00 - 23h00 | A APPELER | GROS : usine neuve de 180 000 pieds carres a Norwich, fabricant certifie float. Aucune adresse publiee. ENRICHIE LE 08/10. Profil confirme et fort : decrite comme fabricant certifie de produits float pour tous les grands verrie... |
 | Ghana | **Punamactex Ent. Ltd** | `+233 21 689800` | 11h00 - 19h00 | A APPELER | BON PROFIL : negociant etabli depuis 1995 annoncant du float clair et du float teinte, donc importateur par construction. Port de Tema, nomme au paragraphe 4. Aucune adresse publiee dans les sources : a appeler. |
 | Bolivie | **Cristales Templados Bolivianos — Cristembo** | `+591 4 268042` | 15h00 - 23h00 | A APPELER | Trempeur donc acheteur de float. Pays enclave, transit via Arica. Aucune adresse publiee : a appeler. |
+| Indonésie | **PT Matahari Silverindo** | `+62 24 761 7600` | 04h00 - 12h00 | A APPELER | ANGLE TECHNIQUE PRECIS : ils argentent, et l argenture ne pardonne pas — chaque defaut du substrat est rendu permanent et double par le reflet, donc la qualite float exigee est plus stricite qu en vitrerie. Et le miroir haut de... |
 | Irak | **Arturaya Glass Company** | `+964 751 667 6876` | 08h00 - 16h00 | A APPELER | IMPORTATEUR : se fournit déjà à l'étranger. Adresse info arobase arturaya.com relevee le 07/10, domaine identique au site. IMPORTE DEJA DES CONTENEURS : ils annoncent eux-memes travailler avec des usines etrangeres. Envoi 07/10... |
 | Arabie saoudite | **Manna Glass Group (Mohammed Mannaa Glass Corporation)** | `+966 11 291 1943` | 08h00 - 16h00 | A APPELER | Four de trempe identifié : acheteur de float régulier. Tel releve sur annuaire arabe. A VERIFIER AU TELEPHONE, releve le 08/10 : cette fiche partage le numero +966 11 265 0065 avec la fiche Almanco Factory. Soit la meme societe... |
 | Arabie saoudite | **Euro Glass** | `+966 55 550 5040` | 08h00 - 16h00 | A APPELER | Releve sur annuaire arabe, numero a verifier. |

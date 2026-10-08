@@ -48,6 +48,14 @@ Ne pas annoncer de prix, de délai ni de certificat (§5). Ne pas dire « direct
 
 ---
 
+## Ajout du 08/10 après-midi — une seizième, et c'est un WhatsApp
+
+| # | Société | Numéro | Fenêtre (Paris) | Demander | Pourquoi |
+|---|---|---|---|---|---|
+| 16 | **PT Matahari Silverindo** — Semarang | **WA** `+62 815 7810 0100` · miroir `+62 24 761 7600` · trempé `+62 24 761 7800` | 04h-12h · **viser 08h-12h** | une adresse valide au service export, ou directement la **division miroir** | **Cas unique du registre : la société publie une adresse morte.** `export@mataharisilverindo.com` figure sur leur page de contact *et* sur leur accueil, et leur propre serveur la refuse en `550 No Such User`. Aucune recherche ne réparera cela — il faut leur demander. Et ça vaut le coup : **ils argentent le miroir**, donc ils achètent du float à argenter, et ils ont **deux divisions avec chacune sa ligne**, miroir et trempé, ce qui dit la taille de la maison. Indonésie UTC+7. *Rappel §6 : l'Indonésie produit son float (Asahimas), aucun argument d'absence de production locale.*
+
+---
+
 ## Ce qu'un appel réussi doit rapporter
 
 Une adresse e-mail et un nom avec sa fonction. Rien d'autre n'est nécessaire : dès que l'adresse

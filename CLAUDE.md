@@ -466,6 +466,15 @@ il a dit ne pas avoir de besoin actuellement.
   **Donc : avant de laisser une fiche en `ADRESSE INVALIDE`, faire la recherche restreinte à son
   domaine.** Les fiches qui résistent sont celles dont le domaine n'est plus indexé du tout — et
   là le rebond disait vrai.
+  **Deux cas de plus, trouvés l'après-midi du 08/10, qui précisent la méthode.**
+  · **Une adresse d'agence vaut mieux qu'un `info@`.** Alma Glass (Riyad) : `info@` a rebondi,
+    mais leur site publie `almariyadh@`, `almajeddah@` et une adresse Dammam — une boîte d'agence
+    est plus sûrement relevée qu'une boîte générale. Quand les deux existent, prendre l'agence.
+  · **Et le contre-exemple, qu'il faut savoir reconnaître : une société peut publier une adresse
+    morte.** PT Matahari Silverindo (Semarang) affiche `export@` sur sa page de contact *et* sur
+    son accueil, et son propre serveur la refuse en `550 No Such User`. Ce n'est ni une adresse
+    devinée ni une vieille page. **La méthode ne répare pas cela** : il reste le téléphone, ou
+    mieux, le WhatsApp quand il est publié. Ne pas s'acharner.
 - **Ce blocage est devenu LE goulot d'étranglement, devant le ciblage et devant le message.**
   Mesuré sur les lots du 08/10 : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7,
   Zone Libre de Colón 0, Cap-Vert 1 sur 6. Les sociétés sont trouvées et qualifiées, mais
