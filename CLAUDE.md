@@ -462,6 +462,23 @@ sur cette liste, c'est la société qui compte, jamais le mot. Vérifier le mét
 une fiche sur une ressemblance de nom** — le §5 interdit déjà de déduire une activité d'un mot,
 c'est la même erreur que « verrerie » sur SEVAM, prise par l'autre bout.
 **SGC International Inc.** (États-Unis — ajouté le 08/10 : ce n'est pas un transformateur mais **le bureau exclusif de vente et de service de CSG, China Southern Glass, pour les États-Unis et le Canada**, à Commerce en Californie. La fiche du registre le nommait « SGC Specialty Glass Company », ce qui masquait sa nature. Trouvaille utile par l'autre bout : c'est exactement le circuit que le droit antidumping américain de 181 % frappe, donc exactement l'intermédiaire que les transformateurs américains doivent quitter),
+**Misr Glass Manufacturing** (Égypte — ajouté le 08/10 : elle annonce elle-même du **float**, du feuilleté,
+du trempé et du verre couché. Avec **Sphinx Glass**, l'Égypte compte donc au moins deux producteurs float :
+**ne jamais écrire qu'il n'y a pas de production locale en Égypte**, c'est le marché le mieux pourvu de la
+zone après l'Arabie saoudite. Fiche fermée avant toute recherche d'adresse),
+**Saint-Gobain Egypt for Glass Industries** (Égypte — ajouté le 08/10 : filiale d'un producteur float
+mondial, donc concurrent par nature, quel que soit son métier local),
+**GROUPE RIOU GLASS — CAS PARTICULIER, NI CONCURRENT NI PROSPECT TANT QU'AARON N'A PAS TRANCHÉ (08/10).**
+Ce n'est pas un producteur float mais un **groupe français de transformation du verre plat**, et il a **deux
+filiales dans le périmètre de cette campagne** : **SOREMIR** à Sainte-Clotilde (La Réunion), relancée le
+06/10 sans que j'aie vu le lien, dont l'adresse registre est `soremir@riouglass.re` ; et **Riou Ocean Glass**,
+usine de transformation de 10 000 m² au port autonome de Port-Louis (Maurice), ligne de double vitrage,
+marchés annoncés Maurice, Madagascar, La Réunion et l'Afrique de l'Est. **Les deux sont UN SEUL compte** :
+écrire aux deux serait la faute Shibaam. Et l'argument de l'absence de source locale ne vaut rien face à un
+groupe qui a ses propres contrats cadres européens. **Question posée dans `DECISIONS-AARON.md`.**
+**La leçon de méthode, et elle est générale : le domaine de l'adresse e-mail trahit l'appartenance à un
+groupe là où la raison sociale ne dit rien.** `soremir@riouglass.re` portait l'information depuis le début.
+À lire systématiquement avant de qualifier une fiche comme indépendante,
 **Nasir Float Glass Industries** (Bangladesh — ajouté le 08/10. Premier float du pays, en service
 depuis 2005, environ 55 % du marché local annoncé, complexe de Tangail et centrale gaz propre.
 La fiche existait comme cible : le mot « float » dans une raison sociale impose la vérification

@@ -20,9 +20,36 @@ de stock.
 une fois ébavuré ; la longueur se coupe à la demande. Une feuille 2440 × 3300 se coupe donc
 directement sur ligne, **2440 en travers du ruban — largement sous les 3210 — et 3300 dans le sens
 du défilement.** C'est précisément pour cette raison que le 96 × 130 pouces est la cote de stock
-nord-américaine. **Il n'y a aucun problème de grand format ici, et la question PLF du §4 n'est donc
-PAS répondue par cette offre** — elle reste entière pour Rubex et Caribbean Glass, dont les cotes
-(3300 × 2140 et 3302 × 2261) posent la même question mais dans l'autre sens.
+nord-américaine. **Il n'y a aucun problème de grand format ici.**
+
+**ET J'AI ÉCRIT ICI, DANS LA PHRASE SUIVANTE, QUE CETTE OFFRE NE RÉPONDAIT PAS À LA QUESTION PLF
+POUR RUBEX ET CARIBBEAN GLASS. C'EST FAUX, ET C'EST LA TROISIÈME FOIS DANS LA JOURNÉE QUE LA MÊME
+CONFUSION REVIENT SOUS MA PLUME.** Si une ligne float ne contraint que la largeur du ruban, alors
+le raisonnement s'applique aux trois cotes et pas seulement à celle de John :
+
+| Client | Cote demandée | En travers du ruban | En longueur | Verdict |
+|---|---|---|---|---|
+| United Glass | 2440 × 3300 | **2440** < 3210 ✓ | 3300 ✓ | **chiffré par Aaron** |
+| Rubex | 3300 × 2140 | **2140** < 3210 ✓ | 3300 ✓ | sort de la ligne |
+| Caribbean Glass | 3302 × 2261 | **2261** < 3210 ✓ | 3302 ✓ | sort de la ligne |
+
+**Les trois tiennent, et l'offre à John est la preuve matérielle que 3300 mm de long se fait chez
+nous** — sur dix conteneurs, pas sur un échantillon.
+
+**Conséquence, et elle est bonne : j'ai envoyé à Rubex et à Caribbean Glass des réserves plus
+pessimistes que la réalité, sur le point même qui pouvait tuer les deux dossiers.** Je n'ai rien
+promis, donc il n'y a rien à démentir — seulement à confirmer à la hausse dès qu'Aaron dit un mot.
+
+**Ce qui reste vraiment ouvert est beaucoup plus étroit, et ce sont deux choses distinctes :**
+1. **Le PLF au sens strict, 6000 × 3210**, que demandait **Rákosy Üveg** — et c'est **un seul fait,
+   pas quatre** contrairement à ce que le §4 affirmait. C'est la seule vraie question PLF.
+2. **La cote maximale de l'autoclave de feuilletage**, et **uniquement pour Caribbean Glass**, dont
+   le 3302 × 2261 est demandé en **feuilleté** et non en float nu. Repère : Green Glass annonce
+   feuilleter jusqu'à 2,8 × 6 m, donc l'enveloppe industrielle existe largement — mais notre
+   autoclave partenaire, je ne le sais pas.
+
+**Ce qu'il me faut de toi, en deux mots :** *« la coupe 3300 de long en float nu, c'est oui »* →
+je débloque Rubex ce soir. Et *« le feuilleté en 3302 × 2261 »* → oui/non/à vérifier.
 
 **Ce qui reste du constat initial, et c'est commercial et non technique :** Aaron a chiffré la cote
 que John voulait **au départ**, et John avait demandé par écrit à 15 h 48 un prix **au jumbo**.
@@ -838,3 +865,51 @@ Aucun statut du §12 ne dit cela. `NE PAS DEMARCHER` surtraduit — ils n'ont pa
 laisse tranquilles. J'ai consigné le refus dans la note avec une reprise en janvier 2027 et
 gardé le statut de dernier contact. **Il manque un statut `REFUS` avec date de reprise.** Je ne
 l'invente pas seul : c'est le registre maître.
+
+
+---
+
+# GROUPE RIOU GLASS — question de périmètre, trouvée le 08/10 à 17 h 10
+
+**Le fait, et il était sous mes yeux depuis le début.** La fiche **SOREMIR** (Société Réunionnaise
+de Miroiterie, Sainte-Clotilde, La Réunion) porte au registre l'adresse **`soremir@riouglass.re`**.
+Le domaine dit l'appartenance que la raison sociale cache : **SOREMIR est une filiale du groupe
+RIOU GLASS**, groupe **français** de transformation du verre plat. **Je l'ai relancée le 06/10 sans
+voir le lien.**
+
+**Et il y a une seconde filiale dans le périmètre de cette campagne.** La recherche sur Maurice a
+fait remonter **Riou Ocean Glass** : usine de transformation de **10 000 m²** au port autonome de
+**Port-Louis**, investissement annoncé d'environ **dix millions d'euros**, **ligne de double
+vitrage**, présentée comme site de production unique dans l'océan Indien, marchés annoncés
+**Maurice, Madagascar, La Réunion et l'Afrique de l'Est**. (Source datée d'environ deux ans et
+demi ; l'état actuel n'est pas vérifié.)
+
+**Pourquoi je ne tranche pas seul.** Trois choses s'opposent et aucune n'est opérationnelle :
+
+- **Sur le volume, c'est la plus grosse prise industrielle de l'océan Indien.** Un transformateur
+  de cette taille n'a **aucune ligne float** : tout son verre entrant est importé, par conteneurs
+  entiers et sur références stables. C'est exactement notre client type.
+- **Sur l'argument, nous n'avons rien à dire.** Un groupe français de transformation a ses contrats
+  cadres européens et son propre sourcing. L'argument de l'absence de source locale — le plus
+  employé de la campagne — **ne vaut rien ici**. Le message parti à SOREMIR le 06/10 l'a donc été
+  avec un angle faible, et c'est une erreur de ciblage de ma part.
+- **Sur le périmètre, le §6 exclut la France métropolitaine**, pas ses filiales ultramarines, et
+  La Réunion comme Maurice sont dans le périmètre. Le texte ne prévoit pas ce cas.
+
+**Options.**
+1. **On traite le groupe comme un compte unique et on le démarche au niveau du groupe**, pas
+   filiale par filiale — un seul interlocuteur, l'argument étant le prix rendu au port d'une île
+   et non la disponibilité.
+2. **On le laisse** : un transformateur français est plus un pair qu'un client, et le risque est de
+   renseigner un concurrent sur nos conditions.
+3. **On ne démarche que Maurice** (hors UE, hors octroi de mer, vrai import) et on laisse La
+   Réunion.
+
+**Ma recommandation : l'option 1, mais sans aucun envoi avant ton accord** — et dans tous les cas
+**SOREMIR et Riou Ocean Glass comptent pour UN seul compte**, parce que leur écrire aux deux serait
+la faute Shibaam. Riou Ocean Glass est donc créée au registre en `A QUALIFIER` avec interdiction
+d'envoi, et aucune relance SOREMIR ne partira avant ta réponse.
+
+**La leçon de méthode, et elle vaut au-delà de ce cas** (elle est passée au §6) : **le domaine de
+l'adresse e-mail trahit l'appartenance à un groupe là où la raison sociale ne dit rien.** À lire
+avant de qualifier une fiche comme indépendante.
