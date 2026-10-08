@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 140" width="980" height="280">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="gt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#C7D2FE"/></linearGradient>
+  </defs>
+  <!-- symbole : bouton lecture formé d'un réseau neuronal -->
+  <g transform="translate(10,10)">
+    <rect x="0" y="0" width="120" height="120" rx="34" fill="url(#g)"/>
+    <rect x="3" y="3" width="114" height="114" rx="31" fill="#FFFFFF"/>
+    <g stroke="url(#g)" stroke-width="5" stroke-linecap="round">
+      <path d="M44 34 L44 86 L88 60 Z" fill="none" stroke-linejoin="round"/>
+      <path d="M44 60 L66 47 M44 60 L66 73 M66 47 L66 73"/>
+    </g>
+    <g fill="#0B0D14"><circle cx="44" cy="34" r="7"/><circle cx="44" cy="86" r="7"/><circle cx="88" cy="60" r="8"/><circle cx="44" cy="60" r="5"/><circle cx="66" cy="47" r="5"/><circle cx="66" cy="73" r="5"/></g>
+  </g>
+  <!-- logotype -->
+  <text x="152" y="98" font-family="Geist, 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="92" letter-spacing="-4" fill="#0B0D14">piwa</text>
+  <g transform="translate(372,38)">
+    <rect width="104" height="64" rx="18" fill="url(#g)"/>
+    <text x="52" y="46" text-anchor="middle" font-family="Geist, 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="40" letter-spacing="1" fill="#fff">AI</text>
+  </g>
+</svg>
