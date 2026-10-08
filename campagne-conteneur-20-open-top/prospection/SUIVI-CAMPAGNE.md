@@ -3078,3 +3078,99 @@ boite ne prouve pas qu'il n'a pas ete envoye, et **l'absence de reponse d'un cli
 qu'il n'a pas repondu** — sa reponse ira vers la boite d'ou l'offre est sortie. C'est inscrit au
 §13. **Avant d'ecrire « pas de reponse » sur un dossier chaud, demander a Aaron de quelle boite son
 dernier message est parti.** C'est la seule chose que je lui demande sur ce dossier desormais.
+
+---
+
+## 08/10/2026, 17 h 52 — fin de journée : 112 fiches créées, 2 envois sur ordre, 3 corrections de fond
+
+### Les cinq chiffres du §3, distincts comme il l'impose
+
+| | |
+|---|---|
+| Recherches larges lancées (fin de journée) | **15** |
+| Noms bruts examinés et grepés un par un | **~200** |
+| **Fiches créées** | **112** (registre 856 → 968) |
+| Envois confirmés (fin de journée) | **2**, tous deux sur ordre explicite d'Aaron |
+| Réponses qualifiées nouvelles | **0** |
+| Demandes de prix ouvertes | **4** (inchangé) |
+| Commandes | **0** |
+
+### Changement de méthode, et c'est le fait du jour
+
+Le déverrouillage fiche par fiche coûte **2 à 3 recherches pour une seule adresse**. La recherche
+**large par pays** coûte **2 appels pour 10 à 15 noms**. À budget égal (200 appels/tour, §13), la
+seconde produit donc **cinq à sept fois plus de fiches**. C'est ce qui a permis les 112 du jour.
+**Le prix à payer, et il est réel :** ces fiches arrivent en `A QUALIFIER` sans adresse. Elles
+sont des cibles identifiées, **pas des prospects joignables** — et le §3 interdit de confondre les
+deux. Le déverrouillage reste à faire.
+
+### Les trois corrections de fond
+
+1. **La cote d'un jumbo n'est pas la cote maximale d'une ligne float.** Trois erreurs dans la même
+   journée sur ce seul point, donc une règle et non un accident (§4 réécrit). J'avais écrit à
+   **Rubex** que son 3300 × 2140 exigeait un PLF, à **Caribbean Glass** que son 3302 × 2261 était
+   un *oversize*, et j'avais sonné l'alarme sur le 2440 × 3300 du devis de John. **Les trois
+   tiennent dans le ruban** (2140, 2261 et 2440 en travers des ~3210 utiles), et le devis d'Aaron
+   est la preuve matérielle qu'une feuille de 3300 de long se fait. **Deux dossiers de prix
+   débloqués, sous réserve d'un mot d'Aaron sur l'autoclave de feuilletage pour Caribbean Glass.**
+2. **Le port de Rubex n'a jamais été donné par le client.** Aaron a posé la question, j'ai vérifié :
+   « Port Alexandrie » dans la fiche était **ma déduction** à partir de l'usine de New Borg El Arab.
+   Corrigé, et la question posée à Nada Hassan.
+3. **Lien de groupe Riou Glass.** `soremir@riouglass.re` disait depuis le début que SOREMIR (La
+   Réunion) est une filiale du groupe **français** Riou Glass — relancée le 06/10 sans que je le
+   voie. Seconde filiale trouvée dans le périmètre : **Riou Ocean Glass**, Port-Louis (Maurice),
+   10 000 m². **Les deux comptent pour un seul compte**, Maurice créée en interdiction d'envoi,
+   question de périmètre remontée. **Leçon générale, passée au §6 : le domaine de l'adresse trahit
+   l'appartenance à un groupe là où la raison sociale ne dit rien.**
+
+### Trois faits de marché versés aux fiches
+
+- **Tunisie :** Tunisie Industrie écrit que la filière de transformation importe **uniquement** son
+  verre plat, et cite Saint-Gobain et Pilkington parmi ses sources. Réserve : document ancien.
+- **Éthiopie :** enclavée, et **Djibouti est son port d'entrée pour le verre** — documenté par un
+  chargement de float en 20 pieds. Le port s'annonce donc « via Djibouti » (§4).
+- **Émirats :** **Alphaglass annonce la Belgique** parmi ses origines de float. Ils achètent déjà
+  européen : la conversation part du prix, pas de la faisabilité. **Meilleure position de départ
+  de la campagne.**
+
+### Concurrents ajoutés au §6
+
+**Emirates Float Glass** (Abou Dabi, 600 t/j, export vers 65+ pays, **capacité doublée annoncée en
+octobre 2025**), **Misr Glass Manufacturing** et **Saint-Gobain Egypt**. Conséquence directe :
+l'argument du float absent est **faux** aux Émirats, en Égypte, en Algérie, en Arabie saoudite et
+au Maghreb. Il ne reste défendable qu'au Canada, en Australasie, dans les îles et en Afrique de
+l'Ouest — et là seulement jusqu'à la mise en service de KEDA Shama.
+
+### Fiches fermées avant de chercher une adresse
+
+**Verre creux ou hors gamme :** Pasabahce Egypt (verre de table, groupe turc — double exclusion),
+Aman and Safety (automobile), ETS Teint Glass Afrique et Lord Glass (accessoires et films),
+EGS Eden Glass et Global Vitrage Auto (automobile). **Le test du §5 a payé six fois.**
+
+### Problème de méthode consigné
+
+**Faux positifs de sous-chaîne au grep.** « INDEX » a rendu **43** correspondances et « FACO » **39**,
+toutes dans les notes et aucune dans un nom de société. Le grep brut sur le fichier ne suffit donc
+pas quand le nom est un mot courant : **vérifier sur le champ société seul.**
+```bash
+awk -F';' -v p="<nom>" 'NR>1 && tolower($4) ~ tolower(p)' liste-prospects.csv
+```
+
+### Et une dérive d'horodatage, la troisième du jour
+
+J'ai écrit 17h20 et 17h15 dans deux fiches alors qu'il était **16h59**. Corrigé dans la minute,
+mais c'est la troisième fois après 15h25 et 15h45, et la cause est toujours la même : **ne pas
+avoir lancé `TZ=Europe/Paris date` AVANT d'écrire**, comme le §13 l'impose.
+
+### Suite — les trois actions prioritaires
+
+1. **Déverrouiller les adresses des meilleures fiches du jour**, par ordre de valeur établie :
+   GlassAsia Impex et Alphaglass (Émirats, distributeurs de float), Ouchtar Commerciale et Somaver
+   (Maroc), Vitre Khezzane (Algérie), CSVM (Tunisie), Glass House International (Nigéria),
+   Al Safina et Al Noor (Golfe), Geion (Éthiopie), Phi-co (Cameroun).
+2. **Les 73 fiches manquantes des 500** — gisements non encore ouverts : Libye, Soudan, Djibouti,
+   Mali, Niger, Tchad, Congo, Mauritanie, Bahreïn, Irak (recherche en arabe), Jordanie (la
+   recherche en anglais n'a rien rendu, ce qui est un résultat de méthode et non de marché).
+3. **Les réponses d'Aaron**, qui débloquent plus que tout le reste : la coupe 3300 en float nu
+   (Rubex part le soir même), l'autoclave de feuilletage (Caribbean Glass), la grille de prix
+   (PG Namibie attend depuis 10 jours), et le périmètre Riou Glass.
