@@ -173,11 +173,24 @@ les autres fiches caribéennes du registre.
 
 ---
 
-## 4. United Glass / John (Canada) — « prix jeudi », c'était hier
+## 4. United Glass / John (Canada) — le prix était promis pour AUJOURD'HUI
 
 **Faits.** Demande de devis le 06/10 à 18h14, **une heure** après notre message. John veut un
 prix au pied carré CIF Toronto sur **neuf références**, open top et closed, caisses
-96 × 130 pouces. Réponse rédigée, en attente de la grille.
+96 × 130 pouces.
+
+**Correction d'une erreur de ce document :** il disait « prix jeudi, c'était hier ». **Faux.
+Aujourd'hui, 08/10, est jeudi.** Le prix promis à John était dû aujourd'hui.
+
+**Ce que j'ai fait à 13 h 50, faute de grille.** J'ai écrit, sans prix, parce que le silence le
+jour promis coûte plus qu'un aveu. Le message part du domaine — ce qui répond à son objection
+explicite sur l'adresse Gmail —, dit franchement que la grille n'est pas prête et qu'aucun chiffre
+ne partira pour être corrigé la semaine suivante, et **pose la question qui fait avancer le dossier
+sans chiffrer** : 96 pouces font 2438 mm, ce n'est pas une division du jumbo 3210 × 2550, et un
+four calibré 96 pouces ne prend pas 2550. Coupe à la cote, à valider à l'usine, ou cotes standard
+qu'il recoupe lui-même — et je lui ai dit que le second cas est meilleur pour lui, parce que c'est
+vrai. **Sa réponse sur la cote conditionne le chiffrage**, donc ce n'était pas une question
+d'attente.
 
 **Deux points à ne pas perdre :**
 - le **96 × 130 pouces** est la feuille de stock nord-américaine. Un four de 96 pouces ne prend
@@ -249,17 +262,52 @@ un message WhatsApp.
 
 ## 6. Trois choses sans rapport avec les prix
 
-**a) La liste d'appels, 160 fiches.** Aucun pays du registre n'a plus de fiche avec adresse
-jamais contactée : tout ce qui pouvait partir par e-mail est parti. Ces 160 fiches portent un
-téléphone et rien d'autre. `LISTE-APPELS.md` les classe par valeur avec les créneaux en heure
-de Paris. C'est le gisement restant et il ne s'ouvrira qu'au téléphone.
+### a) LE DMARC — c'est devenu la demande la plus urgente de cette liste, et elle prend cinq minutes
 
-**b) Le réseau de la session.** C'est devenu le premier facteur limitant, devant le ciblage et
-devant le message — chiffré : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7, Zone
-Libre de Colón 0, Cap-Vert 1 sur 6. Les sociétés sont trouvées et qualifiées, mais leurs
-coordonnées n'existent que dans des annuaires, et un annuaire ne satisfait pas la règle
-anti-rebond. Réglage « Network access » de l'environnement (menu de l'environnement cloud dans
-la barre de titre, puis Edit) :
+**Ce qui a changé aujourd'hui.** Deux serveurs sans rapport ont refusé nos messages avec un
+verdict de **spam**, pas d'adresse morte : `info@yemenglass.com` en `550 High probability of spam`,
+et `porfyriosglass@cytanet.com.cy` en `554 5.7.1`. Ce n'est pas un problème de ciblage ni de
+contenu : c'est un filtre qui juge l'expéditeur.
+
+**Et le goulot d'étranglement de la campagne a changé de place aujourd'hui.** Ce matin c'était
+l'accès aux coordonnées ; une méthode de recherche trouvée cet après-midi en a déverrouillé 62 %,
+et **56 fiches attendent maintenant un envoi**. Ce n'est plus de trouver à qui écrire, c'est
+**combien la boîte peut en envoyer par jour sans se faire filtrer.** Tout ce qui améliore la
+délivrabilité multiplie donc directement le rendement de la campagne.
+
+**Ce qu'il manque, et c'est une ligne de DNS.** MX, SPF et DKIM sont bons sur `noxem-group.com`.
+**DMARC est absent.** Un domaine neuf, sans réputation et sans DMARC, est exactement le profil que
+les filtres traitent avec méfiance.
+
+**Enregistrement à créer** chez le registrar ou l'hébergeur DNS du domaine :
+
+| | |
+|---|---|
+| Type | `TXT` |
+| Nom / hôte | `_dmarc` (soit `_dmarc.noxem-group.com`) |
+| Valeur | `v=DMARC1; p=none; rua=mailto:aaron.harfi@noxem-group.com` |
+
+`p=none` ne bloque rien et ne risque rien : il déclare seulement une politique et demande les
+rapports. C'est l'étape qui compte pour la réputation, et on pourra durcir plus tard.
+
+**Je ne peux pas le faire moi-même** : la session n'a pas accès à la zone DNS du domaine.
+
+### b) Le réseau de la session — demande MAINTENUE mais DÉCLASSÉE
+
+**Correction honnête : ce que j'ai écrit ce matin était trop pessimiste.** J'affirmais que le
+blocage réseau était « le premier facteur limitant, devant le ciblage et devant le message », avec
+des chiffres à l'appui — Haïti 0 envoi sur 4 sociétés, Paraguay 0 sur 7, Colón 0, Cap-Vert 1 sur 6.
+Les chiffres étaient exacts. **La conclusion était fausse.**
+
+Une méthode de recherche trouvée cet après-midi contourne le blocage : interroger le moteur en le
+restreignant au seul domaine de la société fait remonter le contenu de sa page de contact sans
+jamais résoudre le domaine. **Chiffre vérifiable, compté dans le registre lui-même : 68 fiches ont gagné une adresse publiée
+aujourd'hui**, dont 56 attendent un envoi et le reste est déjà parti ou a été écarté pour un
+ciblage faux. Le Paraguay est passé de 0 à 4 adresses dans la journée.
+
+Le réglage « Network access » reste utile — il permettrait de lire les pages directement, donc plus
+vite et plus complètement — mais **il n'est plus bloquant**, et il passe donc après le DMARC.
+Menu de l'environnement cloud dans la barre de titre, puis Edit :
 https://code.claude.com/docs/en/cloud-environments#network-access
 
 **c) Quatre fiches camerounaises, trente secondes de ton temps.** AFRICALU, ALUBAT-CAM, ETS
