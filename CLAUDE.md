@@ -226,9 +226,12 @@ Statuts : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A APPELER` · `A RENVO
   site. La carte des pages du §8 vient de l'index des moteurs de recherche. À débloquer via
   les réglages réseau de l'environnement.
 - **`fr_FR.UTF-8` n'est pas installée dans la session** : seule `C.utf8` existe, donc
-  `locale.strxfrm` en collation française échoue. Tant qu'elle manque, **ne pas retrier**
-  `liste-prospects.csv` : une mise à jour sur place ne déplace aucune ligne, alors qu'un
-  retri sous une autre collation réordonnerait tout le fichier à tort.
+  `locale.strxfrm` en collation française échoue. **Mesuré le 08/10 : ce n'est pas un
+  problème.** `liste-prospects.csv` est déjà trié en ordre de points de code Unicode — le
+  `sorted()` nu de Python reproduit le fichier à l'identique, vérifié ligne par ligne
+  (`Nigéria` avant `Népal` le prouve : `é` passe après `i`, ce qu'une collation française
+  ne ferait pas). Donc **retrier avec `sorted()` sans locale**, et ne jamais réintroduire
+  `locale.strxfrm` : c'est lui qui réordonnerait tout le fichier à tort.
 - **Le CSV peut être en retard sur la boîte d'envoi.** Cas du 08/10 : une fiche encore à
   `ENVOYE` alors que la relance était partie la veille. Avant un lot de relances, croiser le
   registre **et** les messages envoyés, sinon on écrit deux fois en deux jours.

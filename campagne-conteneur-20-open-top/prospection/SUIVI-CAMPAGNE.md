@@ -844,3 +844,82 @@ utile, pas un échec.
 | BATALU VERRE (Douala) | `552 mailbox not found`. Adresse morte, retirée. Fiche basculée en `A APPELER` |
 | Réponses de septembre invisibles | les envois de septembre partaient de l'ancienne boîte gmail. La session ne lit que `aaron.harfi@noxem-group.com`, donc **une réponse de septembre restée dans l'ancienne boîte ne serait pas vue ici**. Dit franchement plutôt que supposé |
 | Lecture web coupée | toujours active |
+
+---
+
+# Lot du 08/10 — marchés enclavés jamais prospectés
+
+## La question posée
+
+Le §4 du mandat nomme dix ports de transit pour les pays enclavés : Mombasa, Dar es Salaam,
+Durban, Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo. Chacun désigne un marché que
+le mandat anticipe. Alors plutôt que de chercher au hasard, j'ai mesuré la couverture du
+registre pays par pays contre cette liste.
+
+Résultat : **l'Arménie était à zéro fiche** alors que Poti, son port de transit, est
+explicitement nommé dans le mandat. Le Kirghizistan aussi, mais la concurrence chinoise
+frontalière y rend le fret européen difficilement défendable. Le Rwanda n'avait que deux
+fiches, dont un doublon.
+
+C'est une méthode reproductible : **les ports nommés au §4 sont une liste de courses**, et
+le registre dit lesquels n'ont jamais été servis.
+
+## Chiffres de ce lot
+
+| | |
+|---|---|
+| Recherches | 4 marchés passés au crible (Arménie, Rwanda, Népal, Bolivie) |
+| Fiches créées | **10**, dont 6 contactables et 4 à qualifier ou écartées |
+| Envois confirmés | **6**, aucun rebond |
+| Réponses qualifiées | 0 à cette heure |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+## Les six envois, et pourquoi chacun
+
+| Société | Pays | Transit | Pourquoi elle peut acheter un conteneur |
+|---|---|---|---|
+| **Vidrieria Oriental** | Bolivie | Arica | **La meilleure fiche du lot** : importateur-grossiste de laminas de float déclaré depuis les années 80. Déjà structuré pour le conteneur complet, donc rien à lui expliquer |
+| Gapex | Arménie | Poti | Float de 2 à 15 mm et trempe maison, dans un pays sans ligne float |
+| Silverback Glass Processing | Rwanda | Mombasa ou Dar | Ligne de trempe : consomme du substrat, n'en produit pas |
+| Vidrios Laminados SRL | Bolivie | Arica | Feuilleteur : exige une qualité optique constante, car un défaut reste piégé dans le feuilleté |
+| Mirror King Udhyog | Népal | Kolkata | Leur procédé part de la découpe du float avant le four |
+| Sumes Glass | Népal | Kolkata | Importateur déclaré, donc le bon interlocuteur pour du conteneur complet |
+
+## Ce que j'ai refusé d'utiliser
+
+**Volza, nommément interdit au §5**, est remonté en premier résultat sur le Népal avec le
+nom du principal importateur de float du pays. Écarté sans l'exploiter, nom non consigné.
+
+**`info@ahpublic.com`**, présenté dans l'annuaire bolivien GNB à côté des sociétés
+listées : cette adresse appartient à **l'annuaire**, pas aux entreprises. L'écrire aurait
+été exactement le piège que la règle anti-rebond existe pour éviter.
+
+**La Casa del Parabrisas** : pare-brise et verre automobile au détail. Hors périmètre,
+consignée en `ECARTE` pour ne pas être reprospectée par erreur.
+
+## Deux corrections de registre
+
+**Doublon Mwenzo Aluminium (Kigali)** : deux lignes pour la même société, une avec adresse
+et une sans. La seconde est passée en `NE PAS DEMARCHER` avec renvoi vers la première.
+
+**Le fichier n'était pas trié en collation française.** En voulant contourner l'absence de
+`fr_FR.UTF-8`, j'ai découvert que `liste-prospects.csv` est trié en **ordre de points de
+code Unicode** : `sorted()` nu reproduit le fichier à l'identique, vérifié ligne par ligne.
+La preuve est dans le fichier lui-même — `Nigéria` précède `Népal`, ce qu'une collation
+française ne produirait jamais. J'avais d'abord écrit dans le mandat qu'il ne fallait plus
+retrier : c'était inutilement restrictif, et la note est corrigée. **Retrier avec
+`sorted()`, sans locale.**
+
+## Limite assumée sur ce lot
+
+Les six adresses satisfont la règle anti-rebond — leur domaine figure bien dans les URL de
+résultats, pas seulement dans un texte de résumé. Mais ce sont des **adresses neuves**, sans
+le moindre envoi antérieur pour prouver la délivrabilité, et le contrôle MX est impossible
+depuis la panne du résolveur. Les relances du matin avaient cette preuve, ce lot ne l'a pas.
+Risque assumé en connaissance de cause, sur six envois seulement, et **aucun rebond
+constaté**. Noté dans chaque fiche.
+
+Cas limite consigné : `sumeshglass99@gmail.com` s'écrit avec un `h` que le domaine du site
+(`sumesglass.com.np`) n'a pas. Adresse publiée telle quelle par la société. Partie sans
+rebond, mais la fiche porte l'alerte.
