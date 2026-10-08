@@ -34,7 +34,13 @@ maintenant** — et les origines restantes sont le domestique, le Mexique, la Tu
    gagnons.
 2. **Ne pas citer les taux comme une promesse de prix.** Ce sont des faits douaniers publics. Les
    citer est légitime ; les présenter comme notre avantage tarifaire ne l'est pas.
-3. **Vérifier avant chaque vague.** Les ordres datent d'avril 2026. Révisions administratives,
+3. **Ne jamais laisser entendre que nous entrons en franchise.** Les ordres antidumping et
+   compensateurs ne disent rien du **droit de douane ordinaire**, que nous payons comme tout le
+   monde et dont je ne connais pas le taux sur le float européen à l'entrée des États-Unis. Le
+   texte le dit explicitement, en une phrase, et c'est volontaire : un acheteur qui importe le
+   sait, et paraître l'ignorer coûterait toute la crédibilité du message. **Question posée à Aaron
+   pour son transitaire.**
+4. **Vérifier avant chaque vague.** Les ordres datent d'avril 2026. Révisions administratives,
    décisions de portée et recours judiciaires peuvent avoir bougé depuis. Si un acheteur répond que
    les taux ont changé, **il a probablement raison et il faut le remercier**, pas argumenter.
 
@@ -57,9 +63,13 @@ My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter ba
 France.
 
 I will not explain your own market to you, so I will put this in one sentence: since the
-antidumping and countervailing orders of April, Chinese float carries duties of around 181 per
-cent and Malaysian float carries countervailing duties of up to 102 per cent, and European float
-carries none. You know this better than I do - you are the one paying it.
+antidumping and countervailing orders of April, Chinese float carries antidumping duties of around
+181 per cent and Malaysian float carries countervailing duties of up to 102 per cent, and European
+float is not covered by either case. You know this better than I do - you are the one paying it.
+
+To be precise, because precision matters here: I am talking about the antidumping and
+countervailing orders only. Ordinary customs duty is a separate matter and I am not claiming
+anything about it.
 
 That is the only reason I am writing. I am not claiming to be cheap, and I am not going to quote
 you a number in a first email. What I am saying is that the comparison you were making a year ago
