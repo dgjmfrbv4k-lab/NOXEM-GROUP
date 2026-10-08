@@ -415,6 +415,22 @@ un message WhatsApp.
 
 ## 6. Trois choses sans rapport avec les prix
 
+### a bis) « VIT » — un compte protégé que je n'arrive pas à identifier, et c'est un risque
+
+Le §7 du mandat protège quatre dossiers vivants : **Tipperary Glass, Gorica Staklo, Rubex et VIT.**
+J'ai vérifié les trois premiers aujourd'hui : Tipperary est en `NE PAS DEMARCHER`, Gorica en
+vérification de conformité, Rubex porte une demande de prix ouverte. Aucun n'est dans un pool de
+relances. **Mais je ne trouve aucune fiche « VIT » au registre.** La seule approchante est
+`VITRINES` en Côte d'Ivoire, qui est manifestement une autre société.
+
+**Pourquoi je te le signale plutôt que de laisser courir :** si VIT existe au registre sous un
+autre nom, une vague de relances peut le démarcher sans que je le sache — exactement ce qui a
+failli arriver aujourd'hui à quatre filiales de PG Glass, qui étaient restées dans le pool des
+relances malgré le §7. Ce cas-là a été rattrapé. Celui-ci, je ne peux pas le rattraper sans savoir
+de qui il s'agit.
+
+**Ce qu'il me faut : le nom complet de VIT, ou son pays.** Une ligne suffit et le risque disparaît.
+
 ### a) LE DMARC — c'est devenu la demande la plus urgente de cette liste, et elle prend cinq minutes
 
 **Ce qui a changé aujourd'hui.** Deux serveurs sans rapport ont refusé nos messages avec un
