@@ -1304,3 +1304,62 @@ Vérification faite, **l'erreur est isolée** : une seule fiche sur 834 la porta
 **40 fiches en `RELANCE 2026-10-08`** (24 du réservoir de septembre, 15 du début octobre,
 plus Glass Jet traité le matin), **13 envois neufs**, **2 rebonds** sur l'ensemble de la
 journée.
+
+---
+
+# Lot du 08/10 — troisième tranche de relances, et deux consignes nouvelles
+
+## Consignes d'Aaron enregistrées dans le mandat
+
+**Mode autonome (§0, nouveau).** Je n'attends plus d'être relancé après chaque lot : j'enchaîne,
+je sauvegarde, je passe au suivant. Société introuvable → une autre. Méthode stérile → changer
+de méthode. Tâche bloquée → avancer sur les autres. Une difficulté ponctuelle n'arrête pas la
+campagne. Je ne termine plus par « je peux continuer si vous voulez ».
+
+**Bilans uniquement entre 16 h et 18 h, heure de Paris (§15 réécrit).** Cette plage remplace les
+19 h du 07/10 puis les 18 h fixées plus tôt le 08/10. **En dehors, je ne m'arrête pour présenter
+ni réponse client, ni statistique, ni résumé intermédiaire** — tout va dans ce fichier et la
+prospection continue. Une réponse reçue n'arrête pas la campagne : je la consigne, j'applique
+immédiatement l'exclusion en cas de STOP ou de refus, et je poursuis.
+
+## Chiffres de ce lot
+
+| | |
+|---|---|
+| Recherches | 0 |
+| Envois confirmés | **11 relances**, aucun rebond |
+| Réponses qualifiées | 0 |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+Journée : **61 relances**, 19 envois neufs. Reliquat du 1er–5 octobre : **41 fiches**.
+
+## Un argument vérifié qui vaut pour toute l'Australie
+
+**La fermeture de la ligne float Viridian fait que l'Australie importe la quasi-totalité de son
+verre plat.** C'est un fait, pas un argument de vente, et il change la conversation : on ne
+demande pas à un Australien de remplacer un fournisseur local, il n'en a plus. Utilisé sur
+GlassCo et Glass Outlet, et à reprendre sur toutes les fiches australiennes.
+
+## Quatre renoncements assumés dans la même tranche
+
+Le Brésil et l'Argentine produisent leur propre float. Plutôt que de l'ignorer, les quatre
+messages concernés **le disent en première ligne** et renoncent explicitement au float clair
+ordinaire, pour ne garder que ce qui tient debout : extra-clair, Low-E à couche tendre, miroir
+sans cuivre ni plomb, formats jumbo.
+
+Sur Marcelo Trento l'angle va plus loin : ils fabriquent du **double vitrage hermétique**, donc
+le renoncement sur le float clair se double d'une cible précise sur la couche tendre, qui est
+exactement ce que ce produit consomme.
+
+C'est le même mécanisme que sur Matahari Silverindo ce matin et que sur le 3302 mm de Caribbean
+Glass : **dire la limite d'entrée est ce qui rend le reste crédible.**
+
+## Deux détails de ciblage consignés
+
+- **Divinal Vidros** n'a qu'une adresse de communication publiée, pas d'adresse achats. Le
+  message demande explicitement la transmission au service achats, conformément au §5 qui
+  interdit d'inventer une adresse.
+- **Qaswa Glass** (Oman) a été envoyée **seule**, son domaine n'ayant aucun MX mais un
+  enregistrement A. Aucun rebond immédiat — troisième cas du jour qui confirme le repli
+  implicite du RFC 5321.
