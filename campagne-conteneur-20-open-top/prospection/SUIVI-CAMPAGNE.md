@@ -2844,3 +2844,62 @@ les rebonds dans les minutes qui suivent un lot ne prouve rien.
 
 **Lecon de methode, et elle depasse ce cas : avant de compter deux evenements, verifier que ce ne
 sont pas deux noms de la meme chose, et lire l'heure d'un rebond en UTC avant de le dater.**
+
+---
+
+## 08/10/2026 — 15h40 · J'ai detruit le registre, et il faut le dire
+
+**Les faits, sans les arranger.** Dans un script de mise a jour du registre j'ai oublie le
+`out.append()` de la boucle. Les 848 fiches ont donc ete perdues en memoire, et la fonction
+d'ecriture a ecrit sans broncher un fichier de **deux lignes** : l'en-tete et une ligne vide.
+
+**Le garde-fou que j'avais ecrit ce matin n'a rien vu.** Il verifie que chaque ligne a bien dix
+champs — or il n'y avait plus aucune ligne a verifier. Un controle de forme ne protege pas de la
+disparition.
+
+**Rattrapage : `git checkout -- liste-prospects.csv`, sans aucune perte**, parce que le commit
+precedent datait de **trois minutes**. C'est la seule raison pour laquelle cet incident est une
+anecdote et non une journee a refaire.
+
+### Ce qui a ete corrige, et c'est du code, pas une resolution
+
+`outils/ecrire-registre.py` relit maintenant le fichier existant, compte ses fiches, et **refuse
+d'ecrire si le nouveau nombre est inferieur**. Le message de refus nomme la cause probable, l'appel
+`out.append()` oublie. Une fiche ne se supprime jamais dans ce registre — elle change de statut.
+Une baisse du nombre de lignes est donc toujours un bug, jamais une intention. **Le refus est teste
+dans les deux sens**, ecriture vide et ecriture tronquee, et les deux tentatives laissent le
+fichier intact.
+
+### Et la lecon qui vaut au-dela du code
+
+**Commiter souvent n'est pas une coquetterie, c'est le filet.** Trois minutes d'ecart, zero perte.
+Une heure, et c'etait une heure de travail a refaire de memoire — c'est-a-dire mal.
+
+### Le lot qui a declenche l'incident, refait correctement
+
+**BORDER GLASS AND ALUMINUM** (Winnipeg) deverrouillee : `info@borderglass.com`, publiee sur la page
+de contact de leur division contrat commercial. Fondee en 1967 a Selkirk, detenue par les fils du
+fondateur, elle sert des clients de **mur-rideau** dans tout l'Ouest canadien, avec le MTS Centre a
+son portefeuille. **Et un fait a leur demander : ils ont une implantation a Phoenix, Arizona.** Une
+maison qui achete des deux cotes de la frontiere compare deja des couts rendus et subit les droits
+reciproques du 22/08/2026. Une adresse nominative a fonction verifiee est gardee en reserve, Greg
+Graham, vitrerie — mais il est a la division depannage, donc on ne lui ecrit pas pour du substrat.
+
+**DEUX CAS DE CONFORMITE, et ils enseignent quelque chose.** Pour **IMPORTDOM** et **San Juan Glass
+Corp**, la recherche n'a remonte quasiment **que des courtiers de donnees douanieres** —
+importgenius, tendata, tradeatlas, panjiva, importkey, datamyne, eximpedia. Le paragraphe 5 les
+interdit tous : leurs releves d'importation, qui auraient parfaitement qualifie les deux fiches,
+ne sont ni utilises ni recopies. **Ce que cela dit du marche : les importateurs de la Caraibe sont
+cartographies par les courtiers douaniers et non par des sites d'entreprise.** C'est precisement
+pour cela qu'ils restent injoignables par e-mail dans notre cadre, et que le telephone est leur
+seule porte. Ce n'est pas un echec de la methode, c'est une propriete du marche.
+
+**ET UN AVERTISSEMENT D IDENTITE A TRINITE, a ne pas rater :** il y a au moins trois societes au nom
+proche. **Caribbean Glass Specialists Ltd** a Barataria, qui est l'un de nos quatre dossiers de prix
+ouverts. **Caribbean Glass and Aluminium Products Ltd** a Port of Spain, une autre maison.
+Et une **Caribbean Glass Co Ltd** citee par un annuaire. Au passage, le dossier Specialists s'est
+enrichi : leurs deux domaines, `cgstt.com` et `caribbeanglasstt.com`, sont bien les leurs — la page
+About du premier porte l'adresse `glasspec@` du second, ce qui leve tout doute sur la regularite de
+notre envoi. Etablis en 1962 ou 1963 par Pooran Ramsingh, ils se declarent fabricant de fenetres,
+portes, **vitrines et devantures de magasin** : grandes feuilles, ce qui recoupe leur demande de
+3302 x 2261 mm et confirme la question du grand format PLF.
