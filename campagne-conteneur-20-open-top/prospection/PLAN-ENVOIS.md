@@ -158,3 +158,30 @@ plafond de 18 messages par jour monte, et les 85 messages passent en trois jours
 **Une grille de prix.** Elle ne changerait pas le rythme d'envoi, mais elle changerait la nature du
 travail : quatre demandes de prix fermes attendent, et aucun de ces 85 messages ne vaut une seule
 commande signée.
+
+---
+
+## Ajout du 08/10 a 15h45 — le lot du 10/10 sur les Ameriques
+
+Quatre fiches deverrouillees ou corrigees en fin d'apres-midi, **textes integraux ecrits** dans
+`a-envoyer/2026-10-10-ameriques-quatre-textes.md` :
+
+| Societe | Pays | Adresse | Particularite |
+|---|---|---|---|
+| Glass Camp | Bresil | `vendas@glasscamp.com.br` | boite pleine prouvee existante, peut partir groupee |
+| Grupo Visemex | Mexique | `ventas1@visemex.com.mx` | idem ; `venta1@` sans S en second essai seulement |
+| Javalfer | Mexique | `lindavista@javalfer.com` | **a envoyer SEULE**, sortie de rebond sur `info@` |
+| Vidrios Dellorto | Chili | `contacto@dellorto.cl` | **a envoyer SEULE**, sortie de rebond sur `info@` |
+
+**Pourquoi deux envois isoles.** Javalfer et Dellorto sortent d'un rebond sur une autre boite du
+meme domaine. Les mettre dans un lot ferait courir au domaine le risque d'un second rebond groupe,
+et c'est exactement ce que le §10 demande d'eviter sur une boite neuve sans DMARC.
+
+**Condition prealable, non negociable :** verifier au matin du 10/10 qu'aucun nouveau
+`5.7.1 High probability of spam` n'est tombe depuis les deux du 08/10. Un seul verdict d'un serveur
+nouveau et ce lot attend.
+
+**Deux fiches de la file restent sans texte, et c'est un choix assume :** Vidrios y Cristales
+Guadalajara (Mexique) et Arte Vidro Mocambique. La premiere merite un texte, elle est dans un
+marche prioritaire — a ecrire avant le 10/10. La seconde est dans la zone que la decouverte de
+Sapphire a declassee le 08/10 : elle attend, et ce n'est pas un oubli.
