@@ -1,0 +1,12 @@
+IMPORTANT, consigne de Kevin : changement de boîte Gmail.
+
+Je viens de connecter une NOUVELLE boîte Gmail (PIWA Studio) à la place de aaron.harfi@noxem-group.com. Le connecteur Gmail est commun à toutes les sessions : tout mail envoyé ou brouillon créé depuis cette session partirait maintenant de l'adresse PIWA.
+
+Cette nouvelle adresse est RÉSERVÉE à une autre campagne (studio vidéo PIWA). Tu ne dois JAMAIS prospecter, envoyer, répondre ni créer de brouillon pour ta campagne avec elle.
+
+Règle à appliquer avant CHAQUE envoi ou brouillon Gmail :
+1. Vérifie l'adresse expéditrice (mcp__Gmail__search_threads, query "in:sent", view THREAD_VIEW_METADATA_ONLY, pageSize 1 : regarde le champ sender).
+2. Si ce n'est pas aaron.harfi@noxem-group.com : n'envoie rien, mets la campagne en pause et préviens-moi.
+3. Ne reprends les envois que quand l'expéditeur est de nouveau aaron.harfi@noxem-group.com.
+
+Confirme-moi que tu as bien pris en compte cette consigne.
