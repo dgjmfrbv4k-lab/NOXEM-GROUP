@@ -71,6 +71,10 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   La règle anti-rebond ci-dessus vérifie que le domaine apparaît dans les URL de résultats ;
   elle ne détecte pas un domaine sans MX. Pas de `OK`, pas d'envoi. Un domaine sans MX mais
   avec un A se teste seul, jamais dans un lot groupé.
+  **Mesure du 08/10 :** deux domaines sans MX (`thaitempered.lk`, `eurowindowhcm.com`) ont
+  accepté le courrier sans aucun rebond — c'est le repli implicite du RFC 5321, qui envoie
+  vers l'enregistrement A à défaut de MX. Donc « pas de MX » est un **risque à tester seul**,
+  pas un domaine mort : ne jamais écarter une fiche sur ce seul motif.
   **Si l'outil affiche `RESOLVEUR INDISPONIBLE`, aucun résultat n'est exploitable** : la
   résolution DNS est tombée et tous les domaines, même bons, ressortiraient en NXDOMAIN.
   Ne retirer alors **aucune** adresse du registre et ne déclarer aucun domaine mort.
@@ -221,6 +225,13 @@ Statuts : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A APPELER` · `A RENVO
 - **`noxemgroup.com` est bloqué par le proxy réseau de la session.** Je ne peux pas lire le
   site. La carte des pages du §8 vient de l'index des moteurs de recherche. À débloquer via
   les réglages réseau de l'environnement.
+- **`fr_FR.UTF-8` n'est pas installée dans la session** : seule `C.utf8` existe, donc
+  `locale.strxfrm` en collation française échoue. Tant qu'elle manque, **ne pas retrier**
+  `liste-prospects.csv` : une mise à jour sur place ne déplace aucune ligne, alors qu'un
+  retri sous une autre collation réordonnerait tout le fichier à tort.
+- **Le CSV peut être en retard sur la boîte d'envoi.** Cas du 08/10 : une fiche encore à
+  `ENVOYE` alors que la relance était partie la veille. Avant un lot de relances, croiser le
+  registre **et** les messages envoyés, sinon on écrit deux fois en deux jours.
 - Pas de `dig`, pas de `host`, DoH en 403 → **aucune vérification DNS possible**. D'où la
   règle anti-rebond du §5.
 - Gmail gratuit : plafond ~500 destinataires/jour et suspension possible sur envoi froid

@@ -766,3 +766,81 @@ de métier repère immédiatement un fournisseur qui dit oui à tout.
 2. **United Glass / John** — « prix jeudi » engagé, c'est demain.
 3. **WhatsApp à Duravidrio**, +593 99 972 8592 — acoustique, blindé, pare-balles, donc du
    float clair épais : exactement notre gamme.
+
+---
+
+# Lot de relances du 08/10 — réservoir de septembre
+
+## Chiffres de ce lot
+
+| | |
+|---|---|
+| Recherches | 0 — lot entièrement bâti sur des fiches existantes |
+| Envois confirmés | **23** relances parties, 1 rebond immédiat |
+| Réponses qualifiées | 0 à cette heure |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+Réservoir de départ : 30 fiches en `ENVOYE 2026-09` avec adresse. Quatre écartées comme
+comptes protégés (groupe PG, §7). Une déjà relancée le 07/10 (TGAC Dubaï). Une reportée
+(Staklo Bakar). Reste 24 envoyées, dont une rebondie.
+
+## Les trois décisions de tri, avant d'écrire
+
+**TGAC Dubaï — désynchronisation de registre détectée avant l'envoi.** La fiche affichait
+encore `ENVOYE 2026-09-23` alors que la relance était partie le 07/10 à 15h07. Contrôlé dans
+la boîte d'envoi, pas seulement dans le CSV. Sans ce contrôle la société recevait deux
+relances en deux jours. Statut corrigé à `RELANCE 2026-10-07`.
+
+**Staklo Bakar — relance reportée au 13/10.** La société a reçu le 07/10 un message d'une
+autre campagne. Deux sollicitations en deux jours depuis la même adresse abîment la
+crédibilité pour un gain nul.
+
+**Les deux domaines sans MX envoyés seuls**, comme l'impose le §5 : Thai Tempered (LK) et
+Eurowindow HCM (VN).
+
+## Ce que ce lot apprend
+
+**Un domaine sans MX mais avec un A n'est pas mort.** Les deux envois isolés n'ont produit
+**aucun rebond immédiat**. C'est cohérent avec le repli implicite du RFC 5321 : à défaut de
+MX, le courrier part vers l'enregistrement A. Donc le verdict « pas de MX » de
+`verif-mx.py` **n'est pas une condamnation** — il signale un risque, pas une impasse.
+La règle du §5 reste bonne (tester seul, surveiller), mais la lecture du résultat change :
+on teste au lieu d'écarter. À confirmer sous 48 h, un rebond pouvant être différé.
+
+**Deux rebonds du 07/10 ne viennent pas de nous.** `550 5.5.0 74.125.231.74 is blocklisted`
+et `...231.201` : ce sont des **IP sortantes de Google** blacklistées par le serveur du
+destinataire. Ni notre domaine, ni notre réputation, ni notre contenu. Rien à corriger de
+notre côté, et surtout rien à conclure sur la santé du domaine.
+
+**Le registre seul ne suffit pas à décider d'un envoi.** Le §5 impose de vérifier le
+registre avant d'écrire. Le cas TGAC montre qu'il faut aussi vérifier la **boîte d'envoi** :
+le CSV peut être en retard sur la réalité. Vérification ajoutée à la routine.
+
+## Angles employés, pour mesurer plus tard ce qui répond
+
+Trois angles distincts, à comparer aux réponses :
+
+1. **« Vous transformez, donc vous achetez du substrat »** — Indusvit, Madina, Google Glass,
+   Huzefa Haider, Thai Tempered, Glamiver. L'argument le plus solide : factuel et vérifié.
+2. **« Je ne vous vends pas ce que vous fabriquez déjà »** — African Industries (ligne miroir
+   intégrée, donc Low-E et feuilleté), E-Fujii et Eurowindow (float local abondant, donc
+   couche tendre), Vidres Blanchi (distance courte, donc références rares seulement).
+   Angle honnête qui renonce à une partie de la gamme pour gagner en crédibilité.
+3. **« Votre géographie décide »** — Vitrafa et Serious Aluminium (enclavés), Perfect
+   Aluminium et Petros Shiailis (îles sans ligne float), Caribbean Metals (feuilleté
+   anti-cyclone), LOWA (négociant sur le port), Glassline (jambe terrestre courte).
+
+Deux fiches à qualifier ont reçu une **question de taille directe** plutôt qu'une offre :
+Remar GlobalGlass et Staklo Konstrukt. Une réponse « trop gros pour nous » est un résultat
+utile, pas un échec.
+
+## Problèmes de ce lot
+
+| Problème | État |
+|---|---|
+| Résolveur DNS de la session | **toujours hors service** — `verif-mx.py` renvoie `RESOLVEUR INDISPONIBLE`. Aucune adresse retirée sur cette base, conformément au §5 |
+| `fr_FR.UTF-8` indisponible dans la session | seul `C.utf8` existe. Aucune ligne ajoutée dans ce lot, donc **aucun retri effectué** : l'ordre du fichier est préservé au lieu d'être recollationné à tort |
+| BATALU VERRE (Douala) | `552 mailbox not found`. Adresse morte, retirée. Fiche basculée en `A APPELER` |
+| Réponses de septembre invisibles | les envois de septembre partaient de l'ancienne boîte gmail. La session ne lit que `aaron.harfi@noxem-group.com`, donc **une réponse de septembre restée dans l'ancienne boîte ne serait pas vue ici**. Dit franchement plutôt que supposé |
+| Lecture web coupée | toujours active |
