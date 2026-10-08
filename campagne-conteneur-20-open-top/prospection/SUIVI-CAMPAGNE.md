@@ -1817,3 +1817,61 @@ ai écrit une quatrième — sur la fiche Manna Glass, dans un script rédigé s
 Réparée dans la minute. Mais la leçon n'est pas « faire attention » : **la consigne du §12 ne
 suffit pas, il faut que le code refuse.** D'où `outils/ecrire-registre.py`, qui lève une erreur
 avant d'écrire si une ligne n'a pas exactement 10 champs. Inscrit au §12 comme obligatoire.
+
+---
+
+# Lot du 08/10 — reprise des envois, et l'Arabie saoudite passée au crible
+
+## Deux envois, mesurés
+
+Les envois reprennent après l'arrêt sur le `5.7.1`, mais à deux messages — pas une rafale — et
+avec un contrôle des rebonds **reporté à demain** plutôt qu'à la minute suivante.
+
+- **Importadora Crispieri** (Iquique). Le message reconnaît d'entrée que le Chili produit son float,
+  puis pose la question qui décide tout : **le verre qui entre par la Zofri reste-t-il au Chili, ou
+  est-il réexporté vers la Bolivie et le Pérou ?** La réponse dira si on parle à un distributeur
+  national ou à un hub régional.
+- **Barrak Glass** (sept usines). Angle bâti sur l'échelle : sept usines et sept procédés ne
+  consomment pas une référence mais **une gamme**, et le point difficile d'une gamme n'est jamais la
+  référence rapide, c'est la lente, celle dont personne ne veut porter le stock.
+
+## L'Arabie saoudite, marché le plus dense de la campagne
+
+Une recherche a fait remonter sept sociétés saoudiennes. **Grep sur chacune, un par un** — la règle
+apprise à mes dépens aujourd'hui. Résultat : quatre déjà au registre, trois absentes.
+
+**Déverrouillée :** `Info@wtg-sa.com` pour **World Tempering Glass Manufacturing (Al-Alamiah
+Securit)**, Riyad, usine de trempe depuis 1999. Adresse publiée sur leur propre site, mais sur un
+**domaine différent** de celui du site — l'exception du §5 s'applique et c'est noté.
+
+**Piège évité, et il était bien tendu :** le registre contenait déjà « Al Alamiah for Manufacturing
+Tempered Glass Co. WLL »… **au Koweït**. Deux sociétés homonymes dans deux pays. Ma recherche
+ciblée par pays a échoué au lieu d'écrire silencieusement sur la mauvaise fiche. L'homonymie est
+signalée **des deux côtés**.
+
+**Non contactée volontairement :** **Al-Thiabi Glass** (Jeddah) publie bien `sales@` sur son site,
+donc l'adresse est exploitable. Mais leur activité est la **pose et le dépannage** — cloisons
+securit, réparation de vitrage sous 24 heures, aucune ligne de production mentionnée. Un poseur
+achète chez les distributeurs locaux, pas par conteneur. Hors cible.
+
+**À trancher avant tout envoi :** **Arabian Glass** (Riyad) a une adresse valide, mais son nom
+ressemble à **Arabian United Float Glass Company**, le producteur float que je viens d'ajouter au
+§6. Si Arabian Glass produit du float, c'est un concurrent. Fiche créée, envoi bloqué jusqu'à
+vérification.
+
+## Trois fiches saoudiennes enrichies, dont deux corrections
+
+- **Samyat Glass** est à **Jeddah**, pas à une localisation indéterminée. Site `alsamayat.com`,
+  maison de 1999, usine 2014 de 300 000 m²/an — et surtout **ils font du Low-E**. Qui fait du Low-E
+  achète du substrat à couche : c'est exactement l'angle saoudien.
+- **Al Tbaynawi** : site `altbaynawi.com` trouvé, ce qui **confirme Ha'il** et non Dammam. Ils
+  annoncent une ligne automatisée pilotée par ERP — un vrai outil, mais **pas** le four Glaston que
+  la fiche leur attribuait, qui appartient à Manna Glass.
+- **Manna Glass** exploite **deux sites web aux listes d'agences divergentes**, `mannaglass.sa` avec
+  des fixes et `mannaglass.com` avec des mobiles, plus un troisième domaine `manna.sa`. Environ 38
+  agences listées. **Ne pas se fier à un seul numéro.**
+
+## État
+
+Registre à **846 fiches**, 156 pays, 0 ligne malformée, 0 statut vide, 0 doublon réel.
+162 fiches d'appel. Reliquat de relances : 30.
