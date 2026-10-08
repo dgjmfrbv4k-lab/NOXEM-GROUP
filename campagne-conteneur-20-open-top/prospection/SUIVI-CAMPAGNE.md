@@ -2209,3 +2209,42 @@ attendent une réponse, pas de la prospection.
 `RELANCE 2026-10-08`, ce qui effaçait du registre le fait qu'une demande de prix ferme y est
 ouverte. Le §3 impose de distinguer les demandes de devis des simples envois. Statuts restaurés :
 `DEMANDE DE DEVIS — RELANCEE 2026-10-08` et `DEMANDE DE PRIX — A CHIFFRER`.
+
+### 14h10 · Quatre faits convergents : la question du PLF passe devant la question du prix
+
+Un message reçu à 12 h 00 sur l'autre campagne vient d'éclairer un problème que je traitais depuis
+ce matin comme un détail technique, et c'en est un central.
+
+**Rákosy Üveg (Hongrie) a écrit, mot pour mot :** « For our glass raw materials, our standard
+purchasing sizes are jumbo sheets, **typically 6000 × 3210 mm**. We are unfortunately unable to
+work economically with these [autres formats]. »
+
+Autrement dit : **un transformateur appelle « jumbo » le 6000 × 3210, pas le 3210 × 2550** que
+notre offre propose, et il déclare ne pas pouvoir travailler économiquement avec autre chose.
+
+C'est le quatrième fait du même jour qui pointe au même endroit :
+
+| Source | Ce qu'elle dit |
+|---|---|
+| **Rubex** (Égypte), demande de prix ouverte | 6 et 10 mm en **3300 × 2140** — ne sort pas d'un jumbo |
+| **Caribbean Glass** (Trinidad), demande de prix ouverte | **130 × 89 pouces = 3302 × 2261** — même problème |
+| **Green Glass** (Ras Al Khaïmah), déverrouillée aujourd'hui | feuillette **jusqu'à 2,8 × 6 m**, donc travaille en PLF |
+| **Rákosy Üveg** (Hongrie), réponse du jour | achète en **6000 × 3210** par défaut |
+
+**Deux des quatre demandes de prix ouvertes exigent donc un format dont je ne sais pas s'il est
+disponible chez nous.** Et j'ai passé une partie de l'après-midi à bâtir des angles commerciaux sur
+la capacité de feuilletage grand format — si on ne sait pas la servir, ces angles sont à refaire.
+
+**Remonté à Aaron en section 4 ter de `DECISIONS-AARON.md`, avec une recommandation nette : cette
+question passe AVANT la grille de prix.** Une grille sur un format qu'on ne peut pas livrer ne sert
+à rien, et la réponse conditionne le ciblage de toute la suite. C'est une question à poser à
+l'usine, pas un arbitrage commercial, et je n'ai aucun moyen de la poser d'ici.
+
+**Garde-fou ajouté au §4 du mandat** en attendant la réponse : ne jamais annoncer un grand format
+disponible, et ne plus qualifier un feuilleteur grand format comme cible prioritaire.
+
+### Et une livraison confirmée
+
+`info@glass.lk` (**Gamini Enterprises**, Sri Lanka) a renvoyé un accusé automatique à 10 h 46 :
+l'adresse fonctionne et le message est entré. Ce n'est pas une réponse commerciale, mais tant que
+le contrôle MX est impossible, une preuve de délivrabilité se note.

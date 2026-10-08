@@ -248,6 +248,53 @@ faire d'ici, le réseau de la session ne laisse pas joindre les sites des socié
 
 ---
 
+## 4 ter. LE GRAND FORMAT PLF — la question technique qui revient partout, et je ne peux pas y répondre
+
+**C'est la deuxième décision de la journée qui t'appartient, et elle n'est pas une question de
+prix. Elle est antérieure au prix.**
+
+**Trois faits indépendants, tombés le même jour, pointent tous au même endroit.**
+
+1. **Rubex (Égypte)** demande du 6 et 10 mm en **3300 × 2140 mm**. Cette cote ne sort pas d'un
+   jumbo 3210 × 2550. Il faut un **PLF 6000 × 3210**.
+2. **Caribbean Glass (Trinidad)** demande du **130 × 89 pouces, soit 3302 × 2261 mm** : même
+   problème, même conclusion.
+3. **Green Glass (Ras Al Khaïmah)**, déverrouillée aujourd'hui, annonce sur son propre site
+   feuilleter **jusqu'à 2,8 × 6 mètres**. Qui feuillette du 6 mètres travaille en PLF.
+
+**Et un quatrième, arrivé cet après-midi, qui est le plus direct des quatre** — il vient de
+l'autre campagne mais il dit la même chose. **Rákosy Üveg (Hongrie)** nous a répondu ceci, mot
+pour mot : « For our glass raw materials, our standard purchasing sizes are jumbo sheets,
+**typically 6000 × 3210 mm**. We are unfortunately unable to work economically with these
+[autres formats]. »
+
+Autrement dit : un transformateur sérieux appelle « jumbo » le **6000 × 3210**, pas le
+3210 × 2550, et il dit ne pas pouvoir travailler économiquement avec autre chose.
+
+**Ce que ça veut dire pour la campagne.** Notre offre est construite sur le jumbo 3210 × 2550 et
+sur la coupe à cotes (§4). **Deux des quatre demandes de prix ouvertes exigent un format que je
+ne sais pas si nous pouvons fournir**, et les deux meilleures nouvelles cibles de la journée —
+Green Glass et, en Hongrie, un acheteur déclaré de 6000 × 3210 — travaillent dans ce format.
+
+**La question, et elle est simple :** est-ce qu'une de nos usines partenaires produit ou découpe
+du **PLF 6000 × 3210** ? Oui ou non.
+
+**Les conséquences des deux réponses sont très différentes.**
+- **Si oui :** Rubex et Caribbean Glass se débloquent dès que la grille existe, et la campagne
+  gagne tout un segment — les feuilleteurs et les façadiers, qui sont les plus gros acheteurs
+  de substrat et les moins sensibles au prix.
+- **Si non :** il faut le dire aux deux clients maintenant plutôt que de les laisser attendre, et
+  **arrêter de qualifier comme prioritaires des cibles qui travaillent en 6 mètres.** J'ai passé
+  une partie de la journée à monter des angles sur la capacité de feuilletage grand format :
+  si on ne sait pas la servir, ces angles sont à refaire.
+
+**Ma recommandation : répondre à cette question avant la grille de prix.** Une grille sur un
+format qu'on ne peut pas livrer ne sert à rien, et la réponse conditionne le ciblage de toute la
+suite de la campagne. C'est une question à poser à l'usine, pas un arbitrage commercial — mais
+je n'ai aucun moyen de la poser d'ici.
+
+---
+
 ## 5. Duravidrio (Équateur) — un WhatsApp à envoyer
 
 Leur autorépondeur renvoie **explicitement** toute cotation vers WhatsApp **+593 99 972 8592**.

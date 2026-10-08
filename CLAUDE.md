@@ -56,6 +56,15 @@ recherches / envois confirmés / réponses qualifiées / demandes de devis / com
 de destination selon l'offre validée.** Distincte du déstockage livré en camion inloader.
 
 Jumbo 3210 × 2550 mm ou à cotes. 1 m² de 1 mm = 2,5 kg. Charge utile ≈ 23–25 t.
+**ATTENTION, QUESTION OUVERTE ET NON TRANCHÉE (08/10) : le PLF 6000 × 3210.** Quatre faits
+indépendants tombés le même jour montrent que les transformateurs sérieux travaillent en PLF et
+pas en jumbo : Rubex demande du 3300 × 2140, Caribbean Glass du 3302 × 2261 — deux cotes qui ne
+sortent pas d'un jumbo —, Green Glass annonce feuilleter jusqu'à 2,8 × 6 m, et Rákosy Üveg a
+écrit noir sur blanc que ses « standard purchasing sizes are jumbo sheets, typically
+**6000 × 3210 mm** » et qu'il ne peut pas travailler économiquement autrement. **Donc : ne jamais
+annoncer un grand format disponible, et ne plus qualifier un feuilleteur grand format comme cible
+prioritaire, tant qu'Aaron n'a pas dit si une usine partenaire fournit du PLF.** Question posée
+dans `DECISIONS-AARON.md`, section 4 ter.
 Pays enclavé → port de transit annoncé avec « via » (Mombasa, Dar es Salaam, Durban,
 Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 
