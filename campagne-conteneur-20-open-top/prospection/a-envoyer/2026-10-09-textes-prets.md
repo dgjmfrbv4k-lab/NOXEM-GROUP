@@ -133,30 +133,33 @@ France.
 
 I am writing to Green Glass for one specific reason, and it is a technical one. Your own site
 states that you laminate up to 2.8 x 6 metres, with multi-layer PVB and SGP. Very few processors
-in the region work at that size. It means you do not buy jumbo only - you buy PLF 6000 x 3210,
-and a sheet that size has to arrive flat, undamaged, and identical to the last one, because at
-six metres every defect in the substrate is visible in the finished laminate and there is no
-recutting your way out of it.
+in the region work at that size, and it tells me something about how you buy: at six metres,
+every defect in the substrate is visible in the finished laminate and there is no recutting your
+way out of it.
 
-That is the part of the supply that is hard, and it is the part we would rather talk about than
-the easy references.
+So let me be straight about what I can and cannot offer you today, because I would rather be
+useful than impressive.
 
-What we supply:
+We work in full containers, with treated ISPM-15 wooden crates, in jumbo 3210 x 2550 mm or cut
+to your sizes - payload roughly 23 to 25 tonnes per container. On the large PLF format your
+laminating line is built around, I am not going to claim availability before I have it confirmed
+at the plant. If PLF is the only thing that interests you, tell me and I will come back when I
+have a definite answer rather than waste your time.
 
-- Clear and extra-clear float, including large formats: https://noxemgroup.com/en/float-glass/
+Where I am confident, and where I think there is a conversation:
+
+- Clear and extra-clear float in jumbo and cut sizes: https://noxemgroup.com/en/float-glass/
 - Technical glazing, for the bullet-resistant and specialist work you list:
   https://noxemgroup.com/en/technical-glazing/
 - Copper-free and lead-free mirror: https://noxemgroup.com/en/copper-and-lead-free-mirror/
-
-Full containers, treated ISPM-15 wooden crates, jumbo 3210 x 2550 mm or cut to your sizes.
-Payload roughly 23 to 25 tonnes per container.
 
 Since your plant is in Al Ghail, Ras Al Khaimah, the sensible discharge port is Saqr or Khor
 Fakkan rather than Jebel Ali. We can put together an offer for delivery to your port of
 destination, subject to validation on our side.
 
-One question, and it is the one that decides this: in PLF, which thicknesses and sizes do you
-buy the largest annual volume of, and how often do you reorder?
+One question, and it is the one that decides this: what share of your intake is PLF at 6000 x
+3210, and what share is jumbo or cut sizes? If there is real volume on the jumbo side, we have
+something to discuss now.
 
 If you are locked in with your current supplier, say so and I will not push.
 ```

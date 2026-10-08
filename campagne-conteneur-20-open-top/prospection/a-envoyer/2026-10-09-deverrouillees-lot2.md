@@ -61,6 +61,11 @@ Contourne un rebond : `greengls@eim.ae` avait rebondi en `550 5.5.0 IP Google en
 refus côté destinataire. Autre domaine = autre serveur = autre verdict possible.
 **Capacité décisive : ils feuillettent jusqu'à 2,8 × 6 m**, donc travaillent en **PLF 6000 × 3210**
 et pas seulement en jumbo. Intercalaires PVB et SGP européens. Processeur certifié Saint-Gobain.
+**CORRECTION DU 08/10 14h15, et elle change le message :** le §4 interdit désormais d'annoncer un
+grand format disponible tant qu'Aaron n'a pas confirmé qu'une usine partenaire fournit du PLF. Le
+texte n°3 a été réécrit en conséquence : il dit franchement qu'on ne revendique pas le PLF avant
+confirmation, et demande **quelle part de leur approvisionnement est en PLF et quelle part en jumbo
+ou à cotes**. C'est plus honnête et ça pose la seule question qui décide.
 L'usine est à **Ras Al Khaimah**, pas à Dubaï → ports **Saqr ou Khor Fakkan**, pas Jebel Ali.
 Pages : float, vitrage technique.
 
