@@ -1,6 +1,6 @@
 # Textes prêts à envoyer — 09 et 10/10/2026
 
-**Cinquante-trois messages préparés le 08/10 sur les 56 de la file.** Quinze rédigés intégralement
+**Cinquante-sept messages préparés le 08/10 sur les 60 de la file.** Quinze rédigés intégralement
 (1 à 10, 16 à 20), cinq australiens bâtis sur un socle commun avec leur personnalisation (11 à 15),
 vingt-huit donnés en ouverture plus gamme plus port, le corps reprenant un socle déjà écrit
 (21 à 48). **Les trois qui manquent** sont les seules datées au 13/10 pour ciblage faible — Réunivitre,
@@ -921,6 +921,21 @@ l'entrée de la **SACU**. **Tant qu'elles n'ont pas de réponse, aucun message n
 entendre que nous entrons en franchise.** Les textes du Canada et des États-Unis parlent des droits
 qui frappent l'Asie — c'est vérifié et ça reste vrai — et le texte américain dit lui-même, en une
 phrase, qu'il ne prétend rien sur le droit de douane ordinaire.
+
+## 54 à 57. Les quatre déverrouillées en fin de journée, dans des marchés devenus forts
+
+| # | Société · adresse · langue | Ouverture | Gamme · port |
+|---|---|---|---|
+| 54 | **Complete Line Glass** — Texas · `clgquotes@completelineglass.com` · EN | « One page of your site is called Cases & Stock Sheets, which tells me how you buy: by the case, not by the sheet. That is the only way a full container makes sense for either of us. » **Canal idéal, c'est leur boîte devis : pas de demande de transmission.** Trois sites, San Antonio, Houston, Dallas-Fort Worth. | float + low-E + miroir sans cuivre · **Houston**, ligne directe depuis Anvers et Le Havre |
+| 55 | **New Glass** — Curitiba · `comercial@newsglassind.com.br` · **PT** | « Vocês se declaram distribuidora **e importadora** de vidros, com unidades de Curitiba a Salvador e ao Ceará. Não tenho nada a demonstrar a um importador sobre o interesse de importar: a única pergunta útil é se uma segunda origem lhes serve. » **Si rebond, essayer `marketing1@newglassind.com.br`** — leur site publie deux orthographes contradictoires. | float + low-E + miroir sans cuivre · **Paranaguá**, le port du Paraná, ou Santos |
+| 56 | **São Mateus Vidros** — São Paulo · `smvidros@saomateusvidros.com.br` · **PT** | « Vocês distribuem no Grande São Paulo, no ABC e no Litoral, com frota própria. Uma frota própria é sinal de volume, e volume é a única condição de um contêiner completo. » | float + miroir sans cuivre · Santos |
+| 57 | **Vitrerie Lepage** — Québec · `info@vitrerielepage.com` · **FR** | « Votre nom dit vitrerie, mais votre site a une page "fours à trempe" et une page CNC. Vous trempez et vous usinez vous-mêmes — donc vous achetez du substrat, en continu, et c'est à ce titre que je vous écris. » *(Exception §5 : adresse en `.com`, site en `.ca`. En second recours seulement : Jonathan Gravel, co-propriétaire.)* | float + low-E + miroir sans cuivre · Montréal ou Québec |
+
+**Rappel qui vaut pour ces quatre :** États-Unis, Brésil et Canada sont devenus des marchés forts le
+08/10 — barrières contre l'Asie et production locale protégée, donc un prix de marché élevé. **Mais
+les trois questions de douane sont toujours en attente chez Aaron, donc aucun de ces messages ne dit
+quoi que ce soit sur le droit de douane ordinaire.** L'argument est l'origine et la régularité, pas
+le tarif.
 
 ## Ce qui reste à rédiger
 
