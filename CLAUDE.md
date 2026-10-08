@@ -149,6 +149,25 @@ normalement. C'est la métropole, livrable en camion, qui relève de l'autre cam
 **Exclus comme concurrents :** Corée du Sud, Japon, Taïwan, Turquie, Israël.
 **Europe :** pas de nouvelle prospection ; les fiches européennes existantes se relancent.
 
+**AFRIQUE DE L'EST — ce n'est pas une menace future, c'est déjà fait (vérifié le 08/10).**
+**Sapphire Float Glass, à Mkuranga en Tanzanie**, capital chinois, est en production. Chiffres
+donnés en mai 2024 par la ministre tanzanienne Ashatu Kijaji, repris par Xinhua : capacité
+**700 t/jour soit 189 000 t/an**, production effective alors de **450 t/jour**. Présentée comme la
+plus grande usine float d'Afrique de l'Est et centrale. Une seconde ligne de 500 t/jour était
+annoncée ; **son état n'est pas confirmé** (une source fournisseur décrit une ligne de 600 t/jour
+mise en service le 11/09/2024 à Mkuranga — même usine ou autre, je ne sais pas).
+**Et surtout : elle EXPORTE déjà vers Madagascar, le Burundi, la Zambie, le Rwanda, la RDC et
+l'Afrique du Sud**, avec une part export donnée entre 60 % (Xinhua) et 70-80 % (Daily News), 75 %
+en projection de la société. Confirmation indirecte et forte : **PFG a obtenu en janvier 2026 des
+droits antidumping provisoires sud-africains contre le float tanzanien** — on ne se défend pas
+contre un concurrent négligeable.
+**Conséquences pour le registre, et elles sont lourdes :** Kenya (10 fiches), Ouganda (9),
+Madagascar (8), Rwanda (3), Mozambique (3), Zambie (2), Malawi (2), Congo RDC (2) sont **déjà
+desservis par un producteur local qui exporte**. L'argument de l'absence de production locale y est
+**faux** — il avait déjà été rattrapé pour le Kenya le 08/10 au matin. **Ne plus ouvrir de fiches
+dans cette zone et ne pas y investir d'effort de relance**, sauf sur ce que Sapphire ne fait pas :
+low-E, miroir sans cuivre ni plomb, vitrage technique, grands formats.
+
 **Afrique de l'Ouest — une ligne float arrive, et c'est une menace structurelle (08/10) :**
 le Ghana construit une usine float de **250 M$ à Shama**, portée par **KEDA (Ghana) Ceramics**,
 capital chinois. Première pierre le 24/02/2026 par le président Mahama. **Phase 1 : 600 t/jour,

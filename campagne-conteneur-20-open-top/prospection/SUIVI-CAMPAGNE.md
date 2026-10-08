@@ -2594,3 +2594,47 @@ après sa réponse. **Cinquième fois aujourd'hui.** À un interlocuteur angloph
 négociation, un accusé automatique en français renvoyant vers un numéro fixe donne l'image d'une
 maison qui ne lit pas son courrier. C'est déjà remonté à Aaron ; cette occurrence-là est la plus
 coûteuse de la journée.
+
+### 14h35 · L'Afrique de l'Est est déjà fermée, et ça explique les résultats de la zone
+
+Le Ghana était une menace à venir. **La Tanzanie est une menace accomplie**, et je ne l'avais pas
+mesurée.
+
+**Sapphire Float Glass, à Mkuranga, capital chinois, est en production.** Chiffres donnés en mai
+2024 par la ministre tanzanienne Ashatu Kijaji, repris par Xinhua : **capacité 700 t/jour, soit
+189 000 t/an**, production effective alors de **450 t/jour**. Une seconde ligne de 500 t/jour était
+annoncée, état non confirmé — une source fournisseur décrit une ligne de 600 t/jour mise en service
+le 11/09/2024 au même endroit, même usine ou autre, je ne sais pas.
+
+**Et surtout, elle exporte déjà** vers **Madagascar, le Burundi, la Zambie, le Rwanda, la RDC et
+l'Afrique du Sud**, avec une part export donnée entre 60 % et 80 % selon les sources.
+
+**La confirmation la plus forte est indirecte :** PFG a obtenu en **janvier 2026 des droits
+antidumping provisoires sud-africains contre le float tanzanien**. On ne se défend pas contre un
+concurrent négligeable — et c'est le même PFG qui appartient au groupe de Willem.
+
+**Ce que cela explique.** La campagne a investi beaucoup sur l'Afrique de l'Est : Kenya 10 fiches,
+Ouganda 9, Madagascar 8, Rwanda 3, Mozambique 3, Zambie 2, Malawi 2, RDC 2 — **39 fiches**. Zéro
+commande. Je mettais ça sur le compte du ciblage ou du message. **C'est au moins en partie le
+marché : ces pays sont desservis par un producteur local qui exporte 60 à 80 % de sa production.**
+L'argument de l'absence de production locale y est faux, et il avait déjà été rattrapé pour le
+Kenya ce matin.
+
+**Conduite écrite au §6 :** ne plus ouvrir de fiches dans la zone, ne pas y investir d'effort de
+relance, **sauf sur ce que Sapphire ne fait pas** — low-E, miroir sans cuivre ni plomb, vitrage
+technique, grands formats.
+
+### Et la carte du jour se résume en une phrase
+
+**L'Afrique se ferme, les Amériques s'ouvrent.**
+
+- **Afrique de l'Est** : fermée, un producteur local exporte vers six pays.
+- **Afrique de l'Ouest** : se ferme, usine ghanéenne de 1 400 t/jour à terme, échéance incertaine
+  d'un an.
+- **Afrique australe** : le seul producteur appartient au groupe avec lequel nous négocions.
+- **États-Unis, Brésil, Mexique** : production locale **plus** barrières contre l'Asie, donc un
+  prix de marché élevé — sous réserve des trois questions de douane posées à Aaron.
+- **Canada** : pas de production, 90 % venu des États-Unis, frontière sous droits réciproques.
+
+C'est l'inverse de l'intuition qui guidait la campagne, et c'est le résultat le plus utile de la
+journée.
