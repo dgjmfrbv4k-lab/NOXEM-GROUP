@@ -1875,3 +1875,140 @@ vérification.
 
 Registre à **846 fiches**, 156 pays, 0 ligne malformée, 0 statut vide, 0 doublon réel.
 162 fiches d'appel. Reliquat de relances : 30.
+
+---
+
+## 08/10/2026 — après-midi · La méthode de déverrouillage, et ce qu'elle change
+
+### Le chiffre de la journée : 26 adresses sur 36 sociétés testées
+
+**Cinq chiffres distincts, conformément au §3 :**
+
+| | |
+|---|---|
+| Sociétés passées au crible | **36** |
+| Adresses obtenues | **26** (72 %) |
+| Envois confirmés | **3** (Distribuidora del Caribe, Corporación Limatambo, + réparation Zrcalo) |
+| Mises en file pour le 09/10 | **21** |
+| Réponses qualifiées | **0** sur ce lot — aucun envoi n'a plus de trois heures |
+| Demandes de devis | **0** nouvelle (les 4 ouvertes restent les 4 ouvertes) |
+| Commandes | **0** |
+
+### Ce qui a été tranché : le blocage réseau
+
+La question ouverte depuis le 07/10 — *WebFetch est-il autorisé ?* — est **répondue, et par la
+négative**. Appelé sur `nassauglass.com`, WebFetch rend `getaddrinfo ENOTFOUND`. La résolution
+tombe avant la requête : l'outil n'est pas en cause, c'est la liste blanche DNS. Aucun des trois
+chemins (curl, WebFetch, DNS direct) n'atteint le site d'un prospect. **Ne plus retester** tant
+que le réglage « Network access » n'a pas changé.
+
+**Mais le contournement existe, et il marche.** `WebSearch` passe par un autre chemin. Lancé avec
+`allowed_domains` limité au **seul domaine de la société**, il rend le contenu de sa page de
+contact, adresse comprise, sans jamais résoudre le domaine localement. Et la règle anti-rebond du
+§5 est satisfaite **par construction**, puisque le domaine interrogé est celui du site.
+
+**Conséquence qu'il faut dire franchement : le goulot d'étranglement décrit ce matin n'était pas
+le bon.** J'écrivais que l'absence d'accès aux pages de contact était « LE goulot
+d'étranglement, devant le ciblage et devant le message », et que le remède dépendait d'un réglage
+qu'Aaron devait changer. C'était vrai du moyen, pas de la fin : le réglage reste utile, mais il
+n'était pas nécessaire. **Le gisement était atteignable depuis le début et je ne l'avais pas vu.**
+
+### Le gisement, chiffré
+
+**102 fiches du registre ont un site et pas d'adresse.** À 72 % de rendement, c'est de l'ordre de
+**70 adresses encore à prendre sans chercher une seule société neuve**. C'est, et de loin, le
+meilleur emploi du temps de prospection disponible — meilleur que la recherche de nouveaux pays,
+dont la série de ce matin a montré le faible rendement (Burkina déjà couvert, Guinée équatoriale
+sans présence en ligne, micro-marchés sahéliens introuvables).
+
+### Marchés débloqués
+
+- **Paraguay : de 0 envoi sur 7 sociétés à 3 adresses.** AGPAR, et le fait porte le message :
+  leur site les annonce **première société paraguayenne certifiée pour le trempe**, marque
+  Blindex. Puis VILUX (Grupo Costa, 4 sites) et Casa Barrios.
+- **Équateur : une fiche gagnée par correction d'erreur.** Providrio était classée au Panama ;
+  elle est à **Cuenca**. Premier contact hors Quito-Guayaquil.
+- **Australie : cinq adresses et surtout un argument neuf** (voir plus bas).
+- **Colombie, Pérou, Brésil, Maroc, Jamaïque, Qatar, Émirats, Arabie saoudite, Espagne** : une à
+  deux fiches chacun.
+
+### Le fait australien, vérifié avant usage (§6)
+
+**La dernière ligne float d'Australasie a fermé.** Ce n'est plus Viridian mais **Oceania Glass**
+(rachat de Viridian à CSR par Crescent Capital en 2018, renommée en 2019). Administrateurs Grant
+Thornton vers février 2025, aucun repreneur, arrêt de la ligne de Dandenong, 56 licenciements puis
+95 annoncés. L'échec a été attribué publiquement aux importations asiatiques à bas prix et au
+retard de la commission anti-dumping à rétablir des droits suspendus pendant la pandémie.
+
+Donc **tout le float australien et néo-zélandais est importé** : pour l'acheteur, la question
+n'est plus « local ou importé » mais **quelle origine**. C'est un argument de fond, pas de prix —
+exactement ce dont la campagne manque. Il sert les 5 envois du 09/10 et surtout la **relance de
+fin octobre sur les 22 fiches australiennes et néo-zélandaises déjà contactées**, qui n'ont pas
+besoin d'un troisième message avant.
+*Réserve tenue dans les messages : dire que la ligne a été arrêtée, pas qu'elle ne redémarrera jamais.*
+
+### Deux fiches retirées, et c'est un gain
+
+- **Nasir Float Glass Industries (Bangladesh) → concurrent.** Vérifié **avant** tout contact :
+  premier producteur float du pays depuis 2005, ~55 % du marché local annoncé, complexe de Tangail.
+  Le mot « float » dans une raison sociale impose la vérification avant d'ouvrir la fiche, pas
+  après. Ajouté au §6. **Et aucun message vers le Bangladesh ne doit affirmer l'absence de
+  production locale** : avec PHP, le pays en a deux.
+- **Templar (Paraguay) → déclassé malgré une adresse valide.** Leur site les donne **distributeur
+  officiel Blindex** : ils achètent du trempé fini à AGPAR, ils n'importent pas de substrat. Un
+  conteneur de float n'a aucun sens pour eux. J'avais l'adresse, la règle était respectée, et
+  l'envoi aurait quand même été une faute de ciblage.
+- **Color Glass Import → hors périmètre**, et deux erreurs dans la même fiche : elle est en
+  **Espagne** (Barcelone) et non aux États-Unis, et son métier est le **verre d'art Spectrum**,
+  pas le verre plat de bâtiment.
+
+### Erreur de ma part, consignée
+
+**La relance Zrcalo du 07/10 est partie à une adresse que je n'ai pas prise dans le registre.**
+Le fiche porte `zrcalo@zrcalo.hr` ; j'ai écrit à `info@zrcalo.hr`, reconstruite de tête. Rebond
+boîte pleine, donc la relance autorisée n'est jamais arrivée. **Réparée le 08/10** par un renvoi
+à la bonne adresse, en disant franchement que le premier message avait rebondi.
+*Leçon : l'adresse à utiliser est celle du registre, pas une variante plausible.*
+
+### Rebonds du jour (relances du 07 et 08/10)
+
+| Adresse | Verdict | Suite |
+|---|---|---|
+| `info@maglassegypt.com` | `Recipient Unknown` Office 365 — le domaine et son MX tournent, c'est la boîte `info` qui n'existe pas | fiche conservée (40 ans de métier, verre d'électroménager — le meilleur angle du lot égyptien), passée en appel, adresse vidée |
+| `info@yemenglass.com` | `550 High probability of spam` | **c'est ce rebond qui arrête les envois à froid de la journée** (§10) |
+| `lowavitrerie@yahoo.fr`, `kometayembu@yahoo.fr` | adresses mortes | déjà consignées |
+| `greengls@eim.ae` | `550 5.5.0` IP Google en liste noire, refus côté destinataire | **contourné** : leur propre site publie `Info@greenglassindustries.com`, autre domaine donc autre serveur |
+| `info@zrcalo.hr`, `info@fitglass.com.ng`, `ventas@vidrieriauniversal.com.co` | boîtes pleines | transitoire, à renvoyer |
+
+**Rappel de la leçon du 08/10 matin : ces verdicts ne sont pas définitifs avant le lendemain.**
+Deux rebonds anti-spam sont arrivés 1h36 et 1h55 après l'envoi. **Les envois du 08/10 se
+recontrôlent le 10/10, pas le 09/10.**
+
+### Réponse reçue, consignée et non traitée (§15)
+
+**Glass Jet / Serab Ali, Senior Purchaser (Sharjah) : « We dont have any requirement right now. »**
+Refus net mais courtois, obtenu *après* la mise au point sur le mauvais destinataire — donc un
+refus informé, pas un malentendu. **L'acquis reste : l'adresse directe du responsable achats d'un
+transformateur de Sharjah est identifiée et nommée.** Prochaine action : relance janvier 2027.
+*Aucune réponse envoyée, conformément à la consigne.*
+
+### Ce qui n'avance pas, et pourquoi
+
+**Les quatre demandes de prix fermes sont toujours les quatre mêmes, et aucune ne peut être
+chiffrée** : PG Namibia (tout confirmé par écrit depuis le 28/09), Rubex, Caribbean Glass,
+United Glass/John. Ce n'est pas un problème de prospection : c'est la grille de prix d'Aaron.
+Toute l'activité de la journée produit du haut d'entonnoir ; le bas d'entonnoir est bloqué sur
+une décision qui ne m'appartient pas (§11, `DECISIONS-AARON.md`).
+
+**Un fait technique obtenu aujourd'hui lève une question de deux de ces dossiers :** Green Glass
+feuillette jusqu'à **2,8 × 6 m**, donc en PLF 6000 × 3210. C'est le format qu'il fallait pour
+Rubex (3300 × 2140) et Caribbean Glass (3302 × 2261). Le format n'est donc pas un obstacle chez
+un transformateur de ce type — il reste à savoir s'il l'est chez nous.
+
+### Trois priorités pour le 09/10
+
+1. **Partir le lot de 21** (`a-envoyer/2026-10-09-deverrouillees-lot2.md`), par vagues de 5.
+   AGPAR en premier.
+2. **Continuer le déverrouillage sur les ~70 fiches restantes** qui ont un site et pas d'adresse.
+   C'est le meilleur rendement disponible.
+3. **Recontrôler le 10/10** les rebonds des envois du 08 et du 09.

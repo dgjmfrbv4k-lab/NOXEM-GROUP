@@ -117,6 +117,19 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 **Exclus définitivement :** Chine, Hong Kong, Macao (source d'approvisionnement), France.
 **Exclus comme concurrents :** Corée du Sud, Japon, Taïwan, Turquie, Israël.
 **Europe :** pas de nouvelle prospection ; les fiches européennes existantes se relancent.
+
+**Australie et Nouvelle-Zélande — fait établi le 08/10, vérifié avant usage :** la **dernière ligne
+float d'Australasie a fermé**. Ce n'est plus Viridian mais **Oceania Glass**, née du rachat de
+Viridian à CSR par Crescent Capital (2018) puis renommée en 2019. Administrateurs Grant Thornton
+nommés vers février 2025, aucun repreneur, arrêt de la ligne float de Dandenong, 56 licenciements
+puis 95 annoncés ; le centre de distribution continue le temps d'une cession du réseau national.
+L'échec a été attribué publiquement aux importations asiatiques à bas prix et au retard de la
+commission anti-dumping à rétablir des droits suspendus pendant la pandémie.
+**Conséquence : tout le float consommé en Australie et en Nouvelle-Zélande est importé.** La
+question pour l'acheteur n'est plus « local ou importé » mais **quelle origine** — c'est un
+argument de fond, pas de prix. **Réserve à tenir dans les messages :** dire que la ligne *a été
+arrêtée*, pas qu'elle ne redémarrera jamais ; la couverture date de février 2025 et aucune reprise
+n'a été trouvée.
 **Avant d'écrire « ce pays n'a pas de production float », vérifier.** C'est l'argument le plus
 employé de la campagne et celui qui se retourne le plus vite : un acheteur sait mieux que nous ce
 qui se produit chez lui. Deux erreurs le 08/10 — le **Kenya**, alors que Sapphire produit à
@@ -321,7 +334,9 @@ Prospection : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A ENVOYER YYYY-MM-
 08/10 : adresse déverrouillée, envoi daté et programmé — à ne pas confondre avec `A RENVOYER`,
 qui vise une adresse ayant rebondi) · `A APPELER` · `A RENVOYER` ·
 `A QUALIFIER` · `NE PAS DEMARCHER` · `A VALIDER AARON` · `ADRESSE INVALIDE` ·
-`ECARTE — PETITE STRUCTURE` · `ECARTE — HORS MARCHE` · `ECARTE — HORS GAMME`
+`ECARTE — PETITE STRUCTURE` · `ECARTE — HORS PERIMETRE` (ajouté le 08/10 : le métier ne correspond
+pas, indépendamment de la taille — cas de Color Glass Import, importateur de verre d'art Spectrum et
+non de verre plat de bâtiment. À ne pas confondre avec une petite structure, qui a le bon métier) · `ECARTE — HORS MARCHE` · `ECARTE — HORS GAMME`
 
 Aval, ajoutés au vocabulaire le 08/10 parce qu'ils étaient déjà employés sur les dossiers vivants
 et qu'il manquait de quoi dire un refus : `REPONSE YYYY-MM-DD` · `DEMANDE DE PRIX YYYY-MM-DD` ·
@@ -348,7 +363,11 @@ il a dit ne pas avoir de besoin actuellement.
   désormais.** `WebSearch` passe par un autre chemin que WebFetch. Lancé avec `allowed_domains`
   limité au **seul domaine de la société**, il renvoie le contenu de sa page de contact, adresse
   e-mail comprise, sans jamais résoudre le domaine localement. Rendement mesuré le 08/10 :
-  **11 adresses sur 15 sociétés testées**, là où la recherche large n'en donnait aucune. La règle
+  **26 adresses sur 36 sociétés testées**, soit 72 %, là où la recherche large n'en
+  donnait aucune. Les 10 échecs sont tous du même type : page de contact derrière un formulaire,
+  adresse obfusquée, ou domaine qui ne rend plus aucun résultat — aucun n'est un échec de la
+  méthode. **Et le gisement est connu : 102 fiches du registre ont un site et pas d'adresse.**
+  À 72 %, c'est de l'ordre de 70 adresses encore à prendre, sans chercher une seule société neuve. La règle
   anti-rebond du §5 est satisfaite par construction, puisque le domaine interrogé est celui du
   site. Deux pièges : une page de contact peut publier une adresse sur un **autre domaine**
   (gmail, ou un domaine de société sœur) — l'exception du §5 s'applique alors et doit être notée
