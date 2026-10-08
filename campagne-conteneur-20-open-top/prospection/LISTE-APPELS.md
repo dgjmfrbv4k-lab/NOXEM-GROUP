@@ -1,101 +1,205 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Generee le 06/10/2026. **75 societes avec un numero de telephone** dans le registre, sans adresse e-mail exploitable. Ce sont des contacts que l'e-mail ne peut pas atteindre : seul le telephone les ouvre.
+Regeneree le **08/10/2026** depuis le registre. **160 societes** portent un telephone et
+aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
-Tri par valeur commerciale decroissante. La colonne **Appeler entre** est donnee **en heure de Paris** pour tomber entre 9h et 17h chez l'interlocuteur.
+Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
+declare, grossiste ou distributeur, gros volume, cible prioritaire. Un importateur qui achete
+deja au conteneur n'a rien a apprendre, il compare un prix rendu : c'est la conversation la plus
+courte et la plus rentable.
 
-## Comment lire le classement
+**Fenetres d'appel recalculees pour octobre 2026** (Paris = UTC+2 jusqu'au 25/10), pour tomber
+entre 9h et 17h chez l'interlocuteur. Attention, deux zones ont change depuis la version du 06/10 :
+l'**Australie** et le **Paraguay** sont passes a l'heure d'ete australe, leurs fenetres ont bouge.
 
-Les premieres lignes cumulent les marqueurs qui comptent : **importateur declare**, **grossiste ou distributeur**, **gros volume**. Un importateur qui achete deja au conteneur n'a rien a apprendre : il compare un prix rendu, point. C'est la conversation la plus courte et la plus rentable.
+## Pourquoi cette liste est l'actif le plus sous-exploite de la campagne
 
-## Hors Europe — 63 societes
+Mesure du 08/10 : **aucun pays du registre n'a plus de fiche avec adresse jamais contactee.**
+Tout ce qui pouvait partir par e-mail est parti. Ces 160 fiches sont le gisement restant,
+et elles ne s'ouvriront pas autrement qu'au telephone.
 
-| Pays | Societe | Telephone | Appeler entre (heure de Paris) | Pourquoi elle compte |
-|---|---|---|---|---|
-| Canada | **Kuta Glass Accessories Ltd** | `+1 905 873 8800` | 15h00 - 23h00 | Grossiste national verre decoratif pour fabricants de portes vitrees et studios. Aucune adresse email publiee : appeler. Port Montreal. |
-| Chili | **Vidrios Dellorto** | `+56 9 5212 8807` | 14h00 - 22h00 | Chili sans usine float : 100 pour cent du verre est importe. Envoi en espagnol. Rebond 550 5.4.1 Access denied (Microsoft 365) le 05/10 : adresse r... |
-| Inde | **Float Glass Centre (Sri Renuka Enterprises)** | `+91 80478 18693` | 05h30 - 13h30 | SE DECLARE PREMIER IMPORTATEUR DE VERRE D INDE. Le numero publie est un relais IndiaMART : chercher la ligne directe avant d appeler. Port Chennai. |
-| Pérou | **Corporación Limatambo** | `+51 996 813 440` | 16h00 - 00h00 | Se presente comme le plus gros distributeur de verre du Perou, trois sites Lima. Aucune adresse email publiee : appeler. Port Callao. |
-| États-Unis | **Glass Enterprises Inc** | `+1 215 638 1007` | 15h00 - 23h00 | GROS : usine neuve de 180 000 pieds carres a Norwich, fabricant certifie float. Aucune adresse publiee. |
-| Arabie saoudite | **Alma Glass (ALMA Tempered Securit Glass)** | `+966 11 498 3275` | 08h00 - 16h00 | GROS : premiere usine de trempe de Dammam, 350 t/an. Rebond 550 5.1.1 le 05/10 : adresse inexistante. |
-| Arabie saoudite | **Saudi American Glass Co. (SAG)** | `+966 11 265 1212` | 08h00 - 16h00 | GROS : parmi les mieux equipes du Moyen-Orient en verre plat transforme. Aucune adresse publiee. |
-| Arabie saoudite | **United Glass Industries Co. (Uniglass, groupe Al-Fozan)** | `+966 50 050 0186` | 08h00 - 16h00 | GROS : groupe Al-Fozan. Aucune adresse publiee, passer par le telephone. |
-| Bahamas | **Nassau Glass Company / Bahamas Aluminum Manufacturing** | `+1 242 393 8165` | 15h00 - 23h00 | Le plus gros du pays avec sa societe soeur Bahamas Aluminum. Aucune adresse email publiee : a rappeler. Port Nassau. Fondee en 1959, premiere et pl... |
-| Géorgie | **Bars Facade LLC** | `+995 577 41 51 36` | 07h00 - 15h00 | Fonde en 1998, importateur historique de verre entre la Georgie et la Turquie, deux sites Tbilissi et Batoumi. CIBLE PRIORITAIRE. Aucune adresse em... |
-| Libye | **North Africa for Importing Glass** | `+218 91 209 1023` | 08h00 - 16h00 | CIBLE PRIORITAIRE : importe deja du float de Chine, de Belgique ET DE FRANCE. Aucune adresse email publiee : appeler ou WhatsApp. Second numero +21... |
-| Madagascar | **ALU DESSIN LTD** | `+261 20 22 681 21` | 08h00 - 16h00 | Immeuble EDBM Avenue Gal Gabriel Antaninarenina. Se declare importateur. Aucune adresse email propre publiee : a appeler |
-| Nicaragua | **Vidrio Centro S.A.** | `+505 2231 7204` | 17h00 - 01h00 | IMPORTATEUR DECLARE, plus de 25 ans sur le marche nicaraguayen. WhatsApp +505 8402 6128. Adresse email masquee en ligne : appeler ou WhatsApp. Port... |
-| Nouvelle-Zelande | **Woods Glass** | `+64 9 525 3379` | 22h00 - 06h00 | Importe son float : cible directe. Aucune adresse publiee. |
-| République dominicaine | **Importadora de Vidrios y Espejos Milagros S.A.** | `+1 809 245 3566` | 15h00 - 23h00 | IMPORTATEUR DECLARE. Aucune adresse publiee. |
-| Égypte | **Dr Greiche Glass** | `+20 554 410 001` | 08h00 - 16h00 | TRES GROSSE MAISON. Pas d'adresse publiee : hotline 19864, WhatsApp +20 100 169 4476. |
-| Émirats arabes unis | **Al Abbar Group** | `+971 4 801 2000` | 07h00 - 15h00 | MAJOR MONDIAL. Aucune adresse publiee : appeler le siege. |
-| États-Unis | **SGC Specialty Glass Company** | `+1 323 318 2998` | 15h00 - 23h00 | Revend du float importe : profil acheteur direct. Aucune adresse publiee. |
-| Arabie saoudite | **Euro Glass** | `+966 55 550 5040` | 08h00 - 16h00 | Releve sur annuaire arabe, numero a verifier. |
-| Argentine | **Herramaq Argentina** | `+54 2323 473460` | 14h00 - 22h00 | Transformateur verre plat trempe 4 a 19 mm. Adresse email trouvee mais sur un domaine different du site : appeler pour confirmer. Port Buenos Aires. |
-| Bénin | **ALUTRACO** | `+229 01 67 07 07 12` | 10h00 - 18h00 | Distributeur regional multi-pays : bon relais pour toute l Afrique de l Ouest. L adresse infos@alutraco.com publiee en ligne a REBONDI le 24/09, le... |
-| Indonésie | **Popular Kaca Utama PT** | `+62 21 55960016` | 04h00 - 12h00 | Kawasan Pergudangan Miami Blok M2 No 5-18 Tegal Alur Kalideres. Distributeur declare de Mulia Glass. Port Tanjung Priok |
-| Malaisie | **Keng Ying Glass Sdn Bhd** | `+60 3 6276 0946` | 03h00 - 11h00 | Aucune adresse publiee. |
-| Suriname | **Xin Li Glashandel** | `+597 401 318` | a verifier | Van t Hogerhuysstraat 15 Beekhuizen Paramaribo. Aucune adresse email publiee : a appeler |
-| Angola | **Vidreira de Viana** | `+244 922 012 998` | 10h00 - 18h00 | Port Luanda, envoi en portugais. Rebond 550 No Such User le 05/10 : adresse inexistante. |
-| Arabie saoudite | **Al Tbaynawi Glass** | `+966 16 532 5322` | 08h00 - 16h00 | Four Glaston et ligne de vitrage isolant LiSEC, trempe annoncée de 1600 m² par 10 heures. Pas d adresse publiee : appeler. Port Dammam. |
-| Arabie saoudite | **Badr Glass** | `+966 12 608 0402` | 08h00 - 16h00 | Releve sur annuaire arabe. Aucune adresse publiee. |
-| Arabie saoudite | **Glasshouse Company Ltd.** | `+966 11 498 5959` | 08h00 - 16h00 | Site de 10468 m² et deux lignes de production, près de 200000 m² de verre par an annoncés. Pas d adresse publiee : appeler. Port Dammam. |
-| Birmanie | **Central Aluminium** | `+95 973 123 473` | 04h30 - 12h30 | Entreprise de decoration et facade active depuis 1996. Aucune adresse email publiee : a rappeler. Port Rangoun. Alu, verre, composite, inox et plaf... |
-| Bolivie | **ALUVI — Aluminio y Vidrio** | `+591 2 228 7350` | 15h00 - 23h00 | Calle Batallon Victoria 577 La Paz. Pays enclave : transit Arica ou Iquique. Aucune adresse email publiee : a appeler |
-| Cameroun | **AFRICALU Sarl** | `+237 2 33 40 58 38` | 10h00 - 18h00 | 1153 Av. de Bepanda BP 13002. Port de Douala. Mini-mail sur mesure FR |
-| Cameroun | **ALUBAT-CAM Sarl** | `+237 2 33 40 34 06` | 10h00 - 18h00 | 116 Rue Deido Bonanjo BP 8488. Port de Douala. Mini-mail sur mesure FR |
-| Cameroun | **ETS Verrerie et Menuiserie Aluminium** | `+237 6 95 02 47 87` | 10h00 - 18h00 | Fabricant portes-fenetres alu. Angle propose : 20 pieds pour demarrer. Port de Douala. Mini-mail sur mesure FR |
-| Cameroun | **METALUX** | `+237 2 22 21 30 30` | 10h00 - 18h00 | Rue 1.074 BP 13015. Transit port de Douala. Mini-mail sur mesure FR |
-| Canada | **Hartung Glass Industries Canada** | `+1 604 420 3600` | 15h00 - 23h00 | Filiale canadienne d'un groupe americain. Aucune adresse publiee. |
-| Canada | **IGD — Independent Glass Distributors Ltd** | `+1 905 660 4661` | 15h00 - 23h00 | Reseau national de distribution verriere, sept plateformes. Aucune adresse email publiee : appeler. Port Montreal pour l Est, Vancouver pour l Ouest. |
-| Côte d'Ivoire | **SIVIMI — Sté Ivoirienne de Vitrerie et Miroiterie** | `+225 27 21 35 03 14` | 11h00 - 19h00 | REBOND 24/09 : le domaine avisi.ci publie par l annuaire n existe pas. Appeler pour obtenir la vraie adresse. Port Abidjan. |
-| Gabon | **Miroiterie-Vitrerie d'Oloumi** | `+241 11 72 08 30` | 10h00 - 18h00 | Face Diesel Gabon, B.P. 1110. Aucune adresse email publiee : a rappeler. Port Owendo. |
-| Guatemala | **Grupo Vitrum** | `+502 2315 0752` | 17h00 - 01h00 | Pas d'adresse email publiee — appeler. Port Puerto Quetzal. |
-| Guyana | **Royal Glass & Aluminum Works** | `+592 227 5227` | 15h00 - 23h00 | 62 Cummings Street Albertown Georgetown. Aucune adresse email publiee : a appeler |
-| Honduras | **Aluminios del Sur** | `+504 8847 8257` | 17h00 - 01h00 | Trois decennies de metier, couvre Tegucigalpa, San Pedro Sula et Olancho. Adresse email masquee en ligne : appeler. Port Puerto Cortes. |
-| Indonésie | **PT Alam Kaca Prabawa Indonesia** | `+62 21 5521721` | 04h00 - 12h00 | Jl. Raya Mauk KM.2 No.23 Nambo Jaya Tangerang 15112. Port Tanjung Priok |
-| Irak | **Nawzad NIT Group** | `+964 750 722 2777` | 08h00 - 16h00 | Siège et usine à Erbil, agence à Bagdad, cibler vitrages de façade et miroirs. Pas d adresse publiee : appeler. Port . |
-| Jordanie | **The First for Glass Industries Co.** | `+962 795 059 500` | 08h00 - 16h00 | Adresse e-mail masquee par l'annuaire. Direction Ragheb Kalboneh. |
-| Koweït | **Al Naseem Glass (NSM Glass)** | `+965 2471 8132` | 08h00 - 16h00 | Aucune adresse publiee. |
-| Liban | **Mirodec SARL** | `+961 1 688 162` | 08h00 - 16h00 | Aucune adresse publiee, appeler. |
-| Madagascar | **FDC Madagascar — Future Development Corporation Ltd** | `+261 20 22 265 20` | 08h00 - 16h00 | Lot I V M 38 Andohatapenaka. Meme enseigne que FDC Mozambique deja contacte le 25/09 : verifier s'il s'agit du meme groupe et le cas echeant passer... |
-| Malaisie | **Glass Network (M) Sdn Bhd** | `+60 3 6253 2939` | 03h00 - 11h00 | Aucune adresse publiee. |
-| Malawi | **AGA — Affordable Glass & Aluminium** | `+265 212 245 346` | 09h00 - 17h00 | Fabricant verre-aluminium de Blantyre. Pays enclave : transit via Beira ou Nacala. Aucune adresse email publiee : a rappeler. |
-| Maroc | **El Wifaq Verre** | `+212 5 35 60 57 89` | 10h00 - 18h00 | Distribue dans tout le Maroc (Casablanca, Rabat, Fes, Tanger). Rte Ain Smen, Resid. Elwifaq. Aucune adresse email publiee : a rappeler. Plus de 20 ... |
-| Mexique | **Javalfer** | `+52 81 1999 1007` | 17h00 - 01h00 | Mexique produit du float : approche directe sur trois references. Port Altamira. Rebond le 05/10 : adresse introuvable. |
-| Paraguay | **Casa Barrios e Hijos SA** | `+595 981 429155` | 15h00 - 23h00 | REBOND 24/09 : le domaine casabarrios.com.py n existe pas, essayer casabarrios.com ou appeler. Pays enclave, transit via Montevideo ou Buenos Aires. |
-| Polynésie française | **SPM — Société Polynésienne de Miroiterie** | `+689 40 43 64 60` | a verifier | Miroiterie avec ateliers propres sur Tahiti. PK 4.5 Route de l eau Royale. Aucune adresse email publiee : appeler. Port Papeete. |
-| Sierra Leone | **Gr8 Vision Investment SL Ltd (Premier Aluminium)** | `+232 77 723 963` | 11h00 - 19h00 | Specialiste menuiserie aluminium de Freetown. Aucune adresse email publiee : a rappeler. Port Freetown. Constituee en 2022 a Freetown, fabricant de... |
-| Trinité-et-Tobago | **Kamri Glass Investments Ltd** | `+1 868 235 4527` | 15h00 - 23h00 | SEUL FABRICANT DE TREMPE ET DE FEUILLETE DES CARAIBES. Pas d'adresse publiee, formulaire seulement : appeler. Port Port-of-Spain. |
-| Tunisie | **Promoverre** | `+216 70 563500` | 09h00 - 17h00 | Producteur de vitrages feuilletés et isolants pour marchés tunisien et export. Pas d adresse publiee : appeler. Port Rades. Transformateur de verre... |
-| Émirats arabes unis | **Liberty Aluminium** | `+971 6 743 1983` | 07h00 - 15h00 | Sous-traitant agree sur quatre emirats. Rebond 550 No Such User le 05/10 : adresse inexistante. |
-| Émirats arabes unis | **Sahara Glass Group** | `+971 6 534 1012` | 07h00 - 15h00 | Six implantations Golfe. Aucune adresse generique publiee. |
-| Émirats arabes unis | **UAE Glass Works** | `+971 58 154 5520` | 07h00 - 15h00 | Structure modeste mais adresse publiee et verifiee. Rebond 550 5.1.1 le 05/10 : adresse inexistante. |
-| États-Unis | **Bear Glass** | `+1 718 832 3604` | 15h00 - 23h00 | Aucune adresse publiee. |
-| États-Unis | **Northwestern Glass Fab** | `+1 763 762 1750` | 15h00 - 23h00 | Aucune adresse generique publiee : seules des adresses nominatives vendues par courtier, donc ecartees. |
-| États-Unis | **Wholesale Glass Distributors Inc** | `+1 800 277 5223` | 15h00 - 23h00 | Aucune adresse publiee. |
-| Îles Salomon | **Tropic Glass & Aluminium Ltd (Nulook Solomon Islands)** | `+677 30836` | 22h00 - 06h00 | Ranadi Industrial Estate Honiara. Licencie de la marque neo-zelandaise Nulook. Adresse email masquee sur l'annuaire : a appeler |
+La cause est connue et chiffree : la lecture web est coupee, donc je ne peux pas atteindre les
+pages de contact des societes, et un annuaire ne satisfait pas la regle anti-rebond du paragraphe 5.
+Sur les lots du 08/10 : Haiti 0 envoi sur 4 societes reelles, Paraguay 0 sur 7, Zone Libre de
+Colon 0, Cap-Vert 1 sur 6.
 
-## Europe — 12 societes
+## Quatre fiches camerounaises a NE PAS appeler avant verification
 
-Mises a part parce que tu as exclu l'Europe de la prospection. Elles restent dans le registre : certaines sont de gros importateurs et un appel ne coute rien si tu changes d'avis.
+AFRICALU, ALUBAT-CAM, ETS Verrerie et METALUX portent une adresse e-mail et aucun rebond, tout en
+etant en statut appel. Impossible de savoir si elles ont deja ete contactees : les envois de
+septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session ne lit pas.
+**Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
+ne pas les appeler en se presentant comme un premier contact.
 
-| Pays | Societe | Telephone | Appeler entre (heure de Paris) | Pourquoi elle compte |
-|---|---|---|---|---|
-| Serbie | **TINIS COMPANY d.o.o.** | `+381 11 347 17 05` | a verifier | IMPORTATEUR-GROSSISTE familial depuis 1992, verre de construction et decoratif : cible prioritaire. Pays enclave, transit par Koper ou Rijeka. ADRE... |
-| Allemagne | **Völker Glashandel GmbH** | `+49 40 851 7480` | a verifier | Winsbergring 30. Activite import-export declaree. Aucune adresse email publiee : a rappeler. |
-| Allemagne | **HoffmannGlas GmbH + Co. Glasgroßhandlung KG** | `+49 5171 2910` | a verifier | Grossiste independant de taille moyenne, deux sites. Aucune adresse email publiee : a rappeler. |
-| Belgique | **Lauryssens Glas** | `+32 3 660 13 87` | a verifier | Leugenberg 208. Grossiste independant servant entreprises et particuliers. Seule une adresse comptable est publiee : appeler le service commercial. |
-| Pologne | **Glass Hurt** | `+48 530 412 642` | a verifier | Grossiste sur la Triville (Gdansk, Gdynia, Sopot), a 10 minutes du port. Aucune adresse email publiee : a rappeler. |
-| Espagne | **Dicrisur S.L.** | `+34 955 631 906` | a verifier | Seule adresse trouvee rattachee a cristalauto.es (vitrage automobile) : appeler pour obtenir le contact verre plat. |
-| Irlande | **Bantry Glass & Glazing Ltd** | `+353 27 51132` | a verifier | Adresse e-mail tronquee dans l'annuaire : ne pas deviner, appeler. |
-| Lituanie | **UAB SKP stiklas** | `+370 37 455 530` | a verifier | Un des plus gros fabricants de vitrage isolant des pays baltes. Aucune adresse email publiee : a rappeler. |
-| Norvège | **Glass & Import AS (GIAS)** | `+47 466 11 111` | a verifier | LE NOM DIT L ACTIVITE : import de verre. Skibrekkberga 9. Aucune adresse email publiee : appeler Kjell Roger Larsen. |
-| Espagne | **Glass Partners Solutions Ibérica (GPS)** | `+34 691 388 267` | a verifier | DISTRIBUTEUR MULTI-ENTREPOTS avec usines de feuillete et de depoli. Aucune adresse email publiee : a rappeler. |
-| Royaume-Uni | **The Glass Warehouse** | `+44 20 8500 1188` | a verifier | 51-55 Fowler Road, Hainault Business Park. Aucune adresse email publiee : a rappeler. |
-| Espagne | **Ramos Industria del Vidrio S.L.** | `+34 916 850 195` | a verifier | 7000 m2 d usine et 2000 tonnes de stockage, centre de distribution a Fuenlabrada. Port Valence ou Bilbao, envoi en espagnol ADRESSE REBONDIE le 25/... |
+## Hors Europe — 146 societes
 
-## Les 72 autres fiches A APPELER n'ont pas de numero
+| Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
+|---|---|---|---|---|---|
+| Inde | **Float Glass Centre (Sri Renuka Enterprises)** | `+91 80478 18693` | 05h30 - 13h30 | A APPELER | SE DECLARE PREMIER IMPORTATEUR DE VERRE D INDE. Le numero publie est un relais IndiaMART : chercher la ligne directe avant d appeler. Port Chennai. |
+| États-Unis | **55 Glass** | `+1 800 554 5277` | 15h00 - 23h00 | A APPELER | Implante dans le quartier du gros de Los Angeles et sert Long Beach, premier complexe portuaire d import des Etats-Unis. Aucune adresse publiee dans les resultats : a appeler. |
+| Colombie | **Distrividrios Antioquia** | `+57 317 397 9114` | 16h00 - 00h00 | A APPELER | DISTRIBUTEUR DE VERRE IMPORTE QUI ANNONCE LUI-MEME L IMPORT : profil conteneur direct. Adresse masquee par l annuaire : ne pas deviner, appeler. Ports Carthagene ou Barranquilla. |
+| Nigéria | **TechnoGlass Industries Ltd** | `+234 703 274 9126` | 10h00 - 18h00 | A APPELER | CIBLE PRIORITAIRE : la plus grosse capacite de la sous-region. ADRESSE REBONDIE : rappeler au +234 703 274 9126. CONTROLE MX DU 07/10 : le domaine technoglassng.com ne resout pas (NXDOMAIN), l adresse info@technoglassng.com ne ... |
+| Émirats arabes unis | **Green Glass Industries LLC** | `+971 7 258 8369` | 07h00 - 15h00 | A APPELER | Grande capacité feuilleté : cible prioritaire pour le float et le Low-E. Relance 07/10 sans signature, une seule question sur les plus gros volumes annuels, porte de sortie. Angle rare et precis : ils feuillettent jusqu a 2,8 x... |
+| Géorgie | **Bars Facade LLC** | `+995 577 41 51 36` | 07h00 - 15h00 | A APPELER | Fonde en 1998, importateur historique de verre entre la Georgie et la Turquie, deux sites Tbilissi et Batoumi. CIBLE PRIORITAIRE. Aucune adresse email publiee : appeler. Port Poti. |
+| Libye | **North Africa for Importing Glass** | `+218 91 209 1023` | 09h00 - 17h00 | A APPELER | CIBLE PRIORITAIRE : importe deja du float de Chine, de Belgique ET DE FRANCE. Aucune adresse email publiee : appeler ou WhatsApp. Second numero +218 91 322 1953. Port Tripoli ou Misrata. |
+| États-Unis | **Glass Enterprises Inc** | `+1 215 638 1007` | 15h00 - 23h00 | A APPELER | GROS : usine neuve de 180 000 pieds carres a Norwich, fabricant certifie float. Aucune adresse publiee. |
+| Algérie | **Technoglass** | `+213 555 62 47 74` | 10h00 - 18h00 | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. Port Djendjen ou Bejaia. |
+| Ghana | **Punamactex Ent. Ltd** | `+233 21 689800` | 11h00 - 19h00 | A APPELER | BON PROFIL : negociant etabli depuis 1995 annoncant du float clair et du float teinte, donc importateur par construction. Port de Tema, nomme au paragraphe 4. Aucune adresse publiee dans les sources : a appeler. |
+| Pérou | **Corporación Limatambo** | `+51 996 813 440` | 16h00 - 00h00 | A APPELER | Se presente comme le plus gros distributeur de verre du Perou, trois sites Lima. Aucune adresse email publiee : appeler. Port Callao. |
+| Bolivie | **Cristales Templados Bolivianos — Cristembo** | `+591 4 268042` | 15h00 - 23h00 | A APPELER | Trempeur donc acheteur de float. Pays enclave, transit via Arica. Aucune adresse publiee : a appeler. |
+| Haïti | **Action Enterprises Windows & Blinds** | `+509 36 19 5572` | 15h00 - 23h00 | A APPELER | MEILLEURE FICHE HAITIENNE : fabricant-installateur avec un entrepot de fabrication a Santo Croix-des-Bouquets, donc consommateur de vitrage. Ile sans ligne float, port de Port-au-Prince. ADRESSE sales ECARTEE : relevee dans un ... |
+| Irak | **Arturaya Glass Company** | `+964 751 667 6876` | 08h00 - 16h00 | A APPELER | IMPORTATEUR : se fournit déjà à l'étranger. Adresse info arobase arturaya.com relevee le 07/10, domaine identique au site. IMPORTE DEJA DES CONTENEURS : ils annoncent eux-memes travailler avec des usines etrangeres. Envoi 07/10... |
+| Jamaïque | **Virgin's International Trading Ltd** | `+1 876 754 1318` | 16h00 - 00h00 | A APPELER | IMPORTATEUR DECLARE D EXTRUSIONS ALUMINIUM : profil conteneur, fabricants de fenetres comme clients. Adresse masquee par les annuaires, aucune adresse lisible : ne pas deviner, appeler. |
+| Arabie saoudite | **Alma Glass (ALMA Tempered Securit Glass)** | `+966 11 498 3275` | 08h00 - 16h00 | A APPELER | GROS : premiere usine de trempe de Dammam, 350 t/an. Rebond 550 5.1.1 le 05/10 : adresse inexistante. |
+| Arabie saoudite | **Euro Glass** | `+966 55 550 5040` | 08h00 - 16h00 | A APPELER | Releve sur annuaire arabe, numero a verifier. |
+| Argentine | **Herramaq Argentina** | `+54 2323 473460` | 14h00 - 22h00 | A APPELER | Transformateur verre plat trempe 4 a 19 mm. Adresse email trouvee mais sur un domaine different du site : appeler pour confirmer. Port Buenos Aires. |
+| Australie | **Auxin Glass and Mirror Wholesale** | `+61 8 9494 1703` | 03h00 - 11h00 | A APPELER | PROFIL IDEAL : grossiste qui annonce float, extra-clair, Low-E et feuillete. Adresse info citee en resume mais le domaine auxinglass.com.au n apparait dans aucune URL de resultat : regle anti-rebond, aucun envoi. A appeler ou a... |
+| Australie | **Glass Processing Australia** | `+61 8 9302 4336` | 03h00 - 11h00 | A APPELER | Transformateur fournissant le negoce de tout l Etat. Aucune adresse publiee : a appeler. |
+| Bahamas | **Nassau Glass Company / Bahamas Aluminum Manufacturing** | `+1 242 393 8165` | 15h00 - 23h00 | A APPELER | Le plus gros du pays avec sa societe soeur Bahamas Aluminum. Aucune adresse email publiee : a rappeler. Port Nassau. Fondee en 1959, premiere et plus grosse maison de verre des Bahamas. 46 Mackey Street Nassau. Second numero 24... |
+| Chili | **Vidrios Dellorto** | `+56 9 5212 8807` | 14h00 - 22h00 | A APPELER | Chili sans usine float : 100 pour cent du verre est importe. Envoi en espagnol. Rebond 550 5.4.1 Access denied (Microsoft 365) le 05/10 : adresse refusee par l'annuaire du destinataire. |
+| Irak | **Nawzad NIT Group** | `+964 750 722 2777` | 08h00 - 16h00 | A APPELER | Siège et usine à Erbil, agence à Bagdad, cibler vitrages de façade et miroirs. Pas d adresse publiee : appeler. Port . |
+| Malaisie | **Keng Ying Glass Sdn Bhd** | `+60 3 6276 0946` | 03h00 - 11h00 | A APPELER | Aucune adresse publiee. |
+| Mexique | **Javalfer** | `+52 81 1999 1007` | 17h00 - 01h00 | A APPELER | Mexique produit du float : approche directe sur trois references. Port Altamira. Rebond le 05/10 : adresse introuvable. |
+| Paraguay | **Vidrieria TEMPLAR — Templados del Paraguay** | `+595 21 326 97 55` | 14h00 - 22h00 | A APPELER | Trempeur donc acheteur de substrat. Aucune adresse publiee dans les resultats et fiche annuaire ancienne. Transit par Montevideo. A appeler. |
+| Pérou | **Corporación Limatambo** | `+51 1 338 2282` | 16h00 - 00h00 | A APPELER | TROIS IMPLANTATIONS dont une usine de trempe a San Juan de Lurigancho : acheteur de float regulier. Le Perou n a pas de ligne float. Aucune adresse publiee : a appeler. Port Callao. |
+| Égypte | **Dr Greiche Glass** | `+20 554 410 001` | 08h00 - 16h00 | A APPELER | TRES GROSSE MAISON. Pas d'adresse publiee : hotline 19864, WhatsApp +20 100 169 4476. |
+| États-Unis | **Flat Glass Distributors** | `+1 904 354 5413` | 15h00 - 23h00 | A APPELER | Formulaire de contact uniquement. |
+| États-Unis | **Gordon's Glass and Mirror** | `+1 904 388 5555` | 15h00 - 23h00 | A APPELER | Adresse citee sur un domaine different du site : ne pas deviner, appeler. |
+| États-Unis | **Glass Global Distributors LLC** | `+1 305 652 0101` | 15h00 - 23h00 | A APPELER | DISTRIBUTEUR FLOAT ET MIROIR POUR LES CARAIBES : tres bon profil. Le domaine de l adresse citee n apparait dans aucune URL de resultat, seulement des agregateurs dont un courtier de donnees interdit : aucun envoi. A appeler. |
+| États-Unis | **Quality Glass and Mirror** | `+1 402 339 3737` | 15h00 - 23h00 | A APPELER | Interlocuteur verifie : Katrina Hahn, representante Wholesale Manufacturing Distribution. Aucune adresse publiee. |
+| Bolivie | **VASA Vidrieria Boliviana S.A.** | `+591 3 535356` | 15h00 - 23h00 | A QUALIFIER | AMBIGUITE A LEVER : le nom VASA figure dans notre liste de producteurs float concurrents. Cette societe bolivienne annonce fabriquer ET importer du verre plat. Ne pas demarcher avant d avoir etabli s il s agit du meme groupe. C... |
+| Madagascar | **ALU DESSIN LTD** | `+261 20 22 681 21` | 08h00 - 16h00 | A APPELER | Immeuble EDBM Avenue Gal Gabriel Antaninarenina. Se declare importateur. Aucune adresse email propre publiee : a appeler |
+| Nicaragua | **Vidrio Centro S.A.** | `+505 2231 7204` | 17h00 - 01h00 | A APPELER | IMPORTATEUR DECLARE, plus de 25 ans sur le marche nicaraguayen. WhatsApp +505 8402 6128. Adresse email masquee en ligne : appeler ou WhatsApp. Port Corinto. Plus de 25 ans a Managua. Facades portes fenetres et miroirs en alu et... |
+| République dominicaine | **Importadora de Vidrios y Espejos Milagros S.A.** | `+1 809 245 3566` | 15h00 - 23h00 | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. |
+| Arabie saoudite | **Saudi American Glass Co. (SAG)** | `+966 11 265 1212` | 08h00 - 16h00 | A APPELER | GROS : parmi les mieux equipes du Moyen-Orient en verre plat transforme. Aucune adresse publiee. Une adresse saglass arobase saglass.com circule chez les revendeurs de donnees mais n'apparait sur aucune page du site — non utili... |
+| Australie | **Davis Glass** | `+61 3 9330 1200` | 00h00 - 08h00 | A APPELER | Formulaire de contact uniquement. |
+| Australie | **KOMO** | `+61 8 7120 7246` | 00h30 - 08h30 | A APPELER | 47 Burleigh Ave. Deux depots donc du stock. Adresse masquee par l annuaire : a appeler. |
+| Bénin | **ALUTRACO** | `+229 01 67 07 07 12` | 10h00 - 18h00 | A APPELER | Distributeur regional multi-pays : bon relais pour toute l Afrique de l Ouest. L adresse infos@alutraco.com publiee en ligne a REBONDI le 24/09, le site est en .org : appeler pour obtenir la bonne adresse. Port Cotonou. |
+| Cambodge | **Pang Luon (Pranet) Import-Export & Construction Co. Ltd** | `+855 23 212 578` | 04h00 - 12h00 | A APPELER | Fondee en 1992. Importateur declare de float. 408ABC Preah Monivong Blvd. Angle retenu : la meme chose en un maillon de moins, direct depuis un distributeur europeen. Ports Sihanoukville ou Phnom Penh. Mini-mail sur mesure EN C... |
+| Cameroun | **BATALU VERRE** | `+237 6 77 40 88 50` | 10h00 - 18h00 | A APPELER | Sur Douala, premier port d'Afrique centrale. Relance 08/10 REBONDIE : 552 Requested mail action aborted mailbox not found. L adresse kometayembu@yahoo.fr est morte, retiree du champ email. A rappeler pour en obtenir une valide. |
+| Canada | **Wallis Glazing** | `+1 306 321 2663` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. Acheteur de vitrage. |
+| Indonésie | **Popular Kaca Utama PT** | `+62 21 55960016` | 04h00 - 12h00 | A APPELER | Kawasan Pergudangan Miami Blok M2 No 5-18 Tegal Alur Kalideres. Distributeur declare de Mulia Glass. Port Tanjung Priok |
+| Indonésie | **PT Alam Kaca Prabawa Indonesia** | `+62 21 5521721` | 04h00 - 12h00 | A APPELER | Jl. Raya Mauk KM.2 No.23 Nambo Jaya Tangerang 15112. Port Tanjung Priok |
+| Jamaïque | **D & S Glass & Mirror Supplies Ltd** | `+1 876 978 2659` | 16h00 - 00h00 | A APPELER | 63 Old Hope Road. Negociant verre et miroir. Aucune adresse publiee : a appeler. |
+| Mexique | **Vidrio Plano de Cancún** | `+52 55 5679 3575` | 17h00 - 01h00 | A APPELER | MARCHE DE LA RIVIERA MAYA : construction hoteliere continue, et le verre mexicain vient de Monterrey a plus de deux mille kilometres. Aucune adresse publiee : a appeler. Ports Progreso ou Veracruz. |
+| Suriname | **Xin Li Glashandel** | `+597 401 318` | 14h00 - 22h00 | A APPELER | Van t Hogerhuysstraat 15 Beekhuizen Paramaribo. Aucune adresse email publiee : a appeler |
+| Émirats arabes unis | **Al Abbar Group** | `+971 4 801 2000` | 07h00 - 15h00 | A APPELER | MAJOR MONDIAL. Aucune adresse publiee : appeler le siege. |
+| États-Unis | **Flat Glass Distributors Inc.** | `+1 904 354 5413` | 15h00 - 23h00 | A APPELER | Implantations a Jacksonville, Houston et La Nouvelle-Orleans, donc trois points de stock sur le golfe et l Atlantique. Aucune adresse publiee dans les resultats : a appeler. |
+| Angola | **Vidreira de Viana** | `+244 922 012 998` | 10h00 - 18h00 | A APPELER | Port Luanda, envoi en portugais. Rebond 550 No Such User le 05/10 : adresse inexistante. |
+| Arabie saoudite | **Badr Glass** | `+966 12 608 0402` | 08h00 - 16h00 | A APPELER | Releve sur annuaire arabe. Aucune adresse publiee. |
+| Arabie saoudite | **Al Tbaynawi Glass** | `+966 16 532 5322` | 08h00 - 16h00 | A APPELER | Four Glaston et ligne de vitrage isolant LiSEC, trempe annoncée de 1600 m² par 10 heures. Pas d adresse publiee : appeler. Port Dammam. |
+| Arabie saoudite | **Glasshouse Company Ltd.** | `+966 11 498 5959` | 08h00 - 16h00 | A APPELER | Site de 10468 m² et deux lignes de production, près de 200000 m² de verre par an annoncés. Pas d adresse publiee : appeler. Port Dammam. |
+| Bahreïn | **Bahrain Prism Glass Factory WLL** | `+973 1746 4000` | 08h00 - 16h00 | A APPELER | Transformateur complet, zone portuaire de Hidd. ADRESSE REBONDIE : rappeler au +973 1746 4000. CONTROLE MX DU 07/10 : le domaine prismbahrain.com ne resout pas (NXDOMAIN), l adresse info@prismbahrain.com ne peut pas recevoir. A... |
+| Barbade | **Oran Ltd** | `+1 246 436 6863` | 15h00 - 23h00 | A APPELER | Implante dans la zone industrielle du port. Fabricant donc consommateur de verre. Aucune adresse publiee : a appeler. Port Bridgetown. |
+| Cameroun | **ETS Verrerie et Menuiserie Aluminium** | `+237 6 95 02 47 87` | 10h00 - 18h00 | A APPELER | Fabricant portes-fenetres alu. Angle propose : 20 pieds pour demarrer. Port de Douala. Mini-mail sur mesure FR AMBIGUITE RELEVEE LE 08/10, A TRANCHER AVANT TOUT ENVOI. Cette fiche porte une adresse et aucun rebond, mais le stat... |
+| Canada | **Hartung Glass Industries Canada** | `+1 604 420 3600` | 15h00 - 23h00 | A APPELER | Filiale canadienne d'un groupe americain. Aucune adresse publiee. |
+| Canada | **Adriatic Glass and Mirrors Ltd** | `+1 905 738 1587` | 15h00 - 23h00 | A APPELER | Capacite de feuilletage propre : achete de la feuille brute. REBOND 06/10 : 550 5.4.1 Access denied cote Outlook, l'adresse sales n'accepte pas le courrier externe. Appeler le +1 905 738 1587. |
+| Canada | **Float Glass Ltd** | `+1 587 442 4700` | 15h00 - 23h00 | A APPELER | ACHETE DEJA EN CAISSES — profil conteneur. Aucune adresse publiee. |
+| Canada | **Leamington Glass** | `+1 226 703 3443` | 15h00 - 23h00 | A APPELER | Verrier implante au coeur du bassin serricole. Aucune adresse publiee : a appeler, et leur demander qui leur fournit le vitrage horticole de la region. |
+| Canada | **Vanbo Glass Industries Ltd** | `+1 604 427 3858` | 15h00 - 23h00 | A APPELER | Adresse masquee sur le site. Gamme large donc gros consommateur de feuille. |
+| Canada | **All Team Glass** | `+1 905 851 7711` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. |
+| Côte d'Ivoire | **VITRINES** | `+225 05 74 44 44 25` | 11h00 - 19h00 | A APPELER | 9 kilos Cocody Abidjan. Port Abidjan. Mini-mail sur mesure FR CONTROLE MX DU 07/10 : le domaine vitrerie.business ne resout pas (NXDOMAIN), l adresse info@vitrerie.business ne peut pas recevoir. Adresse retiree du registre. Pas... |
+| Gabon | **Miroiterie-Vitrerie d'Oloumi** | `+241 11 72 08 30` | 10h00 - 18h00 | A APPELER | Face Diesel Gabon, B.P. 1110. Aucune adresse email publiee : a rappeler. Port Owendo. |
+| Ghana | **Perfect Glass Ghana** | `+233 204 336 854` | 11h00 - 19h00 | A APPELER | Façades en interne et transformation de verre trempé, feuilleté et double vitrage. Port Tema, envoi en anglais. Relance courte le 06/10, lot 4. Rebond 06/10 : serveur distant mal configure. Appeler. |
+| Ghana | **Ghana Glass Works Ltd** | `+233 302 701 700` | 11h00 - 19h00 | A QUALIFIER | A TRANCHER AVANT CONTACT : annoncee comme fabricant et fournisseur de verre plat y compris float. Si elle produit reellement du float c est un concurrent au sens du paragraphe 6 et non un prospect. Mais les sources indiquent qu... |
+| Inde | **Agarwal Toughened Glass India Limited** | `+91 72300 43212` | 05h30 - 13h30 | A APPELER | Deux unités au Rajasthan, trempe et feuilletage, cibler float. Port Mundra, envoi en anglais. Domaine agarwaltoughenedglass.com introuvable — adresse fournie par ChatGPT, non verifiee. CONTROLE MX DU 07/10 : le domaine agarwalt... |
+| Indonésie | **Top Glass** | `+62 813 1260 7307` | 04h00 - 12h00 | A QUALIFIER | NON CONTACTEE : profil de fournisseur-revendeur oriente batiment et projets plutot que de transformateur achetant du substrat, et l Indonesie dispose de sa propre production float. Adresse gmail relevee sur leur site mais sans ... |
+| Jamaïque | **Aluminium Extrusions Depot Ltd** | `+1 876 923 3228` | 16h00 - 00h00 | A APPELER | 435 Spanish Town Road. Fournisseur des fabricants de fenetres de Kingston. Aucune adresse publiee : a appeler. |
+| Jordanie | **The First for Glass Industries Co.** | `+962 795 059 500` | 08h00 - 16h00 | A APPELER | Adresse e-mail masquee par l'annuaire. Direction Ragheb Kalboneh. |
+| Malawi | **AGA — Affordable Glass & Aluminium** | `+265 212 245 346` | 09h00 - 17h00 | A APPELER | Fabricant verre-aluminium de Blantyre. Pays enclave : transit via Beira ou Nacala. Aucune adresse email publiee : a rappeler. |
+| Maroc | **Med Glass Industry** | `+212 537 749800` | 10h00 - 18h00 | A APPELER | Usine annonçant 50 collaborateurs et 20 machines, cibler float et vitrage à couches. Port Casablanca, envoi en francais. Domaine medglassindustry.ma introuvable — adresse fournie par ChatGPT, non verifiee. Tel +212 537 749800. ... |
+| Maroc | **El Wifaq Verre** | `+212 5 35 60 57 89` | 10h00 - 18h00 | A APPELER | Distribue dans tout le Maroc (Casablanca, Rabat, Fes, Tanger). Rte Ain Smen, Resid. Elwifaq. Aucune adresse email publiee : a rappeler. Plus de 20 ans, usine a Fes, livre Casablanca Rabat Tanger et Marrakech. Trempe feuillete d... |
+| Oman | **Al Aliyat Glass Factory** | `+968 93021153` | 07h00 - 15h00 | A APPELER | À qualifier. Qualifie le 07/10 : bend glass, fibre, brique de verre, bardage verre, feuillete. Contact cite Zahar Al Jafri, fonction non verifiee donc pas de nom dans le message. Aucune adresse publiee : a appeler. |
+| Ouganda | **Ahmad Glazing Uganda Ltd** | `+256 707 922403` | 08h00 - 16h00 | A QUALIFIER | PRUDENCE : la page de la societe decrit un fabricant base en Chine et affiche un numero WeChat en +86. Probable vitrine d un fournisseur chinois plutot qu un transformateur ougandais. La Chine etant exclue au paragraphe 6 comme... |
+| Paraguay | **Casa Barrios e Hijos SA** | `+595 981 429155` | 14h00 - 22h00 | A APPELER | REBOND 24/09 : le domaine casabarrios.com.py n existe pas, essayer casabarrios.com ou appeler. Pays enclave, transit via Montevideo ou Buenos Aires. |
+| Paraguay | **Alutex S.A.** | `+595 982 884 209` | 14h00 - 22h00 | A APPELER | Trempeur donc acheteur de float. Aucune adresse publiee : a appeler. Transit via Montevideo. |
+| Pérou | **GlassTempCorr** | `+51 1 615 0050` | 16h00 - 00h00 | A APPELER | Trempeur donc acheteur de float. Aucune adresse publiee : a appeler. Port Callao. |
+| Sierra Leone | **Gr8 Vision Investment SL Ltd (Premier Aluminium)** | `+232 77 723 963` | 11h00 - 19h00 | A APPELER | Specialiste menuiserie aluminium de Freetown. Aucune adresse email publiee : a rappeler. Port Freetown. Constituee en 2022 a Freetown, fabricant de menuiseries alu et verre. Dirigeant : M. Alpha Musa, CEO. WhatsApp 077 723963. ... |
+| Trinité-et-Tobago | **Kamri Glass Investments Ltd** | `+1 868 235 4527` | 15h00 - 23h00 | A APPELER | SEUL FABRICANT DE TREMPE ET DE FEUILLETE DES CARAIBES. Pas d'adresse publiee, formulaire seulement : appeler. Port Port-of-Spain. Adresse kamriglass arobase gmail.com disponible mais la filiale Guyana a ete relancee le 06/10 : ... |
+| Tunisie | **Promoverre** | `+216 70 563500` | 10h00 - 18h00 | A APPELER | Producteur de vitrages feuilletés et isolants pour marchés tunisien et export. Pas d adresse publiee : appeler. Port Rades. Transformateur de verre plat depuis 1996, Z.I. M'nihla route de Bizerte km 5. Feuillete, double vitrage... |
+| États-Unis | **Bear Glass** | `+1 718 832 3604` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. |
+| Éthiopie | **Abdi Aluminium & Glass Works** | `+251 911 262649` | 08h00 - 16h00 | A APPELER | Fabricant de facades et murs rideaux donc consommateur de verre. Adresse masquee par l annuaire : a appeler. Pays enclave, transit via Djibouti. |
+| Algérie | **Vitrosak** | `+213 560 53 51 68` | 10h00 - 18h00 | A APPELER | Aucune adresse publiee. Port Bejaia. |
+| Antigua-et-Barbuda | **Summum Ltd** | `+1 268 562 6286` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee dans les resultats. A qualifier par telephone : verifier la taille et si la societe traite le verre. |
+| Australie | **Glass Wholesale** | `+61 3 9969 2009` | 00h00 - 08h00 | A APPELER | Formulaire de contact uniquement. |
+| Barbade | **Odoll's Aluminum & Glass (1986) Ltd** | `+1 246 424 7833` | 15h00 - 23h00 | A APPELER | Adresse masquee par l'annuaire. Port Bridgetown. Precision du 07/10 : plus de 35 ans de revente, pose et fabrication de fenetres et portes. Port Bridgetown. |
+| Barbade | **Glassesco Hardware** | `+1 246 427 3060` | 15h00 - 23h00 | A APPELER | 132-133 Roebuck Street St. Michael. Se presente comme le specialiste verre et miroir de l ile. Aucune adresse publiee : a appeler. Port Bridgetown. |
+| Birmanie | **Central Aluminium** | `+95 973 123 473` | 04h30 - 12h30 | A APPELER | Entreprise de decoration et facade active depuis 1996. Aucune adresse email publiee : a rappeler. Port Rangoun. Alu, verre, composite, inox et plafonds a Yangon, 11 a 50 salaries. Aucune adresse email publiee hors bases payante... |
+| Bolivie | **ALUVI — Aluminio y Vidrio** | `+591 2 228 7350` | 15h00 - 23h00 | A APPELER | Calle Batallon Victoria 577 La Paz. Pays enclave : transit Arica ou Iquique. Aucune adresse email publiee : a appeler |
+| Cameroun | **AFRICALU Sarl** | `+237 2 33 40 58 38` | 10h00 - 18h00 | A APPELER | 1153 Av. de Bepanda BP 13002. Port de Douala. Mini-mail sur mesure FR AMBIGUITE RELEVEE LE 08/10, A TRANCHER AVANT TOUT ENVOI. Cette fiche porte une adresse et aucun rebond, mais le statut est A APPELER. La mention mini-mail su... |
+| Cameroun | **MAISON VERRE** | `+237 6 97 40 19 96` | 10h00 - 18h00 | A APPELER | A qualifier, port de Douala. Relance courte le 06/10, lot 4. Rebond 550 5.1.1 le 06/10 : adresse gmail morte. Appeler. |
+| Cameroun | **ALUBAT-CAM Sarl** | `+237 2 33 40 34 06` | 10h00 - 18h00 | A APPELER | 116 Rue Deido Bonanjo BP 8488. Port de Douala. Mini-mail sur mesure FR AMBIGUITE RELEVEE LE 08/10, A TRANCHER AVANT TOUT ENVOI. Cette fiche porte une adresse et aucun rebond, mais le statut est A APPELER. La mention mini-mail s... |
+| Cameroun | **COMALU** | `+237 2 33 39 19 23` | 10h00 - 18h00 | A APPELER | Maison etablie, port de Douala. Relance courte le 06/10, lot 4. Rebond 552 le 06/10 : adresse yahoo.fr morte. Appeler. |
+| Cameroun | **METALUX** | `+237 2 22 21 30 30` | 10h00 - 18h00 | A APPELER | Rue 1.074 BP 13015. Transit port de Douala. Mini-mail sur mesure FR AMBIGUITE RELEVEE LE 08/10, A TRANCHER AVANT TOUT ENVOI. Cette fiche porte une adresse et aucun rebond, mais le statut est A APPELER. La mention mini-mail sur ... |
+| Canada | **Vitralite Industries Inc.** | `+1 250 860 0571` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee sur la page contact. |
+| Canada | **Dynamic Glass and Door Ltd** | `+1 306 651 1553` | 15h00 - 23h00 | A APPELER | Adresse masquee sur le site. |
+| Canada | **Border Glass** | `+1 204 957 7200` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. |
+| Canada | **TC Insulating Glass** | `+1 905 850 9820` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. |
+| Colombie | **Vitelsa** | `+57 310 759 0522` | 16h00 - 00h00 | A APPELER | Adresse masquee sur le site. |
+| Costa Rica | **Vidrios Brenes** | `+506 2552 4011` | 17h00 - 01h00 | A APPELER | Le domaine de l adresse citee n apparait pas dans les URL de resultats, la page du site est expiree : regle anti-rebond, aucun envoi. A appeler. |
+| Côte d'Ivoire | **SIVIMI — Sté Ivoirienne de Vitrerie et Miroiterie** | `+225 27 21 35 03 14` | 11h00 - 19h00 | A APPELER | REBOND 24/09 : le domaine avisi.ci publie par l annuaire n existe pas. Appeler pour obtenir la vraie adresse. Port Abidjan. |
+| Grenade | **Saint Lu Metal Grenada Ltd** | `+1 473 439 6538` | 15h00 - 23h00 | A APPELER | Filiale grenadienne du groupe Saint Lu Metal deja au registre pour Sainte-Lucie : traiter les deux ensemble. Exporte vers la Barbade et Trinidad donc volumes reels. ADRESSE slmw arobase spiceisle.com ECARTEE : relevee dans un a... |
+| Guatemala | **Vidriería Díaz** | `+502 6661 8250` | 17h00 - 01h00 | A APPELER | Adresse gmail relevee sur un annuaire et non sur un site de la societe : regle anti-rebond, aucun envoi. A appeler. |
+| Guinée | **VFK SARL — Vitrerie et Ferronnerie chez KASSA** | `+224 623 10 09 09` | a verifier | A APPELER | Marche de la vitrerie actif a Conakry mais aucune adresse email publiee dans le pays. Port Conakry. A appeler. |
+| Guyana | **Royal Glass & Aluminum Works** | `+592 227 5227` | 15h00 - 23h00 | A APPELER | 62 Cummings Street Albertown Georgetown. Aucune adresse email publiee : a appeler |
+| Haïti | **Les Entreprises Plastech Haiti** | `+509 2813 1422` | 15h00 - 23h00 | A QUALIFIER | ADRESSE sales ECARTEE : relevee dans un annuaire, le domaine plastechhaiti.com n apparait pas dans les URL de resultats qui pointent vers lephsa.com. Et surtout la gamme n est pas etablie : rien ne confirme qu ils vendent du ve... |
+| Honduras | **Aluminios del Sur** | `+504 8847 8257` | 17h00 - 01h00 | A APPELER | Trois decennies de metier, couvre Tegucigalpa, San Pedro Sula et Olancho. Adresse email masquee en ligne : appeler. Port Puerto Cortes. Adresse retrouvee le 07/10. Envoi depuis la nouvelle boite noxem-group. REBOND 07/10 : 550 ... |
+| La Réunion | **Réunivitre** | `+262 693 47 00 58` | 07h00 - 15h00 | A APPELER | Aucune adresse publiee. |
+| Liban | **Mirodec SARL** | `+961 1 688 162` | 08h00 - 16h00 | A APPELER | Aucune adresse publiee, appeler. |
+| Madagascar | **FDC Madagascar — Future Development Corporation Ltd** | `+261 20 22 265 20` | 08h00 - 16h00 | A APPELER | Lot I V M 38 Andohatapenaka. Meme enseigne que FDC Mozambique deja contacte le 25/09 : verifier s'il s'agit du meme groupe et le cas echeant passer par le contact mozambicain. Aucune adresse email publiee : a appeler |
+| Madagascar | **Tometal** | `+261 20 22 541 88` | 08h00 - 16h00 | A APPELER | Pres III A 49 Antananarivo 101. Transit Toamasina puis route sur Tana. Angle retenu : 20 pieds pour demarrer et calage pense pour la route. Mini-mail sur mesure FR CONTROLE MX DU 07/10 : le domaine tometal.net ne resout pas (NX... |
+| Malaisie | **Glass Network (M) Sdn Bhd** | `+60 3 6253 2939` | 03h00 - 11h00 | A APPELER | Aucune adresse publiee. |
+| Maurice | **VS Aluminium Ltd** | `+230 5255 6777` | 07h00 - 15h00 | A APPELER | Zone industrielle de Plaine Lauzun. Angle retenu : sur une ile le fret coute pareil a moitie plein ou plein. Port Port-Louis. Mini-mail sur mesure FR CONTROLE MX DU 07/10 : le domaine vsaluminium.com ne resout pas (NXDOMAIN), l... |
+| Mayotte | **Techniglass Mayotte** | `+262 269 63 56 54` | 08h00 - 16h00 | A APPELER | TERRITOIRE FRANCAIS, ile sans production. Aucune adresse publiee : appeler en francais. |
+| Mexique | **Millet Industria de Vidrio** | `+52 999 930 2381` | 17h00 - 01h00 | A APPELER | Contact nomme Humberto Vital, fonction non verifiee. Adresse en millet.com.mx alors que la page trouvee est sur un sous-domaine d annuaire : regle anti-rebond, aucun envoi. A appeler. |
+| Nouvelle-Calédonie | **EGPV Miroiterie Vitrerie** | `+687 27 43 60` | 00h00 - 08h00 | A APPELER | Adresse citee en mls.nc, domaine non recoupe dans les URL : appeler plutot que deviner. |
+| Panama | **Vidrios y Mas** | `+507 6487 2398` | 16h00 - 00h00 | A APPELER | Aucune adresse publiee, seulement un portable. Profil sur mesure donc taille a verifier avant tout effort. A appeler. |
+| Porto Rico | **Santurce Glass** | `+1 787 347 1911` | 15h00 - 23h00 | A APPELER | Poseur plutot qu importateur. La seule adresse trouvee est un gmail publie par un annuaire, pas par la societe : regle anti-rebond, aucun envoi. A appeler. |
+| Pérou | **Corporación Elio** | `+51 1 367 1107` | 16h00 - 00h00 | A APPELER | Plus de cinquante ans d activite. Adresse masquee par l annuaire : a appeler. Port Callao. |
+| République dominicaine | **International Dominican Aluminium (IDASA)** | `+1 809 531 5666` | 15h00 - 23h00 | A APPELER | Contact nomme Michael Robinson. Adresse citee Sales@idasa.com.do mais domaine non recoupe dans les URL : appeler plutot que deviner. Le nom Michael Robinson figurant ci-dessus n'est pas verifie et pourrait venir d'une confusion... |
+| République dominicaine | **Comercial Cristal** | `+1 809 570 2333` | 15h00 - 23h00 | A APPELER | Pas de float local : tout entre par Haina ou Caucedo. REBOND 06/10 : 550 5.1.1 User unknown, l'adresse info n'existe pas chez titan.email. Appeler le +1 809 570 2333. |
+| Saint-Vincent-et-les-Grenadines | **Kendra s Aluminium Products Ltd** | `+1 784 457 8901` | 15h00 - 23h00 | A APPELER | Adresse e-mail masquee par l annuaire donc inexploitable. Ile sans ligne float : tout le verre est importe. A appeler pour obtenir un contact achats. |
+| Salvador | **Almacenes Vidri** | `+503 2230 4976` | 17h00 - 01h00 | A APPELER | GROS ACTEUR mais l'adresse publiee est une boite e-commerce : chercher le service achats avant d'ecrire. REBOND 07/10 : le serveur Exchange de vidri.com.sv repond que l adresse ventasenlinea n existe pas. Adresse retiree. Chain... |
+| Togo | **ETS VITRO MZ** | `+228 22 21 21 88` | 11h00 - 19h00 | A APPELER | Premiere fiche Togo du registre. Port de Lome, hub de transbordement regional. Aucune adresse publiee. |
+| Trinité-et-Tobago | **Caribbean Glass & Aluminium Products Ltd** | `+1 868 633 1030` | 15h00 - 23h00 | A APPELER | Adresse masquee par l'annuaire. Sert plusieurs iles. Ports Port of Spain ou Point Lisas. Complement du 08/10 : la societe a une agence a Saint-Vincent, Grenville Street a Kingstown, tel +1 784 456 1729, en plus du siege de Port... |
+| Tunisie | **SOVEP — Societe du Verre Plat et Menuiserie Aluminium** | `+216 71 409 374` | 10h00 - 18h00 | A APPELER | Specialiste verre plat et miroiterie. Le domaine de l adresse n apparait pas dans les URL de resultats : regle anti-rebond, aucun envoi. A appeler. Port Rades. |
+| Émirats arabes unis | **Sahara Glass Group** | `+971 6 534 1012` | 07h00 - 15h00 | A APPELER | Six implantations Golfe. Aucune adresse generique publiee. |
+| Émirats arabes unis | **Liberty Aluminium** | `+971 6 743 1983` | 07h00 - 15h00 | A APPELER | Sous-traitant agree sur quatre emirats. Rebond 550 No Such User le 05/10 : adresse inexistante. |
+| Émirats arabes unis | **UAE Glass Works** | `+971 58 154 5520` | 07h00 - 15h00 | A APPELER | Structure modeste mais adresse publiee et verifiee. Rebond 550 5.1.1 le 05/10 : adresse inexistante. |
+| États-Unis | **Echols Glass and Mirror** | `+1 770 409 1770` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. |
+| États-Unis | **Northwestern Glass Fab** | `+1 763 762 1750` | 15h00 - 23h00 | A APPELER | Aucune adresse generique publiee : seules des adresses nominatives vendues par courtier, donc ecartees. |
+| États-Unis | **SGC Specialty Glass Company** | `+1 323 318 2998` | 15h00 - 23h00 | A APPELER | Revend du float importe : profil acheteur direct. Aucune adresse publiee. |
+| États-Unis | **Wholesale Glass Distributors Inc** | `+1 800 277 5223` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. |
+| États-Unis | **Signature Glass & Mirror** | `+1 305 385 6876` | 15h00 - 23h00 | A APPELER | Exportateur declare. Aucune adresse publiee dans les resultats : a appeler. |
+| États-Unis | **CM Glass LLC** | `+1 305 261 4500` | 15h00 - 23h00 | A APPELER | Exportateur declare vers les Caraibes et l Amerique latine, plus de trente ans. Adresse citee en cmglass.com alors que le site est cmglassmiami.com, et le domaine de l adresse n apparait dans aucune URL de resultat : regle anti... |
+| Éthiopie | **Addis Ababa Bottle & Glass Share Company** | `+251 11 270 2811` | 08h00 - 16h00 | A QUALIFIER | Verrier d'emballage : cible secondaire, a qualifier sur le verre plat. Transit via Djibouti. |
+| Îles Caïmans | **Aralco Cayman Ltd** | `+1 345 949 9385` | 16h00 - 00h00 | A APPELER | Ile sans production verriere. Aucune adresse publiee : a appeler. Port George Town. |
+| Îles Caïmans | **Dolphin Architectural Products Ltd** | `+1 345 949 4505` | 16h00 - 00h00 | A APPELER | Ile sans production verriere. Aucune adresse publiee : a appeler. Port George Town. |
+| Îles Salomon | **Tropic Glass & Aluminium Ltd (Nulook Solomon Islands)** | `+677 30836` | 00h00 - 08h00 | A APPELER | Ranadi Industrial Estate Honiara. Licencie de la marque neo-zelandaise Nulook. Adresse email masquee sur l'annuaire : a appeler FUSION DU 08/10 : une seconde fiche existait pour la meme societe, meme telephone +677 30836, elle ... |
+| Îles Turques-et-Caïques | **Carib Glass and Supplies Ltd** | `+1 649 946 8541` | 15h00 - 23h00 | A APPELER | Ile sans production verriere, tout arrive en conteneur. Aucune adresse publiee : a appeler. |
+| Îles Vierges américaines | **Glass 2000 Inc.** | `+1 340 718 0588` | 15h00 - 23h00 | A APPELER | Ile sans production verriere : tout arrive en conteneur. Le domaine de l adresse citee n apparait pas dans les URL de resultats : regle anti-rebond, aucun envoi. A appeler. |
+| Sainte-Lucie | **Saint Lu Metal & Plastic Manufacturers Ltd** | `+1 758 451 3023` | 15h00 - 23h00 | A APPELER | Leader local depuis 1979. Aucune adresse email publiee : a rappeler. Port Castries. Precision du 07/10 : ils fabriquent eux-memes du trempe, du float, du feuillete et des menuiseries aluminium, sur deux sites, Mongiraud Gros Is... |
+| Haïti | **L Union Quincaillerie Materiaux de Construction** | `+509 35 27 03 30` | 15h00 - 23h00 | A QUALIFIER | La fiche ne mentionne pas de vitrerie : rien ne dit qu ils vendent du verre. Priorite basse, a qualifier avant tout effort. |
+| Antigua-et-Barbuda | **King s Glass** | `+1 268 781 5464` | 15h00 - 23h00 | A APPELER | ADRESSE GMAIL ECARTEE : trouvee dans un annuaire local et non sur le site de la societe, le domaine kingsglassantigua.com n apparait pas dans les URL de resultats. La regle anti-rebond du paragraphe 5 n est pas satisfaite. De t... |
 
-Elles sont au registre avec leur site web mais ni adresse ni telephone publies. Pour celles-la il faut passer par le formulaire de contact du site, ou les laisser de cote.
+## Europe — 14 societes
 
+Rappel du paragraphe 6 : **pas de nouvelle prospection europeenne.** Ces fiches ne s'appellent que
+s'il s'agit de relancer un dossier deja ouvert.
+
+| Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
+|---|---|---|---|---|---|
+| Serbie | **TINIS COMPANY d.o.o.** | `+381 11 347 17 05` | 09h00 - 17h00 | A APPELER | IMPORTATEUR-GROSSISTE familial depuis 1992, verre de construction et decoratif : cible prioritaire. Pays enclave, transit par Koper ou Rijeka. ADRESSE REBONDIE le 25/09 (550 user account) : appeler le +381 11 347 17 05. |
+| Espagne | **Ramos Industria del Vidrio S.L.** | `+34 916 850 195` | 09h00 - 17h00 | A APPELER | 7000 m2 d usine et 2000 tonnes de stockage, centre de distribution a Fuenlabrada. Port Valence ou Bilbao, envoi en espagnol ADRESSE REBONDIE le 25/09 (550 5.1.1) : appeler le +34 916 850 195. |
+| Espagne | **Glass Partners Solutions Ibérica (GPS)** | `+34 691 388 267` | 09h00 - 17h00 | A APPELER | DISTRIBUTEUR MULTI-ENTREPOTS avec usines de feuillete et de depoli. Aucune adresse email publiee : a rappeler. |
+| Lituanie | **UAB SKP stiklas** | `+370 37 455 530` | 08h00 - 16h00 | A APPELER | Un des plus gros fabricants de vitrage isolant des pays baltes. Aucune adresse email publiee : a rappeler. |
+| Pologne | **Glass Hurt** | `+48 530 412 642` | 09h00 - 17h00 | A APPELER | Grossiste sur la Triville (Gdansk, Gdynia, Sopot), a 10 minutes du port. Aucune adresse email publiee : a rappeler. |
+| Royaume-Uni | **The Glass Warehouse** | `+44 20 8500 1188` | 10h00 - 18h00 | A APPELER | 51-55 Fowler Road, Hainault Business Park. Aucune adresse email publiee : a rappeler. |
+| Allemagne | **Völker Glashandel GmbH** | `+49 40 851 7480` | 09h00 - 17h00 | A APPELER | Winsbergring 30. Activite import-export declaree. Aucune adresse email publiee : a rappeler. |
+| Norvège | **Glass & Import AS (GIAS)** | `+47 466 11 111` | 09h00 - 17h00 | A APPELER | LE NOM DIT L ACTIVITE : import de verre. Skibrekkberga 9. Aucune adresse email publiee : appeler Kjell Roger Larsen. |
+| Allemagne | **HoffmannGlas GmbH + Co. Glasgroßhandlung KG** | `+49 5171 2910` | 09h00 - 17h00 | A APPELER | Grossiste independant de taille moyenne, deux sites. Aucune adresse email publiee : a rappeler. |
+| Belgique | **Lauryssens Glas** | `+32 3 660 13 87` | 09h00 - 17h00 | A APPELER | Leugenberg 208. Grossiste independant servant entreprises et particuliers. Seule une adresse comptable est publiee : appeler le service commercial. |
+| Serbie | **ROMIKS** | `+381 63 696 446` | 09h00 - 17h00 | A APPELER | Pays enclave : transit par Koper. ADRESSE REBONDIE : rappeler au +381 63 696 446. CONTROLE MX DU 07/10 : le domaine romiks.rs ne resout pas (NXDOMAIN), l adresse info@romiks.rs ne peut pas recevoir. Adresse retiree du registre.... |
+| Irlande | **Bantry Glass & Glazing Ltd** | `+353 27 51132` | 10h00 - 18h00 | A APPELER | Adresse e-mail tronquee dans l'annuaire : ne pas deviner, appeler. |
+| Espagne | **Dicrisur S.L.** | `+34 955 631 906` | 09h00 - 17h00 | A APPELER | Seule adresse trouvee rattachee a cristalauto.es (vitrage automobile) : appeler pour obtenir le contact verre plat. |
+| Croatie | **Staklo Rijeka d.o.o.** | `051 568 528` | 09h00 - 17h00 | A APPELER | Petite structure — vérifier qu'elle peut absorber un conteneur. Qualifie le 07/10 : Kumiciceva 41A Rijeka, dirigeant Vujadin Djurdjevic selon le registre. La seule adresse trouvee est un gmail publie par un agregateur de regist... |
