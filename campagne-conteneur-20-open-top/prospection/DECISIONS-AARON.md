@@ -57,8 +57,8 @@ S'il donne une préférence tarifaire sur le verre plat, nous entrons à taux r�
 que la Chine paie 35 % **plus** 137 $/t — et le Mexique devient l'un des meilleurs marchés de la
 liste. **Je ne peux pas le vérifier d'ici.**
 
-**Les trois questions à poser à un transitaire ou à un courtier en douane, et elles valent plus que
-dix jours de prospection :**
+**Les quatre questions à poser à un transitaire ou à un courtier en douane, et elles valent plus
+que dix jours de prospection :**
 
 1. **Mexique** : droit applicable au float européen sous la fraction 7005.29.99, et préférence
    éventuelle de l'accord UE-Mexique.
@@ -67,8 +67,27 @@ dix jours de prospection :**
 3. **SACU, pour les quatre conteneurs de Walvis Bay** : droit applicable au verre européen entrant
    dans l'union douanière, et préférence éventuelle de l'accord UE-SADC.
 
-**Tant que ces trois réponses n'existent pas, je n'écris rien à un prospect sur les droits de
-douane**, et c'est écrit au §6 du mandat. Ce qui précède reste vrai sur les mesures antidumping —
+4. **Nos propres outre-mer, et c'est la question que je m'attendais le moins à devoir poser.**
+   J'allais t'écrire que les DOM étaient le seul marché de la campagne sans question de douane,
+   puisqu'ils sont dans l'Union. **C'est faux.** La loi du 2 juillet 2004 sur l'octroi de mer
+   traite comme une **importation** l'entrée en Guadeloupe ou en Martinique de marchandises
+   « originaires ou en provenance de la France métropolitaine ou d'un autre État membre ».
+   L'octroi de mer **externe** s'applique donc à notre verre, et pour la TVA les DOM sont traités
+   comme un territoire d'exportation par rapport à la métropole. Les taux sont fixés par
+   délibération des conseils régionaux et je n'ai pas pu établir celui du **chapitre 70** pour
+   2026 : en Martinique, la délibération qui actualisait les taux 2023 a pris fin le 30/09/2025 et
+   je n'ai pas trouvé la suivante. **Donc : taux d'octroi de mer externe sur le verre plat en
+   Guadeloupe, en Martinique et à La Réunion** — et le régime de la Nouvelle-Calédonie et de la
+   Polynésie française, qui ne sont pas des DOM mais des territoires hors du territoire douanier
+   de l'Union, avec leurs propres taxes.
+   **Pourquoi cette quatrième question compte autant que les trois autres : 16 fiches** sont dans
+   ces territoires, **dont 11 déjà contactées**, et c'est le marché où nous sommes le plus
+   crédibles — on expédie de France, on parle français, et notre seul client export y est déjà.
+   À noter aussi, parce que cela a une date : **la dérogation européenne qui autorise l'octroi de
+   mer à taux différencié expire fin 2027.**
+
+**Tant que ces réponses n'existent pas, je n'écris rien à un prospect sur les droits de
+douane ni sur l'octroi de mer**, et c'est écrit au §6 du mandat. Ce qui précède reste vrai sur les mesures antidumping —
 mais une carte des barrières qui ignore le tarif ordinaire est une carte à moitié lue, et je
 préfère te le dire que de te laisser calibrer une grille sur une moitié.
 

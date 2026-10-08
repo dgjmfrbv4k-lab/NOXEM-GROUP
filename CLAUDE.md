@@ -220,6 +220,30 @@ qu'elle n'est pas tranchée, **ne rien écrire à un prospect mexicain sur les d
 européen à l'entrée des États-Unis et du Brésil ? Les mesures antidumping ne disent rien du tarif
 ordinaire, et un tarif ordinaire élevé changerait la conclusion. À poser avec la précédente. Les États-Unis les ont rejoints en
 avril 2026, et c'est le seul cas que j'ai vérifié sur des sources de premier rang.
+**ET UNE QUATRIÈME QUESTION, TROUVÉE LE 08/10, QUI CONCERNE NOS PROPRES TERRITOIRES — c'est
+celle que je m'attendais le moins à devoir poser.** J'étais sur le point d'écrire que les DOM
+étaient le seul marché de la campagne sans question de douane, puisqu'ils sont dans l'Union.
+**C'est faux, et la correction est nette.** La **loi du 2 juillet 2004 sur l'octroi de mer**
+traite comme une **importation** l'entrée en Guadeloupe ou en Martinique de marchandises
+« originaires ou en provenance de la France métropolitaine ou d'un autre État membre ». Donc
+**l'octroi de mer externe s'applique à du verre européen**, et pour la TVA les DOM sont traités
+comme un **territoire d'exportation** par rapport à la métropole.
+· **Les taux sont fixés par délibération des conseils régionaux** et je n'ai pas pu établir celui
+  du chapitre 70 pour 2026. En Martinique, la délibération 23-149-1 qui actualisait les taux 2023
+  a pris fin le **30/09/2025** et je n'ai pas trouvé celle qui l'a remplacée. Le seul chiffre
+  rencontré, 7 % en Guadeloupe et 20 % en Martinique, vient d'une réponse ministérielle de
+  2020-2021 et porte sur les **verres et montures d'optique** : il ne vaut rien ici et ne doit pas
+  être repris.
+· **Autre chose à savoir, et c'est une échéance :** la dérogation européenne qui autorise des taux
+  différents selon que le produit est fabriqué localement ou importé **expire fin 2027**, et les
+  discussions de renouvellement sont engagées.
+· **Et la Nouvelle-Calédonie et la Polynésie française ne sont pas des DOM** : ce sont des
+  territoires hors du territoire douanier de l'Union, avec leurs propres taxes à l'importation.
+  La question s'y pose donc entièrement aussi. **5 fiches** y sont, dont 4 déjà contactées.
+**CONSÉQUENCE OPÉRATIONNELLE, IDENTIQUE À CELLE DU MEXIQUE : ne rien écrire ni laisser entendre à
+un prospect des DOM ou des COM sur la fiscalité à l'entrée.** 16 fiches sont concernées, dont 11
+déjà contactées. La fiche SAMIR portait « territoire français : pas de droits de douane UE » —
+exact sur le droit de douane, incomplet sur la fiscalité, et corrigé le 08/10.
 **Pourquoi cela compte : 102 fiches du registre** sont dans ces marchés — États-Unis 43, Inde 16,
 Mexique 13, Brésil 11, Colombie 10, Afrique du Sud 9. Si la concurrence asiatique y porte des
 droits et l'Europe non, l'argument américain se transpose.
