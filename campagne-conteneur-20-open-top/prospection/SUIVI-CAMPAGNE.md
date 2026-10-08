@@ -2379,3 +2379,37 @@ matin, mais à une échelle bien plus grande.
 
 **Prochaine action : vérifier le Brésil et l'Inde**, les deux plus gros blocs après les États-Unis,
 avant d'écrire quoi que ce soit sur ces marchés.
+
+### 14h55 · Brésil vérifié — favorable, avec une réserve nommée
+
+J'ai dit que je ne me servirais pas de la liste sans vérifier pays par pays. Voici le premier :
+**le Brésil, 11 fiches.**
+
+**Deux mesures distinctes sur le float incolore, et il ne faut pas les confondre.**
+
+- **Résolution Gecex nº 833/2025** : droit antidumping définitif sur le float incolore de
+  **1,8 à 20 mm** originaire de **Malaisie, Pakistan et Turquie**. Et la **Gecex nº 961 du
+  03/09/2026 a rejeté le recours d'ABIVIDRO** contre cette mesure : elle tient. **C'est le point
+  solide, daté, et confirmé.**
+- **Résolution Gecex nº 160/2021** : prorogation du droit sur le float incolore de 2 à 19 mm
+  (NCM 7005.29.00) de **Chine, Égypte, Émirats et Mexique**, le Mexique immédiatement suspendu.
+  **Échéance le 19/02/2026.** Une revue de fin de période a été ouverte par la Circular SECEX nº 9
+  du 10/02/2026, à la demande d'ABIVIDRO, avec des indices que l'extinction ramènerait le dumping.
+  **Je n'ai pas trouvé la résolution finale.** La règle générale veut que le droit reste en vigueur
+  pendant la revue, mais je ne l'ai pas confirmé pour ce cas précis.
+- À ne pas confondre : la Gecex nº 921/2026 a prorogé l'antidumping sur les **vidros para linha
+  fria** chinois, NCM 7007.19.00 — **autre produit.**
+
+**Ce qui est établi et exploitable :** l'Europe ne figure dans **aucune** de ces mesures. Les
+origines visées sont la Chine, l'Égypte, les Émirats, le Mexique, la Malaisie, le Pakistan et la
+Turquie — l'Arabie saoudite et les États-Unis ayant été levés en cours de route. Et le Brésil
+**produit son float** : ce sont les producteurs eux-mêmes, via ABIVIDRO, qui demandent ces
+mesures. Donc même configuration qu'aux États-Unis — production locale **plus** barrières contre
+les origines à bas coût, et nous hors de la liste.
+
+**Formulation obligatoire, et c'est la réserve :** parler de la Malaisie, du Pakistan et de la
+Turquie, dont la mesure est confirmée et récente. **Ne pas affirmer l'état du droit chinois** sans
+avoir lu la résolution finale de la revue.
+
+**Reste à vérifier : l'Inde (16 fiches), puis le Mexique (13) sur le texte officiel du DOF.**
+L'Afrique du Sud (9) et le Pérou n'ont encore aucune source directe.

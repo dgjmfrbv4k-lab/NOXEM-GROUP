@@ -183,11 +183,27 @@ avril 2026, et c'est le seul cas que j'ai vérifié sur des sources de premier r
 Mexique 13, Brésil 11, Colombie 10, Afrique du Sud 9. Si la concurrence asiatique y porte des
 droits et l'Europe non, l'argument américain se transpose.
 **MAIS RIEN DE TOUT CELA NE S'ÉCRIT AVANT VÉRIFICATION PAR PAYS, et voici les réserves connues :**
-- **Brésil** : droits définitifs de 2014 sur la Chine, l'Égypte, les Émirats, le Mexique, l'Arabie
-  saoudite **et les États-Unis**, puis une prorogation sur Chine/Égypte/Mexique/Émirats avec
-  suspension du Mexique et levée pour l'Arabie et les États-Unis. **Statut 2026 non vérifié.**
-  Noter que le Brésil a déjà frappé beaucoup d'origines : vérifier que l'Europe n'en fait pas
-  partie avant de présenter l'Europe comme non taxée.
+- **Brésil : VÉRIFIÉ LE 08/10, et c'est favorable — avec une réserve précise.** Deux mesures
+  distinctes, sur la même NCM de float incolore :
+  · **Résolution Gecex nº 833/2025 : droit définitif sur le float incolore de 1,8 à 20 mm
+    originaire de MALAISIE, du PAKISTAN et de TURQUIE.** La Gecex nº 961 du 03/09/2026 a rejeté le
+    recours en reconsidération d'ABIVIDRO : **la mesure tient.**
+  · **Résolution Gecex nº 160/2021** : prorogation du droit sur le float incolore de 2 à 19 mm
+    (NCM 7005.29.00) de **Chine, Égypte, Émirats et Mexique**, le Mexique étant immédiatement
+    suspendu. **Échéance au 19/02/2026.** Une revue de fin de période a été ouverte par la
+    Circular SECEX nº 9 du 10/02/2026, sur demande d'ABIVIDRO, avec des indices que l'extinction
+    ramènerait le dumping. **Je n'ai pas trouvé la résolution finale : le statut du droit chinois
+    pendant la revue n'est pas établi.** La règle générale veut qu'il reste en vigueur, mais ce
+    n'est pas confirmé ici.
+  · Autre mesure, **autre produit** à ne pas confondre : la Gecex nº 921/2026 a prorogé
+    l'antidumping sur les **vidros para linha fria** chinois, NCM 7007.19.00.
+  **L'Europe ne figure dans AUCUNE de ces mesures.** Les origines visées sont la Chine, l'Égypte,
+  les Émirats, le Mexique, la Malaisie, le Pakistan et la Turquie — l'Arabie saoudite et les
+  États-Unis ayant été levés. **Donc au Brésil toutes les origines à bas coût sont frappées et
+  nous ne le sommes pas**, et le Brésil produit par ailleurs son float (c'est ABIVIDRO, le syndicat
+  des producteurs, qui demande ces mesures) : même parapluie de prix haut qu'aux États-Unis.
+  **Formulation prudente obligatoire sur la Chine** : parler de la Malaisie, du Pakistan et de la
+  Turquie, dont la mesure est confirmée, et ne pas affirmer l'état du droit chinois sans l'avoir lu.
 - **Colombie** : **non confirmé sur le float.** La seule mesure colombienne confirmée porte sur les
   **miroirs non encadrés** (demandée par Espejos SAS, en vigueur depuis octobre). C'est utile
   autrement — notre miroir sans cuivre y affronterait une origine taxée — mais ce n'est pas le float.
