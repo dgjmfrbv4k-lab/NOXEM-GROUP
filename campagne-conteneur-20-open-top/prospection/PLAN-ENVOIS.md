@@ -34,6 +34,12 @@ Une adresse neuve, même publiée par la société, peut encore rebondir : six l
 
 **Vagues de 5, espacées dans la journée. 15 à 20 messages par jour au maximum.**
 
+**Et il faut dire que c'est une RÉDUCTION, pas une prudence abstraite.** Compté dans le registre :
+**le 08/10 a produit 104 messages** — 30 premiers contacts, 73 relances et une relance de demande
+de devis — auxquels s'ajoutent les deux comptes vivants dont le statut n'a pas bougé. **Et deux
+serveurs sans rapport ont rendu un verdict de spam dans la journée.** Passer de 104 à 18 n'est donc
+pas de la frilosité : c'est la conséquence de ce que la journée a mesuré.
+
 La raison évidente est la réputation du domaine (§10, §13). Mais il y en a une seconde, qui change
 la composition des vagues : **vingt messages longs de structure identique partis dans la même
 heure, c'est le profil que les filtres anti-spam cherchent.** Un mélange de relances courtes et de

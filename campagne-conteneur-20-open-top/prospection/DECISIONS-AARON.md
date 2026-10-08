@@ -32,6 +32,41 @@ aussi un marché où tout le monde importe, donc où les Asiatiques sont déjà 
 le plus bas. Un marché avec production locale et **barrières douanières contre l'Asie** est, lui,
 un marché où notre prix se compare à du verre cher.
 
+### La question que je ne peux pas trancher et qui conditionne tout : les droits de douane ordinaires
+
+**Je dois tempérer ce que je viens d'écrire, parce que j'ai trouvé en vérifiant le Mexique une
+chose que je n'avais pas vue, et qui s'applique peut-être ailleurs.**
+
+Toute la carte ci-dessus repose sur les mesures **antidumping** — qui visent la Chine, la Malaisie
+et quelques autres, et pas l'Europe. **Mais une mesure antidumping ne dit rien du droit de douane
+ordinaire**, et celui-là, nous le payons comme tout le monde.
+
+**Le cas mexicain, vérifié :** les cuotas définitives du 20/03/2026 sont de 137 $/t sur la Chine et
+de 50 à 74 $/t sur la Malaisie, et **l'Europe en est exemptée**. Très bien. **Mais les importations
+sous la même fraction tarifaire supportent un droit de douane général de 35 % depuis le
+01/01/2026, qui frappe toutes les origines, nous compris.** Un droit de 35 % peut annuler à lui
+seul l'intérêt du marché.
+
+**Il y a peut-être une réponse, et elle est bonne si elle existe :** l'accord global UE-Mexique.
+S'il donne une préférence tarifaire sur le verre plat, nous entrons à taux réduit ou nul pendant
+que la Chine paie 35 % **plus** 137 $/t — et le Mexique devient l'un des meilleurs marchés de la
+liste. **Je ne peux pas le vérifier d'ici.**
+
+**Les trois questions à poser à un transitaire ou à un courtier en douane, et elles valent plus que
+dix jours de prospection :**
+
+1. **Mexique** : droit applicable au float européen sous la fraction 7005.29.99, et préférence
+   éventuelle de l'accord UE-Mexique.
+2. **États-Unis et Brésil** : droit de douane de droit commun sur le float européen. Les mesures
+   antidumping écartent l'Asie, mais si le tarif ordinaire est élevé, la conclusion change.
+3. **SACU, pour les quatre conteneurs de Walvis Bay** : droit applicable au verre européen entrant
+   dans l'union douanière, et préférence éventuelle de l'accord UE-SADC.
+
+**Tant que ces trois réponses n'existent pas, je n'écris rien à un prospect sur les droits de
+douane**, et c'est écrit au §6 du mandat. Ce qui précède reste vrai sur les mesures antidumping —
+mais une carte des barrières qui ignore le tarif ordinaire est une carte à moitié lue, et je
+préfère te le dire que de te laisser calibrer une grille sur une moitié.
+
 ### Et voici le premier repère de prix concret que la campagne ait obtenu
 
 Je te dis depuis des jours qu'il manque une grille. Je ne peux toujours pas la faire. Mais la

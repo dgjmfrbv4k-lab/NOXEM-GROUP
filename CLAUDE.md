@@ -175,9 +175,26 @@ renverrait plutôt à août 2027. L'échéance réelle est donc **incertaine d'u
 **LA CARTE DOUANIÈRE DU FLOAT CHINOIS — piste ouverte le 08/10, à vérifier pays par pays avant
 tout usage.** Une résolution mexicaine de juin 2025 énumère les pays qui avaient déjà, à cette
 date, des mesures antidumping contre le float clair chinois et malaisien : **Brésil, Inde, Corée,
-Afrique du Sud et Colombie**. Le Mexique les a rejoints, décision finale du **20/03/2026**
-(droits rapportés par une source secondaire : 0,13739 $/kg sur la Chine, 0,04964 à 0,07359 $/kg
-sur la Malaisie — **le texte officiel du DOF reste à lire**). Les États-Unis les ont rejoints en
+Afrique du Sud et Colombie**. **MEXIQUE : VÉRIFIÉ LE 08/10, et le résultat appelle une prudence que je n'avais pas vue.**
+Résolution finale au DOF du **20/03/2026**, en vigueur le 21/03. Cuotas compensatorias définitives
+en dollars par kilo : **Chine 0,13739 $/kg** (soit ~137 $/t, inchangé par rapport au préliminaire),
+**Malaisie 0,07359 $/kg** pour Kibing et « les autres », **0,04964** pour Xinyi Energy — en hausse
+par rapport au préliminaire. S'appliquent aux importations définitives, temporaires et IMMEX,
+**quel que soit le pays de provenance**. Fraction de référence 7005.29.99, indicative et non
+limitative. **Les importateurs qui prouvent que la marchandise ne vient ni de Chine ni de Malaisie
+en sont exemptés**, sous réserve des règles d'origine.
+**MAIS — et c'est le point qui compte pour nous : les importations sous cette fraction supportent
+un DROIT DE DOUANE GÉNÉRAL DE 35 % depuis le 01/01/2026**, qui s'ajoute à la cuota et qui frappe
+**toutes les origines, l'Europe comprise.** Un droit de 35 % n'est pas un détail : il peut annuler
+à lui seul l'intérêt du marché.
+**Question ouverte, et elle est décisive : l'accord global UE-Mexique donne-t-il une préférence
+tarifaire sur le verre plat ?** Si oui, nous entrons à taux préférentiel pendant que la Chine paie
+35 % plus 137 $/t, et le Mexique devient très attractif. Si non, les 35 % nous frappent aussi.
+**Je ne peux pas trancher d'ici : question pour un transitaire ou un courtier en douane.** Tant
+qu'elle n'est pas tranchée, **ne rien écrire à un prospect mexicain sur les droits.**
+**Et la même question se pose ailleurs** : quel est le droit de douane de droit commun sur le float
+européen à l'entrée des États-Unis et du Brésil ? Les mesures antidumping ne disent rien du tarif
+ordinaire, et un tarif ordinaire élevé changerait la conclusion. À poser avec la précédente. Les États-Unis les ont rejoints en
 avril 2026, et c'est le seul cas que j'ai vérifié sur des sources de premier rang.
 **Pourquoi cela compte : 102 fiches du registre** sont dans ces marchés — États-Unis 43, Inde 16,
 Mexique 13, Brésil 11, Colombie 10, Afrique du Sud 9. Si la concurrence asiatique y porte des

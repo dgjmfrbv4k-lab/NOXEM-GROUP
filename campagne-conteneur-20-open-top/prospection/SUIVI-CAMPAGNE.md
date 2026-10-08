@@ -2539,3 +2539,37 @@ coûte rien dans l'immédiat.
 **À noter pour le jour où le gel serait levé :** l'Europe ne figure dans aucune des mesures
 antidumping obtenues par PFG. Le marché sud-africain serait donc abordable sur le plan douanier.
 **C'est le conflit d'intérêts qui bloque, pas la douane.**
+
+### 14h35 · Mexique vérifié — et une prudence que je n'avais pas vue, qui vaut pour toute la carte
+
+**Résolution finale au DOF du 20/03/2026**, en vigueur le 21/03. Cuotas compensatorias définitives :
+**Chine 0,13739 $/kg** (~137 $/t, inchangé par rapport au préliminaire), **Malaisie 0,07359 $/kg**
+pour Kibing et « les autres », **0,04964** pour Xinyi Energy — en hausse par rapport au
+préliminaire. Applicables aux importations définitives, temporaires et IMMEX, **quel que soit le
+pays de provenance**. Fraction 7005.29.99, indicative et non limitative. **Les importateurs qui
+prouvent que la marchandise ne vient ni de Chine ni de Malaisie en sont exemptés.**
+
+**Et voici ce que je n'avais pas vu, et qui tempère toute l'analyse de l'après-midi.** Les
+importations sous cette fraction supportent **un droit de douane général de 35 % depuis le
+01/01/2026**, qui s'ajoute à la cuota et **qui frappe toutes les origines, l'Europe comprise.**
+
+Un droit de 35 % peut annuler à lui seul l'intérêt d'un marché. Et cela pose une question que
+j'avais laissée de côté toute la journée : **une mesure antidumping ne dit rien du droit de douane
+ordinaire.** Toute ma carte — États-Unis, Brésil, Mexique — repose sur les mesures antidumping, qui
+écartent l'Asie. **Si le tarif ordinaire sur le float européen y est élevé, la conclusion change.**
+
+Il y a peut-être une réponse favorable, et c'est l'accord global **UE-Mexique** : s'il donne une
+préférence sur le verre plat, nous entrons à taux réduit pendant que la Chine paie 35 % **plus**
+137 $/t. **Je ne peux pas le vérifier d'ici.**
+
+**Trois questions posées à Aaron pour son transitaire, et elles valent plus que dix jours de
+prospection :**
+1. **Mexique** : droit applicable au float européen sous 7005.29.99 et préférence UE-Mexique.
+2. **États-Unis et Brésil** : droit de douane de droit commun sur le float européen.
+3. **SACU** : droit applicable à l'entrée de l'union douanière, préférence UE-SADC — **cette
+   dernière porte directement sur les quatre conteneurs de Walvis Bay.**
+
+**Garde-fou écrit au §6 : tant que ces réponses n'existent pas, ne rien écrire à un prospect sur
+les droits de douane.** Les textes préparés aujourd'hui pour le Canada et les États-Unis parlent
+des droits frappant l'Asie, ce qui est vérifié et reste vrai — mais aucun ne doit laisser entendre
+que nous entrons en franchise.
