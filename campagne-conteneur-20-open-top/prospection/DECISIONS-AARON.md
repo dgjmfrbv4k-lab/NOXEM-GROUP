@@ -164,6 +164,49 @@ prix au pied carré CIF Toronto sur **neuf références**, open top et closed, c
 
 ---
 
+## 4 bis. Afrique de l'Ouest — une fenêtre qui se referme, et ça change le calendrier
+
+Ce point n'attend pas une décision de prix mais une décision de **priorité**, et il est tombé le
+08/10 en vérifiant un argument.
+
+**Faits.** Le Ghana construit une usine de verre float de **250 M$ à Shama**, portée par KEDA
+(Ghana) Ceramics, capital chinois. Première pierre le 24/02/2026 par le président Mahama.
+**Phase 1 : 600 tonnes par jour, mise en service annoncée pour août 2026. Phase 2 : +800 t/jour,
+soit 1 400 t/jour.** Le projet est annoncé **tourné vers l'export**, avec environ 100 M$ de
+ventes annuelles visées. Le président a cité plus de 65 000 tonnes de produits verriers importés
+par le Ghana en 2024, pour près de 25 M$ — c'est le marché que l'usine vise à remplacer.
+
+**Ce que je ne sais pas, et je le dis :** l'échéance d'août 2026 est passée et **aucune mise en
+service n'est rapportée** dans les sources que j'atteins. Soit elle n'a pas été couverte, soit le
+calendrier a glissé. Je ne peux pas trancher.
+
+**Pourquoi cela te concerne.** Shama est à 20 km du port de Takoradi. Une ligne de 1 400 t/jour
+avec un mandat d'export explicite ne vise pas seulement le Ghana : elle vise la Côte d'Ivoire, le
+Nigéria, le Bénin, le Togo, le Sénégal et l'hinterland sahélien — soit **une quarantaine de
+fiches de ce registre**, dont ALUTRACO à Cotonou qui est notre meilleure porte d'entrée vers le
+Burkina, le Mali et le Niger.
+
+**Options.**
+1. **Rien changer.** On continue à traiter l'Afrique de l'Ouest comme les autres zones. Risque :
+   dans dix-huit mois le fret de Lyon ne tient plus face à 20 km de route depuis Takoradi.
+2. **Accélérer sur l'Afrique de l'Ouest maintenant**, c'est-à-dire y mettre les premiers envois
+   et les premières relances, et accepter un prix d'entrée plus serré pour prendre des clients
+   avant que l'usine tourne. Un client installé avec une référence de qualité ne change pas de
+   fournisseur pour dix pour cent.
+3. **Sortir de la zone.** Je ne le recommande pas : l'usine n'est pas en service, et même en
+   service une seule ligne ne couvre pas six pays du jour au lendemain.
+
+**Ma recommandation : option 2, et c'est une question de calendrier avant d'être une question de
+prix.** La fenêtre ouest-africaine est la seule de la campagne dont on sache qu'elle se referme,
+avec une date. Les autres zones n'ont pas d'horloge. Si une grille de prix doit sortir en premier
+sur une zone, c'est celle-là.
+
+**Et une vérification à faire faire :** savoir si la phase 1 de Shama tourne. Un contact local,
+un transitaire à Takoradi ou un appel à KEDA Ghana le dirait en une journée. Je ne peux pas le
+faire d'ici, le réseau de la session ne laisse pas joindre les sites des sociétés.
+
+---
+
 ## 5. Duravidrio (Équateur) — un WhatsApp à envoyer
 
 Leur autorépondeur renvoie **explicitement** toute cotation vers WhatsApp **+593 99 972 8592**.

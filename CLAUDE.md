@@ -128,6 +128,25 @@ normalement. C'est la métropole, livrable en camion, qui relève de l'autre cam
 **Exclus comme concurrents :** Corée du Sud, Japon, Taïwan, Turquie, Israël.
 **Europe :** pas de nouvelle prospection ; les fiches européennes existantes se relancent.
 
+**Afrique de l'Ouest — une ligne float arrive, et c'est une menace structurelle (08/10) :**
+le Ghana construit une usine float de **250 M$ à Shama**, portée par **KEDA (Ghana) Ceramics**,
+capital chinois. Première pierre le 24/02/2026 par le président Mahama. **Phase 1 : 600 t/jour,
+mise en service annoncée pour août 2026. Phase 2 : +800 t/jour, soit 1 400 t/jour au total.**
+Le projet est présenté comme **tourné vers l'export**, avec ~100 M$ de ventes annuelles visées,
+et comme devant réduire les importations ghanéennes (plus de 65 000 t de produits verriers
+importés en 2024 pour près de 25 M$, chiffre donné par Mahama).
+**Statut au 08/10 : l'échéance d'août 2026 est passée et aucune mise en service n'est rapportée**
+dans les sources atteignables — soit elle n'a pas été couverte, soit le calendrier a glissé.
+C'est un fait à vérifier, pas un fait établi.
+**Deux conséquences, à ne pas confondre.**
+1. **Pour le Ghana (9 fiches) :** ne plus écrire qu'il n'y a pas de production locale sans avoir
+   vérifié l'état de l'usine. Si la phase 1 tourne, l'argument est faux.
+2. **Pour toute l'Afrique de l'Ouest** (Côte d'Ivoire, Nigéria, Bénin, Togo, Burkina, Sénégal,
+   Sierra Leone, Gambie, Guinée, Liberia) : 1 400 t/jour à 20 km du port de Takoradi, avec un
+   mandat d'export explicite, c'est un concurrent régional à un ou deux ans. **La fenêtre
+   ouest-africaine se referme.** Ce n'est pas une raison de ralentir, c'est une raison d'y aller
+   maintenant — et c'est un élément à verser à la décision de prix d'Aaron.
+
 **Australie et Nouvelle-Zélande — fait établi le 08/10, vérifié avant usage :** la **dernière ligne
 float d'Australasie a fermé**. Ce n'est plus Viridian mais **Oceania Glass**, née du rachat de
 Viridian à CSR par Crescent Capital (2018) puis renommée en 2019. Administrateurs Grant Thornton
