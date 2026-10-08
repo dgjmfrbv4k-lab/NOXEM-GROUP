@@ -7,6 +7,45 @@ Présenté comme l'impose le §11 : **faits → options → ma recommandation.**
 
 ---
 
+# SI TU NE LIS QUE CETTE PAGE
+
+Ce document fait 660 lignes parce que chaque point porte ses faits. Voici les **sept décisions**,
+dans l'ordre où elles débloquent de l'argent, avec ce que je recommande. Les détails sont plus bas.
+
+## Les trois qui débloquent une vente, maintenant
+
+| # | Décision | Pourquoi maintenant | Ma recommandation |
+|---|---|---|---|
+| **1** | **Un prix miroir sans cuivre 4 mm en conteneur** | Les deux seuls repères de prix que la campagne ait obtenus disent la même chose : le miroir vaut **deux à cinq fois le float nu** au m² (3,60 à 7,70 $/m² contre ~1,50). À valeur double, le fret et la marge se diluent au lieu de tout décider. | **Commence par là, pas par le float.** C'est la question la plus rentable de la liste, et nos cibles miroitières sont déjà dans le registre. |
+| **2** | **Un prix float au jumbo, CIF Toronto, sur les 9 références de John** | **John a retiré aujourd'hui le seul obstacle technique** : il renonce à la cote 96 × 130 et demande un prix au jumbo. Il ne manque plus rien d'autre. | Donne-moi ce prix **demain**. C'est le dossier le plus avancé après PG Namibie, et le seul où le client a lui-même levé la difficulté. |
+| **3** | **Le prix PG Namibia** | Willem a confirmé le canal aujourd'hui et attend la proposition annoncée. Quatre conteneurs Walvis Bay. | Mais **lis d'abord le §1** : PG possède PFG, premier producteur float d'Afrique australe. Son prix est un prix protégé, ce qui explique sa phrase sur le prix. |
+
+## Les deux réglages techniques — cinq minutes chacun, et ils conditionnent le reste
+
+| # | Décision | Effet |
+|---|---|---|
+| **4** | **Créer l'enregistrement DMARC** : TXT sur `_dmarc`, valeur `v=DMARC1; p=none; rua=mailto:aaron.harfi@noxem-group.com` | Le domaine a huit jours et n'a pas de DMARC. Tout ce que je prépare part avec un handicap de délivrabilité. **C'est la plus urgente des trois demandes techniques.** |
+| **5** | **Relever `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`** | Le plafond de 200 appels par journée est atteint aujourd'hui. Il décide combien de prospects deviennent joignables : ~80 fiches par jour aujourd'hui, ~160 si tu le doubles. |
+
+## Les deux informations que je ne peux pas obtenir d'ici
+
+| # | Décision | Pourquoi ça bloque l'écriture |
+|---|---|---|
+| **6** | **Quatre questions à un transitaire** : droit sur le float européen au **Mexique** (fraction 7005.29.99, avec un droit général de 35 % depuis le 01/01/2026) et préférence UE-Mexique · **États-Unis et Brésil** · entrée **SACU** et préférence UE-SADC · **octroi de mer** sur le chapitre 70 en Guadeloupe, Martinique et La Réunion | Les mesures antidumping écartent l'Asie de ces marchés, et c'est vérifié. **Mais elles ne disent rien du droit ordinaire.** Tant que je n'ai pas les réponses, je n'écris rien à un prospect sur les droits — ce qui m'ampute l'argument le plus fort dans les marchés les plus prometteurs. 102 fiches concernées, plus 16 en outre-mer. |
+| **7** | **Le grand format PLF 6000 × 3210 : une usine partenaire le fournit-elle ?** | **Quatre faits indépendants pointent au même endroit**, dont une phrase écrite d'un transformateur hongrois : « our standard purchasing sizes are jumbo sheets, typically 6000 × 3210 mm. We are unfortunately unable to work economically with these smaller sheet sizes. » Deux de nos quatre dossiers de prix en dépendent. |
+
+## Et trois points d'hygiène, qui ne demandent qu'un oui ou un non
+
+- **Couper le répondeur automatique français.** Il s'est déclenché cinq fois le 08/10, dont juste
+  avant la réponse de Serab Ali chez Glass Jet — qui a probablement pris notre message pour un
+  courrier automatique mal adressé.
+- **Chercher `philoti@yahoo.fr` dans l'ancienne boîte** : quatre fiches camerounaises sont bloquées
+  parce que je ne sais pas si elles ont déjà été contactées en septembre.
+- **Identifier « VIT »**, compte protégé au §7 que je ne trouve pas dans le registre : je risque de
+  démarcher un dossier vivant sans le savoir.
+
+---
+
 ## Ce que la journée du 08/10 a changé pour ta décision de prix
 
 **Tu attends de décider un prix. Je ne te demande pas de le décider plus vite — je te dis contre
