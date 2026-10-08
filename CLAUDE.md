@@ -437,6 +437,22 @@ il a dit ne pas avoir de besoin actuellement.
   son nom commercial. Dans ce cas : un seul message, et la question d'identité posée dans
   l'échange. **Ne jamais créer la seconde fiche avant d'avoir tranché**, ce serait fabriquer le
   doublon que le §5 cherche à éviter.
+  **TROISIÈME USAGE, trouvé le 08/10 : la méthode RESSUSCITE les fiches en `ADRESSE INVALIDE`.**
+  Un rebond ne veut pas dire que la société est injoignable. Il veut souvent dire que **l'adresse
+  avait été devinée** sur le domaine du site, ou qu'elle traînait sur une vieille page. Mesuré le
+  08/10 : **5 fiches sur 11 récupérées** en allant simplement lire ce que la société publie
+  elle-même aujourd'hui.
+  · **MIH Group** (Émirats) : `info@` ne figurait que sur leur *ancien* site, conservé sous
+    `/public/old_website`. Le site actuel publie `purchase@` — la boîte des **achats**, donc un
+    canal meilleur qu'avant le rebond.
+  · **Al Ashoury Glass** (Riyad) : le site est `alASHOURY-glass.com`, le mail publié est
+    `info@alSHOURY-industry.com` — un A en moins et *industry* au lieu de *glass*. Une adresse
+    reconstruite sur le domaine du site ne pouvait que rebondir.
+  · **Arkiglass** (Maroc), **M&A Glass** (Égypte) et **Almacenes Vidrí** (Salvador) : même schéma,
+    une autre boîte publiée par la société elle-même, ou une version à jour de la page.
+  **Donc : avant de laisser une fiche en `ADRESSE INVALIDE`, faire la recherche restreinte à son
+  domaine.** Les fiches qui résistent sont celles dont le domaine n'est plus indexé du tout — et
+  là le rebond disait vrai.
 - **Ce blocage est devenu LE goulot d'étranglement, devant le ciblage et devant le message.**
   Mesuré sur les lots du 08/10 : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7,
   Zone Libre de Colón 0, Cap-Vert 1 sur 6. Les sociétés sont trouvées et qualifiées, mais
