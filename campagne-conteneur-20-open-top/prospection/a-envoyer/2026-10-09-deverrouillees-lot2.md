@@ -148,9 +148,15 @@ de la commission anti-dumping à rétablir des droits suspendus pendant la pand�
 
 ## Reliquat du 08/10 non traité
 
-- **Les 30 relances échues des 1er au 5 octobre** restent dans
-  `a-envoyer/2026-10-09-reliquat-relances.md`. Elles passent **après** ce lot : une relance sur
-  une adresse déjà jointe vaut moins qu'un premier contact sur une adresse neuve.
+- **Les relances échues des 1er au 5 octobre** restent dans
+  `a-envoyer/2026-10-09-reliquat-relances.md`. **CORRECTION : elles passent AVANT ce lot, et ce que
+  j'avais écrit ici était faux sur deux points.** J'affirmais qu'« une relance sur une adresse déjà
+  jointe vaut moins qu'un premier contact sur une adresse neuve ». Je n'ai aucune donnée de
+  conversion qui l'établisse, et surtout cela contredit deux choses : le **§2 du mandat**, qui met
+  les relances échues avant la recherche de nouveaux acheteurs, et le raisonnement du fichier de
+  relances lui-même, qui est bon — **ces adresses ont déjà pris livraison d'un message, ce qui est
+  la meilleure preuve de délivrabilité disponible** tant que le contrôle MX est impossible.
+  Le plan d'envoi est dans `PLAN-ENVOIS.md`.
 - **Les fiches restées en appel faute d'adresse** après vérification du 08/10 : Glasshouse
   (Riyad, 4 interlocuteurs nommés), Nawzad NIT (Erbil, usine séparée), Davis Glass (Melbourne),
   Vitralite (Kelowna), Float Glass Centre (Chennai), Universal Africa (Juba), Alutex (Asunción),
