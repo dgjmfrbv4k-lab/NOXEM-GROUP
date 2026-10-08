@@ -235,9 +235,28 @@ Statuts : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A APPELER` · `A RENVO
 
 ## 13. Limites techniques connues
 
-- **`noxemgroup.com` est bloqué par le proxy réseau de la session.** Je ne peux pas lire le
-  site. La carte des pages du §8 vient de l'index des moteurs de recherche. À débloquer via
-  les réglages réseau de l'environnement.
+- **DIAGNOSTIC CORRIGÉ LE 08/10 — ce n'est pas une panne, c'est une liste blanche DNS.**
+  Mesuré : `github.com` résout normalement, mais `gmail.com`, `example.com` et
+  `noxemgroup.com` renvoient tous « Name or service not known ». La résolution fonctionne,
+  elle n'est autorisée que pour les hôtes de la liste blanche de l'environnement.
+  Deux échecs distincts qu'il ne faut plus confondre :
+  · `curl` vers un site de prospect → `CONNECT tunnel failed, response 403` (refus du proxy)
+  · l'outil WebFetch → `getaddrinfo ENOTFOUND` (le nom n'est pas dans la liste blanche)
+  **Conséquence à retenir : on ne sait pas encore si WebFetch est autorisé**, puisque la
+  résolution échoue avant même la requête. **Dès que le réseau est ouvert, retester WebFetch
+  en premier** : s'il passe, il permet de lire les pages de contact des sociétés, et c'est
+  exactement ce qui débloquerait le premier facteur limitant de la campagne.
+- **Ce blocage est devenu LE goulot d'étranglement, devant le ciblage et devant le message.**
+  Mesuré sur les lots du 08/10 : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7,
+  Zone Libre de Colón 0, Cap-Vert 1 sur 6. Les sociétés sont trouvées et qualifiées, mais
+  leurs coordonnées n'existent que dans des annuaires, et un annuaire ne satisfait pas la
+  règle anti-rebond du §5. Avec l'accès aux pages de contact, la plupart basculeraient en envoi.
+  **Remède, à demander à Aaron :** réglage « Network access » de l'environnement (menu de
+  l'environnement cloud dans la barre de titre de la session, puis Edit) — soit un niveau
+  d'accès plus large, soit les domaines ajoutés sous « Allowed domains » en laissant cochée
+  la case « Allow package managers ». Procédure :
+  https://code.claude.com/docs/en/cloud-environments#network-access
+  La carte des pages produit du §8 vient de l'index des moteurs de recherche, pas du site.
 - **`fr_FR.UTF-8` n'est pas installée dans la session** : seule `C.utf8` existe, donc
   `locale.strxfrm` en collation française échoue. **Mesuré le 08/10 : ce n'est pas un
   problème.** `liste-prospects.csv` est déjà trié en ordre de points de code Unicode — le
@@ -249,7 +268,13 @@ Statuts : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A APPELER` · `A RENVO
   `ENVOYE` alors que la relance était partie la veille. Avant un lot de relances, croiser le
   registre **et** les messages envoyés, sinon on écrit deux fois en deux jours.
 - Pas de `dig`, pas de `host`, DoH en 403 → **aucune vérification DNS possible**. D'où la
-  règle anti-rebond du §5.
+  règle anti-rebond du §5. À noter sur `verif-mx.py` : son garde-fou teste `gmail.com`,
+  `google.com` et `outlook.com`, qui ne sont pas sur la liste blanche. Il affiche donc
+  `RESOLVEUR INDISPONIBLE` alors que le résolveur marche pour les hôtes autorisés.
+  **Le libellé est inexact mais le comportement est le bon** : un domaine de prospect n'est
+  pas davantage sur la liste blanche, donc tout contrôle MX ressortirait en faux NXDOMAIN.
+  Ne pas « corriger » ce garde-fou en changeant ses témoins pour des hôtes autorisés :
+  ce serait rouvrir la porte aux faux domaines morts que le §5 cherche à éviter.
 - Gmail gratuit : plafond ~500 destinataires/jour et suspension possible sur envoi froid
   massif. On avance par lots, pas en rafale. Perdre la boîte tuerait les dossiers en cours.
 - Deux boîtes : `harfiaaron9@gmail.com` (fils Maltha et GRL) et `harfiaaron0@gmail.com`
