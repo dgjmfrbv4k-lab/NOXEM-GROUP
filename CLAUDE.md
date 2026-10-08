@@ -637,6 +637,41 @@ Lana International, négociant régional sur douze pays. Les trois lignes sont r
 
 Retri après ajout avec `sorted()` **sans locale** (voir §13).
 
+**AUDIT DE COHÉRENCE À PASSER EN FIN DE JOURNÉE — six contrôles, trouvés utiles le 08/10.**
+Le garde-fou d'écriture ne voit que la **forme** d'une ligne ; ces six-là voient les incohérences
+**entre** lignes, et le quatrième a attrapé un vrai doublon invisible au nom.
+```bash
+python3 - <<'EOF'
+import io, collections, re
+R=[l.split(';') for l in io.open('liste-prospects.csv',encoding='utf-8').read().rstrip('\n').split('\n')[1:] if len(l.split(';'))==10]
+print('1. statuts vides             :', sum(1 for c in R if not c[9].strip()))
+print('2. adresse mais statut appel :', sum(1 for c in R if c[6].strip() and c[9] in ('A APPELER','A QUALIFIER')))
+m=collections.defaultdict(list)
+for c in R:
+    if c[6].strip() and not c[9].startswith(('NE PAS','ECARTE')): m[c[6].strip().lower()].append(c[3])
+print('3. DOUBLONS D ADRESSE actifs :', [(a,s) for a,s in m.items() if len(s)>1])
+n=collections.Counter((c[0],c[3].strip().lower()) for c in R)
+print('4. meme nom ET meme pays     :', [k for k,v in n.items() if v>1])
+print('5. ni adresse ni telephone   :', sum(1 for c in R if not c[6].strip() and not c[7].strip() and not c[9].startswith(('ECARTE','NE PAS'))))
+print('6. A ENVOYER a une date deja passee : a lire a l oeil dans la liste ci-dessous')
+print('   ', sorted(set(c[9] for c in R if c[9].startswith('A ENVOYER'))))
+EOF
+```
+**Ce que chacun a donné le 08/10, pour savoir à quoi s'attendre.** 0 statut vide. 0 envoi échu.
+**21 fiches avec adresse en statut appel** — dont les 6 camerounaises en attente d'Aaron, les
+autres à trancher. **1 vrai doublon d'adresse sur 636 fiches adressées : Corporación Limatambo,
+deux fiches, la même adresse, toutes deux à `ENVOYE 2026-10-08`** — soit deux relances dans le pool
+pour une seule société, exactement la faute Shibaam. Vérifié dans la boîte : **un seul envoi était
+parti**, donc le risque existait sans que la faute soit commise. Fiche la moins fournie neutralisée,
+et les deux portent la trace du rapprochement.
+**13 paires de même nom**, dont la plupart sont des homonymes de **pays différents** (Glasstech en
+Azerbaïdjan et aux Émirats, City Glass au Sri Lanka et au Zimbabwe) et le reste des doublons déjà
+neutralisés en `NE PAS DEMARCHER` : **c'est la convention du registre — on neutralise, on ne
+supprime pas**, ce qui est aussi ce que le garde-fou d'écriture impose désormais.
+**Et 75 fiches n'ont ni adresse ni téléphone**, donc ne sont joignables par aucun canal : elles
+gonflent le compte des « à appeler » sans rien promettre. C'est pourquoi `LISTE-APPELS.md` n'en
+retient que **121 sur 195**. Ce chiffre-là est le bon quand on mesure ce qui reste à faire.
+
 **Garde-fou d'écriture, obligatoire.** Tout script qui modifie le registre passe par :
 ```python
 from outils.ecrire_registre import ecrire, nettoyer   # ou copier les 2 asserts
