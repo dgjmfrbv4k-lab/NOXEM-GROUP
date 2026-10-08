@@ -1,9 +1,17 @@
 # Textes prêts à envoyer — 09 et 10/10/2026
 
-**Vingt-huit messages préparés le 08/10, à envoyer tels quels.** Quinze rédigés intégralement
+**Quarante-huit messages préparés le 08/10 sur les 56 de la file.** Quinze rédigés intégralement
 (1 à 10, 16 à 20), cinq australiens bâtis sur un socle commun avec leur personnalisation (11 à 15),
-et huit donnés en premier paragraphe plus gamme plus port, le reste reprenant un socle déjà écrit
-(21 à 28). L'intérêt est que la journée de
+vingt-huit donnés en ouverture plus gamme plus port, le corps reprenant un socle déjà écrit
+(21 à 48). **Les huit qui manquent** sont celles dont la rédaction dépend d'une réponse qu'on
+attend : les trois datées au 13/10 pour ciblage faible, El Wifaq et GPS Ibérica, M&A Glass,
+Taniglass et The Glass Warehouse.
+
+**Les quatre numéros 45 à 48 sont à lire avant d'écrire** : ce sont les seuls où le message doit
+porter une **réserve explicite** — demander à Miami s'il est client ou concurrent, ne pas proposer
+de gamme architecturale à un serriste, dire soi-même la contrainte du rail vers la Saskatchewan, et
+ne pas écrire à une maison sino-canadienne comme si elle n'avait pas de fournisseur. **Dire la
+limite de son offre soi-même est ce qui rend le reste crédible.** L'intérêt est que la journée de
 demain soit de l'exécution et pas de la rédaction : le goulot d'étranglement se déplace vers le
 nombre d'envois que la boîte supporte, pas vers mon temps de travail.
 
@@ -846,6 +854,46 @@ multi-émirats achète en volume agrégé. **Demander le bon interlocuteur verre
 attribue la boîte `gw@` à la division bois alors que l'ancien l'attribuait au verre, les deux
 pages se contredisent.
 *Ports :* Khalid ou Khor Fakkan.
+
+---
+
+## 29 à 44. Le reste de la file — ouverture et gamme, le socle étant écrit
+
+Pour ces seize-là, le corps reprend un socle déjà écrit plus haut : identification en première
+ligne, la gamme liée selon le métier, « conteneurs complets, caisses NIMP-15, jumbo 3210 × 2550 ou
+à cotes, charge utile 23 à 25 t », l'offre au port **sous réserve de validation**, une seule
+question, et la porte de sortie. **Ce qui change est l'ouverture — et c'est tout ce qui compte**,
+parce que c'est la seule phrase qui prouve qu'on a regardé la société.
+
+| # | Société · adresse · langue | Ouverture, à reprendre telle quelle | Gamme · port |
+|---|---|---|---|
+| 29 | **Arkiglass** — Maroc · `arkiglass@arkiglass.ma` · **FR** | « Je vous écris pour une raison précise : vous faites du pare-balles et du coupe-feu. Un empilage de ce type ne pardonne pas un substrat irrégulier — ce qui passe inaperçu sur un simple vitrage se voit en sortie d'autoclave. » | vitrage technique + float · Mohammedia ou Casablanca |
+| 30 | **Alma Glass** — Riyad · `almariyadh@almaglass.com.sa` · EN/AR | « You describe yourselves as the first plant in the Kingdom to process tempered and double-glazed glass. Sixty years in, you have seen every supplier come and go, so I will not tell you about our range - I will ask about your hardest thickness to source. » | float + low-E + vitrage technique · Dammam |
+| 31 | **Al Ashoury Glass** — Riyad · `info@alshoury-industry.com` · EN/AR | « I am writing to the address your own site publishes, which is on your industrial company's domain rather than the glass one - if this is not the right entry point, tell me which is. » *(Exception §5 : domaine différent du site.)* | float + trempe · Dammam |
+| 32 | **Vidrio Centro** — Managua · `hola@vidriocentronic.com` · ES | « Su propio sitio los describe como proveedor **e importador** de vidrio, aluminio y accesorios, con más de 25 años en el mercado nicaragüense. No tengo nada que demostrarles sobre el interés de importar: la única pregunta útil es si un segundo origen les sirve. » | float + miroir sans cuivre (ils font du miroir LED) · Corinto |
+| 33 | **Vidriera Eurocaribe** — Santiago, RD · `info@vidrieraeurocaribe.com` · ES | « Ustedes se presentan como importadores y distribuidores, con presencia en Santiago, La Vega y Santo Domingo. Tres plazas significa que un contenedor no se queda en un almacén: se reparte. » | float + miroir + laqué · Haina ou Puerto Plata |
+| 34 | **Imporvidrios** — Villa Consuelo, RD · `ventas@imporvidrios.com` · ES | « Venden vidrio **en planchas** y al corte, en varios espesores. Quien vende la plancha la compra, y ahí es donde un contenedor completo cambia la aritmética. » **Et poser la question d'identité** : « Una pregunta administrativa: ¿Imporvidrios e Importadora de Vidrios y Espejos Milagros son la misma casa? Tenemos las dos en nuestros registros con el mismo teléfono. » | float + miroir · Haina |
+| 35 | **City Glasses** — Bahreïn · `info@cityglassbh.com` · EN/AR | « Three sites - the glass plant and trading head office at Salmabad, a second glass plant at Hidd, an aluminium plant at Hamala - for a market the size of Bahrain tells me you are supplying beyond it. » | float + trempe + miroir · Khalifa Bin Salman |
+| 36 | **GlassTempCorr** — Lima · `ventas@glasstempcorr.com.pe` · ES | « Cuatro plantas, incluida una en **Arequipa**: eso es cobertura nacional y no sólo Lima. » *(Ne pas servir le même message qu'à Corporación Limatambo : ce sont des concurrents directs sur la même avenue.)* | float + low-E · Callao |
+| 37 | **Conlumi / Contempera** — São Paulo · `contatos@contempera.com.br` · **PT** | « Escrevo pelo laminado estrutural e de temperado do catálogo de vocês: é o produto que menos perdoa um substrato irregular, porque o defeito aparece depois do autoclave e não antes. » **Et demander, sans affirmer** : « A Contempera e a Conlumi são a mesma casa? » | float + vitrage technique · Santos |
+| 38 | **Distrividrios Antioquia** — Medellín · `distrividriosantioquia.lh@hotmail.es` · ES | « Se describen como venta de vidrio **al por mayor**, en todos los tipos y calibres. » **Message court** : structure modeste, question de volume d'abord, pas d'effort de rédaction. | float · Carthagène |
+| 39 | **Vidrios y Más** — Panama · `consultas@vidriosymaspa.com` · ES | **Message court**, même traitement : question de volume annuel avant toute offre. **Dernier du lot.** | float · Balboa ou Colón |
+| 40 | **Virgin's International Trading** — Kingston · `virgins.intltrading18@gmail.com` · EN | « You extrude and trade aluminium, and you carry a glass category - balcony balustrades, shower screens, windows and doors. Balustrades and showers mean thick toughened glass, and Jamaica means laminated. » *(Exception §5 : gmail publié par eux.)* | float épais + vitrage technique · Kingston |
+| 41 | **Kendra's Aluminium** — Saint-Vincent · `info@kendrawindows.com` · EN | « Your range includes a roll-up hurricane shutter and security bars, which tells me what your market asks of glass. » **Poser le volume annuel d'abord**, et accepter un « trop pour nous » : 100 000 habitants. | feuilleté · Kingstown |
+| 42 | **TecAlu** — Sint Maarten · `info@tecalu.com` · EN/FR | « Your catalogue is built on TECHNAL, a French aluminium system. So you already work with European supply, and I do not have to convince you that Europe can deliver to a Caribbean island. » | feuilleté + float · Philipsburg |
+| 43 | **Gr8 Vision / Premier Aluminium** — Freetown · `info@gr8vision-sl.com` · EN | « Three sites, one of them a workshop at Obama Junction, is a real operation rather than a reseller. » *(Leur site publie deux domaines pour la même boîte : celui du site a été retenu.)* | float + miroir · Freetown |
+| 44 | **Vidral** — Guatemala · `info@vidralgt.com` · ES | « Fabrican vidrio templado desde 1985 junto con la herrería y el aluminio europeo. » **Volume d'abord** : atelier de périphérie, structure probablement moyenne. **Après le lot principal.** | float · Puerto Quetzal ou Santo Tomás |
+
+---
+
+## 45 à 48. Les quatre à traiter avec une réserve explicite dans le message
+
+| # | Société | Ce que le message doit dire, et c'est inhabituel |
+|---|---|---|
+| 45 | **Glass Global Distributors** — Miami · `sales@glassglobalonline.com` · EN | **Poser la question sans supposer la réponse** : « Before I pitch you anything: are you buying float to distribute, or are you exporting American glass to the Caribbean? If it is the second, we are on the same side of the table and I will leave you alone. » Honnête, et ça évite de démarcher un concurrent. |
+| 46 | **SkyHigh Greenhouse** — Leamington · `info@skyhighgreen.com` · EN | **Ne proposer aucune gamme architecturale.** « I am not going to send you a range of architectural glass, because that is not what a greenhouse takes. My question is simpler: who buys the glass on your projects - you or the grower - and in what sizes? » |
+| 47 | **Dynamic Glass & Door** — Saskatoon · `administration@dynamic-glass.com` · EN | **Dire la contrainte logistique soi-même** : « Saskatchewan is landlocked, so a container reaches you by Vancouver or Montreal and then by rail. I am not going to quote you a delivered price I cannot hold. » Plus la demande de transmission : `administration@` n'est pas les achats. |
+| 48 | **Vanbo Glass** — Surrey · `info@vanboglass.ca` · EN | **Ne pas écrire comme s'ils n'avaient pas de fournisseur** : une partie de leur site est en chinois, ils sont probablement approvisionnés en Asie. « You almost certainly have an Asian supply line already, and I am not writing to replace it. » |
 
 ---
 
