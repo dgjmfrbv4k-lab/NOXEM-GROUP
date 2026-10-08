@@ -2012,3 +2012,109 @@ un transformateur de ce type — il reste à savoir s'il l'est chez nous.
 2. **Continuer le déverrouillage sur les ~70 fiches restantes** qui ont un site et pas d'adresse.
    C'est le meilleur rendement disponible.
 3. **Recontrôler le 10/10** les rebonds des envois du 08 et du 09.
+
+---
+
+## 08/10/2026 — suite de l'après-midi · La méthode marche aussi sans site, et la fenêtre ouest-africaine se referme
+
+### Chiffres cumulés de la journée
+
+| | |
+|---|---|
+| Sociétés passées au crible | **88** |
+| Adresses obtenues | **55** (62 %) |
+| Envois confirmés | **3** (Distribuidora del Caribe, Corporación Limatambo, renvoi Zrcalo) |
+| **Fiches en file d'envoi** | **50** — 47 au 09-10/10, 3 datées au 13/10 |
+| Fiches créées | 2 (Vidral Guatemala, Vidralum Colón) |
+| Réponses qualifiées | 0 sur ces envois — aucun n'a plus de trois heures |
+| Demandes de devis | 0 nouvelle |
+| Commandes | 0 |
+| Registre | **848 fiches**, 0 malformée, 0 statut vide, 0 vrai doublon |
+| Liste d'appels | 127 fiches (contre 162 ce matin : 35 sont passées en envoi) |
+
+### L'extension de la méthode — et c'est elle qui ouvre le vrai gisement
+
+Ce matin la méthode supposait que la fiche ait un site. **Elle n'en a pas besoin.** En deux temps :
+
+1. recherche **large** sur le nom, avec les annuaires **et** les courtiers de données bloqués,
+   pour faire remonter le **domaine propre** de la société ;
+2. recherche restreinte à ce domaine pour l'adresse.
+
+**Validé trois fois sur trois** : City Glasses (Bahreïn), Vidriera Eurocaribe et Imporvidrios
+(République dominicaine). Le second temps sert aussi de **preuve** : si la recherche restreinte
+rend une des pages de la société, le domaine est bien le sien. Un domaine vu seulement dans un
+annuaire ne prouve rien.
+
+**Le gisement n'est donc plus de 102 fiches mais de l'ordre de 215** — les 159 fiches en appel et
+les 56 à qualifier, qu'elles aient un site ou non. À 62 %, c'est beaucoup plus que ce que la boîte
+d'envoi peut absorber. **Le facteur limitant de la campagne a changé de place dans la journée :
+ce n'est plus l'accès aux coordonnées, c'est le volume d'envoi que le domaine supporte.**
+
+### Et le premier temps rend parfois mieux qu'une adresse : la bonne identité
+
+La fiche « Importadora de Vidrios y Espejos Milagros » n'a pas de site. La recherche large a fait
+remonter une société voisine, **Imporvidrios SRL**, au 110 de la même rue, dans le même secteur de
+Villa Consuelo, et **avec exactement le téléphone de la fiche**. Leur site publie
+`ventas@imporvidrios.com`.
+
+Ce qui est établi : les deux raisons sociales désignent très probablement la même maison,
+Imporvidrios étant le nom commercial. Ce qui ne l'est pas : la preuve formelle.
+**Conduite tenue : un seul message, et la question d'identité posée dans l'échange. Pas de seconde
+fiche avant d'avoir tranché** — ce serait fabriquer le doublon que le §5 cherche à éviter.
+
+Même logique sur **Vidral Panama**, dont la recherche a levé un vrai piège : « Vidral » seul
+remonte une société **guatémaltèque** distincte, et « Vidralum » remonte des maisons du Chili,
+d'Espagne, du Mexique, du Pérou et de Colombie. Aucune coordonnée Vidralum ne doit être prise pour
+celle de Vidral Panama. La fiche a quand même gagné une adresse et deux téléphones, par le
+**registre officiel des entreprises du Panama** — source publique, pas un annuaire.
+
+### Le fait le plus important de la journée, et il ne porte pas sur la prospection
+
+**Le Ghana construit une usine float de 250 M$ à Shama**, portée par KEDA (Ghana) Ceramics,
+capital chinois. Première pierre le 24/02/2026. Phase 1 : 600 t/jour. Phase 2 : +800 t/jour, soit
+1 400 t/jour. Projet annoncé **tourné vers l'export**, ~100 M$ de ventes annuelles visées.
+
+**Ce que je ne sais pas, et je le dis :** l'échéance d'août 2026 est passée, **aucune mise en
+service n'est rapportée** — vérifié deux fois dont une en recherche approfondie. Et le chantier se
+contredit sur son calendrier : août 2026 selon le président et un responsable de KEDA, « environ
+dix-huit mois » selon un autre compte rendu, ce qui renverrait à août 2027. **L'incertitude est
+d'un an.** Je ne construis pas une urgence sur une date que je ne tiens pas.
+
+Mais le fait structurel tient : Shama est à 20 km du port de Takoradi, et 1 400 t/jour avec un
+mandat d'export visent la Côte d'Ivoire, le Nigéria, le Bénin, le Togo, le Sénégal et l'hinterland
+sahélien — **une quarantaine de fiches de ce registre**, dont ALUTRACO à Cotonou, notre meilleure
+porte vers le Burkina, le Mali et le Niger. **C'est la seule zone de la campagne dont on sache
+qu'elle se referme.** Versé à `DECISIONS-AARON.md` : si une grille de prix doit sortir en premier
+sur une zone, c'est celle-là.
+
+### Dix messages écrits d'avance
+
+`a-envoyer/2026-10-09-textes-prets.md` contient les dix premiers messages rédigés, prêts à partir.
+L'intérêt est que demain soit de l'exécution. **Et deux affirmations non vérifiées en ont été
+retirées avant d'être écrites** : l'absence de production float au Salvador et au Cambodge.
+Aucune source ne les établit, donc elles ne s'écrivent pas. Pour le Cambodge, un fait sourcé les
+remplace et vaut mieux : le verrier thaïlandais BG Float Glass annonce qu'environ 40 % de ses
+exportations de float partent vers ce pays.
+
+### Trois fiches datées au 13/10 exprès
+
+GlasPro et Northwestern Glass Fab (États-Unis) et Réunivitre (La Réunion) ont une adresse valide
+mais un ciblage faible : float produit sur place aux États-Unis avec en plus un post-acheminement
+par rail vers le Minnesota, et un poseur-vitrier et non un importateur à La Réunion. Elles partent
+après le lot principal, sans l'effort de rédaction réservé aux marchés sans float.
+**Une adresse ne justifie pas un envoi : c'est le ciblage qui le justifie.**
+
+### Trois marchés passés de zéro à sendable aujourd'hui
+
+- **Paraguay** : 0 envoi sur 7 sociétés → **3 adresses** (AGPAR, VILUX, Casa Barrios).
+- **République dominicaine** : 2 adresses par la méthode en deux temps (Eurocaribe, Imporvidrios).
+- **Bahreïn** : 1 adresse, City Glasses, trois sites industriels.
+
+### Priorités du 09/10, inchangées
+
+1. **Partir les 10 messages déjà écrits**, puis la suite du lot, par vagues de 5. AGPAR en premier.
+2. **Continuer le déverrouillage** sur les ~215 fiches en appel ou à qualifier, méthode en deux
+   temps. Mais **ne plus accumuler au-delà de ce que la boîte peut envoyer** : le goulot a changé
+   de place.
+3. **Recontrôler le 10/10** les rebonds des envois du 08 et du 09 — un rebond anti-spam peut
+   arriver près de deux heures après l'envoi.

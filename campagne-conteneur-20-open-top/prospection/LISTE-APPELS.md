@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **130 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **127 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -15,7 +15,7 @@ l'**Australie** et le **Paraguay** sont passes a l'heure d'ete australe, leurs f
 ## Pourquoi cette liste est l'actif le plus sous-exploite de la campagne
 
 Mesure du 08/10 : **aucun pays du registre n'a plus de fiche avec adresse jamais contactee.**
-Tout ce qui pouvait partir par e-mail est parti. Ces 130 fiches sont le gisement restant,
+Tout ce qui pouvait partir par e-mail est parti. Ces 127 fiches sont le gisement restant,
 et elles ne s'ouvriront pas autrement qu'au telephone.
 
 La cause est connue et chiffree : la lecture web est coupee, donc je ne peux pas atteindre les
@@ -31,7 +31,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 117 societes
+## Hors Europe — 116 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Bolivie | **VASA Vidrieria Boliviana S.A.** | `+591 3 535356` | 15h00 - 23h00 | A QUALIFIER | AMBIGUITE A LEVER : le nom VASA figure dans notre liste de producteurs float concurrents. Cette societe bolivienne annonce fabriquer ET importer du verre plat. Ne pas demarcher avant d avoir etabli s il s agit du meme groupe. C... |
 | Madagascar | **ALU DESSIN LTD** | `+261 20 22 681 21` | 08h00 - 16h00 | A APPELER | Immeuble EDBM Avenue Gal Gabriel Antaninarenina. Se declare importateur. Aucune adresse email propre publiee : a appeler |
 | Nicaragua | **Vidrio Centro S.A.** | `+505 2231 7204` | 17h00 - 01h00 | A APPELER | IMPORTATEUR DECLARE, plus de 25 ans sur le marche nicaraguayen. WhatsApp +505 8402 6128. Adresse email masquee en ligne : appeler ou WhatsApp. Port Corinto. Plus de 25 ans a Managua. Facades portes fenetres et miroirs en alu et... |
-| République dominicaine | **Importadora de Vidrios y Espejos Milagros S.A.** | `+1 809 245 3566` | 15h00 - 23h00 | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. |
+| Panama | **Vidral Panama S.A.** | `504-4528 et 504-4460` | 16h00 - 00h00 | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. ENRICHIE LE 08/10 PAR UNE SOURCE OFFICIELLE, ET LE NOM EST CONFIRME. La methode en deux temps n a pas rendu de site, mais le REGISTRE DES ENTREPRISES DU PANAMA, Panama Emprende, list... |
 | Cameroun | **LOWA VITRERIE** | `+237 2 33 40 21 30` | 10h00 - 18h00 | A APPELER | Vitrier-negociant sur Douala. Relance 08/10 une seule question plus porte de sortie. Controle MX impossible : resolveur DNS de la session hors service. Regle anti-rebond satisfaite et adresse ayant deja recu un envoi en septemb... |
 | Cameroun | **BATALU VERRE** | `+237 6 77 40 88 50` | 10h00 - 18h00 | A APPELER | Sur Douala, premier port d'Afrique centrale. Relance 08/10 REBONDIE : 552 Requested mail action aborted mailbox not found. L adresse kometayembu@yahoo.fr est morte, retiree du champ email. A rappeler pour en obtenir une valide. |
 | Canada | **Wallis Glazing** | `+1 306 321 2663` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. Acheteur de vitrage. |
@@ -98,6 +98,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Mexique | **Millet Industria de Vidrio** | `+52 999 930 2381` | 17h00 - 01h00 | A APPELER | Contact nomme Humberto Vital, fonction non verifiee. Adresse en millet.com.mx alors que la page trouvee est sur un sous-domaine d annuaire : regle anti-rebond, aucun envoi. A appeler. VERIFIE LE 08/10, ADRESSES REDACTEES sur to... |
 | Oman | **Al Aliyat Glass Factory** | `+968 93021153` | 07h00 - 15h00 | A APPELER | À qualifier. Qualifie le 07/10 : bend glass, fibre, brique de verre, bardage verre, feuillete. Contact cite Zahar Al Jafri, fonction non verifiee donc pas de nom dans le message. Aucune adresse publiee : a appeler. |
 | Ouganda | **Ahmad Glazing Uganda Ltd** | `+256 707 922403` | 08h00 - 16h00 | A QUALIFIER | PRUDENCE : la page de la societe decrit un fabricant base en Chine et affiche un numero WeChat en +86. Probable vitrine d un fournisseur chinois plutot qu un transformateur ougandais. La Chine etant exclue au paragraphe 6 comme... |
+| Panama | **Vidralum S.A.** | `+507 442 8833` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 08/10. Grep fait AVANT creation : aucune fiche Vidralum au registre. Societe trouvee en verifiant la fiche Vidral Panama, dont elle est DISTINCTE — ne pas les confondre, c est le piege de cette serie de noms. Imp... |
 | Émirats arabes unis | **Abbas Tempering Industry LLC** | `+971 4 267 7740` | 07h00 - 15h00 | A APPELER | Trempeur : cible float 4-12 mm. Numero normalise le 08/10 au format international, il etait au format local de Dubai.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relan... |
 | Éthiopie | **Abdi Aluminium & Glass Works** | `+251 911 262649` | 08h00 - 16h00 | A APPELER | Fabricant de facades et murs rideaux donc consommateur de verre. Adresse masquee par l annuaire : a appeler. Pays enclave, transit via Djibouti. FUSION DU 08/10, detectee par un balayage systematique du registre : 1 fiche(s) en... |
 | Arabie saoudite | **Al-Thiabi Glass** | `+966 56 153 6402` | 08h00 - 16h00 | A QUALIFIER | NON CONTACTEE VOLONTAIREMENT, et c est le point important. L adresse sales arobase althiabiglass.com est bien publiee sur leur propre site donc exploitable, MAIS leur activite reelle est la POSE et le DEPANNAGE : cloisons et po... |
@@ -123,7 +124,6 @@ ne pas les appeler en se presentant comme un premier contact.
 | Guinée | **VFK SARL — Vitrerie et Ferronnerie chez KASSA** | `+224 623 10 09 09` | a verifier | A APPELER | Marche de la vitrerie actif a Conakry mais aucune adresse email publiee dans le pays. Port Conakry. A appeler. |
 | Guyana | **Royal Glass & Aluminum Works** | `+592 227 5227` | 15h00 - 23h00 | A APPELER | 62 Cummings Street Albertown Georgetown. Aucune adresse email publiee : a appeler |
 | Haïti | **Les Entreprises Plastech Haiti** | `+509 2813 1422` | 15h00 - 23h00 | A QUALIFIER | ADRESSE sales ECARTEE : relevee dans un annuaire, le domaine plastechhaiti.com n apparait pas dans les URL de resultats qui pointent vers lephsa.com. Et surtout la gamme n est pas etablie : rien ne confirme qu ils vendent du ve... |
-| La Réunion | **Réunivitre** | `+262 693 47 00 58` | 07h00 - 15h00 | A APPELER | Aucune adresse publiee. |
 | Madagascar | **FDC Madagascar — Future Development Corporation Ltd** | `+261 20 22 265 20` | 08h00 - 16h00 | A APPELER | Lot I V M 38 Andohatapenaka. Meme enseigne que FDC Mozambique deja contacte le 25/09 : verifier s'il s'agit du meme groupe et le cas echeant passer par le contact mozambicain. Aucune adresse email publiee : a appeler |
 | Madagascar | **Tometal** | `+261 20 22 541 88` | 08h00 - 16h00 | A QUALIFIER | Pres III A 49 Antananarivo 101. Transit Toamasina puis route sur Tana. Angle retenu : 20 pieds pour demarrer et calage pense pour la route. Mini-mail sur mesure FR CONTROLE MX DU 07/10 : le domaine tometal.net ne resout pas (NX... |
 | Malaisie | **Glass Network (M) Sdn Bhd** | `+60 3 6253 2939` | 03h00 - 11h00 | A APPELER | Aucune adresse publiee. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : une de leurs pages de services invite pourtant a ecrire a la societe sans donner l adresse, et la page de contact renvoie vers Facebook, Instagram et WhatsApp. ... |
@@ -137,7 +137,6 @@ ne pas les appeler en se presentant comme un premier contact.
 | Trinité-et-Tobago | **Caribbean Glass & Aluminium Products Ltd** | `+1 868 633 1030` | 15h00 - 23h00 | A APPELER | Adresse masquee par l'annuaire. Sert plusieurs iles. Ports Port of Spain ou Point Lisas. Complement du 08/10 : la societe a une agence a Saint-Vincent, Grenville Street a Kingstown, tel +1 784 456 1729, en plus du siege de Port... |
 | Émirats arabes unis | **Liberty Aluminium** | `+971 6 743 1983` | 07h00 - 15h00 | A APPELER | Sous-traitant agree sur quatre emirats. Rebond 550 No Such User le 05/10 : adresse inexistante. |
 | Émirats arabes unis | **UAE Glass Works** | `+971 58 154 5520` | 07h00 - 15h00 | A APPELER | Structure modeste mais adresse publiee et verifiee. Rebond 550 5.1.1 le 05/10 : adresse inexistante. |
-| États-Unis | **Northwestern Glass Fab** | `+1 763 762 1750` | 15h00 - 23h00 | A APPELER | Aucune adresse generique publiee : seules des adresses nominatives vendues par courtier, donc ecartees. |
 | États-Unis | **SGC Specialty Glass Company** | `+1 323 318 2998` | 15h00 - 23h00 | A APPELER | Revend du float importe : profil acheteur direct. Aucune adresse publiee. |
 | États-Unis | **Wholesale Glass Distributors Inc** | `+1 800 277 5223` | 15h00 - 23h00 | A QUALIFIER | Aucune adresse publiee. VERIFIE LE 08/10, RESULTAT NEGATIF A CONSIGNER : une recherche restreinte a leur domaine wholesaleglassdist.com ne rend AUCUN resultat, et une seconde recherche sur le nom seul n en rend pas davantage. L... |
 | États-Unis | **Signature Glass & Mirror** | `+1 305 385 6876` | 15h00 - 23h00 | A APPELER | Exportateur declare. Aucune adresse publiee dans les resultats : a appeler. |
@@ -153,7 +152,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Haïti | **L Union Quincaillerie Materiaux de Construction** | `+509 35 27 03 30` | 15h00 - 23h00 | A QUALIFIER | La fiche ne mentionne pas de vitrerie : rien ne dit qu ils vendent du verre. Priorite basse, a qualifier avant tout effort. |
 | Sénégal | **SK ALU** | `+221 65 944 90 80` | 11h00 - 19h00 | A APPELER | Petite structure, à qualifier.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relance comme au decompte des fiches jamais contactees. Aucune adresse publiee, donc dossier... |
 
-## Europe — 13 societes
+## Europe — 11 societes
 
 Rappel du paragraphe 6 : **pas de nouvelle prospection europeenne.** Ces fiches ne s'appellent que
 s'il s'agit de relancer un dossier deja ouvert.
@@ -164,9 +163,7 @@ s'il s'agit de relancer un dossier deja ouvert.
 | Espagne | **Ramos Industria del Vidrio S.L.** | `+34 916 850 195` | 09h00 - 17h00 | A APPELER | 7000 m2 d usine et 2000 tonnes de stockage, centre de distribution a Fuenlabrada. Port Valence ou Bilbao, envoi en espagnol ADRESSE REBONDIE le 25/09 (550 5.1.1) : appeler le +34 916 850 195. |
 | Lituanie | **UAB SKP stiklas** | `+370 37 455 530` | 08h00 - 16h00 | A APPELER | Un des plus gros fabricants de vitrage isolant des pays baltes. Aucune adresse email publiee : a rappeler. |
 | Pologne | **Glass Hurt** | `+48 530 412 642` | 09h00 - 17h00 | A APPELER | Grossiste sur la Triville (Gdansk, Gdynia, Sopot), a 10 minutes du port. Aucune adresse email publiee : a rappeler. |
-| Royaume-Uni | **The Glass Warehouse** | `+44 20 8500 1188` | 10h00 - 18h00 | A APPELER | 51-55 Fowler Road, Hainault Business Park. Aucune adresse email publiee : a rappeler. |
 | Allemagne | **Völker Glashandel GmbH** | `+49 40 851 7480` | 09h00 - 17h00 | A APPELER | Winsbergring 30. Activite import-export declaree. Aucune adresse email publiee : a rappeler. |
-| Norvège | **Glass & Import AS (GIAS)** | `+47 466 11 111` | 09h00 - 17h00 | A APPELER | LE NOM DIT L ACTIVITE : import de verre. Skibrekkberga 9. Aucune adresse email publiee : appeler Kjell Roger Larsen. |
 | Allemagne | **HoffmannGlas GmbH + Co. Glasgroßhandlung KG** | `+49 5171 2910` | 09h00 - 17h00 | A APPELER | Grossiste independant de taille moyenne, deux sites. Aucune adresse email publiee : a rappeler. |
 | Belgique | **Lauryssens Glas** | `+32 3 660 13 87` | 09h00 - 17h00 | A APPELER | Leugenberg 208. Grossiste independant servant entreprises et particuliers. Seule une adresse comptable est publiee : appeler le service commercial. |
 | Serbie | **ROMIKS** | `+381 63 696 446` | 09h00 - 17h00 | A APPELER | Pays enclave : transit par Koper. ADRESSE REBONDIE : rappeler au +381 63 696 446. CONTROLE MX DU 07/10 : le domaine romiks.rs ne resout pas (NXDOMAIN), l adresse info@romiks.rs ne peut pas recevoir. Adresse retiree du registre.... |

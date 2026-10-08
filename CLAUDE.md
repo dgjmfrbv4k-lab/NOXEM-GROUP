@@ -80,7 +80,7 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 - **Jamais prétendre qu'un prospect a consulté le site** sans donnée le confirmant.
 - **Jamais de courtiers de données** : ZoomInfo, RocketReach, Lusha, Apollo, success.ai,
   ContactOut, SignalHire, prospeo, datanyze, aeroleads, Volza, seair, exportgenius,
-  **Trademo, Eximpedia** (ajoutés le 08/10 : ce sont les mêmes bases de données douanières
+  **Trademo, Eximpedia, Tendata, importgenius** (ajoutés le 08/10 — Tendata est remontée l'après-midi sur une recherche dominicaine et vend des relevés d'importation nominatifs, donc même nature : ce sont les mêmes bases de données douanières
   que Volza, seair et exportgenius, remontées le même jour sur l'Afrique de l'Ouest. Tout
   site qui vend des relevés d'importation ou des contacts d'acheteurs tombe sous cette règle,
   qu'il soit nommé ici ou non — c'est la nature du service qui compte, pas le nom).
@@ -135,9 +135,13 @@ mise en service annoncée pour août 2026. Phase 2 : +800 t/jour, soit 1 400 t/j
 Le projet est présenté comme **tourné vers l'export**, avec ~100 M$ de ventes annuelles visées,
 et comme devant réduire les importations ghanéennes (plus de 65 000 t de produits verriers
 importés en 2024 pour près de 25 M$, chiffre donné par Mahama).
-**Statut au 08/10 : l'échéance d'août 2026 est passée et aucune mise en service n'est rapportée**
-dans les sources atteignables — soit elle n'a pas été couverte, soit le calendrier a glissé.
-C'est un fait à vérifier, pas un fait établi.
+**Statut au 08/10, vérifié deux fois dont une en recherche approfondie : l'échéance d'août 2026
+est passée et aucune mise en service n'est rapportée.** La couverture la plus récente reste
+celle de février-mars 2026. **Et les déclarations du chantier se contredisent sur le calendrier :**
+le président et un responsable de KEDA annoncent la phase 1 pour août 2026, tandis qu'un autre
+compte rendu parle d'« environ dix-huit mois » avant le démarrage de la production, ce qui
+renverrait plutôt à août 2027. L'échéance réelle est donc **incertaine d'un an**. C'est un fait
+à vérifier localement, pas un fait établi : ne pas s'en servir comme d'une date.
 **Deux conséquences, à ne pas confondre.**
 1. **Pour le Ghana (9 fiches) :** ne plus écrire qu'il n'y a pas de production locale sans avoir
    vérifié l'état de l'usine. Si la phase 1 tourne, l'argument est faux.
@@ -402,6 +406,20 @@ il a dit ne pas avoir de besoin actuellement.
   (gmail, ou un domaine de société sœur) — l'exception du §5 s'applique alors et doit être notée
   dans la fiche ; et beaucoup de sites n'exposent qu'un formulaire ou une adresse obfusquée, qui
   reste un dossier téléphonique.
+  **EXTENSION TROUVÉE LE 08/10 EN FIN DE JOURNÉE — la méthode marche aussi sur les fiches SANS
+  site, et c'est elle qui ouvre le vrai gisement.** En deux temps : (1) recherche **large** sur le
+  nom de la société, avec les annuaires **et** les courtiers de données bloqués par
+  `blocked_domains`, pour faire remonter son **domaine propre** ; (2) recherche restreinte à ce
+  domaine pour l'adresse. Validé trois fois sur trois : City Glasses (Bahreïn), Vidriera
+  Eurocaribe et Imporvidrios (Rép. dominicaine). Le second temps sert aussi de **preuve que le
+  domaine est bien le leur** : si la recherche restreinte rend une de leurs pages, c'est confirmé ;
+  un domaine vu seulement dans un annuaire ne l'est pas.
+  **Et le premier temps rend parfois mieux qu'une adresse : la bonne identité.** La fiche
+  « Importadora de Vidrios y Espejos Milagros » a fait remonter une société voisine, Imporvidrios
+  SRL, qui porte **le même téléphone et le même secteur** — très probablement la même maison sous
+  son nom commercial. Dans ce cas : un seul message, et la question d'identité posée dans
+  l'échange. **Ne jamais créer la seconde fiche avant d'avoir tranché**, ce serait fabriquer le
+  doublon que le §5 cherche à éviter.
 - **Ce blocage est devenu LE goulot d'étranglement, devant le ciblage et devant le message.**
   Mesuré sur les lots du 08/10 : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7,
   Zone Libre de Colón 0, Cap-Vert 1 sur 6. Les sociétés sont trouvées et qualifiées, mais

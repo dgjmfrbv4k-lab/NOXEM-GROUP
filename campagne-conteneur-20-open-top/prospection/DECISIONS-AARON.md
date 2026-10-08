@@ -177,8 +177,12 @@ ventes annuelles visées. Le président a cité plus de 65 000 tonnes de produit
 par le Ghana en 2024, pour près de 25 M$ — c'est le marché que l'usine vise à remplacer.
 
 **Ce que je ne sais pas, et je le dis :** l'échéance d'août 2026 est passée et **aucune mise en
-service n'est rapportée** dans les sources que j'atteins. Soit elle n'a pas été couverte, soit le
-calendrier a glissé. Je ne peux pas trancher.
+service n'est rapportée** dans les sources que j'atteins — vérifié deux fois, dont une en
+recherche approfondie. La couverture la plus récente date de février-mars 2026.
+**Et le chantier se contredit sur son propre calendrier :** le président et un responsable de
+KEDA donnent août 2026 pour la phase 1, un autre compte rendu parle d'« environ dix-huit mois »
+avant le démarrage, ce qui renverrait à août 2027. **L'incertitude est donc d'un an.** Je ne
+peux pas trancher d'ici, et je ne construis pas une urgence sur une date que je ne tiens pas.
 
 **Pourquoi cela te concerne.** Shama est à 20 km du port de Takoradi. Une ligne de 1 400 t/jour
 avec un mandat d'export explicite ne vise pas seulement le Ghana : elle vise la Côte d'Ivoire, le
