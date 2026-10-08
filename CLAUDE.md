@@ -394,6 +394,15 @@ donc un concurrent sur toute la zone, et un concurrent actif commercialement en 
 **Arabian United Float Glass Company (UFG)** (Arabie saoudite — ajouté le 08/10. Le royaume compte
 donc au moins quatre producteurs float avec Obeikan, Zoujaj et Guardian : **ne jamais employer
 l'argument du float absent en Arabie saoudite**, c'est le marché le mieux pourvu de la zone),
+**PIÈGE DE NOM À CONNAÎTRE AVANT DE DÉCLASSER QUOI QUE CE SOIT SUR CETTE LISTE, trouvé le
+08/10 :** *zoujaj* (زجاج) veut simplement dire **verre en arabe**. Le mot dans une raison sociale
+ne renvoie donc pas au producteur float saoudien **Zoujaj** nommé ci-dessus. Cas réel :
+**Bullseye Zoujaj**, à Doha, aussi appelée *Bullseye Glass Co.*, est un transformateur-poseur de
+mur-rideau, de garde-corps et de parois de douche, sans lien établi avec le Saoudien — c'est une
+**cible**, pas un concurrent, et elle est passée en file d'envoi le 08/10. **La règle générale :
+sur cette liste, c'est la société qui compte, jamais le mot. Vérifier le métier avant d'écarter
+une fiche sur une ressemblance de nom** — le §5 interdit déjà de déduire une activité d'un mot,
+c'est la même erreur que « verrerie » sur SEVAM, prise par l'autre bout.
 **SGC International Inc.** (États-Unis — ajouté le 08/10 : ce n'est pas un transformateur mais **le bureau exclusif de vente et de service de CSG, China Southern Glass, pour les États-Unis et le Canada**, à Commerce en Californie. La fiche du registre le nommait « SGC Specialty Glass Company », ce qui masquait sa nature. Trouvaille utile par l'autre bout : c'est exactement le circuit que le droit antidumping américain de 181 % frappe, donc exactement l'intermédiaire que les transformateurs américains doivent quitter),
 **Nasir Float Glass Industries** (Bangladesh — ajouté le 08/10. Premier float du pays, en service
 depuis 2005, environ 55 % du marché local annoncé, complexe de Tangail et centrale gaz propre.
