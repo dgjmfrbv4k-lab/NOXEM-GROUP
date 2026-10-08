@@ -50,6 +50,32 @@ Donc **chaque vague mélange les deux** : 3 relances courtes + 2 premiers contac
 
 ---
 
+## 2 bis. L'ordre a changé en fin de journée, et c'est la recherche qui l'a changé
+
+**Le plan ci-dessous a été écrit avant les vérifications douanières de l'après-midi. Elles le
+réordonnent, et il faut dire pourquoi plutôt que de réécrire en silence.**
+
+La carte établie entre 14 h et 14 h 35 dit ceci : **l'Afrique se ferme, les Amériques s'ouvrent.**
+L'Afrique de l'Est est **déjà** desservie par un producteur local qui exporte vers six pays.
+L'Afrique de l'Ouest se ferme, avec une échéance incertaine d'un an. Les États-Unis, le Brésil et
+le Mexique ont une production locale **plus** des barrières contre l'Asie — donc un prix de marché
+élevé, et c'est là que notre prix a la meilleure chance.
+
+**Trois priorités en découlent, et elles ne sont pas celles d'hier :**
+
+1. **L'Afrique de l'Ouest d'abord, parce qu'elle a une horloge.** ALUTRACO à Cotonou — notre porte
+   vers le Burkina, le Mali et le Niger —, TechnoGlass à Lagos et Gr8 Vision à Freetown partent
+   dans la première vague. Ce sont les seules fiches de la file dont la valeur **diminue avec le
+   temps**.
+2. **Puis l'Amérique du Nord et le Brésil, parce que le prix y a le plus de marge.** Les 43
+   relances canadiennes et les 26 américaines, sur les deux arguments vérifiés aujourd'hui, plus
+   Conlumi au Brésil et les trois fiches américaines de la file.
+3. **Le reste ensuite**, dans l'ordre déjà prévu.
+
+**Et une chose à ne pas faire : aucun envoi dans la zone est-africaine.** Aucune fiche de la file
+n'y est, c'est vérifié — mais les relances du reliquat en contiennent, et elles doivent en être
+retirées ou réécrites sur le low-E, le miroir sans cuivre et le vitrage technique uniquement.
+
 ## 3. Le plan, jour par jour
 
 ### Jeudi 09/10 — 18 messages

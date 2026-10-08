@@ -21,7 +21,15 @@ validation de notre côté » présente partout, une seule question exploitable 
 page produit choisie selon le métier du prospect (§8). Aucun n'affirme l'absence de production
 locale dans un pays qui en a.
 
-**Ordre d'envoi : par vagues de 5, en commençant par 1 à 5.** Les vingt-six autres fiches de la
+**ORDRE D'ENVOI RÉVISÉ EN FIN DE JOURNÉE — lire `PLAN-ENVOIS.md` avant de commencer.** Les
+vérifications douanières de l'après-midi ont réordonné les priorités : **l'Afrique de l'Ouest
+part en premier parce qu'elle a une horloge** (usine ghanéenne en construction), donc **le texte
+nº 8, ALUTRACO, passe devant le nº 1**, accompagné de TechnoGlass (nº 19) et de Gr8 Vision (nº 43).
+Viennent ensuite l'Amérique du Nord et le Brésil, où le prix a le plus de marge. Puis l'ordre
+ci-dessous.
+
+**Vagues de 5, espacées. 15 à 20 messages par jour**, en mélangeant relances courtes et premiers
+contacts longs. Les vingt-six autres fiches de la
 file gardent leur angle noté dans leur fiche du registre, sans texte rédigé.
 
 **Et une raison de ne pas tout envoyer le même jour, mesurée le 08/10 :** deux serveurs sans
