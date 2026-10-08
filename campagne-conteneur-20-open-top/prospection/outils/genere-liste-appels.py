@@ -31,6 +31,16 @@ OFF = {
  'Australie':11,'Nouvelle-Zelande':13,'Fidji':12,'Papouasie-Nouvelle-Guinée':10,'Samoa':13,
  'Tonga':13,'Vanuatu':11,'Îles Salomon':11,'Nouvelle-Calédonie':11,'Polynésie française':-10,
 }
+# Semaine ouvree dimanche-jeudi. Ajoute le 08/10 apres avoir constate que la liste
+# d'appels proposait implicitement du lundi au vendredi pour 26 fiches du Golfe et
+# d'Afrique du Nord, dont le vendredi est le jour de fermeture. Verifie sur une source
+# materielle pour l'Arabie saoudite, Glasshouse publiant lui-meme dimanche-jeudi 7h30-16h30,
+# samedi 7h30-13h30, vendredi ferme.
+# Les Emirats ne sont PAS dans cette liste : ils sont passes au lundi-vendredi en 2022,
+# avec un vendredi souvent ecourte. Le Maroc, la Tunisie et le Liban travaillent lundi-vendredi.
+DIM_JEU = {'Arabie saoudite','Qatar','Koweït','Bahreïn','Oman','Égypte','Jordanie','Irak',
+           'Yémen','Libye','Algérie'}
+
 def fenetre(pays, tel=''):
     if pays not in OFF: return 'a verifier'
     o=OFF[pays]
@@ -45,7 +55,10 @@ def fenetre(pays, tel=''):
     def f(h):
         h=(h)%24
         return '%02dh%02d' % (int(h), int(round((h-int(h))*60)))
-    return '%s - %s' % (f(11-o), f(19-o))
+    plage = '%s - %s' % (f(11-o), f(19-o))
+    if pays in DIM_JEU:
+        plage += ' · **dim-jeu**'
+    return plage
 
 def score(act, note):
     t=(act+' '+note).lower(); s=0
@@ -94,7 +107,19 @@ deja au conteneur n'a rien a apprendre, il compare un prix rendu : c'est la conv
 courte et la plus rentable.
 
 **Fenetres d'appel recalculees pour octobre 2026** (Paris = UTC+2 jusqu'au 25/10), pour tomber
-entre 9h et 17h chez l'interlocuteur. Attention, deux zones ont change depuis la version du 06/10 :
+entre 9h et 17h chez l'interlocuteur.
+
+**DEFAUT CORRIGE LE 08/10 — LE JOUR COMPTE AUTANT QUE L'HEURE.** Cette liste ne donnait que des
+heures, ce qui laissait entendre une semaine du lundi au vendredi. **Vingt-six fiches, soit une sur
+cinq, sont dans des pays dont la semaine va du dimanche au jeudi et dont le vendredi est le jour de
+fermeture** : Arabie saoudite, Qatar, Koweit, Bahrein, Oman, Egypte, Jordanie, Irak, Yemen, Libye,
+Algerie. Elles portent desormais la mention **dim-jeu** a cote de leur fenetre. Appeler l'une
+d'elles un vendredi, c'est une journee perdue, et le dimanche est au contraire un bon jour.
+Verifie sur une source materielle : Glasshouse, a Riyad, publie lui-meme dimanche a jeudi
+7h30-16h30, samedi 7h30-13h30, vendredi ferme.
+**Deux exceptions a ne pas confondre :** les **Emirats** sont passes au lundi-vendredi en 2022, avec
+un vendredi souvent ecourte, et le **Maroc**, la **Tunisie** et le **Liban** travaillent
+lundi-vendredi. Ces pays ne portent donc pas la mention. Attention, deux zones ont change depuis la version du 06/10 :
 l'**Australie** et le **Paraguay** sont passes a l'heure d'ete australe, leurs fenetres ont bouge.
 
 ## Pourquoi cette liste existe, et ce qui a change le 08/10 apres-midi

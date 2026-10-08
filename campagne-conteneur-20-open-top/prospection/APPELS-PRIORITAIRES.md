@@ -70,6 +70,31 @@ Ne pas annoncer de prix, de délai ni de certificat (§5). Ne pas dire « direct
 
 ---
 
+## AVANT DE DÉCROCHER — le jour compte autant que l'heure, et je l'avais oublié
+
+**Défaut trouvé le 08/10 à 15h30.** Cette feuille, comme la liste d'appels générée, ne donnait que
+des **heures**, ce qui laisse entendre une semaine du lundi au vendredi. **Faux pour une fiche sur
+cinq.**
+
+**Ces pays travaillent du dimanche au jeudi, et le vendredi est leur jour de fermeture :**
+Arabie saoudite, Qatar, Koweït, Bahreïn, Oman, Égypte, Jordanie, Irak, Yémen, Libye, Algérie.
+Appeler l'une de ces fiches un vendredi, c'est une journée perdue — et **le dimanche est au
+contraire un bon jour**, pendant lequel personne d'autre en Europe ne les appelle.
+
+**Vérifié sur une source matérielle plutôt que de mémoire :** Glasshouse, à Riyad, publie lui-même
+ses horaires — dimanche à jeudi 7h30-16h30, samedi 7h30-13h30, **vendredi fermé**.
+
+**Sur cette feuille, les fiches concernées sont :** Manna Glass (Riyad), Al Tbaynawi (Hail),
+Glasshouse (Riyad), Dr Greiche (Égypte), North Africa for Importing Glass (Libye), et toute autre
+fiche de ces onze pays.
+
+**Deux exceptions à ne pas confondre.** Les **Émirats** sont passés au lundi-vendredi en 2022, avec
+un vendredi souvent écourté — donc Mirodec Gulf, Abbas Tempering et les autres fiches émiriennes se
+traitent comme l'Europe. Et le **Maroc**, la **Tunisie** et le **Liban** travaillent
+lundi-vendredi : Choix Verre et Promoverre ne sont pas concernés.
+
+---
+
 ## Ce qu'un appel réussi doit rapporter
 
 Une adresse e-mail et un nom avec sa fonction. Rien d'autre n'est nécessaire : dès que l'adresse
