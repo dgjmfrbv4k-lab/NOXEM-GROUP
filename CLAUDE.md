@@ -56,15 +56,32 @@ recherches / envois confirmés / réponses qualifiées / demandes de devis / com
 de destination selon l'offre validée.** Distincte du déstockage livré en camion inloader.
 
 Jumbo 3210 × 2550 mm ou à cotes. 1 m² de 1 mm = 2,5 kg. Charge utile ≈ 23–25 t.
-**ATTENTION, QUESTION OUVERTE ET NON TRANCHÉE (08/10) : le PLF 6000 × 3210.** Quatre faits
-indépendants tombés le même jour montrent que les transformateurs sérieux travaillent en PLF et
-pas en jumbo : Rubex demande du 3300 × 2140, Caribbean Glass du 3302 × 2261 — deux cotes qui ne
-sortent pas d'un jumbo —, Green Glass annonce feuilleter jusqu'à 2,8 × 6 m, et Rákosy Üveg a
-écrit noir sur blanc que ses « standard purchasing sizes are jumbo sheets, typically
-**6000 × 3210 mm** » et qu'il ne peut pas travailler économiquement autrement. **Donc : ne jamais
-annoncer un grand format disponible, et ne plus qualifier un feuilleteur grand format comme cible
-prioritaire, tant qu'Aaron n'a pas dit si une usine partenaire fournit du PLF.** Question posée
-dans `DECISIONS-AARON.md`, section 4 ter.
+**LA COTE D'UN JUMBO N'EST PAS LA COTE MAXIMALE D'UNE LIGNE FLOAT. Corrigé le 08/10 au soir après
+m'être trompé TROIS FOIS dans la même journée sur ce seul point — c'est donc une règle, pas un
+accident.** Le jumbo 3210 × 2550 est une cote de **vente** standard. Une ligne float produit un
+**ruban** dont seule la **largeur** est contrainte, environ 3210 mm une fois ébavuré ; la
+**longueur se coupe à la demande**. Donc avant de déclarer une cote hors format, la seule question
+est : **sa plus petite dimension tient-elle dans 3210 ?** Si oui, elle sort de la ligne, quelle que
+soit l'autre dimension.
+**Les trois erreurs, et ce qu'elles coûtaient :** j'ai écrit à **Rubex** que son 3300 × 2140 exigeait
+un PLF, à **Caribbean Glass** que son 3302 × 2261 était un *oversize*, et j'ai sonné l'alarme sur le
+**2440 × 3300** qu'Aaron venait de chiffrer pour United Glass. Les trois tiennent dans le ruban
+(2140, 2261 et 2440 en travers). **Et le devis d'Aaron à John est la preuve matérielle** : une
+feuille de **3300 mm de long**, sur dix conteneurs. C'est d'ailleurs pour cela que le 96 × 130
+pouces est la cote de stock nord-américaine.
+**CE QUI RESTE VRAIMENT OUVERT, et c'est beaucoup plus étroit :**
+1. **Le PLF au sens strict, 6000 × 3210**, que demandait **Rákosy Üveg** — « standard purchasing
+   sizes are jumbo sheets, typically 6000 × 3210 mm », et il ne peut pas travailler
+   économiquement autrement. **Un seul fait, pas quatre**, contrairement à ce que ce paragraphe
+   affirmait. Question toujours posée dans `DECISIONS-AARON.md`, section 4 ter.
+2. **La cote maximale de l'AUTOCLAVE de feuilletage**, qui est une contrainte distincte de celle de
+   la ligne. Elle ne concerne que le **feuilleté** : le 3302 × 2261 de Caribbean Glass en relève,
+   le 3300 × 2140 de Rubex non, puisque c'est du float nu. Repère d'enveloppe industrielle : Green
+   Glass annonce feuilleter jusqu'à 2,8 × 6 m.
+**Donc : ne jamais annoncer un grand format PLF disponible tant qu'Aaron ne l'a pas dit — mais ne
+plus traiter une cote de ruban ordinaire comme un hors-format.** L'excès de prudence a coûté plus
+cher que l'inverse ici : il a fait passer deux demandes de prix fermes pour des dossiers
+techniquement douteux alors qu'elles ne le sont pas.
 Pays enclavé → port de transit annoncé avec « via » (Mombasa, Dar es Salaam, Durban,
 Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 
