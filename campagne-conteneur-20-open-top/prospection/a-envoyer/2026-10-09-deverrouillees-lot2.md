@@ -1,18 +1,21 @@
-# Lot du 09/10/2026 — 21 adresses déverrouillées le 08/10
+# Lot du 09/10/2026 — 27 adresses déverrouillées le 08/10
 
 **Pourquoi ce lot existe.** Ces 21 sociétés étaient toutes au statut `A APPELER` : elles avaient
 un site, aucune adresse, et elles étaient donc inatteignables. La méthode de déverrouillage
 (`WebSearch` restreint au seul domaine de la société) a rendu l'adresse publiée sur leur propre
 page de contact.
 
-**Rendement mesuré, chiffres distincts à ne pas confondre :** 36 sociétés testées → **26 adresses
-obtenues** (72 %) → **21 mises en file d'envoi**. L'écart de 5 est assumé et documenté :
+**Rendement mesuré, chiffres distincts à ne pas confondre :** 52 sociétés testées → **33 adresses
+obtenues** (63 %) → **27 mises en file d'envoi**. L'écart de 5 est assumé et documenté :
 Distribuidora del Caribe et Corporación Limatambo sont **déjà parties** le 08/10 ; Templar est
 déclassé (distributeur officiel Blindex, donc il achète du trempé fini à AGPAR et n'importe pas de
 substrat) ; Color Glass Import est hors périmètre (verre d'art Spectrum, pas verre plat de
 bâtiment) ; Hartung attend qu'on établisse s'il existe vraiment une entité canadienne, l'argument
 étant fort au Canada — plus de ligne float depuis 2008 — et faible aux États-Unis.
-Les 10 échecs sont tous du même type : formulaire de contact, adresse obfusquée, ou domaine qui ne
+SEVAM (Maroc) s'ajoute aux écartés, et pour une raison qui vaut une règle : son champ activité portait
+le seul mot « verrerie », or ce sont **90 ans de bouteilles et de verres de table**. Verre creux, pas
+verre plat. Règle ajoutée au §5 : établir plat ou creux **avant** d'ouvrir une fiche.
+Les 19 échecs sont tous du même type : formulaire de contact, adresse obfusquée, ou domaine qui ne
 rend plus aucun résultat. Aucun n'est un échec de la méthode.
 
 **Pourquoi rien n'est parti le 08/10.** Un rebond `550 5.7.1 High probability of spam` est tombé
@@ -111,6 +114,19 @@ de la commission anti-dumping à rétablir des droits suspendus pendant la pand�
 | El Wifaq Verre | `contact@elwifaqverre.ma` | **FR** | Trempé, double vitrage argon, feuilleté Stadip, miroirs décoratifs, plexiglas, ACM : négociant-transformateur à gamme large. | Casablanca |
 | Virgin's International Trading | `virgins.intltrading18@gmail.com` | EN | Extrudeur-négociant aluminium **avec une catégorie verre**. Parois de douche et garde-corps = trempé ; la Jamaïque est un marché cyclonique = **feuilleté**. Exception §5 (gmail publié par eux). | Kingston |
 | GPS Glass Ibérica | `marketing@gps-glass.com` | ES | Distributeur, entrepôts dans toute la péninsule. **Siège réel à Astigarraga (Guipúzcoa)**, Picassent n'est qu'un entrepôt. **Marketing n'est pas les achats : demander la transmission à Rubén Martínez, directeur de GPS Ibérica.** Ne pas écrire à Tony Afonso comme s'il achetait : sa fonction est la logistique, le §5 ne l'autorise pas. | Bilbao ou Valence |
+
+---
+
+## Vague 5 — Afrique, Levant, océan Indien (déverrouillées en fin d'après-midi)
+
+| Société | Adresse | Langue | Angle | Port |
+|---|---|---|---|---|
+| **ALUTRACO** — Bénin | `infos@alutraco.com` | **FR** | **La clé du Sahel.** La fiche les donne distributeurs sur le **Togo, le Burkina, le Mali et le Niger**, et la série de recherches du 08/10 a montré que ces marchés enclavés sont quasi introuvables en direct. Passer par un distributeur installé sur un port est la voie réaliste, et c'est un volume agrégé, pas quatre petits. **Demander explicitement quels pays ils réexpédient et en quels volumes.** Exception §5 : adresse en `.com`, site en `.org`, publiée par eux. Piège : leur page affiche aussi un `info@konta.com`, reste de gabarit, à ignorer. | Cotonou, avec **via** pour l'enclavé |
+| **Hydra Glass** — Sri Lanka | `sales@hydraglass.lk` | EN | **Le profil le plus direct du registre** : leur site les déclare **importateurs et distributeurs de float**, clair, réfléchissant et teinté. Rien à démontrer sur l'intérêt d'importer — on propose une autre origine, c'est tout. | Colombo |
+| **Alico Egypt** | `mail@alicoegypt.com` | EN | **Découpe CNC de verre recuit de 4 à 19 mm** et lignes de vitrage isolant (intercalaires 6–20 mm). Qui découpe de 4 à 19 mm achète toute la gamme, **y compris le 12, 15 et 19 mm** — le haut de gamme difficile à sourcer, et exactement ce qu'un conteneur permet de caler. Ils déclarent servir les marchés local **et international**. *Ne pas écrire que l'Égypte manque de float : Sphinx Glass (§6).* | Alexandrie ou **Ain Sukhna**, qui est à la porte de leur usine |
+| **TechnoGlass** — Nigeria | `info@technoglassng.com` | EN | Plot C62, **Crystal Glass Close**, Amuwo Odofin — à quelques kilomètres du **port d'Apapa**. Maison de 2004, float, low-E, sécurité, trempé, feuilleté, murs rideaux. Références Mercedes-Benz Lekki, Orchid Court Ikeja. **Un seul message : la fiche Crystal Glass Nigeria est la maison mère et partage l'implantation** — passée en `NE PAS DEMARCHER` pour éviter la faute Shibaam. | Apapa (Lagos) |
+| **Mirodec SARL** — Liban | `mirodec@mirodec.com` | EN ou **FR** | Miroitier, maison familiale de **1982**. L'angle est dans leur nom : **miroir sans cuivre ni plomb**, et Beyrouth est un marché côtier donc humide. Le signalement de doublon sur `mirodec.com` **n'en était pas un** : deux boîtes distinctes, `mirodec@` pour le Liban et `mirodec-gulf@` pour Dubaï — deux envois légitimes, et la fiche Gulf a déjà été relancée le 08/10. | Beyrouth |
+| **Gr8 Vision / Premier Aluminium** — Sierra Leone | `info@gr8vision-sl.com` | EN | Trois sites dont un **atelier** (Freetown, route Bo-Kenema, Obama Junction) : structure réelle, pas un revendeur. Leur site publie deux domaines pour la même boîte — `gr8vision-sl.com` retenu car c'est celui du site, `gr8vision.com` en repli. | Freetown |
 
 ---
 

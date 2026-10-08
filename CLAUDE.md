@@ -70,6 +70,11 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   « nous pouvons établir une offre pour la livraison à votre port de destination,
   **sous réserve de validation de notre côté** ».
 - **Jamais nommer nos usines partenaires**, ni leur pays, ni leur nombre.
+- **« Verrerie » n'est pas une activité** (ajouté le 08/10 après une faute de ciblage). En français
+  le mot désigne aussi bien une usine de verre plat qu'une fabrique de bouteilles ou un magasin de
+  verres à pied. La fiche SEVAM (Maroc) portait le seul mot « Verrerie » : vérification faite, c'est
+  **90 ans de bouteilles, pots alimentaires et verres de table**, donc du verre creux — ni client ni
+  concurrent, hors sujet. **Établir verre PLAT ou verre CREUX avant d'ouvrir une fiche**, pas après.
 - **Jamais inventer un dirigeant.** Nom utilisé uniquement si la **fonction est vérifiée**
   et pertinente (achats, import, direction). Sinon, message au service.
 - **Jamais prétendre qu'un prospect a consulté le site** sans donnée le confirmant.
