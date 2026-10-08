@@ -1761,3 +1761,59 @@ place. Les trois messages saoudiens partis aujourd'hui le reconnaissaient déjà
 site — fournisseur **et importateur** de verre, aluminium et quincaillerie, plus de 25 ans. À noter,
 leur LinkedIn dit 20 ans et 1995 : divergence consignée. Horaires relevés pour viser le créneau,
 8h–17h en semaine et 8h–12h le samedi, plus un WhatsApp.
+
+---
+
+# Lot du 08/10 — la plus grosse cible saoudienne enfin identifiée
+
+## Une ambiguïté levée, et elle cachait une erreur de données
+
+Le registre portait deux fiches saoudiennes partageant le téléphone +966 11 265 0065, **Al-Manna**
+et **Almanco Factory**, que j'avais signalées sans oser fusionner. Bien fait de ne pas fusionner :
+**ce sont deux sociétés sans aucun rapport.**
+
+- **Almanco** (Almanee Aluminium & Glass Factory) vient de la famille Almanee, activité depuis
+  **1971**, BP 5795, troisième cité industrielle de Riyad. Le téléphone est **le sien**.
+- **Manna Glass Group** est Mohammed Mannaa Glass Corporation, fondée vers **1960**, BP 3162
+  Riyad 11471, site `mannaglass.sa`.
+
+Le +966 11 265 0065 avait donc été **recopié par erreur** sur la fiche Al-Manna. Corrigé.
+
+## Et derrière l'ambiguïté, probablement le plus gros transformateur d'Arabie saoudite
+
+La fiche « Al-Manna » était quasiment vide. La réalité :
+
+| | |
+|---|---|
+| Ancienneté | plus de **60 ans** dans le verre |
+| Réseau | **56 agences**, plus de **1 800 personnes** annoncées |
+| Trempe | **six lignes Glaston en service**, **trois de plus commandées** — séries Jumbo, livraison T2–T4 2026, pour Riyad, Djeddah et Dammam. Soit **neuf lignes fin 2026** |
+| Relation équipementier | plus de vingt ans avec Glaston, donc exigeants sur le verre entrant |
+| Alliances | accord **exclusif** avec Profilglass pour l'Arabie saoudite, partenariat annoncé avec RBM |
+
+**Un parc de trempe de cette taille est un consommateur de substrat de tout premier plan.** La
+fiche est réécrite sous son vrai nom et passe en priorité haute. Adresse e-mail obfusquée sur leur
+page de contact : dossier téléphonique, +966 11 291 1943.
+
+## Verdict sur l'angle « équipementier »
+
+Chercher une société par ses **fournisseurs de machines** a été testé sur Glaston et LiSEC. Verdict
+honnête :
+
+- **Excellent pour vérifier** une capacité : c'est ainsi qu'on a établi les neuf lignes de Manna,
+  démenti la capacité faussement attribuée à Al Tbaynawi, et ressuscité Saudi American Glass.
+- **Mauvais pour découvrir** dans nos zones : les références publiées par Glaston et LiSEC sont
+  très majoritairement européennes, et l'Europe est fermée à la prospection neuve (§6). LiSEC
+  annonce viser le Nigeria et dit avoir une présence en Afrique du Sud, en Égypte et au Kenya, mais
+  sans nommer un seul client.
+
+À garder donc comme **outil de vérification**, pas comme source de prospects.
+
+## Et j'ai commis l'après-midi la faute que je réparais le matin
+
+Après avoir passé la matinée à réparer trois lignes cassées par un `;` glissé dans une note, j'en
+ai écrit une quatrième — sur la fiche Manna Glass, dans un script rédigé sans `assert`.
+
+Réparée dans la minute. Mais la leçon n'est pas « faire attention » : **la consigne du §12 ne
+suffit pas, il faut que le code refuse.** D'où `outils/ecrire-registre.py`, qui lève une erreur
+avant d'écrire si une ligne n'a pas exactement 10 champs. Inscrit au §12 comme obligatoire.

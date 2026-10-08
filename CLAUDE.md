@@ -288,6 +288,16 @@ Lana International, négociant régional sur douze pays. Les trois lignes sont r
 
 Retri après ajout avec `sorted()` **sans locale** (voir §13).
 
+**Garde-fou d'écriture, obligatoire.** Tout script qui modifie le registre passe par :
+```python
+from outils.ecrire_registre import ecrire, nettoyer   # ou copier les 2 asserts
+```
+`campagne-conteneur-20-open-top/prospection/outils/ecrire-registre.py` refuse d'écrire si une ligne
+n'a pas exactement 10 champs. **Raison : le 08/10 j'ai passé la matinée à réparer trois lignes
+cassées par un `;` dans une note, puis j'ai commis exactement la même faute l'après-midi**, sur la
+fiche Manna Glass, dans un script écrit sans `assert`. La consigne ne suffit pas, **il faut que le
+code refuse**.
+
 **Balayage des doublons après chaque lot d'ajouts :**
 ```bash
 python3 campagne-conteneur-20-open-top/prospection/outils/detecte-doublons.py
