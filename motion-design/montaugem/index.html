@@ -76,6 +76,9 @@ h2{font-size:clamp(28px,4.2vw,52px);font-weight:800;line-height:1.02;margin-top:
 .wave{display:flex;gap:3px;align-items:center;height:34px;margin-top:14px}
 .wave i{width:4px;border-radius:3px;background:linear-gradient(var(--c2),var(--c1));animation:wv 1.2s ease-in-out infinite}
 @keyframes wv{0%,100%{height:20%}50%{height:100%}}
+.langs{display:flex;flex-wrap:wrap;gap:10px;margin-top:28px}
+.lg{font:500 14px var(--sans);padding:9px 14px;border-radius:999px;border:1px solid var(--line2);background:rgba(255,255,255,.03);color:var(--fg)}
+.lg.top{border-color:transparent;background:linear-gradient(var(--ink),var(--ink)) padding-box,linear-gradient(120deg,var(--c2),var(--c1)) border-box;border:1px solid transparent}
 .gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;margin-top:34px}
 .tile{border:1px solid var(--line);border-radius:16px;overflow:hidden;background:var(--ink);min-width:0;transition:transform .3s,border-color .3s}
 .tile:hover{transform:translateY(-4px);border-color:var(--line2)}
@@ -130,14 +133,14 @@ html[lang="fr"] [data-l="fr"],html[lang="en"] [data-l="en"]{display:revert}
     <div>
       <span class="eyebrow"><i>AI</i><span data-l="fr">Studio vidéo nouvelle génération</span><span data-l="en">Next-generation video studio</span></span>
       <h1><span data-l="fr">Votre vidéo d'entreprise, <span class="gt">créée avec l'IA</span>, livrée en 7 jours.</span><span data-l="en">Your company video, <span class="gt">built with AI</span>, delivered in 7 days.</span></h1>
-      <p class="lead"><span data-l="fr">Nos équipes associent motion design et intelligence artificielle : script, voix off, musique, animation. Le niveau d'une agence, en une semaine, à partir de 390 € HT.</span><span data-l="en">Our teams combine motion design and artificial intelligence: script, voice-over, music, animation. Agency-grade results in one week, from €390.</span></p>
+      <p class="lead"><span data-l="fr">Nos équipes associent motion design et intelligence artificielle : script, voix off, musique, animation, dans toutes les grandes langues. Le niveau d'une agence, en une semaine, à partir de 390 € HT.</span><span data-l="en">Our teams combine motion design and artificial intelligence: script, voice-over, music, animation, in every major language. Agency-grade results in one week, from €390.</span></p>
       <div class="cta">
         <a class="btn main" href="#contact"><span data-l="fr">Lancer mon projet</span><span data-l="en">Start my project</span> →</a>
         <a class="btn" href="#work"><span data-l="fr">Voir les vidéos</span><span data-l="en">Watch the videos</span></a>
       </div>
       <div class="trust">
         <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span data-l="fr">Livraison en 7 jours</span><span data-l="en">7-day delivery</span></span>
-        <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span data-l="fr">Voix off FR · EN</span><span data-l="en">FR · EN voice-over</span></span>
+        <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span data-l="fr">Plus de 25 langues</span><span data-l="en">25+ languages</span></span>
         <span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span data-l="fr">2 retouches incluses</span><span data-l="en">2 revisions included</span></span>
       </div>
     </div>
@@ -163,10 +166,18 @@ html[lang="fr"] [data-l="fr"],html[lang="en"] [data-l="en"]{display:revert}
     <h2><span data-l="fr">Une chaîne de production complète, accélérée par l'IA</span><span data-l="en">A complete production pipeline, accelerated by AI</span></h2>
     <div class="bento">
       <div class="bx"><div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"><path d="M12 20h9M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/></svg></div><h3><span data-l="fr">Script sur mesure</span><span data-l="en">Tailored script</span></h3><p><span data-l="fr">Votre message, vos arguments, votre ton. Écrit pour capter l'attention dès la première seconde.</span><span data-l="en">Your message, your selling points, your tone. Written to grab attention from the first second.</span></p></div>
-      <div class="bx"><div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0M12 17v5"/></svg></div><h3><span data-l="fr">Voix off naturelle</span><span data-l="en">Natural voice-over</span></h3><p><span data-l="fr">Des voix professionnelles en français, en anglais et dans d'autres langues.</span><span data-l="en">Professional voices in French, English and other languages.</span></p><div class="wave" aria-hidden="true" id="wave"></div></div>
+      <div class="bx"><div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0M12 17v5"/></svg></div><h3><span data-l="fr">Voix off naturelle</span><span data-l="en">Natural voice-over</span></h3><p><span data-l="fr">Des voix professionnelles dans plus de 25 langues : français, anglais, espagnol, arabe…</span><span data-l="en">Professional voices in 25+ languages: French, English, Spanish, Arabic…</span></p><div class="wave" aria-hidden="true" id="wave"></div></div>
       <div class="bx"><div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg></div><h3><span data-l="fr">Musique et sound design</span><span data-l="en">Music &amp; sound design</span></h3><p><span data-l="fr">Une musique originale et des effets sonores calés sur chaque animation.</span><span data-l="en">Original music and sound effects timed to every animation.</span></p></div>
       <div class="bx"><div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M10 9l5 3-5 3z"/></svg></div><h3><span data-l="fr">Tous les formats</span><span data-l="en">Every format</span></h3><p><span data-l="fr">Horizontal pour LinkedIn et YouTube, vertical pour TikTok et Reels, carré pour vos pubs.</span><span data-l="en">Landscape for LinkedIn and YouTube, vertical for TikTok and Reels, square for ads.</span></p></div>
     </div>
+  </section>
+
+  <section id="languages">
+    <div class="kick"><span data-l="fr">Toutes les langues</span><span data-l="en">Every language</span></div>
+    <h2><span data-l="fr">Une vidéo, toutes les langues de vos clients</span><span data-l="en">One video, every language your customers speak</span></h2>
+    <p class="sub"><span data-l="fr">Nos équipes adaptent la même vidéo dans chaque langue : voix off native, textes à l'écran traduits, chiffres et formats locaux. Idéal pour l'export, les salons internationaux et vos filiales.</span><span data-l="en">Our teams adapt the same video into each language: native voice-over, translated on-screen text, local figures and formats. Ideal for export, international trade shows and subsidiaries.</span></p>
+    <div class="langs" id="langs"></div>
+    <p class="note"><span data-l="fr">Votre langue n'est pas dans la liste ? Demandez-nous : d'autres langues sont possibles.</span><span data-l="en">Your language isn't listed? Ask us: more languages are available.</span></p>
   </section>
 
   <section id="work">
@@ -186,7 +197,7 @@ html[lang="fr"] [data-l="fr"],html[lang="en"] [data-l="en"]{display:revert}
       <div class="pc hot"><span class="badge"><span data-l="fr">La plus demandée</span><span data-l="en">Most popular</span></span><h3><span data-l="fr">Vidéo de présentation</span><span data-l="en">Brand video</span></h3><div class="amt">990 €<small data-l="fr">HT</small><small data-l="en">excl. VAT</small></div><p><span data-l="fr">45 à 60 s, voix off, musique et sound design.</span><span data-l="en">45–60 s, voice-over, music and sound design.</span></p></div>
       <div class="pc"><h3><span data-l="fr">Abonnement</span><span data-l="en">Subscription</span></h3><div class="amt">890 €<small data-l="fr">HT / mois</small><small data-l="en">/ month</small></div><p><span data-l="fr">4 vidéos courtes par mois, toute l'année.</span><span data-l="en">4 short videos a month, all year round.</span></p></div>
     </div>
-    <p class="note"><span data-l="fr">Inclus : 2 séries de retouches. Format vertical ou autre langue : + 90 € HT par format. Acompte de 50 % à la commande.</span><span data-l="en">Included: 2 revision rounds. Vertical format or another language: +€90 per format. 50% deposit on order.</span></p>
+    <p class="note"><span data-l="fr">Inclus : 2 séries de retouches. Format vertical ou version dans une autre langue : + 90 € HT par format ou par langue. Acompte de 50 % à la commande.</span><span data-l="en">Included: 2 revision rounds. Vertical format or another language version: +€90 per format or language. 50% deposit on order.</span></p>
   </section>
 
   <section>
@@ -249,6 +260,10 @@ document.getElementById('sound').onclick=function(){heroReady.then(function(){he
 
 /* --- vague audio --- */
 var w=document.getElementById('wave');for(var j=0;j<40;j++){var e=document.createElement('i');e.style.animationDelay=(-(j*137%1200)/1000)+'s';w.appendChild(e);}
+
+/* --- langues proposées --- */
+var LG=[['Français','French',1],['English','English',1],['Español','Spanish',1],['Deutsch','German',1],['Italiano','Italian',1],['العربية','Arabic',1],['Português','Portuguese',0],['Nederlands','Dutch',0],['Polski','Polish',0],['Türkçe','Turkish',0],['Română','Romanian',0],['Čeština','Czech',0],['Svenska','Swedish',0],['Dansk','Danish',0],['Suomi','Finnish',0],['Ελληνικά','Greek',0],['Русский','Russian',0],['Українська','Ukrainian',0],['中文','Chinese',0],['日本語','Japanese',0],['한국어','Korean',0],['हिन्दी','Hindi',0],['Bahasa Indonesia','Indonesian',0],['Tiếng Việt','Vietnamese',0],['Magyar','Hungarian',0],['Hrvatski','Croatian',0]];
+document.getElementById('langs').innerHTML=LG.map(function(l){return '<span class="lg'+(l[2]?' top':'')+'" title="'+l[1]+'">'+l[0]+'</span>'}).join('');
 
 /* --- galerie --- */
 var V=[['noxem-destockage','NOXEM GROUP · Déstockage','NOXEM GROUP · Clearance sale',1],['renovation','Rénovation énergétique','Energy renovation',0],['recrutement','Recrutement · Industrie','Recruitment · Manufacturing',0],
