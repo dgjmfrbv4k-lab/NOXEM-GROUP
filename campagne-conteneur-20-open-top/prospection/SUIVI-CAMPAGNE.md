@@ -2210,7 +2210,7 @@ attendent une réponse, pas de la prospection.
 ouverte. Le §3 impose de distinguer les demandes de devis des simples envois. Statuts restaurés :
 `DEMANDE DE DEVIS — RELANCEE 2026-10-08` et `DEMANDE DE PRIX — A CHIFFRER`.
 
-### 14h10 · Quatre faits convergents : la question du PLF passe devant la question du prix
+### 13h55 · Quatre faits convergents : la question du PLF passe devant la question du prix
 
 Un message reçu à 12 h 00 sur l'autre campagne vient d'éclairer un problème que je traitais depuis
 ce matin comme un détail technique, et c'en est un central.
@@ -2249,7 +2249,7 @@ disponible, et ne plus qualifier un feuilleteur grand format comme cible priorit
 l'adresse fonctionne et le message est entré. Ce n'est pas une réponse commerciale, mais tant que
 le contrôle MX est impossible, une preuve de délivrabilité se note.
 
-### 14h20 · Le Canada — 61 fiches, et l'argument employé jusqu'ici était le plus faible disponible
+### 14h00 · Le Canada — 61 fiches, et l'argument employé jusqu'ici était le plus faible disponible
 
 En vérifiant une affirmation qui figure dans **plusieurs messages déjà partis** — « Canada has had
 no float line since the Owen Sound plant closed in 2008 » — j'ai trouvé mieux, et plus actuel.
@@ -2286,7 +2286,7 @@ vérifiable, et ça ne demande pas d'être moins cher que les Américains — se
 Ajouté au §6 du mandat. **Les 61 fiches canadiennes sont à relancer sur cet angle**, et c'est
 probablement le meilleur emploi d'une vague de relances après le lot en cours.
 
-### 14h40 · Les États-Unis, et une erreur de jugement que j'avais commise deux heures plus tôt
+### 14h05 · Les États-Unis, et une erreur de jugement que j'avais commise deux heures plus tôt
 
 **Il faut commencer par la faute.** Vers 13 h j'ai déclassé les fiches américaines — GlasPro et
 Northwestern Glass Fab datées au 13/10 — en écrivant que « les États-Unis produisent leur float en
@@ -2333,7 +2333,7 @@ Versé en tête de `DECISIONS-AARON.md` : si une seule grille doit sortir, les d
 **les États-Unis** (parapluie le plus haut, 26 fiches prêtes) et **l'Afrique de l'Ouest** (la seule
 zone qui a une horloge).
 
-### 14h50 · La piste s'élargit : 102 fiches dans des marchés où le float chinois est taxé
+### 14h10 · La piste s'élargit : 102 fiches dans des marchés où le float chinois est taxé
 
 En cherchant si l'argument américain se transposait ailleurs, j'ai trouvé une liste officielle qui
 ouvre une piste bien plus large — **et qu'il faut traiter comme une piste, pas comme un fait.**
@@ -2380,7 +2380,7 @@ matin, mais à une échelle bien plus grande.
 **Prochaine action : vérifier le Brésil et l'Inde**, les deux plus gros blocs après les États-Unis,
 avant d'écrire quoi que ce soit sur ces marchés.
 
-### 14h55 · Brésil vérifié — favorable, avec une réserve nommée
+### 14h15 · Brésil vérifié — favorable, avec une réserve nommée
 
 J'ai dit que je ne me servirais pas de la liste sans vérifier pays par pays. Voici le premier :
 **le Brésil, 11 fiches.**
@@ -2413,3 +2413,55 @@ avoir lu la résolution finale de la revue.
 
 **Reste à vérifier : l'Inde (16 fiches), puis le Mexique (13) sur le texte officiel du DOF.**
 L'Afrique du Sud (9) et le Pérou n'ont encore aucune source directe.
+
+### 14h20 · État des rebonds, dit avec la précision que la leçon du matin impose
+
+**Le dernier rebond de la journée est tombé à 11 h 54 TU** (Alma Glass). Depuis, rien.
+
+| Envoi | Heure | Depuis | Verdict provisoire |
+|---|---|---|---|
+| Distribuidora del Caribe, Corporación Limatambo, renvoi Zrcalo | ~10 h 40–11 h 00 TU | **plus de 2 h** | **Au-delà de la fenêtre de 1 h 55** observée hier sur les rebonds anti-spam. Aucun rebond : c'est un bon signe, pas une certitude. |
+| Willem (`pgglass.com.na`), United Glass, Rubex | ~11 h 50 TU | ~70 min | **Non concluant.** Le rebond de la mauvaise adresse de Willem avait mis **1 h 48** à revenir, via Mimecast. 70 minutes ne prouvent rien. |
+
+**Les trois envois de 13 h 50 heure de Paris sont donc à recontrôler demain matin en premier**, et
+c'est le plus important des trois contrôles : si `willem@pgglass.com.na` rebondit aussi, le dossier
+le plus avancé de la campagne n'a aucun canal e-mail et il faut passer au WhatsApp sur le
++264 81 149 3977.
+
+**Bilan des rebonds du 08/10 : 8 adresses perdues ou bloquées**, dont 5 ressuscitées dans la
+journée par la méthode de déverrouillage (MIH, Arkiglass, Al Ashoury, Alma Glass, M&A Glass, plus
+Almacenes Vidrí et Göteborgs). **Deux restent sans solution** : `export@mataharisilverindo.com`,
+que la société publie pourtant elle-même, et `ventas1@aluminiosdelsurhn.com`, seule adresse publiée.
+
+### 14h30 · Inde vérifiée — défavorable, 16 fiches déclassées, et le premier repère de prix de la campagne
+
+**L'Inde est le deuxième pays de la liste passé au crible, et le résultat va dans l'autre sens que
+le Brésil. Il faut le dire aussi franchement.**
+
+**Deux mesures indiennes, et c'est la seconde qui tranche.**
+
+- **DGFT, notification nº 29/2026-27 du 18/08/2026** : le float clair de 4 à 12 mm
+  (SH 70051090 et 70052990) passe de « Free » à **« Restricted »**, avec un **prix minimum à
+  l'importation de 34 000 roupies la tonne CIF** — au-dessus du seuil, l'importation reste
+  permise. Valable un an. Exemptions pour Advance Authorisation, EOU et SEZ. **Cette mesure ne
+  nous gêne pas** : du float européen est largement au-dessus du seuil. Elle vise le verre à bas
+  prix.
+- **La révision de l'antidumping sur le float malaisien retient un prix de référence de
+  374 dollars la tonne** : en dessous, l'Inde considère qu'il y a dumping. **C'est ce chiffre qui
+  décide.** À 2,5 kg par m² et par millimètre, cela fait environ **1,5 $/m² en 4 mm**, soit de
+  l'ordre de 1,30 €/m². Aucun float européen ne descend là.
+
+**Donc l'Inde n'est pas notre marché, et ce n'est plus une impression de ciblage : c'est un
+chiffre.** Les 16 fiches indiennes sont déclassées. Le statut de l'antidumping indien sur la Chine
+n'est pas confirmé — les sources s'arrêtent à 2021 — et c'est sans objet puisque le marché est hors
+de portée de toute façon.
+
+**Et ce 374 $/t est le premier repère de prix concret que la campagne ait obtenu**, après des jours
+à dire qu'il manquait une grille. Il ne remplace pas la grille d'Aaron, mais il éclaire toute la
+carte : partout où l'Asie entre librement, le marché se règle à ce niveau et nous ne sommes pas
+dans la course. **Partout où l'Asie est frappée de droits — États-Unis, Brésil — la référence n'est
+plus 374 $/t mais le prix du producteur local, et c'est un tout autre terrain.**
+
+Versé au dossier d'Aaron avec la conclusion qui en découle : **la demande ne doit pas être « un prix
+bas », mais « un prix qui tient face à du verre américain ou brésilien rendu ».** C'est une question
+beaucoup plus facile à trancher.

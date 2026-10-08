@@ -32,6 +32,31 @@ aussi un marché où tout le monde importe, donc où les Asiatiques sont déjà 
 le plus bas. Un marché avec production locale et **barrières douanières contre l'Asie** est, lui,
 un marché où notre prix se compare à du verre cher.
 
+### Et voici le premier repère de prix concret que la campagne ait obtenu
+
+Je te dis depuis des jours qu'il manque une grille. Je ne peux toujours pas la faire. Mais la
+journée a produit **un chiffre**, et il vient d'une source officielle, pas d'une estimation.
+
+**L'Inde, en révisant son antidumping sur le float malaisien, retient un prix de référence de
+374 dollars la tonne** : en dessous de ce niveau, elle considère qu'il y a dumping. À 2,5 kg par m²
+et par millimètre, cela fait environ **1,5 $/m² en 4 mm**, soit de l'ordre de **1,30 €/m²**.
+
+**C'est le prix auquel le float asiatique se pose dans un marché concurrentiel.** Et c'est pour ça
+que je déclasse les 16 fiches indiennes : ce n'est plus une impression de ciblage, c'est un chiffre
+qu'aucun float européen ne peut approcher. L'Inde a par ailleurs mis le float clair de 4 à 12 mm
+en régime « Restricted » avec un prix minimum à l'importation depuis le 18/08/2026 — mesure qui ne
+nous gêne pas, nous sommes très au-dessus du seuil, mais qui confirme le niveau du marché.
+
+**Ce que ce repère t'apporte pour la décision.** Il explique pourquoi la carte des quatre zones
+tient : partout où l'Asie entre librement, le prix de marché est de cet ordre et nous ne sommes pas
+dans la course. Partout où l'Asie est frappée de droits — États-Unis à 181 %, Brésil sur la
+Malaisie, le Pakistan et la Turquie — **le prix de référence du marché n'est plus 374 $/t mais
+celui du producteur local**, et c'est un tout autre terrain.
+
+**Je ne te demande donc pas un prix bas. Je te demande un prix qui tient face à du verre américain
+ou brésilien rendu, sur des marchés où l'Asie ne peut plus entrer.** C'est une question
+différente, et beaucoup plus facile.
+
 **Je ne peux pas aller plus loin sans un chiffre.** Mais si tu ne devais calibrer qu'une seule
 grille, les deux candidates sont **les États-Unis** — parapluie de prix le plus haut, concurrence
 asiatique écartée, 26 fiches déjà contactées et prêtes à être relancées — et **l'Afrique de

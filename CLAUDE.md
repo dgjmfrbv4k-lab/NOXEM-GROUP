@@ -207,7 +207,23 @@ droits et l'Europe non, l'argument américain se transpose.
 - **Colombie** : **non confirmé sur le float.** La seule mesure colombienne confirmée porte sur les
   **miroirs non encadrés** (demandée par Espejos SAS, en vigueur depuis octobre). C'est utile
   autrement — notre miroir sans cuivre y affronterait une origine taxée — mais ce n'est pas le float.
-- **Inde, Corée, Afrique du Sud** : cités par la résolution mexicaine, aucune source directe lue.
+- **INDE : VÉRIFIÉ LE 08/10, ET C'EST DÉFAVORABLE. 16 fiches à déclasser.** Deux faits.
+  · **DGFT, notification nº 29/2026-27 du 18/08/2026** : le float clair de 4 à 12 mm
+    (SH 70051090 et 70052990) passe de « Free » à **« Restricted »**, avec un **prix minimum à
+    l'importation de 34 000 roupies la tonne CIF** — au-dessus, l'importation reste permise.
+    Valable un an. Exemptions pour Advance Authorisation, EOU et SEZ. Cette mesure vise les
+    importations à bas prix, **pas nous** : du float européen est largement au-dessus du seuil.
+  · **Mais c'est le chiffre de l'autre mesure qui tranche.** La revue de l'antidumping sur le
+    float malaisien recommande un droit en forme de référence : l'écart entre la valeur en douane
+    et un **prix de référence de 374 USD la tonne**. Autrement dit, l'Inde considère qu'en dessous
+    de 374 $/t il y a dumping — donc **le marché indien se règle autour de ce niveau**.
+    À 2,5 kg par m² et par mm, cela fait environ **1,5 $/m² en 4 mm**. Aucun float européen ne
+    descend là. **L'Inde n'est pas notre marché, et ce n'est pas une impression : c'est un chiffre.**
+  · Statut de l'antidumping chinois en Inde : **non confirmé**, les sources trouvées s'arrêtent à
+    2021. Sans objet puisque le marché est hors de portée de toute façon.
+  · **Et ce 374 $/t est le premier repère de prix concret de toute la campagne** : il dit à quel
+    niveau le float asiatique se pose dans un marché concurrentiel. À verser au dossier de prix.
+- **Corée, Afrique du Sud** : cités par la résolution mexicaine, aucune source directe lue.
   La Corée est de toute façon exclue au titre des concurrents.
 - **Pérou** : rien trouvé. À chercher côté INDECOPI.
 **Conduite : ne jamais affirmer dans un message qu'un pays taxe le float chinois sans avoir lu la
