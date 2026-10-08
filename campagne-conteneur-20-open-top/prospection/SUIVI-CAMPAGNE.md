@@ -1240,3 +1240,67 @@ pas la règle anti-rebond.
 sociétés, la plupart de ces fiches basculeraient en envoi. Le blocage réseau n'est donc pas une
 gêne de confort : il est devenu le premier facteur limitant de la campagne, devant le ciblage
 et devant le message.
+
+---
+
+# Lot du 08/10 — relances échues du début octobre
+
+## Pourquoi ce lot plutôt qu'une recherche de plus
+
+Le constat des trois lots précédents était clair : chercher de nouvelles sociétés rapporte
+désormais un à deux envois par recherche, parce que les coordonnées manquent. En appliquant
+le bon indicateur à tout le registre, le résultat est net : **aucun pays n'a de fiche avec
+adresse jamais contactée.** Le registre est intégralement travaillé.
+
+En revanche **77 fiches contactées du 1er au 5 octobre n'avaient jamais été relancées.** Ces
+adresses ont une qualité que nulle recherche ne donne : **elles ont déjà pris livraison.**
+C'est la preuve de délivrabilité la plus forte disponible, et elle compte double tant que le
+contrôle MX est impossible. La routine du §2 met d'ailleurs les relances échues avant la
+recherche de nouveaux acheteurs.
+
+**15 relances envoyées**, choisies sur le potentiel conteneur. 62 restent pour demain — le
+domaine est neuf et le §10 impose de monter en volume progressivement, pas en rafale.
+
+## Chiffres de ce lot
+
+| | |
+|---|---|
+| Recherches | 0 |
+| Envois confirmés | **15**, aucun rebond |
+| Réponses qualifiées | 0 à cette heure |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+## Les angles, pour mesurer plus tard lequel répond
+
+Trois d'entre eux renoncent ouvertement à une partie de la gamme, et c'est délibéré :
+
+| Société | Angle |
+|---|---|
+| **GGI** (USA) | Importent du verre européen depuis l'après-guerre : rien à expliquer. Question posée : **quelles références leur manquent chez leurs fournisseurs européens actuels** |
+| **AGNORA** (Canada) | Verre surdimensionné, et le Canada n'a plus de ligne float depuis 2008. Sur du hors-cotes, ce sont le calage et le chargement qui décident de l'arrivée, pas le prix au m² |
+| **Emirates Glass** (Dubaï) | Lignes magnétron : **une couche amplifie tout défaut du verre qu'elle recouvre au lieu de le masquer**, donc exigence optique élevée sur le substrat clair |
+| **National Glass** (Canada) | Premier grossiste indépendant de l'Ouest canadien, achète déjà au conteneur sur Vancouver |
+| **SAGCO** (Djeddah), **Burhani** (Dubaï), **Central Glass** (Trinidad) | Logique de grossiste : le problème est la gamme à tenir sans immobiliser de trésorerie sur les références lentes. D'où le conteneur mixte |
+| **Allied Glass** (Nouvelle-Zélande) | **« L'Asie est bien plus proche de vous que la France »** — dit explicitement, puis renoncement au float clair et ciblage des références difficiles à obtenir |
+| **Pyramid Glass** (Égypte) | Fabricant avec service export : **peut-être un producteur, donc un concurrent et pas un prospect**. Le message le dit franchement et propose de ne plus écrire s'ils fondent leur propre verre |
+
+## Une erreur factuelle rattrapée avant l'envoi
+
+La fiche **Aluglass Africa (Kenya)** portait la mention « Afrique de l'Est sans usine float ».
+**C'est faux.** Le §6 nomme lui-même **Sapphire, à Mkuranga en Tanzanie**, comme producteur
+float — à portée de Mombasa. Trois autres fiches le mentionnent correctement, dont celle de
+la Zambie qui bâtit même son argument là-dessus.
+
+Un acheteur kényan aurait relevé l'erreur à la première ligne, et tout le message aurait
+perdu sa crédibilité. La relance a donc été réécrite : **reconnaissance explicite de la
+production float régionale**, renoncement au float clair, et ciblage du Low-E, du feuilleté,
+du miroir sans cuivre et des grands formats. La fiche porte la correction.
+
+Vérification faite, **l'erreur est isolée** : une seule fiche sur 834 la portait.
+
+## Total de la journée
+
+**40 fiches en `RELANCE 2026-10-08`** (24 du réservoir de septembre, 15 du début octobre,
+plus Glass Jet traité le matin), **13 envois neufs**, **2 rebonds** sur l'ensemble de la
+journée.
