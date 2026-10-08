@@ -1083,3 +1083,82 @@ Trinidad est un petit marché, et nous approchons deux concurrents locaux de Car
 Specialists pendant qu'une discussion de prix est ouverte avec elle. C'est légitime pour un
 fournisseur non exclusif, et aucun de ces comptes n'est protégé au §7. Mais l'information
 circule vite sur une île : à savoir si l'un d'eux mentionne l'autre.
+
+---
+
+# Lot du 08/10 — hubs de réexport, et deux renseignements de marché
+
+## L'hypothèse testée
+
+Les îles donnent une à deux adresses par recherche. J'ai donc cherché plus gros : les
+sociétés **dont le métier est d'importer du verre par conteneur et de le redistribuer**.
+Elles achètent déjà comme nous vendons. Deux terrains : la **Zone Libre de Colón** au
+Panama, premier hub de réexport d'Amérique latine, et les **importateurs régionaux
+ouest-africains** sur l'axe Abidjan–Lomé–Tema.
+
+## Chiffres de ce lot
+
+| | |
+|---|---|
+| Recherches | 2 axes, cinq pays balayés |
+| Fiches créées | 8 |
+| Envois confirmés | **1** |
+| Réponses qualifiées | 0 |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+Registre : **828 fiches**, 153 pays.
+
+## L'hypothèse est à moitié fausse, et c'est utile de le dire
+
+**La Zone Libre de Colón n'a donné aucune adresse.** Les annuaires de la zone — y compris
+celui de sa chambre de commerce et les annuaires privés — ne publient que des téléphones, et
+les fiches verre y sont absentes. Surtout, **le Panama était déjà saturé** : 12 fiches au
+registre, dont une ligne explicite « marché prospecté sans résultat ». Vérification faite
+avant d'écrire, elle a bloqué un doublon de plus : **Vidrios Especiales était déjà
+`RELANCE 2026-10-06`**.
+
+**L'Afrique de l'Ouest n'a donné qu'une seule adresse exploitable** sur cinq pays, parce que
+la Côte d'Ivoire (7 fiches) et le Ghana (6 fiches) étaient déjà travaillés.
+
+Le seul envoi du lot est **NET GLASS-CI** à Abidjan, bâti sur un argument logistique vérifié :
+Abidjan est l'un des rares ports de la région où un conteneur se dégroupe et se redistribue
+sans surcoût de transit, et le Burkina, le Mali et le Niger passent par là. Le message
+**avoue ce que j'ignore** — importent-ils eux-mêmes ou achètent-ils sur place — parce que
+c'est cette réponse qui qualifie la fiche.
+
+## Deux renseignements de marché qui comptent pour la suite
+
+**1. Une usine float de 250 M$ est lancée à Shama, au Ghana, avec un financement chinois.**
+Le premier coup de pioche a été donné par le président Mahama ; **elle ne produit pas
+encore**. Quand elle démarrera, Tema et Accra auront du float local et l'argument de
+l'importation européenne s'affaiblira sur toute la région. **La fenêtre pour l'Afrique de
+l'Ouest est donc maintenant, pas dans deux ans.**
+
+**2. Les importations de verre plat du Ghana viennent à 84 % du Nigéria, de la Chine et de la
+Malaisie.** Le Nigéria est à une courte traversée de Tema. Sur du float clair ordinaire, nous
+ne gagnerons pas ce combat de prix. **La conclusion opérationnelle : en Afrique de l'Ouest,
+ne pas attaquer sur le float clair, mais sur le Low-E, le feuilleté, le miroir sans cuivre
+et les grands formats** — ce que ni le Nigéria ni la Chine ne livrent bien à cette distance.
+C'est l'angle que les messages de la journée utilisent déjà pour le Rwanda et la Zambie.
+
+## Deux fiches à trancher avant tout contact
+
+- **Ghana Glass Works (Tema)** s'annonce « fabricant et fournisseur de verre plat, float
+  inclus ». Si elle produit vraiment du float, c'est un **concurrent au sens du §6**, pas un
+  prospect. Mais les sources disent aussi que le Ghana n'a aucune production float
+  commercialement significative : c'est donc probablement un transformateur. Fiche en
+  `A QUALIFIER`, à trancher avant d'écrire.
+- **INTERGLASS Panama** ne doit pas être confondue avec Interglass au Chili ni Interglass USA,
+  déjà au registre et sans lien entre elles. Noté dans la fiche.
+
+## Le mandat durci sur les courtiers de données
+
+Les résultats du jour ont fait remonter **exportgenius** (déjà interdit), et aussi **Trademo**
+et **Eximpedia**, qui vendent exactement la même chose : des relevés douaniers et des
+contacts d'acheteurs. Ils fournissaient des noms d'importateurs ghanéens — écartés sans être
+consignés.
+
+Les deux noms sont ajoutés au §5, avec un principe qui rend la liste moins fragile :
+**tout site qui vend des relevés d'importation ou des contacts d'acheteurs tombe sous la
+règle, qu'il soit nommé ou non.** C'est la nature du service qui compte, pas le nom.

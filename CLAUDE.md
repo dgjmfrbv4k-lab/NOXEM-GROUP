@@ -61,7 +61,11 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   et pertinente (achats, import, direction). Sinon, message au service.
 - **Jamais prétendre qu'un prospect a consulté le site** sans donnée le confirmant.
 - **Jamais de courtiers de données** : ZoomInfo, RocketReach, Lusha, Apollo, success.ai,
-  ContactOut, SignalHire, prospeo, datanyze, aeroleads, Volza, seair, exportgenius.
+  ContactOut, SignalHire, prospeo, datanyze, aeroleads, Volza, seair, exportgenius,
+  **Trademo, Eximpedia** (ajoutés le 08/10 : ce sont les mêmes bases de données douanières
+  que Volza, seair et exportgenius, remontées le même jour sur l'Afrique de l'Ouest. Tout
+  site qui vend des relevés d'importation ou des contacts d'acheteurs tombe sous cette règle,
+  qu'il soit nommé ici ou non — c'est la nature du service qui compte, pas le nom).
 - **Jamais pousser sur une autre branche** que `claude/campagne-conteneur-20-open-fl0382`.
 - **Vérifier le registre AVANT d'envoyer**, jamais après :
   `grep -in '<société-ou-domaine>' liste-prospects.csv`
