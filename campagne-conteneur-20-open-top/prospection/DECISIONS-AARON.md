@@ -119,6 +119,55 @@ rapide. Aucun prix, puisqu'il n'y en a pas.
 
 ---
 
+### Ce que je viens d'apprendre sur PG, et il faut que tu le saches avant de chiffrer
+
+**Willem travaille pour le groupe qui possède le seul producteur de float d'Afrique australe.**
+
+C'est établi, pas supposé. **PFG Building Glass est la branche float de PG Group** : premier
+fabricant de float d'Afrique australe, **260 000 tonnes par an** près de Johannesburg, et un
+rapport de l'ITAC le dit **« 100 % de l'industrie domestique de la SACU »** en termes de
+production. Les succursales namibiennes de PG, elles, vendent et posent — elles ne fabriquent pas.
+
+**Et PFG est le demandeur le plus actif de la région en matière d'antidumping.** Les mesures qu'il
+a obtenues ou demandées sur le float clair :
+
+| Origine visée | État |
+|---|---|
+| **Arabie saoudite et Émirats** | droits de **10 à 45 %**, maintenus après revue (rapport ITAC 755) |
+| **Indonésie** | maintenus, recommandation acceptée par le ministre |
+| **Tanzanie** | **droits provisoires depuis le 23/01/2026** — le rapport note qu'une seconde ligne float tanzanienne, démarrée en 2024, exportait vers l'Afrique du Sud |
+| **Chine et Inde** | PG Group a demandé la **prorogation** avant expiration, mars 2026 ; issue inconnue |
+| **Malaisie** | enquête ouverte en 2021 sur requête de PFG ; issue inconnue |
+| **Chine, contournement** | droits définitifs obtenus sur le feuilleté passant par la Malaisie |
+
+**Trois conséquences, et la première est bonne.**
+
+1. **Le prix de PFG est un prix protégé, donc haut.** Six origines à bas coût sont tenues à
+   distance de la SACU par des droits que PFG a lui-même demandés. **C'est exactement la
+   configuration des États-Unis et du Brésil** : un marché où notre prix ne se compare pas à du
+   verre asiatique mais à du verre local protégé. Et cela éclaire la phrase de Willem — « nous
+   nous organiserons selon votre approvisionnement **si le prix est bon** » : il ne compare pas à
+   374 $/t, il compare à PFG.
+2. **La Namibie est membre de la SACU, donc les droits de l'ITAC s'appliquent à l'entrée en
+   Namibie.** C'est une inférence de ma part à partir de l'appartenance à l'union douanière, les
+   sources ne le disent pas explicitement. **L'Europe ne figure dans aucune des mesures
+   ci-dessus** — mais il faut vérifier le droit de douane applicable au verre européen entrant en
+   SACU, et notamment si l'accord de partenariat économique UE-SADC donne une préférence.
+   **Question pour ton transitaire, et elle porte directement sur les quatre conteneurs.**
+3. **Le risque, qu'il vaut mieux voir maintenant.** Si nous devenions un fournisseur significatif
+   de float dans la SACU, PG Group a démontré qu'il sait saisir l'ITAC contre toute origine qui
+   gêne PFG. Ce n'est pas un risque pour quatre conteneurs. **C'en serait un si cette porte
+   s'ouvrait largement**, et c'est à savoir avant de bâtir une stratégie régionale sur ce client.
+
+**Et une question que je ne peux pas trancher, que je te pose donc telle quelle :** savons-nous
+**pourquoi** PG Namibia s'approvisionne hors du groupe ? Les hypothèses sont très différentes —
+références que PFG ne fait pas, délais, politique interne, ou simple mise en concurrence du
+fournisseur interne. **La réponse change ce qu'il faut lui proposer**, et Willem est probablement
+la seule personne qui puisse la donner. Elle vaut d'être posée franchement : « est-ce que ces
+quatre conteneurs complètent PFG ou le remplacent ? »
+
+---
+
 ### Mise à jour du 08/10 — deux choses à savoir avant d'écrire un prix
 
 **L'adresse.** Tu m'as donné `willem@pgglass.com` et tu lui as écrit là à 10h55. Mais la

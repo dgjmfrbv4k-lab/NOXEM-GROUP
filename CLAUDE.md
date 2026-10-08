@@ -323,7 +323,7 @@ message vers ce pays ne doit affirmer l'absence de production locale).
 | Compte | Raison |
 |---|---|
 | Michael McCormack / Carlen Glass (Irlande) | négociation en cours |
-| Groupe PG Glass (Namibie, Botswana, Malawi, Zambie, Mozambique, Tanzanie, PG Smartglass) | négociation Willem Heunis |
+| Groupe PG Glass (Namibie, Botswana, Malawi, Zambie, Mozambique, Tanzanie, PG Smartglass) | négociation Willem Heunis. **ÉTABLI LE 08/10 : ce groupe POSSÈDE PFG Building Glass**, premier producteur float d'Afrique australe, 260 000 t/an, que l'ITAC qualifie de 100 % de l'industrie domestique de la SACU. PFG est aussi le demandeur le plus actif de la région en antidumping : droits obtenus ou demandés contre l'Arabie saoudite et les Émirats (10-45 %), l'Indonésie, la **Tanzanie** (provisoires depuis le 23/01/2026), la Chine et l'Inde (prorogation demandée en mars 2026), la Malaisie. **Donc : la Namibie est en SACU, nos conteneurs y entrent sous ce régime, et le prix de PFG est un prix protégé — ce qui explique la phrase de Willem sur le prix. À vérifier auprès d'un transitaire : le droit applicable au verre européen entrant en SACU et la préférence éventuelle de l'accord UE-SADC.** Et un risque à garder en tête si cette porte s'ouvrait largement : PG sait saisir l'ITAC contre toute origine qui gêne PFG. |
 | Tipperary Glass, Gorica Staklo, Rubex, VIT | dossiers vivants, traités à part |
 
 ## 8. Pages produit de noxemgroup.com — à choisir selon le prospect

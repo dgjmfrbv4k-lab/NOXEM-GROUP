@@ -2465,3 +2465,77 @@ plus 374 $/t mais le prix du producteur local, et c'est un tout autre terrain.**
 Versé au dossier d'Aaron avec la conclusion qui en découle : **la demande ne doit pas être « un prix
 bas », mais « un prix qui tient face à du verre américain ou brésilien rendu ».** C'est une question
 beaucoup plus facile à trancher.
+
+### 14h25 · PG Group possède le seul producteur de float d'Afrique australe — et ça change la lecture du meilleur dossier
+
+En vérifiant l'Afrique du Sud, j'ai trouvé le fait le plus important de la journée sur le dossier
+le plus avancé de la campagne.
+
+**PFG Building Glass est la branche float de PG Group**, c'est-à-dire du groupe de Willem Heunis.
+Premier fabricant de float d'Afrique australe, **260 000 tonnes par an** près de Johannesburg, et
+un rapport de l'ITAC le décrit comme **« 100 % de l'industrie domestique de la SACU »**. Les
+succursales namibiennes de PG vendent et posent ; elles ne fabriquent pas.
+
+**Et PFG est le demandeur le plus actif de la région en matière d'antidumping sur le float clair :**
+Arabie saoudite et Émirats (droits de **10 à 45 %**, maintenus), Indonésie (maintenus), **Tanzanie
+(provisoires depuis le 23/01/2026** — le rapport note qu'une seconde ligne tanzanienne démarrée en
+2024 exportait vers l'Afrique du Sud), Chine et Inde (prorogation demandée en mars 2026), Malaisie
+(enquête de 2021), plus des droits définitifs sur le feuilleté chinois passant par la Malaisie.
+
+**Ce que cela change, et la première conséquence est bonne.**
+
+1. **Le prix de PFG est un prix protégé, donc haut.** Six origines à bas coût sont tenues à
+   distance de la SACU par des droits que PFG a lui-même demandés. C'est **la même configuration
+   qu'aux États-Unis et au Brésil**, et cela éclaire la phrase de Willem — « nous nous organiserons
+   selon votre approvisionnement si le prix est bon ». **Il ne compare pas à 374 $/t. Il compare à
+   PFG.** C'est une comparaison que nous pouvons peut-être gagner.
+2. **La Namibie est membre de la SACU**, donc les droits de l'ITAC s'appliquent à l'entrée. C'est
+   une inférence de ma part depuis l'appartenance à l'union douanière, les sources ne le disent pas
+   explicitement. L'Europe ne figure dans aucune des mesures — mais **le droit applicable au verre
+   européen entrant en SACU reste à vérifier**, de même que la préférence éventuelle de l'accord
+   UE-SADC. Question posée à Aaron pour son transitaire : elle porte directement sur les quatre
+   conteneurs de Walvis Bay.
+3. **Un risque, à voir maintenant plutôt que plus tard** : si nous devenions un fournisseur
+   significatif de float dans la SACU, PG a démontré qu'il sait saisir l'ITAC contre toute origine
+   qui gêne PFG. Négligeable pour quatre conteneurs. **Pas négligeable pour une stratégie
+   régionale.**
+
+**Et une question que je ne peux pas trancher, posée telle quelle à Aaron :** pourquoi PG Namibia
+s'approvisionne-t-il hors du groupe ? Références que PFG ne fait pas, délais, politique interne, ou
+mise en concurrence du fournisseur interne — **les hypothèses commandent des offres différentes**,
+et Willem est probablement le seul à pouvoir répondre. La question vaut d'être posée franchement :
+« est-ce que ces quatre conteneurs complètent PFG ou le remplacent ? »
+
+**Conséquence pour l'Afrique du Sud (9 fiches) :** y prospecter, c'est concurrencer PFG sur son
+marché domestique pendant qu'on négocie avec sa maison mère en Namibie. **Les 9 fiches
+sud-africaines sont gelées jusqu'à ce qu'Aaron tranche** — le §7 protège déjà le groupe PG, mais
+pas ses concurrents sud-africains, et le risque n'est pas le même selon ce qu'on vise.
+
+### 14h30 · Quatre fiches du groupe PG étaient dans le pool des relances. C'était un risque réel.
+
+**Trouvé en vérifiant l'Afrique du Sud, et c'est le genre d'erreur qui coûte un dossier.**
+
+`PG Smartglass`, `PG Glass Botswana`, `PG Glass Malawi` et `PG Glass Zambia` étaient au statut
+`ENVOYE` des 24 et 25 septembre. **Un statut `ENVOYE` est dans le pool des relances.** Or le §7
+protège explicitement le groupe PG Glass sur cette campagne, pour cause de négociation en cours
+avec Willem Heunis. Une vague de relances automatiques aurait démarché **quatre filiales du groupe
+avec lequel nous négocions quatre conteneurs sur Walvis Bay.**
+
+Et le risque est plus grand qu'il n'y paraissait ce matin, parce que la structure du groupe a été
+établie le même jour : **PG Group possède PFG, le seul producteur de float de la SACU.** Proposer
+du float importé à quatre branches du groupe pendant que sa maison mère nous demande un prix serait
+au mieux maladroit, au pire un motif de rupture.
+
+**Les quatre fiches passent en `NE PAS DEMARCHER`**, ce qui les sort de tous les pools. Le dossier
+PG reste vivant et se traite **uniquement par le fil de Willem**.
+
+**Et les 8 fiches sud-africaines sont gelées**, en attente d'un arbitrage d'Aaron : les prospecter
+revient à concurrencer PFG sur son marché domestique pendant que nous demandons une commande à sa
+maison mère. Le §7 protège le groupe PG, pas ses concurrents sud-africains — mais le risque
+commercial n'est pas le même selon ce qu'on vise, et ce n'est pas à moi de le trancher. Elles
+portent déjà deux messages chacune et aucune relance n'était due avant le 20/10, donc le gel ne
+coûte rien dans l'immédiat.
+
+**À noter pour le jour où le gel serait levé :** l'Europe ne figure dans aucune des mesures
+antidumping obtenues par PFG. Le marché sud-africain serait donc abordable sur le plan douanier.
+**C'est le conflit d'intérêts qui bloque, pas la douane.**
