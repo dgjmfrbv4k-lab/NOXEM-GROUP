@@ -153,6 +153,14 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--c2);outline-offset:
 #intro .tag{font:500 13px var(--mono);letter-spacing:.32em;text-transform:uppercase;color:#C7D2FE;opacity:0}
 #intro .skip{position:absolute;right:20px;bottom:calc(20px + env(safe-area-inset-bottom,0px));font:600 14px var(--sans);color:#fff;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 18px;cursor:pointer;z-index:2}
 #intro .rays{position:absolute;inset:-20%;-webkit-mask-image:radial-gradient(circle,#000 10%,transparent 60%);mask-image:radial-gradient(circle,#000 10%,transparent 60%);background:repeating-conic-gradient(from 0deg at 50% 50%,rgba(139,92,246,.10) 0 3deg,transparent 3deg 12deg);opacity:0;mix-blend-mode:screen}
+
+.wa-float{position:fixed;right:18px;bottom:18px;z-index:9999;width:60px;height:60px;border-radius:50%;background:#25D366;display:flex;align-items:center;justify-content:center;box-shadow:0 8px 24px rgba(0,0,0,.35);transition:transform .2s}
+.wa-float:hover{transform:scale(1.08)}
+.wa-float::after{content:"";position:absolute;inset:0;border-radius:50%;border:2px solid #25D366;animation:waPulse 2s infinite}
+@keyframes waPulse{0%{transform:scale(1);opacity:.8}100%{transform:scale(1.5);opacity:0}}
+html[dir=rtl] .wa-float{right:auto;left:18px}
+.btn.wa{background:#25D366;color:#fff;display:inline-flex;align-items:center;gap:8px;text-decoration:none;border:0}
+.btn.wa svg{width:20px;height:20px}
 </style>
 
 <div id="intro" aria-label="PIWA AI">
@@ -277,12 +285,13 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--c2);outline-offset:
     <div class="contact">
       <div class="kick" data-k="nav_contact"></div>
       <h2 data-k="k_h2"></h2>
-      <div class="row"><span class="num" id="tel" dir="ltr">+33 6 86 12 13 71</span><button type="button" class="btn main" id="copy" data-k="copy"></button></div>
+      <div class="row"><span class="num" id="tel" dir="ltr">+33 6 86 12 13 71</span><a class="btn wa" href="https://wa.me/33686121371?text=Bonjour%20Kevin%2C%20je%20viens%20de%20voir%20le%20site%20PIWA%20et%20je%20souhaite%20une%20vid%C3%A9o." target="_blank" rel="noopener"><svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true"><path fill="#fff" d="M16.04 3C8.86 3 3.03 8.82 3.03 16c0 2.3.6 4.53 1.74 6.5L3 29l6.68-1.75A12.97 12.97 0 0 0 16.04 29C23.2 29 29 23.18 29 16S23.2 3 16.04 3zm0 23.8c-2.02 0-3.99-.54-5.7-1.57l-.41-.24-3.96 1.04 1.06-3.86-.27-.4A10.78 10.78 0 0 1 5.2 16c0-5.97 4.86-10.83 10.84-10.83 5.97 0 10.8 4.86 10.8 10.83 0 5.98-4.83 10.8-10.8 10.8zm5.93-8.1c-.33-.16-1.93-.95-2.23-1.06-.3-.11-.52-.16-.74.17-.22.32-.85 1.06-1.04 1.28-.19.22-.38.24-.71.08-.33-.16-1.38-.51-2.63-1.62-.97-.87-1.63-1.94-1.82-2.27-.19-.33-.02-.5.14-.67.15-.15.33-.38.49-.57.16-.19.22-.33.33-.55.11-.22.05-.41-.03-.57-.08-.16-.74-1.78-1.01-2.44-.27-.64-.54-.55-.74-.56h-.63c-.22 0-.57.08-.87.41-.3.33-1.14 1.11-1.14 2.71s1.17 3.15 1.33 3.36c.16.22 2.3 3.5 5.57 4.91.78.34 1.39.54 1.86.69.78.25 1.5.21 2.06.13.63-.09 1.93-.79 2.2-1.55.27-.76.27-1.42.19-1.55-.08-.14-.3-.22-.63-.38z"/></svg>WhatsApp</a><button type="button" class="btn main" id="copy" data-k="copy"></button></div>
       <p style="margin:0;color:var(--mute)" data-k="k_p"></p>
     </div>
   </section>
 
   <footer><span>PIWA AI</span><span data-k="foot"></span></footer>
+<a class="wa-float" href="https://wa.me/33686121371?text=Bonjour%20Kevin%2C%20je%20viens%20de%20voir%20le%20site%20PIWA%20et%20je%20souhaite%20une%20vid%C3%A9o." target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true"><path fill="#fff" d="M16.04 3C8.86 3 3.03 8.82 3.03 16c0 2.3.6 4.53 1.74 6.5L3 29l6.68-1.75A12.97 12.97 0 0 0 16.04 29C23.2 29 29 23.18 29 16S23.2 3 16.04 3zm0 23.8c-2.02 0-3.99-.54-5.7-1.57l-.41-.24-3.96 1.04 1.06-3.86-.27-.4A10.78 10.78 0 0 1 5.2 16c0-5.97 4.86-10.83 10.84-10.83 5.97 0 10.8 4.86 10.8 10.83 0 5.98-4.83 10.8-10.8 10.8zm5.93-8.1c-.33-.16-1.93-.95-2.23-1.06-.3-.11-.52-.16-.74.17-.22.32-.85 1.06-1.04 1.28-.19.22-.38.24-.71.08-.33-.16-1.38-.51-2.63-1.62-.97-.87-1.63-1.94-1.82-2.27-.19-.33-.02-.5.14-.67.15-.15.33-.38.49-.57.16-.19.22-.33.33-.55.11-.22.05-.41-.03-.57-.08-.16-.74-1.78-1.01-2.44-.27-.64-.54-.55-.74-.56h-.63c-.22 0-.57.08-.87.41-.3.33-1.14 1.11-1.14 2.71s1.17 3.15 1.33 3.36c.16.22 2.3 3.5 5.57 4.91.78.34 1.39.54 1.86.69.78.25 1.5.21 2.06.13.63-.09 1.93-.79 2.2-1.55.27-.76.27-1.42.19-1.55-.08-.14-.3-.22-.63-.38z"/></svg></a>
 </div>
 
 <script>
