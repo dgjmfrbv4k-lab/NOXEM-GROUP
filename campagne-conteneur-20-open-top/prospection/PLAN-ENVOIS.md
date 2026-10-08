@@ -185,3 +185,32 @@ nouveau et ce lot attend.
 Guadalajara (Mexique) et Arte Vidro Mocambique. La premiere merite un texte, elle est dans un
 marche prioritaire — a ecrire avant le 10/10. La seconde est dans la zone que la decouverte de
 Sapphire a declassee le 08/10 : elle attend, et ce n'est pas un oubli.
+
+---
+
+## Ajout du 08/10 a 15h25 — le lot outre-mer des 12 et 13/10
+
+Textes integraux dans `a-envoyer/2026-10-12-outre-mer-trois-textes.md`.
+
+| Societe | Territoire | Adresse | Date | Particularite |
+|---|---|---|---|---|
+| **Savima** | Guadeloupe + Saint-Martin | `accueil@savima.fr` | 12/10 | **seule, et en premier du lot** — 10 M EUR de CA, aluminier agree Technal, deux sites. Secours : `contact@glassalusxm.fr` |
+| Univers du Verre | Guadeloupe + 4 autres | `contact@universduverre.fr` | 12/10 | seule, apres Savima. Page vieille de 3 ans |
+| SXM Aluminium | Saint-Martin, Sint Maarten, St Barths | `sxmaluinstallation@outlook.com` | 13/10 | seule. Message court, volume d'abord. Orthographe de l'adresse a recopier exactement |
+
+**Aucun des trois ne se groupe** : deux ont des pages anciennes dont l'adresse peut avoir vieilli,
+le troisieme est sur un domaine exterieur.
+
+**ET LA RESERVE NEUVE QUI VAUT POUR TOUT L'OUTRE-MER, a ne pas oublier au moment d'envoyer :**
+l'octroi de mer externe s'applique a notre verre europeen a l'entree des DOM, en vertu de la loi du
+2 juillet 2004, et les taux du chapitre 70 pour 2026 ne sont pas etablis. **Aucun mot sur la
+fiscalite a l'entree dans ces messages** — ni « livraison dans l'Union sans droits », ni « meme
+marche interieur ». La question est partie chez Aaron.
+
+## Rappel de la mise au point du 08/10 a 15h15, qui change la verification prealable
+
+J'avais ecrit qu'il fallait verifier qu'aucun nouveau `5.7.1` n'etait tombe. **Precision : c'est un
+serveur NOUVEAU qui compte.** Un `5.7.1` repete depuis un serveur deja connu n'arrete rien et
+autorise a continuer a volume mesure. Le seul verdict du 08/10 venait de `info@yemenglass.com`,
+qui nous avait deja rejetes la veille — donc rien de neuf. Ce qui limitait les envois le 08/10
+etait le volume deja parti, 104 messages contre les 15 a 20 du plan, et non le filtrage.
