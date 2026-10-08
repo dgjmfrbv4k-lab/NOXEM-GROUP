@@ -65,6 +65,15 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 - **Jamais pousser sur une autre branche** que `claude/campagne-conteneur-20-open-fl0382`.
 - **Vérifier le registre AVANT d'envoyer**, jamais après :
   `grep -in '<société-ou-domaine>' liste-prospects.csv`
+  **Règle durcie le 08/10 après une faute :** le `grep` se fait **dès que la recherche rend
+  des noms**, avant même de rédiger. Ce jour-là j'ai cherché l'Ouganda, rédigé, envoyé, puis
+  vérifié : Shibaam était déjà à `RELANCE 2026-10-06` et a reçu un troisième message en deux
+  jours. Vérifier après l'envoi ne sert à rien, cela ne fait que documenter la faute.
+- **Mesurer un marché « non prospecté » au bon chiffre.** Compter les fiches par pays induit
+  en erreur : l'Ouganda affichait six fiches, toutes déjà contactées, et la recherche n'a
+  fait que retrouver des sociétés du registre. Le seul chiffre utile est le nombre de fiches
+  **avec adresse et jamais contactées** :
+  `awk -F';' 'NR>1 && $1=="<Pays>" {print $4" | "$7" | "$10}' liste-prospects.csv`
 - **Contrôle MX obligatoire avant tout envoi** (ajouté le 07/10/2026 après deux rebonds
   « domaine introuvable » sur des adresses pourtant publiées par la société elle-même) :
   `python3 campagne-conteneur-20-open-top/prospection/outils/verif-mx.py <adresse…>`

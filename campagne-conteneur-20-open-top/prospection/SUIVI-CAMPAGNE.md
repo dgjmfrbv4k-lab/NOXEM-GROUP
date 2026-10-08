@@ -923,3 +923,93 @@ constaté**. Noté dans chaque fiche.
 Cas limite consigné : `sumeshglass99@gmail.com` s'écrit avec un `h` que le domaine du site
 (`sumesglass.com.np`) n'a pas. Adresse publiée telle quelle par la société. Partie sans
 rebond, mais la fiche porte l'alerte.
+
+---
+
+# Lot du 08/10 — Paraguay, Ouganda, et une faute de ma part
+
+## La faute, d'abord
+
+**J'ai envoyé un troisième message à Shibaam Uganda alors que la fiche était à
+`RELANCE 2026-10-06`.** Cause exacte : j'ai cherché, rédigé, envoyé, *puis* vérifié le
+registre. Le §5 dit « vérifier le registre AVANT d'envoyer, jamais après » — la règle
+existait, je l'ai enfreinte. Rien à rattraper, le message est parti. La fiche porte la
+mention, le compte est gelé jusqu'en janvier 2027, et le mandat est durci : le `grep` se
+fait **dès que la recherche rend des noms**, avant même de rédiger.
+
+C'est d'autant plus bête que j'avais fait la vérification correctement pour l'Arménie, le
+Rwanda, le Népal et la Bolivie une heure plus tôt.
+
+## Mon indicateur de « marché non prospecté » était faux
+
+Je comptais les fiches par pays. L'Ouganda affichait six fiches, et j'en ai conclu
+« couverture mince ». En réalité **les six étaient déjà contactées**, et la recherche n'a
+fait que retrouver des sociétés déjà au registre : Ramp, Casements, Tile Centre, Shibaam.
+Idem au Paraguay : AGPAR, VILUX, Casa Barrios et Alutex y étaient déjà, tous en `A APPELER`.
+
+Le seul chiffre qui veut dire quelque chose est **le nombre de fiches avec adresse et jamais
+contactées**. Corrigé dans le mandat avec la commande.
+
+## Chiffres de ce lot
+
+| | |
+|---|---|
+| Recherches | 2 marchés (Paraguay, Ouganda) |
+| Fiches créées | 6, toutes non contactables en l'état |
+| Envois confirmés | **1, et c'était une erreur** (Shibaam, doublon) |
+| Réponses qualifiées | 0 |
+| Demandes de devis | 0 |
+| Commandes | 0 |
+
+**Le Paraguay n'a produit aucun envoi.** Toutes les sociétés sérieuses y publient un
+téléphone, pas une adresse. C'est cohérent avec ce qu'on observe depuis le début sur
+l'Amérique du Sud hispanophone.
+
+## Ce que j'ai refusé d'utiliser, encore
+
+- **seair** (interdit au §5) fournissait les relevés douaniers d'importateurs de float
+  paraguayens. Écarté sans exploitation.
+- **Volza** (interdit au §5) occupait sept des dix résultats sur l'Ouganda. Écarté.
+- **VASA** est remontée comme acteur du float au Paraguay : c'est un **producteur float,
+  donc un concurrent nommé au §6**, pas un prospect.
+- **Ahmad Glazing (Kampala)** affiche un numéro WeChat en +86 et une page décrivant un
+  fabricant basé en Chine. Probable vitrine d'un fournisseur chinois. La Chine étant exclue
+  comme source au §6, fiche créée en `A QUALIFIER` sans démarchage.
+
+## Ce que le registre a révélé, et qui valait mieux qu'une recherche
+
+En appliquant le bon indicateur à tout le fichier : **19 fiches ont une adresse tout en
+étant en `A APPELER`**. J'ai cru à une incohérence. Vérification faite, c'est au contraire
+propre : ce sont presque toutes des **adresses rebondies**, conservées pour mémoire avec le
+statut basculé en appel. Le registre est sain.
+
+Deux cas méritent d'être retenus pour la suite :
+
+- **Vidrieria Universal (Colombie)**, distributeur national : ses **deux** adresses rebondissent
+  en « boîte pleine ». Leur serveur est saturé, pas l'adresse. L'e-mail ne passera pas :
+  c'est un appel, pas un envoi.
+- **Green Glass Industries (Dubaï)**, cible prioritaire qui feuillette jusqu'à 2,8 × 6 m :
+  rebond `550 5.5.0` sur une **IP sortante de Google** blacklistée chez eux. Réessayer depuis
+  la même boîte Gmail rebondirait pareil. C'est un appel aussi.
+
+## Quatre fiches camerounaises à trancher avant tout envoi
+
+AFRICALU, ALUBAT-CAM, ETS Verrerie et METALUX portent une adresse, **aucun rebond**, et le
+statut `A APPELER`. La mention « mini-mail sur mesure » qu'elles portent apparaît aussi sur
+des fiches bien parties en septembre (Caribbean Metals, Alawadhi, Serious Aluminium).
+
+**Je ne peux pas savoir si elles ont été contactées**, parce que les envois de septembre
+partaient de l'ancienne boîte `harfiaaron0@gmail.com` que cette session ne lit pas. Les
+quatre fiches sont annotées : ne pas envoyer à l'aveugle. Envoyer « au cas où » reproduirait
+l'erreur Shibaam, cette fois en toute connaissance de cause.
+
+**Aaron peut lever le doute en trente secondes** en cherchant une de ces adresses dans
+l'ancienne boîte. C'est la question à lui poser au bilan.
+
+## Un manque dans le vocabulaire des statuts
+
+Glass Jet a répondu « we don't have any requirement right now » : un refus net mais courtois.
+Aucun statut du §12 ne dit ça. `NE PAS DEMARCHER` surtraduit — ils n'ont pas demandé qu'on
+les laisse tranquilles. J'ai consigné le refus dans la note avec une relance en janvier 2027
+et gardé le statut de dernier contact. **Il manque un statut `REFUS` avec date de
+reprise** ; à arbitrer avec Aaron plutôt que de l'inventer seul.
