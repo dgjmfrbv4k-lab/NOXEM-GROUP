@@ -70,3 +70,58 @@ produits float pour tous les grands verriers, usine de 180 000 pieds carrés à 
 site de Solar Seal. Mais **aucune adresse publiée** : leur page de contact ne donne que les
 adresses postales et les téléphones. Appeler le 800 888 1005 et demander le bureau float.
 Nuance : « certifié pour tous les grands verriers » signifie qu'ils sont déjà liés aux majors.
+
+---
+
+# Deuxième série de déverrouillages, 08/10 après-midi
+
+## 4. Al Fozan Uniglass (Arabie saoudite) — `info@uniglass.com.sa`
+
+Publiée sur leur page de contact officielle. Filiale d'**Al Fozan Holding**, siège du groupe à
+Al Khobar. Quatre implantations avec lignes dédiées : Riyad +966 500500186, Dammam
++966 544239498, plus Djeddah et La Mecque.
+
+**Même précaution que Walshs :** le site de Saint-Gobain Glass les liste parmi ses points — ils
+sont donc probablement **distributeurs Saint-Gobain**. L'angle doit porter sur ce qu'une chaîne
+Saint-Gobain couvre mal, pas sur le remplacement du fournisseur.
+
+Les annuaires donnent trois adresses physiques contradictoires à Riyad : ne retenir que la boîte
+postale officielle, 40179 Riyad 11499.
+
+## 5. Al Abbar Group (Dubaï) — `info@alabbargroup.com`, copie `sales@alabbargroup.com`
+
+**La nuance compte ici.** Leur page de contact publie les deux adresses, écrites avec `[at]` pour
+échapper aux robots — les décoder n'est pas les inventer, c'est bien ce que la société publie.
+**Mais leur page « Contact Us » plus récente a retiré l'adresse `sales`** et ne liste que des
+adresses régionales. Le `sales@` est donc peut-être périmé.
+
+D'où la décision : écrire à `info@` avec `sales@` en copie, pour que l'un des deux aboutisse.
+
+Siège Jebel Ali Industrial Area 1, BP 1626 Dubaï, +971 4 801 2000. La division verre
+architectural est à Ras Al Khor, ligne +971 4 333 1362.
+**Ne pas confondre avec Al Abbar Glass & Trading Co.**, qui apparaît comme une entité différente.
+
+---
+
+## Restées en appel après vérification
+
+- **Dr Greiche (Égypte)** — très grosse maison, mais sa page de contact ne publie qu'une hotline,
+  le 19864, un WhatsApp et un numéro par agence. Deux réserves nouvelles : le groupe a annoncé une
+  **fusion avec High Glass**, donc la structure a peut-être changé ; et leur gamme annoncée porte
+  sur le **miroir**, le float n'étant pas confirmé.
+- **Nassau Glass (Bahamas)** — le plus gros du pays, mais aucune adresse publiée. Sa société sœur
+  **Bahamas Aluminum Manufacturing** fabrique fenêtres, portes et garde-corps : demander les deux
+  services au même appel, +1 242 603 5521.
+- **Glass Enterprises (PA et CT)** — fabricant certifié float pour tous les grands verriers, usine
+  de 180 000 pieds carrés. Aucune adresse. Appeler le 800 888 1005 et demander le bureau float.
+
+## Deux identités que je n'ai pas pu confirmer
+
+À ne pas appeler sur la foi de ce que la fiche affirme :
+
+- **North Africa for Importing Glass (Libye)**, classée cible prioritaire au motif qu'elle importe
+  du float de Chine, de Belgique et de France. Aucune société de ce nom n'est trouvable à Tripoli ;
+  la seule homonyme importe du **matériel pétrolier**.
+- **Saudi American Glass**, décrite comme parmi les mieux équipées du Moyen-Orient. Introuvable.
+
+Dans les deux cas : établir d'abord qui ils sont, l'argumentaire ensuite.

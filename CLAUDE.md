@@ -82,8 +82,13 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 - **Jamais pousser sur une autre branche** que `claude/campagne-conteneur-20-open-fl0382`.
 - **Vérifier le registre AVANT d'envoyer**, jamais après :
   `grep -in '<société-ou-domaine>' liste-prospects.csv`
-  **Règle durcie le 08/10 après une faute :** le `grep` se fait **dès que la recherche rend
-  des noms**, avant même de rédiger. Ce jour-là j'ai cherché l'Ouganda, rédigé, envoyé, puis
+  **Règle durcie le 08/10 après trois fautes dans la même journée :** le `grep` se fait **dès que
+  la recherche rend des noms**, **sur chacun des noms un par un**, et avant d'écrire quoi que ce
+  soit — y compris avant de **créer** une fiche, pas seulement avant d'envoyer.
+  Les trois fautes : Shibaam Uganda et Mirror King Udhyog ont reçu un troisième message en deux
+  jours parce que j'avais grepé une partie seulement des noms rendus par la recherche ; et
+  Glass Suppliers & Installers a été créée en double parce que je n'avais pas grepé du tout avant
+  de créer la fiche. **Un grep partiel ne vaut pas un grep.** Ce jour-là j'ai cherché l'Ouganda, rédigé, envoyé, puis
   vérifié : Shibaam était déjà à `RELANCE 2026-10-06` et a reçu un troisième message en deux
   jours. Vérifier après l'envoi ne sert à rien, cela ne fait que documenter la faute.
 - **Mesurer un marché « non prospecté » au bon chiffre.** Compter les fiches par pays induit

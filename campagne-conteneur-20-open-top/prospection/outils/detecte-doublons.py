@@ -40,10 +40,10 @@ def groupe(cle, titre):
         k = cle(c)
         if k:
             d[k].append((n, c[3]))
-    sortie = [(k, v) for k, v in sorted(d.items()) if len(v) > 1]
+    sortie = [(k, v) for k, v in sorted(d.items(), key=lambda kv: str(kv[0])) if len(v) > 1]
     print('\n=== %s : %d groupe(s) ===' % (titre, len(sortie)))
     for k, v in sortie:
-        print('  %s' % k)
+        print('  %s' % (' / '.join(k) if isinstance(k, tuple) else k,))
         for n, nom in v:
             print('      L%-5d %s' % (n, nom))
     return len(sortie)
