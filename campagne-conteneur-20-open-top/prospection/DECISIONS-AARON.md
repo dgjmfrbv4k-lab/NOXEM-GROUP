@@ -7,6 +7,38 @@ Présenté comme l'impose le §11 : **faits → options → ma recommandation.**
 
 ---
 
+## Ce que la journée du 08/10 a changé pour ta décision de prix
+
+**Tu attends de décider un prix. Je ne te demande pas de le décider plus vite — je te dis contre
+qui il doit être calibré, parce que la journée a répondu à cette question dans quatre zones, et la
+réponse n'est pas celle qu'on aurait devinée.**
+
+L'intuition naturelle est que le verre européen se vend dans les marchés riches et se fait battre
+partout ailleurs par l'Asie. **Les faits vérifiés aujourd'hui disent autre chose : c'est dans les
+Amériques que notre prix a la meilleure chance, et précisément parce que la concurrence asiatique y
+a été écartée par les douanes.**
+
+| Zone | Contre qui nous nous battons réellement | Ce que ça implique pour la grille |
+|---|---|---|
+| **États-Unis** — 43 fiches | **Plus les Chinois ni les Malaisiens.** Depuis les ordres du 06/04/2026, le float chinois porte ~181 % d'antidumping et le malaisien jusqu'à 102 % de compensateur. L'Europe n'en porte aucun. Restent le domestique, le Mexique, la Turquie. | **Le parapluie de prix est haut.** C'est la zone où un prix européen peut tenir sans être agressif. |
+| **Canada** — 61 fiches | **Le verre américain**, qui fournit ~90 % du marché, à travers une frontière passée sous droits de 50 % dans les deux sens depuis août-septembre 2026. | Même parapluie haut, plus un argument de risque. Le float n'est pas surtaxé à l'entrée au Canada — **ne pas le prétendre** — mais la frontière est devenue coûteuse en délais. |
+| **Caraïbe** — Trinidad, Bahamas, Jamaïque… | **Miami, à deux jours de bateau**, et pas l'Asie. CM Glass Miami annonce exporter du verre américain ; Glass Global Distributors se dit distributeur pour la Floride du Sud **et les Caraïbes**. | Il faut tenir face à du **verre américain rendu**, qui n'est pas bon marché. C'est jouable. Mais ils ont le délai et le crédit pour eux — d'où l'objection d'Akeeda. |
+| **Afrique de l'Ouest** — ~40 fiches | Aujourd'hui personne de local. **Demain le Ghana** : usine KEDA de 250 M$ à Shama, 1 400 t/jour à terme, mandat d'export explicite, à 20 km du port de Takoradi. | **La seule zone avec une horloge.** Si une grille doit sortir en premier quelque part pour prendre des clients avant un concurrent, c'est là. |
+
+**Ce que j'en tire, et c'est une recommandation, pas une certitude :** la campagne a passé des
+semaines à chercher des marchés « sans production locale », en supposant que c'était là que le prix
+européen passerait. **C'était peut-être le mauvais critère.** Un marché sans production locale est
+aussi un marché où tout le monde importe, donc où les Asiatiques sont déjà installés et au prix
+le plus bas. Un marché avec production locale et **barrières douanières contre l'Asie** est, lui,
+un marché où notre prix se compare à du verre cher.
+
+**Je ne peux pas aller plus loin sans un chiffre.** Mais si tu ne devais calibrer qu'une seule
+grille, les deux candidates sont **les États-Unis** — parapluie de prix le plus haut, concurrence
+asiatique écartée, 26 fiches déjà contactées et prêtes à être relancées — et **l'Afrique de
+l'Ouest**, parce que c'est la seule qui a une date.
+
+---
+
 ## Le constat qui compte
 
 **Quatre demandes de prix fermes sont ouvertes. Aucune ne peut être chiffrée.**

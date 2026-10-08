@@ -2285,3 +2285,50 @@ vérifiable, et ça ne demande pas d'être moins cher que les Américains — se
 
 Ajouté au §6 du mandat. **Les 61 fiches canadiennes sont à relancer sur cet angle**, et c'est
 probablement le meilleur emploi d'une vague de relances après le lot en cours.
+
+### 14h40 · Les États-Unis, et une erreur de jugement que j'avais commise deux heures plus tôt
+
+**Il faut commencer par la faute.** Vers 13 h j'ai déclassé les fiches américaines — GlasPro et
+Northwestern Glass Fab datées au 13/10 — en écrivant que « les États-Unis produisent leur float en
+abondance, donc l'offre européenne y part avec un handicap ». Je n'avais rien vérifié. **C'était
+faux au moment où je l'écrivais.**
+
+**Ce que la vérification a donné.** Les États-Unis ont frappé le float importé de Chine et de
+Malaisie :
+
+| | |
+|---|---|
+| Ordres publiés | **6 avril 2026**, rétroactifs au **15 juillet 2025** |
+| Pétitionnaires | **Vitro** Flat Glass et Vitro Meadville — **premières procédures jamais dirigées contre les importations de float aux États-Unis** |
+| Chine, antidumping | **181,52 %** (entité nationale), 151,27 % (Xinyi) — préliminaires de **247 à 312 %** |
+| Chine, compensateur | 19,75 % à **113,34 %** |
+| Malaisie, antidumping | **abandonné** (importations négligeables) |
+| Malaisie, compensateur | 17,3 % à **102 %** · 27,3 % pour « tous les autres » |
+| **Europe** | **aucun droit** |
+
+**Les deux origines qui cassaient les prix sur le marché américain viennent d'être sorties du jeu,
+et l'Europe n'est pas visée.** Un transformateur qui achetait chinois ou malaisien cherche une
+autre origine maintenant. Les 43 fiches américaines passent de « ciblage faible » à cible
+qualifiée ; les deux que j'avais déclassées sont requalifiées ; texte prêt dans
+`a-envoyer/2026-10-10-etats-unis-angle-antidumping.md`, pour les **26 fiches** qui ont une adresse
+et ont déjà reçu un message.
+
+### Et la conséquence qui dépasse les États-Unis
+
+Mises côte à côte, les quatre trouvailles du jour dessinent une carte cohérente, et elle contredit
+la logique qui guidait la campagne :
+
+- **États-Unis** : concurrence asiatique écartée par les douanes → parapluie de prix haut.
+- **Canada** : 90 % du verre vient des États-Unis, frontière sous droits de 50 % réciproques.
+- **Caraïbe** : le concurrent est **Miami**, pas l'Asie.
+- **Afrique de l'Ouest** : personne aujourd'hui, le Ghana demain, avec une date.
+
+**La campagne cherchait des marchés « sans production locale » en supposant que le prix européen y
+passerait. C'était peut-être le mauvais critère** : un marché sans production locale est un marché
+où tout le monde importe, donc où les Asiatiques sont installés au prix le plus bas. Un marché avec
+production locale **et barrières contre l'Asie** est un marché où notre prix se compare à du verre
+cher.
+
+Versé en tête de `DECISIONS-AARON.md` : si une seule grille doit sortir, les deux candidates sont
+**les États-Unis** (parapluie le plus haut, 26 fiches prêtes) et **l'Afrique de l'Ouest** (la seule
+zone qui a une horloge).
