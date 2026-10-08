@@ -97,16 +97,27 @@ courte et la plus rentable.
 entre 9h et 17h chez l'interlocuteur. Attention, deux zones ont change depuis la version du 06/10 :
 l'**Australie** et le **Paraguay** sont passes a l'heure d'ete australe, leurs fenetres ont bouge.
 
-## Pourquoi cette liste est l'actif le plus sous-exploite de la campagne
+## Pourquoi cette liste existe, et ce qui a change le 08/10 apres-midi
 
-Mesure du 08/10 : **aucun pays du registre n'a plus de fiche avec adresse jamais contactee.**
-Tout ce qui pouvait partir par e-mail est parti. Ces {len(rows)} fiches sont le gisement restant,
-et elles ne s'ouvriront pas autrement qu'au telephone.
+**Le diagnostic du matin etait trop pessimiste et il faut le corriger ici aussi.** J'ecrivais que
+ces fiches ne s'ouvriraient qu'au telephone, parce que la lecture web est coupee et qu'un annuaire
+ne satisfait pas la regle anti-rebond du paragraphe 5. Les deux premieres affirmations restent
+vraies. La conclusion, non.
 
-La cause est connue et chiffree : la lecture web est coupee, donc je ne peux pas atteindre les
-pages de contact des societes, et un annuaire ne satisfait pas la regle anti-rebond du paragraphe 5.
-Sur les lots du 08/10 : Haiti 0 envoi sur 4 societes reelles, Paraguay 0 sur 7, Zone Libre de
-Colon 0, Cap-Vert 1 sur 6.
+**Une methode de recherche trouvee l'apres-midi en a deverrouille 55 sur 88 testees, soit 62 %** :
+recherche large sur le nom de la societe avec les annuaires et les courtiers bloques, pour faire
+remonter son domaine propre, puis recherche restreinte a ce domaine pour l'adresse publiee. Trente-
+cinq fiches sont ainsi sorties de cette liste dans la journee, et **54 attendent desormais un envoi**.
+
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces {len(rows)} societes ont ete
+testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
+- celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
+  Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
+  existent, elles sont grosses, et seul le telephone les ouvre ;
+- celles dont le **domaine n'est plus indexe du tout** — a requalifier avant d'y mettre un appel.
+
+Le telephone garde donc sa valeur, mais il n'est plus le seul chemin : c'est **le chemin des
+grosses maisons qui protegent leur adresse**, ce qui est precisement le haut de la liste.
 
 ## Quatre fiches camerounaises a NE PAS appeler avant verification
 
