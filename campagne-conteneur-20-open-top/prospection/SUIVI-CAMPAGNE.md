@@ -2118,3 +2118,54 @@ après le lot principal, sans l'effort de rédaction réservé aux marchés sans
    de place.
 3. **Recontrôler le 10/10** les rebonds des envois du 08 et du 09 — un rebond anti-spam peut
    arriver près de deux heures après l'envoi.
+
+---
+
+## 08/10/2026 — 13h50 · Le message à Willem n'était jamais arrivé
+
+**À consigner en premier parce que c'est l'incident le plus coûteux de la journée, et il est de
+mon fait.**
+
+Le message que Aaron m'avait demandé d'envoyer à **Willem Heunis** ce matin à 8 h 55 — PG Glass
+Namibia, le dossier le plus avancé de la campagne, une demande de prix ferme qui attend depuis le
+**28/09** — **n'est jamais arrivé**. Il partait à `willem@pgglass.com`, l'adresse telle qu'Aaron
+me l'avait dictée. Rebond à 10 h 43 : `550 Invalid Recipient`, rendu par le Mimecast sud-africain
+`za-smtp-inbound-1.mimecast.co.za`. Le domaine existe — c'est celui du groupe sud-africain — mais
+il n'y a pas de boîte `willem` dessus.
+
+**La fiche du registre portait la bonne adresse depuis le début : `willem@pgglass.com.na`**,
+domaine namibien, avec le mobile +264 81 149 3977.
+
+**C'est la deuxième fois dans la même journée** que j'envoie à une adresse qui n'est pas celle du
+registre. Le matin, la relance Zrcalo, reconstruite de tête : coût, une relance perdue. Cette
+fois : **une journée perdue sur le seul dossier mûr de la campagne, et un client qui a pu croire
+qu'on ne lui répondait pas.** La règle est maintenant écrite au §5 : l'adresse se lit dans le
+registre, et si elle diffère de celle qu'on m'a donnée, c'est la différence qu'il faut lever, pas
+le registre qu'il faut ignorer.
+
+**Réparé à 13 h 50** : renvoyé à la bonne adresse, avec la confirmation d'adresse professionnelle
+demandée par Aaron, le rappel explicite des quatre références confirmées (4 mm clair 1830 × 2440,
+et les trois 6.38 feuilletés clair, gris teinté et blanc translucide en 2440 × 2000, un 20 pieds
+par produit, CIF Walvis Bay) et le WhatsApp +33 6 86 13 12 71 proposé comme canal plus rapide.
+Aucun prix, puisqu'il n'y a pas de grille.
+
+**Remonté à Aaron** dans `DECISIONS-AARON.md`, avec deux demandes concrètes : corriger l'adresse
+partout où il l'a donnée, et **chercher dans l'ancienne boîte si Willem a relancé entre-temps** —
+si Willem a écrit et qu'on ne l'a pas vu, le problème de ce dossier n'est plus le prix.
+
+### Deux autres rebonds du même créneau
+
+- **`export@mataharisilverindo.com`** (Indonésie), `550 No Such User` : le domaine fonctionne, la
+  boîte `export` n'existe pas. Adresse retirée, fiche repassée en appel. Le profil reste bon —
+  fabricant de miroirs argent et aluminium à Semarang, donc acheteur de float pour argenture — et
+  la fiche mérite un second passage par la méthode de déverrouillage.
+- Rien de nouveau sur les envois de 12 h 40 (Distribuidora del Caribe, Corporación Limatambo) ni
+  sur le renvoi Zrcalo. **Et conformément à la leçon du matin, cela ne veut rien dire** : un rebond
+  anti-spam peut arriver près de deux heures après. **Contrôle à refaire le 09 et le 10.**
+
+### Une réponse reçue qui n'est pas de cette campagne
+
+**LasiKainuu (Finlande)** a répondu à 11 h 11 en demandant un prix au m² et le coût de livraison à
+Kajaani. C'est le **déstockage en camion inloader**, pas la campagne conteneur (§4), et un message
+lui a déjà été envoyé à 11 h 27. Consigné ici pour mémoire seulement : ce fil ne relève pas de ce
+suivi.

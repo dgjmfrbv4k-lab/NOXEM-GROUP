@@ -85,6 +85,18 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   site qui vend des relevés d'importation ou des contacts d'acheteurs tombe sous cette règle,
   qu'il soit nommé ici ou non — c'est la nature du service qui compte, pas le nom).
 - **Jamais pousser sur une autre branche** que `claude/campagne-conteneur-20-open-fl0382`.
+- **L'adresse à utiliser est celle du REGISTRE. Jamais une adresse de mémoire, pas même celle
+  qu'Aaron vient de dicter.** Règle ajoutée le 08/10 après **deux fautes dans la même journée**.
+  Le matin, la relance Zrcalo est partie à `info@zrcalo.hr`, reconstruite de tête, alors que la
+  fiche portait `zrcalo@zrcalo.hr` : rebond, relance perdue. L'après-midi, bien plus grave : le
+  message à **Willem Heunis** — le dossier le plus avancé de la campagne, une demande de prix
+  ferme qui attend depuis le 28/09 — est parti à `willem@pgglass.com`, l'adresse telle qu'Aaron
+  l'avait donnée. Rebond `550 Invalid Recipient` : le domaine existe, la boîte non.
+  **La fiche portait la bonne adresse depuis le début : `willem@pgglass.com.na`**, domaine
+  namibien. Coût : une journée perdue sur le seul dossier mûr, et un client qui a cru qu'on ne
+  répondait pas. **Donc : avant tout envoi, l'adresse se lit dans le registre, et si elle diffère
+  de celle qu'on m'a donnée, c'est la différence qu'il faut lever — pas le registre qu'il faut
+  ignorer.**
 - **Vérifier le registre AVANT d'envoyer**, jamais après :
   `grep -in '<société-ou-domaine>' liste-prospects.csv`
   **Règle durcie le 08/10 après trois fautes dans la même journée :** le `grep` se fait **dès que

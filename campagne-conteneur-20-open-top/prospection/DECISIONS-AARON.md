@@ -38,6 +38,30 @@ perçue comme bien organisée, réactivité appréciée.
 **Autrement dit : tout est tranché sauf le prix.** Un prix a été promis « aujourd'hui ou
 demain » le 28/09. Dix jours plus tard il n'est pas parti.
 
+### À savoir tout de suite : ton message à Willem n'est jamais arrivé
+
+**L'adresse que tu m'as donnée, `willem@pgglass.com`, n'existe pas.** Le message parti ce matin à
+8 h 55 a rebondi à 10 h 43 : `550 Invalid Recipient`, rendu par le Mimecast sud-africain qui sert
+le domaine `pgglass.com`. Le domaine est bon — c'est celui du groupe sud-africain — mais il n'y a
+pas de boîte `willem` dessus.
+
+**La bonne adresse est `willem@pgglass.com.na`**, sur le domaine namibien. Elle figurait dans le
+registre depuis le début, je ne l'ai pas recoupée avant d'envoyer, et c'est ma faute. **Le message
+a été renvoyé à la bonne adresse à 13 h 50**, avec la confirmation de l'adresse professionnelle que
+tu voulais, le rappel des quatre références confirmées et ton WhatsApp proposé comme canal plus
+rapide. Aucun prix, puisqu'il n'y en a pas.
+
+**Deux choses te reviennent.**
+1. **Si tu as donné `willem@pgglass.com` à quelqu'un d'autre, ou si tu l'as en contact dans ton
+   téléphone, corrige-le** : tout ce qui partira dessus rebondira.
+2. **Le fil d'origine avec Willem est dans l'ancienne boîte** (`harfiaaron9` ou `harfiaaron0`), que
+   cette session ne lit pas. Toi seul peux vérifier l'adresse exacte depuis laquelle il écrit, et
+   s'il a relancé entre-temps. **C'est la vérification la plus utile que tu puisses faire
+   aujourd'hui sur ce dossier**, avant même la grille de prix : si Willem a écrit et qu'on ne l'a
+   pas vu, le problème n'est plus le prix.
+
+---
+
 ### Mise à jour du 08/10 — deux choses à savoir avant d'écrire un prix
 
 **L'adresse.** Tu m'as donné `willem@pgglass.com` et tu lui as écrit là à 10h55. Mais la
