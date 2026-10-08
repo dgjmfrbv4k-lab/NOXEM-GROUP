@@ -811,6 +811,22 @@ TZ=Europe/Paris date '+%H:%M %Z (%d/%m/%Y)'
 awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $9 !~ /TESTEE|DEVERROUILLEE/ \
   {print $1" | "$4" | "$6}' liste-prospects.csv
 ```
+- **LE BUDGET DE RECHERCHE DE LA SESSION EST FINI, ET C'EST UNE LIMITE À PLANIFIER — découverte
+  le 08/10 à 15 h 50.** `WebSearch` est plafonné à **200 appels par tour**, partagés par tous les
+  agents du tour. Atteint en fin d'après-midi après une quinzaine de lots de déverrouillage.
+  Conséquences pratiques, à intégrer à la conduite des journées :
+  · **La méthode en deux temps coûte deux appels par fiche**, parfois trois avec une relance de
+    requête. Le plafond représente donc de l'ordre de **70 à 90 fiches par tour**, pas plus.
+  · **Donc trier AVANT de chercher, et non l'inverse.** Le filtre à trois conditions du §13 et le
+    tri par valeur commerciale ne sont pas du confort : ils décident ce qui rentre dans le budget.
+  · **Et toujours finir le second temps d'une fiche avant d'ouvrir la suivante.** Le 08/10 deux
+    fiches sont restées à moitié faites quand le plafond est tombé — Vidrios Brenes, dont l'adresse
+    satisfait la lettre du §5 sans que sa page de contact ait été lue, et Cristembo, dont le
+    domaine est établi mais pas l'adresse. Une fiche à moitié vérifiée coûte plus cher qu'une fiche
+    non commencée, parce qu'il faut se souvenir de ce qui manque.
+  · Le plafond se relève par `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`, **à demander à Aaron**
+    si une journée doit couvrir plus de fiches. Ne jamais le contourner par `curl`, `wget`, un
+    lecteur tiers, un proxy ou un service d'archive.
 - **Ce blocage est devenu LE goulot d'étranglement, devant le ciblage et devant le message.**
   Mesuré sur les lots du 08/10 : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7,
   Zone Libre de Colón 0, Cap-Vert 1 sur 6. Les sociétés sont trouvées et qualifiées, mais
