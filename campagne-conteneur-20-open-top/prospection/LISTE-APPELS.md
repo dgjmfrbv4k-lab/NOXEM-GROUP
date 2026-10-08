@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **160 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **159 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -15,7 +15,7 @@ l'**Australie** et le **Paraguay** sont passes a l'heure d'ete australe, leurs f
 ## Pourquoi cette liste est l'actif le plus sous-exploite de la campagne
 
 Mesure du 08/10 : **aucun pays du registre n'a plus de fiche avec adresse jamais contactee.**
-Tout ce qui pouvait partir par e-mail est parti. Ces 160 fiches sont le gisement restant,
+Tout ce qui pouvait partir par e-mail est parti. Ces 159 fiches sont le gisement restant,
 et elles ne s'ouvriront pas autrement qu'au telephone.
 
 La cause est connue et chiffree : la lecture web est coupee, donc je ne peux pas atteindre les
@@ -31,21 +31,20 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 146 societes
+## Hors Europe — 145 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
+| Géorgie | **Bars Facade LLC** | `+995 577 41 51 36` | 07h00 - 15h00 | A APPELER | Fonde en 1998, importateur historique de verre entre la Georgie et la Turquie, deux sites Tbilissi et Batoumi. CIBLE PRIORITAIRE. Aucune adresse email publiee : appeler. Port Poti. CORRECTION DU 08/10 apres lecture de leur page... |
 | Inde | **Float Glass Centre (Sri Renuka Enterprises)** | `+91 80478 18693` | 05h30 - 13h30 | A APPELER | SE DECLARE PREMIER IMPORTATEUR DE VERRE D INDE. Le numero publie est un relais IndiaMART : chercher la ligne directe avant d appeler. Port Chennai. |
 | États-Unis | **55 Glass** | `+1 800 554 5277` | 15h00 - 23h00 | A APPELER | Implante dans le quartier du gros de Los Angeles et sert Long Beach, premier complexe portuaire d import des Etats-Unis. Aucune adresse publiee dans les resultats : a appeler. |
-| Colombie | **Distrividrios Antioquia** | `+57 317 397 9114` | 16h00 - 00h00 | A APPELER | DISTRIBUTEUR DE VERRE IMPORTE QUI ANNONCE LUI-MEME L IMPORT : profil conteneur direct. Adresse masquee par l annuaire : ne pas deviner, appeler. Ports Carthagene ou Barranquilla. |
+| Libye | **North Africa for Importing Glass** | `+218 91 209 1023` | 09h00 - 17h00 | A APPELER | CIBLE PRIORITAIRE : importe deja du float de Chine, de Belgique ET DE FRANCE. Aucune adresse email publiee : appeler ou WhatsApp. Second numero +218 91 322 1953. Port Tripoli ou Misrata. DOUTE SERIEUX SUR L IDENTITE, releve le ... |
+| Colombie | **Distrividrios Antioquia** | `+57 317 397 9114` | 16h00 - 00h00 | A APPELER | DISTRIBUTEUR DE VERRE IMPORTE QUI ANNONCE LUI-MEME L IMPORT : profil conteneur direct. Adresse masquee par l annuaire : ne pas deviner, appeler. Ports Carthagene ou Barranquilla. ENRICHIE LE 08/10. Leur site confirme le profil ... |
 | Nigéria | **TechnoGlass Industries Ltd** | `+234 703 274 9126` | 10h00 - 18h00 | A APPELER | CIBLE PRIORITAIRE : la plus grosse capacite de la sous-region. ADRESSE REBONDIE : rappeler au +234 703 274 9126. CONTROLE MX DU 07/10 : le domaine technoglassng.com ne resout pas (NXDOMAIN), l adresse info@technoglassng.com ne ... |
 | Émirats arabes unis | **Green Glass Industries LLC** | `+971 7 258 8369` | 07h00 - 15h00 | A APPELER | Grande capacité feuilleté : cible prioritaire pour le float et le Low-E. Relance 07/10 sans signature, une seule question sur les plus gros volumes annuels, porte de sortie. Angle rare et precis : ils feuillettent jusqu a 2,8 x... |
-| Géorgie | **Bars Facade LLC** | `+995 577 41 51 36` | 07h00 - 15h00 | A APPELER | Fonde en 1998, importateur historique de verre entre la Georgie et la Turquie, deux sites Tbilissi et Batoumi. CIBLE PRIORITAIRE. Aucune adresse email publiee : appeler. Port Poti. |
-| Libye | **North Africa for Importing Glass** | `+218 91 209 1023` | 09h00 - 17h00 | A APPELER | CIBLE PRIORITAIRE : importe deja du float de Chine, de Belgique ET DE FRANCE. Aucune adresse email publiee : appeler ou WhatsApp. Second numero +218 91 322 1953. Port Tripoli ou Misrata. |
 | États-Unis | **Glass Enterprises Inc** | `+1 215 638 1007` | 15h00 - 23h00 | A APPELER | GROS : usine neuve de 180 000 pieds carres a Norwich, fabricant certifie float. Aucune adresse publiee. |
 | Algérie | **Technoglass** | `+213 555 62 47 74` | 10h00 - 18h00 | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. Port Djendjen ou Bejaia. |
 | Ghana | **Punamactex Ent. Ltd** | `+233 21 689800` | 11h00 - 19h00 | A APPELER | BON PROFIL : negociant etabli depuis 1995 annoncant du float clair et du float teinte, donc importateur par construction. Port de Tema, nomme au paragraphe 4. Aucune adresse publiee dans les sources : a appeler. |
-| Pérou | **Corporación Limatambo** | `+51 996 813 440` | 16h00 - 00h00 | A APPELER | Se presente comme le plus gros distributeur de verre du Perou, trois sites Lima. Aucune adresse email publiee : appeler. Port Callao. |
 | Bolivie | **Cristales Templados Bolivianos — Cristembo** | `+591 4 268042` | 15h00 - 23h00 | A APPELER | Trempeur donc acheteur de float. Pays enclave, transit via Arica. Aucune adresse publiee : a appeler. |
 | Haïti | **Action Enterprises Windows & Blinds** | `+509 36 19 5572` | 15h00 - 23h00 | A APPELER | MEILLEURE FICHE HAITIENNE : fabricant-installateur avec un entrepot de fabrication a Santo Croix-des-Bouquets, donc consommateur de vitrage. Ile sans ligne float, port de Port-au-Prince. ADRESSE sales ECARTEE : relevee dans un ... |
 | Irak | **Arturaya Glass Company** | `+964 751 667 6876` | 08h00 - 16h00 | A APPELER | IMPORTATEUR : se fournit déjà à l'étranger. Adresse info arobase arturaya.com relevee le 07/10, domaine identique au site. IMPORTE DEJA DES CONTENEURS : ils annoncent eux-memes travailler avec des usines etrangeres. Envoi 07/10... |
@@ -61,7 +60,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Malaisie | **Keng Ying Glass Sdn Bhd** | `+60 3 6276 0946` | 03h00 - 11h00 | A APPELER | Aucune adresse publiee. |
 | Mexique | **Javalfer** | `+52 81 1999 1007` | 17h00 - 01h00 | A APPELER | Mexique produit du float : approche directe sur trois references. Port Altamira. Rebond le 05/10 : adresse introuvable. |
 | Paraguay | **Vidrieria TEMPLAR — Templados del Paraguay** | `+595 21 326 97 55` | 14h00 - 22h00 | A APPELER | Trempeur donc acheteur de substrat. Aucune adresse publiee dans les resultats et fiche annuaire ancienne. Transit par Montevideo. A appeler. |
-| Pérou | **Corporación Limatambo** | `+51 1 338 2282` | 16h00 - 00h00 | A APPELER | TROIS IMPLANTATIONS dont une usine de trempe a San Juan de Lurigancho : acheteur de float regulier. Le Perou n a pas de ligne float. Aucune adresse publiee : a appeler. Port Callao. |
+| Pérou | **Corporación Limatambo** | `+51 1 338 2282` | 16h00 - 00h00 | A APPELER | TROIS IMPLANTATIONS dont une usine de trempe a San Juan de Lurigancho : acheteur de float regulier. Le Perou n a pas de ligne float. Aucune adresse publiee : a appeler. Port Callao. FUSION DU 08/10 : une seconde fiche existait ... |
 | Égypte | **Dr Greiche Glass** | `+20 554 410 001` | 08h00 - 16h00 | A APPELER | TRES GROSSE MAISON. Pas d'adresse publiee : hotline 19864, WhatsApp +20 100 169 4476. |
 | États-Unis | **Gordon's Glass and Mirror** | `+1 904 388 5555` | 15h00 - 23h00 | A APPELER | Adresse citee sur un domaine different du site : ne pas deviner, appeler. |
 | États-Unis | **Glass Global Distributors LLC** | `+1 305 652 0101` | 15h00 - 23h00 | A APPELER | DISTRIBUTEUR FLOAT ET MIROIR POUR LES CARAIBES : tres bon profil. Le domaine de l adresse citee n apparait dans aucune URL de resultat, seulement des agregateurs dont un courtier de donnees interdit : aucun envoi. A appeler. |

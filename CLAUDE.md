@@ -114,7 +114,10 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 **Europe :** pas de nouvelle prospection ; les fiches européennes existantes se relancent.
 **Producteurs float = concurrents, pas prospects :** Obeikan, Guardian, Mediterranean Float
 Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,
-Vidrios Lirquén, VASA, Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long.
+Vidrios Lirquén, VASA, Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long,
+**Sphinx Glass** (Égypte — ajouté le 08/10 : repéré en train d'exposer à Libya Build 2025 en se
+présentant comme producteur float de premier plan au Moyen-Orient et en Afrique du Nord. C'est
+donc un concurrent sur toute la zone, et un concurrent actif commercialement en Libye).
 
 ## 7. Comptes protégés — ne pas démarcher sur cette campagne
 
