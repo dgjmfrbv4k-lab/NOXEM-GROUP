@@ -3694,3 +3694,46 @@ confirmé sur deux cas (les adresses de thème web, `oceanthemes.net` chez Sovit
 `konta.com` chez ALUTRACO), trois fiches fermées sur le métier plutôt que sur l'adresse, et
 **dix-sept numéros vérifiés versés à la liste d'appels**. Un déverrouillage raté qui rend un numéro
 et une fonction n'est pas une perte sèche.
+
+### 09/10/2026 — 18h59 CEST · le vivier de déverrouillage est vidé, et quatre doublons de plus
+
+**ENVOIS CONFIRMÉS DU JOUR : 101**, inchangé depuis 18h44 — plus aucun rebond depuis. Les cinq du
+soir qui tiennent : ALUTRACO, VIAL-MALI, Nafida, Dr Greiche, IRU Glass.
+
+**LE VIVIER DES FICHES À SITE SANS ADRESSE EST À ZÉRO, et la façon dont il s'est vidé est le vrai
+enseignement.** Le filtre du §13 en comptait encore **8** à 19h. **Aucune des huit ne méritait une
+recherche** : chacune était exclue par une règle **déjà inscrite au mandat**, et elles ne survivaient
+au filtre que parce que leur note ne portait pas le mot-marqueur qui les en sort. Les huit portent
+maintenant leur motif, donc elles ne reviendront plus coûter cet examen.
+**Un filtre qui compte 8 peut valoir 0** : un vivier se mesure au nombre de lignes qui passent les
+**règles**, pas au nombre qui passe le filtre.
+
+**QUATRE DOUBLONS TROUVÉS AUJOURD'HUI, ET DEUX L'ONT ÉTÉ PAR DES GARDE-FOUS AJOUTÉS LE JOUR MÊME.**
+- **Glass World / Glass World Industries** — celui-là a coûté un envoi à une société déjà contactée
+  le 07/10, à l'adresse même que je venais de « déverrouiller ».
+- **Abdi Aluminium** (Addis-Abeba), doublon strict — révélé par le quatrième contrôle de l'audit,
+  **après** que ma mise à jour avait silencieusement écrit la même note sur les deux lignes.
+- **Arabian Glass / Arabian Processing Glass** (Riyad) — trouvé en résolvant le nom légal complet.
+- **Float Glass Centre / Float Glass Centre (Sri Renuka Enterprises)** (Chennai), **troisième** ligne
+  de la même société, une étant déjà neutralisée depuis le 08/10. **Et c'est l'`assert` d'unicité
+  ajouté une heure plus tôt qui l'a attrapé** : la mise à jour a refusé d'écrire sur une clé
+  correspondant à deux lignes, et rien n'est parti en double.
+
+**Les deux garde-fous écrits aujourd'hui ont donc chacun servi dans l'heure qui a suivi** : l'`assert`
+d'unicité sur Float Glass Centre, et la règle corrigée de la boîte pleine sur GlassFusion, dont elle a
+épargné un envoi perdu. C'est l'argument pour continuer à écrire les règles au moment où on les
+apprend plutôt qu'au bilan.
+
+**Le motif commun aux quatre, et c'est lui qu'il faut retenir :** une société se publie sous son **nom
+court** et se dépose sous son **nom long**. Le grep de la chaîne complète ne les rapproche pas, et
+`detecte-doublons.py` est aveugle quand la seconde fiche n'a ni domaine, ni adresse, ni téléphone —
+ses quatre signaux reposent tous sur des coordonnées. **Donc : greper le mot distinctif**, règle
+inscrite au §5.
+
+**Contrôles de fin de journée, tous propres :** 1043 fiches à 10 champs, 0 statut vide, 0 doublon
+d'adresse actif, 0 fiche affirmant l'absence de float dans un pays qui en produit — et ce dernier
+chiffre est fiable depuis que son faux positif sur Klingshield est réparé.
+
+**Et une correction de mon propre travail, dans la minute :** j'avais écrit dans la fiche Vitre
+Khezzane que la recherche révélait la ville d'Annaba, alors que **la fiche la portait déjà**. Retiré.
+La recherche précise le quartier, pas la ville.

@@ -10,12 +10,26 @@ disent sans ambiguïté.
 
 | Vivier | Fiches | Coût en recherches | Rendement mesuré |
 |---|---|---|---|
-| **A** — site connu, pas d'adresse, jamais testée | **8** | 1-2 par fiche | épuisé |
+| **A** — site connu, pas d'adresse, jamais testée | **0** | — | épuisé |
 | **B** — ni site ni adresse, jamais testée | **249** | 2-3 par fiche | inconnu, probablement < A |
 | **C** — **téléphone déjà au registre** | **123** | **zéro** | — |
-| **D** — testée et résistante | 86 | — | ne plus chercher |
+| **D** — testée et résistante | 94 | — | ne plus chercher |
 
-**Le vivier A est fini : 8 fiches.** C'était le gisement de la journée et il est consommé.
+**Le vivier A est à ZÉRO**, et la façon dont il s'est vidé mérite une phrase, parce qu'elle vaut pour
+la suite. Le filtre en comptait encore **8** à 19h. **Aucune des huit ne méritait une recherche** :
+chacune était exclue par une règle déjà inscrite au mandat, et elles ne survivaient au filtre que
+parce que **leur note ne portait pas le mot-marqueur** qui les en sort. IM COMP relève de l'interdit
+de prospection européenne *et* de l'autre campagne ; Miroiterie des Antilles attend un appel
+d'identité et trouver son adresse serait trouver le moyen de commettre la faute Shibaam ; Float Glass
+Centre est un réexportateur indien qui achète à 374 $/t et revend sur nos marchés ; PT Matahari et
+Arturaya sont des cas « adresse morte publiée » et « domaine sans MX » que le §13 déclare
+irrécupérables ; NIT Group est la troisième fiche d'Erbil sur trois à être téléphonique ; Tometal est
+dans la zone Sapphire et son activité ne relève d'aucune des quatre exceptions ; Glass Network est en
+Malaisie, face à Kibing, Xinyi et NSG.
+
+**La leçon d'outillage : un filtre qui compte 8 peut valoir 0.** Un vivier ne se mesure pas au nombre
+de lignes qui passent le filtre mais au nombre de lignes qui passent **les règles**. Les huit notes
+portent maintenant leur motif, donc elles ne reviendront plus coûter cet examen.
 
 **Et son rendement de bout en bout s'est effondré, mesuré aujourd'hui :** la méthode trouve une
 adresse dans **22 %** des cas sur ce résidu, contre 55 % sur le gisement facile du matin ; et sur ces
