@@ -1,100 +1,132 @@
-# Priorites de recherche — ou depenser les 200 appels du prochain tour
+# Priorités de recherche — où dépenser les 200 appels du prochain tour
 
-Etabli le **08/10/2026 a 15h50**, apres epuisement du budget de recherche du jour.
+Refait le **09/10/2026 à 18h55**, après une journée entière de déverrouillage. **Remplace la version
+du 08/10**, dont le gisement — les 26 fiches en rebond avec un domaine propre — est travaillé.
 
-## Pourquoi cette liste existe
+## La conclusion d'abord, parce qu'elle est contre-intuitive
 
-Deux faits mesures le 08/10 se combinent, et leur produit est cette liste.
+**Le meilleur emploi du prochain tour n'est pas la recherche. C'est le téléphone.** Les chiffres le
+disent sans ambiguïté.
 
-**Premier fait : le budget de recherche est plafonne a 200 appels par tour** (§13). La methode de
-deverrouillage en coutant deux par fiche, cela fait **70 a 90 fiches par tour**, pas plus. Le tri
-n'est donc pas du confort : il decide ce qui rentre.
+| Vivier | Fiches | Coût en recherches | Rendement mesuré |
+|---|---|---|---|
+| **A** — site connu, pas d'adresse, jamais testée | **8** | 1-2 par fiche | épuisé |
+| **B** — ni site ni adresse, jamais testée | **249** | 2-3 par fiche | inconnu, probablement < A |
+| **C** — **téléphone déjà au registre** | **123** | **zéro** | — |
+| **D** — testée et résistante | 86 | — | ne plus chercher |
 
-**Second fait : le meilleur gisement n'est pas les fiches sans adresse, c'est celles dont l'adresse
-a REBONDI** (§13). Une societe qui a un site indexe et une boite qui rebondit publie presque
-toujours **une autre boite**, souvent une boite de succursale. Javalfer et Dellorto l'ont prouve le
-08/10, et Grupo Visemex a donne mieux encore, une orthographe differente de la meme boite.
+**Le vivier A est fini : 8 fiches.** C'était le gisement de la journée et il est consommé.
 
-## Les 26 fiches a retester en premier
+**Et son rendement de bout en bout s'est effondré, mesuré aujourd'hui :** la méthode trouve une
+adresse dans **22 %** des cas sur ce résidu, contre 55 % sur le gisement facile du matin ; et sur ces
+adresses, **29 % rebondissent en dur**. Produit : **environ 16 % d'envois confirmés par fiche
+travaillée.** À deux recherches par fiche, les 200 appels du tour couvrent 75 à 100 fiches et
+rapporteraient **de l'ordre de 12 à 16 envois**. C'est peu pour un tour entier.
 
-Toutes ont **un domaine propre** et **un rebond documente**, et **aucune n'a ete retestee le 08/10**.
-Triees par valeur commerciale decroissante, calculee sur les marqueurs de la fiche.
+**Les 123 fiches du vivier C coûtent zéro recherche et mènent toutes à quelqu'un.** C'est là qu'il
+faut aller d'abord. `APPELS-PRIORITAIRES.md` en extrait les seize qui valent le temps d'Aaron.
 
-| # | Valeur | Pays | Societe | Domaine a interroger | Adresse qui a rebondi | Statut |
-|---|---|---|---|---|---|---|
-| 1 | 13 | Philippines | **Pacific Glass Corporation** | `pacificglass.com.ph` | `csa@pacificglass.com.ph` | ENVOYE 2026-10-08 |
-| 2 | 12 | Mexique | **Vidrios y Cristales Guadalajara** | `vidriosycristalesguadalajara.com` | `info@vidriosycristalesguadalajara.com` | A RENVOYER |
-| 3 | 10 | Colombie | **Vidrieria Universal** | `vidrieriauniversal.com.co` | `ventas@vidrieriauniversal.com.co` | A APPELER |
-| 4 | 10 | Indonésie | **PT Matahari Silverindo** | `mataharisilverindo.com` | `—` | A APPELER |
-| 5 | 10 | Émirats arabes unis | **MIH Group** | `mihgroup.ae` | `purchase@mihgroup.ae` | A ENVOYER 2026-10-09 |
-| 6 | 9 | Espagne | **Ramos Industria del Vidrio S.L.** | `ramosiv.es` | `—` | A APPELER |
-| 7 | 9 | Maroc | **Arkiglass** | `arkiglass.ma` | `arkiglass@arkiglass.ma` | A ENVOYER 2026-10-09 |
-| 8 | 9 | Serbie | **TINIS COMPANY d.o.o.** | `tinisco.com` | `—` | A APPELER |
-| 9 | 9 | Yémen | **Alawadhi Trading Group** | `alawadhigroup.net` | `info@yemenglass.com` | A APPELER |
-| 10 | 8 | Nigéria | **FITglass — Frameless Impression Tempered Glass** | `fitglass.com.ng` | `info@fitglass.com.ng` | A RENVOYER |
-| 11 | 8 | Venezuela | **Distrividrios** | `distrividrios.com` | `administracion@distrividrios.com` | RELANCE 2026-10-07 |
-| 12 | 7 | Mexique | **Javalfer** | `javalfer.com` | `lindavista@javalfer.com` | A RENVOYER |
-| 13 | 6 | Ghana | **Perfect Glass Ghana** | `perfectglassgh.com` | `info@perfectglassgh.com` | A APPELER |
-| 14 | 5 | Croatie | **Zrcalo d.o.o.** | `zrcalo.hr` | `zrcalo@zrcalo.hr` | RELANCE 2026-10-08 |
-| 15 | 5 | Kenya | **Hebatullah Bros Ltd** | `hebatullah.com` | `info@hebatullah.com` | RELANCE 2026-10-06 |
-| 16 | 5 | Mozambique | **Arte Vidro Mocambique** | `artevidro.co.mz` | `geral@artevidro.co.mz` | A RENVOYER |
-| 17 | 4 | Émirats arabes unis | **Liberty Aluminium** | `libertyaluminium.ae` | `info@libertyaluminium.ae` | A APPELER |
-| 18 | 3 | Angola | **Vidreira de Viana** | `vidreiradeviana.com` | `contacto@vidreiradeviana.com` | A APPELER |
-| 19 | 3 | Arabie saoudite | **Al Ashoury Glass** | `alashoury-glass.com` | `info@alshoury-industry.com` | A ENVOYER 2026-10-09 |
-| 20 | 3 | Serbie | **ROMIKS** | `romiks.rs` | `—` | A APPELER |
-| 21 | 3 | Égypte | **M&A Glass Processing** | `maglassegypt.com` | `maglass@maglassegypt.com` | A ENVOYER 2026-10-09 |
-| 22 | 2 | Géorgie | **GEOALPEN** | `geoalpen.ge` | `info@geoalpen.ge` | A APPELER |
-| 23 | 0 | République dominicaine | **Comercial Cristal** | `comercialcristal.net` | `info@comercialcristal.net` | A APPELER |
-| 24 | 0 | Sri Lanka | **IRU Glass & Mirror Company** | `iruglass.com` | `iruglass@sltnet.lk` | ADRESSE INVALIDE |
-| 25 | 0 | Sri Lanka | **Gurind Accor (Browns Group)** | `gurindaluminium.lk` | `—` | ADRESSE INVALIDE |
-| 26 | 0 | Émirats arabes unis | **UAE Glass Works** | `uaeglassworks.com` | `info@uaeglassworks.com` | A APPELER |
+## Si on dépense quand même des recherches, voici l'ordre, et pourquoi
 
-**UNE NUANCE A LIRE DANS LA COLONNE STATUT, sinon on perd des appels.** Les fiches en
-`A ENVOYER` de cette liste **portent deja une adresse exploitable** : leur rebond est historique et
-porte sur une AUTRE boite, deja remplacee. MIH Group en est l'exemple — `info@` a rebondi, mais la
-fiche porte desormais `purchase@`, la boite des achats, qui n'a jamais rebondi. **Ces fiches-la ne
-se recherchent pas, elles s'envoient.** Ce sont MIH Group, Arkiglass, Al Ashoury et M&A Glass.
-Elles figurent ici parce que le filtre cherche la trace d'un rebond dans la note, pas parce qu'il
-reste quelque chose a trouver.
+Le vivier B exige la **méthode en deux temps** du §13 : recherche large sur le nom, annuaires et
+courtiers de données bloqués, pour faire remonter le domaine propre ; puis recherche restreinte à ce
+domaine pour l'adresse. Deux à trois appels par fiche. Donc le tri décide ce qui rentre.
 
-**Les vraies cibles de recherche sont donc les fiches en `A RENVOYER`, `A APPELER` et
-`ADRESSE INVALIDE`**, soit 22 des 26. Et dans l'ordre de la colonne valeur.
+### 1. Les îles — à faire en premier, et pour une raison de fond
 
-## Comment les traiter, et dans quel ordre
+**Seychelles (4) · Cap-Vert (5)** — neuf fiches, et c'est le seul endroit du registre où l'argument
+le plus employé de la campagne est **vrai et vérifié**. Le §6 est explicite : quand j'avais étendu le
+déclassement de Sapphire à Maurice et aux Seychelles, c'était une erreur corrigée dans le
+quart d'heure — **elles ne figurent pas dans les marchés d'export documentés de Sapphire**, elles
+importent tout leur verre, et rien n'établit qu'un producteur régional les desserve.
+Ailleurs cet argument est à vérifier ou franchement faux. Ici il tient. Neuf fiches à fort taux de
+conversion attendu, pour environ 20 à 25 recherches.
 
-1. **Recherche restreinte au domaine de la colonne « domaine a interroger »**, requete orientee
-   contact ou devis. Un appel.
-2. **Si une autre boite du meme domaine apparait, elle est reguliere au titre du §5** puisque la
-   societe la publie elle-meme sur son propre domaine. La porter en fiche **a la place** de celle
-   qui a rebondi, et garder l'ancienne en note.
-3. **Si l'adresse trouvee est exactement celle qui a rebondi**, le resultat n'est pas nul : il
-   etablit que l'adresse n'etait pas devinee. Lire alors le TYPE de rebond — une **boite pleine**
-   prouve que la boite existe, donc on reessaie ; un `550 5.1.1` ou un `No Such User` dit qu'elle
-   est morte, donc telephone.
-4. **Envoyer SEULE** toute adresse issue d'une sortie de rebond, jamais dans un lot groupe (§10).
+### 2. Maroc (17) — le plus gros vivier, et le mieux placé logistiquement
 
-## Les trois pieges a se rappeler avant de commencer
+**Tanger Med** est l'argument. Alumgo l'a montré aujourd'hui : un transformateur installé sur la zone
+du port reçoit un conteneur **sans trajet terrestre**, ce qui est le seul avantage logistique franc
+qu'on puisse offrir sans parler de prix. Chercher en priorité les fiches de Tanger et de Casablanca.
+**Réserve apprise aujourd'hui :** le Maroc est plein de dépanneurs-poseurs 24h/7j qui commandent sur
+photo — Vitrerie & Miroiterie Casablanca a été fermée pour cela. **Lire le modèle économique avant
+de chercher l'adresse**, pas après.
 
-- **Un site vivant et indexe n'implique pas un domaine de courrier joignable.** Si le rebond vient
-  du serveur de Google et parle du **DOMAINE** et non de la boite, le domaine n'a pas de messagerie
-  et rien ne le rattrapera : Arturaya, Vitrolux et Commercial Glass Bermudes sont dans ce cas.
-- **Une societe peut publier une adresse morte.** PT Matahari Silverindo affiche `export@` sur sa
-  page de contact et son propre serveur la refuse en `550 No Such User`. Elle figure pourtant dans
-  la liste ci-dessous, et c'est volontaire : il faut verifier s'ils en publient une autre depuis.
-- **Verifier le registre AVANT de chercher**, pas apres, et avec le filtre a trois conditions du
-  §13. Le 08/10 j'ai bati une liste sur le statut seul, et quatre fiches sur huit etaient deja
-  faites.
+### 3. Afrique de l'Ouest — Nigéria (14) · Togo (9) · Gabon (8) · Côte d'Ivoire (6) · Burkina (6)
 
-## Et apres cette liste
+**43 fiches, et la fenêtre se referme** : l'usine KEDA de Shama au Ghana annonce 600 t/jour en phase 1
+et 1 400 à terme, à 20 km du port de Takoradi, avec un mandat d'export explicite. Son calendrier est
+**incertain d'un an** — août 2026 selon le président, « environ dix-huit mois » selon un autre compte
+rendu — donc ce n'est pas une date exploitable, mais c'est une raison d'y aller maintenant.
+Le Nigéria d'abord : Lagos a les plus gros transformateurs, et deux bonnes fiches y attendent déjà un
+numéro (GlassFusion et FITglass, dont les boîtes sont saturées).
+Les enclavés — Burkina, Mali, Niger — se travaillent **mieux par un distributeur régional installé sur
+un port** que en direct, comme ALUTRACO à Cotonou l'a montré. Chercher les distributeurs, pas les
+poseurs de Ouagadougou.
 
-**Cristembo** (Bolivie) est la premiere fiche hors rebond a reprendre : domaine propre etabli,
-`cristembo.com`, trois usines de trempe a Cochabamba, La Paz et Oruro, deux fours et 11 000 m2 par
-poste sur le seul site de Cochabamba — et pas encore d'adresse. Puis **Vidrios Brenes** (Costa
-Rica), dont il reste a confirmer que `ventas@vidriosbrenes.com` figure bien sur leur page de
-contact et non sur un miroir de leur site.
+### 4. Algérie (13) — gros volumes, mais deux réserves
 
-Ensuite seulement, les fiches sans adresse du tout, avec le filtre du §13 :
+Vitre Khezzane à Annaba donne la mesure du marché : 900 m²/jour de double vitrage, et **Annaba est un
+port**. Les transformateurs algériens sont gros.
+**Mais :** l'Algérie a **Mediterranean Float Glass (Cevital)**, donc l'argument de l'absence de
+production locale y est faux ; et les conditions de règlement et autorisations d'importation relèvent
+du §11 et ne s'écrivent pas. Chercher, oui — mais les messages y seront plus difficiles à écrire.
+
+### 5. Ce qu'il ne faut PAS chercher, et c'est la moitié de l'intérêt de cette liste
+
+- **Égypte (11 fiches) — à déprioriser franchement.** C'est le marché le mieux pourvu de la zone après
+  l'Arabie saoudite : **Sphinx Glass**, **Misr Glass Manufacturing** et **Saint-Gobain Egypt**. Dr
+  Greiche a montré aujourd'hui ce que ça impose — un angle si étroit qu'il a fallu ouvrir le message
+  en disant ce qu'on **ne** propose pas. Onze fiches pour cet angle-là ne valent pas 25 recherches.
+- **Ghana (14 fiches) — à déprioriser pour la même raison, en pire.** C'est là que KEDA construit. On
+  ne peut plus y écrire qu'il n'y a pas de production locale sans avoir vérifié l'état de l'usine.
+- **Cameroun (9)** — six fiches y attendent un arbitrage d'Aaron. Ne rien y dépenser avant.
+- **Afrique de l'Est — Kenya, Ouganda, Madagascar, Rwanda, Mozambique, Zambie, Malawi, RDC.**
+  Sapphire Float Glass produit à Mkuranga et **exporte déjà** vers ces marchés. Le §6 l'interdit, sauf
+  sur ce que Sapphire ne fait pas : low-E, miroir sans cuivre ni plomb, vitrage technique, grands
+  formats. **Attention à ne pas étendre ce déclassement par géographie** : l'Éthiopie (4 fiches) et le
+  Soudan du Sud n'y figurent pas et restent ouverts.
+- **Inde (16 fiches)** — le marché se règle autour de **374 $/t**, soit ~1,50 $/m² en 4 mm. Aucun float
+  européen ne descend là. Ce n'est pas une impression, c'est un chiffre.
+- **Les 86 fiches du vivier D**, déjà testées et résistantes. Leur note porte `TESTEE` ou
+  `DEVERROUILLEE` précisément pour les exclure du filtre.
+
+## Les filtres, à relancer plutôt qu'à recopier
+
 ```bash
+# Vivier A — reste 8 fiches : site connu, pas d'adresse, jamais testee
 awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $9 !~ /TESTEE|DEVERROUILLEE/ && $6!="" \
   {print $1" | "$4" | "$6}' liste-prospects.csv
+
+# Vivier B — 249 fiches : methode en deux temps necessaire. Trier par pays selon l ordre ci-dessus.
+awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $6=="" && $9 !~ /TESTEE|DEVERROUILLEE/ \
+  {print $1" | "$4" | "$5}' liste-prospects.csv
+
+# Vivier C — 123 fiches APPELABLES SANS AUCUNE RECHERCHE. A faire avant tout le reste.
+awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $8!="" \
+  {print $1" | "$4" | "$8}' liste-prospects.csv
+
+# Repartition du vivier B par pays, pour decider ou aller
+awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $6=="" && $9 !~ /TESTEE|DEVERROUILLEE/ \
+  {print $1}' liste-prospects.csv | sort | uniq -c | sort -rn
 ```
+
+## Et la vraie solution, qui n'est pas un tri
+
+Ce fichier organise une pénurie. **Le goulot d'étranglement n'est ni le ciblage ni le message : c'est
+que la session ne peut pas lire la page de contact d'un prospect.** `curl`, `WebFetch` et le DNS direct
+échouent tous les trois sur la liste blanche de l'environnement ; seule `WebSearch` passe, et elle est
+plafonnée à 200 appels par tour.
+
+Mesuré : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7, zone libre de Colón 0, Cap-Vert 1 sur
+6. **Les sociétés sont trouvées et qualifiées ; ce sont leurs coordonnées qui manquent**, et elles
+n'existent que dans des annuaires, qui ne satisfont pas la règle anti-rebond du §5.
+
+**Deux demandes à Aaron, par ordre d'effet :**
+1. le réglage **Network access** de l'environnement — soit un accès plus large, soit les domaines
+   ajoutés sous « Allowed domains » en laissant cochée la case « Allow package managers » :
+   https://code.claude.com/docs/en/cloud-environments#network-access
+2. à défaut, relever `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`.
+
+Avec l'accès aux pages de contact, la plupart de ces 249 fiches basculeraient en envoi. Sans lui, on
+trie une pénurie. **Et jamais de contournement** par `curl`, un lecteur tiers, un proxy ou un service
+d'archive.
