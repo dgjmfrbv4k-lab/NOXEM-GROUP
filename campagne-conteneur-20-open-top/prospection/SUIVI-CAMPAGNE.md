@@ -3329,3 +3329,26 @@ différente de la journée**, après le mauvais comptage des `5.7.1` corrigé à
 
 **Je n'ai pas répondu à l'autre session et je n'ai rien confirmé à « Kevin ».** C'est à Aaron de
 dire qui donne des consignes sur cette campagne. Question pour lui, ajoutée à `DECISIONS-AARON.md`.
+
+### 09/10/2026 12h44 CEST — PG Glass Namibie : e-mail a Willem Heunis, sur ordre explicite de Kevin
+
+Envoye dans le fil existant du 08/10, a `willem@pgglass.com.na` — **l'adresse du registre**, pas
+`willem@pgglass.com`, qui avait rebondi `550 Invalid Recipient` le 08/10 et coute une journee sur le
+dossier le plus avance de la campagne. Expediteur verifie avant envoi dans `in:sent` :
+`aaron.harfi@noxem-group.com`.
+
+**Ce que le message dit**, sur le brief de Kevin : nous sommes en plein sourcing, son message est bien
+recu, et surtout — reponse directe a son point — **les prix donnes sur WhatsApp sont tout compris,
+transport inclus, livres a son port, sans rien a ajouter dessus**. Son point a ete compris, on y
+travaille cote approvisionnement, une solution est peut-etre trouvee, et Aaron revient vite.
+
+**Trois limites tenues dans la redaction :**
+- **aucun chiffre** : je n'ai jamais vu la grille donnee sur WhatsApp, donc je confirme la **base**
+  (tout compris, livre au port) sans reprendre un montant ;
+- **aucune usine partenaire nommee, ni pays ni nombre** (§5) : formule cote approvisionnement ;
+- **« extremement competitifs » rendu par « very competitive »** — le §8 interdit de repeter la
+  promesse de prix du site. Le fond de Kevin est porte, le registre superlatif marketing non. **A sa
+  main s'il veut le mot d'origine.**
+
+Statut inchange : `DEMANDE DE PRIX — SPECS CONFIRMEES`. Compte protege §7, cette campagne ne le
+demarche pas — ici c'est le dossier vivant qui avance.
