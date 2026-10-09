@@ -3484,3 +3484,68 @@ Trois choses, et aucune n est de mon ressort : **DMARC sur le domaine** pour enc
 **l acces reseau** elargi pour que le contrôle MX fonctionne et que les 30 % de rebonds tombent, et
 **un partage explicite de la boite** entre les trois campagnes pour que le quota et la reputation ne
 se consomment pas en aveugle.
+
+## 09/10/2026 — BILAN, dans la fenetre 16h-18h
+
+### Les cinq chiffres du paragraphe 3, distincts
+
+| | |
+|---|---|
+| Sociétés travaillées (recherche, qualification, déverrouillage) | **~95** |
+| **Envois CONFIRMES** | **96** — 88 premiers contacts + 8 relances |
+| Soumis puis rebondis, NON comptes | **19** |
+| Réponses qualifiées reçues | **1** (Nepal Glass Udyog) |
+| Demandes de devis | **0 nouvelle** — 4 dossiers de prix restent ouverts |
+| Commandes | **0** |
+
+**Objectif de 400 : non atteint, 96 confirmes.** Le blocage est la BASE et non le plafond Gmail —
+il n existait que 56 adresses expediables, portees a 98 en avancant mes propres dates, puis a 103
+par recuperation de rebonds. **Le pool a ete epuise : 96 sur 103 soumis ont abouti, 93 %.**
+
+### La reponse du jour, et c est la plus grosse de la campagne
+
+**Nepal Glass Udyog**, Amir Shrestha : 10 a 15 conteneurs de float clair 12 mm **par mois**, plus
+deux par autre epaisseur, soit **25 a 30 conteneurs mensuels**. A comparer a Akeeda, 16 a 24 par AN.
+**Aaron a repondu lui-meme a 12h44** — cotation lancee, prix annonce pour debut de semaine, et il
+demande en retour le prix cible, le port CIF et les autres epaisseurs. Chiffre a verifier autant
+qu a servir, et la restriction indienne du 18/08 sur le float 4-12 mm reste non tranchee pour le
+transit vers le Nepal, ce qui touche directement le 12 mm demande.
+
+### Le probleme technique, mesure et non suppose
+
+**19 rebonds sur 103 soumis, soit 18 % — et 30 % sur le seul lot des adresses deverrouillees du
+jour.** Cause etablie et versee au paragraphe 13 : la regle anti-rebond du paragraphe 5 verifie le
+**domaine**, pas l existence de la **boite**, et le controle MX est structurellement hors service
+dans cette session. **Une adresse peut etre conforme a la regle et morte.**
+
+**Aucun 5.7.1 de filtrage anti-spam sur mes envois** : le declencheur d arret du paragraphe 10 n a
+jamais ete atteint, et c est pourquoi j ai continue. **Mais la campagne de destockage envoie depuis
+la meme boite au meme moment** et produit un taux de rebond dur tres eleve — une vingtaine de
+domaines introuvables dans l heure de 11h30 UTC. Sur un domaine neuf **sans DMARC**, c est ce qui
+abime la reputation partagee.
+
+### Ce qui a ete evite, et qui compte autant que ce qui a ete envoye
+
+- **Trois doublons** : Interglass = Alphaglass, ALUBAT Guadeloupe = ALUBAT Guyane, et **Glass World
+  = Glass World Industries**, ce dernier a deux doigts de coster un second message a une societe
+  ecrite le 07/10. L outil de detection ne pouvait pas le voir.
+- **Cinq fiches fermees** au titre du paragraphe 5 : Addis Ababa **Bottle** & Glass, Cape Importers,
+  Africa Negoce, Le Miroir, et Pang Luon rattrapee sur l orthographe. Pasabahce est apparu dans
+  deux fiches a six mille kilometres d ecart.
+- **Quatre europeennes non envoyees**, differees au 16/10 : GIAS et GPS Iberica avaient recu un
+  message du destockage **le jour meme** depuis la meme adresse.
+
+### Les trois actions de lundi
+
+1. **Les 19 rebonds**, en commencant par les 7 a domaine vivant : une autre boite publiee existe
+   souvent. C est le gisement le plus rentable et il est deja trie.
+2. **Les relances deviennent disponibles le 13/10** pour les 516 fiches ecrites cette semaine.
+   C est la seule facon mecanique de retrouver du volume.
+3. **Erbil et Haiti par APPEL** : trois cibles reelles a Erbil, quatre en Haiti, zero adresse
+   exploitable dans les deux cas. `LISTE-APPELS.md` est a jour, 126 fiches.
+
+### Ce qui bloque le volume, et n est pas de mon ressort
+
+**DMARC** sur le domaine. **L acces reseau** elargi pour que le controle MX fonctionne et que les
+30 % de rebonds tombent. Et **un partage explicite de la boite** entre les trois campagnes, pour
+que le quota et la reputation ne se consomment pas en aveugle.
