@@ -3352,3 +3352,65 @@ travaille cote approvisionnement, une solution est peut-etre trouvee, et Aaron r
 
 Statut inchange : `DEMANDE DE PRIX — SPECS CONFIRMEES`. Compte protege §7, cette campagne ne le
 demarche pas — ici c'est le dossier vivant qui avance.
+
+## 09/10/2026 — journee de deverrouillage sur le fichier des 498, et ce qu elle a vraiment rendu
+
+**Envois : 20 messages a froid, le plafond du plan, plus une reponse a Willem Heunis sur ordre de
+Kevin.** Les cinq derniers du jour : Vitelsa en Colombie sur l angle de ses cinq usines, Green Glass
+aux Emirats avec refus explicite de promettre le PLF, Hydra Glass au Sri Lanka sur la seconde
+origine, GlasPro et Northwestern Glass Fab sur l angle antidumping americain.
+
+**Une reponse recue, et c est la plus grosse demande declaree de la campagne.** Amir Shrestha,
+Nepal Glass Udyog : 10 a 15 conteneurs de float clair 12 mm **par mois**, plus deux par autre
+epaisseur, soit **25 a 30 conteneurs mensuels**. Aaron a repondu lui-meme a 12h44. A comparer a
+Akeeda, qui fait 16 a 24 conteneurs **par an**. Chiffre a verifier autant qu a servir, et la
+restriction indienne du 18/08 sur le float 4-12 mm reste non tranchee pour le transit vers le Nepal.
+
+**Rebonds relus le lendemain, comme la regle l impose : aucun 5.7.1, aucun serveur nouveau.** Le
+seul echec du jour est une boite pleine chez GlassFusion, ce qui prouve que l adresse existe.
+
+### Deverrouillage : 31 fiches travaillees, 17 adresses prises
+
+Rendement 55 %, entre les 62 % du matin du 08/10 et les 50 % de l apres-midi — coherent avec un
+gisement qui se durcit. Afrique de l Ouest d abord pour l horloge KEDA, puis Golfe, Egypte, Angola,
+Maroc, Levant, Caraibe.
+
+### Trois doublons evites, et le troisieme apprend quelque chose
+
+- **Interglass Co. LLC = Alphaglass LLC** : trois telephones identiques et le site d Interglass ecrit
+  lui-meme *sister concern*.
+- **ALUBAT Guadeloupe = ALUBAT Guyane** : le site guyanais publie les mentions legales d ALUBAT
+  GUYANE SAS, se declare du groupe C.P.G., et liste le bureau de Baie-Mahault.
+- **Glass World = Glass World Industries**, et celui-la etait a deux doigts de coster un second
+  message a une societe ecrite le 07/10. **L outil de detection ne pouvait pas le voir** : domaines
+  differents, noms a un mot d ecart, et la fiche doublon sans adresse ni telephone — trois signaux
+  sur quatre muets. **C est le deverrouillage qui a produit la cle.** Chercher une adresse sert donc
+  aussi a trouver les doublons que le nom ne voit pas.
+
+### Quatre fiches fermees au titre du paragraphe 5, et le test s affine
+
+Addis Ababa **Bottle** & Glass, Cape Importers et Africa Negoce vendent du creux ou de la vaisselle.
+**Pasabahce est apparu dans deux fiches a six mille kilometres d ecart** : un nom de marque tranche
+plus vite qu un mot de categorie, et c est verse au mandat. Le Miroir au Maroc est ecartee pour la
+taille et non le metier — boutique de miroirs LED et de tables en travertin.
+
+### La Guyane etait a zero fiche, elle en a trois
+
+ALUVER, ZI Collery III, vend des **plaques de verre** et de la decoupe, licenciee Technal et Rehau.
+ALUBAT Guyane et LEGAC Materiaux. Plus **SOPROVER PLD** en Guadeloupe, SIREN 303095269, creee en
+1973, dont l activite au registre national est le **faconnage et la transformation du verre plat** —
+elle manquait au registre. Aucune adresse retenue pour elle : les deux vues viennent d un annuaire
+ou du site d un tiers.
+
+### Deux constats de marche, mesures et non supposes
+
+- **Haiti est entierement telephonique** : quatre fiches, quatre societes reelles, zero adresse
+  exploitable. Un domaine mort, un ancien site sans adresse, deux sans canal jamais.
+- **Le Togo ne rend que des annuaires auto-declares**, quinze noms sans aucun domaine propre. Creer
+  les fiches gonflerait le compte des a appeler sans rien promettre. Meme chose pour le Gabon.
+
+### Ce qui attend Aaron ou Kevin
+
+Le lien PG Industries Zimbabwe, qui gele la fiche. La cote 3300 en float nu, qui debloque Rubex le
+jour meme. L autoclave de feuilletage pour le 3302 x 2261. La grille de prix. Le perimetre Riou. Et
+les quatre questions de douane, dont celle de l octroi de mer qui touche 16 fiches des outre-mer.

@@ -124,6 +124,24 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   **Ajouter au test les mots espagnols et portugais**, puisque c'est là que le piège se referme :
   **envase, botella, tapa, frasco, embalaje, embalagem, garrafa**. Quatre fiches fermées le 08/10,
   et la quatrième dit ce que les trois premières ont économisé.
+  **TROIS CAS DE PLUS LE 09/10, ET LE TEST GAGNE UN CRITÈRE BIEN PLUS TRANCHANT QUE LES MOTS.**
+  · **Addis Ababa Bottle & Glass** (Éthiopie) : le mot **bouteille est dans sa raison sociale**. Fiche
+    fermée avant le premier appel de recherche — c'est le cas facile, et il montre que la règle
+    fonctionne quand on la lit.
+  · **Cape Importers** (Afrique du Sud) et **Africa Negoce** (Sfax) : toutes deux portées au registre
+    comme « import et distribution » et « négoce de matériaux ». Vérification faite, elles vendent de
+    la **verrerie de table** — verres à pied, gobelets, bonbonnières, ramequins.
+  **LE CRITÈRE À AJOUTER EST UN NOM DE MARQUE, ET IL EST PLUS RAPIDE ET PLUS SÛR QUE TOUT LE RESTE.**
+  **Pasabahçe est apparu dans les DEUX fiches**, à six mille kilomètres d'écart, et dans les deux cas il
+  suffisait à conclure. Donc : **Duralex, Marinex, Pasabahçe, Arte Regal, Bormioli, Libbey, Spiegelau,
+  Bonna** dans une gamme → **verre creux ou verre de table, fiche fermée immédiatement**, sans même lire
+  l'activité. Une marque est un fait vérifiable ; « import et distribution » n'en est pas un.
+  **Et ajouter `glassware` à la liste des mots** : en anglais il ne désigne jamais le verre plat.
+  **Le pendant de la règle, trouvé le 09/10 sur CSVM, et il faut le dire parce qu'il protège dans
+  l'autre sens :** le *Comptoir Sfaxien de **Verrerie** et Miroiterie* porte le mot qui a fait écarter
+  SEVAM, et c'est pourtant du verre plat — double vitrage, ITR, contrôle solaire. **Le mot n'autorise
+  donc ni à ouvrir une fiche ni à la fermer : seule l'activité décide.** Les deux sociétés sont à Sfax,
+  l'une est une cible en file d'envoi et l'autre est fermée.
 - **Jamais inventer un dirigeant.** Nom utilisé uniquement si la **fonction est vérifiée**
   et pertinente (achats, import, direction). Sinon, message au service.
 - **Jamais prétendre qu'un prospect a consulté le site** sans donnée le confirmant.
