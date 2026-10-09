@@ -1011,3 +1011,46 @@ réponse à Trinité-et-Tobago, envoyée à 19 h 38 sur l'ordre explicite « tu 
 toi-même, vas-y ». Expéditeur vérifié avant l'envoi, boîte NOXEM confirmée, donc l'envoi était
 régulier — mais il a bien eu lieu ce soir, et il faut le savoir plutôt que de le découvrir demain.
 **C'est le dernier. Plus rien ne part.**
+
+---
+
+## Ajouts du 09/10/2026 — fin de journée
+
+### A. De quelle boîte le fil **Arabian Glass** (Riyad) est-il parti ? — *bloque une grosse cible*
+
+**Faits.** `Arabian Glass`, à Riyad, est en réalité **Arabian Processing Glass Co. (APG)**, fondée en
+2008 — établi aujourd'hui par recherche sur son propre site, ce qui lève un doute inscrit au registre
+depuis le 08/10. **Ce n'est pas Arabian United Float Glass**, le producteur saoudien : aucune ligne
+float, aucune production de verre brut. C'est un **transformateur**, donc une cible, et une grosse :
+capacité de découpe annoncée à **plus d'un million de m²/an**, soit un conteneur de substrat tous les
+deux jours ouvrés à pleine charge. Gamme : vitrage isolant double joint du teinté au **low-E haute
+performance**, façades araignée, trempé, feuilleté, bombé, laqué, miroirs.
+
+**Le blocage n'est plus le métier, c'est l'historique.** La fiche affirme un envoi début octobre et
+une relance le 08/10. **Recherche faite dans la boîte connectée : aucun message vers
+`info@arabian-glass.com`.** Deux lectures, et je ne tranche pas :
+- soit ils sont partis de **`harfiaaron0@gmail.com`** — ce qui serait conforme au §13, un fil né début
+  octobre y étant né et une relance devant y retourner — et alors ils sont invisibles d'ici ;
+- soit la note décrit un envoi qui n'a pas eu lieu.
+
+**Je n'ai rien envoyé.** Si les deux messages sont partis, un troisième en deux jours serait la faute
+Shibaam, et je refuse ce risque sur une cible de cette taille.
+
+**Ce que je demande :** un coup d'œil dans `harfiaaron0@gmail.com` sur `arabian-glass.com`.
+**Recommandation :** si rien n'y est, j'envoie un premier contact lundi, angle low-E et seconde
+origine — jamais l'absence de production locale, l'Arabie saoudite ayant quatre producteurs float.
+Si les messages y sont, la fiche passe en relance datée au 15/10 et pas avant.
+
+### B. Rappel des questions ouvertes qui coûtent le plus, par ordre
+
+1. **La grille de prix.** C'est le seul blocage qui empêche de transformer une réponse en devis.
+2. **La cote de 3300 mm en float nu** — débloque Rubex le jour même.
+3. **L'autoclave de feuilletage** pour le 3302 × 2261 de Caribbean Glass Specialists (Trinidad).
+4. **Les quatre questions de douane** : préférence UE-Mexique sur le verre plat, droit de droit commun
+   aux États-Unis et au Brésil, taux d'octroi de mer du chapitre 70, droit UE entrant en SACU.
+   Les deux dernières bloquent 16 fiches d'outre-mer et la Namibie de Willem.
+5. **Le périmètre Riou Glass** — SOREMIR à La Réunion et Riou Ocean Glass à Maurice sont un seul compte.
+6. **L'identification de « VIT »** au §7 : tant que son nom complet est inconnu, ce compte protégé
+   peut être démarché sans qu'on le sache.
+7. **DMARC** sur `noxem-group.com`, et le réglage **Network access** de l'environnement — ce dernier
+   est le goulot d'étranglement mesuré de la prospection, devant le ciblage et devant le message.

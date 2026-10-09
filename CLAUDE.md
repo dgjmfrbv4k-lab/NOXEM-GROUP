@@ -191,6 +191,21 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   jours parce que j'avais grepé une partie seulement des noms rendus par la recherche ; et
   Glass Suppliers & Installers a été créée en double parce que je n'avais pas grepé du tout avant
   de créer la fiche. **Un grep partiel ne vaut pas un grep.** Ce jour-là j'ai cherché l'Ouganda, rédigé, envoyé, puis
+  **ET LE GREP SE FAIT SUR LE MOT DISTINCTIF, PAS SUR LA RAISON SOCIALE ENTIÈRE — trois cas le 09/10,
+  donc une règle.** Un grep de la chaîne complète manque **tout doublon qui diffère d'un mot inséré**,
+  et c'est le cas le plus fréquent puisqu'une société se publie sous son nom court et se dépose sous
+  son nom long.
+  · **Arabian Glass** / **Arabian Processing Glass** (Riyad) : deux fiches, la même société. Grepper
+    `Arabian Processing Glass` le 08/10 n'a rien rendu ; grepper `Arabian` aurait trouvé.
+  · **Glass World** / **Glass World Industries** : même faute, et celle-là a coûté un envoi à une
+    société déjà contactée le 07/10, à l'adresse même que je venais de « déverrouiller ».
+  · **Abdi Aluminium & Glass Works** (Addis-Abeba) : doublon strict, deux lignes identiques.
+  **ET IL FAUT DIRE POURQUOI `detecte-doublons.py` NE RATTRAPE PAS CELA** : il croise pays + nom
+  normalisé, domaine, adresse et téléphone. **Une fiche née d'un annuaire sans site, sans adresse et
+  sans téléphone n'a aucun des trois derniers signaux**, et le premier échoue sur un mot inséré.
+  Elle est donc invisible aux quatre, et seule la résolution du **nom légal complet** la trouve.
+  Conséquence : quand une recherche large rend un nom, greper son mot le plus distinctif —
+  `grep -in 'arabian' liste-prospects.csv` — et lire les résultats, pas seulement leur nombre.
   vérifié : Shibaam était déjà à `RELANCE 2026-10-06` et a reçu un troisième message en deux
   jours. Vérifier après l'envoi ne sert à rien, cela ne fait que documenter la faute.
 - **Mesurer un marché « non prospecté » au bon chiffre.** Compter les fiches par pays induit
@@ -794,6 +809,28 @@ précédent datait de trois minutes**.
    de mémoire, c'est-à-dire mal.
 3. **Le squelette de script ci-dessous doit toujours finir par `out.append()` HORS du `if`**, et
    l'`assert` de couverture (`touche == set(MAJ)`) ne dit rien sur les lignes non modifiées : il
+4. **ET L'`assert` DE COUVERTURE NE DIT RIEN SUR L'UNICITÉ DES CLÉS — mesuré le 09/10, et ça a
+   silencieusement écrit deux fois.** `touche == set(MAJ)` vérifie que chaque clé a été **trouvée**,
+   jamais qu'elle n'a été trouvée **qu'une fois**. La clé `(pays, société)` n'est pas unique dans ce
+   registre, qui conserve ses doublons neutralisés par convention. Résultat sur **Abdi Aluminium** :
+   la même note et le même téléphone ont été écrits sur **les deux lignes** sans que rien ne s'en
+   plaigne, et c'est le quatrième contrôle de l'audit qui l'a révélé après coup. Le squelette doit
+   donc **compter les correspondances** et refuser d'écrire sur une clé multiple :
+```python
+import collections
+vus = collections.Counter()
+for l in corps:
+    c = l.rstrip('\r').split(';')
+    k = (c[0], c[3]) if len(c) == 10 else None
+    if k in MAJ:
+        vus[k] += 1
+        ...                                   # modifications
+    out.append(';'.join(c))                   # TOUJOURS hors du if
+assert set(MAJ) == set(vus), set(MAJ) - set(vus)          # couverture
+mult = {k: n for k, n in vus.items() if n > 1}
+assert not mult, 'CLES EN DOUBLE, ecriture refusee : %s' % mult   # unicite
+```
+   **Une clé multiple est toujours un doublon à traiter, jamais une écriture à faire deux fois.**
    vérifie qu'on a touché les bonnes fiches, pas qu'on a conservé les autres.
 
 Contrôle d'intégrité après chaque écriture — **toute** ligne doit avoir 10 champs, sans exception :
