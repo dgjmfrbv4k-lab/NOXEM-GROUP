@@ -3655,3 +3655,42 @@ donc la méthode du §13 n'a rien à lire. Le Paraguay reste à 0 envoi sur 7 so
 **Et Perfect Glass Ghana est arrêtée après deux échecs identiques** — serveur distant mal configuré
 le 06/10 puis le 09/10. Précision à la règle : un serveur mal configuré mérite **un** second essai,
 pas deux. Si la configuration n'a pas bougé en trois jours, elle ne bougera pas parce qu'on réessaie.
+
+### 09/10/2026 — 18h44 CEST · le chiffre du jour s'arrête à 101, et voici le calcul
+
+**ENVOIS CONFIRMÉS : 101** (93 premiers contacts + 8 relances). Le chiffre a baissé deux fois en
+une demi-heure, de 104 à 103 puis à 101, et chaque baisse est un rebond lu, pas une correction
+d'écriture. C'est l'application du corollaire inscrit au §13 ce soir : **un envoi n'est confirmé
+qu'après lecture du rebond.**
+
+**DEUX REBONDS DURS DE PLUS, tombés en secondes.**
+- **Abu Nadil** (Oman), `550 5.1.1` **trois secondes** après l'envoi. C'est le cas rare d'une
+  **société qui publie une adresse morte** : l'adresse figure bien sur leur page de contact, sur
+  plusieurs pages, et leur serveur a répondu. Ni devinée, ni vieille page. C'est le cas PT Matahari
+  du §13, que la méthode ne répare pas. Restent deux mobiles, donc probablement WhatsApp.
+- **Aluminios del Sur** (Honduras), `550 5.1.1` **deux secondes** après l'envoi — **et la réserve
+  était écrite dans la fiche avant l'envoi.** L'adresse venait des **métadonnées** et non d'un
+  affichage en clair. Chez Conciera cette réserve s'était vérifiée en une demi-journée ; ici en deux
+  secondes. **Donc la réserve des données structurées n'est pas théorique, c'est un prédicteur
+  fiable** : une telle adresse se teste en dernier, jamais comme seule tentative quand un autre
+  canal existe — et ici le WhatsApp était publié par la société comme canal de devis.
+
+**LE CALCUL DE DÉLIVRABILITÉ DE LA SOIRÉE, et il confirme le §13 au lieu de l'aggraver.**
+Neuf messages soumis après le bilan de 17h12, quatre rebonds, donc 44 % en brut. **Mais il faut
+séparer les deux causes, sinon on tire la mauvaise conclusion :**
+- **deux rebonds venaient de réessais sur boîte pleine** — Glass Camp et FITglass — c'est-à-dire de
+  la règle que ce lot a précisément fait corriger. Ces deux-là ne mesurent pas la qualité des
+  adresses, ils mesurent une mauvaise règle, et elle est réparée.
+- **sur les sept premiers contacts, deux ont rebondi, soit 29 %** — Abu Nadil et Aluminios del Sur.
+  C'est **exactement les 30 % mesurés au §13 ce matin**. Le taux tient, la méthode n'a pas empiré.
+
+**Les cinq qui tiennent à cette heure : ALUTRACO, VIAL-MALI, Nafida, Dr Greiche, IRU Glass.** À
+recontrôler demain matin, un verdict pouvant tomber plus d'une heure après (§10).
+
+**CE QUE LA SOIRÉE A RAPPORTÉ AU-DELÀ DES ENVOIS**, et c'est l'essentiel du lot : un garde-fou
+réparé, deux règles corrigées — la boîte pleine et le serveur mal configuré — un chemin de
+déverrouillage nouveau (le site du licencieur, trouvé sur Tropic Glass), un piège de gabarit
+confirmé sur deux cas (les adresses de thème web, `oceanthemes.net` chez Sovitam après
+`konta.com` chez ALUTRACO), trois fiches fermées sur le métier plutôt que sur l'adresse, et
+**dix-sept numéros vérifiés versés à la liste d'appels**. Un déverrouillage raté qui rend un numéro
+et une fonction n'est pas une perte sèche.
