@@ -460,6 +460,16 @@ python3 campagne-conteneur-20-open-top/prospection/outils/verif-argument-float.p
 Il croise les notes du registre avec les pays qui abritent ou sont desservis par un producteur,
 et signale toute fiche qui affirme le contraire. **À relancer après chaque lot, et surtout avant
 d'employer cet argument dans un message neuf.**
+**CORRECTIF DU 09/10 SUR CE GARDE-FOU LUI-MEME, et il vaut au-delà de lui.** Il a signalé
+**Klingshield** (Afrique du Sud) comme affirmant l'absence de float — alors que sa note cite **trois
+fois** les 260 000 t/an de PFG. **Faux positif :** son motif `sans float` accrochait la phrase
+« sans l'effort de rédaction réservé aux **marchés sans float** », qui dit exactement l'inverse,
+puisqu'elle désigne les *autres* marchés. Le motif est désormais neutralisé sur cette phrase méta.
+**Pourquoi c'était à réparer et pas à ignorer :** un garde-fou qui crie au loup finit par être
+ignoré, et c'est alors un **vrai** cas qui passe. Le script portait déjà cette logique dans son
+exception `CORRIGEE`, pour la même raison. **Et le correctif NEUTRALISE la phrase au lieu d'écarter
+la fiche**, afin qu'une note contenant à la fois la phrase bénigne *et* une vraie affirmation fausse
+ressorte quand même — vérifié dans les deux sens sur un jeu d'essai avant d'être retenu.
 
 **Producteurs float = concurrents, pas prospects :** Obeikan, Guardian, Mediterranean Float
 Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,

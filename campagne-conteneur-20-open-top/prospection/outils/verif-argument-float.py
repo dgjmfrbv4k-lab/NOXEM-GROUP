@@ -55,6 +55,16 @@ MOTIFS = re.compile(
 
 CORRIGEE = re.compile(r"CORRECTION FACTUELLE|C EST FAUX|ANGLE A REFAIRE", re.I)
 
+# « les marches sans float » designe les AUTRES marches, pas celui de la fiche :
+# c est une phrase meta sur la conduite a tenir, et non une affirmation sur ce pays.
+# Faux positif mesure le 09/10 sur Klingshield, dont la note cite au contraire TROIS
+# FOIS les 260 000 t/an de PFG — la fiche disait donc exactement ce qu il faut, et
+# l outil la signalait quand meme. Meme raison que l exception CORRIGEE ci-dessus :
+# un garde-fou qui crie au loup finit ignore, et c est alors un VRAI cas qui passe.
+# On NEUTRALISE la phrase benigne au lieu d ignorer la fiche, pour qu une fiche qui
+# contiendrait a la fois cette phrase ET une vraie affirmation fausse sorte quand meme.
+BENIGNE = re.compile(r"marche?s? sans (production )?float", re.I)
+
 CSV = sys.argv[1] if len(sys.argv) > 1 else 'liste-prospects.csv'
 suspects = []
 corrigees = []
@@ -64,7 +74,8 @@ for n, l in enumerate(io.open(CSV, encoding='utf-8').read().split('\n')[1:], sta
     c = l.rstrip('\r').split(';')
     if len(c) < 10 or 'DOUBLON' in c[8].upper():
         continue
-    if not MOTIFS.search(c[8]) or c[0] not in PRODUCTEURS:
+    note = BENIGNE.sub(' ', c[8])
+    if not MOTIFS.search(note) or c[0] not in PRODUCTEURS:
         continue
     # Une fiche deja corrigee CITE l affirmation fausse dans sa note de correction :
     # sans cette exception l outil la signalerait indefiniment et crierait au loup.
