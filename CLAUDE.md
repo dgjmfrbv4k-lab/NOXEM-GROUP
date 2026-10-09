@@ -1037,6 +1037,32 @@ TZ=Europe/Paris date '+%H:%M %Z (%d/%m/%Y)'
 awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $9 !~ /TESTEE|DEVERROUILLEE/ \
   {print $1" | "$4" | "$6}' liste-prospects.csv
 ```
+- **LE RENDEMENT DE LA MÉTHODE DE DÉVERROUILLAGE EST DEUX FOIS PLUS FAIBLE QU'IL N'EN A L'AIR, ET
+  C'EST MESURÉ LE 09/10 SUR UNE QUARANTAINE D'ENVOIS EN UNE HEURE.** La méthode trouve une adresse
+  dans 55 % des cas. Mais **12 de ces adresses sur ~40 envoyées ont rebondi en dur**, soit **30 %**.
+  Rendement réel de bout en bout : de l'ordre de **38 %**, pas 55.
+  **POURQUOI, ET C'EST LA FAILLE DU §5 QU'IL FAUT NOMMER :** la règle anti-rebond vérifie que le
+  **domaine** apparaît dans les URL de résultats. Elle ne vérifie **rien sur l'existence de la
+  boîte**. Et le contrôle MX, qui le ferait, est structurellement hors service dans cette session
+  (liste blanche). Donc une adresse peut satisfaire le §5 **à la lettre** et être morte.
+  **DEUX SIGNATURES À DISTINGUER, elles n'ont pas le même remède :**
+  · **domaine introuvable** — TechnoGlass, Vidrios y Mas, Vidral, Al Ashoury, New Glass le 09/10 →
+    hébergement courrier abandonné derrière un site vivant. **Irrécupérable, fiche téléphonique.**
+  · **boîte inexistante sur domaine vivant** — Vidrio Centro, Alma, Vanbo, HARON, M&A, Conciera,
+    Casa Barrios → **une autre boîte publiée existe souvent**. C'est le gisement du §13.
+  **TROIS CORRECTIONS DE PRÉFÉRENCE, toutes mesurées le 09/10 :**
+  1. **Une adresse lue dans les DONNÉES STRUCTURÉES est moins sûre qu'une adresse affichée.**
+     Conciera l'a prouvé : la réserve était notée le matin, le rebond est tombé l'après-midi.
+  2. **La boîte d'agence n'est qu'une PRÉFÉRENCE, pas une garantie.** HARON a rejeté `lb@` alors
+     que la générale `mail@` reste à essayer, et Alma a rejeté son adresse d'agence après son
+     `info@`. On vise mieux, mais on n'est pas protégé du rebond.
+  3. **Deux échecs sur la même société veulent dire STOP.** M&A Glass en est à trois adresses
+     mortes sur deux domaines, Al Ashoury à deux. Au deuxième rebond, la fiche passe au téléphone.
+  **CONSÉQUENCE SUR LES PROMESSES DE VOLUME, et c'est elle qui compte pour planifier :** 100
+  adresses déverrouillées ne font pas 100 envois confirmés, elles en font environ 70. Et les 30
+  rebonds durs **abîment la réputation du domaine partagé**, donc coûtent aux deux autres
+  campagnes. Annoncer un volume sur le nombre d'adresses trouvées est faux de 30 % par construction.
+
 - **LE BUDGET DE RECHERCHE DE LA SESSION EST FINI, ET C'EST UNE LIMITE À PLANIFIER — découverte
   le 08/10 à 15 h 50.** `WebSearch` est plafonné à **200 appels par tour**, partagés par tous les
   agents du tour. Atteint en fin d'après-midi après une quinzaine de lots de déverrouillage.
