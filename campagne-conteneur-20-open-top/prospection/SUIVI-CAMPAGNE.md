@@ -3549,3 +3549,64 @@ abime la reputation partagee.
 **DMARC** sur le domaine. **L acces reseau** elargi pour que le controle MX fonctionne et que les
 30 % de rebonds tombent. Et **un partage explicite de la boite** entre les trois campagnes, pour
 que le quota et la reputation ne se consomment pas en aveugle.
+
+---
+
+### 09/10/2026 — 18h26 CEST · fin de journée, cinq envois de plus et dix fiches passées au téléphone
+
+**ENVOIS CONFIRMÉS DU JOUR PORTÉS À 101** (93 premiers contacts + 8 relances), contre 96 annoncés
+au bilan de 17h12. Les cinq de plus : ALUTRACO en récupération après son rebond du matin,
+VIAL-MALI, Nafida, Dr Greiche et Abu Nadil.
+
+**CORRECTION D'HORODATAGE, ET ELLE EST DE MA FAUTE.** J'avais consigné ALUTRACO à 18h00,
+VIAL-MALI à 18h05 et Nafida à 18h10. Relevé dans `in:sent` : les trois sont partis à **16h15 UTC,
+soit 18h15 CEST**, à moins d'une minute d'écart. Les trois notes sont corrigées. C'est exactement
+la dérive que le §13 cherche à empêcher, et la cause est la même qu'au 08/10 : j'ai horodaté de
+mémoire au lieu de lire l'heure d'envoi.
+
+**LE RENDEMENT DU RÉSIDU EST DE 22 %, CONTRE 55 % SUR LE GISEMENT FACILE.** Neuf fiches testées
+par recherche restreinte, deux déverrouillées : Dr Greiche et Abu Nadil. Les sept autres sont
+réparties en trois signatures, et la distinction compte parce qu'elles n'ont pas le même remède.
+- **Formulaire seul, sans adresse publiée** (4) : Flat Glass Distributors, Glass Enterprises,
+  ALUVER Guyane, Nassau Glass. C'est la signature américaine et française — le formulaire
+  remplace l'adresse. Dossiers téléphoniques, et les numéros sont bons.
+- **Adresse obfusquée par le site** (4) : Manna Glass, Alumgo, Abdi Aluminium, Golden Glass.
+  Le site publie bien une adresse, mais son outil anti-spam la masque. Le §5 interdit de la
+  reconstruire, donc téléphone — avec un meilleur canal chez Abdi, dont le numéro est un WhatsApp.
+- **Domaine plus indexé du tout** (1) : Saudi Canadian Glass. Signature irrécupérable du §13,
+  comme Commercial Glass aux Bermudes. C'est la perte la plus nette du lot, la fiche annonçant
+  trempe, feuilleté et export vers le Levant, l'Afrique du Nord et la Roumanie.
+
+**CE QUE LE LOT A APPRIS, AU-DELÀ DES ADRESSES.**
+1. **Erbil est définitivement un marché téléphonique, et c'est maintenant établi sur trois fiches
+   sur trois** : Arturaya (site vivant, pas de messagerie), NIT Group (idem), Golden Glass
+   (adresse obfusquée). Trois sociétés dans la même ville, donc une pratique locale et non un
+   accident. À grouper en un seul créneau d'appel plutôt que d'y dépenser des recherches.
+2. **Dr Greiche a imposé l'angle le plus étroit de la journée, et c'est le §6 qui l'a dicté.**
+   L'Égypte a Sphinx Glass et Misr Glass Manufacturing, donc l'argument de l'absence de production
+   locale y est faux. J'ouvre donc le message en disant ce que je ne propose **pas**, puis je vise
+   ce que le float régional ne couvre pas forcément : le float **mince de 2 à 4 mm** que consomment
+   leur verre automobile et leur verre d'électroménager, avec tolérance d'épaisseur serrée et faible
+   distorsion. **Et le miroir est volontairement écarté du message** : ils produisent les leurs,
+   nous y serions concurrents.
+3. **Universal Africa est à cheval sur deux pays et le périmètre les sépare.** Leur propre site les
+   décrit comme fabricant **en Ouganda** et comme premier façadier **du Soudan du Sud**. L'Ouganda
+   est dans la zone desservie par Sapphire, donc déclassé ; le Soudan du Sud n'est pas dans les
+   marchés d'export documentés de Sapphire, donc il ne l'est pas. La règle du périmètre de la
+   source et non de la géographie tranche, et l'appel devra établir où se font les achats.
+4. **Manna Glass : la fiche portait 56 agences, leur site annonce 40 points de vente.** Je retiens
+   le chiffre de la société.
+5. **Alumgo est la meilleure cible marocaine du lot pour une raison logistique** : leur site annonce
+   desservir les zones TFZ, TAC et **Tanger Med**. Un transformateur installé sur la zone du port
+   peut recevoir un conteneur sans trajet terrestre.
+
+**CONTRÔLE DES REBONDS : un seul dans l'heure, et c'est un *délai*** — `tamistef.ro`, sur une
+relance du 07/10, deuxième avis de retard en deux jours. **Aucun échec sur les cinq derniers
+envois.** Mais le §10 est explicite : un verdict peut tomber plus d'une heure après, donc ce
+chiffre de 101 est à recontrôler demain matin avant d'être tenu pour définitif.
+
+**`A APPELER` passe à 158 fiches** et `LISTE-APPELS.md` est régénéré. Les dix fiches versées
+aujourd'hui y entrent avec des numéros vérifiés, ce qui est le vrai produit du lot : un
+déverrouillage raté qui rend un numéro et un nom de fonction n'est pas une perte sèche.
+Flat Glass Distributors est le meilleur dossier d'appel américain — **Roger Steinke, General
+Manager**, fonction vérifiée sur leur page équipe, donc nommable au titre du §5.
