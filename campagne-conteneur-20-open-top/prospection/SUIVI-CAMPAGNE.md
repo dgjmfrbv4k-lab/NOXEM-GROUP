@@ -3610,3 +3610,48 @@ aujourd'hui y entrent avec des numéros vérifiés, ce qui est le vrai produit d
 déverrouillage raté qui rend un numéro et un nom de fonction n'est pas une perte sèche.
 Flat Glass Distributors est le meilleur dossier d'appel américain — **Roger Steinke, General
 Manager**, fonction vérifiée sur leur page équipe, donc nommable au titre du §5.
+
+### 09/10/2026 — 18h41 CEST · deux envois annulés par le même rebond, et la règle qui en sort
+
+**ENVOIS CONFIRMÉS DU JOUR : 103** (95 premiers contacts + 8 relances). Le chiffre a **baissé** par
+rapport aux 104 d'il y a dix minutes, et c'est voulu : deux envois ont rebondi et ne comptent pas.
+
+**CE QUI S'EST PASSÉ, ET ÇA CORRIGE UNE RÈGLE DU §13.** J'ai réessayé deux adresses dont le rebond
+précédent était une **boîte pleine**, en m'appuyant sur la règle « une boîte pleine est une preuve
+d'existence ». Les deux ont rebondi de la même façon.
+- **Glass Camp** (Brésil) : boîte pleine le 05/10, réessai aujourd'hui, **même rebond quatre jours
+  plus tard**.
+- **FITglass** (Nigéria) : boîte pleine le 07/10, réessai aujourd'hui, **même rebond quarante-deux
+  secondes après l'envoi** — et son diagnostic donne la cause en clair :
+  `550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded`.
+
+**La règle était vraie et incomplète.** Une boîte pleine prouve que la boîte **existe** ; elle ne
+prouve pas que quelqu'un la **relève**. « Inode limit exceeded » n'est pas un encombrement passager,
+c'est un **quota d'hébergement épuisé** — un compte que personne ne vide, et que réessayer ne videra
+pas. Le mandat est corrigé : **un rebond pour boîte pleine envoie la fiche au téléphone, pas à un
+second envoi.** Les deux fiches gardent leur valeur et leur texte est écrit ; il leur manque un
+canal, pas un argument. Glass Camp en particulier reste la meilleure cible brésilienne, le Brésil
+étant le marché le plus favorable vérifié de la campagne.
+
+**Corollaire d'honnêteté que j'inscris aussi** : un envoi n'est confirmé qu'**après lecture du
+rebond**, pas à la réception de l'identifiant de message. C'est pour ça que le chiffre du jour
+descend au lieu de monter, et il descendra peut-être encore demain matin.
+
+**UN ENVOI RÉEL DANS LE MÊME LOT, et c'est une résurrection.** **IRU Glass & Mirror** (Colombo) était
+en `ADRESSE INVALIDE` depuis le 23/09, son adresse `sltnet.lk` refusant le courrier. Leur page de
+contact en publie une **seconde**, sur un autre domaine — exception du §5, notée dans la fiche parce
+que c'est la société elle-même qui la publie. **Et l'angle est le meilleur de la journée** : parmi
+leurs domaines d'activité ils listent *imported mirrors*. Une société qui se décrit par ce qu'elle
+**importe** sait déjà ce que l'humidité fait à l'argenture, donc le message ne vend pas le miroir
+par ses qualités mais **par le défaut qu'il évite** — le piquage noir qui part du chant et ramène
+les miroirs d'hôtel sous garantie. C'est l'usage que le §8 prévoit pour les climats insulaires.
+
+**Deux rebonds retestés sans succès, et il faut dire pourquoi plutôt que de les laisser traîner.**
+**Vidrio Centro** (Managua) : la seule adresse lisible est celle qui a rebondi, la seconde est
+obfusquée — WhatsApp publié, donc dossier téléphonique avec un bon canal. **Casa Barrios**
+(Paraguay) : cas inverse de Vitrolux, le domaine a de la **messagerie** mais **aucune page indexée**,
+donc la méthode du §13 n'a rien à lire. Le Paraguay reste à 0 envoi sur 7 sociétés réelles.
+
+**Et Perfect Glass Ghana est arrêtée après deux échecs identiques** — serveur distant mal configuré
+le 06/10 puis le 09/10. Précision à la règle : un serveur mal configuré mérite **un** second essai,
+pas deux. Si la configuration n'a pas bougé en trois jours, elle ne bougera pas parce qu'on réessaie.

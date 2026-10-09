@@ -1023,6 +1023,21 @@ TZ=Europe/Paris date '+%H:%M %Z (%d/%m/%Y)'
   `venta1@` ne repose que sur une page dont le copyright s'arrête à 2014. **Donc : une boîte pleine
   est une preuve d'existence, et elle vaut mieux qu'une orthographe lue sur une page ancienne.**
   L'alternative se garde en second essai, pas en remplacement.
+  **CORRECTION MESURÉE LE 09/10, ET ELLE PORTE SUR CETTE RÈGLE-LÀ : une boîte pleine prouve que la
+  boîte EXISTE, elle ne prouve pas que quelqu'un la RELÈVE.** Le raisonnement Visemex ci-dessus reste
+  juste — entre deux orthographes, celle qui rend « boîte pleine » est la bonne. **Mais il ne
+  justifie PAS un réessai, et c'est ce que la journée a établi sur deux cas sur deux.**
+  · **Glass Camp** (Paulínia, Brésil) : boîte pleine le 05/10, réessai le 09/10, **même rebond
+    quatre jours plus tard**.
+  · **FITglass** (Nigéria) : boîte pleine le 07/10, réessai le 09/10, **même rebond quarante-deux
+    secondes après l'envoi**, et c'est son diagnostic qui donne la cause mot pour mot :
+    `550 Mailbox is full / Blocks limit exceeded / Inode limit exceeded`. Ce n'est pas une boîte
+    momentanément encombrée, c'est un **quota d'hébergement épuisé** — donc un compte que personne
+    ne vide, et qui ne sera pas vidé parce qu'on réessaie.
+  **Conduite : un rebond pour boîte pleine ne vaut PAS un second envoi. Il envoie directement la
+  fiche au téléphone ou au WhatsApp.** Coût de la leçon : deux envois qui ne comptent pas, déduits
+  du jour le jour même. Et le corollaire d'honnêteté, qui vaut pour tout comptage : **un envoi n'est
+  confirmé qu'après lecture du rebond**, pas à la réception de l'identifiant de message.
   **DEUX PIÈGES D'IDENTITÉ DE PLUS, trouvés sur les outre-mer le 08/10, et ils sont symétriques.**
   · **Le cas facile : une filiale sous un autre nom.** Savima (Baie-Mahault) annonce sur son propre
     site s'être installée à Saint-Martin **sous le nom Glass Alu SXM**, avec sa propre adresse.
