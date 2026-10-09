@@ -3414,3 +3414,73 @@ ou du site d un tiers.
 Le lien PG Industries Zimbabwe, qui gele la fiche. La cote 3300 en float nu, qui debloque Rubex le
 jour meme. L autoclave de feuilletage pour le 3302 x 2261. La grille de prix. Le perimetre Riou. Et
 les quatre questions de douane, dont celle de l octroi de mer qui touche 16 fiches des outre-mer.
+
+## 09/10/2026 14h03 CEST — objectif de 400 envois : le chiffre reel et le blocage precis
+
+**Consigne de Kevin a 13h22 : 400 e-mails reellement envoyes et confirmes, et si une limite
+technique ou de delivrabilite l empeche, ne pas la contourner mais dire le chiffre reel, le blocage
+precis et le reste a traiter.** Voici les trois.
+
+### Le chiffre reel : 92 messages confirmes
+
+| | |
+|---|---|
+| Premiers contacts confirmes | **84** |
+| Relances confirmees | **8** |
+| **Total confirme** | **92** |
+| Soumis puis rebondis, donc NON comptes | 12 |
+| Reponse a un dossier vivant (Willem Heunis, sur ordre) | 1 |
+
+Les rebonds ne comptent pas, comme la consigne l exige : un rebond fait sortir la fiche du statut
+`ENVOYE`, donc le registre ne retient que les envois non rebondis.
+
+### Le blocage precis : ce n est pas le plafond Gmail, c est la BASE
+
+Mesure faite a 13h24 avant d envoyer :
+
+| | |
+|---|---|
+| `A ENVOYER` echu + `A RENVOYER` avec adresse | **56** |
+| Relances **echues** (7 jours et plus) | **0** |
+| Fiches contactees depuis moins de 7 jours | **516** |
+| Fiches **sans aucune adresse** | **333** |
+
+**Il n existait pas 400 adresses expediables.** Les 516 fiches ecrites dans les 7 derniers jours ne
+pouvaient pas etre relancees aujourd hui sans commettre le contact multiple que la consigne
+interdit elle-meme. J ai ajoute les **42** fiches que j avais datees au 10-15/10 — cette date venait
+de mon propre echelonnement, pas d une contrainte client — ce qui a porte le pool a **98**.
+
+**Le pool a ete epuise : il est a ZERO.** Le plafond n a donc jamais ete atteint : 92 confirmes sur
+98 expediables, soit 94 %.
+
+### Le second blocage, de delivrabilite, et il est mesure
+
+**12 rebonds durs sur ~40 envois en une heure, soit 30 %.** Cause identifiee et versee au §13 : la
+regle anti-rebond du §5 verifie le **domaine**, pas l existence de la **boite**, et le controle MX
+est structurellement hors service dans cette session. **Une adresse peut satisfaire le §5 a la
+lettre et etre morte.**
+
+**Aucun `5.7.1` de filtrage anti-spam sur mes envois** : le declencheur d arret du §10 n a pas ete
+atteint, et c est pour cela que j ai continue. **Mais la campagne de destockage envoie depuis la
+meme boite au meme moment et produit un taux de rebond dur tres eleve** — une vingtaine de
+« domaine introuvable » releves dans l heure. Sur un domaine neuf **sans DMARC**, c est ce qui abime
+la reputation partagee, et cela coute aux trois campagnes.
+
+### Ce qui reste a traiter
+
+- **14 fiches en `A RENVOYER`** : rebond sur domaine vivant, donc une autre boite publiee existe
+  souvent. C est le gisement le plus rentable, a travailler en premier demain.
+- **4 europeennes differees au 16/10** : GIAS et GPS Iberica ont recu un message du destockage
+  **aujourd hui** depuis la meme adresse, a 11h03 et 10h46 UTC. Goteborgs et The Glass Warehouse
+  sont joignables en camion depuis la Belgique, donc relevent de l autre campagne.
+- **333 fiches sans adresse**, dont 63 avec un site a deverrouiller : a 38 % de rendement reel, cela
+  represente de l ordre de **24 envois confirmes**, pas 63.
+- **Les relances deviennent disponibles a partir du 13/10** pour les 516 fiches ecrites cette
+  semaine. C est la seule facon mecanique de retrouver du volume.
+
+### Ce qu il faudrait pour approcher 400 en une journee
+
+Trois choses, et aucune n est de mon ressort : **DMARC sur le domaine** pour encaisser le volume,
+**l acces reseau** elargi pour que le contrôle MX fonctionne et que les 30 % de rebonds tombent, et
+**un partage explicite de la boite** entre les trois campagnes pour que le quota et la reputation ne
+se consomment pas en aveugle.
