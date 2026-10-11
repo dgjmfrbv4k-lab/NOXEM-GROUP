@@ -1054,3 +1054,136 @@ Si les messages y sont, la fiche passe en relance datée au 15/10 et pas avant.
    peut être démarché sans qu'on le sache.
 7. **DMARC** sur `noxem-group.com`, et le réglage **Network access** de l'environnement — ce dernier
    est le goulot d'étranglement mesuré de la prospection, devant le ciblage et devant le message.
+
+---
+
+## Ajouts du 11/10/2026 — dimanche, 15h45
+
+### A. Over Head Asia (Brésil) — **demande de prix entrante, arbitrage technique requis**
+
+**C'est la première demande de prix de la campagne qui arrive sans qu'on ait prospecté.**
+
+**Les faits.** Bruno Pancotte, *International Buyer* chez **Over Head Asia**, société de négoce
+brésilienne (Novo Hamburgo, RS), a écrit le 09/10 à 17h24. Il demande du **verre trempé** à quatre
+côtes — **738 × 608 × 6**, **760 × 898 × 6**, **760 × 1088 × 6**, **448 × 500 × 4 mm** — sous le code
+**NCM 7007.19.00**, en **FOB ou EXW**, avec notre MOQ, les conditions de paiement et le délai.
+
+**Et il dit lui-même pourquoi il nous écrit :** il exclut les pays sous mesures antidumping
+brésiliennes, et **la Chine est exclue** à cause de l'enquête brésilienne sur le verre trempé pour
+l'électroménager. **Or cette société a ses propres bureaux d'achat à Pékin et à Dongguan.** Un
+importateur brésilien qui achète habituellement en Chine écarte la Chine et démarche l'Europe :
+c'est exactement le mécanisme que l'analyse du Brésil annonçait, et il s'est déclenché tout seul.
+
+**MAIS LE PRODUIT N'EST PROBABLEMENT PAS LE NÔTRE, et c'est la question que je ne peux pas trancher.**
+Le mandat nomme déjà cette mesure et la signale comme *« autre produit à ne pas confondre »* : la
+Gecex 921/2026 a prorogé l'antidumping sur les **vidros para linha fria** chinois, NCM 7007.19.00.
+*Linha fria* = ligne du froid, soit le verre d'électroménager. Et les quatre côtes le confirment —
+738 × 608, 760 × 898, 760 × 1088, 448 × 500 sont des formats de **panneaux d'électroménager** (porte
+de four, clayette de réfrigérateur, plan de cuisson), pas des côtes de bâtiment.
+
+Le verre trempé est dans notre gamme publiée et le sur-mesure aussi. Mais **du panneau
+d'électroménager trempé en petite côte est un métier d'équipementier OEM**, pas un conteneur de verre
+plat de bâtiment. Savoir si cela se fabrique relève du §11 — garantie technique et engagement
+contractuel — et le §5 m'interdit par ailleurs de rien dire de nos usines.
+
+**Deux réserves qui changent la lecture du dossier, et il faut les dire avant les options.**
+1. **Les quantités ne sont pas dans le message.** Il renvoie à quatre PDF joints (72404, 72358,
+   72339, 73455). **Cette session n'a aucun outil pour télécharger une pièce jointe** : je ne peux
+   pas les lire et je ne les invente pas. **Tu dois les ouvrir dans Gmail.** Sans quantité, rien
+   n'est chiffrable.
+2. **C'est un appel d'offres diffusé, pas une demande exclusive.** Le champ destinataire porte sa
+   propre adresse : nous sommes en copie cachée avec d'autres fournisseurs. C'est réel et ça vaut
+   une réponse, mais c'est une mise en concurrence, pas un contact chaud.
+
+**Point favorable sur la forme :** il demande du **FOB/EXW**, pas du rendu port. Il prend donc le
+fret à sa charge, ce qui est plus simple pour nous et sort du cadre habituel de la campagne.
+
+**Options.**
+- **(a) Nous savons faire le panneau d'électroménager trempé.** Alors c'est un dossier à instruire,
+  et le texte 1 ci-dessous part dès que tu me le dis.
+- **(b) Nous ne savons pas le faire, mais le trempé architectural oui.** Alors on ne laisse pas
+  tomber : le texte 2 dit franchement que ce format-là n'est pas notre métier et demande s'ils
+  achètent aussi du trempé de bâtiment. Un négociant brésilien qui cherche une origine hors Chine
+  en cherche probablement sur plusieurs lignes de produits.
+- **(c) Hors gamme et hors sujet.** On classe la fiche `ECARTE — HORS GAMME` et on le lui dit en
+  deux lignes plutôt que de ne pas répondre : un acheteur qui reçoit une réponse honnête se souvient
+  de nous au dossier suivant.
+
+**Ma recommandation : (b) par défaut, (a) si tu confirmes la faisabilité.** Ne jamais répondre sans
+les quantités, et ne rien écrire sur les droits brésiliens — il connaît sa propre mesure mieux que
+nous, il l'a citée lui-même, et le §6 interdit d'affirmer la douane d'un pays sans avoir lu sa source.
+
+**Texte 1 — si nous savons faire (prêt, non envoyé) :**
+> Hello Bruno,
+>
+> My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+> France. Thank you for the RFQ — and for stating your origin restriction up front, which saves
+> everyone time.
+>
+> Before I can put numbers in front of you I need the one thing the email body does not carry:
+> quantities. The attachments did not come through readable on my side, so could you confirm, per
+> size, the quantity per order and whether this is a one-off or a recurring requirement? Four sizes
+> at 4 and 6 mm behave very differently depending on whether you need hundreds or tens of thousands
+> of pieces.
+>
+> Two technical points I would rather raise now than after a quotation:
+> - edge finish and corner treatment on the 448 × 500 × 4 mm, since 4 mm toughened in that format is
+>   the most sensitive of the four;
+> - whether any of the four need holes, cut-outs or printing, which changes the process entirely.
+>
+> On the commercial side we can establish an offer for your terms, subject to validation on our
+> side. You asked for FOB or EXW, which is clear and I will quote on that basis rather than
+> delivered.
+>
+> Our toughened glass range is here: https://noxemgroup.com/en/tempered-glass/
+>
+> If the volumes turn out to be outside what we can serve properly, I will tell you so plainly
+> rather than quote something I cannot hold.
+
+**Texte 2 — si le panneau d'électroménager est hors de notre métier (prêt, non envoyé) :**
+> Hello Bruno,
+>
+> My name is Aaron Harfi, I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+> France. Thank you for the RFQ, and I will answer it straight rather than keep you waiting.
+>
+> The four sizes you list, at 4 and 6 mm under NCM 7007.19.00, are appliance panels rather than
+> architectural glass. That is a different process from ours — small-format toughened panels for
+> white goods are an OEM supply job, and I would rather say so than quote something I cannot hold.
+>
+> What we do supply, in full containers, is architectural flat glass: clear and extra-clear float,
+> toughened, low-E, copper-free mirror and laminated. https://noxemgroup.com/en/float-glass/
+>
+> So one question, and only one: does Over Head Asia also source architectural glass for Brazil? You
+> have buying offices in Beijing and Dongguan, so you know better than I do what the origin
+> restrictions have done to that side of the market. If you do, I would like to be on your list for
+> it, and we can establish an offer for your port or on FOB terms, subject to validation on our side.
+>
+> If not, no harm done — thank you for having thought of us.
+
+### B. Nepal Glass Udyog — **la réserve douanière indienne est levée, la cotation ne doit plus attendre**
+
+**Rappel de l'enjeu :** c'est le plus gros volume déclaré de la campagne — **10 à 15 conteneurs de
+float clair 12 mm par mois**, plus 2 conteneurs par autre épaisseur, **soit 25 à 30 conteneurs par
+mois** selon Amir Shrestha. Tu as répondu toi-même le 09/10 à 12h44 et lancé la cotation.
+
+**La fiche portait un blocage :** la restriction DGFT indienne du 18/08/2026 vise le float clair de
+**4 à 12 mm**, et le 12 mm est en plein dedans ; son effet sur le **transit** vers le Népal n'était
+pas tranché.
+
+**Vérifié le 11/10, et la mesure ne peut pas nous frapper — pour une raison de sens, pas de source.**
+Ce n'est **pas une interdiction à tout prix** : l'importation reste **« Free » dès lors que la valeur
+CIF atteint 34 000 roupies la tonne**, et ne devient « Restricted » qu'**en dessous**. C'est un
+**plancher**, pas un plafond. Le contexte le confirme : la presse indienne donne le float chinois à
+~25 000 roupies/t, et la mesure vise précisément ces importations à bas prix. **Du float européen est
+très au-dessus du seuil.** Et second motif qui va dans le même sens : une marchandise **en transit**
+n'est pas une marchandise **importée**, alors que la restriction est une politique d'importation.
+
+**La limite, que je dis plutôt que de la taire :** je n'ai lu ni le texte de la notification ni le
+traité de transit indo-népalais — aucune source ne traite du transit. C'est donc un **raisonnement
+solide, pas un fait vérifié.** À faire confirmer par un transitaire avant une offre ferme, mais ce
+n'est plus un blocage et **cela ne doit plus retarder la cotation.**
+
+**Et un repère de prix neuf pour le dossier de prix :** 34 000 roupies/t ≈ **383 $/t**, ce qui
+recoupe le prix de référence de 374 $/t déjà relevé ; et le float chinois à 25 000 roupies ≈
+**280 $/t**. **C'est le prix le plus bas documenté de toute la campagne** — et c'est à ce niveau-là
+que se juge une offre sur du float clair en Asie du Sud.
