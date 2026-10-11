@@ -1187,3 +1187,35 @@ n'est plus un blocage et **cela ne doit plus retarder la cotation.**
 recoupe le prix de référence de 374 $/t déjà relevé ; et le float chinois à 25 000 roupies ≈
 **280 $/t**. **C'est le prix le plus bas documenté de toute la campagne** — et c'est à ce niveau-là
 que se juge une offre sur du float clair en Asie du Sud.
+
+---
+
+## 22h05, dimanche 11/10 — Glassbel : une responsable des achats nommée, mais en Europe
+
+**FAITS.** Le 09/10 à 12h10, `v.pilipaviciene@glassbel.com` répond à un message de la campagne
+**déstockage** et met en copie **Laura Luote, Head of Procurement** — `l.luote@glassbel.com` — en
+indiquant qu'elle prendra contact si elle y voit un besoin, et en précisant qu'ils **achètent du
+verre**. Glassbel est un transformateur de verre plat de la Baltique.
+**Ce qui rend le contact rare :** c'est une **responsable des achats, nommée, avec sa fonction
+explicite**, donc exactement le cas que le §5 autorise à nommer — « nom utilisé uniquement si la
+fonction est vérifiée et pertinente (achats, import, direction) ». La campagne n'en compte que deux
+autres : Rhita Mansour chez Induver et Robersy Pairol Garcia chez Rapid Shower.
+
+**LE BLOCAGE.** Glassbel est **absente de `liste-prospects.csv`** (grep fait), et le §6 dit :
+« Europe : pas de nouvelle prospection ; les fiches européennes existantes se relancent. » Lui créer
+une fiche sur la campagne conteneur **serait** de la prospection européenne neuve. Je ne le fais pas
+de ma propre initiative.
+
+**OPTIONS.**
+1. **Ne rien faire.** Le contact reste dans le fil déstockage, et cette campagne le travaille si elle
+   le veut. Coût : une responsable des achats identifiée se perd pour la campagne conteneur.
+2. **Créer la fiche et la traiter sur la campagne conteneur**, au motif que ce n'est pas de la
+   prospection à froid mais l'exploitation d'une **réponse reçue** — §2 priorité 1. Risque : deux
+   campagnes écrivent à la même maison, ce qui est la faute Shibaam, et le §6 est contourné.
+3. **La laisser au déstockage et demander à cette campagne de poser la question du conteneur** dans
+   son propre fil. Un seul expéditeur, un seul fil, pas de doublon.
+
+**MA RECOMMANDATION : l'option 3.** Elle respecte le §6 sans perdre le contact, elle évite deux
+messages à la même maison, et elle est logique commercialement : si Laura Luote achète du verre, le
+déstockage et le conteneur sont deux réponses à la même question, et c'est l'interlocuteur déjà en fil
+qui doit la poser. **Décision à toi** : les deux campagnes ne se coordonnent pas depuis ici.

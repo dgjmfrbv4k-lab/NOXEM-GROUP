@@ -4359,3 +4359,55 @@ d'antidumping plus **19,75 à 113,34 %** de compensateur, alors que l'Europe n'e
   est un bureau en étage, pas un entrepôt. Et toutes les adresses viennent de tiers.
 **Courtier interdit remonté et non utilisé :** `prospeo`, nommé au §5.
 **Registre : 1067 → 1071 fiches. 16 envois programmés pour lundi**, contre un en début de soirée.
+
+## Dimanche 11/10, 22h05 — LECTURE DE LA BOÎTE (§2 priorité 1), et elle sort deux problèmes actifs
+
+Je passais la soirée sur la priorité **4** du §2 — chercher de nouveaux acheteurs. La priorité **1**
+est « traiter les réponses reçues ». Gmail étant revenu, je l'ai lue. **Lire n'est pas envoyer**, donc
+l'arrêt du §10 ne l'interdit pas, et je n'ai répondu à personne (§5, interdit absolu).
+
+**Expéditeur vérifié (consigne de Kevin, §10) : `aaron.harfi@noxem-group.com`. Conforme.**
+
+**PROBLÈME 1 — UNE AUTRE CAMPAGNE ENVOIE DEPUIS CETTE BOÎTE EN CE MOMENT MÊME, PENDANT MON ARRÊT.**
+Dernier message sorti du domaine : **22h02 Paris ce soir**, vers `sklenarstvipacov@hladilek.cz`, un
+vitrier tchèque. Ce n'est pas moi — **je n'ai fait aucun envoi de la journée.** C'est la campagne
+**déstockage** (objet « Flat glass stock clearance 8 230 m² »).
+**Pourquoi cela compte et n'est pas une remarque de forme :** le §10 établit que **le plafond Gmail et
+la réputation du domaine sont partagés**, et mon arrêt du §10 à 16h21 a été déclenché par un
+`554 5.7.1` venu de `vratakriz.cz` — **un serveur tchèque**, sur une vague de onze messages en
+quatre minutes de cette même campagne. **Elle continue sur le même pays ce soir, sur un domaine sans
+DMARC.** Je ne peux ni l'arrêter ni la mesurer depuis ici. **À remonter à Kevin : ce n'est pas ma
+campagne qui consomme la réputation, et c'est pourtant la mienne qui est arrêtée pour la protéger.**
+
+**PROBLÈME 2 — LE RÉPONDEUR AUTOMATIQUE FRANÇAIS EST TOUJOURS ACTIF, ET IL A TIRÉ SUR UNE RFQ.**
+La fiche PG Glass notait déjà qu'il s'était déclenché **cinq fois** le 09/10 et qu'Aaron devait le
+désactiver. **Relevé ce soir : il tire toujours sur chaque message entrant.** Et il a tiré :
+· sur la **RFQ d'Over Head Asia** — `bruno@overheadasia.com`, « RFQ: NGC950 - TEMPERED GLASS », 09/10
+  17h24 — à qui il a répondu en **français** avec un renvoi vers un numéro fixe ;
+· sur la **réponse d'Amir au Népal**, le plus gros volume déclaré de la campagne ;
+· sur les trois **STOP** reçus, auxquels il a accusé réception poliment.
+**À un acheteur brésilien qui envoie une demande de prix chiffrée, un accusé automatique en français
+donne l'image d'une maison qui ne lit pas ses messages.** C'est la deuxième fois que je le remonte.
+
+**TROIS STOP ET REFUS REÇUS LE 09/10 — vérifiés contre mon registre, et ils n'y sont PAS.**
+`info@stiklolakstas.lt` (**STOP**), `info@klaas24.ee` (**STOP**, Klaas24 Tallinn) et
+`info@cristaleriadiagonal.com` (**« No nos interesa »**). Les trois relèvent de la campagne
+déstockage et sont **absents de `liste-prospects.csv`** — grep fait sur les trois domaines. **Aucune
+exclusion à appliquer de mon côté**, et les trois sont en Europe où le §6 interdit déjà la prospection
+neuve. **Consigné pour qu'aucune session ne leur crée une fiche** : un STOP vaut pour le compte, pas
+pour une campagne, et leur écrire sur la mienne après cela coûterait plus que le silence.
+
+**UNE OPPORTUNITÉ CROISÉE QUI N'EST PAS À MOI DE TRANCHER — portée dans `DECISIONS-AARON.md`.**
+`v.pilipaviciene@glassbel.com` a répondu le 09/10 en mettant en copie **Laura Luote, Head of
+Procurement** (`l.luote@glassbel.com`), avec l'indication qu'ils **achètent du verre**. C'est une
+**responsable des achats nommée** chez un transformateur baltique, exactement le profil que le §5
+autorise à nommer. **Mais Glassbel est absente de mon registre et l'Europe est fermée à la
+prospection neuve par le §6** : lui créer une fiche serait de la prospection européenne. Ce n'est
+donc pas une décision opérationnelle, c'est un arbitrage.
+
+**CE QUE LA BOÎTE NE CHANGE PAS, et il faut le dire :** les deux dossiers chauds — **Népal** (Amir
+Shrestha, 25 à 30 conteneurs/mois, cotation 12 mm promise par Aaron « début de semaine prochaine »,
+donc **demain ou mardi**) et **PG Glass Namibie** (prix rendus confirmés par écrit le 09/10 sur ordre
+explicite de Kevin) — sont **déjà consignés et à jour** dans leurs fiches, plus complètement que ce
+que la boîte en montre. Aucune correction à faire. **La cotation népalaise est l'échéance la plus
+proche de la campagne.**
