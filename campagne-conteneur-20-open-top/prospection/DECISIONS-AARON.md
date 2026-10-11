@@ -1285,3 +1285,69 @@ format du 08/10.
 1. **La grille de prix** sur les cinq références, en 4 conteneurs 20 pieds open top CIF Port of Spain.
 2. **La confirmation de l'autoclave** pour le 3302×2261 feuilleté.
 3. **L'arbitrage sur la question 3+3 / 6+6** : la poser, ou chiffrer en annonçant l'hypothèse.
+
+
+---
+
+## 22h31, dimanche 11/10 — NÉPAL : les chiffres à verser au dossier de prix avant la cotation de lundi
+
+**Tu as annoncé à Amir Shrestha, le 09/10 à 12h44, une cotation sur le 12 mm clair pour « début de
+semaine prochaine ». C'est donc demain ou mardi, et c'est la plus grosse opportunité de la campagne :
+10 à 15 conteneurs par mois de 12 mm, plus 2 par autre épaisseur, soit 25 à 30 au total.**
+Je ne fixe pas le prix (§11). **Mais le §6 demande expressément de verser le repère indien de 374 $/t
+au dossier de prix, et personne ne l'avait converti. Voilà fait.**
+
+### 1. Ce qu'un conteneur de 12 mm contient réellement (règle du §4 : 1 m² de 1 mm = 2,5 kg)
+
+**12 mm = 30 kg/m² = 0,030 t/m².** Donc, à la charge utile du §4 :
+
+| Charge utile | m² par conteneur 20 pieds |
+|---|---|
+| 23 t | **767 m²** |
+| 25 t | **833 m²** |
+
+**Et son besoin annoncé se traduit donc en :**
+
+| Volume Amir | Par mois | Par an |
+|---|---|---|
+| **10 conteneurs** | 7 700 – 8 300 m² | **92 000 – 100 000 m²** |
+| **15 conteneurs** | 11 500 – 12 500 m² | **138 000 – 150 000 m²** |
+
+**C'est l'ordre de grandeur qu'il faut avoir en tête avant de poser un prix** : à 15 conteneurs par
+mois, on parle de **150 000 m² par an sur une seule épaisseur**. Le §3 impose de ne pas confondre un
+volume annoncé et un volume confirmé — c'est annoncé, pas confirmé — mais c'est le chiffre à vérifier
+autant qu'à servir, comme la fiche le disait déjà.
+
+### 2. Le plancher du marché régional, converti — et DEUX mesures indiennes indépendantes convergent
+
+Le §6 porte deux chiffres indiens sans jamais les rapprocher. **Ils disent la même chose.**
+
+| Source | Niveau en $/t | Équivalent **12 mm** |
+|---|---|---|
+| Antidumping float malaisien, **prix de référence 374 $/t** | 374 | **11,22 $/m²** |
+| **MIP DGFT** du 18/08/2026, **34 000 INR/t CIF** | ~378 à 400 selon le taux | **11,3 à 12,0 $/m²** |
+
+**Les deux convergent vers ~375-400 $/t, soit ~11 à 12 $/m² en 12 mm.** ⚠️ **Réserve à tenir : le taux
+de change n'est pas vérifié ici**, j'ai calculé entre 85 et 90 INR/USD — la conversion est donc un ordre
+de grandeur, pas un chiffre à citer.
+
+**Pourquoi cela compte pour TA cotation, et ce n'est pas une suggestion de prix :**
+· **Le Népal s'approvisionne par l'Inde.** Sa marchandise transite par Kolkata ou Haldia puis la route
+  par Birgunj, et son marché de référence est donc le marché **indien**, pas le marché mondial. Ces
+  deux mesures disent **à quel niveau l'Inde considère qu'il y a dumping** — autrement dit le plancher
+  en dessous duquel le float asiatique ne peut plus descendre légalement chez son voisin.
+· **Donc ce n'est pas un prix à égaler, c'est l'écart à connaître.** Amir demande « notre meilleur prix
+  pour voir si ça marche » : il a ce repère en tête, et une offre qui l'ignore se fait juger dessus.
+· **Et le poids est le vrai sujet du 12 mm.** À 30 kg/m², un conteneur part **plein en poids bien avant
+  d'être plein en volume** : 767 m² tiennent dans un 20 pieds, ce qui est peu de surface pour un
+  conteneur. Le fret par m² est donc **deux fois** celui du 6 mm, et le tronçon routier Kolkata–Birgunj
+  se paie à la tonne. **Sur du 12 mm vers un pays enclavé, la logistique pèse plus que la feuille** —
+  c'est le paramètre à regarder avant la marge.
+
+### 3. Ce qui reste strictement à toi
+1. **Le prix sur le 12 mm clair**, et le port CIF retenu (Kolkata, Haldia ou autre) — tu lui as
+   justement demandé son prix cible et son port.
+2. **Les autres épaisseurs**, 2 conteneurs chacune selon lui.
+3. **Et une question que je n'ai pas posée** : la fiche note que la réserve douanière indienne sur le
+   transit n'a **aucune source de premier rang**, seulement un raisonnement sur le sens de la mesure.
+   **Un transitaire la tranche en un appel**, et elle porte sur la totalité du volume.
