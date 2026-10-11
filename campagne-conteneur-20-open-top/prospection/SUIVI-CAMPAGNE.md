@@ -4858,3 +4858,31 @@ reclassification de masse à 22 h sur des fiches non relues est le geste qui a d
 ```bash
 awk -F';' 'NR>1 && $7=="" && $8=="" && $10=="A APPELER" {print NR": "$1" | "$4}' liste-prospects.csv
 ```
+
+
+**Complément à 22h42 — la réserve colombienne se lève, et le miroir redevient un angle solide.**
+Le §6 portait depuis le 08/10 une réserve précise : Espejos S.A.S. avait déposé une *revocatoria
+directa* contre la Résolution 284, tranchée par la **Résolution 123 du 19/03/2026**, et « je n'ai pas pu
+établir dans quel sens ». **Recherche approfondie faite, et deux signaux convergent :**
+· le **listing officiel du MinCIT** décrit la Résolution 123 comme résolvant la *revocatoria* contre la
+  Résolution 284 du 17/10/2025 — l'objet est confirmé ;
+· la **page MinCIT des *espejos sin enmarcar*** mentionne la Résolution 123 et son fragment indique que
+  la Direction du commerce extérieur a décidé de **rejeter** la demande ;
+· et **ce dossier figure sur la page des *derechos antidumping VIGENTES***.
+**L'incohérence apparente du site s'explique donc** : la mention « enquête en cours » renvoyait à la
+procédure de *revocatoria*, close par ce rejet.
+⚠️ **Réserve de méthode qui subsiste, et je ne la franchis pas : le TEXTE de la Résolution 123 n'a pas
+été lu** — le fragment était tronqué et le PDF du MinCIT n'est pas atteignable. **Présomption forte à
+deux signaux, pas une lecture.** Formulation prudente inscrite au §6 : dire que la mesure **figure parmi
+les droits en vigueur publiés par le MinCIT**, ce qui est vérifiable, et **non** que le recours a été
+rejeté, ce qui ne l'est pas encore.
+**Ce que cela vaut : 10 fiches colombiennes, toutes contactées, plusieurs en relance cette semaine, et
+notre miroir sans cuivre ni plomb affronte un miroir chinois dont le plancher est à 0,77 USD/kg, soit
+7,70 USD/m² en 4 mm contre 3,60 à son prix d'export constaté.** Cinq ans depuis octobre 2025.
+
+**Et les CINQ questions douanières du §6 sont désormais toutes travaillées ce soir** — Mexique (cadrage
+corrigé), États-Unis et Brésil (ordres de grandeur, Brésil nuancé), SACU et UE-SADC (avancée + le point
+EUR.1 qui conditionne tout), Pérou (tranché, marché faible), Colombie (réserve levée). **Aucune n'est
+closes sur source officielle, et c'est la même cause pour les cinq : USITC, Siscomex, DOF, TIGIE,
+Access2Markets et le PDF du MinCIT sont tous hors de la liste blanche.** C'est le quatrième argument de
+la soirée pour le réglage d'accès réseau.

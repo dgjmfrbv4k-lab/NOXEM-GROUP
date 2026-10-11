@@ -499,11 +499,28 @@ droits et l'Europe non, l'argument américain se transpose.
   inférieur. Cinq ans à compter de la publication au Diario Oficial 53.276, donc en principe
   jusque vers octobre 2030. Demandeur : Espejos S.A.S. **Marge de dumping constatée : 113,89 %**,
   le prix d'exportation chinois étant de 0,36 USD/kg contre une valeur normale de 0,77.
-  **RÉSERVE À DIRE : Espejos S.A.S. a déposé une revocatoria directa contre cette résolution, et
-  l'autorité l'a tranchée par la Résolution 123 du 19/03/2026 — je n'ai pas pu établir dans quel
-  sens.** Donc ne pas affirmer que la mesure est intacte sans vérification. Le site du MinCIT est
-  lui-même incohérent, la fiche du dossier portant « enquête en cours » alors que la mesure figure
-  dans la liste des droits en vigueur.
+  **RÉSERVE LEVÉE LE 11/10 À 22h42, ET DANS LE BON SENS — deux signaux convergents.** La
+  réserve disait : Espejos S.A.S. a déposé une *revocatoria directa* contre la Résolution 284, tranchée
+  par la **Résolution 123 du 19/03/2026**, sens inconnu. Recherche approfondie faite :
+  · **Le listing officiel du MinCIT décrit la Résolution 123 comme celle « par laquelle est résolue une
+    demande de *revocatoria directa* contre la Résolution 284 du 17/10/2025 »** — l'objet est donc
+    confirmé.
+  · **La page MinCIT des *espejos sin enmarcar* mentionne la Résolution 123 et son fragment indique que
+    la Direction du commerce extérieur a décidé de REJETER la demande** (« resolvió negar la
+    solicitud »).
+  · **Et ce dossier figure sur la page des *derechos antidumping VIGENTES*, les droits EN VIGUEUR.**
+  **Donc la mesure tient très probablement, et l'incohérence apparente du site s'explique :** la mention
+  « enquête en cours » renvoyait à la procédure de *revocatoria*, désormais close par ce rejet.
+  ⚠️ **Réserve de méthode qui subsiste : le TEXTE de la Résolution 123 n'a pas été lu**, le fragment
+  était tronqué et le PDF du MinCIT n'est pas atteignable depuis cette session. **C'est une présomption
+  forte à deux signaux, pas une lecture.** Formulation prudente obligatoire s'il faut l'employer : dire
+  que la mesure **figure parmi les droits en vigueur publiés par le MinCIT**, ce qui est vérifiable, et
+  non que le recours a été rejeté, ce qui ne l'est pas encore.
+  **CE QUE CELA VAUT POUR LA CAMPAGNE, et c'est net : le miroir colombien redevient un angle solide.**
+  10 fiches colombiennes, toutes déjà contactées, dont plusieurs en relance cette semaine — et notre
+  **miroir sans cuivre ni plomb** affronte un miroir chinois dont le prix plancher est fixé à
+  **0,77 USD/kg**, soit **7,70 USD/m² en 4 mm**, contre 3,60 à son prix d'export constaté. Cinq ans à
+  compter d'octobre 2025, donc jusque vers octobre 2030.
   **DEUXIÈME REPÈRE DE PRIX DE LA CAMPAGNE, et il est bien plus haut que celui de l'Inde :** le
   miroir chinois s'exportait à **0,36 USD/kg** et le plancher colombien est à **0,77 USD/kg**. À
   2,5 kg par m² et par mm, un miroir de 4 mm fait 10 kg/m², soit **3,60 USD/m² à l'export chinois
