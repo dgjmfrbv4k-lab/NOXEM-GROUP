@@ -4646,3 +4646,57 @@ démarcher). Répartition : 333 `RELANCE`, 265 `ENVOYE`, 6 `RELANCE DIFFEREE`, 5
   explicitement de conclure à l'échec sur ce motif. Ce qui est en revanche mesurable, c'est que
   **les 332 secondes relances de la semaine portent sur des sociétés déjà silencieuses deux fois** —
   d'où la décision prise à 21h25 de ne pas les tirer en cohorte.
+
+
+## Dimanche 11/10, 22h32 — AUDIT DE COHÉRENCE DU §12, et il sort une incohérence réelle
+
+Le §12 prescrit six contrôles en fin de journée, qui voient les incohérences **entre** lignes là où le
+garde-fou d'écriture ne voit que la forme d'une ligne. Passés sur 1 081 fiches.
+
+| Contrôle | 08/10 | **11/10** | Verdict |
+|---|---|---|---|
+| 1. statuts vides | 0 | **0** | ✓ |
+| 2. adresse mais statut appel | 21 | **19** | motifs documentés, voir ci-dessous |
+| 3. doublons d'adresse actifs | 1 | **0** | ✓ |
+| 4. même nom et même pays | 13 | **9** | **les 9 ont une fiche neutralisée, vérifié une par une** |
+| 5. ni adresse ni téléphone | 75 | **207** | ⚠️ **voir ci-dessous** |
+| 6. `A ENVOYER` à une date passée | 0 | **0** | ✓ seul `A ENVOYER 2026-10-12` existe |
+
+**CONTRÔLE 2 — les 19 sont toutes légitimes, et je les ai relues une par une.** Les **6 camerounaises**
+attendent Aaron (ambiguïté « mini-mail sur mesure » : impossible de savoir d'ici si le message est parti
+de l'ancienne boîte). **Al-Thiabi** est écartée volontairement — poseur-dépanneur qui achète chez les
+distributeurs locaux. **Adriatic Glass** a rebondi en `550 5.4.1 Access denied`, son Outlook refusant le
+courrier externe. **TAMISTEF, Eurowindow HCM, Texas Glass et Qaswa Glass** sont les quatre cas d'échec
+`4.4.1` du 11/10 — serveur muet, donc fiche téléphonique immédiate. **Alawadhi** est le cas du filtrage
+`5.7.1`. Aucune à récupérer.
+
+**CONTRÔLE 4 — les 9 paires sont saines, et le détail compte.** Chaque paire porte **une fiche active et
+une neutralisée en `NE PAS DEMARCHER`** : Glass Suppliers & Installers (Bahamas), Float Glass Centre et
+Gulam & Gulam (Inde), Keng Ying (Malaisie), Mirror King (Népal), Chain Glass (Philippines), Corporación
+Limatambo (Pérou), Mwenzo (Rwanda), Abdi Aluminium (Éthiopie). **C'est la convention du registre — on
+neutralise, on ne supprime pas** — et le contrôle les voit encore parce qu'il compte toutes les lignes.
+Passé de 13 à 9 paires, donc quatre ont été traitées depuis le 08/10.
+
+### ⚠️ CONTRÔLE 5 — IL A TRIPLÉ, ET IL FAUT DIRE POURQUOI PLUTÔT QUE DE LE CONSTATER
+
+**75 fiches injoignables le 08/10, 207 aujourd'hui.** Le registre est passé de 848 à 1 081 fiches dans
+le même temps, donc **une majorité des fiches créées depuis le 08/10 n'a aucun moyen de contact.** C'est
+le prix des balayages d'annuaires par pays : ils donnent des noms et des villes, pas des coordonnées.
+**182 n'ont même pas de site**, donc la méthode de déverrouillage du §13 ne peut rien pour elles.
+
+**ET IL Y A UNE VRAIE INCOHÉRENCE DEDANS : 44 fiches sont en `A APPELER` SANS AUCUN NUMÉRO.** Un statut
+« à appeler » sans téléphone ne veut rien dire — il gonfle le compte des appels à passer sans rien
+promettre, et c'est exactement ce que le §12 décrit quand il note que `LISTE-APPELS.md` n'en retient que
+121 sur 195. **Ces 44 relèvent de `A QUALIFIER`, pas de `A APPELER`.**
+
+**Je ne les reclasse pas ce soir, et c'est délibéré :** une reclassification de masse à 22 h 40, sur des
+fiches que je n'ai pas relues, est exactement le genre d'écriture qui a détruit le registre le 08/10.
+**À faire en début de session, fiche par fiche ou avec un contrôle de couverture explicite.** La
+commande qui les liste :
+```bash
+awk -F';' 'NR>1 && $7=="" && $8=="" && $10=="A APPELER" {print NR": "$1" | "$4}' liste-prospects.csv
+```
+**Et la leçon de fond, qui vaut au-delà du nettoyage : le nombre de fiches n'est pas une mesure de
+l'avancement.** 1 081 fiches dont 207 injoignables, c'est 874 fiches réelles. Le §5 le dit déjà pour les
+pays — « le seul chiffre utile est le nombre de fiches avec adresse et jamais contactées » — et cela
+vaut pour le registre entier.
