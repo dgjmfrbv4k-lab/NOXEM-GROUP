@@ -589,3 +589,189 @@ para ter utilidade.
   https://noxemgroup.com/en/copper-and-lead-free-mirror/
 (o site existe apenas em francês e inglês)
 ```
+
+
+---
+
+## 14. DM Vidros — `vendas@dmvidros.com.br` — bloc brésilien + ouverture propre
+
+**Objet :** `Espelho e float em contêiner - duas unidades, Campinas e Indaiatuba`
+⚠️ **Ne pas confondre avec DM Vidros e Esquadrias de São Paulo, autre société.** Et réserve de gamme :
+aucune source ne confirme une ligne de **trempe**, le mot *beneficiamento* couvrant aussi la découpe.
+
+```
+Escrevo porque vocês se apresentam como uma das maiores referências em beneficiamento e
+transformação de vidros e espelhos, com duas unidades, Campinas e Indaiatuba, e atendimento em todo
+o Brasil. Duas unidades e atendimento nacional significam estoque, e estoque significa lote.
+
+O espelho na linha de vocês é o que mais me interessa: é onde a chapa de base decide o resultado
+final, e não o acabamento.
+
+- espelho sem cobre e sem chumbo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- float incolor e extra clear: https://noxemgroup.com/en/float-glass/
+(o site existe apenas em francês e inglês)
+
+Uma pergunta: vocês têm forno de têmpera próprio, ou o beneficiamento é corte e acabamento? A
+resposta muda o que vale cotar.
+```
+
+---
+
+## 15. Vitrino Vidros — `comercial@vitrinovidros.com.br` — bloc brésilien + ouverture propre
+
+**Objet :** `Substrato para vidro de segurança - BR 280, a caminho de Itajaí`
+
+```
+Escrevo porque a atividade registrada de vocês é fabricação de vidro plano e de segurança, e porque
+Araquari fica na BR 280, a caminho do porto de Itajaí. As duas coisas juntas são o motivo: vidro de
+segurança quer dizer têmpera ou laminação, e quem está sobre a estrada do porto não paga o trecho
+rodoviário que pesa no interior.
+
+Vidro de segurança é também onde a chapa de base deixa de ser indiferente - o que entra no forno
+decide o que sai dele.
+
+- float incolor e extra clear, a base: https://noxemgroup.com/en/float-glass/
+- vidro temperado: https://noxemgroup.com/en/tempered-glass/
+(o site existe apenas em francês e inglês)
+```
+
+---
+
+## 16. ABC Temper — `vendas@abctemper.com.br` — bloc brésilien + ouverture propre
+
+**Objet :** `Volume e frequência, antes de qualquer proposta`
+⚠️ **Réserve de taille sérieuse :** le registre la porte **LTDA - ME**, microentreprise, catégorie
+plafonnée en chiffre d'affaires. **Le texte pose donc le volume en PREMIÈRE question et ne développe
+rien avant la réponse.** Si le volume ne suit pas, la fiche passe en `ECARTE — PETITE STRUCTURE` sans
+insister.
+
+```
+Escrevo por causa da atividade de vocês - beneficiamento e distribuição de vidros planos e
+acessórios para a construção civil, em São Bernardo do Campo, portanto dentro da zona industrial da
+Grande São Paulo e ao alcance de Santos.
+
+Mas vou direto ao ponto que decide, antes de falar de produto: em que volume e com que frequência
+vocês compram? Trabalhamos exclusivamente em contêineres completos. Se a compra de vocês tem outra
+escala, prefiro dizer isso agora do que ocupar o tempo de vocês com uma proposta que não serve - e
+agradeço a resposta de qualquer forma.
+
+Se o contêiner servir, é float incolor e extra clear que temos como base:
+https://noxemgroup.com/en/float-glass/
+(o site existe apenas em francês e inglês)
+```
+
+---
+
+## 17. Vitrage Technologie — `contact@vitrage-technologie.com` — FRANÇAIS
+
+**Objet :** `Constance de la matière d'entrée pour VEC et PDLC`
+⚠️ **Deux interdits marocains :** ne jamais écrire qu'il n'y a pas de production float dans la zone
+(Cevital produit en Algérie voisine, Sphinx Glass en Égypte), et **ne jamais présenter l'origine
+européenne comme une nouveauté au Maroc** — Saint-Gobain y a un agent exclusif depuis 1983.
+⚠️ **Et ne citer aucune date** : leurs pages se contredisent, 2003 et 2013.
+
+```
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de verre plat près de
+Lyon.
+
+Je vous écris à cause de trois lignes de votre catalogue en particulier : le feuilleté EVA et PVB,
+le verre structurel VEC de façade, et le PDLC.
+
+Ce sont les trois endroits où la matière d'entrée cesse d'être interchangeable. Un défaut de
+planéité ne se voit pas sur un vitrage de fenêtre ; il se lit sur un VEC posé en façade. Une
+irrégularité d'épaisseur ne gêne pas une découpe ; elle ruine un lot de PDLC entier, puisque le film
+est collé entre deux feuilles et qu'on ne le récupère pas. Et un autoclave ne corrige rien de ce
+qu'on y a mis.
+
+Je ne vous propose donc rien de nouveau sur le marché marocain - le verre européen y est distribué
+depuis longtemps. Je vous propose une seconde source pour une matière où la régularité se paie à
+l'atelier et non à l'achat.
+
+- float clair et extra-clair, la matière d'entrée : https://noxemgroup.com/en/float-glass/
+- vitrage technique, pour ce qui sort de l'ordinaire : https://noxemgroup.com/en/technical-glazing/
+
+Nos expéditions : conteneurs complets, caisses bois traitées NIMP-15, interfoliage papier. Jumbo ou
+à vos cotes.
+
+Nous pouvons établir une offre pour la livraison à votre port de destination, sous réserve de
+validation de notre côté.
+
+Quatre choses me permettraient de le faire : vos références et épaisseurs les plus consommées, vos
+cotes, votre volume annuel et votre fréquence d'achat, et votre port - Casablanca, sauf si vous
+utilisez Tanger Med.
+
+Et si votre approvisionnement est verrouillé et vous convient, dites-le simplement : je n'insiste
+pas.
+```
+
+---
+
+## 18. MetaGlass — `contact@metaglass.ma` — FRANÇAIS
+
+**Objet :** `Volume et fréquence, avant toute proposition`
+⚠️ **Second rang assumé** : biseautage, sablage, accessoires inox → clientèle d'agencement. **Le volume
+se pose avant d'argumenter**, mêmes interdits marocains que ci-dessus.
+
+```
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de verre plat près de
+Lyon.
+
+Votre métier correspond à ce que nous fournissons - trempé, double vitrage, biseautage, sablage,
+découpe sur mesure - mais je préfère poser d'abord la question qui décide du reste : à quel volume
+et à quelle fréquence achetez-vous ?
+
+Nous travaillons en conteneurs complets. Si votre approvisionnement se fait à la plaque chez un
+distributeur casablancais, dites-le moi et je vous le dirai franchement plutôt que de vous envoyer
+une offre inadaptée. Votre réponse m'est utile dans les deux cas.
+
+Si le conteneur a du sens, deux choses de notre gamme touchent directement la vôtre :
+
+- miroir sans cuivre ni plomb, puisque le biseautage et le sablage vous mènent au miroir :
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- float clair et extra-clair : https://noxemgroup.com/en/float-glass/
+
+Nous pouvons établir une offre pour la livraison à votre port de destination, sous réserve de
+validation de notre côté.
+```
+
+---
+
+## 19. Nazaki Group — `nazaki@nazaki.com` — ANGLAIS
+
+**Objet :** `Full containers of flat glass, landed at Malé`
+⚠️ Fiche programmée depuis le 11/10. **Les Maldives importent la totalité de leur verre** — il n'y a
+aucune production dans l'archipel, et c'est l'un des rares marchés où cet argument est vrai **et**
+utile, puisqu'aucun producteur régional ne dessert l'archipel par camion.
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to you because of something that is true of very few markets: every square metre of
+flat glass used in the Maldives arrives by sea. There is no local line and no overland alternative,
+so the question for a buyer there is never local or imported - it is which origin, and on what
+terms.
+
+That is the only reason I think this is worth your time.
+
+Two things in our range are likely to matter more to you than they would elsewhere:
+
+- copper-free and lead-free mirror, because of the climate. Mirror edge corrosion is a humidity
+  problem: moisture reaches the copper layer behind the silver and the dark spotting creeps in from
+  the perimeter. On an atoll that clock runs about as fast as it can:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- clear and extra-clear float, as the base:
+  https://noxemgroup.com/en/float-glass/
+
+How we ship: full containers, heat-treated ISPM-15 timber crates, paper interleaved. Jumbo sheets or
+cut to your sizes - and the crating matters on a route with transhipment, because that is where
+sheets are lost rather than at sea.
+
+We can put together an offer delivered to your port of destination, subject to validation on our
+side.
+
+Four things from you: references and thicknesses by volume, sheet sizes, annual volume and buying
+frequency, and whether you take delivery at Malé or elsewhere.
+
+And if you are supplied to your satisfaction, say so and I will not keep writing.
+```
