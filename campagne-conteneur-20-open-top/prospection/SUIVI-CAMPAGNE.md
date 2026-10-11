@@ -3818,3 +3818,79 @@ d'Amman. Aucun nouvel envoi sur l'une ni l'autre avant qu'un appel ait tranché.
 **La Jordanie est travaillée à fond** : la recherche du jour n'a retrouvé que des sociétés déjà
 contactées — Mansour, Technical, Aldar, Horizon, Elite, Lana, Aalam Albehar. C'est le constat
 ougandais du §5 : compter les fiches d'un pays induit en erreur.
+
+---
+
+### 11/10/2026 — 16h22 CEST · objectif 300 : résultat réel 8, et le blocage est mesuré
+
+**ENVOIS CONFIRMÉS AUJOURD'HUI : 8.** Objectif de 300 non atteint, et l'écart n'est pas une question
+d'effort : **la base d'adresses est épuisée.** Voici la mesure, puisque c'est elle qui décide.
+
+**1. Le vivier « qualifié, jamais sollicité » est à ZÉRO.** 52 fiches du registre ont une adresse
+sans envoi enregistré. **Les 52 sont exclues pour un motif documenté** : 18 en `ECARTE` ou
+`NE PAS DEMARCHER`, 8 dont l'adresse a rebondi ou dont le serveur ne répond pas, 4 en attente
+d'arbitrage d'Aaron, 6 camerounaises idem, 1 compte protégé, 1 réponse reçue (§5 interdit de répondre),
+et le reste volontairement non contacté — poseurs trop petits, fiches déclassées.
+
+**2. Zéro relance échue.** Tout a été écrit depuis le 05/10 ; la première cohorte ne rouvre que
+**demain**. Les 591 relances de la semaine sont réelles mais aucune n'était due aujourd'hui.
+
+**3. Donc le seul levier était l'adresse neuve, à ~23 % de rendement.** 38 recherches dépensées,
+**8 adresses utilisables**. Le reste du vivier est africain et insulaire, et ses coordonnées
+n'existent que dans des annuaires — ce que le §5 interdit d'utiliser.
+
+**4. Et le plafond Gmail n'était PAS la contrainte** : 24 envois sur le domaine en 24 h, dont 6 à moi
+quand j'ai compté. Loin de toute limite.
+
+**LES 8 ENVOIS, tous sur un fait vérifié de la société elle-même.**
+- **Al-Hadi Glass** (Koweït) — leur trempe est certifiée **EN 12150**, la norme européenne : leur four
+  est spécifié sur des conventions européennes, et le substrat qui l'alimente le plus prévisiblement
+  est fait aux mêmes conventions.
+- **Glass Specialized Industries** (Dammam) — vitrage isolant **à gradins** et feuilleté
+  **anti-souffle** : des problèmes de substrat avant d'être des problèmes de procédé. Dammam est un port.
+- **Skywall** (Doha) — **durcissement thermique** (bande de contrainte étroite) et portes coupe-feu
+  (le verre fait partie d'un ensemble testé, donc la régularité devient une question de conformité).
+- **ArcGlass** (Riyad) — 500 000 m²/an. Le message **ouvre sur ce qui joue contre nous** : Riyad est à
+  l'intérieur, et la route est où le verre casse.
+- **Al Najm** (Doha) — miroirs rétroéclairés à LED, où le boîtier piège l'humidité contre le chant.
+  Le message demande d'abord s'ils importent ou achètent localement, et dit que si c'est la seconde
+  réponse je m'arrête là.
+- **Delta Glass Egypt** — seul angle honnête en Égypte, qui a Sphinx, Misr et Saint-Gobain : la
+  **seconde origine**, sur le calendrier et non le prix.
+- **VIVAGLASS** (Bouskoura, Maroc) — **fiche créée aujourd'hui**, trouvée *par accident* dans une
+  recherche sur Sotraglace qui n'a rien donné. Elle **distribue aux professionnels du verre** en plus
+  de transformer : c'est le profil qui agrège la demande, donc le profil conteneur.
+- **Nalahiya Trading** (Maldives) — adresse de **département** verre et aluminium, pas la générale.
+  Angle le plus spécifique de la journée : aux Maldives, le sel et l'humidité permanente font piquer
+  un miroir argenté depuis le chant, villa par villa, et le conteneur n'est que la première étape —
+  le dhoni vers l'île est la seconde, ce pour quoi aucune caisse de cale n'est calée.
+
+**ARRÊT DES ENVOIS À FROID À 16h22, ET C'EST LA RÈGLE DU §10 QUI LE COMMANDE.** Un
+**`554 5.7.1 Delivery not authorized`** est tombé à 14h13 UTC depuis **`vratakriz.cz`**, un serveur
+qui ne nous avait jamais rejetés. La règle est explicite : *5.7.1 depuis un serveur nouveau → on
+finit la vague en cours et on s'arrête là pour la journée.* Le rebond concerne un envoi de **l'autre
+campagne**, mais la réputation du domaine est **partagée** : le signal porte sur nous tous.
+
+**ET IL FAUT DIRE CE QUE J'AI OBSERVÉ, parce que Kevin demande de coordonner le volume.** L'autre
+campagne a tiré **onze messages en quatre minutes** (14h07–14h11 UTC), puis d'autres à 14h12 et
+14h16, sur un domaine **neuf et sans DMARC**. C'est exactement la rafale que le §10 interdit, et elle
+a déjà produit trois rebonds en une heure dont ce 5.7.1. **Je ne contrôle pas cette campagne, mais
+mes dossiers ouverts en dépendent** — Nepal, Caribbean Glass, United Glass, Rubex sont sur cette
+boîte. À remonter à Aaron.
+
+**CE QUE LA JOURNÉE A AUSSI PRODUIT, et qui vaut plus que des envois.**
+- **Cinq envois fantômes déduits** : Texas Glass, Qaswa, Eurowindow, Axial, Tamistef n'ont jamais été
+  livrés — deux avis de *délai* puis un échec, trois jours après. **Un avis de délai n'est pas une
+  livraison**, et la fenêtre de confirmation est de **72 heures**.
+- **Quatrième signature de rebond** ajoutée au §13 : serveur muet, `4.4.1`. Sur les quatre
+  signatures, **une seule** justifie de chercher une autre boîte.
+- **Une affirmation fausse du §5 corrigée** : `eurowindowhcm.com` y figurait comme preuve qu'un
+  domaine sans MX accepte le courrier. Il a rebondi trois jours plus tard.
+- **Une faute consignée et un trou de règle bouché** : j'ai écrit à une fiche dont le doublon était
+  déjà relancé, faute d'avoir grepé le nom **d'où je partais**. Le contrôle est désormais automatisé,
+  et il a évité **quatre** autres doublons dans la journée — Aldar Glass, Glass Solutions, El Wifaq
+  Verre et les trois autres Delta.
+- **Trois marchés fermés par mesure** : Jordanie et Oman travaillés à fond, **Algérie déclassée en
+  marché téléphonique** sur trois sociétés sur trois sans domaine indexé.
+- **Un courtier de données repéré et bloqué** : `importers.africa-business.com`, qui vend des listes
+  de contacts d'importateurs — même nature que Volza, interdit au §5.
