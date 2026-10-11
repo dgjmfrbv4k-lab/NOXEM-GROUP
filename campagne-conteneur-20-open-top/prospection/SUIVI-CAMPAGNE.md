@@ -4316,3 +4316,46 @@ plat.** Une association professionnelle admet aussi ses **fournisseurs**.
 `PRIORITES-RECHERCHE.md` : **l'appartenance à ABRAVIDRO ouvre la fiche, elle ne la qualifie pas.**
 Registre inchangé à **1067 fiches**, intégrité vérifiée, liste d'appels régénérée.
 **13 envois programmés pour lundi** avec ABC Temper.
+
+**Lot de 22h02 — LES ÉTATS-UNIS, et la piste du dossier C-570-189 bat la recherche de catégorie.**
+Je n'ai pas fait de recherche de catégorie américaine : la leçon de la soirée est qu'elle retrouve
+surtout le registre, et les États-Unis en comptent déjà 43 fiches. J'ai travaillé les **importateurs
+nommés au dossier C-570-189** — la liste déposée le 21/11/2024 dans l'affaire de droits compensateurs
+sur le float chinois. **Tous absents du registre**, grep fait un par un sur le mot court.
+**Pourquoi cette source vaut mieux qu'une recherche de catégorie, et c'est la leçon du lot :** il est
+**établi au dossier** que ces sociétés importent du float. On ne suppose pas leur métier, on le lit
+dans une pièce judiciaire. Et leur origine d'approvisionnement vient d'être frappée à **181,52 %**
+d'antidumping plus **19,75 à 113,34 %** de compensateur, alors que l'Europe n'est visée par rien.
+**Trois déverrouillées sur quatre, et la première est le meilleur assortiment produit de la campagne.**
+· **MunnWorks** (Mount Vernon, NY), `openorders@munnworks.com` — fabricant de **miroirs décoratifs
+  encadrés et de miroirs LUMINEUX pour l'hôtellerie mondiale**. Le §8 destine le miroir sans cuivre ni
+  plomb mot pour mot aux *miroitiers, à l'hôtellerie, aux salles de bain et aux climats humides*, et un
+  miroir lumineux va dans une salle de bain d'hôtel. **L'argument se sert par le défaut évité** — le
+  piquage noir qui part du chant quand l'humidité atteint la couche de cuivre, et qui ramène les
+  miroirs sous garantie trois à cinq ans après. Pour qui équipe des chaînes hôtelières, un rappel sur
+  un étage entier coûte infiniment plus que l'écart de prix sur la feuille. **Réserve de rédaction
+  notée :** `openorders` est une boîte de **commandes entrantes**, donc la première ligne doit dire
+  sans ambiguïté qu'il s'agit d'une offre de **fourniture** et non d'une commande.
+· **310 Tempering** (Louisville, KY), `sales@310tempering.com` — **un trempeur est un consommateur
+  pur de float, il n'a aucune autre matière première.** Et sa gamme dit **verre épais** : douches heavy
+  glass, garde-corps, cloisons, **entrées tout-verre**, donc du 10 au 19 mm. **C'est là que l'argument
+  de la constance est le plus fort de la campagne** : plus la feuille est épaisse, plus le four est
+  long à équilibrer, et un défaut se traduit en distorsion optique visible sur une porte tout-verre ou
+  en casse en sortie de four sur une pièce déjà façonnée et percée — la feuille **plus** le façonnage
+  **plus** le délai de chantier. 11 à 50 salariés.
+· **Rapid Shower and Mirror Corp** (Medley/Hialeah, FL), `info@rapidshowersandmirrors.com` —
+  **tension à dire entre le métier et la source, et elle décide du rang :** les annuaires la décrivent
+  en **pose**, et la BBB la classe en rénovation de salle de bain, ce qui n'est pas un profil
+  conteneur. **Mais elle figure à la liste des importateurs du dossier**, preuve documentaire qu'elle
+  importe déjà. La contradiction se lève par la source la plus forte : **le dossier judiciaire bat
+  l'annuaire.** Dirigeant nommé et vérifié par le dépôt au registre de Floride — Robersy Pairol
+  Garcia, président — donc nommable au titre du §5. Détail utile : leur second numéro est annoncé
+  *pour les appels en anglais*, donc la maison travaille en espagnol.
+· **Glasscorp LLC** (West Palm Beach) → **aucun envoi, trois motifs qui s'additionnent.** Le domaine
+  n'est pas établi — trois domaines circulent et aucun n'est confirmé ; `glasscorplnt` est très
+  probablement une lecture fautive de `glasscorpint`, le L majuscule et le i se confondant dans la
+  police du PDF, **mais c'est une hypothèse et le §5 interdit d'envoyer sur une hypothèse
+  d'orthographe** — c'est le piège Al Ashoury. Fondée en **2023**, **1 à 10 salariés**, et son adresse
+  est un bureau en étage, pas un entrepôt. Et toutes les adresses viennent de tiers.
+**Courtier interdit remonté et non utilisé :** `prospeo`, nommé au §5.
+**Registre : 1067 → 1071 fiches. 16 envois programmés pour lundi**, contre un en début de soirée.
