@@ -4276,3 +4276,43 @@ avec ce groupe de l'Espírito Santo a aussi été écarté.
 créations. **Douze envois programmés pour lundi contre un en début de soirée**, et six des neuf fiches
 ABRAVIDRO restent à déverrouiller : ABC Temper, Abrasipa, Aluglass Vidros, Alusupra, Disk Vidros,
 Agroleite — cette dernière en dernier, son métier restant à établir.
+
+**Lot de 21h58 — les six dernières fiches ABRAVIDRO, et le vivier se révèle moins pur qu'annoncé.**
+Rendement : **1 déverrouillée sur 6**, loin des 3/3 du lot précédent. Et c'est instructif, pas décevant.
+· **ABC Temper** (São Bernardo do Campo), `vendas@abctemper.com.br` → **programmée au 12/10**.
+  *Beneficiamento* et distribution de verres plats, le bon métier. **Réserve de taille sérieuse :** le
+  registre la porte **LTDA - ME**, microentreprise, catégorie plafonnée en chiffre d'affaires — une
+  microentreprise n'achète pas au conteneur. Non fermée pour deux raisons : la classification date de
+  1998 et peut être périmée, et le métier est exactement le bon. **Le message pose donc le volume en
+  première question** et ne développe rien avant la réponse.
+· **Disk Vidros** (Francisco Beltrão, PR) → **téléphonique**, et c'est la **même décision qu'Amazon
+  Temper pour la même raison** : leur page de contact n'expose qu'un formulaire, et les trois adresses
+  qui circulent viennent toutes de tiers — Facebook et registres. La cohérence impose le même
+  traitement, indépendamment de la taille. Profil bon pourtant : trempé, feuilleté **et miroirs**.
+· **Aluglass Vidros** (Juiz de Fora) → **téléphonique et de rang faible** : aucun site, et un cadastre
+  la donne **établie le 12/12/2022**. Au moins **quatre** Aluglass au Brésil : toute recherche future
+  doit préciser la ville.
+· **Agroleite** (Ibirá) — **l'énigme du nom est résolue, et ce n'est pas du lait : c'est un patronyme.**
+  Fondée en 1987 par les **Irmãos Leite**. Agro + Leite. Ma précaution d'établir le métier avant d'y
+  dépenser quoi que ce soit était la bonne, et voici le résultat : **cabines et vitrages pour tracteurs**,
+  ISO 9001 et 14001, cabines ROPS, 51-200 salariés, capital 1,9 M R$. **Et elle reste une cible malgré
+  un produit final hors de notre gamme**, parce qu'elle annonce une outillerie propre avec découpe CNC,
+  sérigraphie et **des fours courbes ET plans** : un four de bombage se nourrit de **float brut**. Deux
+  réserves dites : le volume (un cabiniste achète en palettes, le §4 limite aux conteneurs complets),
+  et aucune adresse publiée — fiche téléphonique.
+
+**ET LE LOT CORRIGE CE QUE J'AVAIS AFFIRMÉ UNE HEURE PLUS TÔT, il faut le dire franchement.**
+En créant les neuf fiches de ce vivier, j'ai écrit que l'appartenance à ABRAVIDRO satisfaisait le test
+du §5 **par construction**, le verre plat étant dans l'objet de l'association. **C'est vrai pour la
+question plat contre creux, et c'est insuffisant : cela n'établit pas que le membre ACHÈTE du verre
+plat.** Une association professionnelle admet aussi ses **fournisseurs**.
+· **Abrasipa** est une **industrie d'abrasifs** — elle a une page « Soluções em Vidro » où elle vend des
+  abrasifs de **polissage**. Fournisseur du secteur, pas acheteur. **Fermée en `ECARTE — HORS PERIMETRE`.**
+· **Alusupra** est un **extrudeur de profils d'aluminium** qui vend aux *vidraçarias* : elle vend
+  l'aluminium à nos clients, et c'est le vitrier qui apporte le verre. **`A QUALIFIER`, aucun envoi
+  avant un appel** dont l'unique objet est de savoir si elle porte du verre au catalogue. C'est la
+  réserve Profesteel poussée d'un cran.
+**Deux sur six sont tombées sur ce motif.** La règle est inscrite dans la fiche Abrasipa et dans
+`PRIORITES-RECHERCHE.md` : **l'appartenance à ABRAVIDRO ouvre la fiche, elle ne la qualifie pas.**
+Registre inchangé à **1067 fiches**, intégrité vérifiée, liste d'appels régénérée.
+**13 envois programmés pour lundi** avec ABC Temper.

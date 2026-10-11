@@ -62,6 +62,18 @@ nombre de sociétés trouvées, c'est le nombre de sociétés absentes du regist
 · **ABRAVIDRO** = association des **distributeurs et transformateurs** de verre plat. **C'est notre
   clientèle, nommément listée.** Les deux noms ne diffèrent que de deux lettres.
 
+**⚠️ CORRECTION MESURÉE LE 11/10 À 22h00, SUR SIX FICHES DE CE VIVIER — l'appartenance à ABRAVIDRO
+OUVRE une fiche, elle ne la QUALIFIE pas.** J'avais écrit en créant ces fiches que le test du §5 était
+satisfait *par construction*, le verre **plat** étant dans l'objet de l'association. **C'est vrai pour
+la question plat contre creux, et c'est insuffisant : cela n'établit pas que le membre ACHÈTE du verre
+plat.** Une association professionnelle admet aussi ses **fournisseurs**.
+· **Abrasipa** est une **industrie d'abrasifs** : elle a bien une page « Soluções em Vidro », et elle y
+  vend des abrasifs de **polissage du verre**. Fournisseur du secteur, pas acheteur. Fermée.
+· **Alusupra** est un **extrudeur de profils d'aluminium** qui vend aux *vidraçarias* : elle vend
+  l'aluminium à nos clients, c'est le vitrier qui apporte le verre. En attente d'un appel.
+**Deux sur six sont tombées sur ce motif.** Donc le premier temps doit établir que la société
+**transforme ou distribue** du verre, et non qu'elle vend quelque chose **à** ceux qui le font.
+
 **Ce n'est pas un courtier de données** au sens du §5 : rien n'est vendu, c'est l'annuaire public
 d'un syndicat professionnel. Mais ses pages sont des pages de tiers, donc l'adresse qu'elles donnent
 ne satisfait pas la règle anti-rebond — **elles servent à obtenir le NOM et le DOMAINE**, et l'adresse
