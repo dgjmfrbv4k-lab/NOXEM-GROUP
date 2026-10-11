@@ -566,8 +566,23 @@ droits et l'Europe non, l'argument américain se transpose.
     float malaisien recommande un droit en forme de référence : l'écart entre la valeur en douane
     et un **prix de référence de 374 USD la tonne**. Autrement dit, l'Inde considère qu'en dessous
     de 374 $/t il y a dumping — donc **le marché indien se règle autour de ce niveau**.
-    À 2,5 kg par m² et par mm, cela fait environ **1,5 $/m² en 4 mm**. Aucun float européen ne
-    descend là. **L'Inde n'est pas notre marché, et ce n'est pas une impression : c'est un chiffre.**
+    **⚠️ CE CHIFFRE ÉTAIT FAUX ET IL EST CORRIGÉ LE 11/10 À 22h58. Le §6 écrivait « environ
+    1,5 $/m² en 4 mm » : c'est une ERREUR DE CALCUL d'un facteur 2,5.** Le calcul juste, celui que ce
+    même paragraphe applique correctement deux alinéas plus loin sur le miroir colombien : 374 $/t,
+    c'est 0,374 $/kg ; un 4 mm fait 10 kg/m² ; donc **3,74 $/m²**. Le 1,5 vient vraisemblablement d'une
+    division par 250 au lieu d'une multiplication par 10/1000.
+    **LA GRILLE JUSTE, à 2,5 kg par m² et par mm :** 4 mm → **3,74 $/m²** · 5 mm → 4,67 · 6 mm → 5,61 ·
+    10 mm → 9,35 · **12 mm → 11,22**.
+    **CE QUE LA CORRECTION CHANGE, ET IL FAUT LE DIRE PRÉCISÉMENT :** la conclusion « l'Inde n'est pas
+    notre marché » **tient**, mais elle était **surénoncée**. À 3,74 $/m² en 4 mm l'écart avec un float
+    européen est de l'ordre d'un facteur deux, pas d'un facteur quatre. **Donc : l'Inde reste
+    déclassée — il y a aussi la restriction DGFT et l'absence d'avantage douanier — mais la phrase
+    « ce n'est pas une impression, c'est un chiffre » ne peut pas s'appuyer sur CE chiffre-là.**
+    **ET LA PORTÉE DÉPASSE L'INDE, c'est pourquoi la correction compte :** ce 374 $/t est le repère de
+    prix le plus cité de la campagne, et il sert de base à la cotation népalaise — qui porte sur du
+    **12 mm**, soit **11,22 $/m²** et non 4,5. Une erreur de facteur 2,5 sur l'ancre d'un devis de 25 à
+    30 conteneurs par mois ne se rattrape pas. Les chiffres du dossier Népal portés dans
+    `DECISIONS-AARON.md` ce soir sont calculés justes.
   · Statut de l'antidumping chinois en Inde : **non confirmé**, les sources trouvées s'arrêtent à
     2021. Sans objet puisque le marché est hors de portée de toute façon.
   · **Et ce 374 $/t est le premier repère de prix concret de toute la campagne** : il dit à quel

@@ -1503,3 +1503,73 @@ Deux questions, et elles passent avant les six du tableau :
 Access2Markets, douane française et MinCIT — sont toutes hors de la liste blanche réseau de cette
 session.** C'est pourquoi aucune des six questions n'est closée sur source de premier rang, et c'est
 l'argument le plus concret pour le réglage d'accès réseau du §13.
+
+
+---
+---
+
+# 22h58, dimanche 11/10 — REPÈRES DE PRIX DE LA CAMPAGNE, consolidés et convertis
+
+**Pourquoi cette page :** l'entonnoir mesuré ce soir dit que le goulot n'est plus la prospection mais
+**la grille de prix** — les deux dossiers les plus avancés attendent un chiffre, pas une relance. Le §6
+demande expressément de verser les repères « au dossier de prix ». **Ils étaient éparpillés dans le
+mandat et jamais convertis en $/m². Voilà fait.**
+
+## ⚠️ ET D'ABORD UNE ERREUR DE CALCUL DU MANDAT, CORRIGÉE CE SOIR
+
+Le §6 écrivait que le repère indien de **374 $/t** fait « environ **1,50 $/m² en 4 mm** ».
+**C'est faux d'un facteur 2,5.** 374 $/t, c'est 0,374 $/kg ; un 4 mm fait 10 kg/m² ; donc **3,74 $/m²**.
+Le même paragraphe fait le calcul **correctement** deux alinéas plus loin sur le miroir colombien — c'est
+un lapsus arithmétique, pas une méthode.
+**Pourquoi cela compte au-delà de l'Inde :** ce 374 $/t est **l'ancre de la cotation népalaise**, qui
+porte sur du **12 mm**. À 1,50 on aurait chiffré sur 4,50 $/m² au lieu de **11,22**. **Sur 25 à 30
+conteneurs par mois, une erreur de facteur 2,5 sur l'ancre ne se rattrape pas.**
+
+## Tous les repères, convertis en $/m² (règle du §4 : 1 m² de 1 mm = 2,5 kg)
+
+| Repère | Source | 4 mm | 6 mm | 10 mm | **12 mm** |
+|---|---|---|---|---|---|
+| **Inde — prix de référence antidumping, 374 $/t** | revue du float malaisien | **3,74** | 5,61 | 9,35 | **11,22** |
+| **Inde — MIP DGFT, 34 000 INR/t** (~386 $/t à 88 INR/USD) | notification 29/2026-27 du 18/08/2026 | 3,86 | 5,80 | 9,66 | **11,59** |
+| **Mexique — AD Chine, 0,13739 $/kg** | DOF du 20/03/2026 | 1,37 | 2,06 | 3,43 | 4,12 |
+| **Mexique — AD Malaisie, 0,07359 $/kg** | DOF du 20/03/2026 | 0,74 | 1,10 | 1,84 | 2,21 |
+| **Colombie — MIROIR, export chinois constaté 0,36 $/kg** | Rés. 284 du 17/10/2025 | 3,60 | 5,40 | 9,00 | 10,80 |
+| **Colombie — MIROIR, plancher imposé 0,77 $/kg** | Rés. 284 | **7,70** | 11,55 | 19,25 | 23,10 |
+
+**Attention à ne pas confondre deux natures.** Les lignes **Inde** sont des **niveaux de marché** — le
+prix en dessous duquel une autorité considère qu'il y a dumping, donc approximativement le plancher du
+float asiatique. Les lignes **Mexique** sont des **montants de droit**, qui s'**ajoutent** au prix, pas
+des prix. Les lignes **Colombie** sont un prix d'export constaté et un plancher imposé, **sur le
+miroir**.
+
+## Ce que la grille dit, en trois lectures
+
+1. **Le float asiatique se pose autour de 3,70 à 3,90 $/m² en 4 mm**, et les deux mesures indiennes
+   convergent là indépendamment. C'est le seul plancher de marché documenté de la campagne.
+2. **LE MIROIR VAUT DEUX FOIS LE FLOAT NU, et c'est la lecture la plus utile.** Le plancher colombien
+   impose **7,70 $/m²** en 4 mm là où le float asiatique est à 3,74. **C'est cohérent avec le fait que
+   le miroir sans cuivre ni plomb est notre produit le plus différenciant** (§8), et cela dit **où un
+   prix européen a le plus de chances de tenir** — ce n'est pas le float nu.
+3. **Et l'épaisseur change tout le calcul logistique.** Un 20 pieds porte **2 300 à 2 500 m² en 4 mm**
+   mais seulement **767 à 833 m² en 12 mm**, et **484 à 526 m² en 19 mm**. **Le fret par m² triple entre
+   le 4 et le 12 mm.** Sur une destination enclavée comme le Népal, où s'ajoute un tronçon routier payé
+   à la tonne, **la logistique pèse plus que la feuille** — c'est le paramètre à regarder avant la marge.
+
+## Contenance d'un 20 pieds par épaisseur, pour chiffrer
+
+| Épaisseur | kg/m² | m² par conteneur (23 à 25 t) |
+|---|---|---|
+| 4 mm | 10,0 | **2 300 à 2 500** |
+| 5 mm | 12,5 | 1 840 à 2 000 |
+| 6 mm | 15,0 | 1 533 à 1 667 |
+| 8 mm | 20,0 | 1 150 à 1 250 |
+| 10 mm | 25,0 | 920 à 1 000 |
+| **12 mm** | 30,0 | **767 à 833** |
+| 15 mm | 37,5 | 613 à 667 |
+| 19 mm | 47,5 | 484 à 526 |
+
+**⚠️ Ce qui N'EST PAS dans cette page, et qui t'appartient (§11) : notre prix.** Aucun de ces chiffres
+n'est une suggestion. Ce sont des niveaux de marché et des montants de droit, publiés par des autorités
+douanières, convertis dans l'unité où nous vendons. **Et aucun ne doit figurer dans un message** : un
+acheteur qui importe connaît ses cours, et le §6 rappelle qu'une erreur sur ce terrain ruine le message
+entier.
