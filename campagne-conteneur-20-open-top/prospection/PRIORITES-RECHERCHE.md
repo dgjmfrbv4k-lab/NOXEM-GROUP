@@ -77,13 +77,31 @@ Les enclavés — Burkina, Mali, Niger — se travaillent **mieux par un distrib
 un port** que en direct, comme ALUTRACO à Cotonou l'a montré. Chercher les distributeurs, pas les
 poseurs de Ouagadougou.
 
-### 4. Algérie (13) — gros volumes, mais deux réserves
+### 4. ~~Algérie (13)~~ — **DÉCLASSÉE LE 11/10 : c'est un marché téléphonique, pas un marché de courrier**
 
-Vitre Khezzane à Annaba donne la mesure du marché : 900 m²/jour de double vitrage, et **Annaba est un
-port**. Les transformateurs algériens sont gros.
-**Mais :** l'Algérie a **Mediterranean Float Glass (Cevital)**, donc l'argument de l'absence de
-production locale y est faux ; et les conditions de règlement et autorisations d'importation relèvent
-du §11 et ne s'écrivent pas. Chercher, oui — mais les messages y seront plus difficiles à écrire.
+**Mesuré sur trois sociétés sur trois, le même jour, et c'est un constat de pays et non un accident :
+aucune société algérienne testée n'a de domaine propre indexé.**
+- **Technoglass** (Taher/Jijel) : aucun site. Son adresse ne vient que de Kompass et LinkedIn.
+- **Vitre Khezzane** (Annaba) : vieux Joomla avec du faux texte de gabarit, page de contact non indexée.
+  Deux adresses trouvées, **toutes deux d'annuaire**.
+- **Vitrosak** (Guidjel/Sétif) : les annuaires donnent `marketing@vitrosak.com`, **et la recherche
+  restreinte au domaine ne rend rien du tout.** J'ai failli envoyer là ; le second temps l'a évité.
+
+**Les trois sont des sociétés réelles**, avec des téléphones multiples et vérifiables, parfois une
+page Facebook active. Ce n'est pas un problème de qualification, c'est un problème de canal. Et le §5
+est sans ambiguïté : **un annuaire ne vaut pas une page de contact.**
+
+**Donc les 13 fiches algériennes du vivier B ne valent pas les 25 à 30 recherches que cette ligne leur
+réservait. Elles valent un créneau d'appel groupé** — Algérie à UTC+1, soit une heure derrière Paris,
+semaine du dimanche au jeudi.
+
+**Et le marché vaut l'appel, lui.** Vitre Khezzane annonce une ligne automatisée de double vitrage à
+**900 m²/jour** et **Annaba est un port** ; Technoglass est installée à **Taher, c'est-à-dire sur la
+zone du port de Djen Djen**, avec un second site de transit près d'Alger. Ce sont de gros acheteurs
+bien placés — joignables par téléphone.
+**Deux réserves pour les messages, quand un canal s'ouvrira :** l'Algérie a **Mediterranean Float
+Glass (Cevital)**, donc l'argument de l'absence de production locale y est faux ; et les conditions de
+règlement et autorisations d'importation relèvent du §11 et ne s'écrivent pas.
 
 ### 5. Ce qu'il ne faut PAS chercher, et c'est la moitié de l'intérêt de cette liste
 

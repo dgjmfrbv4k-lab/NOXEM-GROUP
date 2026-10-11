@@ -1,4 +1,4 @@
-# Plan d'envois — établi le 11/10/2026 à 16h10, pour la semaine du 12 au 16 octobre
+# Plan d'envois — établi le 11/10/2026 à 16h08, pour la semaine du 12 au 16 octobre
 
 **À relire avant d'ouvrir la boîte le matin.** Remplace la version précédente.
 
