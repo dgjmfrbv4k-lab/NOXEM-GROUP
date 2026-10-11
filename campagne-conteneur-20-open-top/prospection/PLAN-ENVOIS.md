@@ -1,19 +1,24 @@
-# Plan d'envois — refait le 11/10/2026 à 21h25, pour la semaine du 12 au 16 octobre
+# Plan d'envois — refait le 11/10/2026 à 21h25, complété à 21h36, pour la semaine du 12 au 16 octobre
 
 **À relire avant d'ouvrir la boîte le matin.** Remplace la version du 11/10 à 16h08, qui était
 juste sur les totaux mais **fausse sur le contenu de lundi** et muette sur la distinction ci-dessous.
 
-## D'abord : les quatre envois programmés de lundi
+## D'abord : les HUIT envois programmés de lundi
 
-Ce sont les seuls envois **neufs** prêts à partir. Adresses publiées par la société elle-même,
-règle anti-rebond du §5 satisfaite, angle déjà rédigé dans la fiche — il n'y a plus qu'à écrire.
+Ce sont les seuls envois **neufs** prêts à partir. Adresses publiées par la société elle-même, règle
+anti-rebond du §5 satisfaite, angle déjà rédigé dans la fiche — il n'y a plus qu'à écrire.
+**Deux vagues de quatre, espacées**, et New Glass **seule**, pour la raison dite dans sa ligne.
 
-| Société | Adresse | Pourquoi en premier |
-|---|---|---|
-| **Induver** (Casablanca) | `rhita@induvermaroc.ma` | **La meilleure du vivier marocain.** Leur page de contact publie un organigramme nominatif : Rhita Mansour, **Achats**. Fonction vérifiée *et* pertinente → le §5 autorise de la nommer. Seul contact de tout ce vivier où l'on écrit à l'acheteur. ⚠️ **lire la réserve AGC / Saint-Gobain dans la fiche avant d'écrire** |
-| **Vitrage Technologie** (Casablanca) | `contact@vitrage-technologie.com` | Feuilleté EVA-PVB, **VEC de façade**, PDLC. Trois transformations où un défaut d'entrée ne se rattrape pas → l'argument est la **constance**, pas le prix |
-| **Nazaki Group** (Maldives) | `nazaki@nazaki.com` | Programmée depuis le 11/10, angle déjà écrit |
-| **MetaGlass** (Casablanca) | `contact@metaglass.ma` | Second rang assumé : biseautage, sablage, accessoires inox → clientèle d'agencement. **Poser le volume avant d'argumenter** |
+| # | Société | Adresse | Pourquoi à ce rang |
+|---|---|---|---|
+| 1 | **Induver** (Casablanca) | `rhita@induvermaroc.ma` | **La meilleure du vivier marocain.** Leur page de contact publie un organigramme nominatif : Rhita Mansour, **Achats**. Fonction vérifiée *et* pertinente → le §5 autorise de la nommer. Seul contact où l'on écrit à l'acheteur. ⚠️ **lire la réserve AGC / Saint-Gobain dans la fiche** |
+| 2 | **Space Glass** (São Paulo) | `comercial@spaceglass.com.br` | **Le meilleur angle de la campagne :** ils vendent un miroir de **marque propre** sur la résistance à la corrosion et aux taches — c'est mot pour mot la promesse du miroir sans cuivre ni plomb. Extra clear en gamme. Distributrice **et** usine |
+| 3 | **Penha Vidros** (São Paulo) | `contato@penhavidros.com.br` | « Importadora » dans la raison sociale, 60 ans, membre ABRAVIDRO. ⚠️ gamme de transformateur-poseur : **poser le volume avant d'argumenter** |
+| 4 | **Vitrage Technologie** (Casablanca) | `contact@vitrage-technologie.com` | Feuilleté EVA-PVB, **VEC de façade**, PDLC. Trois transformations où un défaut d'entrée ne se rattrape pas → l'argument est la **constance**, pas le prix |
+| 5 | **Nazaki Group** (Maldives) | `nazaki@nazaki.com` | Programmée depuis le 11/10, angle déjà écrit |
+| 6 | **MetaGlass** (Casablanca) | `contact@metaglass.ma` | Second rang assumé : biseautage, sablage, accessoires inox → clientèle d'agencement. **Poser le volume d'abord** |
+| 7 | **New Glass** (Curitiba) | `marketing1@newglassind.com.br` | **ENVOI SEUL, JAMAIS DANS UNE VAGUE.** Plus grosse importatrice de verre du Brésil, 7 centres de distribution. Son autre adresse a rebondi le 09/10 en *domaine introuvable* — mais sur `newSglassind`, la **coquille** ; celle-ci est un domaine différent jamais testé. Domaine douteux et contrôle MX hors service : **si ça rebondit, c'est le 2ᵉ échec et la fiche part au téléphone** |
+| — | Atacado do Vidro (Recife) | — | **Pas prête.** Site sur un sous-domaine Webnode gratuit, aucune adresse. À ne pas travailler avant les cibles à domaine propre |
 
 ## Ensuite : les 21 relances de lundi
 

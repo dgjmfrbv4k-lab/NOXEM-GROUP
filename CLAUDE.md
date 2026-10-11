@@ -1032,6 +1032,20 @@ TZ=Europe/Paris date '+%H:%M %Z (%d/%m/%Y)'
   Ce n'est pas un detail de forme : la journee se termine a 19 h heure de Paris et les bilans ont
   une fenetre horaire. Une derive d'une demi-heure fait conclure trop tot.
 
+  **ET LA REGLE CI-DESSUS NE SUFFIT PAS — mesure du 11/10 au soir, ou je l'ai enfreinte TROIS FOIS en
+  l'appliquant.** J'ai horodate des notes a 21h25, 21h28, 21h30 et 21h40 alors que l'horloge disait
+  21h22, 21h23 et 21h32. A chaque fois **en avance**, a chaque fois corrige par `sed` dans la minute.
+  **J'avais pourtant lance `TZ=Europe/Paris date` dans le meme appel que l'ecriture, comme exige.**
+  **LA CAUSE N'EST DONC PAS L'OUBLI DE LA COMMANDE, C'EST D'ECRIRE UNE HEURE EN DUR** : le script etait
+  compose, heure litterale comprise, **avant** que la sortie de `date` ne soit lue. Lancer la commande a
+  cote d'une heure devinee ne corrige rien, cela donne seulement la preuve de l'ecart apres coup.
+  **Remede : ne jamais saisir l'heure a la main dans une note. La substituer depuis la commande.**
+```bash
+H=$(TZ=Europe/Paris date '+%Hh%M')          # puis utiliser "$H" dans le script
+```
+  Trois minutes d'avance ne changent rien a un dossier, mais c'est le meme geste qui a fait conclure
+  trop tot sur la fenetre de bilan le 08/10, et c'est un faux dans une note qui sert de preuve.
+
 - **DIAGNOSTIC CORRIGÉ LE 08/10 — ce n'est pas une panne, c'est une liste blanche DNS.**
   Mesuré : `github.com` résout normalement, mais `gmail.com`, `example.com` et
   `noxemgroup.com` renvoient tous « Name or service not known ». La résolution fonctionne,

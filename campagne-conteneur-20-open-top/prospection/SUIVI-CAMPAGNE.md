@@ -4057,3 +4057,110 @@ temps rend une meilleure cible que la fiche de départ.
    ils ne sont donc pas confirmés avant le 14/10.
 6. **L'arrêt d'envoi à froid tombe à minuit.** À rouvrir seulement si aucun nouveau `5.7.1` n'arrive,
    et en vagues de 5 espacées.
+
+---
+
+## Dimanche 11/10/2026, 21h30 – 21h36 — second lot du soir : le gisement de déverrouillage est épuisé, et ce que ça change
+
+**Mesure qui commande la suite de la campagne, et elle est nette.** Le §13 annonçait le 08/10, sur le
+gisement des fiches avec site et sans adresse, « de l'ordre de **70 adresses encore à prendre** ».
+Relevé ce soir : **95 fiches concernées, dont 91 déjà marquées `TESTEE` ou `DEVERROUILLEE`.** Il en
+reste **six**, et chacune a un motif documenté de ne pas y retourner — deux signatures Vitrolux
+irrécupérables, une fiche PG en attente d'Aaron, deux marchés déclassés, et un seul essai restant
+sur Conciera. **Le déverrouillage est terminé.** `PRIORITES-RECHERCHE.md` est réécrit en entier :
+sa prémisse était fausse et le fichier devenait trompeur.
+
+**DONC LE SEUL LEVIER QUI RESTE POUR DES CONTACTS NEUFS EST LA RECHERCHE DE CATÉGORIE**, et c'est
+mesuré et non supposé : quatre fiches marocaines travaillées une par une ont rendu **zéro** adresse,
+deux recherches de catégorie ont rendu **trois** sociétés neuves prêtes à l'envoi. Appliqué aussitôt
+aux deux marchés les plus favorables vérifiés de la campagne, les États-Unis et le Brésil.
+
+**ET LE RÉSULTAT CORRIGE MON PROPRE ENTHOUSIASME — c'est la leçon Ouganda du §5.** Sur les huit
+sociétés rendues, **cinq étaient déjà au registre et quatre déjà contactées** : New Glass, NSA
+Vidros, Mundial Vidros, American Pro Glass et GGI General Glass International. Le registre est
+beaucoup plus dense que je ne le supposais sur ces deux pays. **Le chiffre utile n'est pas le nombre
+de sociétés trouvées, c'est le nombre de sociétés absentes du registre** — ici trois, pas huit.
+C'est le grep qui l'a dit, en une seconde, avant toute recherche d'adresse.
+
+**TROIS FICHES BRÉSILIENNES CRÉÉES, ET UNE RESSUSCITÉE.**
+· **Space Glass** (São Paulo), `comercial@spaceglass.com.br` — **le meilleur angle de toute la
+  campagne, et il est tombé par hasard.** Ils vendent un miroir de **marque propre** annoncé
+  « résistant à la corrosion et à la formation de taches ». C'est **mot pour mot** la promesse du
+  miroir sans cuivre ni plomb, et le défaut évité est précisément le piquage qui part du chant quand
+  l'humidité atteint la couche de cuivre. Une maison qui a mis son **nom** sur cette promesse a un
+  intérêt direct à une base qui la tient. Extra clear aussi en gamme — une qualité de float, donc un
+  achat d'origine. Distributrice **et** usine, deux sites. Réserve notée : l'adresse vient de leur
+  **politique de confidentialité**, pas d'une page de contact — du texte affiché, donc meilleur que
+  le cas Conciera, mais inhabituel et consigné comme tel.
+· **Penha Vidros** (São Paulo), `contato@penhavidros.com.br` — identité résolue au passage :
+  « Penha Importadora & Distribuidora Vidros Ltda » au registre du commerce et « Penha Vidros » en
+  façade sont la même maison, motif du nom long et du nom court du §5. 60 ans de marché. Réserve
+  honnête : la gamme annoncée — douche, garde-corps, façades, films — est celle d'un
+  **transformateur-poseur** plus que d'un importateur de volume, malgré le mot *Importadora*. Poser
+  le volume avant d'argumenter.
+· **Atacado do Vidro** (Recife) — créée **uniquement pour ne pas perdre la piste**, et pas prête :
+  son site est sur un sous-domaine **Webnode gratuit**, et une société qui achète au conteneur a un
+  domaine à elle. Intérêt géographique réel cependant, Recife est un port du Nordeste et le Brésil
+  n'est couvert au registre que par le Sud et le Sudeste.
+· **New Glass** (Curitiba) **RESSUSCITÉE, et le raisonnement vaut d'être écrit parce qu'il contredit
+  la règle en apparence.** C'est la plus grosse importatrice de verre du Brésil, sept centres de
+  distribution, et son adresse avait rebondi le 09/10 en *domaine introuvable* — signature classée
+  irrécupérable. **Mais le rebond portait sur `newSglassind.com.br`, et la recherche d'aujourd'hui
+  conclut que `newS` est la COQUILLE.** Un domaine qui n'existe pas parce qu'il est mal orthographié
+  rend évidemment « domaine introuvable ». `newglassind.com.br`, sans le S, est un domaine
+  **différent, jamais testé**, et le rebond du premier ne dit rien de lui. **Un seul échec, pas deux**
+  — et la fiche prescrivait elle-même cet essai le 08/10, mot pour mot. Programmée, **à envoyer
+  seule** puisque le domaine est douteux et le contrôle MX hors service. Si elle rebondit, c'est le
+  deuxième échec et la fiche part définitivement au téléphone. **Piège d'homonymie relevé au
+  passage :** `newglass.com.br` est une autre société, de São Paulo, qui fabrique des verres de
+  **montres et de masques de plongée**. Ne jamais écrire là.
+
+**UNE DISTINCTION QUE J'AI FAILLI RATER, ET ELLE AURAIT FAIT PRENDRE UN CLIENT POUR UN ADVERSAIRE.**
+**ABRAVIDRO n'est pas ABIVIDRO.** ABIVIDRO est l'association des **industries** du verre, donc des
+**producteurs**, et c'est elle qui demande les droits antidumping brésiliens cités au §6. **ABRAVIDRO
+est l'association des distributeurs et transformateurs de verre plat — c'est notre clientèle.** Les
+deux noms ne diffèrent que de deux lettres. Penha Vidros en est membre, et c'est sa page membre qui a
+révélé la distinction.
+**Et c'est accessoirement la meilleure piste brésilienne ouverte :** `abravidro.org.br` publie
+l'annuaire de ses membres avec une page par société. Ce n'est **pas** un courtier de données au sens
+du §5 — rien n'y est vendu, c'est l'annuaire public d'un syndicat — mais ses pages sont des pages de
+tiers, donc elles servent à obtenir le **nom et le domaine**, l'adresse se prenant ensuite sur le site
+de la société. C'est le premier temps de la méthode, déjà fait pour nous.
+
+**LA PISTE LA PLUS VALABLE DE LA SOIRÉE EST UN DOCUMENT QUE JE NE PEUX PAS LIRE, ET IL FAUT LE DIRE
+AINSI.** Une **liste d'importateurs américains de float** déposée le **21/11/2024** au dossier
+**C-570-189** — l'affaire de droits compensateurs sur le float chinois — est publiée par un cabinet
+d'avocats. Noms déjà lus : **Rapid Shower and Mirror Corp** (Medley, FL), **MunnWorks** (Mount
+Vernon, NY), **Glasscorp** (West Palm Beach, FL), **WHTB Glass**, **310 Tempering**, **All Kind Glass
+Shower Doors**. **Les quatre premiers sont absents du registre**, grep fait.
+**Pourquoi c'est la meilleure liste de prospects de la campagne, et ce n'est pas une opinion :** ce
+sont des sociétés dont il est **établi au dossier** qu'elles importent du float, et dont l'origine
+d'approvisionnement a été frappée le 06/04/2026 à **181,52 %** en antidumping plus **19,75 à
+113,34 %** en compensateur. L'Europe n'est visée par aucun de ces droits, et c'est **l'importateur
+américain qui paie**. Leur chaîne d'achat est cassée en ce moment même.
+**Ce n'est pas un courtier de données** : c'est une pièce de procédure publique, pas un relevé
+douanier vendu, et le §5 vise les services qui **vendent** des relevés ou des contacts.
+**LA LIMITE EST TECHNIQUE ET BLOQUANTE : c'est un PDF, et aucun des trois chemins — `curl`,
+`WebFetch`, DNS direct — n'atteint un fichier hors liste blanche.** Je n'ai donc que les noms que la
+recherche a cités, **pas les colonnes adresse, téléphone et e-mail que le document contient**.
+**→ C'est l'argument le plus concret à verser à la demande du réglage « Network access »** : un
+document public et nominatif qui liste précisément notre cible sur notre meilleur marché, à deux
+clics d'un navigateur ordinaire. Réserve : dépôt de novembre 2024, coordonnées à revérifier une par
+une.
+
+**Une exclusion honnête, pour mémoire :** **Glass Enterprises** (Pennsylvanie) est écartée sans fiche
+— leur propre site dit que leur float vient **uniquement de fabricants domestiques**. Ce n'est pas un
+importateur et aucun argument d'origine ne porte sur eux.
+
+**Registre : 1052 → 1055 fiches.** Intégrité à 10 champs vérifiée, `verif-argument-float.py` à 0
+fiche, `detecte-doublons.py` réduit au seul groupe PG Glass, connu et légitime.
+**Lundi compte donc 8 envois programmés, et non 1.** `PLAN-ENVOIS.md` est à jour avec l'ordre, les
+deux vagues de quatre, et New Glass isolée.
+
+**UNE FAUTE DE MÉTHODE À MOI, RÉPÉTÉE TROIS FOIS CE SOIR, ET LA CAUSE EXACTE.** J'ai horodaté des
+notes à 21h25, 21h28, 21h30 et 21h40 alors que l'horloge disait 21h22, 21h23 et 21h32 — à chaque fois
+**en avance**, et corrigé par `sed` dans la minute. Le §13 impose de lancer `TZ=Europe/Paris date`
+dans le même appel que l'écriture : **je l'ai fait, et ça n'a pas suffi**, parce que j'avais déjà
+composé l'heure littérale dans le script avant de lire la sortie de la commande. **La cause n'est pas
+l'oubli de la commande, c'est d'écrire une heure en dur.** Le remède est de substituer l'heure depuis
+la commande au lieu de la saisir.

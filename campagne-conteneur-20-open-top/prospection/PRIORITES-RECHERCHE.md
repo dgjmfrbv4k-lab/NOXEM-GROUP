@@ -1,164 +1,110 @@
-# Priorités de recherche — où dépenser les 200 appels du prochain tour
+# Où dépenser les appels de recherche — refait le 11/10/2026 à 21h35
 
-Refait le **09/10/2026 à 18h55**, après une journée entière de déverrouillage. **Remplace la version
-du 08/10**, dont le gisement — les 26 fiches en rebond avec un domaine propre — est travaillé.
+**Remplace entièrement la version du 08/10.** Sa prémisse était « les 26 fiches en rebond avec un
+domaine propre, jamais retestées, c'est le meilleur gisement établi ». **Ce gisement est épuisé** et
+le fichier devenait trompeur.
 
-## La conclusion d'abord, parce qu'elle est contre-intuitive
+## LE FAIT QUI COMMANDE TOUT LE RESTE : LE DÉVERROUILLAGE EST TERMINÉ
 
-**Le meilleur emploi du prochain tour n'est pas la recherche. C'est le téléphone.** Les chiffres le
-disent sans ambiguïté.
-
-| Vivier | Fiches | Coût en recherches | Rendement mesuré |
-|---|---|---|---|
-| **A** — site connu, pas d'adresse, jamais testée | **0** | — | épuisé |
-| **B** — ni site ni adresse, jamais testée | **249** | 2-3 par fiche | inconnu, probablement < A |
-| **C** — **téléphone déjà au registre** | **123** | **zéro** | — |
-| **D** — testée et résistante | 94 | — | ne plus chercher |
-
-**Le vivier A est à ZÉRO**, et la façon dont il s'est vidé mérite une phrase, parce qu'elle vaut pour
-la suite. Le filtre en comptait encore **8** à 19h. **Aucune des huit ne méritait une recherche** :
-chacune était exclue par une règle déjà inscrite au mandat, et elles ne survivaient au filtre que
-parce que **leur note ne portait pas le mot-marqueur** qui les en sort. IM COMP relève de l'interdit
-de prospection européenne *et* de l'autre campagne ; Miroiterie des Antilles attend un appel
-d'identité et trouver son adresse serait trouver le moyen de commettre la faute Shibaam ; Float Glass
-Centre est un réexportateur indien qui achète à 374 $/t et revend sur nos marchés ; PT Matahari et
-Arturaya sont des cas « adresse morte publiée » et « domaine sans MX » que le §13 déclare
-irrécupérables ; NIT Group est la troisième fiche d'Erbil sur trois à être téléphonique ; Tometal est
-dans la zone Sapphire et son activité ne relève d'aucune des quatre exceptions ; Glass Network est en
-Malaisie, face à Kibing, Xinyi et NSG.
-
-**La leçon d'outillage : un filtre qui compte 8 peut valoir 0.** Un vivier ne se mesure pas au nombre
-de lignes qui passent le filtre mais au nombre de lignes qui passent **les règles**. Les huit notes
-portent maintenant leur motif, donc elles ne reviendront plus coûter cet examen.
-
-**Et son rendement de bout en bout s'est effondré, mesuré aujourd'hui :** la méthode trouve une
-adresse dans **22 %** des cas sur ce résidu, contre 55 % sur le gisement facile du matin ; et sur ces
-adresses, **29 % rebondissent en dur**. Produit : **environ 16 % d'envois confirmés par fiche
-travaillée.** À deux recherches par fiche, les 200 appels du tour couvrent 75 à 100 fiches et
-rapporteraient **de l'ordre de 12 à 16 envois**. C'est peu pour un tour entier.
-
-**Les 123 fiches du vivier C coûtent zéro recherche et mènent toutes à quelqu'un.** C'est là qu'il
-faut aller d'abord. `APPELS-PRIORITAIRES.md` en extrait les seize qui valent le temps d'Aaron.
-
-## Si on dépense quand même des recherches, voici l'ordre, et pourquoi
-
-Le vivier B exige la **méthode en deux temps** du §13 : recherche large sur le nom, annuaires et
-courtiers de données bloqués, pour faire remonter le domaine propre ; puis recherche restreinte à ce
-domaine pour l'adresse. Deux à trois appels par fiche. Donc le tri décide ce qui rentre.
-
-### 1. Les îles — à faire en premier, et pour une raison de fond
-
-**Seychelles (4) · Cap-Vert (5)** — neuf fiches, et c'est le seul endroit du registre où l'argument
-le plus employé de la campagne est **vrai et vérifié**. Le §6 est explicite : quand j'avais étendu le
-déclassement de Sapphire à Maurice et aux Seychelles, c'était une erreur corrigée dans le
-quart d'heure — **elles ne figurent pas dans les marchés d'export documentés de Sapphire**, elles
-importent tout leur verre, et rien n'établit qu'un producteur régional les desserve.
-Ailleurs cet argument est à vérifier ou franchement faux. Ici il tient. Neuf fiches à fort taux de
-conversion attendu, pour environ 20 à 25 recherches.
-
-### 2. Maroc (17) — le plus gros vivier, et le mieux placé logistiquement
-
-**Tanger Med** est l'argument. Alumgo l'a montré aujourd'hui : un transformateur installé sur la zone
-du port reçoit un conteneur **sans trajet terrestre**, ce qui est le seul avantage logistique franc
-qu'on puisse offrir sans parler de prix. Chercher en priorité les fiches de Tanger et de Casablanca.
-**Réserve apprise aujourd'hui :** le Maroc est plein de dépanneurs-poseurs 24h/7j qui commandent sur
-photo — Vitrerie & Miroiterie Casablanca a été fermée pour cela. **Lire le modèle économique avant
-de chercher l'adresse**, pas après.
-
-### 3. Afrique de l'Ouest — Nigéria (14) · Togo (9) · Gabon (8) · Côte d'Ivoire (6) · Burkina (6)
-
-**43 fiches, et la fenêtre se referme** : l'usine KEDA de Shama au Ghana annonce 600 t/jour en phase 1
-et 1 400 à terme, à 20 km du port de Takoradi, avec un mandat d'export explicite. Son calendrier est
-**incertain d'un an** — août 2026 selon le président, « environ dix-huit mois » selon un autre compte
-rendu — donc ce n'est pas une date exploitable, mais c'est une raison d'y aller maintenant.
-Le Nigéria d'abord : Lagos a les plus gros transformateurs, et deux bonnes fiches y attendent déjà un
-numéro (GlassFusion et FITglass, dont les boîtes sont saturées).
-Les enclavés — Burkina, Mali, Niger — se travaillent **mieux par un distributeur régional installé sur
-un port** que en direct, comme ALUTRACO à Cotonou l'a montré. Chercher les distributeurs, pas les
-poseurs de Ouagadougou.
-
-### 4. ~~Algérie (13)~~ — **DÉCLASSÉE LE 11/10 : c'est un marché téléphonique, pas un marché de courrier**
-
-**Mesuré sur trois sociétés sur trois, le même jour, et c'est un constat de pays et non un accident :
-aucune société algérienne testée n'a de domaine propre indexé.**
-- **Technoglass** (Taher/Jijel) : aucun site. Son adresse ne vient que de Kompass et LinkedIn.
-- **Vitre Khezzane** (Annaba) : vieux Joomla avec du faux texte de gabarit, page de contact non indexée.
-  Deux adresses trouvées, **toutes deux d'annuaire**.
-- **Vitrosak** (Guidjel/Sétif) : les annuaires donnent `marketing@vitrosak.com`, **et la recherche
-  restreinte au domaine ne rend rien du tout.** J'ai failli envoyer là ; le second temps l'a évité.
-
-**Les trois sont des sociétés réelles**, avec des téléphones multiples et vérifiables, parfois une
-page Facebook active. Ce n'est pas un problème de qualification, c'est un problème de canal. Et le §5
-est sans ambiguïté : **un annuaire ne vaut pas une page de contact.**
-
-**Donc les 13 fiches algériennes du vivier B ne valent pas les 25 à 30 recherches que cette ligne leur
-réservait. Elles valent un créneau d'appel groupé** — Algérie à UTC+1, soit une heure derrière Paris,
-semaine du dimanche au jeudi.
-
-**Et le marché vaut l'appel, lui.** Vitre Khezzane annonce une ligne automatisée de double vitrage à
-**900 m²/jour** et **Annaba est un port** ; Technoglass est installée à **Taher, c'est-à-dire sur la
-zone du port de Djen Djen**, avec un second site de transit près d'Alger. Ce sont de gros acheteurs
-bien placés — joignables par téléphone.
-**Deux réserves pour les messages, quand un canal s'ouvrira :** l'Algérie a **Mediterranean Float
-Glass (Cevital)**, donc l'argument de l'absence de production locale y est faux ; et les conditions de
-règlement et autorisations d'importation relèvent du §11 et ne s'écrivent pas.
-
-### 5. Ce qu'il ne faut PAS chercher, et c'est la moitié de l'intérêt de cette liste
-
-- **Égypte (11 fiches) — à déprioriser franchement.** C'est le marché le mieux pourvu de la zone après
-  l'Arabie saoudite : **Sphinx Glass**, **Misr Glass Manufacturing** et **Saint-Gobain Egypt**. Dr
-  Greiche a montré aujourd'hui ce que ça impose — un angle si étroit qu'il a fallu ouvrir le message
-  en disant ce qu'on **ne** propose pas. Onze fiches pour cet angle-là ne valent pas 25 recherches.
-- **Ghana (14 fiches) — à déprioriser pour la même raison, en pire.** C'est là que KEDA construit. On
-  ne peut plus y écrire qu'il n'y a pas de production locale sans avoir vérifié l'état de l'usine.
-- **Cameroun (9)** — six fiches y attendent un arbitrage d'Aaron. Ne rien y dépenser avant.
-- **Afrique de l'Est — Kenya, Ouganda, Madagascar, Rwanda, Mozambique, Zambie, Malawi, RDC.**
-  Sapphire Float Glass produit à Mkuranga et **exporte déjà** vers ces marchés. Le §6 l'interdit, sauf
-  sur ce que Sapphire ne fait pas : low-E, miroir sans cuivre ni plomb, vitrage technique, grands
-  formats. **Attention à ne pas étendre ce déclassement par géographie** : l'Éthiopie (4 fiches) et le
-  Soudan du Sud n'y figurent pas et restent ouverts.
-- **Inde (16 fiches)** — le marché se règle autour de **374 $/t**, soit ~1,50 $/m² en 4 mm. Aucun float
-  européen ne descend là. Ce n'est pas une impression, c'est un chiffre.
-- **Les 86 fiches du vivier D**, déjà testées et résistantes. Leur note porte `TESTEE` ou
-  `DEVERROUILLEE` précisément pour les exclure du filtre.
-
-## Les filtres, à relancer plutôt qu'à recopier
+Mesuré au registre ce soir, et c'est net :
 
 ```bash
-# Vivier A — reste 8 fiches : site connu, pas d'adresse, jamais testee
-awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $9 !~ /TESTEE|DEVERROUILLEE/ && $6!="" \
-  {print $1" | "$4" | "$6}' liste-prospects.csv
-
-# Vivier B — 249 fiches : methode en deux temps necessaire. Trier par pays selon l ordre ci-dessus.
-awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $6=="" && $9 !~ /TESTEE|DEVERROUILLEE/ \
-  {print $1" | "$4" | "$5}' liste-prospects.csv
-
-# Vivier C — 123 fiches APPELABLES SANS AUCUNE RECHERCHE. A faire avant tout le reste.
-awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $8!="" \
-  {print $1" | "$4" | "$8}' liste-prospects.csv
-
-# Repartition du vivier B par pays, pour decider ou aller
-awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $6=="" && $9 !~ /TESTEE|DEVERROUILLEE/ \
-  {print $1}' liste-prospects.csv | sort | uniq -c | sort -rn
+# fiches avec un site, sans adresse, jamais testees
+awk -F';' 'NR>1 && $6!="" && $7=="" && $9 !~ /TESTEE|DEVERROUILLEE/ && $10 !~ /^(ECARTE|NE PAS)/' liste-prospects.csv | wc -l
+# fiches en rebond avec un site
+awk -F';' 'NR>1 && $6!="" && ($10=="A RENVOYER" || $10=="ADRESSE INVALIDE")' liste-prospects.csv | wc -l
 ```
 
-## Et la vraie solution, qui n'est pas un tri
+**95 fiches ont un site et pas d'adresse. 91 sont déjà marquées `TESTEE` ou `DEVERROUILLEE`.** Le §13
+annonçait le 08/10 « de l'ordre de 70 adresses encore à prendre » : elles ont été prises.
 
-Ce fichier organise une pénurie. **Le goulot d'étranglement n'est ni le ciblage ni le message : c'est
-que la session ne peut pas lire la page de contact d'un prospect.** `curl`, `WebFetch` et le DNS direct
-échouent tous les trois sur la liste blanche de l'environnement ; seule `WebSearch` passe, et elle est
-plafonnée à 200 appels par tour.
+**Les six fiches restantes, et chacune a un motif de ne pas y retourner :**
 
-Mesuré : Haïti 0 envoi sur 4 sociétés réelles, Paraguay 0 sur 7, zone libre de Colón 0, Cap-Vert 1 sur
-6. **Les sociétés sont trouvées et qualifiées ; ce sont leurs coordonnées qui manquent**, et elles
-n'existent que dans des annuaires, qui ne satisfont pas la règle anti-rebond du §5.
+| Fiche | Motif |
+|---|---|
+| Commercial Glass & Aluminium (Bermudes) | ne remonte **aucune** page — le rebond disait vrai |
+| Vitrolux (Côte d'Ivoire) | signature Vitrolux du §13 : site vivant, hébergement courrier abandonné. **Irrécupérable** |
+| Vicar (Portugal) | Europe → pas de nouvelle prospection (§6) |
+| Arte Vidro Moçambique | Mozambique est un marché d'export **documenté** de Sapphire → déclassé (§6) |
+| Conciera (Maroc) | un rebond sur données structurées. **Un seul essai reste permis**, à faire seul |
+| PG Centre Zimbabwe | `A VALIDER AARON` — relève du compte protégé PG Glass (§7). **Ne pas toucher** |
 
-**Deux demandes à Aaron, par ordre d'effet :**
-1. le réglage **Network access** de l'environnement — soit un accès plus large, soit les domaines
-   ajoutés sous « Allowed domains » en laissant cochée la case « Allow package managers » :
-   https://code.claude.com/docs/en/cloud-environments#network-access
-2. à défaut, relever `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`.
+## DONC LE SEUL LEVIER QUI RESTE EST LA RECHERCHE DE CATÉGORIE — et c'est mesuré, pas supposé
 
-Avec l'accès aux pages de contact, la plupart de ces 249 fiches basculeraient en envoi. Sans lui, on
-trie une pénurie. **Et jamais de contournement** par `curl`, un lecteur tiers, un proxy ou un service
-d'archive.
+**Sur le vivier marocain, chercher les fiches du registre une par une a rendu ZÉRO adresse utilisable
+en quatre fiches travaillées. Deux recherches de catégorie ont rendu trois sociétés neuves avec site
+indexé et adresse publiée.** Même résultat sur le Brésil le même soir : deux fiches neuves prêtes à
+l'envoi plus une identité résolue, là où les noms du registre ne rendaient rien.
+
+**La méthode, en deux appels :**
+1. **Chercher le MÉTIER et le PAYS**, pas un nom — « importateur distributeur grossiste verre plat
+   conteneur <pays> », dans la langue du pays. **Bloquer les annuaires ET les courtiers** dès le
+   premier appel : sans cela ils occupent la moitié des résultats.
+2. **Greper chaque nom rendu** — le plus court élément distinctif, jamais une concaténation — puis
+   recherche restreinte au domaine de ceux qui sont absents.
+
+**Et le corollaire, qui évite de gaspiller un tour :** la recherche de catégorie **retrouve surtout
+des fiches du registre** dans les pays déjà denses. Sur les États-Unis et le Brésil ce soir, cinq des
+huit sociétés rendues y étaient déjà, dont quatre déjà contactées — New Glass, NSA Vidros, Mundial
+Vidros, American Pro Glass et GGI. C'est la leçon Ouganda du §5 : **le chiffre utile n'est pas le
+nombre de sociétés trouvées, c'est le nombre de sociétés absentes du registre.**
+
+## LES DEUX PISTES À OUVRIR EN PREMIER, et elles valent plus que des fiches
+
+### 1. L'annuaire des membres d'ABRAVIDRO — la meilleure piste brésilienne
+
+`abravidro.org.br/empresas-associadas/` publie la liste de ses membres, avec une page par société.
+
+**ABRAVIDRO n'est PAS ABIVIDRO, et confondre les deux ferait prendre un client pour un adversaire.**
+· **ABIVIDRO** = association des **industries** du verre, donc les **producteurs**. C'est elle qui
+  demande les droits antidumping brésiliens cités au §6, et dont le recours a été rejeté par la
+  Gecex 961.
+· **ABRAVIDRO** = association des **distributeurs et transformateurs** de verre plat. **C'est notre
+  clientèle, nommément listée.** Les deux noms ne diffèrent que de deux lettres.
+
+**Ce n'est pas un courtier de données** au sens du §5 : rien n'est vendu, c'est l'annuaire public
+d'un syndicat professionnel. Mais ses pages sont des pages de tiers, donc l'adresse qu'elles donnent
+ne satisfait pas la règle anti-rebond — **elles servent à obtenir le NOM et le DOMAINE**, et l'adresse
+se prend ensuite sur le site de la société. C'est le premier temps de la méthode, déjà fait pour nous.
+Repéré via la page membre de Penha Vidros.
+
+### 2. La liste des importateurs américains de float, déposée au dossier C-570-189
+
+`harris-sliwoski.com/wp-content/uploads/Float-Glass-importers.pdf` — **liste d'importateurs
+américains de float déposée le 21/11/2024** au dossier **C-570-189**, l'affaire de droits
+compensateurs sur le float chinois. Noms déjà lus dans les résultats : **Rapid Shower and Mirror Corp**
+(Medley, FL), **MunnWorks** (Mount Vernon, NY), **Glasscorp** (West Palm Beach, FL), **WHTB Glass**,
+**310 Tempering**, **All Kind Glass Shower Doors**. Les quatre premiers sont **absents du registre**
+(grep fait : `rapid`, `munn`, `glasscorp`, `glass and metals`, `synergy`).
+
+**Pourquoi c'est la meilleure liste de prospects de la campagne, et ce n'est pas une opinion :** ce
+sont des sociétés dont il est **établi au dossier** qu'elles importent du float, et dont l'origine
+d'approvisionnement vient d'être frappée le 06/04/2026 à **181,52 %** en antidumping plus **19,75 à
+113,34 %** en compensateur. Leur chaîne d'achat est cassée, l'Europe n'est visée par aucun de ces
+droits, et le §6 note que c'est l'importateur américain qui **paie** ces droits.
+
+**Ce n'est pas un courtier de données :** c'est une pièce de procédure publique publiée par un cabinet
+d'avocats, pas un relevé douanier vendu. Le §5 vise les services qui **vendent** des relevés
+d'importation ou des contacts d'acheteurs ; celui-ci ne vend rien.
+
+**LA LIMITE EST TECHNIQUE ET ELLE EST BLOQUANTE ICI : c'est un PDF, et aucun des trois chemins
+(`curl`, `WebFetch`, DNS direct) n'atteint un fichier hors liste blanche** (§13). Je n'ai donc que
+les noms que la recherche a bien voulu citer, **pas les colonnes adresse, téléphone et e-mail que le
+document contient**. La liste complète demande l'accès réseau.
+
+**→ C'est l'argument le plus concret à verser à la demande du réglage « Network access » (§13) :** un
+document public, nominatif, qui liste précisément notre cible sur notre meilleur marché, et qui est à
+deux clics d'un navigateur ordinaire. Réserve à dire : dépôt de novembre 2024, donc coordonnées à
+revérifier une par une.
+
+## CE QUI RESTE, PAR VALEUR DÉCROISSANTE
+
+1. **Les deux pistes ci-dessus.**
+2. **États-Unis (43 fiches), Brésil (14), Canada (61)** — les trois marchés où l'argument douanier
+   est vérifié et favorable. Recherche de catégorie, pays par pays, en bloquant les annuaires.
+3. **Les six fiches téléphoniques de valeur du Maroc** — Ouchtar, Sotraglace, Somaver, Alumgo,
+   Med Glass, Metal Tanger. Coordonnées complètes dans les notes, **plus rien à chercher sur le web**.
+4. **Ce qu'il ne faut PAS rechercher :** Kenya, Ouganda, Madagascar, Rwanda, Mozambique, Zambie,
+   Malawi, Congo RDC (desservis par Sapphire, §6) · Inde (marché à 374 $/t, hors de portée) ·
+   Nigéria (CNG Glass, capital chinois donc sans droit face à nous) · Égypte, Arabie saoudite,
+   Émirats (float local abondant) · Europe (§6) · Chine, Hong Kong, Macao, France métropolitaine.
