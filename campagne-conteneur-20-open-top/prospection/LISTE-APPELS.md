@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **151 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **153 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 151 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 153 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 140 societes
+## Hors Europe — 142 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Ouganda | **Ahmad Glazing Uganda Ltd** | `+256 707 922403` | 08h00 - 16h00 | A QUALIFIER | PRUDENCE : la page de la societe decrit un fabricant base en Chine et affiche un numero WeChat en +86. Probable vitrine d un fournisseur chinois plutot qu un transformateur ougandais. La Chine etant exclue au paragraphe 6 comme... |
 | Panama | **Vidralum S.A.** | `+507 442 8833` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 08/10. Grep fait AVANT creation : aucune fiche Vidralum au registre. Societe trouvee en verifiant la fiche Vidral Panama, dont elle est DISTINCTE — ne pas les confondre, c est le piege de cette serie de noms. Imp... |
 | Paraguay | **Casa Barrios e Hijos SA** | `+595 981 429155` | 14h00 - 22h00 | A APPELER | REBOND 24/09 : le domaine casabarrios.com.py n existe pas, essayer casabarrios.com ou appeler. Pays enclave, transit via Montevideo ou Buenos Aires. DEVERROUILLEE LE 08/10, TROISIEME ADRESSE PARAGUAYENNE. ventas arobase casabar... |
+| Singapour | **Joo Heng Framemaker** | `+65 6368 1210` | 03h00 - 11h00 | A QUALIFIER | FICHE CREEE LE 11/10/2026 A 22h40, derniere du vivier singapourien de douze noms. Grep joo heng et jooheng faits avant, absente. SECOND TEMPS, restreint a joohengframemaker.com.sg : leur page Contact Us publie info arobase jooh... |
 | Trinité-et-Tobago | **Kamri Glass Investments Ltd** | `+1 868 235 4527` | 15h00 - 23h00 | A APPELER | SEUL FABRICANT DE TREMPE ET DE FEUILLETE DES CARAIBES. Pas d'adresse publiee, formulaire seulement : appeler. Port Port-of-Spain. Adresse kamriglass arobase gmail.com disponible mais la filiale Guyana a ete relancee le 06/10 : ... |
 | Égypte | **Venster Egypt for Aluminum & Glass Works** | `+20 121 000 7500` | 08h00 - 16h00 · **dim-jeu** | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. Decrit son activite principale comme les solutions de MUR-RIDEAU et le VITRAGE STRUCTUREL, avec des produits verriers specia... |
 | Émirats arabes unis | **Abbas Tempering Industry LLC** | `+971 4 267 7740` | 07h00 - 15h00 | A APPELER | Trempeur : cible float 4-12 mm. Numero normalise le 08/10 au format international, il etait au format local de Dubai.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relan... |
@@ -205,6 +206,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Koweït | **Aluminum Glass Kuwait** | `+965 66468763` | 08h00 - 16h00 · **dim-jeu** | A QUALIFIER | FICHE CREEE LE 08/10 A 17h10 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Site propre kuwaitaluminumexperts.com. Annonce des panneaux aluminium vitres en verre depoli... |
 | Sainte-Lucie | **Saint Lu Metal & Plastic Manufacturers Ltd** | `+1 758 451 3023` | 15h00 - 23h00 | A APPELER | Leader local depuis 1979. Aucune adresse email publiee : a rappeler. Port Castries. Precision du 07/10 : ils fabriquent eux-memes du trempe, du float, du feuillete et des menuiseries aluminium, sur deux sites, Mongiraud Gros Is... |
 | Singapour | **Reliance Safety Glass Pte Ltd** | `+65 6755 4555` | 03h00 - 11h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 22h22 ET TELEPHONIQUE D EMBLEE. Grep reliance fait avant creation, absente. Remontee du second temps mene sur Singapore Safety Glass. MOTIF : LEUR ADRESSE EST OBFUSQUEE. La recherche restreinte a rel... |
+| Singapour | **Deway Enterprise Pte Ltd** | `+65 6246 2052` | 03h00 - 11h00 | A QUALIFIER | FICHE CREEE LE 11/10/2026 A 22h24 ET PAS PRETE A L ENVOI, POUR UN MOTIF DE STRUCTURE ET NON DE METIER. Grep deway fait avant, absente. LE METIER EST POURTANT LE BON, et c est ce qui rend la decision ennuyeuse : leur catalogue a... |
 | Haïti | **L Union Quincaillerie Materiaux de Construction** | `+509 35 27 03 30` | 15h00 - 23h00 | A QUALIFIER | La fiche ne mentionne pas de vitrerie : rien ne dit qu ils vendent du verre. Priorite basse, a qualifier avant tout effort. |
 | Sénégal | **SK ALU** | `+221 65 944 90 80` | 11h00 - 19h00 | A APPELER | Petite structure, à qualifier.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relance comme au decompte des fiches jamais contactees. Aucune adresse publiee, donc dossier... |
 

@@ -4782,3 +4782,79 @@ le brésilien SUBSTANTIEL, de 9 à 25 %.** Les deux à confirmer sur source offi
 sources officielles — USITC et portail Siscomex — ne sont pas atteignables depuis cette session.** C'est
 le troisième dossier de la soirée que seul l'accès réseau débloque, après la liste des importateurs
 C-570-189 et le tableau tarifaire mexicain.
+
+
+**Clôture du vivier singapourien à 22h41 — Singapour passe de 2 à 11 fiches.**
+· **Joo Heng Framemaker** (Marsiling), `info@joohengframemaker.com.sg` → **`A QUALIFIER`**, et le motif
+  est la gamme : elle se déclare fournisseur de feuilleté trempé, ce qui est le bon métier, et son
+  adresse est dans un parc industriel — mais le reste du catalogue tire vers l'agencement de détail,
+  tableaux blancs magnétiques, crédences de cuisine, portes teintées. Fournisseur-poseur, pas
+  importateur de volume. **Détail inverse à noter :** ses numéros de téléphone divergent entre les pages
+  du site alors que l'adresse e-mail est **constante partout**, ce qui plaide pour sa validité.
+· **SGFrames** (Toa Payoh) → **`ECARTE — HORS PERIMETRE`, et c'est le motif Abrasipa.** Elle est remontée
+  parce qu'une de ses pages s'intitule *best glass supplier in Singapore* et annonce float, trempé,
+  miroir et **prix de gros pour les commandes en volume**. **Vérification : c'est un ENCADREUR DE
+  TABLEAUX** — encadrement de posters, de maillots, de memorabilia, cadres A3 — et les sources disent
+  explicitement que l'offre de verre est un **service secondaire**.
+  **Ce que ce cas rappelle, et c'est la règle du §5 prise par l'autre bout :** le §5 interdit de déduire
+  un métier d'un **mot** — la faute « verrerie » sur SEVAM — et il interdit **symétriquement** de le
+  déduire d'un **slogan**. Une page intitulée « meilleur fournisseur de verre » est de la copie
+  marketing, pas une activité. **Un encadreur achète du verre à la feuille pour monter des cadres, pas
+  au conteneur.**
+
+---
+
+# POINT DE REPRISE POUR LUNDI 12/10 — il remplace tous les précédents
+
+**Travaillé dimanche 11/10 de 21h16 à 22h45, sans aucun envoi.** L'arrêt des envois à froid du §10,
+décidé à 16h21 sur un `554 5.7.1` venu d'un serveur jamais vu, court **jusqu'à minuit** — donc sur toute
+la plage de travail autorisée par Kevin, qui s'arrêtait à 23h30. **Zéro envoi, et c'est sa propre règle,
+pas une limite d'outil.**
+
+## À faire dans cet ordre
+
+1. **`detecte-doublons.py` AVANT d'ouvrir les relances.** Règle neuve du 11/10, et elle a payé le jour
+   même : elle a réuni Alpha Glass et Alphaglass, une seule société dans **deux cohortes différentes**.
+2. **Vérifier l'expéditeur dans `in:sent`** (consigne de Kevin, §10), puis **compter ce qui est
+   vraiment parti du domaine** (`in:sent newer_than:1d`) — **une autre campagne envoyait encore à 22h02
+   ce soir**, et le quota comme la réputation sont partagés.
+3. **Les 23 envois programmés**, dans l'ordre et par **vagues de 5 espacées**, **ordonnés par fuseau** :
+   Singapour d'abord (+6 h), puis Maldives et Maroc, puis Brésil, puis États-Unis, puis Canada (−9 h).
+   **New Glass seule.** Table complète et réserves par fiche dans `PLAN-ENVOIS.md`.
+4. **Les 21 relances dues** (20 premières du 05/10 + 1 seconde), classées par valeur dans le même fichier.
+5. **Recontrôler les rebonds des 8 envois du 11/10** — fenêtre de **72 h**, donc non confirmés avant le
+   **14/10**.
+
+## Ce qui attend Aaron, et qui bloque plus que la prospection
+
+· **La cotation népalaise**, promise « début de semaine prochaine » le 09/10 : **c'est lundi ou mardi**,
+  et c'est 25 à 30 conteneurs/mois annoncés. Chiffres versés au dossier dans `DECISIONS-AARON.md` —
+  contenance d'un conteneur de 12 mm, volumes annuels, et les deux repères de prix indiens convertis.
+· **L'offre Caribbean Glass Specialists**, annoncée « pour demain » le **08/10** : nous sommes le 11.
+  Deux faits physiques versés au dossier, dont la composition du feuilleté qui **double le poids** et
+  peut casser le plan de 4 conteneurs.
+· **La preuve d'origine (EUR.1).** Point trouvé ce soir et inscrit au §6 : **une préférence tarifaire ne
+  s'applique pas automatiquement, c'est l'exportateur qui fournit la preuve.** Sans elle, l'avantage
+  tarifaire européen est **nul partout où il existe**. Deux questions à nos usines.
+· **Le répondeur automatique français**, toujours actif, qui a tiré sur la **RFQ d'Over Head Asia** et
+  sur la réponse du Népal. Deuxième remontée.
+
+## Ce qu'il ne faut PAS refaire — mesuré ce soir
+
+· **Le gisement de déverrouillage est épuisé** : 91 des 95 fiches avec site et sans adresse sont déjà
+  testées. Les 6 restantes ont chacune un motif documenté.
+· **Les marchés denses ne rendent plus rien** : États-Unis, Canada, Brésil, Australie, Colombie, Pérou,
+  Nouvelle-Zélande — les recherches de catégorie y retrouvent le registre. **Chercher les marchés
+  MINCES** : Singapour a rendu 12 noms neufs sur 12.
+· **Et l'appartenance à une association ne qualifie pas une fiche** : sur six fiches ABRAVIDRO, deux
+  étaient des **fournisseurs du secteur** — un abrasiviste et un extrudeur d'aluminium.
+
+## Un nettoyage à faire en début de session, pas en fin
+
+**44 fiches sont en `A APPELER` sans aucun numéro de téléphone.** Un statut « à appeler » sans numéro ne
+veut rien dire. **Elles relèvent de `A QUALIFIER`.** Je ne l'ai pas fait ce soir délibérément : une
+reclassification de masse à 22 h sur des fiches non relues est le geste qui a détruit le registre le
+08/10. Commande pour les lister :
+```bash
+awk -F';' 'NR>1 && $7=="" && $8=="" && $10=="A APPELER" {print NR": "$1" | "$4}' liste-prospects.csv
+```
