@@ -1174,6 +1174,28 @@ le nom ne les voyait pas et seul le domaine les a réunies. À l'inverse, **un m
 même standard ne suffit pas à fusionner** : Mirodec SARL au Liban et Mirodec Gulf à Dubaï sont
 deux entités réelles, comme les quatre antennes PG sur `pgglassafrica.com`.
 
+**ET VOICI LE CAS QUE SES QUATRE SIGNAUX NE PEUVENT PAS VOIR — tranché le 11/10 à 23h28, et il faut
+le nommer parce qu'il est structurel : UNE MÊME MAISON IMPLANTÉE SUR DEUX TERRITOIRES.**
+`Miroiterie des Antilles` était au registre sous la **Guadeloupe** avec le domaine `mdantilles.fr`,
+et `Antilles Miroiterie` sous la **Martinique** avec `antilles-miroiterie.com`. **C'est la même
+société** : SAS SIREN 828 191 874, siège unique 288 impasse des Palétuviers ZI Jarry à Baie-Mahault,
+deux noms commerciaux, des ateliers sur les deux îles, présidée par **Groupe Miquelon**. Un annuaire
+de Jarry publie d'ailleurs la page sous le slug `miroiterie-des-antilles` avec pour titre *ANTILLES
+MIROITERIE*.
+**Les quatre signaux sont aveugles un par un :** le champ **pays diffère**, donc « pays + nom
+normalisé » échoue ; les **domaines diffèrent**, donc le signal domaine échoue ; les adresses e-mail
+et les téléphones sont propres à chaque île. **Le script ne peut pas trouver cela, et ce n'est pas
+un bug** — c'est la limite de signaux qui comparent des champs.
+**Ce qui l'a trouvé est la signature des noms inversés, déjà décrite au §13**, plus une recherche sur
+le siège. **Donc : devant deux raisons sociales dont les mots sont les mêmes dans l'ordre inverse, la
+recherche porte sur l'ADRESSE DE SIÈGE et le NUMÉRO D'IMMATRICULATION, jamais sur le nom** — ce sont
+les deux seules choses qu'un groupe ne dédouble pas. **Et un territoire d'outre-mer multiplie le
+risque** : un groupe antillais se déclare naturellement sur plusieurs îles, que le registre range en
+« pays » distincts.
+**Coût évité : un deuxième message à une société écrite le 06/10**, sur un compte qui touche notre
+seul client export. **Et gain commercial au passage :** un acheteur qui fournit ses ateliers de
+Guadeloupe *et* de Martinique est l'argument du volume groupé, comme Savima et Glass Alu SXM.
+
 Statuts. **Aucune fiche ne doit avoir un statut vide** : le 08/10 onze fiches en portaient un,
 ce qui les rendait invisibles aux pools de relance comme au décompte des fiches jamais contactées.
 
