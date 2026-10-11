@@ -529,7 +529,22 @@ droits et l'Europe non, l'argument américain se transpose.
     niveau le float asiatique se pose dans un marché concurrentiel. À verser au dossier de prix.
 - **Corée, Afrique du Sud** : cités par la résolution mexicaine, aucune source directe lue.
   La Corée est de toute façon exclue au titre des concurrents.
-- **Pérou** : rien trouvé. À chercher côté INDECOPI.
+- **PÉROU : CHERCHÉ LE 11/10 À 22h38, ET LA RÉPONSE EST NÉGATIVE — ce qui classe le marché.**
+  Recherche faite sur les mesures d'Indecopi : **aucune mesure antidumping sur le verre plat ou le
+  float chinois n'a été trouvée.** Et l'absence est significative, pas seulement non concluante :
+  Indecopi est **très actif** contre la Chine sur d'autres produits — droits définitifs sur le
+  **fil machine** (81,3 $/t, 5 ans), les **couverts de table** (Rés. 058-2025/CDB), les **cuvettes de
+  WC** (5 ans), et une revue d'extinction sur les **fermetures à glissière**. **Une autorité qui
+  poursuit la Chine sur quatre produits et pas sur le verre plat n'a vraisemblablement pas de plainte
+  de filière** — le Pérou n'a pas de producteur float, donc personne pour la déposer.
+  **CONSÉQUENCE : le Pérou est un marché FAIBLE pour nous, et pour la même raison que le Nigéria,
+  l'Égypte et l'Arabie saoudite.** Le float chinois y entre sans droit antidumping, donc nous
+  l'affrontons de face sur le prix, et l'argument le plus fort de la campagne — les origines chinoises
+  portent désormais des droits — **n'y vaut rien**. Il ne vaut qu'aux États-Unis, au Brésil, au Mexique
+  et en Colombie sur le miroir.
+  ⚠️ **Réserve de méthode à tenir :** je n'ai pas lu El Peruano ni le site d'Indecopi directement, qui
+  ne sont pas atteignables depuis cette session. **C'est une absence de trace, pas une preuve
+  d'absence** — mais au vu de l'activité d'Indecopi sur les autres produits, la présomption est forte.
 **⚠️ ET UN POINT QUI RENVERSE LA PERSPECTIVE, TROUVÉ LE 11/10 À 22h38 : TOUT CE QUI PRÉCÈDE PORTE SUR CE QUE LE CLIENT PAIE. CELUI-CI PORTE SUR CE QUE NOUS DEVONS FOURNIR, ET IL CONDITIONNE TOUS LES AUTRES.**
 Cherché sur l'accord UE-SADC pour la Namibie, il vaut pour **chaque** marché où l'UE a un accord — donc
 pour la préférence mexicaine, pour l'UE-SADC, et pour tout accord qu'on invoquerait ailleurs.
