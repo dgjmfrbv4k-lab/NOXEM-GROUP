@@ -1,40 +1,71 @@
-# Plan d'envois — refait le 11/10/2026 à 21h25, complété à 21h45, pour la semaine du 12 au 16 octobre
+# Plan d'envois — refait le 11/10/2026, table des envois reprise à 22h25, pour la semaine du 12 au 16 octobre
 
 **À relire avant d'ouvrir la boîte le matin.** Remplace la version du 11/10 à 16h08, qui était
 juste sur les totaux mais **fausse sur le contenu de lundi** et muette sur la distinction ci-dessous.
 
-## D'abord : les DOUZE envois programmés de lundi
+## D'abord : les 23 envois programmés de lundi, ORDONNÉS PAR FUSEAU
 
-Seuls envois **neufs** prêts à partir. Adresses publiées par la société elle-même, règle anti-rebond
-du §5 satisfaite (exceptions notées), angle déjà rédigé dans la fiche — il n'y a plus qu'à écrire.
-**Vagues de 4, espacées**, et **New Glass seule**, pour la raison dite dans sa ligne.
+Seuls envois **neufs** prêts à partir : adresse publiée par la société sur son propre domaine (exceptions
+notées dans les fiches), angle déjà rédigé, il n'y a plus qu'à écrire. **Vagues de 5, espacées** (§10),
+et **New Glass seule**.
 
-| # | Société | Adresse | Pourquoi à ce rang |
+**L'ORDRE SUIT LES FUSEAUX, ET C'EST NOUVEAU — l'ancien plan ne le faisait pas.** Singapour est **6 h
+devant** Paris et la Colombie-Britannique **9 h derrière** : écrire à Singapour l'après-midi de Paris,
+c'est arriver après la fermeture, et écrire à Vancouver le matin, c'est arriver à 1 h du matin. Chaque
+vague part donc quand c'est le **milieu de matinée chez le destinataire**.
+
+| Vague | Vers | Qui | Heure locale visée |
 |---|---|---|---|
-| 1 | **Induver** (Casablanca) | `rhita@induvermaroc.ma` | **Seul contact de la soirée où l'on écrit à l'acheteur** : leur page publie un organigramme nominatif, Rhita Mansour, **Achats** — fonction vérifiée *et* pertinente, le §5 autorise de la nommer. ⚠️ **lire la réserve AGC / Saint-Gobain** |
-| 2 | **Space Glass** (São Paulo) | `comercial@spaceglass.com.br` | **Le meilleur angle de la campagne :** miroir de **marque propre** vendu sur la résistance à la corrosion et aux taches — mot pour mot la promesse du miroir sans cuivre ni plomb. Extra clear en gamme. Distributrice **et** usine |
-| 3 | **Divibras** (São Paulo) | `contato@divibras.com.br` | Distribution **et** industrialisation depuis 1993, et elle **vend à des distributeurs** : elle achète en volume. ⚠️ exception §5 inversée — site sur sous-domaine d'hébergeur, messagerie sur domaine propre |
-| 4 | **Penha Vidros** (São Paulo) | `contato@penhavidros.com.br` | « Importadora » dans la raison sociale, 60 ans, membre ABRAVIDRO. ⚠️ gamme de transformateur-poseur : **poser le volume avant d'argumenter** |
-| 5 | **VPM** (Goiânia) | `vpm@vpm.com.br` | Fabrique **et** distribue trempé, feuilleté, **isolant**, national. ⚠️ **900 km de Santos** : **demander** leur port et qui prend le tronçon routier, ne rien chiffrer |
-| 6 | **Vitrage Technologie** (Casablanca) | `contact@vitrage-technologie.com` | Feuilleté EVA-PVB, **VEC de façade**, PDLC → l'argument est la **constance** de la matière d'entrée, pas le prix |
-| 7 | **Nazaki Group** (Maldives) | `nazaki@nazaki.com` | Programmée depuis le 11/10, angle déjà écrit |
-| 8 | **MetaGlass** (Casablanca) | `contact@metaglass.ma` | Second rang assumé : agencement. **Poser le volume d'abord** |
-| 9 | **New Glass** (Curitiba) | `marketing1@newglassind.com.br` | **ENVOI SEUL, JAMAIS DANS UNE VAGUE.** Plus grosse importatrice de verre du Brésil. Son autre adresse a rebondi en *domaine introuvable* — mais sur `newSglassind`, la **coquille** ; celle-ci est un domaine différent jamais testé. **Si ça rebondit, 2ᵉ échec → téléphone** |
-| 10 | **Grupo RV Vidros** (Serra, ES) | `atendimento@gruporvvidros.com.br` | **Le meilleur signal de timing de la soirée :** la presse locale rapporte un *mutirão* pour **30 postes** — une maison qui embauche par trentaines monte en cadence, donc son float entrant aussi. Industrie **et** commerce, et **voisine du port de Vitória**. ⚠️ `atendimento@` et non `vendas@` : une offre de fournisseur au service qui *vend* est mal routée |
-| 11 | **Vitrino Vidros** (Araquari, SC) | `comercial@vitrinovidros.com.br` | Verre **de sécurité** déclaré → trempé ou feuilleté, donc matière d'entrée à tenir. Sur la BR 280 qui mène au **port d'Itajaí**. ⚠️ son code d'activité dit « fabricação de vidro plano » : vérifié, **c'est un transformateur, pas un producteur** — des halls locatifs, pas une ligne float |
-| 12 | **DM Vidros** (Campinas, SP) | `vendas@dmvidros.com.br` | « Une des plus grandes références » du *beneficiamento* de verres **et miroirs**, deux unités, ~200 km de Santos. ⚠️ ne pas confondre avec **DM Vidros e Esquadrias** de São Paulo, **autre société** |
-| — | **Amazon Temper** (8 usines) | — | **La plus grosse consommatrice de float trouvée, et téléphonique.** Leur site n'expose qu'un **formulaire**. L'adresse vue sur leur Facebook satisfait la lettre du §5 mais vient d'un tiers : sur cette taille, **un rebond coûte plus qu'un appel.** Aquiraz (85) 3260-3076 |
-| — | Atacado do Vidro (Recife) | — | **Pas prête.** Sous-domaine Webnode gratuit, aucune adresse |
+| **1 — ~8 h** | **Singapour** (5) | Yuen Mai · Meng Heng · Soon Heng · SSG · Diamond Glass | ~14 h, leur après-midi |
+| **2 — ~10 h** | **Maldives + Maroc** (4) | Nazaki · **Induver** · Vitrage Technologie · MetaGlass | ~13 h / ~9 h |
+| **3 — ~13 h** | **Brésil** (5) | **Space Glass** · Penha · Divibras · VPM · Grupo RV | ~8 h, ouverture |
+| **4 — ~15 h** | **Brésil** (4) | DM Vidros · Vitrino · ABC Temper · *(réserve)* | ~10 h |
+| **5 — ~16 h** | **États-Unis** (4) | **MunnWorks** · 310 Tempering · Rapid Shower · SAFTI FIRST | ~10 h ET / 7 h PT |
+| **seule — ~17 h** | **Brésil** | **New Glass** (domaine douteux, voir ci-dessous) | ~12 h |
+| **6 — ~18 h** | **Canada** | Hartung Glass Canada (Burnaby, C.-B.) | ~9 h, ouverture |
 
-**⚠️ ET POUR TOUT LE LOT BRÉSILIEN — vérifié le 11/10 :** ne **jamais** écrire qu'il n'y a pas de
-production locale. **Vivix** (Goiana, ~900 t/j) et **Cebrace** (coentreprise Saint-Gobain/NSG) y
-produisent. C'est précisément de là que vient le parapluie de prix haut. L'argument est **douanier** :
-Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, l'Europe non visée — et **rien** sur le
-droit chinois, dont la revue de fin de période n'est pas tranchée.
+**LES CINQ À LIRE AVANT D'ÉCRIRE — chacune porte une réserve qui change le texte.**
+1. **Induver** (Casablanca) — **seul contact de la campagne où l'on écrit à l'acheteur** : leur page
+   publie un organigramme nominatif, **Rhita Mansour, Achats**, fonction vérifiée *et* pertinente, donc
+   nommable au titre du §5. ⚠️ **réserve AGC / Saint-Gobain** : l'angle est la **seconde source**, jamais
+   la nouveauté d'une origine européenne.
+2. **MunnWorks** (Mount Vernon, NY) — **le meilleur assortiment produit de la campagne** : miroirs
+   **lumineux pour l'hôtellerie**, donc des miroirs de salle de bain. L'argument se sert **par le défaut
+   évité** — le piquage qui part du chant quand l'humidité atteint la couche de cuivre, et le rappel sous
+   garantie sur un étage entier. ⚠️ `openorders@` est une boîte de **commandes entrantes** : la première
+   ligne doit dire sans ambiguïté qu'il s'agit d'une offre de **fourniture**.
+3. **SAFTI FIRST** (Californie) — coupe-feu, usine propre. ⚠️ **toute leur communication est USA-Made** :
+   parler **uniquement du substrat**, ne rien laisser entendre sur l'origine du produit fini.
+4. **New Glass** (Curitiba) — **ENVOI SEUL.** Plus grosse importatrice du Brésil. Son autre adresse a
+   rebondi en *domaine introuvable*, mais sur `newSglassind`, **la coquille** ; celle-ci est un domaine
+   différent jamais testé. **Si ça rebondit, 2ᵉ échec → téléphone, définitivement.**
+5. **Hartung Canada** (Burnaby) — ⚠️ **le float SH 7005 n'est PAS sur les listes de riposte : ne jamais
+   écrire qu'il est taxé.** L'argument est de **gestion du risque** — 90 % du verre canadien vient des
+   États-Unis, sous Section 338 depuis le 22/08/2026 — et le renfort est géographique : Burnaby est à
+   côté du **port de Vancouver** quand leur siège est dans l'État de Washington. ⚠️ filiale : **demander**
+   où se prend la décision d'achat.
 
-**Et le vivier ABRAVIDRO est la meilleure piste ouverte** : 9 fiches créées à déverrouiller en deux
-temps, Grupo RV Vidros en premier (le mot *Grupo* = plusieurs sites, et voisine du port de Vitória),
-Agroleite en dernier (son nom n'évoque pas le verre : l'établir avant d'y dépenser quoi que ce soit).
+**AVERTISSEMENTS DE MARCHÉ, à relire avant chaque vague.**
+· **Brésil (9 envois)** — marché le plus favorable vérifié, et l'argument est **douanier** : Gecex
+  833/2025 contre la Malaisie, le Pakistan et la Turquie, l'Europe non visée. **Rien sur le droit
+  chinois**, dont la revue n'est pas tranchée. ⚠️ **ne jamais écrire qu'il n'y a pas de production
+  locale** : Vivix (~900 t/j) et Cebrace (Saint-Gobain/NSG) y produisent, et c'est **de là que vient le
+  parapluie de prix haut**.
+· **Singapour (5 envois)** — **marché MOYEN, pas fort**, et il faut l'assumer : l'Asie du Sud-Est produit
+  son float en abondance et à bas coût. **Ne jamais argumenter sur le prix ni sur l'absence d'offre
+  locale.** Ce qui tient : le **réexport**, la **spécification BCA**, et surtout le **miroir en climat
+  équatorial humide**.
+· **États-Unis (4 envois)** — AD/CVD du 06/04/2026 : Chine 181,52 % + compensateur, Malaisie
+  compensateur 17,3 à 102 %, **Europe non visée**. On ne dit pas que notre verre est bon marché, on dit
+  que **les deux origines les moins chères portent désormais des droits**. Et **le droit de douane de
+  droit commun n'est pas établi** : rien sur le coût rendu.
+· **Maroc (3 envois)** — ⚠️ **Saint-Gobain a un agent exclusif au Maroc depuis 1983** : l'argument de la
+  **nouveauté** d'une origine européenne y est **faux**. Et Cevital produit en Algérie voisine.
+
+**NE SONT PAS PRÊTES, et chacune a son motif :** Amazon Temper (8 usines, formulaire seul),
+Disk Vidros, Reliance Safety Glass (adresse obfusquée), WHTB Glass (appartenance chinoise à trancher),
+Industrial Glass Technologies (correspondance de nom rompue), Glasscorp (3 domaines, 1-10 salariés),
+Deway, Atacado do Vidro (site gratuit + boîte grand public), Alusupra (extrudeur aluminium).
 
 ## Ensuite : les 21 relances de lundi
 
