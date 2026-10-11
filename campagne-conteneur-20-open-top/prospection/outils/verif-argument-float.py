@@ -24,7 +24,7 @@ PRODUCTEURS = {
     'Pakistan': 'Tariq Glass',
     'Bangladesh': 'PHP Float Glass',
     'Azerbaïdjan': 'Azerfloat',
-    'Mexique': 'Vitro',
+    'Mexique': 'Vitro via Vidrio Plano de Mexico, et Guardian Industries de Mexico (float et miroir)',
     'Indonésie': 'Asahimas',
     'Chili': 'Vidrios Lirquén',
     'Argentine': 'VASA / Vidrieria Argentina (coentreprise NSG-Pilkington et Saint-Gobain depuis 1938, usines Llavallol et Los Cardales, Cardales ~900 t/j)',

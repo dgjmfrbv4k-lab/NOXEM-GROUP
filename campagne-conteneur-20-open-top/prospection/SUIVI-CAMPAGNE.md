@@ -4920,3 +4920,49 @@ carre », « dollar le m2 » — là où le mandat écrit en symboles. **Un seul
 0 occurrence et m'a presque fait conclure que rien n'avait propagé, alors que 14 fiches étaient
 touchées.** C'est exactement la faute du grep partiel du §5, transposée à la recherche d'une erreur au
 lieu d'un doublon.
+
+
+## Dimanche 11/10, 23h03 — MEXIQUE : la recherche rend surtout le registre, mais trois faits en sortent
+
+Le Mexique étant redevenu probablement viable ce soir, j'ai mesuré : **13 fiches pour un marché de
+130 millions d'habitants**, c'est mince. Recherche de catégorie faite. **Elle rend surtout des sociétés
+déjà au registre** — Vycisa, Aluviacsa, CEYCO, Vidrios Zapopan, toutes en `ENVOYE` ou `RELANCE`. C'est
+la leçon Ouganda une fois de plus. **Mais trois faits en sortent, et deux changent une relance de mardi.**
+
+**1. CEYCO Cristales est DISTRIBUTEUR AUTORISÉ DE SAINT-GOBAIN GLASS.** Sa fiche ne portait que
+« structure de distribution et non d'atelier, proche de Manzanillo ». C'est le canal de vente d'un
+producteur float mondial — **situation voisine de Continental Trading Glass au Maroc, à une différence
+qui compte : Continental est agent EXCLUSIF, CEYCO est distributeur AUTORISÉ**, ce qui n'interdit pas de
+porter plusieurs origines. **Elle reste donc une cible**, mais l'angle de la nouveauté serait absurde
+devant un distributeur Saint-Gobain. **Et l'angle de la seconde source y est plus fort qu'ailleurs : un
+distributeur lié à une seule marque a un intérêt structurel à ne pas l'être.** Relance le 13/10.
+
+**2. Aluviacsa distribue le float de VIDRIO PLANO DE MEXICO, c'est-à-dire de VITRO.** Sa fiche portait
+« distributeur, angle seconde source », ce qui était juste et vague. Le site précise **de qui** : plus de
+vingt ans comme l'un des principaux distributeurs du float de Vidrio Plano de México. **Or Vitro figure
+aux concurrents du §6 et c'est le pétitionnaire de l'antidumping américain du 06/04/2026.** **Ils
+distribuent donc le float de la société qui vient d'obtenir 181 % de droits contre la Chine aux
+États-Unis.** Un distributeur mono-marque de vingt ans a un intérêt structurel à une seconde origine.
+⚠️ **Ne jamais nommer Vitro ni Vidrio Plano dans le message** : c'est une information interne qui sert à
+calibrer l'angle, pas à l'écrire. Relance le 13/10.
+
+**3. Le garde-fou connaissait le Mexique — `'Mexique': 'Vitro'` — donc aucune fiche ne portait
+l'affirmation fausse, et il tourne à 0.** Mais son libellé était vague comme ceux du Nigéria et du
+Brésil l'étaient ce matin. **Il nomme désormais Vidrio Plano de México et Guardian Industries de
+México**, qui fait du float **et du miroir** au Mexique — ce second nom n'apparaissait nulle part.
+
+**Trois fiches créées, non testées, avec ce qui reste à faire sur chacune :**
+· **Prodiesa** — **fabricant de MIROIRS** qui distribue aussi du verre. Un fabricant de miroirs achète du
+  float clair et argente lui-même, donc il achète du **substrat** : c'est le profil MunnWorks transposé,
+  et c'est **à traiter en priorité sur ce pays**, avant les distributeurs généralistes.
+· **Cristales Inteligentes** — distribution **et** fabrication depuis plus de 50 ans, miroir inclus.
+  ⚠️ **Réserve de nom à lever d'abord :** *cristales inteligentes* signifie littéralement « verre
+  intelligent », ce qui pourrait désigner une activité de verre à opacité variable plutôt qu'une raison
+  sociale. C'est la règle du §5 sur le mot qui ne dit rien du métier, prise par un troisième bout.
+· **Verra Glass (Senhai International)** — ⚠️ **réserve sérieuse à lever en premier : Senhai est un nom
+  chinois.** Si c'est le bras mexicain d'un groupe verrier chinois, c'est la situation SGC International
+  et WHTB Glass — un canal de concurrent, pas une cible. **Et la lecture inverse est tout aussi possible
+  et plus intéressante :** un importateur dont l'origine chinoise porte désormais ~137 $/t de droit
+  antidumping mexicain a un intérêt direct à changer d'origine.
+
+**Registre : 1083 → 1086 fiches.**
