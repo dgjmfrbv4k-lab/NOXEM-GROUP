@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **149 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **150 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 149 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 150 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 138 societes
+## Hors Europe — 139 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Irak | **Arturaya Glass Company** | `+964 751 667 6876` | 08h00 - 16h00 · **dim-jeu** | A APPELER | IMPORTATEUR : se fournit déjà à l'étranger. Adresse info arobase arturaya.com relevee le 07/10, domaine identique au site. IMPORTE DEJA DES CONTENEURS : ils annoncent eux-memes travailler avec des usines etrangeres. Envoi 07/10... |
 | Maroc | **Sotraglace Maroc** | `05 22 34 93 65` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source Kompass, qui decrit l activite en propres termes. Aucune adresse ni telephone releves... |
 | Mexique | **Millet Industria de Vidrio** | `+52 999 930 2381` | 17h00 - 01h00 | A APPELER | Contact nomme Humberto Vital, fonction non verifiee. Adresse en millet.com.mx alors que la page trouvee est sur un sous-domaine d annuaire : regle anti-rebond, aucun envoi. A appeler. VERIFIE LE 08/10, ADRESSES REDACTEES sur to... |
+| États-Unis | **Industrial Glass Technologies (IGT)** | `+1 704 853 2429` | 15h00 - 23h00 | A QUALIFIER | FICHE CREEE LE 11/10/2026 A 22h13 PAR L EXHIBIT I-7 DU DOSSIER FLOAT GLASS, extrait en recherche APPROFONDIE le meme soir. PRECISION DE SOURCE QUI CHANGE SA VALEUR, ET IL FAUT LA DIRE : ce n est PAS une liste de service officie... |
 | Algérie | **Vitrosak** | `+213 560 53 51 68` | 10h00 - 18h00 · **dim-jeu** | A APPELER | Aucune adresse publiee. Port Bejaia. — TESTEE LE 11/10 EN DEUX TEMPS, ET LE SECOND TEMPS A SAUVE UN ENVOI PERDU. Grep du mot distinctif vitrosak fait avant : une seule fiche. PREMIER TEMPS, recherche large : les annuaires donne... |
 | Angola | **Axial / AS Glass Angola** | `+244 924 955 330` | 10h00 - 18h00 | A APPELER | Port Luanda, envoi en portugais. Relance 08/10, deuxieme tranche, format court a une seule question plus porte de sortie. Delivrabilite deja prouvee par l envoi du debut octobre. Angle caixilharia : fabricant de chassis donc co... |
 | Angola | **Vidreira de Viana** | `+244 922 012 998` | 10h00 - 18h00 | A QUALIFIER | Port Luanda, envoi en portugais. Rebond 550 No Such User le 05/10 : adresse inexistante. ADRESSE TROUVEE LE 08/10 A 16h45 MAIS LA FICHE NE PART PAS, ET C EST LA REGLE DU PARAGRAPHE 5 QUI L IMPOSE. vidreira.viana arobase hotmail... |
@@ -117,7 +118,6 @@ ne pas les appeler en se presentant comme un premier contact.
 | États-Unis | **Gordon's Glass and Mirror** | `+1 904 388 5555` | 15h00 - 23h00 | A APPELER | Adresse citee sur un domaine different du site : ne pas deviner, appeler. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensemble des fiches verrouillees de la journee,... |
 | États-Unis | **Quality Glass and Mirror** | `+1 402 339 3737` | 15h00 - 23h00 | A APPELER | Interlocuteur verifie : Katrina Hahn, representante Wholesale Manufacturing Distribution. Aucune adresse publiee. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensembl... |
 | Birmanie | **Central Aluminium** | `+95 973 123 473` | 04h30 - 12h30 | A APPELER | Entreprise de decoration et facade active depuis 1996. Aucune adresse email publiee : a rappeler. Port Rangoun. Alu, verre, composite, inox et plafonds a Yangon, 11 a 50 salaries. Aucune adresse email publiee hors bases payante... |
-| Bolivie | **VASA Vidrieria Boliviana S.A.** | `+591 3 535356` | 15h00 - 23h00 | A QUALIFIER | AMBIGUITE A LEVER : le nom VASA figure dans notre liste de producteurs float concurrents. Cette societe bolivienne annonce fabriquer ET importer du verre plat. Ne pas demarcher avant d avoir etabli s il s agit du meme groupe. C... |
 | Brésil | **Aluglass Vidros** | `+55 32 3512-5951` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
 | Brésil | **Agroleite** | `0800 351 9090` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
 | Madagascar | **ALU DESSIN LTD** | `+261 20 22 681 21` | 08h00 - 16h00 | A APPELER | Immeuble EDBM Avenue Gal Gabriel Antaninarenina. Se declare importateur. Aucune adresse email propre publiee : a appeler. ZONE EST-AFRICAINE DECLASSEE LE 08/10, SUR UN FAIT VERIFIE. Sapphire Float Glass, a Mkuranga en Tanzanie,... |
@@ -156,6 +156,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Trinité-et-Tobago | **Kamri Glass Investments Ltd** | `+1 868 235 4527` | 15h00 - 23h00 | A APPELER | SEUL FABRICANT DE TREMPE ET DE FEUILLETE DES CARAIBES. Pas d'adresse publiee, formulaire seulement : appeler. Port Port-of-Spain. Adresse kamriglass arobase gmail.com disponible mais la filiale Guyana a ete relancee le 06/10 : ... |
 | Égypte | **Venster Egypt for Aluminum & Glass Works** | `+20 121 000 7500` | 08h00 - 16h00 · **dim-jeu** | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. Decrit son activite principale comme les solutions de MUR-RIDEAU et le VITRAGE STRUCTUREL, avec des produits verriers specia... |
 | Émirats arabes unis | **Abbas Tempering Industry LLC** | `+971 4 267 7740` | 07h00 - 15h00 | A APPELER | Trempeur : cible float 4-12 mm. Numero normalise le 08/10 au format international, il etait au format local de Dubai.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relan... |
+| États-Unis | **WHTB Glass LLC** | `+1 631 924 4601` | 15h00 - 23h00 | A QUALIFIER | FICHE CREEE LE 11/10/2026 A 22h13 PAR L EXHIBIT I-7 DU DOSSIER FLOAT GLASS, extrait en recherche APPROFONDIE le meme soir. PRECISION DE SOURCE QUI CHANGE SA VALEUR, ET IL FAUT LA DIRE : ce n est PAS une liste de service officie... |
 | Éthiopie | **Abdi Aluminium & Glass Works** | `+251 911 262649` | 08h00 - 16h00 | A APPELER | Fabricant de facades et murs rideaux donc consommateur de verre. Adresse masquee par l annuaire : a appeler. Pays enclave, transit via Djibouti. FUSION DU 08/10, detectee par un balayage systematique du registre : 1 fiche(s) en... |
 | Arabie saoudite | **Al-Thiabi Glass** | `+966 56 153 6402` | 08h00 - 16h00 · **dim-jeu** | A QUALIFIER | NON CONTACTEE VOLONTAIREMENT, et c est le point important. L adresse sales arobase althiabiglass.com est bien publiee sur leur propre site donc exploitable, MAIS leur activite reelle est la POSE et le DEPANNAGE : cloisons et po... |
 | Oman | **Abu Nadil Trade Services** | `+968 9574 1661` | 07h00 - 15h00 · **dim-jeu** | A APPELER | FICHE CREEE LE 08/10 A 17h10 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Site propre abunadilwindowtec.com. USINE PROPRE A AL JIFNAIN et bureau a Al Ghubra a Mascate... |

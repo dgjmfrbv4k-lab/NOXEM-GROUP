@@ -27,7 +27,7 @@ PRODUCTEURS = {
     'Mexique': 'Vitro',
     'Indonésie': 'Asahimas',
     'Chili': 'Vidrios Lirquén',
-    'Argentine': 'VASA',
+    'Argentine': 'VASA / Vidrieria Argentina (coentreprise NSG-Pilkington et Saint-Gobain depuis 1938, usines Llavallol et Los Cardales, Cardales ~900 t/j)',
     'Inde': 'Pioneer Float Glass et autres',
     'Tanzanie': 'Sapphire (Mkuranga)',
     'Vietnam': 'Phu My, CFG Ha Long',
@@ -43,9 +43,9 @@ PRODUCTEURS = {
     'Mozambique': 'PFG et Sapphire livrent la zone',
     'Namibie': 'PFG en Afrique du Sud',
     'Botswana': 'PFG en Afrique du Sud',
-    'Bolivie': 'VASA dessert la zone',
-    'Paraguay': 'VASA dessert la zone',
-    'Uruguay': 'VASA dessert la zone',
+    'Bolivie': 'VASA y opere directement (groupe NSG-Pilkington / Saint-Gobain, present en Argentine, Bolivie, Paraguay et Uruguay)',
+    'Paraguay': 'VASA y opere directement (groupe NSG-Pilkington / Saint-Gobain, 4 pays)',
+    'Uruguay': 'VASA y opere directement (groupe NSG-Pilkington / Saint-Gobain, 4 pays)',
 }
 
 MOTIFS = re.compile(

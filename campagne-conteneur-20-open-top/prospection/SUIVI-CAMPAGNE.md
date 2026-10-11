@@ -4517,3 +4517,45 @@ frappe**, au même titre que SGC International. Fiche non créée, à écarter d
 
 **Registre : 1071 → 1074 fiches. 18 envois programmés pour lundi.** Intégrité vérifiée,
 `detecte-doublons.py` au seul groupe PG Glass.
+
+
+**Lot de 22h17 — un balayage d'intégrité que personne n'avait passé, et il sort un concurrent du vivier.**
+
+Le §6 a montré **deux trous ce soir** — aucun producteur brésilien, puis Fuyao absent. J'ai donc
+retourné la question : **y a-t-il au registre des fiches ACTIVES qui sont en réalité des producteurs
+float ?** C'est la règle Nasir du §6 — « le mot *float* dans une raison sociale impose la vérification
+**avant** d'ouvrir la fiche » — mais elle n'avait jamais été passée en **balayage**. Deux requêtes :
+les raisons sociales contenant *float*, et celles portant un nom de producteur connu.
+
+**RÉSULTAT : un seul vrai cas, et il était ouvert.** **VASA Vidriería Boliviana S.A.** (Santa Cruz)
+était en `A QUALIFIER`, avec dans sa note l'ambiguïté correctement relevée mais jamais levée — « le nom
+VASA figure dans notre liste de producteurs float concurrents, ne pas démarcher avant d'avoir établi
+s'il s'agit du même groupe ».
+**Établi : c'est le même groupe.** VASA est née en **1938** de l'association de **NSG Group-Pilkington**
+et de **Saint-Gobain**, et elle **opère dans quatre pays — Argentine, Bolivie, Paraguay, Uruguay** —
+avec environ 500 salariés. L'entité argentine est *Vidriería Argentina S.A.*, usines de **Llavallol** et
+**Los Cardales**, cette dernière annoncée à ~900 t/jour. **Double motif de fermeture, et chacun
+suffirait :** VASA est à la liste des concurrents du §6, et c'est une coentreprise **Saint-Gobain et
+NSG**, donc deux producteurs float mondiaux là où le §6 n'en exige qu'un (motif Saint-Gobain Egypt).
+**→ `NE PAS DEMARCHER`.**
+**Réserve de source tenue :** rien n'établit que l'unité **bolivienne** ait sa propre ligne float ni ce
+qu'elle produit localement. Cela ne change pas la conclusion — l'appartenance au groupe suffit — mais
+**il ne faut pas affirmer qu'il y a un four à Santa Cruz.** Et les sources divergent sur le capital,
+l'une parlant d'un majoritaire Pilkington, l'autre d'une coentreprise à parts.
+
+**CE QUE LE BALAYAGE CONFIRME SANS RIEN CHANGER, et c'est rassurant :** `verif-argument-float.py`
+portait **déjà** les quatre pays — Argentine en producteur, Bolivie, Paraguay et Uruguay en desservis.
+Une session précédente avait donc appliqué la règle du **périmètre de la source** à la lettre, exactement
+comme pour Sapphire. Il ne manquait que la fermeture de cette fiche. Les quatre entrées sont maintenant
+**nommées et chiffrées** au lieu du vague « VASA dessert la zone », même traitement que le Nigéria et le
+Brésil ce soir. Le garde-fou tourne à **0 fiche**.
+
+**Les autres cas du balayage, tous sains, pour mémoire :** *Float Glass Ltd* (Canada), *FloatGlass Ltd*
+(Malte) et *Float Glass Industries* (Royaume-Uni) sont des distributeurs nommés d'après le produit dans
+des pays sans ligne float — ou, pour le Royaume-Uni, sans lien avec Pilkington. Les trois *Float Glass
+Centre* indiennes sont déjà neutralisées et l'Inde est déclassée. Et *Vitrocentro*, *Vitrolux*,
+*Vitrosak*, *ETS VITRO MZ*, *Vitroglass Mocambique* portent le mot **vitro** sans rapport avec Vitro :
+c'est le piège de nom du §6, celui de *zoujaj*, et la règle a tenu — **c'est la société qui compte,
+jamais le mot.**
+
+**Registre : 1074 fiches, 18 envois programmés pour lundi.** Intégrité vérifiée, liste d'appels régénérée.
