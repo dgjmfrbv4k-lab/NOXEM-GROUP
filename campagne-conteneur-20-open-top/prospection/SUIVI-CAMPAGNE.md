@@ -3961,3 +3961,99 @@ le justifie, puisque l'anti-balles trouvé sur la fiche annuaire est du vitrage 
    ses coordonnées sont souvent d'annuaire : VIVAGLASS a marché, Ouchtar et Sotraglace non.
 4. **L'arrêt d'envoi à froid tombe à minuit**, la règle du §10 portant sur la journée. À rouvrir
    seulement si aucun nouveau `5.7.1` n'arrive — et en vagues de 5, espacées.
+
+---
+
+## Dimanche 11/10/2026, 21h16 – 21h30 — lot du soir, arrêt d'envoi tenu, trois adresses déverrouillées et un doublon intercepté
+
+**Aucun envoi, et c'est volontaire.** L'arrêt des envois à froid décidé à 16h21 au titre du §10 — un
+`554 5.7.1 Delivery not authorized` depuis `vratakriz.cz`, serveur jamais vu — porte sur la journée,
+et il est toujours dimanche. Le §13 place en outre la fin de journée de travail à 19 h. Le travail
+fait ici est celui que le §10 autorise expressément : **recherche, qualification, registre**.
+
+**TROIS ADRESSES DÉVERROUILLÉES, ET AUCUNE NE VIENT D'UNE FICHE DU REGISTRE — c'est le fait de la
+soirée.** Les 17 fiches marocaines sans adresse ont toutes été testées. Les fiches elles-mêmes ont
+rendu **zéro** adresse utilisable. Les trois gains viennent tous du **premier temps** de la méthode
+du §13, qui fait remonter des sociétés **absentes du registre** avec un site indexé :
+
+| Société | Adresse | Née de la recherche sur | Valeur |
+|---|---|---|---|
+| **Induver — Sté Industrielle du Verre** | `rhita@induvermaroc.ma` | Somidav / Africa-Glaces | **la meilleure du vivier** |
+| **Vitrage Technologie** | `contact@vitrage-technologie.com` | Glastec | forte |
+| **MetaGlass** | `contact@metaglass.ma` | Glastec | second rang |
+
+**INDUVER EST LE MEILLEUR CONTACT OUVERT DEPUIS DES JOURS, ET POUR UNE RAISON PRÉCISE :** leur propre
+page de contact publie un **organigramme nominatif par fonction**, et il porte une responsable des
+**Achats** — Rhita Mansour. Le §5 autorise de nommer une personne quand la fonction est *vérifiée et
+pertinente*, et « achats » est littéralement l'exemple qu'il donne. C'est le seul contact de tout ce
+vivier où l'on écrit à l'acheteur et non à une boîte générale. La boîte export `machghoul@` est
+relevée mais **écartée** : cette personne vend, elle n'achète pas.
+**Et le piège du domaine voisin est pris par le bon bout pour une fois :** le site est `induver.ma`,
+toutes les adresses sont sur **`induvermaroc.ma`**. Une adresse reconstruite sur le domaine du site
+aurait rebondi, comme chez Al Ashoury et Liberty Aluminium. L'exception du §5 s'applique — c'est la
+société qui publie — et elle est notée dans la fiche comme le §5 l'exige.
+**RÉSERVE GRAVE INSCRITE DANS LA FICHE, à lever avant d'écrire :** Saint-Gobain Glass liste Induver
+sur son propre site à l'adresse exacte du siège, et **AGC** — producteur float mondial — a constitué
+avec elle *AGC Automotive Induver Morocco* à Kénitra. Cela ne la rend pas concurrente et ne la ferme
+pas, mais **cela interdit l'angle de la nouveauté d'une origine européenne** et recommande celui de
+la **seconde source**. C'est la leçon Riou Glass et la leçon Continental réunies.
+
+**UN DOUBLON INTERCEPTÉ QUI ALLAIT COÛTER DEUX ENVOIS CETTE SEMAINE.** `detecte-doublons.py` a réuni
+**Alpha Glass LLC** et **Alphaglass LLC** (Ajman) sur le signal du domaine : même `alphaglass.org`,
+même ville, même activité mot pour mot. **Le dégât déjà fait, dit sans l'arrondir :** `info@` portait
+un premier contact *et* une relance au 06/10, et l'envoi du 09/10 vers `infoajman@` est donc le
+**troisième** message à cette maison en quatre jours — la faute Shibaam, sur une cible prioritaire.
+**Et les deux fiches tombaient dans des cohortes DIFFÉRENTES, le 13/10 et le 16/10 : sans ce balayage
+elle en recevait deux de plus.** Fiche `info@` neutralisée en `NE PAS DEMARCHER`, téléphone reporté
+sur le compte vivant, et relance **différée au 23/10** plutôt que tirée le 16 — un quatrième message
+en dix jours coûterait plus qu'il ne rapporte.
+**LE TROU DE RÈGLE EST NOMMÉ ET BOUCHÉ AU MANDAT :** la fiche portait « nom grepé un à un, absent »,
+ce qui était exact et inutile — le nom grepé était `Alphaglass`, **en un mot**. Greper une
+**concaténation** ne peut structurellement pas trouver la forme séparée. Le vrai mot distinctif était
+`alpha`. **Règle complétée au §5 : le mot à greper est le plus court élément distinctif et jamais
+lui-même un mot composé.** Sixième cas de doublon, après Arabian Glass, Glass World, Abdi Aluminium,
+Corporación Limatambo et First Glass.
+**Et une règle de conduite qui en découle, inscrite au plan d'envois :** `detecte-doublons.py` se
+passe **avant d'ouvrir une semaine de relances**, pas seulement après un lot d'ajouts. Un doublon
+dormant devient deux envois dès que les cohortes s'ouvrent.
+
+**LE PLAN D'ENVOIS EST REFAIT, ET IL CORRIGE DEUX CHOSES.**
+1. **Ouchtar et Sotraglace étaient en tête de la liste de lundi alors qu'elles avaient déjà été
+   testées le 11/10**, adresses trouvées mais inutilisables, et passées en `A APPELER`. Le plan était
+   en retard sur le registre. Elles n'y sont plus, Somaver les rejoint au téléphone.
+2. **Les cohortes mélangeaient deux choses de valeur très différente**, et les compter ensemble
+   donnait un chiffre flatteur. Recalculé au registre : **594 relances sur la semaine, dont 257
+   premières et 332 secondes.** Les 332 sont des **troisièmes messages** à des sociétés qui n'ont
+   répondu ni au premier ni au deuxième. **Décision prise : les secondes relances ne se tirent pas en
+   cohorte**, seulement sur les fiches à qualification réelle. Les 257 premières passent d'abord.
+
+**Autres écritures :** Somaver passée en `A APPELER` avec ses coordonnées complètes et une **réserve
+de qualification qui l'affaiblit** — le web la classe nettement en *pare-brise* là où Kompass disait
+automobile *et* bâtiment, donc l'appel doit d'abord trancher la part bâtiment. Glastec, Africa-Glaces
+et Somidav marquées `TESTEE` pour qu'aucune session ne les retravaille : introuvables hors annuaire,
+et les deux dernières sans adresse **ni** téléphone, donc injoignables par aucun canal. **SGO Maroc**
+créée et fermée le même jour en `ECARTE — HORS PERIMETRE` : art et création sur verre à Rabat, motif
+Color Glass Import, avec une boîte Gmail personnelle pour seule adresse publiée.
+Registre : **1048 → 1052 fiches**. Intégrité à 10 champs vérifiée, `verif-argument-float.py` propre,
+`detecte-doublons.py` réduit au seul groupe PG Glass, connu et légitime. Liste d'appels régénérée.
+
+**LA LEÇON DE RENDEMENT, parce qu'elle vaut pour le prochain pays et pas seulement pour le Maroc :**
+sur un pays dont les fiches viennent d'un annuaire, **chercher la CATÉGORIE rapporte, chercher les
+NOMS ne rapporte rien.** Quatre fiches travaillées une par une : zéro adresse. Deux recherches de
+catégorie : trois sociétés neuves avec site indexé et adresse publiée. C'est ce qui avait déjà donné
+CNG Glass au Nigéria quelques heures plus tôt, et c'est la quatrième fois de la journée que le premier
+temps rend une meilleure cible que la fiche de départ.
+
+**POINT DE REPRISE POUR LUNDI 12/10.**
+1. **Passer `detecte-doublons.py` AVANT d'ouvrir les relances** — nouvelle règle, et elle vient de
+   payer le jour où elle a été écrite.
+2. **4 envois programmés** : Induver d'abord (lire la réserve AGC), puis Vitrage Technologie, Nazaki
+   Group (Maldives) et MetaGlass. Angles rédigés dans les fiches, il n'y a plus qu'à écrire.
+3. **21 relances dues** (20 premières du 05/10 + 1 seconde), classées par valeur avec leur réserve
+   propre dans `PLAN-ENVOIS.md`.
+4. **Vérifier l'expéditeur dans `in:sent` avant le premier envoi** (consigne de Kevin, §10), puis
+   compter ce qui est **vraiment** parti du domaine (`in:sent newer_than:1d`) avant d'ouvrir une vague.
+5. **Recontrôler les rebonds des 8 envois du 11/10** — la fenêtre de confirmation est de **72 heures**,
+   ils ne sont donc pas confirmés avant le 14/10.
+6. **L'arrêt d'envoi à froid tombe à minuit.** À rouvrir seulement si aucun nouveau `5.7.1` n'arrive,
+   et en vagues de 5 espacées.

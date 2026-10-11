@@ -229,6 +229,25 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   écrit à une adresse déjà présente au registre sous une autre fiche, sans greper.**
   vérifié : Shibaam était déjà à `RELANCE 2026-10-06` et a reçu un troisième message en deux
   jours. Vérifier après l'envoi ne sert à rien, cela ne fait que documenter la faute.
+  **CINQUIÈME CAS LE 11/10 AU SOIR, ET CELUI-LÀ MONTRE QUE « LE MOT DISTINCTIF » N'EST PAS ENCORE ASSEZ
+  PRÉCIS — il faut dire lequel.** `detecte-doublons.py` a réuni **Alpha Glass LLC** et **Alphaglass LLC**
+  (Ajman) sur le signal du domaine : même `alphaglass.org`, même ville, et la même activité mot pour mot.
+  La fiche créée le 08/10 porte « nom grepé un à un, absent » — **c'est exact, et c'est inutile, parce que
+  le nom grepé était `Alphaglass`, en un mot.**
+  **Greper une CONCATÉNATION ne peut structurellement pas trouver la forme séparée, ni l'inverse.** La
+  règle ci-dessus impose le mot distinctif plutôt que la raison sociale entière, contre le *mot inséré* —
+  elle ne dit rien du *mot composé*. Ici le vrai mot distinctif était **`alpha`**, qui rendait les deux
+  fiches immédiatement.
+  **Règle complétée : le mot à greper est le plus COURT élément distinctif, et il ne doit jamais être
+  lui-même une concaténation.** Devant `Alphaglass`, `Glassivoire`, `Vitroglass`, couper : `alpha`,
+  `ivoir`, `vitro`. Un `grep` de quatre à six lettres coûte la même seconde et voit les deux formes.
+  **CE QUE CE CAS A COÛTÉ, ET CE QU'IL A ÉVITÉ, parce que les deux chiffres comptent :** la maison a reçu
+  **trois** messages entre le 06 et le 09/10 — premier contact et relance sur `info@`, puis un premier
+  contact sur `infoajman@`. C'est la faute Shibaam, sur une cible prioritaire. **Et les deux fiches
+  tombaient dans des cohortes de relance DIFFÉRENTES, le 13/10 et le 16/10 : sans ce balayage elle en
+  recevait deux de plus dans la semaine.** D'où la conduite : `detecte-doublons.py` ne se passe pas
+  seulement après un lot d'ajouts, **il se passe avant d'ouvrir une semaine de relances**, parce qu'un
+  doublon dormant devient deux envois dès que les cohortes s'ouvrent.
 - **Mesurer un marché « non prospecté » au bon chiffre.** Compter les fiches par pays induit
   en erreur : l'Ouganda affichait six fiches, toutes déjà contactées, et la recherche n'a
   fait que retrouver des sociétés du registre. Le seul chiffre utile est le nombre de fiches
