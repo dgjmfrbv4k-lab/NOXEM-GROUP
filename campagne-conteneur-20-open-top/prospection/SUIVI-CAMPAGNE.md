@@ -4559,3 +4559,55 @@ c'est le piège de nom du §6, celui de *zoujaj*, et la règle a tenu — **c'es
 jamais le mot.**
 
 **Registre : 1074 fiches, 18 envois programmés pour lundi.** Intégrité vérifiée, liste d'appels régénérée.
+
+
+**Lot de 22h21 — SINGAPOUR, le vivier le plus neuf de la journée : douze noms, douze absents du registre.**
+
+**Choix du pays délibéré et mesuré.** Les marchés denses ne rendent plus que des sociétés déjà
+présentes — États-Unis, Canada, Brésil, Australie l'ont montré ce soir. J'ai donc cherché un marché
+**mince** : le registre ne portait que **deux** fiches singapouriennes, toutes deux déjà relancées.
+**Douze noms rendus, grepés un par un sur leur plus court élément distinctif : les douze absents.**
+
+**Trois déverrouillés sur trois, tous programmés au 12/10 — le registre passe à 21 envois prêts.**
+· **Yuen Mai Glass Merchant** (Loyang), `sales@yuenmaiglass.com` — **le meilleur profil du lot, et il
+  est déclaré par eux-mêmes en ces termes** : *primary stockist for annealed float glass*, avec
+  livraison **en gros** de feuilles de stock et de miroirs. **« Stockiste » est le mot qui compte** : un
+  stockiste achète par lots pour tenir du stock, c'est l'unité conteneur par construction — c'est le
+  profil Ouchtar, à traiter avant les transformateurs. Et *annealed float* est exactement notre produit
+  de base, pas une transformation. Deux usines, plus du feuilleté **courbe**, donc four de bombage et
+  autoclave.
+· **Meng Heng Glass** (Defu Lane), `sales@mhg.com.sg` — **le profil le plus proche de notre
+  raisonnement** : *importateur, exportateur et fournisseur de verre architectural **de la région***.
+  Elle achète à l'étranger **et** revend hors de Singapour, donc c'est le négociant multi-origines du
+  §6, celui à qui une origine européenne de plus sert *en tant qu'origine*. Membre de la Singapore
+  Glass Association. ⚠️ Deux domaines circulent — l'adresse retenue est celle de **leur** page, pas
+  celle du tiers — et deux dates de fondation se contredisent, 1968 contre 1977 : **aucune date dans le
+  message**.
+· **Soon Heng Glass** (Tuas), `sales@soonhengglass.com.sg` — installation de **2 000 m²** de fabrication
+  et d'entrepôt, **entreprise agréée BCA** — donc des chantiers publics et des spécifications auditées,
+  ce qui rend la matière d'entrée justifiable. Float de 2 à 19 mm qu'ils présentent eux-mêmes comme la
+  forme de base. **Détail de gamme qui donne l'angle :** leur page miroir distingue le revêtement
+  **argent** du revêtement **aluminium**. Une maison qui fait cette distinction au catalogue connaît la
+  question de la tenue du revêtement, et c'est précisément l'entrée du miroir sans cuivre ni plomb.
+
+**ET LA RÉSERVE DE MARCHÉ, DITE SANS LA MAQUILLER, PARCE QU'ELLE CHANGE LE MESSAGE : SINGAPOUR EST UN
+MARCHÉ MOYEN POUR NOUS, PAS UN MARCHÉ FORT.** L'Asie du Sud-Est produit son float en abondance et à bas
+coût — Asahimas en Indonésie, Kibing et Xinyi en Malaisie, Phu My et CFG Ha Long au Vietnam, plus la
+Chine à côté. **Une origine européenne ne se vend donc pas sur le prix ici**, et prétendre le contraire
+se retournerait devant un acheteur qui connaît ses cours. **Et l'argument de l'absence de production
+locale est vrai à Singapour même mais sans aucune valeur**, puisque la région en est pleine — c'est la
+règle du §6 sur le périmètre de la source, prise par l'autre bout.
+**Les trois angles qui tiennent, et aucun ne parle de prix :** le **réexport** (logique Émirats du §6),
+la **spécification** (construction en tour, réglementée BCA), et surtout **le miroir en climat
+équatorial** — Singapour est humide toute l'année et le §8 destine le miroir sans cuivre ni plomb
+nommément aux climats *humides et insulaires*. L'argument se sert par le défaut évité.
+
+**Les Caraïbes, testées en parallèle, ne rendent rien d'exploitable :** la recherche ne remonte que des
+**exportateurs floridiens** d'ouvrants anti-ouragan, sans bureau ni stock local. Le seul acteur
+régional, **King Aluminium** (Arima, Trinité), **était déjà au registre en `ENVOYE 2026-10-08`** — le
+grep l'a vue aussitôt. Et la Trinité compte déjà **7 fiches**, dont notre demande de prix ouverte chez
+Caribbean Glass Specialists. Zone faite.
+
+**Six noms singapouriens restent à travailler**, consignés dans les trois fiches : SGFrames, Deway
+Enterprise, Steiron, Diamond Glass Enterprise, Besglas Home Door, Singapore Safety Glass.
+**Registre : 1074 → 1077 fiches. 21 envois programmés pour lundi.**
