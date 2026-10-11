@@ -5058,3 +5058,57 @@ on va le chercher. 203 des 207 sont en `A QUALIFIER`, ce qui est maintenant exac
 **Etat : 1 086 fiches, 0 ligne malformee, 0 statut vide, 0 doublon d'adresse active, `A ENVOYER`
 uniquement au 2026-10-12. Toujours 0 envoi — l'arret des envois a froid du §10 court jusqu'a
 minuit.**
+
+### 23h26 — lot de deverrouillage apres le bilan : 7 fiches travaillees, 2 adresses, 4 telephones
+
+**Consigne de poursuite recue apres le bilan. Aucun envoi : l'arret du paragraphe 10 court jusqu'a
+minuit.** Les deux gisements faciles sont epuises — 4 fiches en rebond avec domaine propre, dont 3
+deja documentees comme definitivement telephoniques, et 6 fiches avec site et sans adresse. Le
+reservoir restant est les 203 fiches sans site ni adresse, concentrees sur des marches declasses
+(Nigeria 16, Maroc 14, Ghana 12, Algerie 11, Egypte 10). J'ai donc trie par valeur de marche et
+pris les Seychelles, qui ne sont PAS declassees, les DOM, le Mexique et le Panama.
+
+**DEUX ADRESSES, et la premiere est une prise serieuse.**
+· **Glass Caribe (Cancun)** — `info@glasscaribe.com`, telephone et WhatsApp. Transformateur
+  decoupeur distributeur du Quintana Roo, revendeur de Guardian et de Vitro, donc il achete du
+  float a des producteurs : c'est exactement la cible. **Et leur PROPRE page de contact porte une
+  coquille**, `info@glassscaribe.com` avec trois s quand leur domaine en a deux. C'est le piege des
+  quatre cas du 11/10 au soir, et il aurait coute un rebond.
+· **Verra Glass (Manzanillo)** — le premier temps a rendu le groupe plutot qu'une adresse : la
+  marque appartient a INVIMEX, qui publie `contacto@invimexmx.com`. Importateur de verre
+  architectural **de Chine et de Malaisie** revendant aux grossistes et transformateurs.
+
+**QUATRE TELEPHONES SUR DES FICHES QUI N'EN AVAIENT AUCUN** — HT Aluminium et SAWD aux Seychelles,
+Miroglass au Port. Les trois sortent des injoignables, qui passent de **207 a 203**, et la liste
+d'appels passe de 155 a **157 fiches**.
+
+**UNE FICHE FERMEE A BON ESCIENT : EURL Miro Verre**, code NAF 23.12Z donc le bon metier, mais EURL
+a 1 000 euros de capital, associe unique, aucun salarie. Un conteneur de 23 a 25 tonnes est hors de
+sa portee. `ECARTE — PETITE STRUCTURE`, pas `HORS PERIMETRE`.
+
+**UN RESULTAT NEGATIF, dit comme tel : del Cid (Panama)**, importateur declare, mais seuls des
+annuaires sectoriels repetant une description generique. Metier confirme, canal non. Marqueur pose.
+
+**DEUX QUESTIONS D'IDENTITE TRANCHEES, ET C'EST CE QUI PROTEGE LE PLUS.**
+· **Les trois Miro de La Reunion sont trois personnes morales distinctes.** Miro Est, deja
+  contactee le 06/10, Miroglass en SAS sous holding HOLDINVEST, Miro Verre en EURL a associe
+  unique. Le prefixe vient de miroiterie et ne dit rien du lien — le mot ne decide pas, comme
+  verrerie au paragraphe 5. Question close dans le bon sens.
+· **Ma & Sun Aluminium est remontee d'une recherche seychelloise et je l'ai grepee avant de creer
+  la fiche : elle etait DEJA au registre, en `RELANCE 2026-10-06`.** Une seconde de grep contre un
+  troisieme message en cinq jours.
+
+**SIGNAL DE MARCHE A VERIFIER, consigne comme annonce et non comme fait :** le site d'INVIMEX
+annonce **90 millions de dollars a Tierra Blanca dans l'Etat de Veracruz pour une usine de 600
+tonnes par jour en deux phases de 300**. C'est une echelle de ligne float, au Mexique, ou 13 fiches
+sont en jeu. Source unique, leur propre site, aucune date de mise en service, aucune confirmation
+independante : meme traitement que l'usine KEDA au Ghana, on ne s'en sert pas comme d'une date.
+S'ils produisent un jour, Verra Glass passe de cible a concurrent.
+
+**Deux courtiers de donnees ajoutes aux interdits** : `veritradecorp.com`, qui vend des releves
+d'importation, et `dnb.com`. Avec une precision pour ne pas sur-bloquer : un portail sectoriel
+comme `vidrioperfil.com` est une piste d'identification legitime, il ne satisfait simplement pas la
+regle anti-rebond.
+
+**Etat : 1 086 fiches, 27 envois programmes au 12/10, 0 ligne malformee, A APPELER sans telephone a
+zero. Envois confirmes ce soir : zero, et c'est la regle du paragraphe 10, pas une limite d'outil.**
