@@ -3821,7 +3821,7 @@ ougandais du §5 : compter les fiches d'un pays induit en erreur.
 
 ---
 
-### 11/10/2026 — 16h22 CEST · objectif 300 : résultat réel 8, et le blocage est mesuré
+### 11/10/2026 — 16h21 CEST · objectif 300 : résultat réel 8, et le blocage est mesuré
 
 **ENVOIS CONFIRMÉS AUJOURD'HUI : 8.** Objectif de 300 non atteint, et l'écart n'est pas une question
 d'effort : **la base d'adresses est épuisée.** Voici la mesure, puisque c'est elle qui décide.
@@ -3865,7 +3865,7 @@ quand j'ai compté. Loin de toute limite.
   un miroir argenté depuis le chant, villa par villa, et le conteneur n'est que la première étape —
   le dhoni vers l'île est la seconde, ce pour quoi aucune caisse de cale n'est calée.
 
-**ARRÊT DES ENVOIS À FROID À 16h22, ET C'EST LA RÈGLE DU §10 QUI LE COMMANDE.** Un
+**ARRÊT DES ENVOIS À FROID À 16h21, ET C'EST LA RÈGLE DU §10 QUI LE COMMANDE.** Un
 **`554 5.7.1 Delivery not authorized`** est tombé à 14h13 UTC depuis **`vratakriz.cz`**, un serveur
 qui ne nous avait jamais rejetés. La règle est explicite : *5.7.1 depuis un serveur nouveau → on
 finit la vague en cours et on s'arrête là pour la journée.* Le rebond concerne un envoi de **l'autre
