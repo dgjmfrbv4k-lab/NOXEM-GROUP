@@ -775,3 +775,156 @@ frequency, and whether you take delivery at Malé or elsewhere.
 
 And if you are supplied to your satisfaction, say so and I will not keep writing.
 ```
+
+
+---
+
+# BLOC SINGAPOURIEN — ce qui est commun aux quatre textes ci-dessous
+
+**L'interdit qui commande tout, et il est inhabituel : ne JAMAIS argumenter sur le prix ni sur
+l'absence d'offre locale.** L'Asie du Sud-Est produit son float en abondance et à bas coût — Asahimas
+en Indonésie, Kibing et Xinyi en Malaisie, Phu My et CFG Ha Long au Vietnam, plus la Chine. **Un
+acheteur singapourien connaît ses cours mieux que nous.** Et l'absence de production *à Singapour même*
+est vraie et sans aucune valeur, puisque la région en est pleine — et Woodlands est à une heure de
+camion du float malaisien.
+**Les trois angles qui tiennent :** le **réexport**, la **spécification** (construction en tour,
+réglementée BCA), et surtout **le miroir en climat équatorial humide**, que le §8 destine nommément aux
+climats *humides et insulaires*.
+**Le bloc de clôture commun :**
+```
+How we ship: full containers, heat-treated ISPM-15 timber crates, paper interleaved. Jumbo sheets or
+cut to your sizes.
+
+We can put together an offer delivered to your port of destination, subject to validation on our
+side.
+
+Four things from you: references and thicknesses by volume, sheet sizes, annual volume and buying
+frequency, and whether any of it is re-exported - that last one changes what is worth quoting.
+
+And if your supply is settled, just say so. I would rather know than keep writing.
+```
+
+---
+
+## 20. Meng Heng Glass — `sales@mhg.com.sg` — ouverture propre
+
+**Objet :** `One more origin for your import book`
+⚠️ **Ne citer aucune date** : une source dit 1968, une autre 1977.
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to you rather than to a fabricator because you describe yourself as an importer,
+exporter and supplier of architectural glass for the region - you buy abroad and you sell beyond
+Singapore. That is a trading book, not a works order, and a trading book is the one place where an
+extra origin has value on its own terms.
+
+I am not going to tell you European glass is cheaper than what you buy today, and I am not going to
+tell you supply is tight. Neither is true where you sit.
+
+What I am offering is an origin you can put next to the others, for two products where it carries
+something:
+
+- copper-free and lead-free mirror, because of your climate. Mirror edge corrosion is a humidity
+  problem - moisture reaches the copper layer behind the silver and the spotting creeps in from the
+  perimeter - and Singapore is humid every month of the year:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- clear and extra-clear float: https://noxemgroup.com/en/float-glass/
+```
+
+---
+
+## 21. Singapore Safety Glass (SSG) — `info@ssg.com.sg` — ouverture propre
+
+**Objet :** `Substrate for DuraSafe and your branded lines`
+⚠️ **Ne pas nommer Abraham Tang** : il a sa propre page de contact mais **sa fonction n'est pas
+établie**, et le §5 exige une fonction vérifiée *et* pertinente.
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to you because of something most processors do not do: you put your own name on your
+products. DuraSafe, LUXAR, LEDGlas - and you publish performance data for them.
+
+That changes what a substrate is for. A shop that cuts to order needs glass that works. A house that
+has registered its own references and published numbers against them needs glass that behaves the
+same way next year as it did last year, because the numbers are yours and the recertification is
+yours. Heat soak and lamination both punish variation rather than hiding it.
+
+That is the whole of my argument, and it is not about price - which, where you sit, would not be a
+credible argument anyway.
+
+- clear and extra-clear float, the substrate: https://noxemgroup.com/en/float-glass/
+- copper-free and lead-free mirror, if mirror is in the mix - an equatorial climate is where the
+  copper layer matters most: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+```
+
+---
+
+## 22. Soon Heng Glass — `sales@soonhengglass.com.sg` — ouverture propre
+
+**Objet :** `Silver or aluminium - the question your mirror page already asks`
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing because of one line on your mirror page. You distinguish the silver coating from the
+aluminium one, and you list clear, bronze and grey. Most suppliers do not bother making that
+distinction in public - a house that does already knows that what sits behind the glass decides how
+long the mirror lasts.
+
+So the thing I have to offer will not be news to you, only useful: our mirror is copper-free and
+lead-free. Edge corrosion starts when moisture reaches the copper layer behind the silver, and in a
+climate like yours it starts early. Removing that layer is a different approach from sealing it
+better: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+And the base, since you describe float as the starting form yourself, from 2 to 19 mm:
+https://noxemgroup.com/en/float-glass/
+Plus the tempered page, as you temper and heat-strengthen in house:
+https://noxemgroup.com/en/tempered-glass/
+
+Your BCA licence is the other reason I am writing: public work means specified glass, and specified
+glass means a substrate you can account for.
+```
+
+---
+
+## 23. Diamond Glass Enterprise — `enquiry@diamondglass.com.sg` — ouverture propre
+
+**Objet :** `Façade volumes - substrate from a single European source`
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to you because of one word in how you describe yourself: façade. Curtain wall is the
+heaviest use of flat glass in a building - a façade is counted in thousands of square metres per
+project, not in sheets - and it is also the one where the glass is audited at handover, for thermal
+performance and for safety.
+
+Those two things together are the reason a façade contractor cares where the base sheet comes from,
+and they are the only argument I have. I am not offering you a cheaper origin; where you sit that
+would not be a credible claim.
+
+- clear and extra-clear float, the base: https://noxemgroup.com/en/float-glass/
+- technical glazing, for the specified parts: https://noxemgroup.com/en/technical-glazing/
+- and low-E, if the thermal side of the specification is where the pressure sits:
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Your 24-hour line tells me you run live projects rather than a counter, so I will keep this short.
+```
+
+---
+
+# ÉTAT DU FICHIER
+
+**Les 23 textes des envois de lundi sont rédigés.** Chacun porte, au-dessus de lui, les réserves qui
+l'ont commandé — boîte mal routée, appartenance de groupe, réserve de taille, interdit de marché.
+**Aucun ne contient de prix, de délai, de certificat, de condition non validée, de nom d'usine
+partenaire ni de signature.** Tous portent la ligne d'identification du §9 et la formule de l'offre du
+§5, mot pour mot.
+**⚠️ Et aucun ne part de lui-même :** relire l'adresse **au registre**, passer le **contrôle avant-vol
+du domaine**, vérifier l'**expéditeur dans `in:sent`**, et respecter les **vagues de 5 espacées**.
