@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **150 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **151 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 150 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 151 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 139 societes
+## Hors Europe — 140 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Guyane | **ALUVER Guyane** | `0594 31 20 50` | a verifier | A APPELER | Fiche creee le 09/10/2026 13h07 CEST. LA GUYANE ETAIT A ZERO FICHE AU REGISTRE alors que c est un departement approvisionne par conteneur et DANS le perimetre de la campagne — le paragraphe 6 n exclut que la metropole. ALUVER e... |
 | Koweït | **Aluminum Glass Kuwait** | `+965 66468763` | 08h00 - 16h00 · **dim-jeu** | A QUALIFIER | FICHE CREEE LE 08/10 A 17h10 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Site propre kuwaitaluminumexperts.com. Annonce des panneaux aluminium vitres en verre depoli... |
 | Sainte-Lucie | **Saint Lu Metal & Plastic Manufacturers Ltd** | `+1 758 451 3023` | 15h00 - 23h00 | A APPELER | Leader local depuis 1979. Aucune adresse email publiee : a rappeler. Port Castries. Precision du 07/10 : ils fabriquent eux-memes du trempe, du float, du feuillete et des menuiseries aluminium, sur deux sites, Mongiraud Gros Is... |
+| Singapour | **Reliance Safety Glass Pte Ltd** | `+65 6755 4555` | 03h00 - 11h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 22h22 ET TELEPHONIQUE D EMBLEE. Grep reliance fait avant creation, absente. Remontee du second temps mene sur Singapore Safety Glass. MOTIF : LEUR ADRESSE EST OBFUSQUEE. La recherche restreinte a rel... |
 | Haïti | **L Union Quincaillerie Materiaux de Construction** | `+509 35 27 03 30` | 15h00 - 23h00 | A QUALIFIER | La fiche ne mentionne pas de vitrerie : rien ne dit qu ils vendent du verre. Priorite basse, a qualifier avant tout effort. |
 | Sénégal | **SK ALU** | `+221 65 944 90 80` | 11h00 - 19h00 | A APPELER | Petite structure, à qualifier.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relance comme au decompte des fiches jamais contactees. Aucune adresse publiee, donc dossier... |
 
