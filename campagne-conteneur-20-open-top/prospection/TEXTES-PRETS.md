@@ -424,3 +424,168 @@ side - Miami, unless you use another.
 Si le resulta más cómodo, podemos seguir esta conversación en español. Dígamelo y continúo en
 español.
 ```
+
+
+---
+
+# BLOC BRÉSILIEN — ce qui est commun aux six textes ci-dessous
+
+**À lire une fois, puis à ne plus rediscuter.** Les textes 9 à 13 ne répètent que leur ouverture propre.
+
+**Les deux interdits, et ils ne souffrent pas d'exception :**
+1. **Ne JAMAIS écrire qu'il n'y a pas de production locale au Brésil.** Vivix produit ~900 t/jour à
+   Goiana et Cebrace exploite plusieurs lignes. **C'est de cette production que vient le parapluie de
+   prix haut** qui rend le marché intéressant — le dire serait à la fois faux et contre-productif.
+2. **Ne rien affirmer sur le droit antidumping chinois ni sur le droit de douane ordinaire.** La revue
+   du droit chinois n'est pas tranchée, et le droit ordinaire est entre 9 et 25 % selon des sources qui
+   se contredisent. **Seules la Malaisie, le Pakistan et la Turquie sont confirmés** par la Gecex
+   833/2025, confirmée elle-même par le rejet du recours d'ABIVIDRO à la Gecex 961.
+
+**La ligne douanière autorisée, mot pour mot, et rien de plus :**
+```
+Um ponto que talvez seja útil: desde 2025 o float incolor originário da Malásia, do Paquistão e da
+Turquia paga direito antidumping no Brasil. A origem europeia não é alcançada por nenhuma dessas
+medidas. É um fato aduaneiro, não uma oferta de preço.
+```
+
+**Le bloc de clôture commun, mot pour mot :**
+```
+Como embarcamos: contêineres completos, caixas de madeira tratada NIMP-15, com interfolhamento de
+papel. Jumbo ou nas medidas de vocês.
+
+Podemos elaborar uma oferta para entrega no porto de destino de vocês, sujeita a validação do nosso
+lado.
+
+Para isso preciso de quatro informações: as referências e espessuras que mais consomem, as medidas,
+o volume anual e a frequência de compra, e o porto.
+
+E se vocês já estiverem com um fornecimento fechado que funciona, basta dizer - não insisto.
+```
+
+**Et l'ouverture commune :**
+```
+Meu nome é Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e exportadora de vidro plano perto de
+Lyon, na França.
+```
+
+---
+
+## 9. Divibras — `contato@divibras.com.br` — ouverture propre
+
+**Objet :** `Float e espelho em contêiner completo - para quem revende`
+⚠️ **Exception du §5 à connaître** : leur site est sur un sous-domaine d'hébergeur, leur messagerie sur
+leur domaine propre. C'est l'inverse du cas habituel, et c'est noté dans la fiche.
+
+```
+Escrevo porque vocês vendem para distribuidores, vidraçarias e construtoras - não para o consumidor
+final. Isso é o motivo do contato: quem revende raciocina em lote e em giro de estoque, e é nessa
+unidade que trabalhamos.
+
+Desde 1993 em distribuição e industrialização, com a segunda unidade de têmpera em Itaquaquecetuba:
+vocês compram substrato para dois destinos ao mesmo tempo, o que revendem e o que transformam. As
+duas coisas começam na mesma chapa.
+
+- float incolor e extra clear, a base: https://noxemgroup.com/en/float-glass/
+- vidro temperado: https://noxemgroup.com/en/tempered-glass/
+(o site existe apenas em francês e inglês - fico à disposição para explicar em português)
+```
+
+---
+
+## 10. VPM — Vidros Planos e Móveis — `vpm@vpm.com.br` — ouverture propre
+
+**Objet :** `Substrato para têmpera, laminado e insulado - fornecedor francês`
+⚠️ **Goiânia est à ~900 km de Santos** : le texte **demande** le port et qui prend le tronçon routier,
+il ne chiffre rien.
+
+```
+Escrevo porque vocês fabricam e distribuem ao mesmo tempo - temperado, laminado e vidro insulado -
+e três transformações na mesma casa significam um volume de entrada que se conta em contêiner e não
+em chapa.
+
+Trinta e dois anos e atuação em todo o território nacional dizem o resto.
+
+- float incolor e extra clear, a base das três: https://noxemgroup.com/en/float-glass/
+- vidro temperado: https://noxemgroup.com/en/tempered-glass/
+- vidro insulado: https://noxemgroup.com/service/double-vitrage/
+(o site existe apenas em francês e inglês)
+
+Uma pergunta que prefiro fazer a supor: Goiânia fica longe do litoral, então qual porto vocês usam,
+e quem assume o trecho rodoviário? Prefiro perguntar do que cotar uma entrega que não controlo.
+```
+
+---
+
+## 11. Grupo RV Vidros — `atendimento@gruporvvidros.com.br` — ouverture propre
+
+**Objet :** `Segunda origem em float - indústria e comércio`
+⚠️ **`atendimento@` et non `vendas@`** : une offre de fournisseur au service qui *vend* est mal routée.
+
+```
+Escrevo para o atendimento porque o que trago é uma proposta de fornecimento, e não um pedido - se
+houver alguém de compras, por favor encaminhe.
+
+O motivo do contato é simples: vocês são indústria e comércio ao mesmo tempo, e a Serra fica ao lado
+de um porto. As duas coisas juntas fazem do contêiner uma unidade natural, o que não acontece com um
+transformador no interior.
+
+- float incolor e extra clear, a base: https://noxemgroup.com/en/float-glass/
+- vidro temperado: https://noxemgroup.com/en/tempered-glass/
+(o site existe apenas em francês e inglês)
+```
+
+---
+
+## 12. Penha Vidros — `contato@penhavidros.com.br` — ouverture propre
+
+**Objet :** `Espelho e float em contêiner - fornecedor francês de vidro plano`
+⚠️ **Réserve de profil :** la gamme — douche, garde-corps, façades, films — est celle d'un
+transformateur-poseur malgré le mot *Importadora* dans la raison sociale. **Le volume se pose avant
+d'argumenter.**
+
+```
+Escrevo porque a razão social de vocês traz a palavra Importadora, e porque mais de sessenta anos de
+mercado em vidro para construção, arquitetura de interiores e indústria é uma base que não se
+improvisa.
+
+Antes de falar de produto, uma pergunta que decide o resto: em que volume e com que frequência vocês
+compram? Trabalhamos em contêineres completos. Se a compra de vocês é por pallet junto a um
+distribuidor local, prefiro dizer isso com franqueza a enviar uma proposta que não serve.
+
+Se o contêiner servir, duas coisas interessam:
+
+- espelho sem cobre e sem chumbo, para fachada e banheiro:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- float incolor e extra clear: https://noxemgroup.com/en/float-glass/
+(o site existe apenas em francês e inglês)
+```
+
+---
+
+## 13. New Glass — `marketing1@newglassind.com.br` — **ENVOI SEUL**
+
+**Objet :** `Mais uma origem para a maior importadora de vidro do Brasil`
+⚠️ **ENVOI ISOLÉ, JAMAIS DANS UNE VAGUE.** Leur autre adresse a rebondi en *domaine introuvable*, mais
+sur `newSglassind` — la coquille. Celle-ci est un domaine différent jamais testé. **Si ça rebondit,
+c'est le deuxième échec et la fiche part définitivement au téléphone.**
+⚠️ **`marketing1@` est une boîte marketing**, donc la première ligne demande le transfert aux achats.
+
+```
+Mensagem de fornecimento - se houver alguém de compras, por favor encaminhe.
+
+Meu nome é Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e exportadora de vidro plano perto de
+Lyon, na França.
+
+Escrevo sem nenhuma intenção de explicar a vocês o que é importar vidro. Vocês se apresentam como a
+maior importadora de vidro do Brasil, com sete centros de distribuição, de Curitiba a Horizonte no
+Ceará. A única coisa que posso oferecer a uma casa assim é mais uma origem - não uma primeira.
+
+É exatamente por isso que escrevo. Quem compra de mais de vinte países não compra por falta de
+alternativa, compra por carteira. Uma origem europeia a mais na carteira não precisa ser mais barata
+para ter utilidade.
+
+- float incolor e extra clear: https://noxemgroup.com/en/float-glass/
+- espelho sem cobre e sem chumbo, se o espelho entrar no mix:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+(o site existe apenas em francês e inglês)
+```
