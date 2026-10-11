@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **155 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **157 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 155 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 157 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 144 societes
+## Hors Europe — 146 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Mexique | **Vidrios y Cristales Guadalajara** | `+52 33 2212 1941` | 17h00 - 01h00 | A APPELER | 50 ANS, usines au Jalisco, distribution nationale. Port Manzanillo ou Veracruz. Envoi en espagnol. REBOND 24/09 (boite pleine) : renvoye le 25/09. Relance courte le 06/10, lots 7 et 8. Rebond 06/10 : BOITE PLEINE, adresse valid... |
 | Nigéria | **TechnoGlass Industries Ltd** | `+234 703 274 9126` | 10h00 - 18h00 | A APPELER | CIBLE PRIORITAIRE : la plus grosse capacite de la sous-region. ADRESSE REBONDIE : rappeler au +234 703 274 9126. CONTROLE MX DU 07/10 : le domaine technoglassng.com ne resout pas (NXDOMAIN), l adresse info@technoglassng.com ne ... |
 | Paraguay | **Vidrieria TEMPLAR — Templados del Paraguay** | `+595 21 326 97 55` | 14h00 - 22h00 | A QUALIFIER | Trempeur donc acheteur de substrat. Aucune adresse publiee dans les resultats et fiche annuaire ancienne. Transit par Montevideo. A appeler. ADRESSE TROUVEE LE 08/10 MAIS LA FICHE EST A DECLASSER, ET IL FAUT LE DIRE PLUTOT QUE ... |
+| Seychelles | **HT Aluminium and Granite** | `+248 271 45 55 / +248 437 33 98` | 07h00 - 15h00 | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. MEILLEURE CIBLE SEYCHELLOISE DU LOT, et pour une raison precise : ils ne se contentent pas d annoncer de l aluminium, ils an... |
 | Tunisie | **Promoverre** | `+216 70 563500` | 10h00 - 18h00 | A APPELER | Producteur de vitrages feuilletés et isolants pour marchés tunisien et export. Pas d adresse publiee : appeler. Port Rades. Transformateur de verre plat depuis 1996, Z.I. M'nihla route de Bizerte km 5. Feuillete, double vitrage... |
 | Vietnam | **Eurowindow HCM** | `+84 28 3812 9999` | 04h00 - 12h00 | A APPELER | Groupe Eurowindow, un des premiers fabricants vietnamiens de fenetres verre alu. Port Cat Lai, envoi en vietnamien. CONTROLE MX DU 07/10 : le domaine eurowindowhcm.com n a aucun enregistrement MX, seulement un A. Livraison ince... |
 | Yémen | **Alawadhi Trading Group** | `+967 778 888 597` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Usine verrière et réseau à Sanaa, Aden, Mukalla, Hodeïda et Taïz. Pas d adresse publiee : appeler. Port . Fonde en 1974. Transformateur de verre architectural et bardage Alucobond, agences Yale Wacker et Dow. Dessert Yemen Arab... |
@@ -150,6 +151,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Ghana | **Kumasi Glass Works Ltd** | `+233 3220 30088` | 11h00 - 19h00 | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. Source annuaire ghaneen, avec un TELEPHONE PUBLIE, ce qui est rare dans ce lot. Fabrication et fourniture de produits verrie... |
 | Ghana | **Ghana Glass Works Ltd** | `+233 302 701 700` | 11h00 - 19h00 | A QUALIFIER | A TRANCHER AVANT CONTACT : annoncee comme fabricant et fournisseur de verre plat y compris float. Si elle produit reellement du float c est un concurrent au sens du paragraphe 6 et non un prospect. Mais les sources indiquent qu... |
 | Jamaïque | **Aluminium Extrusions Depot Ltd** | `+1 876 923 3228` | 16h00 - 00h00 | A APPELER | 435 Spanish Town Road. Fournisseur des fabricants de fenetres de Kingston. Aucune adresse publiee : a appeler. METHODE EN DEUX TEMPS APPLIQUEE LE 08/10 : AUCUN DOMAINE PROPRE, la societe n apparait que dans des annuaires, qui n... |
+| La Réunion | **Miroglass** | `+262 262 42 01 54` | 07h00 - 15h00 | A APPELER | FICHE CREEE LE 08/10 A 17h10 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source annuaires PagesJaunes et locaux. IMPLANTATION AU PORT, ce qui est l element le plus u... |
 | Malawi | **AGA — Affordable Glass & Aluminium** | `+265 212 245 346` | 09h00 - 17h00 | A APPELER | Fabricant verre-aluminium de Blantyre. Pays enclave : transit via Beira ou Nacala. Aucune adresse email publiee : a rappeler. ZONE EST-AFRICAINE DECLASSEE LE 08/10, SUR UN FAIT VERIFIE. Sapphire Float Glass, a Mkuranga en Tanza... |
 | Oman | **Al Aliyat Glass Factory** | `+968 93021153` | 07h00 - 15h00 · **dim-jeu** | A APPELER | À qualifier. Qualifie le 07/10 : bend glass, fibre, brique de verre, bardage verre, feuillete. Contact cite Zahar Al Jafri, fonction non verifiee donc pas de nom dans le message. Aucune adresse publiee : a appeler. — TESTEE LE ... |
 | Ouganda | **Ahmad Glazing Uganda Ltd** | `+256 707 922403` | 08h00 - 16h00 | A QUALIFIER | PRUDENCE : la page de la societe decrit un fabricant base en Chine et affiche un numero WeChat en +86. Probable vitrine d un fournisseur chinois plutot qu un transformateur ougandais. La Chine etant exclue au paragraphe 6 comme... |
