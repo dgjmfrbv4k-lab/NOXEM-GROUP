@@ -4818,10 +4818,10 @@ pas une limite d'outil.**
 2. **Vérifier l'expéditeur dans `in:sent`** (consigne de Kevin, §10), puis **compter ce qui est
    vraiment parti du domaine** (`in:sent newer_than:1d`) — **une autre campagne envoyait encore à 22h02
    ce soir**, et le quota comme la réputation sont partagés.
-3. **Les 23 envois programmés**, dans l'ordre et par **vagues de 5 espacées**, **ordonnés par fuseau** :
+3. **Les 24 envois programmés**, dans l'ordre et par **vagues de 5 espacées**, **ordonnés par fuseau** :
    Singapour d'abord (+6 h), puis Maldives et Maroc, puis Brésil, puis États-Unis, puis Canada (−9 h).
    **New Glass seule.** Table complète et réserves par fiche dans `PLAN-ENVOIS.md`.
-   **⚠️ LES 23 TEXTES SONT DÉJÀ RÉDIGÉS dans `TEXTES-PRETS.md`** — il n'y a plus à rédiger, seulement
+   **⚠️ LES 24 TEXTES SONT DÉJÀ RÉDIGÉS dans `TEXTES-PRETS.md`** — il n'y a plus à rédiger, seulement
    à relire et à envoyer. Chacun porte au-dessus de lui les réserves qui l'ont commandé, et les blocs
    communs brésilien et singapourien sont écrits une fois pour éviter la dérive.
    **Et un CONTRÔLE AVANT-VOL du domaine est à passer sur la vague**, né de quatre quasi-fautes de
@@ -4966,3 +4966,58 @@ México**, qui fait du float **et du miroir** au Mexique — ce second nom n'app
   antidumping mexicain a un intérêt direct à changer d'origine.
 
 **Registre : 1083 → 1086 fiches.**
+
+
+---
+
+# CLÔTURE DE LA SOIRÉE DU DIMANCHE 11/10 — 23h07
+
+**Travaillé de 21h16 à 23h07, en deux temps : la session du soir puis la plage jusqu'à 23h30
+accordée par Kevin. ZÉRO ENVOI sur toute la durée, et ce n'est pas une limite d'outil : c'est l'arrêt
+des envois à froid du §10, décidé à 16h21 sur un `554 5.7.1` venu d'un serveur jamais vu, qui court
+jusqu'à minuit — donc au-delà de la plage autorisée. Gmail a été lu, pas utilisé pour envoyer.**
+
+## Ce que la soirée a produit, en chiffres mesurés
+
+| | |
+|---|---|
+| Registre | **1 048 → 1 086 fiches** (+38) |
+| **Envois prêts pour lundi** | **1 → 24**, avec **les 24 textes rédigés** |
+| Textes de relance | modèle + les **6** qui valent le plus, sur les 21 dues |
+| Adresses déverrouillées | **13** (3 Maroc, 4 Brésil + 1 ressuscitée, 5 Singapour, 4 USA, 1 Canada, 1 Mexique) |
+| Fiches fermées à bon escient | **6** (SGO Maroc, Abrasipa, SGFrames, VASA Bolivie, Alpha Glass, CNG Glass) |
+| Doublons interceptés | **1**, qui allait coûter **2 envois** cette semaine |
+| Questions douanières du §6 | **6 sur 6 travaillées**, aucune close sur source officielle |
+| Erreurs de ma part ou du mandat, corrigées | **4** (horodatage ×3, point-virgule, Hartung, et le calcul du §6) |
+
+## Les cinq choses qui comptent le plus, et pourquoi
+
+1. **Une erreur de calcul dans le mandat, qui avait propagé à 14 fiches.** Le repère indien de 374 $/t
+   était converti en « 1,50 $/m² en 4 mm » au lieu de **3,74** — facteur 2,5. **Et c'est l'ancre de la
+   cotation népalaise**, qui porte sur du 12 mm : à 1,50 on aurait chiffré sur 4,50 $/m² au lieu de
+   11,22. Sur 25 à 30 conteneurs/mois, cela ne se rattrape pas.
+2. **Le point EUR.1, qui conditionne toutes les questions douanières.** Une préférence tarifaire ne
+   s'applique pas automatiquement : **c'est l'exportateur qui fournit la preuve d'origine.** Sans elle,
+   l'avantage tarifaire européen est **nul partout où il existe**. Deux questions à nos usines, et elles
+   passent **avant** les six questions de pays.
+3. **Le goulot n'est plus la prospection, c'est la grille de prix.** 616 messages partis, **12 dossiers
+   vivants, 0 commande** — et les deux plus avancés attendent **nous** : Caribbean Glass Specialists
+   depuis le 08/10, Népal pour « début de semaine ». Repères de prix consolidés et convertis.
+4. **Les marchés denses ne rendent plus rien, les marchés minces oui.** États-Unis, Canada, Brésil,
+   Australie, Colombie, Pérou, Nouvelle-Zélande, Mexique : les recherches de catégorie y retrouvent le
+   registre. **Singapour a rendu 12 noms neufs sur 12.**
+5. **Et une source bat toutes les recherches de catégorie : une liste nommée dans une procédure
+   publique.** L'exhibit I-7 du dossier C-570-189 a donné 4 cibles américaines dont il est **établi au
+   dossier** qu'elles importent du float — on ne suppose pas leur métier, on le lit. ⚠️ Avec la nuance
+   que c'est la liste du **pétitionnaire** : importateur *supposé*, pas établi.
+
+## Ce qui bloque, et qui ne dépend pas de moi
+
+· **La grille de prix** — deux dossiers mûrs l'attendent (§11).
+· **La preuve d'origine EUR.1** — deux questions à nos usines, et elles conditionnent tout le reste.
+· **L'accès réseau** — **six sources officielles** hors liste blanche : USITC, Siscomex, DOF/TIGIE,
+  Access2Markets, douane française, MinCIT. Plus la liste complète des importateurs C-570-189, qui est
+  un PDF. C'est pourquoi aucune des six questions douanières n'est closée.
+· **Le répondeur automatique français**, toujours actif, qui a tiré sur la RFQ d'Over Head Asia.
+· **Et une autre campagne envoyait encore à 22h02 ce soir** depuis la même boîte, sur le même pays
+  tchèque qui a déclenché mon arrêt. Le quota et la réputation sont partagés (§10).
