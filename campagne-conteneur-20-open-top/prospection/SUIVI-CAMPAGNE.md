@@ -5021,3 +5021,40 @@ jusqu'à minuit — donc au-delà de la plage autorisée. Gmail a été lu, pas 
 · **Le répondeur automatique français**, toujours actif, qui a tiré sur la RFQ d'Over Head Asia.
 · **Et une autre campagne envoyait encore à 22h02 ce soir** depuis la même boîte, sur le même pays
   tchèque qui a déclenché mon arrêt. Le quota et la réputation sont partagés (§10).
+
+### 23h15 — 47 fiches reclassees : le compte des appels etait faux de 36 %
+
+**Le declenchement de 22h45 est arrive avec 26 minutes de retard, apres le bilan.** C'est ma propre
+relance programmee et non un ordre neuf, donc elle ne rouvre pas la journee — mais il restait une
+tache que j'avais datee « debut de session » sans raison valable, et elle n'envoie rien.
+
+**LE DEFAUT : 47 fiches en `A APPELER` ne portaient AUCUN telephone.** Un statut qui dit d'appeler
+sans donner de numero promet une action impossible, et il gonflait le compte des appels a passer de
+**178 a 131**, soit 36 %. Les 47 sont passees en `A QUALIFIER`, dont la prochaine action est de
+trouver un canal. **`A APPELER` vaut desormais 131, et les 131 portent toutes un numero.**
+
+**ET J'AI COMMIS LA FAUTE DE SELECTION DU §13 DANS LE GESTE MEME QUI LA CORRIGEAIT.** Mon premier
+filtre exigeait e-mail **et** telephone vides : il a trouve 44 fiches et manque les **3** dont
+l'adresse est morte — GEOALPEN, Qaswa Glass, Texas Glass Group, toutes trois en serveur muet ou mal
+configure, donc renvoyees au telephone par le §13 alors qu'elles n'ont pas de numero. **Une adresse
+morte ne vaut pas une adresse** : un filtre sur la PRESENCE d'un champ ne dit rien de son ETAT.
+C'est la faute du filtre sur le statut seul, prise par l'autre bout. Les 3 sont reclassees aussi.
+
+**CE QUE CELA NE CORRIGE PAS, et il faut le dire parce que je m'attendais a l'inverse :
+`LISTE-APPELS.md` etait DEJA propre.** Verifie apres regeneration : 155 lignes, **zero sans
+numero** — le generateur filtrait deja sur la presence du telephone. Donc cette reclassification
+n'ameliore pas la liste d'appels, elle corrige le **registre** et le sens du statut, c'est-a-dire
+ce que lisent l'audit et tout comptage de ce qui reste a faire.
+
+**CHIFFRE DU MANDAT CORRIGE DANS LA FOULEE : les fiches joignables par aucun canal sont 207, pas
+75.** Le 75 datait du 08/10 sur 848 fiches ; il y en a 1 086, et la croissance vient surtout de
+noms pris dans des annuaires sans coordonnees. Le §12 presente ce chiffre comme « le bon quand on
+mesure ce qui reste a faire » — il etait donc faux d'un facteur presque trois a l'endroit meme ou
+on va le chercher. 203 des 207 sont en `A QUALIFIER`, ce qui est maintenant exact.
+
+**Controle ajoute au mandat, il doit valoir zero par construction :**
+`awk -F';' 'NR>1 && $10=="A APPELER" && $8=="" {n++} END {print n+0}' liste-prospects.csv`
+
+**Etat : 1 086 fiches, 0 ligne malformee, 0 statut vide, 0 doublon d'adresse active, `A ENVOYER`
+uniquement au 2026-10-12. Toujours 0 envoi — l'arret des envois a froid du §10 court jusqu'a
+minuit.**

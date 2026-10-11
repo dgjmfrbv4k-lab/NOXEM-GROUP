@@ -1133,6 +1133,24 @@ supprime pas**, ce qui est aussi ce que le garde-fou d'écriture impose désorma
 **Et 75 fiches n'ont ni adresse ni téléphone**, donc ne sont joignables par aucun canal : elles
 gonflent le compte des « à appeler » sans rien promettre. C'est pourquoi `LISTE-APPELS.md` n'en
 retient que **121 sur 195**. Ce chiffre-là est le bon quand on mesure ce qui reste à faire.
+**MESURE REFAITE LE 11/10 À 23h13, ET LE CHIFFRE DE 75 EST PÉRIMÉ D'UN FACTEUR PRESQUE TROIS :
+ILS SONT 207.** Le 75 datait du 08/10 sur 848 fiches ; le registre en compte **1 086**, et la
+croissance vient surtout de noms pris dans des annuaires sans aucune coordonnée. **203 des 207
+sont en `A QUALIFIER`**, ce qui est exact — et ne l'était pas avant ce soir, puisque **47 d'entre
+elles étaient en `A APPELER`**, un statut qui promettait un appel sans numéro et gonflait de 36 %
+le compte des appels à passer.
+**Les 47 sont reclassées, et le compte devient vrai : `A APPELER` tombe de 178 à 131, et les 131
+portent toutes un numéro.** Contrôle à passer après chaque lot, puisqu'il doit valoir zéro par
+construction :
+```bash
+awk -F';' 'NR>1 && $10=="A APPELER" && $8=="" {n++} END {print "A APPELER sans tel: "n+0}' liste-prospects.csv
+```
+**ET LA LEÇON DE SÉLECTION, parce que je l'ai commise ce soir-là même en la connaissant :** mon
+premier filtre exigeait e-mail **et** téléphone vides, et il a donc manqué **trois** fiches dont
+l'adresse était morte — GEOALPEN, Qaswa Glass, Texas Glass Group, toutes trois en serveur muet ou
+mal configuré. **Une adresse morte ne vaut pas une adresse**, et un filtre sur la PRÉSENCE d'un
+champ ne dit rien de son ÉTAT. C'est la même faute que le filtre sur le statut seul du §13, prise
+par l'autre bout.
 
 **Garde-fou d'écriture, obligatoire.** Tout script qui modifie le registre passe par :
 ```python
