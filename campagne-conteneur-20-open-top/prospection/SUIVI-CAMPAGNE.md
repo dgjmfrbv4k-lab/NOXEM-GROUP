@@ -4418,12 +4418,12 @@ proche de la campagne.**
 toutes ont un motif documenté de l'être : les **6 camerounaises** en attente d'Aaron (ambiguïté
 « mini-mail sur mesure » : impossible de savoir d'ici si le message est parti de l'ancienne boîte, et
 envoyer à l'aveugle répéterait Shibaam en connaissance de cause), **Al-Thiabi** écartée volontairement
-(poseur-dépanneur qui achète chez les distributeurs locaux), **Adriatic Glass** dont le  a
-rebondi en  — leur Outlook refuse le courrier externe, donc la voie est le
+(poseur-dépanneur qui achète chez les distributeurs locaux), **Adriatic Glass** dont le `sales@` a
+rebondi en `550 5.4.1 Access denied` — leur Outlook refuse le courrier externe, donc la voie est le
 formulaire ou le téléphone. **Le gisement des fiches adressées est donc lui aussi quasi épuisé.**
 
 **ET L'AUSTRALIE, LA NOUVELLE-ZÉLANDE ET LA COLOMBIE SONT INTÉGRALEMENT CONTACTÉES** — 20, 7 et 10
-fiches, toutes en  ou  sauf deux australiennes sans adresse. J'ai quand même passé
+fiches, toutes en `ENVOYE` ou `RELANCE` sauf deux australiennes sans adresse. J'ai quand même passé
 une recherche de catégorie australienne pour en être sûr : **elle n'a rendu que des sociétés du
 registre** — GlassCo, Davis Glass, Glass Australia, Sydney Glass, Glass Processing — plus deux du
 **verre creux** (Gala Imports et Cospak, bouteilles et bocaux, test du §5 appliqué). Confirmation
@@ -4454,7 +4454,7 @@ mondial, donc une relation d'approvisionnement héritée est probable et l'angle
 naïf — c'est la **seconde source**. **Et une réserve de structure :** c'est une filiale, donc la
 décision d'achat peut se prendre à Tukwila et non à Burnaby. Le message **demande** où elle se prend
 plutôt que de le supposer. Pages à lier : double et **triple vitrage**, que le §8 destine nommément au
-Canada. **→ , 17ᵉ envoi programmé.**
+Canada. **→ `A ENVOYER 2026-10-12`, 17ᵉ envoi programmé.**
 
 **LE GARDE-FOU D'ÉCRITURE A ENCORE SERVI, et c'est la troisième fois en deux jours.** Ma note Hartung
 contenait un **point-virgule** — « non confirmé ; le site de la société fait foi » — interdit par le
