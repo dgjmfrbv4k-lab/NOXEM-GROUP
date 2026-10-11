@@ -3740,7 +3740,7 @@ La recherche précise le quartier, pas la ville.
 
 ---
 
-### 11/10/2026 — 16h10 CEST · dimanche · deux demandes de prix traitées, 4 envois, et −5 sur la semaine
+### 11/10/2026 — 16h01 CEST · dimanche · deux demandes de prix traitées, 4 envois, et −5 sur la semaine
 
 **LE CHIFFRE DE LA SEMAINE BAISSE DE 5, ET C'EST LA TROUVAILLE LA PLUS IMPORTANTE DU JOUR.**
 Cinq fiches comptées « envoyées » **ne l'ont jamais été** : Texas Glass Group (États-Unis), Qaswa
