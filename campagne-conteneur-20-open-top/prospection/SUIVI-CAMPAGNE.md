@@ -4700,3 +4700,40 @@ awk -F';' 'NR>1 && $7=="" && $8=="" && $10=="A APPELER" {print NR": "$1" | "$4}'
 l'avancement.** 1 081 fiches dont 207 injoignables, c'est 874 fiches réelles. Le §5 le dit déjà pour les
 pays — « le seul chiffre utile est le nombre de fiches avec adresse et jamais contactées » — et cela
 vaut pour le registre entier.
+
+
+## Dimanche 11/10, 22h34 — LA QUESTION MEXICAINE AVANCE, et le mandat avait le cadrage inversé
+
+Le §6 porte quatre questions douanières ouvertes depuis le 08/10, dont une qui commande **13 fiches et
+un marché de 130 millions d'habitants** : l'accord UE-Mexique donne-t-il une préférence tarifaire sur le
+verre plat ? Le mandat concluait « je ne peux pas trancher d'ici ». **La recherche approfondie n'avait
+jamais été tentée dessus** — je l'ai faite.
+
+**ET ELLE CORRIGE UNE ERREUR DE CADRAGE, DANS UN SENS QUI NOUS EST FAVORABLE.** Le §6 affirmait que le
+droit général de 35 % « frappe **toutes les origines, l'Europe comprise** ». Les sources disent autre
+chose :
+· **La réforme tarifaire mexicaine du 1ᵉʳ janvier 2026 visait les importations HORS accord de
+  libre-échange** — 1 463 lignes tarifaires, de 10 à 50 % ad valorem, le verre parmi les secteurs
+  touchés. **Mais les marchandises d'origine sous accord restent éligibles aux taux préférentiels**,
+  sous réserve des règles d'origine et de la documentation.
+· **Or l'UE a un accord en vigueur avec le Mexique depuis 2000**, dont le pilier commercial régit
+  toujours les échanges : l'accord **modernisé** a été **signé le 22/05/2026** mais n'est pas ratifié.
+  **L'Europe n'est donc pas une origine « hors accord ».**
+
+**CE QUI RESTE À ÉTABLIR, ET JE NE LE FRANCHIS PAS :** aucune source trouvée ne donne le taux applicable
+à l'origine UE pour la **position 7005**. Il faut le **DOF** et le tableau **TIGIE** de la réforme 2026,
+consultés directement — et ils ne sont pas atteignables depuis cette session (liste blanche).
+**Donc l'interdiction du §6 d'écrire quoi que ce soit sur les droits à un prospect mexicain TIENT.** Une
+présomption forte n'est pas un fait, et c'est exactement le terrain où « un acheteur qui importe sait ce
+qu'il paie » — le §6 le dit lui-même.
+
+**CE QUI CHANGE QUAND MÊME, ET C'EST BEAUCOUP :**
+1. **Le Mexique passe de « marché peut-être annulé par 35 % » à « marché probablement viable, à un
+   document près ».** C'était la seule des quatre questions douanières qui pouvait tuer un marché entier.
+2. **La question à poser au transitaire est désormais beaucoup plus étroite**, donc beaucoup plus facile
+   à faire trancher : non plus « y a-t-il une préférence » mais **« quel est le taux IGI de la fraction
+   7005.29.99 pour une origine UE sous le pilier commercial de l'accord de 2000 »**. Une question
+   précise se répond en un appel.
+3. **Et l'antidumping mexicain reste entier et favorable** : Chine 0,13739 $/kg, Malaisie 0,07359 —
+   soit ~137 $/t sur le float chinois, l'Europe non visée. Si la préférence se confirme, **le Mexique
+   devient un des marchés les plus favorables de la campagne**, et non le plus douteux.

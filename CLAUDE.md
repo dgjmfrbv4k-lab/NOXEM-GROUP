@@ -388,6 +388,28 @@ tarifaire sur le verre plat ?** Si oui, nous entrons à taux préférentiel pend
 35 % plus 137 $/t, et le Mexique devient très attractif. Si non, les 35 % nous frappent aussi.
 **Je ne peux pas trancher d'ici : question pour un transitaire ou un courtier en douane.** Tant
 qu'elle n'est pas tranchée, **ne rien écrire à un prospect mexicain sur les droits.**
+**AVANCÉE MAJEURE DU 11/10 À 22h34, ET ELLE CORRIGE LE CADRAGE CI-DESSUS.** Le paragraphe
+au-dessus affirme que les 35 % frappent « toutes les origines, **l'Europe comprise** ». **C'est
+probablement faux, et dans un sens qui nous est favorable.** Recherche approfondie faite ce soir,
+première tentative de ce type sur cette question :
+· **La réforme tarifaire mexicaine du 1ᵉʳ janvier 2026 visait les importations HORS accord de
+  libre-échange** — 1 463 lignes tarifaires, de 10 % à 50 % ad valorem, et le **verre figure parmi
+  les secteurs touchés**. Mais les comptes rendus précisent que **les marchandises d'origine sous
+  accord restent éligibles aux taux préférentiels**, sous réserve des règles d'origine et d'une
+  documentation correcte.
+· **Or l'UE a un accord en vigueur avec le Mexique depuis 2000**, et son pilier commercial régit
+  toujours les échanges : l'accord global **modernisé** a été **signé le 22/05/2026** mais n'est pas
+  encore ratifié, et c'est le pilier de 2000 qui s'applique en attendant. L'Europe n'est donc **pas**
+  une origine « hors accord ».
+**CE QUI RESTE À ÉTABLIR, ET C'EST PRÉCIS : aucune source trouvée ne donne le taux applicable à
+l'origine UE pour la position 7005.** Il faut la publication au **DOF** et le tableau **TIGIE** de la
+réforme 2026, consultés directement. **Donc : la conclusion reste une forte présomption et non un
+fait, et l'interdiction d'écrire quoi que ce soit sur les droits à un prospect mexicain TIENT.**
+**Mais la portée du dossier change** : le Mexique passe de « marché peut-être annulé par 35 % » à
+« marché probablement viable, à un document près ». **13 fiches et un marché de 130 millions
+d'habitants en dépendent**, et la question à poser au transitaire est désormais beaucoup plus étroite :
+non plus « y a-t-il une préférence » mais **« quel est le taux IGI de la fraction 7005.29.99 pour une
+origine UE sous le pilier commercial de l'accord de 2000 »**.
 **Et la même question se pose ailleurs** : quel est le droit de douane de droit commun sur le float
 européen à l'entrée des États-Unis et du Brésil ? Les mesures antidumping ne disent rien du tarif
 ordinaire, et un tarif ordinaire élevé changerait la conclusion. À poser avec la précédente. Les États-Unis les ont rejoints en
