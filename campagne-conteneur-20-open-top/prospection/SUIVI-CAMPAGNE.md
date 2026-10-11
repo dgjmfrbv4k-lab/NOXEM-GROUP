@@ -4461,3 +4461,59 @@ contenait un **point-virgule** — « non confirmé ; le site de la société fa
 §12 puisqu'il casserait la ligne en 11 champs. `ecrire-registre.py` **a refusé l'écriture et rien n'a
 été écrit.** Corrigé en point, relancé, intégrité vérifiée. C'est exactement le motif pour lequel le
 §12 exige que **le code refuse** au lieu de faire confiance à la consigne.
+
+
+**Lot de 22h14 — la recherche APPROFONDIE extrait quatre noms de plus du dossier, et la source perd un cran de valeur qu'il faut dire.**
+
+**PRÉCISION DE SOURCE QUI CHANGE SA VALEUR, ET JE L'AVAIS SURESTIMÉE IL Y A DEUX HEURES.** J'ai décrit
+cette liste comme « une liste d'importateurs américains de float déposée au dossier ». La recherche
+approfondie dit mieux : c'est **l'exhibit I-7**, la liste des importateurs **connus ou supposés**
+fournie par **le pétitionnaire** au titre du 19 CFR 351.202(b)(9) — donc établie par **Vitro**,
+l'adversaire des importateurs, et **non** une constatation de l'administration ni une liste de service
+officielle. Elle reste une pièce publique et le §5 ne l'interdit pas. **Mais « importateur supposé »
+n'est pas « importateur établi », et la nuance est maintenant dans chaque fiche née de cette source.**
+**Seconde réserve, technique :** le texte extrait du PDF est **brouillé**, des entrées perdant leur rue
+ou leur téléphone au passage. **Toute correspondance de nom doit donc être vérifiée, jamais déduite** —
+et c'est exactement ce qui est arrivé plus bas.
+
+**QUATRE NOMS DE PLUS EXTRAITS, ET LES QUATRE SORTS SONT DIFFÉRENTS.**
+· **SAFTI FIRST** (Brisbane et Merced, Californie), `info@safti.com` → **programmée au 12/10, 18e envoi.**
+  Verre **coupe-feu** et châssis coupe-feu depuis plus de 40 ans, **usine propre à Merced**, certifié UL
+  et Intertek. Le §8 nomme le vitrage technique coupe-feu. **Et c'est l'argument de la constance à son
+  point le plus haut :** un vitrage classé doit tenir une performance mesurée en laboratoire et
+  reproductible lot après lot, parce que la certification porte sur un **assemblage** et non sur une
+  feuille. ⚠️ **Réserve qui change la rédaction :** toute leur communication est bâtie sur le
+  **USA-Made**. Le message ne parle donc **que du substrat**, ne suggère rien sur l'origine du produit
+  fini et surtout rien sur un réétiquetage. C'est d'ailleurs probablement ce qui explique qu'une maison
+  au discours USA-Made figure sur une liste d'importateurs : le substrat s'importe, la transformation et
+  la certification sont américaines.
+· **WHTB Glass LLC** (Shirley, NY) → **`A QUALIFIER`, aucun envoi, et c'est un piège d'appartenance.**
+  Des sources de contexte donnent WHTB pour **Beijing Wuhua Tianbao Glass Co. Ltd**, et un WHTB Glass
+  Group figure à Quanzhou, en **Chine**. Si cet établissement est le bras américain d'un groupe verrier
+  chinois, écrire serait écrire **au canal de vente d'un concurrent** — c'est le motif pour lequel le §6
+  a inscrit SGC International aux concurrents. **Mais deux éléments vont dans l'autre sens :** un
+  annuaire industriel la décrit en *flat glass processing*, donc une usine, et **Saint-Gobain la liste
+  sur son propre site** à l'adresse de Shirley, signal de réseau de transformateurs — le signal Induver.
+  **Et la situation douanière est paradoxale, donc intéressante :** si son substrat vient du groupe
+  chinois, il porte depuis le 06/04/2026 un antidumping de **181,52 pour cent** plus un compensateur.
+  Une filiale dont la matière première vient d'être frappée à ce niveau a **l'intérêt le plus fort de
+  toute la liste** à trouver une autre origine. C'est peut-être la meilleure cible du lot, ou son
+  contraire exact. Un appel tranche.
+· **Industrial Glass Technologies** → **`A QUALIFIER`, et c'est la réserve technique qui se réalise.**
+  L'exhibit la place à **Dania Beach, Floride**. Aucune société de ce nom n'y existe : la seule trouvée
+  est à **Gastonia, Caroline du Nord**. Soit le PDF a mélangé le nom d'une entrée avec l'adresse d'une
+  autre, soit ce sont deux sociétés. **Je n'envoie pas malgré une adresse publiée et un domaine propre,
+  et le motif est net : toute la valeur de cette source est que l'importation soit établie. Si la
+  correspondance de nom n'est pas sûre, cet avantage disparaît** et il ne reste qu'un transformateur
+  comme un autre. Déduire la correspondance serait exactement ce que la réserve de source interdit.
+· **Tacoma Glass MFG** (Burlington, WA) → **déjà au registre**, `ENVOYE 2026-10-05`, et dans les 21
+  relances de lundi. Le grep l'a vue immédiatement.
+
+**ET UN TROU DU §6 COMBLÉ, LE SECOND DE LA SOIRÉE APRÈS VIVIX ET CEBRACE.** L'exhibit nomme **Fuyao
+Glass America** (Moraine, Ohio). **Fuyao est l'un des plus gros verriers du monde**, producteur de float
+et de vitrage automobile, et il **ne figurait pas** à la liste des concurrents du §6. Ajouté : c'est le
+bras américain d'un producteur chinois, donc **le circuit même que le droit de 181,52 pour cent
+frappe**, au même titre que SGC International. Fiche non créée, à écarter d'emblée si elle remonte.
+
+**Registre : 1071 → 1074 fiches. 18 envois programmés pour lundi.** Intégrité vérifiée,
+`detecte-doublons.py` au seul groupe PG Glass.
