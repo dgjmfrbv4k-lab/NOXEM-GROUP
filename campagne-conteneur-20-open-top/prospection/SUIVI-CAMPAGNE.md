@@ -4411,3 +4411,53 @@ donc **demain ou mardi**) et **PG Glass Namibie** (prix rendus confirmés par é
 explicite de Kevin) — sont **déjà consignés et à jour** dans leurs fiches, plus complètement que ce
 que la boîte en montre. Aucune correction à faire. **La cotation népalaise est l'échéance la plus
 proche de la campagne.**
+
+**Lot de 22h09 — mesure du gisement restant, Hartung tranché, et une erreur de ma part corrigée.**
+
+**MESURE D'ABORD, au bon chiffre du §5 — fiches avec adresse et jamais contactées : 28.** Et presque
+toutes ont un motif documenté de l'être : les **6 camerounaises** en attente d'Aaron (ambiguïté
+« mini-mail sur mesure » : impossible de savoir d'ici si le message est parti de l'ancienne boîte, et
+envoyer à l'aveugle répéterait Shibaam en connaissance de cause), **Al-Thiabi** écartée volontairement
+(poseur-dépanneur qui achète chez les distributeurs locaux), **Adriatic Glass** dont le  a
+rebondi en  — leur Outlook refuse le courrier externe, donc la voie est le
+formulaire ou le téléphone. **Le gisement des fiches adressées est donc lui aussi quasi épuisé.**
+
+**ET L'AUSTRALIE, LA NOUVELLE-ZÉLANDE ET LA COLOMBIE SONT INTÉGRALEMENT CONTACTÉES** — 20, 7 et 10
+fiches, toutes en  ou  sauf deux australiennes sans adresse. J'ai quand même passé
+une recherche de catégorie australienne pour en être sûr : **elle n'a rendu que des sociétés du
+registre** — GlassCo, Davis Glass, Glass Australia, Sydney Glass, Glass Processing — plus deux du
+**verre creux** (Gala Imports et Cospak, bouteilles et bocaux, test du §5 appliqué). Confirmation
+nette : l'Australie est faite.
+**ET CETTE RECHERCHE A RENDU UNE AFFIRMATION PÉRIMÉE QU'IL FAUT SIGNALER, parce que le réflexe inverse
+serait dangereux :** elle décrit **Viridian** comme « le seul fabricant australien de float ». **C'est
+faux et le §6 l'établit** — c'est **Oceania Glass**, née du rachat de Viridian, et sa ligne de
+Dandenong a été **arrêtée** vers février 2025, administrateurs nommés, aucun repreneur. **Un résumé de
+recherche peut être périmé, et il ne réécrit pas un fait déjà vérifié au mandat.** Si j'avais cru ce
+résultat, j'aurais retiré de la campagne l'argument australien le plus fort.
+
+**HARTUNG GLASS INDUSTRIES CANADA — DOUTE LEVÉ, ET C'EST MOI QUI AVAIS TORT LE 08/10.**
+La fiche portait, de ma main, que « toutes les implantations rendues par leur site sont américaines »
+et qu'aucune implantation canadienne n'avait été trouvée, ce qui suspendait tout l'intérêt du dossier.
+**Recherche refaite : leur site porte une page Canada dédiée**, usine au **7344 Winston Street,
+Burnaby, Colombie-Britannique**, rachetée à **AGC Flat Glass** en 2010, qui fabrique des **unités
+isolantes couchées et non couchées**, plus trempé, feuilleté et décoratif. **Ma vérification du 08/10
+était incomplète, le registre avait raison** — c'est la symétrique de la leçon Vitre Khezzane : avant
+de corriger une fiche, vérifier que c'est bien la fiche qui se trompe.
+**Et l'argument canadien s'applique en plein, avec un renfort géographique :** Burnaby est sur le
+**Pacifique**, à côté du **port de Vancouver**, et le siège du groupe est à **Tukwila, État de
+Washington**. Leur approvisionnement vient donc par la route depuis l'autre côté d'une frontière sous
+droits de 50 % au titre de la Section 338, quand une seconde origine arriverait **par mer directement
+à leur port**. ⚠️ **Le float SH 7005 n'est pas sur les listes de riposte : ne jamais écrire qu'il est
+taxé.** L'argument est de **gestion du risque**, pas de prix.
+**Deux réserves inscrites. La leçon Induver :** l'établissement vient d'**AGC**, producteur float
+mondial, donc une relation d'approvisionnement héritée est probable et l'angle de la nouveauté serait
+naïf — c'est la **seconde source**. **Et une réserve de structure :** c'est une filiale, donc la
+décision d'achat peut se prendre à Tukwila et non à Burnaby. Le message **demande** où elle se prend
+plutôt que de le supposer. Pages à lier : double et **triple vitrage**, que le §8 destine nommément au
+Canada. **→ , 17ᵉ envoi programmé.**
+
+**LE GARDE-FOU D'ÉCRITURE A ENCORE SERVI, et c'est la troisième fois en deux jours.** Ma note Hartung
+contenait un **point-virgule** — « non confirmé ; le site de la société fait foi » — interdit par le
+§12 puisqu'il casserait la ligne en 11 champs. `ecrire-registre.py` **a refusé l'écriture et rien n'a
+été écrit.** Corrigé en point, relancé, intégrité vérifiée. C'est exactement le motif pour lequel le
+§12 exige que **le code refuse** au lieu de faire confiance à la consigne.
