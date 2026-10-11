@@ -1,24 +1,37 @@
-# Plan d'envois — refait le 11/10/2026 à 21h25, complété à 21h36, pour la semaine du 12 au 16 octobre
+# Plan d'envois — refait le 11/10/2026 à 21h25, complété à 21h42, pour la semaine du 12 au 16 octobre
 
 **À relire avant d'ouvrir la boîte le matin.** Remplace la version du 11/10 à 16h08, qui était
 juste sur les totaux mais **fausse sur le contenu de lundi** et muette sur la distinction ci-dessous.
 
-## D'abord : les HUIT envois programmés de lundi
+## D'abord : les DIX envois programmés de lundi
 
-Ce sont les seuls envois **neufs** prêts à partir. Adresses publiées par la société elle-même, règle
-anti-rebond du §5 satisfaite, angle déjà rédigé dans la fiche — il n'y a plus qu'à écrire.
-**Deux vagues de quatre, espacées**, et New Glass **seule**, pour la raison dite dans sa ligne.
+Seuls envois **neufs** prêts à partir. Adresses publiées par la société elle-même, règle anti-rebond
+du §5 satisfaite (exceptions notées), angle déjà rédigé dans la fiche — il n'y a plus qu'à écrire.
+**Vagues de 4, espacées**, et **New Glass seule**, pour la raison dite dans sa ligne.
 
 | # | Société | Adresse | Pourquoi à ce rang |
 |---|---|---|---|
-| 1 | **Induver** (Casablanca) | `rhita@induvermaroc.ma` | **La meilleure du vivier marocain.** Leur page de contact publie un organigramme nominatif : Rhita Mansour, **Achats**. Fonction vérifiée *et* pertinente → le §5 autorise de la nommer. Seul contact où l'on écrit à l'acheteur. ⚠️ **lire la réserve AGC / Saint-Gobain dans la fiche** |
-| 2 | **Space Glass** (São Paulo) | `comercial@spaceglass.com.br` | **Le meilleur angle de la campagne :** ils vendent un miroir de **marque propre** sur la résistance à la corrosion et aux taches — c'est mot pour mot la promesse du miroir sans cuivre ni plomb. Extra clear en gamme. Distributrice **et** usine |
-| 3 | **Penha Vidros** (São Paulo) | `contato@penhavidros.com.br` | « Importadora » dans la raison sociale, 60 ans, membre ABRAVIDRO. ⚠️ gamme de transformateur-poseur : **poser le volume avant d'argumenter** |
-| 4 | **Vitrage Technologie** (Casablanca) | `contact@vitrage-technologie.com` | Feuilleté EVA-PVB, **VEC de façade**, PDLC. Trois transformations où un défaut d'entrée ne se rattrape pas → l'argument est la **constance**, pas le prix |
-| 5 | **Nazaki Group** (Maldives) | `nazaki@nazaki.com` | Programmée depuis le 11/10, angle déjà écrit |
-| 6 | **MetaGlass** (Casablanca) | `contact@metaglass.ma` | Second rang assumé : biseautage, sablage, accessoires inox → clientèle d'agencement. **Poser le volume d'abord** |
-| 7 | **New Glass** (Curitiba) | `marketing1@newglassind.com.br` | **ENVOI SEUL, JAMAIS DANS UNE VAGUE.** Plus grosse importatrice de verre du Brésil, 7 centres de distribution. Son autre adresse a rebondi le 09/10 en *domaine introuvable* — mais sur `newSglassind`, la **coquille** ; celle-ci est un domaine différent jamais testé. Domaine douteux et contrôle MX hors service : **si ça rebondit, c'est le 2ᵉ échec et la fiche part au téléphone** |
-| — | Atacado do Vidro (Recife) | — | **Pas prête.** Site sur un sous-domaine Webnode gratuit, aucune adresse. À ne pas travailler avant les cibles à domaine propre |
+| 1 | **Induver** (Casablanca) | `rhita@induvermaroc.ma` | **Seul contact de la soirée où l'on écrit à l'acheteur** : leur page publie un organigramme nominatif, Rhita Mansour, **Achats** — fonction vérifiée *et* pertinente, le §5 autorise de la nommer. ⚠️ **lire la réserve AGC / Saint-Gobain** |
+| 2 | **Space Glass** (São Paulo) | `comercial@spaceglass.com.br` | **Le meilleur angle de la campagne :** miroir de **marque propre** vendu sur la résistance à la corrosion et aux taches — mot pour mot la promesse du miroir sans cuivre ni plomb. Extra clear en gamme. Distributrice **et** usine |
+| 3 | **Divibras** (São Paulo) | `contato@divibras.com.br` | Distribution **et** industrialisation depuis 1993, et elle **vend à des distributeurs** : elle achète en volume. ⚠️ exception §5 inversée — site sur sous-domaine d'hébergeur, messagerie sur domaine propre |
+| 4 | **Penha Vidros** (São Paulo) | `contato@penhavidros.com.br` | « Importadora » dans la raison sociale, 60 ans, membre ABRAVIDRO. ⚠️ gamme de transformateur-poseur : **poser le volume avant d'argumenter** |
+| 5 | **VPM** (Goiânia) | `vpm@vpm.com.br` | Fabrique **et** distribue trempé, feuilleté, **isolant**, national. ⚠️ **900 km de Santos** : **demander** leur port et qui prend le tronçon routier, ne rien chiffrer |
+| 6 | **Vitrage Technologie** (Casablanca) | `contact@vitrage-technologie.com` | Feuilleté EVA-PVB, **VEC de façade**, PDLC → l'argument est la **constance** de la matière d'entrée, pas le prix |
+| 7 | **Nazaki Group** (Maldives) | `nazaki@nazaki.com` | Programmée depuis le 11/10, angle déjà écrit |
+| 8 | **MetaGlass** (Casablanca) | `contact@metaglass.ma` | Second rang assumé : agencement. **Poser le volume d'abord** |
+| 9 | **New Glass** (Curitiba) | `marketing1@newglassind.com.br` | **ENVOI SEUL, JAMAIS DANS UNE VAGUE.** Plus grosse importatrice de verre du Brésil. Son autre adresse a rebondi en *domaine introuvable* — mais sur `newSglassind`, la **coquille** ; celle-ci est un domaine différent jamais testé. **Si ça rebondit, 2ᵉ échec → téléphone** |
+| — | **Amazon Temper** (8 usines) | — | **La plus grosse consommatrice de float trouvée, et téléphonique.** Leur site n'expose qu'un **formulaire**. L'adresse vue sur leur Facebook satisfait la lettre du §5 mais vient d'un tiers : sur cette taille, **un rebond coûte plus qu'un appel.** Aquiraz (85) 3260-3076 |
+| — | Atacado do Vidro (Recife) | — | **Pas prête.** Sous-domaine Webnode gratuit, aucune adresse |
+
+**⚠️ ET POUR TOUT LE LOT BRÉSILIEN — vérifié le 11/10 :** ne **jamais** écrire qu'il n'y a pas de
+production locale. **Vivix** (Goiana, ~900 t/j) et **Cebrace** (coentreprise Saint-Gobain/NSG) y
+produisent. C'est précisément de là que vient le parapluie de prix haut. L'argument est **douanier** :
+Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, l'Europe non visée — et **rien** sur le
+droit chinois, dont la revue de fin de période n'est pas tranchée.
+
+**Et le vivier ABRAVIDRO est la meilleure piste ouverte** : 9 fiches créées à déverrouiller en deux
+temps, Grupo RV Vidros en premier (le mot *Grupo* = plusieurs sites, et voisine du port de Vitória),
+Agroleite en dernier (son nom n'évoque pas le verre : l'établir avant d'y dépenser quoi que ce soit).
 
 ## Ensuite : les 21 relances de lundi
 

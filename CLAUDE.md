@@ -614,6 +614,24 @@ groupe là où la raison sociale ne dit rien.** `soremir@riouglass.re` portait l
 important parce qu'il est en service depuis 2019 et non annoncé : 500 t/jour à Igbesa en zone franche
 Ogun-Guangdong, filiale de China Glass Holdings, ligne de couché solaire en ligne, trois entrepôts de
 distribution au Nigéria. Voir la correction majeure du 11/10 ci-dessus),
+**Vivix Vidros Planos** (Brésil — ajouté le 11/10, et il COMBLE UN TROU GÊNANT : la liste ne nommait
+aucun producteur brésilien alors que le §6 déclare le Brésil notre meilleur marché. Vérifié : usine de
+Goiana au Pernambouc, **environ 900 t/jour**, et c'est le **seul float brésilien à capital 100 % national**.
+Une seconde usine de 1 000 t/jour annoncée en 2022, qui porterait le total à 1 900 — **non confirmée comme
+achevée, ne pas citer ce chiffre**. Signal relevé le même jour et à vérifier : un relevé de position associe
+le site d'Aquiraz d'**Amazon Temper**, groupe de huit usines de trempe, à Vivix — si l'approvisionnement est
+établi, c'est la situation Induver/AGC et l'angle devient celui de la **seconde source**),
+**Cebrace** (Brésil — ajouté le 11/10 : **coentreprise Saint-Gobain et NSG**, donc concurrent par nature au
+titre déjà appliqué à Saint-Gobain Egypt. Lignes à **Jacareí** et **Caçapava** dans l'État de São Paulo et à
+**Barra Velha** en Santa Catarina. Les chiffres trouvés sont anciens — environ 700 000 t/an vers 2005, une
+ligne de 600 t/jour à Barra Velha, une sixième ligne annoncée en Bahia pour début 2013 dont le démarrage
+n'est pas confirmé — **donc ne citer aucune capacité, seulement l'existence**.
+**CONSÉQUENCE POUR LES 14 FICHES BRÉSILIENNES, et elle est étroite mais ferme : NE JAMAIS ÉCRIRE QU'IL N'Y A
+PAS DE PRODUCTION LOCALE AU BRÉSIL.** C'est précisément de cette production que vient le parapluie de prix
+haut qui rend le marché attractif, exactement comme aux États-Unis avec Vitro. L'argument brésilien est
+**douanier** — Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, l'Europe non visée — jamais
+celui de l'absence d'offre. `verif-argument-float.py` portait déjà le Brésil mais son libellé était vague,
+« production float nationale » ; il nomme désormais les deux sociétés),
 **Nasir Float Glass Industries** (Bangladesh — ajouté le 08/10. Premier float du pays, en service
 depuis 2005, environ 55 % du marché local annoncé, complexe de Tangail et centrale gaz propre.
 La fiche existait comme cible : le mot « float » dans une raison sociale impose la vérification

@@ -4164,3 +4164,85 @@ dans le même appel que l'écriture : **je l'ai fait, et ça n'a pas suffi**, pa
 composé l'heure littérale dans le script avant de lire la sortie de la commande. **La cause n'est pas
 l'oubli de la commande, c'est d'écrire une heure en dur.** Le remède est de substituer l'heure depuis
 la commande au lieu de la saisir.
+
+---
+
+## Dimanche 11/10/2026, 21h36 – 21h42 — troisième lot : la piste ABRAVIDRO rend onze cibles neuves en une recherche
+
+**C'est le meilleur rendement de la soirée, et il valide la piste ouverte une heure plus tôt.** Une
+seule recherche sur l'annuaire des membres d'ABRAVIDRO a rendu **onze noms, tous absents du
+registre** — grep fait un par un, sur le plus court élément distinctif. À comparer aux quatre fiches
+marocaines travaillées une par une, qui ont rendu **zéro**.
+
+**POURQUOI LA SOURCE SUFFIT À OUVRIR UNE FICHE, et c'est le test du §5 satisfait par construction :**
+ABRAVIDRO est l'Association Brésilienne des **Distribuidores e Processadores de Vidros PLANOS**. Le
+verre **plat** est dans l'objet même de l'association, donc la question verre plat contre verre creux
+est tranchée **avant** d'ouvrir la fiche et non après — c'est exactement ce que la règle SEVAM demande.
+Ses pages restent des pages de **tiers** : elles donnent le nom et la ville, l'adresse se prend ensuite
+sur le site de la société.
+
+**TROIS DÉVERROUILLÉES, DONT DEUX PRÊTES À L'ENVOI.**
+· **Divibras** (São Paulo), `contato@divibras.com.br` — distribution **et** industrialisation depuis
+  1993, et elle déclare servir des **distributeurs**, des vitreries et des entreprises de construction :
+  elle vend à des revendeurs, donc elle achète en volume. Seconde usine Evolução Temper à
+  Itaquaquecetuba. **Exception du §5 dans l'autre sens, inhabituelle :** leur **site** tourne sur un
+  sous-domaine d'hébergeur, `divibrassite.kinghost.net`, tandis que leur **messagerie** est sur un
+  domaine propre. C'est l'inverse du cas habituel, et c'est leur propre page de contact qui publie
+  l'adresse — exception notée dans la fiche comme le §5 l'exige.
+· **VPM — Vidros Planos e Móveis** (Goiânia), `vpm@vpm.com.br` — 32 ans, fabrique **et** distribue
+  trempé, feuilleté et **vitrage isolant**, active sur tout le territoire national. **Réserve
+  géographique honnête : Goiânia est à ~900 km de Santos.** Le message doit **demander** quel port ils
+  utilisent et s'ils prennent le tronçon routier eux-mêmes, comme il a été fait pour Amman chez First
+  Glass, plutôt que de chiffrer un rendu que nous ne maîtrisons pas.
+· **Amazon Temper** — **la plus grosse consommatrice de float du lot, et elle est pourtant
+  téléphonique.** Il faut dire les deux. Groupe annonçant **huit usines de trempe** : Aquiraz,
+  Manaus, Cariri, Lucas do Rio Verde, Várzea Grande, Xanxerê, Recife, plus Salvador en construction.
+  Huit fours de trempe ne se nourrissent pas à la feuille. **Et Manaus est en zone franche**, ce qui
+  change le calcul d'importation — à creuser, pas à affirmer. **Aucun envoi malgré cela** : la
+  recherche restreinte à leur domaine ne rend **aucune** adresse, leur page de contact n'expose qu'un
+  **formulaire**. Une adresse candidate est consignée sans être utilisée, `Amazonaquiraz@…`, lue sur
+  leur **Facebook** : la lettre du §5 serait satisfaite puisque le domaine est le bon, mais c'est une
+  plateforme tierce et le §13 mesure que ces adresses rebondissent. **Sur une cible de cette taille,
+  un rebond coûte plus qu'un appel.**
+
+**Neuf fiches de vivier créées** — ABC Temper, Abrasipa, Aluglass Vidros, Alusupra, DM Vidros, Disk
+Vidros, Grupo RV Vidros, Vitrino Vidros, Agroleite — chacune avec sa ville, son avantage portuaire
+éventuel et **ce qui reste exactement à faire**, pour qu'une prochaine session ne recommence rien.
+Deux réserves inscrites d'emblée : **Grupo RV Vidros** passe en premier, le mot *Grupo* supposant
+plusieurs sites donc un volume mutualisé, et elle est voisine du port de Vitória ; **Agroleite** passe
+en dernier, son nom n'évoquant ni le verre ni le bâtiment et son appartenance à ABRAVIDRO étant son
+seul lien avec le verre plat — à établir avant d'y dépenser quoi que ce soit.
+**Piège d'homonymie écarté au passage :** le registre portait déjà trois fiches en *aluglass* — Aruba,
+Kenya, Togo — **aucune** n'a de rapport avec Aluglass Vidros de Juiz de Fora. Les trois vérifiées une
+par une, ce que le grep sur le mot court permet et que le grep sur la raison sociale aurait manqué.
+
+**UN TROU DU MANDAT COMBLÉ, ET IL ÉTAIT GÊNANT.** La liste des producteurs float du §6 ne nommait
+**aucun** producteur brésilien, alors que le §6 déclare le Brésil notre marché le plus favorable.
+Vérifié avant d'écrire, plutôt qu'affirmé de mémoire : **Vivix Vidros Planos** (Goiana, Pernambouc,
+~900 t/jour, **seul float brésilien à capital 100 % national**) et **Cebrace** (**coentreprise
+Saint-Gobain et NSG**, lignes à Jacareí, Caçapava et Barra Velha). Les deux ajoutés aux concurrents,
+et `verif-argument-float.py` les nomme désormais au lieu du vague « production float nationale ».
+**Réserves de chiffres tenues : la seconde usine Vivix de 1 000 t/jour annoncée en 2022 n'est pas
+confirmée achevée, et les chiffres Cebrace trouvés datent de 2005** — donc ne citer que l'existence.
+**Et la conséquence est étroite mais ferme : ne jamais écrire qu'il n'y a pas de production locale au
+Brésil.** C'est précisément de cette production que vient le parapluie de prix haut qui rend le marché
+attractif, exactement comme aux États-Unis avec Vitro. L'argument brésilien est **douanier**.
+Un courtier interdit, Lusha, est remonté dans cette recherche : **non utilisé**, et le chiffre de
+900 t/jour vient d'une étude de cas industrielle indépendante.
+
+**Registre : 1055 → 1067 fiches.** Intégrité à 10 champs vérifiée, `detecte-doublons.py` au seul
+groupe PG Glass, `verif-argument-float.py` à 0 fiche, liste d'appels régénérée.
+
+**POINT DE REPRISE POUR LUNDI 12/10 — il remplace celui de 21h30.**
+1. **`detecte-doublons.py` AVANT d'ouvrir les relances.** Règle neuve, et elle a payé le jour même.
+2. **10 envois programmés**, dans l'ordre et par vagues de 4, New Glass **seule** : Induver ·
+   Space Glass · Penha Vidros · Divibras · VPM · Vitrage Technologie · Nazaki · MetaGlass · New Glass.
+   Angles rédigés dans les fiches, il n'y a plus qu'à écrire.
+3. **21 relances dues** (20 premières du 05/10 + 1 seconde), classées dans `PLAN-ENVOIS.md`.
+4. **Expéditeur vérifié dans `in:sent` avant le premier envoi** (consigne de Kevin, §10), puis compter
+   ce qui est **vraiment** parti du domaine avant d'ouvrir une vague.
+5. **Rebonds des 8 envois du 11/10 à recontrôler** — non confirmés avant le **14/10**, fenêtre de 72 h.
+6. **Le vivier ABRAVIDRO est la meilleure piste ouverte** : 9 fiches à déverrouiller en deux temps,
+   Grupo RV en premier, Agroleite en dernier. Et `abravidro.org.br` n'a rendu qu'une liste **partielle** :
+   la page complète des membres en contient davantage.
+7. **L'arrêt d'envoi à froid tombe à minuit.** À rouvrir seulement si aucun nouveau `5.7.1`.

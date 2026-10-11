@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **144 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **145 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 144 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 145 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 133 societes
+## Hors Europe — 134 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Géorgie | **Bars Facade LLC** | `+995 577 41 51 36` | 07h00 - 15h00 | A APPELER | Fonde en 1998, importateur historique de verre entre la Georgie et la Turquie, deux sites Tbilissi et Batoumi. CIBLE PRIORITAIRE. Aucune adresse email publiee : appeler. Port Poti. CORRECTION DU 08/10 apres lecture de leur page... |
 | Arabie saoudite | **Alma Glass (ALMA Tempered Securit Glass)** | `+966 11 498 3275` | 08h00 - 16h00 · **dim-jeu** | A APPELER | GROS : premiere usine de trempe de Dammam, 350 t/an. Rebond 550 5.1.1 le 05/10 : adresse inexistante. DEVERROUILLEE LE 08/10, ET C EST UNE RECUPERATION. La fiche portait almariyadh arobase almaglass.com.sa, qui avait rebondi en... |
 | Arabie saoudite | **Manna Glass Group (Mohammed Mannaa Glass Corporation)** | `+966 11 291 1943` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Four de trempe identifié : acheteur de float régulier. Tel releve sur annuaire arabe. A VERIFIER AU TELEPHONE, releve le 08/10 : cette fiche partage le numero +966 11 265 0065 avec la fiche Almanco Factory. Soit la meme societe... |
+| Brésil | **Amazon Temper** | `+55 85 3260-3076` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 21h40 PAR LA PISTE ABRAVIDRO. Grep amazon fait avant creation, absent. C EST LA PLUS GROSSE CONSOMMATRICE DE FLOAT DU LOT ET ELLE EST POURTANT TELEPHONIQUE — il faut dire les deux. QUALIFICATION : gr... |
 | Guatemala | **Vidral** | `+502 6637 3812` | 17h00 - 01h00 | A APPELER | FICHE CREEE LE 08/10. Grep fait AVANT creation, conformement au paragraphe 5 : aucune fiche Vidral au registre hors Vidral Panama et Vidralgar au Portugal, et aucune des six fiches guatemalteques ne correspond. Societe trouvee ... |
 | Haïti | **Action Enterprises Windows & Blinds** | `+509 36 19 5572` | 15h00 - 23h00 | A APPELER | MEILLEURE FICHE HAITIENNE : fabricant-installateur avec un entrepot de fabrication a Santo Croix-des-Bouquets, donc consommateur de vitrage. Ile sans ligne float, port de Port-au-Prince. ADRESSE sales ECARTEE : relevee dans un ... |
 | Honduras | **Aluminios del Sur** | `+504 8847 8257 WhatsApp et +504 3300 3979 et +504 2236 2071` | 17h00 - 01h00 | A APPELER | Trois decennies de metier, couvre Tegucigalpa, San Pedro Sula et Olancho. Adresse email masquee en ligne : appeler. Port Puerto Cortes. Adresse retrouvee le 07/10. Envoi depuis la nouvelle boite noxem-group. REBOND 07/10 : 550 ... |

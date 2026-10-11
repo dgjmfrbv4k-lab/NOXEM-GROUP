@@ -32,7 +32,7 @@ PRODUCTEURS = {
     'Tanzanie': 'Sapphire (Mkuranga)',
     'Vietnam': 'Phu My, CFG Ha Long',
     'Égypte': 'Sphinx Glass, Guardian',
-    'Brésil': 'production float nationale',
+    'Brésil': 'Vivix (Goiana, PE, ~900 t/j, seul float a capital 100% national) et Cebrace (coentreprise Saint-Gobain/NSG, Jacarei, Cacapava, Barra Velha)',
     'Thaïlande': 'production float nationale',
     'Nigéria': 'CNG Glass (Igbesa, 500 t/j, en production depuis le 18/10/2019)',
     'Afrique du Sud': 'PFG Building Glass',
