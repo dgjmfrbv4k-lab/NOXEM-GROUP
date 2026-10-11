@@ -1,9 +1,9 @@
-# Plan d'envois — refait le 11/10/2026 à 21h25, complété à 21h42, pour la semaine du 12 au 16 octobre
+# Plan d'envois — refait le 11/10/2026 à 21h25, complété à 21h45, pour la semaine du 12 au 16 octobre
 
 **À relire avant d'ouvrir la boîte le matin.** Remplace la version du 11/10 à 16h08, qui était
 juste sur les totaux mais **fausse sur le contenu de lundi** et muette sur la distinction ci-dessous.
 
-## D'abord : les DIX envois programmés de lundi
+## D'abord : les DOUZE envois programmés de lundi
 
 Seuls envois **neufs** prêts à partir. Adresses publiées par la société elle-même, règle anti-rebond
 du §5 satisfaite (exceptions notées), angle déjà rédigé dans la fiche — il n'y a plus qu'à écrire.
@@ -20,6 +20,9 @@ du §5 satisfaite (exceptions notées), angle déjà rédigé dans la fiche — 
 | 7 | **Nazaki Group** (Maldives) | `nazaki@nazaki.com` | Programmée depuis le 11/10, angle déjà écrit |
 | 8 | **MetaGlass** (Casablanca) | `contact@metaglass.ma` | Second rang assumé : agencement. **Poser le volume d'abord** |
 | 9 | **New Glass** (Curitiba) | `marketing1@newglassind.com.br` | **ENVOI SEUL, JAMAIS DANS UNE VAGUE.** Plus grosse importatrice de verre du Brésil. Son autre adresse a rebondi en *domaine introuvable* — mais sur `newSglassind`, la **coquille** ; celle-ci est un domaine différent jamais testé. **Si ça rebondit, 2ᵉ échec → téléphone** |
+| 10 | **Grupo RV Vidros** (Serra, ES) | `atendimento@gruporvvidros.com.br` | **Le meilleur signal de timing de la soirée :** la presse locale rapporte un *mutirão* pour **30 postes** — une maison qui embauche par trentaines monte en cadence, donc son float entrant aussi. Industrie **et** commerce, et **voisine du port de Vitória**. ⚠️ `atendimento@` et non `vendas@` : une offre de fournisseur au service qui *vend* est mal routée |
+| 11 | **Vitrino Vidros** (Araquari, SC) | `comercial@vitrinovidros.com.br` | Verre **de sécurité** déclaré → trempé ou feuilleté, donc matière d'entrée à tenir. Sur la BR 280 qui mène au **port d'Itajaí**. ⚠️ son code d'activité dit « fabricação de vidro plano » : vérifié, **c'est un transformateur, pas un producteur** — des halls locatifs, pas une ligne float |
+| 12 | **DM Vidros** (Campinas, SP) | `vendas@dmvidros.com.br` | « Une des plus grandes références » du *beneficiamento* de verres **et miroirs**, deux unités, ~200 km de Santos. ⚠️ ne pas confondre avec **DM Vidros e Esquadrias** de São Paulo, **autre société** |
 | — | **Amazon Temper** (8 usines) | — | **La plus grosse consommatrice de float trouvée, et téléphonique.** Leur site n'expose qu'un **formulaire**. L'adresse vue sur leur Facebook satisfait la lettre du §5 mais vient d'un tiers : sur cette taille, **un rebond coûte plus qu'un appel.** Aquiraz (85) 3260-3076 |
 | — | Atacado do Vidro (Recife) | — | **Pas prête.** Sous-domaine Webnode gratuit, aucune adresse |
 

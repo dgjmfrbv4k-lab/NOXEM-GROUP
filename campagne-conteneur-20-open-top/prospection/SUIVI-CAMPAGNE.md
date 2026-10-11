@@ -4246,3 +4246,33 @@ groupe PG Glass, `verif-argument-float.py` à 0 fiche, liste d'appels régénér
    Grupo RV en premier, Agroleite en dernier. Et `abravidro.org.br` n'a rendu qu'une liste **partielle** :
    la page complète des membres en contient davantage.
 7. **L'arrêt d'envoi à froid tombe à minuit.** À rouvrir seulement si aucun nouveau `5.7.1`.
+
+**Complément à 21h45 — trois fiches ABRAVIDRO déverrouillées, douze envois prêts pour lundi.**
+Trois sur trois au premier essai, ce qui confirme que la piste est bonne et pas un coup de chance.
+· **Grupo RV Vidros** (Serra, ES), `atendimento@gruporvvidros.com.br` — **le meilleur signal de
+  timing de la soirée** : la presse locale de Serra rapporte un *mutirão* de recrutement pour **30
+  postes**. Une maison qui embauche par trentaines monte en cadence, donc son volume de float entrant
+  monte aussi. Industrie **et** commerce, et voisine du port de Vitória. **Arbitrage d'adresse qui va
+  contre la préférence habituelle du §13 :** il préfère une boîte de service à une boîte générale,
+  mais la seule boîte de service publiée ici est `vendas@` — les **ventes**. Une offre de
+  *fournisseur* adressée au service qui *vend* arrive chez quelqu'un dont le métier est sortant. La
+  préférence du §13 vaut pour une boîte d'**achats** ou d'agence, pas pour une boîte de vente.
+· **Vitrino Vidros** (Araquari, SC), `comercial@vitrinovidros.com.br` — **une réserve qu'il fallait
+  lever et non ignorer** : son activité principale au registre est « fabricação de vidro plano e de
+  segurança », ce qui lu vite ferait croire à un producteur float, donc à un concurrent. **Ce n'en est
+  pas un** : ce code brésilien couvre indifféremment la production et la transformation, et une ligne
+  float est un complexe de plusieurs centaines de tonnes/jour — Vivix en fait 900 — alors que cette
+  société occupe des *galpões*, des halls locatifs au bord d'une nationale, avec deux numéros. C'est
+  la vérification que le §6 impose **avant d'écarter** une fiche sur une ressemblance, le cas Bullseye
+  Zoujaj pris par l'autre bout. Sur la BR 280 qui mène au port d'Itajaí.
+· **DM Vidros** (Campinas, SP), `vendas@dmvidros.com.br` — *beneficiamento* de verres **et miroirs**,
+  deux unités, ~200 km de Santos. **Piège d'identité écarté : DM Vidros e Esquadrias, de São Paulo,
+  est une autre société.** Réserve de gamme dite : aucune source ne confirme une ligne de **trempe**,
+  le mot *beneficiamento* couvrant aussi la simple découpe — à demander, pas à supposer.
+**SignalHire, courtier interdit au §5, est remonté sur Grupo RV : non utilisé**, et son adresse
+postale n'a pas été reprise. Un compte Instagram portant un indicatif du Pernambouc sans lien établi
+avec ce groupe de l'Espírito Santo a aussi été écarté.
+**Registre : 1067 fiches, inchangé** — ce sont trois fiches du vivier qui passent à l'envoi, pas des
+créations. **Douze envois programmés pour lundi contre un en début de soirée**, et six des neuf fiches
+ABRAVIDRO restent à déverrouiller : ABC Temper, Abrasipa, Aluglass Vidros, Alusupra, Disk Vidros,
+Agroleite — cette dernière en dernier, son métier restant à établir.
