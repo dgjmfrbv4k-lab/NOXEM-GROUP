@@ -410,6 +410,34 @@ fait, et l'interdiction d'écrire quoi que ce soit sur les droits à un prospect
 d'habitants en dépendent**, et la question à poser au transitaire est désormais beaucoup plus étroite :
 non plus « y a-t-il une préférence » mais **« quel est le taux IGI de la fraction 7005.29.99 pour une
 origine UE sous le pilier commercial de l'accord de 2000 »**.
+**RÉPONSE PARTIELLE DU 11/10 À 22h36, ET ELLE EST IMPORTANTE DANS LES DEUX SENS.** Cette
+question est restée ouverte depuis le 08/10. Recherche faite ce soir, premier résultat sur les deux pays.
+**BRÉSIL — ET CELA NUANCE LA CONCLUSION « MARCHÉ LE PLUS FAVORABLE » ÉCRITE PLUS BAS.** La
+**Résolution Gecex nº 675** a porté le droit d'importation du float incolore, **NCM 7005.29.00**, de
+**9 % à 25 %** à compter du 10 décembre, **pour les produits de TOUTE ORIGINE à l'exception des pays
+du Mercosur**, pour une validité de **douze mois**. **Donc l'Europe le paie aussi.** ⚠️ **Deux
+réserves qui empêchent d'en faire un chiffre :** la validité de douze mois **peut avoir expiré**, et
+les sources se contredisent — la table d'Abravidro donne **9 %** pour le régime en vigueur depuis le
+01/01/2024, un portail douanier donne **25 %**. **Le taux applicable en octobre 2026 n'est donc pas
+établi, et il faut la TEC au portail Siscomex ou la Gecex.**
+**CE QUE CELA CHANGE ET CE QUE CELA NE CHANGE PAS, parce que les deux comptent.** Cela **ne détruit
+pas** l'argument brésilien : nos concurrents asiatiques paient **le même** droit ordinaire **plus**
+leur antidumping, donc **l'avantage RELATIF tient entièrement**. Mais cela change le **coût rendu
+absolu**, et à 25 % ce n'est pas un détail. **Donc l'interdiction d'affirmer quoi que ce soit sur le
+coût rendu au Brésil est RENFORCÉE, pas levée** — et c'est exactement ce que la phrase ci-dessus
+anticipait en écrivant qu'un tarif ordinaire élevé changerait la conclusion.
+**ÉTATS-UNIS — plus favorable, mais aucun taux unique n'existe.** Les droits sont fixés à la
+**sous-position**, et les sources tierces se contredisent. Relevé : **7005.29.18** (clair, moins de
+10 mm, plus de 0,65 m²) à **14,5 cents par m²** — c'est un droit **spécifique** et non ad valorem, donc
+modeste en proportion ; **7005.29.25** (clair, 10 mm et plus) à **0 %** selon une source et **4,9 %**
+dans le tarif officiel de 2010 ; **7005.21.20** (coloré, 10 mm et plus) à **10 %**. Un avis de hausse
+générale de 5,9 % au 01/01/2026 est mentionné et **non vérifié**. ⚠️ **Rien de tout cela n'est
+citable** : il faut le HTS de l'USITC, ligne à dix chiffres par ligne à dix chiffres.
+**L'ORDRE DE GRANDEUR UTILE, et c'est la seule chose à retenir pour l'instant : le droit ordinaire
+américain semble MODESTE — quelques cents par m² ou zéro selon l'épaisseur — et le droit brésilien
+semble SUBSTANTIEL, de 9 à 25 %.** Les deux restent à confirmer sur source officielle avant tout
+usage, et l'interdiction d'écrire sur le coût rendu tient dans les deux pays.
+
 **Et la même question se pose ailleurs** : quel est le droit de douane de droit commun sur le float
 européen à l'entrée des États-Unis et du Brésil ? Les mesures antidumping ne disent rien du tarif
 ordinaire, et un tarif ordinaire élevé changerait la conclusion. À poser avec la précédente. Les États-Unis les ont rejoints en

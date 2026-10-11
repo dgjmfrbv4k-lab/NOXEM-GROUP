@@ -4737,3 +4737,48 @@ qu'il paie » — le §6 le dit lui-même.
 3. **Et l'antidumping mexicain reste entier et favorable** : Chine 0,13739 $/kg, Malaisie 0,07359 —
    soit ~137 $/t sur le float chinois, l'Europe non visée. Si la préférence se confirme, **le Mexique
    devient un des marchés les plus favorables de la campagne**, et non le plus douteux.
+
+
+## Dimanche 11/10, 22h36 — LE DROIT DE DOUANE ORDINAIRE, et il nuance mon propre cadrage du Brésil
+
+Deuxième question douanière ouverte du §6 attaquée ce soir, et **c'est la plus lourde** : elle commande
+mes deux marchés les plus favorables, **47 fiches américaines et 26 brésiliennes**, et j'y envoie
+**13 messages lundi**. Le §6 notait que « les mesures antidumping ne disent rien du tarif ordinaire, et
+un tarif ordinaire élevé changerait la conclusion ». **Il avait raison de le noter.**
+
+### BRÉSIL — la Gecex nº 675 a porté le droit sur le float incolore de 9 % à 25 %, toutes origines
+
+**NCM 7005.29.00**, de **9 % à 25 %** à compter du 10 décembre, **pour les produits de toute origine
+sauf Mercosur**, validité douze mois. **Donc l'Europe le paie aussi.**
+⚠️ **Deux réserves qui empêchent d'en faire un chiffre :** la validité de douze mois **peut avoir
+expiré**, et les sources se contredisent — Abravidro donne **9 %** depuis le 01/01/2024, un portail
+douanier donne **25 %**. Le taux d'octobre 2026 **n'est pas établi**.
+
+**CE QUE CELA CHANGE ET CE QUE CELA NE CHANGE PAS — et il faut dire les deux, pas seulement le second.**
+· **Cela ne détruit pas l'argument brésilien.** Nos concurrents asiatiques paient **le même** droit
+  ordinaire **plus** leur antidumping — Malaisie, Pakistan, Turquie sous Gecex 833/2025. **L'avantage
+  relatif tient entièrement**, et c'est lui que les messages servent.
+· **Mais cela change le coût rendu absolu**, et à 25 % ce n'est pas un détail. **J'avais écrit que le
+  Brésil était « le marché le plus favorable vérifié de la campagne ».** C'est vrai de l'antidumping,
+  et c'était **incomplet** sur le tarif. La formule exacte est : *le marché où nos concurrents sont les
+  plus pénalisés*, ce qui n'est pas la même chose que *le marché où nous entrons le moins cher*.
+· **Conséquence opérationnelle : l'interdiction d'affirmer quoi que ce soit sur le coût rendu est
+  RENFORCÉE, pas levée.** Vérifié : les neuf fiches brésiliennes programmées portent déjà « ne pas
+  affirmer le droit de douane de droit commun, qui n'est pas établi ». **Aucune correction à faire sur
+  les messages de lundi** — la prudence écrite tenait.
+
+### ÉTATS-UNIS — plus favorable, mais aucun taux unique n'existe
+
+Les droits sont fixés à la **sous-position**, et les sources tierces se contredisent. **7005.29.18**
+(clair, < 10 mm, > 0,65 m²) à **14,5 ¢/m²** — un droit **spécifique**, donc modeste en proportion ;
+**7005.29.25** (clair, ≥ 10 mm) à **0 %** selon une source et **4,9 %** dans le tarif officiel de 2010 ;
+**7005.21.20** (coloré, ≥ 10 mm) à **10 %**. Un avis de hausse générale de 5,9 % au 01/01/2026 est
+mentionné et **non vérifié**. ⚠️ **Rien n'est citable** : il faut le HTS de l'USITC, ligne à dix
+chiffres par ligne à dix chiffres.
+
+### L'ordre de grandeur, seule chose à retenir pour l'instant
+**Le droit ordinaire américain semble MODESTE** — quelques cents par m² ou zéro selon l'épaisseur — **et
+le brésilien SUBSTANTIEL, de 9 à 25 %.** Les deux à confirmer sur source officielle. **Et les deux
+sources officielles — USITC et portail Siscomex — ne sont pas atteignables depuis cette session.** C'est
+le troisième dossier de la soirée que seul l'accès réseau débloque, après la liste des importateurs
+C-570-189 et le tableau tarifaire mexicain.
