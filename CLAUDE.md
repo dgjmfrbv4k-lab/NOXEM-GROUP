@@ -530,6 +530,23 @@ droits et l'Europe non, l'argument américain se transpose.
 - **Corée, Afrique du Sud** : cités par la résolution mexicaine, aucune source directe lue.
   La Corée est de toute façon exclue au titre des concurrents.
 - **Pérou** : rien trouvé. À chercher côté INDECOPI.
+**⚠️ ET UN POINT QUI RENVERSE LA PERSPECTIVE, TROUVÉ LE 11/10 À 22h38 : TOUT CE QUI PRÉCÈDE PORTE SUR CE QUE LE CLIENT PAIE. CELUI-CI PORTE SUR CE QUE NOUS DEVONS FOURNIR, ET IL CONDITIONNE TOUS LES AUTRES.**
+Cherché sur l'accord UE-SADC pour la Namibie, il vaut pour **chaque** marché où l'UE a un accord — donc
+pour la préférence mexicaine, pour l'UE-SADC, et pour tout accord qu'on invoquerait ailleurs.
+**UNE PRÉFÉRENCE TARIFAIRE NE S'APPLIQUE JAMAIS AUTOMATIQUEMENT : ELLE SE RÉCLAME SUR PRÉSENTATION
+D'UNE PREUVE D'ORIGINE, ET C'EST L'EXPORTATEUR QUI LA FOURNIT.** Concrètement un **certificat de
+circulation EUR.1** ou une **déclaration d'origine sur facture**, valable 10 mois dans le cas de
+l'UE-SADC, avec le statut d'**exportateur agréé** au-delà de certains seuils.
+**CONSÉQUENCE, ET ELLE EST BRUTALE : si nous ne fournissons pas ce document, le client paie le droit
+PLEIN, quelle que soit la préférence.** Autrement dit **l'avantage tarifaire européen est nul partout
+où il existe** tant que la pièce n'est pas émise — et c'est précisément l'argument que cette campagne
+oppose aux origines asiatiques frappées de droits.
+**DEUX QUESTIONS À AARON, et elles ne dépendent de personne d'autre que de nous** — portées dans
+`DECISIONS-AARON.md` : nos usines partenaires savent-elles **émettre un EUR.1 ou une déclaration
+d'origine**, et sommes-nous **exportateur agréé** le cas échéant ? **Tant que la réponse n'est pas oui,
+aucune des préférences cherchées ci-dessus n'est exploitable**, et il est inutile de dépenser des
+recherches à établir des taux préférentiels qu'on ne pourrait pas réclamer.
+
 **Conduite : ne jamais affirmer dans un message qu'un pays taxe le float chinois sans avoir lu la
 source de ce pays.** Un acheteur qui importe sait ce qu'il paie, et une erreur sur ce terrain-là
 ruine le message entier.
