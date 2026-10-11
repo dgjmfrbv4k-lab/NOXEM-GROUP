@@ -632,6 +632,12 @@ haut qui rend le marché attractif, exactement comme aux États-Unis avec Vitro.
 **douanier** — Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, l'Europe non visée — jamais
 celui de l'absence d'offre. `verif-argument-float.py` portait déjà le Brésil mais son libellé était vague,
 « production float nationale » ; il nomme désormais les deux sociétés),
+**Fuyao Glass America** (États-Unis — ajouté le 11/10, et c'est encore un trou de la liste : **Fuyao est
+l'un des plus gros verriers du monde**, producteur de float et de vitrage automobile, et il n'y figurait
+pas. Son établissement de **Moraine (Ohio)** est remonté de l'exhibit I-7 du dossier float glass, parmi
+les importateurs. **Concurrent par nature au même titre que SGC International** : c'est le bras américain
+d'un producteur chinois, donc le circuit même que le droit antidumping de 181,52 % frappe. Fiche **non
+créée**, à écarter d'emblée si elle remonte),
 **Nasir Float Glass Industries** (Bangladesh — ajouté le 08/10. Premier float du pays, en service
 depuis 2005, environ 55 % du marché local annoncé, complexe de Tangail et centrale gaz propre.
 La fiche existait comme cible : le mot « float » dans une raison sociale impose la vérification
