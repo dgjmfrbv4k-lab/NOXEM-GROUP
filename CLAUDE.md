@@ -206,6 +206,26 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   Elle est donc invisible aux quatre, et seule la résolution du **nom légal complet** la trouve.
   Conséquence : quand une recherche large rend un nom, greper son mot le plus distinctif —
   `grep -in 'arabian' liste-prospects.csv` — et lire les résultats, pas seulement leur nombre.
+  **QUATRIÈME CAS LE 11/10, ET IL RÉVÈLE UN TROU DANS CETTE RÈGLE-CI — il faut le boucher, parce que
+  j'ai enfreint la règle deux jours après l'avoir écrite.** J'ai travaillé la fiche **« The First for
+  Glass Industries Co. »** (Jordanie) prise dans le vivier du registre : recherche web, domaine
+  trouvé (`fgi.jo`), adresse lue, **message envoyé** — et le registre portait déjà **« First Glass »**,
+  même adresse `info@fgi.jo`, **en `RELANCE 2026-10-06`**. Un `grep -in 'first'` l'aurait montré en
+  une seconde. J'avais grepé dix autres noms ce jour-là, **pas celui-là.**
+  **POURQUOI JE NE L'AI PAS GREPÉ, ET C'EST LE TROU : la règle ci-dessus dit de greper les noms QUE
+  LA RECHERCHE REND. Elle ne dit pas de greper le nom D'OÙ L'ON PART quand il vient du registre.**
+  Or le nom venait du registre, donc je l'ai cru unique par construction. **C'est faux : un registre
+  qui conserve ses doublons neutralisés par convention peut contenir deux fois la même société, et
+  une fiche n'est donc PAS une garantie d'unicité.**
+  **Règle complétée : greper le mot distinctif de la fiche AVANT de la travailler, même — et surtout —
+  quand elle sort du registre.** C'est un `grep` par fiche, avant la première recherche web, et il
+  coûte une seconde contre un message de trop.
+  **Le dégât, dit honnêtement parce qu'il n'est pas mesurable d'ici :** la fiche `First Glass` porte
+  un premier contact *et* une relance au 06/10, tous deux partis de l'ancienne boîte `harfiaaron0`
+  et donc invisibles de la boîte Workspace, qui ne contient **qu'un** message vers `info@fgi.jo`,
+  celui du 11/10. Mon envoi est donc **probablement** le troisième en cinq jours — la faute Shibaam —
+  mais je ne peux pas le prouver et je ne l'affirme pas. **Ce qui est certain, et qui suffit : j'ai
+  écrit à une adresse déjà présente au registre sous une autre fiche, sans greper.**
   vérifié : Shibaam était déjà à `RELANCE 2026-10-06` et a reçu un troisième message en deux
   jours. Vérifier après l'envoi ne sert à rien, cela ne fait que documenter la faute.
 - **Mesurer un marché « non prospecté » au bon chiffre.** Compter les fiches par pays induit
