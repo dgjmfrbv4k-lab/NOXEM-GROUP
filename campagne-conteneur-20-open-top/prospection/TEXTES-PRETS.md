@@ -279,3 +279,148 @@ what is worth quoting.
 
 And if your supply is settled and you are happy with it, just say so. I would rather know.
 ```
+
+
+---
+
+## 6. Hartung Glass Industries — Canada (Burnaby, C.-B.) — `info@hartung-glass.com` — ANGLAIS
+
+**Objet :** `Second origin for your Burnaby IG line - landed at Vancouver`
+
+⚠️ **Trois réserves commandent ce texte.** (1) **Ne JAMAIS écrire que le float est taxé à l'entrée du
+Canada** : SH 7005 n'est **pas** sur les listes de riposte, ce serait faux. L'argument est de **gestion
+du risque** — procédures et délais — pas de droits. (2) **Ne pas citer les faillites des façadiers
+canadiens** (Integro, Antamex, TAGG) : c'est interne au §6. (3) **L'établissement vient d'AGC** :
+l'angle est la **seconde source**, pas la nouveauté. (4) C'est une **filiale** : le texte demande où se
+prend la décision d'achat au lieu de le supposer.
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to your Burnaby operation specifically, not to the group - and that is the whole point
+of the message.
+
+Canada is the only G20 country with no domestic float line, and roughly 90% of the glass used by
+Canadian fabricators comes from the United States. For most of the country that is simply how it
+works. For Burnaby it is a longer sentence than it looks: your substrate arrives overland, across a
+border where customs procedure and transit time have become materially less predictable over the
+past year, to a plant that sits next to the Port of Vancouver.
+
+A second origin arriving by sea, directly into your own port, is not a cheaper origin and I am not
+going to claim that it is. It is a different exposure. That is the only argument I have.
+
+What we supply that matches what you make:
+
+- insulating glass units are your line, so the base sheet first:
+  https://noxemgroup.com/en/float-glass/
+- double glazing: https://noxemgroup.com/service/double-vitrage/
+- and triple glazing, which is the one that actually belongs in British Columbia:
+  https://noxemgroup.com/service/triple-vitrage/
+
+How we ship: full containers, heat-treated ISPM-15 timber crates, paper interleaved. Jumbo sheets or
+cut to your sizes.
+
+We can put together an offer delivered to your port of destination, subject to validation on our
+side.
+
+Four things from you: references and thicknesses by volume, sheet sizes, annual volume and buying
+frequency, and confirmation that Vancouver is the right port.
+
+And one question I would rather ask than guess: is substrate purchasing decided in Burnaby, or at
+group level? If it is group level, tell me and I will write there instead of making you forward
+this.
+
+If you are supplied to your satisfaction, say so plainly and I will not keep writing.
+```
+
+---
+
+## 7. SAFTI FIRST — `info@safti.com` — ANGLAIS
+
+**Objet :** `Float substrate for fire-rated glazing - supply enquiry`
+
+⚠️ **La réserve qui commande ce texte : toute leur communication est bâtie sur le USA-Made.** Le message
+ne parle **que du substrat**, ne suggère **rien** sur l'origine du produit fini, et surtout **rien** sur
+un réétiquetage. C'est d'ailleurs la raison probable pour laquelle une maison au discours USA-Made
+figure sur une liste d'importateurs : le substrat s'importe, la transformation et la certification sont
+américaines.
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+Let me be precise about what this is, because your positioning deserves it: I am writing about
+substrate, not about your product. You manufacture and certify in Merced, and nothing I supply
+changes that or should be presented as changing it.
+
+I am writing to you rather than to a glazing company because fire-rated glazing is the most
+demanding use of a base sheet I know of. A tempered panel has to survive a furnace once. A
+fire-rated assembly has to reproduce a laboratory-measured performance, lot after lot, for years,
+because the certification covers the assembly and not the sheet in front of you. Material that
+drifts does not fail at your inspection - it fails at somebody's recertification.
+
+That is the only thing I am selling: a base sheet that behaves the same way every time, from a
+single European source.
+
+- clear and extra-clear float: https://noxemgroup.com/en/float-glass/
+- and our technical glazing page, so you can see where we usually sit:
+  https://noxemgroup.com/en/technical-glazing/
+
+How we ship: full containers, heat-treated ISPM-15 timber crates, paper interleaved. Jumbo sheets or
+cut to your sizes.
+
+We can put together an offer delivered to your port of destination, subject to validation on our
+side.
+
+Four things would let me do that: references and thicknesses by volume, sheet sizes, annual volume
+and buying frequency, and your port - Brisbane and Merced are not the same answer, so I would rather
+ask.
+
+And if your substrate supply is settled, tell me and I will stop there.
+```
+
+---
+
+## 8. Rapid Shower and Mirror Corp — `info@rapidshowersandmirrors.com` — ANGLAIS, clôture en espagnol
+
+**Objet :** `Mirror and clear float, full containers into Miami - supply enquiry`
+
+⚠️ **Détail relevé et utilisé : leur site annonce un second numéro « pour les appels en anglais »**,
+donc la maison travaille en espagnol. Le texte part en anglais — langue des affaires du commerce du
+verre en Floride — mais **se clôt par une ligne en espagnol** qui propose de continuer dans cette
+langue. ⚠️ **Et la tension du dossier :** les annuaires la décrivent en pose, mais elle figure à la
+liste des importateurs de float. **Le texte pose donc le volume avant d'argumenter.**
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to you because frameless shower enclosures and mirrors are, between them, almost the
+whole of what we are useful for - and because South Florida buys its glass by sea rather than
+overland, which is the only way we can be relevant at all.
+
+Before I say anything about product, one question, because it decides whether I am wasting your
+time: what volume and what frequency do you buy at? We ship full containers, so if your purchasing
+is pallet-by-pallet from a local distributor, tell me and I will say so honestly rather than send
+you a proposal that does not fit.
+
+If containers do fit, two things are worth your attention.
+
+Mirror, for the climate you work in. Edge corrosion on mirror is a humidity problem: moisture
+reaches the copper layer behind the silver, and the dark spotting creeps in from the perimeter.
+In a Florida bathroom that clock runs faster than almost anywhere. Our mirror is copper-free and
+lead-free: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+And tempered, for the enclosures themselves - the base sheet is where enclosure glass is won or
+lost: https://noxemgroup.com/en/tempered-glass/
+
+How we ship: full containers, heat-treated ISPM-15 timber crates, paper interleaved. Jumbo sheets or
+cut to your sizes.
+
+We can put together an offer delivered to your port of destination, subject to validation on our
+side - Miami, unless you use another.
+
+Si le resulta más cómodo, podemos seguir esta conversación en español. Dígamelo y continúo en
+español.
+```
