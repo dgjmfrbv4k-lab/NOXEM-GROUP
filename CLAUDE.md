@@ -450,8 +450,36 @@ traite comme une **importation** l'entrée en Guadeloupe ou en Martinique de mar
 « originaires ou en provenance de la France métropolitaine ou d'un autre État membre ». Donc
 **l'octroi de mer externe s'applique à du verre européen**, et pour la TVA les DOM sont traités
 comme un **territoire d'exportation** par rapport à la métropole.
-· **Les taux sont fixés par délibération des conseils régionaux** et je n'ai pas pu établir celui
-  du chapitre 70 pour 2026. En Martinique, la délibération 23-149-1 qui actualisait les taux 2023
+· **RECHERCHE APPROFONDIE FAITE LE 11/10 À 22h56, ET ELLE AGGRAVE LE DOSSIER PLUTÔT QUE DE LE
+  RASSURER.** Ce qui est **établi** : les taux sont fixés par **délibération** de l'assemblée de
+  Martinique, du conseil régional de Guadeloupe ou de La Réunion, de l'assemblée de Guyane ou du
+  conseil départemental de Mayotte ; **l'octroi de mer RÉGIONAL est plafonné à 2,5 %** en Guadeloupe,
+  Martinique, Mayotte et La Réunion, et à 5 % en Guyane ; et la Martinique applique une grille d'une
+  dizaine de taux allant de **0 à 30 %** pour les marchandises ordinaires, les 40 et 50 % étant
+  réservés aux films violents et au tabac.
+  **⚠️ ET LE SEUL DOCUMENT TROUVÉ QUI NOMME LE CHAPITRE 70 PORTE « verre et ouvrages en verre » À
+  27,50 % + 2,50 % = 30,00 %.** Il date d'environ **2016** et son territoire n'est pas clairement
+  identifié, **donc il n'est PAS citable et ne doit pas être repris comme un taux.** Mais c'est le seul
+  ordre de grandeur disponible, et **il est cohérent avec la raison d'être de l'octroi de mer**, qui est
+  de protéger la production locale — or il y a de la transformation du verre en Martinique et en
+  Guadeloupe, donc un taux élevé sur le verre importé est plausible plutôt qu'improbable.
+  **CE QUE CELA CHANGE : le paragraphe ci-dessus dit que j'étais sur le point de croire les DOM « le
+  seul marché de la campagne sans question de douane ». Non seulement c'était faux, mais ils pourraient
+  être parmi les PLUS taxés — potentiellement au-dessus des 25 % brésiliens.** L'interdiction d'écrire
+  quoi que ce soit sur la fiscalité à l'entrée des DOM et des COM est donc **renforcée**.
+· **⚠️ MAIS IL Y A UN LEVIER, ET IL EST SÉRIEUX : L'EXONÉRATION POUR LES PROFESSIONNELS.** La douane
+  publie une démarche intitulée *Importer un bien en exonération d'octroi de mer en Martinique
+  (professionnels)*. **L'octroi de mer exonère classiquement les INTRANTS de la production locale** —
+  c'est le pendant logique de la protection qu'il organise. **Or nos prospects des DOM sont des
+  TRANSFORMATEURS** : ils achètent du float brut pour le transformer sur place. **S'ils relèvent de
+  l'exonération, le taux ne s'applique pas à eux**, et le dossier passe de « marché peut-être le plus
+  taxé » à « marché normal pour qui transforme ».
+  **C'est la question à poser, et elle est plus précise que la précédente :** non plus « quel est le
+  taux du chapitre 70 » mais **« un transformateur de verre des Antilles importe-t-il son float brut en
+  exonération d'octroi de mer au titre des intrants de production ? »** Un transitaire antillais ou la
+  douane de Fort-de-France répond en un appel. **16 fiches en dépendent, dont notre seul client export.**
+  Et il faut lire le *tableau 2 - Liste des délibérations d'octroi de mer en vigueur*, que la douane
+  publie et qui n'est pas atteignable depuis cette session. En Martinique, la délibération 23-149-1 qui actualisait les taux 2023
   a pris fin le **30/09/2025** et je n'ai pas trouvé celle qui l'a remplacée. Le seul chiffre
   rencontré, 7 % en Guadeloupe et 20 % en Martinique, vient d'une réponse ministérielle de
   2020-2021 et porte sur les **verres et montures d'optique** : il ne vaut rien ici et ne doit pas

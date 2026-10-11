@@ -1402,3 +1402,45 @@ oppose aux origines asiatiques.
 **MA RECOMMANDATION :** ne rien écrire à Willem sur la douane (le §6 l'interdit déjà sans source), mais
 **poser les deux questions ci-dessus à nos usines**, parce qu'elles ne dépendent de personne d'autre que
 de nous et qu'elles conditionnent la valeur de l'argument d'origine sur toute la campagne.
+
+
+---
+
+## 22h56, dimanche 11/10 — OCTROI DE MER : la question se retourne, et elle devient utile
+
+**Le §6 portait depuis le 08/10 que je n'avais pas pu établir le taux d'octroi de mer du chapitre 70.**
+Recherche approfondie faite ce soir. **Elle n'a pas donné le taux, et elle a donné deux choses qui
+valent mieux.**
+
+### 1. Le mauvais côté : les DOM pourraient être parmi les marchés les PLUS taxés de la campagne
+**Établi :** l'octroi de mer **régional** est plafonné à **2,5 %** aux Antilles, et la Martinique
+applique une grille de **0 à 30 %** pour les marchandises ordinaires.
+**⚠️ Et le seul document trouvé qui nomme le chapitre 70 porte « verre et ouvrages en verre » à
+27,50 % + 2,50 % = 30,00 %.** Il date d'environ **2016**, son territoire n'est pas clair, **donc il
+n'est pas citable** — mais c'est le seul ordre de grandeur disponible, et il est **cohérent avec la
+raison d'être de l'octroi de mer**, qui protège la production locale. Il y a de la transformation du
+verre aux Antilles : un taux élevé sur le verre importé est **plausible**, pas improbable.
+**Le §6 disait que j'avais failli croire les DOM « le seul marché sans question de douane ». Ils
+pourraient être parmi les plus taxés, au-dessus du Brésil.**
+
+### 2. Le bon côté, et c'est lui qui est actionnable : L'EXONÉRATION POUR LES PROFESSIONNELS
+La douane publie une démarche intitulée **« Importer un bien en exonération d'octroi de mer en
+Martinique (professionnels) »**. **L'octroi de mer exonère classiquement les INTRANTS de la production
+locale** — c'est le pendant logique de la protection qu'il organise.
+**Or nos prospects des DOM sont des TRANSFORMATEURS** : ils achètent du float **brut** pour le
+transformer sur place. **S'ils relèvent de l'exonération, le taux ne les concerne pas**, et le marché
+redevient normal.
+
+### La question à poser, et elle est bien plus précise que la précédente
+Non plus « quel est le taux du chapitre 70 », mais :
+> **« Un transformateur de verre des Antilles importe-t-il son float brut en exonération d'octroi de mer
+> au titre des intrants de production, et sous quelles conditions ? »**
+
+**Un transitaire antillais ou la douane de Fort-de-France répond en un appel.** Et il faut lire le
+*tableau 2 — Liste des délibérations d'octroi de mer en vigueur*, publié par la douane et inatteignable
+depuis cette session.
+**16 fiches en dépendent, dont notre seul client export.** Et la réponse décide aussi de l'argumentaire :
+si l'exonération joue, la question de l'octroi de mer disparaît du dossier ; si elle ne joue pas, les
+DOM sortent des marchés prioritaires.
+**⚠️ Jusque-là, l'interdiction du §6 d'écrire quoi que ce soit sur la fiscalité à l'entrée des DOM et des
+COM est RENFORCÉE, pas levée.**
