@@ -3,7 +3,7 @@
 **À relire avant d'ouvrir la boîte le matin.** Remplace la version du 11/10 à 16h08, qui était
 juste sur les totaux mais **fausse sur le contenu de lundi** et muette sur la distinction ci-dessous.
 
-## D'abord : les 23 envois programmés de lundi, ORDONNÉS PAR FUSEAU
+## D'abord : les 24 envois programmés de lundi, ORDONNÉS PAR FUSEAU
 
 Seuls envois **neufs** prêts à partir : adresse publiée par la société sur son propre domaine (exceptions
 notées dans les fiches), angle déjà rédigé, il n'y a plus qu'à écrire. **Vagues de 5, espacées** (§10),
@@ -20,11 +20,17 @@ vague part donc quand c'est le **milieu de matinée chez le destinataire**.
 | **2 — ~10 h** | **Maldives + Maroc** (4) | Nazaki · **Induver** · Vitrage Technologie · MetaGlass | ~13 h / ~9 h |
 | **3 — ~13 h** | **Brésil** (5) | **Space Glass** · Penha · Divibras · VPM · Grupo RV | ~8 h, ouverture |
 | **4 — ~15 h** | **Brésil** (4) | DM Vidros · Vitrino · ABC Temper · *(réserve)* | ~10 h |
-| **5 — ~16 h** | **États-Unis** (4) | **MunnWorks** · 310 Tempering · Rapid Shower · SAFTI FIRST | ~10 h ET / 7 h PT |
+| **5 — ~15 h** | **Mexique** (1) | **Prodiesa** (Nuevo León) | ~8 h, ouverture |
+| **6 — ~16 h** | **États-Unis** (4) | **MunnWorks** · 310 Tempering · Rapid Shower · SAFTI FIRST | ~10 h ET / 7 h PT |
 | **seule — ~17 h** | **Brésil** | **New Glass** (domaine douteux, voir ci-dessous) | ~12 h |
-| **6 — ~18 h** | **Canada** | Hartung Glass Canada (Burnaby, C.-B.) | ~9 h, ouverture |
+| **7 — ~18 h** | **Canada** | Hartung Glass Canada (Burnaby, C.-B.) | ~9 h, ouverture |
 
-**LES CINQ À LIRE AVANT D'ÉCRIRE — chacune porte une réserve qui change le texte.**
+**LES SIX À LIRE AVANT D'ÉCRIRE — chacune porte une réserve qui change le texte.**
+0. **Prodiesa** (Nuevo León) — **ils argentent leur propre verre** : leur ligne miroir est faite en
+   clair, **ultra clair**, bronze, gris, bleu et vert de 2 à 6 mm, donc ils achètent du **float** et
+   l'ultra clair **est** notre extra-clair. ⚠️ **rien sur les droits** (préférence UE-Mexique non
+   établie, droit général de 35 %) et ⚠️ **jamais « pas de production locale »** — Vitro et Guardian
+   produisent au Mexique.
 1. **Induver** (Casablanca) — **seul contact de la campagne où l'on écrit à l'acheteur** : leur page
    publie un organigramme nominatif, **Rhita Mansour, Achats**, fonction vérifiée *et* pertinente, donc
    nommable au titre du §5. ⚠️ **réserve AGC / Saint-Gobain** : l'angle est la **seconde source**, jamais
@@ -67,7 +73,7 @@ Disk Vidros, Reliance Safety Glass (adresse obfusquée), WHTB Glass (appartenanc
 Industrial Glass Technologies (correspondance de nom rompue), Glasscorp (3 domaines, 1-10 salariés),
 Deway, Atacado do Vidro (site gratuit + boîte grand public), Alusupra (extrudeur aluminium).
 
-## ⚠️ LES 23 TEXTES SONT DÉJÀ RÉDIGÉS — `TEXTES-PRETS.md`
+## ⚠️ LES 24 TEXTES SONT DÉJÀ RÉDIGÉS — `TEXTES-PRETS.md`
 
 Ajouté le 11/10 à 22h53. **Il n'y a plus à rédiger lundi, seulement à relire et à envoyer.**
 Chaque texte porte au-dessus de lui **les réserves qui l'ont commandé** — boîte mal routée,

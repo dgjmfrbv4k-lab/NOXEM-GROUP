@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **153 societes** portent un telephone et
+Regeneree le **08/10/2026** depuis le registre. **154 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 153 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 154 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 142 societes
+## Hors Europe — 143 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Canada | **Vitralite Industries Inc.** | `+1 250 860 0571` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee sur la page contact. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : leur page de contact ne donne qu une adresse postale et un telephone, et je ne devine pas une adresse. Reste un dossier telephonique, 250-86... |
 | Canada | **Leamington Glass** | `+1 226 703 3443` | 15h00 - 23h00 | A APPELER | Verrier implante au coeur du bassin serricole. Aucune adresse publiee : a appeler, et leur demander qui leur fournit le vitrage horticole de la region. |
 | Côte d'Ivoire | **VITRINES** | `+225 05 74 44 44 25` | 11h00 - 19h00 | A APPELER | 9 kilos Cocody Abidjan. Port Abidjan. Mini-mail sur mesure FR CONTROLE MX DU 07/10 : le domaine vitrerie.business ne resout pas (NXDOMAIN), l adresse info@vitrerie.business ne peut pas recevoir. Adresse retiree du registre. Pas... |
+| Gabon | **INDEX — Industrie de Vitre et d'Aluminium** | `+241 60 07 44 44` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h15 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre, y compris sur le champ societe seul apres un faux positif de sous-chaine, absent. INDUSTRIE DE VITRE est dans la ra... |
 | Gabon | **Miroiterie-Vitrerie d'Oloumi** | `+241 11 72 08 30` | 10h00 - 18h00 | A APPELER | Face Diesel Gabon, B.P. 1110. Aucune adresse email publiee : a rappeler. Port Owendo. |
 | Ghana | **Glassworks Limited** | `+233 3220 31128` | 11h00 - 19h00 | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. Source annuaire ghaneen, telephone publie. Verre decoratif et fonctionnel, GARDE-CORPS vitres et cloisons. Garde-corps et cl... |
 | Ghana | **Kumasi Glass Works Ltd** | `+233 3220 30088` | 11h00 - 19h00 | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. Source annuaire ghaneen, avec un TELEPHONE PUBLIE, ce qui est rare dans ce lot. Fabrication et fourniture de produits verrie... |
