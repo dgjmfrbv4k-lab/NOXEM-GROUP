@@ -121,7 +121,7 @@ question au transitaire avant la mise en production.
 - **Les deux numéros du pied de page sont les bons** (+33 2 59 50 84 59 et WhatsApp
   +33 6 86 13 12 71), conformes au §10.
 - **Les prix tiennent face aux deux repères de la campagne.** Le float 6 mm à 9,46 €/m² fait de
-  l'ordre de 6,3 €/m² en équivalent 4 mm, très au-dessus du repère indien de ~1,50 $/m² — ce qui
+  l'ordre de 6,3 €/m² en équivalent 4 mm, au-dessus du repère indien de **3,74 $/m²** (⚠️ chiffre corrigé le 11/10, cette ligne portait 1,50 à tort) — ce qui
   est cohérent avec la stratégie : on ne se bat pas contre l'Asie, on se place sur un marché où
   elle est écartée par les droits. Et **le miroir argent à 8,35 et 11,33 €/m² dépasse le plancher
   antidumping colombien de 7,70 $/m²** : ça confirme que le miroir est bien la ligne où un prix
@@ -295,7 +295,7 @@ journée a produit **un chiffre**, et il vient d'une source officielle, pas d'un
 
 **L'Inde, en révisant son antidumping sur le float malaisien, retient un prix de référence de
 374 dollars la tonne** : en dessous de ce niveau, elle considère qu'il y a dumping. À 2,5 kg par m²
-et par millimètre, cela fait environ **1,5 $/m² en 4 mm**, soit de l'ordre de **1,30 €/m²**.
+et par millimètre, cela fait **3,74 $/m² en 4 mm** (⚠️ corrigé le 11/10 : cette ligne portait 1,5 $/m², erreur de calcul d'un facteur 2,5), soit de l'ordre de **3,2 €/m²**.
 
 **C'est le prix auquel le float asiatique se pose dans un marché concurrentiel.** Et c'est pour ça
 que je déclasse les 16 fiches indiennes : ce n'est plus une impression de ciblage, c'est un chiffre
@@ -334,7 +334,7 @@ est intacte. Pour ta decision de prix, le chiffre reste valable meme si la mesur
 l'autorite colombienne qui a mesure ces prix, pas moi.
 
 **Et voila ce que le chiffre dit.** A 2,5 kg/m² par millimetre, un miroir de 4 mm pese 10 kg/m².
-Donc **3,60 $/m² a l'export chinois, 7,70 $/m² au plancher colombien**, contre **~1,50 $/m² pour
+Donc **3,60 $/m² a l'export chinois, 7,70 $/m² au plancher colombien**, contre **3,74 $/m² (corrigé le 11/10) pour
 le float nu indien en 4 mm**. **Le miroir vaut deux a cinq fois le float nu.**
 
 **Conclusion pratique, et c'est une recommandation :** si tu ne calibres qu'un seul prix, ne

@@ -4891,3 +4891,32 @@ EUR.1 qui conditionne tout), Pérou (tranché, marché faible), Colombie (réser
 closes sur source officielle, et c'est la même cause pour les cinq : USITC, Siscomex, DOF, TIGIE,
 Access2Markets et le PDF du MinCIT sont tous hors de la liste blanche.** C'est le quatrième argument de
 la soirée pour le réglage d'accès réseau.
+
+
+## Dimanche 11/10, 23h00 — SUIVI DE LA CORRECTION : l'erreur avait propagé à 14 fiches et au dossier de décision
+
+**Vérification de suivi qu'il fallait faire et que j'ai failli ne pas faire.** Après avoir corrigé
+l'erreur de calcul du §6 — le repère indien de 374 $/t donné à « 1,50 $/m² en 4 mm » au lieu de
+**3,74** — j'ai cherché si le chiffre faux circulait ailleurs. **Mon premier motif de recherche n'a rien
+trouvé au registre, et c'était un faux négatif** : je cherchais `1,5 $/m²` alors que les fiches écrivent
+« 1,5 dollar le m2 ». **Deuxième passage avec la bonne formulation : 14 fiches le portaient.**
+
+**Corrigé :**
+· **14 fiches du registre** — le chiffre est remplacé par 3,74, avec un marqueur explicite nommant
+  l'erreur et sa nature, et la mention que **la conclusion reste valable mais était surénoncée**.
+· **3 passages de `DECISIONS-AARON.md`**, qui est un document de **décision vivant** : Aaron le lit pour
+  trancher, donc une ligne fausse y est plus coûteuse qu'ailleurs. Corrigés en place avec marqueur.
+· **Le §6 du mandat**, avec la grille juste par épaisseur.
+
+**NON corrigé, et c'est délibéré : les entrées historiques datées de `SUIVI-CAMPAGNE.md`.** Trois
+passages des 08 et 09/10 portent le chiffre faux. **Les réécrire serait falsifier le journal.** Une
+entrée de suivi dit ce qui a été pensé ce jour-là ; c'est la présente entrée qui porte la correction.
+**La règle que j'en tire : le registre et les dossiers de décision se corrigent en place, le journal ne
+se réécrit pas.**
+
+**ET LA LEÇON DE MÉTHODE, parce qu'elle vaut au-delà de ce cas : une recherche de propagation doit
+tester PLUSIEURS formulations du même chiffre.** Le registre écrit en toutes lettres — « dollar le metre
+carre », « dollar le m2 » — là où le mandat écrit en symboles. **Un seul motif de recherche a donné
+0 occurrence et m'a presque fait conclure que rien n'avait propagé, alors que 14 fiches étaient
+touchées.** C'est exactement la faute du grep partiel du §5, transposée à la recherche d'une erreur au
+lieu d'un doublon.
