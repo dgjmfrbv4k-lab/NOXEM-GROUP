@@ -34,7 +34,7 @@ PRODUCTEURS = {
     'Égypte': 'Sphinx Glass, Guardian',
     'Brésil': 'production float nationale',
     'Thaïlande': 'production float nationale',
-    'Nigéria': 'production float nationale',
+    'Nigéria': 'CNG Glass (Igbesa, 500 t/j, en production depuis le 18/10/2019)',
     'Afrique du Sud': 'PFG Building Glass',
     'Kenya': 'Sapphire livre la zone depuis la Tanzanie',
     'Ouganda': 'Sapphire livre la zone',

@@ -151,6 +151,7 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   que Volza, seair et exportgenius, remontées le même jour sur l'Afrique de l'Ouest. Tout
   site qui vend des relevés d'importation ou des contacts d'acheteurs tombe sous cette règle,
   qu'il soit nommé ici ou non — c'est la nature du service qui compte, pas le nom).
+  **QUATRE DE PLUS, remontés le 11/10 sur des recherches africaines et nigériane :** `importers.africa-business.com`, qui vend une liste téléchargeable de contacts d'importateurs africains avec des adresses masquées en échantillon ; **`panjiva.com`** et **`importkey.com`**, qui vendent des relevés d'importation nominatifs ; et **`marketinsidedata.com`**, qui publie des totaux d'import-export par société. Même nature que Volza, donc même interdit — et à mettre dans `blocked_domains` plutôt qu'à écarter après coup, parce qu'ils occupent sinon la moitié des résultats sur une recherche d'importateur.
 - **Jamais pousser sur une autre branche** que `claude/campagne-conteneur-20-open-fl0382`.
 - **JAMAIS RÉPONDRE À UN PROSPECT SANS L'ACCORD D'AARON. Je prépare le texte, je le consigne dans
   la fiche, et j'attends.** La règle existait au §15 ; elle monte ici, dans les interdits absolus,
@@ -316,6 +317,37 @@ renverrait plutôt à août 2027. L'échéance réelle est donc **incertaine d'u
    mandat d'export explicite, c'est un concurrent régional à un ou deux ans. **La fenêtre
    ouest-africaine se referme.** Ce n'est pas une raison de ralentir, c'est une raison d'y aller
    maintenant — et c'est un élément à verser à la décision de prix d'Aaron.
+
+**CORRECTION MAJEURE DU 11/10 : L'AFRIQUE DE L'OUEST N'ATTEND PAS KEDA, ELLE A DÉJÀ SA LIGNE FLOAT
+DEPUIS SEPT ANS — ET C'EST AU NIGÉRIA, LA PREMIÈRE ÉCONOMIE DE LA RÉGION.** Tout ce qui précède
+présente la fenêtre ouest-africaine comme se refermant *à un ou deux ans*, sur l'usine de Shama.
+**C'est faux par omission.**
+**CNG GLASS (NIGERIA) FZE**, à **Igbesa** dans la zone franche Ogun-Guangdong, État d'Ogun, à côté
+de Lagos :
+- **500 tonnes par jour**, soit **150 000 t/an** selon le PDG de la maison mère ;
+- **en production depuis le 18 octobre 2019**, date confirmée par l'enregistrement de prêt de la
+  China Development Bank et par la presse nigériane qui couvre l'inauguration à Ota ;
+- filiale à 100 % de **China Glass Holdings Limited (CGHL)**, capital chinois, prêt CDB de 26 M$ ;
+- **et pas seulement du float : la ligne financée comprend le verre à COUCHE DE CONTRÔLE SOLAIRE
+  en ligne** — donc du coaté, ce qui entame aussi l'argument low-E ;
+- **trois entrepôts de distribution au Nigéria**, dont un entre Lagos et l'État d'Ogun.
+**Réserve de source à dire :** la page projet de la MIGA porte encore le statut « Proposed », ce qui
+est périmé par rapport aux rapports de démarrage de 2019. C'est l'enregistrement CDB et la presse
+locale qui datent le démarrage, pas la MIGA.
+**TROIS CONSÉQUENCES, et la première est un interdit.**
+1. **NE JAMAIS écrire « pas de production locale » à un prospect nigérian.** 27 fiches au registre,
+   dont 7 déjà contactées. `verif-argument-float.py` couvrait déjà le Nigéria et tourne propre —
+   aucune fiche ne porte l'affirmation fausse — mais son entrée était vague : elle nomme désormais
+   CNG Glass, sa capacité et sa date.
+2. **Le schéma est celui de Sapphire en Afrique de l'Est, pas celui d'une menace à venir.** Une
+   usine en **zone franche** est tournée vers l'export par construction, et trois entrepôts de
+   distribution servent un marché régional. Bénin, Togo, Niger et le Ghana lui-même sont
+   vraisemblablement desservis — **à vérifier avant de s'appuyer sur l'absence d'offre dans ces
+   pays**, exactement comme la règle du périmètre de la source l'impose pour Sapphire.
+3. **Et le Nigéria est un marché FAIBLE pour nous, pour une raison précise :** CNG est de capital
+   chinois, et l'argument le plus fort de la campagne — les origines chinoises portent désormais
+   des droits — **ne vaut qu'aux États-Unis, au Brésil et au Mexique**. Au Nigéria, CNG vend sans
+   droit antidumping face à nous. Même situation qu'en Égypte et en Arabie saoudite.
 
 **LA CARTE DOUANIÈRE DU FLOAT CHINOIS — piste ouverte le 08/10, à vérifier pays par pays avant
 tout usage.** Une résolution mexicaine de juin 2025 énumère les pays qui avaient déjà, à cette
@@ -559,6 +591,10 @@ groupe qui a ses propres contrats cadres européens. **Question posée dans `DEC
 **La leçon de méthode, et elle est générale : le domaine de l'adresse e-mail trahit l'appartenance à un
 groupe là où la raison sociale ne dit rien.** `soremir@riouglass.re` portait l'information depuis le début.
 À lire systématiquement avant de qualifier une fiche comme indépendante,
+**CNG Glass (Nigeria) FZE** (Nigéria — ajouté le 11/10, et c'est le concurrent ouest-africain le plus
+important parce qu'il est en service depuis 2019 et non annoncé : 500 t/jour à Igbesa en zone franche
+Ogun-Guangdong, filiale de China Glass Holdings, ligne de couché solaire en ligne, trois entrepôts de
+distribution au Nigéria. Voir la correction majeure du 11/10 ci-dessus),
 **Nasir Float Glass Industries** (Bangladesh — ajouté le 08/10. Premier float du pays, en service
 depuis 2005, environ 55 % du marché local annoncé, complexe de Tangail et centrale gaz propre.
 La fiche existait comme cible : le mot « float » dans une raison sociale impose la vérification

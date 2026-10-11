@@ -3894,3 +3894,70 @@ boîte. À remonter à Aaron.
   marché téléphonique** sur trois sociétés sur trois sans domaine indexé.
 - **Un courtier de données repéré et bloqué** : `importers.africa-business.com`, qui vend des listes
   de contacts d'importateurs — même nature que Volza, interdit au §5.
+
+---
+
+### 11/10/2026 — 19h57 CEST · lot du soir sous arrêt d'envoi · le Nigéria a déjà sa ligne float
+
+**AUCUN ENVOI DANS CE LOT, ET C'EST VOULU.** Les envois à froid sont arrêtés depuis 16h21 en
+application du §10 — un `554 5.7.1 Delivery not authorized` est tombé depuis `vratakriz.cz`, un
+serveur qui ne nous avait jamais rejetés. La règle dit *« on s'arrête là pour la journée »*, et il
+est toujours dimanche. **Le travail qui n'envoie pas continue**, ce que le §10 prévoit explicitement :
+déverrouillage, qualification, nettoyage du registre. Total du jour inchangé : **8 envois confirmés.**
+
+**ET LA TROUVAILLE DU LOT CORRIGE LE MANDAT SUR UNE RÉGION ENTIÈRE.**
+
+**Le Nigéria a une ligne float en production depuis sept ans, et le §6 l'ignorait.** Tout ce que le
+mandat disait de l'Afrique de l'Ouest présentait la fenêtre comme se refermant *à un ou deux ans*,
+sur l'usine KEDA de Shama au Ghana — dont le calendrier est d'ailleurs incertain d'un an.
+**C'était faux par omission.**
+
+**CNG GLASS (NIGERIA) FZE**, à Igbesa, zone franche Ogun-Guangdong, à côté de Lagos :
+- **500 t/jour**, soit 150 000 t/an selon le PDG de la maison mère ;
+- **en production depuis le 18 octobre 2019**, daté par l'enregistrement de prêt de la China
+  Development Bank et par la presse nigériane couvrant l'inauguration à Ota ;
+- filiale à 100 % de **China Glass Holdings Limited**, capital chinois, prêt CDB de 26 M$ ;
+- **et la ligne financée comprend le verre à couche de contrôle solaire en ligne** — donc du coaté,
+  ce qui entame aussi l'argument low-E ;
+- **trois entrepôts de distribution** au Nigéria.
+
+**Réserve de source, dite plutôt que tue :** la page projet de la MIGA porte encore le statut
+« Proposed », périmé par rapport aux rapports de démarrage. Ce sont le prêt CDB et la presse locale
+qui datent le démarrage — **ne pas citer la MIGA comme preuve du statut actuel.**
+
+**Trois conséquences, portées au §6 et à la fiche.**
+1. **Interdit : ne jamais écrire « pas de production locale » à un prospect nigérian.** 27 fiches,
+   dont 7 déjà contactées. `verif-argument-float.py` couvrait déjà le Nigéria et **tourne propre** —
+   aucune fiche ne porte l'affirmation fausse — mais son entrée était vague (« production float
+   nationale ») : elle **nomme désormais CNG Glass, sa capacité et sa date**, pour que la prochaine
+   session puisse vérifier au lieu de croire.
+2. **Le schéma est celui de Sapphire, pas celui d'une menace à venir.** Une usine en zone franche est
+   tournée vers l'export par construction, et trois entrepôts servent un marché régional. Bénin,
+   Togo, Niger et le Ghana lui-même sont vraisemblablement desservis — **à vérifier** avant de
+   s'appuyer sur l'absence d'offre, comme la règle du périmètre de la source l'impose.
+3. **Et le Nigéria est un marché faible pour nous, pour une raison précise :** CNG est de capital
+   chinois, et notre argument le plus fort — les origines chinoises portent désormais des droits — ne
+   vaut **qu'aux États-Unis, au Brésil et au Mexique**. Au Nigéria, CNG vend sans droit antidumping
+   face à nous. Même situation qu'en Égypte et en Arabie saoudite.
+
+**QUATRE COURTIERS DE DONNÉES DE PLUS, BLOQUÉS.** `importers.africa-business.com` (vend une liste
+d'importateurs africains), **`panjiva.com`** et **`importkey.com`** (relevés d'importation
+nominatifs), **`marketinsidedata.com`** (totaux import-export par société). Même nature que Volza,
+donc même interdit — et à mettre dans `blocked_domains` **avant** la recherche, parce qu'ils
+occupent sinon la moitié des résultats sur toute requête contenant « importateur ».
+
+**UN PIÈGE D'IDENTITÉ IVOIRIEN OUVERT.** Le registre porte **GLASSIVOIRE** et **IVOIR GLASS**, deux
+fiches. La recherche ne rend rien pour la première mais trouve **GLASS IVOIR** à Treichville — un
+**troisième** libellé, qui peut être l'une des deux ou une société distincte. C'est le motif des
+mêmes mots dans un ordre différent, celui de Miroiterie des Antilles contre Antilles Miroiterie :
+jamais un hasard. **Aucun envoi sur l'une ou l'autre avant qu'un appel ait tranché** — et l'activité
+le justifie, puisque l'anti-balles trouvé sur la fiche annuaire est du vitrage technique.
+
+**POINT DE REPRISE POUR DEMAIN, lundi 12/10.**
+1. **21 relances** de la cohorte du 05/10 sont dues, adresses déjà validées par un envoi non
+   rebondi. Classées par valeur avec leur réserve propre dans `PLAN-ENVOIS.md`.
+2. **1 envoi programmé** : Nazaki Group (Maldives), `A ENVOYER 2026-10-12`, angle déjà écrit.
+3. **Le Maroc** reste le plus gros vivier non travaillé — 15 fiches — mais la mesure du jour dit que
+   ses coordonnées sont souvent d'annuaire : VIVAGLASS a marché, Ouchtar et Sotraglace non.
+4. **L'arrêt d'envoi à froid tombe à minuit**, la règle du §10 portant sur la journée. À rouvrir
+   seulement si aucun nouveau `5.7.1` n'arrive — et en vagues de 5, espacées.
