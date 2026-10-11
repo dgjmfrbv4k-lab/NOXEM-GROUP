@@ -1219,3 +1219,69 @@ de ma propre initiative.
 messages à la même maison, et elle est logique commercialement : si Laura Luote achète du verre, le
 déstockage et le conteneur sont deux réponses à la même question, et c'est l'interlocuteur déjà en fil
 qui doit la poser. **Décision à toi** : les deux campagnes ne se coordonnent pas depuis ici.
+
+
+---
+
+## 22h30, dimanche 11/10 — CARIBBEAN GLASS SPECIALISTS : deux faits à verser au chiffrage avant qu'il parte
+
+**Le dossier est complet sauf le prix.** Six références ramenées à trois tailles, 33 caisses annoncées
+comme **4 conteneurs 20 pieds open top CIF Port of Spain**, caisses NIMP-15 interfoliées papier
+confirmées par écrit le 08/10 sur ton ordre explicite. **Et l'offre a été annoncée « pour demain » le
+08/10 : nous sommes le 11.** Je le dis parce que c'est le seul dossier où nous avons pris une date.
+
+**Je ne touche pas au prix (§11). Mais deux faits physiques changent le chiffrage, et il vaut mieux les
+lire avant qu'après.**
+
+### FAIT 1 — la composition du feuilleté 6 mm DOUBLE le poids, donc peut casser le plan de 4 conteneurs
+
+Les références demandées sont : **4 mm gris foncé** en 1219×2438 et 1829×2438, **6 mm feuilleté clair**
+en 2438×1829 et **3302×2261**, et **6 mm miroir** en 2438×1829.
+
+« 6 mm feuilleté » a **deux lectures**, et le §4 donne de quoi les chiffrer (1 m² de 1 mm = 2,5 kg) :
+
+| Lecture | Poids | Grande feuille 3302×2261 (7,466 m²) | Feuilles pour 23 t |
+|---|---|---|---|
+| **3+3**, nominal 6,38 mm | ~15,5 kg/m² | **116 kg** | **199** |
+| **6+6**, nominal 12,38 mm | ~30,8 kg/m² | **230 kg** | **100** |
+
+**Exactement le double.** Si les 33 caisses et les 4 conteneurs ont été calculés sur une hypothèse,
+**l'autre les casse** — et on aurait annoncé un nombre de conteneurs faux dans une offre chiffrée.
+
+**MA LECTURE, et je donne les deux côtés parce qu'ils se contredisent :**
+· **L'usage du métier dit 3+3.** Dans le commerce du verre, « 6 mm feuilleté » désigne un **nominal
+  total de 6 mm**, soit 3+3 écrit souvent 6,38 ou 6,4. Un 6+6 s'appellerait « 12 mm feuilleté ».
+· **Mais l'application dit le contraire.** Leur note porte **devanture et vitrine**, et une feuille de
+  **3,3 m** en 6,38 feuilleté est structurellement très mince pour une vitrine — on y met plutôt du 10
+  ou du 12 feuilleté. **La grande cote suggère donc une épaisseur plus forte que le nominal annoncé.**
+
+**RECOMMANDATION : poser la question, en une ligne, dans le message qui porte l'offre.** Tu avais dit de
+ne pas poser de questions, et c'était juste **tant qu'il n'y avait rien à chiffrer**. Maintenant il y a
+un prix à écrire, et une erreur de facteur 2 sur le poids se paie sur le fret et sur le nombre de
+conteneurs. **Formulation possible, qui ne retarde rien** : donner le prix sur la base **3+3 annoncée
+explicitement comme telle**, et ajouter qu'un 6+6 se chiffre séparément. L'offre part, et l'hypothèse
+est écrite noir sur blanc plutôt que supposée.
+
+### FAIT 2 — le 3302 × 2261 TIENT dans l'enveloppe d'autoclave du §4, contrairement à ce que la fiche craignait
+
+La fiche portait, de mon fait, que « le 130×89 pouces ne sort pas d'un jumbo et qu'il faut un PLF
+6000×3210 ». **Le §4 a corrigé cela le 08/10 et c'est une règle désormais :** une ligne float produit un
+**ruban** dont seule la **largeur** est contrainte, ~3210 mm ébavuré, et la longueur se coupe à la
+demande. **2261 passe en travers de 3210**, donc le float nu ne pose aucun problème.
+
+**Ce qui restait ouvert est l'AUTOCLAVE de feuilletage**, que le §4 traite comme une contrainte
+**distincte** et qui ne concerne que le feuilleté — donc exactement cette référence. **Repère
+d'enveloppe du §4 : Green Glass annonce feuilleter jusqu'à 2,8 × 6 m.** Or **2261 < 2800 et
+3302 < 6000** : **les deux dimensions tiennent.**
+
+**Donc l'objection d'autoclave n'est probablement pas bloquante** — sous réserve de l'autoclave réel de
+l'usine, qui est ta donnée et pas la mienne. **Ce que cela change pour toi : c'est une confirmation à
+demander, pas un obstacle à annoncer.** Et il faut le savoir **avant** d'écrire, parce que la fiche
+portait l'inverse et qu'un message prudent de trop ferait passer une demande de prix ferme pour un
+dossier techniquement douteux — c'est exactement l'erreur que le §4 reproche à mes trois fautes de
+format du 08/10.
+
+### Ce qui reste donc strictement à toi
+1. **La grille de prix** sur les cinq références, en 4 conteneurs 20 pieds open top CIF Port of Spain.
+2. **La confirmation de l'autoclave** pour le 3302×2261 feuilleté.
+3. **L'arbitrage sur la question 3+3 / 6+6** : la poser, ou chiffrer en annonçant l'hypothèse.
