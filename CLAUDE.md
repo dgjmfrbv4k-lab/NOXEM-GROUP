@@ -1275,6 +1275,25 @@ H=$(TZ=Europe/Paris date '+%Hh%M')          # puis utiliser "$H" dans le script
   n'était pas celui du site. Et dans les trois cas **l'exception du §5 s'applique et doit être
   notée dans la fiche**, puisque le domaine de l'adresse diffère de celui du site.
 
+  **PIÈGE NEUF DU 11/10 À 22h44, ET IL ATTAQUE LA MÉTHODE DE DÉVERROUILLAGE ELLE-MÊME : UN
+  DOMAINE PARQUÉ REND DES PAGES, DONC LA RECHERCHE RESTREINTE « RÉUSSIT » SANS RIEN PROUVER.**
+  Le §13 fait du second temps la **preuve que le domaine est bien le leur** — « si la recherche
+  restreinte rend une de leurs pages, c'est confirmé ». **Cas réel : INDEX Gabon.** Une recherche large
+  donne son domaine comme `index-gabon.com`. La recherche restreinte à ce domaine **rend bien des
+  pages** — mais ce sont des titres de PDF sans aucun rapport : pistolets à peinture, armes à feu,
+  électrochimie. **C'est un domaine parqué, pas le site de la société.** Le domaine qui lui
+  correspondrait est `indexgabon.com`, **sans trait d'union**.
+  **Donc le second temps ne prouve rien si l'on ne LIT pas ce qu'il rend.** Un domaine parqué satisfait
+  la condition mécanique — « le domaine apparaît dans les URL de résultats » — et ne satisfait rien du
+  tout. **Le contrôle à ajouter est d'une seconde : les pages rendues parlent-elles de verre ?** Si
+  elles parlent d'autre chose, le domaine n'est pas le leur, quel que soit le nombre de résultats.
+  **ET C'EST LA QUATRIÈME FOIS LE MÊME SOIR QU'UN CARACTÈRE SÉPARE UN DOMAINE RÉEL D'UN FAUX :**
+  `newSglassind` contre `newglassind` (New Glass, et c'est la coquille qui a rebondi),
+  `glasscorplnt` contre `glasscorpint` (Glasscorp, confusion du L et du i dans la police d'un PDF),
+  `whtbglassusa` contre `whtbglass.us` (WHTB), et `index-gabon` contre `indexgabon`. **Quatre cas en
+  une soirée fait de ce motif la règle et non l'accident : avant tout envoi, relire le domaine
+  CARACTÈRE PAR CARACTÈRE contre celui que la société publie.**
+
   **UNE SUBTILITÉ QUI VAUT UN DÉVERROUILLAGE, trouvée sur Grupo Visemex (Monterrey) :** le registre
   portait `ventas1@visemex.com.mx` et leur page publie `venta1@`, **au singulier**. Même piège
   qu'Al Ashoury. Mais ici l'arbitrage s'est fait sur un fait et non sur la source la plus récente :
