@@ -4821,6 +4821,11 @@ pas une limite d'outil.**
 3. **Les 23 envois programmés**, dans l'ordre et par **vagues de 5 espacées**, **ordonnés par fuseau** :
    Singapour d'abord (+6 h), puis Maldives et Maroc, puis Brésil, puis États-Unis, puis Canada (−9 h).
    **New Glass seule.** Table complète et réserves par fiche dans `PLAN-ENVOIS.md`.
+   **⚠️ LES 23 TEXTES SONT DÉJÀ RÉDIGÉS dans `TEXTES-PRETS.md`** — il n'y a plus à rédiger, seulement
+   à relire et à envoyer. Chacun porte au-dessus de lui les réserves qui l'ont commandé, et les blocs
+   communs brésilien et singapourien sont écrits une fois pour éviter la dérive.
+   **Et un CONTRÔLE AVANT-VOL du domaine est à passer sur la vague**, né de quatre quasi-fautes de
+   domaine ce soir à un caractère près : commande dans `PLAN-ENVOIS.md`.
 4. **Les 21 relances dues** (20 premières du 05/10 + 1 seconde), classées par valeur dans le même fichier.
 5. **Recontrôler les rebonds des 8 envois du 11/10** — fenêtre de **72 h**, donc non confirmés avant le
    **14/10**.

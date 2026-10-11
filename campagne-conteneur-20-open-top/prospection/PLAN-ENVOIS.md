@@ -67,6 +67,16 @@ Disk Vidros, Reliance Safety Glass (adresse obfusquée), WHTB Glass (appartenanc
 Industrial Glass Technologies (correspondance de nom rompue), Glasscorp (3 domaines, 1-10 salariés),
 Deway, Atacado do Vidro (site gratuit + boîte grand public), Alusupra (extrudeur aluminium).
 
+## ⚠️ LES 23 TEXTES SONT DÉJÀ RÉDIGÉS — `TEXTES-PRETS.md`
+
+Ajouté le 11/10 à 22h53. **Il n'y a plus à rédiger lundi, seulement à relire et à envoyer.**
+Chaque texte porte au-dessus de lui **les réserves qui l'ont commandé** — boîte mal routée,
+appartenance de groupe, réserve de taille, interdit de marché — et les blocs communs (brésilien,
+singapourien) sont écrits une seule fois pour éviter la dérive.
+**Aucun ne contient de prix, de délai, de certificat, de condition non validée, de nom d'usine
+partenaire ni de signature.** Tous portent la ligne d'identification du §9 et la formule de l'offre du
+§5, mot pour mot.
+
 ## CONTRÔLE AVANT-VOL — à passer sur la vague AVANT de l'écrire
 
 Ajouté le 11/10 à 22h45 après **quatre quasi-fautes de domaine dans la même soirée** :
