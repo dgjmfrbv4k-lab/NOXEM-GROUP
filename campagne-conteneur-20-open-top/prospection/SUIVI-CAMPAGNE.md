@@ -3737,3 +3737,84 @@ chiffre est fiable depuis que son faux positif sur Klingshield est réparé.
 **Et une correction de mon propre travail, dans la minute :** j'avais écrit dans la fiche Vitre
 Khezzane que la recherche révélait la ville d'Annaba, alors que **la fiche la portait déjà**. Retiré.
 La recherche précise le quartier, pas la ville.
+
+---
+
+### 11/10/2026 — 16h10 CEST · dimanche · deux demandes de prix traitées, 4 envois, et −5 sur la semaine
+
+**LE CHIFFRE DE LA SEMAINE BAISSE DE 5, ET C'EST LA TROUVAILLE LA PLUS IMPORTANTE DU JOUR.**
+Cinq fiches comptées « envoyées » **ne l'ont jamais été** : Texas Glass Group (États-Unis), Qaswa
+Glass (Oman), Eurowindow HCM (Vietnam), Axial (Angola) et TAMISTEF (Roumanie). Toutes cinq ont reçu
+**deux avis de DÉLAI puis un avis d'ÉCHEC**, trois jours après l'envoi. Total de la semaine corrigé :
+05/10 = 21 · 06/10 = 224 · **07/10 = 149** (−1) · **08/10 = 97** (−4) · 09/10 = 101 · 11/10 = 4.
+
+**UN AVIS DE DÉLAI N'EST PAS UNE LIVRAISON — et je l'avais traité comme tel, explicitement.** Le
+09/10 j'ai écrit qu'un seul rebond était tombé dans l'heure *« et c'est un délai »*, en le classant
+comme non-événement. **La fiche citée ce jour-là, TAMISTEF, est précisément celle qui a fini en
+échec.** La règle du 09/10 — un envoi n'est confirmé qu'après lecture du rebond — portait sur
+quelques minutes ; elle porte en réalité sur **72 heures**. Les avis de délai se **suivent**.
+
+**QUATRIÈME SIGNATURE DE REBOND, ajoutée au §13 : le serveur ne répond pas.** Code `4.4.1`, délai
+d'attente dépassé sur chacune des IP du domaine. La panne est **au serveur, pas à la boîte** : le
+domaine existe, ses enregistrements pointent vers des machines, mais rien n'écoute. **Chercher une
+autre adresse sur ce domaine est donc inutile.** Et la règle de décision se simplifie : sur les
+quatre signatures, **une seule** justifie de chercher une autre boîte — la boîte inexistante sur un
+domaine vivant.
+
+**ET CELA DÉMENT UNE AFFIRMATION DU §5, corrigée sur place.** Il y était écrit que `thaitempered.lk`
+et `eurowindowhcm.com`, deux domaines sans MX, avaient accepté le courrier *sans aucun rebond*, d'où
+la conclusion d'un repli implicite vers l'enregistrement A. **Eurowindow a rebondi**, trois jours
+plus tard : le repli a été tenté et la machine n'a pas répondu. Fenêtre d'observation trop courte,
+exactement comme pour les annonces d'« aucun rebond ».
+
+**DEUX DEMANDES DE PRIX TRAITÉES, ET AUCUNE RÉPONSE ENVOYÉE (§5).**
+- **Over Head Asia (Brésil)** — première demande de prix de la campagne arrivant **sans qu'on ait
+  prospecté**. Verre trempé à quatre côtes sous NCM 7007.19.00, en FOB/EXW. Un importateur brésilien
+  qui possède ses propres bureaux d'achat **à Pékin et à Dongguan** écarte la Chine à cause de
+  l'antidumping et démarche l'Europe : le mécanisme du §6 en direct. **Mais le produit est du verre
+  d'électroménager**, que le mandat signale déjà comme *« autre produit à ne pas confondre »* —
+  faisabilité au §11, donc `A VALIDER AARON`, deux textes préparés selon la branche de décision.
+  Deux réserves dites : les quantités sont dans quatre PDF que cette session ne peut pas télécharger,
+  et le champ destinataire porte l'adresse de l'expéditeur, donc c'est un appel d'offres diffusé.
+- **Nepal Glass Udyog** — Aaron a répondu lui-même le 09/10 et la cotation est lancée. **J'ai levé la
+  réserve douanière qui bloquait le dossier :** la restriction DGFT est un **plancher** (libre au-delà
+  de 34 000 Rs/t, restreint en dessous), donc du float européen passe ; et une marchandise en transit
+  n'est pas une marchandise importée. Limite dite : aucune source sur le transit, donc raisonnement
+  et non fait. **Deux repères de prix neufs** : 34 000 Rs/t ≈ 383 $/t, et le float chinois en Inde
+  à ~25 000 Rs/t ≈ **280 $/t**, le plus bas documenté de la campagne.
+
+**QUATRE ENVOIS, ET LE CHOIX DU JOUR EST UN CRITÈRE NEUF.** La semaine ouvrée va du **dimanche au
+jeudi** en Arabie saoudite, au Koweït, au Qatar, à Bahreïn, à Oman, en Égypte, en Jordanie, en
+Algérie, en Libye et en Irak. Un dimanche est donc le **meilleur** jour pour ces pays et le pire pour
+le Maroc, l'Europe ou les Amériques — les fiches marocaines du même vivier sont gardées pour lundi.
+**Correction de ma propre règle dans l'heure :** les **Émirats** sont passés à la semaine
+lundi-vendredi en janvier 2022, donc F.A.M Aluminium (négoce de float, le meilleur profil émirati)
+est reporté à lundi plutôt que dépensé aujourd'hui.
+- **Al-Hadi Glass (Koweït)** — angle le plus technique du lot : leur trempe est annoncée testée selon
+  **EN 12150**, la norme européenne. Leur four est donc spécifié sur des conventions européennes.
+- **Glass Specialized Industries (Dammam)** — vitrage isolant **à gradins** et feuilleté
+  **anti-souffle**, deux produits qui sont des problèmes de substrat avant d'être des problèmes de
+  procédé. Et Dammam est un **port** : pas de trajet terrestre.
+- **Skywall (Doha)** — **durcissement thermique** (bande de contrainte étroite) et portes
+  **coupe-feu** (le verre fait partie d'un ensemble testé, donc la régularité est une question de
+  conformité).
+- **ArcGlass (Riyad)** — **500 000 m²/an**, soit ~250 conteneurs de substrat. Le message **ouvre sur
+  ce qui joue contre nous** : Riyad est à l'intérieur, et la route est où le verre casse.
+
+**ET UNE FAUTE DE MA PART, CONSIGNÉE.** J'ai écrit à *The First for Glass Industries Co.* (Jordanie)
+alors que le registre portait déjà *First Glass*, **même adresse `info@fgi.jo`**, relancée le 06/10.
+Fiche neutralisée, envoi non compté. **Je n'avais pas grepé ce nom** — j'en avais grepé dix autres le
+même jour. **Le trou de règle est nommé et bouché au §5 :** la règle disait de greper les noms *que la
+recherche rend*, pas le nom *d'où l'on part* quand il vient du registre. Or un registre qui conserve
+ses doublons peut contenir deux fois la même société : **une fiche n'est pas une garantie d'unicité.**
+Et j'ai **automatisé** le contrôle que j'avais raté : un script qui, pour chaque fiche candidate,
+grepe son mot distinctif et signale toute autre fiche déjà contactée. Il a tourné sur 45 candidates et
+en a isolé **22 sans aucune collision**.
+
+**Question d'identité ouverte au passage, et elle touche deux fiches déjà contactées :** le téléphone
+de First Glass est **aussi** donné pour *Technical Aluminum & Glass*, dans la même zone industrielle
+d'Amman. Aucun nouvel envoi sur l'une ni l'autre avant qu'un appel ait tranché.
+
+**La Jordanie est travaillée à fond** : la recherche du jour n'a retrouvé que des sociétés déjà
+contactées — Mansour, Technical, Aldar, Horizon, Elite, Lana, Aalam Albehar. C'est le constat
+ougandais du §5 : compter les fiches d'un pays induit en erreur.

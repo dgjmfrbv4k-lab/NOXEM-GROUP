@@ -240,6 +240,16 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   elle ne détecte pas un domaine sans MX. Pas de `OK`, pas d'envoi. Un domaine sans MX mais
   avec un A se teste seul, jamais dans un lot groupé.
   **Mesure du 08/10 :** deux domaines sans MX (`thaitempered.lk`, `eurowindowhcm.com`) ont
+  **CETTE MESURE EST DÉMENTIE LE 11/10, ET IL FAUT LA CORRIGER ICI MÊME.** `eurowindowhcm.com` **a
+  rebondi** — pas dans l'heure, **trois jours après**, en `4.4.1` : le repli vers l'enregistrement A
+  a bien été tenté et **la machine n'a pas répondu**. Donc « sans MX mais avec un A » ne veut pas dire
+  que le courrier passe ; cela veut dire qu'il sera tenté pendant 72 heures puis abandonné.
+  **La conclusion du 08/10 était prématurée pour exactement la même raison que les annonces
+  d'« aucun rebond » : la fenêtre d'observation était trop courte.** `thaitempered.lk` reposait sur la
+  même observation, le même jour — **son cas est donc à revérifier et ne doit pas être cité comme
+  preuve.** Ce qui reste vrai du paragraphe ci-dessus : un domaine sans MX est **un risque à tester
+  seul**, et ce n'est pas un motif d'écarter une fiche. Ce qui est faux : qu'on ait la preuve que
+  cela marche.
   accepté le courrier sans aucun rebond — c'est le repli implicite du RFC 5321, qui envoie
   vers l'enregistrement A à défaut de MX. Donc « pas de MX » est un **risque à tester seul**,
   pas un domaine mort : ne jamais écarter une fiche sur ce seul motif.
@@ -1095,6 +1105,29 @@ TZ=Europe/Paris date '+%H:%M %Z (%d/%m/%Y)'
   fiche au téléphone ou au WhatsApp.** Coût de la leçon : deux envois qui ne comptent pas, déduits
   du jour le jour même. Et le corollaire d'honnêteté, qui vaut pour tout comptage : **un envoi n'est
   confirmé qu'après lecture du rebond**, pas à la réception de l'identifiant de message.
+
+  **ET LA FENÊTRE DE CONFIRMATION EST DE 72 HEURES, PAS DE QUELQUES MINUTES — mesuré le 11/10 sur
+  CINQ fiches d'un coup, et ça a coûté cinq envois comptés à tort.** Texas Glass Group, Qaswa Glass,
+  Eurowindow HCM, Axial Angola et TAMISTEF ont toutes reçu **deux avis de DÉLAI puis un avis
+  d'ÉCHEC**, trois jours après l'envoi. Les cinq étaient comptées « envoyées ». Elles ne l'étaient pas.
+  **UN AVIS DE DÉLAI N'EST PAS UNE LIVRAISON, et c'est l'erreur que j'avais commise explicitement :**
+  le 09/10 j'ai écrit qu'un seul rebond était tombé dans l'heure « et c'est un *délai* », en le
+  traitant comme un non-événement. **La fiche en question, TAMISTEF, est précisément celle qui a fini
+  en échec.** Donc : les avis de délai **se suivent**, ils ne se classent pas, et un envoi n'est
+  définitivement confirmé qu'après **72 heures** sans avis d'échec.
+
+  **QUATRIÈME SIGNATURE DE REBOND, qu'il faut ajouter aux trois ci-dessous : LE SERVEUR NE RÉPOND
+  PAS.** Code `4.4.1`, « the recipient server did not accept our requests to connect », délai d'attente
+  dépassé sur chacune des IP du domaine. Chez Texas Glass les deux IP, `104.219.250.37` et
+  `2.59.170.20`, ont expiré.
+  **Ce que cette signature implique est différent des trois autres, et c'est tout l'intérêt de la
+  distinguer : la panne est AU SERVEUR, pas à la boîte.** Le domaine existe, ses enregistrements
+  pointent vers des machines, mais rien n'écoute. **Donc chercher une autre adresse sur le même
+  domaine est inutile — elle échouerait à l'identique.** Même remède que le « serveur mal configuré »
+  de Perfect Glass Ghana : fiche téléphonique, immédiatement.
+  **La règle de décision se simplifie d'ailleurs : sur les quatre signatures, UNE SEULE justifie de
+  chercher une autre boîte** — la boîte inexistante sur un domaine vivant. Domaine introuvable, boîte
+  pleine et serveur muet envoient tous les trois directement au téléphone.
   **DEUX PIÈGES D'IDENTITÉ DE PLUS, trouvés sur les outre-mer le 08/10, et ils sont symétriques.**
   · **Le cas facile : une filiale sous un autre nom.** Savima (Baie-Mahault) annonce sur son propre
     site s'être installée à Saint-Martin **sous le nom Glass Alu SXM**, avec sa propre adresse.
