@@ -1444,3 +1444,62 @@ si l'exonération joue, la question de l'octroi de mer disparaît du dossier ; s
 DOM sortent des marchés prioritaires.
 **⚠️ Jusque-là, l'interdiction du §6 d'écrire quoi que ce soit sur la fiscalité à l'entrée des DOM et des
 COM est RENFORCÉE, pas levée.**
+
+
+---
+---
+
+# 22h56, dimanche 11/10 — VUE D'ENSEMBLE DOUANIÈRE : les six questions, en une page
+
+**Pourquoi cette page :** le §6 portait six questions douanières ouvertes depuis le 08/10, et je les ai
+toutes travaillées ce soir. Elles sont consignées en six entrées séparées ci-dessus — **en voici la vue
+unique**, parce qu'aucune décision ne se prend sur une entrée isolée.
+
+## Ce qui est ÉTABLI et utilisable
+
+| Marché | Fait | Ce qu'il autorise à dire |
+|---|---|---|
+| **États-Unis** | AD/CVD du **06/04/2026** : Chine **181,52 %** + compensateur 19,75-113,34 %, Malaisie compensateur **17,3-102 %**. Europe non visée | « les deux origines les moins chères portent désormais des droits » — **jamais** un taux comme promesse de prix |
+| **Brésil** | **Gecex 833/2025** sur la Malaisie, le Pakistan et la Turquie, confirmée par le rejet du recours ABIVIDRO (Gecex 961) | ces trois origines seulement. **Rien** sur la Chine |
+| **Colombie** | Mesure sur le **miroir** chinois figurant parmi les **droits en vigueur publiés par le MinCIT**. Plancher **0,77 USD/kg**, soit ~7,70 $/m² en 4 mm | « la mesure figure parmi les droits en vigueur publiés par le MinCIT » — **pas** « le recours a été rejeté » |
+| **Inde** | Prix de référence **374 $/t** et MIP **34 000 INR/t** convergent vers ~375-400 $/t, soit **~11-12 $/m² en 12 mm** | rien à un prospect. **C'est un repère de prix interne**, et il dit que l'Inde est hors de portée |
+
+## Ce qui est PROBABLE mais pas établi — ne rien écrire
+
+| Question | État | Ce qui manque |
+|---|---|---|
+| **Préférence UE-Mexique** | **Probablement favorable** : la réforme du 01/01/2026 visait les origines **hors accord**, et l'UE a un accord en vigueur depuis 2000 | le taux IGI de la fraction **7005.29.99** pour origine UE — **DOF / TIGIE** |
+| **Droit ordinaire Brésil** | **9 % ou 25 %** selon des sources qui se contredisent (Gecex 675, validité 12 mois peut-être expirée) | la **TEC** au portail Siscomex |
+| **Droit ordinaire États-Unis** | Semble **modeste** : 14,5 ¢/m² en clair < 10 mm, 0 % ou 4,9 % en clair épais, 10 % en coloré | le **HTS de l'USITC**, ligne à 10 chiffres |
+| **SACU / UE-SADC** | APE en vigueur, **86 %** des importations UE libéralisées en SACU — mais **PFG est « 100 % de l'industrie domestique de la SACU »**, donc le verre plat est un candidat type à l'exclusion | **Access2Markets** + tarif namibien |
+| **Octroi de mer DOM** | Grille de **0 à 30 %** en Martinique, OMR plafonné à 2,5 %, et un document de ~2016 porte le verre à **30 % tout compris** | la **liste des délibérations en vigueur** de la douane |
+| **Pérou** | **Aucune mesure sur le verre plat**, alors qu'Indecopi poursuit la Chine sur quatre autres produits. Marché **faible** | rien — la présomption suffit à déclasser |
+
+## ⚠️ LE POINT QUI CONDITIONNE TOUS LES AUTRES, ET IL NE DÉPEND QUE DE NOUS
+
+**Une préférence tarifaire ne s'applique jamais automatiquement : elle se réclame sur présentation d'une
+preuve d'origine, et c'est l'EXPORTATEUR qui la fournit** — certificat **EUR.1** ou **déclaration
+d'origine sur facture**, avec le statut d'**exportateur agréé** au-delà de certains seuils.
+**Sans cette pièce, le client paie le droit PLEIN, quelle que soit la préférence.**
+**Donc : chercher à établir des taux préférentiels que nous ne pourrions pas réclamer n'a aucun sens.**
+Deux questions, et elles passent avant les six du tableau :
+1. **Nos usines partenaires savent-elles émettre un EUR.1 ou une déclaration d'origine ?**
+2. **Sommes-nous exportateur agréé le cas échéant ?**
+
+## Ce qu'un seul appel trancherait, par ordre de valeur
+
+1. **Un transitaire antillais ou la douane de Fort-de-France** — l'exonération d'octroi de mer pour les
+   **intrants de production**. **16 fiches**, dont notre seul client export, et la réponse fait passer
+   les DOM de « peut-être les plus taxés » à « marché normal pour qui transforme ».
+2. **Un courtier en douane mexicain** — le taux IGI de la 7005.29.99 pour origine UE. **13 fiches** et un
+   marché de 130 millions d'habitants.
+3. **Un transitaire sur l'Afrique australe** — le statut du 7005 dans l'APE UE-SADC. **Et c'est le dossier
+   le plus mûr de la campagne** : si le verre plat est exclu, la phrase de Willem sur le prix s'explique
+   par la douane et non par notre offre.
+4. **Un transitaire sur l'Inde** — le transit vers le Népal. **25 à 30 conteneurs/mois** en dépendent, et
+   la fiche note que la réserve n'a **aucune source de premier rang**, seulement un raisonnement.
+
+**Et une cause commune à dire une fois : les SIX sources officielles — USITC, Siscomex, DOF, TIGIE,
+Access2Markets, douane française et MinCIT — sont toutes hors de la liste blanche réseau de cette
+session.** C'est pourquoi aucune des six questions n'est closée sur source de premier rang, et c'est
+l'argument le plus concret pour le réglage d'accès réseau du §13.
