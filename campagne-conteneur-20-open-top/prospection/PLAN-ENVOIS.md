@@ -67,6 +67,39 @@ Disk Vidros, Reliance Safety Glass (adresse obfusquée), WHTB Glass (appartenanc
 Industrial Glass Technologies (correspondance de nom rompue), Glasscorp (3 domaines, 1-10 salariés),
 Deway, Atacado do Vidro (site gratuit + boîte grand public), Alusupra (extrudeur aluminium).
 
+## CONTRÔLE AVANT-VOL — à passer sur la vague AVANT de l'écrire
+
+Ajouté le 11/10 à 22h45 après **quatre quasi-fautes de domaine dans la même soirée** :
+`newSglassind` contre `newglassind`, `glasscorplnt` contre `glasscorpint`, `whtbglassusa` contre
+`whtbglass.us`, `index-gabon` contre `indexgabon`. **Un caractère, à chaque fois.** Ce contrôle compare
+le domaine de l'adresse à celui du site, pour toute la vague d'un coup :
+
+```bash
+python3 - <<'EOF'
+import io
+R=[l.split(';') for l in io.open('liste-prospects.csv',encoding='utf-8').read().rstrip('\n').split('\n')[1:] if len(l.split(';'))==10]
+for c in [c for c in R if c[9].startswith('A ENVOYER')]:
+    site=c[5].strip().lower().replace('www.',''); mail=c[6].strip().lower()
+    dom=mail.split('@')[-1] if '@' in mail else ''
+    if dom!=site:
+        print('VERIFIER  %-14s %-34s site=%-26s mail=%s' % (c[0], c[3][:34], site or '(vide)', mail))
+EOF
+```
+
+**Toute ligne qui sort doit porter l'exception du §5 écrite dans sa fiche** — « si le domaine de l'adresse
+diffère de celui du site, n'envoyer que si la page de contact de la société elle-même la publie, et le
+noter dans la fiche ». **Si l'exception n'est pas notée, on ne l'envoie pas : on va la lire.**
+
+**Résultat du passage du 11/10 sur les 23 envois : 20 identiques, 3 divergents — et les trois portent
+leur exception.** **Divibras** (site sur un sous-domaine d'hébergeur, messagerie sur domaine propre),
+**New Glass** (`newglasschaparia` contre `newglassind`, et c'est l'envoi isolé), **Induver**
+(`induver.ma` contre `induvermaroc.ma`). **Aucune anomalie : la discipline a tenu.**
+
+**Et un second contrôle d'une seconde, né du domaine parqué d'INDEX Gabon : les pages que la recherche
+restreinte a rendues parlaient-elles de VERRE ?** Un domaine parqué rend des pages et satisfait la
+condition mécanique du §5 sans être le site de la société. Si les pages parlent d'autre chose, le
+domaine n'est pas le leur, quel que soit le nombre de résultats.
+
 ## Ensuite : les 21 relances de lundi
 
 20 premières relances de la cohorte du 05/10, plus 1 seconde relance. Par ordre de valeur :
