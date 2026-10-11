@@ -1014,3 +1014,47 @@ premier envoi). Seules la Malaisie, le Pakistan et la Turquie sont confirmés, e
 **Et la règle qui vaut pour les 21 : `detecte-doublons.py` AVANT d'ouvrir le pool.** Alpha Glass et
 Alphaglass étaient une seule société dans deux cohortes — sans ce balayage, elle recevait deux messages
 de plus cette semaine après en avoir déjà reçu trois en quatre jours.
+
+
+---
+
+## 24. Prodiesa (Pesquería, Nuevo León) — `contact@prodiesa.com` — ESPAGNOL
+
+**Objet :** `Base para su línea de espejo - sustrato ultra claro y claro`
+⚠️ **Le détail qui fait la cible :** leur ligne miroir est fabriquée en clair, **ultra clair**, bronze,
+gris, bleu et vert, de 2 à 6 mm — **ils argentent leur propre verre**, donc ils achètent du **float**.
+⚠️ **Et l'interdit mexicain :** **rien sur les droits.** La préférence UE-Mexique a avancé le 11/10 mais
+n'est **pas** établie, et un droit général de 35 % frappe la fraction. ⚠️ **Ne jamais écrire qu'il n'y a
+pas de production locale** : Vitro produit via Vidrio Plano de México et Guardian fait du float et du
+miroir au Mexique.
+
+```
+Mi nombre es Aaron Harfi, dirijo NOXEM GROUP, proveedora y exportadora de vidrio plano cerca de
+Lyon, Francia.
+
+Les escribo por un detalle de su catálogo: su línea de espejo se fabrica en claro, ultra claro,
+bronce, gris, azul y verde, de 2 a 6 mm. Eso significa que ustedes platean su propio vidrio - compran
+sustrato, no espejo terminado. Es exactamente ahí donde podemos ser útiles, y en ningún otro lugar.
+
+Dos cosas de nuestra gama, en ese orden:
+
+- espejo sin cobre y sin plomo. El defecto que se paga en espejo empieza siempre por el canto: la
+  humedad alcanza la capa de cobre detrás de la plata, el cobre se corroe, y el punteado oscuro
+  avanza por el perímetro. No aparece en la instalación, aparece años después, y vuelve a quien lo
+  fabricó: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- float claro y extra claro, que es la base - y el extra claro es precisamente su ultra claro:
+  https://noxemgroup.com/en/float-glass/
+(el sitio existe solo en francés e inglés - con gusto explico cualquier punto en español)
+
+Cómo embarcamos: contenedores completos, cajas de madera tratada NIMP-15, con interfoliado de papel.
+Jumbo o en sus medidas.
+
+Podemos elaborar una oferta para entrega en su puerto de destino, sujeta a validación de nuestro
+lado.
+
+Para eso necesito cuatro datos: las referencias y espesores que más consumen, sus medidas, el volumen
+anual y la frecuencia de compra, y el puerto - Nuevo León está tierra adentro, así que prefiero
+preguntar qué puerto usan y quién asume el tramo terrestre, en lugar de suponerlo.
+
+Y si su abastecimiento ya está cerrado y les funciona, dígamelo y no insisto.
+```
