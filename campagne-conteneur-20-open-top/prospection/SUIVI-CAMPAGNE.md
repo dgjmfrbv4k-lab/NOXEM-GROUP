@@ -4611,3 +4611,38 @@ Caribbean Glass Specialists. Zone faite.
 **Six noms singapouriens restent à travailler**, consignés dans les trois fiches : SGFrames, Deway
 Enterprise, Steiron, Diamond Glass Enterprise, Besglas Home Door, Singapore Safety Glass.
 **Registre : 1074 → 1077 fiches. 21 envois programmés pour lundi.**
+
+
+## Dimanche 11/10, 22h28 — ENTONNOIR DU §3 MESURÉ AU REGISTRE, pas estimé
+
+Le §3 impose cinq chiffres **distincts** dans tout rapport. Les voici, comptés et non arrondis.
+
+**État du registre : 1 081 fiches.** 616 ont reçu **au moins un message**. 23 sont **programmées** à
+l'envoi pour lundi. 176 sont téléphoniques, 183 à qualifier, **73 fermées** (écartées ou ne pas
+démarcher). Répartition : 333 `RELANCE`, 265 `ENVOYE`, 6 `RELANCE DIFFEREE`, 5 `A VALIDER AARON`,
+3 `ADRESSE INVALIDE`, 2 `A RENVOYER`.
+
+**L'AVAL DE L'ENTONNOIR TIENT EN 12 FICHES, ET C'EST LE CHIFFRE QUI COMPTE** — 616 messages partis pour
+12 dossiers vivants, soit **moins de 2 %**. Il faut le dire tel quel.
+
+| Étape du §3 | Nb | Qui |
+|---|---|---|
+| **commande** | **0** | — |
+| **négociation** | **1** | Carlen Glass Merchants (Irlande) — *compte protégé, §7* |
+| **devis envoyé** | **1** | United Glass (Canada) — proposition partie d'Aaron lui-même |
+| **demande de prix** | **4** | **Caribbean Glass Specialists** (Trinité, depuis le 08/10) · **PG Glass Namibie** (specs confirmées, prix rendus confirmés par écrit le 09/10) · **Rubex** (Égypte, à chiffrer) · + 1 |
+| **réponse reçue** | **5** | **Nepal Glass Udhyog** (25-30 conteneurs/mois) · Goldland Trading (Sri Lanka) · Duravidrio (Équateur) · Cork Glass Centre (Irlande, à relancer) · Gorica Staklo (Croatie, vérification de conformité) |
+| **refus** | **2** | Quality Glass & Aluminium (PNG) · Glassjet (Émirats) |
+
+**CE QUE CE TABLEAU DIT, ET IL FAUT L'ANALYSER PLUTÔT QUE DE LE CONSTATER :**
+· **Les deux dossiers les plus avancés attendent NOUS, pas eux.** Caribbean Glass Specialists attend
+  l'offre complète d'Aaron depuis le **08/10**, et Nepal Glass attend la cotation 12 mm qu'Aaron a
+  promise « début de semaine prochaine », donc **lundi ou mardi**. **Ce ne sont pas des dossiers à
+  relancer, ce sont des dossiers à SERVIR.** Le goulot n'est plus la prospection, c'est la grille de prix.
+· **Le seul devis envoyé de la campagne est parti d'Aaron**, pas du suivi. C'est cohérent avec le §11 —
+  le prix lui revient — mais cela veut dire que **chaque dossier mûr s'arrête au même endroit**.
+· **Et 2 % de passage, sur un domaine neuf sans DMARC et à six jours du premier envoi, n'est pas un
+  verdict.** Un envoi du 09/10 n'a pas eu le temps de produire une réponse, et le §15 interdit
+  explicitement de conclure à l'échec sur ce motif. Ce qui est en revanche mesurable, c'est que
+  **les 332 secondes relances de la semaine portent sur des sociétés déjà silencieuses deux fois** —
+  d'où la décision prise à 21h25 de ne pas les tirer en cohorte.
