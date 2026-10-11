@@ -1232,6 +1232,22 @@ H=$(TZ=Europe/Paris date '+%Hh%M')          # puis utiliser "$H" dans le script
   Trois minutes d'avance ne changent rien a un dossier, mais c'est le meme geste qui a fait conclure
   trop tot sur la fenetre de bilan le 08/10, et c'est un faux dans une note qui sert de preuve.
 
+  **ET LA CAUSE N'EST PAS PROPRE A L'HEURE : ELLE VAUT POUR TOUT CHIFFRE — mesure du 11/10 a 23h26,
+  une heure apres avoir ecrit la regle ci-dessus.** J'ai consigne « 27 envois programmes au 12/10 »
+  dans le suivi **et** dans un message de commit deja pousse. Le registre en comptait **26**. Le
+  commit reste donc faux dans l'historique, et seule la note a pu etre corrigee.
+  **Le geste fautif est identique : j'ai TAPE le nombre en composant la note**, au lieu de le
+  substituer depuis la commande qui le compte. Lancer le `awk` apres coup ne corrige rien, il ne
+  fait que prouver l'ecart — exactement comme lancer `date` a cote d'une heure devinee.
+  **Remede, de meme forme : ne jamais saisir a la main un comptage, un total ni un pourcentage dans
+  une note, un bilan ou un message de commit. Le substituer.**
+```bash
+N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.csv)
+```
+  Deux envois d'ecart ne changent rien a un dossier, mais un chiffre invente dans un suivi qui sert
+  de preuve est un faux au sens du paragraphe 16 — et c'est le meme defaut qui faisait annoncer
+  « aucun rebond » sur une fenetre d'observation trop courte : affirmer avant d'avoir lu.
+
 - **DIAGNOSTIC CORRIGÉ LE 08/10 — ce n'est pas une panne, c'est une liste blanche DNS.**
   Mesuré : `github.com` résout normalement, mais `gmail.com`, `example.com` et
   `noxemgroup.com` renvoient tous « Name or service not known ». La résolution fonctionne,

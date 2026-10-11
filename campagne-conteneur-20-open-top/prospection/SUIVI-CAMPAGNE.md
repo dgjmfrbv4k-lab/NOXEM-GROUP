@@ -5110,5 +5110,23 @@ d'importation, et `dnb.com`. Avec une precision pour ne pas sur-bloquer : un por
 comme `vidrioperfil.com` est une piste d'identification legitime, il ne satisfait simplement pas la
 regle anti-rebond.
 
-**Etat : 1 086 fiches, 27 envois programmes au 12/10, 0 ligne malformee, A APPELER sans telephone a
+**Etat : 1 086 fiches, 26 envois programmes au 12/10, 0 ligne malformee, A APPELER sans telephone a
 zero. Envois confirmes ce soir : zero, et c'est la regle du paragraphe 10, pas une limite d'outil.**
+
+### 23h26 — correction : j'ai ecrit 27 envois programmes, il y en a 26
+
+**Chiffre faux dans l'entree precedente, corrige ci-dessus, et le message du commit `a9d603b`+1 le
+porte aussi — celui-la est pousse et reste donc faux dans l'historique.** Le registre compte
+26 fiches en `A ENVOYER 2026-10-12`, pas 27.
+
+**LA CAUSE EST EXACTEMENT CELLE DE L'HEURE EN DUR DU PARAGRAPHE 13, TRANSPOSEE A UN COMPTAGE :**
+j'ai **tape le nombre a la main** en composant la note, au lieu de le substituer depuis la commande
+qui le compte. Lancer le `awk` apres coup ne corrige rien, cela ne fait que prouver l'ecart.
+
+**Remede, meme forme que pour l'heure : ne jamais saisir un comptage a la main dans une note ni
+dans un message de commit. Le substituer.**
+```bash
+N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.csv)
+```
+Deux envois d'ecart ne changent rien a un dossier, mais une note de suivi sert de preuve et un
+chiffre invente y est un faux — paragraphe 16.
