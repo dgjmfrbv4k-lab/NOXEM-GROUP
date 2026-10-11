@@ -1351,3 +1351,54 @@ de grandeur, pas un chiffre à citer.
 3. **Et une question que je n'ai pas posée** : la fiche note que la réserve douanière indienne sur le
    transit n'a **aucune source de premier rang**, seulement un raisonnement sur le sens de la mesure.
    **Un transitaire la tranche en un appel**, et elle porte sur la totalité du volume.
+
+
+---
+
+## 22h37, dimanche 11/10 — SACU / UE-SADC : la question du §7 avance, et il y a un point qui NOUS incombe
+
+Le §7 demandait, sur le dossier **PG Glass Namibie** — le plus mûr de la campagne, specs confirmées et
+prix rendus confirmés par écrit le 09/10 — de vérifier « le droit applicable au verre européen entrant
+en SACU et la préférence éventuelle de l'accord UE-SADC ». **Recherche approfondie faite ce soir.**
+
+### Ce qui est établi
+· **L'accord de partenariat économique UE-SADC est en vigueur**, et la Namibie en est partie comme
+  membre de la SACU.
+· **Les membres de la SACU suppriment les droits de douane sur environ 86 % des importations venant de
+  l'UE.** Il y a donc bien une libéralisation côté SACU.
+· **La preuve d'origine se fait par certificat de circulation EUR.1 ou par déclaration d'origine de
+  l'exportateur**, valable **10 mois** à compter de l'émission.
+· Et le **cumul bilatéral** existe : des matières d'origine UE transformées dans un État SADC peuvent
+  être traitées comme originaires de cet État.
+
+### Ce qui N'EST PAS établi, et c'est la question qui compte
+**Aucune source trouvée ne donne le statut de la position 7005.** Elle est dans les 86 % libéralisés ou
+dans les 14 % restants, et **rien ne permet de trancher d'ici**. Il faut **Access2Markets** de la
+Commission et le **tarif douanier namibien**, inatteignables depuis cette session.
+
+**ET IL Y A UNE RAISON PRÉCISE DE SOUPÇONNER QUE LE VERRE PLAT EST PROTÉGÉ, donc de ne pas supposer la
+franchise.** Les listes sensibles d'un APE protègent exactement les industries domestiques existantes —
+et le §7 établit que **PG Glass possède PFG Building Glass**, que l'**ITAC qualifie de « 100 % de
+l'industrie domestique de la SACU »**, 260 000 t/an. **Une industrie qui est à elle seule la filière
+régionale est la candidate type à une exclusion tarifaire.** Ce n'est pas une preuve, c'est un motif de
+ne pas parier dans le sens qui nous arrange.
+**Et cela éclaire la phrase de Willem sur le prix** d'une façon qui n'avait pas été dite : s'il compare
+notre offre à du PFG, il compare à un prix **protégé à la fois par un droit de douane et par les
+antidumping que PFG obtient** — le §7 en liste sept origines visées. **Son objection n'est peut-être pas
+sur notre prix, elle est sur l'écart que la douane creuse.**
+
+### ⚠️ ET VOICI LE POINT QUI NOUS INCOMBE, ET QUI EST ACTIONNABLE TOUT DE SUITE
+**La préférence ne s'applique pas automatiquement : elle se réclame sur présentation d'une preuve
+d'origine, et c'est L'EXPORTATEUR qui la fournit.** Concrètement, **EUR.1 ou déclaration d'origine sur
+facture**. **Si nous ne fournissons pas ce document, le client paie le droit plein, quelle que soit la
+préférence.**
+**Ce n'est donc pas une question de douane côté client, c'est une pièce de notre dossier d'expédition**,
+et elle vaut pour **tous** les marchés sous accord avec l'UE — pas seulement la Namibie. **Deux choses à
+vérifier de ton côté :** nos usines partenaires savent-elles émettre un EUR.1 ou une déclaration
+d'origine, et sommes-nous **exportateur agréé** le cas échéant. **Si la réponse est non, l'avantage
+tarifaire européen est nul partout où il existe** — et c'est exactement l'argument que la campagne
+oppose aux origines asiatiques.
+
+**MA RECOMMANDATION :** ne rien écrire à Willem sur la douane (le §6 l'interdit déjà sans source), mais
+**poser les deux questions ci-dessus à nos usines**, parce qu'elles ne dépendent de personne d'autre que
+de nous et qu'elles conditionnent la valeur de l'argument d'origine sur toute la campagne.
