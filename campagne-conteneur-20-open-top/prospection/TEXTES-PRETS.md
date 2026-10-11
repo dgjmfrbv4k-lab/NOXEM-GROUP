@@ -928,3 +928,89 @@ partenaire ni de signature.** Tous portent la ligne d'identification du §9 et l
 §5, mot pour mot.
 **⚠️ Et aucun ne part de lui-même :** relire l'adresse **au registre**, passer le **contrôle avant-vol
 du domaine**, vérifier l'**expéditeur dans `in:sent`**, et respecter les **vagues de 5 espacées**.
+
+
+---
+---
+
+# RELANCES DU LUNDI 12/10 — modèle et les six qui valent le plus
+
+Ajouté le 22h54. **Une relance n'est pas un second premier contact, et la confondre coûte la
+réponse.** Ce qui a marché dans la campagne, d'après les notes de fiches : **court, UNE seule question
+exploitable, et une porte de sortie explicite.** Le silence après un premier message n'est pas un refus :
+c'est le plus souvent un message lu en passant et jamais rouvert.
+
+## Le modèle, et pourquoi chaque ligne y est
+
+```
+Bonjour,
+
+Je vous ai écrit le [DATE] au sujet de verre plat en conteneurs complets, et je n'ai pas eu de
+retour - ce qui est normal, un message de ce genre se perd facilement.
+
+Je ne reprends donc pas tout. Une seule question : [LA QUESTION].
+
+Si ce n'est pas d'actualité pour vous, répondez-moi simplement non et je n'insiste pas.
+```
+
+**Les quatre règles du genre :**
+1. **Dire soi-même que le silence est normal.** Cela retire au destinataire la gêne de ne pas avoir
+   répondu, qui est la première raison pour laquelle il ne répondra pas davantage.
+2. **UNE question, pas trois.** Un premier contact demande quatre choses parce qu'il doit tout cadrer.
+   Une relance en demande **une**, et de préférence celle dont la réponse tient en une ligne.
+3. **La porte de sortie en toutes lettres.** Un « non » reçu vaut mieux qu'un silence : il libère la
+   fiche et il ferme le compte proprement. C'est ce qui a permis de classer Glass Jet en `REFUS` plutôt
+   qu'en `NE PAS DEMARCHER`, le §12 notant que ce second statut surtraduit.
+4. **Aucun argument neuf.** Une relance qui argumente de nouveau annule la première et sonne comme une
+   insistance. Elle se contente de rouvrir la porte.
+
+---
+
+## R1. Glass World (Koweït) — `info@glassworld.co`
+⚠️ **LIRE LA FICHE AVANT D'ÉCRIRE.** C'est la société dont le doublon *Glass World Industries* a déjà
+coûté un envoi en double le 09/10. **Une seule relance, depuis CETTE fiche, jamais depuis l'autre.**
+**La question :** quelle référence et quelle épaisseur achètent-ils en plus gros volume.
+
+## R2. Forpec (Chili) — `ventas@forpec.cl`
+⚠️ **Le premier message portait l'argument FAUX de l'absence de production locale** — le Chili a
+**Vidrios Lirquén**. **La relance doit éviter le sujet, surtout pas le répéter**, et ne pas le corriger
+non plus : y revenir attirerait l'attention sur l'erreur. Elle pose une question de volume, point.
+
+## R3. Madar Al Ula Glass et Safwa Glass (Arabie saoudite)
+⚠️ **Jamais l'argument du float absent** : le royaume compte au moins quatre producteurs — Obeikan,
+Zoujaj, Guardian et Arabian United Float Glass. **C'est le marché le mieux pourvu de la zone.**
+⚠️ **Et la semaine ouvrée y va du dimanche au jeudi** : lundi est un jour ouvré normal.
+
+## R4. IGG Glass, Canadian Architectural Glass, North Temp Glass (Canada)
+⚠️ **Ne jamais écrire que le float est taxé** — SH 7005 n'est **pas** sur les listes de riposte.
+L'argument canadien est de **gestion du risque**, et une relance ne le reprend pas de toute façon.
+**La question :** leur volume annuel et le port qu'ils utilisent.
+
+## R5. Les cinq américaines — Wholesale Glass & Mirror, Echols, Homewell, Wholesale Glass Distributors Memphis, Tacoma Glass
+⚠️ **Tacoma Glass figure à l'exhibit I-7 des importateurs de float du dossier C-570-189** — donc il est
+**établi au dossier** qu'elle importe. **C'est une information neuve depuis le premier envoi**, et c'est
+la seule des cinq pour laquelle une relance peut légitimement ajouter une ligne : non pas un argument,
+mais une question mieux ciblée — **quelle origine elle utilise aujourd'hui**.
+⚠️ Pour les quatre autres : rien sur les taux. Les faits douaniers du 06/04/2026 étaient déjà dans le
+premier message.
+
+## R6. Bardak (Brésil) — `comercial@bardak.com.br`
+⚠️ **Rien sur le droit chinois** (revue non tranchée) **ni sur le droit de douane ordinaire** (entre 9 et
+25 % selon des sources contradictoires — et c'est une découverte du 11/10 au soir, postérieure au
+premier envoi). Seules la Malaisie, le Pakistan et la Turquie sont confirmés, et c'était déjà dit.
+
+---
+
+## Les autres relances du lot, avec leur seule réserve
+
+| Fiche | Réserve à tenir |
+|---|---|
+| FVK Angola | — |
+| Tough Glass, V&N Glass (Australie) | la dernière ligne float d'Australasie **a été arrêtée**, jamais « ne redémarrera » |
+| Interglass (Chili) | même réserve que Forpec : **ne pas revenir sur l'argument faux** |
+| Distribuidora de Vidrios de Guadalajara, Vycisa (Mexique) | **rien sur les droits.** La préférence UE-Mexique a avancé le 11/10 mais **n'est pas établie** |
+| Al Behar Al Sabaa, Abu Ali Group (Émirats) | **jamais** l'argument du float absent — EFG et Guardian y produisent, et EFG double sa capacité |
+
+**Et la règle qui vaut pour les 21 : `detecte-doublons.py` AVANT d'ouvrir le pool.** Alpha Glass et
+Alphaglass étaient une seule société dans deux cohortes — sans ce balayage, elle recevait deux messages
+de plus cette semaine après en avoir déjà reçu trois en quatre jours.
