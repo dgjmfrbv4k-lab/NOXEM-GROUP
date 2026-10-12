@@ -2,6 +2,58 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## ⚠️ 12/10/2026, 15h27 — REPONSE ENVOYEE A MIRO EST SUR ORDRE EXPLICITE DE KEVIN
+
+**C est l EXCEPTION UNIQUE du §5, et elle se consigne avec l heure.** Ordre recu a **15h22** heure de
+Paris, sur ce message-la. Reponse partie dans le fil d origine a 15h27, identifiant
+`1a130499bafb6b71`. Expediteur verifie dans `in:sent` avant envoi, conforme. **Adresse lue au
+registre** — `miro.est@orange.fr` — et non de memoire ni la seconde qu elle donne, ce qui est la
+regle posee apres la faute Willem Heunis.
+
+### CE QUE LE MESSAGE DIT, ET SURTOUT CE QU IL NE DIT PAS
+
+**Sur le paiement, il reprend les termes de Kevin et pas un mot de plus : « nous pouvons nous
+arranger ».** Il n ACCEPTE PAS les 90 a 120 jours, il ne nomme **aucun** delai, **aucune** garantie
+et **aucun** moyen de paiement. Le §11 reserve la condition de paiement a Aaron, donc la formule
+reste volontairement non chiffree. **C est la nuance qui compte : dire qu on peut s arranger n est
+pas s engager sur un terme.**
+
+**Aucun prix, aucun delai, aucun certificat.** La formule du §5 y est mot pour mot — offre pour la
+livraison au port de destination **sous reserve de validation de notre cote**.
+
+**Rien sur la fiscalite a l entree, et c etait le point delicat.** Le message dit que **le
+dedouanement est a leur charge**, ce qui est une repartition de taches et non un taux. Il ne dit
+rien de l octroi de mer ni d une exoneration : l interdit du §6 sur les DOM tient entierement.
+
+**Aucun format promis.** La question du Stadip est posee sur la **composition** — 33/1, 44/2, 55/2,
+PVB translucide pour l opal — et non sur la marque, et la reserve d **autoclave** du §4 est
+respectee puisque rien n est annonce sur le feuillete. Le message dit en clair que **le clair 6 et
+8 mm ne pose aucune question**, ce qui separe le chiffrable du reste.
+
+### LES TROIS QUESTIONS OPERATIONNELLES, qui sont celles de Kevin
+
+· **Le port**, en demandant Port Reunion plutot qu en le supposant ;
+· **le moyen de DECHARGER un conteneur OPEN TOP** — grue ou chariot de portee suffisante — et qui le
+  fait, au port ou chez eux ;
+· **si le schema leur convient** : livraison au port, dedouanement et dechargement de leur cote.
+
+**Prochaine action : attendre sa reponse.** Si elle confirme le port et les cotes, le dossier passe
+en `DEMANDE DE PRIX` et il faut alors la grille d Aaron **plus** sa decision sur le paiement,
+toujours portee en tete de `DECISIONS-AARON.md`.
+
+### Et un rebond traite dans la meme minute : VIDRIOS DE LA SABANA
+
+Le premier envoi de 14h27 a rebondi **neuf secondes** plus tard : `550 5.1.1 User unknown`, rendu
+par **leur propre serveur** `mail.vidriosdelasabana.com`. **Donc le domaine est vivant et c est la
+boite `jefecomercial@` qui n existe pas** — la signature *boite inexistante sur domaine vivant*, la
+**seule des six** qui justifie de chercher une autre boite publiee.
+**Seconde boite envoyee, `servicioalcliente@`**, publiee par la societe sur son propre site. ⚠️ **Ce
+n est pas un reessai de l adresse rejetee**, que Kevin a interdit, et le premier message n ayant
+jamais ete recu ce n est pas non plus un second message au sens de la faute Shibaam. La premiere
+ligne dit que la precedente adresse a ete rejetee par leur serveur. **C est le premier des deux
+echecs que le §13 autorise : si celle-ci rebondit, la fiche part au telephone et on n essaie pas de
+troisieme adresse.**
+
 ## ⚠️ 12/10/2026, 14h33 — UNE ERREUR DE CIBLAGE DE MA PART, TROUVEE APRES L ENVOI
 
 **J ai offert du miroir a un fabricant de miroir qui plaide contre le miroir importe.** Il faut le
