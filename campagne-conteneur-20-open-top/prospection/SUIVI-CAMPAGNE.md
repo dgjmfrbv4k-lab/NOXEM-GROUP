@@ -2,6 +2,53 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## ⚠️ 12/10/2026, 13h06 — UNE REPONSE QUALIFIEE, ET ELLE EST BLOQUEE SUR LE §11
+
+**MIRO EST (La Reunion) a repondu 32 MINUTES apres sa relance**, a 12h28. C est la premiere reponse de
+fond de la journee sur cette campagne, et c est le dossier le plus avance ouvert aujourd hui.
+
+**Ce qu ils achetent, mot pour mot :** Stadip 33/1, 44/2 et 55/2 clair, verre clair 8 mm et 6 mm,
+Stadip 33/1 et 44/2 opal. Signe par **Graziella Virassamy, cogerante, comptabilite** — fonction
+verifiee par sa propre signature, donc nommable au titre du §5.
+
+**Et ce qu ils posent avant toute offre :** « nous ne faisons jamais de paiement a la commande. Nos
+conditions de reglement sont de 90 jours a 120 jours date de facturation. »
+
+### AUCUNE REPONSE N EST PARTIE, ET C EST LE POINT
+
+Le §11 reserve la **condition de paiement** a Aaron, et le §5 en fait un interdit absolu depuis que je
+l ai enfreint le 08/10 sur United Glass. **Texte redige, consigne dans `TEXTES-PRETS.md` n° 31, dossier
+porte en tete de `DECISIONS-AARON.md` avec faits, cinq options et ma recommandation — la lettre de
+credit irrevocable a 90 jours, qui donne au client le delai qu il demande sans nous faire porter trois
+a quatre mois de credit sur un premier conteneur a 9 400 km.** Et j ai poursuivi les autres prospects,
+comme le §15 l impose.
+
+**A ne pas me mettre sur le dos :** un accuse automatique est parti de la boite **six secondes** apres
+leur message. C est le repondeur configure sur la boite, pas moi. Il n engage rien, et il a l avantage
+de ne pas les laisser sans signe de vie pendant que la decision se prend.
+
+### DEUX AUTRES CHOSES QUE CE DOSSIER REVELE, ET LA SECONDE ETAIT PREVUE PAR LE MANDAT
+
+· **Trois de leurs cinq references sont du STADIP, qui est une MARQUE DE SAINT-GOBAIN**, pas une
+  specification generique. Le §5 interdit de promettre un equivalent certifie. Le texte pret demande
+  donc si la **composition** suffit — deux fois 3 mm avec un PVB, deux fois 4 avec deux PVB, deux fois
+  5 avec deux PVB, PVB translucide pour l opal — ou si la marque est imposee par leurs clients. **Si
+  elle l est, le dossier se reduit au clair 6 et 8 mm.** Cela reste un conteneur, mais pas le meme.
+· **C EST LE PREMIER DOSSIER OU LA RESERVE D AUTOCLAVE DU §4 MORD VRAIMENT.** Le §4 distingue la cote
+  de la ligne float, qui est large, de celle de l **autoclave de feuilletage**, qui est une contrainte
+  distincte et toujours ouverte. Elle ne concerne que le feuillete — donc exactement les trois Stadip,
+  et pas le clair. Ecrite le 08/10 apres trois erreurs de format dans la journee, elle sert aujourd hui
+  a ne pas promettre un format que nous ne tenons peut-etre pas.
+
+### Et le controle des retours, puisque Kevin l a demande
+
+**Aucun rebond sur la campagne conteneur depuis la reprise de 12h05**, sur les dix-sept envois des
+vagues 24 a 27 plus les trois fiches neuves. Les trois rebonds de l heure — glasscorp.ro, un yahoo.gr
+plein, vicar.pt — sont **tous de la campagne destockage**, verifies un par un sur le destinataire. Et
+le fil **Novaglaze**, ou des prix au metre carre sont echanges, est du destockage et **Aaron y repond
+lui-meme** : c est la confirmation directe de ce que le §13 dit depuis le 08/10, qu il ecrit depuis
+cette boite sans que je le voie.
+
 ## 12/10/2026, 13h02 — RECHERCHE NEUVE SUR LES TERRITOIRES PRIORITAIRES DE KEVIN
 
 **1101 fiches au registre, 36 premiers contacts a la date du jour.** Trois fiches creees, deux

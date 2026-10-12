@@ -3,6 +3,73 @@
 *Bloc mis en tete a 11h31, apres une matinee de 150 messages. Il remplace la hierarchie du bloc
 de 10h23, qui suit juste en dessous et reste valable sur le fond.*
 
+## ⚠️ 12/10/2026, 13h05 — MIRO EST (LA RÉUNION) POSE UNE CONDITION DE PAIEMENT. §11, DÉCISION À PRENDRE.
+
+**C'est le dossier le plus avancé ouvert aujourd'hui, et il est bloqué sur un point qui n'est pas le
+mien.** Je ne réponds pas, le texte est prêt dans `TEXTES-PRETS.md` n° 31, et j'attends.
+
+### LES FAITS
+
+Miro Est SARL, 436 chemin Pente Sassy, 97440 Saint-André, La Réunion. Transformateur verrier.
+Relance partie à 11h56, **réponse à 12h28 — 32 minutes**. Signée **Graziella Virassamy, cogérante,
+comptabilité** (fonction vérifiée par sa propre signature, donc nommable).
+
+**Ce qu'ils achètent, mot pour mot :**
+- Stadip 33/1 clair, 44/2 clair, 55/2 clair
+- Verre clair 8 mm, verre clair 6 mm
+- Stadip 33/1 opal, 44/2 opal
+
+**Et ce qu'ils posent, spontanément, avant toute offre :** « nous ne faisons jamais de paiement à la
+commande. Nos conditions de règlement sont de 90 jours à 120 jours date de facturation. »
+
+### POURQUOI JE REMONTE PLUTÔT QUE DE DÉCIDER
+
+Le §11 nomme la **condition de paiement** parmi les sujets où je ne décide pas. Et ce n'est pas une
+formalité ici : **90 à 120 jours date de facturation sur un conteneur export, sans acompte**, c'est
+un crédit de trois à quatre mois accordé à un client que nous n'avons jamais servi, à 9 400 km, et
+il faut avoir payé l'usine bien avant. Ce n'est pas une clause administrative, c'est une décision de
+risque.
+
+### LES OPTIONS, ET CE QU'ELLES COÛTENT
+
+1. **Accepter tel quel.** On gagne un client qui a déjà dit ses références et sa fréquence. On porte
+   trois à quatre mois de trésorerie sur un premier conteneur, sans antécédent de paiement.
+2. **Lettre de crédit irrévocable à 90 jours.** Le délai demandé est respecté et la banque porte le
+   risque. C'est la pratique export standard et c'est **la contre-proposition la plus défendable** ;
+   son coût est bancaire et se chiffre.
+3. **Assurance-crédit sur l'acheteur.** On accepte le délai et on assure la créance. Suppose un
+   encours accordé par l'assureur, à vérifier **avant** d'annoncer quoi que ce soit.
+4. **Acompte partiel plus solde à 90 jours.** Ils ont écrit « jamais de paiement à la commande », donc
+   c'est frontal — mais un acompte **à l'embarquement** n'est pas un paiement à la commande, et c'est
+   une nuance qui peut passer.
+5. **Premier conteneur à des conditions plus courtes, puis alignement.** Formule classique de
+   construction de relation. Ils peuvent la refuser.
+
+### MA RECOMMANDATION
+
+**L'option 2, la lettre de crédit irrévocable à 90 jours**, en l'ouvrant comme un moyen de leur
+accorder le délai qu'ils demandent et non comme une méfiance. C'est la seule qui donne au client ce
+qu'il a demandé sans nous faire porter le risque, et elle se présente sans rien concéder.
+**Repli :** l'option 4 avec acompte à l'embarquement.
+
+### DEUX AUTRES CHOSES À TRANCHER SUR CE MÊME DOSSIER, ET ELLES NE SONT PAS DES DÉTAILS
+
+· **Le feuilleté.** Stadip est une **marque Saint-Gobain**. Trois de leurs cinq références en sont.
+  **Fournissons-nous un feuilleté de même composition — 33/1, 44/2, 55/2, et un PVB opal ?** Le §5
+  m'interdit de promettre un équivalent certifié, donc le texte prêt se contente de demander si la
+  composition suffit ou si la marque est imposée. **Si la réponse est non, le dossier se réduit au
+  clair 6 et 8 mm**, ce qui reste un conteneur mais pas le même.
+· **La cote d'autoclave, et c'est le premier dossier où la question du §4 mord vraiment.** La cote
+  maximale de l'autoclave de feuilletage reste ouverte et elle concerne exactement ces trois
+  références. **Je ne peux annoncer aucun format sur du feuilleté tant qu'elle n'est pas connue.**
+
+### ET UN RAPPEL QUI VAUT POUR TOUT CE DOSSIER
+
+La Réunion est un DOM : **rien sur la fiscalité à l'entrée**. Et la question de l'exonération
+d'octroi de mer **au titre des intrants de production** est vivante précisément ici, Miro Est étant
+un transformateur qui achète pour transformer sur place. C'est la question à poser à un transitaire,
+déjà portée plus bas dans ce fichier, et ce dossier lui donne un enjeu chiffrable.
+
 ## 0. LA CONSIGNE DU JOUR ETAIT 400 ENVOIS CONTENEURS. VOICI LE CHIFFRE REEL ET LA RAISON, SANS L'ARRONDIR
 
 | | |

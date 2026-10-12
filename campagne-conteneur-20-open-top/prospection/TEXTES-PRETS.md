@@ -1402,3 +1402,74 @@ medidas de chapa, o volume e a frequencia de compra, e o porto.
 
 E se o abastecimento de voces esta resolvido, digam com franqueza e eu nao insisto.
 ```
+
+---
+
+## 31. MIRO EST (La Réunion) — RÉPONSE À UNE RÉPONSE REÇUE. ⚠️ **TEXTE PRÊT, NON ENVOYÉ, EN ATTENTE D'AARON**
+
+Rédigé le 12/10 à 13h06. **Ce texte ne part pas**, et il ne partira pas de ma main : le §11 réserve la
+condition de paiement à Aaron, et Miro Est en pose une avant toute offre. Le §5 l'inscrit dans les
+interdits absolus — je prépare, je consigne, j'attends.
+
+**Ce qui a été vérifié avant de l'écrire :**
+1. **Qui écrit, et si son nom est utilisable.** Graziella Virassamy signe « Cogérante, Comptabilité ».
+   Fonction **vérifiée par sa propre signature** et pertinente, donc nommable au titre du §5. Ce n'est
+   pas un nom pris dans un annuaire.
+2. **Ce que « Stadip » est, et ce qu'on ne peut donc pas promettre.** Stadip est la **marque de
+   feuilleté de Saint-Gobain**, pas une spécification générique. Le texte porte donc sur la
+   **composition** — 33/1, 44/2, 55/2 et le PVB opal — et demande si un feuilleté de même composition
+   convient. Il **ne dit pas** que nous fournissons du Stadip, ni un équivalent certifié : le §5
+   interdit le certificat non validé.
+3. **La réserve d'autoclave du §4, et c'est le premier dossier où elle mord vraiment.** La cote
+   maximale de l'autoclave de feuilletage est une question ouverte, distincte de celle de la ligne
+   float, et elle concerne **exactement** les trois Stadip. Le texte ne promet **aucun format** sur le
+   feuilleté et demande leurs cotes au lieu de les supposer.
+4. **L'interdit fiscal du §6.** La Réunion est un DOM : **rien** sur l'octroi de mer, pas une allusion.
+   Et la question de l'exonération au titre des intrants de production est **vivante précisément ici**,
+   Miro Est étant un transformateur qui achète pour transformer sur place.
+5. **La condition de paiement n'est ni acceptée, ni refusée, ni commentée.** Le texte dit qu'elle est
+   notée et qu'elle fait l'objet d'une réponse séparée. **Toute formule qui laisserait entendre un
+   accord est à proscrire** : 90 à 120 jours date de facturation sur un conteneur export est un risque
+   de crédit, pas un détail administratif.
+6. **Aucun prix, aucun délai, aucune usine partenaire nommée**, et la formule du §5 mot pour mot.
+
+```
+Objet : Verre clair 6 et 8 mm, et composition des feuilletés - Miro Est
+
+Bonjour Madame Virassamy,
+
+Merci pour cette reponse, qui est precise et qui me permet de travailler. Je
+vous reponds en separant ce qui est simple de ce qui demande une verification.
+
+Le verre clair 6 mm et 8 mm est au coeur de notre gamme, et c'est la partie
+immediatement chiffrable d'un conteneur.
+
+Sur les feuilletes, une precision qui compte : Stadip est une marque de
+Saint-Gobain. Ce que je peux regarder, c'est la composition - deux fois 3 mm
+avec un PVB pour le 33/1, deux fois 4 mm avec deux PVB pour le 44/2, deux fois
+5 mm avec deux PVB pour le 55/2, et un PVB translucide pour vos references
+opal. Ma question est donc : un feuillete de meme composition vous convient-il,
+ou la marque elle-meme est-elle imposee par vos clients ou par une
+specification de chantier ? La reponse change entierement ce que je peux vous
+proposer, et je prefere vous la demander que de la supposer.
+
+Il me manque encore trois choses pour chiffrer utilement :
+- vos cotes, pour le clair comme pour les feuilletes ;
+- le volume annuel approximatif et la frequence de vos achats ;
+- votre port de destination, que je suppose Port Reunion, a confirmer.
+
+Avec cela, nous pouvons etablir une offre pour la livraison a votre port de
+destination, sous reserve de validation de notre cote.
+
+J'ai bien note vos conditions de reglement, 90 a 120 jours date de
+facturation, et le fait que vous ne reglez jamais a la commande. Je ne vous
+reponds pas la-dessus a la legere : je reviens vers vous specifiquement sur ce
+point.
+
+[signature]
+```
+
+**Ce qu'il faut demander à Aaron avant d'envoyer, et c'est porté dans `DECISIONS-AARON.md` :**
+jusqu'où va-t-on sur 90-120 jours date de facturation, et sous quelle garantie — assurance-crédit,
+lettre de crédit, acompte partiel ? **Sans sa réponse, ce texte reste ici.**
+
