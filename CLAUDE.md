@@ -884,6 +884,41 @@ L'identification se fait en premiere ligne du corps (« Je m'appelle Aaron Harfi
 NOXEM GROUP, fournisseur et exportateur de verre plat pres de Lyon »), ce qui n'est pas une
 signature mais l'ouverture imposee au paragraphe 9.
 
+**⚠️ CETTE REGLE REPOSAIT SUR UNE PREMISSE FAUSSE, VERIFIEE ET DEMENTIE LE 12/10 A 09h40. GMAIL
+N'AJOUTE AUCUNE SIGNATURE AUX ENVOIS PAR L'API.** La signature configuree dans l'interface web de
+Gmail **n'est pas appliquee** aux messages envoyes par le connecteur. Verifie sur deux messages
+reels, lus en texte brut dans `in:sent` :
+· l'envoi **destockage** du 11/10 a 22h22 vers `info@cnglass.co.uk` porte un pied de page **tape
+  dans le corps** par l'autre session — « Best regards, Aaron Harfi, NOXEM GROUP,
+  aaron.harfi@noxem-group.com » — quatre lignes, **sans aucun telephone** ;
+· l'envoi **conteneur** du 11/10 a 15h50 vers `info@fgi.jo` se termine sur la phrase « And if you
+  are committed to your current supply, say so plainly and I will not write again » et **RIEN
+  APRES**. Ni nom, ni societe, ni telephone, ni adresse, ni meme l'adresse e-mail.
+**CE QUE CELA A COUTE, et il faut le dire sans l'arrondir : les quelque 616 messages de cette
+campagne sont partis sans aucune coordonnee de rappel.** Un acheteur qui veut telephoner n'a pas
+de numero ; un destinataire qui transmet le message en interne transmet un texte sans identite
+d'entreprise au bas. Sur une approche export a froid, ou l'appel est le canal de reponse le plus
+facile, c'est un defaut de premier ordre — et il est candidat a expliquer une part de l'ecart
+entre 616 envois et 12 dossiers vivants.
+**POURQUOI L'ERREUR A TENU SI LONGTEMPS :** la consigne d'Aaron du 07/10 etait juste **pour un
+envoi depuis l'interface Gmail**, ou la signature est bien inseree automatiquement. Elle a ete
+transposee aux envois par connecteur sans verifier que le mecanisme etait le meme. **Une consigne
+valable dans un contexte ne se transpose pas a un autre sans mesure.**
+**CONDUITE ARRETEE, consigne de Kevin du 12/10 : la signature se met dans le CORPS, UNE SEULE
+FOIS, en fin de message.** Bloc a employer, celui du repondeur releve le 08/10, qui est la source
+materielle la plus recente :
+```
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+**Une seule fois veut dire une seule fois** : ne pas la repeter, ne pas la doubler d'un « Best
+regards » signe plus haut, et ne jamais y faire figurer le +33 7 69 72 58 92, qui est mort.
+
 Ne jamais se presenter comme trader ou negociant : **fournisseur de verre plat**.
 
 **UN REBOND PEUT ARRIVER PLUS D'UNE HEURE APRES L'ENVOI — mesuré le 08/10.** Le rebond
