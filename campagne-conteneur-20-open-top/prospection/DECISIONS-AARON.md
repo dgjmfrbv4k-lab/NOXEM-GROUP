@@ -1,5 +1,45 @@
 # ⏱ LUNDI 12/10, 11h30 — LA SEULE DECISION QUI CHANGE LE CHIFFRE N'EST PLUS UN ENVOI
 
+## ⚠️ 16h41 (12/10) — LE CATALOGUE PDF EST DEMANDE PAR UN PROSPECT ET NOUS NE POUVONS PAS L ENVOYER
+
+**FAITS.** Qays Mohammed, de **Safa Taiba Glass Factory** (Djeddah et Riyad), a repondu a 16h17 en
+demandant deux pieces : **un profil de societe et un catalogue produits**. Il ajoute qu il repondra si
+l offre correspond a ses besoins. C est la premiere fois qu un prospect reclame explicitement le
+catalogue.
+
+**Le catalogue PDF `campagne-conteneur-20-open-top/catalogue/NOXEM-GROUP-catalogue-EN.pdf` ne peut pas
+partir :** il **annonce des prix** et porte l **ancien numero 04 22 91 55 80**. L envoyer enfreindrait
+l interdit sur les prix non valides, et donnerait un numero mort a un acheteur.
+
+**CE QUE J AI FAIT SANS ATTENDRE :** le texte de reponse est pret (`TEXTES-PRETS.md` n° 34, **non
+envoye**) et il contourne le probleme par ce que le §8 autorise — **lier** les pages produit, qui sont
+a jour, sans repeter leur promesse de prix. Un profil de societe redige en quatre lignes tient lieu de
+presentation. **Ce contournement marche pour un prospect qui lit ses e-mails ; il ne marche pas pour un
+acheteur qui veut une piece a faire circuler en interne.**
+
+**OPTIONS.**
+1. **Envoyer le texte n° 34 tel quel, sans PDF.** Cout nul, immediat. Risque : un acheteur qui a demande
+   un catalogue et recoit sept liens peut le lire comme une non-reponse.
+2. **Refaire un PDF propre** — meme gamme, **sans aucun prix**, numero +33 6 86 13 12 71 et
+   +33 2 59 50 84 59, adresse de Dardilly. C est un document a produire une fois et qui servira ensuite
+   a toute la campagne. Je peux en rediger le contenu ; la mise en forme n est pas de mon ressort.
+3. **Attendre** et ne rien envoyer. Deconseille : il a repondu dans l heure, il attend.
+
+**MA RECOMMANDATION : option 1 maintenant, option 2 dans la semaine.** Le texte n° 34 part des que tu
+le valides, et le PDF propre se fait en parallele parce que **la demande va revenir** — c est la
+premiere fois qu on la recoit, ce ne sera pas la derniere sur 1 117 fiches.
+
+**ET LA MESURE QUI VA AVEC, parce qu elle coute plus cher que le catalogue :** ce qui a declenche sa
+reponse est le **gabarit de cloture de fiche** parti a 11h52, celui qui annonce qu on ne va pas insister
+une troisieme fois. Il a bien marche ailleurs — il a ramene Caribbean Glass et plusieurs reponses le
+jour meme — **mais sur un interlocuteur du Golfe il est passe pour de la pression.** Premier cout mesure
+de ce gabarit. **Proposition : ne plus l employer sur le Golfe ni le Proche-Orient**, et garder la
+relance neutre sur ces pays. A trancher.
+
+**Enfin, la valeur du dossier, dite honnetement :** l Arabie saoudite compte au moins quatre producteurs
+float et aucun droit antidumping n y frappe la Chine. C est un marche **faible** pour nous. Ce dossier
+vaut d etre tenu correctement, pas d y investir un effort particulier.
+
 *Bloc mis en tete a 11h31, apres une matinee de 150 messages. Il remplace la hierarchie du bloc
 de 10h23, qui suit juste en dessous et reste valable sur le fond.*
 

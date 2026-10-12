@@ -1605,3 +1605,74 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 34. Safa Taiba Glass Factory — `qays.mohammed.s@safataiba.sa` — ANGLAIS
+## ⚠️ **TEXTE PRÊT, NON ENVOYÉ, EN ATTENTE DE KEVIN** — réponse à une réponse reçue
+
+**Reçu le 12/10 à 16h17.** Qays Mohammed juge notre ton inapproprié et demande **un profil de société et
+un catalogue produits**, envoyés professionnellement. Il ne refuse pas : il nous rend la décision.
+
+**⚠️ CE QUE CE TEXTE NE FAIT PAS, ET C'EST DÉLIBÉRÉ :**
+· **Il ne joint aucun catalogue PDF.** Le PDF est hors service depuis le 08/10 — prix annoncés et ancien
+  numéro. Le §8 autorise à **lier** une page sans répéter sa promesse de prix : le texte envoie donc les
+  liens des pages produit, qui sont à jour. **Question portée à Aaron : faut-il refaire un PDF propre ?**
+· **Il n'explique PAS au client que notre catalogue est hors service.** C'est la leçon Stadip du 12/10 à
+  15h24 : on ne fabrique pas un doute que le client n'a pas soulevé. Il demande une documentation, il
+  reçoit une documentation.
+· **Il ne s'excuse pas longuement.** Une ligne, puis du concret. Un fournisseur qui se répand est aussi
+  mauvais signe qu'un fournisseur qui presse.
+· **Il ne propose NI trempé NI miroir nommément**, parce que les procédés exacts de Safa Taiba ne sont
+  pas établis — elle transforme et tient des showrooms. Règle Prodiesa : on ne propose pas à l'aveugle ce
+  qu'un transformateur fabrique peut-être lui-même. Le texte mène avec le **float** et demande lesquelles
+  de nos références l'intéressent.
+· **Aucun prix, aucun délai, aucun certificat, aucune usine nommée.** Formule imposée présente.
+· **Et jamais « pas de production locale »** : l'Arabie saoudite compte au moins quatre producteurs float
+  (§6). L'argument n'apparaît nulle part.
+
+```
+Dear Mr Mohammed,
+
+Point taken on the tone, and I will not argue it. Here is what you asked for.
+
+NOXEM GROUP SAS is a flat glass and building materials supplier based at 5 chemin
+du Jubin, 69570 Dardilly, near Lyon, France. It is a subsidiary of MONTAUGEM,
+share capital EUR 5,177,000. We supply flat glass by FULL CONTAINER, packed in
+ISPM-15 treated wooden crates, in jumbo sheets of 3210 x 2550 mm or cut to your
+sizes, delivered to your port of destination.
+
+Our product range, each with its own page:
+
+- Clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- Low-E glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- Lacquered glass
+  https://noxemgroup.com/en/lacquered-glass/
+- Technical glazing
+  https://noxemgroup.com/en/technical-glazing/
+- Tempered glass
+  https://noxemgroup.com/en/tempered-glass/
+- Full range overview
+  https://noxemgroup.com/en/catalog/
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To do that I need four things from you: which of the references above you buy,
+the thicknesses and sizes that suit your lines in Jeddah and Riyadh, an
+approximate volume and buying frequency, and your port of destination.
+
+Your file stays open on our side.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
