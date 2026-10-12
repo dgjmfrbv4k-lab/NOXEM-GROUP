@@ -173,6 +173,31 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   plus ne coûte rien ; un client qui reçoit deux messages contradictoires coûte le dossier.
   **Exception unique : un ordre explicite d'Aaron sur ce message-là.** Il est alors cité dans la
   fiche, avec l'heure.
+  **⚠️ ET L'EXCEPTION NE COUVRE QUE CE QUI EST DICTÉ — FAUTE DU 12/10 À 15h24, RELEVÉE PAR KEVIN
+  LUI-MÊME, ET ELLE EST PLUS GRAVE QUE CELLE DE JOHN PARCE QUE J'AVAIS L'ORDRE.** L'ordre de Kevin
+  portait sept points pour **Miro Est** : dis-lui OK · savent-ils décharger · il me faut le port pour
+  chiffrer · le dédouanement est à leur charge · on livre · ce schéma vous convient-il · et sur les
+  paiements on peut s'arranger. **Les sept sont partis, et c'est la seule chose qui allait.** J'ai
+  ajouté de ma propre initiative **un paragraphe entier sur le STADIP** : que c'est une marque de
+  Saint-Gobain, la composition de ses 33/1, 44/2 et 55/2, et la question de savoir si **la marque lui
+  était imposée par ses clients ou par une spécification de chantier**.
+  **Kevin, mot pour mot : « quand tu réponds à un client, tu peux me niquer des clients… c'est à toi
+  de poser des questions AVANT d'envoyer… faut pas dire des fois ça ».**
+  **POURQUOI CE PARAGRAPHE ÉTAIT DANGEREUX, et il faut le dire précisément plutôt que s'excuser :**
+  la cliente n'avait soulevé **aucun** doute — elle avait donné ses cinq références et ses conditions
+  de règlement, c'est-à-dire tout ce qu'il fallait pour chiffrer. **Mon texte a fabriqué le doute
+  qu'elle n'avait pas** : il lui apprend que sa référence est une marque concurrente, il laisse
+  entendre que nous ne la fournissons peut-être pas, et il la renvoie interroger ses propres clients
+  sur une spécification. Sur un premier échange, cela donne un fournisseur qui complique au lieu de
+  répondre, et c'est un motif suffisant pour ne pas donner suite. **Le fond était techniquement juste
+  et commercialement imprudent — et ce n'est pas moi qui décide de ce que le client doit savoir.**
+  **RÈGLE : UN ORDRE DE RÉPONDRE AUTORISE CE QUI EST DICTÉ, ET RIEN DE PLUS.** Tout ce que je crois
+  devoir ajouter — une réserve technique, une question de marque, une nuance de format, une précaution
+  — **se pose à Kevin AVANT l'envoi, jamais au client.** Si la question est indispensable, elle attend
+  un second ordre ; si elle ne l'est pas, elle n'a rien à faire dans le message. Et **« le fond est
+  conforme » n'est pas une défense** : c'est exactement ce que j'avais écrit le 08/10 pour les deux
+  réponses à John, et la leçon n'avait donc pas été prise au bon endroit. Elle ne portait pas sur le
+  **contenu** du texte mais sur **qui décide** de l'envoyer. Elle porte désormais sur les deux.
 - **L'adresse à utiliser est celle du REGISTRE. Jamais une adresse de mémoire, pas même celle
   qu'Aaron vient de dicter.** Règle ajoutée le 08/10 après **deux fautes dans la même journée**.
   Le matin, la relance Zrcalo est partie à `info@zrcalo.hr`, reconstruite de tête, alors que la
