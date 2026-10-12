@@ -1573,3 +1573,51 @@ n'est une suggestion. Ce sont des niveaux de marché et des montants de droit, p
 douanières, convertis dans l'unité où nous vendons. **Et aucun ne doit figurer dans un message** : un
 acheteur qui importe connaît ses cours, et le §6 rappelle qu'une erreur sur ce terrain ruine le message
 entier.
+
+---
+
+## URGENT — LE TAUX DE REBOND DE LA CAMPAGNE DESTOCKAGE MENACE LA BOITE PARTAGEE (12/10, 09h57)
+
+**FAITS, releves dans `in:sent` et dans les avis de non-distribution, pas deduits.**
+- Entre **09h42 et 09h56** ce matin, la campagne destockage — conduite depuis une **autre session**,
+  sur la **meme boite** `aaron.harfi@noxem-group.com` — a tire une quinzaine de messages vers des
+  vitriers tcheques, allemands et croates.
+- **13 d entre eux ont rebondi en 1 a 7 secondes.** Un rebond aussi rapide est un echec DUR :
+  adresse inexistante ou domaine introuvable. Domaines concernes : `celosklo.cz`, `bohemiaplast.cz`,
+  `ecothermcz.com`, `quick.cz` (deux fois), `post.cz`, `chrudim.cz`, `okna-ceza.cz`, `ipak-sro.cz`,
+  `sklojelinek.cz`, `vitraz.eu`, `saint-gobain.com`, `net.hr`, `schwabenglas.de`.
+- Hier soir, la meme campagne avait tire **~45 messages en 25 minutes** (21h57-22h22) et recolte
+  plusieurs echecs durs, dont un **`554 5.7.1 Delivery not authorized`**, qui est un verdict de
+  filtrage et non une adresse morte.
+- **Par comparaison, mes 37 envois de ce matin ont produit 1 rebond**, soit moins de 3 pour cent.
+
+**POURQUOI C EST GRAVE, ET CE N EST PAS UNE QUESTION DE STYLE.** Un taux de rebond dur eleve est
+precisement le signal sur lequel Gmail restreint un compte et sur lequel les filtres classent un
+domaine. Le domaine est **neuf et sans DMARC** (§10). Le §13 dit la consequence en une ligne :
+**perdre la boite tuerait les dossiers en cours** — dont **Caribbean Glass Specialists**, qui attend
+un prix depuis le 08/10, et le **Nepal**, a qui une cotation a ete promise pour le debut de cette
+semaine.
+
+**ET CELA TOUCHE DIRECTEMENT L OBJECTIF DU JOUR.** Kevin demande 400 envois destockage et 400
+conteneurs, soit 800. Le plafond Gmail est d environ **500 destinataires par jour pour le compte**,
+**partage** entre les deux campagnes et le repondeur automatique. 800 est donc **au-dessus du
+plafond physique**, avant meme de parler de reputation.
+
+**UN POINT DE PERIMETRE A SIGNALER AUSSI, sans en faire une legon :** l un des destinataires du
+destockage est `info.sklo@saint-gobain.com`. Le §6 range Saint-Gobain parmi les **producteurs
+float**, donc parmi les concurrents. C est la campagne destockage qui en decide, pas moi, mais le
+fait est verse ici.
+
+**OPTIONS**
+1. **Faire nettoyer la base destockage avant tout nouvel envoi** : 13 rebonds durs sur une quinzaine
+   d adresses veut dire que ses adresses ne sont pas verifiees. Le §5 de ce mandat impose la regle
+   anti-rebond precisement pour cela. **C est l option que je recommande**, et elle ne coute qu un
+   controle.
+2. **Repartir le quota explicitement** entre les deux campagnes, par exemple 150 et 150, pour que
+   ni l une ni l autre ne consomme la reputation de l autre sans le savoir.
+3. **Mettre DMARC en place sur le domaine**, ce qui est la seule mesure de fond. Cela ne se decide
+   pas ici mais chez le gestionnaire DNS.
+
+**MA RECOMMANDATION : les trois, dans cet ordre.** Et en attendant, je tiens ma campagne a un volume
+mesure et je compte les rebonds a chaque vague, ce qui est exactement ce que Kevin demande en
+ecrivant de respecter les blocages de delivrabilite sans les contourner.
