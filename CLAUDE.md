@@ -813,6 +813,26 @@ pas. Son établissement de **Moraine (Ohio)** est remonté de l'exhibit I-7 du d
 les importateurs. **Concurrent par nature au même titre que SGC International** : c'est le bras américain
 d'un producteur chinois, donc le circuit même que le droit antidumping de 181,52 % frappe. Fiche **non
 créée**, à écarter d'emblée si elle remonte),
+**TROIS PRODUCTEURS MALAISIENS, ajoutés le 12/10, et la liste n'en nommait AUCUN alors que le §6
+cite la Malaisie dans presque toutes ses mesures douanières** — c'était un trou gênant, du même
+genre que celui comblé pour le Brésil le 11/10. Ils sortent de la **liste des producteurs et
+exportateurs versée au dossier float glass américain**, la pièce jumelle de la liste d'importateurs
+qui a donné Glasscorp, ODL et WHTB :
+· **Kibing Glass Malaysia Sdn. Bhd.** — déjà nommée au §6 comme payant 0,07359 $/kg de cuota
+  mexicaine, mais absente d'ici ;
+· **NSG (Malaysian Sheet Glass)** — déjà nommée comme portant **102 %** de droit compensateur
+  américain, le taux le plus élevé de la mesure, et absente d'ici aussi ;
+· **Jinjing Technology Malaysia Sdn Bhd** — entièrement neuve pour nous.
+**DEUX CONSÉQUENCES.** (1) **Ne jamais employer l'argument du float absent en Malaisie** : le pays
+compte au moins trois producteurs. **6 fiches malaisiennes sont au registre, dont 3 déjà relancées**
+— aucune ne porte l'affirmation, `verif-argument-float.py` tourne propre. (2) Et cela éclaire
+l'interdit singapourien du §6 : Woodlands est à une heure de camion de ces trois lignes, ce qui est
+exactement pourquoi l'argument de l'absence d'offre locale y est vrai et sans aucune valeur.
+**Réserve de source :** le texte extrait du dossier est en partie brouillé et une entrée *Xinyi
+Energy Smart (Sichuan)* y apparaît sous une adresse malaisienne de façon illisible — Xinyi est déjà
+sur cette liste, donc sans conséquence, mais ne pas tirer de cette pièce une géographie précise.
+Et **China Glass Holdings Limited** y figure aussi, ce qui **confirme par une source de dossier**
+l'entrée CNG Glass Nigeria ajoutée le 11/10,
 **Nasir Float Glass Industries** (Bangladesh — ajouté le 08/10. Premier float du pays, en service
 depuis 2005, environ 55 % du marché local annoncé, complexe de Tangail et centrale gaz propre.
 La fiche existait comme cible : le mot « float » dans une raison sociale impose la vérification
