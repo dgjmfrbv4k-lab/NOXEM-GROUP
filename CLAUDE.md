@@ -571,8 +571,23 @@ droits et l'Europe non, l'argument américain se transpose.
   forte à deux signaux, pas une lecture.** Formulation prudente obligatoire s'il faut l'employer : dire
   que la mesure **figure parmi les droits en vigueur publiés par le MinCIT**, ce qui est vérifiable, et
   non que le recours a été rejeté, ce qui ne l'est pas encore.
+  **⚠️ ET UNE NUANCE AJOUTÉE LE 12/10 À 13h26 QUI MANQUAIT, PARCE QU'ELLE ÉVITE DE PRENDRE CE MARCHÉ
+  POUR UN MARCHÉ VIDE : le demandeur de la mesure est ESPEJOS S.A.S., donc un ARGENTEUR COLOMBIEN.**
+  Une mesure antidumping se demande par la filière qu'elle protège : elle crée donc un **parapluie de
+  prix pour Espejos S.A.S.**, exactement comme Vitro aux États-Unis, PFG en SACU, ABIVIDRO au Brésil
+  et Vitro encore au Mexique. **Conséquence pratique : l'alternative du client au miroir chinois n'est
+  pas seulement nous, c'est aussi Espejos S.A.S.** Et donc **ESPEJOS S.A.S. EST UN CONCURRENT SUR LE
+  MIROIR, pas un prospect** — à écarter d'emblée si son nom remonte. C'est la même structure que
+  partout ailleurs, et c'est ce qui rend ces marchés attractifs : le parapluie tient le prix haut.
+  **ET LA PISTE QUE CE DOSSIER OUVRE, exploitée le 12/10 : la résolution nomme les IMPORTATEURS qui se
+  sont constitués parties.** `DIVIDRIOS` a présenté des commentaires devant la SPC sur la Résolution
+  284 elle-même — donc elle importait du miroir chinois en volume suffisant pour défendre sa position,
+  ce qu'aucun annuaire ne prouve. Et `Arquicentro del Prado`, `Vidrios de la Sabana` et `Atzel Glass`
+  figurent dans une opposition d'importateurs au titre de l'expediente **D-215-48-109**, ⚠️ **antérieur
+  et dont le rattachement à la Résolution 284 n'est PAS établi** — pour celles-là, ce qui est acquis
+  est qu'elles importent du verre, pas que ce soit du miroir.
   **CE QUE CELA VAUT POUR LA CAMPAGNE, et c'est net : le miroir colombien redevient un angle solide.**
-  10 fiches colombiennes, toutes déjà contactées, dont plusieurs en relance cette semaine — et notre
+  16 fiches colombiennes, dont plusieurs en relance cette semaine — et notre
   **miroir sans cuivre ni plomb** affronte un miroir chinois dont le prix plancher est fixé à
   **0,77 USD/kg**, soit **7,70 USD/m² en 4 mm**, contre 3,60 à son prix d'export constaté. Cinq ans à
   compter d'octobre 2025, donc jusque vers octobre 2030.

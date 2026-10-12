@@ -2,6 +2,62 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## 12/10/2026, 13h27 — LA PISTE DES DOSSIERS DOUANIERS, TROISIEME APPLICATION, ET ELLE TIENT
+
+**1113 fiches au registre.** Apres les Etats-Unis et le Mexique, la Colombie : **six fiches creees et un
+envoi**, et le gisement de deverrouillage, **vide ce matin, en compte 4**.
+
+### LA METHODE EST MAINTENANT ETABLIE, ET IL FAUT L ECRIRE COMME TELLE
+
+**Chercher les listes d IMPORTATEURS dans les dossiers antidumping des pays cibles.** Trois sources, le
+meme jour, trois moissons :
+· **Etats-Unis**, dossier C-570-189 : Glasscorp, ODL, WHTB, MunnWorks, Fuyao — exploite les jours
+  precedents ;
+· **Mexique**, resolution preliminaire de juin 2025 : Indimex Trading, Ermita Comercial, Vitropanel,
+  Templados del Centro, Wham Picture ;
+· **Colombie**, Resolution 284 du MinCIT : **DIVIDRIOS**, qui a presente des commentaires devant la SPC
+  **sur ce dossier-ci**, plus Arquicentro del Prado, Vidrios de la Sabana et Atzel Glass, qui viennent
+  d un expediente anterieur.
+**Pourquoi c est superieur a une recherche de categorie : une societe qui se constitue partie a une
+enquete douaniere DECLARE a une administration qu elle importe le produit, en volume.** Aucun annuaire
+ne prouve cela, et c est exactement le critere de qualification que Kevin demande — un besoin precis et
+des volumes compatibles avec un conteneur.
+**Reste a exploiter : les dossiers Gecex et ABIVIDRO au Bresil.**
+
+### ⚠️ ET UNE NUANCE QUI CORRIGE LE PARAGRAPHE 6 SUR LA COLOMBIE
+
+Le §6 presentait le miroir colombien comme un angle solide sans dire **qui** la mesure protege. **Le
+demandeur est ESPEJOS S.A.S., un argenteur colombien.** La mesure cree donc un parapluie de prix **pour
+lui**, comme Vitro aux Etats-Unis, PFG en SACU et ABIVIDRO au Bresil. **Deux consequences :**
+l alternative du client au miroir chinois n est pas seulement nous, et **Espejos S.A.S. est un
+CONCURRENT sur le miroir, pas un prospect.** Porte au §6.
+
+### L ENVOI : MEGAGLASS (Chia, Cundinamarca)
+
+Creee et deverrouillee dans l heure. `info@megaglass.com.co` publiee sur leur **page d accueil**,
+domaine identique au site. **Controle du domaine parque passe** — les pages rendues parlent bien de
+verre, pas de PDF sans rapport comme chez INDEX Gabon.
+**Une discordance dans leur propre site, tranchee plutot qu ignoree :** la page *Nosotros* porte
+`info@megaglass.com` **sans le .co**. J ai retenu la version de l accueil, qui correspond au domaine du
+site — un fait verifiable contre une page isolee. L autre est le **second essai** en cas de rebond,
+jamais les deux a la fois.
+**Reserve de profil dite franchement :** ils posent aussi, et leur gamme comprend des divisions de
+salle de bain et des pergolas. **Meme cas que Joo Heng a Singapour et GlassTech a Accra, donc meme
+traitement : une question de volume, pas un argumentaire**, avec la sortie offerte.
+**Angle miroir servi avec la formulation prudente que le §6 impose** : la mesure *figure parmi les
+droits en vigueur publies par le MinCIT*, ce qui est verifiable — et **non** que le recours d Espejos
+a ete rejete, ce qui ne l est pas, le texte de la Resolution 123 n ayant pas ete lu.
+
+### Les cinq autres, et pourquoi elles restent sans envoi
+
+**DIVIDRIOS est la plus forte et elle n a aucune coordonnee** : la recherche sur son nom ne rend aucun
+site a elle. ⚠️ **Et elle ne doit pas etre confondue avec `Distrividrios Antioquia`, deja contactee le
+09/10, ni avec `Distrividrios` au Venezuela, ecartee comme distributeur de BOUTEILLES.** Trois noms
+voisins, trois societes. **Vidriosur** a le meilleur profil declare du lot — *distributeur de gros de
+verre plat et de miroirs, nationaux et importes* — mais sa seule source est **Facebook**, donc la regle
+anti-rebond n est pas satisfaite, et l adresse qui y figure est celle de la **comptabilite**, mauvaise
+boite pour une offre de fourniture.
+
 ## 12/10/2026, 13h20 — LA MEILLEURE PISTE DE LA JOURNEE N EST PAS UNE RECHERCHE, C EST UN DOSSIER DOUANIER
 
 **1107 fiches au registre.** Cinq fiches mexicaines creees d un coup, et leur qualification est d une
