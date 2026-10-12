@@ -1069,6 +1069,7 @@ arrêté les envois à froid de la journée. La conclusion ne tenait pas, pour u
 |---|---|---|---|
 | `5.7.1` rendu par un filtre anti-spam (SpamExperts, etc.) | réputation ou contenu | **signal sur nous** | la règle des serveurs distincts ci-dessous s'applique |
 | `5.7.7` « policy violation » rendu par le MX du destinataire | politique de CE locataire | **rien** | fiche en `A RENVOYER`, on continue la journée |
+**⚠️ ET CE QUE `A RENVOYER` VEUT DIRE, précisé le 12/10 à 13h29 parce que la ligne ci-dessus se laissait mal lire : il ne s'agit JAMAIS de renvoyer à la même adresse.** Kevin l'a demandé en clair — « ne réessaie pas l'adresse rejetée » — et c'est de toute façon sans objet sur un `5.7.7` : **une règle de politique de locataire ne change pas parce qu'on renvoie le même message à la même boîte.** `A RENVOYER` veut dire **chercher une AUTRE boîte publiée par la société sur son propre domaine**, et si elle n'en publie pas, la fiche va au téléphone. Même logique que les deux boîtes MunnWorks refusées en `5.4.1` par le même locataire, qui interdisent d'en essayer une troisième.
 | `5.7.26` ou mention de SPF/DKIM/DMARC | **authentification** | **beaucoup** — à traiter en priorité, DNS | arrêt et correction DNS |
 | `550 5.4.5`, `421` **venant de Google** | **notre quota** | limite de compte atteinte | arrêt, reprise après 24 h |
 **Et le déclencheur d'arrêt reste ce qu'il était : plusieurs serveurs DISTINCTS rendant un verdict
