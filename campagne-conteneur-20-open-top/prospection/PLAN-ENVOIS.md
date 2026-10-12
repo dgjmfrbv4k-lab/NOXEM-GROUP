@@ -229,7 +229,18 @@ commande.)*
 **Pourquoi ca s est arrete et non parce que la file etait vide :** un `554 5.7.7 Email policy
 violation` est tombe sur `info@alfastarglass.com` depuis un serveur neuf, et le paragraphe 10
 impose alors de finir la vague en cours et d arreter les envois a froid pour la journee. La regle
-ne nommait que le `5.7.1` ; elle vise desormais toute la classe `5.7.x`.
+ne nommait que le `5.7.1`, et je l ai elargie a toute la classe `5.7.x`.
+
+**⚠️ CES DEUX PHRASES SONT FAUSSES ET ELLES SONT CORRIGEES ICI LE 12/10 A 12h45, PARCE QUE L ARRET
+LUI-MEME ETAIT INJUSTIFIE.** Kevin a releve qu un rejet sur un destinataire ne demontre pas qu une
+boite est bloquee, le diagnostic complet lui donne raison, et le paragraphe 10 porte desormais une
+table qui distingue les causes au lieu de les confondre. Ce que le rebond disait et que je n avais
+pas lu : son `Remote-MTA` est `mx.zoho.com`, c est-a-dire **le fournisseur du destinataire**. Google
+a donc **accepte et relaye** le message, et un refus rendu en bout de chaine ne dit RIEN d une
+restriction de notre compte. Un `5.7.7` de politique de locataire n est pas un `5.7.1` de filtrage,
+et le declencheur d arret reste ce qu il etait : **plusieurs serveurs DISTINCTS rendant un verdict de
+filtrage le meme jour**, ce qu un seul locataire tiers n atteint pas. **Les envois ont donc ete
+arretes a tort a 11h57 et repris a 12h05.** La file ci-dessous a ete reprise a partir de la.
 
 **LE GABARIT A REPRENDRE TEL QUEL — c est un TROISIEME message, donc ni un premier contact ni une
 relance ordinaire.** Il dit trois choses et rien d autre :

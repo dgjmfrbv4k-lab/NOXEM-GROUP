@@ -2,6 +2,68 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## 12/10/2026, 12h46 — FIN DE LA FILE DES SECONDES RELANCES, ET NETTOYAGE DU POOL
+
+**Etat mesure, chiffres substitues et non tapes :** 33 premiers contacts a `ENVOYE 2026-10-12`,
+240 fiches a `RELANCE 2026-10-12` dont **125 secondes relances** du jour, 3 envois programmes au 13/10.
+**Il reste 4 fiches dans la file des secondes relances**, toutes quatre bloquees par l heure locale et
+non par un manque : Fidji (22 h chez eux), Jamaique, Panama et Perou (6 h du matin). Elles partent vers
+15 h, heure de Paris, soit 9 h chez elles.
+
+### Ce que la fin de file a donne
+
+Vagues 24 et 25 et deux envois isoles : Wing Wah (Brunei), KJKs (Cambodge), Surabaya Kaca (Indonesie),
+Safe Glass (Nigeria), Omzest DGM et Sunrise Technical (Oman), Ma & Sun (Seychelles), Miranova (Algerie),
+AKFA (Ouzbekistan, en russe, variante pays enclave), Kima Glass (Philippines). **Aucun rebond** sur
+l ensemble depuis la reprise de 12h05.
+
+### ⚠️ ET LE VRAI RESULTAT DE CETTE FIN DE FILE N EST PAS LES ENVOIS, C EST CE QU ELLE A REVELE :
+### UN TIERS DE LA FILE N AURAIT JAMAIS DU Y ETRE, ET LE STATUT MENTAIT
+
+En lisant les fiches une par une avant d ecrire — ce que le mandat impose et que le comptage
+automatique ne fait pas — **22 fiches de la file etaient dans des marches que le paragraphe 6 a
+declasses, et 10 de plus etaient gelees en attente d un arbitrage d Aaron.** Toutes portaient la bonne
+note. **Aucune ne portait le bon statut.**
+
+· **25 fiches passees en `ECARTE — HORS MARCHE`** : 8 indiennes, et 15 est-africaines (Kenya 7,
+  Ouganda 2, Madagascar 2, Mozambique, Rwanda, Tanzanie), plus 2 deja classees anterieurement. Le
+  paragraphe 6 interdit depuis le 08/10 d investir un effort de relance dans la zone Sapphire et
+  declasse l Inde sur la restriction DGFT et le niveau de prix. La condition de reouverture est inscrite
+  dans chaque note : low-E, miroir sans cuivre ni plomb, vitrage technique ou grands formats, rien
+  d autre.
+· **14 fiches passees en `A VALIDER AARON`** : les 8 sud-africaines gelees le 08/10 parce que PFG
+  appartient a PG Group, avec qui nous negocions en Namibie, et SOREMIR qui est du groupe Riou Glass.
+· **First Glass (Jordanie) portee de `RELANCE 2026-10-06` a `RELANCE 2026-10-11`**, qui est la date
+  vraie : le message du 11/10 est parti par sa fiche doublon, donc le statut du compte vivant etait
+  faux de cinq jours et la fiche rentrait dans le pool du jour.
+
+**LA LECON EST LA MEME QUE CELLE DES 47 FICHES `A APPELER` SANS TELEPHONE, CORRIGEES LE 11/10, ET ELLE
+VAUT D ETRE DITE UNE SECONDE FOIS PARCE QU ELLE S EST REPRESENTEE A 24 H D INTERVALLE : un statut de
+prospection sur un marche qu on a decide de ne pas prospecter est un FAUX DANS LE COMPTAGE.** Il ne
+dort pas, il promet une action. Sans cette lecture, les 32 fiches recevaient un troisieme message dans
+des marches declasses ou geles — dont 8 vers un groupe avec lequel nous sommes en negociation. **Le
+paragraphe 12 le disait deja en une phrase : avant de compter une fiche en retard, lire sa note.** Ici
+ce n etait pas une fiche, c etait un tiers de la file.
+
+### Jour ferie : un deuxieme cas le meme jour, mais celui-la attrape AVANT l envoi
+
+Le controle de calendrier ajoute au paragraphe 13 ce matin — apres la trentaine de relances canadiennes
+parties un jour d Action de grace — a servi des sa premiere application. **Le 12/10/2026 est
+l Indigenous Peoples Resistance Day au Belize**, jour ferie et bancaire, confirme par le communique du
+bureau de presse du gouvernement belizien du 06/11/2025 au titre du Holidays Act. **All Season Glass
+Shop est reportee au 13/10, rien n est parti.** Verification faite aussi, et negative, pour le Panama,
+le Perou (le 11/10 y est non ouvrable pour le secteur public seulement), les Fidji (Fiji Day le 10/10,
+un samedi, sans report au lundi), la Jamaique (Heroes Day au troisieme lundi), l Ouzbekistan et les
+Philippines : jour ouvre partout ailleurs.
+
+### Correction portee dans `PLAN-ENVOIS.md`
+
+La table des envois y affirmait que la regle d arret du paragraphe 10 visait **desormais toute la classe
+`5.7.x`**. C est faux et c est corrige sur place : le `554 5.7.7` d Alfa Star etait rendu par
+`mx.zoho.com`, donc par le fournisseur DU DESTINATAIRE, Google ayant accepte et relaye. Le declencheur
+reste plusieurs serveurs DISTINCTS rendant un verdict de FILTRAGE le meme jour. Arret a tort a 11h57,
+reprise a 12h05.
+
 ## Règles de message appliquées depuis ce lot
 
 - Aucun prix annoncé, aucun délai annoncé, aucun certificat annoncé.
