@@ -5203,3 +5203,97 @@ ce matin, prise par l autre bout : la mesure avant la conclusion.
 sont des poseurs — Antilles Miroiterie, Vidrieria Jerusalen et Avery Glass & Mirror — et elles
 passent en fin de file. Les 84 autres sont tirees normalement. **Aucune depriorisation sur le
 critere « autre ».**
+
+---
+
+## LUNDI 12/10 — matinee, releve a 11h25
+
+**Consigne du jour, de Kevin : 400 envois conteneurs, en commencant par la Guadeloupe et la
+Martinique puis en elargissant.** Ce qui suit est ce qui est reellement parti, et la mesure qui
+explique l ecart.
+
+### Envois reellement partis de mes mains aujourd hui
+
+| | nombre |
+|---|---|
+| premiers contacts au registre en `ENVOYE 2026-10-12` | 31 |
+| relances au registre en `RELANCE 2026-10-12` | 116 |
+| **total au registre** | **147** |
+| rebonds durs lus, deduits du total ci-dessus | 4 |
+| **messages sortis, rebonds compris** | **151** |
+| **envois CONFIRMES au sens du paragraphe 13** | **0 avant le 15/10** |
+
+Les quatre rebonds : Meng Heng Glass a Singapour (serveur mal configure), Univers du Verre en
+Guadeloupe et INVIMEX au Mexique (domaine introuvable, irrecuperables), MunnWorks aux Etats-Unis
+(`550 5.4.1 Access denied`, destinataire refuse sur domaine vivant, donc une autre boite est a
+chercher).
+
+### Ce qui a ete fait, dans l ordre
+
+1. **La file des envois programmes est vide.** Les 22 fiches en `A ENVOYER 2026-10-12` sont
+   parties, plus Univers du Verre deverrouillee le matin. Les fenetres horaires de
+   `PLAN-APRES-MIDI.md` ont ete **avancees au matin**, et le motif est mesure : la boite
+   partagee avait deja sorti environ 201 messages de la campagne destockage a 10h46, et le
+   plafond Gmail d environ 500 destinataires par jour est **commun aux campagnes**. Perdre le
+   quota coutait plus que l heure locale moins favorable au Bresil et aux Ameriques.
+2. **Les 87 relances echues de `RELANCES-APRES-MIDI.md` sont toutes parties.** Dix-neuf pays et
+   territoires : Bresil, Uruguay, Chili, Canada, Etats-Unis, Curacao, Martinique, Republique
+   dominicaine, Paraguay, Porto Rico, Colombie, Perou, Panama, Equateur, iles Caimans, Mexique,
+   Costa Rica, Guatemala, Salvador. **Aucun rebond sur les 87**, ce qui est coherent : ce sont
+   des adresses deja eprouvees par un premier contact.
+3. **Trois envois neufs issus de la recherche du jour** : Highqual Industry a Kingston, Miroverre
+   a Moka et Torniacero a Santiago de los Caballeros.
+4. **Cinq fiches passees au telephone avec le motif nomme**, et trois fiches fermees ou
+   requalifiees.
+
+### LA MESURE QUI EXPLIQUE L ECART AVEC 400, ET ELLE EST DE BASE ET NON DE MESSAGERIE
+
+**Les zones prioritaires demandees sont epuisees au registre.** Mesure faite au bon chiffre, celui
+du paragraphe 5 — fiches **avec adresse et jamais contactees** :
+
+```
+Guadeloupe, Martinique, Guyane, Saint-Martin, Trinite-et-Tobago, Republique dominicaine,
+Jamaique, La Reunion, Maurice, Madagascar, Seychelles, Maroc, Senegal, Cote d Ivoire,
+Ghana, Namibie  ->  ZERO fiche avec adresse jamais contactee.
+```
+
+Et les quatre fiches de ces zones qui avaient un site sans adresse sont toutes fermees : Vitrolux
+en domaine mort, SEVAM et SGO hors perimetre, Continental Trading agent Saint-Gobain donc
+concurrent.
+
+**Donc tout envoi supplementaire dans ces pays passe par de la DECOUVERTE de societes neuves**, et
+le rendement mesure ce matin est le suivant : **neuf recherches depensees, trois envois obtenus.**
+Les six autres sont des echecs dont le motif est nomme dans chaque fiche, et aucun n est un echec
+de la methode — adresse obfusquee, domaine d annuaire non confirme, aucune adresse publiee.
+
+**Ce que cela dit du 400 :** a trois envois pour neuf recherches, et avec un plafond de 200
+recherches par tour partage entre tous les agents, le plafond de recherche vaut de l ordre de
+**60 a 70 envois neufs par tour**, pas 253. La contrainte n est pas la volonte, c est le gisement.
+
+### Antilles : ce que la recherche a vraiment trouve, et c est un resultat en soi
+
+La consigne demandait de commencer par la Guadeloupe et la Martinique. **Fait, et le marche est
+mince, ce qu il faut dire plutot que de le masquer par du volume.** Les deux seuls vrais
+transformateurs de verre plat des deux iles — **SAMIR** en Martinique et **Antilles Miroiterie**,
+qui est la meme maison que Miroiterie des Antilles — **sont deja au registre et deja contactes**,
+le second ayant recu sa relance ce matin. Le reste de ce que la recherche rend est de deux natures :
+des miroiteries de **un a deux salaries**, et des enseignes de **detail** de materiaux. Ni l une ni
+l autre n achete 23 a 25 tonnes de verre a la fois.
+
+Trois noms neufs ont quand meme ete ouverts ou testes : **Univers du Verre** (envoi parti, rebond
+en domaine introuvable), **WM Guadeloupe** et **Point Mat** (fiches telephoniques). Deux autres
+noms, **Window Concept** et **Quikdesign** a Jarry, n ont ni site ni telephone verifie et ne sont
+pas ouverts en fiche — le paragraphe 12 a mesure que 196 fiches sans aucune coordonnee gonflent
+les comptes sans rien promettre.
+
+### Etat du registre apres la matinee
+
+| | |
+|---|---|
+| fiches au registre | 1094 |
+| fiches `A APPELER`, toutes avec un numero | 136 |
+| fiches sans adresse ni telephone, donc injoignables | 196 |
+| doublons d adresse actifs | 0 |
+| statuts vides | 0 |
+| fiches `A ENVOYER` restantes | 0 |
+| garde-fou de l argument float | propre, aucun nouveau signalement |
