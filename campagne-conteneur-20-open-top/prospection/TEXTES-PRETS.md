@@ -7,7 +7,7 @@ les **textes rédigés** sont ici.
 **Ce qui a été vérifié sur chacun avant de l'écrire, et qui doit l'être sur tout texte ajouté ici :**
 aucun prix · aucun délai · aucun certificat · aucune condition non validée · la formule imposée du §5
 (« sous réserve de validation de notre côté ») · **aucune usine partenaire nommée, ni son pays, ni son
-nombre** · **aucune signature** (§10 — Gmail l'intègre) · identification en première ligne du corps ·
+nombre** · **la signature DANS LE CORPS, une seule fois, en fin de message** (§10 — corrigé le 12/10 à 09h40 : Gmail n'ajoute **aucune** signature aux envois par l'API, et quelque 616 messages de cette campagne sont partis sans aucune coordonnée de rappel) · identification en première ligne du corps ·
 texte brut · une demande exploitable · porte de sortie sur les gros comptes.
 
 **⚠️ Ces textes ne partent pas d'eux-mêmes.** Avant d'envoyer : relire l'adresse **au registre**, passer
@@ -1473,3 +1473,135 @@ point.
 jusqu'où va-t-on sur 90-120 jours date de facturation, et sous quelle garantie — assurance-crédit,
 lettre de crédit, acompte partiel ? **Sans sa réponse, ce texte reste ici.**
 
+---
+
+## 32. Widrio (Bogotá) — `pedidos@widrio.com` — ESPAGNOL — à envoyer le 13/10
+
+**Objet :** `Suministro de vidrio float crudo en contenedor completo - oferta de proveedor`
+
+**⚠️ CE QUI A ÉTÉ VÉRIFIÉ, ET LE PREMIER POINT EST LE PLUS IMPORTANT :**
+· **Règle Prodiesa du §6 appliquée AVANT d'écrire :** Widrio **trempe** et **argente**. Le trempé et
+  le miroir sont donc des références où elle est **notre concurrente**, et ils ne figurent **pas** dans
+  l'offre. Seuls le **float clair / extra-clair** (substrat qu'elle achète) et le **low-E** (pour ses
+  *ventanas termo-acústicas*) y sont. C'est la faute Prodiesa prise à l'endroit.
+· Adresse `pedidos@` publiée sur `widrio.com`, domaine dans les URL de résultats → anti-rebond OK.
+· Métier établi avant la fiche : verre **plat**. Test du verre creux passé.
+· Aucun prix, aucun délai, aucun certificat · formule imposée · aucune usine nommée · aucune personne
+  nommée (pas de dirigeant vérifié) · lien EN + phrase d'explication en espagnol (§8).
+· Colombie **fériée le 12/10** (Ley Emiliani) → envoi daté du **mardi 13/10**.
+
+```
+Buenos dias,
+
+Esto es una oferta de SUMINISTRO, no una solicitud de cotizacion. Si no es usted
+quien decide las compras de vidrio, le agradeceria que la haga llegar a quien las
+decide.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio plano
+cerca de Lyon, Francia.
+
+Les escribo porque su propia pagina los describe como templadora de vidrio en
+Bogota, con produccion de espejos y de ventanas termo-acusticas. Eso significa que
+ustedes compran VIDRIO CRUDO para procesarlo: no les ofrezco vidrio templado ni
+espejo terminado, que es lo que ustedes fabrican. Les ofrezco el substrato, y es
+exactamente ahi donde podemos ser utiles.
+
+Lo que suministramos y que corresponde a sus lineas:
+
+- Float claro y extra-claro, en los espesores que pida su linea de templado
+  (pagina en ingles: https://noxemgroup.com/en/float-glass/)
+- Vidrio de baja emisividad para sus ventanas termo-acusticas
+  (pagina en ingles: https://noxemgroup.com/en/low-e-glass-low-emissivity/)
+
+Nuestro sitio existe solo en frances y en ingles, por eso le envio los enlaces en
+ingles con esta explicacion.
+
+Trabajamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo de
+3210 x 2550 mm o en medidas a pedido. Entregamos en el puerto de destino.
+
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo reserva
+de validacion de nuestra parte.
+
+Para eso necesito cuatro cosas: las referencias y los espesores que mas consumen,
+las medidas que les sirven, un volumen aproximado y la frecuencia de compra, y su
+puerto de destino.
+
+Y si ya estan comprometidos con su proveedor actual, digamelo con franqueza y no
+insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 33. Vitromas (Tlalnepantla, Mexique) — `ventas@vitromas.com` — ESPAGNOL — à envoyer le 13/10
+
+**Objet :** `Suministro de float crudo y low-E en contenedor completo - oferta de proveedor`
+
+**⚠️ CE QUI A ÉTÉ VÉRIFIÉ :**
+· **Règle Prodiesa :** Vitromas **trempe, feuillette et monte du double vitrage**. Ni trempé, ni
+  feuilleté, ni unité scellée dans l'offre — seulement le **substrat float** et le **low-E** pour son
+  *insulado*. Son profil **multi-lignes** est précisément ce qui justifie un conteneur complet.
+· **INTERDIT MEXICAIN DU §6 RESPECTÉ À LA LETTRE : rien sur les droits de douane**, ni la cuota du
+  float, ni l'enquête miroir ouverte au DOF le 21/05/2026. Le taux applicable à l'origine UE sous le
+  pilier commercial de l'accord de 2000 n'est pas établi.
+· **Et jamais « pas de production locale » : Vitro produit au Mexique**, et c'est le pétitionnaire des
+  deux mesures. L'angle est la **seconde origine**, pas l'absence d'offre.
+· `ventas@` lu sur la page **Contacto affichée**, et non dans les données structurées (réserve du §13).
+· Aucun prix, aucun délai, aucun certificat · formule imposée · aucune usine nommée · aucune personne
+  nommée. Mardi 13/10 ouvrable au Mexique, à reconfirmer avant la vague.
+
+```
+Buenos dias,
+
+Esto es una oferta de SUMINISTRO, no una solicitud de cotizacion. Si no es usted
+quien decide las compras de vidrio, le agradeceria que la haga llegar a quien las
+decide.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio plano
+cerca de Lyon, Francia.
+
+Les escribo porque su sitio muestra tres lineas distintas que alimentar: templado,
+laminado y vidrio insulado, ademas del esmerilado. Las tres parten del mismo punto,
+el vidrio crudo. No les ofrezco templado ni laminado, que es lo que ustedes
+fabrican: les ofrezco el substrato, y tres lineas que consumen el mismo material
+son justamente lo que justifica un contenedor completo en lugar de compras
+fraccionadas.
+
+Lo que suministramos y que corresponde a sus lineas:
+
+- Float claro y extra-claro, en varios espesores
+  (pagina en ingles: https://noxemgroup.com/en/float-glass/)
+- Vidrio de baja emisividad para su vidrio insulado
+  (pagina en ingles: https://noxemgroup.com/en/low-e-glass-low-emissivity/)
+
+Nuestro sitio existe solo en frances y en ingles, por eso le envio los enlaces en
+ingles con esta explicacion.
+
+Trabajamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo de
+3210 x 2550 mm o en medidas a pedido. Entregamos en el puerto de destino.
+
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo reserva
+de validacion de nuestra parte.
+
+Para eso necesito cuatro cosas: las referencias y los espesores que mas consumen,
+las medidas que les sirven, un volumen aproximado y la frecuencia de compra, y su
+puerto de destino.
+
+Y si ya estan comprometidos con su proveedor actual, digamelo con franqueza y no
+insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
