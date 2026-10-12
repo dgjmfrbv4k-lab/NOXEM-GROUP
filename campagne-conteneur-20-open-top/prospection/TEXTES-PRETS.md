@@ -1287,3 +1287,118 @@ Office: +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+---
+
+# DEUX TEXTES POUR LE 13/10 — distributeurs bresiliens, ecrits le 12/10
+
+Provenance : recherche de decouverte menee **pendant l arret des envois** du 12/10. Les deux
+adresses sont sur le **domaine meme du site**, donc le paragraphe 5 est satisfait par construction.
+
+**Les trois interdits communs, verifies avant redaction :**
+1. **Jamais ecrire qu il n y a pas de production locale au Bresil.** Vivix produit a Goiana et
+   Cebrace a Jacarei, Cacapava et Barra Velha. C est meme de cette production que vient le parapluie
+   de prix haut qui rend le marche attractif.
+2. **L argument est DOUANIER** : Gecex 833/2025 frappe le float incolore de Malaisie, du Pakistan et
+   de Turquie, l Europe n est visee par aucune mesure. **Formulation prudente obligatoire sur la
+   Chine**, dont l etat du droit n a pas ete lu.
+3. **Rien sur le cout rendu.** Le droit d importation ordinaire bresilien n est pas etabli : les
+   sources donnent 9 % et 25 % selon qu on lit Abravidro ou un portail douanier.
+
+## 29. WegaVidros — `contato@wegavidros.com.br` — PORTUGAIS
+
+**Objet :** `Uma segunda origem para o estoque de chapas - fornecedor frances`
+
+⚠️ **LE POINT QUI COMMANDE TOUT LE TEXTE : ils distribuent la ligne Habitat de CEBRACE**, inscrit au
+paragraphe 6 parmi les concurrents. On ne leur apprend donc rien sur le verre et on ne leur offre pas
+une premiere source. **L angle est la seconde origine dans un portefeuille**, et le texte le dit en
+toutes lettres plutot que de faire semblant de l ignorer.
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e exportadora de vidro plano perto de
+Lyon, na Franca.
+
+Escrevo por causa do estoque de voces, e vou direto ao ponto porque voces conhecem o produto melhor
+que eu poderia explicar: quem mantem chapa de 2 a 19 mm em monolitico, colorido e laminado, com
+frota propria e duas unidades, compra em lote e nao em folha.
+
+E nao venho oferecer uma primeira fonte. Voces trabalham uma linha de fabricante, com nome na
+fachada. O que ofereco e uma SEGUNDA ORIGEM ao lado dela - europeia, de fornecedor unico, em
+conteiner completo. Uma carteira com duas origens nao precisa que a segunda seja mais barata para
+ter utilidade: ela existe para os meses em que a primeira nao entrega.
+
+- float incolor e extra clear, a base do estoque: https://noxemgroup.com/en/float-glass/
+- espelho sem cobre e sem chumbo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro temperado: https://noxemgroup.com/en/tempered-glass/
+(o site existe apenas em frances e ingles - fico a disposicao para explicar em portugues)
+
+Um ponto que talvez seja util, e e um fato aduaneiro e nao uma oferta de preco: desde 2025 o float
+incolor originario da Malasia, do Paquistao e da Turquia paga direito antidumping no Brasil. A
+origem europeia nao e alcancada por nenhuma dessas medidas.
+
+Como embarcamos: conteineres completos, caixas de madeira tratada NIMP-15, interfolhamento de papel.
+Chapa jumbo 3210 x 2550 mm ou nas medidas de voces.
+
+Podemos elaborar uma oferta para entrega no porto de destino de voces, sujeita a validacao do nosso
+lado.
+
+Para isso preciso de quatro informacoes: as espessuras e referencias que mais giram no estoque, as
+medidas de chapa, o volume e a frequencia de compra, e o porto - Santos, imagino, mas prefiro
+perguntar.
+
+E se a carteira de voces esta fechada e funciona, digam com franqueza e eu nao insisto.
+```
+
+## 30. Santana Vidros — `santanavidros@santanavidros.com.br` — PORTUGAIS
+
+**Objet :** `Tres unidades, um so substrato - fornecedor frances de vidro plano`
+
+⚠️ **L angle vient d une phrase de LEUR site** : ils fournissent vitriers, constructeurs, metalliers
+et architectes avec des commandes speciales **en grands volumes**. C est leur propre mot, donc le
+texte peut s y appuyer sans flatterie. **Et trois unites font l argument du volume groupe**, le meme
+que Highqual en Jamaique.
+⚠️ Boite de la **matrice** retenue. Celle des feuilletes est sur gmail, publiee par eux, et sert de
+**second essai** seulement si la premiere rebondit.
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e exportadora de vidro plano perto de
+Lyon, na Franca.
+
+Escrevo por uma frase do site de voces, e nao por elogio: voces atendem vidraceiros, construtoras,
+serralheiros e arquitetos com encomendas especiais EM GRANDES VOLUMES. Quem fala em grandes volumes
+raciocina na mesma unidade que nos.
+
+E ha o resto: producao propria de laminado, colorido, temperado e espelho, com corte e bisote, em
+TRES unidades - a matriz na Penha, Mogi das Cruzes, e a unidade de laminados na avenida Sao Miguel.
+Tres unidades significa estoque em tres lugares, e e exatamente ai que o conteiner fica mais
+simples do que a palete.
+
+Tudo isso comeca na mesma chapa, e e so a chapa que eu vendo:
+
+- float incolor e extra clear, a base de todas as transformacoes:
+  https://noxemgroup.com/en/float-glass/
+- espelho sem cobre e sem chumbo, se o espelho entra no mix:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro temperado: https://noxemgroup.com/en/tempered-glass/
+(o site existe apenas em frances e ingles)
+
+Um fato aduaneiro, nao uma oferta de preco: desde 2025 o float incolor da Malasia, do Paquistao e da
+Turquia paga direito antidumping no Brasil, e a origem europeia nao e alcancada por essas medidas.
+
+Como embarcamos: conteineres completos, caixas de madeira tratada NIMP-15, interfolhamento de papel.
+Jumbo ou nas medidas de voces. E como voces tem tres unidades, um conteiner pode ser composto para
+uma so ou repartido entre elas - e geralmente ai que a conta fica interessante.
+
+Podemos elaborar uma oferta para entrega no porto de destino de voces, sujeita a validacao do nosso
+lado.
+
+Quatro informacoes me permitiriam fazer isso: as espessuras e referencias de maior volume, as
+medidas de chapa, o volume e a frequencia de compra, e o porto.
+
+E se o abastecimento de voces esta resolvido, digam com franqueza e eu nao insisto.
+```
