@@ -1529,6 +1529,23 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   cas. **Et la fiche MunnWorks avait prévu la cause sans en tirer la conséquence** : sa note disait
   déjà qu'`openorders@` est une boîte de **commandes entrantes**, et une boîte de commandes fermée à
   l'extérieur est parfaitement cohérente.
+  **⚠️ ET CETTE ENTRÉE EST CORRIGÉE DANS L'HEURE OÙ ELLE A ÉTÉ ÉCRITE, PARCE QUE LE SECOND ESSAI A
+  TRANCHÉ. J'avais écrit ci-dessus qu'un `5.4.1` « ne dit RIEN sur notre réputation ». C'est trop
+  fort, et voici la mesure qui le corrige :** l'autre boîte de MunnWorks, `hello@`, a rendu
+  **exactement le même `550 5.4.1`**, depuis un **second serveur d'entrée Microsoft** (`BN1PEPF…`
+  après `DM3PEPF…`), sur le même locataire `munnworks-com.mail.protection.outlook.com`.
+  **Deux boîtes DIFFÉRENTES, toutes deux PUBLIÉES PAR LA SOCIÉTÉ ELLE-MÊME, refusées par le même
+  code : « la boîte n'existe pas » est alors invraisemblable pour les deux.** Ce qui reste est un
+  **refus au niveau du LOCATAIRE** — règle de blocage à la périphérie, liste d'autorisation, ou notre
+  domaine sur leur liste de blocage. Donc le `5.4.1` **peut** être un signal de réputation, mais
+  **vis-à-vis de ce destinataire-là**, et non vis-à-vis du réseau.
+  **Ce qui ne change pas, et c'est l'essentiel : la règle d'arrêt du §10 ne se déclenche toujours
+  pas.** Elle compte les **serveurs distincts qui rendent un `5.7.1`**, et ici il y a un seul domaine
+  destinataire et aucun `5.7.1`. Arrêter la journée là-dessus serait la faute de comptage du 08/10.
+  **Et la conduite se durcit sur un point : deux boîtes du même locataire refusées en `5.4.1`
+  interdisent d'en essayer une troisième** sur ce domaine — c'est un blocage de maison, pas une boîte
+  morte. La fiche part au téléphone, ce que la règle des deux échecs du §13 imposait déjà.
+
   **CONDUITE : c'est la seule des cinq signatures, avec la boîte inexistante, qui justifie de chercher
   une autre boîte** — le domaine étant vivant, une autre adresse publiée a toutes ses chances. Fait le
   12/10 : `hello@munnworks.com`, publiée par leurs propres documents sur le même domaine, et le message
