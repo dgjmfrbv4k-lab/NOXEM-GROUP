@@ -1,3 +1,51 @@
+# ⏱ LUNDI 12/10 — CE QUI SE DÉCIDE AUJOURD'HUI, ET RIEN D'AUTRE
+
+*Bloc mis en tête à 10h23 parce que ce fichier fait 1 666 lignes et que la page « si tu ne lis
+que cette page » est enterrée à la ligne 142, datée du 08/10. Les points du jour étaient ajoutés en
+fin de fichier, donc invisibles. Les voici, et seulement eux.*
+
+### 1. LA GRILLE DE PRIX — quatre dossiers l'attendent, deux depuis plus de quatre jours
+
+| Dossier | Attend depuis | Ce qui est déjà prêt |
+|---|---|---|
+| **PG Glass Namibia** (Willem Heunis) | **28/09** | specs confirmées, analyse SACU faite |
+| **Caribbean Glass Specialists** (Trinidad) | **07/10 17h24** | poids et m² par conteneur calculés, cotes vérifiées dans le ruban |
+| **Rubex** (Égypte) | demande ferme non chiffrée | 3300 × 2140 confirmé dans le ruban |
+| **Nepal Glass Udhyog** | réponse du 09/10 | 767-833 m² par 20 pieds en 12 mm, repère à 11,22 $/m² |
+
+**C'est le seul point de cette liste qui transforme un chiffre.** 622 fiches contactées, 10 dossiers
+vivants, **0 commande** — et les deux plus avancés n'attendent pas un message de plus.
+**Et une cotation promise n'est pas tenue :** le Népal s'est vu annoncer « début de semaine
+prochaine », c'est-à-dire aujourd'hui.
+
+### 2. LA BASE DE LA CAMPAGNE DÉSTOCKAGE ABÎME LA BOÎTE QUE NOUS PARTAGEONS — mesuré ce matin
+
+Entre **09h42 et 09h56**, la campagne déstockage a tiré une quinzaine de messages et **13 ont
+rebondi en 1 à 7 secondes**, donc des échecs durs. Hier soir, ~45 messages en 25 minutes avec un
+`554 5.7.1`, qui est un verdict de filtrage. **Mes 37 envois de ce matin ont produit 1 rebond.**
+Un taux de rebond dur élevé est ce sur quoi Gmail restreint un compte, et le domaine est neuf et
+**sans DMARC**. Perdre la boîte tuerait les quatre dossiers du point 1.
+**Recommandation : faire vérifier ses adresses avant tout nouvel envoi, et répartir le quota
+explicitement entre les deux campagnes.**
+
+### 3. LE DMARC — cinq minutes chez le gestionnaire DNS
+
+Demandé depuis le 08/10. C'est la seule mesure de fond contre ce que le point 2 décrit.
+
+### 4. DEUX QUESTIONS À NOS USINES, et elles conditionnent TOUS les arguments douaniers
+
+Nos usines partenaires savent-elles **émettre un EUR.1 ou une déclaration d'origine sur facture**,
+et sommes-nous **exportateur agréé** ? **Tant que la réponse n'est pas oui, aucune préférence
+tarifaire européenne n'est réclamable** — ni au Mexique, ni en SACU, nulle part. C'est l'argument
+central de la campagne qui en dépend.
+
+### 5. Deux réglages d'environnement, déjà demandés
+
+L'accès réseau de la session (six sources officielles restent illisibles) et le plafond de 200
+recherches par tour. Les deux sont chiffrés plus bas dans ce fichier.
+
+---
+
 # Ce qui attend une décision d'Aaron — campagne conteneur
 
 Établi le 08/10/2026. **Périmètre : conteneurs uniquement.** Les dossiers du déstockage
