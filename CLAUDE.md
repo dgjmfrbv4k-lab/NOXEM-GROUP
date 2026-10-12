@@ -1515,6 +1515,51 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   en échec.** Donc : les avis de délai **se suivent**, ils ne se classent pas, et un envoi n'est
   définitivement confirmé qu'après **72 heures** sans avis d'échec.
 
+  **CINQUIÈME SIGNATURE DE REBOND, TROUVÉE LE 12/10, ET ELLE IMPORTE SURTOUT PAR CE QU'ELLE N'EST
+  PAS : LE DESTINATAIRE EST REFUSÉ SUR UN DOMAINE VIVANT.** Code **`550 5.4.1 Recipient address
+  rejected: Access denied`**, rendu par **Exchange Online**. Cas réel : `openorders@munnworks.com`,
+  trois secondes après l'envoi.
+  **CE QU'IL FAUT D'ABORD EN FAIRE, ET C'EST LE POINT QUI DÉCIDE D'UNE JOURNÉE : CE N'EST PAS UN
+  `5.7.1`.** Un `5.7.1` est un verdict de **filtrage** et il déclenche la règle d'arrêt des envois à
+  froid du §10. Un `5.4.1` est un refus **de destinataire** et ne dit **rien** sur notre réputation.
+  Confondre les deux ferait arrêter une journée d'envois sans motif — c'est exactement l'erreur de
+  comptage du 08/10, prise par l'autre bout.
+  **CE QUE CELA VEUT DIRE :** le MX répond, le domaine est vivant, c'est **la boîte** qui est
+  inexistante ou **restreinte aux expéditeurs internes**. Sur Exchange Online ce code couvre les deux
+  cas. **Et la fiche MunnWorks avait prévu la cause sans en tirer la conséquence** : sa note disait
+  déjà qu'`openorders@` est une boîte de **commandes entrantes**, et une boîte de commandes fermée à
+  l'extérieur est parfaitement cohérente.
+  **CONDUITE : c'est la seule des cinq signatures, avec la boîte inexistante, qui justifie de chercher
+  une autre boîte** — le domaine étant vivant, une autre adresse publiée a toutes ses chances. Fait le
+  12/10 : `hello@munnworks.com`, publiée par leurs propres documents sur le même domaine, et le message
+  a reparti avec une première ligne disant que le premier envoi avait été refusé au serveur.
+  **Et une boîte NOMINATIVE a été écartée volontairement dans ce même cas, parce que le piège est
+  subtil :** une de leurs pages produit porte une adresse personnelle sous la mention *purchasing
+  inquiries*. Cette mention désigne **les clients qui veulent acheter**, donc un contact de **vente**,
+  et non leur acheteur. Le §5 interdit de nommer une personne dont la fonction n'est pas vérifiée **et**
+  pertinente pour les achats : une mention anglaise qui contient le mot *purchasing* ne suffit pas.
+
+  **ET LE CONTRÔLE QUI MANQUAIT VRAIMENT N'EST PAS UN CONTRÔLE DE REBOND, C'EST UN CONTRÔLE DE
+  CALENDRIER — mesuré le 12/10, et c'est une faute de ma part.** Les deux seules réponses de la
+  journée sur la campagne conteneur sont des réponses **automatiques**, et ce sont elles qui m'ont
+  appris la faute : Insul-Lite nomme *the Thanksgiving holiday* et Superior Glass est absent jusqu'au
+  13. **Vérification : l'Action de grâce canadienne tombe le DEUXIÈME LUNDI D'OCTOBRE, soit ce
+  jour-là même**, et le même jour est le **Columbus Day** aux États-Unis.
+  **Coût mesuré : une trentaine de relances canadiennes et une quinzaine de messages américains
+  partis un jour de bureaux fermés** — sur le Canada, qui est le **plus gros bloc du registre avec
+  61 fiches**.
+  **LA CAUSE EST PRÉCISE ET ELLE PROLONGE LA RÈGLE DE L'HEURE : j'ai vérifié l'HEURE locale de chaque
+  fenêtre d'envoi, et pas le JOUR.** Le §13 impose de substituer l'heure depuis la commande plutôt que
+  de la deviner ; il ne disait rien du calendrier. **Or savoir qu'il est 15 h à New York ne sert à rien
+  si le bureau est fermé.**
+  **Règle ajoutée : avant d'ouvrir une vague sur un pays, vérifier si le jour y est férié.** Les fériés
+  à connaître pour les blocs du registre : **deuxième lundi d'octobre** au Canada et aux États-Unis,
+  Thanksgiving américain le quatrième jeudi de novembre, 7 septembre au Brésil, 16 septembre au Mexique,
+  **vendredi** et parfois jeudi au Proche-Orient et dans le Golfe, Nouvel An chinois pour l'Asie.
+  **Et ce qui ne se fait PAS : renvoyer le lendemain.** Ce serait un deuxième message en deux jours,
+  donc la faute Shibaam, qui coûte bien plus cher qu'un mauvais timing. Le message est parti, il se
+  consigne, et la prochaine échéance se calcule à partir de ce jour-là.
+
   **QUATRIÈME SIGNATURE DE REBOND, qu'il faut ajouter aux trois ci-dessous : LE SERVEUR NE RÉPOND
   PAS.** Code `4.4.1`, « the recipient server did not accept our requests to connect », délai d'attente
   dépassé sur chacune des IP du domaine. Chez Texas Glass les deux IP, `104.219.250.37` et
