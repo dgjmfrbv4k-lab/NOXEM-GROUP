@@ -996,6 +996,25 @@ motif — c'est le cas d'Alawadhi/yemenglass, rejeté le 07 **et** le 08 — n'a
 information nouvelle sur notre réputation : il confirme le filtre de ce destinataire, rien de plus.
 En revanche **deux serveurs sans rapport qui rendent un `5.7.1` le même jour est un vrai signal**,
 et c'est arrivé le 08/10 : yemenglass et `porfyriosglass@cytanet.com.cy` (`554 5.7.1`).
+**⚠️ ET LA RÈGLE EST ÉLARGIE LE 12/10 À 11h57, PARCE QU'ELLE NE NOMMAIT QU'UN SEUL CODE ET QUE
+C'EN EST UN AUTRE QUI EST TOMBÉ.** `info@alfastarglass.com`, en Arabie saoudite, a rendu
+**`554 5.7.7 Email policy violation`** deux secondes après l'envoi, depuis un serveur qui ne nous
+avait jamais filtrés.
+**Il faut dire franchement que `5.7.7` n'est pas `5.7.1`, donc que la lettre de la règle ne le
+couvrait pas.** Mais c'est **la même nature** : un verdict de **politique** du serveur destinataire,
+et non une adresse inexistante. La règle protège la réputation d'un domaine partagé contre les
+verdicts de filtrage ; elle serait vide de sens si un code voisin y échappait.
+**Donc : la règle vise désormais toute la classe `5.7.x`** — `5.7.1`, `5.7.7` et leurs voisines —
+et non le seul `5.7.1`. Appliquée le 12/10 : la vague de cinq en cours était terminée, les envois à
+froid ont été arrêtés pour la journée à 208 messages délivrables.
+**Et deux corollaires qui découlent du cas :**
+· **Un `5.7.x` ne tue pas l'adresse.** Ce n'est ni un domaine introuvable ni une boîte inexistante,
+  donc l'adresse reste au registre et la fiche ne part **pas** au téléphone. Elle passe en
+  `A RENVOYER`, à reprendre **un autre jour** et par un autre angle — message plus court, sans aucun
+  lien hypertexte, qui est la première chose que les filtres pèsent.
+· **Aucun réessai le même jour.** Il ne ferait que confirmer le filtre, et il coûterait la
+  réputation du domaine aux deux autres campagnes.
+
 **Conduite retenue :**
 - `5.7.1` **répété** depuis un serveur déjà connu → on continue, à volume mesuré.
 - `5.7.1` depuis un serveur **nouveau** → on finit la vague de 5 en cours et on s'arrête là pour

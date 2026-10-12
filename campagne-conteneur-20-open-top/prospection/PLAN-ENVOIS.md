@@ -213,3 +213,114 @@ fiches **du registre** une par une a rendu **zéro** adresse utilisable. Les tro
 du *premier temps*, qui fait remonter des sociétés **absentes du registre** avec un site indexé.
 **Donc sur un pays dont les fiches viennent d'un annuaire, chercher la CATÉGORIE avant de chercher les
 NOMS.** C'est ce qui avait déjà donné CNG Glass au Nigéria quelques heures plus tôt.
+
+---
+
+# ⏱ FILE DES SECONDES RELANCES — reste de la cohorte du 06/10, ecrit a 11h58
+
+**Ce que c est.** La cohorte `RELANCE 2026-10-06` comptait 162 fiches. Apres exclusion par le code
+des zones declassees du paragraphe 6, des comptes proteges du paragraphe 7 et des fiches sans
+adresse, 133 etaient exploitables. **60 ont ete traitees le 12/10, il en reste 73.**
+*(Chiffre substitue depuis `grep -c 'SECONDE RELANCE ENVOYEE LE 12/10'` et non tape : la premiere
+redaction de cette ligne portait quarante-six, faux, parce que je l avais compte de tete. C est la
+faute du paragraphe 13 pour la troisieme fois en deux jours, corrigee dans la minute et par la
+commande.)*
+
+**Pourquoi ca s est arrete et non parce que la file etait vide :** un `554 5.7.7 Email policy
+violation` est tombe sur `info@alfastarglass.com` depuis un serveur neuf, et le paragraphe 10
+impose alors de finir la vague en cours et d arreter les envois a froid pour la journee. La regle
+ne nommait que le `5.7.1` ; elle vise desormais toute la classe `5.7.x`.
+
+**LE GABARIT A REPRENDRE TEL QUEL — c est un TROISIEME message, donc ni un premier contact ni une
+relance ordinaire.** Il dit trois choses et rien d autre :
+1. j ai ecrit deux fois sans retour et **je n insisterai pas une troisieme** ;
+2. **je clos la fiche sauf avis contraire** ;
+3. **une seule question** : achetez-vous du verre plat par conteneur complet, et par quel port ?
+Puis, en une ligne, les quatre elements necessaires **si** la reponse est oui — references et
+epaisseurs, cotes, volume et frequence, port. **Aucun argument neuf**, le gabarit de relance
+l interdit. Et la porte de sortie en toutes lettres : un non ou un pas maintenant suffit.
+
+**Variante obligatoire pour un pays enclave** (Kazakhstan, Bolivie, Paraguay, Ouganda…) : demander
+le **port OU le poste frontiere** et le **point de livraison**, jamais supposer le port de transit.
+
+**Repartition par langue du reste : {'EN': 47, 'ES': 9, 'FR': 17}**
+
+**Et le controle a faire AVANT d ouvrir cette file demain**, parce que la journee du 12/10 a montre
+que c etait la vraie contrainte : compter ce qui est **reellement** sorti du domaine partage
+(`in:sent newer_than:1d`), l autre campagne consommant le meme plafond de ~500 destinataires.
+
+| Langue | Pays | Societe | Adresse | Score |
+|---|---|---|---|---|
+| EN | Kazakhstan | TOO KAZSTEKLO | `info@kazsteklo.kz` | 2 |
+| EN | Kazakhstan | TOO StekloMir | `info@steklomir.kz` | 2 |
+| EN | Koweït | Kuwait German Glass Factory | `info@kg-glass.com` | 2 |
+| EN | Koweït | United Glass Company | `ugc@kuwaitindustries.com` | 2 |
+| EN | Koweït | Rifai Glass Company | `info@rifaiglass.net` | 2 |
+| EN | Malaisie | Kong Weng Glass Sdn Bhd | `kongwengglass@gmail.com` | 2 |
+| EN | Malaisie | Kien Safety Glass Sdn Bhd | `info@ksg.com.my` | 2 |
+| EN | Maldives | Yes Maldives Pvt Ltd (Yankee Aluminium & Glass) | `info@yesmaldives.com.mv` | 2 |
+| EN | Nigéria | Abumet Nigeria Ltd. | `info@abumet.com` | 2 |
+| EN | Nigéria | Safe Glass Nigeria Ltd | `safeglassnig@gmail.com` | 2 |
+| EN | Nigéria | Glass.com.ng | `info@glass.com.ng` | 2 |
+| EN | Oman | Al Tasnim Enterprises LLC | `info@altasnim.com` | 2 |
+| EN | Oman | Glass Solutions | `Production@gs-oman.com` | 2 |
+| EN | Oman | Bahwan Metal & Glass Engineering LLC | `info@bahwanmge.com` | 2 |
+| EN | Oman | Noor Asadi Glass & Aluminum Factory | `info@noorasadi.com` | 2 |
+| EN | Oman | Dhofar Glass | `info@dhofarglass.com` | 2 |
+| EN | Oman | Sunrise Technical Glass LLC | `info@sunriseglass.me` | 2 |
+| EN | Pakistan | GreenTech Glass | `info@greentechglass.com` | 2 |
+| EN | Pakistan | Harris Silicones & Glass (Pvt.) Ltd. | `info@harris.com.pk` | 2 |
+| EN | Pakistan | AD Tempered Glass | `info@adtemperedglass.com` | 2 |
+| EN | Pakistan | Al-Fattah Toughened Glass Industries | `info@al-fattah.com` | 2 |
+| EN | Qatar | Dallas Glass | `info@dallasqatar.com` | 2 |
+| EN | Qatar | Al-Jawdah Glass Company | `info@al-jawdahglass.com` | 2 |
+| EN | Qatar | Nabina Aluminium & Glass Factory | `nagf@nabinaholding.com` | 2 |
+| EN | Qatar | Al Watan Glass | `sales2@alwatanglass.com` | 2 |
+| EN | Sri Lanka | Globe Glass (Pvt) Ltd | `info@globeglass.lk` | 2 |
+| EN | Vanuatu | Vanuatu Glass & Aluminium (VGA) | `jean@vgavanuatu.com` | 2 |
+| ES | Chili | Templaglass S.A. | `info@templaglass.cl` | 2 |
+| ES | Colombie | Vidrial Temp S.A.S. | `info@vidrialtemp.com.co` | 2 |
+| ES | Costa Rica | EXTRALUM S.A. | `info@extralum.co.cr` | 2 |
+| ES | Panama | Grupo Kefren | `kefren@grupokefren.com` | 2 |
+| ES | Panama | Vidrios Especiales | `info@vidriosespecialespty.com` | 2 |
+| ES | Pérou | ZAKATA GLASS | `zakataglass@gmail.com` | 2 |
+| ES | République dominicaine | Biselados del Caribe S.A. | `info@biselados.net.do` | 2 |
+| FR | Algérie | Baizid Glass Securit | `contact@bgs-dz.com` | 2 |
+| FR | Algérie | Glass Lux Bouhedjar | `contact@glasslux.net` | 2 |
+| FR | Algérie | Miranova Glass | `miranovaglass@gmail.com` | 2 |
+| FR | Bénin | ECOMA Benin | `contact@ecomabenin.com` | 2 |
+| FR | Côte d'Ivoire | NOMIRA — Nouvelle Miroiterie Africaine | `nomira@aviso.ci` | 2 |
+| FR | La Réunion | SOREMIR — Sté Réunionnaise de Miroiterie | `soremir@riouglass.re` | 2 |
+| FR | Liban | Horizontal Tempering Glass | `info@htempglass.com` | 2 |
+| FR | Liban | EGC — Glass Contracting | `info@egclb.com` | 2 |
+| FR | Liban | Glass & Mirrors National Co. | `info@gmnc-lb.com` | 2 |
+| FR | Maroc | Camiverre | `contact@camiverre.com` | 2 |
+| FR | Maroc | Inalver | `info@inalver.com` | 2 |
+| FR | Martinique | SAMIR | `contact@samir-martinique.fr` | 2 |
+| FR | Maurice | Glasslam (Mauritius) Ltd | `glasslam1960@gmail.com` | 2 |
+| FR | Nouvelle-Calédonie | MIVI — Miroiterie Vitrerie | `mivi@mivi.nc` | 2 |
+| EN | Arabie saoudite | Al Watania for Industries | `info@wataniaind.com` | 0 |
+| EN | Aruba | Mexim Aruba | `info@meximaruba.com` | 0 |
+| EN | Aruba | Aluglas Aruba | `info@aluglassaruba.com` | 0 |
+| EN | Australie | Australian Glass and Glazing | `sales@auglass.com.au` | 0 |
+| EN | Australie | Trade Glass | `info@tradeglass.com.au` | 0 |
+| EN | Barbade | Oran Limited | `info@oranltd.com` | 0 |
+| EN | Belize | All Season Glass Shop | `allseasonglass.bz@gmail.com` | 0 |
+| EN | Bermudes | Island Glass Ltd | `sales@islandglass.bm` | 0 |
+| EN | Brunei | Sincere Aluminium Group | `sincere@sincerealugroup.com` | 0 |
+| EN | Brunei | Wing Wah Glass & Aluminium | `wingwah.bn@gmail.com` | 0 |
+| EN | Cambodge | KJKs Aluminum | `infokjks@yahoo.com` | 0 |
+| EN | Fidji | All Aluminium & Glass Solution | `allglassalu65@gmail.com` | 0 |
+| EN | Indonésie | Surabaya Kaca | `surabayakaca@gmail.com` | 0 |
+| EN | Jamaïque | Caribbean Glass Co Ltd | `caribbeanglasscoltd@gmail.com` | 0 |
+| EN | Jordanie | First Glass | `info@fgi.jo` | 0 |
+| EN | Oman | Decorative Glass Manufacturing LLC (Omzest) | `dgm@omzest.com` | 0 |
+| EN | Ouzbékistan | AKFA Group | `info@akfagroup.com` | 0 |
+| EN | Philippines | Kima Glass Supply Co. | `showroom@kimaglass.com` | 0 |
+| EN | Seychelles | Ma & Sun Aluminium Seychelles | `mnsaluminium1@gmail.com` | 0 |
+| EN | Tanzanie | Dar es Salaam Glass Works | `sales@dsmglass.co.tz` | 0 |
+| ES | Panama | EXTRALUM Panama | `ventas@extralum.com.pa` | 0 |
+| ES | Pérou | Vidrieria Canovas | `proyectos@canovas.pe` | 0 |
+| FR | Algérie | Sarl Es Senia Glass | `contact@esseniaglass.com` | 0 |
+| FR | Cameroun | SOBAF Sarl | `sobafsarl@yahoo.fr` | 0 |
+| FR | Mali | METALSOUDAN | `metalsoudan@metalsoudan.com` | 0 |

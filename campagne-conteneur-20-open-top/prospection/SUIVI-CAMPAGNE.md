@@ -5335,3 +5335,67 @@ Nouvel An chinois pour tout ce qui est approvisionne depuis l Asie.
 **Ce que je ne fais PAS : renvoyer ces messages demain.** Ce serait un deuxieme message en deux
 jours, donc la faute Shibaam, qui coute plus cher que le mauvais timing. Les relances sont parties,
 elles sont consignees, et la prochaine echeance de ces fiches se calcule a partir d aujourd hui.
+
+## LUNDI 12/10 — second lot de la journee, releve a 11h59
+
+### Ce qui est parti
+
+| | nombre |
+|---|---|
+| premiers contacts | 33 |
+| relances, dont **60 secondes relances** | 175 |
+| **total delivrable au registre** | **208** |
+| non delivres, deduits | 4 rebonds durs + 1 verdict de politique |
+| **envois CONFIRMES au sens du §13** | **0 avant le 15/10** |
+
+### Le lot : la cohorte du 06/10, ouverte en seconde relance
+
+162 fiches etaient en `RELANCE 2026-10-06`, soit six jours — la cadence meme utilisee pour les
+premieres relances. **Le code a applique les exclusions plutot que ma memoire** : zones declassees
+du §6, comptes proteges du §7, fiches sans adresse. Restaient **133 exploitables**, triees par
+valeur : 19 importateurs-transformateurs, 15 importateurs-distributeurs, 74 transformateurs,
+25 profils a relire. **60 traitees, 73 en file pour demain dans `PLAN-ENVOIS.md`.**
+
+**Un gabarit distinct, et c est le point de methode du lot.** Un troisieme message n est ni un
+premier contact ni une relance ordinaire. Celui-ci dit qu on a ecrit deux fois, **qu on n insistera
+pas une troisieme**, et **qu on clos la fiche sauf avis contraire** — puis pose **une seule
+question** qui qualifie ou disqualifie en une ligne : achetez-vous par conteneur complet, et par
+quel port. Les quatre elements d un devis ne viennent qu **apres**, et seulement si la reponse est
+oui. Aucun argument neuf, le gabarit de relance l interdit.
+
+**Pourquoi ce gabarit et pas une troisieme insistance :** un `non` recu libere la fiche et ferme le
+compte proprement, ce qui vaut mieux qu un silence — c est ce qui avait permis de classer Glass Jet
+en `REFUS` plutot qu en `NE PAS DEMARCHER`, le §12 notant que ce second statut surtraduit.
+
+### ⚠️ POURQUOI LES ENVOIS SE SONT ARRETES A 208 ET NON PARCE QUE LA FILE ETAIT VIDE
+
+**`554 5.7.7 Email policy violation` sur `info@alfastarglass.com`**, deux secondes apres l envoi,
+depuis un serveur qui ne nous avait jamais filtres. Ce n est **pas** une adresse morte : c est un
+**verdict de politique**, donc la meme nature que le `5.7.1` nomme au §10.
+
+**Le §10 ne nommait que le `5.7.1`, donc sa lettre ne couvrait pas ce code — il faut le dire
+franchement plutot que d etirer la regle.** Elle vise desormais **toute la classe `5.7.x`**, parce
+qu une regle qui protege la reputation d un domaine partage serait vide de sens si un code voisin y
+echappait. Conduite appliquee : vague de cinq terminee, **envois a froid arretes pour la journee**.
+
+**Aucun reessai**, conformement a la consigne. Un message rejete par une politique ne se represente
+pas le meme jour : cela ne ferait que confirmer le filtre et abimer la reputation du domaine, donc
+coûter aux deux autres campagnes.
+
+### Rebonds du jour, au complet
+
+| Fiche | Code | Lecture | Suite |
+|---|---|---|---|
+| Meng Heng Glass (Singapour) | serveur mal configure | panne au serveur | telephone |
+| Univers du Verre (Guadeloupe) | domaine introuvable | hebergement courrier abandonne | telephone |
+| INVIMEX (Mexique) | domaine introuvable | idem, emporte tout le domaine | telephone |
+| MunnWorks (Etats-Unis) | `550 5.4.1` **deux fois** | blocage au niveau du locataire Microsoft | telephone |
+| Alfa Star Glass (Arabie saoudite) | `554 5.7.7` | verdict de politique, adresse valide | `A RENVOYER` un autre jour |
+
+**Zero rebond sur les 60 secondes relances**, ce qui est coherent : ce sont des adresses eprouvees
+par un premier contact **et** une premiere relance.
+
+### Reponses
+
+**Aucune reponse de prospect.** Deux reponses automatiques seulement, Insul-Lite et Superior Glass,
+toutes deux canadiennes et toutes deux disant la meme chose : bureaux fermes pour l Action de grace.
