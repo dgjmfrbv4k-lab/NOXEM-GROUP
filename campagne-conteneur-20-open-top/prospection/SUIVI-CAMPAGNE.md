@@ -2,6 +2,67 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## 12/10/2026, 13h20 — LA MEILLEURE PISTE DE LA JOURNEE N EST PAS UNE RECHERCHE, C EST UN DOSSIER DOUANIER
+
+**1107 fiches au registre.** Cinq fiches mexicaines creees d un coup, et leur qualification est d une
+nature differente de tout ce que le registre contient.
+
+### CE QUE LA PISTE EST, ET POURQUOI ELLE VAUT MIEUX QU UNE RECHERCHE DE CATEGORIE
+
+La **resolution preliminaire de juin 2025** de la Secretaria de Economia, dans l enquete antidumping
+sur le *vidrio flotado claro* de Chine et de Malaisie, nomme **cinq societes mexicaines qui ont repondu
+au formulaire d IMPORTATEUR** et fourni des informations sur leurs propres importations : **Indimex
+Trading, Ermita Comercial, Vitropanel, Templados del Centro et Wham Picture.**
+
+**Ce n est pas une activite declaree dans un annuaire, c est une declaration faite a une
+administration.** Elles importent du float clair au Mexique, en volume suffisant pour etre parties a
+une enquete douaniere. **Aucun annuaire ne prouve cela.** C est exactement la piste qui a donne
+Glasscorp, ODL, WHTB, MunnWorks et Fuyao aux Etats-Unis par la liste des importateurs du dossier
+C-570-189 — et c est la deuxieme fois qu elle est la plus rentable de la journee.
+
+**A retenir comme methode : chercher les LISTES D IMPORTATEURS des dossiers antidumping des pays
+cibles.** Le Bresil (Gecex, ABIVIDRO) et la Colombie (MinCIT, Resolution 284 sur les miroirs) ont des
+dossiers du meme genre, non encore exploites.
+
+### LES DEUX QUI SONT DEJA JOIGNABLES, ET AUCUNE PAR E-MAIL
+
+· **Indimex Trading** (San Pedro Garza Garcia) est **la plus forte des cinq** : son unite **Indiglass**
+  est, selon son propre site, dediee a la **commercialisation et la distribution de verre flotte**.
+  C est le profil qui n a rien a apprendre et qui compare un prix rendu.
+· **Grupo Vitropanel** (Naucalpan et Queretaro) est un **trempeur avec son propre four** — acheteur de
+  float par construction — avec 8 000 m2, 90 salaries en production et trois succursales.
+
+**Les deux sont `A APPELER` et non envoyees, et le motif est le §5 dans les deux cas.** Vitropanel ne
+publie **aucune** adresse sur ses propres pages, qui sont indexees depuis plus de onze ans — signature
+Vitrolux ; les deux adresses qui circulent viennent de **Facebook** et d un **annuaire**, donc ne
+satisfont pas la regle anti-rebond. Indimex Trading ne nomme ses interlocuteurs que par leur
+**prenom**, sans adresse lisible, et le §5 interdit a la fois d inventer une adresse et de nommer une
+personne dont la fonction n est pas verifiee. **Les deux telephones, eux, viennent de leurs sites.**
+
+### ⚠️ ET DEUX PIEGES DE NOM LEVES, DONT UN QUI AURAIT COUTE UN ENVOI A UN VERRIER DE VERRE CREUX
+
+· **VITROPANEL N EST PAS VITRO.** Le nom contient le mot qui designe le producteur float mexicain
+  inscrit a la liste des concurrents du §6. Or Vitro est **Vidrio Plano de Mexico, a Monterrey, et c est
+  LE DEMANDEUR de cette enquete** ; Vitropanel y figure comme **importateur**, donc du cote oppose. Un
+  mot commun ne dit rien de l appartenance, exactement comme *zoujaj* a Doha.
+· **INDIMEX TRADING N EST PAS INDIMEX.** Il existe une **Indimex S.A. de C.V.** a Mexico qui fabrique
+  des **boules de Noel en verre souffle**, decrite en verre creux pour usage domestique et de catering,
+  et son adresse `info@indimex.mx` **ne doit jamais servir pour cette fiche**. Le danger est que le
+  domaine **`indimex.mx` sert les DEUX** : certaines pages y sont bien celles d Indimex Trading, et
+  `indimex.mx/contacto.html` est celle du fabricant de boules de Noel. **C est la premiere fois qu un
+  meme domaine porte une cible et un hors-sujet**, et c est le test du verre creux du §5 — verre
+  souffle, usage domestique — qui tranche.
+
+### LES INTERDITS MEXICAINS, PORTES DANS LES CINQ FICHES
+
+**Rien sur les droits, et c est plus sensible ici qu ailleurs : CES SOCIETES ETAIENT PARTIES A
+L ENQUETE.** Elles savent mieux que nous ce qu elles paient, et le taux IGI applicable a l origine UE
+sur la fraction 7005.29.99 n est **pas** etabli — presomption forte, pas un fait. Et **jamais
+l absence de production locale** : Vitro et Guardian produisent au Mexique. L angle n a pas besoin des
+droits : elles ont participe au dossier, donc on ne leur explique pas leur marche — on se presente
+comme une origine europeenne de float clair **et extra-clair** en conteneur complet, et on demande
+leurs references.
+
 ## ⚠️ 12/10/2026, 13h06 — UNE REPONSE QUALIFIEE, ET ELLE EST BLOQUEE SUR LE §11
 
 **MIRO EST (La Reunion) a repondu 32 MINUTES apres sa relance**, a 12h28. C est la premiere reponse de

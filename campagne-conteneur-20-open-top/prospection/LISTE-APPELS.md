@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **12/10/2026** depuis le registre. **146 societes** portent un telephone et
+Regeneree le **12/10/2026** depuis le registre. **148 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 146 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 148 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 135 societes
+## Hors Europe — 137 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Haïti | **Action Enterprises Windows & Blinds** | `+509 36 19 5572` | 15h00 - 23h00 | A APPELER | MEILLEURE FICHE HAITIENNE : fabricant-installateur avec un entrepot de fabrication a Santo Croix-des-Bouquets, donc consommateur de vitrage. Ile sans ligne float, port de Port-au-Prince. ADRESSE sales ECARTEE : relevee dans un ... |
 | Martinique | **Alu Espace +** | `0596 54 14 36` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 12h58 SUR LE DEUXIEME MARCHE PRIORITAIRE DE KEVIN, LA MARTINIQUE, QUI NE COMPTAIT QUE TROIS FICHES ALORS QU ELLE ABRITE NOTRE SEUL CLIENT EXPORT. Grep fait avant creation sur le mot le plus court et ... |
 | Martinique | **Solutions FAR (Fourniture Aluminium et Renovation)** | `0596 77 11 11` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 12h58 SUR LE DEUXIEME MARCHE PRIORITAIRE DE KEVIN, LA MARTINIQUE, QUI NE COMPTAIT QUE TROIS FICHES ALORS QU ELLE ABRITE NOTRE SEUL CLIENT EXPORT. Grep fait avant creation sur le mot le plus court et ... |
+| Mexique | **Indimex Trading (unite Indiglass)** | `+52 81 8378 6780` | 17h00 - 01h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 13h19 PAR LA MEILLEURE PISTE DOCUMENTAIRE DE LA CAMPAGNE, ET IL FAUT DIRE POURQUOI ELLE VAUT MIEUX QU UNE RECHERCHE DE CATEGORIE. La RESOLUTION PRELIMINAIRE de juin 2025 de la Secretaria de Economia,... |
 | États-Unis | **MunnWorks LLC** | `+1 914 665 6100` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 22h02 PAR UNE PISTE QUI N EST PAS UNE RECHERCHE DE CATEGORIE, ET C EST SA FORCE : la LISTE DES IMPORTATEURS AMERICAINS DE FLOAT deposee le 21/11/2024 au dossier C-570-189, l affaire de droits compens... |
 | Brésil | **Disk Vidros** | `+55 46 3524-1517` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
 | Honduras | **Aluminios del Sur** | `+504 8847 8257 WhatsApp et +504 3300 3979 et +504 2236 2071` | 17h00 - 01h00 | A APPELER | Trois decennies de metier, couvre Tegucigalpa, San Pedro Sula et Olancho. Adresse email masquee en ligne : appeler. Port Puerto Cortes. Adresse retrouvee le 07/10. Envoi depuis la nouvelle boite noxem-group. REBOND 07/10 : 550 ... |
@@ -96,6 +97,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Irak | **Arturaya Glass Company** | `+964 751 667 6876` | 08h00 - 16h00 · **dim-jeu** | A APPELER | IMPORTATEUR : se fournit déjà à l'étranger. Adresse info arobase arturaya.com relevee le 07/10, domaine identique au site. IMPORTE DEJA DES CONTENEURS : ils annoncent eux-memes travailler avec des usines etrangeres. Envoi 07/10... |
 | Maroc | **Sotraglace Maroc** | `05 22 34 93 65` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source Kompass, qui decrit l activite en propres termes. Aucune adresse ni telephone releves... |
 | Mexique | **Millet Industria de Vidrio** | `+52 999 930 2381` | 17h00 - 01h00 | A APPELER | Contact nomme Humberto Vital, fonction non verifiee. Adresse en millet.com.mx alors que la page trouvee est sur un sous-domaine d annuaire : regle anti-rebond, aucun envoi. A appeler. VERIFIE LE 08/10, ADRESSES REDACTEES sur to... |
+| Mexique | **Grupo Vitropanel** | `+52 55 5358 3444` | 17h00 - 01h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 13h19 PAR LA MEILLEURE PISTE DOCUMENTAIRE DE LA CAMPAGNE, ET IL FAUT DIRE POURQUOI ELLE VAUT MIEUX QU UNE RECHERCHE DE CATEGORIE. La RESOLUTION PRELIMINAIRE de juin 2025 de la Secretaria de Economia,... |
 | Algérie | **Vitrosak** | `+213 560 53 51 68` | 10h00 - 18h00 · **dim-jeu** | A APPELER | Aucune adresse publiee. Port Bejaia. — TESTEE LE 11/10 EN DEUX TEMPS, ET LE SECOND TEMPS A SAUVE UN ENVOI PERDU. Grep du mot distinctif vitrosak fait avant : une seule fiche. PREMIER TEMPS, recherche large : les annuaires donne... |
 | Angola | **Axial / AS Glass Angola** | `+244 924 955 330` | 10h00 - 18h00 | A APPELER | Port Luanda, envoi en portugais. Relance 08/10, deuxieme tranche, format court a une seule question plus porte de sortie. Delivrabilite deja prouvee par l envoi du debut octobre. Angle caixilharia : fabricant de chassis donc co... |
 | Angola | **Vidreira de Viana** | `+244 922 012 998` | 10h00 - 18h00 | A QUALIFIER | Port Luanda, envoi en portugais. Rebond 550 No Such User le 05/10 : adresse inexistante. ADRESSE TROUVEE LE 08/10 A 16h45 MAIS LA FICHE NE PART PAS, ET C EST LA REGLE DU PARAGRAPHE 5 QUI L IMPOSE. vidreira.viana arobase hotmail... |
