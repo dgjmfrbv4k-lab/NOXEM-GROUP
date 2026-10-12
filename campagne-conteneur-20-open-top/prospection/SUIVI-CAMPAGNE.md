@@ -5161,3 +5161,45 @@ retenu travaille phrase par phrase, et le signal le plus sur est l aveu que l ar
 
 **Note Dijoux corrigee** : elle portait « aucune douane », l erreur SAMIR. L octroi de mer externe
 s applique au verre europeen a La Reunion.
+
+### 10h12 — l analyse du §2 sur ce qui marche, et une correction de deux chiffres
+
+**Faite pendant la fenetre morte de la matinee**, rien n etant envoyable avant 14h.
+
+**PREMIERE CORRECTION, ET ELLE PORTE SUR UN CHIFFRE QUE JE REPETE DEPUIS HIER : LES DOSSIERS VIVANTS
+SONT 10, PAS 12.** Comptes au registre par leur statut : United Glass en devis envoye, Carlen Glass
+en negociation, PG Glass Namibia en demande de prix specs confirmees, Rubex en demande de prix a
+chiffrer, Caribbean Glass Specialists en demande de prix, Nepal Glass Udhyog, Goldland Trading et
+Duravidrio en reponse recue, Cork Glass Centre a relancer sur reponse recue, Gorica Staklo en
+verification de conformite. Plus **2 refus**, Quality Glass et Glassjet. Le 12 venait de mes propres
+resumes, pas du registre.
+
+**LE TAUX REEL DE LA CAMPAGNE : 10 dossiers vivants sur 622 fiches contactees, soit 1,6 pour cent.**
+C est le chiffre a retenir, et il est le vrai sujet — bien avant le volume d envois.
+
+**CE QUE LE PROFIL DU PROSPECT CHANGE, ET LA REPONSE SURPREND : presque rien.** Taux de passage au
+dossier vivant par profil : importateur ou distributeur 2,1 pour cent sur 190 contactes,
+transformateur 2,0 pour cent sur 245, facadier 1,3 pour cent sur 78. **Les deux profils que la
+campagne privilegie se valent donc exactement**, et choisir entre importateur et transformateur ne
+discrimine rien.
+
+**SEUL SIGNAL NET : les POSEURS ET MIROITIERS donnent 0 dossier vivant sur 30 contactes.** C est
+coherent avec le reste du registre — Leamington Glass, Miro Verre, les sept poseurs marocains non
+crees ce matin : un poseur achete des panneaux finis a un transformateur local, pas un conteneur de
+float. La base est petite, 30 fiches, donc c est une indication et non une preuve.
+
+**⚠️ ET VOICI LA CORRECTION LA PLUS IMPORTANTE, PARCE QUE J AI FAILLI AGIR SUR UN ARTEFACT.** Mon
+classeur rangeait 79 fiches en « autre » avec 0 dossier vivant, et j allais en deduire qu il fallait
+les depriorioriser — dont 22 des 87 relances de l apres-midi. **C est faux : « autre » n est pas un
+profil, c est le residu de ce que mon expression reguliere n a pas su classer.** Il suffit de lire
+les noms : Insul-Lite Manufacturing, ProTemp Glass, Thermafix, High Performance Glazing, Security
+Glass Products, Norfinch Glass and Mirrors Mfg, Tacoma Glass MFG. **Ce sont des transformateurs.**
+**LA LEÇON, et elle vaut au-dela de ce cas : le panier residuel d un classeur n est jamais un
+resultat.** Un taux de zero sur une categorie qui n existe pas ne dit rien du monde, il dit que la
+regle de classement est incomplete. C est la meme faute que les huit faux positifs du garde-fou de
+ce matin, prise par l autre bout : la mesure avant la conclusion.
+
+**CONSEQUENCE RETENUE POUR L APRES-MIDI, et elle est etroite :** sur les 87 relances, **3 seulement**
+sont des poseurs — Antilles Miroiterie, Vidrieria Jerusalen et Avery Glass & Mirror — et elles
+passent en fin de file. Les 84 autres sont tirees normalement. **Aucune depriorisation sur le
+critere « autre ».**
