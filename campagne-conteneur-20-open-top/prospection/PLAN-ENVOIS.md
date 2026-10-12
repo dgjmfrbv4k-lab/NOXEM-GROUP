@@ -335,3 +335,184 @@ que c etait la vraie contrainte : compter ce qui est **reellement** sorti du dom
 | FR | Algérie | Sarl Es Senia Glass | `contact@esseniaglass.com` | 0 |
 | FR | Cameroun | SOBAF Sarl | `sobafsarl@yahoo.fr` | 0 |
 | FR | Mali | METALSOUDAN | `metalsoudan@metalsoudan.com` | 0 |
+
+---
+
+# FILE DU MARDI 13/10 — ETABLIE LE 12/10 A 13h10, ET C EST ICI QUE LE VOLUME SE TROUVE
+
+**101 envois disponibles demain contre 3 aujourd hui**, et la raison est arithmetique : les cohortes du
+07/10 arrivent a echeance. **92 secondes relances** (`RELANCE 2026-10-07`) et **6 premieres relances**
+(`ENVOYE 2026-10-07`), plus **3 envois deja programmes**.
+
+## LA FILE EST PROPRE, ET CE N EST PAS UNE IMPRESSION — C EST UN CONTROLE PASSE PAR CODE
+
+Quatre filtres appliques sur la file entiere le 12/10, chacun rendant **zero** :
+
+| Controle | Pourquoi il existe | Resultat |
+|---|---|---|
+| adresse partagee avec une autre fiche active | lecon Corporación Limatambo du 08/10 : deux fiches, une adresse, deux relances dans le pool | **0** |
+| fiche dans un marche declasse ou gele | le balayage du 12/10 en a sorti 60 — ce controle verifie qu il a tenu | **0** |
+| compte protege par domaine (`pgglass`, `pg.co.za`, Carlen, Tipperary, Gorica, Rubex) | §7 | **0** |
+| adresse vide | une fiche sans adresse n est pas un envoi | **0** |
+
+**C est la premiere fois que la file du lendemain est verifiee avant d etre ouverte plutot qu en
+l ouvrant.** Le balayage du 12/10 a montre pourquoi : nettoyer la cohorte qu on ouvre ne sert a rien,
+un statut faux attend sa date.
+
+## ⚠️ ET LE PREMIER GESTE DE DEMAIN N EST PAS UN ENVOI, C EST UN CALENDRIER
+
+Le 12/10 a coute **une trentaine de relances canadiennes et une quinzaine de messages americains**
+partis un jour d Action de grace et de Columbus Day, parce que j avais verifie l HEURE de chaque
+fenetre et pas le JOUR. **Le 13/10 est un mardi**, donc sans risque de pont, mais la regle ajoutee au
+§13 s applique quand meme : **avant d ouvrir une vague sur un pays, verifier si le jour y est ferie.**
+Ce qui vaut d etre verifie demain, vu la composition de la file : l **Ethiopie**, dont le calendrier
+n est pas gregorien et porte des fetes mobiles, et les pays du **Golfe**, ou la semaine ouvree va du
+dimanche au jeudi — un mardi y est ouvrable, donc sans probleme, mais c est a confirmer et non a
+supposer.
+
+**Et ce qui ne se fait PAS :** renvoyer aux Canadiens et aux Americains touches hier. Ce serait un
+deuxieme message en deux jours, la faute Shibaam, qui coute bien plus cher qu un mauvais timing. Leur
+prochaine echeance se calcule a partir du 12/10.
+
+## REPARTITION PAR LANGUE
+
+**EN 84 · PT 6 · FR 4 · ES 4** — la file est a 86% anglophone, ce qui permet de grouper les vagues sans reecrire.
+
+## LE GABARIT, ET IL Y EN A DEUX A NE PAS CONFONDRE
+
+· **Secondes relances (92 fiches)** → **gabarit de CLOTURE DE FICHE**, celui rode sur 125 envois le
+  12/10 sans un seul rebond. Trois choses et rien d autre : j ai ecrit deux fois sans retour et je
+  n insisterai pas une troisieme ; je clos la fiche sauf avis contraire ; UNE question — achetez-vous
+  du verre plat par conteneur complet et par quel port. Puis en une ligne les quatre elements **si**
+  la reponse est oui : references et epaisseurs, cotes, volume et frequence, port. **Aucun argument
+  neuf.** Et la porte de sortie en toutes lettres.
+· **Premieres relances (6 fiches)** → **gabarit de RELANCE**, different : le silence est dit normal,
+  on ne repete pas le premier message, UNE question de volume, la formule d offre sous reserve de
+  validation, porte de sortie. **Aucun argument neuf non plus.**
+· **Variante pays enclave** : demander le **port OU le poste frontiere** ET le point de livraison,
+  jamais supposer le port de transit.
+· **Signature dans le corps, UNE SEULE FOIS**, bloc du §10.
+
+## CE QUE LA JOURNEE DU 12/10 A VALIDE SUR CES DEUX GABARITS
+
+**125 secondes relances et une dizaine de premieres, zero rebond apres la reprise de 12h05.** Et le
+gabarit de relance a produit **la seule reponse de fond de la journee** : Miro Est a repondu **32
+minutes** apres l avoir recu, avec ses cinq references. **Une question unique obtient une reponse ; un
+argumentaire n en obtient pas.** C est la lecon a garder pour demain.
+
+## LES ENVOIS DEJA PROGRAMMES, A FAIRE EN PREMIER
+
+| Pays | Societe | Adresse | Motif du report |
+|---|---|---|---|
+| Belize | All Season Glass Shop | `allseasonglass.bz@gmail.com` | jour ferie et bancaire le 12/10 |
+| Bresil | WegaVidros | `contato@wegavidros.com.br` | texte 29 deja redige |
+| Bresil | Santana Vidros | `santanavidros@santanavidros.com.br` | texte 30 deja redige |
+
+⚠️ **Rappel bresilien du §6 avant ces deux-la** : l argument est **douanier** — Gecex 833/2025 contre
+la Malaisie, le Pakistan et la Turquie, l Europe non visee — **jamais** l absence de production locale,
+Vivix et Cebrace produisant au Bresil, et **rien sur le cout rendu**, le droit ordinaire n etant pas
+etabli entre 9 et 25 %.
+
+## LA FILE COMPLETE
+
+| Langue | Pays | Societe | Adresse |
+|---|---|---|---|
+| EN | Albanie | DOAN GLASS | `info@doanglass.al` |
+| EN | Allemagne | HANSEATA Flachglas — Ges. für Überseehandel | `info@hanseata.de` |
+| EN | Australie | Boyce Western Glass | `bwglass@westnet.com.au` |
+| EN | Australie | Festival Glass & Glazing | `admin@festivalglass.com.au` |
+| EN | Australie | M & S Glass | `sales@msglass.net.au` |
+| EN | Autriche | Glas-Khemeter | `office@glaskhemeter.at` |
+| EN | Belgique | Glashandel Lievens | `info@glaslievens.be` |
+| EN | Bosnie-Herzégovine | Siat d.o.o. | `siat@blic.net` |
+| EN | Bulgarie | Baros Glass | `sales@barosglass.com` |
+| EN | Bulgarie | GMT Bulgaria | `gmt_bulgaria@glassbg.com` |
+| EN | Bulgarie | Kristal 90C | `kristal@kristal90c.com` |
+| EN | Chypre | Christakis Avgousti Ltd | `info@avgoustiglass.com` |
+| EN | Chypre | Constantinou Bros Glass Processing Ltd | `info@constantinoubros.glass` |
+| EN | Chypre | Polydomiki | `info@polydomiki.com.cy` |
+| EN | Chypre | Shikkis Bros Ltd | `info@shikkis.com` |
+| EN | Croatie | Eko Vetri | `info@eko-vetri.hr` |
+| EN | Croatie | Idra | `idra@idra.hr` |
+| EN | Croatie | Kopterm d.o.o. — Staklo Novigrad | `kopterm@gmail.com` |
+| EN | Danemark | Svane Glas A/S | `bestilling@svaneglas.dk` |
+| EN | Estonie | KL24 (OÜ Karnaluks) | `info@kl24.ee` |
+| EN | Estonie | Klaasissepa | `info@klaasissepa.ee` |
+| EN | Estonie | Tallinna Klaas ja Peegel (Glass Market OÜ) | `info@tallinnaklaas.ee` |
+| EN | Finlande | Lasiposti | `myynti@lasiposti.fi` |
+| EN | Grèce | Garoufalis Glass | `info@garoufalisglass.gr` |
+| EN | Grèce | iGlass S.A. | `info@iglass.gr` |
+| EN | Hongrie | Horváth Síküveg Kft. | `info@hmsikuveg.com` |
+| EN | Irlande | AC Taylor Trading Ltd | `info@actaylor.ie` |
+| EN | Italie | G.B. Vetro | `info@gbvetro.it` |
+| EN | Italie | Vetro Italia Srl | `commerciale@vetroitaliasrl.it` |
+| EN | Lettonie | SIA Stikla Serviss | `info@stikla-serviss.lv` |
+| EN | Lituanie | AB Panevėžio stiklas | `info@paneveziostiklas.lt` |
+| EN | Lituanie | UAB Kauno Stiklas | `stiklas@kaunostiklas.lt` |
+| EN | Malte | Bason Aluminium | `info@basonaluminium.com` |
+| EN | Malte | F. Zammit Glass Ltd | `info@fzammitglass.com` |
+| EN | Malte | FloatGlass Ltd | `info@floatglassltd.com` |
+| EN | Monténégro | MG Staklo (Staklo MG d.o.o.) | `staklomg@t-com.me` |
+| EN | Norvège | Friva AS | `firmapost@friva.no` |
+| EN | Nouvelle-Zelande | NZ Glass | `sales@nzglass.nz` |
+| EN | Pays-Bas | Drachtster Glashandel B.V. | `info@drachtsterglashandel.nl` |
+| EN | Pays-Bas | Glascentrum Veendam | `info@glascentrumveendam.nl` |
+| EN | Pays-Bas | LHV Glas | `info@lhvglas.nl` |
+| EN | Pays-Bas | Ooster Glashandel | `verkoop@oosterglas.nl` |
+| EN | Pays-Bas | Van den Heuvel Glas | `info@heuvelglas.nl` |
+| EN | Pologne | Hurt Glass — Kądziela | `hurtglass@hurtglass.pl` |
+| EN | Pologne | POLANA — Świat Szkła | `biuro@polana-glass.pl` |
+| EN | Pologne | Wutkowski Sp. z o.o. | `contact@wutkowski.com.pl` |
+| EN | Qatar | Technical Glass & Aluminium (TGAC) | `glass.qatar@tgac.net` |
+| EN | Roumanie | AGOTERM | `vanzari@agoterm.ro` |
+| EN | Roumanie | Brad Glass | `office@bradglass.ro` |
+| EN | Roumanie | Cristal Grup | `contact@cristalgeam.ro` |
+| EN | Roumanie | TDC Glass | `comenzi@tdcglass.ro` |
+| EN | Roumanie | TGP — TamoGlass Perfect | `comenzi@tamoglass.ro` |
+| EN | Roumanie | VALRAS Glass | `office@valras.ro` |
+| EN | Royaume-Uni | Float Glass Industries Ltd | `ce@floatglass.co.uk` |
+| EN | Royaume-Uni | The Wholesale Glass Company | `sales@wholesaleglasscompany.co.uk` |
+| EN | Serbie | IN STAKLO ENTERIJER d.o.o. | `instaklo@ptt.rs` |
+| EN | Serbie | Kaljeno Staklo d.o.o. | `office@kaljenostaklo.rs` |
+| EN | Singapour | H T Glass Pte Ltd | `enquiries@htglass.com.sg` |
+| EN | Singapour | Siew Kong Glass Makers Pte Ltd | `sales@siewkongglass.com.sg` |
+| EN | Slovaquie | WINDOW GLASS s.r.o. | `info@windowglass.sk` |
+| EN | Sri Lanka | Asoka Glass & Mirror S3 (Pvt) Ltd | `info@asokaglass.lk` |
+| EN | Sri Lanka | CPP Glass — Colombo Picture Palace (Pvt) Ltd | `info@cppglass.com` |
+| EN | Suisse | Flachglas (Schweiz) AG | `info@flachglas.ch` |
+| EN | Suède | Forserum Safety Glass AB | `info@fsglass.se` |
+| EN | Suède | Glasgruppen | `info@marting.se` |
+| EN | Suède | Osby Glas AB | `order@osbyglas.se` |
+| EN | Thaïlande | Thai-German Specialty Glass Co. Ltd (TGSG) | `marketing@tgsg.co.th` |
+| EN | Trinité-et-Tobago | Delta Glass Limited | `sales@deltawds.com` |
+| EN | Zimbabwe | Postcorp Glass & Aluminium | `sales@postcorpglass.co.zw` |
+| EN | Égypte | Arab Union Glass | `info@arabunionglass.com` |
+| EN | Égypte | Cairo Glass Manufacturing Co. | `commercial@cairoglass.com` |
+| EN | Émirats arabes unis | Al Rawaa Glass & Mirror Factory LLC | `sales@alrawaa.net` |
+| EN | Émirats arabes unis | Arabian Aluminium and Glass Industry LLC | `info@arabianglass.ae` |
+| EN | Émirats arabes unis | Future Architectural Glass LLC | `sales@faglass.com` |
+| EN | Émirats arabes unis | Glass Maestro Industries | `info@glass-maestro.com` |
+| EN | Émirats arabes unis | Glasstech | `info@glasstech.ae` |
+| EN | Émirats arabes unis | Gulf Glass Industries (GGI) | `Mail@GulfGlass.com` |
+| EN | Émirats arabes unis | Oscar Glass Factory | `info@uaeoscarglass.com` |
+| EN | Émirats arabes unis | Safe Lite Glass Industries LLC | `info@slglass.ae` |
+| EN | Émirats arabes unis | Sharjah Glass Store LLC | `info@shjglass.com` |
+| EN | Émirats arabes unis | Technical Glass & Aluminium LLC | `alum.uae@tgac.net` |
+| EN | Émirats arabes unis | White Aluminium Enterprises LLC | `info@whitealuminium.ae` |
+| EN | Éthiopie | ASAL PLC | `info@asalplc.com` |
+| EN | Éthiopie | EuroAluSystem | `info@euroalusystem.com` |
+| ES | Espagne | Soluglass S.L. | `info@soluglassl.com` |
+| ES | République dominicaine | Amex Industrial | `info@amexindustrial.com` |
+| ES | Uruguay | Gabriel Bia Vidrios | `info@gabrielbia.com.uy` |
+| ES | Venezuela | CorpoInvetro | `contacto@corpoinvetro.com` |
+| FR | Burkina Faso | VMAEF — Vitrerie Menuiserie Aluminium Excellence du Faso | `contact@vmaef.net` |
+| FR | Nouvelle-Calédonie | ALL GLASS Miroiterie Vitrerie | `contact@allglass.nc` |
+| FR | Tunisie | Aziza Glass | `contact@aziza-glass.com` |
+| FR | Tunisie | SIALA | `commercial@siala.com.tn` |
+| PT | Portugal | Bizália — Sociedade Transformadora de Vidro | `geral@bizalia.pt` |
+| PT | Portugal | Nortempera — Indústria de Vidros Temperados do Norte | `geral@nortempera.pt` |
+| PT | Portugal | VCP — Vidraria Central do Porto | `geral@vcp.pt` |
+| PT | Portugal | Vetrometal | `info@vetrometal.com` |
+| PT | Portugal | Vidralgar — Indústria e Transformação de Vidro | `geral@vidralgar.pt` |
+| PT | Portugal | Vidrofornense | `geral@vidrofornense.pt` |
+
