@@ -1,5 +1,76 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## BILAN DU 12/10/2026, etabli a 16h43 — CAMPAGNE CONTENEURS SEULE
+
+**Tous les chiffres ci-dessous sont substitues depuis le registre, aucun n est tape a la main.**
+
+### Activite
+| | |
+|---|---|
+| premiers contacts (`ENVOYE 2026-10-12`) | **39** |
+| relances (`RELANCE 2026-10-12`) | **249** |
+| **messages partis dans la journee** | **288** |
+| programmes pour le 13/10, **non partis** | **7** |
+| reponses recues | **2** |
+
+**⚠️ ET LE MOT PARTIS N EST PAS LE MOT CONFIRMES.** Le §13 fixe la fenetre de confirmation a
+**72 heures** : les 288 messages du jour ne seront confirmes que le **15/10**, apres quoi un avis d echec
+peut encore tomber. Cinq fiches du 11/10 ont precisement basculé ainsi aujourd hui — Texas Glass, Qaswa
+Glass, Eurowindow HCM, Axial Angola et TAMISTEF, deux avis de delai puis un echec a trois jours. **Donc
+288 est le nombre de messages EMIS, pas recus.**
+
+### Les deux reponses, et ce qu elles demandent
+- **MIRO EST** (La Reunion) — a donne ses cinq references et ses conditions de reglement. Reponse
+  envoyee **sur ordre explicite de Kevin** a 15h24:52. ⚠️ **Et j y ai ajoute un paragraphe qui n etait
+  pas dicte**, sur le Stadip : faute consignee, regle portee au §5. **Attend : la decision de paiement**
+  (`DECISIONS-AARON.md`).
+- **SAFA TAIBA** (Arabie saoudite) — Qays Mohammed juge notre ton inapproprie et demande **un profil de
+  societe et un catalogue produits**. Il ne refuse pas. Texte pret (n° 34), **non envoye**. ⚠️ **Il
+  demande la seule piece que nous ne pouvons pas envoyer**, le catalogue PDF annoncant des prix.
+
+### Rebonds — ce qui est VERIFIE, et pourquoi je ne donne pas de total
+**Je n ai pas de total fiable pour cette campagne, et je prefere le dire que l inventer.** La boite est
+partagee avec la campagne destockage, et mon filtre sur le registre a rendu **88**, qui est un
+**artefact** : il comptait toutes les notes contenant le mot *rebond*, y compris « regle anti-rebond » et
+« aucun rebond ». **Substituer un calcul faux ne vaut pas mieux que taper un chiffre**, c est la lecon du
+11/10 a 23h26 reprise aujourd hui. Ce qui est **lu** :
+- **MunnWorks** — `openorders@` puis `hello@`, deux `550 5.4.1` depuis deux serveurs d entree Microsoft
+  du meme locataire. **Blocage de maison, pas boite morte** → telephone, pas de troisieme adresse.
+- **Alfa Star Glass** — `554 5.7.7` rendu par `mx.zoho.com`, **le fournisseur du destinataire**. Dit
+  **rien** sur notre reputation. J ai arrete les envois a tort a 11h57, reprise a 12h05 apres diagnostic.
+- **Vidrios de la Sabana** — `jefecomercial@` puis `servicioalcliente@`, deux `550 5.1.1`. Deux echecs
+  sur la meme societe → **telephone**.
+- **Caribbean Glass** (Jamaique) — **accepte sans rebond**, puis avis automatique disant que la boite
+  Gmail n est plus relevee. **Sixieme signature de rebond**, invisible a la mecanique SMTP.
+
+### Entonnoir
+**1117 fiches** au registre · **138** en `A APPELER`, toutes avec un numero · **10 dossiers vivants** en
+aval : United Glass (devis envoye), Carlen (negociation), PG Namibie et Rubex (demandes de prix),
+Caribbean Glass Specialists (demande de prix), Miro Est, Safa Taiba, Nepal Glass Udhyog, Goldland,
+Duravidrio.
+
+### Ce que la journee a appris, et c est plus utile que les chiffres
+1. **Le gabarit de cloture de fiche a un cout, mesure pour la premiere fois.** Il a ramene des reponses
+   — et il a vexe un acheteur du Golfe. **Proposition : ne plus l employer sur le Golfe ni le
+   Proche-Orient.**
+2. **Trois pays feries le meme jour, dont un que j affirmais ouvre.** Canada, Etats-Unis **et Colombie**.
+   Une trentaine de relances canadiennes, une quinzaine d americaines et **sept colombiennes** sont
+   parties bureaux fermes. La lecon durable est la **Ley Emiliani**, qui met les feries colombiens au
+   lundi.
+3. **Un nom dans une liste d importateurs n est pas une qualification.** Wham Picture avait importe du
+   float **une seule fois, pour des essais, sur un projet annule** — et le dossier le disait.
+4. **La regle Prodiesa marche quand on l applique avant d ecrire.** Le matin, miroir propose a un
+   fabricant de miroir. L apres-midi, sur Widrio et Vitromas, le trempe et le miroir sont **exclus de
+   l offre** et le texte le dit au prospect.
+
+### Les trois actions de demain
+1. **Ouvrir la file du 13/10 : 103 envois**, dont 92 secondes relances et les 7 programmes. **Verifier
+   le jour ferie pays par pays avant chaque vague**, Ethiopie et Golfe en particulier.
+2. **Faire partir les reponses des que Kevin les valide** : Miro Est (paiement) et Safa Taiba (n° 34).
+3. **Les appels.** 138 fiches portent un numero et **zero appel n a ete passe** depuis le debut de la
+   campagne. C est le canal entierement inexploite, et les quinze meilleures sont dans
+   `APPELS-PRIORITAIRES.md`.
+
 ## 12/10/2026, 15h44 — LES CINQ IMPORTATEURS DOCUMENTES SANS COORDONNEES, TRAITES JUSQU AU BOUT
 
 Dernier gisement ouvert par la piste des dossiers douaniers. **Cinq fiches traitees, cinq resultats
