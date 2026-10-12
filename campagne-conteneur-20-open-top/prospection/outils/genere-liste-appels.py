@@ -1,4 +1,13 @@
-import io
+import io, subprocess
+
+# Date de regeneration SUBSTITUEE et non ecrite en dur : le paragraphe 13 du mandat
+# interdit de taper une date, une heure ou un comptage a la main. La version
+# precedente portait 08/10/2026 en dur, si bien que chaque regeneration ulterieure
+# affichait une date fausse en tete d un fichier par ailleurs a jour.
+_JOUR = subprocess.run(
+    ['date', '+%d/%m/%Y'],
+    env={'TZ': 'Europe/Paris', 'PATH': '/usr/bin:/bin'},
+    capture_output=True, text=True).stdout.strip()
 # Octobre 2026 : Paris = UTC+2 (CEST jusqu'au 25/10). Fenetre locale visee 9h-17h.
 # Heure de Paris = (11 - offset) a (19 - offset)
 OFF = {
@@ -98,7 +107,7 @@ def tab(rs):
 
 out=f"""# Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **{len(rows)} societes** portent un telephone et
+Regeneree le **{_JOUR}** depuis le registre. **{len(rows)} societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur

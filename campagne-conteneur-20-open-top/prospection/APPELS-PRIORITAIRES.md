@@ -1,3 +1,64 @@
+# ⏱ 12/10/2026, 13h15 — LES 15 APPELS REFAITS, ET LE CLASSEMENT A CHANGE
+
+**Bloc mis en tete apres la journee du 12/10.** `LISTE-APPELS.md` est regeneree : **146 societes**
+portent un telephone et aucune adresse e-mail exploitable, et `A APPELER` compte **130 fiches, toutes
+avec un numero**. L'e-mail ne peut pas atteindre ces maisons — seul le telephone les ouvre.
+
+**⚠️ CE CHIFFRE A ETE FAUX PENDANT TROIS MINUTES, ET LA CAUSE MERITE D ETRE DITE PARCE QU ELLE EST
+PLUS SUBTILE QUE CELLE DU §13.** J avais ecrit **147**, en le SUBSTITUANT depuis une commande comme le
+mandat l exige — mais la commande comptait les lignes commencant par une barre verticale, et elle
+attrapait donc aussi **la ligne de separation du tableau**. Le vrai chiffre, celui que
+`genere-liste-appels.py` imprime lui-meme, est **146**.
+**LA LECON COMPLETE LE §13 : substituer un chiffre ne suffit pas, il faut que la commande compte la
+BONNE CHOSE.** Un comptage faux substitue est exactement aussi faux qu un comptage tape a la main, et
+il est plus dangereux parce qu il a l air verifie. Quand un outil imprime deja le chiffre, c est SON
+chiffre qu il faut reprendre, pas un second comptage improvise a cote. Meme famille que l erreur de
+libelle sur la Guyane le meme jour : j ai cru mesurer, j ai en fait mesure autre chose.
+
+## CE QUI A CHANGE AUJOURD'HUI DANS CE FICHIER
+
+· **Six fiches camerounaises en sont SORTIES.** Elles promettaient un appel qui ne lèverait rien :
+  leur ambiguïté — un message peut-être déjà parti de l'ancienne boîte `harfiaaron0` — ne se tranche
+  ni par un appel ni par moi, seulement par Aaron. Passées en `A VALIDER AARON`.
+· **Cinq fiches en sont sorties aussi** parce que leurs marchés sont déclassés par le §6 : deux
+  indiennes, deux malgaches, une malawienne.
+· **Quatre y sont entrées**, et c'est le gain net de la journée : **Glastec** (Casablanca) et
+  **Accra Glass Company** (Ghana), déverrouillées au téléphone alors qu'elles n'avaient **aucune**
+  coordonnée, plus **Alu Espace +** et **Solutions FAR** à Ducos.
+· **Une date fausse corrigée dans l'outil lui-même.** `genere-liste-appels.py` écrivait
+  « Regeneree le 08/10/2026 » **en dur**, si bien que chaque régénération affichait une date fausse en
+  tête d'un fichier à jour. La date est désormais substituée depuis `date`, comme le §13 l'impose pour
+  tout chiffre et toute heure.
+
+## LES 15, DANS L'ORDRE, AVEC UN SEUL OBJECTIF CHACUN
+
+| # | Qui | Téléphone | Fenêtre (Paris) | L'objectif de l'appel, et rien d'autre |
+|---|---|---|---|---|
+| 1 | **Amazon Temper** (Brésil) | `+55 85 3260-3076` | 14h-22h | **La plus grosse consommatrice de float du registre, et elle est injoignable par e-mail.** Huit parcs de trempe. Objectif : qui achète le float, et sur quelles épaisseurs. ⚠️ Signal à vérifier dans l'appel : un relevé associe son site d'Aquiraz à **Vivix**. Si l'approvisionnement est établi, l'angle devient la **seconde source**. |
+| 2 | **North Africa for Importing Glass** (Libye) | `+218 91 209 1023` | 09h-17h · **dim-jeu** | **Importe déjà du float de Chine, de Belgique ET DE FRANCE** — donc rien à lui expliquer, il compare un prix rendu. ⚠️ Doute d'identité relevé le 08/10 : à lever au téléphone avant toute offre. Second numéro `+218 91 322 1953`. |
+| 3 | **Nassau Glass Company** (Bahamas) | `+1 242 603 5521` | 15h-23h | Le plus gros du pays depuis 1959, avec sa sœur Bahamas Aluminum. Île sans production, tout importé. Objectif : référence et épaisseur dominantes, port Nassau. |
+| 4 | **Alu Espace +** (Martinique) | `0596 54 14 36` | 15h-23h | **Nouvelle, et sur le marché de notre seul client export.** Fait tout à l'atelier et **monte du Schüco** : ils travaillent déjà à la spécification d'un fournisseur européen, donc rien à leur apprendre sur l'origine. Objectif : conteneur ou achat local à la feuille. |
+| 5 | **Glastec** (Casablanca) | `+212 5 22 34 26 16` | 10h-18h | **Déverrouillée aujourd'hui, elle n'avait aucune coordonnée.** Trempé, feuilleté, double vitrage, façonnage : consommatrice de float par construction. Objectif : une adresse e-mail, puis les épaisseurs. |
+| 6 | **MunnWorks** (États-Unis) | `+1 914 665 6100` | 15h-23h | **Le meilleur assortiment produit de la campagne** — miroirs lumineux pour l'hôtellerie — et **deux boîtes refusées en `5.4.1` par le même locataire**, donc le téléphone est le seul canal restant. L'argument se sert par le défaut évité : le piquage qui part du chant quand l'humidité atteint la couche de cuivre. |
+| 7 | **Bars Facade** (Géorgie) | `+995 577 41 51 36` | 07h-15h | Importateur historique entre la Géorgie et la Turquie depuis 1998, deux sites. Transit Poti. |
+| 8 | **Flat Glass Distributors** (États-Unis) | `+1 904 354 5413` | 15h-23h | Trois points de stock, Jacksonville, Houston, La Nouvelle-Orléans. ⚠️ **Et l'argument américain est le plus fort de la campagne depuis le 06/04/2026** : Chine 181,52 pour cent d'antidumping, Malaisie 17,3 à 102 pour cent de compensateur, **Europe non visée**. On ne dit pas que notre verre est bon marché, on dit que les deux origines les moins chères portent désormais des droits. |
+| 9 | **Glass Enterprises** (États-Unis) | `+1 215 638 1007` | 15h-23h | Usine neuve de 180 000 pieds carrés, fabricant certifié float. Même argument douanier. |
+| 10 | **Alma Glass** (Arabie saoudite) | `+966 11 498 3275` | 08h-16h · **dim-jeu** | Première usine de trempe de Dammam. ⚠️ **Ne JAMAIS employer l'argument du float absent** : le royaume compte au moins quatre producteurs — Obeikan, Zoujaj, Guardian, UFG. C'est le marché le mieux pourvu de la zone. |
+| 11 | **Accra Glass Company** (Ghana) | `+233 302 713 836` | 11h-19h | **Déverrouillée aujourd'hui, aucune coordonnée avant.** ⚠️ **Premier objectif : établir si elle PRODUIT ou si elle transforme.** L'annuaire lui prête du float ; si c'est vrai, c'est un concurrent et non une cible. |
+| 12 | **Technoglass** (Algérie) | `+213 555 62 47 74` | 10h-18h · **dim-jeu** | Importateur déclaré depuis 1987, import-distribution-transformation. ⚠️ Cevital produit en Algérie : pas d'argument d'absence d'offre locale. |
+| 13 | **Punamactex** (Ghana) | `+233 21 689800` | 11h-19h | Négociant depuis 1995 annonçant float clair **et** teinté, donc importateur par construction. Port de Tema. |
+| 14 | **Action Enterprises** (Haïti) | `+509 36 19 5572` | 15h-23h | Meilleure fiche haïtienne : fabricant-installateur avec entrepôt à Croix-des-Bouquets. Île sans float. |
+| 15 | **Solutions FAR** (Martinique) | `0596 77 11 11` | 15h-23h | ⚠️ **La plus faible des quinze, et il faut le dire :** garde-corps aluminium **sans gamme vitrée confirmée**, et un garde-corps peut être à barreaux. L'appel est une **qualification** — posent-ils du verre ? — pas une approche. WhatsApp `0696 09 30 33`, qui est leur seul canal écrit. |
+
+## ⚠️ ET LE POINT QUI VAUT PLUS QUE LA LISTE
+
+**130 fiches attendent un appel et il n'en est parti aucun depuis le début de la campagne.** Les plus
+grosses cibles identifiées — Amazon Temper et ses huit parcs de trempe, MunnWorks, Nassau Glass — sont
+**précisément** celles qu'aucun e-mail n'atteint. C'est porté dans `DECISIONS-AARON.md` : il faut un
+créneau et quelqu'un qui appelle. Le registre ne peut pas le faire à sa place.
+
+---
+
 # ⏱ LUNDI 12/10, 11h36 — CINQ CIBLES TELEPHONIQUES NEUVES, ET LA PREMIERE EST LA PLUS GROSSE DE LA CAMPAGNE
 
 *Bloc mis en tete apres une matinee ou le gisement d adresses e-mail du registre est tombe a ZERO

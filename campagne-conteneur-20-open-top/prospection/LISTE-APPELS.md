@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **08/10/2026** depuis le registre. **141 societes** portent un telephone et
+Regeneree le **12/10/2026** depuis le registre. **146 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 141 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 146 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 130 societes
+## Hors Europe — 135 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Libye | **North Africa for Importing Glass** | `+218 91 209 1023` | 09h00 - 17h00 · **dim-jeu** | A APPELER | CIBLE PRIORITAIRE : importe deja du float de Chine, de Belgique ET DE FRANCE. Aucune adresse email publiee : appeler ou WhatsApp. Second numero +218 91 322 1953. Port Tripoli ou Misrata. DOUTE SERIEUX SUR L IDENTITE, releve le ... |
 | Bahamas | **Nassau Glass Company / Bahamas Aluminum Manufacturing** | `+1 242 603 5521` | 15h00 - 23h00 | A APPELER | Le plus gros du pays avec sa societe soeur Bahamas Aluminum. Aucune adresse email publiee : a rappeler. Port Nassau. Fondee en 1959, premiere et plus grosse maison de verre des Bahamas. 46 Mackey Street Nassau. Second numero 24... |
 | Brésil | **Glass Camp** | `+55 19 3216-4182` | 14h00 - 22h00 | A APPELER | Port Santos. Envoi en portugais. Rebond le 05/10 : BOITE PLEINE, pas une mauvaise adresse. A retenter dans quelques jours. VERIFIEE LE 08/10 PAR LA METHODE DU PARAGRAPHE 13 : vendas arobase glasscamp.com.br est bien l adresse p... |
+| Ghana | **GlassTech Fabrications** | `+233 59 845 5012` | 11h00 - 19h00 | A QUALIFIER | FICHE CREEE LE 12/10/2026 A 13h08 ET NON ENVOYEE, LE MOTIF ETANT LE PERIMETRE DU PARAGRAPHE 4. GLASSTECH FABRICATIONS, Lakeside community 6, Accra. Trouvee en cherchant Daoris Glass, dont la base s est averee fausse — le premie... |
 | Maroc | **Ouchtar Commerciale** | `+212 522 77 71 00` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source Kompass, qui decrit l activite en propres termes. Aucune adresse ni telephone releves... |
 | États-Unis | **Flat Glass Distributors Inc.** | `+1 904 354 5413` | 15h00 - 23h00 | A APPELER | Implantations a Jacksonville, Houston et La Nouvelle-Orleans, donc trois points de stock sur le golfe et l Atlantique. Aucune adresse publiee dans les resultats : a appeler. FUSION DU 08/10 : une seconde fiche existait pour la ... |
 | États-Unis | **Luminous Glass Solutions LLC** | `+1 305 621-1670` | 15h00 - 23h00 | A APPELER | Couvre Atlanta, Denver, Phoenix et Seattle. Aucune adresse publiee. — TESTEE LE 11/10 : AUCUNE ADRESSE UTILISABLE, MAIS LA FICHE MONTE EN PRIORITE D APPEL. Grep luminous fait avant : une seule fiche. LEUR PROPRE DOMAINE luminou... |
@@ -79,6 +80,8 @@ ne pas les appeler en se presentant comme un premier contact.
 | Arabie saoudite | **Manna Glass Group (Mohammed Mannaa Glass Corporation)** | `+966 11 291 1943` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Four de trempe identifié : acheteur de float régulier. Tel releve sur annuaire arabe. A VERIFIER AU TELEPHONE, releve le 08/10 : cette fiche partage le numero +966 11 265 0065 avec la fiche Almanco Factory. Soit la meme societe... |
 | Guatemala | **Vidral** | `+502 6637 3812` | 17h00 - 01h00 | A APPELER | FICHE CREEE LE 08/10. Grep fait AVANT creation, conformement au paragraphe 5 : aucune fiche Vidral au registre hors Vidral Panama et Vidralgar au Portugal, et aucune des six fiches guatemalteques ne correspond. Societe trouvee ... |
 | Haïti | **Action Enterprises Windows & Blinds** | `+509 36 19 5572` | 15h00 - 23h00 | A APPELER | MEILLEURE FICHE HAITIENNE : fabricant-installateur avec un entrepot de fabrication a Santo Croix-des-Bouquets, donc consommateur de vitrage. Ile sans ligne float, port de Port-au-Prince. ADRESSE sales ECARTEE : relevee dans un ... |
+| Martinique | **Alu Espace +** | `0596 54 14 36` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 12h58 SUR LE DEUXIEME MARCHE PRIORITAIRE DE KEVIN, LA MARTINIQUE, QUI NE COMPTAIT QUE TROIS FICHES ALORS QU ELLE ABRITE NOTRE SEUL CLIENT EXPORT. Grep fait avant creation sur le mot le plus court et ... |
+| Martinique | **Solutions FAR (Fourniture Aluminium et Renovation)** | `0596 77 11 11` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 12h58 SUR LE DEUXIEME MARCHE PRIORITAIRE DE KEVIN, LA MARTINIQUE, QUI NE COMPTAIT QUE TROIS FICHES ALORS QU ELLE ABRITE NOTRE SEUL CLIENT EXPORT. Grep fait avant creation sur le mot le plus court et ... |
 | États-Unis | **MunnWorks LLC** | `+1 914 665 6100` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 22h02 PAR UNE PISTE QUI N EST PAS UNE RECHERCHE DE CATEGORIE, ET C EST SA FORCE : la LISTE DES IMPORTATEURS AMERICAINS DE FLOAT deposee le 21/11/2024 au dossier C-570-189, l affaire de droits compens... |
 | Brésil | **Disk Vidros** | `+55 46 3524-1517` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
 | Honduras | **Aluminios del Sur** | `+504 8847 8257 WhatsApp et +504 3300 3979 et +504 2236 2071` | 17h00 - 01h00 | A APPELER | Trois decennies de metier, couvre Tegucigalpa, San Pedro Sula et Olancho. Adresse email masquee en ligne : appeler. Port Puerto Cortes. Adresse retrouvee le 07/10. Envoi depuis la nouvelle boite noxem-group. REBOND 07/10 : 550 ... |
@@ -103,8 +106,10 @@ ne pas les appeler en se presentant comme un premier contact.
 | Brésil | **Alusupra Alumínio** | `+55 48 3242-3473` | 14h00 - 22h00 | A QUALIFIER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
 | Cambodge | **Pang Luon (Pranet) Import-Export & Construction Co. Ltd** | `023 212 578 et 012 814 567 et 012 558 111 siege, 023 726 343 et 012 349 888 succursale` | 04h00 - 12h00 | A APPELER | Fondee en 1992. Importateur declare de float. 408ABC Preah Monivong Blvd. Angle retenu : la meme chose en un maillon de moins, direct depuis un distributeur europeen. Ports Sihanoukville ou Phnom Penh. Mini-mail sur mesure EN C... |
 | Ghana | **Perfect Glass Ghana** | `+233 204 336 854` | 11h00 - 19h00 | A APPELER | Façades en interne et transformation de verre trempé, feuilleté et double vitrage. Port Tema, envoi en anglais. Relance courte le 06/10, lot 4. Rebond 06/10 : serveur distant mal configure. Appeler. RETESTEE LE 08/10 A 16h40 : ... |
+| Ghana | **Accra Glass Company Ltd** | `+233 302 713 836` | 11h00 - 19h00 | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. Source annuaire ghaneen, qui annonce la fabrication et la fourniture de produits verriers dont du TREMPE, du FEUILLETE et du... |
 | Guyane | **ALUBAT Guyane SAS (groupe C.P.G.)** | `05 94 37 79 45` | a verifier | A APPELER | Fiche creee le 09/10/2026 13h07 CEST en meme temps que l ouverture de la Guyane. ALUBAT GUYANE SAS, 710 avenue Justin Cataye, 97300 Cayenne. Fabricant-installateur de menuiseries aluminium, MEMBRE DU GROUPE C.P.G. — information... |
 | Maroc | **Med Glass Industry** | `+212 537 749800` | 10h00 - 18h00 | A APPELER | Usine annonçant 50 collaborateurs et 20 machines, cibler float et vitrage à couches. Port Casablanca, envoi en francais. Domaine medglassindustry.ma introuvable — adresse fournie par ChatGPT, non verifiee. Tel +212 537 749800. ... |
+| Maroc | **Glastec** | `+212 5 22 34 26 16` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source Kompass, qui decrit l activite en propres termes. Aucune adresse ni telephone releves... |
 | Maroc | **Alumgo** | `+212 679 11 77 11` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Site propre alumgo.ma, telephone publie. Fabrication, decoupe et pose de verre trempe et de ... |
 | Mexique | **Vidrio Plano de Cancún** | `+52 55 5679 3575` | 17h00 - 01h00 | A APPELER | MARCHE DE LA RIVIERA MAYA : construction hoteliere continue, et le verre mexicain vient de Monterrey a plus de deux mille kilometres. Aucune adresse publiee : a appeler. Ports Progreso ou Veracruz. METHODE EN DEUX TEMPS APPLIQU... |
 | Mexique | **Vidrios y Cristales Guadalajara** | `+52 33 2212 1941` | 17h00 - 01h00 | A APPELER | 50 ANS, usines au Jalisco, distribution nationale. Port Manzanillo ou Veracruz. Envoi en espagnol. REBOND 24/09 (boite pleine) : renvoye le 25/09. Relance courte le 06/10, lots 7 et 8. Rebond 06/10 : BOITE PLEINE, adresse valid... |
