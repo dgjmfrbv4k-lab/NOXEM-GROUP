@@ -5130,3 +5130,34 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
 ```
 Deux envois d'ecart ne changent rien a un dossier, mais une note de suivi sert de preuve et un
 chiffre invente y est un faux — paragraphe 16.
+
+### 09h53 — 26 envois le matin, et un garde-fou repare qui attrape un argument faux
+
+**Expediteur verifie dans `in:sent` avant le premier envoi : `aaron.harfi@noxem-group.com`.** La
+porte du paragraphe 10 est donc ouverte.
+
+**DECOUVERTE QUI CHANGE TOUS LES ENVOIS : GMAIL N AJOUTE AUCUNE SIGNATURE PAR L API.** Verifie sur
+deux messages reels lus en texte brut. Le message du 11/10 a First Glass se termine sur « I will not
+write again » et **rien apres** : ni nom, ni societe, ni telephone, ni adresse. Les quelque 616
+messages de la campagne sont donc partis sans aucune coordonnee de rappel. La consigne de Kevin du
+12/10 corrige un vrai defaut, et la premisse du paragraphe 10 est corrigee au mandat.
+
+**26 ENVOIS, en six vagues de 5 espacees** : 5 premiers contacts a Singapour, 4 au Maroc et aux
+Maldives, puis 13 premieres relances au Golfe, en Irak, en Jordanie, au Bahrein, en Afrique de
+l Ouest francophone et a La Reunion. **Un rebond dur, Meng Heng, serveur mal configure, cinq
+secondes apres l envoi : deduit du compte.** Les 7 fiches d Afrique de l Est dues ce jour sont
+volontairement ecartees, le paragraphe 6 demandant de ne pas y investir d effort de relance.
+
+**LE GARDE-FOU DU FLOAT EST REPARE, ET IL A ATTRAPE UN VRAI CAS.** Il ecartait toute fiche dont le
+PAYS n abrite pas de producteur, donc une affirmation portant sur une REGION passait toujours.
+**ITA SEN ALU** portait « Aucun four float en Afrique de l Ouest : argument pose en premiere ligne »
+— faux depuis le 11/10, CNG Glass produisant 500 t/jour au Nigeria depuis 2019. La relance evite le
+sujet, comme pour Forpec.
+
+**ET MA PREMIERE VERSION DU CORRECTIF ETAIT MAUVAISE : huit signalements, zero vrai.** Les huit
+decrivaient une societe, consignaient l interdiction, ou relataient une recherche. **Le paragraphe 6
+avait donc raison de dire que le Nigeria tournait propre, et c est moi qui avais tort.** Le filtre
+retenu travaille phrase par phrase, et le signal le plus sur est l aveu que l argument a ete SERVI.
+
+**Note Dijoux corrigee** : elle portait « aucune douane », l erreur SAMIR. L octroi de mer externe
+s applique au verre europeen a La Reunion.

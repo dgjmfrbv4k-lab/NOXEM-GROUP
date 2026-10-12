@@ -50,8 +50,34 @@ PRODUCTEURS = {
 
 MOTIFS = re.compile(
     r"sans (usine|ligne|production) float|aucune float|pas de (ligne|usine) float"
-    r"|100 pour cent (du verre )?(est )?importe|n a pas de float|sans float",
+    r"|100 pour cent (du verre )?(est )?importe|n a pas de float|sans float"
+    # Ajoute le 12/10 : le vocabulaire manquait le mot FOUR, et c est ce qui a laisse
+    # passer ITA SEN ALU, dont la note porte « Aucun four float en Afrique de l Ouest ».
+    # ⚠️ MESURE FAITE AVANT DE RETENIR CE MOTIF : la forme large « aucune ligne float »
+    # produit HUIT faux positifs sur le registre et AUCUN vrai, parce que c est ainsi que
+    # les fiches decrivent soit une SOCIETE qui ne produit pas, soit l INTERDICTION elle-meme.
+    # Seul « four » est retenu, et le filtre de contexte ci-dessous fait le reste.
+    r"|aucun four float",
     re.I)
+
+# AJOUT DU 12/10 — LES AFFIRMATIONS REGIONALES, QUE LA GRILLE DU PAYS NE POUVAIT PAS VOIR.
+# Le filtre principal ecarte une fiche dont le PAYS n abrite pas de producteur. Une note
+# qui affirme l absence de float dans une REGION ENTIERE echappait donc au controle des
+# qu elle etait portee par une fiche d un pays sans producteur — cas reel : ITA SEN ALU,
+# au Senegal, portant « aucun four float en Afrique de l Ouest » alors que CNG Glass
+# produit 500 t/jour a Igbesa au Nigeria depuis 2019.
+# Une region se verifie donc independamment du pays de la fiche.
+REGIONS = {
+    r"afrique de l[' ]ouest": 'CNG Glass produit 500 t/jour a Igbesa au Nigeria depuis 2019',
+    r"afrique de l[' ]est|afrique orientale": 'Sapphire Float Glass produit a Mkuranga en Tanzanie',
+    r"afrique australe": 'PFG Building Glass, 260 000 t/an en Afrique du Sud',
+    r"afrique du nord|maghreb": 'Cevital en Algerie, Sphinx Glass et Misr Glass en Egypte',
+    r"moyen-orient|golfe persique|pays du golfe": 'Obeikan, Zoujaj, Guardian et UFG en Arabie saoudite, EFG aux Emirats',
+    r"asie du sud-est": 'Asahimas en Indonesie, Phu My et CFG Ha Long au Vietnam, Kibing et Xinyi en Malaisie',
+    r"amerique du sud|amerique latine": 'Vidrios Lirquen au Chili, VASA en Argentine, Vivix et Cebrace au Bresil',
+    r"amerique centrale": 'Vitro au Mexique dessert la zone',
+}
+REGIONS = {re.compile(k, re.I): v for k, v in REGIONS.items()}
 
 CORRIGEE = re.compile(r"CORRECTION FACTUELLE|C EST FAUX|ANGLE A REFAIRE", re.I)
 
@@ -65,6 +91,43 @@ CORRIGEE = re.compile(r"CORRECTION FACTUELLE|C EST FAUX|ANGLE A REFAIRE", re.I)
 # contiendrait a la fois cette phrase ET une vraie affirmation fausse sorte quand meme.
 BENIGNE = re.compile(r"marche?s? sans (production )?float", re.I)
 
+# AJOUT DU 12/10 — LE FILTRE DE CONTEXTE, ET C EST LUI QUI FAIT LE TRAVAIL.
+# Mesure : sur le registre, une phrase contenant un motif d absence de float dit presque
+# toujours l une de ces trois choses, et aucune n est une faute :
+#   1. une SOCIETE ne produit pas de float (« il n a aucune ligne float, donc tout son
+#      verre entrant est importe ») — c est une qualification juste et utile ;
+#   2. l INTERDICTION est consignee (« NE JAMAIS EMPLOYER L ARGUMENT DE L ABSENCE DE
+#      PRODUCTION LOCALE », « le paragraphe 6 interdit d ecrire que ») — c est la fiche
+#      qui fait exactement ce qu il faut ;
+#   3. une RECHERCHE est relatee (« la recherche n a fait remonter aucune ligne float »)
+#      — c est un constat de methode, pas un argument servi au prospect.
+# Une phrase portant un de ces marqueurs est donc neutralisee, comme la phrase meta du
+# correctif du 09/10 : on NEUTRALISE LA PHRASE et non la fiche, pour qu une note contenant
+# a la fois une phrase benigne ET une vraie faute ressorte quand meme.
+PORTEE_SOCIETE = re.compile(
+    r"\b(il|elle) n a aucune|n est pas un concurrent|annoncee sur leur site"
+    r"|son verre entrant|leur verre entrant", re.I)
+INTERDICTION = re.compile(
+    r"ne jamais|ne plus|interdit|sans valeur|avertissement|ne doit pas|il est vrai a", re.I)
+RECHERCHE = re.compile(
+    r"la recherche n a (fait remonter|pas trouve)|aucune ligne float trouvee|non etablie", re.I)
+# ET LE SIGNAL POSITIF, qui est le plus sur des quatre : la note DIT que l argument a ete
+# employe dans le message. C est ce qui distingue ITA SEN ALU des huit faux positifs.
+EMPLOI = re.compile(
+    r"argument (pose|employe|servi|mis en premiere ligne)|pose en premiere ligne"
+    r"|en premiere ligne|argument principal", re.I)
+
+def phrases_fautives(note):
+    """Rend les phrases qui affirment vraiment l absence de float sans la neutraliser."""
+    gardees = []
+    for ph in re.split(r"(?<=[.!?])\s+|\s—\s", note):
+        if not MOTIFS.search(ph):
+            continue
+        if PORTEE_SOCIETE.search(ph) or INTERDICTION.search(ph) or RECHERCHE.search(ph):
+            continue
+        gardees.append(ph)
+    return gardees
+
 CSV = sys.argv[1] if len(sys.argv) > 1 else 'liste-prospects.csv'
 suspects = []
 corrigees = []
@@ -75,14 +138,28 @@ for n, l in enumerate(io.open(CSV, encoding='utf-8').read().split('\n')[1:], sta
     if len(c) < 10 or 'DOUBLON' in c[8].upper():
         continue
     note = BENIGNE.sub(' ', c[8])
-    if not MOTIFS.search(note) or c[0] not in PRODUCTEURS:
+    fautives = phrases_fautives(note)
+    if not fautives:
         continue
+    note = ' '.join(fautives)
+    # Deux chemins vers le signalement, et le second est l ajout du 12/10 :
+    #   - le PAYS de la fiche abrite ou est desservi par un producteur ;
+    #   - ou la note nomme une REGION qui en abrite un, quel que soit le pays.
+    motif_pays = PRODUCTEURS.get(c[0])
+    motif_region = None
+    for rx, prod in REGIONS.items():
+        if rx.search(note):
+            motif_region = prod
+            break
+    if not motif_pays and not motif_region:
+        continue
+    cause = motif_pays or ('affirmation REGIONALE : ' + motif_region)
     # Une fiche deja corrigee CITE l affirmation fausse dans sa note de correction :
     # sans cette exception l outil la signalerait indefiniment et crierait au loup.
     if CORRIGEE.search(c[8]):
         corrigees.append((n, c[0], c[3]))
         continue
-    suspects.append((n, c[0], c[3], c[9], PRODUCTEURS[c[0]]))
+    suspects.append((n, c[0], c[3], c[9], cause))
 
 print('=== Fiches affirmant l absence de float dans un pays qui en produit ===')
 for n, pays, soc, st, prod in sorted(suspects):

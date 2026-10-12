@@ -710,6 +710,37 @@ exception `CORRIGEE`, pour la même raison. **Et le correctif NEUTRALISE la phra
 la fiche**, afin qu'une note contenant à la fois la phrase bénigne *et* une vraie affirmation fausse
 ressorte quand même — vérifié dans les deux sens sur un jeu d'essai avant d'être retenu.
 
+**DEUXIÈME CORRECTIF SUR CE GARDE-FOU, LE 12/10, ET IL AJOUTE CE QUI LUI MANQUAIT VRAIMENT : LES
+AFFIRMATIONS RÉGIONALES.** Le filtre écartait une fiche dont le **pays** n'abrite pas de producteur.
+Une note affirmant l'absence de float dans une **région entière** échappait donc au contrôle dès
+qu'elle était portée par une fiche d'un pays sans producteur. **Cas réel : ITA SEN ALU**, au Sénégal,
+dont la note portait « Aucun four float en Afrique de l'Ouest : **argument posé en première ligne** »
+— alors que CNG Glass produit 500 t/jour à Igbesa depuis 2019. Le message du 06/10 est donc parti
+avec un argument faux, comme Forpec au Chili. La relance du 12/10 **évite** le sujet sans le corriger.
+Un dictionnaire `REGIONS` couvre désormais les huit régions où un producteur est établi, et il se
+vérifie **indépendamment du pays de la fiche**.
+**ET VOICI LA LEÇON DE MÉTHODE, parce que ma première version du correctif était mauvaise et que je
+l'ai mesurée avant de la garder.** J'avais élargi le vocabulaire des motifs à « aucune ligne float ».
+Résultat sur le registre : **huit signalements, dont zéro vrai.** En lisant le fragment déclencheur de
+chacun — ce qu'il faut faire avant de conclure — les huit disent l'une de trois choses, et aucune
+n'est une faute :
+1. **une SOCIÉTÉ ne produit pas de float** (Riou Ocean Glass, « il n'a aucune ligne float, donc tout
+   son verre entrant est importé ») — c'est une qualification juste et utile ;
+2. **l'INTERDICTION est consignée** (les trois singapouriennes, « NE JAMAIS EMPLOYER L'ARGUMENT DE
+   L'ABSENCE DE PRODUCTION LOCALE… il est SANS VALEUR puisque la région en est pleine ») — la fiche
+   fait exactement ce qu'il faut ;
+3. **une RECHERCHE est relatée** (les onze nigérianes, « la recherche n'a fait remonter aucune ligne
+   float au Nigeria, **mais le paragraphe 6 interdit** ») — c'est un constat de méthode.
+**Donc le §6 avait RAISON d'écrire que le garde-fou tournait propre sur le Nigéria, et c'est moi qui
+avais tort en le mettant en doute.** Aucune fiche nigériane n'emploie l'argument.
+**Le filtre retenu travaille PHRASE PAR PHRASE** et neutralise celle qui porte un marqueur de portée
+société, d'interdiction ou de recherche — on neutralise la phrase, jamais la fiche, pour qu'une note
+contenant à la fois une phrase bénigne *et* une vraie faute ressorte quand même.
+**Et le signal le plus sûr des quatre n'est pas la formulation de l'affirmation, c'est l'aveu qu'elle
+a été SERVIE** : « argument posé », « en première ligne », « argument principal ». C'est cela, et rien
+d'autre, qui séparait ITA SEN ALU des huit. **Un garde-fou se juge sur son taux de faux positifs
+autant que sur ses prises** : huit cris pour zéro loup auraient fait ignorer le neuvième.
+
 **Producteurs float = concurrents, pas prospects :** Obeikan, Guardian, Mediterranean Float
 Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,
 Vidrios Lirquén, **VASA** (précisé le 11/10 : *Vidriería Argentina S.A.*, née en **1938** de l'association de **NSG-Pilkington** et de **Saint-Gobain**, usines de **Llavallol** et de **Los Cardales** en province de Buenos Aires, Cardales annoncée à ~**900 t/jour** — et surtout elle **opère dans QUATRE pays : Argentine, Bolivie, Paraguay et Uruguay**, ~500 salariés. Donc *VASA Vidriería Boliviana* à Santa Cruz appartient au groupe et a été fermée ce jour-là, elle était restée en `A QUALIFIER`. `verif-argument-float.py` portait déjà les quatre pays, une session précédente ayant appliqué la règle du périmètre de la source), Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long,
