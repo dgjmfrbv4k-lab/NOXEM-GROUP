@@ -3,6 +3,40 @@
 *Bloc mis en tete a 11h31, apres une matinee de 150 messages. Il remplace la hierarchie du bloc
 de 10h23, qui suit juste en dessous et reste valable sur le fond.*
 
+## ⚠️ 12/10/2026, 14h29 — LA QUESTION DU GRAND FORMAT PLF A MAINTENANT UN DEUXIEME CAS, ET IL EST VIVANT
+
+**Le §4 porte cette question depuis le 08/10 en disant lui-meme qu elle ne repose que sur UN SEUL
+FAIT** — Rakosy Uveg, qui achete en jumbo 6000 x 3210 et ne peut pas travailler economiquement
+autrement. **Il y en a un second depuis aujourd hui, et il est sur un dossier que je viens
+d ouvrir.**
+
+**TECESA (Templados del Centro, Irapuato, Mexique) annonce sur son propre site des formats jusqu a
+3,15 x 6,00 m.** C est le PLF au sens strict. Et ce n est pas un detail de catalogue : c est un
+transformateur de vingt ans qui fait du trempe, du feuillete, de l isolant et du Low-E, et qui
+figure parmi les cinq societes ayant repondu au formulaire d importateur de l enquete antidumping
+mexicaine sur le float clair. **Autrement dit : une maison qui importe du float, en volume, et qui
+travaille en 6 metres.**
+
+### CE QUE J AI FAIT, ET CE QUE JE N AI PAS FAIT
+
+**Je n ai annonce aucun format.** Le message pose la question a la place : quelle cote achetent-ils
+reellement comme verre de base, et en quelles epaisseurs. C est la conduite exacte du §4 — ne jamais
+annoncer un grand format PLF tant qu Aaron ne l a pas dit.
+
+### CE QU IL FAUT D AARON, ET C EST LA MEME QUESTION QU AU §4 SECTION 4 TER
+
+**Pouvons-nous fournir du 6000 x 3210, oui ou non ?** Et s il y a une cote maximale, laquelle ?
+**La reponse decide de deux dossiers au moins**, et elle les decide completement :
+· **Rakosy Uveg** — qui a dit ne pas pouvoir travailler autrement ;
+· **TECESA** — si leur cote de base est bien 6000, ce dossier depend entierement de cette reponse,
+  et s ils repondent avec cette cote je ne pourrai rien leur dire sans elle.
+**Et il y a une seconde contrainte, distincte, que le §4 nomme aussi : la cote maximale de
+l AUTOCLAVE de feuilletage.** Elle ne concerne que le feuillete — donc la ligne feuilletee de
+TECESA, et les trois Stadip de Miro Est. **Deux dossiers vivants la touchent maintenant.**
+
+**Tant que ces deux cotes ne sont pas connues, je demande la cote au client au lieu de promettre, ce
+qui marche pour un premier contact mais ne tiendra pas sur une reponse.**
+
 ## ⚠️ 12/10/2026, 13h35 — UNE INTERVENTION PRECISE ET BORNEE : L ACCES AUX DOSSIERS DOUANIERS
 
 **Kevin demande de ne le solliciter que pour une intervention indispensable, precisement identifiee.

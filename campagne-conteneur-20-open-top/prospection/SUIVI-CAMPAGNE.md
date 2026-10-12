@@ -2,6 +2,44 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## 12/10/2026, 14h29 — DEUX IMPORTATEURS DOCUMENTES DEVERROUILLES ET ENVOYES
+
+Le declencheur ne laissant aucun envoi a faire, j ai repris la file reelle : les sept importateurs
+que les dossiers douaniers documentent et qui n avaient aucune coordonnee. **Deux sont deverrouilles
+et partis**, ce qui porte les premiers contacts du jour a **40**.
+
+· **TECESA — Templados del Centro (Irapuato, Mexique).** Introuvable jusqu ici pour une raison nette :
+  **elle se depose sous Templados del Centro et se publie sous son nom commercial TECESA**, avec le
+  domaine `tecesa.com.mx`. C est le motif du §5 — nom court publie, nom long depose — pris par le bout
+  du nom commercial. Vingt ans en vidrio arquitectonico, trempe, feuillete, isolant, **Low-E** et
+  serigraphie.
+· **Vidrios de la Sabana SAS (Bogota).** Son propre site dit l essentiel : depuis 2002, une des
+  maisons les plus importantes du pays dans l **importation** et la commercialisation de **vidrio
+  crudo et d espejo**. Importation et miroir sont exactement nos deux meilleures references sur ce
+  marche.
+
+### LES DEUX PIEGES TENUS, ET ILS SE RESSEMBLENT
+
+**Les deux adresses publiees sont des boites ENTRANTES**, pas des boites d achat : `cotizaciones@`
+chez TECESA, `jefecomercial@` chez Vidrios de la Sabana. **C est le piege MunnWorks**, ou
+`openorders@` etait une boite de commandes entrantes. Recherche restreinte faite sur le domaine de
+TECESA pour trouver une boite `compras` : **il n y en a aucune de publiee.** Donc meme remede qu au
+12/10 sur MunnWorks — **la premiere ligne dit en toutes lettres que c est une offre de FOURNITURE et
+non une demande de cotisation**, et demande de faire suivre a qui achete.
+
+### ⚠️ ET UNE DECOUVERTE QUI REMONTE AU §4 : TECESA TRAVAILLE EN 3,15 x 6,00 m
+
+C est le **PLF au sens strict**, la cote que le §4 laisse ouverte depuis le 08/10 **en disant qu elle
+ne repose que sur un seul fait**, Rakosy Uveg. **Il y en a deux maintenant.** Le message ne promet
+aucun format et **pose la question a la place**. Porte en tete de `DECISIONS-AARON.md` : la reponse
+decide ces deux dossiers, et la cote d autoclave — contrainte distincte — en touche deux autres,
+TECESA et Miro Est.
+
+### Ce qui reste de la file documentaire
+
+Cinq fiches sans coordonnees : **DIVIDRIOS** (la plus forte, aucun site trouve), Ermita Comercial,
+Wham Picture, Arquicentro del Prado et Atzel Glass.
+
 ## ⚠️ 12/10/2026, 14h24 — UN DECLENCHEUR PROGRAMME A DEMANDE 87 ENVOIS DEJA FAITS. NON EXECUTE.
 
 **La routine « Conteneurs — vague Bresil 14h puis apres-midi » (trig_014sYqj7DJFeUe8E4jknXcfL) a
