@@ -1621,3 +1621,46 @@ fait est verse ici.
 **MA RECOMMANDATION : les trois, dans cet ordre.** Et en attendant, je tiens ma campagne a un volume
 mesure et je compte les rebonds a chaque vague, ce qui est exactement ce que Kevin demande en
 ecrivant de respecter les blocages de delivrabilite sans les contourner.
+
+---
+
+## L OBJECTIF DE 400 ENVOIS CONTENEURS — CE QUE LA BASE PERMET REELLEMENT (12/10, 10h03)
+
+**Mesure faite sur le registre, pas estimee.** Kevin demande 400 envois conteneurs aujourd hui.
+Voici ce que le registre contient :
+
+| | |
+|---|---|
+| Fiches au registre | 1 086 |
+| Fiches **avec une adresse** | 696 |
+| dont **deja contactees** | **622** |
+| dont **avec adresse et JAMAIS contactees** | **48** |
+| Fiches actives **sans aucune adresse** | 339 |
+| Ecartees ou neutralisees | 80 |
+
+**Les 48 jamais contactees se decomposent ainsi** : 20 sont precisement les envois programmes
+d aujourd hui, 11 sont en `A APPELER`, 9 en `A QUALIFIER`, 4 attendent un arbitrage d Aaron, 2 ont
+rebondi et 2 sont des dossiers particuliers. **La capacite de PREMIER CONTACT de la campagne est
+donc d environ 28 fiches au-dela des 20 du jour.** Ce n est pas une opinion, c est le paragraphe 5
+qui impose de mesurer un marche a ce chiffre-la et non au nombre de fiches.
+
+**DONC 400 PREMIERS CONTACTS EST IMPOSSIBLE AUJOURD HUI, et pour une raison de base et non de
+boite.** Pour y arriver il faudrait l une de ces deux choses :
+1. **Tirer les 257 secondes relances en cohorte** — c est-a-dire un TROISIEME message a 257
+   societes qui n ont jamais repondu. Le plan du 11/10 a decide de ne pas le faire, et la faute
+   Shibaam du paragraphe 5 dit exactement pourquoi : un troisieme message en quelques jours coute
+   le compte. A 257 exemplaires, cela coute le domaine.
+2. **Creer environ 350 fiches neuves avec adresse verifiee dans la journee.** Le rendement mesure
+   de la methode de deverrouillage est de 38 pour cent de bout en bout, a deux ou trois recherches
+   par fiche : il faudrait de l ordre de 900 appels `WebSearch` contre un plafond de 200 par tour.
+
+**CE QUE JE FAIS A LA PLACE, et c est le maximum tenable :** les 20 premiers contacts programmes,
+plus environ 87 premieres relances dues reparties par fuseau dans `PLAN-APRES-MIDI.md`, soit de
+l ordre de **140 envois conteneurs sur la journee** en comptant les 37 du matin. Chacun personnalise,
+chacun consigne, chacun compte apres lecture du rebond.
+
+**ET LA OU L EFFORT MANQUE VRAIMENT, ce n est pas le volume d envois : 622 fiches ont deja ete
+contactees et la campagne compte 12 dossiers vivants et zero commande.** Les deux dossiers les plus
+avances — **Caribbean Glass Specialists** depuis le 08/10 et le **Nepal** — n attendent pas un
+message de plus, ils attendent **une grille de prix**. C est le seul point ou une decision d Aaron
+transforme un chiffre.
