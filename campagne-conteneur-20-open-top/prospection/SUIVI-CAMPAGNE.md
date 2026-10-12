@@ -2,6 +2,58 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## 12/10/2026, 12h53 — PREMIERES RELANCES DUES, ET LE BALAYAGE ETENDU A TOUTES LES COHORTES
+
+**Chiffres substitues :** 34 premiers contacts et 249 relances a la date du jour. `A APPELER` tombe a
+126, toutes avec un numero. `ECARTE — HORS MARCHE` monte a 51, `A VALIDER AARON` a 25,
+`ECARTE — HORS PERIMETRE` a 19.
+
+### Envois : les premieres relances echues, vagues 26 et 27
+
+Cohortes `ENVOYE 2026-10-05` et `2026-10-06` ouvertes : FVK (Angola, portugais, cloture de fiche),
+Tough Glass, V&N Glass et Sydney Glass (Australie), Woods Glass et Metro Performance Glass
+(Nouvelle-Zelande), SPM et SOMALU (Polynesie francaise), All Aluminium & Glass (Fidji). **Aucun
+rebond.** Jours ouvres verifies : aucun ferie au 12/10 en Australie, le Labour Day y etant au premier
+lundi d octobre, ni en Nouvelle-Zelande, ou il est au quatrieme, ni aux Fidji, Fiji Day etant tombe le
+samedi 10 sans report.
+
+**Et un premier contact sur une fiche qualifiee jamais sollicitee : Joo Heng Framemaker (Singapour).**
+Sa propre fiche prescrivait de la reprendre par une question de volume et non par un argumentaire,
+puisque la reserve etait la gamme. C est ce qui a ete fait, avec la sortie offerte en toutes lettres si
+leurs volumes ne vont pas au conteneur complet.
+
+### ⚠️ LE BALAYAGE DES STATUTS FAUX, ETENDU A TOUTES LES COHORTES, ET C EST LA MESURE DU JOUR
+
+Le nettoyage du matin portait sur la cohorte des secondes relances. **La cohorte des premieres relances
+en a aussitot rendu deux de plus** — RAMP en Ouganda et Glass Dubai en Tanzanie — qui auraient recu un
+message si je ne les avais pas lues. **NETTOYER LA COHORTE QU ON OUVRE NE SERT DONC A RIEN : un statut
+faux ne dort pas, il attend sa date.** Balayage refait sur **toutes** les cohortes et tous les statuts
+de prospection : **29 fiches de plus**, dans les marches declasses par le paragraphe 6 ou geles en
+attente d Aaron, toutes avec la bonne note et le mauvais statut.
+
+**Total du jour : 32 + 29 + 9 fiches dont le statut mentait.** Les trois familles :
+· **marches declasses** (Inde, zone Sapphire) en `ECARTE — HORS MARCHE`, avec la condition de
+  reouverture inscrite dans chaque note — low-E, miroir sans cuivre ni plomb, vitrage technique, grands
+  formats, rien d autre ;
+· **marche gele** (Afrique du Sud, et SOREMIR au groupe Riou Glass) en `A VALIDER AARON` ;
+· **non-contactations deliberees** en `ECARTE — HORS PERIMETRE` : Al-Thiabi est un poseur-depanneur,
+  TEMPLAR est le distributeur officiel Blindex donc achete du trempe fini en local, MAS VIDRIOS est un
+  poseur. Les trois motifs etaient ecrits dans les fiches depuis le 08/10. Seul le statut disait le
+  contraire ;
+· **les 6 fiches camerounaises** passees de `A APPELER` a `A VALIDER AARON` : leur ambiguite — un
+  message peut-etre deja parti de l ancienne boite — ne se leve ni par un appel ni par moi, seulement
+  par Aaron. Elles gonflaient le compte des appels de 6 sur 132.
+
+**Les statuts d aval n ont PAS ete touches.** Reponse, demande de prix, negociation, devis, refus : un
+dossier vivant reste vivant quel que soit l interet du marche.
+
+### Ce qui reste a envoyer aujourd hui
+
+**Trois fiches**, toutes bloquees par l heure locale et non par un manque : Caribbean Glass (Jamaique),
+EXTRALUM (Panama) et Vidrieria Canovas (Perou), a 6 h du matin chez elles. Elles partent vers 15 h,
+heure de Paris. **Et trois envois programmes au 13/10** : All Season Glass (Belize, reporte pour jour
+ferie), WegaVidros et Santana Vidros (Bresil, textes 29 et 30 deja rediges).
+
 ## 12/10/2026, 12h46 — FIN DE LA FILE DES SECONDES RELANCES, ET NETTOYAGE DU POOL
 
 **Etat mesure, chiffres substitues et non tapes :** 33 premiers contacts a `ENVOYE 2026-10-12`,
