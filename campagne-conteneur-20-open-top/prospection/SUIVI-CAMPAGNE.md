@@ -1,5 +1,48 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 17h24 (12/10) — LE SIGNAL TELEPHONE DU DETECTEUR DE DOUBLONS ETAIT NEUTRALISE PAR LE FORMAT
+
+Trouve en travaillant les fiches d outre-mer, qui sont la zone prioritaire. **ALUBAT Guadeloupe**
+porte `+590 590 26 64 40`, **SOPROVER PLD** porte `0590 26 64 40` : c est **le meme standard**, a
+Jarry, Baie-Mahault — et `detecte-doublons.py` ne les groupait pas, parce qu il comparait **tous**
+les chiffres. `590590266440` contre `0590266440`.
+
+**C est le pire genre de panne pour un garde-fou : il tournait, il rendait zero, et on le croyait.**
+Et le risque etait reel : **ALUBAT est en `NE PAS DEMARCHER`**, donc un signal muet menait vers un
+envoi a un compte deja ferme.
+
+**Correctif : comparaison sur les NEUF DERNIERS chiffres.** Neuf et non huit, et c est **mesure** :
+a huit le balayage rend des groupes sans rapport, a neuf il n en rend **aucun** sur les 1 055 fiches
+actives. **Verifie dans les deux sens sur un jeu d essai** — l ancien script rend 0 sur ce jeu, le
+nouveau rend la paire. C est la methode imposee au §6 pour tout garde-fou : on le juge sur son taux
+de faux positifs autant que sur ses prises.
+
+**ET LA LECON VA PLUS LOIN QUE LE SCRIPT :** le lien ALUBAT-SOPROVER etait **deja ecrit a la main
+dans la note d ALUBAT le 09/10**, numero a l appui. **La note a vu ce que le code ne voyait pas — et
+c est le code qui passe a l echelle sur 1 117 fiches.** Quand une note repere un rapprochement qu un
+signal automatique aurait du rendre, **le reflexe est de reparer le signal**, pas seulement de
+consigner le cas. Porte au §12 du mandat.
+
+## 17h24 (12/10) — LOT PHILIPPIN : UNE QUALIFICATION MAL ATTRIBUEE, ET UN VRAI IMPORTATEUR TROUVE A COTE
+
+**Bogabel Glass and Aluminum Supply** etait au registre comme *import et distribution de float et de
+verre reflechissant*. **Verification faite, cette description n est pas la sienne :** elle appartient
+a **Comglasco**, voisine sur la meme page d annuaire. Le seul libelle propre a Bogabel y est
+*glass cullet, glass scrap* — du **calcin**, pas de la feuille. **Deuxieme cas du jour, apres Wham
+Picture, ou une qualification vient d une ligne voisine et non de la societe.** La fiche est
+corrigee, aucun envoi, et aucun appel de recherche de plus n y sera depense.
+
+**Et la recherche a rendu mieux que sa cible :** `Comglasco Aguila Glass`, Parañaque, **reseau
+national de succursales**, adresse `sales@comglasco.com` publiee sur son propre site, domaine dans
+les URL de resultats. Elle se presente comme **premier distributeur de verre automobile du pays**,
+annonce du **float** et sourcer **a l international** ses panneaux composites — donc une maison qui
+importe deja par conteneur. Fiche creee, envoi date au 13/10.
+
+**⚠️ ET L INTERDIT PHILIPPIN EST A RAPPELER, parce qu il est contre-intuitif : `Pioneer Float Glass
+Mfg Inc.` est au registre et figure sur la liste des producteurs float du §6.** Les Philippines ont
+donc leur ligne float. **Ne jamais y ecrire qu il n y a pas de production locale** — l angle est la
+seconde origine et les references que Pioneer ne fait pas.
+
 ## BILAN DU 12/10/2026, etabli a 16h43 — CAMPAGNE CONTENEURS SEULE
 
 **Tous les chiffres ci-dessous sont substitues depuis le registre, aucun n est tape a la main.**

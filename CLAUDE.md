@@ -1400,6 +1400,25 @@ le nom ne les voyait pas et seul le domaine les a réunies. À l'inverse, **un m
 même standard ne suffit pas à fusionner** : Mirodec SARL au Liban et Mirodec Gulf à Dubaï sont
 deux entités réelles, comme les quatre antennes PG sur `pgglassafrica.com`.
 
+**⚠️ ET SON SIGNAL TÉLÉPHONE ÉTAIT NEUTRALISÉ PAR LE FORMAT — corrigé le 12/10, et c'est le pire genre
+de panne pour un garde-fou : il tournait, il rendait zéro, et on le croyait.** Il comparait **tous** les
+chiffres du numéro. Or **ALUBAT Guadeloupe** porte `+590 590 26 64 40` et **SOPROVER PLD**
+`0590 26 64 40` : `590590266440` contre `0590266440`, donc aucun groupe — alors que c'est **le même
+standard**, à Jarry, Baie-Mahault, et qu'ALUBAT est en `NE PAS DEMARCHER`.
+**La comparaison porte désormais sur les NEUF DERNIERS chiffres**, indicatif et zéro de départ retirés :
+les deux donnent `590266440`. Neuf et non huit, et **ce n'est pas une supposition** — à huit le balayage
+rendait des groupes sans rapport, à neuf il n'en rend **aucun** sur les 1 055 fiches actives. Le correctif
+est vérifié **dans les deux sens** sur un jeu d'essai : l'ancien script rend 0 sur ce jeu, le nouveau rend
+la paire.
+**ET CE CAS DIT AUSSI CE QUI A SAUVÉ LE COUP, parce que ce n'est pas le script :** le lien ALUBAT-SOPROVER
+était **déjà écrit à la main dans la note d'ALUBAT le 09/10**, numéro à l'appui. **La note a vu ce que le
+code ne voyait pas — et c'est le code qui passe à l'échelle sur 1 117 fiches.** Quand une note repère un
+rapprochement qu'un signal automatique aurait dû rendre, **le réflexe est de réparer le signal**, pas
+seulement de consigner le cas.
+**Conséquence de convention à connaître :** le script **ignore toute fiche dont la note contient le mot
+`DOUBLON`**, puisque c'est ainsi qu'on neutralise. C'est pour cela que cette paire ne ressort toujours pas
+du registre réel — et c'est voulu, le cas étant traité.
+
 **ET VOICI LE CAS QUE SES QUATRE SIGNAUX NE PEUVENT PAS VOIR — tranché le 11/10 à 23h28, et il faut
 le nommer parce qu'il est structurel : UNE MÊME MAISON IMPLANTÉE SUR DEUX TERRITOIRES.**
 `Miroiterie des Antilles` était au registre sous la **Guadeloupe** avec le domaine `mdantilles.fr`,
