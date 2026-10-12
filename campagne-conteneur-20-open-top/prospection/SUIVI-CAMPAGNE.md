@@ -1,5 +1,39 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 18h12 (12/10) — LOT BRESILIEN : CINQ FICHES, ET TROIS CLASSEMENTS QUE LA LECTURE A CHANGES
+
+**⚠️ ET D ABORD UNE ERREUR DE MA PART, parce qu elle est dans le motif meme du lot.** J ai ouvert cette
+recherche en disant que le Bresil « ne comptait que 14 fiches pour un pays de cette taille ». **Le 14
+vient du §6 du mandat, et il est perime : le registre en portait 29 avant ce lot, et 34 apres.** Je ne
+l ai pas recompte, je l ai LU dans un document — exactement le defaut que le §13 nomme pour les chiffres
+tapes au lieu d etre substitues, pris par un autre bout. Le lot reste utile, sa justification etait
+fausse. Chiffre corrige et date dans le mandat.
+
+**Les cinq, classees par CE QU ELLES VENDENT et non par ce que leur nom annonce :**
+
+| Fiche | Ce que la lecture a montre | Statut |
+|---|---|---|
+| **Garante Vidros** (Santo Andre) | fabricante de temperados e laminados, donc acheteur de feuille | `A ENVOYER 13/10` |
+| **Vitral Vidros Planos** (Brasilia, Uberlandia, Goiania) | 70 ans, trois villes, commande **reservee aux vitriers** | `A APPELER` |
+| **Tempera Primos** (Santa Catarina) | tremperie avec page vidros float | `A APPELER` |
+| **Fast Vidros** (Sorocaba) | **150 mille articles — mais de la QUINCAILLERIE** | `A QUALIFIER` |
+| **M. Campineira** (Campinas) | distributeur de **trempe de marque**, donc peut-etre revendeur | `A QUALIFIER` |
+
+**⚠️ FAST VIDROS EST LE CAS DU JOUR, ET C EST LA TROISIEME FOIS EN UNE JOURNEE.** Elle annonce un stock de
+**plus de 150 mille articles**, ce qui en faisait la meilleure du lot sur le papier. La recherche
+restreinte a son domaine montre un catalogue de **ferrures, serrures, molas aereas, supports et miroirs
+encadres**, et **aucune page de verre float**. Les 150 mille articles sont de la quincaillerie de vitrier.
+**Elle a une adresse valide et conforme au §5, et elle ne part pas** — parce qu un chiffre impressionnant
+ne qualifie rien tant qu on n a pas lu ce que la societe VEND. Meme leçon que Wham Picture ce matin et
+Bogabel cet apres-midi : **Wham par le dossier douanier, Bogabel par la mise en page de l annuaire, Fast
+Vidros par son propre chiffre d affichage.** Trois chemins, une seule cause.
+
+**Et les trois interdits bresiliens sont ecrits dans chacune des cinq fiches**, parce qu ils se servent
+mal de memoire : jamais l absence de production locale, quatre producteurs au Bresil · l argument est
+**douanier et seulement douanier** · et sa portee **exclut le miroir et le teinte**, donc il y est faux.
+
+**Etat du registre : 1126 fiches, 11 envois dates au 13/10.**
+
 ## 17h29 (12/10) — LE GISEMENT E-MAIL EST EPUISE AUX ETATS-UNIS ET AU CANADA, ET C EST UN RESULTAT
 
 Verifie fiche par fiche : les **onze** fiches americaines et canadiennes encore non contactees ont

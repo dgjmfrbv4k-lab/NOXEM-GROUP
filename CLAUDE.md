@@ -924,7 +924,7 @@ titre déjà appliqué à Saint-Gobain Egypt. Lignes à **Jacareí** et **Caçap
 **Barra Velha** en Santa Catarina. Les chiffres trouvés sont anciens — environ 700 000 t/an vers 2005, une
 ligne de 600 t/jour à Barra Velha, une sixième ligne annoncée en Bahia pour début 2013 dont le démarrage
 n'est pas confirmé — **donc ne citer aucune capacité, seulement l'existence**.
-**CONSÉQUENCE POUR LES 14 FICHES BRÉSILIENNES, et elle est étroite mais ferme : NE JAMAIS ÉCRIRE QU'IL N'Y A
+**CONSÉQUENCE POUR LES FICHES BRÉSILIENNES — elles sont 34 au 12/10 au soir et non 14, chiffre substitué depuis le registre après m'être appuyé sur le 14 de cette ligne-ci pour justifier un lot de découverte. Le bloc brésilien n'était donc PAS mince : il comptait 29 fiches avant ce lot. Un chiffre écrit dans ce mandat vieillit comme un autre, et il se recompte avant de servir d'argument. La conséquence, elle, est inchangée et ferme : NE JAMAIS ÉCRIRE QU'IL N'Y A
 PAS DE PRODUCTION LOCALE AU BRÉSIL.** C'est précisément de cette production que vient le parapluie de prix
 haut qui rend le marché attractif, exactement comme aux États-Unis avec Vitro. L'argument brésilien est
 **douanier** — Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, l'Europe non visée — jamais
