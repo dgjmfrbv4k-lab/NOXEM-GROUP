@@ -3,6 +3,64 @@
 *Bloc mis en tete a 11h31, apres une matinee de 150 messages. Il remplace la hierarchie du bloc
 de 10h23, qui suit juste en dessous et reste valable sur le fond.*
 
+## ⚠️ 12/10/2026, 13h35 — UNE INTERVENTION PRECISE ET BORNEE : L ACCES AUX DOSSIERS DOUANIERS
+
+**Kevin demande de ne le solliciter que pour une intervention indispensable, precisement identifiee.
+En voici une, et elle est chiffrable.**
+
+### LE FAIT : LA MEILLEURE PISTE DE QUALIFICATION DE LA CAMPAGNE EST A MOITIE FERMEE
+
+La journee du 12/10 a etabli que **la piste la plus rentable n est pas une recherche de categorie,
+c est la liste des IMPORTATEURS des dossiers antidumping.** Une societe qui se constitue partie a une
+enquete **declare a une administration qu elle importe le produit, en volume** — ce qu aucun annuaire
+ne prouve. Trois moissons le meme jour :
+· **Mexique**, resolution preliminaire de juin 2025 : **5 societes** — Indimex Trading, Ermita
+  Comercial, Vitropanel, Templados del Centro, Wham Picture ;
+· **Colombie**, Resolution 284 du MinCIT : **4 societes**, dont DIVIDRIOS documentee sur ce dossier ;
+· **Etats-Unis**, dossier float glass : Glasscorp, ODL, WHTB, MunnWorks et Fuyao, exploitees les jours
+  precedents.
+
+### ET VOICI OU ELLE SE FERME, SUR LE MARCHE LE PLUS FAVORABLE DE TOUS
+
+**La liste complete des importateurs americains existe : elle est l ATTACHMENT 2 de la petition
+deposee le 21/11/2024 par Vitro Flat Glass et Vitro Meadville.** Aucune des sources accessibles ne la
+reproduit — les cabinets d avocats la citent sans la recopier, et Vitro y renvoie par un lien.
+**Elle est sur le dossier de l ITC et sur ACCESS, le portail de Commerce, et ces deux hotes ne sont pas
+sur la liste blanche du reseau de cette session.** Les trois chemins echouent, comme le §13 l etablit :
+`curl` rend un 403 du proxy, `WebFetch` un `getaddrinfo ENOTFOUND`, et `WebSearch` ne peut pas lire une
+piece jointe de dossier.
+
+**POURQUOI CELA COMPTE PLUS QUE LES AUTRES DEMANDES D ACCES : les Etats-Unis sont le marche le plus
+favorable de la campagne, sur un fait verifie.** Les ordres du **06/04/2026** frappent la **Chine a
+181,52 pour cent** d antidumping plus 19,75 a 113,34 de compensateur, et la **Malaisie a 17,3 a 102
+pour cent** de compensateur. **L Europe n est visee par aucun des deux.** Les deux origines qui
+cassaient les prix viennent donc d etre frappees, et **51 fiches americaines sont au registre**.
+**Attachment 2 est, par construction, la liste des societes qui achetaient chinois ou malaisien et qui
+doivent changer d origine maintenant.** C est le meilleur fichier de prospection que cette campagne
+puisse esperer, et il est public.
+
+### CE QUE JE DEMANDE, ET C EST ETROIT
+
+**Deux hotes a ajouter sous « Allowed domains » dans le reglage Network access de l environnement**,
+en laissant cochee la case « Allow package managers » :
+· **`usitc.gov`** — dossiers et pieces de l International Trade Commission ;
+· **`access.trade.gov`** — portail ACCESS du Department of Commerce.
+Procedure : menu de l environnement cloud dans la barre de titre, puis Edit.
+https://code.claude.com/docs/en/cloud-environments#network-access
+
+**Et deux de plus qui serviraient a la meme piste**, si c est aussi simple d en ajouter quatre que
+deux : **`dof.gob.mx`** pour lire le taux IGI de la fraction 7005.29.99 a l origine UE — la question
+qui bloque 13 fiches mexicaines depuis le 08/10 — et **`mincit.gov.co`** pour lire le texte de la
+Resolution 123 que le §6 signale comme non lu.
+
+### CE QUE JE FAIS EN ATTENDANT, POUR QUE LA DEMANDE NE SOIT PAS UN ARRET
+
+Rien ne s arrete. La piste reste exploitable partout ou l autorite **publie** ses parties, et c est ce
+qui a donne les neuf fiches mexicaines et colombiennes aujourd hui. ⚠️ **Et un resultat negatif deja
+acquis, pour ne pas y redepenser de recherches : elle NE MARCHE PAS AU BRESIL.** La Circular MDIC
+nº 36/2024 dit que les importateurs bresiliens ont ete identifies « a partir dos dados oficiais da
+Receita Federal », donc a partir de donnees fiscales non publiees, et elle ne les nomme pas.
+
 ## ⚠️ 12/10/2026, 13h05 — MIRO EST (LA RÉUNION) POSE UNE CONDITION DE PAIEMENT. §11, DÉCISION À PRENDRE.
 
 **C'est le dossier le plus avancé ouvert aujourd'hui, et il est bloqué sur un point qui n'est pas le
