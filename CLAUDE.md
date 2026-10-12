@@ -1629,6 +1629,24 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   interdisent d'en essayer une troisième** sur ce domaine — c'est un blocage de maison, pas une boîte
   morte. La fiche part au téléphone, ce que la règle des deux échecs du §13 imposait déjà.
 
+  **SIXIÈME SIGNATURE, TROUVÉE LE 12/10 À 13h38, ET C'EST LA SEULE DES SIX QU'AUCUN CODE SMTP NE
+  SIGNALE : LA BOÎTE ACCEPTE, PUIS PRÉVIENT QU'ELLE N'EST PLUS RELEVÉE.** Cas réel : **Caribbean Glass
+  Co Ltd** (Jamaïque). La seconde relance part à 13h11 vers `caribbeanglasscoltd@gmail.com`, le serveur
+  **accepte**, aucun rebond — et une minute plus tard arrive un message automatique de la société :
+  « with immediate effect we will no longer be receiving emails from this Gmail Account, kindly send all
+  future emails to `info@caribbeanglassja.com` ».
+  **CE QUE CELA COÛTE AU COMPTAGE, et c'est le point : l'envoi N'A PAS ÉTÉ REÇU, et rien dans la
+  mécanique SMTP ne le dit.** Ce n'est pas un rebond, ce n'est pas un délai, ce n'est pas un `5.x.x` —
+  c'est une livraison technique dans une boîte morte. **Un comptage fondé sur l'absence de rebond la
+  manque entièrement**, et c'est exactement la faille que le §13 nomme déjà pour les avis de délai, prise
+  par un autre bout : seul le CORPS du message le dit, jamais l'enveloppe.
+  **CONDUITE : l'envoi ne compte pas, la fiche passe en `A RENVOYER` avec l'adresse que la société donne
+  elle-même** — l'exception du §5 est satisfaite puisque c'est elle qui la publie, et le domaine propre
+  (`caribbeanglassja.com`) est à noter comme différent de l'ancien. **Et le renvoi est le MÊME message,
+  pas un troisième** : le précédent n'ayant pas été reçu, ce n'est pas la faute Shibaam. C'est aussi un
+  rappel que **lire le corps des réponses automatiques paie** : celle-ci a rendu une adresse vivante sur
+  le plus gros stock de verre plat de Jamaïque.
+
   **CONDUITE : c'est la seule des cinq signatures, avec la boîte inexistante, qui justifie de chercher
   une autre boîte** — le domaine étant vivant, une autre adresse publiée a toutes ses chances. Fait le
   12/10 : `hello@munnworks.com`, publiée par leurs propres documents sur le même domaine, et le message
