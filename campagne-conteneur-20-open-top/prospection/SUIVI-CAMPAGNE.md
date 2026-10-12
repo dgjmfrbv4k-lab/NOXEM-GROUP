@@ -1,5 +1,44 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 17h29 (12/10) — LE GISEMENT E-MAIL EST EPUISE AUX ETATS-UNIS ET AU CANADA, ET C EST UN RESULTAT
+
+Verifie fiche par fiche : les **onze** fiches americaines et canadiennes encore non contactees ont
+**toutes** ete testees le 08/10, et elles butent toutes sur la meme chose — page de contact a
+formulaire, domaine qui ne rend plus rien, ou boite refusant le courrier externe. Adriatic refuse en
+`5.4.1` cote Outlook, Lahey et Wholesale Glass Distributors n ont plus de domaine indexe, Flat Glass
+Distributors et Canada Glass n exposent qu un formulaire.
+
+**Donc le levier restant sur les deux plus gros marches n est pas l e-mail, c est le TELEPHONE** — et
+zero appel n a ete passe depuis le debut de la campagne. C est la meme conclusion que le bilan, mais
+etablie cette fois fiche par fiche plutot que par un comptage.
+
+**Recherche de decouverte lancee a la place**, puisque le stock est epuise. Une fiche neuve :
+**Crone Wholesale Glass**, Sepulveda, Californie du Sud, qui annonce elle-meme **l un des plus gros
+stocks de verre plat en gros de Californie du Sud**, avec ses propres camions. Pas d adresse publiee
+donc `A APPELER` au 818 894 3644.
+
+## ⚠️ 17h29 (12/10) — UN COURTIER OFFRAIT L ARGUMENT LE PLUS FORT DE LA CAMPAGNE, ET IL EST INTERDIT
+
+La meme recherche a fait remonter `importdoor.com`, vendeur de releves de connaissements, qui decrit
+**INTERGLASS CORP** comme le **premier importateur americain de float en feuilles**, origines **Chine
+et Turquie**, port d entree **Miami**. Or **Interglass USA est au registre** — Savannah, Houston et
+**Miami** — relancee le 12/10 a 11h05, et sa fiche la qualifie deja d importateur structure.
+
+**Autrement dit : un importateur majeur, d origine chinoise, a l instant ou la Chine prend 181,52 pour
+cent de droits aux Etats-Unis. C est l argument le plus fort que la campagne puisse servir, et il
+arrive par une source interdite.**
+
+**Il n est pas employe.** Le fait est consigne dans la fiche comme **NON UTILISABLE**, precisement pour
+qu il ne soit pas retrouve dans six semaines et servi sans qu on sache d ou il vient.
+
+**ET LA REGLE SE PRECISE, parce que « ne pas utiliser le site » ne suffisait pas a trancher ce cas :**
+un resultat de courtier peut **nommer** une societe, et un nom n est pas une donnee vendue — c est
+ainsi qu on apprend qu elle existe. **Ce qui est interdit est de reprendre sa QUALIFICATION** : volumes,
+origines, ports, contacts. Pour s en servir il faut **reetablir le fait par une source permise** — un
+dossier antidumping public, une piece de l USITC, ou ce que la societe dit d elle-meme. C est
+exactement ce qui a ete fait pour Glasscorp, WHTB et ODL. Porte au §5 du mandat, avec `importdoor.com`
+ajoute a la liste.
+
 ## 17h24 (12/10) — LE SIGNAL TELEPHONE DU DETECTEUR DE DOUBLONS ETAIT NEUTRALISE PAR LE FORMAT
 
 Trouve en travaillant les fiches d outre-mer, qui sont la zone prioritaire. **ALUBAT Guadeloupe**

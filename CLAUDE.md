@@ -154,6 +154,21 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   **QUATRE DE PLUS, remontés le 11/10 sur des recherches africaines et nigériane :** `importers.africa-business.com`, qui vend une liste téléchargeable de contacts d'importateurs africains avec des adresses masquées en échantillon ; **`panjiva.com`** et **`importkey.com`**, qui vendent des relevés d'importation nominatifs ; et **`marketinsidedata.com`**, qui publie des totaux d'import-export par société. Même nature que Volza, donc même interdit — et à mettre dans `blocked_domains` plutôt qu'à écarter après coup, parce qu'ils occupent sinon la moitié des résultats sur une recherche d'importateur.
   **DEUX DE PLUS, remontés le 11/10 au soir sur une recherche panaméenne :** **`veritradecorp.com`**, qui vend des relevés d'importation et d'exportation par société, et **`dnb.com`**, qui vend des profils et des contacts d'entreprises. Même nature que Volza, donc même interdit — et à mettre dans `blocked_domains` d'emblée. **Précision utile pour ne pas sur-bloquer :** un **portail sectoriel** comme `vidrioperfil.com` n'est PAS un courtier, il recense les verriers d'un pays et son recensement est une piste d'identification légitime. Il ne satisfait simplement pas la règle anti-rebond, comme tout annuaire.
   **UN DE PLUS, remonté le 12/10 sur une recherche américaine : `importinfo.com`**, qui vend des relevés de connaissements et de manifestes par société — 222 pour Glasscorp sur 2019-2025. Même nature que Volza, donc même interdit et à mettre dans `blocked_domains`.
+  **ET UN AUTRE LE MÊME JOUR À 17h30, SUR LA MÊME RECHERCHE AMÉRICAINE : `importdoor.com`**, qui vend lui
+  aussi des relevés de connaissements par société. **Celui-là mérite d'être raconté, parce qu'il montre
+  ce que ces sites coûtent vraiment :** il décrit `INTERGLASS CORP` comme le **premier importateur
+  américain de float en feuilles**, Chine et Turquie en origines, Miami en port d'entrée — et Interglass
+  USA est au registre, à Savannah, Houston et **Miami**. **C'est-à-dire que le courtier offrait, sur un
+  plateau, l'argument le plus fort possible sur la meilleure cible américaine : un gros importateur
+  d'origine chinoise, à l'instant où la Chine prend 181,52 % de droits.** Et il est **interdit**. Le fait
+  est consigné dans la fiche comme **non utilisable**, pour qu'il ne soit pas retrouvé et employé par
+  inadvertance dans six semaines.
+  **LA RÈGLE QUI SE DÉGAGE, ET ELLE EST PLUS FINE QUE « NE PAS UTILISER LE SITE » :** un résultat de
+  courtier peut **nommer** une société, et un nom n'est pas une donnée vendue — c'est ainsi qu'on apprend
+  qu'elle existe. **Ce qui est interdit est de reprendre sa QUALIFICATION** : volumes, origines, ports,
+  contacts. Pour s'en servir, il faut réétablir le fait par une source permise — **un dossier antidumping
+  public, une pièce de l'USITC, ou ce que la société dit d'elle-même.** C'est exactement ce qui a été fait
+  pour Glasscorp, WHTB et ODL, sortis de l'exhibit du dossier float glass et non d'un vendeur de données.
 - **Jamais pousser sur une autre branche** que `claude/campagne-conteneur-20-open-fl0382`.
 - **JAMAIS RÉPONDRE À UN PROSPECT SANS L'ACCORD D'AARON. Je prépare le texte, je le consigne dans
   la fiche, et j'attends.** La règle existait au §15 ; elle monte ici, dans les interdits absolus,

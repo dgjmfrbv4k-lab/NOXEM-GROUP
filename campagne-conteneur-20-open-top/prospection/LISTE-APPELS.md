@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **12/10/2026** depuis le registre. **153 societes** portent un telephone et
+Regeneree le **12/10/2026** depuis le registre. **156 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 153 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 156 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 142 societes
+## Hors Europe — 145 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Géorgie | **Bars Facade LLC** | `+995 577 41 51 36` | 07h00 - 15h00 | A APPELER | Fonde en 1998, importateur historique de verre entre la Georgie et la Turquie, deux sites Tbilissi et Batoumi. CIBLE PRIORITAIRE. Aucune adresse email publiee : appeler. Port Poti. CORRECTION DU 08/10 apres lecture de leur page... |
 | Colombie | **Dividrios** | `3138831969` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 13h24 PAR LA PISTE DES DOSSIERS DOUANIERS, troisieme application de la journee apres les Etats-Unis et le Mexique. Grep du mot le plus court fait avant creation, absente. ⚠️ ET C EST LA MEILLEURE QUA... |
 | Colombie | **Vidrios de la Sabana SAS** | `+57 314 217 0015` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 13h24 PAR LA PISTE DES DOSSIERS DOUANIERS, troisieme application de la journee apres les Etats-Unis et le Mexique. Grep du mot le plus court fait avant creation, absente. ⚠️ ET C EST LA MEILLEURE QUA... |
+| Panama | **Importadora de Vidrios y Espejos del Cid** | `+507 775 4629` | 16h00 - 00h00 | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. RECLASSEE LE 11/10 A 23h12 : fiche sans adresse email ET sans telephone, donc injoignable par aucun canal. Le statut A APPELER annoncait un appel impossible et gonflait le compte des... |
 | Arabie saoudite | **Alma Glass (ALMA Tempered Securit Glass)** | `+966 11 498 3275` | 08h00 - 16h00 · **dim-jeu** | A APPELER | GROS : premiere usine de trempe de Dammam, 350 t/an. Rebond 550 5.1.1 le 05/10 : adresse inexistante. DEVERROUILLEE LE 08/10, ET C EST UNE RECUPERATION. La fiche portait almariyadh arobase almaglass.com.sa, qui avait rebondi en... |
 | Arabie saoudite | **Manna Glass Group (Mohammed Mannaa Glass Corporation)** | `+966 11 291 1943` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Four de trempe identifié : acheteur de float régulier. Tel releve sur annuaire arabe. A VERIFIER AU TELEPHONE, releve le 08/10 : cette fiche partage le numero +966 11 265 0065 avec la fiche Almanco Factory. Soit la meme societe... |
 | Colombie | **Arquicentro del Prado** | `+57 5 353 2977` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 13h24 PAR LA PISTE DES DOSSIERS DOUANIERS, troisieme application de la journee apres les Etats-Unis et le Mexique. Grep du mot le plus court fait avant creation, absente. ⚠️ ET C EST LA MEILLEURE QUA... |
@@ -94,8 +95,10 @@ ne pas les appeler en se presentant comme un premier contact.
 | Mexique | **Cristales Inteligentes** | `+52 55 2799 0884` | 17h00 - 01h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 23h02 PAR RECHERCHE DE CATEGORIE, NON TESTEE. Grep cristales inteligentes fait avant creation, absente. Plus de cinquante ans en distribution ET fabrication de verre, miroir inclus, selon la source. ... |
 | États-Unis | **Glass Enterprises Inc** | `+1 215 638 1007` | 15h00 - 23h00 | A APPELER | GROS : usine neuve de 180 000 pieds carres a Norwich, fabricant certifie float. Aucune adresse publiee. ENRICHIE LE 08/10. Profil confirme et fort : decrite comme fabricant certifie de produits float pour tous les grands verrie... |
 | Ghana | **Punamactex Ent. Ltd** | `+233 21 689800` | 11h00 - 19h00 | A APPELER | BON PROFIL : negociant etabli depuis 1995 annoncant du float clair et du float teinte, donc importateur par construction. Port de Tema, nomme au paragraphe 4. Aucune adresse publiee dans les sources : a appeler. |
+| République dominicaine | **IMPORTDOM — Importa Dominicana de Vidrios y Materiales** | `+1 829 678 6775` | 15h00 - 23h00 | A APPELER | Calle 1ra n 10, El Naranjo. IMPORTATEUR DECLARE. Aucune adresse email publiee : a rappeler. Port Caucedo. METHODE EN DEUX TEMPS APPLIQUEE LE 08/10 : AUCUN DOMAINE PROPRE, la societe n a pas de site. POINT DE CONFORMITE A CONSIG... |
 | Algérie | **Technoglass** | `+213 555 62 47 74` | 10h00 - 18h00 · **dim-jeu** | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. Port Djendjen ou Bejaia. VERIFIE LE 08/10, TOUJOURS SANS ADRESSE EXPLOITABLE. Profil confirme et interessant : importation distribution et transformation du verre depuis 1987, SARL c... |
 | Colombie | **Vidriosur Colombia** | `+57 310 396 2408` | 16h00 - 00h00 | A QUALIFIER | FICHE CREEE LE 12/10/2026 A 13h24. Grep vidriosur fait avant creation, absente. LE PROFIL EST LE MEILLEUR DU LOT COLOMBIEN ET IL VIENT D ELLE-MEME : DISTRIBUTEUR DE GROS DE VERRE PLAT ET DE MIROIRS, NATIONAUX ET IMPORTES. Mayor... |
+| États-Unis | **Crone Wholesale Glass** | `+1 818 894 3644` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 17h29 par une recherche de decouverte sur les distributeurs americains, le gisement des fiches a site sans adresse etant epuise aux Etats-Unis et au Canada. Grep crone fait avant creation, absent du ... |
 | Bolivie | **Cristales Templados Bolivianos — Cristembo** | `+591 4 268042` | 15h00 - 23h00 | A APPELER | Trempeur donc acheteur de float. Pays enclave, transit via Arica. Aucune adresse publiee : a appeler. PREMIER TEMPS DE LA METHODE REUSSI LE 08/10, SECOND TEMPS NON FAIT FAUTE DE BUDGET DE RECHERCHE. Domaine propre etabli et con... |
 | Indonésie | **PT Matahari Silverindo** | `+62 24 761 7600` | 04h00 - 12h00 | A APPELER | ANGLE TECHNIQUE PRECIS : ils argentent, et l argenture ne pardonne pas — chaque defaut du substrat est rendu permanent et double par le reflet, donc la qualite float exigee est plus stricite qu en vitrerie. Et le miroir haut de... |
 | Irak | **Arturaya Glass Company** | `+964 751 667 6876` | 08h00 - 16h00 · **dim-jeu** | A APPELER | IMPORTATEUR : se fournit déjà à l'étranger. Adresse info arobase arturaya.com relevee le 07/10, domaine identique au site. IMPORTE DEJA DES CONTENEURS : ils annoncent eux-memes travailler avec des usines etrangeres. Envoi 07/10... |
