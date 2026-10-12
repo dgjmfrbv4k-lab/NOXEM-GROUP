@@ -5,7 +5,12 @@ Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Ara
 ## 12/10/2026, 13h27 — LA PISTE DES DOSSIERS DOUANIERS, TROISIEME APPLICATION, ET ELLE TIENT
 
 **1113 fiches au registre.** Apres les Etats-Unis et le Mexique, la Colombie : **six fiches creees et un
-envoi**, et le gisement de deverrouillage, **vide ce matin, en compte 4**.
+envoi**, et le gisement de deverrouillage, **vide ce matin, en comptait 4** a cet instant.
+
+**⚠️ CE 4 ETAIT VRAI QUAND JE L AI ECRIT ET IL EST FAUX MAINTENANT — le gisement est RETOMBE A ZERO a 13h31, et il vaut mieux dire pourquoi que laisser le chiffre.** Les quatre etaient **Alu Espace +, Solutions FAR, Grupo Vitropanel et Indimex Trading**, et **toutes les quatre avaient DEJA ete testees le jour meme** : formulaire seul pour les deux martiniquaises, aucune adresse sur les pages propres pour Vitropanel, prenoms seuls pour Indimex. Leur resultat est ecrit en clair dans leurs notes.
+**MAIS LE FILTRE CHERCHE LES MOTS `TESTEE` OU `DEVERROUILLEE`, ET MA REDACTION NE LES CONTENAIT PAS.** Elles ressortaient donc comme des deverrouillages **a faire** alors qu ils etaient **faits**, ce qui aurait fait redepenser des appels de recherche sur elles. Marqueur ajoute aux quatre.
+**C est la meme faute que le filtre sur le statut seul du §13, prise par un autre bout : un filtre sur la PRESENCE d un marqueur ne voit rien si l on raconte le test sans employer le mot.** Regle a garder : **une note destinee a etre lue par un filtre doit employer LE MOT que le filtre cherche, pas un synonyme.**
+**Le chiffre honnete du jour est donc : le gisement de deverrouillage est a ZERO, comme ce matin.** Ce qui l a paru alimenter une heure n etait pas un gisement, c etait un retard d etiquetage — et le seul vrai deverrouillage de la journee est Megaglass, sortie par le bon bout puisqu elle a ete envoyee.
 
 ### LA METHODE EST MAINTENANT ETABLIE, ET IL FAUT L ECRIRE COMME TELLE
 
