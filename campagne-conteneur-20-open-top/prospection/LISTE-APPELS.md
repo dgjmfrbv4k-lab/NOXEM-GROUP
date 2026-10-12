@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **12/10/2026** depuis le registre. **148 societes** portent un telephone et
+Regeneree le **12/10/2026** depuis le registre. **150 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 148 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 150 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 137 societes
+## Hors Europe — 139 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | États-Unis | **Glass Enterprises Inc** | `+1 215 638 1007` | 15h00 - 23h00 | A APPELER | GROS : usine neuve de 180 000 pieds carres a Norwich, fabricant certifie float. Aucune adresse publiee. ENRICHIE LE 08/10. Profil confirme et fort : decrite comme fabricant certifie de produits float pour tous les grands verrie... |
 | Ghana | **Punamactex Ent. Ltd** | `+233 21 689800` | 11h00 - 19h00 | A APPELER | BON PROFIL : negociant etabli depuis 1995 annoncant du float clair et du float teinte, donc importateur par construction. Port de Tema, nomme au paragraphe 4. Aucune adresse publiee dans les sources : a appeler. |
 | Algérie | **Technoglass** | `+213 555 62 47 74` | 10h00 - 18h00 · **dim-jeu** | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. Port Djendjen ou Bejaia. VERIFIE LE 08/10, TOUJOURS SANS ADRESSE EXPLOITABLE. Profil confirme et interessant : importation distribution et transformation du verre depuis 1987, SARL c... |
+| Colombie | **Vidriosur Colombia** | `+57 310 396 2408` | 16h00 - 00h00 | A QUALIFIER | FICHE CREEE LE 12/10/2026 A 13h24. Grep vidriosur fait avant creation, absente. LE PROFIL EST LE MEILLEUR DU LOT COLOMBIEN ET IL VIENT D ELLE-MEME : DISTRIBUTEUR DE GROS DE VERRE PLAT ET DE MIROIRS, NATIONAUX ET IMPORTES. Mayor... |
 | Bolivie | **Cristales Templados Bolivianos — Cristembo** | `+591 4 268042` | 15h00 - 23h00 | A APPELER | Trempeur donc acheteur de float. Pays enclave, transit via Arica. Aucune adresse publiee : a appeler. PREMIER TEMPS DE LA METHODE REUSSI LE 08/10, SECOND TEMPS NON FAIT FAUTE DE BUDGET DE RECHERCHE. Domaine propre etabli et con... |
 | Indonésie | **PT Matahari Silverindo** | `+62 24 761 7600` | 04h00 - 12h00 | A APPELER | ANGLE TECHNIQUE PRECIS : ils argentent, et l argenture ne pardonne pas — chaque defaut du substrat est rendu permanent et double par le reflet, donc la qualite float exigee est plus stricite qu en vitrerie. Et le miroir haut de... |
 | Irak | **Arturaya Glass Company** | `+964 751 667 6876` | 08h00 - 16h00 · **dim-jeu** | A APPELER | IMPORTATEUR : se fournit déjà à l'étranger. Adresse info arobase arturaya.com relevee le 07/10, domaine identique au site. IMPORTE DEJA DES CONTENEURS : ils annoncent eux-memes travailler avec des usines etrangeres. Envoi 07/10... |
@@ -168,6 +169,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Barbade | **Odoll's Aluminum & Glass (1986) Ltd** | `+1 246 424 7833` | 15h00 - 23h00 | A APPELER | Adresse masquee par l'annuaire. Port Bridgetown. Precision du 07/10 : plus de 35 ans de revente, pose et fabrication de fenetres et portes. Port Bridgetown. |
 | Barbade | **Glassesco Hardware** | `+1 246 427 3060` | 15h00 - 23h00 | A APPELER | 132-133 Roebuck Street St. Michael. Se presente comme le specialiste verre et miroir de l ile. Aucune adresse publiee : a appeler. Port Bridgetown. METHODE EN DEUX TEMPS APPLIQUEE LE 08/10 : AUCUN DOMAINE PROPRE. Un annuaire do... |
 | Bolivie | **ALUVI — Aluminio y Vidrio** | `+591 2 228 7350` | 15h00 - 23h00 | A APPELER | Calle Batallon Victoria 577 La Paz. Pays enclave : transit Arica ou Iquique. Aucune adresse email publiee : a appeler |
+| Colombie | **Espejos Bogota** | `+57 312 306 4572` | 16h00 - 00h00 | A QUALIFIER | FICHE CREEE LE 12/10/2026 A 13h32, NON TESTEE. Grep espejos bogota et espejosbogota faits avant creation, absente. Profil releve : faconnage et fourniture de verre plat et de miroirs, et le relevé mentionne du MIROIR IMPORTE — ... |
 | Congo (Brazzaville) | **ALU-GLASS** | `+242 05 539 15 50` | a verifier | A APPELER | Seule societe verriere identifiee a Pointe-Noire, port en eau profonde et debouche petrolier du pays. Aucune adresse publiee dans les resultats : appel obligatoire pour obtenir un contact achats. Premiere fiche du Congo-Brazzav... |
 | Côte d'Ivoire | **SIVIMI — Sté Ivoirienne de Vitrerie et Miroiterie** | `+225 27 21 35 03 14` | 11h00 - 19h00 | A APPELER | REBOND 24/09 : le domaine avisi.ci publie par l annuaire n existe pas. Appeler pour obtenir la vraie adresse. Port Abidjan. |
 | Grenade | **Saint Lu Metal Grenada Ltd** | `+1 473 439 6538` | 15h00 - 23h00 | A APPELER | Filiale grenadienne du groupe Saint Lu Metal deja au registre pour Sainte-Lucie : traiter les deux ensemble. Exporte vers la Barbade et Trinidad donc volumes reels. ADRESSE slmw arobase spiceisle.com ECARTEE : relevee dans un a... |

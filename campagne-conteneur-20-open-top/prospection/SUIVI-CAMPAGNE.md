@@ -2,6 +2,45 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## 12/10/2026, 13h33 — DEUX CORRECTIONS DE MA PART SUR LE LOT COLOMBIEN, DONT UNE A UNE HEURE D INTERVALLE
+
+### ⚠️ VIDRIOSUR : J AI ECRIT QU ELLE AVAIT LE MEILLEUR PROFIL DU LOT. C EST DEMENTI
+
+Il y a une heure j ai note que Vidriosur avait **le meilleur profil declare du lot colombien** —
+*distributeur de gros de verre plat et de miroirs, nationaux et importes*. **Cette description vient de
+sa page FACEBOOK, c est-a-dire d une autodescription sur une page qu elle controle.**
+
+Seconde recherche faite **avec Facebook bloque** : aucun site propre ne remonte, et le seul relevé
+independant est une fiche d annuaire qui donne son activite comme **espejos, marcos, ventanas** —
+miroirs, **cadres**, fenetres. **C est un profil de DETAIL, et le mot *marcos* tire franchement vers
+l encadrement.** Le domaine `vidriosur.com` n est donc **pas** etabli comme etant le sien, et la
+qualite de distributeur importateur n est **pas** corroboree.
+
+**C est exactement la lecon de Daoris Glass le meme jour, par un autre chemin : une societe qui se
+decrit comme importatrice et en gros sur une page qu elle controle n est pour autant ni l une ni
+l autre.** Le relevé independant vaut mieux que l autodescription — et c est aussi pourquoi le §5
+n accepte une adresse que publiee par la societe **sur son propre domaine**, pas sur un reseau social.
+
+### EL DIAMANTE : LE MEILLEUR DU LOT, ET POUR UN SEUL FAIT — ELLE A SON USINE
+
+Creee et envoyee. `ventas@vidrioseldiamante.com.co`, domaine identique au site. **Une entreprise avec
+une usine achete du SUBSTRAT, pas du produit fini**, et le message le dit en premiere ligne : c est la
+raison pour laquelle on leur ecrit a eux et pas a un installateur. Gamme verre, verre de **securite** et
+**miroir decoratif**, donc float d un cote et miroir de l autre. Question de volume, sortie offerte,
+angle miroir avec la formulation prudente du §6.
+
+**Espejos Bogota** creee aussi, non testee : faconnage et fourniture de verre plat et de miroirs, et le
+relevé mentionne du **miroir importe**. Domaine propre `espejosbogota.com`, second temps a faire.
+
+### ⚠️ ET UN PIEGE DE NOM QUI SE REFERME SUR CE MARCHE : TROIS MAISONS PORTENT LE MOT *ESPEJOS*
+
+· **ESPEJOS S.A.S.** est le **DEMANDEUR** de la Resolution 284, donc un **CONCURRENT** sur le miroir, a
+  ecarter d emblee si son nom remonte ;
+· **Espejos Bogota** est une cible, creee ce jour ;
+· **El Diamante Vidrios y ESPEJOS** est une cible, envoyee ce jour.
+**Le mot ne dit rien du metier ni de l appartenance** — meme regle que *zoujaj* a Doha et que *vitro* a
+Monterrey, et c est la troisieme fois de la journee qu elle sert.
+
 ## 12/10/2026, 13h27 — LA PISTE DES DOSSIERS DOUANIERS, TROISIEME APPLICATION, ET ELLE TIENT
 
 **1113 fiches au registre.** Apres les Etats-Unis et le Mexique, la Colombie : **six fiches creees et un
