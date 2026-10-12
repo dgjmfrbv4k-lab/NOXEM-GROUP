@@ -5297,3 +5297,41 @@ les comptes sans rien promettre.
 | statuts vides | 0 |
 | fiches `A ENVOYER` restantes | 0 |
 | garde-fou de l argument float | propre, aucun nouveau signalement |
+
+### ⚠️ ERREUR DE TIMING MESUREE A 11h28, ET ELLE EST A MOI : LE 12 OCTOBRE EST UN JOUR FERIE EN AMERIQUE DU NORD
+
+Les deux seules reponses recues sur la campagne conteneurs aujourd hui sont des **reponses
+automatiques**, et ce sont elles qui m ont appris la faute :
+
+- **Insul-Lite Manufacturing** (Canada) : « Our office is closed for the **Thanksgiving holiday**.
+  We will respond when we return to the office on Tuesday, October 13th. »
+- **Superior Glass** (Canada) : absent du bureau depuis le 9 octobre, retour le 13.
+
+**Verification : l Action de grace canadienne tombe le DEUXIEME LUNDI D OCTOBRE, soit aujourd hui
+12 octobre 2026.** C est un jour ferie legal au Canada. Et le deuxieme lundi d octobre est aussi le
+**Columbus Day** aux Etats-Unis, ferie federal, meme si la plupart des entreprises privees
+travaillent.
+
+**CE QUE CELA A COUTE, dit au bon chiffre et sans l arrondir : 33 relances canadiennes et 21
+messages americains sont partis un jour ou les bureaux sont fermes ou en effectif reduit.** Ils ne
+sont pas perdus — ils seront lus demain matin, et une relance n a pas d urgence — mais ils arrivent
+au sommet d une pile de retour de week-end prolonge, ce qui est la pire position pour un message a
+froid. Le Canada est le **plus gros bloc du registre avec 61 fiches**, donc ce n est pas un detail
+de calendrier.
+
+**POURQUOI JE NE L AI PAS VU, et c est la cause a corriger :** j ai avance les fenetres horaires au
+matin pour une bonne raison, le quota partage, et j ai verifie l HEURE locale de chaque fenetre.
+**Je n ai pas verifie le JOUR.** Le paragraphe 13 impose de substituer l heure depuis la commande
+plutot que de la deviner, et il ne dit rien du calendrier. Verifier qu il est 15h a New York ne
+sert a rien si le bureau est ferme.
+
+**REGLE A RETENIR : avant d ouvrir une vague sur un pays, verifier si le jour est ferie chez lui.**
+Le cout est d une seconde de reflexion et il evite de depenser une cohorte entiere de relances.
+Les feries a connaitre pour les blocs du registre : le deuxieme lundi d octobre au Canada et aux
+Etats-Unis, Thanksgiving americain le quatrieme jeudi de novembre, le 7 septembre au Bresil, le
+16 septembre au Mexique, le vendredi et parfois le jeudi au Proche-Orient et dans le Golfe, et le
+Nouvel An chinois pour tout ce qui est approvisionne depuis l Asie.
+
+**Ce que je ne fais PAS : renvoyer ces messages demain.** Ce serait un deuxieme message en deux
+jours, donc la faute Shibaam, qui coute plus cher que le mauvais timing. Les relances sont parties,
+elles sont consignees, et la prochaine echeance de ces fiches se calcule a partir d aujourd hui.
