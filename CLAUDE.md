@@ -996,24 +996,35 @@ motif — c'est le cas d'Alawadhi/yemenglass, rejeté le 07 **et** le 08 — n'a
 information nouvelle sur notre réputation : il confirme le filtre de ce destinataire, rien de plus.
 En revanche **deux serveurs sans rapport qui rendent un `5.7.1` le même jour est un vrai signal**,
 et c'est arrivé le 08/10 : yemenglass et `porfyriosglass@cytanet.com.cy` (`554 5.7.1`).
-**⚠️ ET LA RÈGLE EST ÉLARGIE LE 12/10 À 11h57, PARCE QU'ELLE NE NOMMAIT QU'UN SEUL CODE ET QUE
-C'EN EST UN AUTRE QUI EST TOMBÉ.** `info@alfastarglass.com`, en Arabie saoudite, a rendu
-**`554 5.7.7 Email policy violation`** deux secondes après l'envoi, depuis un serveur qui ne nous
-avait jamais filtrés.
-**Il faut dire franchement que `5.7.7` n'est pas `5.7.1`, donc que la lettre de la règle ne le
-couvrait pas.** Mais c'est **la même nature** : un verdict de **politique** du serveur destinataire,
-et non une adresse inexistante. La règle protège la réputation d'un domaine partagé contre les
-verdicts de filtrage ; elle serait vide de sens si un code voisin y échappait.
-**Donc : la règle vise désormais toute la classe `5.7.x`** — `5.7.1`, `5.7.7` et leurs voisines —
-et non le seul `5.7.1`. Appliquée le 12/10 : la vague de cinq en cours était terminée, les envois à
-froid ont été arrêtés pour la journée à 208 messages délivrables.
-**Et deux corollaires qui découlent du cas :**
-· **Un `5.7.x` ne tue pas l'adresse.** Ce n'est ni un domaine introuvable ni une boîte inexistante,
-  donc l'adresse reste au registre et la fiche ne part **pas** au téléphone. Elle passe en
-  `A RENVOYER`, à reprendre **un autre jour** et par un autre angle — message plus court, sans aucun
-  lien hypertexte, qui est la première chose que les filtres pèsent.
-· **Aucun réessai le même jour.** Il ne ferait que confirmer le filtre, et il coûterait la
-  réputation du domaine aux deux autres campagnes.
+**⚠️ LE 12/10 À 11h57 J'AI ÉLARGI CETTE RÈGLE À TOUTE LA CLASSE `5.7.x`, ET C'ÉTAIT FAUX. KEVIN
+L'A RELEVÉ, LE DIAGNOSTIC COMPLET LUI DONNE RAISON, ET VOICI CE QUI EST VRAI.**
+Le cas : `info@alfastarglass.com`, en Arabie saoudite, a rendu `554 5.7.7 Email policy violation
+detected` deux secondes après l'envoi. **J'en ai conclu un risque sur notre réputation et j'ai
+arrêté les envois à froid de la journée. La conclusion ne tenait pas, pour une raison qui était
+écrite dans le rebond lui-même et que je n'avais pas lue : le serveur qui rejette est
+`mx.zoho.com`, c'est-à-dire le fournisseur DU DESTINATAIRE.**
+**CE QUE CELA ÉTABLIT, ET C'EST NET :**
+· **Google a ACCEPTÉ et RELAYÉ le message.** Le refus est en bout de chaîne, chez Zoho. Un refus
+  rendu par le destinataire ne dit **rien** d'une restriction de notre compte.
+· **Ce n'est pas un problème d'authentification.** Un rejet SPF, DKIM ou DMARC se présente en
+  `5.7.26`, ou nomme explicitement l'un des trois. Celui-ci ne nomme rien.
+· **Ce n'est pas une restriction générale du compte.** Une limite Google se présente autrement :
+  `550 5.4.5 Daily user sending limit exceeded`, ou un `421` de Google lui-même, et elle vient de
+  Google, pas d'un MX tiers.
+· **C'est donc un filtre de politique d'UN locataire**, sur UN domaine destinataire.
+**LA RÈGLE JUSTE, ET ELLE DISTINGUE LES CAUSES AU LIEU DE LES CONFONDRE :**
+| Code | Cause | Ce que ça dit de nous | Conduite |
+|---|---|---|---|
+| `5.7.1` rendu par un filtre anti-spam (SpamExperts, etc.) | réputation ou contenu | **signal sur nous** | la règle des serveurs distincts ci-dessous s'applique |
+| `5.7.7` « policy violation » rendu par le MX du destinataire | politique de CE locataire | **rien** | fiche en `A RENVOYER`, on continue la journée |
+| `5.7.26` ou mention de SPF/DKIM/DMARC | **authentification** | **beaucoup** — à traiter en priorité, DNS | arrêt et correction DNS |
+| `550 5.4.5`, `421` **venant de Google** | **notre quota** | limite de compte atteinte | arrêt, reprise après 24 h |
+**Et le déclencheur d'arrêt reste ce qu'il était : plusieurs serveurs DISTINCTS rendant un verdict
+de FILTRAGE le même jour.** Un seul locataire tiers ne l'atteint pas. **Les envois ont donc été
+arrêtés à tort le 12/10 à 11h57, et repris à 12h05 après ce diagnostic.**
+**La leçon de méthode, et c'est la même que le 08/10 sur le double comptage : lire le rebond en
+ENTIER, et notamment QUEL SERVEUR le rend, avant d'en tirer une conclusion sur nous.** Le
+`Remote-MTA` est la ligne qui décide.
 
 **Conduite retenue :**
 - `5.7.1` **répété** depuis un serveur déjà connu → on continue, à volume mesuré.
@@ -1703,8 +1714,32 @@ awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $9 !~ /TE
   pas davantage sur la liste blanche, donc tout contrôle MX ressortirait en faux NXDOMAIN.
   Ne pas « corriger » ce garde-fou en changeant ses témoins pour des hôtes autorisés :
   ce serait rouvrir la porte aux faux domaines morts que le §5 cherche à éviter.
-- Gmail gratuit : plafond ~500 destinataires/jour et suspension possible sur envoi froid
-  massif. On avance par lots, pas en rafale. Perdre la boîte tuerait les dossiers en cours.
+- **⚠️ LE PLAFOND DE 500 ÉTAIT CELUI DU MAUVAIS RÉGIME, ET J'AI PLANIFIÉ CONTRE LUI TOUTE LA
+  JOURNÉE DU 12/10. Corrigé à 12h05 sur demande de Kevin.** Cette ligne disait « Gmail **gratuit** :
+  plafond ~500 destinataires/jour ». Or le §10 établit que la boîte d'envoi est un compte **Google
+  Workspace** (`aaron.harfi@noxem-group.com`, domaine propre). **Le 500 est le chiffre du Gmail
+  gratuit et des comptes d'ESSAI Workspace, pas celui d'un compte Workspace actif.**
+  **Les limites documentées par Google pour Workspace**, sur fenêtre glissante de 24 h et non à
+  heure fixe : **2 000 messages par jour** par utilisateur (500 seulement en période d'essai,
+  1 500 en publipostage) · **3 000 destinataires par jour**, dont **2 000 destinataires externes
+  uniques** · 500 destinataires par message via l'API.
+  **⚠️ RÉSERVE À TENIR, ET ELLE EST RÉELLE : je ne peux pas lire la console d'administration depuis
+  cette session, donc je ne peux pas vérifier si ce compte est en essai.** Si c'en était un, le 500
+  s'appliquerait. C'est une question pour Aaron, portée dans `DECISIONS-AARON.md`.
+  **CE QUE L'ERREUR A COÛTÉ :** le 12/10 j'ai arrêté les envois à 208 en invoquant un plafond
+  partagé de 500, alors que le plafond applicable est quatre fois plus haut. **Un chiffre repris
+  d'un régime antérieur sans vérifier qu'il s'applique encore est une erreur de même nature que
+  celle du §13 sur les chiffres tapés plutôt que substitués.**
+- **ET LE `resultCountEstimate` DE `search_threads` PLAFONNE À 201, DONC IL NE MESURE RIEN AU-DELÀ —
+  mesuré le 12/10 à 12h04.** J'ai affirmé ce jour-là que l'autre campagne avait sorti « environ 201
+  messages à 10h46 », et j'ai bâti là-dessus tout l'argument du quota partagé. **Ce n'était pas une
+  mesure.** Contrôle fait : une requête dont je connaissais le vrai total — 48 messages portant le
+  sujet `Closing your file` — rend elle aussi **201**. C'est un plafond d'affichage.
+  **Conséquence pratique : la consommation de l'autre campagne n'est PAS mesurable depuis ce
+  connecteur.** Ce qui est mesurable est **ma propre** consommation, par les identifiants de message
+  consignés fiche par fiche. Pour un total partagé, il faut paginer `in:sent` jusqu'au bout, ou lire
+  le rapport d'audit de la console d'administration — ce que seul Aaron peut faire.
+  **Ne plus jamais citer un `resultCountEstimate` comme un comptage.** On avance par lots, pas en rafale. Perdre la boîte tuerait les dossiers en cours.
 - Deux boîtes : `harfiaaron9@gmail.com` (fils Maltha et GRL) et `harfiaaron0@gmail.com`
   (envois depuis le 06/10 12h47). **Répondre dans la boîte où le fil est né.**
   **ET UNE CONSÉQUENCE MESURÉE LE 08/10, qui va plus loin que « répondre au bon endroit » :
