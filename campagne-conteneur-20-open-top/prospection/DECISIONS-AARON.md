@@ -1,3 +1,88 @@
+# ⏱ LUNDI 12/10, 11h30 — LA SEULE DECISION QUI CHANGE LE CHIFFRE N'EST PLUS UN ENVOI
+
+*Bloc mis en tete a 11h31, apres une matinee de 150 messages. Il remplace la hierarchie du bloc
+de 10h23, qui suit juste en dessous et reste valable sur le fond.*
+
+## 0. LA CONSIGNE DU JOUR ETAIT 400 ENVOIS CONTENEURS. VOICI LE CHIFFRE REEL ET LA RAISON, SANS L'ARRONDIR
+
+| | |
+|---|---|
+| premiers contacts partis aujourd'hui | **34** |
+| relances parties aujourd'hui | **116** |
+| **total sorti de mes mains** | **150** |
+| rebonds durs lus | 3 encore ouverts sur 4 |
+| **envois CONFIRMES au sens du §13** | **0 avant le 15/10** |
+
+**L'ECART AVEC 400 N'EST PAS UN MANQUE D'EFFORT, C'EST UN MANQUE DE BASE, ET C'EST MESURABLE.**
+
+1. **Le registre n'a plus une seule fiche avec adresse jamais contactee dans les seize pays et
+   territoires demandes.** Guadeloupe, Martinique, Guyane, Saint-Martin, Trinite, Republique
+   dominicaine, Jamaique, La Reunion, Maurice, Madagascar, Seychelles, Maroc, Senegal, Cote
+   d'Ivoire, Ghana, Namibie : **zero**. Sur **638 fiches deja contactees** au total, c'est la
+   consequence arithmetique d'un an de prospection, pas une negligence.
+2. **Donc tout envoi supplementaire passe par de la decouverte, et le rendement est mesure ce
+   matin : 17 recherches depensees, 6 envois obtenus.** Le plafond de `WebSearch` est de **200
+   appels par tour, partages entre tous les agents**. Il vaut donc de l'ordre de **60 a 70 envois
+   neufs par tour**, pas 253.
+3. **Et le plafond de la messagerie est partage lui aussi.** La campagne destockage avait sorti
+   environ **201 messages a 10h46** ; j'en ai sorti 150. Le plafond Gmail est d'environ **500
+   destinataires par jour pour le domaine entier**. Les deux campagnes ensemble en sont a plus de
+   350. **800 au total etait hors d'atteinte des le depart, et 400 pour la seule campagne
+   conteneurs ne tenait que si l'autre campagne s'arretait.**
+
+**CE QUI SE DECIDE, ET C'EST UNE QUESTION DE REPARTITION, PAS DE VOLONTE :** sur une journee a
+500 destinataires partages, **quelle part va aux conteneurs et quelle part au destockage ?** Je ne
+tranche pas cela seul — c'est une priorite au sens du §1. Aujourd'hui la repartition s'est faite
+par ordre d'arrivee, ce qui n'est pas une decision.
+
+## 1. ⚠️ LE PLUS GROS ACTIF NON EXPLOITE DE LA CAMPAGNE EST LE TELEPHONE, ET PERSONNE N'A APPELE
+
+**136 fiches sont en `A APPELER`, et toutes portent un numero** — le controle du §12 vaut zero par
+construction depuis le 11/10. `APPELS-PRIORITAIRES.md` en extrait **les 15 qui valent le temps
+d'Aaron**, avec un objectif par appel et le creneau horaire recalcule.
+
+**Aucun de ces appels n'a ete passe.** Et voici pourquoi cela compte plus que cinquante envois de
+plus, en trois faits mesures :
+
+- **Le rendement reel de la methode de deverrouillage est de 38 % de bout en bout** (§13), pas 55 :
+  la methode trouve une adresse dans 55 % des cas et **30 % de ces adresses rebondissent en dur**.
+- **Les rebonds durs abiment la reputation du domaine partage**, donc ils coutent aux deux autres
+  campagnes. Un appel ne coute la reputation de personne.
+- **Et les fiches qui resistent a la methode sont precisement les plus grosses** : ce matin,
+  Hepburn's Glass a Kingston publie son adresse obfusquee, WM Guadeloupe porte un domaine casse
+  dans ses donnees structurees, Point Mat et Kamri Glass n'en publient aucune. **Kamri Glass a une
+  USINE a la zone industrielle de Point Lisas et une table de decoupe semi-automatique** — c'est
+  une cible de conteneur qu'aucun e-mail n'atteindra.
+
+**Decision demandee : un creneau d'appels, et qui les passe.** Je prepare les fiches, les objectifs
+et les horaires ; je ne peux pas telephoner.
+
+## 2. LE DOMAINE PARTAGE PREND DES COUPS QUI NE VIENNENT PAS DE CETTE CAMPAGNE
+
+Releve dans `in:sent` ce matin, sans aucune recherche speciale : **une trentaine de rebonds en
+domaine introuvable ou boite pleine sur la vague destockage** — Pologne, Croatie, Slovenie,
+Tchequie, Italie, Espagne. Et deux envois sont partis vers des **producteurs float**, dont un a
+`Czeslaw.Krajewski@pl.nsg.com`, NSG etant nomme au §6 parmi les concurrents.
+
+**Sur mes propres envois du jour : 4 rebonds sur 150**, dont zero sur les 116 relances — ce qui
+est coherent, ce sont des adresses deja eprouvees.
+
+**Le domaine n'a toujours pas de DMARC** (§10, verifie le 07/10). Un domaine neuf, sans DMARC, qui
+prend trente rebonds durs en une matinee, est un domaine qu'on peut perdre. **Et perdre la boite
+tuerait les quatre dossiers de prix ouverts.**
+
+**Decisions demandees :** publier un enregistrement DMARC, et nettoyer la base destockage de ses
+adresses deja rebondies avant la prochaine vague. Ce n'est pas ma base, je ne la touche pas.
+
+## 3. CE QUI RESTE INCHANGE ET PRIORITAIRE : LA GRILLE DE PRIX
+
+Les quatre dossiers du bloc de 10h23 attendent toujours. **PG Glass Namibia depuis le 28/09,
+Caribbean Glass Specialists depuis le 07/10.** Aucun envoi d'aujourd'hui ne vaut autant que l'un de
+ces deux chiffres. Et la cotation promise au Nepal pour « debut de semaine prochaine » est due
+aujourd'hui.
+
+---
+
 # ⏱ LUNDI 12/10 — CE QUI SE DÉCIDE AUJOURD'HUI, ET RIEN D'AUTRE
 
 *Bloc mis en tête à 10h23 parce que ce fichier fait 1 666 lignes et que la page « si tu ne lis
