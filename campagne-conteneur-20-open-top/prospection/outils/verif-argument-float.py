@@ -32,7 +32,7 @@ PRODUCTEURS = {
     'Tanzanie': 'Sapphire (Mkuranga)',
     'Vietnam': 'Phu My, CFG Ha Long',
     'Égypte': 'Sphinx Glass, Guardian',
-    'Brésil': 'Vivix (Goiana, PE, ~900 t/j, seul float a capital 100% national) et Cebrace (coentreprise Saint-Gobain/NSG, Jacarei, Cacapava, Barra Velha)',
+    'Brésil': 'QUATRE producteurs, nommes comme producteurs du produit similaire domestique par la\n               Circular MDIC 36 du 26/07/2024 qui ouvre l enquete antidumping float : AGC, CEBRACE,\n               GUARDIAN et VIVIX. Vivix a Goiana (PE), ~900 t/j, seul float a capital 100 pour cent\n               national. Cebrace est la coentreprise Saint-Gobain/NSG, usines Jacarei, Cacapava et\n               Barra Velha. AGC ajoute le 12/10 : l entree n en nommait que deux, donc elle\n               sous-estimait de moitie le marche le plus favorable de la campagne.',
     'Thaïlande': 'production float nationale',
     'Nigéria': 'CNG Glass (Igbesa, 500 t/j, en production depuis le 18/10/2019)',
     'Afrique du Sud': 'PFG Building Glass',

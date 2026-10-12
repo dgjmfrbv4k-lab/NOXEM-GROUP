@@ -539,6 +539,15 @@ droits et l'Europe non, l'argument américain se transpose.
     n'est pas confirmé ici.
   · Autre mesure, **autre produit** à ne pas confondre : la Gecex nº 921/2026 a prorogé
     l'antidumping sur les **vidros para linha fria** chinois, NCM 7007.19.00.
+  · **RÉSULTAT NÉGATIF DE MÉTHODE, À CONSIGNER PARCE QU'IL ÉVITE DE REFAIRE LA RECHERCHE (12/10) :
+    la piste des listes d'importateurs des dossiers antidumping NE MARCHE PAS AU BRÉSIL.** Elle a
+    donné cinq sociétés au Mexique et quatre en Colombie le même jour, et aux États-Unis elle avait
+    donné Glasscorp, WHTB, MunnWorks et Fuyao. **Mais la Circular MDIC nº 36/2024 dit que les
+    importateurs brésiliens ont été identifiés « a partir dos dados oficiais da Receita Federal » —
+    donc à partir de données fiscales NON PUBLIÉES, et la circulaire ne les nomme pas.** Elle nomme
+    les producteurs domestiques et les exportateurs étrangers, rien d'autre. **La piste reste donc
+    bonne, mais pays par pays : elle dépend de ce que l'autorité publie.** Ne pas y redépenser
+    d'appels de recherche sur le Brésil.
   **L'Europe ne figure dans AUCUNE de ces mesures.** Les origines visées sont la Chine, l'Égypte,
   les Émirats, le Mexique, la Malaisie, le Pakistan et la Turquie — l'Arabie saoudite et les
   États-Unis ayant été levés. **Donc au Brésil toutes les origines à bas coût sont frappées et
@@ -785,6 +794,7 @@ autant que sur ses prises** : huit cris pour zéro loup auraient fait ignorer le
 **Producteurs float = concurrents, pas prospects :** Obeikan, Guardian, Mediterranean Float
 Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,
 Vidrios Lirquén, **VASA** (précisé le 11/10 : *Vidriería Argentina S.A.*, née en **1938** de l'association de **NSG-Pilkington** et de **Saint-Gobain**, usines de **Llavallol** et de **Los Cardales** en province de Buenos Aires, Cardales annoncée à ~**900 t/jour** — et surtout elle **opère dans QUATRE pays : Argentine, Bolivie, Paraguay et Uruguay**, ~500 salariés. Donc *VASA Vidriería Boliviana* à Santa Cruz appartient au groupe et a été fermée ce jour-là, elle était restée en `A QUALIFIER`. `verif-argument-float.py` portait déjà les quatre pays, une session précédente ayant appliqué la règle du périmètre de la source), Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long,
+**AGC** (ajouté le 12/10 à 13h28, et c'était le trou le plus gênant de cette liste : **AGC est l'un des tout premiers producteurs de float du monde** et il n'y figurait pas, alors que son affilié **Asahimas** y est depuis le début pour l'Indonésie. La source est une pièce de dossier et non un annuaire : la **Circular MDIC nº 36 du 26/07/2024**, qui ouvre l'enquête antidumping brésilienne, identifie comme **producteurs du produit similaire domestique AGC, Cebrace, Guardian et Vivix**. **Donc le Brésil compte QUATRE producteurs float et non deux**, ce qui renforce l'interdit : ne jamais y écrire qu'il n'y a pas de production locale. Et comme pour Saint-Gobain Egypt, une filiale d'un producteur float mondial est un concurrent par nature, où qu'elle soit),
 **Ghani Glass** (Pakistan — ajouté le 12/10, et c'était un trou : ce paragraphe citait le Pakistan dans la mesure brésilienne et ne nommait que **Tariq Glass** comme producteur. La Résolution Gecex nº 833 nomme **Ghani Glass** à côté de Tariq parmi les producteurs-exportateurs de float incolore pakistanais frappés du droit de 59,97 $/t — c'est donc une **source de dossier** et non un annuaire. Le Pakistan compte ainsi au moins deux producteurs float : **ne jamais y employer l'argument du float absent**. 8 fiches pakistanaises sont au registre — chiffre substitué après avoir d'abord tapé 4, troisième comptage à la main corrigé ce jour-là),
 **Sisecam** (Turquie — ajouté le 12/10 pour la même raison et par la même source, nommée dans la Gecex nº 833 avec un droit de 73,84 $/t quand les autres Turcs paient 409,19. La Turquie est déjà exclue au titre des concurrents, donc l'entrée ne change rien au ciblage — elle évite simplement qu'une fiche Sisecam s'ouvre par méconnaissance du nom),
 **Sphinx Glass** (Égypte — ajouté le 08/10 : repéré en train d'exposer à Libya Build 2025 en se
