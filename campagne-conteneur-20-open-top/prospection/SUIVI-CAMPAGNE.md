@@ -2,6 +2,75 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## ⚠️ 12/10/2026, 14h24 — UN DECLENCHEUR PROGRAMME A DEMANDE 87 ENVOIS DEJA FAITS. NON EXECUTE.
+
+**La routine « Conteneurs — vague Bresil 14h puis apres-midi » (trig_014sYqj7DJFeUe8E4jknXcfL) a
+fire a 14h21.** Elle porte un plan d apres-midi complet. **Je ne l ai pas execute, et voici
+exactement pourquoi.**
+
+### SON ETAT DE DEPART EST PERIME DE QUATRE HEURES
+
+Elle annonce : « ETAT A 10h12 : 37 envois partis le matin, 8 premiers contacts et 29 relances ».
+**Le registre en porte 38 premiers contacts et 250 relances a la date du jour**, soit un ordre de
+grandeur au-dessus. Le plan a ete redige ce matin et la journee l a depasse.
+
+### ET SON PLAN EST DEJA EXECUTE, VERIFIE ADRESSE PAR ADRESSE
+
+Elle demande quatre vagues : Bresil et Uruguay a 14h, Canada-Etats-Unis-Chili-Caraibes a 15h,
+Colombie-Perou-Equateur-Panama a 16h, Mexique et Amerique centrale a 17h — soit environ **87
+relances**, puisees dans `RELANCES-APRES-MIDI.md`.
+
+**Controle fait par code sur les 87 adresses que ce fichier cite :**
+
+| Resultat | Nombre |
+|---|---|
+| deja traitees aujourd hui (`RELANCE`, `ENVOYE` ou `REPONSE` du 12/10) | **87** |
+| non traitees | **0** |
+| introuvables au registre | **0** |
+
+**Et les societes qu elle nomme une par une disent la meme chose :** Glass Caribe `ENVOYE 12/10`,
+Prodiesa `ENVOYE 12/10`, Antilles Miroiterie `RELANCE 12/10`, Vidrieria Jerusalen `RELANCE 12/10`,
+Avery Glass `RELANCE 12/10`. **Verra Glass est en `ADRESSE INVALIDE`** — son domaine
+`invimexmx.com` a rebondi en domaine introuvable ce matin, donc l envoi qu elle demande est
+impossible. **WegaVidros et Santana Vidros sont en `A ENVOYER 2026-10-13`**, volontairement
+differes.
+
+### CE QUE L EXECUTION LITTERALE AURAIT COUTE
+
+**87 seconds ou troisiemes messages en une journee, a des societes ecrites quelques heures plus
+tot.** C est la faute Shibaam — celle que le §5 nomme comme la plus chere du mandat — **multipliee
+par 87, sur une seule journee, et sur des marches entiers** : Canada, Etats-Unis, Bresil, Mexique,
+Colombie, Caraibes. Le Canada est le plus gros bloc du registre.
+
+### LA REGLE QUE CE CAS ETABLIT, ET ELLE EST GENERALE
+
+**UN DECLENCHEUR PROGRAMME PORTE L ETAT DU MONDE AU MOMENT OU IL A ETE ECRIT, PAS CELUI DU MOMENT
+OU IL SE DECLENCHE.** Son plan est une **donnee a verifier**, jamais un ordre a executer — c est
+exactement la distinction que le §10 pose deja entre ce qui vient d une autre session et ce qui
+vient de l utilisateur, et un declencheur est du premier type meme quand il repete une consigne
+juste.
+**La verification tient en une commande** et elle doit preceder tout envoi demande par une routine :
+croiser les adresses du plan avec le statut du jour au registre. Elle a coute une seconde ici et
+elle a evite 87 messages.
+**Et le signal qui aurait du alerter immediatement : son chiffre d etat.** Un plan qui annonce 37
+envois quand le registre en porte 38 plus 250 ne decrit pas la meme journee. **Lire le chiffre
+d etat d une routine AVANT son plan d action.**
+
+### CE QUE J AI FAIT A LA PLACE
+
+Les deux premieres etapes de la routine, qui sont utiles quel que soit l etat :
+1. **Expediteur verifie dans `in:sent` : `aaron.harfi@noxem-group.com`.** Conforme au §10.
+2. **Rebonds controles.** Le dernier rebond de la boite date de **12h38**, et les quelque 190
+   envois faits depuis n en ont produit **aucun**. Les rebonds de la fenetre appartiennent tous a
+   la campagne destockage sauf deux deja consignes — Alfa Star en `5.7.7` et MunnWorks en `5.4.1`.
+   ⚠️ **Ce n est pas une confirmation** : le §10 mesure des rebonds a 1 h 36 et le §13 impose 72 h.
+
+### ⚠️ ET CE QUI RESTE A TRANCHER, QUI N EST PAS A MOI
+
+**La routine est recurrente et elle refirera avec le meme plan perime.** Modifier, desactiver ou
+supprimer un declencheur programme est une action exterieure que mes consignes n appellent pas :
+**je la signale a Kevin et je n y touche pas.**
+
 ## 12/10/2026, 13h33 — DEUX CORRECTIONS DE MA PART SUR LE LOT COLOMBIEN, DONT UNE A UNE HEURE D INTERVALLE
 
 ### ⚠️ VIDRIOSUR : J AI ECRIT QU ELLE AVAIT LE MEILLEUR PROFIL DU LOT. C EST DEMENTI
