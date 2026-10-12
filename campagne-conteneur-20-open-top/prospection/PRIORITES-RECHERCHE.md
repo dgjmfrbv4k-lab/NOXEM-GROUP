@@ -7,8 +7,8 @@ que le paragraphe 13 decrit sont mesures ce matin et ils sont quasiment vides :
 
 | Gisement | Reste | Etat |
 |---|---|---|
-| Rebonds avec domaine propre, jamais retestes | **6** | le meilleur gisement du 08/10, epuise |
-| Fiches avec site et sans adresse | **5** | epuise, et les trois restantes sont documentees comme definitivement telephoniques |
+| Rebonds avec domaine propre, jamais retestes | **6** | le meilleur gisement du 08/10, epuise. ⚠️ J avais compte 4 ce matin sur un filtre plus etroit, qui ne retenait que ADRESSE INVALIDE et A RENVOYER : les deux chiffres sont justes pour leur filtre, et c est pourquoi un comptage se lit toujours avec sa definition |
+| Fiches avec site et sans adresse | **5** | epuise, et la plupart sont documentees comme definitivement telephoniques |
 | Fiches sans site ni adresse | **210** | gros, mais voir ci-dessous |
 
 **Et les 210 fiches du troisieme gisement ne valent pas ce que leur nombre suggere**, pour deux
