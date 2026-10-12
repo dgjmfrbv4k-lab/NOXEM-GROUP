@@ -2053,3 +2053,65 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 41. Garante Vidros (Santo André, SP) — `comum@garantevidros.com.br` — PORTUGAIS — à envoyer le 13/10
+
+**⚠️ VERIFIE, écrit le 12/10 à 18h13 :**
+· **Règle Prodiesa** — elle trempe **et** feuillette, donc **ni trempé ni feuilleté dans l'offre** :
+  seulement le **substrat float clair et extra-clair**, et le texte le lui dit en clair.
+· **Argument douanier servi avec les trois précautions du §6** — la mesure est nommée par sa portée
+  (Malaisie, Pakistan, Turquie), l'Europe non visée, **aucun taux cité**, et **rien sur le coût rendu**,
+  le droit ordinaire brésilien n'étant pas établi entre 9 et 25 pour cent.
+· **Et l'argument n'est servi que sur le float clair**, qui est précisément ce que nous proposons ici —
+  la mesure **exclut** le miroir et le teinté, donc il y serait faux.
+· **Jamais « pas de production locale »** : quatre producteurs au Brésil.
+· Aucun prix, aucun délai, aucun certificat · formule imposée · signature une fois · porte de sortie.
+
+```
+Bom dia,
+
+Esta e uma oferta de FORNECIMENTO, nao um pedido de cotacao. Se nao e o senhor
+quem decide as compras de vidro, agradeco que encaminhe a quem decide.
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano perto de Lyon, na Franca.
+
+Escrevo porque a empresa se apresenta como fabricante de vidros temperados e
+laminados. Isso quer dizer que voces compram CHAPA e a transformam. Nao lhes
+ofereco temperado nem laminado, que e o que voces fazem: ofereco a materia
+prima, e e exatamente ai que podemos ser uteis.
+
+O que podemos fornecer:
+
+- Float incolor, nas espessuras que a sua linha consome
+- Float extra-claro, de baixo teor de ferro
+
+Um ponto que talvez ja conhecam, e que menciono porque muda a comparacao entre
+origens: o float incolor originario da Malasia, do Paquistao e da Turquia passou
+a ter direito antidumping no Brasil, e a origem europeia nao esta entre as
+origens atingidas. Nao estou dizendo que o nosso vidro e barato, estou dizendo
+que a comparacao entre origens mudou.
+
+Trabalhamos em CONTEINER COMPLETO, em caixas de madeira tratada NIMP-15, em
+jumbo de 3210 x 2550 mm ou nas medidas que voces pedirem, entregue no porto de
+destino.
+
+Podemos estabelecer uma oferta para a entrega no seu porto de destino, sob
+reserva de validacao da nossa parte.
+
+Para isso preciso de quatro coisas: as espessuras que mais consomem, as medidas
+que lhes servem, um volume aproximado e a frequencia de compra, e o porto.
+
+E se ja estao comprometidos com o fornecedor atual, digam com franqueza e nao
+insistirei.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

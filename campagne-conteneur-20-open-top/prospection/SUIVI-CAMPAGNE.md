@@ -1,5 +1,33 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 18h14 (12/10) — LE CONTROLEUR DE TEXTES APPREND LA DIFFERENCE ENTRE INTERDIT ET CONDITIONNEL
+
+Texte 41 ecrit pour **Garante Vidros**, en portugais — le dernier des 11 envois programmes au 13/10.
+Le controleur l a aussitot signale pour le mot **antidumping**.
+
+**ET C ETAIT UN FAUX POSITIF DE CONCEPTION, pas une faute du texte.** Le §6 **interdit** d ecrire quoi
+que ce soit sur la fiscalite a l entree a un prospect **mexicain** ou des **DOM**, et il **autorise
+expressement** l argument douanier au **Bresil**, ou il impose seulement une formulation prudente —
+nommer la Malaisie, le Pakistan et la Turquie, dire que l Europe n est pas visee, ne citer aucun taux.
+**Un mot dont la licite depend du PAYS ne peut pas etre interdit en bloc** : l interdire supprimerait un
+argument juste, le permettre laisserait passer une faute grave.
+
+**Correctif : une liste CONDITIONNELS distincte.** `antidumping`, `droits de douane`, `tariff`, `duty`,
+`cuota`, `octroi de mer` ne comptent plus comme defauts — ils sont **signales**, et ils ne deviennent un
+defaut que si le commentaire de la section **ne cite pas le §6**, c est-a-dire si l auteur n a pas dit
+pourquoi il s y autorise. **Verifie dans les deux sens** : sur le fichier reel le 41 ressort en signalement
+et zero defaut ; sur un jeu d essai ou la mention du §6 est retiree, il ressort en defaut.
+
+**C est le meme principe que la neutralisation phrase par phrase de `verif-argument-float` : on ne
+supprime pas le signal, on demande la justification.** Et c est la deuxieme fois en une heure que ce
+controleur est corrige plutot que contourne — la premiere pour 39 faux positifs, celle-ci pour un seul,
+mais un seul faux positif sur un argument central suffit a faire desactiver un garde-fou.
+
+**Note d execution, mineure et a dire quand meme :** la premiere ecriture du texte 41 a echoue sur un
+`%` litteral dans la phrase « entre 9 et 25 % ». L exception est tombee **avant** l ecriture, donc le
+fichier est reste intact — le script a ete repris avec une substitution par jetons, qui ne depend
+d aucun caractere du texte.
+
 ## 18h12 (12/10) — LOT BRESILIEN : CINQ FICHES, ET TROIS CLASSEMENTS QUE LA LECTURE A CHANGES
 
 **⚠️ ET D ABORD UNE ERREUR DE MA PART, parce qu elle est dans le motif meme du lot.** J ai ouvert cette

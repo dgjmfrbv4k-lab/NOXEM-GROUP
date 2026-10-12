@@ -43,9 +43,24 @@ INTERDITS = [
     r'\bcertificad\w*\b', r'\bcertificat\w*\b', r'\bISO\s?9', r'\bd[ée]lais?\b',
     r'\bdescuento\b', r'\bremise\b', r'\bgarantia\b', r'\bgarantie\b', r'\bwarranty\b',
     r'\bpas de production locale\b', r'\bno local production\b',
-    r'\bdroits? de douane\b', r'\btariffs?\b', r'\bdut(y|ies)\b', r'\bantidumping\b',
     r'\blead ?times?\b', r'\bdelivery times?\b', r'\bplazo de entrega\b',
 ]
+
+# CONDITIONNELS — ni interdits ni libres, et c est pour cela qu ils ont leur
+# propre liste. Trouve le 12/10 a 18h13 : le controleur a signale « antidumping »
+# dans le texte bresilien n 41 comme une faute. C EN EST UNE AU MEXIQUE ET DANS
+# LES DOM, ou le §6 interdit d ecrire quoi que ce soit sur la fiscalite a
+# l entree. C EST AU CONTRAIRE L ARGUMENT CENTRAL AU BRESIL, ou le meme §6
+# l autorise expressement et impose seulement une formulation prudente.
+# **Un mot dont la licite depend du PAYS ne peut pas etre interdit en bloc** —
+# l interdire ferait supprimer un argument juste, le permettre laisserait passer
+# une faute grave. Il est donc SIGNALE, et il ne compte comme defaut que si le
+# commentaire de la section ne cite pas le §6, c est-a-dire si l auteur n a pas
+# dit pourquoi il s y autorise. C est le meme principe que la neutralisation
+# phrase par phrase de verif-argument-float : on ne supprime pas le signal, on
+# demande la justification.
+CONDITIONNELS = [r'\bantidumping\b', r'\bdroits? de douane\b', r'\btariffs?\b',
+                 r'\bdut(y|ies)\b', r'\bcuota\b', r'\boctroi de mer\b']
 FORMULE = ['subject to validation on our side',
            'sous reserve de validation de notre cote',
            'sous réserve de validation de notre côté',
@@ -62,6 +77,7 @@ parts = re.split(r'^## (\d+)\.\s*(.+)$', texte, flags=re.M)
 sections = [(int(parts[i]), parts[i + 1], parts[i + 2]) for i in range(1, len(parts), 3)]
 
 verifies = ignores = defauts = 0
+avertis = []
 print('%s : %d section(s), controle a partir du n° %d\n' % (SRC, len(sections), DEPUIS))
 for num, titre, corps_section in sections:
     if num < DEPUIS:
@@ -79,6 +95,12 @@ for num, titre, corps_section in sections:
         mots = [m for m in INTERDITS if re.search(m, t, re.I)]
         if mots:
             pb.append('MOT INTERDIT %s' % mots)
+        cond = [m for m in CONDITIONNELS if re.search(m, t, re.I)]
+        if cond:
+            if '§6' in corps_section:
+                avertis.append((num, titre, cond))
+            else:
+                pb.append('MOT CONDITIONNEL %s SANS JUSTIFICATION §6 dans le commentaire' % cond)
         if not any(f in plat for f in FORMULE):
             pb.append('FORMULE IMPOSEE ABSENTE')
         n = plat.count(SIGNATURE)
@@ -94,7 +116,11 @@ for num, titre, corps_section in sections:
             for p in pb:
                 print('      %s' % p)
 
-print('\n%d texte(s) controle(s), %d anterieur(s) ignore(s), %d a corriger.'
-      % (verifies, ignores, defauts))
+for num, titre, cond in avertis:
+    print('  ! %d. %s' % (num, titre[:66]))
+    print('      mot conditionnel %s — justifie par une mention du §6 dans le commentaire' % cond)
+
+print('\n%d texte(s) controle(s), %d anterieur(s) ignore(s), %d a corriger, %d signale(s).'
+      % (verifies, ignores, defauts, len(avertis)))
 if not defauts:
     print('Aucun. Les textes respectent les interdits du §5 et la forme du §9.')
