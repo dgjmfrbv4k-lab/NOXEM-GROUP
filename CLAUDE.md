@@ -505,6 +505,31 @@ droits et l'Europe non, l'argument américain se transpose.
   · **Résolution Gecex nº 833/2025 : droit définitif sur le float incolore de 1,8 à 20 mm
     originaire de MALAISIE, du PAKISTAN et de TURQUIE.** La Gecex nº 961 du 03/09/2026 a rejeté le
     recours en reconsidération d'ABIVIDRO : **la mesure tient.**
+    **LES TAUX, TROUVÉS LE 12/10 À 13h21, ET ILS CHIFFRENT ENFIN L'AVANTAGE.** Ce paragraphe nommait la
+    mesure sans jamais dire combien elle coûte. Droit **spécifique en dollars par tonne**, adopté à la
+    232ᵉ réunion du Gecex le 18/12/2025 : **Malaisie** 18,30 pour Xinyi Energy Smart Malaysia et
+    **130,28 pour les autres** ; **Pakistan 59,97** pour Ghani Glass, Tariq Glass et les autres ;
+    **Turquie** 73,84 pour Sisecam et **409,19 pour les autres**. Mis en regard du repère de prix
+    indien de 374 $/t, un droit de 130 $/t sur la Malaisie et de 409 $/t sur la Turquie hors Sisecam
+    n'est pas un détail : **c'est de l'ordre du tiers au doublement du prix de la marchandise.**
+    **⚠️ ET LA PORTÉE EST BEAUCOUP PLUS ÉTROITE QUE CE PARAGRAPHE NE LE LAISSAIT CROIRE — c'est la
+    correction qui compte le plus ici.** La mesure **EXCLUT** expressément : le verre de **moins de
+    1,8 mm et de plus de 20 mm**, le verre **réfléchissant ou MIROIR**, le verre **TEINTÉ**, et le
+    verre **coloré dans la masse** en sortie de float. **Donc l'avantage douanier brésilien ne vaut
+    QUE sur le float clair de 1,8 à 20 mm.** Sur notre **miroir sans cuivre ni plomb** — le produit le
+    plus différenciant de la gamme au §8 — et sur le **teinté**, les origines asiatiques entrent au
+    Brésil **sans aucun antidumping**, exactement comme au Pérou. Ne jamais servir l'argument douanier
+    brésilien sur un miroir ou un teinté : il est faux sur ces références.
+    **⚠️ ET UNE RÉSERVE DE PLUS SUR « la mesure tient » :** la **Gecex nº 936 du 02/07/2026** a traité
+    des recours en reconsidération de **Tariq** et de **Sisecam**, et **leur issue n'est pas vérifiée**.
+    Celui d'ABIVIDRO a été rejeté, ce qui est l'inverse — ABIVIDRO demandait *plus*. Donc la mesure
+    tient **sous réserve** de ces deux recours-là, et c'est à lire avant de s'en servir.
+    **ET UN FAIT NEUF À VERSER À LA QUESTION DU TARIF ORDINAIRE, non vérifié mais convergent :** une
+    source de la filière titre que le gouvernement **a augmenté le droit d'importation du verre
+    FEUILLETÉ** et renouvelé celui du float incolore. Si c'est exact, cela touche directement le
+    dossier **Miro Est**, dont trois des cinq références sont du feuilleté — mais sur le Brésil, pas
+    sur La Réunion. **À lire au Siscomex avant tout usage**, comme le 9 contre 25 pour cent qui reste
+    ouvert.
   · **Résolution Gecex nº 160/2021** : prorogation du droit sur le float incolore de 2 à 19 mm
     (NCM 7005.29.00) de **Chine, Égypte, Émirats et Mexique**, le Mexique étant immédiatement
     suspendu. **Échéance au 19/02/2026.** Une revue de fin de période a été ouverte par la
@@ -745,6 +770,8 @@ autant que sur ses prises** : huit cris pour zéro loup auraient fait ignorer le
 **Producteurs float = concurrents, pas prospects :** Obeikan, Guardian, Mediterranean Float
 Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,
 Vidrios Lirquén, **VASA** (précisé le 11/10 : *Vidriería Argentina S.A.*, née en **1938** de l'association de **NSG-Pilkington** et de **Saint-Gobain**, usines de **Llavallol** et de **Los Cardales** en province de Buenos Aires, Cardales annoncée à ~**900 t/jour** — et surtout elle **opère dans QUATRE pays : Argentine, Bolivie, Paraguay et Uruguay**, ~500 salariés. Donc *VASA Vidriería Boliviana* à Santa Cruz appartient au groupe et a été fermée ce jour-là, elle était restée en `A QUALIFIER`. `verif-argument-float.py` portait déjà les quatre pays, une session précédente ayant appliqué la règle du périmètre de la source), Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long,
+**Ghani Glass** (Pakistan — ajouté le 12/10, et c'était un trou : ce paragraphe citait le Pakistan dans la mesure brésilienne et ne nommait que **Tariq Glass** comme producteur. La Résolution Gecex nº 833 nomme **Ghani Glass** à côté de Tariq parmi les producteurs-exportateurs de float incolore pakistanais frappés du droit de 59,97 $/t — c'est donc une **source de dossier** et non un annuaire. Le Pakistan compte ainsi au moins deux producteurs float : **ne jamais y employer l'argument du float absent**. 8 fiches pakistanaises sont au registre — chiffre substitué après avoir d'abord tapé 4, troisième comptage à la main corrigé ce jour-là),
+**Sisecam** (Turquie — ajouté le 12/10 pour la même raison et par la même source, nommée dans la Gecex nº 833 avec un droit de 73,84 $/t quand les autres Turcs paient 409,19. La Turquie est déjà exclue au titre des concurrents, donc l'entrée ne change rien au ciblage — elle évite simplement qu'une fiche Sisecam s'ouvre par méconnaissance du nom),
 **Sphinx Glass** (Égypte — ajouté le 08/10 : repéré en train d'exposer à Libya Build 2025 en se
 présentant comme producteur float de premier plan au Moyen-Orient et en Afrique du Nord. C'est
 donc un concurrent sur toute la zone, et un concurrent actif commercialement en Libye),

@@ -19,10 +19,10 @@ import io, re, sys
 
 # Pays dont le §6 nomme un producteur, ou qu un producteur voisin dessert directement.
 PRODUCTEURS = {
-    'Arabie saoudite': 'Obeikan, Zoujaj, Guardian',
+    'Arabie saoudite': 'Obeikan, Zoujaj, Guardian et Arabian United Float Glass (UFG) : quatre\n                        producteurs, le marche le mieux pourvu de la zone',
     'Algérie': 'Mediterranean Float Glass / Cevital',
-    'Pakistan': 'Tariq Glass',
-    'Bangladesh': 'PHP Float Glass',
+    'Pakistan': 'Tariq Glass ET Ghani Glass, tous deux nommes producteurs-exportateurs de float\n                 incolore par la Resolution Gecex 833/2025 du Bresil, droit de 59,97 USD/t.\n                 Ghani ajoute le 12/10 : l entree ne nommait que Tariq, donc elle sous-estimait\n                 le marche. Source de dossier, pas annuaire.',
+    'Bangladesh': 'PHP Float Glass et Nasir Float Glass Industries (premier float du pays, en\n                   service depuis 2005, complexe de Tangail, ~55 pour cent du marche local)',
     'Azerbaïdjan': 'Azerfloat',
     'Mexique': 'Vitro via Vidrio Plano de Mexico, et Guardian Industries de Mexico (float et miroir)',
     'Indonésie': 'Asahimas',
