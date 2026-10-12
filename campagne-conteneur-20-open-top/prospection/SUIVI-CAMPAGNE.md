@@ -1,5 +1,87 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 12/10/2026, 15h44 — LES CINQ IMPORTATEURS DOCUMENTES SANS COORDONNEES, TRAITES JUSQU AU BOUT
+
+Dernier gisement ouvert par la piste des dossiers douaniers. **Cinq fiches traitees, cinq resultats
+differents, et deux sont des fermetures — ce qui est un resultat et non un echec.**
+
+| Fiche | Resultat | Statut |
+|---|---|---|
+| **Arquicentro del Prado** (Barranquilla) | identite et metier etablis, domaine mort | `A APPELER` |
+| **Dividrios S.A.S.** (Dosquebradas) | identite et NIT etablis, pas de domaine | `A APPELER` |
+| **Ermita Comercial Vidriera** (Mexique) | recherche sterile, nom non commercial | `A QUALIFIER` |
+| **Atzel Glass** (Colombie) | recherche sterile, aucune trace | `A QUALIFIER` |
+| **Wham Picture** (Mexique) | **hors perimetre, ferme** | `ECARTE — HORS PERIMETRE` |
+
+**LA MEILLEURE DES CINQ EST ARQUICENTRO, ET SON ACTIVITE EST LITTERALEMENT LA NOTRE :** achat et
+vente de *vidrios y espejos en LAMINAS*, en feuilles, plus transformation et revente **en Colombie
+et a l etranger**. Via 40 No 78-21, immatriculee depuis 1984. **Mais le second temps est negatif** :
+`arquicentrosa.com` est cite par deux annuaires et ne rend aucune page — piege du domaine parque du
+§13 pris par l autre bout. Trois telephones contradictoires, a essayer dans l ordre.
+**⚠️ Et une reserve qui releve du §11 : un profil la nomme *en Acuerdo de Restructuracion*.** Si c est
+encore le cas, la condition de paiement devient la question centrale et c est Aaron qui tranche. A
+etablir a l appel, et a ne jamais mentionner au prospect.
+
+**⚠️⚠️ ET WHAM PICTURE DONNE LA LECON DE METHODE QUI MANQUAIT A TOUTE LA PISTE : LA PRESENCE D UN NOM
+DANS UNE LISTE D IMPORTATEURS N EST PAS UNE QUALIFICATION.** La Resolution Preliminaire du 13/06/2025
+la nomme bien et elle a produit une facture d achat — **mais le meme texte precise que Vitro a declare
+qu elle n avait importe du float clair QU UNE SEULE FOIS, pour des essais internes sur un projet
+ensuite annule.** Et son metier reel n a rien a voir avec le verre : importatrice-distributrice pour
+le marche erotique selon ses propres profils, grossiste en jouets et bicyclettes selon un annuaire de
+Naucalpan. **Le dossier dit aussi COMBIEN et POURQUOI, et il faut le lire.** La piste reste excellente
+— elle a donne Glasscorp, WHTB, TECESA, Prodiesa et Vidrios de la Sabana — **mais elle se lit, elle ne
+se recopie pas.**
+
+**Et les deux recherches steriles se consignent pour ne pas etre refaites.** Ermita et Atzel sont tres
+probablement des raisons sociales que la societe n emploie pas commercialement, alors que le premier
+temps de la methode cherche un nom d enseigne. Ce qui manque est le RFC ou le numero de registre, donc
+le texte du DOF et celui de l expediente MinCIT — **exactement l acces demande dans
+`DECISIONS-AARON.md`.** Aucun appel de recherche a redepenser sur ces deux noms.
+
+## 12/10/2026, 15h44 — DEUX FICHES NEUVES TROUVEES EN MARGE, ET LA REGLE PRODIESA APPLIQUEE A L ENDROIT
+
+Les recherches steriles ci-dessus ont rendu autre chose : **deux transformateurs avec une adresse
+publiee sur leur propre domaine**, greppes un par un avant creation.
+
+- **Widrio** (Bogota) — templadora, **fabrique de miroirs**, ventanas termo-acusticas, vidrio
+  inteligente. `pedidos@widrio.com`.
+- **Vitromas** (Tlalnepantla) — trempe, feuilletage, **vitrage isolant**, depolissage, PVC.
+  `ventas@vitromas.com`, lu sur la page *Contacto* affichee et non dans les donnees structurees.
+
+**⚠️ ET C EST LA REGLE PRODIESA DU §6 APPLIQUEE AVANT D ECRIRE, POUR LA PREMIERE FOIS :** les deux
+trempent et l une argente, **donc elles sont CONCURRENTES sur le trempe et sur le miroir et PROSPECTS
+sur le float substrat.** Ni trempe ni miroir dans l offre — seulement le **float clair et extra-clair**,
+plus le **low-E** pour l isolant, qui est la seule reference ou nous ne sommes pas en face d elles. Le
+matin meme, la meme situation chez Prodiesa a produit l erreur inverse : le miroir propose en premiere
+position a un fabricant de miroir. **La fiche porte la regle, pas seulement le mandat.**
+
+Et l interdit mexicain du §6 est inscrit dans la fiche Vitromas : **rien sur les droits de douane**, ni
+cuota du float ni enquete miroir, et jamais « pas de production locale » — Vitro produit au Mexique.
+
+## ⚠️ 12/10/2026, 15h44 — LE 12 OCTOBRE EST FERIE EN COLOMBIE AUSSI, ET J AVAIS ECRIT LE CONTRAIRE
+
+Troisieme pays ferie du jour apres le Canada et les Etats-Unis, trouve **apres** avoir ecrit la regle
+du calendrier. **Sept messages colombiens sont partis bureaux fermes.**
+
+**Et la faute est pire que celle du matin, parce que j avais ecrit le contraire dans une fiche :** celle
+de Vidrios de la Sabana portait « jour ouvre verifie en Colombie ». **Je ne l avais pas verifie, je l
+avais suppose apres avoir verifie le Canada et les Etats-Unis** — j ai etendu a un pays une verification
+faite pour un autre, exactement le defaut du §6 sur le perimetre de la source. La fiche est corrigee et
+porte le fait juste.
+
+**LA LECON DURABLE N EST PAS LA DATE, C EST LA LEY EMILIANI DE 1983 :** elle reporte les feries
+colombiens au **LUNDI** suivant, une quinzaine de fois par an. **La Colombie est donc fermee environ un
+lundi par mois — precisement le jour ou l on ouvre une semaine d envois.** Prochain : **lundi 2
+novembre**. Porte au §13 du mandat, avec l obligation de verifier le lundi sur la Colombie et de
+chercher la meme loi de report ailleurs en Amerique latine.
+
+**Conduite inchangee : on ne renvoie pas le lendemain.** Les sept messages sont partis, ils sont
+consignes, et leurs echeances se calculent a partir du 12.
+
+**Etat du registre apres ce lot : 1117 fiches, 5 envois dates au 13/10, 136 fiches en `A APPELER`
+portant toutes un numero. Zero ligne malformee, zero statut vide, zero doublon d adresse, zero fiche
+affirmant l absence de float la ou il y en a.**
+
 ## ⚠️⚠️ 12/10/2026, 15h37 — FAUTE SUR LA REPONSE A MIRO EST : J AI AJOUTE CE QUI N ETAIT PAS DICTE
 
 **Relevee par Kevin lui-meme, et elle est plus grave que celle de John le 08/10 parce que cette

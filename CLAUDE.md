@@ -1733,6 +1733,23 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   **Et ce qui ne se fait PAS : renvoyer le lendemain.** Ce serait un deuxième message en deux jours,
   donc la faute Shibaam, qui coûte bien plus cher qu'un mauvais timing. Le message est parti, il se
   consigne, et la prochaine échéance se calcule à partir de ce jour-là.
+  **⚠️ ET LE MÊME JOUR EST FÉRIÉ DANS UN TROISIÈME PAYS QUE JE N'AVAIS PAS VÉRIFIÉ — LA COLOMBIE,
+  TROUVÉ À 15h42, APRÈS AVOIR ÉCRIT CETTE RÈGLE-CI.** Le 12/10/2026 est le **Día de la Diversidad
+  Étnica y Cultural**, dit *Día de la Raza*, férié national colombien. **Sept messages colombiens sont
+  partis bureaux fermés**, qui s'ajoutent à la trentaine de canadiens et à la quinzaine d'américains.
+  **Et la faute est pire que celle du matin, parce que j'avais écrit le contraire dans une fiche :** la
+  fiche Vidrios de la Sabana portait « jour ouvré vérifié en Colombie ». **Je ne l'avais pas vérifié,
+  je l'avais supposé après avoir vérifié le Canada et les États-Unis** — c'est-à-dire que j'ai étendu
+  à un pays une vérification faite pour un autre, exactement le défaut du §6 sur le périmètre de la
+  source. La fiche est corrigée et porte désormais le fait juste.
+  **LA LEÇON DURABLE N'EST PAS LA DATE, C'EST LA LEY EMILIANI DE 1983 :** elle **reporte les fériés
+  colombiens au LUNDI suivant**, et il y en a une quinzaine dans l'année. **Donc la Colombie est fermée
+  un lundi par mois en moyenne — précisément le jour où l'on ouvre une semaine d'envois.** Prochain :
+  le **lundi 2 novembre**, report de la Toussaint. **Sur la Colombie, vérifier le lundi est obligatoire
+  et non optionnel**, et la même loi de report existe ailleurs en Amérique latine, à vérifier pays par
+  pays avant d'ouvrir une vague un lundi.
+  **Et la conduite ne change pas : on ne renvoie pas le lendemain.** Les sept messages sont partis, ils
+  sont consignés, et leurs échéances se calculent à partir du 12.
 
   **QUATRIÈME SIGNATURE DE REBOND, qu'il faut ajouter aux trois ci-dessous : LE SERVEUR NE RÉPOND
   PAS.** Code `4.4.1`, « the recipient server did not accept our requests to connect », délai d'attente

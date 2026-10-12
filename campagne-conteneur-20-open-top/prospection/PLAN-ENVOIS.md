@@ -340,9 +340,17 @@ que c etait la vraie contrainte : compter ce qui est **reellement** sorti du dom
 
 # FILE DU MARDI 13/10 — ETABLIE LE 12/10 A 13h10, ET C EST ICI QUE LE VOLUME SE TROUVE
 
-**101 envois disponibles demain contre 3 aujourd hui**, et la raison est arithmetique : les cohortes du
-07/10 arrivent a echeance. **92 secondes relances** (`RELANCE 2026-10-07`) et **6 premieres relances**
-(`ENVOYE 2026-10-07`), plus **3 envois deja programmes**.
+**103 envois disponibles demain**, et la raison est arithmetique : les cohortes du 07/10 arrivent a
+echeance. **92 secondes relances** (`RELANCE 2026-10-07`) et **6 premieres relances**
+(`ENVOYE 2026-10-07`), plus **5 envois deja programmes** — chiffres substitues depuis le registre et
+non tapes, comme le §13 l impose.
+
+**Les 5 programmes, dans l ordre d ouverture :** All Season Glass (Belize, differee pour le ferie),
+WegaVidros et Santana Vidros (textes #29 et #30 de `TEXTES-PRETS.md`), puis les deux fiches ouvertes le
+12/10 en fin d apres-midi — **Widrio** (Bogota) et **Vitromas** (Tlalnepantla). **Sur ces deux-la,
+l offre ne porte QUE le float clair et extra-clair et le low-E : elles trempent, et Widrio argente,
+donc le trempe et le miroir sont des references ou elles sont nos concurrentes** (regle Prodiesa du
+§6, appliquee avant l ecriture et non apres).
 
 ## LA FILE EST PROPRE, ET CE N EST PAS UNE IMPRESSION — C EST UN CONTROLE PASSE PAR CODE
 
@@ -376,7 +384,7 @@ prochaine echeance se calcule a partir du 12/10.
 
 ## REPARTITION PAR LANGUE
 
-**EN 84 · PT 6 · FR 4 · ES 4** — la file est a 86% anglophone, ce qui permet de grouper les vagues sans reecrire.
+**EN 84 · PT 6 · ES 6 · FR 4** — la file reste tres majoritairement anglophone, ce qui permet de grouper les vagues sans reecrire. Les deux espagnoles ajoutees le 12/10 au soir sont Widrio et Vitromas.
 
 ## LE GABARIT, ET IL Y EN A DEUX A NE PAS CONFONDRE
 
