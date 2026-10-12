@@ -157,3 +157,15 @@ Textes dans `TEXTES-PRETS.md`. Fenetres : Bresil 14h, Etats-Unis et Canada 15h, 
 4. Controler les rebonds apres chaque vague, et ne compter un envoi qu apres 72 heures.
 5. Signature dans le corps, **une seule fois** — Gmail n en ajoute aucune par l API.
 
+## AJOUT DE 10h26 — deux fiches americaines creees dans la matinee
+
+Elles ne figuraient pas dans la liste ci-dessus, qui a ete ecrite avant leur creation.
+**A tirer dans la vague de 15h avec les autres americaines**, textes 27 et 28 de `TEXTES-PRETS.md` :
+
+- **ODL Inc.** (Zeeland MI et Gallatin TN) `doorglass_info@odl.com`
+- **Trinity Glass International** (Federal Way WA) `contact.trinityglass@trinityglass.com`
+
+Toutes deux sortent de l exhibit I-7 des importateurs de float, donc il est etabli au dossier
+qu elles importent. **Troisieme fiche de cette provenance restee de cote : RSL LLC**, a Egg Harbor
+Township dans le New Jersey, dont le metier n est pas etabli — le paragraphe 5 interdit d ouvrir la
+fiche avant, donc elle n a pas ete creee. Piste a qualifier.

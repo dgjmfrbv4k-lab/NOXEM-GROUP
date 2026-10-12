@@ -1165,3 +1165,125 @@ Y si su abastecimiento esta cerrado y les funciona, diganmelo sin mas: no insist
 
 (Nuestro sitio solo existe en frances y en ingles. Si prefieren, respondanme en espanol.)
 ```
+
+---
+---
+
+# DEUX TEXTES DE PLUS — fiches creees le 12/10 a 10h27 depuis l exhibit des importateurs
+
+Provenance : la liste des importateurs americains de float versee au dossier de droits
+compensateurs. **Il est etabli au dossier qu ils importent du float**, ce qu aucun annuaire ne dit.
+
+## 27. ODL Inc. — `doorglass_info@odl.com` — ANGLAIS
+
+**Objet :** `Clear doorglass substrate - second origin, landed at your port`
+
+⚠️ **TROIS RESERVES.** (1) **Ne citer aucun taux comme une promesse de prix** : les droits du
+06/04/2026 sont des faits douaniers, pas notre tarif, et le §6 l impose. (2) **Ne pas dire que
+notre verre est bon marche** : on dit que les deux origines les moins cheres portent desormais des
+droits, ce qui change la comparaison. (3) **Ne pas nommer le service devis** `customquotes@`,
+trouve sur un listing tiers et non recoupe sur leur domaine.
+**L angle, et il est solide :** le vitrage de porte aux Etats-Unis doit etre un verre de securite,
+donc trempe ou feuillete — ce n est pas une preference, c est le code. Et ils ont **deux sites**,
+Zeeland et Gallatin, ce qui est l argument du volume groupe.
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to you because of what you actually make rather than because of anything I could guess
+about the door market: decorative and clear doorglass, and enclosed blinds, from Zeeland and from
+Gallatin. Three generations and a company that started as Zeeland Sash and Door in 1951 does not
+need an introduction to glass. What it does need, from time to time, is another place to buy it.
+
+That is the whole of my proposition, and there is a reason it is worth reading this year rather than
+last year. The two origins that set the floor price on imported float into the United States both
+carry duties since April of this year. I am not telling you our glass is cheap - I am telling you
+that the comparison between origins has changed, and that a buyer who priced his substrate before
+April is pricing against a market that no longer exists. The duty rates are customs facts, not our
+tariff, and I am not quoting them as one.
+
+What we supply, against what you build:
+
+- clear and extra-clear float, the base for clear doorglass: https://noxemgroup.com/en/float-glass/
+- toughened, because safety glazing in a door is code and not a preference:
+  https://noxemgroup.com/en/tempered-glass/
+- low-E, since a door is part of the envelope and gets measured with the rest of it:
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+How we ship: full containers, heat-treated ISPM-15 timber crates, paper interleaved. Jumbo sheets or
+cut to your sizes. And since you run two plants, a container can be composed for one or split across
+both - that is usually where the arithmetic gets interesting.
+
+We can put together an offer delivered to your port of destination, subject to validation on our
+side.
+
+Four things would let me do that: the references and thicknesses that move the most volume, your
+sheet sizes, your annual volume and buying frequency, and which port each plant is served through.
+
+And if your substrate supply is settled and you are happy with it, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+International distribution of flat glass & building materials
+Mobile / WhatsApp: +33 6 86 13 12 71
+Office: +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+## 28. Trinity Glass International — `contact.trinityglass@trinityglass.com` — ANGLAIS
+
+**Objet :** `Glass for patio doors and lites - a second origin from France`
+
+⚠️ **Memes trois reserves que ci-dessus.** Et **ne pas citer l adresse de siege de l agregateur**,
+contredite par leur propre site et par le registre de l Etat de Washington.
+**L angle :** une baie coulissante est la plus grande surface vitree d une maison apres la facade,
+et elle est vendue en unite scellee — donc le low-E et la constance d epaisseur y comptent
+directement. Et ils portent **deux marques en propre**, SIGNAMARK et FeatherRiver, ce qui veut dire
+qu ils repondent eux-memes de la performance annoncee.
+
+```
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter based near Lyon,
+France.
+
+I am writing to you because of the patio door side of what you make. A sliding patio door is the
+largest single piece of glass in most houses after the facade, it is sold as a sealed unit, and the
+numbers printed on the label are yours to answer for - SIGNAMARK and FeatherRiver are your names,
+not a supplier's. That changes what a substrate is for: it has to behave the same way next year as
+it did last year, because the recertification is yours.
+
+And there is a reason to look at origins this year in particular. The two origins that set the floor
+price on imported float into the United States both carry duties since April. I am not telling you
+European glass is cheap - I am telling you the comparison between origins has changed. Those rates
+are customs facts, not our tariff, and I am not quoting them as a price.
+
+What we supply, against what you build:
+
+- clear and extra-clear float, the base: https://noxemgroup.com/en/float-glass/
+- low-E, for the sealed-unit side where the performance number sits:
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- toughened, since door and sidelite glazing is safety glazing by code:
+  https://noxemgroup.com/en/tempered-glass/
+
+How we ship: full containers, heat-treated ISPM-15 timber crates, paper interleaved. Jumbo sheets or
+cut to your sizes.
+
+We can put together an offer delivered to your port of destination, subject to validation on our
+side.
+
+Four things would let me do that: the references and thicknesses that move the most volume, your
+sheet sizes, your annual volume and buying frequency, and whether you take delivery at Seattle or
+Tacoma.
+
+And if your supply is settled, say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+International distribution of flat glass & building materials
+Mobile / WhatsApp: +33 6 86 13 12 71
+Office: +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
