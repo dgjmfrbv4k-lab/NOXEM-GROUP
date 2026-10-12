@@ -1058,3 +1058,110 @@ preguntar qué puerto usan y quién asume el tramo terrestre, en lugar de supone
 
 Y si su abastecimiento ya está cerrado y les funciona, dígamelo y no insisto.
 ```
+
+---
+---
+
+# LES DEUX TEXTES MANQUANTS — fiches deverrouillees le 11/10 au soir
+
+Ajoutes le 12/10 a 09h45. Les 24 textes ci-dessus ont ete ecrits avant que Glass Caribe et
+Verra Glass ne soient deverrouillees, donc elles etaient programmees sans texte.
+
+## 25. Glass Caribe (Cancun) — `info@glasscaribe.com` — ESPAGNOL
+
+**Objet :** `Un segundo origen para su stock de float - NOXEM GROUP (Francia)`
+
+⚠️ **TROIS RESERVES.** (1) **RIEN sur les droits de douane** : le §6 l'interdit a tout prospect
+mexicain tant que le taux IGI de l'origine UE n'est pas etabli. (2) **Ne jamais ecrire qu'il manque
+une offre locale** : le Mexique a Vitro et Guardian, et Glass Caribe revend justement ces deux
+marques. (3) **L'adresse retenue est celle a DEUX s** — leur propre page de contact porte une
+coquille a trois s. Le domaine du site fait foi.
+**L'angle, et il est solide :** ils revendent Guardian et Vitro, donc ils achetent du float a des
+producteurs. Un revendeur de deux marques n'a pas besoin qu'on lui explique le produit, il a besoin
+d'un troisieme fournisseur. Plus le miroir, parce que Cancun est un climat chaud et humide en bord
+de mer, et parce que l'hotellerie y est le premier donneur d'ordre.
+
+```
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio plano cerca de Lyon,
+Francia.
+
+Les escribo porque ustedes mismos se describen como transformador, cortador y distribuidor de vidrio
+plano para Cancun y todo Quintana Roo, y porque trabajan marcas de fabricantes de float. Eso me dice
+lo esencial: ustedes compran vidrio base a productores, que es exactamente lo que nosotros
+suministramos.
+
+No vengo a explicarles el producto ni a decirles que les falta oferta. Vengo a ofrecerles un tercer
+origen, y dos cosas de nuestra gama donde ese origen aporta algo concreto.
+
+El espejo, por donde estan. La corrosion del canto en un espejo es un problema de humedad antes que
+de calidad: la humedad alcanza la capa de cobre que hay detras de la plata y el punteado avanza desde
+el perimetro hacia dentro. En la costa del Caribe ese reloj corre rapido, y en hoteleria el espejo
+vuelve en garantia. El nuestro es sin cobre y sin plomo, lo que elimina esa capa en lugar de
+sellarla mejor: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Y el float claro y extraclaro, para la parte de stock:
+https://noxemgroup.com/en/float-glass/
+
+Como enviamos: contenedores completos, cajas de madera tratada NIMP-15, interfoliado de papel. Hojas
+jumbo o cortadas a sus medidas.
+
+Podemos preparar una oferta para la entrega en su puerto de destino, sujeta a validacion por nuestra
+parte.
+
+Cuatro cosas me permitirian hacerlo: sus referencias y espesores de mayor volumen, sus medidas de
+hoja, su volumen anual y su frecuencia de compra, y si reciben por Progreso o por Veracruz.
+
+Y si su suministro esta cerrado y les funciona, diganmelo sin mas: no insisto.
+
+(Nuestro sitio solo existe en frances y en ingles. Los enlaces anteriores estan en ingles; si
+prefieren, respondanme en espanol y seguimos en espanol.)
+```
+
+## 26. Verra Glass / INVIMEX (Manzanillo) — `contacto@invimexmx.com` — ESPAGNOL
+
+**Objet :** `Un origen europeo mas para su cartera de importacion`
+
+⚠️ **QUATRE RESERVES, et la quatrieme est particuliere.** (1) **RIEN sur les droits de douane**, meme
+interdit mexicain. (2) **Ne jamais ecrire qu il manque une offre locale.** (3) **L adresse appartient a
+INVIMEX et non a Verra Glass** : exception du §5, notee dans la fiche — donc le message s adresse a
+INVIMEX et nomme la marque. (4) **ILS ANNONCENT LEUR PROPRE USINE de 600 t/jour a Tierra Blanca.**
+C est annonce et non confirme, sans date — donc **ne pas en parler**, mais surtout **ne jamais laisser
+entendre qu ils manquent de source** : ce serait le contraire de ce qu ils disent d eux-memes.
+**L angle :** ils importent de Chine, de Malaisie et d Asie, et revendent aux grossistes et aux
+transformateurs. C est une **cartera de importacion**, et une cartera est le seul endroit ou une
+origine de plus vaut par elle-meme.
+
+```
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio plano cerca de Lyon,
+Francia.
+
+Les escribo a INVIMEX por la marca Verra Glass, y les escribo a ustedes y no a un transformador por
+una razon precisa: ustedes se describen como importadores y distribuidores de vidrio flotado que
+venden exclusivamente a mayoristas y a fabricantes de vidrio procesado. Eso es una cartera de
+importacion, no un pedido de obra, y una cartera es el unico lugar donde un origen adicional vale por
+si mismo.
+
+No voy a decirles que el vidrio europeo es mas barato que lo que compran hoy, ni que el suministro
+esta escaso. Ninguna de las dos cosas seria cierta, y ustedes conocen sus precios mejor que yo.
+
+Lo que ofrezco es un origen que pueden poner al lado de los demas, en dos productos donde lleva algo
+propio:
+
+- espejo sin cobre y sin plomo. La corrosion del canto empieza cuando la humedad alcanza la capa de
+  cobre detras de la plata; quitar esa capa es un enfoque distinto de sellarla mejor:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- float claro y extraclaro: https://noxemgroup.com/en/float-glass/
+
+Como enviamos: contenedores completos, cajas de madera tratada NIMP-15, interfoliado de papel. Hojas
+jumbo o cortadas a sus medidas.
+
+Podemos preparar una oferta para la entrega en su puerto de destino, sujeta a validacion por nuestra
+parte.
+
+Una sola cosa me seria util para empezar: que referencias y espesores mueven mas volumen en su
+cartera, y si el destino de entrega es Manzanillo.
+
+Y si su abastecimiento esta cerrado y les funciona, diganmelo sin mas: no insisto.
+
+(Nuestro sitio solo existe en frances y en ingles. Si prefieren, respondanme en espanol.)
+```
