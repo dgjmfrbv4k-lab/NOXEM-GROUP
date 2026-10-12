@@ -2,6 +2,67 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## 12/10/2026, 13h02 — RECHERCHE NEUVE SUR LES TERRITOIRES PRIORITAIRES DE KEVIN
+
+**1101 fiches au registre, 36 premiers contacts a la date du jour.** Trois fiches creees, deux
+deverrouillages, et une erreur de mesure de ma part a corriger d abord.
+
+### ⚠️ MON PREMIER CHIFFRE SUR LA GUYANE ETAIT FAUX, ET LA CAUSE EST UN LIBELLE
+
+J ai mesure la couverture des dix-sept territoires prioritaires et annonce **zero fiche en Guyane**,
+en concluant que c etait le trou de la zone numero un de Kevin. **C est faux : la Guyane en compte
+trois, ouvertes le 09/10.** Mon filtre portait sur `Guyane française` et le registre ecrit `Guyane`.
+**Un comptage par egalite exacte sur un libelle ne mesure rien si le libelle n est pas le bon**, et
+c est la meme famille d erreur que les chiffres tapes a la main : j ai cru mesurer, j ai en fait
+devine. Le remede est de lire la liste des libelles reels avant de filtrer dessus, ce qui a ete fait et
+a aussi montre que `Guyana` et `Guyane` coexistent — deux pays distincts qu un filtre approximatif
+aurait confondus.
+
+### Le resultat de mesure, lui, tient : les dix-sept territoires prioritaires sont a ZERO fiche joignable et non contactee
+
+Le gisement de deverrouillage du paragraphe 13 — site connu, pas d adresse, jamais testee — est **vide**.
+C est pourquoi la recherche neuve est la seule voie, et c est ce qui a ete fait.
+
+### Trois fiches creees, et chacune apprend quelque chose de different
+
+· **MG Aluminium (Cayenne et Matoury), envoyee.** Menuiserie Guyanaise d Aluminium, SIREN 812 256 097.
+  **Deux controles l ont precedee et aucun n etait facultatif.** Son site est `mg-aluminium.com` et son
+  adresse publiee `contact@mgaluminium.fr` — **trait d union et extension differents, quatrieme cas du
+  piege du domaine voisin** apres Al Ashoury, Comercial Cristal et Liberty Aluminium. Et elle est **rue
+  de Morphos en ZI Collery**, comme ALUVER au registre, avec un telephone **au meme central qu ALUBAT
+  Guyane**. La recherche d immatriculation du paragraphe 12 a tranche : societe distincte, aucun lien
+  avec le groupe C.P.G.
+· **MGM — Miroiterie du Grand Maghreb (Casablanca), envoyee.** Trouvee **par accident utile** : je
+  cherchais le domaine de Glastec, qui n en a pas, et la recherche a rendu trois concurrents marocains a
+  sa place. **Le grep a servi dans la seconde : Vivaglass etait deja contactee le 11/10 et El Wifaq
+  Verre le 09/10.** Sans lui, Vivaglass recevait un second message un jour apres le premier. MGM seule
+  etait absente. Angle contraint par le paragraphe 6 — Saint-Gobain a un agent exclusif au Maroc depuis
+  1983, donc le message dit **en clair** qu il ne vient pas leur faire decouvrir une origine europeenne,
+  et propose une **seconde source**.
+· **Alu Espace + et Solutions FAR (Ducos, Martinique), en fiches TELEPHONIQUES.** La Martinique ne
+  comptait que trois fiches alors qu elle abrite notre seul client export. Les deux nouvelles **ne
+  publient aucune adresse, seulement un formulaire** : le paragraphe 5 interdit d en inventer une.
+  Alu Espace + vaut l appel pour un fait precis — **ils montent du Schuco**, donc ils travaillent deja
+  a la specification d un fournisseur europeen. Solutions FAR vaut moins : garde-corps aluminium **sans
+  gamme vitree confirmee**, et un garde-corps peut etre a barreaux.
+
+### Et un changement de methode qu il faut consigner parce qu il a tout decide
+
+Ma premiere recherche guyanaise portait sur **miroiterie et vitrerie**. Elle n a rendu que des **vitriers
+depanneurs**, qui n achetent pas par conteneur. La seconde portait sur le **negoce de materiaux et la
+menuiserie aluminium** : elle a rendu un fabricant. **Dans un petit territoire, l acheteur de conteneur
+est l importateur ou le fabricant, jamais le poseur.** Le paragraphe 0 dit de changer de methode quand
+une recherche est sterile ; c est la premiere fois que je mesure ce que cela rapporte.
+
+### Deux signalements a trancher
+
+· **Glastec (Casablanca)** passe de `A QUALIFIER` a `A APPELER` : pas de domaine propre, mais un
+  telephone. Elle n avait **aucune** coordonnee, donc c est un gain.
+· **GLASSIVOIRE et IVOIR GLASS (Abidjan)** : **les memes mots dans l ordre inverse**, la signature du
+  paragraphe 12. `detecte-doublons.py` **ne peut pas le voir** — ses quatre signaux sont le nom
+  normalise, le domaine, l adresse et le telephone, et ces deux fiches n ont aucun des trois derniers.
+  **Aucun envoi avant que le siege et l immatriculation aient tranche.**
+
 ## 12/10/2026, 12h53 — PREMIERES RELANCES DUES, ET LE BALAYAGE ETENDU A TOUTES LES COHORTES
 
 **Chiffres substitues :** 34 premiers contacts et 249 relances a la date du jour. `A APPELER` tombe a
