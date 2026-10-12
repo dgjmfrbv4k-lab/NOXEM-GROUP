@@ -46,6 +46,21 @@ PRODUCTEURS = {
     'Bolivie': 'VASA y opere directement (groupe NSG-Pilkington / Saint-Gobain, present en Argentine, Bolivie, Paraguay et Uruguay)',
     'Paraguay': 'VASA y opere directement (groupe NSG-Pilkington / Saint-Gobain, 4 pays)',
     'Uruguay': 'VASA y opere directement (groupe NSG-Pilkington / Saint-Gobain, 4 pays)',
+    # AJOUTS DU 12/10 — trois trous du dictionnaire, dont un que le paragraphe 6 interdisait
+    # explicitement sans que le code puisse le faire respecter.
+    'Émirats arabes unis': 'Emirates Float Glass (Abou Dabi, 600 t/j depuis 2009, Dubai Investments, '
+                           'exporte vers plus de 65 pays) et Guardian. Le paragraphe 6 INTERDIT d y '
+                           'employer l argument du float absent, et le garde-fou ne le couvrait pas',
+    'Malaisie': 'Kibing Glass Malaysia, NSG Malaysian Sheet Glass et Jinjing Technology Malaysia, '
+                'les trois nommes a la liste des producteurs du dossier float glass americain',
+    'États-Unis': 'Vitro Flat Glass et Vitro Meadville, petitionnaires de la mesure de 2026, plus '
+                  'Guardian, PPG et Fuyao Glass America. L argument americain est DOUANIER et non '
+                  'celui de l absence d offre',
+    # ⚠️ NE PAS AJOUTER le Canada, l Australie ni la Nouvelle-Zelande : l absence de ligne float y
+    # est VRAIE et c est precisement l argument de la campagne. Le Canada est le seul pays du G20
+    # sans production nationale, et la derniere ligne d Australasie a ferme en 2025. Les inscrire
+    # ici ferait crier le garde-fou sur des fiches qui disent juste — le defaut exact que le
+    # correctif du 09/10 et celui du 12/10 ont tous deux eu a reparer.
 }
 
 MOTIFS = re.compile(
