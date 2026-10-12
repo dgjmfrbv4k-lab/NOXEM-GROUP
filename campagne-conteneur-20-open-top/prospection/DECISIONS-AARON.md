@@ -28,6 +28,40 @@ Un taux de rebond dur élevé est ce sur quoi Gmail restreint un compte, et le d
 **Recommandation : faire vérifier ses adresses avant tout nouvel envoi, et répartir le quota
 explicitement entre les deux campagnes.**
 
+#### ⚠️ MESURE REFAITE À 10h31, ET ELLE EST PIRE QUE CELLE DE 09h57 — AVEC UN CHIFFRE DUR
+
+**31 avis de non-distribution en quatre heures. UN SEUL est le mien** (Meng Heng, serveur mal
+configuré). **Les 30 autres sont ceux du déstockage**, tombés entre 09h39 et 10h28 pendant qu'elle
+tirait une cinquantaine de messages vers la Finlande, l'Autriche, la Hongrie, l'Espagne,
+l'Allemagne, la Pologne, l'Estonie, la Tchéquie, le Royaume-Uni et l'Italie.
+
+**ET VOICI LE FAIT QUI CHANGE LA NATURE DU PROBLÈME : ELLE RÉEXPÉDIE VERS DES ADRESSES QUI ONT
+DÉJÀ REBONDI EN DUR HIER.** Quatre cas vérifiés, date par date :
+
+| Adresse | Premier rebond | Réexpédiée | Résultat |
+|---|---|---|---|
+| `technobox@technobox.cz` | 11/10 16h12, domaine introuvable | **12/10 10h00** | rebond identique |
+| `info@vratakriz.cz` | 11/10 16h13, `554 5.7.1 Delivery not authorized` | **12/10 10h00** | rebond identique |
+| `info@vetreriebetti.com` | 11/10 16h07, domaine introuvable | **12/10 10h22** | rebond identique |
+| `info@meissnerfenstertechnik.de` | 11/10 14h16, échec après deux délais | **12/10 10h21** | — |
+
+**Un domaine introuvable est irrécupérable** — c'est écrit au §13 de mon mandat, et un `554 5.7.1`
+est un verdict de filtrage, pas une adresse à réessayer. **Réexpédier vers ces adresses ne fabrique
+rien d'autre que des rebonds durs**, c'est-à-dire exactement le signal sur lequel Gmail restreint
+un compte. Ce n'est plus une base mal vérifiée, c'est une base qui ne retire pas ses morts.
+
+**ET DEUX DESTINATAIRES SONT DES CONCURRENTS AU SENS DU §6 :** `info.sklo@saint-gobain.com` et
+`parndorf@agc.com`. Saint-Gobain et AGC sont des **producteurs float mondiaux**. Leur écrire une
+offre de déstockage de verre plat, c'est écrire à l'usine dont on revend le produit.
+
+**CE QUE JE DEMANDE, ET C'EST LE §11 : une décision aujourd'hui.** Pas sur le fond de leur
+campagne, qui ne m'appartient pas, mais sur deux points qui touchent la mienne :
+1. **Retirer de leur base les adresses qui ont déjà rebondi en dur**, et ne plus y réexpédier.
+2. **Répartir le quota**, parce que la réputation que leurs 30 rebonds consomment est celle qui
+   portera les devis de Caribbean Glass Specialists, de PG Glass Namibia, de Rubex et du Népal.
+**Mes 37 envois de ce matin ont produit 1 rebond. Le leur en a produit 30 en quatre heures.** Les
+deux chiffres sortent de la même boîte et seule la seconde campagne décide du sort de la première.
+
 ### 3. LE DMARC — cinq minutes chez le gestionnaire DNS
 
 Demandé depuis le 08/10. C'est la seule mesure de fond contre ce que le point 2 décrit.
