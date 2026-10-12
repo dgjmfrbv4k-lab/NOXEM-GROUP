@@ -1,3 +1,75 @@
+# ⏱ LUNDI 12/10, 11h36 — CINQ CIBLES TELEPHONIQUES NEUVES, ET LA PREMIERE EST LA PLUS GROSSE DE LA CAMPAGNE
+
+*Bloc mis en tete apres une matinee ou le gisement d adresses e-mail du registre est tombe a ZERO
+deverrouillage disponible. Ce qui reste des plus grosses cibles ne s atteint plus que par telephone,
+et c est le constat central de la journee. 137 fiches sont en `A APPELER`, toutes avec un numero.*
+
+## 1. ⭐ AMAZON TEMPER (Bresil) — la plus grosse consommation de float identifiee a ce jour
+
+**`+55 81 3341 7971` (Recife) · `+55 92 3611 2832` (Manaus) · creneau 14h00-22h00 heure de Paris**
+
+**HUIT PARCS INDUSTRIELS, nommes par eux-memes :** Varzea Grande, Lucas do Rio Verde, Xanxere,
+Aquiraz, Manaus, Cariri, Recife, Mossoro, plus deux unites a Fortaleza et Salvador en construction.
+Gamme : trempe, feuillete, trempe-feuillete et **insulado**. Un groupe de huit sites de trempe n a
+**qu une** matiere premiere, et il la consomme par conteneurs.
+
+**Objet de l appel, et il n y en a qu un : qui achete le float pour les huit sites, et l achat
+est-il centralise ?** Rien d autre. Le reste se decide quand on sait a qui on parle.
+
+⚠️ **Deux choses a ne PAS dire.** Jamais qu il n y a pas de production locale au Bresil — Vivix
+produit a Goiana et Cebrace a Jacarei, Cacapava et Barra Velha. Et **un releve de position associe
+leur site d Aquiraz a VIVIX** : si l approvisionnement est etabli, l angle n est pas la nouveaute
+d une origine europeenne mais **la seconde source**, exactement comme Induver avec AGC. A verifier
+pendant l appel, pas apres.
+⚠️ Pages du site vieilles d environ sept ans : confirmer les numeros.
+
+## 2. ⭐ KAMRI GLASS INVESTMENTS (Trinite-et-Tobago) — une usine et une table de decoupe
+
+**`+1 868 235 4527` · creneau 14h00-22h00**
+
+Showroom et atelier a Marabella, **et une usine a la zone industrielle de POINT LISAS**. Ils
+annoncent du trempe et une **machine de decoupe semi-automatique** presentee comme la seule de ce
+type sur l ile. Une table de decoupe veut dire qu ils achetent de la **feuille**, pas du faconne.
+
+**Et le marche est deja valide :** Caribbean Glass Specialists, a Trinite aussi, est un de nos
+quatre dossiers de prix ouverts, et Central Glass y est en relance.
+
+**Objet de l appel :** l adresse des achats, et les epaisseurs qui passent sur la table.
+
+## 3. MUNNWORKS (Etats-Unis, Mount Vernon NY) — l e-mail est definitivement ferme
+
+**`+1 914 665 6100` · creneau 15h00-23h00**
+
+**Deux boites publiees par eux, deux refus `550 5.4.1` du meme locataire Microsoft** : c est un
+blocage de maison, pas une boite morte, et une troisieme tentative est interdite. **L angle reste
+excellent** : ils fabriquent des **miroirs lumineux d hotellerie**, donc le defaut de bord sous
+humidite permanente est exactement ce que notre miroir sans cuivre ni plomb evite — et c est le
+defaut evite qui porte l argument, jamais le produit.
+
+## 4. HEPBURN'S GLASS SUPPLIES (Jamaique, Kingston 13)
+
+**`+1 876 908 0962` · creneau 14h00-22h00**
+
+Leur propre site annonce du **float clair et teinte et des miroirs a prix de gros** — c est notre
+gamme de base mot pour mot. Adresse publiee mais **obfusquee** par une protection
+anti-moissonnage. **Objet de l appel : l adresse des achats, rien d autre.**
+⚠️ Une adresse gmail circule sur un reseau social : **ne pas l utiliser**, elle ne vient pas de leur
+page de contact et son domaine differe du site.
+
+## 5. WM GUADELOUPE (Baie-Mahault, ZI de Jarry)
+
+**`+590 974 56 05 24` · creneau 13h00-16h00 heure de Paris**
+
+Fournisseur des professionnels du BTP depuis 2002, **de la maconnerie a la menuiserie**, portes
+fenetres et volets. RCS Baie-Mahault 44064727900023. **Leurs donnees structurees portent un domaine
+casse** — `vm-` au lieu de `wm-`, partie locale tronquee — donc aucun envoi possible.
+
+**A savoir avant de parler fiscalite : ne rien dire.** L octroi de mer sur le chapitre 70 n est pas
+etabli et l exoneration des intrants de production pour un transformateur antillais est une question
+ouverte du paragraphe 6. **Si la question vient, elle se note et se remonte.**
+
+---
+
 # Les 15 appels qui valent le temps d'Aaron — refait le 11/10/2026 à 22h27
 
 **Remplace entièrement la version précédente.** Extrait de `LISTE-APPELS.md`, qui en compte plus de
