@@ -1680,27 +1680,23 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 35. Safa Taiba Glass Factory — `qays.mohammed.s@safataiba.sa` — ANGLAIS
-## ⚠️ **PREPARE SUR DEMANDE DE KEVIN LE 12/10 A 16h46 — KEVIN L ENVOIE LUI-MEME. NE PAS ENVOYER D ICI.**
+## ⚠️ **PREPARE SUR DEMANDE DE KEVIN — KEVIN L ENVOIE LUI-MEME. NE PAS ENVOYER D ICI.**
 
-**Remplace le n° 34.** Consigne de Kevin : excuses, presentation complete de la societe — de qui nous
-sommes la filiale, ce que nous faisons, l export au port — et **catalogue en piece jointe**, qu il joint
-lui-meme.
+**Version 2, 16h49. Consigne de Kevin : AUCUN LIEN dans le corps, mais le SITE et TOUTES les coordonnees.**
+La gamme est donc une liste de references en clair, le catalogue joint fait office de documentation, et
+`noxemgroup.com` est nomme une fois dans le corps en plus de la signature. Remplace le n° 34 et la
+version 1 du n° 35.
 
-**⚠️ DEUX POINTS SIGNALES A KEVIN AVANT, ET ILS SONT DANS LE MESSAGE :**
-1. **La filiation se contredit entre deux sources du dossier.** Le §10 du mandat, releve dans le
-   repondeur configure par Aaron, dit **« NOXEM GROUP SAS, filiale de Montaugem au capital de
-   5 177 000 € »**. Un envoi de la meme boite du **12/10 a 13h49** dit l inverse : « MONTAUGEM,
-   subsidiary of NOXEM GROUP ». **La version du mandat est retenue ici**, et la question est posee a
-   Kevin. C est la premiere phrase que lira l acheteur.
-2. **Le catalogue PDF annonce des prix et porte l ancien numero 04 22 91 55 80** (§8). Dit une fois a
-   Kevin ; c est son envoi et sa decision. Le texte dit « en piece jointe » comme demande.
+**⚠️ DEUX POINTS SIGNALES A KEVIN, INCHANGES :**
+1. **La filiation se contredit entre deux sources.** Le §10 du mandat dit **« NOXEM GROUP SAS, filiale
+   de Montaugem au capital de 5 177 000 € »** ; un envoi de la meme boite du 12/10 a 13h49 dit l inverse.
+   **Version du mandat retenue**, question posee a Kevin.
+2. **Le catalogue PDF annonce des prix et porte l ancien numero 04 22 91 55 80** (§8). Dit une fois.
 
-**CE QUI A ETE VERIFIE DANS LE TEXTE :** aucun prix · aucun delai · aucun certificat · aucune norme
-revendiquee · **la formule imposee du §5** · **aucune usine partenaire nommee, ni son pays, ni son
-nombre** · aucune personne nommee chez eux hors son propre nom · **jamais « pas de production
-locale »**, l Arabie saoudite comptant au moins quatre producteurs float (§6) · **aucun client ni
-volume invente** : le texte dit ce que nous FAISONS, jamais qui nous servons deja · signature dans le
-corps, une seule fois · excuses en **deux lignes**, pas davantage.
+**VERIFIE :** aucun prix · aucun delai · aucun certificat ni norme revendiquee · **formule imposee du
+§5** · aucune usine partenaire nommee · aucun client ni volume invente · **jamais « pas de production
+locale »** (§6, quatre producteurs float en Arabie saoudite) · signature complete dans le corps, une
+seule fois, avec site, mobile, fixe, e-mail et adresse · excuses en deux lignes.
 
 ### Objet
 ```
@@ -1719,7 +1715,8 @@ Here is what you asked for. Our catalogue is attached, and below is who we are.
 WHO WE ARE
 NOXEM GROUP SAS is a supplier and exporter of flat glass and building materials,
 a subsidiary of MONTAUGEM, share capital EUR 5,177,000. Our office is at
-5 chemin du Jubin, 69570 Dardilly, in the Lyon area, France.
+5 chemin du Jubin, 69570 Dardilly, in the Lyon area, France, and our website is
+noxemgroup.com.
 
 WHAT WE DO
 We supply flat glass by FULL CONTAINER for export, delivered to the port of
@@ -1731,21 +1728,15 @@ operating in two cities as you do in Jeddah and Riyadh.
 
 OUR RANGE
 - Clear and extra-clear float glass
-  https://noxemgroup.com/en/float-glass/
 - Low-E glass
-  https://noxemgroup.com/en/low-e-glass-low-emissivity/
 - Copper-free and lead-free mirror
-  https://noxemgroup.com/en/copper-and-lead-free-mirror/
 - Tempered glass
-  https://noxemgroup.com/en/tempered-glass/
+- Laminated glass
 - Lacquered glass
-  https://noxemgroup.com/en/lacquered-glass/
 - Technical glazing
-  https://noxemgroup.com/en/technical-glazing/
-- Insulating glass units
-  https://noxemgroup.com/service/double-vitrage/
-- Full range overview
-  https://noxemgroup.com/en/catalog/
+- Insulating glass units, double and triple glazing
+
+The attached catalogue covers the full range.
 
 WHAT HAPPENS NEXT
 We can establish an offer for delivery to your port of destination, subject to
@@ -1765,24 +1756,21 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
 
-### Traduction pour relecture, ligne par ligne
+### Traduction pour relecture
 · **Excuses, deux lignes :** vous avez raison, je m excuse ; le message de cloture etait trop brutal et
   un retard de votre cote ne le justifiait pas, cela ne se reproduira pas.
-· **Transition :** voici ce que vous avez demande, le catalogue est en piece jointe et voici qui nous
-  sommes.
 · **QUI NOUS SOMMES :** NOXEM GROUP SAS, fournisseur et exportateur de verre plat et de materiaux de
   construction, **filiale de MONTAUGEM, capital 5 177 000 €**, bureau au 5 chemin du Jubin, 69570
-  Dardilly, region lyonnaise, France.
-· **CE QUE NOUS FAISONS :** fourniture de verre plat **en conteneur complet** a l export, **livre au
-  port de destination**, caisses bois traitees NIMP-15, jumbo 3210 x 2550 ou a cotes. **Dedouanement et
-  dechargement a la charge de l acheteur.** Livraison vers **tout port desservi par une ligne
-  conteneur** — et la phrase qui fait l argument : c est ce qui rend une **origine unique** praticable
-  pour un acheteur qui opere sur **deux villes**, comme eux a Djeddah et Riyad.
-· **NOTRE GAMME :** les huit pages du §8, dans l ordre float, low-E, miroir, trempe, laque, vitrage
-  technique, double vitrage, catalogue.
+  Dardilly, region lyonnaise, **et le site noxemgroup.com**.
+· **CE QUE NOUS FAISONS :** verre plat **en conteneur complet** a l export, **livre au port de
+  destination**, caisses bois traitees NIMP-15, jumbo 3210 x 2550 ou a cotes, **dedouanement et
+  dechargement a leur charge**, livraison vers tout port desservi par une ligne conteneur. Et
+  l argument tire de leur fiche : c est ce qui rend une **origine unique** praticable pour un acheteur
+  qui opere sur **deux villes**.
+· **NOTRE GAMME :** huit references en clair, **sans aucun lien**, le catalogue joint faisant la
+  documentation.
 · **LA SUITE :** la formule imposee — offre pour la livraison a votre port de destination, **sous
-  reserve de validation de notre cote** — puis les quatre elements demandes : references, epaisseurs et
-  cotes, volume et frequence, port.
+  reserve de validation de notre cote** — puis les quatre elements demandes.
 · **Derniere ligne :** votre dossier reste ouvert chez nous, et je prefere meriter cette affaire que la
-  courir. C est la reponse exacte a son « que vous gardiez ou fermiez notre dossier est votre
-  decision » — sans la lui renvoyer en pleine figure.
+  courir.
+· **Signature complete** : president, societe, activite, mobile et WhatsApp, fixe, e-mail, site, adresse.
