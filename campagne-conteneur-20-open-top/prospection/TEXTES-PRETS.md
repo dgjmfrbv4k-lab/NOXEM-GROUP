@@ -1774,3 +1774,282 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 · **Derniere ligne :** votre dossier reste ouvert chez nous, et je prefere meriter cette affaire que la
   courir.
 · **Signature complete** : president, societe, activite, mobile et WhatsApp, fixe, e-mail, site, adresse.
+
+---
+
+# TEXTES DU 13/10 — ecrits le 12/10 a 17h32, verifies, NON ENVOYES
+
+---
+
+## 36. JPP Glass and Mirror / JPP Trade Centre (Colombo) — `info@jpp.lk` — ANGLAIS
+
+**⚠️ VERIFIE :** une seule fiche et un seul message — JPP Trade Centre et la boutique de Prince Street
+sont la meme maison, son historique le dit · leur site ecrit que **leurs miroirs sont de fabrication
+francaise, 5 mm**, donc une origine europeenne est deja dans leur chaine · ils **importent** le miroir,
+ils ne l argentent pas, donc le miroir **est** offrable · **lecon Stadip : leur fournisseur n est pas
+nomme et la question de la marque n est pas posee** · aucun prix, aucun delai, formule imposee · rien
+sur l absence de production locale.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the person
+who buys glass, I would be grateful if you could pass it to whoever does.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France.
+
+I am writing to you because your own site describes your mirror as French-made,
+in 5 mm. So a European origin is already something you work with, and that is
+exactly what we supply.
+
+What we can ship you:
+
+- Copper-free and lead-free mirror, which holds up better than standard mirror
+  in humid and coastal conditions
+- Clear and extra-clear float glass, in the thicknesses you cut
+- Low-E glass
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Colombo.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which references and thicknesses you consume
+most, the sizes that suit you, an approximate volume and buying frequency, and
+confirmation of your port.
+
+And if you are committed to your current supply, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 37. Comglasco Aguila Glass (Parañaque) — `sales@comglasco.com` — ANGLAIS
+
+**⚠️ VERIFIE :** reseau national de succursales et sourcing international declares par elle · adresse
+publiee sur son propre site, l adresse d annuaire ecartee · **JAMAIS l absence de production locale,
+Pioneer Float Glass produit aux Philippines** · rien n etablit qu elle trempe, donc la question se pose
+dans le message au lieu de se supposer · aucun prix, formule imposee.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the person
+who buys glass, I would be grateful if you could pass it to whoever does.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France.
+
+I am writing to you because you distribute through branches across the country
+and you already source internationally for part of your range. A company that
+runs a national network buys in volume and clears its own containers, so there
+is nothing to explain about how this works.
+
+What we can ship you:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Copper-free and lead-free mirror
+- Lacquered glass
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Manila or to
+the port you prefer.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the references above you buy and in
+which thicknesses, the sizes that suit your operation, an approximate volume and
+buying frequency, and your port. It would also help to know whether you process
+glass yourselves or buy it finished.
+
+And if you are committed to your current supply, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 38. Woodbridge Glass Distribution (Concord, Ontario) — `info@woodbridgeglass.ca` — ANGLAIS
+
+**⚠️ VERIFIE :** la phrase qui ouvre le message est **la leur**, specialises dans le sourcing de tous
+types de verre · argument canadien de **gestion du risque** et non de prix · **JAMAIS ecrire que le
+float est taxe a l entree du Canada**, le SH 7005 n est pas sur les listes de riposte · **aucune
+faillite de concurrent citee**, c est interne · aucun prix, formule imposee.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the person
+who buys glass, I would be grateful if you could pass it to whoever does.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France.
+
+I am writing to you because your own site says you specialise in sourcing all
+types of glass. That is the reason I think this is worth two minutes of your
+time: we are a second origin, and a distributor whose business is sourcing is
+the one buyer for whom that actually means something.
+
+Canada has no float line of its own, and the great majority of the glass used by
+Canadian fabricators comes from one country. I am not going to argue that this
+is a problem for you today. I am saying that knowing a second origin, and what
+it costs delivered to your port, is worth having on file before you need it.
+
+What we can ship you:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Copper-free and lead-free mirror
+- Lacquered glass and technical glazing
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Montreal or
+Toronto, or the port you prefer.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which references and thicknesses you move most,
+the sizes that suit you, an approximate volume and buying frequency, and your
+port.
+
+And if you are committed to your current supply, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 39. Walker Glass Company (Montreal) — `textures@walkerglass.com` — FRANCAIS
+
+**⚠️ VERIFIE, et cette fiche est la plus delicate des cinq :** **regle Prodiesa** — elle fabrique le
+verre acidifie **et** le miroir, donc **ni l un ni l autre n est propose**, l offre est le **substrat**
+· **lecon Stadip** — sa documentation nomme une marque de substrat nord-americaine, le message **ne la
+nomme pas**, ne l explique pas, et ne demande pas si elle est imposee · le fait servi est celui qu elle
+ecrit elle-meme, ses finitions sur clair et sur ultra-clair faible teneur en fer · **premiere ligne de
+reacheminement** parce que `textures@` est une boite d echantillons et non d achats · argument canadien
+de gestion du risque · **jamais** le float taxe a l entree du Canada · aucun prix, formule imposee.
+
+```
+Bonjour,
+
+Ceci est une offre de FOURNITURE et non une demande de prix. Cette adresse est
+celle de vos echantillons : si ce n est pas vous qui decidez des achats de
+substrat, je vous serais reconnaissant de transmettre ce message a qui en decide.
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat pres de Lyon.
+
+Je vous ecris pour une raison precise, et elle vient de votre documentation :
+vos finitions se posent sur du verre clair, et vous recommandez le verre
+ultra-clair a faible teneur en fer pour en tirer le meilleur rendu. Autrement
+dit, votre matiere premiere est exactement ce que nous fournissons. Je ne vous
+propose ni verre acidifie ni miroir, c'est votre metier.
+
+Ce que nous pouvons vous livrer :
+
+- Float clair, en plusieurs epaisseurs
+- Float extra-clair a faible teneur en fer
+
+Nous expedions en CONTENEUR COMPLET, en caisses bois traitees NIMP-15, en jumbo
+de 3210 x 2550 mm ou a vos cotes, livre au port de destination. Le Canada n'a
+pas de ligne float et l'essentiel du verre utilise ici vient d'un seul pays :
+connaitre une seconde origine, et son cout rendu a Montreal, se decide a froid
+plutot que le jour ou on en a besoin.
+
+Nous pouvons etablir une offre pour la livraison a votre port de destination,
+sous reserve de validation de notre cote.
+
+Il me faut pour cela quatre choses : les epaisseurs que vous consommez le plus,
+les cotes qui vous servent, un volume approximatif et une frequence d'achat, et
+votre port.
+
+Et si vous etes verrouilles sur votre approvisionnement actuel, dites-le moi
+franchement, je n'insisterai pas.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 40. San Juan Glass Corp (Guaynabo) — `sanjuanglasscorporation@gmail.com` — ESPAGNOL
+
+**⚠️ VERIFIE :** exception du §5 notee — adresse gmail publiee par la societe elle-meme, elle n a pas de
+site · **qualification faible assumee**, c est un magasin de materiaux et rien ne prouve qu il achete au
+conteneur, **donc le message demande la FREQUENCE avant tout le reste** et la fiche basculera en petite
+structure si la reponse le montre · Porto Rico est dans le territoire douanier americain · aucun prix,
+formule imposee · **aucun taux de droit cite**, ce sont des faits douaniers et pas notre tarif.
+
+```
+Buenos dias,
+
+Esto es una oferta de SUMINISTRO, no una solicitud de cotizacion. Si no es usted
+quien decide las compras de vidrio, le agradeceria que la haga llegar a quien las
+decide.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio plano
+cerca de Lyon, Francia.
+
+Les escribo porque ustedes venden vidrio y aluminio para puertas, ventanas,
+fachadas y banos, y en Puerto Rico todo ese vidrio llega por mar. Quien compra
+puesto en puerto compara origenes, y nosotros somos una de ellas.
+
+Antes de proponerle nada, una sola pregunta, porque de ella depende si tiene
+sentido seguir: zcon que frecuencia y en que volumen compran ustedes vidrio
+plano, y lo compran importado directamente o a traves de un distribuidor?
+
+Si trabajan volumenes de contenedor, esto es lo que podemos enviarles:
+
+- Vidrio float claro y extra-claro
+- Espejo sin cobre ni plomo
+- Vidrio de baja emisividad
+
+Enviamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo de
+3210 x 2550 mm o en medidas a pedido, entregado en el puerto de destino.
+
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Y si ya estan comprometidos con su proveedor actual, digamelo con franqueza y no
+insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

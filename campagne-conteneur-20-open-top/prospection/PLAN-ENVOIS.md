@@ -342,15 +342,25 @@ que c etait la vraie contrainte : compter ce qui est **reellement** sorti du dom
 
 **103 envois disponibles demain**, et la raison est arithmetique : les cohortes du 07/10 arrivent a
 echeance. **92 secondes relances** (`RELANCE 2026-10-07`) et **6 premieres relances**
-(`ENVOYE 2026-10-07`), plus **5 envois deja programmes** — chiffres substitues depuis le registre et
+(`ENVOYE 2026-10-07`), plus **10 envois deja programmes** — chiffres substitues depuis le registre et
 non tapes, comme le §13 l impose.
 
-**Les 5 programmes, dans l ordre d ouverture :** All Season Glass (Belize, differee pour le ferie),
+**Les 10 programmes, dans l ordre d ouverture :** All Season Glass (Belize, differee pour le ferie),
 WegaVidros et Santana Vidros (textes #29 et #30 de `TEXTES-PRETS.md`), puis les deux fiches ouvertes le
 12/10 en fin d apres-midi — **Widrio** (Bogota) et **Vitromas** (Tlalnepantla). **Sur ces deux-la,
 l offre ne porte QUE le float clair et extra-clair et le low-E : elles trempent, et Widrio argente,
 donc le trempe et le miroir sont des references ou elles sont nos concurrentes** (regle Prodiesa du
 §6, appliquee avant l ecriture et non apres).
+
+
+
+**⚠️ MISE A JOUR DE FIN DE JOURNEE : les programmes sont passes a 10, et LEURS TEXTES SONT ECRITS.**
+`TEXTES-PRETS.md` n° 32 a 40 couvrent Widrio, Vitromas, JPP Glass, Comglasco, Woodbridge, Walker Glass
+et San Juan Glass. Les trois bresiliens et beliziens gardent leurs textes 29 et 30.
+**Les neuf sont passes au controle avant-vol par code** — `python3 outils/verif-texte.py` — qui verifie
+mot par mot l absence de prix, de delai, de certificat et de garantie, la presence de la formule imposee,
+la signature en un seul exemplaire, l absence du numero mort et la porte de sortie. **Zero defaut.**
+**A relancer avant d ouvrir la vague**, et apres toute retouche d un texte.
 
 ## LA FILE EST PROPRE, ET CE N EST PAS UNE IMPRESSION — C EST UN CONTROLE PASSE PAR CODE
 
