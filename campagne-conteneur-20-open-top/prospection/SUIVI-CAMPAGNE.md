@@ -2,6 +2,63 @@
 
 Mandat du 06/10/2026 : prospection qualifiée, lots de 20, départ Canada et Arabie saoudite puis élargissement.
 
+## ⚠️ 12/10/2026, 14h33 — UNE ERREUR DE CIBLAGE DE MA PART, TROUVEE APRES L ENVOI
+
+**J ai offert du miroir a un fabricant de miroir qui plaide contre le miroir importe.** Il faut le
+dire en entier, le paragraphe 16 l impose.
+
+### LE FAIT
+
+**PRODIESA**, au Nuevo Leon, a recu un premier contact le 12/10 a 10h55. Son nom complet est
+**PRODUCTORA Y DISTRIBUIDORA DE ESPEJOS S.A. de C.V.** — et je ne l avais pas lu. **Elle est
+CO-DEMANDEUR, avec Vitro, d une enquete antidumping mexicaine contre le *vidrio de espejo*
+chinois** : demande du 30/01/2026, resolution d ouverture au DOF du 21/05/2026, fraction 7009.91.99.
+
+**Donc Prodiesa est un CONCURRENT sur le miroir**, exactement comme Espejos S.A.S. en Colombie, que
+j avais pourtant identifie ce matin meme et porte au §6 — **pour la meme raison : on ne demande une
+mesure antidumping que sur ce qu on fabrique soi-meme.**
+
+### CE QUE LE MESSAGE A FAIT DE TRAVERS, ET IL SE CONTREDIT TOUT SEUL
+
+Il ecrit noir sur blanc : *« ustedes platean su propio vidrio — compran sustrato, no espejo
+terminado. Es exactamente ahi donde podemos ser utiles, **y en ningun otro lugar** »*. **Puis il
+offre le miroir sans cuivre ni plomb EN PREMIERE POSITION**, avec le lien de la page produit et tout
+l argument du piquage. **Six lignes d ecart entre la bonne analyse et son contraire.**
+
+### CE QUI RESTE JUSTE, PARCE QUE LA FICHE N EST PAS A JETER
+
+**L angle du SUBSTRAT est bon et il tient entierement.** Ils argentent en clair, **ultra clair**,
+bronze, gris, bleu et vert de 2 a 6 mm : ils achetent du float, et leur ultra clair est notre
+extra-clair. **Prodiesa reste une cible sur le float.** Si elle repond, la reponse ne portera que
+sur le float clair et extra-clair. **Aucun envoi correctif n est parti** — le §5 l interdit sans
+l accord d Aaron, et Kevin a redit de ne pas repondre.
+
+### LA REGLE QUI MANQUAIT, ET ELLE MONTE AU §6
+
+**UNE MAISON PEUT ETRE PROSPECT SUR UNE REFERENCE ET CONCURRENT SUR UNE AUTRE.** La liste des
+concurrents du §6 raisonne par **societe** ; il faut raisonner **par societe ET par reference**.
+**Ce qu une maison FABRIQUE sort de l offre, ce qu elle ACHETE y entre** — a appliquer avant
+d ecrire a tout argenteur, trempeur ou feuilleteur. C est la contrepartie exacte de la regle du §6
+sur les noms : la ressemblance de nom ne dit rien du metier, et le metier ne dit pas tout du role.
+
+### ET LA DECOUVERTE QUI VA AVEC, QUI EST UN TROU DU §6
+
+**Tout le §6 mexicain ne parlait que du FLOAT. Le MIROIR n y figurait nulle part**, alors qu une
+enquete est ouverte depuis mai. ⚠️ **C est une enquete, PAS un droit** : aucune cuota n existe sur le
+miroir mexicain, et l interdit d ecrire sur les droits a un prospect mexicain s applique **a
+fortiori**.
+**Et l avis d ouverture identifie 51 IMPORTATEURS et 10 exportateurs.** C est le plus gros gisement
+d importateurs documentes rencontre jusqu ici — **et il est dans le texte du DOF, que cette session
+ne peut pas lire.** C est exactement l acces demande a Kevin en tete de `DECISIONS-AARON.md`, et ce
+chiffre en double la valeur.
+
+### Ermita Comercial, au passage
+
+Nom legal etabli : **Ermita Comercial Vidriera S.A. de C.V.**, et **elle figure dans les DEUX
+dossiers**, float et miroir — donc elle importe les deux. ⚠️ **Piege d homonyme consigne :**
+*Comercial Ferretera Ermita* est une **quincaillerie**, autre societe, autre domicile ; ne jamais
+utiliser ses coordonnees. Toujours aucun site propre, la fiche reste sans coordonnee.
+
 ## 12/10/2026, 14h29 — DEUX IMPORTATEURS DOCUMENTES DEVERROUILLES ET ENVOYES
 
 Le declencheur ne laissant aucun envoi a faire, j ai repris la file reelle : les sept importateurs

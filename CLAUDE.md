@@ -412,6 +412,37 @@ fait, et l'interdiction d'écrire quoi que ce soit sur les droits à un prospect
 d'habitants en dépendent**, et la question à poser au transitaire est désormais beaucoup plus étroite :
 non plus « y a-t-il une préférence » mais **« quel est le taux IGI de la fraction 7005.29.99 pour une
 origine UE sous le pilier commercial de l'accord de 2000 »**.
+**⚠️ ET UNE SECONDE MESURE MEXICAINE QUE CE PARAGRAPHE IGNORAIT TOTALEMENT, TROUVÉE LE 12/10 À 14h31 :
+IL Y A UNE ENQUÊTE ANTIDUMPING SUR LE **VIDRIO DE ESPEJO** CHINOIS, ET ELLE NOUS CONCERNE PAR DEUX
+BOUTS.** Tout le §6 mexicain ne parle que du **float** ; le **miroir** n'y figurait nulle part.
+· **Résolution d'ouverture publiée au DOF le 21/05/2026**, sur une demande du **30/01/2026**.
+  Fraction **7009.91.99**, NICO 00. Période enquêtée du 01/10/2024 au 30/09/2025.
+· **⚠️ LES DEMANDEURS SONT VITRO *ET* PRODIESA** — *Productora y Distribuidora de Espejos, S.A. de
+  C.V.* **Prodiesa est au registre, et nous lui avons écrit le 12/10 à 10h55.**
+· **C'est une enquête OUVERTE, pas un droit.** Aucune cuota n'existe à ce jour sur le miroir
+  mexicain, et l'interdit du §6 — **rien sur les droits à un prospect mexicain** — s'applique donc
+  **a fortiori** : une enquête ouverte ne s'annonce pas comme une mesure.
+· **Et l'avis d'ouverture identifie 51 IMPORTATEURS et 10 exportateurs** comme parties intéressées
+  possibles. C'est le plus gros gisement d'importateurs documentés rencontré jusqu'ici — **et il est
+  dans le texte du DOF, que cette session ne peut pas lire**, ce qui est exactement l'accès demandé
+  dans `DECISIONS-AARON.md`.
+**⚠️⚠️ ET LA CONSÉQUENCE DE CIBLAGE, QUI EST UNE ERREUR DE MA PART À CONSIGNER AU TITRE DU §16 :
+PRODIESA EST UN PRODUCTEUR DE MIROIR, DONC UN CONCURRENT SUR LE MIROIR — exactement comme Espejos
+S.A.S. en Colombie, et pour la même raison : on ne demande une mesure antidumping que sur ce qu'on
+fabrique soi-même.** Or le message qui lui est parti le 12/10 **offre le miroir sans cuivre ni plomb
+en PREMIÈRE position**, avec le lien de la page produit, après avoir pourtant écrit noir sur blanc
+« ustedes platean su propio vidrio — compran sustrato, no espejo terminado. Es exactamente ahí donde
+podemos ser útiles, **y en ningún otro lugar** ». **Le texte se contredit en six lignes**, et il
+propose à un fabricant de miroir le produit qu'il fabrique — à l'instant où il plaide contre le
+miroir importé.
+**LA RÈGLE QUI MANQUAIT, ET ELLE EST GÉNÉRALE : UNE MAISON PEUT ÊTRE PROSPECT SUR UNE RÉFÉRENCE ET
+CONCURRENT SUR UNE AUTRE.** Prodiesa achète du float — c'est un vrai prospect, l'angle du substrat
+est juste et il reste valable. Prodiesa vend du miroir — c'est un concurrent, et le miroir ne doit
+**jamais** lui être proposé. La liste des concurrents du §6 raisonne par **société** ; il faut
+désormais raisonner **par société ET par référence**. **À appliquer avant d'écrire à tout argenteur,
+trempeur ou feuilleteur : ce qu'il FABRIQUE sort de l'offre, ce qu'il ACHÈTE y entre.**
+**Si Prodiesa répond, la réponse ne portera que sur le float clair et extra-clair.** Aucun envoi
+correctif n'est parti — le §5 l'interdit sans l'accord d'Aaron.
 **RÉPONSE PARTIELLE DU 11/10 À 22h36, ET ELLE EST IMPORTANTE DANS LES DEUX SENS.** Cette
 question est restée ouverte depuis le 08/10. Recherche faite ce soir, premier résultat sur les deux pays.
 **BRÉSIL — ET CELA NUANCE LA CONCLUSION « MARCHÉ LE PLUS FAVORABLE » ÉCRITE PLUS BAS.** La
