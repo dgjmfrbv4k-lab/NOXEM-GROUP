@@ -1306,6 +1306,7 @@ information indispensable qui n'existe nulle part.
 | `campagne-conteneur-20-open-top/prospection/outils/genere-liste-appels.py` | régénère la liste d'appels depuis le registre. **À relancer après chaque lot**, pour que les fiches passées en `A APPELER` y entrent et que les créneaux suivent les changements d'heure |
 | `campagne-conteneur-20-open-top/prospection/DECISIONS-AARON.md` | ce qui attend un arbitrage d'Aaron, en faits → options → recommandation. **À tenir à jour à chaque dossier chaud** |
 | `campagne-conteneur-20-open-top/prospection/PRIORITES-RECHERCHE.md` | **où dépenser les 200 appels de recherche du tour** (ajouté le 08/10). Les 26 fiches en rebond avec un domaine propre, jamais retestées, triées par valeur — c'est le meilleur gisement établi ce jour-là. **À régénérer après chaque journée de déverrouillage**, le script est dans le fichier. |
+| `campagne-conteneur-20-open-top/prospection/outils/candidats-deverrouillage.py` | **les fiches qui valent vraiment un appel de recherche** (ajouté le 13/10). Écarte celles dont la note porte déjà un verdict — « aucune adresse », « formulaire uniquement », « fiche téléphonique », « domaine introuvable », `TESTEE` — et imprime les écartées avec leur motif, pour qu'on puisse le contredire. **À passer AVANT d'ouvrir un lot de déverrouillage**, jamais après : il est né de cinq appels perdus le 13/10 sur cinq fiches déjà répondues |
 | `campagne-conteneur-20-open-top/prospection/outils/verif-texte.py` | **contrôle avant-vol des textes** (ajouté le 12/10). Lit les corps de message de `TEXTES-PRETS.md` et refuse ceux qui portent un mot interdit du §5, à qui manque la formule imposée, la signature du §10 en un seul exemplaire ou la porte de sortie, ou qui portent le numéro mort. **À passer avant d'ouvrir une vague.** Il ne contrôle que les textes numérotés à partir de 32, la règle de signature datant du 12/10. **Sa première version rendait 39 défauts sur 46 textes, dont zéro vrai** — sous-chaînes au lieu de mots, blocs mal appariés aux titres, et textes antérieurs à la règle. Corrigé et **vérifié dans les deux sens** : zéro sur le fichier réel, et quatre fautes injectées retrouvées sur un jeu d'essai, dont une — le délai en anglais — que le jeu d'essai a lui-même révélée comme non couverte |
 | `campagne-conteneur-20-open-top/prospection/TEXTES-PRETS.md` | **les textes RÉDIGÉS, prêts à envoyer** (ajouté le 11/10). Un texte multiligne ne peut pas tenir dans une note du CSV, qui est à une ligne par fiche : les angles restent dans les fiches, les textes sont ici, avec pour chacun la liste de ce qui a été vérifié avant de l'écrire |
 | `email/SIGNATURE.md` | mentions légales de référence |
@@ -1673,6 +1674,24 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   la condition mécanique — « le domaine apparaît dans les URL de résultats » — et ne satisfait rien du
   tout. **Le contrôle à ajouter est d'une seconde : les pages rendues parlent-elles de verre ?** Si
   elles parlent d'autre chose, le domaine n'est pas le leur, quel que soit le nombre de résultats.
+  **SEPTIÈME SIGNATURE, TROUVÉE LE 13/10, ET ELLE EST PIRE QU'UNE ADRESSE MORTE PARCE QU'ELLE N'EST
+  PAS SILENCIEUSE : LE DOMAINE A ÉTÉ REPRIS PAR UN TIERS.** Cas réel : **Vicar — Vidros e Espelhos**
+  (Portugal). La recherche restreinte à `vicar.pt` rend bien `geral@vicar.pt` et le 219 552 548, lus
+  sur leur ancienne page de verre trempé — en `http` et en `.html`. **Mais elle rend aussi, sur le
+  MÊME domaine et en `https`, des bracelets de montre, des membranes d'osmose inverse et des sabliers
+  décoratifs.** La fiche portait déjà « domaine vicar.pt introuvable le 25/09 » : la société a laissé
+  tomber le domaine, et quelqu'un l'a re-enregistré pour y monter une boutique.
+  **CE QUE CELA CHANGE, ET C'EST LE POINT : un domaine mort fait rebondir, un domaine REPRIS fait
+  LIVRER.** Écrire à `geral@vicar.pt` n'enverrait pas notre approche commerciale dans le vide, cela
+  l'enverrait **à un inconnu qui contrôle désormais la messagerie**. Il n'y a ni rebond ni avertissement :
+  c'est la fuite silencieuse, et elle expose notre démarchage à un tiers quelconque.
+  **À DISTINGUER DES DEUX AUTRES PIÈGES DE DOMAINE, car le remède diffère :** le domaine **parqué**
+  (INDEX Gabon) ne rend que des PDF sans rapport et aucune page de la société ; le site **vivant à
+  messagerie abandonnée** (Vitrolux) ne rend que des pages de la société et pas de MX ; **celui-ci rend
+  LES DEUX À LA FOIS** — les vieilles pages de la société, encore indexées, et les pages neuves du
+  repreneur. **La signature à reconnaître est ce MÉLANGE**, et elle se lit en une seconde : des pages de
+  verre en vieux `.html` à côté de pages de commerce en ligne récentes, sur un domaine déjà signalé
+  introuvable. Dans ce cas l'adresse ne s'essaie pas, même une fois.
   **ET C'EST LA QUATRIÈME FOIS LE MÊME SOIR QU'UN CARACTÈRE SÉPARE UN DOMAINE RÉEL D'UN FAUX :**
   `newSglassind` contre `newglassind` (New Glass, et c'est la coquille qui a rebondi),
   `glasscorplnt` contre `glasscorpint` (Glasscorp, confusion du L et du i dans la police d'un PDF),
@@ -1872,6 +1891,35 @@ awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $9 !~ /TE
   rebonds durs **abîment la réputation du domaine partagé**, donc coûtent aux deux autres
   campagnes. Annoncer un volume sur le nombre d'adresses trouvées est faux de 30 % par construction.
 
+- **⚠️ CINQ APPELS DE RECHERCHE PERDUS LE 13/10 SUR CINQ FICHES DONT LA NOTE PORTAIT DÉJÀ LA
+  RÉPONSE — et la cause n'est pas l'étourderie, c'est le FILTRE.** Davis Glass, Univers du Verre,
+  Crone Wholesale Glass, Têmpera Primos et Vitral Vidros Planos ont toutes été recherchées de
+  nouveau. Leurs notes disaient, en toutes lettres, « AUCUNE ADRESSE PUBLIÉE », « formulaire
+  uniquement », « fiche téléphonique », « domaine introuvable ». Univers du Verre portait **deux**
+  rebonds et le mot « irrécupérable ».
+  **POURQUOI LE FILTRE NE LES VOYAIT PAS, et c'est exactement la leçon Staklo Bakar du §12 prise par
+  l'autre bout :** je sélectionnais sur le **statut** et sur un **marqueur en majuscules**
+  (`TESTEE|DEVERROUILLEE`). Or le registre consigne son verdict **EN PROSE**. *Un filtre sur
+  marqueurs ne peut pas voir une décision écrite en mots*, de même qu'un comptage sur les statuts ne
+  voit pas une décision écrite en prose.
+  **Et le coût est réel, pas théorique :** le budget est de 200 appels par tour et la méthode en coûte
+  deux par fiche, donc **cinq appels perdus sont trois fiches réelles en moins** sur la journée.
+  **REMÈDE, ET C'EST UN SCRIPT PARCE QUE LA RÉSOLUTION « lire la note d'abord » EST PRÉCISÉMENT CE QUE
+  J'AI MANQUÉ DEUX FOIS DANS LA MÊME JOURNÉE :**
+```bash
+python3 campagne-conteneur-20-open-top/prospection/outils/candidats-deverrouillage.py
+```
+  Il écarte toute fiche dont la note porte un verdict, **en prose comme en marqueur**, et imprime à
+  part la liste des écartées avec leur motif — pour qu'on voie ce qu'il retire et qu'on puisse le
+  contredire. Mesure du 13/10 : **185 fiches écartées, 147 à travailler**, là où mon filtre en
+  proposait 149 dont les cinq ci-dessus.
+  **ET IL A TROUVÉ UNE LACUNE QUE JE NE CHERCHAIS PAS, qui vaut plus que le script lui-même :**
+  **Commercial Glass & Aluminium** (Bermudes) et **Vitrolux** (Côte d'Ivoire) ressortaient comme
+  candidates **alors que leur verdict est établi dans ce mandat depuis le 08/10** — il n'avait jamais
+  été écrit dans leur **fiche**. **Un fait consigné dans le mandat mais absent du registre ne protège
+  de rien, parce que le travail quotidien se fait sur le registre.** Les deux fiches portent désormais
+  leur verdict. **Règle générale : quand une leçon du mandat vise des fiches nommées, elle s'écrit
+  AUSSI dans ces fiches, le jour même.**
 - **LE BUDGET DE RECHERCHE DE LA SESSION EST FINI, ET C'EST UNE LIMITE À PLANIFIER — découverte
   le 08/10 à 15 h 50.** `WebSearch` est plafonné à **200 appels par tour**, partagés par tous les
   agents du tour. Atteint en fin d'après-midi après une quinzaine de lots de déverrouillage.
