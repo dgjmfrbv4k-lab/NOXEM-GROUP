@@ -6904,7 +6904,7 @@ meilleures classes soient épuisées.
 
 **Great Lakes Glass Distributors** est remontée comme candidate neuve près de Detroit. Un grep sur
 *great lakes* ne rendait rien — **parce que c'est la BRANCHE d'American Insulated Glass**, qui est au
-registre en . **Aucune fiche créée** : ce serait un deuxième message au même
+registre en `RELANCE 2026-10-08`. **Aucune fiche créée** : ce serait un deuxième message au même
 compte. Le lien est consigné dans la fiche de la maison mère, et l'adresse de la branche sert de
 secours si celle de la mère rebondit. Même leçon que Savima et Glass Alu SXM.
 
@@ -6914,3 +6914,16 @@ règle l'employaient déjà. Onze formes portugaises désormais, vérifié dans 
 fichier réel, trois fautes injectées retrouvées dont un délai en anglais.
 
 **Registre à 1171 fiches. 121 messages portent un statut du 13/10**, aucun confirmé avant le 16/10.
+
+**⚠️ ET UNE FAUTE D'OUTIL DANS CETTE ÉCRITURE MÊME, À CONSIGNER PARCE QU'ELLE EST DE LA MÊME FAMILLE
+QUE DEUX AUTRES DU JOUR :** ce paragraphe est parti avec un trou. J'ai écrit l'entrée de suivi dans un
+**heredoc non quoté** (`<<EOF`), et bash y exécute les **accents graves** comme une substitution de
+commande. Le texte portait `` `RELANCE 2026-10-08` ``, que bash a tenté de lancer comme une commande,
+d'où un `RELANCE: command not found` et une phrase amputée dans le fichier. Deux autres accents graves
+du même bloc étaient échappés, celui-là non.
+**C'est la troisième fois dans la journée qu'une tournure de ma prose déclenche un mécanisme de
+l'outillage** — après le ` ; ` pris pour un séparateur de champ et le mot `DOUBLON` pris pour un
+marqueur de convention. **Règle : une entrée Markdown s'écrit toujours dans un heredoc QUOTÉ**
+(`<<'EOF'`), et quand une substitution est nécessaire — un comptage, une heure — on substitue d'abord
+dans une variable et on passe par un script Python, jamais par un heredoc ouvert. La prose d'un fichier
+de suivi est du Markdown, et le Markdown est plein d'accents graves.
