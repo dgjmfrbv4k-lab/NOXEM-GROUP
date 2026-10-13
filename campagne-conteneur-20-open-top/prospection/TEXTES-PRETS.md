@@ -2457,3 +2457,127 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 48. Tidewater Flat Glass Distribution (Norfolk, VA) — `tidewaterflatglass@gmail.com` — ANGLAIS — à envoyer le 13/10
+
+**⚠️ VERIFIE :** ils annoncent tenir le verre plat EN STOCK a Norfolk, donc ils achetent au volume ·
+Norfolk est un grand port de la cote est · argument antidumping autorise par le §6 aux Etats-Unis, ordres
+du 06/04/2026, l Europe n est visee par aucun · AUCUN taux cite, ce serait lu comme une promesse de prix ·
+reserve portee dans la fiche : adresse issue des donnees structurees, donc moins sure, et si rebond la
+fiche part au telephone sans reconstruire d adresse · aucun prix, aucun delai, formule imposee.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys stock glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because you hold flat glass in stock in Norfolk and can
+often serve same day. Holding stock means buying by volume and having somewhere
+to put it, and your warehouse sits a few miles from one of the deepest container
+ports on the East Coast. A container is not a complication for you, it is how
+your stock arrives.
+
+What we can ship you:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Copper-free and lead-free mirror
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Norfolk or the
+port you prefer.
+
+One thing that concerns you as a buyer rather than as a glazier. Since the
+antidumping and countervailing orders published in April 2026 on imported float
+glass, the two origins that used to set the lowest landed cost on this market
+both carry duties. European origin is named in none of those orders. I am not
+telling you our glass is cheap. I am telling you the comparison between origins
+is not the one it was eighteen months ago, and that it is worth having a second
+source priced.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the three references above you stock
+and in which thicknesses, the sheet sizes that suit your racks and your cutting,
+an approximate volume and how often you reorder, and your port.
+
+And if you are committed to your current supply, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 49. Maryland Glass and Mirror Company (Baltimore, MD) — `info@mdglass.net` — ANGLAIS — à envoyer le 13/10
+
+**⚠️ VERIFIE :** domaine relu caractere par caractere, mdglass.net contre marylandglass.com, exception
+du §5 notee dans la fiche · boite choisie info@, orders@ ecartee au vu du cas MunnWorks et quotes@ parce
+que nous n allons pas DEMANDER un prix · ils revendent a la filiere, vitriers, revendeurs et fabricants
+de portes, pas au particulier · regle Prodiesa : ils transforment, seul le substrat est propose ·
+argument antidumping autorise par le §6 aux Etats-Unis · AUCUN taux cite · aucun prix, formule imposee.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys base glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because you sell to the trade rather than to the public.
+Glazing contractors, glass dealers and door manufacturers are your customers,
+which means you buy base glass in quantity, you stock it, and you already clear
+and handle inbound freight into Baltimore. There is nothing to explain about how
+a container works.
+
+We supply the substrate, not the fabricated work you do yourselves:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Copper-free and lead-free mirror
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Baltimore or
+the port you prefer.
+
+One point that concerns you as a buyer. Since the antidumping and countervailing
+orders published in April 2026 on imported float glass, the two origins that
+used to set the lowest landed cost here both carry duties. European origin is
+named in none of them. I am not claiming our glass is cheap. I am saying the
+comparison between origins changed, and that a house which has supplied this
+trade since 1912 has probably seen enough supply cycles to want a second origin
+on the list before it needs one.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the three references above you buy
+and in which thicknesses, the sizes that suit your operation, an approximate
+volume and buying frequency, and your port.
+
+And if you are committed to your current supply, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
