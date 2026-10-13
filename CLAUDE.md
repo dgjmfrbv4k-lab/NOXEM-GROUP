@@ -1965,6 +1965,30 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   une soirée fait de ce motif la règle et non l'accident : avant tout envoi, relire le domaine
   CARACTÈRE PAR CARACTÈRE contre celui que la société publie.**
 
+  **⚠️ CINQUIÈME CAS LE 13/10 À 16h58, ET CELUI-LÀ COÛTE PLUS CHER QUE LES QUATRE AUTRES PARCE QU'IL A
+  FERMÉ UNE FICHE PENDANT CINQ JOURS : CE N'EST PAS UNE LETTRE QUI CHANGE, C'EST L'EXTENSION.**
+  **Lahey Glass** (Lower Sackville, Nouvelle-Écosse) portait `laheyglass.ca` au champ site. Les trois
+  recherches du 08/10, dont une restreinte à ce domaine, n'ont rien rendu, et la fiche a été consignée
+  « domaine non indexé, à requalifier ou déclasser ». **Le vrai site est `laheyglass.com`** — même nom,
+  autre extension — et il donne le bureau, deux lignes téléphoniques et les horaires.
+  **LA RÈGLE QUI MANQUAIT, ET ELLE EST GÉNÉRALE : UN RÉSULTAT NÉGATIF OBTENU SUR UN DOMAINE LUI-MÊME
+  NON VÉRIFIÉ NE DIT RIEN DE LA SOCIÉTÉ — il dit que le domaine est faux.** Le §13 fait du second temps
+  la preuve que le domaine est bien le leur ; il ne disait pas quoi conclure quand le second temps
+  échoue. **Réponse : on ne conclut rien sur la société, on refait le PREMIER temps.** Une recherche
+  large sur le nom seul a rendu le `.com` en un appel. Et c'est le pendant exact du piège du domaine
+  parqué : là le second temps réussissait sans rien prouver, ici il échouait sans rien prouver non plus.
+  **Conduite : quand une recherche restreinte ne rend aucune page, le marqueur `TESTEE` ne se pose
+  qu'après avoir re-cherché le nom en large.** Sinon on inscrit au registre un verdict qui porte sur le
+  champ et pas sur la maison — et `candidats-deverrouillage.py` écartera ensuite la fiche pour de bon,
+  puisqu'il lit précisément ce verdict. **Un faux négatif consigné est pire qu'une fiche non testée.**
+  **ET DEUX PIÈGES DU §5 ÉVITÉS SUR CETTE MÊME FICHE, à dire parce qu'ils se présentaient bien :** la
+  seule adresse en clair, `brent.macintyre@laheyglass.ca`, est sur leur page **CARRIÈRES** — donc une
+  boîte de recrutement, et le §5 interdit de nommer une personne dont la fonction n'est pas pertinente
+  pour les achats ; **et elle porte le `.ca`, qui est le domaine mort.** Par-dessus, `prospeo.io`, un
+  courtier interdit, est remonté en proposant un **schéma** d'adresse en initiale-point-nom : c'est une
+  adresse déduite, donc inventée au sens du §5. Fiche téléphonique au +1 902 462 8000, et c'est un
+  verdict, pas une absence de recherche.
+
   **UNE SUBTILITÉ QUI VAUT UN DÉVERROUILLAGE, trouvée sur Grupo Visemex (Monterrey) :** le registre
   portait `ventas1@visemex.com.mx` et leur page publie `venta1@`, **au singulier**. Même piège
   qu'Al Ashoury. Mais ici l'arbitrage s'est fait sur un fait et non sur la source la plus récente :

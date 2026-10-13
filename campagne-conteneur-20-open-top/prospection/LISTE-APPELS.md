@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **13/10/2026** depuis le registre. **175 societes** portent un telephone et
+Regeneree le **13/10/2026** depuis le registre. **176 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 175 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 176 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 162 societes
+## Hors Europe — 163 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Brésil | **Alusupra Alumínio** | `+55 48 3242-3473` | 14h00 - 22h00 | A QUALIFIER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
 | Brésil | **LM Vidros** | `+55 67 3303 2400` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 13/10 A 08h24. Nom grepe avant creation sous les deux formes, lm vid et lmvidros, pour ne pas repeter la faute Alphaglass du paragraphe 5 ou une concatenation masquait la forme separee. Absent. AUCUNE ADRESSE RET... |
 | Cambodge | **Pang Luon (Pranet) Import-Export & Construction Co. Ltd** | `023 212 578 et 012 814 567 et 012 558 111 siege, 023 726 343 et 012 349 888 succursale` | 04h00 - 12h00 | A APPELER | Fondee en 1992. Importateur declare de float. 408ABC Preah Monivong Blvd. Angle retenu : la meme chose en un maillon de moins, direct depuis un distributeur europeen. Ports Sihanoukville ou Phnom Penh. Mini-mail sur mesure EN C... |
+| Canada | **Lahey Glass** | `+1 902 462 8000` | 15h00 - 23h00 | A APPELER | Adresse brent.macintyre citee sans recoupement du domaine : appeler plutot que deviner. VERIFIE LE 08/10, RESULTAT NEGATIF : trois recherches, dont une restreinte au domaine laheyglass.ca, ne rendent aucun resultat. Le domaine ... |
 | Ghana | **Perfect Glass Ghana** | `+233 204 336 854` | 11h00 - 19h00 | A APPELER | Façades en interne et transformation de verre trempé, feuilleté et double vitrage. Port Tema, envoi en anglais. Relance courte le 06/10, lot 4. Rebond 06/10 : serveur distant mal configure. Appeler. RETESTEE LE 08/10 A 16h40 : ... |
 | Ghana | **Accra Glass Company Ltd** | `+233 302 713 836` | 11h00 - 19h00 | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. Source annuaire ghaneen, qui annonce la fabrication et la fourniture de produits verriers dont du TREMPE, du FEUILLETE et du... |
 | Guyane | **ALUBAT Guyane SAS (groupe C.P.G.)** | `05 94 37 79 45` | a verifier | A APPELER | Fiche creee le 09/10/2026 13h07 CEST en meme temps que l ouverture de la Guyane. ALUBAT GUYANE SAS, 710 avenue Justin Cataye, 97300 Cayenne. Fabricant-installateur de menuiseries aluminium, MEMBRE DU GROUPE C.P.G. — information... |

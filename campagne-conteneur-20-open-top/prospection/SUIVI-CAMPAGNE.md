@@ -6804,3 +6804,62 @@ plus pauvre que celui des textes réels : une seule forme espagnole de la formul
 porte de sortie au présent alors que *I will not push* et *no insisto* sont dans les relances déjà
 parties. Corrigé à treize formules et dix-sept portes de sortie, **vérifié dans les deux sens**.
 Troisième panne de ce type — un garde-fou qui crie au loup finit par être ignoré.
+
+## 13/10/2026 16h59 — quatre clôtures de fiche envoyées, et un faux négatif levé au Canada
+
+**Les quatre dernières relances échues du jour sont parties**, gabarit de clôture, après le contrôle
+avant-vol en quatre points : expéditeur `aaron.harfi@noxem-group.com` vérifié, jour ouvré vérifié
+dans les quatre pays — le 13/10/2026 est un mardi et n'est férié ni en République dominicaine, ni à
+Trinité, ni en Uruguay, ni au Venezuela —, rebonds du jour traités, balayage des doublons propre.
+
+| Fiche | Langue | Texte | Angle |
+|---|---|---|---|
+| Amex Industrial (Saint-Domingue) | ES | 70 | aucun, classe aluminium — texte volontairement court |
+| Delta Glass Limited (Trinité) | EN | 71 | insulaire, Port of Spain ou Point Lisas |
+| Gabriel Bia Vidrios (Montevideo) | ES | 72 | **verre courbe** — le bombage révèle le défaut optique au lieu de le masquer |
+| CorpoInvetro (Venezuela) | ES | 73 | aucun, et **pas un mot sur le règlement**, réservé à Aaron |
+
+**Et un défaut du gabarit espagnol est corrigé au passage : la version envoyée le 12/10 à Unionglass
+ne portait PAS la formule imposée du §5.** Elle s'arrêtait à « los cuatro datos que necesito para
+cotizar » là où l'anglaise porte « subject to validation on our side ». Les trois textes espagnols du
+jour la portent.
+
+### Le lot de découverte canadien, et il confirme la saturation mesurée ce matin
+
+Deux recherches sur les Prairies et l'Atlantique. **Sur onze noms rendus, sept étaient déjà au
+registre** — National Glass, Glassbuilt, AWG Northern, United Glass, Woodbridge, Lahey, Hartung. La
+mesure du 13/10 tient : la couche facilement trouvable du Canada est faite.
+
+**Trois fiches neuves, et elles sont annoncées pour ce qu'elles valent :** Atlantic Glass Systems,
+née en 2025 de la fusion d'O'Connor Glass à l'Île-du-Prince-Édouard et de First Class Glass au
+Nouveau-Brunswick ; Newfoundland Glass & Service, **première fiche de Terre-Neuve** ; et Moda Glass
+Works à Saskatoon. **Les trois sont de la classe poseur, à 3,6 % de réponse**, donc aucune recherche
+n'a été dépensée sur elles — elles attendent que le vivier verrier et négoce soit épuisé. Deux
+portent un site, donc elles rejoignent le gisement du §13 plutôt que le téléphone.
+**ARG Wholesale écartée sans fiche :** verre automobile, hors gamme.
+
+### ⚠️ LA VRAIE TROUVAILLE EST UN FAUX NÉGATIF, ET IL DURAIT DEPUIS LE 08/10
+
+La fiche **Lahey Glass** portait `laheyglass.ca`. **Le vrai site est `laheyglass.com`** — même nom,
+autre extension. Les trois recherches du 08/10 avaient donc conclu « domaine non indexé, à requalifier
+ou déclasser » sur un domaine qui n'existe pas, et ce verdict aurait fait écarter la fiche
+définitivement par `candidats-deverrouillage.py`, qui lit précisément les verdicts.
+
+**La règle ajoutée au §13 : un résultat négatif obtenu sur un domaine lui-même non vérifié ne dit rien
+de la société, il dit que le domaine est faux.** Quand le second temps ne rend aucune page, on refait
+le **premier** temps avant de poser `TESTEE`. Une recherche large sur le nom seul a rendu le `.com`
+en un appel. **Un faux négatif consigné est pire qu'une fiche non testée.**
+
+**Ce que la fiche vaut vraiment, maintenant qu'on peut la lire :** plus d'un siècle d'activité,
+couverture Nouvelle-Écosse, Île-du-Prince-Édouard, Nouveau-Brunswick et Terre-Neuve, et un relevé de
+la presse de filière décrit une maison qui **stocke et coupe sa propre feuille de float** et commande
+ses vitrages isolants à des fabricants. **Classe verrier et négoce, la meilleure des cinq.** Site à
+formulaire uniquement, donc fiche téléphonique au **+1 902 462 8000** — et c'est un verdict, pas une
+absence de recherche.
+
+**Deux pièges du §5 évités sur cette fiche :** la seule adresse en clair est sur leur page
+**carrières**, donc une boîte de recrutement et non d'achats, et elle porte le `.ca` mort ; et
+`prospeo.io`, courtier interdit, proposait un **schéma** d'adresse en initiale-point-nom, c'est-à-dire
+une adresse déduite. Consignés tous deux comme non utilisables.
+
+**Registre à 1163 fiches.** `A APPELER` sans téléphone : zéro, par construction.

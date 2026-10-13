@@ -3828,3 +3828,171 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 70. Amex Industrial (Saint-Domingue, République dominicaine) — `info@amexindustrial.com` — ESPAGNOL — CLÔTURE DE FICHE, à envoyer le 13/10
+
+**⚠ C'EST UN TROISIÈME MESSAGE, et il est assumé comme tel parce que c'est le gabarit de CLÔTURE :**
+premier contact le 23/09, relance le 07/10, et celui-ci annonce qu'on arrête. Six jours séparent les
+deux derniers, donc rien de la faute Shibaam, qui visait trois messages en deux jours.
+
+**⚠ ET UN DÉFAUT DU GABARIT ESPAGNOL CORRIGÉ ICI : la version envoyée le 12/10 à Unionglass ne portait
+PAS la formule imposée du §5.** Elle disait « los cuatro datos que necesito para cotizar » et s'arrêtait
+là, alors que la version anglaise porte bien « subject to validation on our side ». Les trois textes
+espagnols ci-dessous la portent.
+
+**⚠ VÉRIFIÉ :** adresse du registre sur le domaine du site · métier **aluminium et verre**, donc la
+classe la moins productive de la mesure du 13/10 — c'est pour cela que le texte est court et qu'il ne
+dépense pas d'argument · port Caucedo au registre · **aucun prix, aucun délai** · formule imposée ·
+porte de sortie · signature une seule fois · **rien sur les droits de douane**, aucune mesure n'étant
+établie pour la République dominicaine.
+
+```
+Buenos dias,
+
+Les he escrito dos veces sobre vidrio plano en contenedores completos, sin
+respuesta. No voy a insistir una tercera vez, asi que cierro su ficha salvo que
+me digan lo contrario.
+
+Basta una linea: compran ustedes vidrio plano por contenedor completo, y por que
+puerto?
+
+Si la respuesta es si, lo que necesito son las referencias y espesores que mas
+compran, las medidas de hoja, el volumen y la frecuencia, y el puerto de
+destino. Podemos entonces establecer una oferta para la entrega en su puerto de
+destino, sujeta a validacion de nuestra parte.
+
+Si la respuesta es no, o no por ahora, diganmelo con franqueza y no insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 71. Delta Glass Limited (San Juan, Trinité-et-Tobago) — `sales@deltawds.com` — ANGLAIS — CLÔTURE DE FICHE, à envoyer le 13/10
+
+**⚠ VÉRIFIÉ :** l'adresse est sur **le domaine du site lui-même**, `deltawds.com`, donc aucune
+exception du §5 à noter — c'est la raison sociale qui diffère du domaine, pas l'inverse · ports Port
+of Spain et Point Lisas au registre · **aucun prix, aucun délai** · formule imposée · porte de sortie ·
+signature une seule fois · **rien sur les droits**, aucune mesure n'étant établie pour Trinité.
+
+**L'angle insulaire est conservé du premier envoi parce qu'il est juste et qu'il ne coûte rien :**
+chaque feuille qu'ils coupent est arrivée par conteneur, donc la question n'est pas de savoir s'ils
+importent mais qui charge la caisse. **Et il ne s'y ajoute aucun argument neuf** — un message de
+clôture qui développerait serait un quatrième premier contact.
+
+```
+Hello,
+
+I have written to you twice about flat glass in full containers and had no
+reply, so I am closing your file unless you tell me otherwise.
+
+One line is enough: do you buy flat glass by full container, and through Port of
+Spain or Point Lisas?
+
+If the answer is yes, what I need is the references and thicknesses you buy
+most, the sheet sizes, the volume and how often, and the port. We can then
+establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+If the answer is no, or not now, say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 72. Gabriel Bia Vidrios (Montevideo, Uruguay) — `info@gabrielbia.com.uy` — ESPAGNOL — CLÔTURE DE FICHE, à envoyer le 13/10
+
+**⚠ VÉRIFIÉ :** adresse du registre sur le domaine du site · **classe verrier pur** — trempé, courbe
+et feuilleté — donc la meilleure classe de la mesure du 13/10, et c'est pourquoi ce texte garde une
+ligne d'argument que les trois autres n'ont pas · port Montevideo · **aucun prix, aucun délai** ·
+formule imposée · porte de sortie · signature une seule fois · **rien sur les droits** · **règle
+Prodiesa appliquée** : ils bombent et feuillettent, donc ce qu'ils FABRIQUENT sort de l'offre et seul
+le **substrat** y entre.
+
+**L'angle du verre courbe est repris du premier envoi et il est le plus solide du lot :** le bombage
+révèle le moindre défaut optique au lieu de le masquer, donc pour un bombeur la provenance de la
+feuille n'est pas un détail d'achat mais une question industrielle.
+
+```
+Buenos dias,
+
+Les he escrito dos veces sobre vidrio plano en contenedores completos, sin
+respuesta. No voy a insistir una tercera vez, asi que cierro su ficha salvo que
+me digan lo contrario.
+
+Una sola razon por la que vuelvo a escribir: ustedes curvan vidrio, y el curvado
+no disimula un defecto optico, lo revela. Para un taller de curvado la
+procedencia de la hoja no es un detalle de compra, es una cuestion industrial.
+Nosotros vendemos el sustrato, no lo que ustedes fabrican.
+
+Basta una linea: compran vidrio plano por contenedor completo via Montevideo?
+
+Si la respuesta es si, lo que necesito son las referencias y espesores que mas
+compran, las medidas de hoja, el volumen y la frecuencia. Podemos entonces
+establecer una oferta para la entrega en su puerto de destino, sujeta a
+validacion de nuestra parte.
+
+Si la respuesta es no, o no por ahora, diganmelo con franqueza y no insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 73. CorpoInvetro (Maracay, Venezuela) — `contacto@corpoinvetro.com` — ESPAGNOL — CLÔTURE DE FICHE, à envoyer le 13/10
+
+**⚠ VÉRIFIÉ :** adresse du registre sur le domaine du site · ports Puerto Cabello et La Guaira ·
+**aucun prix, aucun délai, aucune condition de paiement** — et c'est le point de vigilance de cette
+fiche, dont la note porte « vérifier paiement et change avant cotation » : **la question du règlement
+ne s'évoque donc pas du tout**, même pour dire qu'elle se posera. Le §11 la réserve à Aaron ·
+formule imposée · porte de sortie · signature une seule fois · **rien sur les droits**.
+
+**Texte volontairement le plus court des quatre**, comme la relance du 07/10 : la fiche est un
+transformateur-poseur, pas un négociant, et l'enjeu réel est le règlement et non l'argumentaire.
+
+```
+Buenos dias,
+
+Les he escrito dos veces sobre vidrio plano en contenedores completos, sin
+respuesta. No voy a insistir una tercera vez, asi que cierro su ficha salvo que
+me digan lo contrario.
+
+Basta una linea: compran vidrio plano por contenedor completo, via Puerto
+Cabello o La Guaira?
+
+Si la respuesta es si, lo que necesito son las referencias y espesores que mas
+compran, las medidas de hoja, el volumen y la frecuencia. Podemos entonces
+establecer una oferta para la entrega en su puerto de destino, sujeta a
+validacion de nuestra parte.
+
+Si la respuesta es no, o no por ahora, diganmelo con franqueza y no insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
