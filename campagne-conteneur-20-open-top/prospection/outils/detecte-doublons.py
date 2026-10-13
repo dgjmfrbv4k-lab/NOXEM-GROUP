@@ -26,12 +26,40 @@ def norm(s):
     s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
     return re.sub(r'[^a-z0-9]+', '', re.sub(SUFFIXES, ' ', s))
 
+NEUTRALISANTS = ('NE PAS DEMARCHER', 'ECARTE')
+
+
+def neutralisee(c):
+    """Une fiche hors du balayage est reconnue a son STATUT, jamais a un mot de sa note.
+
+    CORRIGE LE 13/10, ET LE RATAGE A COUTE UN ENVOI. Le filtre d origine ignorait
+    toute fiche dont la note contenait le mot `DOUBLON`, puisque c est ainsi qu on
+    neutralise par convention. Mais ce mot s ecrit aussi EN PROSE - dans une phrase
+    qui explique un rapprochement, ou dans une note d envoi qui dit que le balayage
+    des doublons etait propre. Mesure du 13/10 : 74 fiches portaient le mot, dont
+    **44 au statut ACTIF**, donc contactables ET invisibles aux cinq signaux.
+
+    CE QUE CELA A COUTE : City Glass au Zimbabwe a recu une cloture de fiche le
+    12/10 puis un premier contact commercial le 13/10, sous deux fiches qui
+    partagent site, adresse et telephone. Le balayage ne pouvait pas le dire, l une
+    des deux portant le mot dans sa note. Faute Shibaam, et contradiction frontale
+    du message precedent.
+
+    Le statut, lui, ne peut pas etre declenche par une tournure de phrase. Mesure
+    avant de garder le correctif : le filtre par statut rend 12 groupes contre 4,
+    donc huit groupes etaient tus - un vrai, deux questions d identite neuves
+    (Kamri Glass et TGAC, chacun sur deux pays), et des cas deja connus et acceptes
+    (Mirodec, les antennes PG, le groupe Riou).
+    """
+    return c[9].strip().upper().startswith(NEUTRALISANTS)
+
+
 rows = []
 for n, l in enumerate(io.open(CSV, encoding='utf-8').read().split('\n')[1:], start=2):
     if not l.strip():
         continue
     c = l.rstrip('\r').split(';')
-    if len(c) < 10 or 'DOUBLON' in c[8].upper():
+    if len(c) < 10 or neutralisee(c):
         continue
     rows.append((n, c))
 
@@ -144,5 +172,7 @@ total += groupe(domaines, 'MEME DOMAINE, SITE OU ADRESSE CONFONDUS')
 
 print('\n%d fiches actives examinees, %d groupe(s) a verifier.' % (len(rows), total))
 print("Attention : un meme domaine ou un meme standard peut couvrir des entites")
+print("Une fiche sort du balayage par son STATUT (NE PAS DEMARCHER, ECARTE), jamais par")
+print("un mot de sa note : voir neutralisee() et le ratage City Glass du 13/10.")
 print("distinctes d un meme groupe (Mirodec SARL au Liban et Mirodec Gulf a Dubai,")
 print("les quatre antennes PG sur pgglassafrica.com). Verifier avant de fusionner.")

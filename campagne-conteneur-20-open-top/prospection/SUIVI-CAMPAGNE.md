@@ -6673,3 +6673,58 @@ garde-fou de ce fichier tourne en rendant une cle fausse sans jamais se plaindre
 Rien ne partait ce matin sur ce bloc, et c est conforme : les deux fiches creees sont l une gelee et
 l autre en attente d un appel d identite, les trois autres sont telephoniques ou fermees. **Cottrell
 (Martinique) reste programme au 14/10** et **Alupose (Guyane) au 15/10**.
+
+
+## MARDI 13/10, 15h56 — UNE FAUTE SHIBAAM COMMISE AUJOURD HUI, ET LE GARDE-FOU QUI AURAIT DU LA VOIR ETAIT MUET
+
+**A consigner avant les chiffres de la journee, parce que c est le fait le plus important.**
+
+### Ce qui s est passe
+
+**City Glass, Harare.** Le 12/10 a 11h47 elle recoit le **gabarit de CLOTURE DE FICHE**, qui dit en
+clair que je n ecrirai plus. Le 13/10 a 12h32 elle recoit un **PREMIER CONTACT commercial**, texte 56,
+parti sous une **seconde fiche** creee le matin meme a 10h12 sous le nom City Glass Zimbabwe.
+
+Les deux fiches partagent **le site cityglass.co.zw, l adresse glasssales arobase cityglass.co.zw, le
+telephone et la rue** a Graniteside. C est la meme maison.
+
+**Le degat n est pas le nombre de messages, c est la contradiction.** On leur annonce qu on arrete,
+puis on leur vend le lendemain. C est exactement ce que la regle interdit, et pour cette raison-la.
+
+### Deux causes, et la premiere est la mienne
+
+**UN. LE GREP A ETE LANCE ET MAL LU.** La note de la fiche en trop dit, en toutes lettres, « grep fait
+avant creation sur *city glass* » et en conclut qu **aucune fiche zimbabweenne n existait**. Elle
+existait, sous exactement ce nom et ce pays. **Un grep mal lu est pire qu un grep oublie, parce qu il
+donne la certitude d avoir verifie** — c est la faute que le paragraphe 5 nomme depuis le 09/10 : lire
+les RESULTATS, pas seulement leur nombre.
+
+**DEUX. LE BALAYAGE AUTOMATIQUE NE POUVAIT PAS RATTRAPER.** `detecte-doublons.py` ignorait **toute
+fiche dont la note contient le mot de convention**, et la note de la fiche en trop le portait.
+
+### Et la seconde cause etait bien plus large qu un cas
+
+**Mesure : 74 fiches portaient ce mot, dont 44 AU STATUT ACTIF** — donc contactables **et** invisibles
+aux cinq signaux. **J en ai moi-meme reduit une douzaine au silence dans l heure**, en ecrivant
+« balayage des doublons propre » dans la note d envoi de onze messages.
+
+**Correctif : une fiche sort du balayage par son STATUT, jamais par un mot de sa note.** Un statut ne
+peut pas etre declenche par une tournure de phrase.
+
+**Et le correctif a ete mesure avant d etre garde : le filtre par statut rend 12 groupes contre 4.**
+Huit groupes etaient tus. Lus un par un : **un vrai**, City Glass ; **deux questions d identite** deja
+notees a la main dans les fiches mais invisibles au script — **Kamri Glass** entre le Guyana et
+Trinite, **TGAC** entre le Qatar et les Emirats, chacune une meme maison sur deux territoires ; et le
+reste des cas connus et acceptes (Mirodec, antennes PG, groupe Riou, Texas Glass).
+
+### Conduite arretee
+
+· La fiche conservee, **City Glass**, passe en **A VALIDER AARON** : elle ne tombe plus dans aucune
+  cohorte de relance, et **Kevin tranche** s il faut s excuser ou se taire. **Aucun message de plus.**
+· La fiche en trop est neutralisee, qualification reportee.
+· Si City Glass repond en relevant la contradiction, **la reponse est a Kevin**, pas a moi.
+
+### Les chiffres de la journee, pour memoire
+
+**26 envois confirmes partis le 13/10**, registre a **1160 fiches**. Aucun n est confirme avant
+**72 heures**, soit le 16/10.

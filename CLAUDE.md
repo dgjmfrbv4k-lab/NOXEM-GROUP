@@ -1662,8 +1662,51 @@ par un w il pouvait donc **fusionner à tort** deux fiches sans rapport. Aucun g
 dépendait au moment du correctif, donc rien n'a été manqué de ce fait — mais c'est la troisième fois qu'un
 garde-fou de ce fichier tourne en rendant une clé fausse sans jamais se plaindre.
 
-**Conséquence de convention à connaître :** le script **ignore toute fiche dont la note contient le mot
-`DOUBLON`**, puisque c'est ainsi qu'on neutralise. C'est pour cela que cette paire ne ressort toujours pas
+**⚠️⚠️ CETTE CONVENTION ÉTAIT DANGEREUSE ET ELLE EST REMPLACÉE LE 13/10 À 15h56, APRÈS AVOIR COÛTÉ UN
+ENVOI SUR UN COMPTE VIVANT. C'est la panne la plus grave de la journée et il faut la raconter en entier.**
+Le script ignorait **toute fiche dont la note contient le mot `DOUBLON`**, parce que c'est ainsi qu'on
+neutralisait. **Mais ce mot s'écrit aussi en PROSE** — dans une phrase qui explique un rapprochement, ou
+dans une note d'envoi qui dit que le balayage était propre. **Mesure du 13/10 : 74 fiches portaient le
+mot, dont 44 AU STATUT ACTIF — donc contactables ET invisibles aux cinq signaux.** J'en ai moi-même
+réduit une douzaine au silence dans l'heure, en écrivant « balayage des doublons propre » dans la note
+d'envoi de onze messages.
+**CE QUE CELA A COÛTÉ, ET C'EST UNE FAUTE SHIBAAM SUR UNE MAISON VIVANTE :** **City Glass** au Zimbabwe
+a reçu le **12/10 à 11h47 le gabarit de CLÔTURE**, qui dit en clair que je n'écrirai plus — puis le
+**13/10 à 12h32 un PREMIER CONTACT commercial**, parti sous une seconde fiche créée le matin même. Les
+deux fiches partagent **le site, l'adresse e-mail, le téléphone et la rue**. Le dégât n'est pas le
+nombre, **c'est la contradiction** : on leur annonce qu'on arrête, puis on leur vend le lendemain.
+**DEUX CAUSES, ET LA PREMIÈRE EST LA MIENNE.** Un, la note de la fiche en trop dit « grep fait avant
+création sur *city glass* » et en conclut qu'aucune fiche zimbabwéenne n'existait — **alors qu'elle
+existait, sous exactement ce nom et ce pays. Le grep a été LANCÉ et MAL LU**, ce qui est la faute que le
+§5 nomme depuis le 09/10 : lire les **résultats**, pas seulement leur nombre. **Un grep mal lu est pire
+qu'un grep oublié, parce qu'il donne la certitude d'avoir vérifié.** Deux, le balayage automatique ne
+pouvait pas rattraper, la fiche portant le mot.
+**LA CONVENTION JUSTE : une fiche sort du balayage par son STATUT — `NE PAS DEMARCHER` ou `ECARTE…` —
+JAMAIS par un mot de sa note.** Un statut ne peut pas être déclenché par une tournure de phrase.
+`neutralisee()` porte la règle et son histoire.
+**MESURE AVANT DE GARDER LE CORRECTIF, parce qu'un garde-fou se juge sur ce qu'il révèle : le filtre par
+statut rend 12 groupes contre 4 — donc HUIT groupes étaient tus.** Lus un par un : **un vrai** (City
+Glass, traité ci-dessus), **deux questions d'identité** déjà notées à la main dans les fiches mais
+invisibles au script — **Kamri Glass** entre le Guyana et Trinité, **TGAC** entre le Qatar et les
+Émirats, chacune une même maison sur deux territoires au sens du cas Miroiterie des Antilles — et le
+reste des cas connus et acceptés (Mirodec, les antennes PG, le groupe Riou, Texas Glass).
+**ET IL FAUT ASSUMER QUE CES CINQ CAS RESSORTIRONT À CHAQUE PASSAGE.** C'est voulu : le mandat dit
+« vérifier avant de fusionner », et cinq lignes qu'on relit valent mieux qu'un silence qui cache un
+sixième. **Pour parler d'une fiche en double sans en déclarer une, écrire « fiche en double ».** Les
+deux autres marqueurs du registre, `TESTEE` et `DEVERROUILLEE`, pilotent
+`candidats-deverrouillage.py` de la même façon et appellent la même prudence. **⚠️ ET CETTE CONVENTION M'A FAIT TAIRE UN VRAI SIGNAL LE
+13/10 À 15h51, EN UN SEUL MOT ÉCRIT EN PROSE — c'est la panne la plus discrète de la journée.** J'avais
+inscrit le rapprochement **Texas Glass / Texas Glass Group** dans les deux fiches, et la phrase disait
+« cette fiche se neutralise en **DOUBLON** le cas échéant ». **Le mot était explicatif, le script l'a
+lu comme le marqueur.** Mesure immédiate : le groupe que le signal 1 venait de rendre **a disparu des
+CINQ signaux** — la fiche était devenue invisible au balayage entier.
+**La leçon n'est pas « attention au mot », elle est générale : un marqueur de convention ne doit jamais
+s'écrire en prose dans le champ qu'il pilote.** Le registre en a trois de cette nature — `DOUBLON`,
+`TESTEE` et `DEVERROUILLEE` — et les deux derniers pilotent `candidats-deverrouillage.py` exactement de
+la même façon. **Pour parler d'un doublon sans en déclarer un, écrire « fiche en double ».**
+**Et c'est la deuxième fois dans la journée qu'une tournure de ma plume déclenche un mécanisme du
+fichier** — après le ` ; ` employé comme ponctuation. Même famille, même remède : la prose d'une note
+n'est pas de la prose libre, c'est de la donnée. C'est pour cela que cette paire ne ressort toujours pas
 du registre réel — et c'est voulu, le cas étant traité.
 
 **ET VOICI LE CAS QUE SES QUATRE SIGNAUX NE PEUVENT PAS VOIR — tranché le 11/10 à 23h28, et il faut

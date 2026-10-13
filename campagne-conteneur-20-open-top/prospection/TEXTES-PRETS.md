@@ -3583,3 +3583,152 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 66. Brick Glass / Brick Wholesale Glass (Houston, TX et Sulphur, LA) — `CS@brickwholesaleglass.com` — ANGLAIS — à envoyer le 13/10
+
+**⚠ VERIFIE :** adresse publiée sur plusieurs pages de leur propre site, même domaine, §5 satisfait par
+construction · **classe négoce et stockiste** · ils annoncent stocker du **recuit de 3,0 à 25 mm en
+clair, teinté et extra-clair**, avec les épaisseurs détaillées au pouce — un stockiste qui tient une
+gamme complète achète en volume · **deux dépôts**, Houston et Sulphur, donc argument du volume groupé ·
+**règle Prodiesa** : parois de douche, planchers et cloisons sortent de l'offre · argument antidumping
+américain autorisé par le §6, **sans citer de taux comme une promesse de prix** · aucun prix, aucun
+délai, formule imposée, signature une seule fois.
+
+**⚠⚠ ET LE MOT QUI COMMANDE TOUT LE TEXTE EST `DOMESTIC` :** leur page dit verre plat recuit
+**domestique**. Ils s'approvisionnent donc aux États-Unis et **n'importent vraisemblablement pas**.
+C'est un angle **plus exigeant** qu'une seconde origine chez un importateur : on leur demande d'ouvrir
+un canal qu'ils n'ont pas. **Le texte le dit franchement et POSE la question au lieu de la supposer**,
+et la porte de sortie est large.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys stock glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I will be straight about what I noticed, because it is the whole question: your
+inventory page says domestic annealed flat glass, 3 mm to 25 mm, clear, tinted
+and low iron. So you buy American, you buy a full range of thicknesses, and you
+keep it on the floor in two locations. That makes you a serious buyer of base
+glass, and it also means importing is probably not something you do today.
+
+So I am not going to pretend this is a small step. What I am asking is whether
+an imported origin is worth having priced at all, given what has happened to
+this market.
+
+What we ship:
+
+- Clear float glass
+- Extra-clear low-iron float glass
+- Low-E coated glass
+- Copper-free and lead-free mirror
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Houston or
+New Orleans, whichever suits Sulphur better.
+
+The reason I think the question is worth two minutes: since the antidumping and
+countervailing orders published in April 2026 on imported float glass, the
+cheapest imported origins carry duties, which leaves domestic glass with very
+little pressure on it. European origin is named in none of those orders. I am
+not claiming our glass is cheap and I am not quoting you anything here. I am
+saying that a buyer with two warehouses and no second channel is more exposed
+this year than last.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the references above you move most
+and in which thicknesses, the sheet sizes your racks and your cutting take, an
+approximate volume with how often you reorder, and which of the two ports you
+want quoted.
+
+And if buying domestic is a settled choice and importing is not on the table,
+say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 67. Sky Building Materials (Dallas et Houston, Texas) — `Info@skybm.com` — ANGLAIS — à envoyer le 13/10
+
+**⚠ EXCEPTION DU §5, FRANCHE ET NOTÉE :** l'adresse publiée est sur **`skybm.com`** alors que le site est
+`skybuildingmaterials.com`. Les deux domaines **diffèrent**. La condition est remplie parce que c'est la
+société **elle-même** qui la publie sur sa propre page de contact — et ce n'est **pas** le piège de
+l'agence web trouvé le même jour sur Leader Mat, puisque `skybm` est l'abréviation évidente de Sky
+Building Materials : le domaine **ressemble au nom de la société**, qui est le test ajouté au §13.
+
+**⚠ VERIFIE :** **classe négoce**, et c'est le meilleur profil américain du jour — **grossiste en verre
+couvrant six États** (Texas, Oklahoma, Louisiane, Nouveau-Mexique, Arkansas, Missouri) depuis **deux
+implantations** · gamme annoncée low-E, clair, imprimé, spécialités et coupe-feu · ils publient des
+articles de fond sur le float, donc le vocabulaire du substrat leur est familier · argument antidumping
+américain autorisé par le §6, **sans citer de taux comme une promesse de prix** · aucun prix, aucun
+délai, formule imposée, porte de sortie, signature une seule fois.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys base glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you rather than to a fabricator because of the shape of your
+business: you describe yourselves as a glass wholesaler serving Texas and the
+neighbouring states, with a distribution network reaching Oklahoma, Louisiana,
+New Mexico, Arkansas and Missouri, out of Dallas and Houston. Six states served
+from two locations means you buy by volume and you move it. A full container is
+not an awkward quantity for an operation like that, it is a normal one.
+
+What we ship:
+
+- Clear float glass
+- Extra-clear low-iron float glass
+- Low-E coated glass
+- Solar control glass
+- Copper-free and lead-free mirror
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Houston or
+the port you prefer.
+
+One point that concerns you as a buyer rather than as a supplier. Since the
+antidumping and countervailing orders published in April 2026 on imported float
+glass, the two origins that used to set the lowest landed cost on this market
+both carry duties, and European origin is named in none of those orders. I am
+not telling you our glass is cheap, and I am not quoting you anything here. I am
+saying the comparison between origins is not the one it was eighteen months ago,
+and that a wholesaler is exactly the buyer for whom knowing a second origin has
+a value of its own.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the references above you move in
+volume and in which thicknesses, the sheet sizes your customers buy, an
+approximate volume with how often you reorder, and confirmation of the port.
+
+And if your supply is settled and there is no room for another origin, say so
+plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
