@@ -2707,3 +2707,117 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 52. Hijazi Glass Contracting (Choueifat / Saida) — `info@hijaziglass.com` — ANGLAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** adresse publiee sur leur propre site pour les deux etablissements, domaine du site,
+§5 satisfait sans exception · **piege de nom ecarte** : hijazi.company est une AUTRE maison, negociant
+en machines verrieres · regle Prodiesa LARGE ici — trempe, feuillete, vitrage isolant, courbe,
+pare-balles **et miroir** sortent tous de l offre puisqu ils les annoncent · **rien sur l absence de
+production float au Liban**, non verifiee, le §6 l interdit · aucun prix, formule imposee.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys base glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because of what you run rather than what you sell. A
+tempering line, an autoclave for laminating and heat-soak testing do not stop
+for long, and they only earn their keep while sheet keeps arriving. That makes
+you a buyer of base glass in quantity, and it means a full container is a
+normal unit for you rather than an awkward one.
+
+So I am not offering you anything you make yourselves. Only the substrate:
+
+- Clear float glass
+- Extra-clear float glass
+- Low-E coated glass
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Beirut or the
+port you prefer.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which thicknesses you consume most over a
+year, the sheet sizes that suit your line and your autoclave, an approximate
+volume and how often you buy, and your port.
+
+And if your supply is settled and you have no room for another origin, say so
+plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 53. Glassline Industries (usine du Liban, siège Émirats) — `info@glasslineindustries.com` — ANGLAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** adresse publiee sur leur page de contact, domaine du site · **une seule fiche et un
+seul message pour le groupe**, l usine est au Liban et le donneur d ordre aux Emirats, lecon Miroiterie
+des Antilles · regle Prodiesa : decoupe, trempe, heat-soak et double vitrage sortent de l offre ·
+**⚠️ INTERDIT DU §6 TENU : rien sur l absence de production float aux Emirats**, Emirates Float Glass
+fait 600 t/jour depuis 2009 et double sa capacite — l angle emirien juste est celui du REEXPORT et de
+la pluralite d origines · aucun prix, formule imposee.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys base glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because you process your own glass rather than buy it
+finished. Cutting, tempering, heat-soak testing and double glazing in house
+means the sheet you start from is a purchased input, and on building envelopes
+the size you deliver, it is purchased in quantity.
+
+I am not proposing anything you fabricate yourselves. Only the substrate:
+
+- Clear and extra-clear float glass
+- Low-E coated glass
+- Solar control glass
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Beirut for
+the glass factory or to Jebel Ali, as suits you.
+
+A word on why an additional origin is worth having rather than a replacement
+one. You buy for projects with fixed envelopes and fixed dates, across more
+than one country. Having a second origin already priced and already qualified
+is what keeps a specification from becoming a problem when the first one is
+long or short. That is the whole of my proposition.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the three references above you buy
+and in which thicknesses, the sheet sizes your lines run, an approximate annual
+volume, and which port you want quoted.
+
+And if you are committed and there is no room for another origin, say so
+plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

@@ -163,6 +163,10 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   d'origine chinoise, à l'instant où la Chine prend 181,52 % de droits.** Et il est **interdit**. Le fait
   est consigné dans la fiche comme **non utilisable**, pour qu'il ne soit pas retrouvé et employé par
   inadvertance dans six semaines.
+  **UN DE PLUS, remonté le 13/10 sur une recherche irakienne : `purchaser.mingluji.com`**, qui se
+  présente comme une *International Purchasers List* — un annuaire d'acheteurs vendu par société. C'est
+  exactement la nature que cette règle interdit, donc même interdit, et à mettre dans `blocked_domains`
+  d'emblée sur toute recherche d'importateur.
   **LA RÈGLE QUI SE DÉGAGE, ET ELLE EST PLUS FINE QUE « NE PAS UTILISER LE SITE » :** un résultat de
   courtier peut **nommer** une société, et un nom n'est pas une donnée vendue — c'est ainsi qu'on apprend
   qu'elle existe. **Ce qui est interdit est de reprendre sa QUALIFICATION** : volumes, origines, ports,
