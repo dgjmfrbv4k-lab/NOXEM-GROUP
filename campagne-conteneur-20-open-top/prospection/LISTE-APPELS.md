@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **13/10/2026** depuis le registre. **179 societes** portent un telephone et
+Regeneree le **13/10/2026** depuis le registre. **180 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 179 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 180 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 166 societes
+## Hors Europe — 167 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Bahamas | **Shutter Up Glass & Aluminum** | `+1 242 422 3926` | 15h00 - 23h00 | A QUALIFIER | Reperee le 08/10. ADRESSE info arobase shutterup242.com ECARTEE : relevee sur une page tierce de revendeur de moustiquaires et non sur un site de la societe. Regle anti-rebond non satisfaite. Profil volets plutot que negoce ver... |
 | Guadeloupe | **Leader Mat Guadeloupe** | `+590 590 32 64 80` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 13/10 A 12h15 PENDANT LE PIVOT OUTRE-MER. Nom grepe avant creation sur deux formes, leader-mat puis leader mat, ABSENT du registre. CLASSE NEGOCE, la deuxieme meilleure de la mesure du 13/10 : leur propre site an... |
 | Malaisie | **Glass Network (M) Sdn Bhd** | `+60 3 6253 2939` | 03h00 - 11h00 | A APPELER | Aucune adresse publiee. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : une de leurs pages de services invite pourtant a ecrire a la societe sans donner l adresse, et la page de contact renvoie vers Facebook, Instagram et WhatsApp. ... |
+| Mexique | **Cristales Cuauhtemoc S.A.** | `+52 222 249 4250` | 17h00 - 01h00 | A APPELER | Creee le 13/10 a 17h10. Mot distinctif grepe avant creation, cuauhtemoc, absent du registre. Trois etablissements releves, Avenida 29 Poniente 3322 a Santa Cruz Los Angeles, une succursale Av. 31 Poniente 3331 aux Animas, et un... |
 | Maroc | **Somaver — Société Marocaine du Verre** | `+212 5 22 35 05 66` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source Kompass, qui decrit l activite en propres termes. Aucune adresse ni telephone releves... |
 | Arabie saoudite | **Al Tbaynawi Glass** | `+966 16 532 5322` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Four Glaston et ligne de vitrage isolant LiSEC, trempe annoncée de 1600 m² par 10 heures. Pas d adresse publiee : appeler. Port Dammam. DEUX ERREURS DANS CETTE FICHE, corrigees le 08/10. PREMIERE : la societe est a HAIL et non ... |
 | Canada | **All Team Glass** | `+1 905 851 7711` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : le site ne donne que des telephones. Reste un dossier telephonique, et il est bien documente. Ligne principale 905-851-7711, numero gratuit 1-800-363-4651. Adre... |

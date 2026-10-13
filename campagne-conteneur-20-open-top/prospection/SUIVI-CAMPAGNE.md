@@ -6951,3 +6951,28 @@ a un telephone. Fiche telephonique au +55 41 3663 1810. Metier etabli par ce qu'
 et il est **mixte** — la plus grande distributrice de verre de Colombo, la premiere trempe de la
 ville, et ils fabriquent des portes. Le negoce est la bonne classe, la pose la mauvaise, et la regle
 Prodiesa decidera de l'offre : le trempe et les portes sortent, seul le substrat entre.
+
+
+## 13/10/2026 17h11 — lot mexicain, deux fiches dont une fermee, et la regle anti-rebond joue pour de bon
+
+Le Mexique est sous-represente au registre, treize fiches pour cent trente millions d'habitants, d'ou
+ce lot. Deux noms, deux resultats, aucun envoi — et les deux sont utiles a consigner.
+
+**EUROGLAS, Guadalajara — fermee avant toute recherche d'adresse.** Plus de quarante ans de trempe,
+mais les references nommees sont des pare-brise d'autobus, des vitres laterales, des custodes et des
+lunettes arriere : c'est du vitrage **automobile et de carrosserie**, donc hors gamme.
+**Et le nom est un piege de la famille Zoujaj :** EUROGLAS est aussi le nom d'un producteur float
+europeen, et la recherche a fait remonter un domaine dont l'appartenance n'est pas etablie. Ce
+mexicain n'a aucun lien etabli avec lui. **Dans les deux sens, c'est la societe qui compte, jamais le
+mot.**
+
+**CRISTALES CUAUHTEMOC, Puebla — une adresse vue et NON retenue, et c'est le cas d'ecole de la regle
+anti-rebond du paragraphe 5.** L'adresse figure dans un annuaire d'aluminiers et sur leur page
+Facebook, mais **son domaine n'apparait dans AUCUNE URL de resultat** et aucun site propre n'a ete
+trouve. La condition mecanique de la regle n'est donc pas remplie, et un annuaire ne la remplit
+jamais. L'adresse est consignee comme **candidate** et non comme utilisable.
+**Et il y a une seconde raison de ne pas ecrire :** l'activite officielle relevee est le commerce **au
+detail** de verre et de miroirs, et ils vendent aussi du profil aluminium, de la quincaillerie et du
+plastique. Le conteneur complet n'est donc pas acquis, et c'est l'appel qui doit le trancher.
+
+**Registre a 1173 fiches.**
