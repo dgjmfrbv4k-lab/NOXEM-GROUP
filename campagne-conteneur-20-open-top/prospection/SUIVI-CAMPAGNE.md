@@ -6606,3 +6606,70 @@ par un premier contact **et** une premiere relance.
 
 **Aucune reponse de prospect.** Deux reponses automatiques seulement, Insul-Lite et Superior Glass,
 toutes deux canadiennes et toutes deux disant la meme chose : bureaux fermes pour l Action de grace.
+
+
+## LUNDI 13/10, 12h02 — PIVOT OUTRE-MER SUR ORDRE DE KEVIN, ET LE LOT DIT QUE CE BLOC EST UN MARCHE DE TELEPHONE
+
+**Consigne recue :** concentrer la prospection conteneur sur les territoires francais d outre-mer —
+Martinique, Guadeloupe, La Reunion, puis Guyane et Mayotte — livraison a Pointe-des-Galets, mettre en
+pause la recherche de prospects neufs ailleurs **sans abandonner les dossiers ouverts**, et cibler
+importateurs, distributeurs, miroiteries industrielles et transformateurs capables d acheter un
+conteneur complet.
+
+### Ce que le bloc contient vraiment, avant d y chercher quoi que ce soit
+
+**51 fiches ultramarines** sur 1150 au registre, dont **13 en `A APPELER`**. Audit fait par
+territoire avant la premiere recherche, et il donne le resultat le plus utile de la matinee :
+
+**IL NE RESTE PLUS UNE SEULE FICHE ULTRAMARINE AVEC UN SITE ET SANS ADRESSE E-MAIL.** La derniere
+etait Window Concept, traitee ce matin — donc la methode de deverrouillage du paragraphe 13 n a plus
+rien a prendre ici. **Le bloc outre-mer se travaille au TELEPHONE**, ce qui rejoint par un autre bout
+la mesure du 13/10 au matin : 152 fiches portent un numero au registre et aucun appel n a jamais ete
+passe.
+
+### Trois fiches fermees ou qualifiees, et aucune n est une perte
+
+| Fiche | Ce qui a ete etabli | Suite |
+|---|---|---|
+| **Window Concept** (Guadeloupe) | adresse `info@window-concept.net` TROUVEE puis fiche FERMEE : le registre portait *fabrication de vitrages et miroirs*, libelle de code NAF, mais la societe se decrit elle-meme en **tuning, vitre teintee, film solaire, stores**. Elle POSE du film, elle n achete pas de feuille — et son *miroir* est un film a effet miroir | `ECARTE - HORS PERIMETRE` |
+| **ALUVER Guyane** | **formulaire uniquement**, aucune adresse publiee. Mais la recherche rend mieux : **machine de decoupe numerique a 21 m2/heure**, usine ZI Collery III, 8 rue des Morphos, horaires 7h30-16h00 soit **12h30-21h00 heure de Paris** | fiche telephonique, verdict **ecrit dans la fiche** |
+| **Miroglass** (Le Port) | aucun domaine propre, annuaires seulement, donc pas de second temps possible. NAF 23.12Z, **10 a 19 salaries** : taille qui absorbe un conteneur | fiche telephonique, verdict ecrit dans la fiche |
+
+**Les verdicts sont ECRITS DANS LES FICHES et plus seulement constates** — lecon des cinq appels de
+recherche perdus ce matin meme sur des fiches dont la note portait deja la reponse.
+
+### Deux fiches creees, et la plus importante ne doit recevoir aucun message
+
+· **SOFAVI**, Saint-Pierre de La Reunion — **TROISIEME FILIALE DU GROUPE RIOU GLASS** dans le
+  perimetre, apres SOREMIR et Riou Ocean Glass. **C est son adresse qui l a trahie, `sofavi@riouglass.re`,
+  le nom ne portant aucune trace de Riou.** Les trois sont **un seul compte**, l arbitrage d Aaron
+  attend depuis le 08/10, donc `A VALIDER AARON` et **champ e-mail laisse vide** : l adresse vient d un
+  annuaire, la regle anti-rebond du paragraphe 5 n est pas satisfaite.
+· **MIRO VITRE SUD SARL**, Saint-Pierre — **un QUATRIEME Miro reunionnais**, que la cloture de la
+  question des trois Miro le 11/10 n avait jamais trouve. **MIRO-EST est dans l EST, MIRO VITRE SUD dans
+  le SUD**, deux SARL au meme code NAF : c est exactement la signature Miroiterie des Antilles /
+  Antilles Miroiterie. **Et Miro Est est notre seul dossier DOM reellement ouvert** — reponse qualifiee
+  du 12/10, cinq references, conditions de reglement. Un message a Miro Vitre Sud serait la faute
+  Shibaam sur ce dossier-la. `A QUALIFIER`, **un appel dont l unique objet est de trancher le lien**,
+  et aucun envoi avant. SIREN 401 315 452 ; celui de Miro-Est reste a etablir.
+
+### Et le vrai gain de la matinee est dans le CODE, pas dans le registre
+
+`detecte-doublons.py` **ne pouvait pas voir le lien SOFAVI-SOREMIR**, et c est une panne de conception
+et non un cas limite : ses signaux comparaient les domaines de **site** entre eux et les **adresses
+entieres** entre elles, **jamais le domaine d une adresse au domaine d un site**. Or c est sous cette
+forme exacte qu un lien de groupe se montre. **Cinquieme signal ajoute** — tous les domaines portes par
+une fiche, champs confondus. **Mesure avant de le garder : 3 groupes rendus**, les quatre antennes PG
+deja connues, `riouglass.re` qui est la vraie prise, et **un seul faux positif**, `moov.mg`, l operateur
+telecom malgache, corrige par une liste de domaines mutualises.
+
+**Et un bug reel trouve en passant dans le signal 2 :** `lstrip('www.')` retire **tout caractere de
+l ensemble {w, .} en tete** et non un prefixe — sur `widrio.com` il rendait `idrio.com`, donc il pouvait
+**fusionner a tort**. Rien n en dependait au moment du correctif. C est la troisieme fois qu un
+garde-fou de ce fichier tourne en rendant une cle fausse sans jamais se plaindre.
+
+### Aucun envoi outre-mer dans ce lot
+
+Rien ne partait ce matin sur ce bloc, et c est conforme : les deux fiches creees sont l une gelee et
+l autre en attente d un appel d identite, les trois autres sont telephoniques ou fermees. **Cottrell
+(Martinique) reste programme au 14/10** et **Alupose (Guyane) au 15/10**.

@@ -1027,7 +1027,20 @@ marchés annoncés Maurice, Madagascar, La Réunion et l'Afrique de l'Est. **Les
 groupe qui a ses propres contrats cadres européens. **Question posée dans `DECISIONS-AARON.md`.**
 **La leçon de méthode, et elle est générale : le domaine de l'adresse e-mail trahit l'appartenance à un
 groupe là où la raison sociale ne dit rien.** `soremir@riouglass.re` portait l'information depuis le début.
-À lire systématiquement avant de qualifier une fiche comme indépendante,
+À lire systématiquement avant de qualifier une fiche comme indépendante.
+**⚠️ ET IL Y A UNE TROISIÈME FILIALE, TROUVÉE LE 13/10 À 12h00 : CE GROUPE EN A TROIS DANS LE PÉRIMÈTRE, PAS
+DEUX — et c'est la MÊME leçon qui l'a trouvée, ce qui en fait une règle et non une anecdote.** **SOFAVI**,
+ZI n°3, 30 avenue Charles Isautier à Saint-Pierre de La Réunion, présentée par un annuaire réunionnais comme
+l'**Agence Sud de SOREMIR** : vitrerie, miroiterie, films de sécurité et de protection solaire, découpe,
+double vitrage, stores. **Son adresse publiée est `sofavi@riouglass.re`.** Le mot SOFAVI ne porte aucune
+trace de Riou — c'est le domaine, et lui seul, qui l'établit, exactement comme pour SOREMIR cinq jours plus
+tôt. **Donc : SOREMIR, Riou Ocean Glass et SOFAVI sont UN SEUL compte**, et écrire à SOFAVI serait un
+**troisième** message à la même maison, la faute Shibaam sur un compte dont l'arbitrage attend depuis le
+08/10. Fiche créée en `A VALIDER AARON`, champ e-mail laissé **vide** parce que l'adresse vient d'un
+annuaire et non d'une page de la société : la règle anti-rebond du §5 n'est pas satisfaite, et de toute
+façon rien ne part. **Et le vrai enseignement est pour le CODE, pas pour la note** : voir le §12 sur le
+cinquième signal de `detecte-doublons.py`, que ce cas a fait naître.
+
 **CNG Glass (Nigeria) FZE** (Nigéria — ajouté le 11/10, et c'est le concurrent ouest-africain le plus
 important parce qu'il est en service depuis 2019 et non annoncé : 500 t/jour à Igbesa en zone franche
 Ogun-Guangdong, filiale de China Glass Holdings, ligne de couché solaire en ligne, trois entrepôts de
@@ -1552,6 +1565,29 @@ la paire.
 code ne voyait pas — et c'est le code qui passe à l'échelle sur 1 117 fiches.** Quand une note repère un
 rapprochement qu'un signal automatique aurait dû rendre, **le réflexe est de réparer le signal**, pas
 seulement de consigner le cas.
+**⚠️ CINQUIÈME SIGNAL AJOUTÉ LE 13/10 À 12h00, ET IL COMBLE EXACTEMENT LE TROU QUE LE §6 AVAIT POURTANT
+NOMMÉ EN TOUTES LETTRES CINQ JOURS PLUS TÔT : AUCUN DES QUATRE NE COMPARAIT LE DOMAINE D'UNE ADRESSE AU
+DOMAINE D'UN SITE.** Le signal 2 compare les domaines de **site** entre eux, le signal 3 les **adresses
+entières** entre elles. Or un lien de groupe se montre précisément en travers des deux champs : **SOREMIR**
+porte `soremir@riouglass.re` au champ adresse et `soremir.re` au champ site, tandis que **SOFAVI** porte
+`riouglass.re` au champ **site**. Même groupe, même compte au sens du §7, et **les quatre signaux étaient
+aveugles** — alors que le §6 avait écrit le 08/10 que « le domaine de l'adresse trahit l'appartenance à un
+groupe ». **La leçon était dans le mandat et pas dans le code, et c'est le défaut que le §12 punit déjà
+ailleurs : quand une note voit ce que le code ne voit pas, on répare le code.**
+Le signal groupe donc **tous les domaines portés par une fiche, site et adresse confondus**.
+**Mesure sur le registre réel, faite avant de garder le correctif : 3 groupes rendus** — les quatre
+antennes PG, déjà connues et acceptées ; `riouglass.re`, la vraie prise ; et **un seul faux positif**,
+`moov.mg`, qui est l'**opérateur télécom malgache** et rapprochait C.I.C de Socavitre, deux sociétés sans
+rapport. D'où une liste `MUTUALISES` de domaines de messagerie partagés — gratuits et **fournisseurs
+d'accès nationaux**, ce second cas étant celui qu'on n'anticipe pas. **À compléter en LISANT le groupe
+rendu, jamais en le supposant.**
+**ET UN BUG RÉEL TROUVÉ DANS LE SIGNAL 2 EN PASSANT, de la même famille que le téléphone neutralisé par le
+format :** il retirait le préfixe `www.` avec `lstrip('www.')`, qui retire **tout caractère de l'ensemble
+{w, .} en tête** et non un préfixe. Sur `widrio.com` il rendait `idrio.com`, et sur un domaine commençant
+par un w il pouvait donc **fusionner à tort** deux fiches sans rapport. Aucun groupe du registre n'en
+dépendait au moment du correctif, donc rien n'a été manqué de ce fait — mais c'est la troisième fois qu'un
+garde-fou de ce fichier tourne en rendant une clé fausse sans jamais se plaindre.
+
 **Conséquence de convention à connaître :** le script **ignore toute fiche dont la note contient le mot
 `DOUBLON`**, puisque c'est ainsi qu'on neutralise. C'est pour cela que cette paire ne ressort toujours pas
 du registre réel — et c'est voulu, le cas étant traité.
