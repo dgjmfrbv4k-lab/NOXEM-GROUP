@@ -886,6 +886,30 @@ a été SERVIE** : « argument posé », « en première ligne », « argument p
 d'autre, qui séparait ITA SEN ALU des huit. **Un garde-fou se juge sur son taux de faux positifs
 autant que sur ses prises** : huit cris pour zéro loup auraient fait ignorer le neuvième.
 
+**⚠️ MESURE DU 13/10 QUI CHANGE OU DEPENSER L'EFFORT : LA DECOUVERTE LARGE PAR MOTEUR DE RECHERCHE
+EST PROCHE DE LA SATURATION SUR NOS MEILLEURS MARCHES.** Dix recherches de decouverte ont ete lancees
+ce matin sur quatre zones — Australie et Nouvelle-Zelande, Bresil Mexique et Colombie, trois facades
+portuaires americaines, Quebec et Colombie-Britannique. **Chaque nom rendu a ete grepe un par un, et
+la grande majorite etait deja au registre et deja contactee.** Resultat net de la matinee :
+**10 fiches creees**, dont une fermee d'emblee (Hollander, verre d'art).
+**Le detail par zone, parce qu'il est constant :** Australie et Nouvelle-Zelande, 11 noms sur 13 deja
+presents — un marche ou 20 fiches australiennes couvrent a peu pres tous les grossistes reels.
+Bresil, Mexique et Colombie, 18 sur 22. Etats-Unis, 15 sur 19. Canada, 8 sur 9.
+**CE QUE CELA NE VEUT PAS DIRE :** que le marche est epuise. Cela veut dire que **la couche
+FACILEMENT TROUVABLE par un moteur de recherche l'est**, ce qui est tres different.
+**CE QU'IL FAUT EN TIRER, et c'est un deplacement d'effort, pas un ralentissement :**
+1. **Greper AVANT de qualifier reste rentable meme a ce taux** — c'est ce qui a evite une dizaine de
+   doublons ce matin, dont la faute Shibaam sur des fiches relancees la veille.
+2. **Le meilleur gisement restant n'est plus la decouverte, c'est le TELEPHONE.** 131 fiches portent
+   un numero et **aucun appel n'a jamais ete passe**. C'est le point 1 de `DECISIONS-AARON.md` depuis
+   le 12/10, et la mesure de ce matin le confirme par l'autre bout : on ne trouvera plus beaucoup de
+   nouvelles adresses, alors qu'on a 131 numeros qui dorment.
+3. **Et la couche profonde se cherche autrement qu'au moteur :** dossiers antidumping publics (qui ont
+   donne Glasscorp, WHTB, ODL, MunnWorks aux Etats-Unis, cinq societes au Mexique et quatre en
+   Colombie), listes de producteurs-exportateurs versees aux memes dossiers (qui ont donne les trois
+   Malaisiens), annuaires sectoriels nationaux. **La recherche large rend ce que tout le monde voit ;
+   une piece de dossier rend ce que personne ne regarde.**
+
 **Producteurs float = concurrents, pas prospects :** Obeikan, Guardian, Mediterranean Float
 Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,
 Vidrios Lirquén, **VASA** (précisé le 11/10 : *Vidriería Argentina S.A.*, née en **1938** de l'association de **NSG-Pilkington** et de **Saint-Gobain**, usines de **Llavallol** et de **Los Cardales** en province de Buenos Aires, Cardales annoncée à ~**900 t/jour** — et surtout elle **opère dans QUATRE pays : Argentine, Bolivie, Paraguay et Uruguay**, ~500 salariés. Donc *VASA Vidriería Boliviana* à Santa Cruz appartient au groupe et a été fermée ce jour-là, elle était restée en `A QUALIFIER`. `verif-argument-float.py` portait déjà les quatre pays, une session précédente ayant appliqué la règle du périmètre de la source), Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long,

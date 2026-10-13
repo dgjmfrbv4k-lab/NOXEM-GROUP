@@ -2647,3 +2647,63 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 51. AWG Northern Distribution (Prince George, BC) — `info@awgnd.com` — ANGLAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** domaine relu caractere par caractere, awgnd.com contre awgnortherndistribution.com,
+exception du §5 notee dans la fiche · regle Prodiesa : four de trempe et unites de vitrage isolant,
+donc trempe et double vitrage NON proposes · **aucun nom de personne** bien que trois soient publies,
+leurs fonctions ne sont pas etablies · **PRINCE GEORGE N EST PAS UN PORT**, donc on ne dit pas que le
+verre arrive a quai, on dit Vancouver · argument canadien de gestion du risque, et **JAMAIS que le
+float est taxe**, la position SH 7005 n etant PAS sur les listes de riposte · aucun prix, formule
+imposee · les faillites de facadiers restent internes et ne sont pas citees.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys base glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because you run an automated tempering furnace and build
+insulating units. A furnace only earns its keep if sheet keeps arriving, and
+what arrives is never made in Canada - there is no float line in the country,
+and the great majority of what Canadian fabricators use crosses one border to
+get here. That is a sound arrangement until it is the only one you have.
+
+I am offering a second origin, and only the substrate. Nothing you make
+yourselves:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Copper-free and lead-free mirror
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, landed at Vancouver. I
+will be straightforward about the obvious: Prince George is inland, so there is
+a haul from the port, and that is part of the arithmetic rather than something
+to gloss over.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the three references above you buy
+and in which thicknesses, the sheet sizes your furnace and your IG line run
+best on, an approximate volume and buying frequency, and whether Vancouver is
+the right port for you.
+
+And if your current supply is settled and you have no interest in a second
+origin, say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
