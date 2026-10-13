@@ -614,6 +614,24 @@ droits et l'Europe non, l'argument américain se transpose.
     n'est pas confirmé ici.
   · Autre mesure, **autre produit** à ne pas confondre : la Gecex nº 921/2026 a prorogé
     l'antidumping sur les **vidros para linha fria** chinois, NCM 7007.19.00.
+  · **⚠ ET ELLE NE MARCHE PAS NON PLUS AUX ÉTATS-UNIS AU-DELÀ DE CE QU'ELLE A DÉJÀ DONNÉ — vérifié le
+    13/10 à 15h13, et c'est un second résultat négatif qui ferme la piste proprement.** Le rapport
+    préliminaire de l'USITC, **Pub. 5579 de février 2025**, dit que les données d'importation reposent
+    sur les réponses de **42 importateurs** — mais **leurs noms sont *business-proprietary***, et le
+    rapport public ne donne que des comptes et des pourcentages. Les noms déjà obtenus (Glasscorp, WHTB,
+    ODL, MunnWorks, Fuyao) viennent de l'**exhibit** et non d'un rôle d'importateurs, et il n'y en a pas
+    d'autre à en tirer sans accès à **EDIS**, le dossier électronique, pour les enquêtes 701-TA-748-749
+    et 731-TA-1726-1727. **Ne pas y redépenser d'appels de recherche.** La conclusion générale du 12/10
+    se confirme donc par un second pays : **la piste dépend entièrement de ce que l'autorité PUBLIE**, et
+    elle a marché au Mexique et en Colombie parce que ces deux-là nomment les parties.
+  · **ET UN PIÈGE DE CONCURRENT TROUVÉ DANS LA MÊME RECHERCHE, à consigner pour qu'une fiche ne s'ouvre
+    pas par méconnaissance :** **American Flat Glass Distributors**, San Antonio, est donnée au
+    **5807 Business Park** — et un relevé cartographique place **AGC Flat Glass à la MÊME adresse**. AGC
+    est sur la liste des concurrents du §6 depuis le 12/10. **Le rattachement n'est pas établi**, donc ce
+    n'est pas une certitude — mais une adresse de siège partagée avec un producteur float mondial suffit
+    à ne PAS ouvrir la fiche avant de l'avoir levée. **Aucune fiche créée.** C'est la leçon SOFAVI par un
+    autre champ : ce n'est pas la raison sociale qui trahit l'appartenance à un groupe, c'est une
+    coordonnée — le domaine là, l'adresse postale ici.
   · **RÉSULTAT NÉGATIF DE MÉTHODE, À CONSIGNER PARCE QU'IL ÉVITE DE REFAIRE LA RECHERCHE (12/10) :
     la piste des listes d'importateurs des dossiers antidumping NE MARCHE PAS AU BRÉSIL.** Elle a
     donné cinq sociétés au Mexique et quatre en Colombie le même jour, et aux États-Unis elle avait
@@ -1581,7 +1599,16 @@ par l'autre bout.
 from outils.ecrire_registre import ecrire, nettoyer   # ou copier les 2 asserts
 ```
 `campagne-conteneur-20-open-top/prospection/outils/ecrire-registre.py` refuse d'écrire si une ligne
-n'a pas exactement 10 champs. **Raison : le 08/10 j'ai passé la matinée à réparer trois lignes
+n'a pas exactement 10 champs. **⚠ ET CE GARDE-FOU A REFUSÉ TROIS ÉCRITURES LE 13/10, TOUTES
+POUR LA MÊME CAUSE, CE QUI EN FAIT UNE HABITUDE À CORRIGER ET PAS UN ACCIDENT : un ` ; ` employé comme
+sÉPARATEUR DE PROSE dans une note.** Trois fois — la fiche SOFAVI, la note d'envoi des onze messages, la
+fiche Texas Glass — et chaque fois le compte de champs partait à 11, 14 ou 12 au lieu de 10. **Rien n'a
+été écrit, le refus tombant avant l'écriture**, mais trois scripts ont dû être repris.
+**La cause n'est pas l'oubli de la règle, c'est une tournure de phrase** : j'écris naturellement
+« trois faits vont dans l'autre sens : les domaines diffèrent ; cette maison dit ceci ; et elle dit
+cela », alors que le `;` est le séparateur du fichier. **Remède de rédaction et non de code : dans une
+note de registre, une énumération se ponctue par `Un,` `Deux,` `Trois,` ou par un point, et le `·` reste
+réservé aux fichiers Markdown.** Le code refuse déjà, c'est à la plume de ne plus le déclencher. **Raison : le 08/10 j'ai passé la matinée à réparer trois lignes
 cassées par un `;` dans une note, puis j'ai commis exactement la même faute l'après-midi**, sur la
 fiche Manna Glass, dans un script écrit sans `assert`. La consigne ne suffit pas, **il faut que le
 code refuse**.

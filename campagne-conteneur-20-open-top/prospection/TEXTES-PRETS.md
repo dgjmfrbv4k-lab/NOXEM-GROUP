@@ -3514,3 +3514,72 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 65. Texas Glass (Houston, Texas) — `sales@texasglass.com` — ANGLAIS — à envoyer le 13/10
+
+**⚠ VERIFIE :** adresse publiée sur **leur page d'accueil**, même domaine que le site, §5 satisfait par
+construction · **classe négoce et stockiste** (10,0 % à la mesure du 13/10) · ils se décrivent comme
+**fournisseur des transformateurs**, avec du **float prêt à expédier** — donc un stockiste, et un
+stockiste raisonne en conteneur · **⚠ deux sociétés texanes aux noms voisins et je ne les fusionne
+pas**, voir la fiche · argument antidumping américain autorisé par le §6, **sans citer de taux comme une
+promesse de prix** · aucun prix, aucun délai, formule imposée, signature une seule fois.
+
+**⚠ ET LA PORTE DE SORTIE EST LE CŒUR DU MESSAGE ICI, PAS UNE POLITESSE :** leur propre page à propos
+attribue leur stock et leurs conditions à un **partenariat avec VMO International**, une société
+d'approvisionnement. Leur sourcing est donc déjà organisé par un tiers. **Le texte le dit en première
+ligne plutôt que de faire semblant de l'ignorer** — même choix que sur WegaVidros avec la ligne Cebrace.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys base glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I will start with what I already know, so as not to waste your time: your own
+page says your stock and your terms come through a procurement partnership. So I
+am not writing to replace anybody. I am writing because you supply fabricators
+with float ready to ship, which means you hold sheet and you buy it by the
+container, and a second origin on file is worth something to a house in that
+position even when the first one is working.
+
+What we ship:
+
+- Clear float glass
+- Extra-clear low-iron float glass
+- Low-E coated glass
+- Copper-free and lead-free mirror
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Houston or the
+port you prefer.
+
+One point that concerns you as a buyer. Since the antidumping and countervailing
+orders published in April 2026 on imported float glass, the two origins that
+used to set the lowest landed cost on this market both carry duties, and
+European origin is named in none of those orders. I am not telling you our glass
+is cheap, and I am not quoting you anything here. I am saying the comparison
+between origins is not the one it was eighteen months ago.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the references above you stock and in
+which thicknesses, the sheet sizes your customers ask for, an approximate volume
+and how often you reorder, and confirmation of the port.
+
+And if your procurement is settled and there is no room for another origin, say
+so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
