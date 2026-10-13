@@ -110,12 +110,20 @@ for num, titre, corps_section in sections:
         continue
     for t in blocs:
         verifies += 1
+        # ⚠️ TOUS les controles portent sur le texte APLATI, et c est un correctif
+        # du 13/10. Les motifs etaient cherches dans le texte BRUT, donc une
+        # expression de deux mots coupee par un RETOUR A LA LIGNE y echappait :
+        # \blead ?times?\b accepte une espace, pas un saut de ligne. Le texte 50,
+        # qui attend l accord de Kevin pour partir, portait « continuity of
+        # supply, lead\ntimes » et le controleur rendait ZERO defaut. C est la
+        # panne la plus dangereuse pour un garde-fou, celle du paragraphe 12 : il
+        # tournait, il rendait zero, et on le croyait.
         plat = ' '.join(t.split()).lower()
         pb = []
-        mots = [m for m in INTERDITS if re.search(m, t, re.I)]
+        mots = [m for m in INTERDITS if re.search(m, plat, re.I)]
         if mots:
             pb.append('MOT INTERDIT %s' % mots)
-        cond = [m for m in CONDITIONNELS if re.search(m, t, re.I)]
+        cond = [m for m in CONDITIONNELS if re.search(m, plat, re.I)]
         if cond:
             if '§6' in corps_section:
                 avertis.append((num, titre, cond))
@@ -126,7 +134,7 @@ for num, titre, corps_section in sections:
         n = plat.count(SIGNATURE)
         if n != 1:
             pb.append('SIGNATURE presente %d fois au lieu d une' % n)
-        if MORT in t:
+        if MORT in plat or MORT in t:
             pb.append('NUMERO MORT +33 7 69 72 58 92')
         if not any(s in plat for s in SORTIE):
             pb.append('pas de porte de sortie')

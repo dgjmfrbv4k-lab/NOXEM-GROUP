@@ -924,6 +924,40 @@ a été SERVIE** : « argument posé », « en première ligne », « argument p
 d'autre, qui séparait ITA SEN ALU des huit. **Un garde-fou se juge sur son taux de faux positifs
 autant que sur ses prises** : huit cris pour zéro loup auraient fait ignorer le neuvième.
 
+**⚠️⚠️ LE CRITERE DE CIBLAGE LE PLUS PREDICTIF N'EST PAS LA GEOGRAPHIE, C'EST LE METIER — mesure du
+13/10, et c'est le resultat le plus utile de la journee.** Tout ce paragraphe raisonne par **pays**.
+Mesure faite sur les fiches assez anciennes pour avoir pu repondre, seuil de quatre jours, en classant
+par le **metier declare** au champ activite :
+
+| Metier declare | fiches mures | reponses | taux |
+|---|---|---|---|
+| **Verrier pur** (trempe, miroiterie, vitrage isolant, transformation) | 39 | 5 | **12,8 %** |
+| **Negoce et distribution** (grossiste, importateur, stockiste) | 50 | 5 | **10,0 %** |
+| Aluminium, facade, mur-rideau, pose | 55 | 2 | **3,6 %** |
+| Autre ou non qualifie | 38 | 1 | 2,6 % |
+| Verrier **+** pose | 11 | 0 | 0 % |
+
+**UN VERRIER OU UN NEGOCIANT REPOND TROIS FOIS PLUS SOUVENT QU'UN POSEUR D'ALUMINIUM.** Et les
+denominateurs sont comparables — 39 et 50 contre 55 — donc **ce decoupage est bien plus solide que le
+decoupage geographique** du meme jour, qui opposait 53 fiches a 140.
+**ET LES DEUX « REPONSES » DE LA CLASSE ALUMINIUM N'EN SONT PRESQUE PAS :** l'une est le **refus** de
+Quality Glass en Papouasie, l'autre est **Caribbean Glass Specialists**, que mon classement a rangee en
+poseur sur le mot *aluminium* alors que c'est un verrier. **Soit une seule vraie reponse sur 55, et
+c'etait un refus.**
+**POURQUOI C'EST LOGIQUE, et cela vaut mieux qu'un taux :** un poseur de facade achete son verre
+**coupe et transforme**, souvent au transformateur local, et au coup par coup selon le chantier. Il n'a
+ni la surface de stockage, ni la tresorerie, ni l'interet d'un conteneur complet de feuille. **Un
+trempeur a un four qui ne tourne que si de la feuille entre, et un negociant vit de son stock.** Le
+conteneur est leur unite naturelle, pas celle du poseur.
+**CONDUITE : devant une liste de noms, trier par METIER avant de trier par pays.**
+· **Verrier pur et negoce → on travaille**, meme dans un marche que ce paragraphe declasse.
+· **Aluminium, menuiserie, facade, bardage, garde-corps, parois de douche → en dernier**, et pas du
+  tout quand le budget de recherche est serre.
+**Application immediate le 13/10 :** le lot de deverrouillage du Proche-Orient — huit facadiers
+egyptiens, deux jordaniens, deux omanais, deux bahreiniens — a ete **abandonne apres cette mesure**,
+soit une vingtaine d'appels de recherche epargnes sur la classe la moins productive. Les 41 candidats
+des deux meilleures classes ont ete listes a la place.
+
 **⚠️ MESURE DU 13/10 QUI CHANGE OU DEPENSER L'EFFORT : LA DECOUVERTE LARGE PAR MOTEUR DE RECHERCHE
 EST PROCHE DE LA SATURATION SUR NOS MEILLEURS MARCHES.** Dix recherches de decouverte ont ete lancees
 ce matin sur quatre zones — Australie et Nouvelle-Zelande, Bresil Mexique et Colombie, trois facades
@@ -1369,7 +1403,7 @@ information indispensable qui n'existe nulle part.
 | `campagne-conteneur-20-open-top/prospection/DECISIONS-AARON.md` | ce qui attend un arbitrage d'Aaron, en faits → options → recommandation. **À tenir à jour à chaque dossier chaud** |
 | `campagne-conteneur-20-open-top/prospection/PRIORITES-RECHERCHE.md` | **où dépenser les 200 appels de recherche du tour** (ajouté le 08/10). Les 26 fiches en rebond avec un domaine propre, jamais retestées, triées par valeur — c'est le meilleur gisement établi ce jour-là. **À régénérer après chaque journée de déverrouillage**, le script est dans le fichier. |
 | `campagne-conteneur-20-open-top/prospection/outils/candidats-deverrouillage.py` | **les fiches qui valent vraiment un appel de recherche** (ajouté le 13/10). Écarte celles dont la note porte déjà un verdict — « aucune adresse », « formulaire uniquement », « fiche téléphonique », « domaine introuvable », `TESTEE` — et imprime les écartées avec leur motif, pour qu'on puisse le contredire. **À passer AVANT d'ouvrir un lot de déverrouillage**, jamais après : il est né de cinq appels perdus le 13/10 sur cinq fiches déjà répondues |
-| `campagne-conteneur-20-open-top/prospection/outils/verif-texte.py` | **contrôle avant-vol des textes** (ajouté le 12/10). Lit les corps de message de `TEXTES-PRETS.md` et refuse ceux qui portent un mot interdit du §5, à qui manque la formule imposée, la signature du §10 en un seul exemplaire ou la porte de sortie, ou qui portent le numéro mort. **À passer avant d'ouvrir une vague.** Il ne contrôle que les textes numérotés à partir de 32, la règle de signature datant du 12/10. **Sa première version rendait 39 défauts sur 46 textes, dont zéro vrai** — sous-chaînes au lieu de mots, blocs mal appariés aux titres, et textes antérieurs à la règle. Corrigé et **vérifié dans les deux sens** : zéro sur le fichier réel, et quatre fautes injectées retrouvées sur un jeu d'essai, dont une — le délai en anglais — que le jeu d'essai a lui-même révélée comme non couverte |
+| `campagne-conteneur-20-open-top/prospection/outils/verif-texte.py` | **contrôle avant-vol des textes** (ajouté le 12/10). Lit les corps de message de `TEXTES-PRETS.md` et refuse ceux qui portent un mot interdit du §5, à qui manque la formule imposée, la signature du §10 en un seul exemplaire ou la porte de sortie, ou qui portent le numéro mort. **À passer avant d'ouvrir une vague.** Il ne contrôle que les textes numérotés à partir de 32, la règle de signature datant du 12/10. **Sa première version rendait 39 défauts sur 46 textes, dont zéro vrai** — sous-chaînes au lieu de mots, blocs mal appariés aux titres, et textes antérieurs à la règle. Corrigé et **vérifié dans les deux sens** : zéro sur le fichier réel, et quatre fautes injectées retrouvées sur un jeu d'essai, dont une — le délai en anglais — que le jeu d'essai a lui-même révélée comme non couverte. **⚠️ ET UN TROU GRAVE TROUVÉ LE 13/10, DU GENRE QUI FAIT CROIRE UN GARDE-FOU : les motifs étaient cherchés dans le texte BRUT, donc toute expression de DEUX MOTS coupée par un RETOUR À LA LIGNE y échappait** — `\blead ?times?\b` accepte une espace, pas un saut de ligne. Le **texte 50**, qui attend l'accord de Kevin pour partir vers Cork Glass, portait « continuity of supply, lead⏎times » et le contrôleur rendait **zéro défaut**. Corrigé : tous les motifs portent désormais sur le texte **aplati**, celui qui servait déjà à la formule imposée. Vérifié dans les deux sens — le texte 50 ressort, et aucun faux positif neuf sur les 24 textes contrôlés. **C'est la panne décrite au §12 sur le signal téléphone de `detecte-doublons.py` : il tournait, il rendait zéro, et on le croyait** |
 | `campagne-conteneur-20-open-top/prospection/TEXTES-PRETS.md` | **les textes RÉDIGÉS, prêts à envoyer** (ajouté le 11/10). Un texte multiligne ne peut pas tenir dans une note du CSV, qui est à une ligne par fiche : les angles restent dans les fiches, les textes sont ici, avec pour chacun la liste de ce qui a été vérifié avant de l'écrire |
 | `email/SIGNATURE.md` | mentions légales de référence |
 

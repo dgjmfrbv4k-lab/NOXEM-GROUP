@@ -2632,8 +2632,8 @@ validation on our side.
 
 One question is enough to start: which references and thicknesses do you buy in
 the largest quantity over a year, and in what sizes? If it is easier, tell me
-what you are paying attention to at the moment - continuity of supply, lead
-times, a particular reference that is hard to get - and I will answer that
+what you are paying attention to at the moment - continuity of supply, a
+reference that is hard to get, a size nobody stocks - and I will answer that
 instead.
 
 And if the timing is wrong or you are committed elsewhere, say so plainly and I
@@ -2873,6 +2873,69 @@ in jumbo or cut.
 
 And if your origins are settled and there is no room for another, say so
 plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 55. Deway Enterprise Pte Ltd (Tampines, Singapour) — `deway@live.com` — ANGLAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** adresse publiee sur leur propre site, mais sur le domaine `live.com` — **exception du
+§5 notee dans la fiche** · regle Prodiesa : trempe, feuillete et parois de douche NON proposes · le
+miroir EST propose, rien n etablissant qu ils argentent, **et il sortira de l offre si leur reponse
+montre le contraire** · **⚠️⚠️ INTERDIT ABSOLU DU §6 : AUCUN mot sur l absence de production locale a
+Singapour.** Il est litteralement vrai et sans aucune valeur — Woodlands est a une heure de camion de
+trois lignes float malaisiennes. L angle est l origine supplementaire, jamais le secours · reserve de
+taille : un seul atelier, donc porte de sortie d autant plus necessaire · aucun prix.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because you both resell and process. Float, mirror and
+tinted glass you stock and sell on; tempered, laminated and shower screens you
+make yourselves. It is the first list I am interested in, and I am not
+proposing anything from the second.
+
+What we can ship you:
+
+- Clear and extra-clear float glass
+- Copper-free and lead-free mirror
+- Low-E glass
+- Lacquered glass
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Singapore.
+
+I will be plain about what I am and am not offering, because you buy in a
+market with no shortage of supply within a day's drive. I am not offering to
+replace a supplier who serves you well, and I am not going to pretend an
+origin eight thousand miles away is convenient. What a European origin gives
+you is a different one: a different mill, a different route, a different
+exposure. Some buyers want one on the list and some do not, and both answers
+are useful to me.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the references above you buy and in
+which thicknesses, the sheet sizes that suit your cutting, an approximate
+volume and buying frequency, and whether you buy jumbo or cut sizes.
+
+And if a second origin is of no interest, say so plainly and I will not write
+again.
 
 Aaron Harfi
 President - NOXEM GROUP SAS
