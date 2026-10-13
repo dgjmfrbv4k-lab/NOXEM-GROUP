@@ -2027,7 +2027,7 @@ fachadas y banos, y en Puerto Rico todo ese vidrio llega por mar. Quien compra
 puesto en puerto compara origenes, y nosotros somos una de ellas.
 
 Antes de proponerle nada, una sola pregunta, porque de ella depende si tiene
-sentido seguir: zcon que frecuencia y en que volumen compran ustedes vidrio
+sentido seguir: con que frecuencia y en que volumen compran ustedes vidrio
 plano, y lo compran importado directamente o a traves de un distribuidor?
 
 Si trabajan volumenes de contenedor, esto es lo que podemos enviarles:
@@ -3293,6 +3293,148 @@ decoupe, un volume approximatif avec la frequence, et confirmation du port.
 
 Et si vous etes engages avec votre fournisseur actuel et que cela vous convient,
 dites-le-moi franchement : c'est une reponse utile et je n'insisterai pas.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 62. WegaVidros (Cangaiba et Costa Barros, Sao Paulo) — `contato@wegavidros.com.br` — PORTUGAIS — à envoyer le 13/10
+
+**⚠ CE TEXTE REMPLACE LE TEXTE 29, QUI ÉTAIT DÉFECTUEUX ET N'A JAMAIS ÉTÉ ENVOYÉ.** `verif-texte.py`
+l'a refusé le 13/10 : **formule imposée absente, signature absente, porte de sortie absente**, et le mot
+*antidumping* sans justification du §6 dans le commentaire. Il avait été rédigé avant la règle de
+signature du 12/10 et le contrôleur ne le voyait pas, puisqu'il ne contrôlait qu'à partir du n° 32.
+**C'est exactement pour cela que le contrôle se passe avant la vague et non après.**
+
+**⚠ VERIFIE :** adresse publiée sur leur accueil **et** leur page de contact, **même domaine que le
+site**, §5 satisfait par construction · **le point qui commande tout le texte : ils distribuent la ligne
+Habitat de CEBRACE**, inscrit au §6 parmi les concurrents, donc on ne leur offre **pas** une première
+source et le texte le dit en toutes lettres · **règle Prodiesa** : ils font trempé, feuilleté et miroirs,
+donc ces trois sortent de l'offre, seul le **substrat** entre · **argument douanier Gecex 833 autorisé au
+Brésil par le §6, mais UNIQUEMENT sur le float clair** — la mesure exclut le miroir et le teinté, donc
+**le miroir n'est pas proposé dans ce texte** · **§6 : JAMAIS l'absence de production locale au Brésil**,
+quatre producteurs, AGC, Cebrace, Guardian et Vivix · leur stock de chapas va de 2 à 19 mm, ce qui tombe
+dans la fourchette de 1,8 à 20 mm de la mesure · aucun prix, aucun délai, formule imposée, signature une
+seule fois.
+
+```
+Bom dia,
+
+Esta e uma oferta de FORNECIMENTO, nao um pedido de cotacao. Se nao e o senhor
+quem decide as compras de chapa, agradeco que encaminhe a quem decide.
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano perto de Lyon, na Franca.
+
+Comeco pelo que ja sei, para nao lhes fazer perder tempo: voces ja tem
+fornecedor, e distribuem uma linha de um dos grandes produtores do pais. Nao
+venho propor-lhes uma primeira fonte, venho propor-lhes uma SEGUNDA, para a
+carteira. E a razao de escrever a voces e precisa: as duas unidades, Cangaiba e
+Costa Barros, trabalham distribuicao e atacado com estoque de chapas de 2 a 19
+mm. Quem mantem estoque compra por volume e sabe o que e um conteiner.
+
+Proponho a materia prima, nao o que voces mesmos transformam:
+
+- Float incolor, nas espessuras do seu estoque
+- Float extra-claro, de baixo teor de ferro
+- Vidro de baixa emissividade
+
+Um ponto que lhes diz respeito como compradores e nao como transformadores:
+desde a Resolucao Gecex 833 de 2025, o float incolor de 1,8 a 20 mm originario
+da Malasia, do Paquistao e da Turquia paga direito antidumping no Brasil, e a
+origem europeia nao esta entre as origens atingidas. Nao estou a dizer que o
+nosso vidro e barato. Estou a dizer que a comparacao entre origens mudou, e que
+vale a pena ter a segunda cotada antes de precisar dela.
+
+Trabalhamos em CONTEINER COMPLETO, em caixas de madeira tratada NIMP-15, em
+jumbo de 3210 x 2550 mm ou nas medidas que voces pedirem, entregue no porto de
+destino.
+
+Podemos estabelecer uma oferta para a entrega no seu porto de destino, sob
+reserva de validacao da nossa parte.
+
+Para isso preciso de quatro coisas: as espessuras que mais giram no estoque, as
+medidas que servem as duas unidades, um volume aproximado com a frequencia de
+compra, e o porto.
+
+E se nao houver lugar para uma segunda origem, digam-no com franqueza e nao
+insistirei.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 63. Santana Vidros (Penha, Mogi das Cruzes — Sao Paulo) — `santanavidros@santanavidros.com.br` — PORTUGAIS — à envoyer le 13/10
+
+**⚠ CE TEXTE REMPLACE LE TEXTE 30, REFUSÉ PAR `verif-texte.py` LE 13/10** pour les mêmes quatre
+défauts que le texte 29 : formule imposée, signature, porte de sortie, *antidumping* non justifié.
+Jamais envoyé.
+
+**⚠ VERIFIE :** adresse de la **matrice**, même domaine que le site, §5 satisfait par construction —
+celle des feuilletés est sur gmail et sert de **second essai** seulement si la première rebondit ·
+l'angle vient d'une phrase de **leur** site, ils fournissent vitriers, constructeurs, métalliers et
+architectes **en grands volumes**, donc c'est leur mot et non une flatterie · **trois unités font
+l'argument du volume groupé**, comme Savima et Glass Alu SXM · **règle Prodiesa** : ils produisent
+feuilleté coloré, trempé et miroirs, donc les trois sortent de l'offre · **Gecex 833 autorisé sur le
+float clair seulement**, jamais sur le miroir ni le teinté, et le miroir n'est donc pas proposé ·
+**§6 : jamais l'absence de production locale au Brésil** · aucun prix, aucun délai, signature une seule
+fois.
+
+```
+Bom dia,
+
+Esta e uma oferta de FORNECIMENTO, nao um pedido de cotacao. Se nao e o senhor
+quem decide as compras de chapa, agradeco que encaminhe a quem decide.
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano perto de Lyon, na Franca.
+
+Escrevo-lhes por causa de uma frase do seu proprio site: voces atendem
+vidraceiros, construtoras, serralherias e arquitetos com pedidos especiais em
+GRANDES VOLUMES. E o seu termo, nao o meu. Com tres unidades a alimentar, o
+volume pode ser agrupado em vez de repartido, e e precisamente nesse ponto que
+um conteiner completo deixa de ser um incomodo e passa a ser a unidade natural
+de compra.
+
+Proponho a materia prima, nao o que voces mesmos produzem:
+
+- Float incolor, nas espessuras que as suas linhas consomem
+- Float extra-claro, de baixo teor de ferro
+- Vidro de baixa emissividade
+
+Um ponto que lhes diz respeito como compradores: desde a Resolucao Gecex 833 de
+2025, o float incolor de 1,8 a 20 mm originario da Malasia, do Paquistao e da
+Turquia paga direito antidumping no Brasil, e a origem europeia nao esta entre
+as origens atingidas. Nao estou a dizer que o nosso vidro e barato, estou a
+dizer que a comparacao entre origens mudou.
+
+Trabalhamos em CONTEINER COMPLETO, em caixas de madeira tratada NIMP-15, em
+jumbo de 3210 x 2550 mm ou nas medidas que voces pedirem, entregue no porto de
+destino.
+
+Podemos estabelecer uma oferta para a entrega no seu porto de destino, sob
+reserva de validacao da nossa parte.
+
+Para isso preciso de quatro coisas: as espessuras que mais consomem, as medidas
+que servem as tres unidades, um volume aproximado com a frequencia de compra, e
+o porto.
+
+E se ja estiverem comprometidos com o fornecedor atual, digam-no com franqueza e
+nao insistirei.
 
 Aaron Harfi
 President - NOXEM GROUP SAS
