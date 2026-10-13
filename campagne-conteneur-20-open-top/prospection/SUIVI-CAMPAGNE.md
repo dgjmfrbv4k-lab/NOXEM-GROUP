@@ -1,5 +1,42 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 10h29 (13/10) — LOT DOM N2 : MAYOTTE, GUYANE ET LA REUNION. 7 FICHES CREEES, 4 PRETES A ENVOYER
+
+**CANANGA, ENSEIGNE BATIMAX, EST LA MEILLEURE CIBLE DE MAYOTTE** et elle coche tout : negoce de gros
+de bois et de materiaux au registre depuis 2001, **plateau de 20 000 m2 a Kaweni** plus une succursale
+a Combani, et `commercial@cananga.net` publiee sur son propre domaine — §5 satisfait **sans**
+exception. Vingt mille metres carres, c'est la surface qui permet de recevoir un conteneur complet et
+de l'ecouler sans l'eclater dans l'urgence. **Une seule maison et deux noms** : Batimax est l'enseigne
+de Cananga, donc une seule fiche. Texte 59, port Longoni.
+
+**COMPTOIR DE CAMBAIE** part aussi, avec sa reserve dite franchement dans le texte lui-meme — *vous ne
+vendez pas de verre, je l'ai vu* — parce que l'angle est ailleurs : ils traitent le bois en **autoclave
+classe 4** et vendent du pin sylvestre, donc **ils importent deja des conteneurs a Pointe-des-Galets**.
+On ne leur apprend pas le conteneur, on leur propose une reference de plus.
+
+**COTTRELL**, six points de vente en Martinique, dont celui de Dillon classe au registre comme vendant
+**deja du verre en petites quantites**. Texte 57.
+
+**TROIS DOSSIERS TELEPHONIQUES DE PREMIER PLAN**, et c'est la que la zone se joue :
+· **Ravate Professionnel**, 10 rue Stevenson **au Port**, donc a Pointe-des-Galets meme.
+· **Miroglass**, ZAC 2000 **au Port** aussi, code NAF 2312Z — faconnage et transformation du verre plat.
+· **Techniglass Mayotte**, qui publie son etat de stock et annonce le feuillete en prochain arrivage.
+· **Glass Alu Matoury** en Guyane, ⚠️ a ne pas confondre avec **Glass Alu SXM**, qui est le nom de
+  Savima a Saint-Martin — le §13 impose une seule fiche pour Savima.
+
+**ALUPOSE** est creee et programmee au **15/10 et non au 14**, volontairement : son site la decrit
+comme menuisier aluminium, donc la classe a 3,6 %. Elle part quand meme puisque Kevin demande le
+maximum sur ces territoires et qu'un e-mail ne coute rien — **mais apres les cibles de la bonne
+classe**, et son texte est court avec une porte de sortie large.
+
+**UNE ADRESSE ECARTEE QUI AURAIT ETE UNE FAUTE :** le site de Ravate ne porte qu'une seule adresse,
+`technique@hodi.host`, dans ses mentions legales. **C'est celle de leur HEBERGEUR, pas la leur** — un
+domaine tiers, donc interdite deux fois par le §5.
+
+**ETAT DE LA ZONE : 44 fiches sur six territoires, 4 prets a envoyer, 12 dossiers telephoniques avec
+un numero verifie.** Et l'interdit du §6 est porte dans **chaque** fiche et **chaque** texte : aucun
+mot, aucune allusion, sur l'octroi de mer ou la fiscalite a l'entree.
+
 ## 10h22 (13/10) — BASCULE SUR LES DOM SUR ORDRE DE KEVIN, ET LE PREMIER CONSTAT EST GENANT
 
 **Consigne recue : concentrer la prospection UNIQUEMENT sur les territoires francais d'outre-mer —

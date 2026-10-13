@@ -3130,3 +3130,110 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 59. Cananga — enseigne Batimax (ZI Kawéni, Mamoudzou — Mayotte) — `commercial@cananga.net` — FRANÇAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** `cananga.net` figure dans les URL de resultats, donc §5 satisfait **sans** exception ·
+**une seule maison, deux noms** — Batimax est l enseigne de Cananga, on n ouvre pas deux fiches ·
+boite `commercial@` choisie plutot que la generale · negoce de gros de bois et materiaux au registre,
+20 000 m2 a Kaweni plus Combani · **⚠️⚠️ INTERDIT ABSOLU DU §6 : AUCUN mot ni allusion sur la
+fiscalite a l entree de Mayotte**, le regime du conseil departemental n est pas etabli · port Longoni ·
+aucun prix, aucun delai, formule imposee.
+
+```
+Bonjour,
+
+C'est une offre de fourniture, pas une demande de devis. Si vous n'etes pas la
+personne qui achete, je vous serais reconnaissant de lui transmettre.
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat pres de Lyon.
+
+Je vous ecris pour une raison tres concrete : vingt mille metres carres a Kaweni.
+Un negoce de cette surface peut recevoir un conteneur complet et l'ecouler sur la
+duree, ce qu'un atelier ne peut pas faire. Et comme vous etes negociant en bois
+et en materiaux depuis 2001 a Mayotte, vous faites deja venir vos
+approvisionnements par la mer et vous savez ce que represente un conteneur a
+Longoni. Il n'y a donc rien a vous expliquer sur la mecanique.
+
+Ce que nous expedions :
+
+- Verre float clair et extra-clair
+- Miroir sans cuivre ni plomb
+- Verre laque
+- Verre a faible emissivite
+- Verre trempe
+
+Nous expedions en CONTENEUR COMPLET, en caisses bois traitees NIMP-15, en jumbo
+de 3210 x 2550 mm ou aux cotes que vous demandez, livre au port de Longoni.
+
+Nous pouvons etablir une offre pour la livraison a votre port de destination,
+sous reserve de validation de notre cote.
+
+Pour la preparer, il me faut quatre choses : les references et les epaisseurs qui
+auraient une place dans votre gamme, les formats qui conviennent a votre depot et
+a votre succursale de Combani, un volume approximatif et la frequence d'achat, et
+confirmation du port.
+
+Et si le verre n'entre pas dans vos plans, dites-le-moi franchement : c'est une
+reponse utile et je n'insisterai pas.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 60. Alupose (92 Cité Horth, Cayenne — Guyane) — `alupose.guyane973@gmail.com` — FRANÇAIS — à envoyer le 15/10
+
+**⚠️ VERIFIE :** adresse publiee sur leur propre site, **exception du §5 notee dans la fiche** (gmail) ·
+**classe de metier FAIBLE assumee** : leur site les decrit comme menuisier aluminium, donc 3,6 % de
+reponses contre 10 et 12,8 — c est pourquoi ce texte part en SECONDE vague et reste court · regle
+Prodiesa : ils posent, donc substrat seul · **⚠️ INTERDIT DU §6 : aucun mot sur la fiscalite a
+l entree** · port Dégrad-des-Cannes · aucun prix, porte de sortie large.
+
+```
+Bonjour,
+
+C'est une offre de fourniture, et je la fais courte.
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat pres de Lyon. Nous expedions du verre plat en conteneur complet,
+livre au port de Degrad-des-Cannes.
+
+Vous posez des garde-corps en vitre et des baies coulissantes, donc vous achetez
+du verre - la seule question est a qui, et en quelle quantite. Je ne vous
+propose rien de ce que vous fabriquez vous-meme, uniquement le verre de base :
+
+- Verre float clair et extra-clair
+- Verre trempe
+- Miroir sans cuivre ni plomb
+- Verre laque
+
+Nous expedions en CONTENEUR COMPLET, en caisses bois traitees NIMP-15, en jumbo
+de 3210 x 2550 mm ou aux cotes demandees.
+
+Nous pouvons etablir une offre pour la livraison a votre port de destination,
+sous reserve de validation de notre cote.
+
+Je sais qu'un conteneur complet n'est pas la bonne maille pour tout le monde, et
+je prefere le dire. Si c'est trop pour vous, dites-le-moi et je n'insisterai pas.
+Si en revanche vous achetez du verre regulierement et que vous voulez savoir ce
+que donne une origine europeenne, il me faut quatre choses : les references et
+epaisseurs, les formats, un volume approximatif avec la frequence, et le port.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
