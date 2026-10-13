@@ -6927,3 +6927,27 @@ marqueur de convention. **Règle : une entrée Markdown s'écrit toujours dans u
 (`<<'EOF'`), et quand une substitution est nécessaire — un comptage, une heure — on substitue d'abord
 dans une variable et on passe par un script Python, jamais par un heredoc ouvert. La prose d'un fichier
 de suivi est du Markdown, et le Markdown est plein d'accents graves.
+
+
+## 13/10/2026 17h09 — Real Vidros deverrouillee et envoyee, Rio Vidros au telephone
+
+**Deux deverrouillages sur les deux seules candidates de la bonne classe qui restaient avec un site
+et sans adresse.** Les sept autres de ce gisement sont soit des poseurs, soit des fiches dont le
+rebond interdit un nouvel essai — MunnWorks, dont deux boites du meme locataire ont rendu un 5.4.1,
+Eurowindow HCM et TAMISTEF, qui ont fini en echec apres trois jours.
+
+**REAL VIDROS, Jaragua do Sul (SC) — envoyee, texte 76. C'est la meilleure cible bresilienne du jour,
+et c'est leur catalogue qui le dit et non un annuaire :** leurs pages produit portent **float comum,
+extra-clear ET low-e**, soit trois de nos references de substrat, et ils les distribuent depuis
+**huit unites dans cinq Etats**. Adresse publiee sur leur propre domaine.
+
+**Le piege de ce dossier n'etait pas douanier, c'etait la marque.** Leur catalogue porte Matelac et
+Matelux, marques d'un groupe concurrent — exactement le STADIP de Miro Est. **Le texte n'en dit
+rien** : ni que ce sont des marques, ni si nous les fournirions, ni d'ou vient leur specification.
+C'est la consigne de Kevin du 12/10 appliquee avant la faute et non apres.
+
+**RIO VIDROS, Colombo (PR) — negatif, et c'est un verdict :** aucune adresse publiee, le site renvoie
+a un telephone. Fiche telephonique au +55 41 3663 1810. Metier etabli par ce qu'ils disent d'eux-memes
+et il est **mixte** — la plus grande distributrice de verre de Colombo, la premiere trempe de la
+ville, et ils fabriquent des portes. Le negoce est la bonne classe, la pose la mauvaise, et la regle
+Prodiesa decidera de l'offre : le trempe et les portes sortent, seul le substrat entre.

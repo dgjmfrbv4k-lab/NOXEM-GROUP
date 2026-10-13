@@ -4144,3 +4144,79 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 76. Real Vidros (Jaraguá do Sul, Santa Catarina) — `realvidros@realvidros.net` — PORTUGAIS — à envoyer le 13/10
+
+**⚠ LA MEILLEURE CIBLE BRÉSILIENNE OUVERTE AUJOURD'HUI, et son catalogue le dit mieux que n'importe
+quel annuaire :** leurs propres pages produit portent **float comum**, **extra-clear**, **low-E**,
+reflex, peints et dépolis. **Trois de ces références sont exactement notre substrat.** Classe négoce :
+**huit unités dans cinq États** annoncées sur leur page distributeur, siège Rua Carlos Oechsler 265,
+Ilha da Figueira, Jaraguá do Sul (SC).
+
+**⚠ VÉRIFIÉ :** adresse publiée sur leur propre domaine, identique à celui du site · pages rendues
+toutes verrières, donc pas de domaine parqué · le domaine ressemble au nom · domaine relu caractère
+par caractère · téléphones 0800-703-0094 et (47) 2107-8785 relevés en second canal.
+
+**⚠⚠ ET LE PIÈGE DE CE DOSSIER N'EST PAS DOUANIER, C'EST LA MARQUE — c'est la faute du 12/10 à
+15h24, mot pour mot.** Leur catalogue porte **Matelac** et **Matelux**, qui sont des marques d'un
+groupe concurrent, exactement comme le STADIP de Miro Est. **Le texte n'en dit RIEN** : ni que ce sont
+des marques, ni que nous les fournirions ou non, ni une question sur l'origine de leur spécification.
+Kevin l'a tranché — ce n'est pas à moi de décider ce que le client doit savoir, et une réserve de ce
+genre fabrique un doute que le client n'avait pas. Si la question devient indispensable, elle se pose
+à Kevin et attend un second ordre.
+
+**⚠ LES DEUX INTERDITS BRÉSILIENS DU §6 TENUS, comme au texte 75 :** aucune affirmation d'absence de
+production locale — quatre producteurs float au Brésil — et argument douanier **uniquement sur le
+float clair**, **sans aucun taux**, et **sans la Chine**, dont le statut pendant la revue n'est pas
+établi. Le miroir et le teinté en sont expressément exclus par la Gecex 833.
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca.
+
+Escrevo para voces por um motivo preciso e nao por um cadastro: o proprio
+catalogo de voces traz float comum, extra-clear e low-e. Essas tres referencias
+sao exatamente o que fornecemos, e voces as distribuem a partir de oito unidades
+em cinco estados. Quem gira estoque nessa escala compra por volume, e volume e a
+unica coisa que vendemos.
+
+- Vidro float incolor e extra-claro (pagina em ingles)
+  https://noxemgroup.com/en/float-glass/
+- Vidro com camada de baixa emissividade
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Espelho sem cobre e sem chumbo, util onde a umidade ataca a borda prateada
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Embarcamos em CONTEINERES COMPLETOS, em caixas de madeira tratada conforme a
+NIMF-15, em chapas jumbo de 3210 x 2550 mm ou nas medidas que voces pedirem,
+com entrega no porto de destino.
+
+Um ponto que interessa a voces como compradores, e limitado ao vidro float
+incolor: a Resolucao Gecex no 833/2025 aplica direito antidumping ao float
+incolor originario da Malasia, do Paquistao e da Turquia, e a origem europeia
+nao esta entre as origens visadas. Nao estou dizendo que nosso vidro e barato,
+nem cotando nada aqui. Estou dizendo que a comparacao entre origens mudou.
+
+Podemos estabelecer uma oferta para a entrega no seu porto de destino, sujeita a
+validacao de nossa parte.
+
+Para prepara-la preciso de quatro informacoes: quais das referencias acima voces
+giram em volume e em que espessuras, as medidas de chapa que seus clientes
+compram, um volume aproximado com a frequencia de recompra, e o porto que voces
+usam.
+
+E se o abastecimento de voces ja estiver resolvido e nao houver espaco para
+outra origem, digam com franqueza e nao insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
