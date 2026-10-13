@@ -31,12 +31,25 @@ Lecture seule. Usage :
 """
 import io, re, sys
 
-args = [a for a in sys.argv[1:] if not a.startswith('--')]
-SRC = args[0] if args else 'TEXTES-PRETS.md'
+# Analyse des arguments. La forme --depuis 42 consomme le 42 qui suit, sinon il
+# retombait dans les positionnels et devenait le nom du fichier : le 13/10 un
+# --depuis 42 a fait chercher un fichier nomme 42. L echec etait bruyant, donc
+# sans degat, mais un outil qui se trompe sur sa propre invocation finit par
+# etre contourne plutot que corrige.
 DEPUIS = 32
+args, attendu = [], False
 for a in sys.argv[1:]:
-    if a.startswith('--depuis'):
-        DEPUIS = int(a.split('=')[1] if '=' in a else sys.argv[sys.argv.index(a) + 1])
+    if attendu:
+        DEPUIS, attendu = int(a), False
+    elif a.startswith('--depuis'):
+        if '=' in a:
+            DEPUIS = int(a.split('=', 1)[1])
+        else:
+            attendu = True
+    elif not a.startswith('--'):
+        args.append(a)
+assert not attendu, '--depuis attend un numero'
+SRC = args[0] if args else 'TEXTES-PRETS.md'
 
 INTERDITS = [
     r'\beuros?\b', r'\bprecios?\b', r'\bprices?\b', r'\bUSD\b', '€', r'\bplazos?\b',

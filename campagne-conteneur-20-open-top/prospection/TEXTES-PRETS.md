@@ -2115,3 +2115,170 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 42. Viridian Glass (Clayton / Ingleburn) — `viridian@viridianglass.com` — ANGLAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** rachat par Viridian des actifs de DISTRIBUTION et du stock d Oceania en avril 2025,
+pas du four, donc aucune ligne float · la ligne est dite ARRETEE et jamais morte, reserve du §6 ·
+regle Prodiesa : trempe, feuillete et double vitrage NON proposes, ils les fabriquent · une seule
+fiche pour les deux pays, l implantation neo-zelandaise sert d argument de volume et non de second
+destinataire · porte de sortie renforcee, Crescent Capital a tres probablement des contrats cadres ·
+aucun prix, aucun delai, formule imposee · rien sur les droits de douane australiens, non etablis.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys base glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you rather than to a processor because your position changed
+in 2025. Since the Dandenong float line was stopped, every sheet of float
+consumed in Australia and New Zealand is imported, and the question for a
+distributor of your size is no longer local or imported but which origins you
+want on your list. We would like to be one of them.
+
+We supply base glass only. We are not asking to sell you anything you make
+yourselves:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Copper-free and lead-free mirror
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Melbourne,
+Sydney or the port you prefer. Since you operate on both sides of the Tasman,
+volume can be grouped across your branches rather than split.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the three references above you buy
+and in which thicknesses, the sizes that suit your lines, an approximate volume
+and buying frequency, and your port.
+
+I am aware a company of your size is likely to have supply agreements already
+in place. If you are committed and there is no room for an additional origin,
+say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 43. Glasslines (Cambridge, Waikato) — `sales@glasslines.co.nz` — ANGLAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** ils declarent eux-memes ne s approvisionner qu aupres de fournisseurs internationaux
+reputes, donc importateur par leur propre aveu · regle Prodiesa : feuillete et trempe feuillete NON
+proposes, leurs brochures montrent qu ils les fabriquent · la ligne australasienne est dite ARRETEE,
+reserve du §6 · aucun prix, formule imposee · adresse lue sur leur propre page de contact.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because you say yourselves that you source only from
+reputable international suppliers, and because you distribute stock sheet to
+glaziers and run a splitting service. That means you buy base glass in volume
+and break it down yourselves, so there is nothing to explain about how this
+works. Since the Dandenong float line was stopped, every sheet of float in New
+Zealand arrives by container, and the only open question is which origins are
+on your list.
+
+We supply base glass. We are not proposing anything you laminate or toughen
+yourselves:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Copper-free and lead-free mirror
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Auckland,
+Tauranga or the port you prefer.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the references above you buy and in
+which thicknesses, the sheet sizes that suit your splitting operation, an
+approximate volume and buying frequency, and your port.
+
+And if you are committed to your current suppliers, say so plainly and I will
+not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 44. Glass Market (Te Atatu, Auckland) — `sales@glassmarket.co.nz` — ANGLAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** leur verre de securite vient de LEUR PROPRE usine de Qingdao, donc le trempe sort de
+l offre, regle Prodiesa · angle de la seconde source, pas du changement de methode, puisqu ils
+importent deja · RIEN sur les droits de douane neo-zelandais, aucune mesure etablie et le §6 interdit
+d affirmer sans source lue · la ligne australasienne est dite ARRETEE · aucun prix, formule imposee.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because you already import. You run your own safety glass
+plant in Qingdao and you hold stock locally in Te Atatu, so you clear your own
+containers and you know what a full load costs to land. I am not proposing a
+change of method, I am proposing a second origin alongside the one you have.
+
+What I would supply is the substrate, not the finished safety glass you make
+yourselves:
+
+- Clear and extra-clear float glass
+- Copper-free and lead-free mirror
+- Laminated glass
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Auckland or
+the port you prefer.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the references above you buy and in
+which thicknesses, the sizes that suit your stock, an approximate volume and
+buying frequency, and your port.
+
+And if a second origin is of no interest to you, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

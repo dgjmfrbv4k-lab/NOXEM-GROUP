@@ -809,6 +809,30 @@ question pour l'acheteur n'est plus « local ou importé » mais **quelle origin
 argument de fond, pas de prix. **Réserve à tenir dans les messages :** dire que la ligne *a été
 arrêtée*, pas qu'elle ne redémarrera jamais ; la couverture date de février 2025 et aucune reprise
 n'a été trouvée.
+**RE-VÉRIFIÉ LE 13/10, ET LA CONCLUSION TIENT — MAIS LE PARAGRAPHE OMETTAIT UN FAIT QUI RETOURNE LE
+CIBLAGE DE TOUTE LA ZONE.** Une recherche de découverte a rendu une page de **viridianglass.co.nz**
+se décrivant encore comme « the largest glass supplier and only manufacturer in Australia and New
+Zealand », ce qui contredisait frontalement ce qui précède. **Contradiction levée, et dans le sens
+du §6 :** Grant Thornton administrateur le **04/02/2025**, aucun repreneur pour l'ensemble, arrêt de
+la fabrication à Dandenong, 56 licenciements immédiats puis 95 au démantèlement de la ligne float,
+**151 postes au total**. La mention « only manufacturer » est du **texte de site périmé**. Aucune
+reprise de la ligne en 2026 n'est rapportée.
+**MAIS EN AVRIL 2025 VIRIDIAN A RACHETÉ LES ACTIFS DE DISTRIBUTION ET LA MAJEURE PARTIE DU STOCK
+RESTANT D'OCEANIA GLASS — PAS LE FOUR.** Et c'est là que le ciblage change : **Viridian n'est donc
+plus un producteur float, c'est le plus gros DISTRIBUTEUR d'Australasie sans ligne d'approvisionnement
+propre**, qui écoule un stock repris et doit désormais importer la totalité de son float. C'est la
+situation Riou Ocean Glass à l'échelle d'un pays.
+**CONSÉQUENCE : Viridian passe de concurrent présumé à PROSPECT, et c'est le plus important de la
+zone.** Fiche créée le 13/10, `viridian@viridianglass.com`, publiée par leurs propres pages de
+succursale. **Une seule fiche pour le groupe** bien qu'il opère dans les deux pays — leçon Miroiterie
+des Antilles du §12. **Règle Prodiesa appliquée :** ils transforment, donc trempé, feuilleté et double
+vitrage sortent de l'offre ; seul le **substrat** entre — float clair et extra-clair, low-E, miroir.
+**Réserve à tenir :** propriété de Crescent Capital, donc des contrats cadres asiatiques sont très
+probablement en place et la porte de sortie du §9 est obligatoire.
+**Et la leçon de méthode, parce qu'elle est générale : une page « à propos » n'est pas une source
+d'actualité.** Elle contredisait un fait établi sur des sources de premier rang, et c'est elle qui
+avait tort. Mais la contradiction valait la vérification — un fait servi à 27 fiches ne se garde pas
+sur la foi d'un relevé vieux de huit mois.
 **Avant d'écrire « ce pays n'a pas de production float », vérifier.** C'est l'argument le plus
 employé de la campagne et celui qui se retourne le plus vite : un acheteur sait mieux que nous ce
 qui se produit chez lui. Deux erreurs le 08/10 — le **Kenya**, alors que Sapphire produit à
