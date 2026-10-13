@@ -6728,3 +6728,38 @@ reste des cas connus et acceptes (Mirodec, antennes PG, groupe Riou, Texas Glass
 
 **26 envois confirmes partis le 13/10**, registre a **1160 fiches**. Aucun n est confirme avant
 **72 heures**, soit le 16/10.
+
+## 13/10/2026 16h13 — relevé de rebonds de la journée et deux signatures neuves
+
+**Neuf rebonds lus en entier**, dont quatre durs et cinq avis de délai. Le relevé a été fait au bon
+moment pour une fois : la règle des 72 heures du §13 veut qu'un envoi ne soit confirmé qu'après trois
+jours sans avis d'échec, et quatre des cinq délais portent sur des messages du **12/10**.
+
+**Quatre envois ou relances retirés du comptage :**
+
+| Fiche | Code | Diagnostic | Suite |
+|---|---|---|---|
+| Hijazi Glass Contracting (Liban) | `5.1.10` | **Null MX** — le domaine déclare ne recevoir aucun courrier (RFC 7505) | `A APPELER`, aucune autre boîte possible |
+| Importadora C&C SAS (Colombie) | `550` boîte pleine | quota d'hébergement épuisé, cas FITglass | `A APPELER`, pas de second envoi |
+| Widrio (Colombie) | `550 No such person` | boîte morte sur domaine vivant | `A RENVOYER`, chercher une autre boîte publiée |
+| Eko Vetri (Croatie) | `550` boîte pleine | idem Importadora C&C, le même jour | `A APPELER` |
+
+**Cinq avis de délai, tentatives jusqu'au 15/10** — et aucun n'est une livraison : SAMIR (Martinique,
+`4.4.3`, le MX pointe vers un nom absent du DNS), New Thai Aluminium (Bangladesh, `4.4.1`, no route to
+host), Abu Sarhad (Arabie saoudite, `4.7.1` à texte fourre-tout), Fortavidrio (Mexique, `4.4.1`
+timeout), Highqual (Jamaïque, `4.4.1` sur **quatre adresses de proxy web Cloudflare**).
+
+**Deux signatures neuves consignées au §13**, portant le compte à huit, et elles ont le même intérêt :
+**elles sont définitives alors que leur code ne le dit pas.** Le Null MX se lit comme un échec de boîte
+et porte sur le domaine entier. Le `4.4.1` de Highqual se lit comme transitoire et vient d'un
+enregistrement MX qui désigne un proxy HTTP, lequel n'écoutera jamais le port SMTP. **Un `4.x.x` n'est
+pas une promesse de livraison et un `5.x.x` ne dit pas toujours à quel niveau le refus porte : il faut
+lire le diagnostic, pas seulement le code.**
+
+**Et un cas qui va dans l'autre sens, à ne pas sur-interpréter :** Abu Sarhad rend un `4.7.1` dont le
+texte contient le mot *blacklisted*. Le serveur qui le rend est celui du destinataire, et le message
+énumère trois causes sans en choisir aucune. **La règle d'arrêt des envois à froid du §10 ne se
+déclenche pas** — c'est la leçon Alfastar du 12/10 prise par un autre code.
+
+**État du registre après écriture : 1160 fiches, 23 premiers contacts et 94 relances encore au statut du
+13/10.** Aucun des deux chiffres n'est confirmé avant le **16/10**, fenêtre de 72 heures oblige.

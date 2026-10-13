@@ -2047,6 +2047,50 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   rappel que **lire le corps des réponses automatiques paie** : celle-ci a rendu une adresse vivante sur
   le plus gros stock de verre plat de Jamaïque.
 
+  **SEPTIÈME ET HUITIÈME SIGNATURES, TROUVÉES LE 13/10 À 16h11 DANS LE MÊME RELEVÉ DE REBONDS, ET
+  ELLES ONT LE MÊME INTÉRÊT : TOUTES DEUX SONT DÉFINITIVES ALORS QUE LEUR CODE NE LE DIT PAS.**
+  · **`5.1.10` NULL MX — le domaine DÉCLARE qu'il ne reçoit pas de courrier.** Cas réel :
+    `info@hijaziglass.com` (Liban), trois secondes après l'envoi. Diagnostic de Google : « the domain
+    hijaziglass.com doesn't receive email according to the administrator: **returned Null MX** », avec
+    le renvoi au RFC 7505. **C'est le verdict le plus net des huit signatures**, et c'est le seul qui
+    ne demande aucune interprétation : ce n'est ni un domaine introuvable, ni une boîte morte, ni un
+    filtre — c'est l'administrateur du domaine qui publie un enregistrement MX **vide** pour dire que
+    rien n'y reçoit. **Donc aucune autre boîte de ce domaine ne peut marcher**, et la recherche d'une
+    seconde adresse, qui est le remède de la signature « boîte inexistante sur domaine vivant », est
+    ici une perte sèche. Fiche téléphonique immédiatement.
+  · **`4.4.1` sur des adresses de PROXY WEB — l'enregistrement MX pointe vers Cloudflare.** Cas réel :
+    `contact@highqualjm.com` (Jamaïque), quatre adresses en délai d'attente dépassé —
+    `104.21.84.189`, `172.67.196.22` et deux IPv6 en `2606:4700`. **Ces plages sont celles du proxy
+    HTTP de Cloudflare, qui n'écoute pas le port SMTP par construction.** Le code est temporaire et
+    Google réessaiera 46 heures, mais **il n'y a rien à atteindre** : c'est une erreur de
+    configuration permanente, pas une panne. **Signature à reconnaître sans connaître les plages par
+    cœur : plusieurs adresses, dont des IPv6, toutes en délai d'attente dépassé sur le même domaine.**
+    Un vrai serveur momentanément indisponible n'a pas quatre adresses muettes à la fois.
+  **ET CE QUE CES DEUX CAS AJOUTENT À LA RÈGLE DE DÉCISION, parce qu'elle était trop simple : le CODE
+  ne suffit pas à classer un rebond, il faut lire le DIAGNOSTIC.** La règle disait qu'une seule
+  signature sur quatre justifie de chercher une autre boîte. Elle tient, mais un `5.1.10` se lit comme
+  un échec de boîte alors qu'il porte sur le domaine entier, et un `4.4.1` se lit comme transitoire
+  alors qu'il peut être définitif. **Un `4.x.x` n'est pas une promesse de livraison et un `5.x.x` ne
+  dit pas toujours à quel niveau le refus porte.**
+  **TROISIÈME CAS DU MÊME RELEVÉ, QUI VA DANS LE SENS INVERSE ET QU'IL FAUT DIRE AUSSI :**
+  `info@abusarhadgroup.com` (Arabie saoudite) a rendu un **`4.7.1`** — un code de la classe qui, au
+  §10, est celle du filtrage — avec un texte distant en `550` disant « the account or domain may not
+  exist, **they may be blacklisted**, or missing the proper dns entries ». **Le mot *blacklisted* dans
+  un rebond n'est pas un signal sur nous tant que le serveur qui le rend est celui du destinataire**,
+  et c'est le cas ici (`abusarhadgroup.com` sur `198.54.116.91`). C'est un message fourre-tout
+  d'hébergeur qui énumère trois causes sans en choisir aucune. **La règle d'arrêt des envois à froid
+  ne se déclenche pas** : elle compte les serveurs distincts rendant un `5.7.1` de **filtre
+  anti-spam**, et c'est exactement la leçon Alfastar du 12/10, prise par un autre code.
+  **ET UN NEUVIÈME CAS, SUR UNE FICHE QUI COMPTE, POUR MONTRER QUE LE MX PEUT MENTIR SANS ÊTRE
+  ABSENT :** `contact@samir-martinique.fr` (**SAMIR, Martinique**) rend un **`4.4.3`** où la requête
+  MX du domaine répond `NOERROR` — donc le domaine existe et répond — mais où le nom de serveur qu'il
+  désigne, `mail.samir-martinique.fr`, ressort en **NXDOMAIN en A comme en AAAA**. **L'enregistrement
+  MX pointe vers une machine qui n'existe pas.** À distinguer du Null MX ci-dessus, où il n'y a pas de
+  serveur désigné, et du serveur muet, où la machine existe et ne répond pas. **Un nom absent du DNS
+  ne réapparaît pas tout seul** : le pronostic est aussi mauvais que celui d'un domaine introuvable,
+  même si le code est temporaire. La relance du 12/10 n'est donc **pas** délivrée, et c'est une fiche
+  d'outre-mer, donc à passer au téléphone plutôt qu'à attendre.
+
   **CONDUITE : c'est la seule des cinq signatures, avec la boîte inexistante, qui justifie de chercher
   une autre boîte** — le domaine étant vivant, une autre adresse publiée a toutes ses chances. Fait le
   12/10 : `hello@munnworks.com`, publiée par leurs propres documents sur le même domaine, et le message

@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **13/10/2026** depuis le registre. **172 societes** portent un telephone et
+Regeneree le **13/10/2026** depuis le registre. **175 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 172 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 175 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 160 societes
+## Hors Europe — 162 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Colombie | **Vidriosur Colombia** | `+57 601 567 6388` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 13h24. Grep vidriosur fait avant creation, absente. LE PROFIL EST LE MEILLEUR DU LOT COLOMBIEN ET IL VIENT D ELLE-MEME : DISTRIBUTEUR DE GROS DE VERRE PLAT ET DE MIROIRS, NATIONAUX ET IMPORTES. Mayor... |
 | Honduras | **Aluminios del Sur** | `+504 8847 8257 WhatsApp et +504 3300 3979 et +504 2236 2071` | 17h00 - 01h00 | A APPELER | Trois decennies de metier, couvre Tegucigalpa, San Pedro Sula et Olancho. Adresse email masquee en ligne : appeler. Port Puerto Cortes. Adresse retrouvee le 07/10. Envoi depuis la nouvelle boite noxem-group. REBOND 07/10 : 550 ... |
 | Irak | **Nawzad NIT Group** | `+964 750 722 2777` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Siège et usine à Erbil, agence à Bagdad, cibler vitrages de façade et miroirs. Pas d adresse publiee : appeler. Port . VERIFIE LE 08/10, ADRESSE OBFUSQUEE : leur page de contact affiche un emplacement vide a la place de l adres... |
+| Liban | **Hijazi Glass Contracting** | `+961 5 480 106` | 08h00 - 16h00 | A APPELER | FICHE CREEE LE 08/10 A 17h15 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre, y compris sur le champ societe seul apres un faux positif de sous-chaine, absent. USINE A GHAZIEH PRES DE SAIDA, do... |
 | Maroc | **Delta Glass Maroc** | `0522 653 050` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source Telecontact, qui la place en tete de sa liste verre trempe a Casablanca, avec une gam... |
 | Mexique | **Cristales Inteligentes** | `+52 55 2799 0884` | 17h00 - 01h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 23h02 PAR RECHERCHE DE CATEGORIE, NON TESTEE. Grep cristales inteligentes fait avant creation, absente. Plus de cinquante ans en distribution ET fabrication de verre, miroir inclus, selon la source. ... |
 | États-Unis | **Crone Wholesale Glass** | `+1 818 894 3644` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 17h29 par une recherche de decouverte sur les distributeurs americains, le gisement des fiches a site sans adresse etant epuise aux Etats-Unis et au Canada. Grep crone fait avant creation, absent du ... |
@@ -101,6 +102,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Ghana | **Punamactex Ent. Ltd** | `+233 21 689800` | 11h00 - 19h00 | A APPELER | BON PROFIL : negociant etabli depuis 1995 annoncant du float clair et du float teinte, donc importateur par construction. Port de Tema, nomme au paragraphe 4. Aucune adresse publiee dans les sources : a appeler. |
 | République dominicaine | **IMPORTDOM — Importa Dominicana de Vidrios y Materiales** | `+1 829 678 6775` | 15h00 - 23h00 | A APPELER | Calle 1ra n 10, El Naranjo. IMPORTATEUR DECLARE. Aucune adresse email publiee : a rappeler. Port Caucedo. METHODE EN DEUX TEMPS APPLIQUEE LE 08/10 : AUCUN DOMAINE PROPRE, la societe n a pas de site. POINT DE CONFORMITE A CONSIG... |
 | Algérie | **Technoglass** | `+213 555 62 47 74` | 10h00 - 18h00 · **dim-jeu** | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. Port Djendjen ou Bejaia. VERIFIE LE 08/10, TOUJOURS SANS ADRESSE EXPLOITABLE. Profil confirme et interessant : importation distribution et transformation du verre depuis 1987, SARL c... |
+| Colombie | **Importadora C&C SAS** | `+57 318 372 9621` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 13/10 A 08h24. Nom grepe avant creation, importadora c, absent : la seule correspondance etait Importadora Crispieri au Chili, autre societe. PIEGE DE DOMAINE A SIGNALER, et il est inverse de l habituel : leur do... |
 | Bolivie | **Cristales Templados Bolivianos — Cristembo** | `+591 4 268042` | 15h00 - 23h00 | A APPELER | Trempeur donc acheteur de float. Pays enclave, transit via Arica. Aucune adresse publiee : a appeler. PREMIER TEMPS DE LA METHODE REUSSI LE 08/10, SECOND TEMPS NON FAIT FAUTE DE BUDGET DE RECHERCHE. Domaine propre etabli et con... |
 | Indonésie | **PT Matahari Silverindo** | `+62 24 761 7600` | 04h00 - 12h00 | A APPELER | ANGLE TECHNIQUE PRECIS : ils argentent, et l argenture ne pardonne pas — chaque defaut du substrat est rendu permanent et double par le reflet, donc la qualite float exigee est plus stricite qu en vitrerie. Et le miroir haut de... |
 | Irak | **Arturaya Glass Company** | `+964 751 667 6876` | 08h00 - 16h00 · **dim-jeu** | A APPELER | IMPORTATEUR : se fournit déjà à l'étranger. Adresse info arobase arturaya.com relevee le 07/10, domaine identique au site. IMPORTE DEJA DES CONTENEURS : ils annoncent eux-memes travailler avec des usines etrangeres. Envoi 07/10... |
@@ -228,7 +230,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Haïti | **L Union Quincaillerie Materiaux de Construction** | `+509 35 27 03 30` | 15h00 - 23h00 | A QUALIFIER | La fiche ne mentionne pas de vitrerie : rien ne dit qu ils vendent du verre. Priorite basse, a qualifier avant tout effort. |
 | Sénégal | **SK ALU** | `+221 65 944 90 80` | 11h00 - 19h00 | A APPELER | Petite structure, à qualifier.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relance comme au decompte des fiches jamais contactees. Aucune adresse publiee, donc dossier... |
 
-## Europe — 12 societes
+## Europe — 13 societes
 
 Rappel du paragraphe 6 : **pas de nouvelle prospection europeenne.** Ces fiches ne s'appellent que
 s'il s'agit de relancer un dossier deja ouvert.
@@ -241,6 +243,7 @@ s'il s'agit de relancer un dossier deja ouvert.
 | Allemagne | **Völker Glashandel GmbH** | `+49 40 851 7480` | 09h00 - 17h00 | A APPELER | Winsbergring 30. Activite import-export declaree. Aucune adresse email publiee : a rappeler. |
 | Allemagne | **HoffmannGlas GmbH + Co. Glasgroßhandlung KG** | `+49 5171 2910` | 09h00 - 17h00 | A APPELER | Grossiste independant de taille moyenne, deux sites. Aucune adresse email publiee : a rappeler. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensemble des fiches verro... |
 | Belgique | **Lauryssens Glas** | `+32 3 660 13 87` | 09h00 - 17h00 | A APPELER | Leugenberg 208. Grossiste independant servant entreprises et particuliers. Seule une adresse comptable est publiee : appeler le service commercial. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrou... |
+| Croatie | **Eko Vetri** | `+385 91 221 1998` | 09h00 - 17h00 | A APPELER | Sur le port de Rijeka : transit le plus court. Relance 07/10 sans signature, une seule question sur les plus gros volumes annuels, porte de sortie. Relance volontairement tres courte, l argumentaire ayant deja ete servi le 22/0... |
 | Roumanie | **TAMISTEF** | `+40 757 222 272` | 08h00 - 16h00 | A APPELER | À qualifier. Port Constanta, envoi en roumain. Relance 07/10 sans signature, une seule question sur les plus gros volumes annuels, porte de sortie. Angle dix-huit ans de vitrage isolant : ligne tournant en continu sur les memes... |
 | Portugal | **Vicar — Vidros e Espelhos** | `+351 219 552 548` | 10h00 - 18h00 | A APPELER | Port Lisbonne, envoi en portugais DOMAINE vicar.pt INTROUVABLE le 25/09 : chercher le bon domaine ou appeler. RETESTEE LE 13/10 A 08h36 PAR RECHERCHE RESTREINTE AU DOMAINE, ET LE RESULTAT EST PIRE QU UN REBOND. La recherche ren... |
 | Serbie | **ROMIKS** | `+381 63 696 446` | 09h00 - 17h00 | A APPELER | Pays enclave : transit par Koper. ADRESSE REBONDIE : rappeler au +381 63 696 446. CONTROLE MX DU 07/10 : le domaine romiks.rs ne resout pas (NXDOMAIN), l adresse info@romiks.rs ne peut pas recevoir. Adresse retiree du registre.... |
