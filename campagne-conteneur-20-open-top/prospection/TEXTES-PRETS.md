@@ -2282,3 +2282,178 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 45. TSJ Vidros (Mauá / Santo André, SP) — `contato@tsjvidros.com.br` — PORTUGAIS — à envoyer le 13/10
+
+**⚠️ VERIFIE :** ils annoncent eux-memes leurs chapas en 2200x3210 et 2400x3210, donc deja a la largeur
+de ruban · regle Prodiesa : le TREMPE n est pas propose, ils le fabriquent · §6 : JAMAIS l absence de
+production locale au Bresil, quatre producteurs, AGC Cebrace Guardian Vivix · argument douanier Gecex
+833 autorise par le §6 au Bresil, mais UNIQUEMENT sur le float clair, jamais sur le miroir ni le teinte,
+et donc le miroir n est pas propose dans ce texte · aucun prix, aucun delai, formule imposee.
+
+```
+Prezados senhores,
+
+Esta e uma oferta de fornecimento, nao um pedido de orcamento. Se nao for o
+senhor quem compra o vidro, agradeco que repasse a quem compra.
+
+Chamo-me Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de vidro
+plano sediada perto de Lyon, na Franca.
+
+Escrevo-lhes por um motivo concreto: voces anunciam as suas chapas de float em
+2200 x 3210 e 2400 x 3210 mm. Essa largura de 3210 e exatamente a largura de
+saida de uma linha float, o que quer dizer que voces ja trabalham no formato em
+que o vidro sai de fabrica e ja sabem o que representa um contentor completo.
+Nao ha nada a explicar sobre como isto funciona.
+
+O que podemos embarcar:
+
+- Vidro float incolor e extra claro
+- Vidro de baixa emissividade
+
+Embarcamos em CONTENTOR COMPLETO, em caixas de madeira tratada NIMP-15, em
+jumbo de 3210 x 2550 mm ou nas medidas que voces pedirem, entregue no porto de
+destino.
+
+Uma observacao que lhes diz respeito como compradores: desde a Resolucao Gecex
+833 de 2025, o float incolor originario da Malasia, do Paquistao e da Turquia
+paga direito antidumping no Brasil. A origem europeia nao e visada por nenhuma
+dessas medidas. Nao estou a falar de preco, falo da comparacao entre origens,
+que mudou.
+
+Podemos estabelecer uma oferta para a entrega no seu porto de destino, sob
+reserva de validacao da nossa parte.
+
+Para isso preciso de quatro coisas: as espessuras de float que mais consomem, as
+medidas que lhes servem, um volume aproximado e a frequencia de compra, e o
+porto.
+
+E se ja estiverem comprometidos com o fornecedor atual, digam-no com franqueza e
+nao insistirei.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 46. Importadora C&C SAS (Palmira, Valle del Cauca) — `ventas@vidrios.com.co` — ESPAGNOL — à envoyer le 13/10
+
+**⚠️ VERIFIE :** elle se declare elle-meme importatrice de float incolore, MIROIRS et verres speciaux ·
+l argument porte donc sur le miroir, ou la Resolution 284 du MinCIT est etablie · FORMULATION PRUDENTE
+IMPOSEE PAR LE §6 : dire que la mesure figure parmi les droits en vigueur publies par le MinCIT, et ne
+RIEN affirmer sur le sort du recours, dont le texte n a pas ete lu · Espejos S.A.S. n est PAS nomme,
+c est le demandeur et donc un concurrent · port Buenaventura a une heure de Palmira · aucun prix.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo porque ustedes se presentan como importadores, y porque lo que
+importan esta nombrado con precision: vidrio float incoloro, espejos y vidrios
+especiales. Eso es exactamente lo que embarcamos, y significa que ustedes ya
+nacionalizan su propia carga.
+
+Lo que podemos embarcarles:
+
+- Vidrio float incoloro y extra claro
+- Espejo sin cobre ni plomo
+- Vidrio de baja emisividad
+
+Sobre el espejo hay un hecho que les concierne directamente como importadores.
+El Ministerio de Comercio publica entre sus derechos antidumping vigentes una
+medida sobre los espejos sin enmarcar originarios de China, subpartida
+7009.91.00.00, en forma de un valor de referencia FOB por kilo por debajo del
+cual se cobra la diferencia. No les estoy hablando de lo que cuesta nuestro
+vidrio: les hablo de que la comparacion entre origenes cambio, y de que conviene
+tener una segunda.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido, entregado en Buenaventura o en el
+puerto que prefieran.
+
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: cuales de las referencias anteriores
+compran y en que espesores, las medidas que les sirven, un volumen aproximado y
+la frecuencia de compra, y su puerto.
+
+Y si ya estan comprometidos con su proveedor actual, digamelo con franqueza y no
+insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 47. Bode Vidrio SA de CV (Irapuato, Guanajuato) — `ventasirapuato@bode-vidrio.com` — ESPAGNOL — à envoyer le 13/10
+
+**⚠️ VERIFIE :** domaine de l adresse relu caractere par caractere, bode-vidrio.com AVEC trait d union
+contre bodevidrio.com sans, exception du §5 notee dans la fiche puisque la societe publie elle-meme ces
+boites · regle Prodiesa : trempe, feuillete et vitrage isolant NON proposes, ils les fabriquent · **RIEN
+SUR LES DROITS DE DOUANE MEXICAINS, interdit absolu du §6** : le taux IGI pour une origine UE n est pas
+etabli et l enquete sur le miroir chinois est une enquete ouverte, pas une mesure · aucun prix.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio base, le agradeceria que la haga llegar a quien
+compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo porque ustedes se declaran mayoristas e importadores, y porque un
+grupo con mas de cincuenta anos y bodegas en Irapuato, Leon y Queretaro mueve
+volumen y nacionaliza su propia carga. No vengo a proponerles un cambio de
+metodo, vengo a proponerles un origen mas en su lista.
+
+Les propongo el vidrio base, no lo que ustedes mismos fabrican:
+
+- Vidrio float incoloro y extra claro
+- Vidrio de baja emisividad
+- Espejo sin cobre ni plomo
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido, entregado en Veracruz, Manzanillo o el
+puerto que prefieran. Como tienen tres bodegas, el volumen puede agruparse en
+lugar de repartirse.
+
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: cuales de las tres referencias compran y
+en que espesores, las medidas que convienen a sus lineas, un volumen aproximado
+y la frecuencia de compra, y su puerto.
+
+Y si ya estan comprometidos y no hay lugar para un origen adicional, digamelo
+con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

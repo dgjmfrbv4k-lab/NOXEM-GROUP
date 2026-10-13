@@ -79,8 +79,15 @@ FORMULE = ['subject to validation on our side',
            'sous réserve de validation de notre côté',
            'bajo reserva de validacion de nuestra parte',
            'sob reserva de validacao da nossa parte']
+# Portes de sortie reconnues. Ajout du 13/10 des deux formes "je ne reecrirai
+# pas" en portugais et en espagnol : le texte 45 portait "nao voltarei a
+# escrever", qui est une porte de sortie parfaitement valable, et le controleur
+# l a comptee absente. Un garde-fou qui refuse une formulation correcte finit
+# par etre contourne, c est la lecon du §12 sur les faux positifs.
 SORTIE = ['not write again', 'no insistire', "n'insisterai pas", 'n insisterai pas',
-          'nao insistirei', 'no insistiré', 'file stays open', 'dossier reste ouvert']
+          'nao insistirei', 'no insistiré', 'file stays open', 'dossier reste ouvert',
+          'nao voltarei a escrever', 'no volvere a escribir', 'no volveré a escribir',
+          'nao voltarei a escrever-lhes']
 MORT = '+33 7 69'
 SIGNATURE = 'president - noxem group sas'
 
