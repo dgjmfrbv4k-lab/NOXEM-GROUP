@@ -3996,3 +3996,151 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 74. Glasco Corporation (Detroit, Michigan) — `frontdesk@glascocorp.com` — ANGLAIS — à envoyer le 13/10
+
+**⚠ VÉRIFIÉ :** adresse publiée sur **la page de contact de la société elle-même**, domaine identique
+à celui du site (`glascocorp.com`), donc aucune exception du §5 à noter · les pages rendues par la
+recherche restreinte parlent **toutes de verre**, donc ce n'est pas un domaine parqué · le domaine
+**ressemble au nom de la société**, donc ce n'est pas le piège de l'agence web trouvé sur Leader Mat ·
+domaine relu caractère par caractère.
+
+**⚠ CLASSE NÉGOCE, et c'est la meilleure cible américaine du lot :** ils se décrivent eux-mêmes comme
+un **entrepôt de gros de verre et de vitrage**, fournisseur **des distributeurs de verre commerciaux
+de leur zone**, avec plate glass, trempé, verre de sécurité et **miroir en 1/8 et 1/4 de pouce** au
+stock. Depuis **1947** dans le sud-est du Michigan. Un grossiste qui fournit d'autres distributeurs
+achète par volume, et le conteneur est son unité naturelle.
+
+**⚠ ARGUMENT DOUANIER AUTORISÉ PAR LE §6 et employé avec la précaution qu'il impose :** on dit que les
+deux origines les moins chères portent désormais des droits, **sans citer un taux comme une promesse de
+prix**, et sans dire que notre verre est bon marché. Et **aucune affirmation sur l'absence de
+production locale** — les États-Unis produisent leur float, c'est Vitro qui a obtenu la mesure.
+
+**⚠ RÈGLE PRODIESA :** ils trempent et fabriquent, donc le trempé et le verre de sécurité **sortent de
+l'offre**. Seul le substrat entre : float clair et extra-clair, low-E, miroir.
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France.
+
+I am writing to you rather than to a glazing contractor for a specific reason:
+you are a wholesale warehouse supplying other commercial glass distributors in
+your area, and you have been doing it since 1947. A house that supplies
+distributors buys in volume, and volume is the only thing we sell.
+
+What we would supply is substrate, not what you fabricate yourselves:
+
+- Clear and extra-clear low-iron float glass
+  https://noxemgroup.com/en/float-glass/
+- Low-E coated glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Copper-free and lead-free mirror, which matters where humidity attacks the
+  silver edge
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to the port you
+work with.
+
+One point that concerns you as a buyer and not as a supplier. Since the
+antidumping and countervailing orders published in April 2026 on imported float
+glass, the two origins that used to set the lowest landed cost on this market
+both carry duties, and European origin is named in none of those orders. I am
+not telling you our glass is cheap and I am quoting you nothing here. I am
+saying the comparison between origins is not the one it was eighteen months ago.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which of the references above you stock in
+volume and in which thicknesses, the sheet sizes your customers buy, an
+approximate volume with how often you reorder, and the port.
+
+And if your supply is settled and there is no room for another origin, say so
+plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 75. MultGlass (Belo Horizonte, Minas Gerais) — `contato@multglass.com` — PORTUGAIS — à envoyer le 13/10
+
+**⚠ VÉRIFIÉ :** adresse publiée sur **leur propre page**, domaine identique à celui du site · pages
+rendues toutes verrières, donc pas de domaine parqué · le domaine ressemble au nom · **classe négoce**,
+distributeur de verre de **22 000 m²** servant plus de **40 villes du Minas Gerais**, Distrito
+Industrial do Vale do Jatobá · téléphone (31) 3385-7272 relevé en second canal.
+
+**⚠⚠ LES DEUX INTERDITS BRÉSILIENS DU §6 SONT TENUS, ET ILS SONT FACILES À ENFREINDRE :**
+1. **AUCUNE affirmation d'absence de production locale.** Le Brésil compte au moins **quatre**
+   producteurs float — AGC, Cebrace, Guardian et Vivix, nommés par la Circular MDIC nº 36/2024. C'est
+   justement de cette production que vient le parapluie de prix.
+2. **L'argument douanier ne vaut QUE sur le float CLAIR de 1,8 à 20 mm.** La Gecex nº 833/2025 exclut
+   expressément le miroir, le réfléchissant, le teinté et le coloré dans la masse. Le texte ne nomme
+   donc la mesure **que** sur le float clair, et il ne nomme **que** la Malaisie, le Pakistan et la
+   Turquie, dont la mesure est confirmée — **pas la Chine**, dont le statut pendant la revue n'est pas
+   établi. **Et aucun taux n'est cité.**
+
+**⚠ Le site n'existe qu'en FR et EN**, donc le lien est en anglais avec sa phrase d'explication en
+portugais, comme le §8 l'impose.
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca.
+
+Escrevo para voces e nao para uma vidracaria por um motivo preciso: voces sao
+uma distribuidora, com 22 mil metros quadrados em Belo Horizonte e atendimento a
+mais de quarenta cidades de Minas Gerais. Quem vive de estoque compra por
+volume, e volume e a unica coisa que vendemos.
+
+O que fornecemos e o substrato, nao o que voces mesmos transformam:
+
+- Vidro float incolor e extra-claro (pagina em ingles, vidro float comum e de
+  baixo teor de ferro)
+  https://noxemgroup.com/en/float-glass/
+- Vidro com camada de baixa emissividade
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Espelho sem cobre e sem chumbo, util onde a umidade ataca a borda prateada
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Embarcamos em CONTEINERES COMPLETOS, em caixas de madeira tratada conforme a
+NIMF-15, em chapas jumbo de 3210 x 2550 mm ou nas medidas que voces pedirem,
+com entrega no porto de destino.
+
+Um ponto que interessa a voces como compradores e nao como fornecedores, e
+limitado ao vidro float incolor: a Resolucao Gecex no 833/2025 aplica direito
+antidumping ao float incolor originario da Malasia, do Paquistao e da Turquia, e
+a origem europeia nao esta entre as origens visadas. Nao estou dizendo que nosso
+vidro e barato, nem cotando nada aqui. Estou dizendo que a comparacao entre
+origens mudou.
+
+Podemos estabelecer uma oferta para a entrega no seu porto de destino, sujeita a
+validacao de nossa parte.
+
+Para prepara-la preciso de quatro informacoes: quais das referencias acima voces
+giram em volume e em que espessuras, as medidas de chapa que seus clientes
+compram, um volume aproximado com a frequencia de recompra, e o porto.
+
+E se o abastecimento de voces ja estiver resolvido e nao houver espaco para
+outra origem, digam com franqueza e nao insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

@@ -94,7 +94,18 @@ FORMULE = ['subject to validation on our side',
            'sujeto a validacion de nuestra parte',
            'sujeto a validación de nuestra parte',
            'sob reserva de validacao da nossa parte',
-           'sob reserva de validação da nossa parte']
+           'sob reserva de validação da nossa parte',
+           # Ajout du 13/10, troisieme fois que le vocabulaire du controleur est plus
+           # pauvre que celui des textes : le portugais naturel dit sujeita a validacao,
+           # et deux textes anterieurs a la regle l'employaient deja.
+           'sujeita a validacao da nossa parte',
+           'sujeita a validação da nossa parte',
+           'sujeita a validacao de nossa parte',
+           'sujeita a validação de nossa parte',
+           'sujeito a validacao da nossa parte',
+           'sujeito a validação da nossa parte',
+           'sujeita a validacao do nosso lado',
+           'sujeita a validação do nosso lado']
 # Portes de sortie reconnues. Ajout du 13/10 des deux formes "je ne reecrirai
 # pas" en portugais et en espagnol : le texte 45 portait "nao voltarei a
 # escrever", qui est une porte de sortie parfaitement valable, et le controleur

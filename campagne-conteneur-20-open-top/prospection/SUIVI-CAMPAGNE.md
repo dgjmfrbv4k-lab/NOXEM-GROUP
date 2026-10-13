@@ -6863,3 +6863,54 @@ absence de recherche.
 une adresse déduite. Consignés tous deux comme non utilisables.
 
 **Registre à 1163 fiches.** `A APPELER` sans téléphone : zéro, par construction.
+
+## 13/10/2026 17h05 — lot Midwest américain et Minas Gerais : 8 fiches neuves, 2 envois
+
+Deux recherches de découverte, sur deux marchés que le §6 tient pour forts : les **États-Unis**, seul
+marché où le fait douanier joue pour nous et est vérifié sur source de premier rang, et le **Brésil**,
+où la Gecex 833/2025 frappe la Malaisie, le Pakistan et la Turquie sans viser l'Europe. **Quatorze
+noms grepés un par un avant toute qualification**, six déjà au registre.
+
+**Deux envois, les deux de la classe négoce :**
+
+| Fiche | Pourquoi elle vaut un envoi | Texte |
+|---|---|---|
+| **Glasco Corporation** (Detroit, depuis 1947) | **entrepôt de gros fournissant les distributeurs de verre commerciaux de sa zone** — un grossiste qui fournit d'autres grossistes achète par volume | 74, EN |
+| **MultGlass** (Belo Horizonte) | distributeur de **22 000 m²**, plus de **40 villes** du Minas Gerais | 75, PT |
+
+Les deux adresses sont publiées par la société elle-même sur le domaine de son site, donc aucune
+exception du §5. Pages rendues toutes verrières — pas de domaine parqué. Domaines relus caractère par
+caractère.
+
+**⚠️ ET LES DEUX INTERDITS BRÉSILIENS SONT TENUS DANS LE TEXTE 75, parce qu'ils sont faciles à
+enfreindre :** aucune affirmation d'absence de production locale — le Brésil compte au moins quatre
+producteurs float — et l'argument douanier servi **uniquement sur le float clair**, la Gecex 833
+excluant le miroir, le réfléchissant, le teinté et le coloré dans la masse. **Aucun taux cité**, et
+**pas la Chine**, dont le statut pendant la revue n'est pas établi.
+
+**Deux déverrouillages faits et négatifs, et c'est un verdict, pas une absence de recherche :**
+Suprema Glass (Belo Horizonte, réseau de revendeurs, unités en Bahia) ne publie aucune adresse ;
+**Clearvue Insulating Glass** (Cleveland, gros stock de float et de miroir, service de gros) non plus —
+la seule adresse trouvée est une boîte gmail dans un **PDF de 2017** portant une **autre adresse
+postale**. Deux motifs de prudence cumulés, donc rien ne part : fiche téléphonique.
+
+**Quatre fiches créées sans qu'un seul appel de recherche soit dépensé sur elles**, et c'est délibéré :
+Rio Vidros (**première fiche du Paraná**), Real Vidros (cinq États annoncés, lesquels reste à établir),
+Torstenson Glass (métier non établi, annuaire industriel seulement) et Creative Mirror & Shower
+(classe verrier **+** pose, **zéro réponse sur onze fiches mûres**). Elles attendent que les deux
+meilleures classes soient épuisées.
+
+### ⚠️ UN LIEN DE GROUPE QUI ÉVITE UNE FAUTE SHIBAAM
+
+**Great Lakes Glass Distributors** est remontée comme candidate neuve près de Detroit. Un grep sur
+*great lakes* ne rendait rien — **parce que c'est la BRANCHE d'American Insulated Glass**, qui est au
+registre en . **Aucune fiche créée** : ce serait un deuxième message au même
+compte. Le lien est consigné dans la fiche de la maison mère, et l'adresse de la branche sert de
+secours si celle de la mère rebondit. Même leçon que Savima et Glass Alu SXM.
+
+**Et `verif-texte.py` a refusé le texte 75 pour la troisième fois du même défaut** : sa liste ne
+connaissait pas *sujeita a validação*, le portugais naturel, alors que deux textes antérieurs à la
+règle l'employaient déjà. Onze formes portugaises désormais, vérifié dans les deux sens — zéro sur le
+fichier réel, trois fautes injectées retrouvées dont un délai en anglais.
+
+**Registre à 1171 fiches. 121 messages portent un statut du 13/10**, aucun confirmé avant le 16/10.

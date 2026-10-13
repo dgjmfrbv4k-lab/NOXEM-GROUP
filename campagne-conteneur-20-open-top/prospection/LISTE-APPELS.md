@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **13/10/2026** depuis le registre. **176 societes** portent un telephone et
+Regeneree le **13/10/2026** depuis le registre. **178 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 176 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 178 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 163 societes
+## Hors Europe — 165 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Soudan du Sud | **Universal Africa Ltd** | `+211 955 070 715` | 09h00 - 17h00 | A APPELER | Se presente comme le premier facadier du Soudan du Sud, plus de trente ans d'experience au Moyen-Orient et en Afrique de l'Est. Aucune adresse email publiee : a appeler. Transit Mombasa ou Djibouti. VERIFIE LE 08/10, AUCUNE ADR... |
 | Îles Caïmans | **Cayman Glass** | `+1 345 949-5548` | 16h00 - 00h00 | A QUALIFIER | 38 Caterpillar Drive. Marche insulaire importateur. Aucune adresse email publiee : a rappeler. Port George Town. — TESTEE LE 11/10, AUCUN ENVOI, ET LE MOTIF N EST PAS L ABSENCE D ADRESSE MAIS UNE QUESTION D IDENTITE. Grep cayma... |
 | Brésil | **Fast Vidros Distribuidora** | `+55 15 3342 4260` | 14h00 - 22h00 | A QUALIFIER | FICHE CREEE ET AUSSITOT CLASSEE A QUALIFIER LE 12/10 A 18h12, ET C EST LA LECTURE DU CATALOGUE QUI A TRANCHE. Grep fastvidro et fast vidro faits avant creation, absents. FAST VIDROS DISTRIBUIDORA, Rua Antonio Aparecido Ferraz, ... |
+| Brésil | **Suprema Glass** | `+55 31 3347 2262` | 14h00 - 22h00 | A APPELER | Creee le 13/10 a 17h03. Mot distinctif grepe avant creation, suprema, absent du registre. CLASSE NEGOCE. Siege Rua Uganda 55 a Belo Horizonte, un depot Av. Vilarinho 3311, et des unites a Porto Seguro et Eunapolis en Bahia. Leu... |
 | Cameroun | **LOWA VITRERIE** | `+237 2 33 40 21 30` | 10h00 - 18h00 | A APPELER | Vitrier-negociant sur Douala. Relance 08/10 une seule question plus porte de sortie. Controle MX impossible : resolveur DNS de la session hors service. Regle anti-rebond satisfaite et adresse ayant deja recu un envoi en septemb... |
 | Cameroun | **BATALU VERRE** | `+237 6 77 40 88 50` | 10h00 - 18h00 | A APPELER | Sur Douala, premier port d'Afrique centrale. Relance 08/10 REBONDIE : 552 Requested mail action aborted mailbox not found. L adresse kometayembu@yahoo.fr est morte, retiree du champ email. A rappeler pour en obtenir une valide. |
 | Guadeloupe | **WM Guadeloupe (WMG SAS)** | `+590 974 56 05 24` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10 A 11h18 par recherche sur les negoces de materiaux antillais. Nom grepe avant creation, absent. METIER : fournisseur des professionnels du BTP depuis 2002, de la maconnerie a la MENUISERIE, portes fenetres ... |
@@ -213,6 +214,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Trinité-et-Tobago | **Caribbean Glass & Aluminium Products Ltd** | `+1 868 633 1030` | 15h00 - 23h00 | A APPELER | Adresse masquee par l'annuaire. Sert plusieurs iles. Ports Port of Spain ou Point Lisas. Complement du 08/10 : la societe a une agence a Saint-Vincent, Grenville Street a Kingstown, tel +1 784 456 1729, en plus du siege de Port... |
 | États-Unis | **Wholesale Glass Distributors Inc** | `+1 800 277 5223` | 15h00 - 23h00 | A QUALIFIER | Aucune adresse publiee. VERIFIE LE 08/10, RESULTAT NEGATIF A CONSIGNER : une recherche restreinte a leur domaine wholesaleglassdist.com ne rend AUCUN resultat, et une seconde recherche sur le nom seul n en rend pas davantage. L... |
 | États-Unis | **Signature Glass & Mirror** | `+1 305 385 6876` | 15h00 - 23h00 | A APPELER | Exportateur declare. Aucune adresse publiee dans les resultats : a appeler. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensemble des fiches verrouillees de la journe... |
+| États-Unis | **Clearvue Insulating Glass Company** | `+1 877 404 1444` | 15h00 - 23h00 | A APPELER | Creee le 13/10 a 17h03. Mot distinctif grepe avant creation, clearvue, absent. CLASSE VERRIER, la meilleure des cinq. Leur propre site annonce un GROS STOCK de float et de miroir coupe a toute dimension et un service de verre p... |
 | Îles Caïmans | **Aralco Cayman Ltd** | `+1 345 949 9385` | 16h00 - 00h00 | A APPELER | Ile sans production verriere. Aucune adresse publiee : a appeler. Port George Town. |
 | Îles Caïmans | **Dolphin Architectural Products Ltd** | `+1 345 949 4505` | 16h00 - 00h00 | A APPELER | Ile sans production verriere. Aucune adresse publiee : a appeler. Port George Town. |
 | Îles Turques-et-Caïques | **Carib Glass and Supplies Ltd** | `+1 649 946 8541` | 15h00 - 23h00 | A APPELER | Ile sans production verriere, tout arrive en conteneur. Aucune adresse publiee : a appeler. |
