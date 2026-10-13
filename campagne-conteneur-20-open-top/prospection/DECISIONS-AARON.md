@@ -1,3 +1,50 @@
+# ⏱ MARDI 13/10, 08h46 — LE MARCHÉ SUD-AFRICAIN GELÉ VAUT BEAUCOUP PLUS CHER QUE JE NE LE PENSAIS
+
+**Le gel date du 08/10 et sa raison est bonne : je ne la remets pas en cause.** PFG Building Glass,
+seul producteur float de la SACU, appartient à **PG Group**, c'est-à-dire au groupe avec qui nous
+négocions en Namibie. Prospecter les transformateurs sud-africains, c'est concurrencer PFG sur son
+marché domestique pendant qu'on demande une commande à sa maison mère. **C'est à toi de trancher, et
+ça l'est toujours.**
+
+**CE QUI EST NOUVEAU, C'EST LE PRIX DU GEL.** J'ai vérifié ce matin la carte douanière sud-africaine,
+que nous n'avions jamais regardée. **Toutes les mesures ci-dessous ont été demandées par PFG :**
+- **Arabie saoudite et Émirats** : 10 à 45 %, **maintenus** en revue d'extinction, rapport de mai 2026
+- **Égypte** : maintien recommandé, commentaires au 28/08/2026
+- **Indonésie** : droits en vigueur
+- **Tanzanie** : provisoires depuis janvier 2026
+- **Malaisie** : provisoires proposées à 25,31 %
+- **Chine et Inde** : prorogation demandée en mars 2026
+- plus une enquête de **contournement** sur le transit saoudien et émirati via l'Égypte
+
+**AUCUNE PROCÉDURE CONTRE L'EUROPE.**
+
+**AUTREMENT DIT : L'AFRIQUE DU SUD A EXACTEMENT LA STRUCTURE QUI FAIT DES ÉTATS-UNIS ET DU BRÉSIL NOS
+DEUX MEILLEURS MARCHÉS** — un producteur domestique qui tient le prix haut en faisant taxer toutes les
+origines à bas coût, et nous qui ne sommes frappés par aucune. **À une différence près, et elle est
+ironique : ici le producteur qui tient le parapluie est notre propre interlocuteur.**
+
+**CE QUI EST GELÉ, EN CHIFFRES : 13 fiches actives**, dont **McCoy's Glass Wholesale**, qui se présente
+comme le **plus gros grossiste indépendant de verre de bâtiment d'Afrique**, vend par conteneurs
+complets, exporte vers plusieurs pays africains et dont l'interlocuteur est vérifié — Michael Robinson,
+National Sales Manager. Et huit de ces fiches ont déjà une adresse e-mail valide.
+
+**⚠️ DEUX RÉSERVES QUE JE NE CACHE PAS.** Un, mes sources sont **secondaires** — presse spécialisée et
+titres de rapports ITAC — et le §6 interdit d'affirmer qu'un pays taxe une origine sans avoir lu sa
+source. Deux, **on ne sait toujours pas ce que NOUS paierions** à l'entrée en SACU, ni si l'accord
+UE-SADC nous donne une préférence : savoir que nos concurrents paient ne dit pas ce que coûte notre
+propre conteneur. C'est la question du §7, toujours ouverte, et elle se pose à un transitaire.
+
+**MA RECOMMANDATION, et elle est prudente :**
+1. **Ne pas lever le gel en bloc.** Le risque sur la négociation Willem Heunis est réel.
+2. **Mais trancher un cas : McCoy's.** C'est un **grossiste indépendant qui exporte vers l'Afrique
+   australe**, donc pas un simple client domestique de PFG — et ce qu'il nous achèterait partirait
+   en bonne partie **hors** du marché que PFG protège. Si un seul dossier mérite l'exception, c'est
+   celui-là.
+3. **Et poser la question SACU au transitaire en même temps que celle des DOM**, puisque les deux
+   bloquent chacune une quinzaine de fiches.
+
+---
+
 # ⏱ MARDI 13/10, 08h39 — LA PREMIERE REPONSE DE LA CAMPAGNE N'A JAMAIS ETE RELANCEE, DEPUIS DIX-HUIT JOURS
 
 **Trouvé ce matin en passant au crible les fiches qui ont une adresse et n'ont jamais été

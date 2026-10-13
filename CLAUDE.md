@@ -709,8 +709,42 @@ droits et l'Europe non, l'argument américain se transpose.
     2021. Sans objet puisque le marché est hors de portée de toute façon.
   · **Et ce 374 $/t est le premier repère de prix concret de toute la campagne** : il dit à quel
     niveau le float asiatique se pose dans un marché concurrentiel. À verser au dossier de prix.
-- **Corée, Afrique du Sud** : cités par la résolution mexicaine, aucune source directe lue.
-  La Corée est de toute façon exclue au titre des concurrents.
+- **AFRIQUE DU SUD / SACU : VÉRIFIÉ LE 13/10, ET C'EST LA MÊME STRUCTURE QU'AUX ÉTATS-UNIS ET AU
+  BRÉSIL — un parapluie de prix tenu par le producteur domestique, toutes les origines à bas coût
+  frappées, et l'Europe visée par aucune.** Le §6 ne citait l'Afrique du Sud que de seconde main,
+  d'après la résolution mexicaine. Les mesures de l'ITAC, toutes demandées par **PFG Building Glass** :
+  · **Arabie saoudite et Émirats** : droits de **10 à 45 %**, **MAINTENUS** au terme d'une revue
+    d'extinction, rapport de **mai 2026** — l'expiration entraînerait selon l'ITAC la continuation du
+    dumping et du préjudice ;
+  · **Égypte** : revue d'extinction conclue, l'ITAC recommande de **maintenir** les droits, appel à
+    commentaires le **28/08/2026** ;
+  · **Indonésie** : droits en vigueur, avis 2237 de 2023 ;
+  · **Tanzanie** : mesures provisoires six mois, enquête ouverte par l'avis 3263 du 06/06/2025 ;
+  · **Malaisie** : enquête ouverte le 19/03/2021, provisoires proposées à **25,31 %** ;
+  · **Chine et Inde** : prorogation demandée en mars 2026 ;
+  · et une enquête de **contournement** de 2019 sur le transit saoudien et émirati **via l'Égypte**.
+  **AUCUNE PROCÉDURE CONTRE L'UNION EUROPÉENNE n'a été trouvée.**
+  **⚠️ DEUX RÉSERVES QUI INTERDISENT D'EN FAIRE UN ARGUMENT ÉCRIT POUR L'INSTANT.** Un, ce sont des
+  **sources secondaires** — presse spécialisée et titres de rapports ITAC — et le §6 impose d'avoir lu
+  la source du pays avant d'affirmer qu'il taxe une origine. Deux, et c'est le plus gênant, **le droit
+  applicable au verre européen entrant en SACU et la préférence éventuelle de l'accord UE-SADC restent
+  inconnus** (§7) : savoir que nos concurrents paient ne dit pas ce que NOUS paierions.
+  **ET LE MARCHÉ EST DE TOUTE FAÇON GELÉ**, pour une raison commerciale et non douanière : PFG
+  appartient à **PG Group**, avec qui nous négocions. Voir le §7 et `DECISIONS-AARON.md`.
+- **AUSTRALIE — PISTE OUVERTE LE 13/10, NON CONFIRMÉE, ET ELLE VAUT D'ÊTRE TRANCHÉE.** Le §6 note que
+  l'effondrement d'Oceania Glass a été attribué en partie au **retard de la commission anti-dumping à
+  rétablir des droits suspendus pendant la pandémie** — ce qui suppose des droits. Trouvé : l'affaire
+  **575** de l'Anti-Dumping Commission porte sur le **float clair de Chine, d'Indonésie et de
+  Thaïlande**, et une étude indonésienne indique que l'Australie a **prorogé** les droits sur le float
+  indonésien en **2016 puis en 2021**, l'imposition courante **expirant en 2026**. **Ni la prorogation
+  ni l'expiration ne sont confirmées, et la Malaisie n'apparaît pas.**
+  **Pourquoi cela compte : si ces droits tiennent, l'Australie cumule les DEUX arguments les plus forts
+  de la campagne** — plus aucune ligne float nationale, et les origines asiatiques frappées. **Ce serait
+  le meilleur marché de la campagne après les États-Unis.** À lire sur le registre de l'Anti-Dumping
+  Commission ou le Federal Register of Legislation, qui ne sont pas atteignables d'ici. **Jusque-là,
+  rien n'en est écrit à un prospect australien.**
+- **Corée** : citée par la résolution mexicaine, aucune source directe lue.
+  Elle est de toute façon exclue au titre des concurrents.
 - **PÉROU : CHERCHÉ LE 11/10 À 22h38, ET LA RÉPONSE EST NÉGATIVE — ce qui classe le marché.**
   Recherche faite sur les mesures d'Indecopi : **aucune mesure antidumping sur le verre plat ou le
   float chinois n'a été trouvée.** Et l'absence est significative, pas seulement non concluante :
