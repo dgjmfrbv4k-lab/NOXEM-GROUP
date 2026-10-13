@@ -2821,3 +2821,64 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 54. Glass City General Trading FZ-LLC (Ramadi / Dubaï) — `info@glasscityco.com` — ANGLAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** adresse publiee sur leur propre page de contact, domaine du site · **negociant et non
+transformateur**, donc acheteur de feuille — toute la gamme peut etre proposee, aucune reference ne
+sort au titre de la regle Prodiesa · **le PORT est DEMANDE et non suppose**, la fiche portait Erbil et
+leur page donne Ramadi, et le siege est a Dubai · **⚠️ INTERDIT DU §6 : rien sur l absence de
+production float aux Emirats**, Emirates Float Glass fait 600 t/jour depuis 2009 · ne pas confondre
+avec Glass City USA, societe sans rapport · aucun prix, formule imposee.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because you trade glass rather than fabricate it. A trader
+buys by the container, clears it, and judges an origin on what it costs landed
+and whether it arrives when it was promised. That is a straightforward
+conversation to have, and it is the one I am proposing.
+
+What we ship:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Solar control glass
+- Copper-free and lead-free mirror
+- Lacquered glass
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to the sizes your customers ask for.
+
+One practical question before anything else, because I would rather ask than
+assume: which port do you want quoted? You are registered in Dubai and
+operating in Iraq, so Umm Qasr and Jebel Ali are not the same offer, and the
+answer changes the figure.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+Beyond the port, I need four things to prepare it: which of the references
+above you move in volume and in which thicknesses, the sizes your customers
+buy, an approximate volume and buying frequency, and whether you want the glass
+in jumbo or cut.
+
+And if your origins are settled and there is no room for another, say so
+plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

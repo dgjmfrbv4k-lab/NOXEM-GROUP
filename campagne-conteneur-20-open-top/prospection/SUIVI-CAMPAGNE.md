@@ -1,5 +1,49 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 10h03 (13/10) — LOT DE DEVERROUILLAGE DU LEVANT, ET TROIS DECISIONS DE NE PAS CREER
+
+**Conduit sur une consequence directe de l'analyse de ce matin** : les marches que je deprioritisais
+rendent 8,6 % de reponses contre 1,9 % pour les marches dits forts, donc les candidats au
+deverrouillage du Proche-Orient et du Maghreb valent **plus** que je ne l'avais juge en ouvrant la
+journee, et non moins. Sept fiches travaillees, chacune grepee sur son mot distinctif avant d'etre
+ouverte.
+
+**TROIS DEVERROUILLEES, toutes en file pour le 14/10 :** Hijazi Glass Contracting (Liban),
+Glassline Industries (usine du Liban, siege Emirats) et Glass City General Trading (Ramadi et Dubai).
+Textes 52, 53 et 54 rediges et controles, zero defaut.
+
+**DEUX RENVOYEES AU TELEPHONE :** Delta Al Salam a Bassorah, sans adresse publiee **et** avec une
+reserve de metier — leur site parle d'aluminium, de PVC et de machines quand la fiche disait verre.
+Et Koutetac a Tanger, rangee sous la categorie *verre trempe* d'un annuaire alors que son activite
+declaree est la **menuiserie metallique** : une entree de categorie d'annuaire n'est pas une activite,
+c'est la lecon SEVAM.
+
+**UNE FERMEE PAR SON PROPRE DEVERROUILLAGE — Larchimic, Casablanca.** L'adresse a ete trouvee, et
+c'est elle qui ferme la fiche : leur site montre qu'ils distribuent le **film EVA**, les intercalaires
+**Profilglass** et les mastics **Tremco**. Des consommables et des composants, pas de la feuille.
+C'est le cas Fast Vidros. **Observation gardee pour plus tard, parce qu'elle vaut quelque chose :** une
+maison qui fournit l'intercalaire et le mastic de toute la filiere marocaine **connait tous les
+fabricants de double vitrage du pays**. Ce n'est pas un prospect, c'est une carte du marche.
+
+**UNE QUI NE SE RESOUT PAS — Metal Tanger.** Aucun site, aucune adresse, aucun telephone sous ce nom :
+c'est vraisemblablement un libelle d'annuaire et non une raison sociale. **Et un nom voisin a ne pas
+confondre**, Metal Commerce SARL Tanger, qui existe bel et bien. On ne fusionne pas sur une
+presomption, et l'appel n'aura que cet objet.
+
+### ⚠️ ET TROIS DECISIONS DE NE PAS CREER DE FICHE, consignees pour qu'elles ne soient pas refaites
+
+La recherche de Tanger a ouvert une veine marocaine par accident et a rendu **Aluxe**,
+**Decoupe-i-Tech** et **AdkeyAlu**, dont deux publient une adresse sur leur propre domaine — donc le
+§5 serait satisfait. **Elles ne sont pas creees, et c'est un choix et non un oubli :** ce sont des
+poseurs et un atelier de parois de douche, pas des acheteurs de conteneur, et le Maroc compte deja une
+vingtaine de fiches dont la plupart sont des miroiteries. Creer trois fiches de plus gonflerait le
+registre sans ajouter un seul acheteur. **Metal Commerce** reste la seule du lot qui vaudrait un appel,
+pour sa taille.
+
+**Et le grep a fait son travail une fois de plus :** **El Wifaq Verre**, qui remontait en tete comme
+*fournisseur verre Maroc*, est au registre et **contactee depuis le 09/10**. Sans le grep c'etait un
+second message.
+
 ## 09h54 (13/10) — LE TAUX DE REPONSE DE LA CAMPAGNE EST DE 6.7 POUR CENT ET NON DE 2.2, ET LA DIFFERENCE N'EST PAS UN DETAIL
 
 **Analyse faite au titre du point 5 du §2, qui n'avait jamais ete faite systematiquement. Tous les
