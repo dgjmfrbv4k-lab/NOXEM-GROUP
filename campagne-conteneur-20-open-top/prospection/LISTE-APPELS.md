@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **13/10/2026** depuis le registre. **170 societes** portent un telephone et
+Regeneree le **13/10/2026** depuis le registre. **171 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 170 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 171 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 158 societes
+## Hors Europe — 159 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Jamaïque | **D & S Glass & Mirror Supplies Ltd** | `+1 876 978 2659` | 16h00 - 00h00 | A APPELER | 63 Old Hope Road. Negociant verre et miroir. Aucune adresse publiee : a appeler. |
 | Martinique | **Martinique Materiaux — Gedimat Martinique** | `+596 596 57 41 41` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 10h18 LE 13/10 SUR CONSIGNE DE KEVIN DE CONCENTRER LA PROSPECTION SUR LES DOM. Noms grepes avant creation, martinique materiaux et gedimat, tous deux absents. ⚠️ POURQUOI CETTE FICHE EST DE LA BONNE CLASSE, ET C ... |
 | Martinique | **Marquibat — Martiniquaise de Quincaillerie Batiment** | `+596 596 50 74 73` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 13/10 A 10h21 dans le lot DOM. Nom grepe avant creation, absent. GROSSISTE, donc la bonne classe de metier — mais une RESERVE A LEVER AVANT TOUT ENVOI : les sources la decrivent comme grossiste en QUINCAILLERIE e... |
+| Martinique | **Diamant Verre** | `+596 696 433 209` | 15h00 - 23h00 | A QUALIFIER | FICHE CREEE LE 13/10 A 12h11 PENDANT LE PIVOT OUTRE-MER, EN TERRITOIRE PRIORITAIRE. Nom grepe avant creation, diamant verre, ABSENT du registre - les deux correspondances du mot diamant sont Aluminios Diamante en Angola et El D... |
 | Suriname | **Xin Li Glashandel** | `+597 401 318` | 14h00 - 22h00 | A APPELER | Van t Hogerhuysstraat 15 Beekhuizen Paramaribo. Aucune adresse email publiee : a appeler |
 | Îles Salomon | **Tropic Glass & Aluminium Ltd (Nulook Solomon Islands)** | `+677 30836` | 00h00 - 08h00 | A APPELER | Ranadi Industrial Estate Honiara. Licencie de la marque neo-zelandaise Nulook. Adresse email masquee sur l'annuaire : a appeler FUSION DU 08/10 : une seconde fiche existait pour la meme societe, meme telephone +677 30836, elle ... |
 | Algérie | **Vitre Khezzane** | `038 57 60 22` | 10h00 - 18h00 · **dim-jeu** | A APPELER | FICHE CREEE LE 08/10 A 17h15 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre, y compris sur le champ societe seul apres un faux positif de sous-chaine, absent. Site propre vitrekhezzane.com. ME... |

@@ -3237,3 +3237,70 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 61. PIECESMENUISERIE COM (16 rue Claude Chappé, Le Port — La Réunion) — `mjy974@yahoo.fr` — FRANÇAIS — à envoyer le 14/10
+
+**⚠ VERIFIE :** adresse publiée dans les **mentions légales de leur propre site**, donc
+**exception du §5 : le domaine de l'adresse est `yahoo.fr` et diffère de celui du site** — c'est la
+société elle-même qui la publie, condition remplie, et c'est noté dans la fiche · **métier établi
+AVANT d'ouvrir la fiche** : ils **revendent déjà du vitrage** — feuilleté clair, bronze, imprimé et
+opale, et double vitrage clair — donc verre PLAT, aucun des mots du test du §5, classe **négoce**
+(10,0 % de réponses à la mesure du 13/10) · **règle Prodiesa** : ils ne fabriquent rien, ils
+revéndent, donc **rien ne sort de l'offre** — c'est le cas le plus simple · **⚠⚠ INTERDIT ABSOLU DU
+§6 : AUCUN mot sur l'octroi de mer ni la fiscalité à l'entrée** · **aucune marque n'est nommée**, ni
+la leur ni la nôtre ni celle d'un concurrent — règle Kevin du 12/10 · port Pointe-des-Galets · aucun
+prix, aucun délai, formule imposée · porte de sortie · signature une seule fois · **envoi le 14/10 au
+matin heure de Paris**, La Réunion étant à UTC+4 : 7h à Paris font 11h chez eux.
+
+**L'ANGLE, et il est le plus direct de tout le bloc outre-mer :** ils annoncent sur leur site du
+feuilleté en quatre teintes et du double vitrage. **Une boutique qui vend du vitrage ne le fabrique
+pas — elle l'achète.** Il n'y a donc rien à leur expliquer sur le produit : la seule question est
+chez qui ils l'achètent et à quelles conditions. **Le message ne vend pas le verre, il propose une
+origine.**
+
+```
+Bonjour,
+
+C'est une offre de fourniture, pas une demande de devis.
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat pres de Lyon.
+
+Vous vendez du vitrage feuillete en clair, bronze, imprime et opale, et du
+double vitrage clair, a cote de vos pieces de menuiserie. C'est pour cela que je
+vous ecris plutot qu'a un poseur : vous ne fabriquez pas ce verre, vous
+l'achetez, donc je n'ai rien a vous apprendre sur le produit. La seule question
+qui vaut est celle de l'origine et des conditions.
+
+Ce que nous expedions :
+
+- Verre float clair et extra-clair
+- Verre feuillete
+- Miroir sans cuivre ni plomb
+- Verre laque
+- Verre a faible emissivite
+- Verre trempe
+
+Nous expedions en CONTENEUR COMPLET, en caisses bois traitees NIMP-15, en jumbo
+de 3210 x 2550 mm ou aux cotes demandees, livre au port de Pointe-des-Galets.
+
+Nous pouvons etablir une offre pour la livraison a votre port de destination,
+sous reserve de validation de notre cote.
+
+Pour chiffrer, il me faut quatre choses : les references et les epaisseurs que
+vous tournez le plus, les formats qui conviennent a votre depot et a votre
+decoupe, un volume approximatif avec la frequence, et confirmation du port.
+
+Et si vous etes engages avec votre fournisseur actuel et que cela vous convient,
+dites-le-moi franchement : c'est une reponse utile et je n'insisterai pas.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
