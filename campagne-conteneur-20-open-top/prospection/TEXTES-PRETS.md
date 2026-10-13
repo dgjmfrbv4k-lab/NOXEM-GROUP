@@ -2581,3 +2581,69 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 50. Cork Glass Centre (Kinsale Business Park) — `eric@corkglass.ie` — ANGLAIS — ⛔ **NE PAS ENVOYER, ATTEND L'ACCORD DE KEVIN**
+
+**⛔ POURQUOI CE TEXTE N'EST PAS PARTI AVEC LES AUTRES.** C'est l'écriture à un prospect **qui a
+répondu**, et le §5 l'interdit sans accord : « je prépare le texte, je le consigne dans la fiche, et
+j'attends ». Il est prêt, il part sur un mot de Kevin.
+
+**⚠️ CE QUE CE DOSSIER EST, et c'est le plus ancien oubli trouvé aujourd'hui.** Cork Glass Centre a
+donné **la toute première réponse de la campagne, le 25/09** : Emma a accusé réception et renvoyé les
+commandes vers `eric@corkglass.ie`, en nommant elle-même le bon interlocuteur. La fiche porte
+« relancer Eric directement » — **et personne ne l'a fait depuis dix-huit jours.**
+
+**⚠️ RÉSERVE QUE JE NE PEUX PAS LEVER D'ICI, et elle doit être dite avant tout envoi.** Le fil est né
+le 25/09, donc dans l'ancienne boîte `harfiaaron0@gmail.com`, qui n'est pas connectée à cette session.
+Une recherche sur `corkglass.ie` dans la boîte Workspace ne rend **rien du tout**. Je ne peux donc
+vérifier ni le texte exact d'Emma, ni surtout **qu'Aaron n'a pas déjà écrit à Eric de son côté** —
+c'est exactement le cas United Glass du §13. **À confirmer avant l'envoi.**
+
+**Ce qui est vérifié :** Eric est nommé par la société elle-même comme le destinataire des commandes,
+donc sa fonction est établie et pertinente, et le §5 autorise à le nommer · Irlande = Europe, donc
+pas de prospection neuve, mais c'est une fiche **déjà contactée et ayant répondu**, ce que le §6
+autorise expressément · port de Cork · aucun prix, formule imposée, signature une seule fois.
+
+**Objet :** `Following up on Emma's reply - flat glass by the container, Cork`
+
+```
+Dear Eric,
+
+Emma replied to us on 25 September and pointed us to you for purchasing. I am
+following that up, later than I should have.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. I will not repeat the whole of the first
+message. The short version is that we ship flat glass in full containers,
+packed in ISPM-15 heat-treated wooden crates, in jumbo sheets of
+3210 x 2550 mm or cut to your sizes, delivered to Cork.
+
+What we can supply:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Copper-free and lead-free mirror
+- Lacquered glass
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+One question is enough to start: which references and thicknesses do you buy in
+the largest quantity over a year, and in what sizes? If it is easier, tell me
+what you are paying attention to at the moment - continuity of supply, lead
+times, a particular reference that is hard to get - and I will answer that
+instead.
+
+And if the timing is wrong or you are committed elsewhere, say so plainly and I
+will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

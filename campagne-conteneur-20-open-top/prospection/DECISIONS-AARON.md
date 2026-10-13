@@ -1,3 +1,43 @@
+# ⏱ MARDI 13/10, 08h39 — LA PREMIERE REPONSE DE LA CAMPAGNE N'A JAMAIS ETE RELANCEE, DEPUIS DIX-HUIT JOURS
+
+**Trouvé ce matin en passant au crible les fiches qui ont une adresse et n'ont jamais été
+recontactées. Ce n'est pas une piste, c'est un oubli, et il est à moi.**
+
+**LES FAITS.**
+- **Cork Glass Centre**, Kinsale Business Park, Irlande, port de Cork.
+- **Le 25/09, ils ont répondu. C'est la toute première réponse de la campagne.** Emma a accusé
+  réception et a renvoyé les commandes vers **`eric@corkglass.ie`**, en nommant elle-même le bon
+  interlocuteur — ce qui est exactement ce qu'on cherche à obtenir.
+- La fiche porte depuis cette date, noir sur blanc, « relancer Eric directement ».
+- **Personne ne l'a fait.** La fiche est restée en `A RELANCER — REPONSE RECUE` pendant dix-huit
+  jours, pendant qu'on envoyait des centaines de premiers contacts à des sociétés qui, elles,
+  n'avaient rien demandé.
+
+**POURQUOI ELLE EST PASSÉE ENTRE LES MAILLES, et c'est un défaut d'outillage, pas seulement
+d'attention :** son statut ne commence ni par `ENVOYE` ni par `RELANCE`, donc **aucune cohorte de
+relance ne la ramasse**, et elle n'apparaît dans aucun comptage d'échéances. Elle n'était visible que
+d'un balayage qu'on ne faisait pas.
+
+**⚠️ CE QUE JE NE PEUX PAS VÉRIFIER D'ICI, ET IL FAUT LE LEVER AVANT D'ENVOYER.** Le fil est né le
+25/09, donc dans l'ancienne boîte `harfiaaron0@gmail.com`, qui n'est pas connectée à cette session.
+Une recherche sur `corkglass.ie` dans la boîte Workspace **ne rend rien du tout**. Je ne peux donc
+pas confirmer qu'Aaron n'a pas déjà écrit à Eric de son côté — **c'est exactement le cas United Glass
+du §13**, où sa proposition n'apparaissait pas davantage.
+
+**CE QUE J'AI FAIT, ET CE QUE JE N'AI PAS FAIT.** Le texte est **rédigé et prêt**, c'est le **texte 50
+de `TEXTES-PRETS.md`** : il part d'Emma, ne re-sert pas l'argumentaire, pose une seule question et
+offre une porte de sortie. **Il n'est pas parti, et il ne partira pas sans un mot de Kevin** — le §5
+l'interdit, c'est la leçon de John et celle du STADIP.
+
+**CE QUE JE DEMANDE, EN DEUX LIGNES :**
+1. **Est-ce qu'Aaron a déjà écrit à Eric depuis le 25/09 ?** Si oui, je ne touche à rien et je mets la
+   fiche à jour.
+2. **Si non : j'envoie le texte 50 ?** C'est le dossier le plus mûr du registre après les quatre
+   demandes de prix ouvertes — un prospect qui a répondu spontanément et qui a donné le nom de son
+   acheteur.
+
+---
+
 # ⏱ LUNDI 12/10, 11h30 — LA SEULE DECISION QUI CHANGE LE CHIFFRE N'EST PLUS UN ENVOI
 
 ## ⚠️ 16h41 (12/10) — LE CATALOGUE PDF EST DEMANDE PAR UN PROSPECT ET NOUS NE POUVONS PAS L ENVOYER
