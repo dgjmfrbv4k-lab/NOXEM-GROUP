@@ -1830,6 +1830,23 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   la condition mécanique — « le domaine apparaît dans les URL de résultats » — et ne satisfait rien du
   tout. **Le contrôle à ajouter est d'une seconde : les pages rendues parlent-elles de verre ?** Si
   elles parlent d'autre chose, le domaine n'est pas le leur, quel que soit le nombre de résultats.
+
+  **PIÈGE DE LA MÊME FAMILLE, TROUVÉ LE 13/10 À 12h15, ET CELUI-LÀ PASSE LA RÈGLE ANTI-REBOND EN
+  APPARENCE PARFAITE : L'ADRESSE RENDUE EST CELLE DE L'AGENCE WEB.** Cas réel : **Leader Mat**
+  (Guadeloupe). La recherche restreinte à `leader-mat.com` rend bien une adresse e-mail —
+  `contact@sybaxis.com` — **sur le bon domaine de résultats**, donc la condition du §5 est remplie
+  mécaniquement. Et elle est fausse deux fois : l'adresse apparaît dans le **code embarqué** de la page
+  et non comme une coordonnée affichée, et **sybaxis est le prestataire qui a fait le site**, pas la
+  société. **L'employer aurait envoyé notre approche commerciale au prestataire informatique du
+  prospect** — qui l'aurait au mieux jetée, au pire transmise en disant qu'un fournisseur écrit n'importe
+  où.
+  **CE QUE CELA AJOUTE AU CONTRÔLE, et c'est une seconde de plus :** une adresse ne se retient que si
+  **le nom de domaine de l'adresse est celui de la société ou d'une boîte qu'elle publie en clair**. Un
+  domaine tiers inconnu dans une adresse trouvée sur le bon site est **le site de quelqu'un d'autre** :
+  agence web, hébergeur, plateforme de formulaire, service de chat. **Le test rapide : est-ce que ce
+  domaine ressemble au nom de la société ? Si non, et si la page ne dit pas pourquoi, on ne la retient
+  pas.** À distinguer de l'exception légitime du §5 — une société qui publie une boîte `gmail` ou le
+  domaine d'une société sœur **sur sa propre page de contact**, ce qui s'emploie et se note.
   **SEPTIÈME SIGNATURE, TROUVÉE LE 13/10, ET ELLE EST PIRE QU'UNE ADRESSE MORTE PARCE QU'ELLE N'EST
   PAS SILENCIEUSE : LE DOMAINE A ÉTÉ REPRIS PAR UN TIERS.** Cas réel : **Vicar — Vidros e Espelhos**
   (Portugal). La recherche restreinte à `vicar.pt` rend bien `geral@vicar.pt` et le 219 552 548, lus
