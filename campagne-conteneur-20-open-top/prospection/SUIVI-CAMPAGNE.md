@@ -1,5 +1,58 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 08h49 (13/10) — MATINEE : 97 ENVOIS PARTIS, ET LA DECOUVERTE LARGE MONTRE SES LIMITES
+
+**ENVOIS DU JOUR, chiffres substitues depuis le registre.** 95 relances et 2 premiers
+contacts partis. 15 envois restent programmes pour cet apres-midi — ce sont les Ameriques, dont
+les bureaux ouvrent entre 14h et 16h heure de Paris — et 4 sont deja prets pour demain.
+Expediteur verifie dans `in:sent` avant chaque vague, conforme. Aucun envoi n'est compte confirme
+avant le **16/10**, la fenetre du §13 etant de 72 heures.
+
+**LA MESURE DE LA MATINEE, ET ELLE DEPLACE L'EFFORT.** Dix recherches de decouverte sur quatre zones.
+Chaque nom grepe un par un : **11 deja au registre sur 13 en Australasie, 18 sur 22 au Bresil-Mexique-
+Colombie, 15 sur 19 aux Etats-Unis, 8 sur 9 au Canada.** Rendement net : **10 fiches creees**,
+registre a **1137**. Cela ne dit pas que le marche est epuise, cela dit que **la couche facilement
+trouvable par un moteur l'est** — et pendant ce temps **aucun appel n'a jamais ete passe** sur 143
+fiches qui portent un numero.
+
+**CINQ APPELS DE RECHERCHE PERDUS, ET C'EST A MOI.** Davis Glass, Univers du Verre, Crone, Tempera
+Primos et Vitral Vidros Planos ont ete recherchees alors que **leur note portait deja la reponse**.
+La cause n'est pas l'etourderie mais le **filtre** : je selectionnais sur le statut et sur un marqueur
+en majuscules, quand le registre consigne son verdict **en prose**. C'est la lecon Staklo Bakar prise
+par l'autre bout. Remede ecrit en script et non en resolution —
+`outils/candidats-deverrouillage.py` — puisque la resolution de lire la note est precisement ce que
+j'ai manque deux fois dans la meme matinee. **185 fiches ecartees, 147 a travailler.**
+
+**NEUF ADRESSES MORTES RETIREES DU CHAMP MAIL.** Elles ressortaient parmi les fiches *avec adresse et
+jamais contactees*, c'est-a-dire parmi les candidates a l'envoi, alors que leur echec etait documente
+dans leur propre note. C'est le defaut qu'Univers du Verre avait etabli le 09/10 sans qu'il soit
+applique ailleurs. Trois fiches en sont volontairement **exclues** parce que leur adresse n'est pas
+invalide : Alawadhi, dont le `5.7.1` est un verdict de filtrage sur une boite qui existe, et Alfa Star
+et Conciera, dont le traitement est de trouver une **autre** boite.
+
+**TROIS PIEGES DE DOMAINE VOISIN DANS LA MEME MATINEE**, ce qui en fait une regularite et non un
+accident : `bodevidrio.com` contre `bode-vidrio.com`, `marylandglass.com` contre `mdglass.net`,
+`awgnortherndistribution.com` contre `awgnd.com`. Les trois adresses sont publiees par la societe
+elle-meme, donc l'exception du §5 s'applique et elle est notee dans chaque fiche.
+**Et une septieme signature de rebond, pire que les six autres parce qu'elle ne fait aucun bruit :**
+le domaine `vicar.pt` a ete **repris par un tiers** qui y vend des bracelets de montre. Un domaine
+mort fait rebondir ; un domaine repris fait **livrer** — a un inconnu.
+
+**DEUX DOSSIERS REMONTENT A KEVIN, ET LE PREMIER EST UN OUBLI DE DIX-HUIT JOURS.**
+· **Cork Glass Centre** a donne **la toute premiere reponse de la campagne, le 25/09** : Emma
+  renvoyait les commandes vers un acheteur nomme. Personne ne l'a relancee. Son statut ne commencant
+  ni par `ENVOYE` ni par `RELANCE`, **aucune cohorte ne la ramassait**. Texte 50 pret, **non envoye**
+  — le §5 l'interdit. Reserve dite : le fil est ne dans l'ancienne boite et je ne peux pas verifier
+  d'ici qu'Aaron n'a pas deja ecrit.
+· **Afrique du Sud** : le gel du 08/10 tient, mais il est desormais **chiffre**. Toutes les mesures de
+  l'ITAC — Arabie saoudite et Emirats maintenus en mai 2026, Egypte en aout, Indonesie, Tanzanie,
+  Malaisie, Chine et Inde en prorogation — ont ete demandees par PFG, et **aucune ne vise l'Europe**.
+  C'est la structure des Etats-Unis et du Bresil, a une ironie pres : le producteur qui tient le
+  parapluie est notre propre interlocuteur. **Treize fiches gelees.**
+
+**DEMAIN :** la cohorte `ENVOYE 2026-10-08` arrive a echeance, **28 premieres relances**, plus les
+4 envois deja programmes. Le vivier de relances se suffit a lui-meme pour deux jours.
+
 ## 18h14 (12/10) — LE CONTROLEUR DE TEXTES APPREND LA DIFFERENCE ENTRE INTERDIT ET CONDITIONNEL
 
 Texte 41 ecrit pour **Garante Vidros**, en portugais — le dernier des 11 envois programmes au 13/10.
