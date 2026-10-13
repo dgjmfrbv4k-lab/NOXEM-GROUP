@@ -3006,3 +3006,66 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 57. Cottrell (ZI Jambette, Le Lamentin — Martinique) — `contact@cottrell-martinique.fr` — FRANÇAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** adresse publiee sur leur propre site, domaine du site, §5 satisfait sans exception ·
+**negociant** et non transformateur, donc **aucune reference ne sort** au titre de la regle Prodiesa ·
+leur etablissement de Dillon est classe au registre comme vendant deja du **verre en petites
+quantites**, donc le verre est dans leur gamme · six points de vente = argument du volume groupe ·
+**⚠️⚠️ INTERDIT ABSOLU DU §6 : AUCUN mot ni allusion sur l octroi de mer ou la fiscalite a l entree**,
+le taux du chapitre 70 n est pas etabli et l exoneration des intrants reste une question ouverte ·
+ne pas confondre avec **Joseph Cottrell**, groupe Herige, entite probablement distincte · aucun prix,
+aucun delai, formule imposee.
+
+```
+Bonjour,
+
+Je me permets de vous ecrire directement : c'est une offre de fourniture, pas une
+demande de devis. Si vous n'etes pas la personne qui achete le verre, je vous
+serais reconnaissant de lui transmettre.
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat pres de Lyon.
+
+Je vous ecris parce que vous etes negociant et que vous avez six points de vente
+en Martinique. Deux choses en decoulent, et ce sont les seules qui m'interessent.
+La premiere, c'est que votre etablissement de Dillon vend deja du verre : la
+question n'est donc pas de savoir si le verre a sa place chez vous, elle est de
+savoir a quelle quantite vous l'achetez. La seconde, c'est qu'un conteneur
+complet reparti entre six depots n'oblige personne a tout stocker sur un seul
+site - c'est precisement ce qui rend le conteneur praticable pour un reseau et
+pas pour un atelier isole.
+
+Ce que nous expedions :
+
+- Verre float clair et extra-clair
+- Verre a faible emissivite
+- Miroir sans cuivre ni plomb
+- Verre laque
+- Verre trempe
+
+Nous expedions en CONTENEUR COMPLET, en caisses bois traitees NIMP-15, en jumbo
+de 3210 x 2550 mm ou aux cotes que vous demandez, livre au port de Fort-de-France.
+
+Nous pouvons etablir une offre pour la livraison a votre port de destination,
+sous reserve de validation de notre cote.
+
+Pour la preparer, il me faut quatre choses : les references et les epaisseurs que
+vous vendez le plus sur l'annee, les formats qui conviennent a vos depots, un
+volume approximatif et la frequence d'achat, et le port que vous voulez voir
+chiffre.
+
+Et si votre approvisionnement est verrouille et qu'il n'y a pas de place pour une
+origine supplementaire, dites-le-moi franchement et je n'insisterai pas.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

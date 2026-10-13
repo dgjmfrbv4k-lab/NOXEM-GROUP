@@ -1,5 +1,70 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 10h22 (13/10) — BASCULE SUR LES DOM SUR ORDRE DE KEVIN, ET LE PREMIER CONSTAT EST GENANT
+
+**Consigne recue : concentrer la prospection UNIQUEMENT sur les territoires francais d'outre-mer —
+Martinique, Guadeloupe, La Reunion avec livraison a POINTE-DES-GALETS, plus la Guyane et Mayotte.
+Pause de la recherche de nouveaux prospects ailleurs, sans abandonner les dossiers ouverts.** Kevin a
+par ailleurs deja repondu lui-meme a la reponse conteneur recue : je n'y touche pas.
+
+### LE CONSTAT D'ENTREE, ET IL VALIDE LA CONSIGNE PAR L'AUTRE BOUT
+
+Audit de l'historique avant toute recherche : **39 fiches** sur les six territoires. Et **presque tout
+ce qui a deja ete contacte est de l'ALUMINIUM ET DE LA POSE** — TPF ALU, SOJAG, FIC ALU, Alu
+Technologie, Alumettal, ALU ACTION, MG Aluminium, SXM Aluminium, Alu Espace +, Solutions FAR, Dubai
+Aluminium Vitre, Mayotte Aluminium. **C'est exactement la classe qui repond a 3,6 %** d'apres la
+mesure du matin, alors que Kevin demande des importateurs, des negociants et des transformateurs,
+c'est-a-dire les classes a 10 et 12,8 %. **La consigne corrige donc un defaut de ciblage reel, et pas
+seulement une priorite geographique.**
+
+### CE QUE LE PREMIER TOUR A RENDU
+
+**UN SEUL ENVOI POSSIBLE, ET C'EST LE BON : COTTRELL** (Le Lamentin). Negociant en materiaux, SAS de
+1973, **six points de vente en Martinique**, et son etablissement de Dillon est classe au registre
+comme vendant **deja du verre en petites quantites** — la question n'est donc pas si le verre a sa
+place chez eux, mais a quelle quantite. Adresse publiee sur leur propre site. Texte 57 redige et
+controle. **Piege de nom signale : Joseph Cottrell, groupe Herige, est une entite probablement
+distincte — on n'ecrit qu'a Cottrell SAS.**
+
+**ET TROIS QUALIFICATIONS QUI VALENT MIEUX QU'UNE ADRESSE.**
+· **TECHNIGLASS MAYOTTE — la meilleure fiche de la journee, et elle n'a pas d'adresse e-mail.** Leur
+  accueil **publie son etat de stock reference par reference** : clair 6 et 8 mm, miroirs 5 et 6 mm,
+  imprime granite 6, reflechissant havane 6. Et **le feuillete 33, 44 et 55 est annonce en PROCHAIN
+  ARRIVAGE**. Ils importent par arrivages, ils sont en rupture sur le feuillete, et ils disent
+  eux-memes ce qu'ils consomment. **⚠️ Et leur page services nomme STADIP 33/1, 44/1 et 55/1 — les
+  MEMES references que Miro Est a La Reunion.** Deux transformateurs des DOM, a dix mille kilometres,
+  sur le meme feuillete de marque : c'est un schema. **La regle de Kevin du 12/10 s'applique donc
+  partout dans cette zone : on ne parle JAMAIS de la marque Stadip au client, on fournit la
+  reference.**
+· **ALUVER GUYANE** achete du **LACOBEL**, la marque de laque d'AGC, et vend **en plaque** avec
+  decoupe en 24 a 48 heures — donc elle tient du stock. Meme regle : on parle de verre laque, pas de
+  Lacobel.
+· **MIROGLASS** est **au Port, ZAC 2000, c'est-a-dire a Pointe-des-Galets**, le port que Kevin
+  designe. Code NAF **2312Z, faconnage et transformation du verre plat** — une qualification
+  officielle et non un libelle d'annuaire. Le conteneur arriverait a quelques centaines de metres de
+  son atelier.
+
+### ⚠️ ET LE FAIT STRUCTUREL A DIRE TOUT DE SUITE : LES DOM SONT UN MARCHE TELEPHONIQUE
+
+Sur neuf fiches travaillees, **une seule a rendu une adresse e-mail**. Toutes les autres n'ont qu'un
+formulaire ou rien : Miroglass, Techniglass, ALUVER, Martinique Materiaux, Marquibat, Window Concept.
+Ce sont de petites structures de territoires insulaires, avec peu de presence web. **Le levier de
+cette zone n'est pas l'e-mail, c'est le telephone** — et **10 fiches DOM sont desormais en `A APPELER`
+avec un numero verifie.**
+
+### DEUX PIEGES DE CATEGORIE D'ANNUAIRE ECARTES, ET C'EST LA MEME FAUTE QUE SEVAM
+
+**Global Import Trading** (Jarry) etait la meilleure piste APPARENTE : le seul nom de la zone evoquant
+l'import, range en categorie *vitrerie*. **C'est un vendeur de pieces automobiles qui pose des vitres
+teintees de voiture**, capital 7 500 euros. Fermee avant toute recherche d'adresse. **Window Concept**
+tombe dans la meme ambiguite — vitres teintees automobiles d'un cote, *fabrication de vitrages et
+miroirs* dans deux annuaires independants de l'autre — donc ni ouverte ni fermee : un appel tranche.
+
+**Et une clarification de regle au passage :** `pappers.fr` et `societe.com` cachent leurs adresses
+e-mail derriere un bouton *Reveler le mail*. **Ces deux sites vendent des profils et des contacts
+d'entreprises, donc ils sont de meme nature que `dnb.com` que le §5 interdit nommement** — l'interdit
+porte sur la nature du service, pas sur le nom. Aucune adresse n'en a ete tiree.
+
 ## 10h03 (13/10) — LOT DE DEVERROUILLAGE DU LEVANT, ET TROIS DECISIONS DE NE PAS CREER
 
 **Conduit sur une consequence directe de l'analyse de ce matin** : les marches que je deprioritisais
