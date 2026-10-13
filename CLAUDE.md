@@ -747,6 +747,29 @@ droits et l'Europe non, l'argument américain se transpose.
   le meilleur marché de la campagne après les États-Unis.** À lire sur le registre de l'Anti-Dumping
   Commission ou le Federal Register of Legislation, qui ne sont pas atteignables d'ici. **Jusque-là,
   rien n'en est écrit à un prospect australien.**
+  **⚠ RÉPONSE TROUVÉE LE 13/10 À 15h08, ET ELLE EST DÉFAVORABLE : LA MOITIÉ DE L'HYPOTHÈSE CI-DESSUS EST
+  FAUSSE. LA CHINE N'EST PAS FRAPPÉE EN AUSTRALIE.** Le dossier 575 de l'Anti-Dumping Commission est une
+  **enquête de continuation**, demandeur **Oceania Glass**, ouverte le **02/02/2021**, conclusions
+  publiées le **07/10/2021**. Et son issue sépare les origines :
+  · **Indonésie : droits PROROGÉS**, de **15,3 % à 28,3 %** — 15,3 % pour **PT Asahimas**, 28,3 % pour
+    les autres, et **PT Muliaglass exemptée** sur une marge *de minimis* de −2,6 %.
+  · **Chine et Thaïlande : enquête TERMINÉE**, donc pas de droit.
+  Mesures d'origine du **17/10/2011**, prorogées en **2016** puis en **2021**, et données comme **venant à
+  échéance en 2026**. Une demande d'exemption n° 103 a été ouverte en 2025 pour **PT Xinyi Glass
+  Indonesia**.
+  **CE QUE CELA CHANGE POUR LE CIBLAGE, ET IL FAUT LE DIRE SANS L'ARRONDIR :** le §6 espérait que
+  l'Australie cumule **les deux** arguments les plus forts de la campagne — plus de ligne float, et les
+  origines asiatiques frappées. **Elle n'en cumule qu'un.** Le float chinois entre en Australie sans
+  antidumping, donc on l'affronte de face sur le prix, exactement comme au Pérou, au Nigéria, en Égypte
+  et en Arabie saoudite. **L'Australie reste un marché intéressant pour l'absence de production locale,
+  mais elle n'est PAS le meilleur marché après les États-Unis**, et la phrase ci-dessus qui l'annonçait
+  est retirée. **27 fiches australiennes et néo-zélandaises** sont concernées : leur angle est l'origine
+  et la sécurité d'approvisionnement, **jamais le douanier**.
+  ⚠ **Réserves de source à tenir :** la page du dossier et un relevé d'alerte commerciale, plus une
+  analyse académique indonésienne — donc des sources de **second rang** pour les taux, et le §6 impose
+  d'avoir lu la source du pays. **Et l'échéance 2026 n'est pas vérifiée** : les droits indonésiens
+  peuvent déjà avoir expiré. **Donc l'interdiction d'écrire quoi que ce soit sur les droits à un
+  prospect australien TIENT** — elle est simplement mieux fondée qu'avant.
 - **Corée** : citée par la résolution mexicaine, aucune source directe lue.
   Elle est de toute façon exclue au titre des concurrents.
 - **PÉROU : CHERCHÉ LE 11/10 À 22h38, ET LA RÉPONSE EST NÉGATIVE — ce qui classe le marché.**

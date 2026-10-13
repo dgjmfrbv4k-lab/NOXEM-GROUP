@@ -3446,3 +3446,71 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 64. Glasshape (Warkworth, région d'Auckland — Nouvelle-Zélande) — `info@glasshape.co.nz` — ANGLAIS — à envoyer le 13/10
+
+**⚠ VERIFIE :** adresse publiée sur leur **propre page de contact**, même domaine que le site, §5
+satisfait par construction · **classe verrier pur** (12,8 % de réponses à la mesure du 13/10) · **règle
+Prodiesa** : ils bombent, trempent et feuillettent eux-mêmes, donc **les trois sortent de l'offre** et
+seul le substrat entre · **§6 Australasie** : plus aucune ligne float, donc tout le float est importé et
+la question est l'origine — **mais le texte dit que la ligne A ÉTÉ ARRÊTÉE, pas qu'elle ne redémarrera
+jamais**, réserve imposée par le §6 · **aucune mention de droits de douane australiens ou
+néo-zélandais** : la question reste ouverte au §6 et rien ne s'en écrit · aucun prix, aucun délai,
+formule imposée, porte de sortie, signature une seule fois.
+
+**L'ANGLE EST LEUR PROCÉDÉ ET NON LEUR MARCHÉ :** une feuille qui va être cintrée puis feuilletée doit
+être irréprochable au départ, parce qu'une bulle ou une inclusion se voit **après** cintrage. Ils
+achètent donc sur critère de qualité autant que de coût, et c'est exactement là qu'une origine
+européenne se défend sans avoir à chiffrer quoi que ce soit.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys base glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because of what your process demands of the sheet you start
+from. Glass that is going to be curved and then laminated has to be sound before
+it goes anywhere near a furnace: a bubble or an inclusion that nobody would
+notice in a flat pane is plainly visible once the sheet is bent. So what you are
+really buying is consistency, not just a thickness. That is the only thing I am
+here to talk about.
+
+I am not offering you anything you make yourselves. No bending, no toughening,
+no lamination. Only the substrate:
+
+- Clear float glass
+- Extra-clear low-iron float glass
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Auckland or
+the port you prefer.
+
+One piece of context you know better than I do, and which is the reason a second
+origin is worth having on file: the last float line in Australasia has been
+stopped, so every sheet used here now arrives by sea. The question is no longer
+local or imported, it is which origin.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+To prepare it I need four things: which thicknesses your bending and laminating
+work consumes, the sheet sizes that suit your plant, an approximate annual
+volume and how often you reorder, and your port.
+
+And if your supply is settled and there is no room for another origin, say so
+plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
