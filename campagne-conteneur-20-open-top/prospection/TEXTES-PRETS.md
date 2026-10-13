@@ -3069,3 +3069,64 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 58. Comptoir de Cambaie (ZI de Cambaie, Saint-Paul — La Réunion) — `comptoirdecambaie@gmail.com` — FRANÇAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** adresse publiee sur plusieurs pages de leur propre site, **exception du §5 notee dans
+la fiche** puisque le domaine est gmail · **reserve de metier assumee** : aucun verre dans leur gamme,
+c est du bois et du materiau sec — donc le texte ne fait PAS semblant du contraire, il propose une
+reference de plus · **l angle est leur autoclave et leur pin sylvestre** : ils importent deja des
+conteneurs, donc on ne leur apprend pas le conteneur · **⚠️⚠️ INTERDIT ABSOLU DU §6 : AUCUN mot sur
+l octroi de mer ni la fiscalite a l entree** · port Pointe-des-Galets · aucun prix, aucun delai,
+formule imposee · porte de sortie large, la fiche doit pouvoir se fermer proprement.
+
+```
+Bonjour,
+
+C'est une offre de fourniture, pas une demande de devis. Et je commence par ce
+qui pourrait vous faire arreter de lire : vous ne vendez pas de verre, je l'ai
+vu. Je vous ecris quand meme, et voici pourquoi.
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat pres de Lyon.
+
+Vous traitez votre bois en autoclave classe 4 et vous vendez du pin sylvestre en
+lames de terrasse. Autrement dit, vous faites deja venir des conteneurs de
+materiaux de construction a Pointe-des-Galets, vous les degroupez, vous les
+stockez et vous savez ce que coute une erreur de volume. C'est exactement la
+competence qu'il faut pour ajouter du verre a une gamme, et c'est la seule
+raison de ce message : je ne vous propose pas d'apprendre un nouveau metier, je
+vous propose une reference de plus dans un conteneur que vous savez deja traiter.
+
+Ce que nous expedions :
+
+- Verre float clair et extra-clair
+- Miroir sans cuivre ni plomb
+- Verre laque
+- Verre a faible emissivite
+- Verre trempe
+
+Nous expedions en CONTENEUR COMPLET, en caisses bois traitees NIMP-15, en jumbo
+de 3210 x 2550 mm ou aux cotes demandees, livre au port de Pointe-des-Galets.
+
+Nous pouvons etablir une offre pour la livraison a votre port de destination,
+sous reserve de validation de notre cote.
+
+Si le sujet vous interesse, il me faut quatre choses pour chiffrer : les
+references et les epaisseurs qui auraient une place chez vous, les formats qui
+conviennent a votre depot, un volume approximatif et la frequence, et confirmation
+du port.
+
+Et si le verre n'a pas sa place dans votre gamme et n'en aura pas, dites-le-moi
+franchement : c'est une reponse utile et je n'insisterai pas.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
