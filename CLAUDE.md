@@ -1095,6 +1095,30 @@ La fiche existait comme cible : le mot « float » dans une raison sociale impos
 **avant** d'ouvrir la fiche, pas après. Avec PHP, le Bangladesh produit son propre float — aucun
 message vers ce pays ne doit affirmer l'absence de production locale).
 
+**⚠️ ET UN CONCURRENT D'UNE AUTRE NATURE, TROUVÉ LE 13/10 À 12h08 PENDANT LE PIVOT OUTRE-MER — LE PREMIER
+QUI NE PRODUIT RIEN ET QUI FAIT POURTANT EXACTEMENT NOTRE MÉTIER, DEPUIS 1989.**
+**GLASS OVERSEAS**, branche verre de **BLEU MARINE SAS**, Marseille. Toute cette liste recense des
+**producteurs** de float, et elle ne pouvait donc pas voir celui-là : c'est un **négociant-exportateur**.
+Sur son propre site : il **exporte du vitrage depuis la France, la Belgique et l'Espagne** vers des
+destinations **tropicales**, et ses références nomment **Mayotte, la Martinique, la Guadeloupe et La
+Réunion**. C'est notre offre, mot pour mot, avec trente-sept ans d'avance.
+**DEUX FAITS À EN RETENIR, ET LE PREMIER EST OPÉRATIONNEL AUJOURD'HUI.**
+1. **Il annonce des EXPÉDITIONS GROUPÉES mêlant couché, feuilleté, float et autres DANS UN MÊME
+   CONTENEUR.** C'est une différence de **structure d'offre** et non de prix, et elle tombe pile sur
+   **Miro Est**, qui nous a demandé **cinq références** le 12/10. Un conteneur mono-produit ne répond pas
+   à cette demande ; un groupage oui. **Question portée à Aaron avant tout chiffrage DOM.**
+2. **Il consacre une page à l'IRISATION** — la tache de surface que l'humidité et la chaleur provoquent
+   sur du verre stocké — et recommande de rester **sous 70 % d'humidité**. Sur un transit maritime long
+   vers les tropiques c'est une question d'**emballage et de délai**. **Rien ne s'en écrit à un client**,
+   le §5 interdisant toute garantie technique non validée : la question va aux usines partenaires.
+**STATUT : `A VALIDER AARON` et non `NE PAS DEMARCHER`, et la nuance est voulue** — c'est un négociant
+qui **achète** du verre plat européen par conteneur, donc techniquement le profil de notre client, et
+l'approcher relève du §11. Même traitement que le groupe Riou. Aucune adresse e-mail publiée de toute
+façon : formulaire uniquement.
+**ET LA LEÇON DE MÉTHODE : cette liste ne cherchait que des FOURS. Un concurrent qui n'a pas d'usine
+mais qui a nos clients est tout aussi concurrent** — et c'est le même angle mort que celui qui a fait
+prendre Viridian pour un producteur : on classait par l'outil industriel au lieu du rôle commercial.
+
 ## 7. Comptes protégés — ne pas démarcher sur cette campagne
 
 | Compte | Raison |

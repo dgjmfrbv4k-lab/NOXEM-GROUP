@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **13/10/2026** depuis le registre. **169 societes** portent un telephone et
+Regeneree le **13/10/2026** depuis le registre. **170 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 169 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 170 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 157 societes
+## Hors Europe — 158 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Cameroun | **BATALU VERRE** | `+237 6 77 40 88 50` | 10h00 - 18h00 | A APPELER | Sur Douala, premier port d'Afrique centrale. Relance 08/10 REBONDIE : 552 Requested mail action aborted mailbox not found. L adresse kometayembu@yahoo.fr est morte, retiree du champ email. A rappeler pour en obtenir une valide. |
 | Guadeloupe | **WM Guadeloupe (WMG SAS)** | `+590 974 56 05 24` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10 A 11h18 par recherche sur les negoces de materiaux antillais. Nom grepe avant creation, absent. METIER : fournisseur des professionnels du BTP depuis 2002, de la maconnerie a la MENUISERIE, portes fenetres ... |
 | Guyane | **Glass Alu Matoury** | `+594 594 35 20 02` | a verifier | A APPELER | FICHE CREEE LE 13/10 A 10h27 dans le lot DOM. ⚠️ GREP FAIT AVANT CREATION SUR glass alu, ET IL FAUT DIRE CE QU IL A RENDU, parce que le risque de confusion est reel : trois correspondances au registre, Safa Taiba en Arabie saou... |
+| Guyane | **Le Batiment Guyanais** | `+594 594 38 08 50` | a verifier | A APPELER | FICHE CREEE LE 13/10 A 12h07 PENDANT LE PIVOT OUTRE-MER. Nom grepe avant creation sur l element distinctif, batiment guyanais, ABSENT du registre. CLASSE NEGOCE, la deuxieme meilleure de la mesure du 13/10 a 10,0 pour cent de r... |
 | Indonésie | **Popular Kaca Utama PT** | `+62 21 55960016` | 04h00 - 12h00 | A APPELER | Kawasan Pergudangan Miami Blok M2 No 5-18 Tegal Alur Kalideres. Distributeur declare de Mulia Glass. Port Tanjung Priok |
 | Indonésie | **PT Alam Kaca Prabawa Indonesia** | `+62 21 5521721` | 04h00 - 12h00 | A APPELER | Jl. Raya Mauk KM.2 No.23 Nambo Jaya Tangerang 15112. Port Tanjung Priok |
 | Jamaïque | **D & S Glass & Mirror Supplies Ltd** | `+1 876 978 2659` | 16h00 - 00h00 | A APPELER | 63 Old Hope Road. Negociant verre et miroir. Aucune adresse publiee : a appeler. |
