@@ -2945,3 +2945,64 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 56. City Glass Zimbabwe (Graniteside, Harare) — `glasssales@cityglass.co.zw` — ANGLAIS — à envoyer le 14/10
+
+**⚠️ VERIFIE :** adresse publiee sur leur propre page de contact, domaine du site, §5 satisfait sans
+exception · boite de secours `reception@` sur la meme page · regle Prodiesa : **CityTough** et
+**CityLam** sont LEURS marques, donc trempe et feuillete sortent de l offre · **PAYS ENCLAVE, §4 : le
+port s annonce avec VIA et on DEMANDE lequel** — Beira est le plus proche de Harare, Durban
+l alternative · le Zimbabwe n est PAS dans les marches d export documentes de Sapphire, donc pas
+declasse · aucun prix, formule imposee · reserve de fraicheur : pages indexees depuis 3 a 4 ans.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys base glass, I would be grateful if you could pass it on.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing to you because CityTough and CityLam are your own brands. A
+company that puts its name on toughened glass from 4 to 19 mm, carries the
+Standards Association of Zimbabwe approval on it, and laminates its own
+SolarVue is a company that buys base glass by the sheet and in quantity. That
+is the only thing I am offering.
+
+Nothing you make yourselves - only the substrate:
+
+- Clear and extra-clear float glass
+- Low-E glass
+- Solar control glass
+- Copper-free and lead-free mirror
+
+We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
+jumbo sheets of 3210 x 2550 mm or cut to your sizes.
+
+One question I would rather ask than assume, since Harare is inland: which
+transit port do you actually use? We can deliver via Beira or via Durban, and
+the two are not the same offer. Tell me which one your clearing agent works
+with and I will build the offer on that one.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+Beyond the port I need four things: which of the references above you buy and
+in which thicknesses, the sheet sizes your toughening line and your laminating
+line run, an approximate volume and how often you reorder, and whether you want
+jumbo or cut sizes.
+
+And if your supply is settled and there is no room for another origin, say so
+plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
