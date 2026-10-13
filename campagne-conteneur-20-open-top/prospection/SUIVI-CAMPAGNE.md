@@ -6763,3 +6763,44 @@ déclenche pas** — c'est la leçon Alfastar du 12/10 prise par un autre code.
 
 **État du registre après écriture : 1160 fiches, 23 premiers contacts et 94 relances encore au statut du
 13/10.** Aucun des deux chiffres n'est confirmé avant le **16/10**, fenêtre de 72 heures oblige.
+
+## 13/10/2026 16h19 — CINQ RÉPONSES TRAITÉES, DONT **DEUX DEMANDES DE PRIX FERMES**
+
+C'est la meilleure demi-journée de réponses de la campagne, et aucune n'avait été traitée avant ce
+relevé. Les cinq sont consignées dans leur fiche. **Aucune réponse n'est partie de ma part**, le §5
+l'interdisant.
+
+| Fiche | Heure Paris | Ce qu'ils disent | Statut |
+|---|---|---|---|
+| **Christakis Avgousti Ltd** (Limassol, Chypre) | 11h00 | *« we do by flat glass in full containers, CIF Limassol. We mostly buy 5mm, 6mm and less 4mm, 3210 x 2550 or 3210 x 2250 »* | **DEMANDE DE PRIX 2026-10-13** |
+| **Unionglass SA** (Buenos Aires, Argentine) | 13h08 puis 13h57 | *cotizame laminado incoloro 3+3 / 4+4 / 5+5, 3660x2550*, port **Buenos Aires** | **DEMANDE DE PRIX 2026-10-13** |
+| **Security Glass Products** (Canada) | 15h09 | message transmis au patron, il recontactera s'il est intéressé | REPONSE 2026-10-13 |
+| **Cole Harbour Glass** (Canada) | 13h09 | « NO » | REFUS 2026-10-13 |
+| **Brad Glass** (Roumanie) | 10h04 | *nu achizitionam sticla plana in containere* — ils n'achètent pas par conteneur | REFUS 2026-10-13 |
+
+**Avgousti est le dossier le plus simple à chiffrer de toute la campagne** : float clair, trois
+épaisseurs, deux cotes jumbo standard, un port. Il ne manque que le volume et la fréquence. **Le seul
+piège est un mot : elle écrit CIF**, et notre formule validée parle de livraison au port de
+destination — un incoterm ne se confirme pas sans accord.
+
+**Unionglass est plus délicat et c'est une question technique, pas commerciale.** Le 3660 × 2550 n'est
+**pas** un hors-format, sa plus petite dimension tient dans le ruban de 3210 — c'est l'erreur commise
+trois fois le 08/10 et elle ne se refait pas. **Mais c'est du feuilleté, donc c'est l'autoclave qui
+décide**, et la cote maximale de nos autoclaves partenaires est une question ouverte du §4. Rien ne
+part avant la réponse d'Aaron, et **la question ne se pose pas à la cliente** — leçon du 12/10.
+
+**Deux textes rédigés, vérifiés, en attente d'ordre** : 68 pour Avgousti en anglais, 69 pour Unionglass
+en espagnol. Les deux ne demandent que **volume et fréquence**, et rien de plus : ils n'apprennent à
+personne un doute qu'il n'avait pas.
+
+**⚠️ ET UN FAIT DE COORDINATION SIGNALÉ À AARON, SANS CONCLUSION DE MA PART.** Les fils Unionglass,
+Avgousti et Brad Glass portent des réponses parties de la boîte à 08h04, 09h10 et 11h14 **qui ne
+viennent pas de moi**. Celle de 11h14 est **en anglais vers une interlocutrice hispanophone**. Le fond
+est conforme et elle a d'ailleurs produit le port de destination, donc elle a servi — mais c'est le
+risque que le §10 décrit en toutes lettres : la boîte est partagée. Porté dans `DECISIONS-AARON.md`.
+
+**Et `verif-texte.py` a refusé les deux textes neufs pour des formules justes**, son vocabulaire étant
+plus pauvre que celui des textes réels : une seule forme espagnole de la formule imposée, et aucune
+porte de sortie au présent alors que *I will not push* et *no insisto* sont dans les relances déjà
+parties. Corrigé à treize formules et dix-sept portes de sortie, **vérifié dans les deux sens**.
+Troisième panne de ce type — un garde-fou qui crie au loup finit par être ignoré.

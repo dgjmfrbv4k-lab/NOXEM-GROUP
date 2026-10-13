@@ -1,3 +1,69 @@
+# ⏱ MARDI 13/10, 16h16 — DEUX DEMANDES DE PRIX FERMES TOMBEES DANS LA MEME MATINEE, ET LES DEUX ATTENDENT UN CHIFFRAGE
+
+**Ce sont les deux meilleures reponses depuis Miro Est, et elles sont arrivees a une heure d'intervalle.
+Aucune reponse n'est partie de ma part, le §5 l'interdit. Les deux textes sont prets a votre accord.**
+
+## 1. CHRISTAKIS AVGOUSTI LTD — Limassol, Chypre. La reponse la plus complete de la campagne.
+
+**Stella Stylianidou a repondu a 11h00, une heure apres la relance de 07h59**, et elle donne presque
+tout d'un coup, mot pour mot : *« we do by flat glass in full containers, CIF Limassol. We mostly buy
+5mm, 6mm and less 4mm, 3210 x 2550 or 3210 x 2250 »*.
+
+| Ce qu'on sait | Ce qui manque |
+|---|---|
+| float clair, **4, 5 et 6 mm** | le **volume** |
+| **3210 x 2550** et **3210 x 2250** — jumbo standard | la **frequence** |
+| port : **Limassol** | |
+
+- **Rien de technique n'est en question** : ce sont les cotes de vente standard, pas du feuillete,
+  pas de grand format. C'est le dossier le plus simple a chiffrer de toute la campagne.
+- ⚠️ **Un seul point de vocabulaire** : elle ecrit **CIF**. Notre formule validee dit « livraison a
+  votre port de destination, sous reserve de validation de notre cote ». **Je ne confirmerai aucun
+  incoterm sans votre accord**, CIF engageant l'assurance et le fret.
+- Contact : 20 Oslo Street, 3015 Limassol. Tel **+357 25 576516**, direct **+357 25 022381**.
+
+**Ce que je recommande :** repondre court, remercier, demander **volume et frequence** et rien d'autre,
+sans toucher au mot CIF. C'est une question, pas un engagement, et elle suffit a chiffrer.
+
+## 2. UNIONGLASS SA — Lomas del Mirador, province de Buenos Aires, Argentine.
+
+**Teresa Lonardelli, Depto. Comercial, a repondu a 13h08** en disant n'avoir pas recu le message
+precedent, puis a precise le port a 13h57.
+
+- Demande : **feuillete incolore 3+3, 4+4 et 5+5**, en **3660 x 2550**.
+- Port : **Buenos Aires**.
+- Tel **+54 11 4699 0303**, portable **+54 9 11 6358 6627**.
+
+**⚠️ ET C'EST LA QUE J'AI BESOIN DE VOUS, PARCE QUE LA QUESTION N'EST PAS LA MEME QU'A CHYPRE.**
+
+- **Le 3660 x 2550 n'est PAS un hors-format**, et je le dis net parce que je me suis trompe trois fois
+  sur ce point le 08/10 : sa plus petite dimension, 2550, tient largement dans le ruban de 3210.
+- **Mais c'est du FEUILLETE**, donc la contrainte n'est pas la ligne float, c'est l'**autoclave**. Le
+  seul repere d'enveloppe que j'aie est celui de Green Glass, 2,8 par 6 m, et le 3660 x 2550 tient
+  dedans. **Ce repere n'est pas le notre et je n'ai aucun chiffre pour nos usines partenaires.**
+- **Question : nos partenaires feuillettent-ils en 3660 x 2550 ?** Si oui, le dossier est chiffrable
+  tel quel. Si non, il faut savoir jusqu'ou ils vont avant de repondre quoi que ce soit.
+
+**Ce que je recommande :** ne rien ecrire a Unionglass avant que vous ayez repondu sur l'autoclave. Un
+« oui » puis un « finalement non » sur une cote coute le dossier. En attendant, la fiche est en
+DEMANDE DE PRIX et rien ne part.
+
+## 3. ET UN FAIT DE COORDINATION QUE JE DOIS SIGNALER, SANS EN TIRER DE CONCLUSION
+
+**Les deux fils portent des reponses parties de la boite a 08h14, 09h10, 11h14 et 08h04 — et elles ne
+viennent pas de moi.** Je n'ai envoye aucune reponse aujourd'hui, le §5 me l'interdisant.
+
+Celle de 11h14 vers Unionglass est **en anglais vers une interlocutrice hispanophone** : *« Hello, we
+can ship to your port in wooden crates using an open-top container—does that work for you? Please let
+me know which port »*. **Le fond est conforme** — pas de prix, pas de delai — et elle a d'ailleurs
+produit le port de destination, donc elle a servi. Mais c'est exactement le risque que le §10 decrit :
+**la boite est partagee, et deux personnes peuvent ecrire au meme client dans la meme heure.**
+
+**Je ne demande pas d'arbitrage, je demande a savoir qui repond** sur les fils de cette campagne, pour
+ne pas preparer des textes qui arriveraient en travers des votres.
+
+---
+
 # ⏱ MARDI 13/10, 12h08 — UN CONCURRENT FRANCAIS FAIT DEJA EXACTEMENT NOTRE OFFRE VERS LES DOM DEPUIS 1989, ET IL LA FAIT MIEUX SUR UN POINT PRECIS
 
 **C'est la decouverte du pivot outre-mer, et elle demande un arbitrage.**

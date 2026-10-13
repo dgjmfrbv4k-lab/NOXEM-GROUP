@@ -3732,3 +3732,99 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 68. Christakis Avgousti Ltd (Limassol, Chypre) — `stella@avgoustiglass.com` — ANGLAIS — RÉPONSE À UNE DEMANDE DE PRIX, EN ATTENTE DE L'ACCORD DE KEVIN
+
+**⚠ CE TEXTE NE PART PAS SANS ORDRE.** C'est une **réponse** à un prospect et le §5 l'interdit sans
+l'accord de Kevin. Il est écrit, vérifié, et il attend.
+
+**⚠ VÉRIFIÉ :** l'adresse est celle de **sa propre signature**, donc l'exception du §5 est satisfaite
+par la source la plus directe possible · le fil est né dans la boîte Workspace le 13/10 à 07h59, donc
+la réponse s'y fait · **aucun prix, aucun délai, aucun certificat** · la formule imposée est présente
+mot pour mot · **le mot CIF n'est jamais employé ni confirmé** — c'est le seul vrai piège du dossier,
+elle l'a écrit et nous ne l'engageons pas · porte de sortie présente · signature une seule fois ·
+Chypre est hors de la liste des concurrents et aucun argument douanier n'est employé, l'UE étant un
+marché intérieur · **aucune affirmation sur l'absence de production locale**, qui serait sans objet.
+
+**Ce que le texte fait et rien de plus :** il remercie, il confirme avoir bien noté ce qu'elle a donné,
+et il demande les **deux seules choses qui manquent** — volume et fréquence. Il ne lui apprend rien
+qu'elle n'ait demandé, ce qui est la leçon du paragraphe STADIP du §5.
+
+```
+Dear Stella,
+
+Thank you for the clear answer - it is rare to get thicknesses, sizes and port
+in one reply, and it means I can work with it.
+
+So that I note it correctly: clear float in 5 mm and 6 mm mainly, 4 mm less
+often, in 3210 x 2550 and 3210 x 2250, to Limassol.
+
+Two things are still missing on my side before I can establish anything useful
+for you: an approximate volume per shipment, and how often you reorder. A range
+is enough at this stage - I am not asking you to commit to anything.
+
+With those two figures we can establish an offer for delivery to your port of
+destination, subject to validation on our side.
+
+And if the timing is wrong or your supply is settled for now, say so plainly and
+I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 69. Unionglass SA (Lomas del Mirador, province de Buenos Aires) — `ventas@unionglass.com.ar` — ESPAGNOL — RÉPONSE EN ATTENTE, ET ELLE DÉPEND D'UNE RÉPONSE DE KEVIN AVANT TOUT
+
+**⚠⚠ CE TEXTE EST LE PLUS CONDITIONNEL DU FICHIER, ET IL FAUT DIRE POURQUOI.** Teresa Lonardelli
+demande du **feuilleté 3+3, 4+4 et 5+5 en 3660 x 2550**. Le §4 impose de ne pas traiter cette cote
+comme un hors-format — sa plus petite dimension, 2550, tient dans le ruban de 3210, et c'est l'erreur
+que j'ai commise trois fois le 08/10. **Mais le feuilleté relève de l'AUTOCLAVE, pas de la ligne**, et
+la cote maximale de nos autoclaves partenaires est une **question ouverte du §4 que je ne peux pas
+trancher.** Le seul repère d'enveloppe disponible, 2,8 par 6 m chez Green Glass, n'est pas le nôtre.
+
+**DONC : ne pas envoyer avant que Kevin ait dit si le 3660 x 2550 se feuillette.** Et surtout — leçon
+du 12/10 — **ne pas poser la question du format À LA CLIENTE.** Un fournisseur qui demande à son client
+si sa cote est faisable fabrique le doute que le client n'avait pas. La question va à Kevin, pas à elle.
+
+**⚠ VÉRIFIÉ :** adresse du registre et de sa signature · **aucun prix, aucun délai** · formule imposée
+présente · porte de sortie présente · signature une seule fois · **aucune mention du feuilletage comme
+d'une difficulté**, le texte se borne à accuser réception de ce qu'elle a demandé · **aucun argument
+douanier**, il n'y en a pas en Argentine à notre avantage · **aucune affirmation d'absence de production
+locale**, VASA produit à Llavallol et Los Cardales et le §6 l'interdit formellement.
+
+```
+Buenos dias Teresa,
+
+Gracias por su respuesta y por el puerto - con Buenos Aires y las referencias ya
+tengo lo esencial.
+
+Para que quede bien anotado: laminado incoloro 3+3, 4+4 y 5+5, en 3660 x 2550,
+con destino Buenos Aires.
+
+Me faltan dos datos antes de poder preparar algo util para usted: un volumen
+aproximado por embarque, y con que frecuencia renuevan la compra. Un orden de
+magnitud es suficiente, no le pido ningun compromiso.
+
+Con esos dos datos podemos establecer una oferta para la entrega en su puerto de
+destino, sujeta a validacion de nuestra parte.
+
+Y si el momento no es el adecuado o ya tienen su abastecimiento resuelto,
+diganmelo con franqueza y no insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

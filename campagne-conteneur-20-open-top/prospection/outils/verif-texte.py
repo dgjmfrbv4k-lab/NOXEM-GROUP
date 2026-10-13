@@ -74,20 +74,40 @@ INTERDITS = [
 # demande la justification.
 CONDITIONNELS = [r'\bantidumping\b', r'\bdroits? de douane\b', r'\btariffs?\b',
                  r'\bdut(y|ies)\b', r'\bcuota\b', r'\boctroi de mer\b']
+# Formule imposee du paragraphe 5. LISTE COMPLETEE LE 13/10 : elle ne portait
+# qu'UNE forme espagnole, le calque "bajo reserva de", alors que les textes
+# reels de la campagne emploient depuis le debut "sujeta a validacion POR
+# nuestra parte" et "sujeta a validacion DE nuestra parte", qui sont l'espagnol
+# naturel. Le texte 69 a donc ete refuse pour une formule parfaitement valable.
+# C'est exactement la panne du texte 45 sur la porte de sortie portugaise : un
+# controleur dont le vocabulaire est plus pauvre que celui des textes crie au
+# loup, et un garde-fou qui crie au loup finit par etre ignore.
 FORMULE = ['subject to validation on our side',
            'sous reserve de validation de notre cote',
            'sous réserve de validation de notre côté',
            'bajo reserva de validacion de nuestra parte',
-           'sob reserva de validacao da nossa parte']
+           'bajo reserva de validación de nuestra parte',
+           'sujeta a validacion de nuestra parte',
+           'sujeta a validación de nuestra parte',
+           'sujeta a validacion por nuestra parte',
+           'sujeta a validación por nuestra parte',
+           'sujeto a validacion de nuestra parte',
+           'sujeto a validación de nuestra parte',
+           'sob reserva de validacao da nossa parte',
+           'sob reserva de validação da nossa parte']
 # Portes de sortie reconnues. Ajout du 13/10 des deux formes "je ne reecrirai
 # pas" en portugais et en espagnol : le texte 45 portait "nao voltarei a
 # escrever", qui est une porte de sortie parfaitement valable, et le controleur
 # l a comptee absente. Un garde-fou qui refuse une formulation correcte finit
 # par etre contourne, c est la lecon du §12 sur les faux positifs.
+# Ajout du 13/10, meme cause que ci-dessus : "I will not push" et "no insisto"
+# sont employes dans les textes reels et dans les relances deja parties, et ils
+# manquaient. Le present indicatif n'etait reconnu qu'au futur.
 SORTIE = ['not write again', 'no insistire', "n'insisterai pas", 'n insisterai pas',
           'nao insistirei', 'no insistiré', 'file stays open', 'dossier reste ouvert',
           'nao voltarei a escrever', 'no volvere a escribir', 'no volveré a escribir',
-          'nao voltarei a escrever-lhes']
+          'nao voltarei a escrever-lhes', 'will not push', 'no insisto',
+          "je n'insiste pas", 'je n insiste pas', 'nao insisto', 'não insisto']
 MORT = '+33 7 69'
 SIGNATURE = 'president - noxem group sas'
 
