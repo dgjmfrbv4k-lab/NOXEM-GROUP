@@ -1,5 +1,69 @@
 # Suivi campagne export conteneurs — NOXEM GROUP
 
+## 09h54 (13/10) — LE TAUX DE REPONSE DE LA CAMPAGNE EST DE 6.7 POUR CENT ET NON DE 2.2, ET LA DIFFERENCE N'EST PAS UN DETAIL
+
+**Analyse faite au titre du point 5 du §2, qui n'avait jamais ete faite systematiquement. Tous les
+chiffres ci-dessous sont substitues depuis le registre, aucun n'est tape a la main.**
+
+**LE DEFAUT DE TOUS LES COMPTAGES PRECEDENTS, Y COMPRIS DANS CE MANDAT : ON DIVISE LES REPONSES PAR
+LE TOTAL DES ENVOIS.** Le §10 ecrit « l'ecart entre 616 envois et 12 dossiers vivants » comme s'il
+etait un defaut de premier ordre. **Mais un message parti hier ne peut pas avoir recu de reponse**, et
+la campagne envoie par vagues de cent : le denominateur est donc gonfle par des envois trop recents
+pour avoir produit quoi que ce soit.
+
+**LA MESURE JUSTE NE RETIENT QUE LES FICHES ASSEZ ANCIENNES POUR AVOIR PU REPONDRE**, seuil fixe a
+quatre jours :
+- **587 fiches contactees** en tout ;
+- dont **193 seulement ont au moins quatre jours** ;
+- **13 reponses** recues, dont **11 qualifiees** et 2 refus ;
+- soit **6.7 % sur les fiches mures**, contre 2.2 % si l'on divise par le total.
+
+**6.7 % en prospection export a froid n'est pas un mauvais chiffre, c'est un chiffre normal a
+bon.** La conclusion a tirer n'est donc PAS que le message ne marche pas — c'est que **le volume est
+trop recent pour etre juge**. Et cela change la lecture de la campagne entiere.
+
+### ⚠️ MAIS UN SECOND DECOUPAGE EST MOINS CONFORTABLE, ET IL FAUT LE DIRE
+
+Separons les marches que le §6 declare les plus forts — Etats-Unis, Bresil, Mexique, Colombie, Canada,
+Australie, Nouvelle-Zelande — des autres :
+
+| | fiches mures | reponses | taux |
+|---|---|---|---|
+| **Marches forts du §6** | 53 | 1 | **1.9 %** |
+| Tous les autres | 140 | 12 | **8.6 %** |
+
+**Au taux des autres marches, les 53 fiches mures des marches forts auraient du rendre
+4.5 reponses. Elles en ont rendu 1.** Et cette seule reponse est United Glass, au
+Canada, qui vient de la route du devis et non d'un premier contact.
+
+**AUTREMENT DIT : l'argument douanier — les origines chinoises et asiatiques portent desormais des
+droits — est celui que j'ai le plus travaille, et il n'a encore produit AUCUNE reponse. Les marches
+que le §6 declasse comme faibles ont produit les douze autres.**
+
+### CE QUI EMPECHE D'EN FAIRE UNE CONCLUSION, ET JE NE LA TIRE PAS
+
+**Un, le denominateur est petit.** 53 fiches, 1 reponse. A 8,6 % on en attendrait
+4.5 ; en obtenir une est bas, mais pas hors de portee du hasard sur un echantillon de cette
+taille. **Ce n'est pas une preuve, c'est un ecart a surveiller.**
+
+**Deux, et c'est le point qui compte le plus : ces 53 fiches ont ete contactees les 08 et
+09/10, donc AVANT deux corrections majeures.** Avant que la signature ne soit mise dans le corps — le
+§10 etablit que les quelque 616 messages anterieurs sont partis **sans aucune coordonnee de rappel** —
+et avant que les arguments douaniers americain, bresilien et colombien ne soient chiffres. **Le message
+qu'elles ont recu n'est pas celui qu'on envoie aujourd'hui.**
+
+**Trois, un confondant que j'ai verifie et qui NE joue PAS ici :** 55 fiches canadiennes et
+americaines ont ete contactees le 12/10, jour ferie dans les deux pays — ma faute, consignee. Mais
+elles n'ont qu'un jour d'anciennete, **donc elles ne sont pas dans les 53 fiches mures** et
+elles ne faussent pas ce tableau. Je le dis parce que c'eut ete l'explication la plus commode.
+
+### LA DATE A RETENIR, ET C'EST LA SEULE ACTION QUE CETTE ANALYSE DEMANDE
+
+**Le 16/10.** La vague du 12/10 a touche 96 fiches des marches forts avec le message corrige,
+signature comprise. Au 16/10 elles auront quatre jours. **C'est ce jour-la que l'argument douanier sera
+reellement teste, et pas avant.** Si le taux des marches forts reste sous 2 % sur un denominateur de
+cent cinquante fiches, alors ce n'est plus le hasard et il faudra revoir soit la cible, soit l'angle.
+
 ## 08h49 (13/10) — MATINEE : 97 ENVOIS PARTIS, ET LA DECOUVERTE LARGE MONTRE SES LIMITES
 
 **ENVOIS DU JOUR, chiffres substitues depuis le registre.** 95 relances et 2 premiers
