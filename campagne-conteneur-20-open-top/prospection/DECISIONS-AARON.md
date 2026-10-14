@@ -1,3 +1,29 @@
+# ⏱ MERCREDI 14/10, 11h17 — TABLEAU DE BORD DE CE QUI EST BLOQUE, A LIRE EN PREMIER
+
+**29 fiches et 5 demandes de prix attendent une decision.** Ce tableau ne remplace pas les
+dossiers detailles plus bas, il dit en une ligne ce que chacun attend, pour que tout se debloque en
+une seule passe.
+
+| # | Ce qui attend | Combien | Ce qu'il faut de vous | Ma recommandation |
+|---|---|---|---|---|
+| 1 | **Un creneau d'appel** | **168 fiches** portent un numero et **aucun appel n'a jamais ete passe** | une heure de votre temps, ou l'autorisation de deleguer | **c'est le premier levier de la campagne.** La decouverte par moteur de recherche est saturee sur nos meilleurs marches, mesure trois fois ; l'outre-mer ne publie que des telephones. Les 15 appels tries sont dans `APPELS-PRIORITAIRES.md`, un objectif par appel |
+| 2 | **Les textes 68 (Avgousti) et 69 (Unionglass)** | 2 demandes de prix fermes du 13/10 | un oui, ou vos corrections | les textes sont ecrits et controles. **Rien ne part sans votre accord**, paragraphe 5 |
+| 3 | **La cote d'autoclave de feuilletage** | bloque la reponse a Unionglass | nos usines feuillettent-elles en **3660 x 2550** ? | **la question ne va jamais au client**, elle vous revient. Sans la reponse je ne peux rien ecrire sur ce format |
+| 4 | **Afrique du Sud / groupe PG** | **13 fiches** gelees | PFG appartient a PG Glass, avec qui nous negocions : prospecte-t-on la SACU ou non ? | **geler tant que la negociation Willem Heunis vit.** Le risque n'est pas commercial, il est que PG saisisse l'ITAC |
+| 5 | **Groupe Riou Glass** | 3 fiches, SOREMIR, Riou Ocean Glass et **SOFAVI** trouvee le 13/10 | les approche-t-on, et par qui ? | **un seul compte, un seul interlocuteur.** Ecrire aux trois serait la faute Shibaam sur un groupe francais |
+| 6 | **Glass Overseas (Bleu Marine SAS)** | 1 fiche | concurrent francais qui exporte vers les DOM depuis 1989, ou client negociant ? | **l'approcher releve de vous**, pas de moi |
+| 7 | **Cameroun** | **6 fiches** | adresses en yahoo et gmail, pas de domaine propre : on y va ou pas ? | **y aller.** Le risque est une non-delivrance, pas une faute |
+| 8 | **Le groupage multi-references** | conditionne tout chiffrage DOM | peut-on charger float, feuillete et couche **dans un meme conteneur** ? | **Miro Est a demande cinq references le 12/10.** Un conteneur mono-produit ne repond pas a cette demande ; notre concurrent marseillais, lui, annonce le groupage |
+| 9 | **L'iridescence au transit tropical** | question aux usines, pas au client | tenue du verre stocke sous 70 pour cent d'humidite sur un transit long | **a poser aux usines partenaires.** Le paragraphe 5 interdit toute garantie technique non validee, donc rien ne s'en ecrit |
+| 10 | **City Glass (Zimbabwe)** | 1 fiche | s'excuser de la contradiction du 12-13/10, ou se taire ? | **se taire.** Un message de plus sur un compte qui en a deja recu deux contradictoires aggrave plutot qu'il repare |
+| 11 | **L'acces reseau** | bloque la verification de trois dossiers | autoriser `usitc.gov`, `dof.gob.mx`, `mincit.gov.co` dans l'environnement | ces trois sites tranchent les questions douanieres americaine, mexicaine et colombienne que je ne peux pas lire d'ici |
+| 12 | **Le compte Google Workspace** | plafond d'envoi | est-il en periode d'ESSAI ? | si oui le plafond est 500 par jour et non 2 000, et cela change le rythme. Je ne peux pas lire la console d'administration |
+
+**Et ce qui n'attend rien de vous, pour que le tableau soit honnete :** la prospection, les relances
+et le registre avancent seuls, paragraphe 0. Au 14/10 le registre porte des fiches sur 140 pays et
+la file d'envoi du jour est prete.
+
+---
 # ⏱ MARDI 13/10, 16h16 — DEUX DEMANDES DE PRIX FERMES TOMBEES DANS LA MEME MATINEE, ET LES DEUX ATTENDENT UN CHIFFRAGE
 
 **Ce sont les deux meilleures reponses depuis Miro Est, et elles sont arrivees a une heure d'intervalle.
