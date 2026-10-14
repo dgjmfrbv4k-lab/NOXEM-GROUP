@@ -6494,3 +6494,129 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 126. Importadora Schiller (Équateur, Quito Guayaquil Cuenca) — `schiller@schiller.com.ec` — ESPAGNOL — négoce
+
+**⚠️ LE SECOND TEMPS A CORRIGÉ LA FICHE, ET LE TEXTE EN TIENT COMPTE AU LIEU DE L'IGNORER.** Le
+registre la donnait pour une distributrice de verre flotté. Leur propre site montre un **importateur
+industriel diversifié** — pharmacie, filtres, matériel d'asphalte, alimentation animale — où le
+*vidrio flotado* est **une ligne parmi d'autres**, sans catalogue ni contact dédié.
+**Donc on ne leur écrit pas comme à un verrier.** Le message dit en toutes lettres qu'on s'adresse à
+une seule de leurs lignes, et la **première question est de savoir si elle est encore active**. C'est
+plus honnête, et cela évite le ridicule de vanter un métier qui n'est peut-être plus le leur.
+**⚠️ RIEN sur l'absence de production locale en Équateur**, non vérifiée. **Rien sur les droits.**
+**Adresse lue sur leur page de contact, domaine du site, §5 satisfait sans exception.**
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo sobre UNA sola de sus lineas, y empiezo por ahi porque seria
+absurdo fingir que no veo el resto: ustedes importan y distribuyen para la
+industria ecuatoriana desde hace mas de cincuenta anos, en campos que van del
+laboratorio al filtrado, y el vidrio plano figura entre sus productos.
+
+De modo que mi primera pregunta es simplemente esa: esa linea sigue activa, y
+quien la maneja? Si la respuesta es no, me lo dicen y no insisto.
+
+Si sigue activa, esto es lo que podemos embarcarles:
+
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+Cualquier referencia se la explico en espanol.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido, con carga util de 23 a 25 toneladas.
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Con tres oficinas, Quito, Guayaquil y Cuenca, un contenedor repartido entre
+ellas no obliga a nadie a almacenarlo todo en un solo punto.
+
+Y si esa linea ya no les interesa, diganmelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 127. Cygla / Group Ceyssens (Heusden-Zolder, Limbourg) — `info@groupceyssens.com` — NÉERLANDAIS — verrier
+
+**UNE SEULE FICHE POUR LES DEUX NOMS, et c'est encore le DOMAINE qui l'établit** — la leçon SOFAVI
+du 13/10. Les annuaires donnent `Cygla` comme grossiste et transformateur de verre plat à
+Heusden-Zolder, et lui attribuent le site `groupceyssens.com`, même rue et même standard. Écrire aux
+deux serait la faute Shibaam.
+**CE QUE LEUR SITE DIT ET QUI DÉCIDE DE L'OFFRE :** « every glass element, profile and metal
+component produced or finished at our facilities in Heusden-Zolder ». **Règle Prodiesa, et elle est
+large ici :** vitrage isolant, vitrage acoustique, profilés et façades **sortent de l'offre** — ils
+les fabriquent. Seul le **substrat** y entre.
+**⚠️ ET UNE CORRECTION DE MA PART, PORTÉE AUSSI DANS LES FICHES :** j'avais écrit le matin que les
+maisons belges de l'intérieur « relèvent du camion et pas du conteneur ». **C'est trop fort.**
+Heusden-Zolder est à 60 km d'Anvers, et **toute la Belgique est à moins de 150 km d'un port**. Ce qui
+décide de l'éligibilité au conteneur n'est donc pas la distance au port, c'est le **volume consommé**.
+Un groupe qui fabrique ses propres façades en consomme.
+**Adresse lue sur leur page de contact, domaine du site, §5 satisfait sans exception.**
+**Rien sur notre entrepôt ni sur la proximité**, qui est l'argument de l'autre campagne. **Ni prix,
+ni délai.**
+
+```
+Goedendag,
+
+Dit is een leveringsaanbod en geen prijsaanvraag. Bent u niet degene die het
+basisglas inkoopt, dan zou ik u dankbaar zijn als u dit doorgeeft aan wie dat
+wel doet.
+
+Mijn naam is Aaron Harfi en ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas met zetel bij Lyon in Frankrijk.
+
+Ik schrijf u om wat u zelf over uw werkplaats schrijft: elk glaselement, elk
+profiel en elk metaaldeel wordt in Heusden-Zolder zelf gemaakt of afgewerkt.
+Een huis dat zover gaat, koopt geen afgewerkte beglazing. Het koopt BLAD, en
+dan hangt alles af van wie dat blad levert en hoe regelmatig het binnenkomt.
+
+Ik kom u dus niets aanbieden van wat u zelf maakt. Geen isolerende of
+akoestische beglazing, geen profielen. Alleen wat er daarvoor in gaat:
+
+- blank en extra blank floatglas: https://noxemgroup.com/en/float-glass/
+- laagemissief glas voor de spouw: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- spiegel zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Onze site bestaat enkel in het Frans en het Engels. Elke referentie leg ik u
+graag in het Nederlands uit.
+
+Wij verschepen per VOLLEDIGE CONTAINER, in met ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Wij kunnen een aanbod opmaken voor levering in uw
+bestemmingshaven, onder voorbehoud van validatie van onze kant.
+
+Om dat op te maken heb ik vier dingen nodig: welke diktes uw lijnen het meest
+verbruiken, welke bladmaten daarbij het beste passen, een ruwe jaarhoeveelheid,
+en of Antwerpen voor u de juiste haven is.
+
+En zit u vast aan uw huidige leverancier, zeg het dan gerust ronduit, dan dring
+ik niet aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
