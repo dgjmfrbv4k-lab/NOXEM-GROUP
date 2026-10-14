@@ -220,3 +220,36 @@ Steenebruegge et Tardis au meme code postal. Les trancher AVANT de creer, jamais
 qui ne prouve pas qu il n y en a pas, la page des membres ayant environ 477 jours et la recherche
 par mots-cles ne rendant que ce qu elle indexe. **Les quelque 39 noms restants demandent une
 lecture de la page elle-meme.**
+
+
+### Troisieme vague du MarkenKreis — SIX GROSSISTES, requete par METIER et non par region (14/10 a 15h51)
+
+**Un seul appel, et il rend ce que les deux precedents ne pouvaient pas rendre : la requête ne
+portait plus sur un Land mais sur le MOT DU METIER — Glasgrosshandel, Lager, Haendler.** C'est le
+tri par métier du §6 appliqué à la requête elle-même, et non plus seulement au dépouillement.
+Les six sont grepés un par un et **tous absents du registre**.
+
+| Societe | Lieu | Ce que le reseau en dit |
+|---|---|---|
+| **PG PROJEKT Glas** | Talheim + entrepots a **Recklinghausen** (Ruhr, ~290 km) et Noerdlingen | gros de verre de design et verre special. ⚠ **Entrepot dans le rayon** |
+| **Glas-Lerchenmueller GmbH** | Dieburg (Hesse), ~450 km | gros traditionnel, **environ 500 articles en stock** — float, verre coule, trempe, feuillete, miroirs |
+| **Glas Fritz GmbH** | Loerrach, trois sites dans le sud-ouest **et en SUISSE** | ⚠ **OUVRE LA SUISSE**, pays que la campagne n a jamais prospecte |
+| **Flachglas Nord-Ost GmbH** | Osterburg (Saxe-Anhalt) | specialisee dans le gros et la vente en ligne |
+| **Glas Scholz GmbH** | Elbe | |
+| **Glaszentrum Magdeburg** | Magdebourg | |
+
+**⚠️⚠️ COLLISION DE NOM A CONSIGNER AVANT QU ELLE NE COUTE UNE FAUTE : `PG PROJEKT Glas` N A RIEN A
+VOIR AVEC LE `Groupe PG Glass` DU §7**, qui est le compte protege de Willem Heunis en Afrique
+australe et qui possede PFG Building Glass. Six fiches du registre portent deja `PG`. **Un grep sur
+`pg` les melangera**, et le §7 interdit de demarcher l une quand l autre est une cible parfaitement
+legitime. **Le grep a faire est `projekt`, pas `pg`** — c est la regle du 11/10 sur le plus court
+element distinctif, prise dans le sens ou le mot court est AMBIGU plutot que concatene.
+
+**CE QUE CETTE VAGUE ETABLIT SUR LA METHODE, et c est la vraie prise de l appel :** les deux vagues
+precedentes interrogeaient le reseau par **region** et rendaient un melange de grossistes et de
+maitres-vitriers, dont les deux plus proches de l entrepot se sont reveles de la classe a zero pour
+cent. **Interroger par le MOT DU METIER rend six grossistes sur six.** Le tri par metier ne se fait
+donc pas seulement apres la recherche, il se fait DANS la requete — et il coute le meme appel.
+
+**Les quelque 33 noms restants se prendront de la meme facon**, par les mots du metier plutot que
+par les villes : *Isolierglas*, *Veredelung*, *Zuschnitt*, *Lager*, *Haendler*, *Grosshandel*.

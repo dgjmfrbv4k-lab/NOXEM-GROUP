@@ -7320,3 +7320,44 @@ secondes par vague contre le risque d'une vague entiere partie de la mauvaise ad
 
 **LA VAGUE DES AMERIQUES REPART**, par vagues de cinq espacees comme l'impose le paragraphe 10,
 avec relecture de l'expediteur entre chaque.
+
+
+## 14/10/2026 — 15h52 — bloc allemand : le reseau Flachglas MarkenKreis ouvert en trois vagues
+
+**Chiffres du jour, tous substitues depuis le registre et non saisis a la main :**
+38 premiers contacts, 28 relances, 33 pays touches, 1237 fiches au registre.
+
+**Les quatre envois allemands de l apres-midi**, textes 135 a 138 :
+Glaswerke Wolff + Meier (Langgoens), Mosa Glas (Echt, un seul message pour le groupe NL plus DE),
+Glaszentrum Dortmund et Schwan Glas (Duesseldorf).
+
+**Ce que le gisement a rendu en quatre appels de recherche : dix-neuf noms, dont dix-sept absents
+du registre.** Trois vagues, et la troisieme explique les deux premieres.
+Un, par region proche de la Belgique : neuf noms.
+Deux, identites levees avant creation : Tardis et Steenebrugge distinctes malgre le code postal
+partage, GLS un seul compte sur deux sites.
+Trois, par le MOT DU METIER au lieu de la region : six grossistes sur six.
+
+**LA PRISE DE METHODE DU JOUR EST LA TROISIEME VAGUE.** Interroger un annuaire de federation par
+region rend un melange de grossistes et de maitres-vitriers ; l interroger par Glasgrosshandel et
+Lager rend six grossistes sur six. **Le tri par metier du paragraphe 6 ne se fait pas seulement
+apres la recherche, il se fait DANS la requete, et il coute le meme appel.**
+
+**ET LE RESULTAT LE PLUS UTILE EST UN RENONCEMENT.** Carl Abel a Euskirchen et Glastechnik Engels a
+Essen sont les **deux maisons les plus proches de l entrepot** de tout le releve, 180 et 270 km.
+Les deux sont de la classe **verrier plus pose**, mesuree a **zero pour cent sur onze fiches**, et
+le perimetre du paragraphe 4 dit la meme chose par l autre bout : un poseur achete coupe au coup
+par coup et ne peut pas absorber vingt-cinq tonnes de feuille. **Fiches creees, adressees, et rien
+envoye.** Le tri par metier passe avant la proximite, meme quand la consigne du jour est la
+proximite — et les deux fiches sont pretes si Kevin veut trancher autrement.
+
+**Deux lecons portees au mandat.** Un certificat de performance nomme le fabricant du substrat, et
+c est une source meilleure qu une page fournisseurs parce qu elle est **obligatoire** : le
+certificat SGG Climaplus de Wolff plus Meier a donne leur fournisseur sans un appel de plus. Et une
+federation professionnelle **identifie sans qualifier**, verifie le meme jour sur l axe de l adresse
+et sur celui du metier.
+
+**Reste a faire sur ce gisement :** GLS a lever (verre de couleur ou verre plat de batiment),
+Steenebrugge et Schuet-Duis a rechercher sur leur nom seul, les six grossistes de la troisieme
+vague a deverrouiller, et environ trente-trois noms encore a extraire par les mots du metier.
+**Glas Fritz ouvre la SUISSE**, pays jamais prospecte.
