@@ -6759,3 +6759,71 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 130. L&B Glas — Lawaczeck & Blankenheim (Bonn) — `office@lawaglas.de` — ALLEMAND — négoce
+
+**PREMIER MESSAGE ALLEMAND DE LA CAMPAGNE, et la fiche est bonne pour une raison qu'ils écrivent
+eux-mêmes : ils ne vendent qu'aux `weiterverarbeitende Fachbetriebe`,** c'est-à-dire aux
+entreprises qui transforment le verre. **Un grossiste qui alimente des transformateurs est
+exactement l'acheteur de conteneur que cette campagne cherche** — c'est le profil Vidriería
+F. Morales, et c'est la classe négoce, 10 % de réponses.
+Grossiste **régional** de verre plat à Bonn-Dransdorf, HRB 3993 au tribunal de Bonn.
+**⚠️ INTERDIT DU §6 : JAMAIS l'absence de production locale en Allemagne.** Saint-Gobain a une
+usine float à **Stolberg**, et le pays en compte plusieurs autres. L'angle est la **seconde
+origine**, jamais l'absence d'offre. **Et aucun argument douanier** — nous sommes tous deux dans
+l'Union, il n'y a rien à dire.
+**⚠️ Le domaine `lawaglas.de` ne ressemble pas à la raison sociale `L&B Glas Lawaczeck &
+Blankenheim`** — mais c'est bien **leur** site, et l'adresse y est publiée, donc le §5 est
+satisfait sans exception à noter. Plusieurs annuaires donnent des numéros contradictoires dont un
+indicatif de Fribourg : seul celui du site est retenu.
+
+```
+Sehr geehrte Damen und Herren,
+
+dies ist ein Lieferangebot und keine Preisanfrage. Sollten Sie nicht fuer den
+Einkauf von Basisglas zustaendig sein, waere ich Ihnen dankbar, wenn Sie diese
+Nachricht weiterleiten.
+
+Mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich.
+
+Ich schreibe Ihnen wegen eines Satzes, den Sie selbst ueber Ihr Haus schreiben:
+Sie beliefern ausschliesslich weiterverarbeitende Fachbetriebe. Genau das ist
+der Grund dieser Nachricht. Wer Verarbeiter beliefert, kauft in Mengen und
+haengt davon ab, dass die Ware regelmaessig hereinkommt - und deshalb
+interessiert eine zweite Bezugsquelle meist, bevor sie gebraucht wird.
+
+Was wir liefern, ist ausschliesslich Basisglas in Tafeln:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegel ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- Lackiertes Glas fuer den Innenausbau: https://noxemgroup.com/en/lacquered-glass/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken und Beschichtungen bei Ihnen
+am meisten umgeschlagen werden, welche Tafelmasse Ihren Betrieben passen, eine
+ungefaehre Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie
+gerechnet haben moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

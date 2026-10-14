@@ -90,7 +90,19 @@ CONDITIONNELS = [r'\bantidumping\b', r'\bdroits? de douane\b', r'\btariffs?\b',
 # C'est la panne du paragraphe 12 : un controleur dont le vocabulaire est plus pauvre que celui
 # des textes crie au loup, et un garde-fou qui crie au loup finit ignore. Le remede est
 # TOUJOURS d'enrichir la liste, JAMAIS de reecrire le texte pour plaire au controle.
+# ⚠️ CINQUIEME FOIS, LE 14/10 A 15h50, ET CELLE-CI ETAIT ANNONCEE : l'ALLEMAND manquait aux deux
+# listes au moment du texte 130, premier message allemand de la campagne. Il portait bien la
+# formule, vorbehaltlich einer Bestaetigung unsererseits, et bien la porte de sortie, dann hake
+# ich nicht nach, et il a ete refuse sur les deux.
+# LA LECON N'EST PLUS d'ajouter une langue, c'est que CHAQUE LANGUE NEUVE COUTE UN REFUS A TORT.
+# La campagne ecrit desormais en SIX langues : francais, anglais, espagnol, portugais,
+# neerlandais et allemand. Donc : avant d'ecrire le PREMIER texte dans une langue nouvelle, on
+# nourrit ces deux listes, on ne les repare pas apres coup. Le controle n'est pas en cause, il
+# ne peut pas deviner une langue qu'on ne lui a jamais donnee.
 FORMULE = ['subject to validation on our side',
+           'vorbehaltlich einer bestaetigung unsererseits',
+           'vorbehaltlich einer bestätigung unsererseits',
+           'vorbehaltlich unserer bestaetigung',
            'onder voorbehoud van validatie van onze kant',
            'onder voorbehoud van validatie onzerzijds',
            'sous reserve de validation de notre cote',
@@ -129,7 +141,9 @@ SORTIE = ['not write again', 'no insistire', "n'insisterai pas", 'n insisterai p
           'nao voltarei a escrever', 'no volvere a escribir', 'no volveré a escribir',
           'nao voltarei a escrever-lhes', 'will not push', 'no insisto',
           "je n'insiste pas", 'je n insiste pas', 'nao insisto', 'não insisto',
-          'dring ik niet aan', 'dan dring ik niet aan', 'schrijf ik u niet meer']
+          'dring ik niet aan', 'dan dring ik niet aan', 'schrijf ik u niet meer',
+          'hake ich nicht nach', 'dann hake ich nicht nach', 'schreibe ich nicht wieder',
+          'melde ich mich nicht wieder']
 MORT = '+33 7 69'
 SIGNATURE = 'president - noxem group sas'
 
