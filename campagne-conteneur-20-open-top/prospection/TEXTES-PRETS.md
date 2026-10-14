@@ -6903,3 +6903,74 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 132. Reeder & Kamp KG (Wuppertal et Hamm) — `info@reeder-kamp.de` — ALLEMAND — négoce et verrier
+
+**Leur propre enseigne dit les deux métiers à la fois : `Flachglasgroßhandel & Isolierglasproduktion`**
+— grossiste de verre plat **et** producteur de vitrage isolant. C'est le croisement des deux
+meilleures classes de la mesure du 13/10, négoce à 10 % et verrier pur à 12,8 %.
+Maison familiale, direction Happich-Reeder. **Deux sites, Wuppertal (siège, Funckstraße 79) et
+Hamm (Gewerbepark 32), et une SEULE adresse générale pour les deux** : critère du bureau d'achat du
+§12, **un seul message**.
+**⚠️ RÈGLE PRODIESA :** le vitrage isolant est leur production, il sort de l'offre. Ce qui entre
+est ce qu'une ligne d'unités scellées consomme — **le low-E en feuille d'abord**, comme pour
+Sprimoglass.
+**⚠️ DES ADRESSES NOMINATIVES SONT PUBLIÉES** sur leurs annuaires de personnel, avec les fonctions
+vente, conseil technique, production et comptabilité. **Aucune n'est employée** : le §5 exige une
+fonction pertinente pour les **achats**, et la vente n'en est pas une — c'est la leçon MunnWorks du
+12/10 sur le mot *purchasing inquiries*.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+
+```
+Sehr geehrte Damen und Herren,
+
+dies ist ein Lieferangebot und keine Preisanfrage. Ich schreibe an die
+allgemeine Adresse und nicht an einen Ihrer beiden Standorte einzeln, weil es
+um das Basisglas geht und das vermutlich an einer Stelle eingekauft wird.
+Sollten Sie nicht die zustaendige Person sein, waere ich Ihnen dankbar, wenn
+Sie diese Nachricht weiterleiten.
+
+Mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich.
+
+Ihr eigener Firmenname nennt beide Seiten Ihres Hauses: Flachglasgrosshandel
+und Isolierglasproduktion. Genau diese Verbindung ist der Grund dieser
+Nachricht. Wer selbst Isolierglas fertigt UND Handel treibt, kauft Tafelware
+in Mengen, und eine Fertigungsstrasse steht still, wenn nichts hereinkommt.
+
+Ich biete Ihnen deshalb kein Isolierglas an - das stellen Sie selbst her. Nur
+das, was davor hereinkommt:
+
+- Beschichtetes Waermedaemmglas, bei einer Isolierglaslinie das eigentliche
+  Thema: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Spiegelrohware ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits. Ein
+Container, der sich auf Wuppertal und Hamm verteilt, bleibt ein Container.
+
+Dafuer brauche ich vier Angaben: welche Beschichtungen und Staerken Ihre Linie
+am meisten verbraucht, welche Tafelmasse dazu passen, eine ungefaehre
+Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie gerechnet haben
+moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
