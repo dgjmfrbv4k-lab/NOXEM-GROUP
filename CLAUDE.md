@@ -1128,6 +1128,34 @@ avoir épuisé les trois**, jamais sur le seul moteur.
 QUALIFIE pas.** Chacun des noms ci-dessus a été vérifié sur le site de la société avant d'ouvrir une
 fiche, et c'est ainsi que six distributeurs de machines et un verrier creux ont été écartés.
 
+**⚠️⚠️ UN CRITÈRE QUI VAUT MIEUX QUE CETTE LISTE, DÉGAGÉ LE 14/10 À 13h20 APRÈS QUATRE ÉCARTS EN UNE
+MATINÉE : LE FRAGMENT DE MARQUE DANS UNE RAISON SOCIALE. C'est le frère du critère Pasabahçe du 09/10,
+et il a travaillé deux fois le même jour à cinq mille kilomètres d'écart.**
+· **Glavergulf FZCO** (Jebel Ali) et **Gutal Trading FZCO**, même parcelle S10702 : distributeur et
+  agence **exclusifs d'AGC Glass Europe**, ex-**Glaverbel**.
+· **Glaverpane SA** (Moustier, Jemeppe-sur-Sambre) : groupe **AGC**, code NACE *fabrication de verre
+  plat*, 78 M€ de chiffre d'affaires en 2024 — **et son siège est RUE DE LA GLACERIE**, c'est-à-dire le
+  site même où Glaverbel a monté en 1965 la première ligne float d'Europe continentale.
+· **AGC Gedopt** (Wijnegem) : grossiste de la gamme **complète** AGC.
+· **Glassolutions Glorieux** (Kuurne) : devenue **Saint-Gobain Innovative Materials Belgium**.
+**LE SIGNAL EST `GLAVER`, et ce n'est pas un mot, c'est un morceau de marque.** Il faut dire la
+différence avec le piège inverse du §6, parce qu'elles se ressemblent et s'opposent : *zoujaj* veut dire
+**verre en arabe** et ne renvoie donc à personne — Bullseye Zoujaj est une cible. *Glaver* ne veut rien
+dire en aucune langue : c'est un fragment de **Glaverbel**, donc un fait vérifiable, exactement comme une
+marque dans une gamme. **Un mot commun du métier n'autorise rien ; un fragment de marque impose la
+vérification avant d'ouvrir la fiche.** À ajouter à la liste des fragments : `glaver`, `sg` et
+`saint-gobain`, `agc`, `nsg`, `pilkington`, `guardian`, `vitro`, `xinyi`, `kibing`, `sisecam`, `fuyao`.
+**ET LE FAIT DE STRUCTURE QUE CES QUATRE CAS ÉTABLISSENT, qui vaut mieux que les quatre fiches fermées :
+EN BELGIQUE ET DANS LE GOLFE, LES GROS GROSSISTES DE VERRE PLAT APPARTIENNENT AUX PRODUCTEURS FLOAT.**
+Sur le relevé belge du 14/10, les trois maisons que l'annuaire donnait pour les plus grosses sont toutes
+les trois des filiales — deux AGC, une Saint-Gobain. **Donc le négociant INDÉPENDANT y est l'exception,
+et c'est lui, et lui seul, qui est notre client.** Conduite : sur un marché européen ou golfien, le
+premier travail n'est pas de trouver le plus gros, c'est de trouver celui qui n'appartient à personne.
+**Et le contre-exemple favorable du même jour dit ce qu'on cherche, mot pour mot : Intraco UAE se
+présente comme agent et distributeur de PLUSIEURS fabricants, au pluriel.** C'est le mot *independent*
+de Glenny Glass dans une autre langue, et c'est le seul profil pour qui une origine de plus est une
+option plutôt qu'une rupture de contrat.
+
 **Producteurs float = concurrents, pas prospects :** Obeikan, Guardian, Mediterranean Float
 Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,
 Vidrios Lirquén, **VASA** (précisé le 11/10 : *Vidriería Argentina S.A.*, née en **1938** de l'association de **NSG-Pilkington** et de **Saint-Gobain**, usines de **Llavallol** et de **Los Cardales** en province de Buenos Aires, Cardales annoncée à ~**900 t/jour** — et surtout elle **opère dans QUATRE pays : Argentine, Bolivie, Paraguay et Uruguay**, ~500 salariés. Donc *VASA Vidriería Boliviana* à Santa Cruz appartient au groupe et a été fermée ce jour-là, elle était restée en `A QUALIFIER`. `verif-argument-float.py` portait déjà les quatre pays, une session précédente ayant appliqué la règle du périmètre de la source), Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long,

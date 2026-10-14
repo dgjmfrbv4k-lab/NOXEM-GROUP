@@ -6353,3 +6353,76 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+---
+
+## 124. Intraco UAE Limited (Jebel Ali, Dubaï) — `sales@intraco-me.com` — ANGLAIS — négoce stockiste
+
+**LA MEILLEURE CIBLE OUVERTE DEPUIS LONGTEMPS, et ce sont leurs propres mots qui la qualifient.**
+Ils se disent le plus gros stockiste de float de leur marché, environ **900 000 m² de capacité à
+Jebel Ali**, et ils vendent des **feuilles de stock recuites** que le client coupe, trempe ou
+assemble ensuite. Donc ils achètent de la feuille et n'en fabriquent pas : **la règle Prodiesa
+laisse toute la gamme substrat ouverte.** Et surtout ils se présentent comme agent et distributeur
+de **plusieurs** fabricants, au pluriel — c'est l'angle du texte 117 sur Glenny Glass, et c'est le
+seul profil pour qui une origine de plus est une option et non une complication.
+
+**⚠️ DEUX INTERDITS DU §6 TENUS À LA LETTRE.** Un, **jamais l'absence de production locale aux
+Émirats**, qui ont Emirates Float Glass à 600 t/jour, en cours de doublement, et Guardian. Deux,
+**rien sur les droits de douane**. L'angle est la place de **réexport** : un négociant de Jebel Ali
+achète plusieurs origines à la fois pour servir l'Afrique de l'Est et l'Asie du Sud.
+
+**⚠️ ET UNE RÉSERVE DE FORMAT À NE PAS ENFREINDRE.** Leurs cotes de stock sont 214 × 330 et
+244 × 330 cm, dont la petite dimension tient dans le ruban — c'est le cas Rubex. **Mais leur
+troisième cote, 518 × 330, a 3300 mm en petite dimension, donc au-delà des 3210.** Le message ne
+promet aucun format : il demande les leurs.
+**Adresse `sales@` lue sur leur propre page de contact, domaine du site, §5 satisfait sans
+exception. Aucun nom de personne employé.**
+
+```
+Hello,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys glass, I would be grateful if you passed this on to whoever
+does.
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing because of two things you say about yourselves, and they go
+together. You hold float and high-performance architectural glass in stock at
+Jebel Ali on a scale very few houses do, and you act as agent and distributor
+for several manufacturers rather than one. The second is the reason for this
+message: a house tied to a single producer cannot take another origin, and a
+multi-brand stockist does it as a matter of course.
+
+I am not offering anything you make, because you do not make it. I am offering
+sheet to put on your racks:
+
+- clear and extra-clear float: https://noxemgroup.com/en/float-glass/
+- low-emissivity coated glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror, which does not creep at the edges in
+  humid coastal air: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- lacquered glass for interior work: https://noxemgroup.com/en/lacquered-glass/
+
+We ship in FULL CONTAINERS, in ISPM-15 treated wooden crates, in 3210 x 2550 mm
+jumbo sheets or cut to the sizes you stock, 23 to 25 tonnes payload. We can
+establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+One thing I would rather ask than assume: you publish stock sheet sizes in
+several formats, and the sizes a supplier can run are not the same as the sizes
+a supplier can sell. So before anything else, tell me which sheet sizes and
+which thicknesses actually turn for you, roughly what volume and how often, and
+I will come back on what we can and cannot do.
+
+And if your current sources cover you with no room for another origin, say so
+plainly and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
