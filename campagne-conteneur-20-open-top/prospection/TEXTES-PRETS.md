@@ -7468,3 +7468,77 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 140. Schüt-Duis (Aurich) — `info@schuet-duis.de` — ALLEMAND — menuiserie AVEC deux lignes d'isolant
+
+**⚠️⚠️ CETTE FICHE CORRIGE LA MESURE DU 13/10 PAR LA BANDE, ET IL FAUT LE DIRE PARCE QUE J'ALLAIS LA
+CLASSER EN DERNIER.** Sa raison sociale est *Schüt-Duis **Fenster & Türentechnik*** — menuiserie de
+fenêtres et de portes, c'est-à-dire la classe mesurée à **3,6 %**, et le relevé la donnait de surcroît
+à 400 km, plein nord, hors du rayon de Kevin. **Elle était la dernière de ma liste.**
+**Vérification faite sur leur propre site : ils exploitent DEUX LIGNES de fabrication de vitrage
+isolant**, sous leur marque *Jedopane*, pour fenêtres, façades et vérandas. Maison fondée en **1838**,
+septième génération.
+**CE QUE CELA CHANGE, ET C'EST UNE PRÉCISION DE LA RÈGLE PLUTÔT QU'UNE EXCEPTION :** le raisonnement
+du 13/10 dit qu'un poseur achète **coupé et transformé** au coup par coup, tandis qu'« un trempeur a
+un four qui ne tourne que si de la feuille entre ». **Deux lignes d'isolant sont exactement un four de
+ce point de vue.** Donc **ce n'est pas l'étiquette du métier qui décide, c'est la possession d'une
+ligne qui CONSOMME DE LA FEUILLE.** Un menuisier sans ligne achète du vitrage fini ; celui-ci achète
+du float et du couché au volume.
+**⚠️ UNE BOÎTE DE DÉPARTEMENT ÉCARTÉE VOLONTAIREMENT, ET C'EST LE TEST MUNNWORKS :** ils publient
+`jedopane@schuet-duis.de`, la boîte de leur marque d'isolant. Tentant — mais *Jedopane* est ce qu'ils
+**vendent**, et la page la présente avec le *Vertriebsinnendienst*, le service **commercial interne**.
+C'est donc la boîte des **clients qui achètent chez eux**, pas celle de leurs achats : le côté
+`openorders@` et non le côté `inkoop@`. Envoi sur `info@`, l'adresse centrale.
+**Et `hluebben@` est écartée pour la même raison** — Heidi Lübben est au *Vertriebsinnendienst*, donc
+à la vente. Le §5 exige une fonction pertinente pour les **achats**.
+**⚠️ Quatre gérants relevés, et les sources se contredisent sur les noms** — raison de plus de ne
+nommer personne. Les noms de leur propre page sont dans la fiche pour l'appel.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Dies ist ein Lieferangebot und
+keine Preisanfrage - falls Sie nicht einkaufen, waere ich Ihnen dankbar, wenn
+Sie es an den Einkauf weitergeben.
+
+Ich schreibe Ihnen wegen Ihrer Isolierglasfertigung und nicht wegen des
+Fensterbaus. Sie betreiben zwei Linien fuer Waermeschutzverbundglaeser. Zwei
+Linien heisst: Tafelware muss hereinkommen, regelmaessig und in Mengen, sonst
+stehen sie. Genau da - und nur da - kann ich Ihnen nuetzlich sein.
+
+Ich biete Ihnen deshalb nichts an, was Sie selbst fertigen - kein
+Isolierglas, keine Fenster. Nur die Tafelware, die davor hereinkommt:
+
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Spiegelrohware ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Beschichtungen und Staerken Ihre
+beiden Linien am meisten verbrauchen, welche Tafelmasse dort passen, eine
+ungefaehre Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie
+gerechnet haben moechten, Hamburg, Bremerhaven oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
