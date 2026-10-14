@@ -142,6 +142,24 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   SEVAM, et c'est pourtant du verre plat — double vitrage, ITR, contrôle solaire. **Le mot n'autorise
   donc ni à ouvrir une fiche ni à la fermer : seule l'activité décide.** Les deux sociétés sont à Sfax,
   l'une est une cible en file d'envoi et l'autre est fermée.
+  **HUITIÈME CAS LE 14/10 À 11h19, ET IL ATTAQUE LA RÈGLE PAR UN CÔTÉ QU'ELLE NE COUVRAIT PAS : LA FAUSSE
+  QUALIFICATION NE VENAIT PAS D'UN ANNUAIRE NI D'UN COURTIER, MAIS D'UN PORTAIL SECTORIEL — c'est-à-dire
+  d'une source que le §5 autorise expressément.** `vidrioperfil.com` décrit **IMPOREX S.A.** (Montevideo)
+  comme « importador y comercial de **vidrio plano** ». C'était la meilleure piste uruguayenne du jour, et
+  le pays n'a que deux fiches. **Second temps fait sur leur propre domaine : leurs lignes de produits sont
+  des RÉCIPIENTS EN VERRE, de la VERRERIE et des ARTS DE LA TABLE. Pas une page de verre plat.** Un annuaire
+  ajoute que la société aurait fermé, et ses numéros ne concordent pas d'une source à l'autre. **Aucune
+  fiche créée.**
+  **CE QUE CELA AJOUTE, ET C'EST UNE PRÉCISION ET NON UNE EXCEPTION :** le §5 dit déjà de chercher les mots
+  pièges **dans ce que la société dit d'elle-même**. Ce cas montre pourquoi ce « d'elle-même » n'est pas
+  décoratif : **un portail sectoriel est une piste d'IDENTIFICATION légitime, il n'est pas une source de
+  QUALIFICATION.** La distinction est exactement celle qu'on applique aux courtiers — le nom se prend, le
+  métier se réétablit — sauf qu'ici la source est permise, ce qui la rend plus dangereuse : on est tenté de
+  la croire. **Le métier ne se lit que sur le site de la société, et nulle part ailleurs.**
+  **Et c'est la même journée qui a donné le contre-exemple favorable**, ce qui rend la règle utilisable
+  plutôt que paralysante : le même portail a rendu **Industrial Mercantil San Simón** au Guatemala, et là le
+  second temps a **confirmé** le métier sur leur propre page float. Le portail ne ment pas plus qu'il ne dit
+  vrai : **il désigne où regarder.**
 - **Jamais inventer un dirigeant.** Nom utilisé uniquement si la **fonction est vérifiée**
   et pertinente (achats, import, direction). Sinon, message au service.
 - **Jamais prétendre qu'un prospect a consulté le site** sans donnée le confirmant.
