@@ -8880,3 +8880,73 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 160. VidrioPleno (Buenos Aires) — `ventas@vidriopleno.com.ar` — ESPAGNOL — miroiterie avec atelier, float 2 à 19 mm
+
+**Vérifié avant d'écrire :**
+- Mots distinctifs grepés avant création, `vidrio pleno` et `vidriopleno`, les deux formes : **absents du registre**. Les autres noms du relevé argentin ont été grepés un par un — Marcelo Trento (relancée le 08/10) et La Casa de los Cristales (envoyée aujourd'hui) **sont déjà au registre**.
+- **Classe établie, et c'est elle qui décide ici, pas le signal des épaisseurs** : *venta de VIDRIOS Y ESPEJOS* avec **atelier de polissage et de biseautage**. C'est la classe **verrier pur**, mesurée à **12,8 %** le 13/10, la meilleure du registre. Un atelier de biseautage consomme de la feuille.
+- **Et il faut dire pourquoi le critère des épaisseurs ne joue PAS contre elle**, parce que je l'ai appliqué quatre fois aujourd'hui pour refuser un envoi : ce critère a été dégagé pour séparer un **stockiste** d'un **façadier**. Vidrio Pleno n'est pas un façadier, c'est un verrier. La mesure de classe l'emporte, et elle est favorable.
+- Leur fiche technique float donne quand même **2, 3, 4, 5, 6, 8, 10, 12, 15 et 19 mm**, et ils ont une page feuilleté.
+- Adresses `info@` et `ventas@vidriopleno.com.ar` lues sur **leur page de contact**, domaine du site : §5 satisfait sans exception. **`ventas@` retenue**, la boîte commerciale valant mieux que la générale — règle de l'agence du §13.
+- ⚠ **Réserve de fraîcheur** : les pages ont plus de trois ans d'après leurs métadonnées. Martinez Rosas 1425, CABA, 8h-12h et 13h-18h.
+- **Règle Prodiesa** : le feuilleté, le polissage et le biseautage sont leur métier, ils sortent de l'offre. Seul le **substrat** y entre.
+- **INTERDIT DU §6 TENU : jamais l'absence de production locale en Argentine — VASA produit à Llavallol et à Los Cardales**, et opère sur quatre pays. **Aucun argument douanier** non plus : rien n'est établi pour l'Argentine.
+- Jour ouvré et heure vérifiés, mercredi, 13h50 à Buenos Aires. Port : Buenos Aires.
+
+**Objet :** Vidrio float y espejo en contenedor completo — origen europea
+
+**Corps :**
+
+```
+Estimados señores,
+
+Me llamo Aaron Harfi, dirijo NOXEM GROUP, proveedor y exportador de
+vidrio plano cerca de Lyon, en Francia.
+
+Les escribo porque ustedes trabajan vidrio y espejo con taller propio
+de pulido y biselado. Un taller así consume lámina, no vidrio ya
+cortado, y es exactamente ahí donde podemos ser útiles — y en ningún
+otro lugar: lo que ustedes elaboran no se lo vamos a ofrecer.
+
+Nuestras referencias de sustrato:
+
+- vidrio float claro y extra claro
+  https://noxemgroup.com/en/float-glass/
+- espejo sin cobre ni plomo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidrio de baja emisividad (low-E)
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Las páginas están en inglés, el sitio no existe en español: el float
+claro y extra claro es la base, el espejo sin cobre ni plomo resiste
+mucho mejor la humedad que un espejo plateado convencional, y el
+low-E va al vidrio aislante.
+
+Trabajamos en contenedores completos, en cajas de madera tratada
+NIMP-15, en jumbo 3210 x 2550 mm o en las medidas que ustedes pidan.
+Lo que ofrecemos es un origen europeo directo, cargado en origen y
+entregado en su puerto.
+
+Podemos establecer una oferta para la entrega en su puerto de
+destino, Buenos Aires, sujeta a validación por nuestra parte.
+
+Para que la oferta sirva de algo, ¿me puede indicar las referencias y
+los espesores que compran, los formatos, el volumen aproximado y la
+frecuencia de sus compras?
+
+Y si ya están comprometidos con su proveedor actual, dígamelo con
+franqueza y no insisto.
+
+Quedo a su disposición.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
