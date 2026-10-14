@@ -200,6 +200,13 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   recherche d'importateur. **C'était l'unique résultat au monde pour le nom cherché**, ce qui
   illustre le coût réel de la règle : sur cette fiche-là, s'interdire le courtier revient à ne rien
   savoir du tout.
+  **ET DEUX DE PLUS LE MÊME JOUR À 11h27, SUR DES RECHERCHES CANADIENNE ET AMÉRICAINE : `wiza.co` et
+  `clodura.ai`**, qui vendent des contacts et des coordonnées de salariés par société. Même nature que
+  ContactOut et SignalHire, donc même interdit. **Ce qu'ils proposaient sur Saand est exactement ce que
+  le §5 appelle inventer une adresse** : non pas une adresse relevée, mais un **schéma** en
+  prénom-point-nom sur le domaine de la société. Une adresse déduite d'un schéma est une adresse
+  inventée, quel que soit le sérieux apparent de l'outil qui la propose — c'est le même piège que
+  `prospeo.io` sur Lahey Glass le 13/10, et c'est la deuxième fois en deux jours.
   **LA RÈGLE QUI SE DÉGAGE, ET ELLE EST PLUS FINE QUE « NE PAS UTILISER LE SITE » :** un résultat de
   courtier peut **nommer** une société, et un nom n'est pas une donnée vendue — c'est ainsi qu'on apprend
   qu'elle existe. **Ce qui est interdit est de reprendre sa QUALIFICATION** : volumes, origines, ports,
