@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **14/10/2026** depuis le registre. **210 societes** portent un telephone et
+Regeneree le **14/10/2026** depuis le registre. **212 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 210 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 212 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 189 societes
+## Hors Europe — 191 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -129,8 +129,10 @@ ne pas les appeler en se presentant comme un premier contact.
 | Argentine | **Herramaq Argentina** | `+54 2323 473460` | 14h00 - 22h00 | A APPELER | Transformateur verre plat trempe 4 a 19 mm. Adresse email trouvee mais sur un domaine different du site : appeler pour confirmer. Port Buenos Aires. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverro... |
 | Australie | **Glass Wholesale** | `+61 3 9969 2009` | 00h00 - 08h00 | A APPELER | Formulaire de contact uniquement. DEVERROUILLEE LE 08/10 : info arobase glasswholesale.com.au figure dans leurs propres documents de demande de compte client, a cote du standard 03 9969 2009, domaine identique a celui du site. ... |
 | Australie | **Davis Glass** | `+61 3 9330 1200` | 00h00 - 08h00 | A APPELER | Formulaire de contact uniquement. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : leur page de contact ne propose qu un formulaire, et je ne devine pas une adresse. Reste un dossier telephonique, 03 9330 1200. Adresse 156 Melrose Dr... |
+| Brésil | **Solida Vidros — Solida Industria Distribuicao e Comercio de Vidros Ltda** | `+55 61 3021 1493` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 14/10 A 18h40, EN DOSSIER TELEPHONIQUE. Mot distinctif grepe avant creation, solida, deux correspondances sans rapport, Industrias ConSOLIDAdas au Salvador et Avery Glass aux Etats-Unis. Absente du registre. ORIG... |
 | Brésil | **LM Vidros** | `+55 67 3303 2400` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 13/10 A 08h24. Nom grepe avant creation sous les deux formes, lm vid et lmvidros, pour ne pas repeter la faute Alphaglass du paragraphe 5 ou une concatenation masquait la forme separee. Absent. AUCUNE ADRESSE RET... |
 | Brésil | **Rio Vidros** | `+55 41 3663 1810` | 14h00 - 22h00 | A APPELER | Creee le 13/10 a 17h03. Mot distinctif grepe avant creation, rio vidr, absent. LE PARANA N'AVAIT AUCUNE FICHE. Site centre sur le float selon la recherche large. Aucun appel de recherche depense sur elle : le metier exact, nego... |
+| Brésil | **Grupo Araujo** | `+55 21 3745 3836` | 14h00 - 22h00 | A APPELER | FICHE CREEE ET ENVOYEE LE 14/10 A 18h44. Mot distinctif grepe avant creation, araujo, absent du registre. ORIGINE DE LA PISTE, ET ELLE VAUT PLUS QUE LA FICHE : elle est ASSOCIEE D ABRAVIDRO, et sa page figure a abravidro.org.br... |
 | Brésil | **Alusupra Alumínio** | `+55 48 3242-3473` | 14h00 - 22h00 | A QUALIFIER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
 | Cambodge | **Pang Luon (Pranet) Import-Export & Construction Co. Ltd** | `023 212 578 et 012 814 567 et 012 558 111 siege, 023 726 343 et 012 349 888 succursale` | 04h00 - 12h00 | A APPELER | Fondee en 1992. Importateur declare de float. 408ABC Preah Monivong Blvd. Angle retenu : la meme chose en un maillon de moins, direct depuis un distributeur europeen. Ports Sihanoukville ou Phnom Penh. Mini-mail sur mesure EN C... |
 | Canada | **Lahey Glass** | `+1 902 462 8000` | 15h00 - 23h00 | A APPELER | Adresse brent.macintyre citee sans recoupement du domaine : appeler plutot que deviner. VERIFIE LE 08/10, RESULTAT NEGATIF : trois recherches, dont une restreinte au domaine laheyglass.ca, ne rendent aucun resultat. Le domaine ... |

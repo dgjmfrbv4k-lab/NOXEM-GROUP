@@ -9027,3 +9027,79 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 162. Cyberglass (São Paulo, Parque da Moóca) — `comercial@cyberglass.com.br` — PORTUGAIS — 75 ans, gros, feuilleteur certifié
+
+**Vérifié avant d'écrire :**
+- Mot distinctif grepé avant création, `cyberglass` : **absent du registre**.
+- **Deux fois associée d'ABRAVIDRO** : page `abravidro.org.br/empresas-associadas/cyberglass` **et** présence sur la liste des **feuilleteurs certifiés**, qui est la liste courte et de meilleure classe.
+- **Profil, et c'est le meilleur du soir** : **75 ans de marché**, et elle commercialise **principalement en GROS**. Classe négoce croisée avec une ligne de feuilletage — les deux meilleures classes de la mesure du 13/10 dans la même maison.
+- **⚠⚠ FOURNISSEURS NOMMÉS SANS RIEN DEMANDER, et il y en a QUATRE : elle est distributrice de GUARDIAN, CEBRACE, SAINT-GOBAIN et UBV.** C'est la règle du fragment de marque lue dans le bon champ — une marque dans une **gamme** dit qu'on **achète** — et c'est la fiche la mieux renseignée de la campagne sur ce point. **Deux des quatre sont des producteurs float brésiliens** (Guardian, Cebrace).
+- **Conséquence directe sur le texte : leur approvisionnement est très verrouillé**, donc la **porte de sortie du §9 est obligatoire** et la probabilité modeste. On écrit quand même, parce qu'un grossiste à quatre marques est précisément le profil *Intraco* du §6 — celui pour qui une origine de plus est une option et non une rupture.
+- Adresse `comercial@cyberglass.com.br` lue sur **leur page de contacts**, domaine du site, §5 satisfait sans exception. **La boîte commerciale est préférée à `contato@`**, règle de l'agence du §13.
+- **Règle Prodiesa** : le feuilleté est leur fabrication, il sort de l'offre. Seul le **substrat** y entre.
+- **⚠ RÉSERVE DU §4 TENUE** : leur autoclave accepte jusqu'à **3210 × 6000 mm**, ce qui est le **PLF strict**. C'est *leur* capacité, pas une demande faite à nous, et le §4 interdit d'annoncer un grand format PLF tant qu'Aaron ne l'a pas dit. **Le texte ne sort donc pas de la formule standard** — jumbo 3210 × 2550 ou à cotes. ⚠ Les sources divergent aussi sur l'épaisseur maximale, 100 mm sur leur site et 50 mm chez ABRAVIDRO : **rien n'en est écrit**.
+- **INTERDIT DU §6 TENU** : jamais l'absence de production locale au Brésil — et c'est d'autant plus vrai qu'ils distribuent deux des quatre producteurs. Argument **douanier confiné au float clair**, aucun taux.
+- Jour ouvré et heure vérifiés, mercredi, 13h42 à São Paulo. Port : Santos.
+
+**Objet :** Vidro float e espelho em contêiner completo — origem europeia
+
+**Corps :**
+
+```
+Prezados senhores,
+
+Meu nome é Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e
+exportadora de vidro plano perto de Lyon, na França.
+
+Escrevo-lhes porque vocês atuam há setenta e cinco anos e comercializam
+principalmente no atacado, com laminação própria. Uma casa assim
+compra chapa, e é exatamente aí que podemos ser úteis — e em nenhum
+outro lugar: o laminado é de vocês, não vamos lhes oferecer.
+
+As nossas referências de substrato:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade (low-E)
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+As páginas estão em inglês, o site não existe em português: o float
+incolor e extra claro é a base, o low-E vai para o vidro isolante, e o
+espelho sem cobre e sem chumbo resiste muito melhor à umidade do que
+um espelho prateado convencional.
+
+Um ponto que talvez lhes interesse, e que é um fato aduaneiro e nada
+mais: no float incolor, as origens malaia, paquistanesa e turca
+passaram a carregar direitos antidumping brasileiros, e a origem
+europeia não é visada por nenhuma dessas medidas. Isso muda a
+comparação entre origens.
+
+Trabalhamos em contêineres completos, em caixas de madeira tratada
+NIMP-15, em jumbo 3210 x 2550 mm ou nas medidas que vocês pedirem.
+
+Podemos estabelecer uma oferta para a entrega no porto de Santos,
+sujeita a validação da nossa parte.
+
+Para que a oferta sirva de alguma coisa, podem me indicar as
+referências e as espessuras que compram, os formatos, o volume
+aproximado e a frequência das compras?
+
+E sei que uma casa com o seu histórico já tem os seus fornecedores.
+Se estiverem comprometidos com eles, digam-me com franqueza e não
+insisto.
+
+Fico à disposição.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
