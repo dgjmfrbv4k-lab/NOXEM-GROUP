@@ -1088,6 +1088,30 @@ FACILEMENT TROUVABLE par un moteur de recherche l'est**, ce qui est tres differe
    Malaisiens), annuaires sectoriels nationaux. **La recherche large rend ce que tout le monde voit ;
    une piece de dossier rend ce que personne ne regarde.**
 
+**⚠️⚠️ ET LA MESURE CI-DESSUS EST CORRIGÉE LE 14/10 À 11h29 : CE QUI EST SATURÉ N'EST PAS LE MARCHÉ,
+C'EST LA MÉTHODE. Vérifié sur les TROIS marchés que le 13/10 déclarait épuisés, par un portail sectoriel
+au lieu d'une recherche large.**
+| Marché | Recherche large, 13/10 | Portail sectoriel, 14/10 |
+|---|---|---|
+| **États-Unis** | 15 noms sur 19 déjà au registre | 4 noms rendus, **3 absents** — Glenny Glass, Coastal Glass Distributors, FDS Glass |
+| **Canada** | 8 sur 9 déjà présents | 7 noms rendus, **6 absents** — Saand, Glass 3, Coastal Curved, et 3 machinistes hors gamme |
+| **Australie / NZ** | 11 sur 13 déjà présents | 5 noms rendus, **3 absents** — G.James, Australian Glass Group, Glass Market Vic |
+**Et le même déplacement a ouvert trois pays neufs le même jour** : le Guatemala et le Chili par
+`vidrioperfil.com`, les États-Unis, le Canada et l'Australie par `glassonweb.com`.
+**POURQUOI, ET C'EST LA RAISON QUI REND LA RÈGLE UTILISABLE AILLEURS :** un moteur de recherche classe par
+popularité, donc il rend d'abord ce qui est le mieux référencé — et c'est exactement ce que les passages
+précédents ont déjà pris. **Un annuaire sectoriel classe par APPARTENANCE AU MÉTIER, pas par visibilité.**
+Il contient donc précisément les maisons qui ne font pas d'effort de référencement, c'est-à-dire souvent
+les plus industrielles. G.James est le plus gros groupe verre-aluminium du Queensland et la recherche
+large ne l'avait jamais rendu.
+**CONDUITE : devant un marché que la recherche large déclare saturé, changer de SOURCE avant de conclure
+que le pays est fait.** Dans l'ordre : portail sectoriel du pays ou de la région, pièce de dossier
+antidumping publique, annuaire de fédération professionnelle. **Et la saturation ne se déclare qu'après
+avoir épuisé les trois**, jamais sur le seul moteur.
+**⚠️ Le prix à payer est connu et il est dans la leçon Imporex ci-dessus : un portail IDENTIFIE, il ne
+QUALIFIE pas.** Chacun des noms ci-dessus a été vérifié sur le site de la société avant d'ouvrir une
+fiche, et c'est ainsi que six distributeurs de machines et un verrier creux ont été écartés.
+
 **Producteurs float = concurrents, pas prospects :** Obeikan, Guardian, Mediterranean Float
 Glass/Cevital, Tariq Glass, PHP Float Glass, Azerfloat, Vitro, Asahimas, Xinyi,
 Vidrios Lirquén, **VASA** (précisé le 11/10 : *Vidriería Argentina S.A.*, née en **1938** de l'association de **NSG-Pilkington** et de **Saint-Gobain**, usines de **Llavallol** et de **Los Cardales** en province de Buenos Aires, Cardales annoncée à ~**900 t/jour** — et surtout elle **opère dans QUATRE pays : Argentine, Bolivie, Paraguay et Uruguay**, ~500 salariés. Donc *VASA Vidriería Boliviana* à Santa Cruz appartient au groupe et a été fermée ce jour-là, elle était restée en `A QUALIFIER`. `verif-argument-float.py` portait déjà les quatre pays, une session précédente ayant appliqué la règle du périmètre de la source), Pioneer Float Glass, Zoujaj, Sapphire (Mkuranga), Phu My, CFG Ha Long,
