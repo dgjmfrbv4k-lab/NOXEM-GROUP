@@ -324,3 +324,80 @@ veut qu'un verdict soit ecrit la ou le travail quotidien le relira.
 commerciaux, et `cience.com`, qui annonce en clair *access their contact details*. Meme nature que
 `dnb.com` et `ContactOut`, donc meme interdit au titre du §5.
 
+---
+
+## GISEMENT PRIORITAIRE POUR LE PROCHAIN TOUR — les treize entites regionales d ABRAVIDRO (Bresil), trouve le 14/10 a 18h30
+
+**C est le plus gros gisement identifie de la semaine, et il est exactement dans nos deux meilleures
+classes de metier.**
+
+**ABRAVIDRO** est l *Associacao Brasileira de **Distribuidores e Processadores** de Vidros Planos*,
+fondee en 1990 : **environ 200 associes** et **treize entites regionales affiliees**. Ce sont des
+distributeurs et des transformateurs de verre **PLAT**, c est-a-dire les classes mesurees a 10,0 et
+12,8 pour cent le 13/10, dans le marche que le paragraphe 6 juge le plus favorable au titre de la
+Gecex 833.
+
+**⚠ A NE PAS CONFONDRE AVEC `ABIVIDRO`**, le syndicat des PRODUCTEURS, qui est celui qui DEMANDE les
+droits antidumping. Une lettre d ecart, et le camp s inverse. Correction portee au paragraphe 6.
+
+**LA PORTE D ENTREE EST REGIONALE ET NON NATIONALE**, et c est le point de methode : une federation
+nationale publie rarement ses membres, une regionale le fait. **Verifie sur la premiere :
+`abravid.com.br/associados/` liste bien ses membres nommement**, et elle a rendu en un appel deux noms
+absents du registre, **Vitron Dist. de Vidros** et **Solida Comercio e Distribuicao de Vidros**.
+
+**Les treize, dans l ordre ou les travailler — par taille de marche verrier :**
+
+| Entite | Region | Priorite |
+|---|---|---|
+| **Sincavesp** et **Sinbevidros** | Sao Paulo | **1** — premier marche verrier du pays |
+| **Sincavidro** | Rio de Janeiro | **2** |
+| **Amvid** | Minas Gerais | **3** |
+| **Adivipar** | Parana | 4 |
+| **Ascevi** | Santa Catarina | 5 — et c est l Etat de Barra Velha, usine Cebrace |
+| **Adevibase** | Bahia et Sergipe | 6 |
+| **Avigo** | Goias | 7 |
+| **Abravid** | Brasilia | **faite le 14/10**, deux noms rendus |
+
+**COUT ESTIME ET CE QU IL FAUT EN ATTENDRE :** un appel par entite pour la liste, puis **deux appels
+par nom** pour le second temps, comme toujours. A quinze noms par region et au taux de doublon mesure
+sur le Bresil le 13/10 — 18 sur 22 deja presents — **il faut compter beaucoup de grep pour peu de
+fiches neuves dans les grandes villes, et l inverse dans les Etats que la recherche large n a jamais
+rendus**, Goias, Bahia, Parana.
+
+**ET LES TROIS RESERVES DE LA LECON DU 14/10 SUR LES FEDERATIONS S APPLIQUENT TELLES QUELLES :**
+un, la page membre ne satisfait pas la regle anti-rebond, donc chaque nom coute son second temps ;
+deux, la federation melange les classes de metier, donc le tri par metier du paragraphe 6 passe avant ;
+trois, elle peut lister separement des societes d un meme groupe, donc on cherche la holding avant
+d ouvrir une fiche sur un nom qui partage un mot avec un autre membre.
+
+**Et l interdit brésilien du paragraphe 6 vaut pour les deux cents :** jamais l absence de production
+locale, AGC Cebrace Guardian et Vivix y produisent. L argument est douanier, Gecex 833 contre la
+Malaisie le Pakistan et la Turquie, l Europe non visee — **et confine au float clair de 1,8 a 20 mm**,
+la mesure excluant le miroir, le teinte et le colore dans la masse.
+
+### ⚠ MESURE SUR LA PREMIERE DES TREIZE, FAITE LE 14/10 A 18h32, ET ELLE TEMPERE L ATTENTE
+
+**Abravid, l entite de Brasilia, a ete travaillee entierement. Resultat net : deux noms rendus, ZERO
+envoi.** Il faut le dire avant que quiconque ouvre les douze autres en comptant sur un rendement.
+
+· **Solida Vidros** — fiche creee, mais **en dossier telephonique**. Une adresse gmail existe, publiee
+  par un annuaire tiers et non par la societe, donc la regle anti-rebond du paragraphe 5 n est pas
+  satisfaite et le champ reste vide. Son activite principale **diverge selon la source pour le meme
+  CNPJ**, fabrication chez l un, commerce de gros chez l autre.
+· **Vitron** — **aucune fiche creee**, et c est un refus motive. **TROIS entites portent ce nom a
+  Brasilia** : Vitron Esquadrias, menuiserie aluminium et verre depuis trente ans ; Vitron
+  Distribuidora de Vidros e Metais, au code de commerce de gros ; et **Vitraggi Indústria e Comércio
+  de Vidros, nom commercial VITRON**, au code de fabrication de verre plat et de securite. Leurs
+  adresses ne concordent pas, Taguatinga contre Sudoeste, **et le meme numero 61 3386-4309 apparait
+  chez deux d entre elles**. Le paragraphe 12 impose de trancher sur le siege et l immatriculation,
+  jamais sur le nom : c est exactement le refus applique a VILUX et a PRODIESA au Perou le 14/10.
+
+**CE QUE LA MESURE CHANGE POUR LES DOUZE AUTRES, et c est un conseil de sequence et non un
+abandon :** une entite regionale d un marche administratif comme Brasilia liste des **vitreries
+locales** — petites, sans site propre, souvent en plusieurs societes autour d une famille. **Ce ne
+sont pas des acheteurs de conteneur.** Le gisement reste bon, mais **il faut commencer par Sincavesp
+et Sinbevidros a Sao Paulo et par Sincavidro a Rio**, ou se trouvent les maisons de taille
+industrielle, et traiter Goias, Bahia et Parana ensuite pour ce que la recherche large n a jamais
+rendu. **Brasilia etait le plus petit des treize et c est par lui que j ai commence, ce qui etait
+l ordre inverse du bon.**
+

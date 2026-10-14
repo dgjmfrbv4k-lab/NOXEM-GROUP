@@ -607,7 +607,34 @@ question est restée ouverte depuis le 08/10. Recherche faite ce soir, premier r
 du Mercosur**, pour une validité de **douze mois**. **Donc l'Europe le paie aussi.** ⚠️ **Deux
 réserves qui empêchent d'en faire un chiffre :** la validité de douze mois **peut avoir expiré**, et
 les sources se contredisent — la table d'Abravidro donne **9 %** pour le régime en vigueur depuis le
-01/01/2024, un portail douanier donne **25 %**. **Le taux applicable en octobre 2026 n'est donc pas
+01/01/2024, un portail douanier donne **25 %**.
+**⚠️⚠️ ET IL FAUT CORRIGER UNE CONFUSION QUE CE PARAGRAPHE ENTRETIENT DEPUIS LE DÉBUT, TROUVÉE LE 14/10
+À 18h32 : `ABRAVIDRO` ET `ABIVIDRO` SONT DEUX SYNDICATS DIFFÉRENTS, À UNE LETTRE PRÈS, ET ILS SONT DU
+CÔTÉ OPPOSÉ DE LA MÊME MESURE.**
+· **ABIVIDRO** est le syndicat des **PRODUCTEURS** de verre plat — c'est lui qui demande les droits
+  antidumping, et le §6 le nomme correctement cinq fois à ce titre.
+· **ABRAVIDRO** est l'*Associação Brasileira de **Distribuidores e Processadores** de Vidros Planos*,
+  fondée en **1990**, **environ 200 associés** et **treize entités régionales affiliées**.
+**Ce sont donc les CLIENTS du float, pas ses fabricants** — l'exact opposé, et la ligne ci-dessus qui
+lui attribue une table de droits d'importation la cite en réalité comme la partie qui SUBIT ces droits.
+**DEUX CONSÉQUENCES, ET LA SECONDE VAUT BEAUCOUP PLUS QUE LA CORRECTION.**
+1. **Ne plus écrire l'un pour l'autre.** C'est le cinquième cas de la famille du caractère unique,
+   après `newSglassind`/`newglassind`, `glasscorplnt`/`glasscorpint`, `index-gabon`/`indexgabon` et
+   `laheyglass.ca`/`.com` — sauf qu'ici la lettre ne change pas un domaine, elle **inverse le camp**.
+2. **ABRAVIDRO EST LE PLUS GROS GISEMENT DE PROSPECTS IDENTIFIÉ DE LA SEMAINE, et il est exactement
+   dans nos deux meilleures classes.** Deux cents distributeurs et transformateurs de verre **plat**,
+   dans le marché que le §6 juge le plus favorable au titre de la Gecex 833. C'est la méthode de
+   l'annuaire de fédération du §6 — celle qui a rendu dix-neuf noms allemands en quatre appels —
+   appliquée au Brésil. **Les treize entités régionales sont la bonne porte d'entrée**, parce qu'une
+   fédération nationale publie rarement ses membres alors qu'une régionale le fait : Abravid
+   (Brasília), Ascevi (Santa Catarina), Avigo (Goiás), Adivipar (Paraná), Adevibase (Bahia et
+   Sergipe), Amvid (Minas Gerais), Sinbevidros et Sincavesp (São Paulo), Sincavidro (Rio de Janeiro).
+   **Vérifié sur la première : `abravid.com.br/associados/` liste bien ses membres nommément.**
+**⚠️ Et les trois réserves de la leçon du 14/10 sur les fédérations s'appliquent telles quelles :** la
+page membre ne satisfait pas la règle anti-rebond, donc chaque nom coûte son second temps ; la
+fédération mélange les classes de métier ; et elle peut lister séparément des sociétés d'un même
+groupe, donc on cherche la holding avant d'ouvrir une fiche sur un nom qui partage un mot avec un
+autre membre. **Le taux applicable en octobre 2026 n'est donc pas
 établi, et il faut la TEC au portail Siscomex ou la Gecex.**
 **CE QUE CELA CHANGE ET CE QUE CELA NE CHANGE PAS, parce que les deux comptent.** Cela **ne détruit
 pas** l'argument brésilien : nos concurrents asiatiques paient **le même** droit ordinaire **plus**
