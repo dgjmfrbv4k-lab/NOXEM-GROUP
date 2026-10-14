@@ -4220,3 +4220,315 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+# VAGUE DU MATIN DU 14/10 — PREMIÈRES RELANCES DE LA COHORTE `ENVOYE 2026-10-08`
+
+**Gabarit « une seule question » :** le silence est normal, on ne répète pas le premier message, on
+pose **une** question et rien d'autre, formule imposée, porte de sortie, signature une seule fois.
+**Ordre de tir : négoce, puis verriers, puis poseurs** — mesure du 13/10.
+
+## 77. Walshs Glass (Perth, Australie-Occidentale) — `sales@walshsglass.com.au` — ANGLAIS — relance 1
+
+**⚠ NÉGOCE, et le meilleur profil de la vague :** principal distributeur **indépendant** de verre plat
+d'Australie-Occidentale **depuis 1971**. **⚠ AUCUN mot sur les droits de douane** — le dossier 575 de
+l'Anti-Dumping Commission ne frappe que l'Indonésie, la Chine n'est pas visée, et le §6 interdit d'en
+écrire quoi que ce soit à un prospect australien. L'angle est l'**origine**, et il est vrai : la
+dernière ligne float d'Australasie a été arrêtée. Formulation prudente du §6 respectée — *a été
+arrêtée*, pas *ne redémarrera jamais*.
+
+```
+Hello,
+
+I wrote to you on 8 October about flat glass in full containers and had no
+reply, which is normal enough.
+
+So I will not go over it again. One question only: which thicknesses move the
+most through your stock, and through which port do you take delivery?
+
+Since the last float line in Australasia was stopped, the question for a
+distributor is no longer local or imported, it is which origin. That is the
+only reason I am writing again.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+If it is not relevant for you, just reply no and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 78. NET GLASS-CI (Abidjan, Côte d'Ivoire) — `info@netglass-ci.com` — FRANÇAIS — relance 1
+
+**⚠⚠ L'INTERDIT LE PLUS FACILE À ENFREINDRE ICI, et il a déjà coûté un message faux :** **ne jamais
+écrire qu'il n'y a pas de four float en Afrique de l'Ouest.** CNG Glass produit **500 t/jour à Igbesa
+au Nigéria depuis 2019**. C'est exactement la faute ITA SEN ALU du §6, et le texte ci-dessous ne dit
+rien de l'offre locale. Négoce verrier, port d'Abidjan.
+
+```
+Bonjour,
+
+Je vous ai ecrit le 8 octobre au sujet du verre plat en conteneur complet et je
+n'ai pas eu de retour, ce qui est normal.
+
+Je ne reprends donc pas le message. Une seule question : quelles epaisseurs
+tournez-vous le plus en volume annuel, et confirmez-vous le port d'Abidjan ?
+
+Nous pouvons etablir une offre pour la livraison a votre port de destination,
+sous reserve de validation de notre cote.
+
+Si ce n'est pas d'actualite pour vous, dites-le-moi simplement et je
+n'insisterai pas.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 79. Sumes Glass (Népal) — `sumeshglass99@gmail.com` — ANGLAIS — relance 1
+
+**⚠ PAYS ENCLAVÉ : le port de transit s'annonce avec « via », §4 — ici via Kolkata.** Importateur de
+verre architectural, feuilleté, trempé et float, donc classe négoce. **Aucun mot sur les droits** :
+l'Inde restreint le float importé et le Népal transite par elle, mais rien n'est établi sur ce que
+cela coûte, donc rien ne s'écrit.
+
+```
+Hello,
+
+I wrote to you on 8 October about flat glass in full containers and had no
+reply, which is normal enough.
+
+So I will not go over it again. One question only: which thicknesses and which
+references do you import in the largest volume, and do you clear via Kolkata?
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+If it is not relevant for you, just reply no and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 80. United Glass Industries (Uniglass, groupe Al-Fozan — Arabie saoudite) — `info@uniglass.com.sa` — ANGLAIS — relance 1
+
+**⚠⚠ NE JAMAIS EMPLOYER L'ARGUMENT DU FLOAT ABSENT EN ARABIE SAOUDITE** — le royaume compte au moins
+quatre producteurs float : Obeikan, Zoujaj, Guardian et Arabian United Float Glass. C'est le marché le
+mieux pourvu de la zone. **Et aucun mot sur les droits** : le float chinois y entre sans antidumping,
+donc l'argument le plus fort de la campagne n'y vaut rien. Classe verrier, le transformateur le plus
+complet du royaume, donc la question porte sur le **substrat qui entre dans leurs lignes**.
+
+```
+Hello,
+
+I wrote to you on 8 October about flat glass in full containers and had no
+reply, which is normal enough.
+
+So I will not go over it again. One question only: which substrate thicknesses
+enter your lines in the largest volume, and through which port?
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+If it is not relevant for you, just reply no and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 81. Barrak Glass Factories (Arabie saoudite) — `barrakgdf@gmail.com` — ANGLAIS — relance 1
+
+**Mêmes deux interdits que le texte 80** : rien sur l'absence de production locale, rien sur les
+droits. Sept usines de transformation — trempe, chant, perçage, polissage, biseautage, sablage, double
+vitrage. **Règle Prodiesa : tout cela sort de l'offre, seul le substrat entre.** La question porte donc
+sur ce qui alimente leurs fours.
+
+```
+Hello,
+
+I wrote to you on 8 October about flat glass in full containers and had no
+reply, which is normal enough.
+
+So I will not go over it again. One question only: across your seven plants,
+which thickness feeds your furnaces in the largest volume?
+
+We supply the substrate, not what you fabricate yourselves.
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+If it is not relevant for you, just reply no and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 82. Gapex (Arménie) — `gapex@gapex.am` — ANGLAIS — relance 1
+
+**⚠⚠ CETTE FICHE PORTE UNE QUESTION D'IDENTITÉ QU'IL FAUT TRANCHER AVANT D'ALLER PLUS LOIN :** sa
+fiche dit « float de 2 à 15 mm ». **S'ils le PRODUISENT, c'est un concurrent au sens du §6 et la fiche
+se ferme.** S'ils le transforment, c'est une cible. **La question se pose comme une question
+d'approvisionnement et jamais comme un doute** — leçon du 12/10 : on ne fabrique pas au client le
+doute qu'il n'avait pas.
+
+```
+Hello,
+
+I wrote to you on 8 October about flat glass in full containers and had no
+reply, which is normal enough.
+
+So I will not go over it again. One question only, and it decides whether I am
+useful to you at all: the float you work in 2 to 15 mm, do you buy it in, or
+does it come off your own line?
+
+If you buy it in, tell me which thicknesses move most and through which port,
+and we can establish an offer for delivery to your port of destination, subject
+to validation on our side.
+
+If it is not relevant for you, just reply no and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 83. Pacific Glass Corporation (Philippines) — `csa@pacificglass.com.ph` — ANGLAIS — relance 1
+
+**Transformateur ET distributeur, donc la question utile est la PART qu'ils revendent en feuille.**
+Règle Prodiesa : trempé, feuilleté et vitrage isolant sortent de l'offre.
+**⚠ Réserve de registre :** cette fiche était l'une des trois lignes cassées par un `;` et réparées le
+08/10 — son statut réel était invisible aux requêtes. Vérifié, elle est bien à `ENVOYE 2026-10-08`.
+
+```
+Hello,
+
+I wrote to you on 8 October about flat glass in full containers and had no
+reply, which is normal enough.
+
+So I will not go over it again. One question only: of the glass you bring in,
+what share do you resell as sheet rather than process yourselves, and in which
+thicknesses?
+
+We can establish an offer for delivery to your port of destination, subject to
+validation on our side.
+
+If it is not relevant for you, just reply no and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 84. Serralharia Vidal (Cap-Vert) — `caboverde@svidal.cv` — PORTUGAIS — relance 1
+
+**Classe poseur**, donc texte court et aucun argument dépensé. Ferronnerie aluminium, châssis de
+fenêtres, grilles et portails. La question décide si la fiche vaut la suite : **achètent-ils la
+feuille, ou le vitrage déjà coupé ?**
+
+```
+Bom dia,
+
+Escrevi-vos a 8 de outubro sobre vidro plano em conteineres completos e nao
+tive resposta, o que e normal.
+
+Nao repito a mensagem. Uma unica pergunta: compram o vidro em chapa, ou ja
+cortado e pronto a colocar?
+
+Se compram em chapa, digam-me as espessuras e o porto, e podemos estabelecer
+uma oferta para a entrega no vosso porto de destino, sob reserva de validacao
+da nossa parte.
+
+Se nao for o caso, digam-mo com franqueza e nao insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 85. Al Abbar Group (Émirats arabes unis) — `info@alabbargroup.com` — ANGLAIS — relance 1
+
+**⚠ GROS COMPTE : la porte de sortie du §9 est obligatoire et elle est explicite.** Façadier du Burj
+Khalifa, du Burj Al Arab et des Emirates Towers, 300 M$ de chiffre d'affaires — une maison de cette
+taille a des contrats cadres.
+**⚠ NE JAMAIS employer l'argument du float absent aux Émirats** : Emirates Float Glass fait 600 t/jour
+depuis 2009, exporte vers plus de 65 pays et double sa capacité, et Guardian y produit aussi.
+**Ce qui reste vrai et qui est le seul angle :** les Émirats sont une place de **réexport**, donc une
+origine de plus intéresse **en tant qu'origine**.
+
+```
+Hello,
+
+I wrote to you on 8 October about flat glass in full containers and had no
+reply, which is normal for a house of your size.
+
+So I will not go over it again. One question only: do you buy any of your flat
+glass directly by the container, or does it all come through your fabricators?
+
+If any of it is direct, we can establish an offer for delivery to your port of
+destination, subject to validation on our side.
+
+And if your supply is locked in under framework agreements, say so plainly and
+I will not write again. That is a useful answer too.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
