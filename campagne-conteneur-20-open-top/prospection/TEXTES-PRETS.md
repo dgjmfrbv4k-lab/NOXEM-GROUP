@@ -3043,11 +3043,16 @@ pas pour un atelier isole.
 
 Ce que nous expedions :
 
-- Verre float clair et extra-clair
-- Verre a faible emissivite
-- Miroir sans cuivre ni plomb
-- Verre laque
-- Verre trempe
+- Verre float clair et extra-clair : https://noxemgroup.com/en/float-glass/
+- Miroir sans cuivre ni plomb, qui ne pique pas sur les bords en air salin
+  comme le fait un miroir argent-cuivre ordinaire :
+  https://noxemgroup.com/service/miroir-sans-cuivre-ni-plomb/
+- Verre trempe : https://noxemgroup.com/service/verre-trempe/
+- Verre laque pour l'agencement : https://noxemgroup.com/en/lacquered-glass/
+- Verre a faible emissivite : https://noxemgroup.com/service/verre-a-faible-emissivite/
+
+Deux de ces pages n'existent qu'en anglais, notre site n'est publie qu'en
+francais et en anglais.
 
 Nous expedions en CONTENEUR COMPLET, en caisses bois traitees NIMP-15, en jumbo
 de 3210 x 2550 mm ou aux cotes que vous demandez, livre au port de Fort-de-France.
