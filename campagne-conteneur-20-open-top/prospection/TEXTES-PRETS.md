@@ -7051,3 +7051,72 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 134. glas strack innovations (Bochum) — `gerrit.strunk@glas-strack.de` — ALLEMAND — verrier
+
+**⚠️⚠️ PREMIÈRE FOIS DE LA CAMPAGNE QU'UN MESSAGE EST ADRESSÉ À UNE PERSONNE NOMMÉE, et il faut
+dire pourquoi c'est permis ici alors que ça ne l'a été nulle part ailleurs.** Le §5 autorise le nom
+« uniquement si la **fonction est vérifiée et pertinente — achats, import, direction** ». Leur page
+de contact publie **Gerrit Strunk, ppa., Einkauf / Qualität / Controlling**. *Einkauf* est
+littéralement **les achats**, soit la **première** des trois fonctions que la règle nomme, et
+*ppa.* est le fondé de pouvoir. **La condition est pleinement remplie — ce n'est ni un commercial,
+ni un `purchasing inquiries` ambigu comme chez MunnWorks, ni un contact de recrutement comme chez
+Lahey.**
+**C'est la seconde fois en une heure que la méthode de la boîte d'achats du §13 paie**, après
+`inkoop@` chez Vandaglas — et ici elle rend mieux qu'une boîte : elle rend l'acheteur.
+**Secours notés si celle-ci rebondit :** `elise.kluesener@` (Einkauf & Marketing), `anfrage@` (que
+leur page désigne pour les demandes de prix) et `support@`. **Et la règle des deux échecs du §13
+s'applique : au second rebond, la fiche part au téléphone.**
+**MÉTIER :** membre du Flachglas MarkenKreis, et ils se présentent comme **fabricant de verre de
+sécurité**. **Règle Prodiesa :** verre de sécurité et vitrage isolant sortent de l'offre, seul le
+substrat y entre.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+**⚠️ Réserve : leur page porte un copyright 2023 et a été indexée il y a environ 111 jours.**
+
+```
+Sehr geehrter Herr Strunk,
+
+ich schreibe Ihnen direkt, weil Ihre Kontaktseite Sie fuer den Einkauf nennt
+und es genau darum geht. Dies ist ein Lieferangebot und keine Preisanfrage.
+
+Mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich.
+
+Sie stellen Sicherheitsglas her und gehoeren zum Flachglas MarkenKreis. Beides
+heisst dasselbe fuer mich: Sie kaufen Tafelware ein, regelmaessig und in
+Mengen, und Ihre Fertigung haengt daran, dass sie hereinkommt.
+
+Ich biete Ihnen deshalb nichts an, was Sie selbst herstellen - kein
+Sicherheitsglas, kein Isolierglas. Nur das Basisglas, das davor hereinkommt:
+
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Spiegelrohware ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken und Beschichtungen Ihre
+Fertigung am meisten verbraucht, welche Tafelmasse Ihren Anlagen passen, eine
+ungefaehre Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie
+gerechnet haben moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
