@@ -6237,3 +6237,114 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 122. Distribuidora Arquetipo (Chili, Santiago) — `distribuidora@arquetipo.cl` — ESPAGNOL — négoce
+
+**Le meilleur profil chilien du jour : stockiste et commerce de verre plat, gamme nationale ET
+importée, quatre succursales et expédition dans tout le pays.** ⚠ Le portail la classait sous le
+**Pérou** ; vérification faite, elle est chilienne — d'où le port et la langue de ce texte.
+**Aucun argument d'absence de production locale**, Vidrios Lirquén produit au Chili (faute Forpec),
+et **rien sur les droits chiliens**, inconnus.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo por tres cosas que su propio sitio pone juntas: ustedes sostienen
+bodega de vidrio plano, manejan gama nacional Y DE IMPORTACION, y despachan a
+todo Chile desde cuatro sucursales. Esa combinacion describe exactamente al
+comprador para quien un contenedor completo es una unidad normal y no una
+excepcion.
+
+No vengo a competir con lo que compran bien en plaza. Vengo con lo que una
+linea local no suele mantener en inventario:
+
+- float extra claro, de alta transmision: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo, que no se corroe en los cantos con aire salino,
+  lo que importa de Antofagasta a Coquimbo:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+Cualquier referencia se la explico en espanol.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido, con carga util de 23 a 25 toneladas.
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: de lo que hoy importan, que referencias
+y espesores son los que mas les cuesta reponer, las medidas que les sirven, un
+volumen aproximado y la frecuencia, y su puerto, San Antonio, Valparaiso o
+Antofagasta.
+
+Y si sus origenes actuales les cubren, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 123. Corporación ADA (Pérou, Lima) — `gerencia@corporacionada.com` — ESPAGNOL — négoce
+
+**Profil précis : ils approvisionnent les vitreries de Lima Nord.** Un grossiste dont les clients
+sont des vitriers achète la feuille par volume — c'est le profil F. Morales au Nicaragua.
+**⚠ AUCUN ARGUMENT DOUANIER : le Pérou est un marché faible sur le prix.** Indecopi n'a aucune
+mesure antidumping sur le verre plat chinois alors qu'il en a sur quatre autres produits, donc on
+affronte la Chine de face. L'angle est **l'origine et la régularité**, jamais le douanier. **Et
+rien sur l'absence de production locale**, non vérifiée.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo porque ustedes abastecen a vidrierias de Lima Norte. Quien vende a
+vidrieros no compra por obra: compra lo que rota, en hoja, y su negocio
+descansa enteramente sobre la regularidad de quien lo abastece. Por eso una
+segunda origen suele interesar antes de hacer falta, y no despues.
+
+Seré claro sobre lo que ofrecemos y lo que no. No voy a decirles que somos los
+mas baratos, no lo sabria. Lo que traemos es una origen europea mas, con
+referencias que no siempre estan en plaza:
+
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido. Podemos establecer una oferta para la
+entrega en el Callao, bajo reserva de validacion de nuestra parte.
+
+Una sola pregunta para empezar: que espesores rotan mas rapido entre sus
+clientes vidrieros, y con que frecuencia necesitarian reponerlos.
+
+Y si estan bien servidos, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
