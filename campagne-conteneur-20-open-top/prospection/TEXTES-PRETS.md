@@ -8735,3 +8735,81 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 158. INDALAR (Bogotá) — `ventas1@indalar.com.co` — ESPAGNOL — distribution de feuille 2 à 19 mm + panneaux low-E
+
+**Vérifié avant d'écrire :**
+- Mot distinctif grepé avant création, `indalar` : **absent du registre**. Et les six autres noms du même relevé colombien ont été grepés un par un — Distrividrios Antioquia, Distrividrios LER, Importadora C&C, Vitrolit, Corvit, Megaglass : **tous les six déjà au registre et déjà traités**, dont C&C en fiche téléphonique après rebond de boîte pleine. La Colombie est réellement couverte, Indalar est le seul nom neuf.
+- **Le signal des épaisseurs est satisfait, et deux fois** : leur documentation produit donne la **distribution de float par LÁMINAS de 2 à 19 mm** — incolore, bronze, gris, bleu, vert et extra-clair réfléchissant — et leur page verre plat confirme la découpe à la demande.
+- **Et mieux que cela : ils FABRIQUENT des panneaux de double vitrage avec options LOW-E**, TEC-70 et TEC-250, pour meubles frigorifiques et chambres froides. Donc ils achètent du **couché**, pas seulement du float nu. C'est exactement la première position de l'offre.
+- **Règle Prodiesa** : le double vitrage, le feuilleté et la découpe sont leur métier, ils sortent de l'offre. Seul le **substrat** y entre — float clair et extra-clair, **low-E en feuille**, miroir.
+- Adresse `ventas1@indalar.com.co` lue sur **leur site actuel**, domaine du site, §5 satisfait sans exception. ⚠ Une **brochure ancienne** donne `ventas@` sans le 1 — **non retenue**, c'est la leçon Visemex et celle de la vieille page d'Al Ashoury : entre deux orthographes, celle du site courant.
+- **INTERDIT DU §6 TENU, et il est serré ici** : jamais l'absence de production locale en Colombie — **Vidrio Andino produit à Soacha**, c'est-à-dire dans l'agglomération de Bogotá même. L'argument est **douanier et porte sur le MIROIR**.
+- **FORMULATION PRUDENTE IMPOSÉE** : dire que la mesure **figure parmi les droits en vigueur publiés par le MinCIT**, ce qui est vérifiable, et ne rien affirmer du sort du recours, dont le texte n'a pas été lu. **Et ne jamais nommer Espejos S.A.S.**, demandeur de la mesure donc concurrent.
+- Jour ouvré vérifié **en Colombie** et non supposé, leçon du 12/10 : mercredi 14 octobre, aucun férié colombien, le prochain report Emiliani est le lundi 2 novembre. Heure locale 11h16 à Bogotá.
+- Ports proposés et question posée, Bogotá étant à l'intérieur.
+
+**Objet :** Vidrio float en lámina y low-E en contenedor completo — origen europea
+
+**Corps :**
+
+```
+Estimados señores,
+
+Me llamo Aaron Harfi, dirijo NOXEM GROUP, proveedor y exportador de
+vidrio plano cerca de Lyon, en Francia.
+
+Les escribo por dos cosas concretas de su catálogo. Ustedes
+distribuyen vidrio flotado en lámina, de 2 a 19 mm, y además fabrican
+paneles de doble acristalamiento con opción LOW-E para refrigeración
+comercial y cuartos fríos. Eso quiere decir que compran lámina y
+compran vidrio de capa — no vidrio ya cortado. Es exactamente ahí
+donde podemos ser útiles, y en ningún otro lugar: lo que ustedes
+fabrican no se lo vamos a ofrecer.
+
+Nuestras referencias de sustrato:
+
+- vidrio de baja emisividad (low-E), en lámina
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- vidrio float claro y extra claro
+  https://noxemgroup.com/en/float-glass/
+- espejo sin cobre ni plomo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las páginas están en inglés, el sitio no existe en español: pongo el
+low-E primero porque es el que entra directamente en sus paneles, el
+float claro y extra claro es la base, y el espejo sin cobre ni plomo
+resiste mucho mejor la humedad que un espejo plateado convencional.
+
+Un dato aduanero que quizá ya conozcan, y lo doy como dato y nada
+más: entre los derechos antidumping vigentes publicados por el MinCIT
+figura una medida sobre los espejos sin enmarcar de origen chino, en
+la subpartida 7009.91.00.00. Para quien importa espejo, eso cambia la
+comparación entre orígenes.
+
+Trabajamos en contenedores completos, en cajas de madera tratada
+NIMP-15, en jumbo 3210 x 2550 mm o en las medidas que ustedes pidan.
+
+Podemos establecer una oferta para la entrega en su puerto de
+destino, sujeta a validación por nuestra parte. ¿Trabajan por
+Buenaventura o por Cartagena?
+
+Y para que la oferta sirva de algo, ¿me puede indicar las referencias
+y los espesores que compran, los formatos, el volumen aproximado y la
+frecuencia de sus compras?
+
+Si ya están comprometidos con su proveedor actual, dígamelo con
+franqueza y no insisto.
+
+Quedo a su disposición.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
