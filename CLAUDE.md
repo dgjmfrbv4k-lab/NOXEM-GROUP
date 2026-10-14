@@ -160,6 +160,22 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   plutôt que paralysante : le même portail a rendu **Industrial Mercantil San Simón** au Guatemala, et là le
   second temps a **confirmé** le métier sur leur propre page float. Le portail ne ment pas plus qu'il ne dit
   vrai : **il désigne où regarder.**
+  **⚠️ ET LA LEÇON S'ÉTEND AU PAYS, PAS SEULEMENT AU MÉTIER — deux cas de plus le 14/10 à 11h42.**
+  · **Distribuidora Arquetipo** était classée sous le **Pérou** par le portail. Vérifiée : elle est
+    **chilienne**, quatre succursales à Santiago, Antofagasta, Coquimbo et Talca. La fiche est créée, mais
+    sous le bon pays — et c'est pour le Chili qu'elle compte, pas pour le Pérou.
+  · **VIDAL Importadora**, le matin, que la recherche large donnait à **Guayaquil** et dont le propre site
+    dit **Ambato**, à deux cent cinquante kilomètres de là, dans la sierra.
+  **Un fait de localisation lu dans un résumé de recherche n'est pas un fait.** Et la conséquence n'est pas
+  théorique : le pays décide du fuseau d'envoi, du port cité dans le message, de la langue, et surtout des
+  **interdits du §6** — écrire à une maison chilienne les arguments douaniers péruviens serait faux deux
+  fois.
+  **ET LE MÊME RELEVÉ PÉRUVIEN PORTAIT DEUX COLLISIONS DE NOM QU'IL A FALLU REFUSER DE CRÉER :** un *VILUX
+  S.A.* péruvien décrit comme *ex Vidriocar*, ce qui est mot pour mot la description de **VILUX S.A. au
+  Paraguay**, déjà contactée le 09/10 ; et un *PRODIESA* péruvien donné comme *Productora y Distribuidora de
+  Espejos*, qui est la raison sociale exacte de la **PRODIESA mexicaine**, codemandeuse de l'enquête miroir.
+  **Soit le portail mélange les pays, soit ce sont des groupes sur deux territoires** — et le §12 impose de
+  trancher sur le siège et l'immatriculation, jamais sur le nom. **Aucune des deux n'a été créée.**
 - **Jamais inventer un dirigeant.** Nom utilisé uniquement si la **fonction est vérifiée**
   et pertinente (achats, import, direction). Sinon, message au service.
 - **Jamais prétendre qu'un prospect a consulté le site** sans donnée le confirmant.
