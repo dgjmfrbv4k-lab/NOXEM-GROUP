@@ -7612,3 +7612,139 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 142. SOLLINGGLAS (Derental) — `info@sollingglas.de` — ALLEMAND — façonnage + isolant
+
+**Critère de la ligne qui consomme de la feuille, dégagé ce matin sur Schüt-Duis, satisfait ici
+aussi :** leur site date de **2011** la mise en service d'une **ligne de vitrage isolant** pour
+petits formats jusqu'à **2100 × 900 mm**, et le réseau leur attribue l'isolant **à partir de 8 mm**.
+**Ce format est une information utile et non un obstacle** — une ligne qui sort du 2100 × 900
+**découpe dans de la feuille plus grande**, donc elle consomme du jumbo. C'est la règle du ruban du
+§4 prise par le bon bout, et c'est un argument à servir plutôt qu'une réserve à taire.
+`info@` lue sur leur Impressum, domaine confirmé.
+**⚠️ DEUX NOMS ÉCARTÉS AU TEST MUNNWORKS :** Ramona Müller est au *traitement des offres et des
+commandes*, Jannis Rusch aux *offres et au marketing* — **les deux du côté client, pas des achats**.
+Heiko Schanze est le représentant légal mais ne publie pas d'adresse. Message au service.
+**⚠️ RÉSERVE À TENIR :** ils sont membres de *Restaurator im Handwerk*, signal de verre de
+**restauration** — le même qui a fermé GLS. Il ne suffit pas ici, leur activité principale étant le
+façonnage industriel et l'isolant, mais c'est à relire dans une réponse éventuelle.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Dies ist ein Lieferangebot und
+keine Preisanfrage - falls Sie nicht einkaufen, waere ich Ihnen dankbar, wenn
+Sie es an den Einkauf weitergeben.
+
+Sie veredeln Flachglas und betreiben seit 2011 eine eigene Isolierglaslinie.
+Kleinformate bis 2100 x 900 mm heisst fuer mich: Sie schneiden aus groesseren
+Tafeln zu, also kaufen Sie Tafelware ein, regelmaessig und in Mengen. Und
+genau deshalb kann eine zweite gesicherte Herkunft fuer Sie etwas wert sein.
+
+Ich biete Ihnen nichts an, was Sie selbst fertigen - kein Isolierglas. Nur
+die Tafelware, die davor hereinkommt:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegelrohware ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wenn Ihnen kleinere Tafeln besser in den Zuschnitt passen,
+sagen Sie mir die Masse. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken und Beschichtungen Ihre
+Linie am meisten verbraucht, welche Tafelmasse Ihrem Zuschnitt passen, eine
+ungefaehre Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie
+gerechnet haben moechten, Hamburg, Bremerhaven oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 143. Glas Fritz — Gerhard Fritz GmbH (Lörrach) — `info@glas-fritz.com` — ALLEMAND — gros
+
+**UN SEUL COMPTE POUR TROIS SITES, DONT UN EN SUISSE, et le critère du bureau d'achat tranche
+malgré la frontière.** Lörrach (siège), **Glas Fritz Schweiz GmbH à Rheinfelden** et un bureau de
+vente à Fribourg. Rheinfelden est à **dix kilomètres** de Lörrach, dans la même agglomération, et
+**elle ne publie aucune adresse propre** — ce qui dit exactement où se décide l'achat. **C'est le
+cas Saint Lu, pas le cas Extralum**, bien qu'il y ait une frontière : ce qui compte n'est pas le
+pays, c'est le bureau.
+**⚠️ EXCEPTION DU §5 INVOQUÉE ET NOTÉE : l'adresse est sur un AUTRE domaine que le site.** Site
+`glas-fritz.de`, adresse en **`.com`**, et c'est leur propre page de contact qui la désigne pour les
+demandes. Des annuaires donnent `info@glas-fritz.de`, signalé comme périmé — **la page de la société
+l'emporte sur l'annuaire**, règle Imporex.
+**Second essai noté : `handel@glas-fritz.com`**, leur boîte du **négoce**, à côté de `montage@` pour
+la pose. Pas prise en premier parce que **le test MunnWorks ne la tranche pas** : une boîte de négoce
+peut être celle de leurs propres clients. `info@` est celle qu'ils désignent.
+**⚠️ ET UNE CORRECTION À UNE NOTE DE MA MAIN D'IL Y A UNE HEURE :** j'avais écrit que Glas Fritz
+**ouvrait la Suisse**. Faux — le registre y porte déjà `Flachglas (Schweiz) AG`, contactée et
+relancée le 13/10. Elle y **ajoute**. Je ne l'avais pas grepé avant d'écrire la phrase.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne ni en Suisse. Aucun
+argument douanier — et la Suisse est hors UE, donc la question tarifaire y est entière et muette.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Dies ist ein Lieferangebot und
+keine Preisanfrage - falls Sie nicht einkaufen, waere ich Ihnen dankbar, wenn
+Sie es an den Einkauf weitergeben.
+
+Sie fuehren Glasgrosshandel an drei Standorten, Loerrach, Rheinfelden und
+Freiburg. Drei Standorte heisst drei Laeger, und drei Laeger leben davon,
+dass nachgefuellt wird. Ein Komplettcontainer ist dafuer die natuerliche
+Einheit, und er laesst sich auf Ihre Standorte aufteilen.
+
+Ich biete Ihnen nichts an, was Sie selbst ausfuehren - keine Montage. Nur
+Lagerware:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegel ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken Ihre Laeger am schnellsten
+drehen, welche Tafelmasse Ihnen passen, eine ungefaehre Jahresmenge mit der
+Bestellhaeufigkeit, und welchen Hafen Sie gerechnet haben moechten, Antwerpen
+oder Rotterdam. Sagen Sie mir bitte auch, ob die Schweizer Gesellschaft
+getrennt oder gemeinsam mit Loerrach einkauft - danach richte ich mich.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
