@@ -1082,6 +1082,28 @@ annuaire et non d'une page de la société : la règle anti-rebond du §5 n'est 
 façon rien ne part. **Et le vrai enseignement est pour le CODE, pas pour la note** : voir le §12 sur le
 cinquième signal de `detecte-doublons.py`, que ce cas a fait naître.
 
+**VIDRIO ANDINO** (Colombie — ajouté le 14/10, et c'était **le trou le plus gênant qui restait** : le §6
+consacre un long développement à la Colombie, en fait un bon marché sur le miroir, nomme Espejos S.A.S.
+comme concurrent — et **ne nommait aucun producteur float colombien**, alors qu'il y en a un.
+**Usine float à Soacha (Cundinamarca)**, km 6,5 de la route Soacha-Mondoñedo, **Saint-Gobain
+majoritaire**, Pilkington et Grupo Sura minoritaires, et **Tecnoglass entré au capital en minoritaire**
+selon un communiqué Saint-Gobain. La société se présente comme **la seule usine float de Colombie**.
+⚠️ **Les chiffres d'ouverture — environ 220 M$ et plus de 200 000 t/an en 3 à 10 mm — ont une
+TREIZAINE D'ANNÉES et ne sont donc pas citables** ; leur catalogue actuel annonce du verre plat de
+bâtiment en **2 à 19 mm**. Une **seconde usine près de Barranquilla** était annoncée pour 2021,
+**achèvement non confirmé**. Concurrent par nature au titre déjà appliqué à Cebrace et à Saint-Gobain
+Egypt. **CONSÉQUENCE : ne jamais écrire qu'il n'y a pas de production locale en Colombie**, où 20
+fiches sont ouvertes. `verif-argument-float.py` ne couvrait pas la Colombie et la couvre désormais ;
+contrôle passé, **aucune fiche colombienne ne porte l'affirmation**, donc le trou n'a rien coûté.
+**ET DEUX CHOSES À EN TIRER POUR LE CIBLAGE.** Un, l'argument colombien reste **douanier et porte sur
+le MIROIR** — plancher de 0,77 USD/kg contre le miroir chinois — et **pas** sur l'absence d'offre
+locale, qui est fausse. Deux, **Tecnoglass**, grand groupe verrier de Barranquilla, est désormais lié
+au capital d'un producteur float : si son nom remonte comme prospect, ce lien se lève avant d'ouvrir
+la fiche. Il n'est pas au registre à ce jour.
+**Et la leçon de méthode : ce producteur a été trouvé par la page `/vidrioandino/` d'un PROSPECT**,
+Vidrios de la Sabana, qui en est distributeur. **Le catalogue d'un distributeur nomme ses
+fournisseurs, donc il nomme les producteurs locaux** — c'est une source de concurrents qu'aucune
+recherche de découverte ne donne, et elle est gratuite puisqu'on lit déjà ces pages pour déverrouiller),
 **CNG Glass (Nigeria) FZE** (Nigéria — ajouté le 11/10, et c'est le concurrent ouest-africain le plus
 important parce qu'il est en service depuis 2019 et non annoncé : 500 t/jour à Igbesa en zone franche
 Ogun-Guangdong, filiale de China Glass Holdings, ligne de couché solaire en ligne, trois entrepôts de

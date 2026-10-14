@@ -4534,3 +4534,89 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 86. Vidrios de la Sabana S.A.S. (Funza, Cundinamarca — Colombie) — `contacto@vidriosdelasabana.com` — ESPAGNOL — à envoyer le 14/10 à partir de 15h Paris
+
+**⚠ LA MEILLEURE CIBLE COLOMBIENNE OUVERTE, et elle est documentée par deux sources indépendantes.**
+Un, **la Résolution 284 du MinCIT la nomme** parmi les importateurs opposés au titre de l'expediente
+D-215-48-109 — ⚠️ avec la réserve du §6 : ce dossier est **antérieur** et son rattachement à la
+Résolution 284 **n'est pas établi**, donc ce qui est acquis est qu'ils **importent du verre**, pas que
+ce soit du miroir. Deux, **leur propre catalogue** annonce l'espejo **silver, aluminium, COPPER FREE
+et de couleur** — donc ils achètent déjà du miroir sans cuivre, et c'est le produit le plus
+différenciant de notre gamme. Importateurs depuis **2002**, groupe DHR, **Opérateur Économique
+Agréé** — un statut douanier qui ne s'obtient pas sans volume réel.
+
+**⚠ VÉRIFIÉ :** quatre adresses publiées sur leur propre domaine, `contacto@`, `ventas1@`,
+`servicioalcliente@` et `jefecomercial@`. **`contacto@` retenue**, les trois autres en secours.
+⚠️ **Réserve honnête : les pages indexées ont plusieurs années**, donc l'adresse peut avoir vieilli —
+c'est la réserve Visemex, et elle se lève au rebond, pas avant. Pages toutes verrières, domaine relu
+caractère par caractère.
+
+**⚠⚠ TROIS INTERDITS TENUS, ET LE PREMIER EST NEUF D'AUJOURD'HUI.**
+1. **AUCUNE affirmation d'absence de production locale.** La Colombie a **Vidrio Andino** à Soacha,
+   Saint-Gobain majoritaire — **et ces gens-là en sont distributeurs**, leur site porte une page
+   `/vidrioandino/`. Leur écrire que la Colombie n'a pas de float serait se disqualifier en une ligne.
+2. **L'angle est le MIROIR et non le float**, précisément pour cette raison : Vidrio Andino fait du
+   float, pas du miroir. C'est là que nous sommes utiles.
+3. **La mesure antidumping se cite avec la formulation prudente du §6** — elle **figure parmi les
+   droits antidumping en vigueur publiés par le MinCIT**, ce qui est vérifiable, et non « le recours
+   a été rejeté », qui ne l'est pas. **Et le prix plancher n'est pas présenté comme notre prix.**
+
+**⚠ RÈGLE PRODIESA :** leur filiale **Sabana Security Glass** fabrique du verre de sécurité, donc le
+trempé et le feuilleté **sortent de l'offre**. Seuls le miroir et le substrat entrent.
+
+```
+Buenos dias,
+
+Es una oferta de suministro, no una solicitud de cotizacion.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedora y exportadora de vidrio
+plano con sede cerca de Lyon, en Francia.
+
+Les escribo por una razon concreta y no por un directorio: su propio catalogo
+de espejo incluye el copper free, junto al silver, al de aluminio y al de
+color. Ese es exactamente el producto que mas nos diferencia, y ustedes ya lo
+compran. Ademas importan desde 2002 y son Operador Economico Autorizado, de
+modo que el contenedor completo no es nada nuevo para ustedes.
+
+Lo que podemos suministrar:
+
+- Espejo sin cobre y sin plomo, util donde la humedad ataca el borde plateado
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- Vidrio float incolor y extra-claro (pagina en ingles)
+  https://noxemgroup.com/en/float-glass/
+- Vidrio con capa de baja emisividad
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+No les proponemos nada de lo que ustedes mismos transforman.
+
+Embarcamos en CONTENEDORES COMPLETOS, en cajas de madera tratada NIMF-15, en
+hojas jumbo de 3210 x 2550 mm o en las medidas que pidan, con entrega en el
+puerto de destino.
+
+Un punto que les concierne como compradores y que se limita al espejo: los
+espejos sin enmarcar originarios de China figuran entre los derechos
+antidumping vigentes publicados por el MinCIT, y el origen europeo no esta
+entre los origenes afectados. No digo que nuestro vidrio sea barato ni estoy
+cotizando nada aqui. Digo que la comparacion entre origenes cambio.
+
+Podemos establecer una oferta para la entrega en su puerto de destino, sujeta a
+validacion de nuestra parte.
+
+Para prepararla necesito cuatro datos: cuales de las referencias anteriores
+mueven en volumen y en que espesores, las medidas de hoja que les sirven, un
+volumen aproximado con la frecuencia de recompra, y el puerto.
+
+Y si su abastecimiento ya esta resuelto y no hay espacio para otro origen,
+diganmelo con franqueza y no insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

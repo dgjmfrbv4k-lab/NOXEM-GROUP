@@ -27,6 +27,17 @@ PRODUCTEURS = {
     'Mexique': 'Vitro via Vidrio Plano de Mexico, et Guardian Industries de Mexico (float et miroir)',
     'Indonésie': 'Asahimas',
     'Chili': 'Vidrios Lirquén',
+    'Colombie': "VIDRIO ANDINO, a Soacha (Cundinamarca), km 6,5 route Soacha-Mondonedo.\n"
+                 "                Ajoute le 14/10 et c'etait un TROU : le paragraphe 6 declare la Colombie\n"
+                 "                bon marche sur le miroir et ne nommait aucun producteur colombien.\n"
+                 "                Saint-Gobain majoritaire, Pilkington et Grupo Sura minoritaires, et\n"
+                 "                Tecnoglass est entre au capital en minoritaire. La societe se dit la\n"
+                 "                SEULE usine float de Colombie. ~200 000 t/an et 3 a 10 mm a\n"
+                 "                l'ouverture, chiffres vieux d'environ treize ans donc NON CITABLES ;\n"
+                 "                leur catalogue annonce aujourd'hui 2 a 19 mm. Une seconde usine pres\n"
+                 "                de Barranquilla etait annoncee pour 2021, achevement NON CONFIRME.\n"
+                 "                Trouvee le 14/10 par la page /vidrioandino/ de Vidrios de la Sabana,\n"
+                 "                qui en est distributeur.",
     'Argentine': 'VASA / Vidrieria Argentina (coentreprise NSG-Pilkington et Saint-Gobain depuis 1938, usines Llavallol et Los Cardales, Cardales ~900 t/j)',
     'Inde': 'Pioneer Float Glass et autres',
     'Tanzanie': 'Sapphire (Mkuranga)',
