@@ -5779,3 +5779,159 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 114. GlassPanel (Chili, La Pintana) — `contacto@glasspanel.cl` — ESPAGNOL — négoce
+
+**Lot chilien, le second trou le plus net du registre après l'Argentine.** Leur propre site dit
+qu'ils **importent et distribuent** du verre, en gros et en détail, et qu'ils fabriquent en plus du
+double vitrage et des fenêtres PVC. **Une boîte nominative a été volontairement écartée :**
+`jdevoto@` est la boîte des *consultations de termopanel et de verre*, donc une boîte de **vente** où
+leurs clients écrivent — le piège *purchasing inquiries* de MunnWorks. **Aucun argument d'absence de
+production locale** (Vidrios Lirquén, faute Forpec) et **rien sur les droits chiliens**, inconnus.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo porque ustedes importan y distribuyen vidrio, y ademas fabrican
+termopanel y ventana. Eso significa que compran hoja por dos razones a la vez,
+para revender y para su propia linea, y que ya saben desarmar un contenedor.
+Con ustedes no hay nada que explicar sobre como funciona una importacion.
+
+Lo que podemos embarcarles:
+
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, que es la referencia que mas pesa en un
+  termopanel: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido, con carga util de 23 a 25 toneladas.
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: que referencias y espesores importan en
+volumen, las medidas que les sirven, cuanto y con que frecuencia, y su puerto,
+San Antonio o Valparaiso.
+
+Y si sus origenes actuales les cubren, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 115. Vetrosystems (Chili, Lampa) — `ventas@vetrosystems.cl` — ESPAGNOL — verrier pur
+
+**Usine de 5 000 m², double vitrage, trempé, garde-corps, fenêtres PVC. Règle Prodiesa :** trempé et
+double vitrage sortent de l'offre, seul le substrat y entre. **Une boîte nominative écartée pour le
+même motif qu'à GlassPanel** — un *subgerente comercial* est une fonction de vente, pas d'achats.
+**Rien sur l'absence de production locale ni sur les droits.**
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo por una razon simple: ustedes tienen planta propia en Lampa, con
+templado y linea de termopanel. Un horno y una linea de sellado no rinden si no
+entra hoja de manera regular, y esa regularidad depende enteramente de quien
+los abastece.
+
+No vengo a ofrecerles el templado ni el termopanel terminado, que los hacen
+ustedes. Vengo con el sustrato:
+
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad para la camara: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido. Podemos establecer una oferta para la
+entrega en su puerto de destino, bajo reserva de validacion de nuestra parte.
+
+Una pregunta para empezar: que espesores alimentan hoy su horno y su linea de
+termopanel, y en que medida de hoja los reciben.
+
+Y si estan bien servidos, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 116. Patagonia Glass (Chili, Lampa) — `contacto@patagoniaglass.cl` — ESPAGNOL — verrier
+
+**⚠ LA SEULE FICHE DE LA CAMPAGNE OÙ L'ON SAIT D'OÙ VIENT LEUR VERRE, ET ILS LE PUBLIENT EUX-MÊMES :
+leur page *Principales Proveedores* nomme AYD Grup, fabricant turc de float, de feuilleté et de
+low-E.** L'angle est donc la seconde origine **face à une origine turque**, et surtout pas un marché
+sans offre. **Le message ne nomme pas leur fournisseur** — le dire reviendrait à leur apprendre
+qu'on a lu leur site, et ne sert à rien de plus que de régler l'angle, ce qui est déjà fait.
+**Rien sur l'absence de production locale ni sur les droits chiliens.**
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo porque fabrican termopanel, lucarnas y vidrios de control termico
+en Lampa, y porque ese trabajo se sostiene sobre hoja importada. Quien ya
+importa no necesita que le expliquen el contenedor: compara origenes, y de vez
+en cuando le conviene tener una mas.
+
+Lo que podemos embarcarles:
+
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido. Podemos establecer una oferta para la
+entrega en su puerto de destino, bajo reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: que referencias y espesores consumen,
+las medidas de hoja que les sirven, un volumen aproximado y la frecuencia, y su
+puerto de entrada.
+
+Y si su origen actual les cubre bien, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
