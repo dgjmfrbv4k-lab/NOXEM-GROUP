@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **14/10/2026** depuis le registre. **212 societes** portent un telephone et
+Regeneree le **14/10/2026** depuis le registre. **213 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 212 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 213 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 191 societes
+## Hors Europe — 192 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | États-Unis | **MunnWorks LLC** | `+1 914 665 6100` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 22h02 PAR UNE PISTE QUI N EST PAS UNE RECHERCHE DE CATEGORIE, ET C EST SA FORCE : la LISTE DES IMPORTATEURS AMERICAINS DE FLOAT deposee le 21/11/2024 au dossier C-570-189, l affaire de droits compens... |
 | Australie | **G.James Glass & Aluminium** | `+61 7 3877 2844` | 01h00 - 09h00 | A APPELER | FICHE CREEE LE 14/10 A 11h28 PAR LE PORTAIL SECTORIEL, la decouverte large etant mesuree saturee en Australie le 13/10, onze noms sur treize deja presents. Mot distinctif grepe avant creation sous trois formes a cause du point,... |
 | Brésil | **Disk Vidros** | `+55 46 3524-1517` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
+| Brésil | **Cyberglass — Industria e Comercio de Vidros Ltda** | `+55 11 2914 7211` | 14h00 - 22h00 | A APPELER | FICHE CREEE ET ENVOYEE LE 14/10 A 18h47. Mot distinctif grepe avant creation, cyberglass, absent du registre. MEILLEURE TROUVAILLE DE LA SOIREE, ET ELLE VIENT DE L ANNUAIRE ABRAVIDRO. Deux fois associee, par sa page empresas-as... |
 | Colombie | **Vidriosur Colombia** | `+57 601 567 6388` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 13h24. Grep vidriosur fait avant creation, absente. LE PROFIL EST LE MEILLEUR DU LOT COLOMBIEN ET IL VIENT D ELLE-MEME : DISTRIBUTEUR DE GROS DE VERRE PLAT ET DE MIROIRS, NATIONAUX ET IMPORTES. Mayor... |
 | Honduras | **Aluminios del Sur** | `+504 8847 8257` | 17h00 - 01h00 | A APPELER | Trois decennies de metier, couvre Tegucigalpa, San Pedro Sula et Olancho. Adresse email masquee en ligne : appeler. Port Puerto Cortes. Adresse retrouvee le 07/10. Envoi depuis la nouvelle boite noxem-group. REBOND 07/10 : 550 ... |
 | Irak | **Nawzad NIT Group** | `+964 750 722 2777` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Siège et usine à Erbil, agence à Bagdad, cibler vitrages de façade et miroirs. Pas d adresse publiee : appeler. Port . VERIFIE LE 08/10, ADRESSE OBFUSQUEE : leur page de contact affiche un emplacement vide a la place de l adres... |
