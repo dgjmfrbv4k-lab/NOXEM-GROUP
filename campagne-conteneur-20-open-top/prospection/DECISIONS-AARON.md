@@ -280,3 +280,48 @@ relance** vers cette maison tant que le dossier Riou n est pas tranche.
 **CE QUE JE VOUS DEMANDE, ET C EST LA MEME QUESTION QU AU 08/10 AVEC UN ENJEU DE PLUS :**
 le groupe Riou Glass se demarche-t-il, ou se laisse-t-il de cote ? **Quatre societes en dependent
 desormais**, dont une belge de 160 salaries qui vient de recevoir notre premier contact.
+
+
+---
+
+## LE RAYON DE L ENTREPOT, APRES UNE JOURNEE ENTIERE DESSUS — releve du 14/10 a 17h08
+
+**CONSIGNE DE KEVIN CE MATIN :** prospecter la Belgique, le Luxembourg et tout ce qui est a trois
+ou quatre cents kilometres de l entrepot, en employant la proximite comme argument. **Voici le
+resultat, et il tient en une mesure.**
+
+**26 MESSAGES PARTIS DANS LE RAYON** — 15 en Allemagne, 7 en Belgique, 4 aux Pays-Bas.
+**6 MAISONS RETENUES SANS ENVOI**, plus 4 fermees en concurrent ou hors perimetre.
+
+**⚠️ ET CE QUI SEPARE LES DEUX N EST NI LE PAYS NI LA DISTANCE, C EST UNE SEULE QUESTION :
+LA MAISON POSSEDE-T-ELLE UNE LIGNE QUI CONSOMME DE LA FEUILLE ?**
+
+| Parties | Ce qu elles ont | Exemples |
+|---|---|---|
+| **Les 26 qui ont recu** | un four de trempe, une ligne d isolant, un atelier de decoupe, ou un vrai stock a reapprovisionner | Polypane et ses cinquante ans d isolant, Tardis et son four ESG, Schuet-Duis et ses deux lignes, Glaslinq et ses quatre depots |
+| **Les 6 retenues** | ni ligne ni stock de feuille — elles achetent **coupe, transforme ou fini** | De Glascentrale commande son HR++ **en 2 a 4 semaines**, Bas Timmers fait des **parois de douche**, Vitralux et Carl Abel posent |
+
+**LE CAS QUI PROUVE LA REGLE EST DE GLASCENTRALE, et il est plus net que n importe quelle etiquette
+de metier.** Un delai annonce de deux a quatre semaines sur son propre isolant dit qu elle **commande
+des unites finies**. Il n y a rien a reapprovisionner au conteneur chez elle, quelle que soit sa
+taille et quelle que soit sa distance.
+
+**⚠️ ET LA CONCLUSION EST CONTRE-INTUITIVE, DONC IL FAUT LA DIRE FRANCHEMENT : LES MAISONS LES PLUS
+PROCHES SONT LES MOINS BONNES.** Carl Abel est a **180 km**, Glastechnik Engels a **270**,
+De Smaele a **20** — et les trois sont de la classe mesuree a **zero pour cent**. Les meilleures
+prises du jour sont plus loin : Polypane a 45 km est l exception, mais Glas Scholz, Steenebrugge,
+Tardis, Sollingglas et Glaslinq sont toutes entre 300 et 400 km.
+**Ce n est pas un hasard de tirage.** Le premier cercle autour d un entrepot est fait de vitriers de
+proximite, parce que c est ce dont une agglomeration a besoin. Les lignes industrielles sont en zone
+d activite, plus loin, et elles sont moins nombreuses.
+
+**CE QUE JE RECOMMANDE, ET C EST UN ARBITRAGE QUI VOUS REVIENT.**
+1. **Les 6 retenues ont toutes leur adresse acquise et prete.** Si vous voulez tenter la carte de la
+   proximite malgre la mesure, dites-le et elles partent dans l heure. **Je ne l ai pas fait seul
+   parce que la mesure dit le contraire de la consigne**, et c est exactement le cas ou je demande.
+2. **Ma recommandation est de les basculer sur le DESTOCKAGE plutot que sur le conteneur.** Un
+   vitrier de Breda ou d Euskirchen n achete pas vingt-cinq tonnes de feuille, mais un lot livre en
+   camion lui va tres bien. **C est la question que j ai posee ce matin et qui reste ouverte :
+   le dossier destockage n a pas de registre, donc je ne peux pas y verser ces fiches moi-meme.**
+3. **Et l argument de proximite garde toute sa valeur sur les 26 qui ont recu** — il est dans chacun
+   des messages, en kilometres exacts.
