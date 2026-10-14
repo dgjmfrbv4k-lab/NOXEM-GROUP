@@ -6827,3 +6827,79 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 131. Joh. Franz König — König Flachglas (Cologne) — `info@glaskoenig.de` — ALLEMAND — négoce et verrier
+
+**LA FICHE EXISTAIT DEPUIS DES SEMAINES EN `A QUALIFIER`, ET C'EST UNE FÉDÉRATION QUI L'A
+QUALIFIÉE** — pas un annuaire, pas un moteur. Le **Flachglas MarkenKreis**, coopérative de 58
+maisons allemandes indépendantes sur 63 sites, la nomme parmi ses membres comme *grossiste et
+transformateur de Rhénanie*. C'est la troisième source du §6 sur la saturation, l'annuaire de
+fédération, et c'est la première fois qu'elle sert.
+**Leur propre site confirme et ajoute :** marque *König Flachglas*, **exclusivement clientèle
+professionnelle**, feuilleté, miroirs, parois de douche et portes en verre, usinage CNC et jet
+d'eau. Donc **négoce ET transformation**, les deux meilleures classes à la fois.
+**⚠️ RÈGLE PRODIESA :** feuilleté, parois, portes et usinage sortent de l'offre. Seul le substrat
+y entre.
+**⚠️ UN DIRIGEANT EST PUBLIÉ AVEC SA FONCTION, et le §5 l'autoriserait** — *Geschäftsführer* relève
+de la « direction », l'une des trois fonctions pertinentes que la règle nomme. **Il n'est pourtant
+pas employé ici** : la boîte générale est plus sûrement relevée, et ce levier se garde pour une
+seconde approche. Le fait est consigné dans la fiche pour qu'on puisse s'en servir sciemment.
+**⚠️ Et le §5 a failli être enfreint :** la première recherche donnait l'adresse depuis des
+annuaires et un réseau social, **sans que leur domaine figure dans les URL de résultats**. Un
+second temps restreint à `glaskoenig.de` a été nécessaire pour la valider. La règle a coûté un
+appel et elle a servi.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne.** Aucun argument douanier
+non plus, nous sommes dans l'Union. **Et le « presque 180 ans » vient d'un avis client, pas d'eux —
+il n'est pas repris.**
+
+```
+Sehr geehrte Damen und Herren,
+
+dies ist ein Lieferangebot und keine Preisanfrage. Sollten Sie nicht fuer den
+Einkauf von Basisglas zustaendig sein, waere ich Ihnen dankbar, wenn Sie diese
+Nachricht weiterleiten.
+
+Mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich.
+
+Ich schreibe Ihnen aus zwei Gruenden, die zusammengehoeren. Sie arbeiten
+ausschliesslich mit gewerblichen Kunden, und Sie bearbeiten das Glas selbst,
+mit CNC und Wasserstrahl. Beides heisst dasselbe: Sie kaufen Tafelware ein,
+und zwar regelmaessig, denn eine Bearbeitungsstrasse steht still, wenn nichts
+hereinkommt.
+
+Ich biete Ihnen deshalb nichts an, was Sie selbst herstellen - kein VSG, keine
+Duschen, keine Glastueren. Nur das, was davor hereinkommt:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegelrohware ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- Lackiertes Glas fuer den Innenausbau: https://noxemgroup.com/en/lacquered-glass/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken Ihre Bearbeitung am meisten
+verbraucht, welche Tafelmasse Ihren Maschinen passen, eine ungefaehre
+Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie gerechnet haben
+moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
