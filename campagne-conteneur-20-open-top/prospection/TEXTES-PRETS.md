@@ -8591,3 +8591,79 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 156. Serra Morena Brasil (São Paulo) — `comercial@serramorena.com` — PORTUGAIS — distributeur de chapas, 4 sites
+
+**Vérifié avant d'écrire :**
+- Mots distinctifs grepés avant création, `serra morena` et `serramorena` : **absents du registre**. Et il fallait greper les deux formes, séparée et concaténée — c'est la règle Alphaglass du §5.
+- **Le NOUVEAU signal du §5 est satisfait, et c'est lui qui a sélectionné cette fiche** : leur page produit publie les **épaisseurs** — 4, 6, 8 et 10 mm — **et les largeurs de chapa, 3210 à 3660 mm**. Aucun façadier ne publie cela. C'est le critère dégagé à 17h31 après Faiquito et ALCRISTAL.
+- Fondée en **1987**, siège São Paulo, filiales **Itajaí (SC), Porto Velho (RO) et Recife (PE)**, centres de distribution propres à Recife et Porto Velho. Elle se présente aussi comme **trading de commerce international**, donc elle importe déjà.
+- **⚠ EXCEPTION DU §5 NOTÉE** : les adresses publiées sont sur **`serramorena.com`** alors que le site est **`serramorenabrasil.com.br`**. Deux domaines différents — mais c'est **leur propre page de contact** qui les publie, vérifiée par un second temps restreint à leur domaine. L'exception joue, et elle est consignée.
+- **⚠ ET UN HOMONYME ÉCARTÉ** : `serramorena.com.br`, avec des bureaux à Porto Alegre, Rio Grande et Imbituba — trois **ports** — n'est pas la même maison. Aucun lien établi, et l'adresse retenue ne vient pas de là.
+- **Critère du bureau d'achat du §12** : quatre sites, **une seule page de contact et une seule boîte commerciale** → un seul bureau d'achat, **un seul message**. Cas Saint Lu, pas cas Extralum.
+- **Règle Prodiesa** : ils distribuent, ils ne fabriquent pas de verre. **Toute la gamme substrat entre dans l'offre.**
+- **INTERDIT DU §6 TENU** : jamais l'absence de production locale au Brésil — AGC, Cebrace, Guardian et Vivix y produisent. L'argument est **douanier**, et il est **confiné au float clair** parce que la mesure Gecex 833 exclut le miroir, le teinté et le coloré dans la masse. Aucun taux cité.
+- Jour ouvré et heure vérifiés, mercredi, 12h40 à Brasília.
+
+**Objet :** Vidro float em contêiner completo — origem europeia
+
+**Corps :**
+
+```
+Prezados senhores,
+
+Meu nome é Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e
+exportadora de vidro plano perto de Lyon, na França.
+
+Escrevo-lhes porque vocês publicam as espessuras e as larguras das
+suas chapas — 4, 6, 8 e 10 mm, em larguras de 3210 a 3660 mm — e
+mantêm centros de distribuição próprios em Recife e em Porto Velho.
+Quem trabalha assim compra chapa, não vidro já cortado, e é
+exatamente aí que podemos ser úteis.
+
+As nossas referências:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade (low-E)
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+As páginas estão em inglês, o site não existe em português: o float
+incolor e extra claro é a base, o low-E vai para o vidro isolante, e
+o espelho sem cobre e sem chumbo resiste muito melhor à umidade do
+que um espelho prateado convencional.
+
+Um ponto que talvez lhes interesse, e que é um fato aduaneiro e não
+uma proposta de preço: no float incolor, as origens malaia,
+paquistanesa e turca passaram a carregar direitos antidumping
+brasileiros, e a origem europeia não é visada por nenhuma dessas
+medidas. Isso muda a comparação entre origens.
+
+Trabalhamos em contêineres completos, em caixas de madeira tratada
+NIMP-15, em jumbo 3210 x 2550 mm ou nas medidas que vocês pedirem.
+
+Podemos estabelecer uma oferta para a entrega no porto de destino que
+lhes convier — Santos, Itajaí ou Recife — sujeita a validação da
+nossa parte.
+
+Para que a oferta sirva de alguma coisa, podem me indicar as
+referências e as espessuras que compram, os formatos, o volume
+aproximado e a frequência das compras?
+
+E se já estiverem comprometidos com o fornecedor atual, digam-me com
+franqueza e não insisto.
+
+Fico à disposição.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
