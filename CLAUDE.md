@@ -1251,6 +1251,33 @@ la fiche. Il n'est pas au registre à ce jour.
 Vidrios de la Sabana, qui en est distributeur. **Le catalogue d'un distributeur nomme ses
 fournisseurs, donc il nomme les producteurs locaux** — c'est une source de concurrents qu'aucune
 recherche de découverte ne donne, et elle est gratuite puisqu'on lit déjà ces pages pour déverrouiller),
+**GLAS TRÖSCH / EUROGLAS** (Suisse — ajouté le 14/10 à 16h35, et **c'est le trou le plus grave qui
+restait sur l'Europe, parce qu'il a laissé passer un envoi**. Groupe suisse, plus de 65 sites et
+~6 000 salariés, qui **produit du float sous la marque EUROGLAS** : **Hombourg** en Alsace depuis
+1995, **Haldensleben** et **Osterweddingen** en Allemagne, **Ujazd** en Pologne, plus un cinquième
+four annoncé à Ujazd en 2019 — les sources se contredisent entre « quatre plus un en construction »
+et « cinquième inauguré ». **⚠ ET UNE LIGNE FLOAT EST PLANIFIÉE À LOMMEL, EN BELGIQUE**, 35 hectares,
+permis annoncé fin 2023 et production visée 2025 : **état non vérifié**, à établir avant d'en rien
+dire. **CONSÉQUENCES EN CHAÎNE, et elles sont trois.** Un, **l'Allemagne produit du float, c'est
+désormais ÉTABLI** et non plus tenu par prudence — Haldensleben et Osterweddingen sont des fours
+Euroglas. Deux, **Scheuten Glas appartient à Glas Trösch depuis 2020** — Venlo, Hoorn, **Diest en
+Belgique** et Heiden en Allemagne : c'est donc une filiale de producteur float, **concurrente par
+nature** au titre déjà appliqué à Saint-Gobain Egypt, et la fiche s'est fermée avant tout envoi.
+Trois, **SANCO est une marque sous licence de Glas Trösch GmbH** (Nördlingen, exploitée depuis Ulm),
+avec des licenciés dans treize pays : un licencié SANCO comme **DemuGlas** n'appartient pas au groupe
+et reste un prospect, **mais son verre à couche vient vraisemblablement de son licencieur**, donc la
+porte de sortie du §9 y est obligatoire.
+**⚠️⚠️ ET LE PIÈGE DE NOM QU'IL FAUT CONNAÎTRE AVANT DE FERMER QUOI QUE CE SOIT : `EUROGLAS` DÉSIGNE
+DEUX MAISONS SANS AUCUN RAPPORT.** La marque float de Glas Trösch, et **Euroglas-De Landtsheer**, un
+groupe verrier belge de Bornem fondé en 1964. C'est exactement le piège *zoujaj* et le piège
+*Glaszentrum*, pris une troisième fois : **le mot ne dit rien, seule la société compte.**
+**Et c'est en levant cette confusion que j'ai découvert la faute la plus coûteuse de la journée** —
+Euroglas-De Landtsheer est détenue à 55 % par **RIOU GLASS** depuis décembre 2022, donc par un
+groupe en attente d'arbitrage depuis le 08/10, **et son message de premier contact était déjà
+parti**. Voir `DECISIONS-AARON.md` : le dossier Riou a **quatre** sociétés dans le périmètre et non
+trois. **La leçon de méthode : la règle du domaine du §6 ne voit un groupe que quand le groupe
+IMPOSE son domaine. Un rachat qui conserve la marque rachetée est invisible aux cinq signaux du
+balayage comme à cette règle, et seule une recherche de structure capitalistique le trouve.**),
 **CNG Glass (Nigeria) FZE** (Nigéria — ajouté le 11/10, et c'est le concurrent ouest-africain le plus
 important parce qu'il est en service depuis 2019 et non annoncé : 500 t/jour à Igbesa en zone franche
 Ogun-Guangdong, filiale de China Glass Holdings, ligne de couché solaire en ligne, trois entrepôts de

@@ -240,3 +240,43 @@ europeens, verifie dans les deux sens.
 **CE QUI RESTE A FAIRE ICI : UN APPEL, ET UN SEUL QUI VAILLE.** Hanin, trois ateliers, +352 26 37
 59 40 pour Grass ou 081 30 15 18 pour Jambes. C est le seul numero luxembourgeois qui porte un
 acheteur de volume, et il rejoint le point 1 de `DECISIONS-AARON.md` : le creneau d appels.
+
+
+---
+
+## ⚠️ LE DOSSIER RIOU A UNE QUATRIEME SOCIETE, ET JE LUI AI ECRIT CE MATIN — 16h34 le 14/10
+
+**FAIT, ET C EST UNE FAUTE DE MA PART QUE JE CONSIGNE AU TITRE DU PARAGRAPHE 16.**
+
+`Euroglas-De Landtsheer`, groupe verrier belge de Bornem, Fleurus, Meer et Villers, est **detenu a
+55 pour cent par RIOU GLASS depuis le 12 decembre 2022**. Riou a rachete 55 pour cent de **Glass
+Invest**, la holding qui possede Euroglas-De Landtsheer, **Safetyglass** et **IGP**. Les 45 pour
+cent restants sont a la direction. Groupe fonde en 1964, plus de 31 millions d euros en 2021,
+160 salaries.
+
+**Le message de premier contact lui est parti le 14/10 au matin.** Je ne peux pas le reprendre.
+
+**CE QUE CELA CHANGE AU DOSSIER QUE VOUS AVEZ A TRANCHER :** le groupe Riou n avait **trois**
+societes dans le perimetre de cette campagne — SOREMIR a La Reunion, Riou Ocean Glass a Maurice et
+SOFAVI a La Reunion. **Il en a quatre**, et la quatrieme est en **Belgique**, a 40 km de l entrepot,
+avec 160 salaries. L arbitrage demande le 08/10 porte donc sur un enjeu plus gros que presente.
+
+**POURQUOI LE GARDE-FOU N A PAS JOUE, ET LA LECON EST GENERALE.** Le paragraphe 6 dit depuis le
+08/10 que **le domaine de l adresse trahit l appartenance a un groupe la ou la raison sociale ne
+dit rien** — c est ainsi que SOREMIR puis SOFAVI ont ete rattaches, par `riouglass.re`. **Ici le
+domaine est `euroglas-dl.com` et ne porte aucune trace de Riou.** Un rachat qui **conserve la marque
+rachetee** est invisible aux cinq signaux du balayage comme a la regle du domaine. Seule une
+recherche de **structure capitalistique** le trouve, et je ne l avais pas faite avant d ecrire parce
+que la fiche existait deja au registre avec son adresse.
+
+**ET LE HASARD QUI L A REVELEE DIT QUELQUE CHOSE SUR LA METHODE :** je cherchais si `Euroglas` etait
+la marque float du groupe suisse **Glas Trösch**. Ce sont **deux maisons sans aucun rapport portant
+le meme nom**, et c est la seconde qui a fait decouvrir la premiere. Un piege de nom a servi a
+trouver une faute reelle.
+
+**CE QUE J AI FAIT :** fiche passee en `A VALIDER AARON`, faits consignes, **aucun autre envoi ni
+relance** vers cette maison tant que le dossier Riou n est pas tranche.
+
+**CE QUE JE VOUS DEMANDE, ET C EST LA MEME QUESTION QU AU 08/10 AVEC UN ENJEU DE PLUS :**
+le groupe Riou Glass se demarche-t-il, ou se laisse-t-il de cote ? **Quatre societes en dependent
+desormais**, dont une belge de 160 salaries qui vient de recevoir notre premier contact.

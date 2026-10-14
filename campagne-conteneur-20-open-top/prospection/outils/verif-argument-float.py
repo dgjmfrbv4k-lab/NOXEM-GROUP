@@ -87,18 +87,19 @@ PRODUCTEURS = {
                   'debut, mais le lien avec le Luxembourg n y etait pas fait : le plus petit pays '
                   'du releve abrite l un des plus gros producteurs float d Europe. '
                   'Reserve de source, releve sectoriel et non piece de dossier.',
-    'Belgique': 'AGC Glass Europe. Le paragraphe 6 note lui-meme que le site de Moustier a '
+    'Belgique': 'AGC Glass Europe, ET UNE LIGNE EUROGLAS PLANIFIEE A LOMMEL par Glas Troesch, 35 hectares, permis annonce fin 2023 et production visee 2025, ETAT NON VERIFIE donc a ne pas citer. Scheuten Glas a un site a DIEST et appartient a Glas Troesch depuis 2020.  Le paragraphe 6 note lui-meme que le site de Moustier a '
                 'Jemeppe-sur-Sambre, RUE DE LA GLACERIE, est celui ou Glaverbel a monte en 1965 '
                 'LA PREMIERE LIGNE FLOAT D EUROPE CONTINENTALE. Le fait etait dans le mandat '
                 'depuis le matin du 14/10 sans que le code le porte. Trois fiches belges sont '
                 'deja en NE PAS DEMARCHER pour appartenance a AGC ou a Saint-Gobain, ce qui le '
                 'confirme par l autre bout.',
-    'Allemagne': 'Les quatre producteurs float mondiaux de la liste du paragraphe 6, Saint-Gobain, '
-                 'NSG-Pilkington, Guardian et AGC, y ont des operations, et Interpane y est un '
-                 'acteur etabli. RESERVE HONNETE : aucune ligne float allemande n a ete verifiee '
-                 'sur source de premier rang dans cette session. Entree tenue par PRUDENCE au titre '
-                 'du principe asymetrique ci-dessus, et les treize messages allemands du 14/10 '
-                 'evitaient deja l argument par consigne.',
+    # CORRIGE LE 14/10 A 16h36, quelques heures apres sa creation : la reserve honnete est LEVEE.
+    'Allemagne': 'ETABLI. EUROGLAS, marque float du groupe suisse GLAS TROESCH, exploite les fours de '
+                 'HALDENSLEBEN depuis 1997 et d OSTERWEDDINGEN depuis 2006. L entree avait ete tenue par '
+                 'PRUDENCE le meme jour, avec la reserve honnete qu aucune ligne allemande n avait ete '
+                 'verifiee. Elle l est desormais, et le principe asymetrique a paye : on avait inclus par '
+                 'precaution un pays qui le meritait vraiment. S y ajoutent les operations allemandes de '
+                 'Saint-Gobain, NSG-Pilkington, Guardian et AGC, et Interpane.',
     'Pays-Bas': 'NON ETABLI, et l entree sert justement a le dire. Aucune ligne float neerlandaise '
                 'n a ete cherchee ni trouvee, et Pilkington Nederland y a des sites dont la nature, '
                 'production ou transformation, n est pas connue. A VERIFIER avant d employer '
