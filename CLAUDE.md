@@ -1920,6 +1920,23 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   Eurocaribe et Imporvidrios (Rép. dominicaine). Le second temps sert aussi de **preuve que le
   domaine est bien le leur** : si la recherche restreinte rend une de leurs pages, c'est confirmé ;
   un domaine vu seulement dans un annuaire ne l'est pas.
+  **ET LE SECOND TEMPS REND SOUVENT MIEUX QU'UNE ADRESSE — MÉTHODE ÉTABLIE LE 14/10 SUR DEUX CAS
+  INDÉPENDANTS, ET ELLE NE COÛTE PAS UN APPEL DE PLUS : LA PAGE *FOURNISSEURS* D'UN DISTRIBUTEUR.**
+  · **Intervidro** (Pernambouc), le matin : leur site nomme **Guardian, Cebrace et Vivix**. Troisième
+    confirmation indépendante des quatre producteurs float brésiliens — et surtout, leur établissement de
+    Goiana est dans la ville même de l'usine Vivix. **L'argument douanier Gecex 833 ne leur dit donc rien**,
+    leur concurrence est le producteur local et non l'import.
+  · **Patagonia Glass** (Lampa, Chili), à 11h21 : leur page *Principales Proveedores* nomme **AYD Grup,
+    fabricant TURC de float, de feuilleté et de low-E**. Donc leur verre vient de Turquie, et ils le disent
+    eux-mêmes. L'angle devient la seconde origine face à une origine turque, pas un marché sans offre.
+  **POURQUOI C'EST LA MEILLEURE SOURCE DISPONIBLE SUR CE POINT :** un prospect ne publie pas ses prix, ne
+  publie pas ses volumes, et ne répondra pas à une question sur son fournisseur dans un premier message.
+  **Mais il publie volontiers ses fournisseurs, parce que c'est un argument de vente pour lui.** C'est donc
+  la seule donnée de concurrence qu'on obtienne sans rien demander — et elle dit exactement contre qui on se
+  place, ce qui décide de l'angle du message.
+  **Conduite : sur tout prospect distributeur, chercher cette page dans le même second temps**, avec les mots
+  *fournisseurs*, *proveedores*, *fornecedores*, *suppliers*, *marcas*, *nuestras marcas*. Zéro appel
+  supplémentaire, puisque la recherche est déjà restreinte à son domaine.
   **Et le premier temps rend parfois mieux qu'une adresse : la bonne identité.** La fiche
   « Importadora de Vidrios y Espejos Milagros » a fait remonter une société voisine, Imporvidrios
   SRL, qui porte **le même téléphone et le même secteur** — très probablement la même maison sous
