@@ -7250,3 +7250,48 @@ ce matin, en refusant deux creations qui auraient ete deux doublons de pays.
 Le budget de recherche a servi a ouvrir cinq marches et a lever quatre pieges de nom. **Le reste de
 la journee va aux ENVOIS**, qui commencent a 13h30 heure de Paris, et la feuille d'execution est
 prete dans `a-envoyer/2026-10-14-cohorte.md`.
+
+
+---
+
+# 🛑 VAGUE BLOQUEE A 11h51 — LA BOITE CONNECTEE A CHANGE EN COURS DE SESSION
+
+**AUCUN ENVOI N'EST PARTI. Le controle 1 du paragraphe 10 a arrete la vague juste avant le premier
+message.**
+
+## CE QUI A ETE CONSTATE, ET IL FAUT DIRE L'HEURE PARCE QUE LE CHANGEMENT EST RECENT
+
+· **A 10h40**, le controle `in:sent` rendait `aaron.harfi@noxem-group.com`. Trois messages du matin
+  y figuraient, vers Glass Market, Glasslines et Viridian. **La vague du matin est donc bien partie
+  de la bonne boite.**
+· **A 11h51**, le meme controle rend **`harfiaaron0@gmail.com`**. C'est l'ANCIENNE boite Gmail, celle
+  que le paragraphe 13 decrit comme conservant l'historique des fils ouverts avant le 07/10 — le fil
+  PG Glass avec Willem Heunis y est, ce qui le confirme. Les `viewUrl` rendus par le connecteur
+  portent eux aussi `authuser=harfiaaron0@gmail.com`.
+· **La boite Workspace NOXEM n'est plus la boite connectee.**
+
+## POURQUOI RIEN NE PART, ET CE N'EST PAS UNE DECISION DE MA PART
+
+C'est la consigne de **Kevin du 08/10 a 19h41**, inscrite au paragraphe 10, et elle est
+inconditionnelle :
+> « Avant tout envoi, toute reponse, tout brouillon : lire l'expediteur dans `in:sent`. Si ce n'est
+> pas `aaron.harfi@noxem-group.com` : **aucun envoi, aucune prospection**. »
+
+Et elle precise qu'elle vaut **meme contre une consigne de prospecter**, puisque c'est precisement
+le cas qu'il a prevu. **Trente-huit messages seraient partis d'une adresse Gmail personnelle au lieu
+du domaine de la societe** : rupture de fil pour les destinataires deja contactes depuis le domaine,
+signature incoherente, et reputation d'envoi construite pour rien depuis le 07/10.
+
+## CE QUI EST PRET ET N'ATTEND QUE LA RECONNEXION
+
+· **19 premiers contacts**, textes rediges et controles, zero defaut.
+· **19 premieres relances** de la cohorte du 08/10, chacune avec son numero de texte.
+· **6 premiers contacts et 41 relances** deja prepares pour le 15/10.
+**Rien de ce travail n'est perdu**, les fiches gardent leur statut `A ENVOYER 2026-10-14` et la file
+repart telle quelle des que la boite NOXEM est reconnectee.
+
+## CE QUI CONTINUE SANS ENVOYER
+
+Le paragraphe 10 le dit : « le travail qui n'envoie rien — recherche, qualification, registre,
+preparation de textes — continue normalement ». C'est ce qui a ete fait toute la matinee et ce qui
+peut continuer cet apres-midi.
