@@ -176,6 +176,12 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   ce qu'on aurait voulu savoir. La fiche est en `A QUALIFIER` avec l'activité « à établir », et elle
   attend une recherche large sur son nom. **C'est le coût de la règle, et il est assumé : mieux vaut
   une fiche vide qu'une fiche qualifiée par une source qu'on s'interdit.**
+  **ET UN DE PLUS LE MÊME JOUR À 11h08, SUR UNE RECHERCHE AMÉRICAINE : `datamyne.com`**, qui vend des
+  relevés d'importation par société — nombre d'expéditions, codes SH, société mère. Même nature que
+  Volza et Panjiva, donc même interdit et à mettre dans `blocked_domains` d'emblée sur toute
+  recherche d'importateur. **C'était l'unique résultat au monde pour le nom cherché**, ce qui
+  illustre le coût réel de la règle : sur cette fiche-là, s'interdire le courtier revient à ne rien
+  savoir du tout.
   **LA RÈGLE QUI SE DÉGAGE, ET ELLE EST PLUS FINE QUE « NE PAS UTILISER LE SITE » :** un résultat de
   courtier peut **nommer** une société, et un nom n'est pas une donnée vendue — c'est ainsi qu'on apprend
   qu'elle existe. **Ce qui est interdit est de reprendre sa QUALIFICATION** : volumes, origines, ports,
@@ -1166,6 +1172,7 @@ pas. Son établissement de **Moraine (Ohio)** est remonté de l'exhibit I-7 du d
 les importateurs. **Concurrent par nature au même titre que SGC International** : c'est le bras américain
 d'un producteur chinois, donc le circuit même que le droit antidumping de 181,52 % frappe. Fiche **non
 créée**, à écarter d'emblée si elle remonte),
+**RY GLASS IMPORTS INC.** (Lawrence, État de New York — **nom à ne pas ouvrir, ajouté le 14/10 à 11h08, et il faut dire exactement ce qui est établi et ce qui ne l'est pas**. Le nom est remonté d'un annuaire de négoce international comme importateur américain de float low-E. La seule page au monde qui en dit plus est celle d'un **courtier de données interdit**, `datamyne.com`, et elle décrit la société comme la filiale d'un **fabricant de verre chinois**, Qinhuangdao Yaoyou Engineering Glass. **⚠ CE FAIT N'EST DONC PAS ÉTABLI AU SENS DU §5 : il vient d'une source qu'on s'interdit, et la règle veut qu'un courtier puisse NOMMER sans qu'on reprenne sa QUALIFICATION.** Conduite retenue : **aucune fiche créée**, exactement comme pour Fuyao. Si le rattachement est réel, c'est le circuit SGC International une troisième fois — le bras américain d'un producteur chinois, donc précisément ce que le droit antidumping américain frappe — et une fiche serait une faute de ciblage. S'il ne l'est pas, on n'a rien perdu : la société n'a aucune présence web propre et ne serait de toute façon pas joignable. **À réétablir par une source permise avant d'ouvrir quoi que ce soit, jamais sur la foi du courtier**),
 **TROIS PRODUCTEURS MALAISIENS, ajoutés le 12/10, et la liste n'en nommait AUCUN alors que le §6
 cite la Malaisie dans presque toutes ses mesures douanières** — c'était un trou gênant, du même
 genre que celui comblé pour le Brésil le 11/10. Ils sortent de la **liste des producteurs et
