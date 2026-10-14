@@ -167,6 +167,15 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   présente comme une *International Purchasers List* — un annuaire d'acheteurs vendu par société. C'est
   exactement la nature que cette règle interdit, donc même interdit, et à mettre dans `blocked_domains`
   d'emblée sur toute recherche d'importateur.
+  **UN DE PLUS, REMONTÉ LE 14/10 À 10h58 SUR UNE RECHERCHE ÉQUATORIENNE : `emis.com`**, qui vend des
+  profils d'entreprises — raison sociale, siège, code d'activité principale, activités secondaires,
+  données financières. **C'est mot pour mot la nature de `dnb.com`, nommément interdit depuis le
+  11/10, donc même interdit.** Le cas est net et il a été traité à la lettre de la règle : la fiche
+  **Sealvid** (Guayaquil) a été créée parce qu'un courtier peut **nommer** une société, et **toute
+  la qualification qu'EMIS en donnait a été écartée** — y compris son activité, qui est précisément
+  ce qu'on aurait voulu savoir. La fiche est en `A QUALIFIER` avec l'activité « à établir », et elle
+  attend une recherche large sur son nom. **C'est le coût de la règle, et il est assumé : mieux vaut
+  une fiche vide qu'une fiche qualifiée par une source qu'on s'interdit.**
   **LA RÈGLE QUI SE DÉGAGE, ET ELLE EST PLUS FINE QUE « NE PAS UTILISER LE SITE » :** un résultat de
   courtier peut **nommer** une société, et un nom n'est pas une donnée vendue — c'est ainsi qu'on apprend
   qu'elle existe. **Ce qui est interdit est de reprendre sa QUALIFICATION** : volumes, origines, ports,

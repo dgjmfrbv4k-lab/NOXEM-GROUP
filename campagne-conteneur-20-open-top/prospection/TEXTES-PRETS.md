@@ -5392,3 +5392,284 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 107. Amazon Glass (Brésil, Manaus) — `comercial@amazonglass.com.br` — PORTUGAIS — négoce
+
+**Première fiche de Manaus et du Nord brésilien.** Vérifié avant d'écrire : ils disent eux-mêmes
+acheter « aux meilleures usines du Brésil » — donc **aucun argument d'absence de production locale**
+et **aucun argument douanier**, la Gecex 833 ne visant pas leur fournisseur. Le fait géographique,
+lui, est sûr et c'est le seul employé : Manaus reçoit tout par le fleuve, donc un conteneur
+maritime y est le mode normal d'approvisionnement et non une rupture. **Rien sur la Zone Franche
+ni sur sa fiscalité**, non vérifiées.
+
+```
+Bom dia,
+
+Chamo-me Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de vidro
+plano perto de Lyon, na Franca.
+
+Escrevo-vos de proposito, e nao por acaso: sao trinta e cinco anos distribuindo
+vidro e espelho em Manaus, para vidraceiros e lojistas, numa praca que recebe
+tudo de fora. Quem compra no Sudeste paga a distancia duas vezes, no frete e no
+prazo. Um conteiner maritimo, para voces, nao e uma excecao logistica, e o modo
+normal de abastecer.
+
+Nao venho falar do que ja compram bem no mercado interno. Venho falar do que
+uma linha brasileira normalmente nao mantem em estoque:
+
+- vidro float extra-claro: https://noxemgroup.com/en/float-glass/
+- espelho sem cobre e sem chumbo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro de baixa emissividade: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+As paginas estao em ingles, o nosso site existe apenas em frances e ingles.
+
+Sobre o espelho uma palavra, porque Manaus e calor e umidade o ano inteiro. O
+nosso nao leva camada de cobre nem tinta com chumbo, que e justamente o que se
+degrada pelas bordas nessas condicoes.
+
+Trabalhamos em conteineres completos, em caixas de madeira tratada conforme a
+NIMF-15, em chapa jumbo ou em medidas sob encomenda. Podemos estabelecer uma
+oferta para entrega no vosso porto de destino, sob reserva de validacao da
+nossa parte.
+
+Para isso preciso de pouco: que referencias e espessuras giram mais no vosso
+estoque, que quantidade por embarque e com que frequencia.
+
+E se o abastecimento actual vos cobre e nao ha espaco para uma segunda origem,
+digam sem rodeios e nao insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 108. Distribuidora Urbana de Cristales (Argentine, Merlo) — `distribuidoraurbana@gmail.com` — ESPAGNOL — négoce
+
+**Lot argentin, et l'Argentine était le trou le plus net du registre : trois fiches pour 46 millions
+d'habitants.** Vérifié avant d'écrire : ils approvisionnent les **fabricants d'ouvertures**, les
+vitriers et les constructeurs — c'est leur phrase, pas une déduction. **Aucun argument d'absence de
+production locale**, VASA produit à Llavallol et Los Cardales, et **rien sur les droits argentins**,
+inconnus. L'adresse est en gmail mais publiée par la société sur sa propre page : **exception du §5
+vérifiée et notée dans la fiche.**
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo por lo que ustedes mismos dicen hacer: abastecer a fabricantes de
+aberturas, vidrieros y constructores. Ese es el perfil al que un contenedor
+completo le sirve de verdad. Un taller compra lo que una obra pide; quien
+abastece a talleres compra lo que rota, en hoja, de forma continua.
+
+No vengo a hablarles de lo que ya compran bien en plaza. Vengo con lo que una
+linea local normalmente no tiene en stock:
+
+- float extra claro: https://noxemgroup.com/en/float-glass/
+- espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- vidrio lacado, para mobiliario y frentes de cocina: https://noxemgroup.com/en/lacquered-glass/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+Cualquier referencia se la explico en espanol.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido, con carga util de 23 a 25 toneladas.
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Una sola pregunta para empezar: que referencias y espesores rotan mas rapido en
+su distribucion, y con que frecuencia necesitarian reponerlos.
+
+Y si sus origenes actuales les cubren, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 109. LP Vidrios (Argentine, Junín) — `recepcion@lpvidrios.com.ar` — ESPAGNOL — négoce et verrier
+
+**Deux usines à Junín, l'une dédiée à la logistique nationale, l'autre à la transformation, et ils
+annoncent le plus grand dépôt de verre du pays.** Un stockiste national est l'acheteur de conteneur
+complet par excellence. **Aucun argument d'absence de production locale** (VASA) et **rien sur les
+droits argentins**.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo porque tienen dos plantas en Junin, una dedicada a la logistica y
+al despacho nacional y otra al procesado, y porque anuncian el mayor deposito
+de vidrio del pais con stock permanente. Quien sostiene un stock de ese tamano
+no compra por obra, compra por volumen y con anticipacion, y depende de que
+su origen sea regular.
+
+Lo que embarcamos:
+
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido, con carga util de 23 a 25 toneladas.
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: que referencias y espesores sostienen el
+stock, las medidas que les sirven, un volumen aproximado por embarque y la
+frecuencia, y su puerto de entrada.
+
+Y si no hay lugar para una segunda origen, digamelo con franqueza y no
+insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 110. La Casa de los Cristales — División Vidrios (Argentine, Olavarría) — `info@lcdlc.com.ar` — ESPAGNOL — négoce
+
+**La plus intéressante du lot, et pour un fait qu'ils publient eux-mêmes : ils sont distributeurs
+de VASA ET se déclarent importateurs de verres spéciaux pour la décoration et l'architecture.** Ils
+importent donc déjà, et exactement ce que le producteur local ne fait pas. L'angle n'est pas de
+remplacer VASA, c'est d'élargir ce qu'ils importent. **Porte de sortie du §9 obligatoire**, un
+distributeur officiel étant lié par contrat. **Aucun argument d'absence de production locale** —
+ce serait absurde, ils distribuent le producteur — et **rien sur les droits argentins**.
+**⚠ Deux autres numéros circulent sur leur site, dont un pour la division bois : écrire à la
+División Vidrios et à elle seule.**
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+La dirijo a la Division Vidrios.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo por una frase de su propia pagina: ademas de representar y procesar
+la linea del fabricante nacional, ustedes IMPORTAN vidrios especiales para
+decoracion y arquitectura. Esa frase es la razon de este mensaje, y conviene
+que diga enseguida lo que no vengo a hacer: no vengo a proponerles cambiar de
+proveedor en lo que ya compran en plaza. Vengo a la otra mitad de su negocio,
+la que ya traen de afuera.
+
+Ahi trabajamos nosotros:
+
+- float extra claro, de transmision alta: https://noxemgroup.com/en/float-glass/
+- espejo sin cobre ni plomo, que no se corroe en los cantos: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- vidrio lacado para mobiliario y frentes: https://noxemgroup.com/en/lacquered-glass/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido. Podemos establecer una oferta para la
+entrega en su puerto de destino, bajo reserva de validacion de nuestra parte.
+
+Una pregunta concreta: de lo que hoy importan, que referencias y espesores son
+los que mas les cuesta reponer a tiempo.
+
+Y si su acuerdo actual no deja lugar a otra origen, digamelo con franqueza y no
+insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 111. Saint Lu Metal & Plastic Manufacturers (Sainte-Lucie, pour LE GROUPE) — `info@saintlu.co` — ANGLAIS — verrier
+
+**⚠ UN SEUL MESSAGE POUR LES DEUX ÎLES.** Saint Lu Metal Grenada est la filiale, passée en
+`NE PAS DEMARCHER` le 14/10 pour cette raison : écrire aux deux serait la faute Shibaam. Ce texte
+part par la maison mère et **fait valoir les deux îles comme un atout**, à la façon de Savima entre
+la Guadeloupe et Saint-Martin. **Règle Prodiesa :** leurs fiches produit listent float, float
+réfléchissant, feuilleté, trempé et anti-impact — ils **fabriquent** le trempé et le feuilleté,
+donc seul le **substrat** entre dans l'offre. Pas de mention de droits de douane, inconnus pour
+l'OECS.
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. If you are not the person who buys glass, I
+would be grateful if you passed this on to whoever does.
+
+I am writing to you rather than to your Grenada company on purpose, because
+what I have to say concerns both and I would rather say it once.
+
+You are not a fitter buying cut sizes. You run two sites in Saint Lucia, you
+cut, polish and bevel, and your window ranges are specified in float,
+reflective float, laminated, tempered and impact glass. A company that
+specifies its own glass buys sheet, and a company that also supplies Grenada,
+Barbados and Trinidad buys more of it than one island would need.
+
+So I am not offering you the finished tempered or laminated unit - you make
+those. I am offering what goes in before:
+
+- clear and extra-clear float: https://noxemgroup.com/en/float-glass/
+- copper and lead free mirror, which does not corrode at the edges in salt
+  air the way ordinary silver-copper mirror does:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- low-emissivity glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+We ship in FULL CONTAINERS, in NIMP-15 treated wooden cases, in 3210 x 2550 mm
+jumbo sheets or cut to your sizes, 23 to 25 tonnes payload. We can establish an
+offer for delivery to your port of destination, subject to validation on our
+side. One container split between Castries and St George's is still one
+container, and that is usually the whole point.
+
+To prepare it I need four things: which references and thicknesses you consume
+most, the sizes that suit your lines, roughly how much and how often, and your
+port of entry.
+
+And if your current supply covers you with no room for a second origin, say so
+plainly and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
