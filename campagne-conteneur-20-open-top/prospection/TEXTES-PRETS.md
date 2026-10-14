@@ -2370,10 +2370,11 @@ nacionalizan su propia carga.
 
 Lo que podemos embarcarles:
 
-- Vidrio float incoloro y extra claro
-- Espejo sin cobre ni plomo
-- Vidrio de baja emisividad
+- Vidrio float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- Espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- Vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
 
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
 Sobre el espejo hay un hecho que les concierne directamente como importadores.
 El Ministerio de Comercio publica entre sus derechos antidumping vigentes una
 medida sobre los espejos sin enmarcar originarios de China, subpartida
@@ -2624,11 +2625,11 @@ packed in ISPM-15 heat-treated wooden crates, in jumbo sheets of
 
 What we can supply:
 
-- Clear and extra-clear float glass
-- Low-E glass
-- Copper-free and lead-free mirror
-- Lacquered glass
-
+- Clear and extra-clear float glass: https://noxemgroup.com/en/float-glass/
+- Low-E glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Copper-free and lead-free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- Lacquered glass: https://noxemgroup.com/en/lacquered-glass/
 We can establish an offer for delivery to your port of destination, subject to
 validation on our side.
 
@@ -2680,10 +2681,10 @@ get here. That is a sound arrangement until it is the only one you have.
 I am offering a second origin, and only the substrate. Nothing you make
 yourselves:
 
-- Clear and extra-clear float glass
-- Low-E glass
-- Copper-free and lead-free mirror
-
+- Clear and extra-clear float glass: https://noxemgroup.com/en/float-glass/
+- Low-E glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Copper-free and lead-free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
 We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
 jumbo sheets of 3210 x 2550 mm or cut to your sizes, landed at Vancouver. I
 will be straightforward about the obvious: Prince George is inland, so there is
@@ -2737,10 +2738,9 @@ normal unit for you rather than an awkward one.
 
 So I am not offering you anything you make yourselves. Only the substrate:
 
-- Clear float glass
-- Extra-clear float glass
-- Low-E coated glass
-
+- Clear float glass: https://noxemgroup.com/en/float-glass/
+- Extra-clear float glass, same page
+- Low-E coated glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
 We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
 jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Beirut or the
 port you prefer.
@@ -2976,11 +2976,11 @@ is the only thing I am offering.
 
 Nothing you make yourselves - only the substrate:
 
-- Clear and extra-clear float glass
-- Low-E glass
+- Clear and extra-clear float glass: https://noxemgroup.com/en/float-glass/
+- Low-E glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
 - Solar control glass
-- Copper-free and lead-free mirror
-
+- Copper-free and lead-free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
 We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
 jumbo sheets of 3210 x 2550 mm or cut to your sizes.
 
@@ -3219,11 +3219,11 @@ Vous posez des garde-corps en vitre et des baies coulissantes, donc vous achetez
 du verre - la seule question est a qui, et en quelle quantite. Je ne vous
 propose rien de ce que vous fabriquez vous-meme, uniquement le verre de base :
 
-- Verre float clair et extra-clair
-- Verre trempe
-- Miroir sans cuivre ni plomb
-- Verre laque
-
+- Verre float clair et extra-clair : https://noxemgroup.com/en/float-glass/ (page en anglais)
+- Verre trempe : https://noxemgroup.com/service/verre-trempe/
+- Miroir sans cuivre ni plomb :
+  https://noxemgroup.com/service/miroir-sans-cuivre-ni-plomb/
+- Verre laque : https://noxemgroup.com/en/lacquered-glass/ (page en anglais)
 Nous expedions en CONTENEUR COMPLET, en caisses bois traitees NIMP-15, en jumbo
 de 3210 x 2550 mm ou aux cotes demandees.
 

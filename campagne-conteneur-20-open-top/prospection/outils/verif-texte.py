@@ -123,6 +123,35 @@ MORT = '+33 7 69'
 SIGNATURE = 'president - noxem group sas'
 
 texte = io.open(SRC, encoding='utf-8').read()
+# ⚠️ SIXIEME CONTROLE, AJOUTE LE 14/10 A 12h26, ET IL EST NE D UN DEFAUT QUE CE
+# SCRIPT LAISSAIT PASSER DEPUIS SA CREATION : UN TEXTE QUI NOMME DES REFERENCES
+# SANS DONNER LE LIEN DE LA PAGE. Le paragraphe 9 point 3 impose « les references
+# de notre gamme qui collent a ce qu ils font, AVEC LE LIEN DE LA PAGE », et le
+# paragraphe 8 impose de choisir la page et de dire en une ligne pourquoi. Le
+# controleur ne regardait pas du tout ce point. Mesure faite avant d ecrire la
+# regle : 39 premiers contacts listaient leurs references sans aucun lien, et
+# 30 ETAIENT DEJA PARTIS, donc irreparables.
+#
+# LE DECLENCHEUR EST LA LISTE DE REFERENCES, PAS LE NUMERO DU TEXTE, et c est
+# voulu : une RELANCE ne repete pas le premier message et n a donc aucune
+# reference a lier. Lui reprocher l absence de lien serait un faux a coup sur,
+# et c est la panne decrite trois fois dans ce fichier — un garde-fou qui crie
+# au loup finit ignore. En declenchant sur la PRESENCE d une puce de produit, le
+# controle est muet sur les relances PAR CONSTRUCTION, sans avoir a deviner
+# qu un texte en est une. Verifie : au seuil 32 il rend exactement les 39
+# premiers contacts fautifs et PAS UNE des 25 relances sans lien.
+PRODUIT = re.compile(
+    r'^\s*[-·•*]\s.*\b(float|low.?e|emissivit\w*|mirror|espejo|espelho|miroir|'
+    r'laminated|feuillet\w*|laminado|tempered|tremp\w*|templado|temperado|'
+    r'lacquered|laqu\w*|glazing|vitrage|vidrio|vidro|verre|glass)\b',
+    re.I | re.M)
+LIEN = 'noxemgroup.com/'
+# Seuil propre a ce controle. La regle est consignee le 14/10 ; les 30 textes
+# fautifs anterieurs sont partis et ne se reparent pas, les signaler a chaque
+# passage ne ferait que noyer les vrais. Les cinq encore rattrapables ont ete
+# corriges a la main le jour meme.
+DEPUIS_LIEN = 103
+
 # decoupage par section ## N. <titre>
 parts = re.split(r'^## (\d+)\.\s*(.+)$', texte, flags=re.M)
 sections = [(int(parts[i]), parts[i + 1], parts[i + 2]) for i in range(1, len(parts), 3)]
@@ -169,6 +198,8 @@ for num, titre, corps_section in sections:
             pb.append('NUMERO MORT +33 7 69 72 58 92')
         if not any(s in plat for s in SORTIE):
             pb.append('pas de porte de sortie')
+        if num >= DEPUIS_LIEN and PRODUIT.search(t) and LIEN not in t:
+            pb.append('REFERENCES NOMMEES SANS LIEN DE PAGE — §9 point 3 et §8')
         if pb:
             defauts += 1
             print('  ✗ %d. %s' % (num, titre[:66]))
