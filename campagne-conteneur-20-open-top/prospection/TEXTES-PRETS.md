@@ -7397,3 +7397,74 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 139. W. Steenebrügge (Neuwied) — `info@glas-steenebruegge.de` — ALLEMAND — négoce + isolant
+
+**TROUVÉE PAR LA LEÇON LAHEY DU 13/10, ET C'EST SA SECONDE APPLICATION PAYANTE.** Le premier relevé
+ne rendait aucun domaine pour cette maison, et la règle dit exactement quoi en conclure : **rien sur
+la société, on refait le PREMIER temps.** Une recherche large sur le nom seul a rendu
+`glas-steenebruegge.de` — une forme que le nom légal, *W. Steenebrügge GmbH & Co. KG*, ne laissait
+pas deviner. **Sans cette règle la fiche partait au téléphone pour un verdict faux.**
+`info@` lue sur leur page de contact ET sur leur Impressum, domaine deux fois dans les URL.
+**MÉTIER, ET C'EST LE MEILLEUR DU LOT AVEC LERCHENMÜLLER :** *Flachglasgroßhandel*, *Glasschleiferei*,
+*Zuschnitt von Floatglas* — gros de verre plat, atelier de façonnage, découpe de float — **et
+fabrication de vitrage isolant**. Environ cinquante salariés. Leur gamme fonctionnelle couvre le
+contrôle solaire, l'isolation thermique, la sécurité, l'acoustique, l'autonettoyant et l'adaptatif.
+**Les deux meilleures classes mesurées le 13/10 réunies dans une seule maison.**
+**Règle Prodiesa : l'isolant sort de l'offre, seul le substrat entre** — float clair et extra-clair,
+low-E, miroir. Et comme ils **découpent du float**, c'est la feuille brute qui les intéresse.
+**⚠️ DEUX NOMS DE DIRECTION RELEVÉS ET NON EMPLOYÉS** — Marianne Rombelsheim et Jörg Lochbaum, gérants
+à l'Impressum. La gérance est bien une fonction de **direction** au sens du §5, donc le nom serait
+permis ; **mais rien ne dit lequel des deux suit les achats**, et nommer l'un revient à écarter
+l'autre sur une approche à froid. Message au service, les deux noms restant dans la fiche pour l'appel.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+**Proximité : environ 350 km de l'entrepôt.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Unser Lager liegt rund 350 km von
+Neuwied entfernt. Dies ist ein Lieferangebot und keine Preisanfrage - falls
+Sie nicht einkaufen, waere ich Ihnen dankbar, wenn Sie es weitergeben.
+
+Sie fuehren Flachglasgrosshandel, Sie schneiden Float zu, Sie haben eine
+eigene Schleiferei und Sie bauen Isolierglas. Das heisst fuer mich: Sie kaufen
+Tafelware ein, regelmaessig und in Mengen, und sowohl Ihr Lager als auch Ihr
+Zuschnitt haengen daran, dass sie hereinkommt. Eine zweite gesicherte Herkunft
+ist in dieser Lage kein Luxus.
+
+Ich biete Ihnen nichts an, was Sie selbst herstellen - kein Isolierglas. Nur
+die Tafelware, die davor hereinkommt:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegelrohware ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken und Beschichtungen Ihr
+Zuschnitt am meisten verbraucht, welche Tafelmasse Ihren Anlagen passen, eine
+ungefaehre Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie
+gerechnet haben moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
