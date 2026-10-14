@@ -82,7 +82,17 @@ CONDITIONNELS = [r'\bantidumping\b', r'\bdroits? de douane\b', r'\btariffs?\b',
 # C'est exactement la panne du texte 45 sur la porte de sortie portugaise : un
 # controleur dont le vocabulaire est plus pauvre que celui des textes crie au
 # loup, et un garde-fou qui crie au loup finit par etre ignore.
+# ⚠️ QUATRIEME FOIS QUE CE CONTROLEUR REFUSE UN TEXTE JUSTE FAUTE DE VOCABULAIRE, LE 14/10 A
+# 13h40, ET CELLE-CI ETAIT PREVISIBLE : le NEERLANDAIS manquait entierement aux deux listes.
+# La campagne n'avait jamais ecrit dans cette langue avant le texte 125, premier message belge
+# neerlandophone. Il portait bien la formule imposee, onder voorbehoud van validatie van onze
+# kant, et bien la porte de sortie, dan dring ik niet aan, et il a ete refuse sur les deux.
+# C'est la panne du paragraphe 12 : un controleur dont le vocabulaire est plus pauvre que celui
+# des textes crie au loup, et un garde-fou qui crie au loup finit ignore. Le remede est
+# TOUJOURS d'enrichir la liste, JAMAIS de reecrire le texte pour plaire au controle.
 FORMULE = ['subject to validation on our side',
+           'onder voorbehoud van validatie van onze kant',
+           'onder voorbehoud van validatie onzerzijds',
            'sous reserve de validation de notre cote',
            'sous réserve de validation de notre côté',
            'bajo reserva de validacion de nuestra parte',
@@ -118,7 +128,8 @@ SORTIE = ['not write again', 'no insistire', "n'insisterai pas", 'n insisterai p
           'nao insistirei', 'no insistiré', 'file stays open', 'dossier reste ouvert',
           'nao voltarei a escrever', 'no volvere a escribir', 'no volveré a escribir',
           'nao voltarei a escrever-lhes', 'will not push', 'no insisto',
-          "je n'insiste pas", 'je n insiste pas', 'nao insisto', 'não insisto']
+          "je n'insiste pas", 'je n insiste pas', 'nao insisto', 'não insisto',
+          'dring ik niet aan', 'dan dring ik niet aan', 'schrijf ik u niet meer']
 MORT = '+33 7 69'
 SIGNATURE = 'president - noxem group sas'
 

@@ -6426,3 +6426,71 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 125. Danny Lauryssens Glas NV (Ekeren, Anvers) — `info@lauryssens.be` — NÉERLANDAIS — négoce
+
+**⚠️ POURQUOI CETTE FICHE BELGE PART EN CONTENEUR ALORS QUE LES AUTRES NON, et c'est la distinction
+à tenir sur tout le lot :** **Ekeren est dans le port d'Anvers.** Un grossiste importateur y reçoit
+un conteneur à quai comme n'importe quel client de la campagne. Lennik, Heusden-Zolder, Sprimont et
+Fleurus sont à l'intérieur des terres et relèvent du camion, donc de l'autre campagne.
+**Ils se disent EUX-MÊMES `onafhankelijke glasgroothandel`** — grossiste **indépendant**. C'est mot
+pour mot le critère dégagé ce matin : en Belgique les gros grossistes appartiennent aux producteurs
+float, donc l'indépendant est l'exception et c'est lui notre client.
+**⚠️ TROIS CHOSES VOLONTAIREMENT ABSENTES DU TEXTE.**
+1. **Aucune mention de notre entrepôt ni de la proximité.** C'est l'argument du déstockage, et il
+   amènerait un client conteneur à demander un stock dont je n'ai pas les conditions validées.
+2. **Aucun délai, même implicite.** « Livraison rapide » est un délai au sens du §5, et une origine
+   proche se dit en disant *européenne*, pas *rapide*.
+3. **Aucun prix.** L'avantage se dit en origine et en indépendance, jamais en argent.
+**Adresse lue sur leur page de contact, domaine du site. BCE BE 0436.206.723. Aucun nom employé —
+`Danny Lauryssens` est la raison sociale, pas une personne dont j'aurais vérifié la fonction.**
+
+```
+Goedendag,
+
+Dit is een leveringsaanbod en geen prijsaanvraag. Bent u niet degene die het
+glas inkoopt, dan zou ik u dankbaar zijn als u dit doorgeeft aan wie dat wel
+doet.
+
+Mijn naam is Aaron Harfi en ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas met zetel bij Lyon in Frankrijk.
+
+Ik schrijf u om een reden die u zelf op uw site zet: u bent een ONAFHANKELIJKE
+glasgroothandel. Dat woord is bij ons het hele punt. Een huis dat aan een
+producent vastzit kan er geen tweede herkomst bij nemen. Een onafhankelijk huis
+kan dat wel, en doet dat ook, want dat is precies waar zijn onafhankelijkheid
+voor dient.
+
+Wat wij leveren is bladglas, niets van wat u zelf verwerkt:
+
+- blank en extra blank floatglas: https://noxemgroup.com/en/float-glass/
+- laagemissief glas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- spiegel zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- gelakt glas voor interieur: https://noxemgroup.com/en/lacquered-glass/
+
+Onze site bestaat enkel in het Frans en het Engels. Elke referentie leg ik u
+graag in het Nederlands uit.
+
+Wij verschepen per VOLLEDIGE CONTAINER, in met ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Wij kunnen een aanbod opmaken voor levering in uw bestemmingshaven,
+onder voorbehoud van validatie van onze kant.
+
+Om dat op te maken heb ik vier dingen nodig: welke referenties en diktes bij u
+het meest draaien, welke bladmaten uw rekken aankunnen, een ruwe hoeveelheid
+met de aankoopfrequentie, en de haven die u gerekend wil zien.
+
+En zit u goed bij uw huidige leveranciers, zeg het dan gerust ronduit, dan
+dring ik niet aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
