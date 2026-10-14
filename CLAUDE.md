@@ -1924,6 +1924,20 @@ H=$(TZ=Europe/Paris date '+%Hh%M')          # puis utiliser "$H" dans le script
 ```bash
 N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.csv)
 ```
+  **ET LA SUBSTITUTION NE SUFFIT PAS NON PLUS QUAND C'EST LA FORMULE QUI EST FAUSSE — mesuré le 14/10
+  à 11h39 sur la feuille d'envoi des Amériques.** J'avais calculé l'heure de Paris correspondant à 9h
+  locale par `9 - décalage - 2`, et la feuille annonçait **10h de Paris pour le Brésil**. Paris est à
+  UTC+2 et Brasília à UTC-3, donc Brasília est à **Paris moins cinq** : 10h de Paris y font **5h du
+  matin**. La formule juste est **heure de Paris = heure locale voulue + 2 − décalage**, soit 13h30 de
+  Paris pour 8h30 à Brasília.
+  **Le chiffre était bien substitué et non tapé — et il était faux quand même**, parce que l'erreur
+  était un **signe dans la formule** et non une saisie. La règle ci-dessus ne couvrait pas ce cas.
+  **Règle complétée : une formule se VÉRIFIE SUR UN CAS CONNU avant de servir.** Un seul contrôle —
+  « 14h de Paris font-elles bien 9h à Brasília ? » — rendait la faute visible en trois secondes, et il
+  coûte moins cher que les dix-neuf lignes qu'il fallait refaire.
+  **Et c'est la faute du 12/10 par un troisième bout** : ce jour-là j'avais vérifié l'heure et pas le
+  JOUR, et une quarantaine de messages sont partis bureaux fermés. Vérifier l'heure ne sert à rien si
+  c'est le calcul de l'heure qui est faux.
   Deux envois d'ecart ne changent rien a un dossier, mais un chiffre invente dans un suivi qui sert
   de preuve est un faux au sens du paragraphe 16 — et c'est le meme defaut qui faisait annoncer
   « aucun rebond » sur une fenetre d'observation trop courte : affirmer avant d'avoir lu.
