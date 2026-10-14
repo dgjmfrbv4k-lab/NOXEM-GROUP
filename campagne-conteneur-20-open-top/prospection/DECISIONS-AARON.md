@@ -152,3 +152,56 @@ sur son site, formulaire uniquement. Fiche en `A VALIDER AARON`, aucun envoi.
 
 ---
 
+
+
+---
+
+## QUINZE DOMAINES SANS RAPPORT DIFFERENT NOS MESSAGES EN MEME TEMPS — releve du 14/10 a 15h54
+
+**FAITS, et je separe ce qui est mesure de ce qui est interprete.**
+
+Un releve des rebonds de moins de 24 heures rend **seize domaines destinataires** qui ont rendu un
+avis de DELAI `4.4.1` sur des messages des 11, 12 et 13 octobre, chacun en etant a son **second**
+avis et a vingt heures environ de la fin des tentatives : euramaxuk.com, abusarhadgroup.com,
+tagbd.com, sklopetr-iris.cz, zlinsko.com, interpane.de, meissnerfenstertechnik.de, glassbuilt.com,
+cristaleriatelde.com, invitations.mailinblack.com, aluxxon.com, adaz.cz, electricforklifts.com.au,
+hmd-nigeria.com, arcglass.com — et highqualjm.com, **que j ecarte du compte** parce que son cas est
+deja diagnostique comme une erreur de configuration permanente, son MX pointant vers un proxy HTTP.
+**Donc quinze.**
+
+**CE QUE CELA VEUT DIRE SI RIEN NE CHANGE :** la lecon du 11/10 sur cinq fiches dit qu un avis de
+delai se transforme en echec apres 72 heures. Si le schema se repete, **ces quinze messages ne
+seront jamais livres**, et ils sont comptes comme envoyes dans les suivis des trois campagnes.
+
+**CE QUI N EST PAS PROUVE, ET IL FAUT LE DIRE AVANT DE CONCLURE.** Trois objections tiennent debout.
+Un, le releve est plafonne a vingt-cinq resultats, donc c est un echantillon et non un comptage.
+Deux, la majorite de ces messages vient de la campagne **destockage**, dont le texte porte un prix
+et une quantite en objet, ce qui est bien plus filtre qu un message de fourniture. Trois, plusieurs
+de ces domaines sont de petits hebergeurs regionaux lents par nature.
+**Mais interpane.de est un gros verrier allemand a hebergement professionnel, et quinze domaines
+sans rapport qui different simultanement ne s expliquent pas tous par leur lenteur.**
+
+**CE QUE LA REGLE DU PARAGRAPHE 10 NE COUVRE PAS, ET C EST LE POINT.** Le declencheur d arret des
+envois a froid compte les serveurs distincts rendant un `5.7.1`, c est-a-dire un verdict de
+FILTRAGE explicite. **Un report `4.4.1` n est pas un verdict, c est un silence** — et quinze
+silences simultanes disent peut-etre la meme chose en plus poli. La regle a donc un angle mort, et
+je ne la modifie pas de ma propre initiative parce qu une regle d arret trop sensible arrete le
+travail pour rien, ce qui est exactement la faute du 12/10 sur Alfastar.
+
+**OPTIONS.**
+1. **Publier un enregistrement DMARC sur noxem-group.com.** Le paragraphe 10 note le DMARC
+   **absent** depuis la verification du 07/10, SPF et DKIM etant bons. Un domaine neuf, sans DMARC,
+   qui monte a plus de six cents envois sur trois campagnes partageant une seule boite, est le
+   profil exact que les receveurs ralentissent. **Cela ne demande aucun arbitrage commercial, c est
+   une ligne de DNS**, et c est juste independamment de ce releve.
+2. **Ne rien changer et mesurer demain.** Relever les memes quinze domaines a 72 heures et compter
+   combien finissent en echec. Cela coute un jour et rend un chiffre au lieu d une presomption.
+3. **Ralentir les envois a froid de ma campagne.** Je le deconseille en l etat : rien n etablit que
+   le probleme vienne de mon trafic plutot que de celui de la campagne destockage, et ralentir sans
+   savoir coute des contacts sans rien reparer.
+
+**MA RECOMMANDATION : les options 1 et 2 ensemble, pas la 3.** Publier le DMARC maintenant parce
+que c est gratuit, sans risque et de toute facon du par un domaine qui prospecte ; et compter
+demain pour savoir si le probleme etait la ou ailleurs. **Je ne peux faire ni l un ni l autre
+seul** : le DNS n est pas accessible depuis cette session, et le comptage exact demande le rapport
+d audit de la console d administration, qui ne l est pas davantage.
