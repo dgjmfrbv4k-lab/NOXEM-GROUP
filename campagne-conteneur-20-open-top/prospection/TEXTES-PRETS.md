@@ -8524,3 +8524,70 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 155. Centro de Vidrio (San Salvador) — `info@centrodevidrio.com` — ESPAGNOL — spécialiste verre, float 2 à 19 mm
+
+**Vérifié avant d'écrire :**
+- Nom grepé sur son élément distinctif le plus court, `centro de vidrio` et `centrodevidrio` : **absent du registre**. ⚠ Et il fallait le faire, parce que le registre porte **Vidrio Centro S.A.** au Nicaragua — deux noms dont les mots sont les mêmes dans l'ordre inverse, exactement la signature du §12. Pays différents, sociétés différentes, aucun lien établi. Fiche créée sous le Salvador.
+- Adresse `info@centrodevidrio.com` lue sur **leur propre page de contact**, domaine du site, présent dans les URL de résultats : §5 satisfait sans exception.
+- **Métier établi sur leur propre domaine** et non sur un portail : page `/vidrio-flotado/` et page `/vidrio/` donnant le **flotado transparent de 2 à 19 mm**, plus templado, laminado, insulado, espejos. Plus de trente ans. C'est la classe **verrier pur**, la meilleure de la mesure du 13/10.
+- **Règle Prodiesa appliquée** : templado, laminado et insulado sont vraisemblablement leur transformation, ils sortent de l'offre. Seul le **substrat** y entre — float clair et extra-clair, low-E, miroir sans cuivre ni plomb.
+- **Interdits du §6 tenus** : rien sur les droits de douane à l'entrée du Salvador, rien sur une absence de production locale.
+- Port : **Acajutla**. Jour ouvré et heure vérifiés, 09h18 à San Salvador.
+- Liens de page produit inclus, §9 point 3.
+
+**Objet :** Vidrio flotado y espejo en contenedor completo — origen europea
+
+**Corps :**
+
+```
+Estimado señor, estimada señora,
+
+Me llamo Aaron Harfi, dirijo NOXEM GROUP, proveedor y exportador de
+vidrio plano cerca de Lyon, en Francia.
+
+Les escribo porque su catálogo ofrece vidrio flotado transparente de
+2 a 19 mm además del templado, el laminado y el insulado: ustedes no
+solo transforman, también abastecen de lámina a su mercado. Es
+exactamente ahí donde podemos ser útiles, y en ningún otro lugar —
+lo que ustedes fabrican no se lo vamos a ofrecer.
+
+Nuestras referencias de sustrato:
+
+- vidrio float claro y extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad (low-E)
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo, pensado para climas húmedos
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las páginas están en inglés, el sitio no existe en español: el float
+claro y extra claro es la base, el low-E va al vidrio aislante, y el
+espejo sin cobre ni plomo resiste mucho mejor la humedad que un espejo
+plateado convencional.
+
+Trabajamos en contenedores completos, en cajas de madera tratada
+NIMP-15, en jumbo 3210 x 2550 mm o en las medidas que ustedes pidan.
+
+Podemos establecer una oferta para la entrega en su puerto de destino,
+Acajutla, sujeta a validación por nuestra parte.
+
+Para que la oferta sirva de algo, ¿me puede indicar las referencias y
+los espesores que compran, los formatos, el volumen aproximado y la
+frecuencia de sus compras?
+
+Y si ya están comprometidos con su proveedor actual, dígamelo con
+franqueza y no insisto.
+
+Quedo a su disposición.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
