@@ -7023,3 +7023,83 @@ cumule deux defauts, elle n'est pas affichee et son domaine differe du site **d'
 contre wm- : donnee corrompue, jamais a employer. Et Le Batiment Guyanais ne publie qu'une boite de
 **recrutement**, le cas Lahey a l'identique — mais la recherche a livre un fait utile, leur domaine
 de messagerie reel est bg973.fr et non celui du site.
+
+
+---
+
+## MERCREDI 14/10/2026, 11h04 — MATINEE : REPONSES TRAITEES, PUIS L'ARGENTINE ET L'AMERIQUE CENTRALE OUVERTES
+
+**Registre : 1187 fiches. 12 en file d'envoi pour aujourd'hui. 167 fiches a appeler, toutes avec un numero.**
+
+### 1. Reponses traitees avant toute prospection, comme l'impose le §2
+
+· **M & S Glass** (Malaga, Perth) — **REFUS NET** le 14/10 a 01h49, par Michael Samata, Director.
+  Texte entier : « No thank you. » Reponse humaine a la relance du 13/10, donc l'adresse et le
+  ciblage etaient bons et c'est le besoin qui n'y est pas. Fiche sortie des pools. **Aucune reponse
+  envoyee** — le §5 l'interdit, et il n'y a rien a dire a un refus net.
+· **Security Glass Products** (Winnipeg) — **premiere reponse du Manitoba.** Silvana Kyliuk a
+  transmis a son patron. Ce n'est ni un refus ni un besoin confirme, c'est un transfert interne.
+  **Fait utile : sa reponse part de `secglass.com`**, donc la maison tient deux domaines et c'est
+  celui de sa messagerie reelle — a noter sans l'employer tant qu'elle ne le publie pas elle-meme.
+  **Prochaine action : attendre jusqu'au 28/10, puis APPELER** le +1 204 774 9670. Reecrire serait
+  un troisieme message apres un transfert annonce.
+· **Importadora C&C** (Palmira, Colombie) — rebond **boite pleine avec quota d'hebergement epuise**,
+  rendu par leur propre serveur. Signature FITglass. **L'envoi du 13/10 ne compte pas** et il n'y a
+  pas de second essai : la fiche part au telephone.
+
+### 2. L'Argentine etait le trou le plus net du registre
+
+**Trois fiches pour 46 millions d'habitants**, contre 41 au Bresil et 26 au Mexique. Une seule
+recherche de decouverte a rendu **sept noms dont six absents** — l'inverse exact de la saturation
+mesuree le 13/10 sur l'Australie, le Bresil et les Etats-Unis. **Cinq fiches creees, trois pretes a
+partir :**
+· **Distribuidora Urbana de Cristales** (Merlo) — approvisionne les fabricants d'ouvertures, les
+  vitriers et les constructeurs, c'est leur phrase. Texte **108**.
+· **LP Vidrios** (Junin) — deux usines, dont une dediee a la logistique nationale, et le plus grand
+  depot de verre du pays. Texte **109**.
+· **La Casa de los Cristales** (Olavarria) — distributrice de VASA **et** importatrice declaree de
+  verres speciaux. Elle importe deja, et exactement ce que le producteur local ne fait pas. Texte
+  **110**, avec porte de sortie obligatoire.
+· **Martorelli** et **CADIVI** : verdicts poses, aucune adresse publiee. CADIVI passe aux appels.
+**⚠ Sur tout ce lot : jamais l'argument du float absent**, VASA produit a Llavallol et Los Cardales,
+et rien sur les droits argentins.
+
+### 3. Amerique centrale et Nordeste bresilien
+
+· **ALUPAC** (Honduras) — **premiere adresse du pays**, qui n'avait qu'une fiche sans coordonnees.
+  Reseau sur cinq villes, boite de succursale et non boite generale. Texte **105**.
+· **Vidrieria F. Morales** (Managua) — leur site ecrit qu'ils fournissent du **verre en feuilles aux
+  clients fabricants**. C'est l'acheteur de conteneur complet decrit mot pour mot. Texte **106**.
+· **Amazon Glass** (Manaus) — **premiere fiche du Nord bresilien.** Texte **107**.
+· **Intervidro** (Pernambouc) et **M. Campineira** (Campinas) — textes **103** et **104**, ce dernier
+  limite au **miroir seul** par la regle Prodiesa.
+
+### 4. Saint Lu deverrouille apres une semaine de fiche telephonique
+
+Deux domaines que la fiche ne portait pas, puis leur page de contact : `info@saintlu.co`. **La
+filiale grenadienne passe en `NE PAS DEMARCHER`** — un seul message part, par la maison mere, et il
+fait valoir les deux iles comme un atout. Texte **111**. Son adresse `spiceisle`, ecartee le 08/10
+faute de satisfaire la regle anti-rebond, est **maintenant confirmee par la maison mere** et gardee
+en secours.
+
+### 5. Garde-fous
+
+· **`verif-argument-float.py` corrige des deux bouts** et verifie dans les deux sens. Il signalait
+  une fiche deja corrigee faute de reconnaitre les mots employes, et il laissait passer « aucune
+  production float ». Zero faux positif sur 1187 fiches, et les deux fautes injectees retrouvees.
+· **Et le cas qui compte :** la phrase « Colombie sans ligne float » vivait dans la fiche Vidrieria
+  Universal. **Le message du 09/10 a ete relu en entier dans la boite : il ne porte pas l'argument.**
+  Premier travail de **prevention** de ce garde-fou, la ou Forpec et ITA SEN ALU etaient des constats
+  apres envoi.
+· **`emis.com` ajoute aux courtiers interdits du §5** — il vend des profils d'entreprises, meme
+  nature que `dnb.com`. La fiche Sealvid est creee avec le seul nom, activite « a etablir ».
+· **`verif-texte.py` a refuse le texte 109** pour le mot *plazo*, et il avait raison deux fois : le
+  §5 interdit le delai, et le mot se lit aussi comme une condition de paiement.
+
+### 6. Mesures de saturation, qui disent ou NE PLUS depenser
+
+Decouverte large sans resultat neuf exploitable sur : **Nouvelle-Caledonie**, **Polynesie francaise**
+(2 fiches, les deux deja relancees), **Salvador** (3 des 4 noms deja presents), **Rio de Janeiro** et
+**Caraibe orientale** (tous les noms deja au registre). **Lot ghaneen abandonne apres une fiche** :
+le meilleur nom du vivier, Daoris Glass, s'est revele etre un menuisier aluminium sans coordonnees
+locales — si le meilleur rend cela, les onze autres ne valent pas deux appels chacun.
