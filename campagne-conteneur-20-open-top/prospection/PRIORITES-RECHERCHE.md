@@ -439,3 +439,40 @@ paragraphe 6 comme sixieme cas de la famille du caractere unique.
 **Un nom de passage a reprendre :** **Grupo Araujo** (`grupoaraujorio.com`), remonte sur la recherche
 de Rio, **absent du registre**, metier non etabli. A traiter au prochain tour.
 
+### ⚠⚠⚠ TROISIEME CORRECTION SUR LE MEME DOSSIER EN UNE 18h37, ET CELLE-LA EST FAVORABLE — L ANNUAIRE EST PUBLIE, ET C EST CELUI DE LA FEDERATION NATIONALE (18h37)
+
+**J ai ecrit vingt minutes plus haut que le gisement n etait pas atteignable au moteur. C est vrai des
+SYNDICATS REGIONAUX et c est FAUX de la federation elle-meme.**
+
+**`abravidro.org.br/quem-somos/empresas-associadas` EST PUBLIE, avec UNE PAGE PAR SOCIETE** a
+`abravidro.org.br/empresas-associadas/<nom>`. **Et il se pagine PAR LETTRE**, le parametre `?l=u`
+donnant les noms en U : il est donc parcourable de bout en bout, lettre par lettre, en recherche
+restreinte au domaine.
+
+**Noms rendus en UN SEUL appel, pour donner l ordre de grandeur :** ABC Temper, Aluglass Vidros,
+Alumitec, Alusupra Aluminio, Amazon Temper (AM, BA, CE et MT), V.P.M. Vidros Planos, Vitrino Vidros,
+Grupo RV Vidros, Portal Glass, Grupo Araujo. Plus une **seconde liste** a
+`abravidro.org.br/certificacao/empresas-vidros-laminados-certificados`, les feuilleteurs **certifies**
+— Cyberglass, Temperline, Vitral Vidros Planos MG.
+
+**⚠ ET IL FAUT DIRE CE QUE LE GREP A MONTRE, PARCE QUE CELA REDUIT L ATTENTE UNE SECONDE FOIS :
+UNE PARTIE DE CET ANNUAIRE A DEJA ETE EXPLOITEE LE 12/10, sans que la METHODE soit consignee.**
+ABC Temper, VPM, Vitrino Vidros et Grupo RV Vidros portent tous un envoi au **12/10**, et Alusupra est
+en `A QUALIFIER`. **Donc le gisement n est pas deux cents noms neufs : c est deux cents noms dont une
+part inconnue est deja prise.** Ce qui reste a travailler sont les lettres non parcourues, et
+**Alumitec, Portal Glass et Cyberglass sont absents du registre** — trois noms immediats.
+
+**CONDUITE POUR LE PROCHAIN TOUR, et c est la bonne cette fois :**
+1. **Parcourir `empresas-associadas?l=<lettre>` lettre par lettre**, un appel par lettre, en grepant
+   chaque nom rendu avant toute qualification. C est le seul moyen de savoir ce qui reste.
+2. **Puis la liste des feuilleteurs certifies**, qui est courte et de tres bonne classe.
+3. **Les deux syndicats de Sao Paulo et de Rio restent a DEMANDER** — voir `DECISIONS-AARON.md` — mais
+   ce n est plus la seule porte, donc ce n est plus bloquant.
+
+**ET LA LECON DE METHODE, parce que je me suis trompe deux fois de suite sur le meme dossier :**
+j ai conclu « pas atteignable » apres avoir teste **les entites regionales**, sans tester **la
+federation nationale**. C est exactement la faute du perimetre de la source du paragraphe 6, prise sur
+une arborescence au lieu d une geographie : **tester le niveau regional ne dit rien du niveau
+national.** Le nom de Grupo Araujo, trouve par hasard sur une recherche de Rio, est ce qui a revele
+l URL — et c est pour cela qu on lit les resultats au lieu de les compter.
+

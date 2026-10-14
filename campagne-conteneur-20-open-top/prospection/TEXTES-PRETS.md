@@ -8950,3 +8950,80 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 161. Grupo Araujo (Nova Iguaçu / Belford Roxo, Rio) — `contato@garaujorio.com` — PORTUGAIS — distributeur + ligne de trempe, associé ABRAVIDRO
+
+**Vérifié avant d'écrire :**
+- Mot distinctif grepé avant création, `araujo` : **absent du registre**.
+- **Associée d'ABRAVIDRO**, l'association des **distributeurs et transformateurs** de verre plat — sa page figure sur `abravidro.org.br/empresas-associadas/grupo-araujo`. La classe est donc établie par la fédération *et* par son propre site.
+- **Profil : distributeur de verre ET fabricant de verre trempé.** Gamme float, trempé, feuilleté, réfléchissant, décoratif, isolant, plus aluminium et accessoires. **Trois implantations** — siège Nova Iguaçu, magasin Belford Roxo, et un second centre de distribution Estrada da Prata. Une ligne de trempe plus trois sites de stock : le critère de la ligne qui consomme de la feuille est satisfait deux fois.
+- **⚠ EXCEPTION DU §5 NOTÉE, et c'est un piège de domaine voisin** : le site est **`grupoaraujorio.com`** et l'adresse publiée est **`contato@garaujorio.com`** — `g` au lieu de `grupo`. Les deux domaines diffèrent, mais c'est **leur propre page de contact** qui publie l'adresse, donc l'exception joue. Relu caractère par caractère.
+- **⚠ QUESTION D'IDENTITÉ NOTÉE ET NON BLOQUANTE** : *Industria de Vidros Araujo Ltda*, CNPJ 22.791.944, est listée **aux mêmes adresses de Belford Roxo**. C'est très probablement le bras industriel du groupe. **Un seul compte, un seul message**, à l'adresse du groupe — critère du bureau d'achat du §12, cas Saint Lu et non cas Extralum.
+- **⚠ « Distribuidor oficial » de QUI n'est pas dit**, et ce n'est pas une donnée à supposer. La porte de sortie du §9 est donc obligatoire.
+- **Règle Prodiesa** : trempé, feuilleté et isolant sont leur fabrication, ils sortent de l'offre. Seul le **substrat** y entre.
+- **INTERDIT DU §6 TENU** : jamais l'absence de production locale au Brésil. L'argument est **douanier et confiné au float clair**, la Gecex 833 excluant le miroir, le teinté et le coloré dans la masse. Aucun taux.
+- Jour ouvré et heure vérifiés, mercredi, 13h40 à Rio. Ports : Rio de Janeiro ou Itaguaí.
+
+**Objet :** Vidro float e espelho em contêiner completo — origem europeia
+
+**Corps :**
+
+```
+Prezados senhores,
+
+Meu nome é Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e
+exportadora de vidro plano perto de Lyon, na França.
+
+Escrevo-lhes porque vocês são distribuidores de vidro e ao mesmo tempo
+fabricantes de temperado, com três endereços no Rio — a matriz em Nova
+Iguaçu, a loja e o centro de distribuição em Belford Roxo. Quem tem
+forno de têmpera e três pontos de estoque compra chapa, e é
+exatamente aí que podemos ser úteis — e em nenhum outro lugar: o que
+vocês fabricam não vamos lhes oferecer.
+
+As nossas referências de substrato:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade (low-E)
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+As páginas estão em inglês, o site não existe em português: o float
+incolor e extra claro é a base, o low-E vai para o vidro isolante, e o
+espelho sem cobre e sem chumbo resiste muito melhor à umidade do que
+um espelho prateado convencional.
+
+Um ponto que talvez lhes interesse, e que é um fato aduaneiro e nada
+mais: no float incolor, as origens malaia, paquistanesa e turca
+passaram a carregar direitos antidumping brasileiros, e a origem
+europeia não é visada por nenhuma dessas medidas. Isso muda a
+comparação entre origens.
+
+Trabalhamos em contêineres completos, em caixas de madeira tratada
+NIMP-15, em jumbo 3210 x 2550 mm ou nas medidas que vocês pedirem.
+
+Podemos estabelecer uma oferta para a entrega no porto de destino que
+lhes convier, Rio de Janeiro ou Itaguaí, sujeita a validação da nossa
+parte.
+
+Para que a oferta sirva de alguma coisa, podem me indicar as
+referências e as espessuras que compram, os formatos, o volume
+aproximado e a frequência das compras?
+
+E se já estiverem comprometidos com o fornecedor atual, digam-me com
+franqueza e não insisto.
+
+Fico à disposição.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
