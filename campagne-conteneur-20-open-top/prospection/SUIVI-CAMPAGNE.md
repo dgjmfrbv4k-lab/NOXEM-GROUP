@@ -7206,3 +7206,47 @@ comme la recherche large. **La saturation y est donc reelle et non un artefact d
 convergent parce que le marche entier tient en une page. Le deplacement de source paie sur les
 grands marches, ou la couche referencee masque une couche profonde ; il ne cree rien la ou il n'y a
 rien. **A savoir avant de depenser un lot d'appels de recherche sur une ile.**
+
+
+---
+
+## MERCREDI 14/10/2026, 11h49 — FIN DE LA PHASE DE DECOUVERTE : LA CARTE DE LA METHODE, ET UNE AMBIGUITE LEVEE
+
+### 1. OU LE CHANGEMENT DE SOURCE PAIE, ET OU IL NE PAIE PAS
+
+Quinze passages faits dans la matinee. **La carte est nette et elle evite de redepenser :**
+
+| Source | Couvre | Resultat mesure |
+|---|---|---|
+| `vidrioperfil.com` | Amerique latine entiere | **excellent** — Argentine, Chili, Colombie, Guatemala, Perou, Mexique |
+| `glassonweb.com` | Etats-Unis, Canada, Australasie, Golfe | **bon** — Glenny, Saand, G.James, Desert Glass Dubai |
+| `abravidro.org.br` | Bresil | **bon** — Linde Vidros, Bahia Vidros |
+| Les deux | **Maghreb et Afrique subsaharienne** | **rien.** `glassonweb` ne rend que Mediterranean Float Glass, deja au §6. Il faudrait un annuaire national |
+| Les deux | **petites iles** — Caraibe anglophone, Polynesie, Nouvelle-Caledonie | **rien de neuf**, les memes noms que la recherche large |
+
+**La regle qui s'en degage : le deplacement de source paie la ou la couche referencee MASQUE une
+couche profonde, c'est-a-dire sur les grands marches.** Il ne cree rien la ou le marche entier tient
+en une page, et il n'existe pas la ou aucun portail ne couvre la region.
+
+### 2. UNE AMBIGUITE LEVEE, ET ELLE VALIDE LA PRUDENCE DU MATIN
+
+Le releve peruvien de ce matin donnait un **VILUX S.A.** decrit comme *ex Vidriocar* — mot pour mot
+la description de **VILUX S.A. au PARAGUAY**, deja au registre et contactee le 09/10. Je n'avais pas
+cree la fiche, en disant que soit le portail melangeait les pays, soit c'etait un groupe sur deux
+territoires.
+
+**Le passage paraguayen de midi tranche : VILUX est bien PARAGUAYENNE**, et elle figure a sa place
+sur la page du Paraguay. **La page peruvienne du meme portail affichait donc des societes
+paraguayennes.** Et ce n'est pas un cas isole : **PRODIESA apparait sous le Mexique, le Perou ET le
+Paraguay**, et **ALUVI** sous la Bolivie, la Colombie et le Paraguay.
+
+**CE QUE CELA CONFIRME : la lecon Arquetipo n'etait pas une anecdote.** Un portail sectoriel
+n'identifie fiablement ni le METIER ni le PAYS. Il designe ou regarder, et rien d'autre. **Ne jamais
+creer une fiche sur la foi de la page-pays d'un annuaire** — et c'est exactement ce qui a ete fait
+ce matin, en refusant deux creations qui auraient ete deux doublons de pays.
+
+### 3. PHASE DE DECOUVERTE CLOSE POUR AUJOURD'HUI
+
+Le budget de recherche a servi a ouvrir cinq marches et a lever quatre pieges de nom. **Le reste de
+la journee va aux ENVOIS**, qui commencent a 13h30 heure de Paris, et la feuille d'execution est
+prete dans `a-envoyer/2026-10-14-cohorte.md`.
