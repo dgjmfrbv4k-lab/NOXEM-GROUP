@@ -8032,3 +8032,74 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 148. New Glass Technology (Kruishoutem) — `info@newglasstech.com` — NÉERLANDAIS — transformateur
+
+**DOUTE LEVÉ SUR LEUR PROPRE DOMAINE, ET IL FALLAIT LE LEVER :** le portail les donnait pour un
+grossiste mondial, mais sa fiche était **manifestement contaminée** — elle mêlait « marchandises de
+catégorie A à l'export en différentes tailles et couleurs » et « verrerie décorative faite main »,
+qui n'ont rien à voir avec du verre plat. **Un annuaire scrapé mélange ses fiches**, et la leçon
+Imporex interdit d'en reprendre la qualification.
+**Second temps fait : le métier est net et c'est la meilleure classe.** Trempe **thermique** et
+**chimique**, feuilleté **PVB**, feuilleté **résine coulée** (qui permet le bombé), feuilleté **EVA**
+avec inclusions, et verre **coupe-feu**. Transformateur pur, 12,8 %.
+`info@newglasstech.com` en pied de leurs propres pages, domaine confirmé dix fois dans les URL.
+**⚠️ ET LA PAGE DE TÉLÉCHARGEMENTS DIT QUI LES FOURNIT, sans un appel de plus :** ils diffusent les
+brochures **Pilkington Pyrostop et Pyrodur** et les **Pyrobel** d'AGC. Donc leurs origines actuelles
+sont **NSG et AGC**, les deux producteurs float qui dominent la Belgique. C'est la méthode de la page
+fournisseurs, par la bibliothèque technique cette fois.
+**⚠️ RÉSERVE D'ADRESSE : deux implantations circulent**, Kazerneweg 15 à Kruishoutem sur les pages
+anciennes et **Souverainestraat 78 à Nazareth** sur les récentes. Sans effet sur l'envoi, à lever
+avant tout appel ou expédition.
+**Règle Prodiesa : trempé, feuilleté et coupe-feu sortent de l'offre. Reste le substrat.**
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Belgique — AGC y est, et c'est
+précisément l'un de leurs fournisseurs.**
+
+```
+Geachte heer, mevrouw,
+
+Mijn naam is Aaron Harfi, ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas bij Lyon in Frankrijk. Ons magazijn staat in Mollem, op nog geen
+60 km van u. Dit is een leveringsaanbod en geen prijsaanvraag. Bent u niet
+degene die inkoopt, dan ben ik u dankbaar als u dit doorgeeft.
+
+U hardt glas thermisch en chemisch, u lamineert met PVB, met giethars en met
+EVA, en u levert brandwerend glas. Dat is allemaal bewerking, en bewerking
+begint met blad dat binnenkomt. Staat dat stil, dan staan uw lijnen stil.
+Een tweede vaste herkomst is dan geen luxe.
+
+Ik bied u daarom niets aan wat u zelf maakt - geen gehard glas, geen gelaagd
+glas, geen brandwerend glas. Alleen het basisglas dat daarvoor binnenkomt:
+
+- Helder float en extra helder glas: https://noxemgroup.com/en/float-glass/
+- Coated warmte-isolerend glas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegelglas zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Onze website bestaat alleen in het Frans en het Engels. Elke referentie licht
+ik u graag in het Nederlands toe.
+
+Wij verschepen in VOLLEDIGE CONTAINERS, in IPPC/ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Wij kunnen een aanbod opstellen voor levering in uw
+bestemmingshaven, onder voorbehoud van validatie van onze kant.
+
+Daarvoor heb ik vier gegevens nodig: welke diktes uw oven het meest
+verbruikt, welke bladmaten op uw lijnen passen, een indicatie van uw
+jaarvolume met de bestelfrequentie, en welke haven u berekend wilt zien,
+Antwerpen of Rotterdam. Zegt u mij ook even of Kruishoutem dan wel Nazareth
+het juiste adres is - de bronnen spreken elkaar tegen.
+
+En als uw inkoop vastligt en er geen ruimte is voor een extra herkomst, zegt u
+het mij gerust, dan dring ik niet aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
