@@ -9103,3 +9103,78 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 163. Unividros (Tubarão, SC) — `atendimento@unividros.com.br` — PORTUGAIS — trempe et bombé, cinq sites SC et RS
+
+**Vérifié avant d'écrire :**
+- Mot distinctif grepé avant création, `unividros` : **absent du registre**. Pris dans l'annuaire ABRAVIDRO.
+- **⚠⚠ ET LA VÉRIFICATION DE L'ADRESSE A PAYÉ, UNE HEURE APRÈS QUE LE MÊME DÉFAUT A COÛTÉ UN ENVOI.** La page ABRAVIDRO publie **`unividros@unividros.com.br`**. **Leur propre pied de page donne `atendimento@unividros.com.br`** — ce n'est pas la même boîte. C'est le second cas du jour où une page tierce porte une adresse que le site de la société contredit, après `contato@garaujorio.com` qui a rebondi en `550 5.1.1` à 18h36. **La règle du §13 sur les fédérations se durcit : une fédération ne qualifie ni le métier, ni le contact, ni même l'ADRESSE — et il faut lire la page de la société, pas la fiche de l'annuaire.**
+- Adresse retenue lue sur **leur propre site**, domaine du site : §5 satisfait sans exception.
+- **⚠ ET LEUR PROPRE SITE CORRIGE AUSSI LE MÉTIER** : le registre du commerce porte *IND. COM. **IMP.** DE VIDROS* et un annuaire la dit *importadora*. **Leur site dit `fabricante`.** La mention *IMP.* est une capacité immatriculée, pas une activité courante. **On ne les traite donc pas comme un importateur établi** — c'est précisément la leçon Imporex.
+- **Profil retenu : trempe, bombé et feuilleté, CINQ unités** — Tubarão (SC) plus Porto Alegre, Santa Maria, Passo Fundo et Alvorada (RS). Classe **verrier pur**, 12,8 %, et cinq sites veulent dire du volume.
+- **Critère du bureau d'achat du §12** : cinq sites, **une seule page de contact** → un seul bureau d'achat, **un seul message**. Cas Saint Lu, pas cas Extralum.
+- **Règle Prodiesa** : trempe, bombé et feuilleté sont leur fabrication, ils sortent de l'offre. Seul le **substrat** y entre — et le bombé se fait à partir de float plat, donc l'angle tient.
+- **INTERDIT DU §6 TENU** : jamais l'absence de production locale au Brésil. Argument **douanier confiné au float clair**, aucun taux.
+- Jour ouvré et heure vérifiés, mercredi, 13h47 à Tubarão. Ports : Itajaí ou Rio Grande, les deux étant proposés puisque le groupe est sur deux États.
+
+**Objet :** Vidro float em contêiner completo — origem europeia
+
+**Corps :**
+
+```
+Prezados senhores,
+
+Meu nome é Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e
+exportadora de vidro plano perto de Lyon, na França.
+
+Escrevo-lhes porque vocês fabricam vidro curvo, temperado e laminado
+em cinco unidades, em Santa Catarina e no Rio Grande do Sul. Fornos a
+esse ritmo só funcionam se entrar chapa, e é exatamente aí que podemos
+ser úteis — e em nenhum outro lugar: o que vocês fabricam não vamos
+lhes oferecer.
+
+As nossas referências de substrato:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade (low-E)
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+As páginas estão em inglês, o site não existe em português: o float
+incolor e extra claro é a base, o low-E vai para o vidro isolante, e o
+espelho sem cobre e sem chumbo resiste muito melhor à umidade do que
+um espelho prateado convencional.
+
+Um ponto que talvez lhes interesse, e que é um fato aduaneiro e nada
+mais: no float incolor, as origens malaia, paquistanesa e turca
+passaram a carregar direitos antidumping brasileiros, e a origem
+europeia não é visada por nenhuma dessas medidas. Isso muda a
+comparação entre origens.
+
+Trabalhamos em contêineres completos, em caixas de madeira tratada
+NIMP-15, em jumbo 3210 x 2550 mm ou nas medidas que vocês pedirem.
+
+Podemos estabelecer uma oferta para a entrega no porto que lhes
+convier, Itajaí ou Rio Grande, sujeita a validação da nossa parte.
+
+Para que a oferta sirva de alguma coisa, podem me indicar as
+referências e as espessuras que compram, os formatos, o volume
+aproximado e a frequência das compras?
+
+E se já estiverem comprometidos com o fornecedor atual, digam-me com
+franqueza e não insisto.
+
+Fico à disposição.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
