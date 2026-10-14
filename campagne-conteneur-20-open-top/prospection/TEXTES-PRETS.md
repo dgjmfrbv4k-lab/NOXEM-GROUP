@@ -7962,3 +7962,73 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 147. Polypane Glasindustrie (Temse) — `info@polypane.be` — NÉERLANDAIS — fabricant d'isolant
+
+**LA MEILLEURE PRISE BELGE DE LA JOURNÉE, ET ELLE EST À ~45 km DE L'ENTREPÔT.** Nederlandstraat 5,
+9140 Temse. **Fabricant de vitrage isolant depuis plus de cinquante ans**, procédé maison sous le nom
+*Polypane*, agrément technique **BENOR** continu. Gamme HR++, triple, contrôle solaire, coupe-feu,
+acoustique. Une division distincte, *Miraxvit*, fait la pose — donc **la production et la pose sont
+séparées chez eux**, ce qui est précisément le profil industriel qu'on cherche.
+`info@` lue sur leur propre page de contact, domaine deux fois dans les URL.
+**Critère de la ligne qui consomme de la feuille : satisfait sans réserve.** Un fabricant d'isolant
+pur achète du float et du couché au volume, c'est son unique intrant.
+**⚠️ RÈGLE PRODIESA :** isolant, triple, contrôle solaire, coupe-feu et acoustique sont **ce qu'ils
+fabriquent** — tout cela sort de l'offre. Reste le **substrat** : float clair, extra-clair, low-E,
+miroir.
+**⚠️ INTERDIT DU §6, ET IL EST NEUF DANS LE CODE DEPUIS CET APRÈS-MIDI : jamais l'absence de
+production locale en Belgique.** AGC y exploite le site de Moustier, rue de la Glacerie, celui de la
+première ligne float d'Europe continentale, et trois sites AGC de vitrage isolant sont sortis de la
+même recherche — Kempenglas à Mol, Seapane à Zeebruges, Energypane à Grand-Hallet. **Ce sont leurs
+concurrents directs, et on n'en dit pas un mot.**
+**Proximité employée sur consigne de Kevin.**
+
+```
+Geachte heer, mevrouw,
+
+Mijn naam is Aaron Harfi, ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas bij Lyon in Frankrijk. Ons magazijn staat in Mollem, op ongeveer
+45 km van Temse - wij zijn dus buren. Dit is een leveringsaanbod en geen
+prijsaanvraag. Bent u niet degene die inkoopt, dan ben ik u dankbaar als u
+dit doorgeeft.
+
+U maakt al meer dan vijftig jaar isolerende beglazing volgens uw eigen
+Polypane-proces, met doorlopende BENOR-goedkeuring. Dat betekent voor mij
+een ding: blad moet binnenkomen, regelmatig en in volume, anders staat uw
+productie stil. Een tweede vaste herkomst is dan geen luxe.
+
+Ik bied u daarom niets aan wat u zelf maakt - geen isolerende beglazing, geen
+triple, geen zonwerend, brandwerend of akoestisch glas. Alleen het basisglas
+dat daarvoor binnenkomt:
+
+- Coated warmte-isolerend glas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Helder float en extra helder glas: https://noxemgroup.com/en/float-glass/
+- Spiegelglas zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Onze website bestaat alleen in het Frans en het Engels. Elke referentie licht
+ik u graag in het Nederlands toe.
+
+Wij verschepen in VOLLEDIGE CONTAINERS, in IPPC/ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Wij kunnen een aanbod opstellen voor levering in uw
+bestemmingshaven, onder voorbehoud van validatie van onze kant.
+
+Daarvoor heb ik vier gegevens nodig: welke diktes en coatings uw lijnen het
+meest verbruiken, welke bladmaten daarop passen, een indicatie van uw
+jaarvolume met de bestelfrequentie, en welke haven u berekend wilt zien,
+Antwerpen of Rotterdam.
+
+En als uw inkoop vastligt en er geen ruimte is voor een extra herkomst, zegt u
+het mij gerust, dan dring ik niet aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
