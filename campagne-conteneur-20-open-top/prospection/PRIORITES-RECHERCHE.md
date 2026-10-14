@@ -122,3 +122,31 @@ engagee sur les Ameriques, la Belgique et le Golfe. **Le lot se prepare, il ne s
 
 **Premier membre deja travaille : Joh. Franz Koenig a Cologne**, fiche qui dormait en `A QUALIFIER`
 depuis des semaines et que cette source a qualifiee en un appel. Message parti le 14/10.
+
+## Noms allemands et neerlandais VERIFIES ET REJETES le 14/10, pour ne pas les rechercher deux fois
+
+**Rainer Scholz GmbH (Aix-la-Chapelle).** Un annuaire la classait sous *Glas und Flachglas,
+Grosshandel*, et c'etait la seule piste pour la ville allemande la plus proche de l'entrepot, a
+125 km. **Verification sur leur propre site : c'est un Haustuer- und Fenster-Studio**, un studio de
+fenetres et de portes — renovation, volets roulants, moustiquaires, protection anti-effraction.
+Aucune activite de negoce de verre plat. **Aucune fiche creee.** C'est la lecon Imporex appliquee a
+l'Allemagne : un portail IDENTIFIE et ne QUALIFIE pas.
+
+**Antik- und Decorglas ADG (Oberhausen).** Listee sous *Flachglas*, mais sa raison sociale annonce
+du verre ANCIEN et DECORATIF — c'est le profil Hollander, verre d'art, ferme le 13/10. Non ouverte.
+
+**Pilkington Glastechniek (Venlo) et Vetrotech Saint-Gobain (Weert).** Remontees dans la recherche
+neerlandaise. **Pilkington est NSG et Vetrotech est Saint-Gobain**, donc concurrents par nature au
+titre deja applique a Cebrace et a Blindex. **Aucune fiche, et c'est le critere du fragment de
+marque du paragraphe 6 qui les arrete en une seconde.**
+
+**MARCO (Gand).** Donnee par un annuaire comme grossiste en verre. **Verification : grossiste en
+emballages et en GLASWERK**, articles de fete et de bapteme. Verre creux, donc le test du
+paragraphe 5 — et il gagne ici deux mots NEERLANDAIS a ajouter a sa liste, `glaswerk` et
+`verpakkingen`.
+
+**A regarder au prochain tour, non encore verifiees :** Glashandel de Baronie et Wijnands Glas a
+Breda, Burman Glas et Martin Glas a Eindhoven, Glasbewerking Brabant et Quick Glas a Tilburg, Ben
+Evers dit Beopane a Schijndel, Scheuten Glasgroep a Venlo, Magho Glas a Dortmund, Glas Bogumil a
+Lunen, Glas Van Lent a Ekeren, De Grom en Belgique. **Toutes sortent d'annuaires, donc aucune n'est
+qualifiee tant que son propre site n'a pas ete lu.**
