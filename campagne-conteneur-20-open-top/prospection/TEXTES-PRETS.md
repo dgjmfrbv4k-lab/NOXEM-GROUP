@@ -7120,3 +7120,280 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 135. Glaswerke Wolff + Meier (Langgöns) — `info@wolff-meier.de` — ALLEMAND — verrier pur
+
+**ACHETEUR NOMMÉ, SECONDE FOIS DE LA CAMPAGNE APRÈS GERRIT STRUNK CE MATIN.** Leur page
+*Ansprechpartner* publie **Martin Berg** sous la rubrique **Einkauf**, ligne directe 06403 9006-31.
+*Einkauf* est littéralement les achats, donc la première des trois fonctions que le §5 nomme : la
+condition est pleinement remplie et le nom s'emploie.
+**⚠️ MAIS L'ENVOI NE SE FAIT PAS SUR SA BOÎTE, ET C'EST UN ARBITRAGE DÉLIBÉRÉ.** La même page porte
+`m.b@wolff-meier.de`, en **deux initiales séparées d'un point** — une forme assez inhabituelle pour
+qu'une compression de `m.berg@` ne soit pas exclue, et **je n'ai pas pu relire la page caractère par
+caractère**, ce que le §13 impose après les quatre cas d'un caractère du 13/10. **Donc : envoi sur
+`info@`, qui est l'adresse de l'Impressum et donc certaine, avec la mention à l'attention de Martin
+Berg, service achats.** La secrétaire route, et on ne paie pas un rebond pour gagner un bureau.
+`m.b@` est gardée en **second essai** dans la fiche si `info@` rebondit.
+**FOURNISSEUR DE SUBSTRAT ÉTABLI PAR LEUR PROPRE DOCUMENT, et c'est une méthode neuve :** leur
+certificat publié est un **SGG Climaplus Ultra N 4-16air-4**, donc du Saint-Gobain. Ce n'est pas un
+lien capitalistique, c'est leur fournisseur de feuille — exactement l'angle de la seconde origine.
+**MÉTIER : verrier pur**, la meilleure classe mesurée le 13/10 à 12,8 %. Maison de 1972, de l'ordre
+de mille à douze cents feuilles par jour. **Règle Prodiesa : l'isolant sort de l'offre, seul le
+substrat entre.**
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+**Proximité employée sur consigne de Kevin : environ 380 km de l'entrepôt.**
+
+```
+Sehr geehrte Damen und Herren,
+zu Haenden von Herrn Martin Berg, Einkauf,
+
+Ihre Ansprechpartnerseite nennt Herrn Berg fuer den Einkauf, deshalb richte
+ich diese Zeilen an ihn. Es geht um ein Lieferangebot, nicht um eine
+Preisanfrage.
+
+Mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Unser Lager liegt rund 380 km von
+Langgoens entfernt, also naeher an Ihnen als mancher Ihrer heutigen Wege.
+
+Sie bauen seit 1972 Isolierglas und veredeln und handeln daneben mit Flachglas.
+Das heisst fuer mich zweierlei: Sie kaufen Tafelware ein, regelmaessig und in
+Mengen, und Ihre Fertigung steht still, wenn sie nicht hereinkommt. Eine
+zweite gesicherte Herkunft ist in dieser Lage kein Luxus.
+
+Ich biete Ihnen deshalb nichts an, was Sie selbst herstellen - kein
+Isolierglas. Nur das Basisglas, das davor hereinkommt:
+
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Spiegelrohware ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken und Beschichtungen Ihre
+Fertigung am meisten verbraucht, welche Tafelmasse Ihren Anlagen passen, eine
+ungefaehre Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie
+gerechnet haben moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 136. Mosa Glas (Echt, Pays-Bas) — `info@mosaglas.com` — NÉERLANDAIS — négoce + isolant
+
+**UN SEUL MESSAGE POUR LE GROUPE, ET C'EST L'ARBITRAGE DU CRITÈRE DU BUREAU D'ACHAT (§12).** Mosa
+a son siège à **Echt** au Limbourg néerlandais et un site allemand à **Greven**, racheté à Kölling
+Glas. La direction d'ensemble est assurée **depuis Echt**, la direction locale du site est
+distincte, et leur page équipe situe les achats au siège. **C'est le cas Saint Lu et non le cas
+Extralum** : un seul marché douanier, un seul port, un seul bureau qui décide. **Greven ne reçoit
+donc aucun message**, et `greven@mosaglas.com`, relevé ailleurs que sur leur domaine, n'est pas
+employé — la règle anti-rebond du §5 ne serait pas satisfaite.
+**`info@` est lue sur leur propre page de contact ET sur leur page de confidentialité**, donc le
+domaine figure bien dans les URL de résultats.
+**⚠️ ET UN NOM N'EST PAS EMPLOYÉ ALORS QU'IL ÉTAIT DISPONIBLE :** leur page équipe donne Luc
+Tinnemans comme directeur des achats, **mais la mise en page ne permet pas d'apparier les titres aux
+noms avec certitude**. Le §5 exige une fonction *vérifiée* : elle ne l'est pas, donc le message va
+au service. C'est l'inverse de Martin Berg, où la rubrique était nette.
+**FOURNISSEUR DE SUBSTRAT ÉTABLI :** partenaire **SANCO**, et vingt-cinq ans de partenariat annoncé
+avec **SGG Glassolutions**, donc Saint-Gobain. Fournisseur, pas propriétaire — l'angle de la
+seconde origine est juste.
+**Règle Prodiesa : l'isolant sort de l'offre, seul le substrat entre.**
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale aux Pays-Bas. Aucun argument douanier.**
+**Proximité employée sur consigne de Kevin : environ 150 km de l'entrepôt, le plus proche du lot.**
+
+```
+Geachte heer, mevrouw,
+
+Mijn naam is Aaron Harfi, ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas bij Lyon in Frankrijk. Ons magazijn ligt op ongeveer 150 km van Echt,
+dus wij zijn bijna buren. Dit is een leveringsaanbod en geen prijsaanvraag.
+
+U bent glasgroothandel en u maakt zelf isolatieglas, en met de overname van
+Greven heeft u die productie nog uitgebreid. Dat betekent voor mij twee dingen:
+u koopt blad in, regelmatig en in volume, en uw productie staat stil zodra dat
+blad niet binnenkomt. Een tweede vaste herkomst is dan geen luxe.
+
+Ik bied u daarom niets aan wat u zelf maakt - geen isolatieglas. Alleen het
+basisglas dat daarvoor binnenkomt:
+
+- Coated warmte-isolerend glas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Helder float en extra helder glas: https://noxemgroup.com/en/float-glass/
+- Spiegelglas zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Onze website bestaat alleen in het Frans en het Engels. Elke referentie licht
+ik u graag in het Nederlands toe.
+
+Wij verschepen in VOLLEDIGE CONTAINERS, in IPPC/ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Wij kunnen een aanbod opstellen voor levering in uw
+bestemmingshaven, onder voorbehoud van validatie van onze kant.
+
+Daarvoor heb ik vier gegevens nodig: welke diktes en coatings uw productie het
+meest verbruikt, welke bladmaten op uw lijnen passen, een indicatie van uw
+jaarvolume met de bestelfrequentie, en welke haven u berekend wilt zien,
+Rotterdam of Antwerpen.
+
+En als uw inkoop vastligt en er geen ruimte is voor een extra herkomst, zegt u
+het mij gerust, dan dring ik niet aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 137. Glaszentrum Dortmund — `info@gzdo.de` — ALLEMAND — négoce de verre plat
+
+**MÉTIER : le réseau le décrit comme un négoce de verre plat classique, et c'est la deuxième
+meilleure classe mesurée le 13/10, à 10,0 %.** Iggelhorst 10, 44149 Dortmund-Dorstfeld.
+**⚠️ EXCEPTION DU §5 EXPLICITEMENT INVOQUÉE ET NOTÉE : l'adresse est sur un AUTRE domaine que le
+site.** Le site est `glaszentrum-dortmund.de`, l'adresse est `info@gzdo.de` — les initiales de la
+raison sociale. **Le §5 l'autorise parce que c'est leur propre page de contact qui la publie**, et
+c'est la condition exacte de l'exception. **Et il fallait trancher, parce que des annuaires donnent
+une TROISIÈME forme, `info@glasonline.de`** : la page de la société l'emporte sur l'annuaire, c'est
+la règle du 14/10 sur Imporex prise par l'autre bout. `info@glasonline.de` est gardée en dernier
+recours et non en second essai.
+**⚠️⚠️ RÈGLE PRODIESA, ET ELLE MORD FORT ICI — ILS FABRIQUENT LE MIROIR.** Leur page dit qu'ils
+produisent du **verre de sécurité trempé sous la marque DELODUR, des MIROIRS et des verres
+laqués**. Donc le miroir sans cuivre ni plomb, qui est le produit le plus différenciant de la gamme
+au §8, **sort de l'offre** — le leur proposer serait la faute Prodiesa du 12/10 à l'identique.
+Le laqué et le trempé sortent aussi. **Il ne reste que le substrat : float clair, extra-clair,
+low-E.** C'est moins, et c'est juste.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+**Proximité sur consigne de Kevin : environ 330 km de l'entrepôt.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Unser Lager liegt rund 330 km von
+Dortmund entfernt. Dies ist ein Lieferangebot und keine Preisanfrage.
+
+Sie sind Glasgrosshandel und beliefern Fachbetriebe, und Sie veredeln daneben
+selbst - Sicherheitsglas, Spiegel, lackierte Glaeser. Beides heisst dasselbe
+fuer mich: Sie kaufen Tafelware ein, regelmaessig und in Mengen, und sowohl
+Ihr Lager als auch Ihre Veredelung haengen daran, dass sie hereinkommt.
+
+Ich biete Ihnen deshalb ausdruecklich nichts an, was Sie selbst herstellen -
+keinen Spiegel, kein lackiertes Glas, kein Sicherheitsglas. Nur das Basisglas,
+das davor hereinkommt:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken Ihr Lager am schnellsten
+dreht, welche Tafelmasse Ihren Anlagen und Ihrem Lager passen, eine
+ungefaehre Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie
+gerechnet haben moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 138. Schwan Glas (Düsseldorf) — `info@schwanglas.com` — ALLEMAND — transformation + négoce
+
+**LA PLUS PROCHE DU LOT ALLEMAND : Höherweg 236, 40231 Düsseldorf, environ 250 km de l'entrepôt.**
+`info@` lue sur leur propre page de contact ET sur l'Impressum de leur boutique, donc le domaine
+figure deux fois dans les URL de résultats.
+**⚠️ TROIS ADRESSES NOMINATIVES ÉCARTÉES VOLONTAIREMENT, ET C'EST LE PIÈGE MUNNWORKS À L'IDENTIQUE :**
+leur page équipe publie `roger.dey@`, `astrid.lutz@` et `dirk.schmitter@` — **tous au VERKAUF, donc
+à la VENTE**. Le §5 n'autorise un nom que si la fonction est vérifiée **et pertinente pour les
+achats** : un commercial est du mauvais côté du bureau. C'est exactement la distinction du 14/10
+entre `inkoop@` chez Vandaglas, qui voisine les comptes fournisseurs, et `openorders@` chez
+MunnWorks, qui reçoit les commandes des clients. **Message au service.**
+**Et `vdws@schwanglas.com`, qui traîne sur des portails d'emploi, est une boîte de CANDIDATURES** —
+le cas Lahey et Le Bâtiment Guyanais, écarté pour la même raison.
+**MÉTIER :** *Glasverarbeitung nach Maß*, transformation sur mesure et négoce. **Règle Prodiesa
+appliquée en réserve** : ce qu'ils façonnent sort de l'offre, mais leur gamme de fabrication propre
+n'est pas établie en détail, donc le message reste sur le substrat sans énumérer ce qu'on ne
+propose pas.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Unser Lager liegt rund 250 km von
+Duesseldorf entfernt - von allen deutschen Haeusern, die ich diese Woche
+anschreibe, sind Sie uns am naechsten. Dies ist ein Lieferangebot und keine
+Preisanfrage.
+
+Sie verarbeiten Glas nach Mass und handeln damit. Das heisst fuer mich: Sie
+kaufen Tafelware ein, regelmaessig und in Mengen, und Ihre Zuschnitt- und
+Veredelungslinien stehen still, wenn sie nicht hereinkommt. Eine zweite
+gesicherte Herkunft ist in dieser Lage kein Luxus.
+
+Ich biete Ihnen nicht an, was Sie selbst fertigen, sondern nur das Basisglas,
+das davor hereinkommt:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegelrohware ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken und Beschichtungen Sie am
+meisten verbrauchen, welche Tafelmasse Ihren Anlagen passen, eine ungefaehre
+Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie gerechnet haben
+moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

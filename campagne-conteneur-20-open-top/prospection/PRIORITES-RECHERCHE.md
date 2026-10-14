@@ -183,3 +183,40 @@ elle-meme, pas une recherche par mots-cles.
 en tete de trois raisons sociales est le nom du reseau, pas celui d un producteur float — ce n est
 donc PAS un signal d appartenance a un groupe verrier, contrairement a `Glaver` ou a `Pilkington`.
 C est le pendant du piege `zoujaj` : un mot du metier n autorise ni a ouvrir ni a fermer.
+
+
+### Deuxieme vague du MarkenKreis — NEUF noms de plus le 14/10 a 15h45, tous absents du registre
+
+**Le premier relevé donnait dix noms dont huit hors du rayon de 400 km fixé par Kevin. Deux
+recherches restreintes au domaine du réseau, ciblées sur les LANDS proches de la Belgique au lieu
+du réseau entier, en rendent neuf de plus — et trois sont dans le rayon.** C'est la leçon du 14/10
+sur la saturation prise une fois de plus : ce n'était pas le gisement qui était épuisé, c'était la
+requête qui visait trop large.
+
+| Societe | Lieu | Distance approx. de l entrepot | Note |
+|---|---|---|---|
+| **Glaszentrum Dortmund GmbH** | Dortmund | ~330 km | le reseau le decrit comme un **negoce de verre plat classique** — meilleure classe de metier |
+| **Schwan Glas GmbH & Co. KG** | Dusseldorf 40231 | ~250 km | **le plus proche du lot** |
+| **GLS Spezial- & Farbglashandel GmbH** | Robert-Perthel-Str. 55, 50739 Koeln | ~230 km | negoce de verre special et teinte. ⚠ **DEUX SITES** — Koeln et Fuerstenfeldbruck en Baviere. **Un seul compte**, a trancher au critere du bureau d achat |
+| **Steenebruegge GmbH & Co. KG** | Neuwied 56566 | ~350 km | ⚠ **MEME CODE POSTAL QUE TARDIS** — verifier l adresse avant d ouvrir deux fiches, cas Glasbau Aschaffenburg / Glas-Dreisbusch |
+| **Tardis GmbH** | Neuwied 56566 | ~350 km | idem ci-dessus |
+| **GlasMARA GmbH & Co. KG** | Ramstein-Miesenbach 66877 | ~400 km | limite du rayon |
+| **Glas-Mayer GmbH & Co. KG** | Ludwigshafen 67063 | ~450 km | |
+| **Schuet-Duis GmbH & Co. KG** | lieu a etablir | — | |
+| **Glastechnik Engels GmbH** | lieu a etablir | — | |
+| **Carl Abel Glas GmbH** | lieu a etablir | — | |
+
+**⚠️ CE QUE LE RELEVE NE DONNE PAS, ET C EST LA LECON IMPOREX APPLIQUEE A UNE FEDERATION :** la page
+membre du reseau publie l adresse e-mail de chacun — on l a vu pour Mosa Greven. **Elle ne vaut
+pourtant pas plus qu un annuaire au sens de la regle anti-rebond du paragraphe 5**, puisque le
+domaine de l adresse n apparait pas dans les URL de resultats. **Une federation IDENTIFIE, elle ne
+QUALIFIE pas**, exactement comme un portail sectoriel. Chaque nom coute donc son second temps sur
+son propre domaine, soit environ deux appels par fiche.
+
+**Et deux cas d identite sont deja visibles sans depenser un appel** : GLS sur deux sites, et
+Steenebruegge et Tardis au meme code postal. Les trancher AVANT de creer, jamais apres.
+
+**Aucun membre trouve a Aix-la-Chapelle, Krefeld, Duisbourg, Coblence, Treves ni en Sarre** — ce
+qui ne prouve pas qu il n y en a pas, la page des membres ayant environ 477 jours et la recherche
+par mots-cles ne rendant que ce qu elle indexe. **Les quelque 39 noms restants demandent une
+lecture de la page elle-meme.**
