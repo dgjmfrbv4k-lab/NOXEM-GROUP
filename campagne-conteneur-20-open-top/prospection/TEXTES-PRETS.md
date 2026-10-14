@@ -7891,3 +7891,74 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 146. Glasmanufaktur TARDIS (Neuwied) — `info@tardis.com` — ALLEMAND — trempeur
+
+**TREMPEUR, donc la MEILLEURE classe de métier mesurée le 13/10, à 12,8 %.** Ils produisent de
+l'**ESG — verre de sécurité trempé — à Neuwied depuis 2005**, et leur site annonce une
+**extension de la surface de production**. Gamme : parois de douche sur mesure sous la marque
+*ABSOLUT GLAS*, cloisons et crédences d'intérieur, **systèmes de façade**, portes coulissantes.
+**Le critère de la ligne qui consomme de la feuille est satisfait** : un four de trempe ne tourne
+que si de la feuille entre, et c'est le raisonnement même du 13/10.
+`info@` lue sur leur Impressum, domaine confirmé.
+**⚠️ RÈGLE PRODIESA, ET ELLE RETIRE BEAUCOUP :** trempé, parois de douche, cloisons, façades et
+portes coulissantes sont **ce qu'ils fabriquent** — tout cela sort de l'offre. Reste le **substrat**
+qu'ils trempent : float clair, extra-clair, et le miroir qu'ils ne produisent pas.
+**⚠️ UNE BOÎTE ÉCARTÉE AU TEST MUNNWORKS, et elle était très tentante :** ils publient
+`fachhandel-gesucht@tardis.com` — littéralement *négoce spécialisé recherché*. **C'est leur appel à
+recruter des REVENDEURS**, donc le côté client, pas le côté fournisseur. Écrire là reviendrait à se
+présenter comme candidat distributeur de leurs douches, l'inverse exact de notre démarche.
+**Deux gérants relevés et non employés**, Thomas Breuer-Löwenstein et Michael Kröger — fonction de
+direction, donc permise au §5, mais rien ne dit lequel suit les achats. Noms dans la fiche pour l'appel.
+**Question d'identité déjà tranchée ce matin : distincte de Steenebrügge**, même code postal mais
+rue et standard différents.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Dies ist ein Lieferangebot und
+keine Preisanfrage - falls Sie nicht einkaufen, waere ich Ihnen dankbar, wenn
+Sie es an den Einkauf weitergeben.
+
+Sie fertigen seit 2005 ESG in Neuwied und haben Ihre Produktionsflaeche
+erweitert. Ein Ofen rechnet sich nur, wenn Tafelware hereinkommt - und zwar
+regelmaessig. Genau da, und nur da, kann ich Ihnen nuetzlich sein.
+
+Ich biete Ihnen deshalb ausdruecklich nichts an, was Sie selbst herstellen -
+kein ESG, keine Duschen, keine Trennwaende, keine Fassadensysteme. Nur das
+Basisglas, das davor hereinkommt:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Spiegel ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Den Spiegel nenne ich, weil er im Badbereich naheliegt und ohne Kupfer und
+ohne Blei auskommt. Unsere Internetseite gibt es nur auf Franzoesisch und
+Englisch, jede Referenz erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken Ihr Ofen am meisten
+verbraucht, welche Tafelmasse Ihren Anlagen passen, eine ungefaehre
+Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie gerechnet haben
+moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
