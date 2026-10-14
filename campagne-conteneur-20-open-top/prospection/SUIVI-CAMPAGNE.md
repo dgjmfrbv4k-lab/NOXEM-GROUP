@@ -6976,3 +6976,50 @@ detail** de verre et de miroirs, et ils vendent aussi du profil aluminium, de la
 plastique. Le conteneur complet n'est donc pas acquis, et c'est l'appel qui doit le trancher.
 
 **Registre a 1173 fiches.**
+
+
+## 14/10/2026 10h28 — matinee : 14 envois, et une mesure qui tranche le pivot outre-mer
+
+**Controle avant-vol complet avant le premier envoi :** expediteur verifie, 14/10 ferie nulle part
+dans les pays de la vague, rebonds de la veille lus, balayage des doublons passe avant d'ouvrir la
+cohorte de relances.
+
+**14 messages partis :**
+· **1 outre-mer en vague zero** — PIECESMENUISERIE a La Reunion, dans la fenetre de leur matinee.
+· **9 premieres relances** de la cohorte du 08/10, gabarit une seule question, **tirees dans l'ordre
+  de la mesure du 13/10** : negoce d'abord (Walshs Glass, NET GLASS-CI, Sumes Glass), verriers
+  ensuite (Uniglass, Barrak, Gapex, Pacific Glass), poseurs en dernier (Serralharia Vidal, Al Abbar).
+· **4 premiers contacts** — Deway a Singapour, et **Viridian, Glasslines et Glass Market** en
+  Australasie, envoyes en fin de journee locale pour etre en haut de leur boite demain matin.
+
+**Une faute Prodiesa rattrapee AVANT l'envoi, et c'est la seule difference avec le 12/10 :** le texte
+de Glass Market annoncait fournir le substrat et non la securite finie qu'ils fabriquent, puis
+listait le **feuillete** trois lignes plus bas — alors qu'ils ont leur propre usine de securite a
+Qingdao. Le feuillete est retire, le low-E le remplace.
+
+**Deux envois anterieurs sortent du comptage :** ArcGlass et Glassbuilt, tous deux en **serveur muet**
+apres plusieurs avis de delai. Les deux passent au telephone, chercher une autre boite sur ces
+domaines serait inutile.
+
+### ⚠️ ET LA MESURE DE LA MATINEE EST POUR AARON : LE PIVOT OUTRE-MER NE PASSE PAS PAR L'E-MAIL
+
+Six deverrouillages sur les six dernieres fiches d'outre-mer ayant un site et pas d'adresse, **toutes
+des meilleures classes de metier** : Ravate Professionnel (negoce, **au Port**), Point Mat (negoce,
+cinq a six magasins), Le Batiment Guyanais (negoce), WM Guadeloupe (negoce BTP), ALUVER Guyane
+(verrier), Glass Alu Matoury. **Six sur six : formulaire ou telephone, aucune adresse publiee.**
+Avec les trois verdicts anterieurs du meme bloc — Leader Mat, Techniglass Mayotte, Cole Bay Glass —
+**cela fait neuf sur neuf.**
+
+**La methode rend 38 pour cent de bout en bout sur le registre mondial et ZERO sur l'outre-mer
+francais.** A neuf essais ce n'est plus un hasard de tirage : une maison antillaise ou reunionnaise
+publie son standard et un formulaire, et garde sa boite pour ses clients etablis.
+
+**Etat du bloc outre-mer : 60 fiches, 23 contactees, 15 a appeler, 7 a qualifier, 2 a envoyer.**
+Le reste est **telephonique par nature et non par accident**, et y depenser encore des appels de
+recherche serait une perte seche. **C'est le creneau d'appels qui debloque ce marche.**
+
+**Deux pieges recoltes au passage.** WM Guadeloupe porte dans ses donnees structurees une adresse qui
+cumule deux defauts, elle n'est pas affichee et son domaine differe du site **d'une lettre**, vm-
+contre wm- : donnee corrompue, jamais a employer. Et Le Batiment Guyanais ne publie qu'une boite de
+**recrutement**, le cas Lahey a l'identique — mais la recherche a livre un fait utile, leur domaine
+de messagerie reel est bg973.fr et non celui du site.

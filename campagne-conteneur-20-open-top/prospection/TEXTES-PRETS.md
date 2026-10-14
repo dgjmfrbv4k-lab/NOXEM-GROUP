@@ -2232,7 +2232,9 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 
 ---
 
-## 44. Glass Market (Te Atatu, Auckland) — `sales@glassmarket.co.nz` — ANGLAIS — à envoyer le 14/10
+## 44. Glass Market (Te Atatu, Auckland)
+
+**⚠️ CORRIGÉ LE 14/10 AVANT L'ENVOI, ET C'ÉTAIT LA FAUTE PRODIESA EN TOUTES LETTRES :** le texte annonçait fournir le **substrat et non la sécurité finie qu'ils fabriquent**, puis listait **laminated glass** trois lignes plus bas. Or le feuilleté EST du verre de sécurité, et ils ont leur propre usine de sécurité à Qingdao. **Le texte se contredisait en trois lignes et proposait à un fabricant le produit qu'il fabrique** — exactement le message parti à Prodiesa le 12/10. Le feuilleté est retiré, le low-E le remplace. **Trouvé en relisant le corps avant l'envoi, pas après** : c'est la seule différence avec le cas Prodiesa. — `sales@glassmarket.co.nz` — ANGLAIS — à envoyer le 14/10
 
 **⚠️ VERIFIE :** leur verre de securite vient de LEUR PROPRE usine de Qingdao, donc le trempe sort de
 l offre, regle Prodiesa · angle de la seconde source, pas du changement de methode, puisqu ils
@@ -2257,8 +2259,8 @@ What I would supply is the substrate, not the finished safety glass you make
 yourselves:
 
 - Clear and extra-clear float glass
+- Low-E glass
 - Copper-free and lead-free mirror
-- Laminated glass
 
 We ship in FULL CONTAINERS, packed in ISPM-15 heat-treated wooden crates, in
 jumbo sheets of 3210 x 2550 mm or cut to your sizes, delivered to Auckland or

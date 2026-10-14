@@ -1989,6 +1989,36 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   adresse déduite, donc inventée au sens du §5. Fiche téléphonique au +1 902 462 8000, et c'est un
   verdict, pas une absence de recherche.
 
+  **⚠️⚠️ MESURE DU 14/10 QUI TRANCHE LE PIVOT OUTRE-MER, ET ELLE EST NETTE : LES DOM ET LES COM
+  PUBLIENT DES TÉLÉPHONES, PAS DES ADRESSES. NEUF DÉVERROUILLAGES, ZÉRO ADRESSE UTILISABLE.**
+  Six recherches restreintes ce matin sur les six dernières fiches d'outre-mer ayant un site et pas
+  d'adresse, toutes des meilleures classes de métier — **Ravate Professionnel** (La Réunion, négoce,
+  **au Port**), **Point Mat** (Martinique, négoce, cinq à six magasins), **Le Bâtiment Guyanais**
+  (négoce, quatre points de vente), **WM Guadeloupe** (négoce BTP), **ALUVER Guyane** (verrier) et
+  **Glass Alu Matoury**. **Six fois sur six : formulaire ou téléphone, aucune adresse publiée.**
+  S'y ajoutent trois verdicts antérieurs du même bloc — **Leader Mat** et son adresse d'agence web,
+  **Techniglass Mayotte** et son adresse tronquée dans l'index, **Cole Bay Glass** et son formulaire.
+  **Neuf sur neuf.**
+  **CE QUE CELA ÉTABLIT, ET C'EST UNE CONCLUSION DE MÉTHODE PLUS QU'UNE SÉRIE DE VERDICTS :** la
+  méthode de déverrouillage du §13 rend 38 % de bout en bout sur le registre mondial, et **zéro** sur
+  le bloc français d'outre-mer. Ce n'est pas un hasard de tirage à neuf essais : une maison antillaise
+  ou réunionnaise publie son standard et un formulaire, et garde sa boîte pour ses clients établis.
+  **CONSÉQUENCE OPÉRATIONNELLE, ET ELLE EST POUR AARON : le pivot outre-mer ne s'exécute pas par
+  e-mail au-delà de ce qui est déjà parti.** 23 fiches sur 60 sont contactées, et le reste est
+  **téléphonique par nature, pas par accident**. Continuer à y dépenser des appels de recherche est
+  une perte sèche — c'est le créneau d'appels qui débloque ce marché, et rien d'autre.
+  **ET DEUX PIÈGES DE PLUS, RÉCOLTÉS DANS CES SIX RECHERCHES, parce qu'ils se présentaient bien :**
+  · **WM Guadeloupe cumule DEUX défauts sur une seule adresse**, et c'est le cas d'école : les données
+    structurées de leur page portent `erance@vm-guadeloupe.fr`. Un, elle est lue dans les **données
+    structurées** et non affichée, ce que le §13 donne déjà pour moins sûr depuis Conciera. Deux, son
+    domaine est **`vm-`** quand le site est **`wm-`**, soit **une lettre**, et la partie locale
+    *erance* n'a aucun sens. **C'est une donnée corrompue, pas une adresse.**
+  · **Le Bâtiment Guyanais ne publie que `bgrecrute@bg973.fr`**, une boîte de **recrutement** — le cas
+    Lahey à l'identique, et le §5 l'interdit. **Mais la recherche a quand même rendu un fait utile :
+    leur domaine de messagerie réel est `bg973.fr` et non `batiment-guyanais.com`**, ce qui est le
+    piège du domaine voisin. Un déverrouillage négatif peut donc livrer le domaine sans livrer la
+    boîte, et cela se note pour l'appel.
+
   **UNE SUBTILITÉ QUI VAUT UN DÉVERROUILLAGE, trouvée sur Grupo Visemex (Monterrey) :** le registre
   portait `ventas1@visemex.com.mx` et leur page publie `venta1@`, **au singulier**. Même piège
   qu'Al Ashoury. Mais ici l'arbitrage s'est fait sur un fait et non sur la source la plus récente :
