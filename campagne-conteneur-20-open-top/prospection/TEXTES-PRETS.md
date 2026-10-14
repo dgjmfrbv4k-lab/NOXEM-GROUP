@@ -8103,3 +8103,71 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 149. Eurover (Tubize) — `info@eurover.com` — FRANÇAIS — trempe et feuilletage
+
+**EN PLEIN CŒUR DU RAYON : Zoning Industriel, avenue Zénobe Gramme 17, 1480 Tubize, ~40 km de
+l'entrepôt.** Trente ans de métier. Gamme : feuilleté **STRATOBEL**, verre anti-feu, dalles de sol et
+marches d'escalier, double et triple vitrage, trempé, ensembles **SECURIT**.
+`info@` lue sur leur propre page de contact, domaine deux fois dans les URL.
+**⚠️⚠️ ET LA RÈGLE DU FRAGMENT DE MARQUE S'APPLIQUE ICI DANS LE SENS FAVORABLE — c'est le cas
+d'école de la distinction posée ce matin.** *Stratobel* est la marque de feuilleté d'**AGC**,
+*Securit* celle de trempé de **Saint-Gobain**. Les deux sont dans leur **GAMME**, pas dans leur
+raison sociale : **une marque dans une gamme dit qu'on ACHÈTE**, donc c'est un prospect et on sait
+contre qui l'on se place ; la même dans une raison sociale dirait qu'on APPARTIENT. *Glaverpane* se
+ferme, *Eurover* s'écrit. Troisième fois de la journée que ce test tranche, après Wolff + Meier et
+New Glass Technology.
+**⚠️ DEUX BOÎTES ÉCARTÉES AU TEST MUNNWORKS :** ils publient `devis@` et `commande@` à côté de
+`info@`. Les deux sont **du côté client** — les devis qu'ils émettent et les commandes qu'ils
+reçoivent. C'est le côté `openorders@` et non le côté `inkoop@`.
+**Règle Prodiesa : feuilleté, anti-feu, dalles, trempé, double et triple vitrage sortent de l'offre.
+Reste le substrat.**
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Belgique. AGC y est — et c'est l'un
+de leurs fournisseurs.**
+**⚠️ Un show-room à Saintes figure sur leur site ; une seule maison, une seule fiche.**
+
+```
+Madame, Monsieur,
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur
+de verre plat près de Lyon. Notre entrepôt est à Mollem, à une quarantaine de
+kilomètres de Tubize. Ceci est une offre de fourniture et non une demande de
+prix. Si vous n'êtes pas la personne qui achète le verre, je vous serais
+reconnaissant de transmettre.
+
+Vous trempez, vous feuilletez, vous montez du double et du triple vitrage, et
+vous faites des dalles de sol et des marches d'escalier. Tout cela commence
+par de la feuille qui entre. Si elle n'entre pas, vos lignes s'arrêtent — et
+c'est la seule raison pour laquelle je vous écris.
+
+Je ne vous propose donc rien de ce que vous fabriquez : ni trempé, ni
+feuilleté, ni anti-feu, ni vitrage isolant. Uniquement le verre de base qui
+arrive avant :
+
+- Float clair et extra-clair : https://noxemgroup.com/en/float-glass/
+- Verre à couche à faible émissivité : https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Miroir sans cuivre ni plomb : https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Nous expédions en CONTENEURS COMPLETS, en caisses bois traitées IPPC/NIMP-15,
+en jumbo 3210 x 2550 mm ou à vos cotes, avec 23 à 25 tonnes de charge utile.
+Nous pouvons établir une offre pour la livraison à votre port de destination,
+sous réserve de validation de notre côté.
+
+Pour cela il me faut quatre renseignements : quelles épaisseurs et quelles
+couches vos lignes consomment le plus, quelles cotes de feuille passent sur
+vos installations, un volume annuel approximatif avec la fréquence de
+commande, et le port sur lequel vous voulez être chiffré, Anvers ou Rotterdam.
+
+Et si vos sources sont verrouillées et qu'il n'y a pas de place pour une
+origine de plus, dites-le-moi franchement, je n'insiste pas.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
