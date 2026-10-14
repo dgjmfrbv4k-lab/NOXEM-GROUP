@@ -7748,3 +7748,146 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 144. GLAS Scholz (Elbe) — `info@glas-scholz.de` — ALLEMAND — gros + ligne d'isolant
+
+**Négoce de verre plat ET production de vitrage isolant de marque**, plus façonnage. Am Park 1,
+38274 Elbe (Basse-Saxe). `info@` lue sur leur page de contact, domaine deux fois dans les URL.
+**Les deux meilleures classes du 13/10 réunies**, comme Steenebrügge.
+**⚠️ LEUR ISOLANT VA JUSQU'À 270 × 500 cm, ET CE FAIT EST TENU HORS DU MESSAGE — c'est l'interdit
+du §4 et il fallait le voir.** 2700 mm est **au-dessus** du ruban de 3210 par sa petite dimension ?
+Non : 2700 < 3210, donc **ça passe**. Mais 2700 × 5000 veut dire qu'ils achètent de la **très grande
+feuille**, et annoncer qu'on peut la fournir serait annoncer un **PLF que Kevin n'a pas validé** —
+c'est la question ouverte de `DECISIONS-AARON.md` section 4 ter, celle de Rákosy Üveg.
+**Donc le message reste sur le jumbo standard et les cotes à la demande, sans un mot sur le grand
+format**, et le fait part au dossier de Kevin : voici une maison allemande qui construit de l'isolant
+en 2700 × 5000 et qui achèterait du grand format si on savait en livrer.
+**⚠️ UN CONTACT ACHATS EXISTE SUR LEUR PAGE ET N'EST PAS EMPLOYÉ.** Leur page *Ansprechpartner*
+classe les interlocuteurs par fonction, **Einkauf compris**, mais la recherche n'en a pas rendu le
+nom — seulement l'exemple de la gérance, `msiewers@`. **Deux formats d'adresse se contredisent dans
+la même source** (prénom.nom et initiale+nom). **Déduire une adresse d'un schéma est l'interdit du
+§5, c'est le piège prospeo sur Lahey et wiza sur Saand.** Envoi sur `info@`, et le fait qu'un
+interlocuteur achats existe est noté **pour l'appel**, où il se demande en trente secondes.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Dies ist ein Lieferangebot und
+keine Preisanfrage - falls Sie nicht einkaufen, waere ich Ihnen dankbar, wenn
+Sie es an den Einkauf weitergeben.
+
+Sie fuehren Glasgrosshandel und fertigen daneben eigenes Markenisolierglas.
+Beides zusammen heisst: Tafelware muss hereinkommen, regelmaessig und in
+Mengen - einmal fuer das Lager, einmal fuer die Linie. Eine zweite gesicherte
+Herkunft ist in dieser Lage kein Luxus.
+
+Ich biete Ihnen nichts an, was Sie selbst fertigen - kein Isolierglas. Nur
+die Tafelware, die davor hereinkommt:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegel ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken und Beschichtungen Lager und
+Linie am meisten verbrauchen, welche Tafelmasse Ihren Anlagen passen, eine
+ungefaehre Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie
+gerechnet haben moechten, Hamburg, Bremerhaven oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 145. FLACHGLAS Sachsen (Grimma) — `post@flachglas-sachsen.de` — ALLEMAND — UN message pour DEUX sites
+
+**⚠️⚠️ TROISIÈME EFFONDREMENT DE GROUPE DE L'APRÈS-MIDI, ET SANS LUI DEUX MESSAGES PARTAIENT À LA
+MÊME MAISON.** Ma liste d'amorce portait `FLACHGLAS Sachsen GmbH` (Grimma) et `FLACHGLAS Sülzfeld
+GmbH` comme **deux membres distincts** du réseau. Vérification : **FLACHGLAS Sachsen a repris le
+site de Sülzfeld à Visio-Glas**, les deux relèvent du groupe **FLACHGLAS Partner**, et les deux
+Impressums nomment **les mêmes gérants, Stephan Witte et Benjamin Thalmann**. **Un seul compte,
+un seul message, à Grimma qui est l'acquéreur.** Sülzfeld ne reçoit rien.
+**C'est la troisième fois aujourd'hui** après Mosa/Greven et le groupe Flachglas Wernberg — et c'est
+la règle écrite il y a une heure qui paie : *devant un nom qui partage un mot avec un autre membre,
+chercher la holding avant d'ouvrir la fiche.*
+**`post@` lue sur leur propre Impressum**, domaine confirmé dans les URL.
+**⚠️ UN SERVICE ACHATS EXISTE, SANS NOM NI LIGNE PUBLIÉE :** leur page d'interlocuteurs liste
+*Geschäftsführung, Sekretariat, Produktion, Vertrieb, **Einkauf**, Auftragsbearbeitung, Buchhaltung*
+— mais **ne donne ni nom ni adresse pour l'Einkauf**. Rien à déduire, donc : message au service, et
+le fait noté pour l'appel. Même situation que Glas Scholz une heure plus tôt.
+**Gamme : isolant, verre de base, verre spécial** — donc ils achètent du substrat sur les deux sites.
+**Règle Prodiesa : l'isolant sort de l'offre.**
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+**⚠️ Réserve de source : plusieurs pages de leur site sont anciennes et la gérance y est donnée
+tantôt par l'un tantôt par l'autre. Aucun nom n'est employé.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Dies ist ein Lieferangebot und
+keine Preisanfrage - ich wuerde mich freuen, wenn Sie es an Ihren Einkauf
+weitergeben.
+
+Ich schreibe Ihnen fuer beide Standorte zusammen, Grimma und Suelzfeld, weil
+ich verstanden habe, dass sie zur selben Gruppe gehoeren. Sagen Sie mir bitte,
+falls getrennt eingekauft wird - dann richte ich mich danach.
+
+Sie fertigen Isolierglas und fuehren Basis- und Spezialglas. Das heisst fuer
+mich: Tafelware muss hereinkommen, regelmaessig und in Mengen, und Ihre Linien
+haengen daran. Eine zweite gesicherte Herkunft ist in dieser Lage kein Luxus.
+
+Ich biete Ihnen nichts an, was Sie selbst fertigen - kein Isolierglas. Nur
+die Tafelware, die davor hereinkommt:
+
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Spiegelrohware ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Ein Container laesst sich auf beide Standorte aufteilen.
+Wir koennen ein Angebot fuer die Lieferung in Ihren Bestimmungshafen
+erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken und Beschichtungen Ihre
+Linien am meisten verbrauchen, welche Tafelmasse dort passen, eine ungefaehre
+Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie gerechnet haben
+moechten, Hamburg, Bremerhaven oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
