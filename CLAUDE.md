@@ -137,6 +137,19 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   Bonna** dans une gamme → **verre creux ou verre de table, fiche fermée immédiatement**, sans même lire
   l'activité. Une marque est un fait vérifiable ; « import et distribution » n'en est pas un.
   **Et ajouter `glassware` à la liste des mots** : en anglais il ne désigne jamais le verre plat.
+  **NEUVIÈME CAS LE 14/10 À 17h34, EN PORTUGAIS, ET CELUI-LÀ SE JOUE SUR UNE SEULE LETTRE —
+  `VIDRARIA` N'EST PAS `VIDRAÇARIA`.** Un portail sectoriel donnait *Vidraria Oriental* pour une
+  importatrice et grossiste de verre au Brésil. Second temps fait sur le nom seul : **la société est
+  introuvable**, et ce que la recherche rend à la place dit pourquoi le nom sonnait juste —
+  **ViaGlobal, *importação de cristais, vidraria e móveis***, c'est-à-dire du cristal et des arts de
+  la table. **En portugais brésilien `vidraria` désigne la verrerie de laboratoire et de table ;
+  `vidraçaria` désigne le vitrier et le verre plat.** Une cédille et deux lettres séparent notre
+  métier du verre creux.
+  **À ajouter aux mots pièges, à côté de `garrafa` et `embalagem` : `vidraria` seul, `cristais`,
+  `vidraria de laboratório`.** Et le pendant protecteur, comme CSVM à Sfax : **`vidraçaria` n'est pas
+  un mot piège**, c'est le mot juste du métier — sept fiches brésiliennes du registre le portent.
+  **Aucune fiche créée**, et le verdict est consigné pour que le nom ne soit pas recherché deux fois.
+  **C'est la leçon Imporex une seconde fois : le portail a IDENTIFIÉ un nom, il ne l'a pas QUALIFIÉ.**
   **⚠️ ET UNE SECONDE FAMILLE DE MARQUES, AJOUTÉE LE 14/10 — ELLE NE DIT PAS *CREUX*, ELLE DIT *VERRE
   D'ART*, ET ELLE FERME TOUT AUSSI VITE.** Cas **GLS Spezial- & Farbglashandel** (Cologne), membre du
   **Flachglas MarkenKreis** — donc d'une fédération de verre **plat**, ce qui est précisément ce qui
@@ -230,6 +243,12 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   recherche d'importateur. **C'était l'unique résultat au monde pour le nom cherché**, ce qui
   illustre le coût réel de la règle : sur cette fiche-là, s'interdire le courtier revient à ne rien
   savoir du tout.
+  **ET DEUX DE PLUS LE 14/10 À 17h46, SUR UNE RECHERCHE AMÉRICAINE : `buzzfile.com` et `cience.com`**,
+  qui vendent des profils de sociétés avec leurs contacts commerciaux — `cience.com` annonce en clair
+  *access their contact details*. Même nature que `dnb.com` et ContactOut, donc même interdit et à
+  mettre dans `blocked_domains` d'emblée. **Ils occupaient à eux deux les deux premiers résultats**
+  sur le nom cherché, et la donnée qu'ils proposaient — un dirigeant nommé, un numéro par antenne —
+  est exactement ce que le §5 interdit de reprendre.
   **ET DEUX DE PLUS LE MÊME JOUR À 11h27, SUR DES RECHERCHES CANADIENNE ET AMÉRICAINE : `wiza.co` et
   `clodura.ai`**, qui vendent des contacts et des coordonnées de salariés par société. Même nature que
   ContactOut et SignalHire, donc même interdit. **Ce qu'ils proposaient sur Saand est exactement ce que

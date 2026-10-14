@@ -283,3 +283,44 @@ Sachsen** et **FLACHGLAS Suelzfeld** — ces deux dernieres n apparaissant PAS d
 holding, donc a priori independantes malgre le mot partage. **PG PROJEKT Glas** et **Glasbau
 Aschaffenburg** restent en doute de metier. Et la trentaine de noms non extraits se prendra par les
 mots du metier.
+
+---
+
+## Noms ECARTES le 14/10 a 17h23 sur le pivot export — a ne pas rechercher une seconde fois
+
+Quatre noms rendus par des portails sectoriels, verifies, et **aucune fiche creee**.
+Le verdict est ecrit ici parce qu'aucune fiche n'existe pour le porter, et la regle du 13/10
+veut qu'un verdict soit ecrit la ou le travail quotidien le relira.
+
+- **Euroglas S.A. de C.V. (Salvador)** — collision de nom levee **avant** creation, comme le §12
+  l'impose. Recherche faite : **aucune societe salvadorienne de ce nom n'existe**. Le seul Euroglas
+  latino-americain est le **mexicain de Guadalajara**, deja en `ECARTE — HORS PERIMETRE` depuis le
+  13/10 pour vitrage automobile et de carrosserie. Et il y a un troisieme Euroglas sans rapport,
+  la marque float de Glas Troesch. **Le mot ne dit rien, seule la societe compte.**
+
+- **Vidraria Oriental (Bresil)** — voir la neuvieme instance de la regle *verrerie* portee au §5 :
+  en portugais bresilien **`vidraria` est la verrerie de laboratoire et de table**, `vidraçaria` est
+  le vitrier. La societe est de surcroit introuvable hors du portail.
+
+- **Salem Distributing / Salem Fabrication Technologies Group (Winston-Salem, NC)** — rendue par
+  `glassonweb.com` dans le repertoire des *flat glass distributors*. Verifiee : elle distribue des
+  **machines, de l'outillage, des abrasifs et du service technique** pour la fabrication du verre
+  plat, de la pierre et de l'ophtalmique. Divisions Salem Fabrication Supplies et HHH Equipment.
+  **Elle vend AUX verriers, elle n'achete pas de feuille.** Hors gamme, comme les six distributeurs
+  de machines ecartes le 14/10 au matin. **C'est le piege du repertoire sectoriel : il melange le
+  metier et son outillage sous une meme rubrique.**
+
+- **All American Glass Distributors (Texas)** — rendue par le meme repertoire, donnee familiale
+  depuis 1972 avec des antennes a Fort Worth, Austin, Houston, McAllen et San Antonio. **Les deux
+  domaines qu'on lui attribue appartiennent a deux AUTRES societes** : `allamericanglass.co` est un
+  **vitrier de detail de Chicago** present dans l'Illinois depuis 2003, et `allamericanglass.com`
+  est **PGW Auto Glass**, grossiste de vitrage AUTOMOBILE a plus de cent agences. Le piege de
+  l'extension du 13/10 sur Lahey **et** la collision de nom, dans la meme fiche. Aucun domaine
+  propre n'est etabli pour la maison texane, et le vitrage automobile serait de toute facon hors
+  gamme. **A ne rouvrir que si une source nomme son domaine a elle.**
+
+**Et deux courtiers de donnees de plus, rencontres sur cette derniere recherche, a mettre dans
+`blocked_domains` d'emblee :** `buzzfile.com`, qui vend des profils de societes avec leurs contacts
+commerciaux, et `cience.com`, qui annonce en clair *access their contact details*. Meme nature que
+`dnb.com` et `ContactOut`, donc meme interdit au titre du §5.
+
