@@ -253,3 +253,33 @@ donc pas seulement apres la recherche, il se fait DANS la requete — et il cout
 
 **Les quelque 33 noms restants se prendront de la meme facon**, par les mots du metier plutot que
 par les villes : *Isolierglas*, *Veredelung*, *Zuschnitt*, *Lager*, *Haendler*, *Grosshandel*.
+
+
+### ⚠️ CORRECTIONS AU GISEMENT MARKENKREIS — verification de groupe faite le 14/10 a 16h08
+
+**Trois noms de la liste d amorce et un de la troisieme vague NE DOIVENT PAS ouvrir de fiche
+separee, et un cinquieme ne doit pas en ouvrir du tout.** La verification a coute deux appels et
+elle evite trois messages a une meme maison.
+
+| Nom | Verdict |
+|---|---|
+| **FLACHGLAS Wernberg GmbH** | tete d exploitation du groupe. **49 pour cent NSG**, 51 pour cent aux ~650 salaries. Prospect, pas concurrent — mais son fournisseur de feuille est vraisemblablement son actionnaire. **Porte de sortie obligatoire, probabilite faible.** |
+| **Flachglas Nord-Ost GmbH** (Osterburg) | **MEME GROUPE que Wernberg.** Pas de fiche propre, pas de message. |
+| **Flachglas (Schweiz) AG** | **DEJA AU REGISTRE et deja relancee le 13/10.** Blanchie : revendue le 12/09/2023 a HSBH Holding AG, donc independante de NSG. |
+| **Flachglas Wikon AG** et **Flachglas Thun AG** | **les deux societes d exploitation de la precedente.** Aucune fiche. |
+| **Les sites PILKINGTON** d Autriche et des Pays-Bas | **CONCURRENTS, NSG.** Aucune fiche, jamais. |
+
+**ET IL FAUT CORRIGER UNE AFFIRMATION QUE J AI ECRITE UNE HEURE PLUS TOT DANS CE MEME FICHIER :**
+j ai note que **Glas Fritz ouvrirait la SUISSE, pays jamais prospecte**. **C est faux.** Le registre
+porte deja `Flachglas (Schweiz) AG` a Wikon, contactee et relancee. **Un grep l aurait montre et je
+ne l ai pas fait avant d ecrire la phrase** — c est la faute du paragraphe 13 sur le chiffre tape au
+lieu d etre substitue, prise sur un FAIT au lieu d un nombre. Glas Fritz reste une cible, et elle
+AJOUTE a la Suisse au lieu de l ouvrir.
+
+**CE QUI RESTE VRAIMENT A TRAVAILLER DANS CE GISEMENT**, apres ces retraits :
+**Sollingglas Bau und Veredelungs** (faconnage de verre plat, isolant a partir de 8 mm), **Glas
+Scholz** (Elbe), **Glaszentrum Magdeburg**, **Glas Fritz** (Loerrach et Suisse), **FLACHGLAS
+Sachsen** et **FLACHGLAS Suelzfeld** — ces deux dernieres n apparaissant PAS dans le perimetre de la
+holding, donc a priori independantes malgre le mot partage. **PG PROJEKT Glas** et **Glasbau
+Aschaffenburg** restent en doute de metier. Et la trentaine de noms non extraits se prendra par les
+mots du metier.

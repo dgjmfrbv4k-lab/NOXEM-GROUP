@@ -2161,7 +2161,41 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
     24 heures : **Carl Abel** à Euskirchen et **Glastechnik Engels** à Essen font de la verrière de
     terrasse, de la porte, de la menuiserie et de la métallerie. **C'est la classe verrier + pose, à
     ZÉRO pour cent sur onze fiches.** Or ce sont les **deux plus proches de l'entrepôt**, 180 et 270 km.
-  **CONDUITE, ET ELLE EST L'INVERSE DE L'INTUITION : L'APPARTENANCE À UNE FÉDÉRATION DE VERRE PLAT N'EST
+    **⚠️⚠️ TROISIÈME AXE, TROUVÉ UNE HEURE PLUS TARD, ET C'EST LE PLUS COÛTEUX DES TROIS PARCE QU'IL
+  FABRIQUE DES DOUBLONS ET QU'IL TOUCHE UN CONCURRENT : LA FÉDÉRATION N'EST PAS NEUTRE, ET ELLE LISTE
+  DES SOCIÉTÉS D'UN MÊME GROUPE SOUS DES NOMS SÉPARÉS.**
+  · **Elle liste des filiales de PILKINGTON** — sites autrichiens de Brunn am Gebirge, Bischofshofen
+    et Innsbruck, et néerlandais d'Amsterdam, Rotterdam, Enschede et Heerenveen. **Pilkington est NSG,
+    donc concurrent par nature au titre du §6.** Aucune fiche n'a été ouverte, le contrôle ayant été
+    fait avant — mais un relevé de noms pris sans vérifier en aurait ouvert sept.
+  · **Elle liste SÉPARÉMENT les sociétés d'un même groupe.** `Flachglas Wernberg`, `Flachglas Nord-Ost`
+    et `Flachglas (Schweiz)` y figurent comme trois membres : ce sont **trois sociétés de la même
+    holding**, la *Flachglas Wernberg Beteiligungs-GmbH* (HRB 2626, Amberg), avec *Glashandelsgesellschaft
+    Profi* et *Profi Glasbiege*. **Trois fiches, trois messages, une seule maison : la faute Shibaam
+    toute prête.**
+  · **Et la fédération elle-même est une société du groupe.** Une source encyclopédique donne
+    *Flachglas MarkenKreis GmbH* pour une filiale de Flachglas Wernberg GmbH — **laquelle est détenue à
+    49 % par le NSG Group**, les 51 % restants par ses ~650 salariés. ⚠️ **Cela contredit ce qu'une
+    session antérieure avait noté** (le réseau détenu à 100 % par la coopérative *Flachglas eG*) : je
+    consigne les deux versions et je n'en tranche aucune, faute d'avoir lu le registre du commerce.
+  **CE QUE CELA NE VEUT PAS DIRE, parce que la conclusion facile serait fausse :** une participation
+  **minoritaire** de 49 % avec une majorité salariée n'est **pas** une filiale, donc Flachglas Wernberg
+  n'est pas un concurrent au sens où Saint-Gobain Egypt l'est. **C'est un prospect** — mais dont le
+  fournisseur de feuille est vraisemblablement son propre actionnaire, donc la porte de sortie du §9
+  est obligatoire et la probabilité faible. **Un seul compte pour les trois.**
+  **ET LE CAS FAVORABLE DU MÊME CONTRÔLE, qui dit pourquoi il fallait vérifier et non supposer :**
+  `Flachglas (Schweiz) AG` était **déjà au registre et déjà relancée le 13/10**, et la chaîne
+  Pilkington → Flachglas Wernberg donnait toutes les raisons de craindre une faute de ciblage.
+  **Vérification faite, elle est blanchie :** les sociétés suisses ont été **revendues le 12/09/2023**
+  à *HSBH Holding AG* (Meggen), donc indépendantes de NSG. **Et elle couvre à elle seule *Flachglas
+  Wikon AG* et *Flachglas Thun AG*, qui sont ses deux sociétés d'exploitation** — deux noms de plus
+  qui n'ouvrent pas de fiche.
+  **LA CONDUITE QUI EN DÉCOULE, et elle vaut pour tout annuaire de fédération : avant d'ouvrir une
+  fiche sur un nom qui PARTAGE UN MOT avec un autre membre, chercher la holding.** Ici le mot était
+  `Flachglas` — que le §6 avait pourtant déclaré neutre, parce que c'est le nom du réseau. **Il l'est
+  pour le MÉTIER et il ne l'est pas pour le GROUPE**, et c'est une distinction qu'il fallait faire.
+
+**CONDUITE, ET ELLE EST L'INVERSE DE L'INTUITION : L'APPARTENANCE À UNE FÉDÉRATION DE VERRE PLAT N'EST
   PAS UN SIGNAL DE CLASSE, ET LA PROXIMITÉ NON PLUS.** Le tri par métier du §6 passe avant les deux. Les
   deux fiches sont créées, adressées, et **n'ont rien reçu** — elles relèvent du camion plutôt que du
   conteneur, ce que le §4 dit déjà par l'autre bout : un poseur achète coupé au coup par coup et n'a ni

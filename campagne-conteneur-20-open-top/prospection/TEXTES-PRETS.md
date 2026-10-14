@@ -7542,3 +7542,73 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 141. Glas-Lerchenmüller (Dieburg) — `info@glas-lerchenmueller.de` — ALLEMAND — gros de verre plat
+
+**LA MEILLEURE DESCRIPTION DE STOCK DE TOUT LE RELEVÉ ALLEMAND :** le réseau le donne pour un gros
+**traditionnel** tenant **environ cinq cents articles en stock** — float, verre coulé, trempé,
+feuilleté et miroirs. Un stock de cette profondeur est exactement ce qu'un conteneur complet
+réapprovisionne. Maison de **1977**, Lagerstraße 47 à Dieburg, plus une agence à Heilbronn.
+`info@` lue sur leur propre site, domaine deux fois dans les URL de résultats.
+**DEUX SITES EN ALLEMAGNE → UN SEUL COMPTE** au critère du bureau d'achat : même marché douanier,
+même port, le siège décide. Dieburg seul reçoit le message.
+**⚠️ RÈGLE PRODIESA, ET LA NUANCE EST L'INVERSE DE GLASZENTRUM DORTMUND — c'est elle qui justifie
+d'offrir le miroir ici et pas là-bas.** Dortmund **FABRIQUE** le miroir, donc le miroir sortait de
+l'offre. Lerchenmüller le tient **EN STOCK**, donc il l'**ACHÈTE** : le miroir **entre** dans
+l'offre, et c'est notre référence la plus différenciante. Ce qu'ils font eux-mêmes — construction
+verrière et verre profilé — en sort.
+**FOURNISSEUR DE SUBSTRAT ÉTABLI SANS UN APPEL DE PLUS**, comme pour Carl Abel : Saint-Gobain Glass
+Deutschland leur consacre une page de son localisateur de partenaires. Lien de **fourniture**, pas
+de capital — la raison sociale ne porte aucun fragment de marque.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Allemagne. Aucun argument douanier.**
+
+```
+Sehr geehrte Damen und Herren,
+
+mein Name ist Aaron Harfi, ich leite NOXEM GROUP, Lieferant und Exporteur von
+Flachglas mit Sitz bei Lyon in Frankreich. Dies ist ein Lieferangebot und
+keine Preisanfrage - falls Sie nicht einkaufen, waere ich Ihnen dankbar, wenn
+Sie es an den Einkauf weitergeben.
+
+Sie fuehren seit 1977 Glasgrosshandel und halten rund fuenfhundert Artikel am
+Lager. Genau deshalb schreibe ich Ihnen: ein Lager dieser Tiefe lebt davon,
+dass nachgefuellt wird, und ein Komplettcontainer ist dafuer die natuerliche
+Einheit. Eine zweite gesicherte Herkunft ist in dieser Lage kein Luxus.
+
+Ich biete Ihnen nichts an, was Sie selbst fertigen - keinen Glasbau, kein
+Profilglas. Nur Lagerware:
+
+- Klarfloat und Weissglas: https://noxemgroup.com/en/float-glass/
+- Beschichtetes Waermedaemmglas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegel ohne Kupfer und ohne Blei:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Den Spiegel nenne ich bewusst, weil Sie ihn am Lager fuehren und also
+zukaufen. Unsere Ausfuehrung kommt ohne Kupfer und ohne Blei aus.
+
+Unsere Internetseite gibt es nur auf Franzoesisch und Englisch. Jede Referenz
+erlaeutere ich Ihnen gern auf Deutsch.
+
+Wir verschiffen in KOMPLETTEN CONTAINERN, in IPPC/ISPM-15 behandelten
+Holzkisten, in Jumbotafeln von 3210 x 2550 mm oder in Ihren Massen, mit 23 bis
+25 Tonnen Nutzlast. Wir koennen ein Angebot fuer die Lieferung in Ihren
+Bestimmungshafen erstellen, vorbehaltlich einer Bestaetigung unsererseits.
+
+Dafuer brauche ich vier Angaben: welche Staerken Ihr Lager am schnellsten
+dreht, welche Tafelmasse Ihrem Lager und Ihren Anlagen passen, eine
+ungefaehre Jahresmenge mit der Bestellhaeufigkeit, und welchen Hafen Sie
+gerechnet haben moechten, Antwerpen oder Rotterdam.
+
+Und wenn Ihre Bezugsquellen fest stehen und kein Platz fuer eine weitere
+Herkunft ist, sagen Sie es mir bitte offen, dann hake ich nicht nach.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
