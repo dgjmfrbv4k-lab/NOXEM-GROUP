@@ -67,6 +67,46 @@ PRODUCTEURS = {
     'États-Unis': 'Vitro Flat Glass et Vitro Meadville, petitionnaires de la mesure de 2026, plus '
                   'Guardian, PPG et Fuyao Glass America. L argument americain est DOUANIER et non '
                   'celui de l absence d offre',
+    # AJOUTS DU 14/10 — L EUROPE N AVAIT AUCUNE ENTREE, ET C ETAIT LE TROU LE PLUS BEANT
+    # DU DICTIONNAIRE : 24 fiches allemandes, 15 belges, 9 neerlandaises, 1 suisse et 1
+    # luxembourgeoise ont ete ouvertes ou travaillees ce jour-la, et le garde-fou ne
+    # pouvait rien dire d aucune. Le paragraphe 6 ferme l Europe a la NOUVELLE prospection
+    # mais autorise les relances, et ce lot-ci a ete ouvert sur consigne expresse de Kevin
+    # au titre de la proximite de l entrepot : les fiches existent donc, et l argument peut
+    # y etre employe par inadvertance.
+    #
+    # PRINCIPE RETENU, ET IL EST ASYMETRIQUE : une entree de TROP coute un argument qu on
+    # s interdit a tort ; une entree MANQUANTE coute un message faux a un acheteur qui sait
+    # mieux que nous ce qui se produit chez lui. On penche donc vers l inclusion — en disant,
+    # pour chaque pays, ce qui est ETABLI et ce qui ne l est pas, afin que le garde-fou n ait
+    # pas l air de crier au loup. C est la lecon du 09/10 sur Klingshield et celle du 12/10
+    # sur les huit faux positifs.
+    'Luxembourg': 'GUARDIAN y produit du float, sites de Bascharage, Dudelange et Grevenmacher. '
+                  'Trouve le 14/10 en ouvrant le marche luxembourgeois, qui ne comptait qu une '
+                  'fiche. Guardian est sur la liste des concurrents du paragraphe 6 depuis le '
+                  'debut, mais le lien avec le Luxembourg n y etait pas fait : le plus petit pays '
+                  'du releve abrite l un des plus gros producteurs float d Europe. '
+                  'Reserve de source, releve sectoriel et non piece de dossier.',
+    'Belgique': 'AGC Glass Europe. Le paragraphe 6 note lui-meme que le site de Moustier a '
+                'Jemeppe-sur-Sambre, RUE DE LA GLACERIE, est celui ou Glaverbel a monte en 1965 '
+                'LA PREMIERE LIGNE FLOAT D EUROPE CONTINENTALE. Le fait etait dans le mandat '
+                'depuis le matin du 14/10 sans que le code le porte. Trois fiches belges sont '
+                'deja en NE PAS DEMARCHER pour appartenance a AGC ou a Saint-Gobain, ce qui le '
+                'confirme par l autre bout.',
+    'Allemagne': 'Les quatre producteurs float mondiaux de la liste du paragraphe 6, Saint-Gobain, '
+                 'NSG-Pilkington, Guardian et AGC, y ont des operations, et Interpane y est un '
+                 'acteur etabli. RESERVE HONNETE : aucune ligne float allemande n a ete verifiee '
+                 'sur source de premier rang dans cette session. Entree tenue par PRUDENCE au titre '
+                 'du principe asymetrique ci-dessus, et les treize messages allemands du 14/10 '
+                 'evitaient deja l argument par consigne.',
+    'Pays-Bas': 'NON ETABLI, et l entree sert justement a le dire. Aucune ligne float neerlandaise '
+                'n a ete cherchee ni trouvee, et Pilkington Nederland y a des sites dont la nature, '
+                'production ou transformation, n est pas connue. A VERIFIER avant d employer '
+                'l argument, jamais a supposer. Neuf fiches concernees.',
+    'Suisse': 'NON ETABLI, meme traitement que les Pays-Bas. Flachglas Schweiz y transforme et ne '
+              'produit pas de float a notre connaissance, mais l absence de trace n est pas une '
+              'preuve d absence, c est la reserve de methode du paragraphe 6 sur le Perou. '
+              'A VERIFIER avant tout usage.',
     # ⚠️ NE PAS AJOUTER le Canada, l Australie ni la Nouvelle-Zelande : l absence de ligne float y
     # est VRAIE et c est precisement l argument de la campagne. Le Canada est le seul pays du G20
     # sans production nationale, et la derniere ligne d Australasie a ferme en 2025. Les inscrire
