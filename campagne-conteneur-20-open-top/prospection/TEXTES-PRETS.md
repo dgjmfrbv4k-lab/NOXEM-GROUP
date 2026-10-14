@@ -6974,3 +6974,80 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 133. Vandaglas b.v. (Arnhem, Emmen, Amsterdam, Almelo, Swalmen) — `inkoop@vandaglas.com` — NÉERLANDAIS — verrier
+
+**DEUX CHOSES EN FONT LA MEILLEURE CIBLE DU BLOC NÉERLANDAIS, ET LA SECONDE EST UNE PREMIÈRE POUR
+LA CAMPAGNE.**
+1. **Ils se disent le plus grand producteur INDÉPENDANT de vitrage isolant des Pays-Bas.** Le mot
+   *indépendant* est exactement le critère dégagé le 14/10 au §6 — en Europe les gros appartiennent
+   aux producteurs float, et l'indépendant est l'exception qu'on cherche.
+2. **`inkoop@` est une boîte d'ACHATS dédiée, publiée sur leur propre page de contact.** C'est la
+   première fois que la campagne trouve une adresse d'achats nommée comme telle. Toutes les autres
+   ont été des `info@`, des `sales@` ou des boîtes d'agence. Le §9 ouvre chaque message en demandant
+   qu'on le transmette à l'acheteur : ici, ce n'est pas nécessaire.
+**⚠️ RÈGLE PRODIESA, ET ELLE EST PLUS SERRÉE QUE D'HABITUDE — c'est la leçon du 12/10 appliquée.**
+Ils produisent le **vitrage isolant** (Emmen), le **feuilleté** (Almelo) **et les MIROIRS**
+(Swalmen). **Donc notre miroir sans cuivre ni plomb, qui est le produit le plus différenciant de la
+gamme, NE LEUR EST PAS PROPOSÉ** — ce serait exactement la faute Prodiesa, offrir à un fabricant de
+miroir le produit qu'il fabrique. **L'offre se limite au float clair et extra-clair et au low-E**,
+et l'extra-clair est précisément ce qu'une ligne d'argenture consomme : c'est dit en une ligne,
+sans proposer le miroir fini.
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale aux Pays-Bas. Aucun argument douanier,
+nous sommes dans l'Union.**
+**⚠️ Réserves de source à tenir :** leur page de contact a environ quatre mois, et ses coordonnées
+sont incohérentes — la succursale d'Almelo y porte l'adresse et le numéro de Swalmen, et le numéro
+d'Amsterdam a un chiffre de trop. **Seule `inkoop@` est employée, et elle est cohérente.**
+
+```
+Goedendag,
+
+Dit is een leveringsaanbod en geen prijsaanvraag. Ik schrijf rechtstreeks naar
+uw inkoopadres omdat het precies daarover gaat.
+
+Mijn naam is Aaron Harfi en ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas met zetel bij Lyon in Frankrijk.
+
+Ik schrijf u om een woord dat u zelf gebruikt: ONAFHANKELIJK. U bent de
+grootste onafhankelijke producent van isolatieglas van Nederland, en dat woord
+is bij ons het hele punt. Een huis dat aan een glasproducent vastzit kan er
+geen tweede herkomst bij nemen. Een onafhankelijk huis kan dat wel, en daar
+dient de onafhankelijkheid ook voor.
+
+Ik bied u niets aan van wat u zelf maakt. Geen isolatieglas, geen gelaagd
+glas, en geen spiegels - die maakt u in Swalmen. Alleen het blad dat er
+daarvoor in gaat:
+
+- laagemissief glas, bij een isolatieglaslijn het eigenlijke onderwerp:
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- blank en extra blank floatglas: https://noxemgroup.com/en/float-glass/
+
+Extra blank float is overigens ook het blad waar een verzilveringslijn om
+vraagt, mocht dat bij u spelen.
+
+Onze site bestaat enkel in het Frans en het Engels. Elke referentie leg ik u
+graag in het Nederlands uit.
+
+Wij verschepen per VOLLEDIGE CONTAINER, in met ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Wij kunnen een aanbod opmaken voor levering in uw
+bestemmingshaven, onder voorbehoud van validatie van onze kant. Een container
+die over Emmen, Almelo en Arnhem wordt verdeeld, blijft een container.
+
+Om er een op te maken heb ik vier dingen nodig: welke coatings en diktes uw
+lijnen het meest verbruiken, welke bladmaten daarbij passen, een ruwe
+jaarhoeveelheid, en of Rotterdam of Amsterdam voor u de juiste haven is.
+
+En ligt uw bevoorrading vast en is er geen ruimte voor een tweede herkomst,
+zeg het dan gerust ronduit, dan dring ik niet aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
