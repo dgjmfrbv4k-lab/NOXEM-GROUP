@@ -6053,3 +6053,127 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 119. Vidrios & Vitrolit (Colombie, Bogotá) — `c.exterior@vitrolit.com` — ESPAGNOL — négoce
+
+**L'adresse est choisie délibérément :** `c.exterior@` est le service de **comercio exterior**, celui
+qui achète à l'étranger, là où `ventas@` est celui qui vend. Les deux satisfont le §5, le domaine
+étant celui du site. **Si elle rebondit, bascule sur `ventas@` sans troisième essai.**
+**Angle miroir**, le plus fort de Colombie. **Le §6 autorise expressément l'argument antidumping en
+Colombie sur le miroir** — Résolution 284 du MinCIT, miroirs chinois sans cadre, sous-position
+7009.91.00.00 — avec la **formulation prudente que le §6 impose** : la mesure
+*figure parmi les droits en vigueur publiés par le MinCIT* — jamais « le recours a été rejeté », le
+texte de la Résolution 123 n'ayant pas été lu. **Et jamais l'absence de production locale**, Vidrio
+Andino produit à Soacha, à vingt kilomètres de leurs bureaux.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. La dirijo a
+comercio exterior porque es de importacion que se trata.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo porque ustedes se declaran importadores y distribuidores desde
+1995, y porque su gama va del incoloro al espejo pasando por el reflectivo. Con
+una casa que ya importa no hay nada que explicar sobre contenedores: lo que
+cambia de un ano a otro es la lista de origenes que vale la pena comparar.
+
+Sobre el espejo hay un hecho publico que les concierne directamente, y lo digo
+como hecho y no como promesa. El Ministerio de Comercio publica entre sus
+derechos antidumping vigentes una medida sobre los espejos sin enmarcar
+originarios de China, subpartida 7009.91.00.00, en forma de un valor de
+referencia FOB por kilo por debajo del cual se cobra la diferencia. No les
+hablo de lo que cuesta nuestro vidrio: les digo que la comparacion entre
+origenes cambio, y que conviene tener una segunda.
+
+Lo que podemos embarcarles:
+
+- espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido. Podemos establecer una oferta para la
+entrega en su puerto de destino, bajo reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: que referencias y espesores importan en
+volumen, las medidas que les sirven, cuanto y con que frecuencia, y su puerto,
+Cartagena, Barranquilla o Buenaventura.
+
+Y si sus origenes actuales les cubren, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 120. Linde Vidros (Brésil, Rio Negro — Paraná) — `linde@lindevidros.com.br` — PORTUGAIS — négoce et verrier
+
+**Double classe :** transformatrice industrielle depuis 1966 **et** distributrice de *chapas de tous
+types* depuis 1991, en servant d'autres régions. **Piège de nom levé avant d'écrire** — LINDE est
+aussi un géant mondial des gaz industriels ; leur raison sociale est *Vidraçaria Linde Ltda*.
+**Trois interdits brésiliens du §6 tenus :** jamais l'absence de production locale (quatre
+producteurs), l'argument est **douanier et seulement douanier** — le §6 autorise expressément
+l'antidumping au Brésil, Gecex 833 contre la Malaisie, le Pakistan et la Turquie, l'Europe non visée
+— et **il ne porte que sur le float clair de 1,8 à 20 mm**, la même résolution excluant le miroir,
+le réfléchissant et le teinté.
+
+```
+Bom dia,
+
+Chamo-me Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de vidro
+plano perto de Lyon, na Franca. Se nao for o senhor quem compra o vidro,
+agradeco que faca chegar esta mensagem a quem compra.
+
+Escrevo-vos por causa de uma data que consta do vosso proprio site: 1991,
+quando a unidade de Rio Negro passou a distribuir chaparia de todos os tipos
+para outras regioes. Transformar e uma coisa, sustentar chaparia em estoque
+para terceiros e outra, e a segunda compra-se por volume e com antecedencia.
+
+Nao venho falar do que ja compram bem no mercado interno. Venho falar de uma
+segunda origem, e de duas referencias que uma linha nacional raramente mantem
+em estoque:
+
+- vidro float extra-claro: https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+As paginas estao em ingles, o nosso site existe apenas em frances e ingles.
+
+Sobre o float incolor de 1,8 a 20 mm ha um facto aduaneiro que mudou a
+comparacao, e digo-o como facto e nao como promessa: a Resolucao Gecex 833
+aplica direito antidumping as origens da Malasia, do Paquistao e da Turquia, e
+a Uniao Europeia nao e visada por essa medida. Nao estou a falar do que custa o
+nosso vidro, estou a dizer que a conta nao e a mesma de ha dois anos.
+
+Trabalhamos em conteineres completos, em caixas de madeira tratada conforme a
+NIMF-15, em chapa jumbo ou em medidas sob encomenda. Podemos estabelecer uma
+oferta para entrega no vosso porto de destino, sob reserva de validacao da
+nossa parte.
+
+Para isso preciso de quatro coisas: que referencias e espessuras giram mais,
+as medidas de chapa que vos servem, que quantidade por embarque e com que
+frequencia, e o vosso porto, Itajai, Paranagua ou Sao Francisco do Sul.
+
+E se o abastecimento actual vos cobre, digam sem rodeios e nao insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

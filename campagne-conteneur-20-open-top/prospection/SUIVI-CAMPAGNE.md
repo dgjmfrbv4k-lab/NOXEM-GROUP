@@ -7103,3 +7103,76 @@ Decouverte large sans resultat neuf exploitable sur : **Nouvelle-Caledonie**, **
 **Caraibe orientale** (tous les noms deja au registre). **Lot ghaneen abandonne apres une fiche** :
 le meilleur nom du vivier, Daoris Glass, s'est revele etre un menuisier aluminium sans coordonnees
 locales — si le meilleur rend cela, les onze autres ne valent pas deux appels chacun.
+
+
+---
+
+## MERCREDI 14/10/2026, 11h36 — SECONDE MOITIE DE MATINEE : LE CHANGEMENT DE SOURCE A ROUVERT CINQ MARCHES
+
+**Registre : 1199 fiches. 19 premiers contacts en file pour aujourd'hui a 14h, plus 19 premieres
+relances des Ameriques. 3 premiers contacts deja prets pour demain.**
+
+### LE RESULTAT DE METHODE DU JOUR, ET IL CORRIGE LA MESURE DU 13/10
+
+Le 13/10 declarait la decouverte **saturee** sur nos meilleurs marches. **C'est la METHODE qui etait
+saturee, pas le marche** — verifie sur les trois marches concernes, en changeant de source :
+
+| Marche | Recherche large, 13/10 | Portail sectoriel, 14/10 |
+|---|---|---|
+| Etats-Unis | 15 noms sur 19 deja presents | **3 absents sur 4** |
+| Canada | 8 sur 9 deja presents | **6 absents sur 7** |
+| Australie et NZ | 11 sur 13 deja presents | **3 absents sur 5** |
+
+**Un moteur classe par popularite, un annuaire sectoriel classe par appartenance au metier.** Le
+second contient donc les maisons qui ne soignent pas leur referencement, souvent les plus
+industrielles : **G.James est le plus gros groupe verre-aluminium du Queensland et la recherche
+large ne l'avait jamais rendu.**
+
+### CINQ MARCHES OUVERTS PAR CE SEUL DEPLACEMENT
+
+· **Argentine** — le trou le plus net du registre, 3 fiches pour 46 millions d'habitants. **5 fiches
+  creees, 3 pretes a partir.** La Casa de los Cristales se declare elle-meme importatrice de verres
+  speciaux : elle importe deja, et exactement ce que le producteur local ne fait pas.
+· **Chili** — le second trou, 6 fiches pour 20 millions. **10 noms rendus, tous absents.** GlassPanel
+  et Vetrosystems creees, Patagonia Glass sortie de `A QUALIFIER` sans coordonnees.
+· **Colombie** — **14 noms rendus, TOUS absents**, le plus gros releve de la journee. Vitrolit creee,
+  les 13 autres consignes avec leur ordre de reprise.
+· **Guatemala** — 7 fiches pour 18 millions. Industrial Mercantil San Simon, qui se dit **le plus
+  grand fournisseur de verre du pays**, et DISALVI.
+· **Mexique, Canada, Etats-Unis, Australie, Bresil** — Vitromatic (20 succursales, verres nationaux
+  ET importes), Saand (faconneur **et** distributeur), Glenny Glass (distributeur **independant**),
+  G.James, Linde Vidros.
+
+### ET LA CONTREPARTIE, QUI EST UNE REGLE ET NON UNE RESERVE
+
+**Un portail IDENTIFIE, il ne QUALIFIE pas** — leçon IMPOREX. Le meme portail donnait cette maison de
+Montevideo pour importatrice de **vidrio plano** ; son propre site vend des **recipients, de la
+verrerie et des arts de la table**. **Aucune fiche creee.** Chaque nom de la journee a ete verifie
+sur le site de la societe, et c'est ainsi qu'ont ete ecartes **six distributeurs de machines**, un
+**verrier creux**, un importateur de **silicones** et un de **quincaillerie**.
+
+### TROIS PIEGES DE NOM LEVES AVANT CREATION, DONC UN MOTIF ET NON DES ACCIDENTS
+
+**Vitromatic** est aussi une coentreprise d'electromenager liee a Vitro · **LINDE** est aussi un
+geant mondial des gaz industriels · **VILUX** existe au Mexique **et** au Paraguay, cette derniere
+deja contactee le 09/10. Et **DISALVI** au Guatemala n'est pas **DISALVID** en Equateur, deja
+relancee : leurs domaines different d'une lettre.
+
+### DEUX FAUTES DE MA PART, TROUVEES PAR LES GARDE-FOUS ET NON PAR MOI
+
+· **Le texte 117 employait le mot *prices***, dans une tournure qui **niait** pourtant faire une
+  annonce de prix. Le controleur a refuse quand meme, et il a raison : l'interdit du §5 est absolu,
+  et « le fond est conforme » n'est pas une defense — c'est la lecon des reponses a John du 08/10 et
+  du paragraphe STADIP du 12/10, prise par un troisieme bout.
+· **J'avais porte le numero de Patagonia Glass au champ telephone de GlassPanel**, deux fiches
+  chiliennes creees dans le meme lot. La note disait « a confirmer », ce qui etait honnete et ne
+  corrigeait rien. **`detecte-doublons.py` les a reunies sur les neuf derniers chiffres dans les
+  minutes qui ont suivi.** Lecon portee au mandat : ce balayage n'est pas seulement un controle de
+  registre, **c'est un controle de SAISIE**, et il se passe apres chaque lot de creations.
+
+### TROIS COURTIERS DE PLUS AU §5
+
+`emis.com`, `wiza.co` et `clodura.ai`, plus `datamyne.com` le matin. Les deux derniers proposaient
+sur Saand un **schema** d'adresse en prenom-point-nom : **une adresse deduite d'un schema est une
+adresse inventee**, quel que soit le serieux apparent de l'outil. Deuxieme fois en deux jours apres
+`prospeo.io` sur Lahey Glass.
