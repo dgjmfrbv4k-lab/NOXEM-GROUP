@@ -7176,3 +7176,33 @@ relancee : leurs domaines different d'une lettre.
 sur Saand un **schema** d'adresse en prenom-point-nom : **une adresse deduite d'un schema est une
 adresse inventee**, quel que soit le serieux apparent de l'outil. Deuxieme fois en deux jours apres
 `prospeo.io` sur Lahey Glass.
+
+
+---
+
+## MERCREDI 14/10/2026, 11h48 — CHIFFRES DE LA MATINEE, SUBSTITUES ET NON TAPES
+
+| | |
+|---|---|
+| Registre | **1204 fiches** |
+| Fiches creees aujourd'hui | **31**, comptees par git contre le premier commit du jour |
+| Fiches a appeler | **172**, toutes avec un numero |
+| Societes joignables au SEUL telephone | **190** |
+| Textes rediges et controles | **123**, zero defaut au controleur |
+| En file pour 13h30 | 19 premiers contacts + 19 relances |
+| Prets pour demain | 6 premiers contacts + 41 relances triees par metier |
+
+**ET LE CHIFFRE QUI COMPTE N'EST AUCUN DE CEUX-LA.** Ce sont **5 demandes de prix ouvertes**, un
+devis envoye, une negociation, et **172 numeros que personne n'a jamais appeles**. La matinee a
+produit des fiches ; **ce qui manque n'est plus l'adresse, c'est le temps d'appel**, et c'est le
+point 1 du tableau de bord de `DECISIONS-AARON.md`.
+
+### DERNIERE MESURE DE LA MATINEE, ET ELLE NUANCE LE RESULTAT DE METHODE
+
+Le changement de source a rouvert cinq marches — mais **pas partout**. Sur la **Caraibe
+anglophone**, Jamaique et Barbade, le portail a rendu **8 noms sur 9 deja au registre**, exactement
+comme la recherche large. **La saturation y est donc reelle et non un artefact de methode.**
+**La difference tient a la taille du marche** : dans une petite economie, les deux sources
+convergent parce que le marche entier tient en une page. Le deplacement de source paie sur les
+grands marches, ou la couche referencee masque une couche profonde ; il ne cree rien la ou il n'y a
+rien. **A savoir avant de depenser un lot d'appels de recherche sur une ile.**
