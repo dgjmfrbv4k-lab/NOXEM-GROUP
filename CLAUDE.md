@@ -2113,6 +2113,46 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   **Conduite : sur tout prospect distributeur, chercher cette page dans le même second temps**, avec les mots
   *fournisseurs*, *proveedores*, *fornecedores*, *suppliers*, *marcas*, *nuestras marcas*. Zéro appel
   supplémentaire, puisque la recherche est déjà restreinte à son domaine.
+  **⚠️ ET MIEUX ENCORE QU'UNE PAGE FOURNISSEURS, PARCE QUE CELLE-LÀ EST OBLIGATOIRE : LE CERTIFICAT DE
+  PERFORMANCE. Trouvé le 14/10 à 15h40 sur Glaswerke Wolff + Meier.** Leur second temps a rendu, parmi
+  leurs propres pages, un PDF nommé **`SGG-Climaplus-UltraN-4-16air-4.pdf`** — c'est-à-dire que leur
+  substrat est du **Saint-Gobain**, dit par leur propre document et non par une page de marketing.
+  **POURQUOI C'EST UNE MEILLEURE SOURCE QUE LA PAGE FOURNISSEURS, et la raison est juridique et non
+  commerciale :** une page *nos fournisseurs* est un **choix** de communication, donc elle existe chez
+  certains et pas chez d'autres. Un **certificat ou une déclaration de performance nomme la composition
+  du vitrage**, marque du verre comprise, et **tout fabricant de vitrage isolant en publie** — le
+  marquage CE et la norme produit l'imposent. **Donc la donnée est là chez TOUS les isolateurs, pas
+  seulement chez ceux qui veulent bien la dire.**
+  **Mots à ajouter au même second temps, sans un appel de plus :** *Zertifikat*, *Leistungserklärung*,
+  *declaration of performance*, *DoP*, *certificat*, *fiche technique*, et les marques elles-mêmes —
+  `Climaplus`, `Planitherm`, `Stadip`, `SGG`, `Thermobel`, `Ipasol`, `Stopray`, `Pilkington`, `Guardian`.
+  **⚠️ ET LA LECTURE QU'IL FAUT EN FAIRE EST CELLE DE LA RÈGLE DU FRAGMENT DE MARQUE PRISE À L'ENVERS :**
+  une marque de producteur float dans un **certificat** dit que la maison **achète** chez lui, donc c'est
+  un **prospect** et on sait contre qui l'on se place ; la même marque dans la **raison sociale** dit
+  qu'elle lui **appartient**, donc c'est un concurrent. *Glaverpane* se ferme, *Wolff + Meier* s'écrit.
+  **Le même mot, deux champs, deux conclusions opposées — c'est l'endroit où il se trouve qui décide.**
+
+  **⚠️⚠️ UNE FÉDÉRATION PROFESSIONNELLE IDENTIFIE, ELLE NE QUALIFIE PAS — ET LE 14/10 L'A MONTRÉ SUR LES
+  DEUX AXES LE MÊME JOUR, CE QUI EN FAIT UNE RÈGLE ET NON UNE REDITE DE LA LEÇON IMPOREX.** Le §6 range
+  l'annuaire de fédération parmi les trois sources du changement de source, et c'est juste : le
+  **Flachglas MarkenKreis** a rendu dix-neuf noms en quatre appels là où la recherche large déclarait
+  l'Allemagne saturée. **Mais il ne qualifie ni le contact ni le métier**, et les deux se sont vérifiés
+  dans l'heure.
+  · **Axe de l'ADRESSE.** La page membre publie l'adresse e-mail de chacun — `greven@mosaglas.com` y
+    figurait en clair. **Elle ne satisfait pourtant pas la règle anti-rebond du §5**, le domaine de
+    l'adresse n'étant pas dans les URL de résultats. Chaque nom coûte donc son second temps, comme
+    s'il venait d'un annuaire ordinaire.
+  · **Axe du MÉTIER, et c'est le plus coûteux des deux.** Le réseau mélange de **gros grossistes**
+    — Glaszentrum Dortmund, Schwan Glas, Mosa — et des **maîtres-vitriers locaux** à service d'urgence
+    24 heures : **Carl Abel** à Euskirchen et **Glastechnik Engels** à Essen font de la verrière de
+    terrasse, de la porte, de la menuiserie et de la métallerie. **C'est la classe verrier + pose, à
+    ZÉRO pour cent sur onze fiches.** Or ce sont les **deux plus proches de l'entrepôt**, 180 et 270 km.
+  **CONDUITE, ET ELLE EST L'INVERSE DE L'INTUITION : L'APPARTENANCE À UNE FÉDÉRATION DE VERRE PLAT N'EST
+  PAS UN SIGNAL DE CLASSE, ET LA PROXIMITÉ NON PLUS.** Le tri par métier du §6 passe avant les deux. Les
+  deux fiches sont créées, adressées, et **n'ont rien reçu** — elles relèvent du camion plutôt que du
+  conteneur, ce que le §4 dit déjà par l'autre bout : un poseur achète coupé au coup par coup et n'a ni
+  le stockage ni la trésorerie pour vingt-cinq tonnes de feuille.
+
   **⚠️⚠️ ET IL FAUT CHERCHER UNE BOÎTE D'ACHATS, PAS SEULEMENT UNE ADRESSE — TROUVÉ LE 14/10 À
   14h59, ET C'EST LA PREMIÈRE EN PLUS DE SIX CENTS ENVOIS.** `Vandaglas` publie sur sa page de
   contact une adresse **`inkoop@`**, c'est-à-dire **achats**, à côté de son `info@`, de ses cinq
