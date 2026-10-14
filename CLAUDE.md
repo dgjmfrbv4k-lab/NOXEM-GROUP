@@ -965,6 +965,31 @@ a été SERVIE** : « argument posé », « en première ligne », « argument p
 d'autre, qui séparait ITA SEN ALU des huit. **Un garde-fou se juge sur son taux de faux positifs
 autant que sur ses prises** : huit cris pour zéro loup auraient fait ignorer le neuvième.
 
+**TROISIÈME CORRECTIF SUR CE GARDE-FOU, LE 14/10 À 10h54, ET IL CORRIGE LES DEUX BOUTS À LA FOIS —
+un faux positif qui criait au loup, et un vrai cas qui passait.** Les deux sont la **même panne que
+les trois de `verif-texte.py` : le vocabulaire du contrôleur plus pauvre que celui des notes.**
+1. **Il signalait une fiche DÉJÀ corrigée.** L'exception `CORRIGEE` n'acceptait que
+   `CORRECTION FACTUELLE`, `C EST FAUX` et `ANGLE A REFAIRE`, à la lettre près. La correction
+   portée ce jour-là sur **Vidriería Universal** disait « CORRECTION DU 14/10 » et « ET ELLE EST
+   FAUSSE » — deux formulations naturelles, aucune reconnue. Neuf formes désormais.
+2. **Et il laissait passer « aucune PRODUCTION float ».** `aucune float` ne voit pas un mot inséré
+   et `sans (usine|ligne|production) float` exige le mot *sans*. **C'est exactement le trou du mot
+   FOUR du 12/10, et c'est le même défaut que le `grep` sur la raison sociale entière du §5 : un
+   motif rigide ne voit pas la forme à un mot près.** Motif ajouté **après mesure**, comme
+   « aucune ligne float » l'avait été **rejeté** pour huit faux positifs : celui-ci en produit
+   **zéro** sur les 1 182 fiches.
+**Vérifié dans les deux sens** : zéro signalement sur le registre réel, et sur un jeu d'essai les
+deux fautes injectées ressortent, la fiche corrigée est tue, et la phrase de portée **société**
+(« cette société n'a aucune ligne float ») reste tue elle aussi.
+**ET CE QUE LE CAS VIDRIERÍA UNIVERSAL ÉTABLIT VAUT MIEUX QUE LE CORRECTIF, parce que c'est la
+première fois que ce garde-fou travaille en PRÉVENTION et non en constat.** Sa note portait
+« Colombie sans ligne float », faux depuis l'ajout de Vidrio Andino. **Le message parti le 09/10 a
+été relu en entier dans la boîte, et il ne porte pas l'argument** : il est bâti sur le profil de
+distributeur national et sur la gamme. **La phrase fausse vivait dans la fiche, pas dans le
+message** — l'inverse de Forpec au Chili et d'ITA SEN ALU au Sénégal, où l'argument était déjà
+parti. **Et la vérification valait d'être faite plutôt que supposée dans les deux sens** : supposer
+qu'il était parti aurait fabriqué une faute, supposer qu'il ne l'était pas aurait couvert la vraie.
+
 **⚠️⚠️ LE CRITERE DE CIBLAGE LE PLUS PREDICTIF N'EST PAS LA GEOGRAPHIE, C'EST LE METIER — mesure du
 13/10, et c'est le resultat le plus utile de la journee.** Tout ce paragraphe raisonne par **pays**.
 Mesure faite sur les fiches assez anciennes pour avoir pu repondre, seuil de quatre jours, en classant

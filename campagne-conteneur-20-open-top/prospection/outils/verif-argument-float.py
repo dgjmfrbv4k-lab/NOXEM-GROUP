@@ -83,7 +83,14 @@ MOTIFS = re.compile(
     # produit HUIT faux positifs sur le registre et AUCUN vrai, parce que c est ainsi que
     # les fiches decrivent soit une SOCIETE qui ne produit pas, soit l INTERDICTION elle-meme.
     # Seul « four » est retenu, et le filtre de contexte ci-dessous fait le reste.
-    r"|aucun four float",
+    r"|aucun four float"
+    # Ajoute le 14/10 apres un jeu d essai : « il n y a aucune PRODUCTION float en
+    # Argentine » passait entre les mailles. « aucune float » ne matche pas quand un mot
+    # s intercale, et « sans (usine|ligne|production) float » exige « sans ». C est le
+    # meme trou que le mot FOUR le 12/10, un mot insere que la forme ne prevoyait pas.
+    # ⚠️ MESURE FAITE AVANT DE RETENIR CE MOTIF, comme pour « aucune ligne float » qui
+    # avait ete REJETE pour huit faux positifs : celui-ci en produit ZERO sur le registre.
+    r"|aucune production (locale )?(de )?float|aucune production float",
     re.I)
 
 # AJOUT DU 12/10 — LES AFFIRMATIONS REGIONALES, QUE LA GRILLE DU PAYS NE POUVAIT PAS VOIR.
@@ -105,7 +112,18 @@ REGIONS = {
 }
 REGIONS = {re.compile(k, re.I): v for k, v in REGIONS.items()}
 
-CORRIGEE = re.compile(r"CORRECTION FACTUELLE|C EST FAUX|ANGLE A REFAIRE", re.I)
+# ELARGI LE 14/10, ET C EST LA MEME PANNE QUE LES TROIS DE verif-texte.py : LE VOCABULAIRE
+# DU GARDE-FOU ETAIT PLUS PAUVRE QUE CELUI DES NOTES. La fiche Vidrieria Universal a ete
+# corrigee le 14/10 avec les mots « CORRECTION DU 14/10 » et « ET ELLE EST FAUSSE », et
+# l outil a continue de la signaler parce qu il n attendait que « CORRECTION FACTUELLE »
+# et « C EST FAUX », a la lettre pres. Un garde-fou qui crie au loup finit par etre
+# ignore, et c est alors un VRAI cas qui passe. Les formes retenues couvrent la facon
+# dont ces corrections s ecrivent reellement dans le registre.
+# Verifie DANS LES DEUX SENS avant d etre garde : zero signalement sur le registre reel,
+# et une fausse affirmation injectee sans aucun de ces marqueurs ressort bien.
+CORRIGEE = re.compile(
+    r"CORRECTION FACTUELLE|CORRECTION DU \d|C EST FAUX|ELLE EST FAUSSE|IL EST FAUX|"
+    r"CETTE PHRASE EST FAUSSE|AFFIRMATION FAUSSE|ARGUMENT FAUX|ANGLE A REFAIRE", re.I)
 
 # « les marches sans float » designe les AUTRES marches, pas celui de la fiche :
 # c est une phrase meta sur la conduite a tenir, et non une affirmation sur ce pays.
