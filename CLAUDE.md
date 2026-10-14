@@ -1338,6 +1338,21 @@ plus diffusé : il annonce des prix et porte l'ancien numéro 04 22 91 55 80. À
 7. Sur les gros comptes : porte de sortie (« si vous êtes verrouillés, dites-le, je n'insiste pas »).
 8. Signature complète avec mentions légales.
 
+**⚠️ LE POINT 3 N'ÉTAIT PAS TENU, ET PENDANT LONGTEMPS — MESURÉ LE 14/10 À 12h26.** Il impose les
+références « **avec le lien de la page** », et le §8 impose de choisir la page selon le prospect.
+**Mesure sur `TEXTES-PRETS.md` : 39 premiers contacts listaient leurs références sans AUCUN lien,
+et 30 ÉTAIENT DÉJÀ PARTIS.** Ils nomment « verre float clair et extra-clair, low-E, miroir sans
+cuivre ni plomb » et n'offrent au lecteur aucun moyen d'aller voir. Sur une approche à froid où le
+destinataire ne nous connaît pas, c'est une page de preuve en moins à chaque message.
+**Les 30 ne se réparent pas**, et c'est le coût. Les **six encore récupérables** ont été complétés
+le jour même, dont deux qui partaient dans l'heure.
+**Et le remède est dans le CODE, parce que la consigne ne suffisait visiblement pas :**
+`verif-texte.py` porte depuis le 14/10 un **sixième contrôle** qui refuse un texte nommant des
+références sans lien. **Son déclencheur est la LISTE DE RÉFÉRENCES et non le numéro du texte**, ce
+qui le rend muet sur les **relances** par construction — une relance ne répète pas le premier
+message et n'a donc rien à lier. Vérifié dans les deux sens : au seuil abaissé il rend exactement
+les premiers contacts fautifs et **pas une** des 25 relances sans lien.
+
 Langue professionnelle du prospect : EN, FR, ES, PT selon le pays.
 Jamais le même catalogue pour tout le monde. Texte brut, pas de newsletter HTML.
 
@@ -1653,6 +1668,25 @@ mult = {k: n for k, n in vus.items() if n > 1}
 assert not mult, 'CLES EN DOUBLE, ecriture refusee : %s' % mult   # unicite
 ```
    **Une clé multiple est toujours un doublon à traiter, jamais une écriture à faire deux fois.**
+   **⚠️ ET CETTE PHRASE EST TROP ABSOLUE — CORRIGÉE LE 14/10 À 12h48, PAR LE GARDE-FOU LUI-MÊME,
+   QUI A REFUSÉ UNE ÉCRITURE PARFAITEMENT LÉGITIME.** L'`assert` d'unicité a bloqué la relance de
+   **Corporación Limatambo** parce que la clé `(Pérou, Corporación Limatambo)` apparaît **deux
+   fois**. Vérification faite : la seconde ligne est le doublon **fusionné le 08/10 et neutralisé
+   en `NE PAS DEMARCHER`**. Elle n'est donc pas « un doublon à traiter », elle est un doublon
+   **déjà traité**, et la convention du registre est précisément de le conserver ainsi.
+   **LA CONSÉQUENCE EST QUE LE SQUELETTE CI-DESSUS SE BLOQUE SUR TOUTE FICHE QUI A UN JUMEAU
+   NEUTRALISÉ**, c'est-à-dire sur toutes celles que `detecte-doublons.py` a déjà réglées. Un
+   garde-fou qui interdit le travail normal finit contourné, et c'est pire que pas de garde-fou.
+   **L'appariement doit donc SAUTER les lignes neutralisées, et par le STATUT :**
+```python
+    neutre = c[9].startswith(('NE PAS', 'ECARTE'))
+    k = (c[0], c[3]) if len(c) == 10 and not neutre else None
+```
+   **C'est mot pour mot la règle de `neutralisee()` dans `detecte-doublons.py`**, et pour la même
+   raison : on filtre par statut, **jamais par un mot de la note**, qu'une tournure de phrase peut
+   déclencher. Les deux outils partagent désormais la même définition, ce qui est le seul moyen
+   qu'ils ne se contredisent pas. **Une clé multiple dont TOUTES les lignes sont actives reste un
+   doublon à traiter — c'est ce cas-là, et lui seul, que l'`assert` doit attraper.**
    vérifie qu'on a touché les bonnes fiches, pas qu'on a conservé les autres.
 
 Contrôle d'intégrité après chaque écriture — **toute** ligne doit avoir 10 champs, sans exception :
@@ -2358,6 +2392,22 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   à connaître pour les blocs du registre : **deuxième lundi d'octobre** au Canada et aux États-Unis,
   Thanksgiving américain le quatrième jeudi de novembre, 7 septembre au Brésil, 16 septembre au Mexique,
   **vendredi** et parfois jeudi au Proche-Orient et dans le Golfe, Nouvel An chinois pour l'Asie.
+  **⚠️ QUATRIÈME PAYS, TROUVÉ LE 14/10 À 12h44, ET CELUI-LÀ N'EST PAS UNE FAUTE DU 12/10 MAIS DU
+  08/10 — CE QUI MONTRE QUE LA RÈGLE DU CALENDRIER AURAIT DÛ EXISTER QUATRE JOURS PLUS TÔT.** Le
+  **8 octobre 2026 était férié national au Pérou**, le **Combate de Angamos**, un jeudi, repos
+  rémunéré dans le public comme dans le privé. **Les cinq premiers contacts péruviens de la
+  cohorte du 08/10 sont donc partis bureaux fermés** — Andercru, Decoraciones Ademar, Metalcon,
+  Montano et Corporación Limatambo. Le vendredi 9 n'était PAS déclaré non ouvré, donc le report
+  ne s'étendait pas.
+  **Ce que cela vaut, dit honnêtement : c'est une explication PARTIELLE du silence de ces cinq
+  fiches, pas une preuve.** Quatre jours ouvrés ont suivi. Mais c'est un facteur de plus à verser
+  à l'analyse du §15, et il s'ajoute aux cinquante-deux messages du 12/10 déjà partis un jour
+  fermé au Canada, aux États-Unis et en Colombie.
+  **À ajouter à la liste des fériés à connaître : 8 octobre au Pérou**, avec les 1er novembre,
+  8 et 9 décembre que la même source donne pour la fin d'année péruvienne. **Et la leçon de
+  méthode est celle du §6 sur le périmètre de la source, prise une fois de plus : vérifier le
+  calendrier d'un pays ne dit rien de celui du voisin.** Le 08/10 j'avais ouvert une vague
+  latino-américaine sans vérifier un seul calendrier national.
   **Et ce qui ne se fait PAS : renvoyer le lendemain.** Ce serait un deuxième message en deux jours,
   donc la faute Shibaam, qui coûte bien plus cher qu'un mauvais timing. Le message est parti, il se
   consigne, et la prochaine échéance se calcule à partir de ce jour-là.
