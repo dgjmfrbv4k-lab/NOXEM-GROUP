@@ -8242,3 +8242,76 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 151. Roelants Glas (Aarschot) — `info@roelantsglas.be` — NÉERLANDAIS — ligne d'isolant, 3 sociétés
+
+**SIXIÈME QUESTION DE GROUPE DE LA JOURNÉE, ET C'EST LA PREMIÈRE QUI OUVRE UNE PORTE AU LIEU D'EN
+FERMER UNE.** Leur site dit appartenir au **Groep Versmissen** depuis 2024 — la presse régionale
+date la reprise de juin 2025, les deux ne concordent pas. Vérification : **Versmissen est un groupe
+de construction familial de la Campine**, fondateur et propriétaire Frans Versmissen, direction
+Dennis Colart de Bailliencourt. **Ce n'est pas un producteur float, donc Roelants est un prospect**
+— à l'inverse de Scheuten, fermée une heure plus tôt parce que Glas Trösch produit du float.
+**ET LE GROUPE RÉUNIT TROIS MAISONS DE VERRE, CE QUI EST L'ARGUMENT :** *Glaswerken Vanheertum*
+(Turnhout, poseur, ~20 salariés, filiale depuis 2007), *OMD Glaswerken* (Herentals, repris après
+faillite en 2018) et **Roelants** (Aarschot). **Tine Roelants et Hendrik Versmissen vont diriger les
+trois ensemble** — donc les achats se regroupent, et **Roelants est la seule des trois à avoir une
+ligne de production**. Un seul message, à elle, et il couvre les trois.
+`info@` lue sur leur propre site, domaine six fois dans les URL. Leuvensesteenweg 210, Aarschot.
+**Ligne de double vitrage sur mesure, maximum annoncé 3500 × 3500 mm** sur une page et **2500 ×
+3500** sur une autre — contradiction notée, non employée dans le message.
+**⚠️ RÉSERVE À TENIR : un annuaire tiers dit qu'ils produisent « sous licence de Saint-Gobain
+Glass ». Ce n'est PAS leur site qui le dit**, donc c'est une piste et non un fait — mais si c'est
+exact, Saint-Gobain est leur fournisseur et la porte de sortie compte double.
+**Règle Prodiesa : isolant, acoustique, solaire et pose sortent de l'offre. Reste le substrat.**
+**⚠️ INTERDIT DU §6 : jamais l'absence de production locale en Belgique.**
+
+```
+Geachte heer, mevrouw,
+
+Mijn naam is Aaron Harfi, ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas bij Lyon in Frankrijk. Ons magazijn staat in Mollem, op zo'n 50 km
+van Aarschot. Dit is een leveringsaanbod en geen prijsaanvraag. Bent u niet
+degene die inkoopt, dan ben ik u dankbaar als u dit doorgeeft.
+
+Ik schrijf u omdat u isolatieglas in uw eigen atelier maakt, en omdat u sinds
+kort met Vanheertum en OMD onder een gezamenlijke leiding staat. Drie
+glasbedrijven samen betekent dat er meer blad binnen moet komen, niet minder,
+en dat uw lijn in Aarschot daarvoor het aankooppunt wordt. Een tweede vaste
+herkomst is in die situatie geen luxe.
+
+Ik bied u niets aan wat u zelf maakt - geen isolatieglas, geen akoestisch of
+zonwerend glas, en zeker geen plaatsing. Alleen het basisglas dat daarvoor
+binnenkomt:
+
+- Coated warmte-isolerend glas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Helder float en extra helder glas: https://noxemgroup.com/en/float-glass/
+- Spiegelglas zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Onze website bestaat alleen in het Frans en het Engels. Elke referentie licht
+ik u graag in het Nederlands toe.
+
+Wij verschepen in VOLLEDIGE CONTAINERS, in IPPC/ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Een container laat zich over uw drie vestigingen verdelen. Wij
+kunnen een aanbod opstellen voor levering in uw bestemmingshaven, onder
+voorbehoud van validatie van onze kant.
+
+Daarvoor heb ik vier gegevens nodig: welke diktes en coatings uw lijn het
+meest verbruikt, welke bladmaten erop passen, een indicatie van uw jaarvolume
+voor de drie bedrijven samen met de bestelfrequentie, en welke haven u
+berekend wilt zien, Antwerpen of Rotterdam.
+
+En als uw inkoop vastligt en er geen ruimte is voor een extra herkomst, zegt u
+het mij gerust, dan dring ik niet aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
