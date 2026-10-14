@@ -137,6 +137,20 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   Bonna** dans une gamme → **verre creux ou verre de table, fiche fermée immédiatement**, sans même lire
   l'activité. Une marque est un fait vérifiable ; « import et distribution » n'en est pas un.
   **Et ajouter `glassware` à la liste des mots** : en anglais il ne désigne jamais le verre plat.
+  **⚠️ ET UNE SECONDE FAMILLE DE MARQUES, AJOUTÉE LE 14/10 — ELLE NE DIT PAS *CREUX*, ELLE DIT *VERRE
+  D'ART*, ET ELLE FERME TOUT AUSSI VITE.** Cas **GLS Spezial- & Farbglashandel** (Cologne), membre du
+  **Flachglas MarkenKreis** — donc d'une fédération de verre **plat**, ce qui est précisément ce qui
+  rendait la fiche crédible. Leur propre domaine annonce la gamme complète de **BULLSEYE** et de
+  **SPEKTRUM**, et *Spectrum* est mot pour mot la marque qui avait fait écarter **Color Glass Import**
+  en `ECARTE — HORS PERIMETRE`. **À ajouter à la liste des marques qui ferment une fiche : `Bullseye`,
+  `Spektrum` ou `Spectrum`, `Lamberts`, `Borofloat`, `Artista`, `Renova`, `Restauro`.** Et deux mots du
+  métier valent le même signal : **`Fusing`** et **`Restaurierungsglas`** — on ne fait pas du fusing
+  avec un conteneur de jumbo.
+  **LE PIÈGE EST QU'ILS TIENNENT BIEN DU FLOAT, ET C'EST CE QUI AURAIT FAIT ÉCRIRE :** float et
+  Optiwhite figurent dans leur gamme. **Mais en COMPOSANT**, pour menuisiers et pour feuilleter du verre
+  de restauration, en cotes de stock de 260 × 180 et 180 × 130 cm. **La présence du mot *float* dans une
+  gamme ne fait donc pas un acheteur de conteneur** — c'est la règle de *verrerie* prise au niveau du
+  PRODUIT et non de la raison sociale : le mot n'autorise ni à ouvrir ni à fermer, seul l'USAGE décide.
   **Le pendant de la règle, trouvé le 09/10 sur CSVM, et il faut le dire parce qu'il protège dans
   l'autre sens :** le *Comptoir Sfaxien de **Verrerie** et Miroiterie* porte le mot qui a fait écarter
   SEVAM, et c'est pourtant du verre plat — double vitrage, ITR, contrôle solaire. **Le mot n'autorise
