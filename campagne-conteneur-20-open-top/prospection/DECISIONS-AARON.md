@@ -205,3 +205,38 @@ que c est gratuit, sans risque et de toute facon du par un domaine qui prospecte
 demain pour savoir si le probleme etait la ou ailleurs. **Je ne peux faire ni l un ni l autre
 seul** : le DNS n est pas accessible depuis cette session, et le comptage exact demande le rapport
 d audit de la console d administration, qui ne l est pas davantage.
+
+
+---
+
+## LE LUXEMBOURG N A PAS D ACHETEUR DE CONTENEUR — releve du 14/10 a 16h21
+
+**FAITS.** Consigne de Kevin ce jour : *« tu recontactes tout le Luxembourg »*. Le registre n y
+portait **UNE seule fiche**, Mobag Glass, deja ecartee comme petite structure. Marche ouvert et
+releve en entier. Voici ce qu il contient.
+
+| Maison | Lieu | Verdict |
+|---|---|---|
+| **GUARDIAN** | Bascharage, Dudelange, Grevenmacher | **CONCURRENT.** Producteur float mondial, deja au paragraphe 6. Aucune fiche. |
+| **Vitralux Bradtke** | Howald | maitre-vitrier depuis 1865, atelier **et pose**. Classe a zero pour cent. Adresse acquise, **rien envoye**. |
+| **Hanin Glass Center** | Grass, plus Jambes et Marche en Belgique | **la meilleure cible de la zone** — trois ateliers de production — et **aucune adresse publiee**. Fiche telephonique. |
+| Luxemburger Glaswelt | Steinsel | metier a etablir |
+| Miroiterie Origer | Schieren | miroiterie-vitrerie, priorite basse |
+| Polyglass, Vitrerie Vincent, Atelier Bauer | Ehlerange, Winseler, Luxembourg-Ville | reparation et pose, hors perimetre conteneur |
+
+**CE QUE CELA ETABLIT, ET C EST LA REPONSE A LA CONSIGNE PLUTOT QU UNE EXCUSE :** le Grand-Duche
+compte **670 000 habitants**, et sa seule operation verriere de taille industrielle est **Guardian,
+qui est notre concurrent**. Tout le reste est de la vitrerie de proximite. **Il n y a pas, au
+Luxembourg, d acheteur de conteneur complet** — non par defaut de prospection mais par structure du
+marche.
+
+**⚠️ ET LE RELEVE A RAPPORTE UN FAIT DE PARAGRAPHE 6 QUI MANQUAIT AU MANDAT ET AU CODE :
+GUARDIAN PRODUIT DU FLOAT AU LUXEMBOURG.** Guardian est sur la liste des concurrents depuis le
+debut, mais **le lien avec le Luxembourg n y etait pas fait**, et `verif-argument-float.py`
+n avait **aucune entree europeenne**. Ecrire a un prospect luxembourgeois que son pays ne produit
+pas de float aurait ete faux a dix kilometres de l usine. Le garde-fou porte desormais cinq pays
+europeens, verifie dans les deux sens.
+
+**CE QUI RESTE A FAIRE ICI : UN APPEL, ET UN SEUL QUI VAILLE.** Hanin, trois ateliers, +352 26 37
+59 40 pour Grass ou 081 30 15 18 pour Jambes. C est le seul numero luxembourgeois qui porte un
+acheteur de volume, et il rejoint le point 1 de `DECISIONS-AARON.md` : le creneau d appels.
