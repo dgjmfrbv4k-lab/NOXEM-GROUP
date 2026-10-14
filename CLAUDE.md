@@ -1751,6 +1751,17 @@ la paire.
 code ne voyait pas — et c'est le code qui passe à l'échelle sur 1 117 fiches.** Quand une note repère un
 rapprochement qu'un signal automatique aurait dû rendre, **le réflexe est de réparer le signal**, pas
 seulement de consigner le cas.
+**ET LE SIGNAL TÉLÉPHONE A PAYÉ UNE SECONDE FOIS LE 14/10 À 11h34, SUR UNE FAUTE QUI ÉTAIT LA MIENNE ET
+NON CELLE DU REGISTRE — ce qui lui donne un second usage que le §12 ne lui prêtait pas.** J'avais créé
+**GlassPanel** et **Patagonia Glass** dans le même lot chilien, à quelques minutes d'intervalle, et j'ai
+porté au champ téléphone de la première **le numéro de la seconde**. La note disait « à confirmer », ce
+qui était honnête et ne corrigeait rien : **un champ faux reste un champ faux, une réserve en prose ne le
+répare pas.** Le balayage les a réunies sur `223062400` dans les minutes qui ont suivi.
+**CE QUE CELA AJOUTE : `detecte-doublons.py` n'est pas seulement un contrôle de REGISTRE, c'est un
+contrôle de SAISIE.** Quand une recherche rend deux sociétés voisines dans le même appel — et c'est le cas
+normal d'un lot de découverte — leurs coordonnées se mélangent au moment d'écrire. **Il se passe donc
+APRÈS chaque lot de créations**, et pas seulement avant d'ouvrir une semaine de relances comme le disait
+la règle du 11/10. Les deux usages sont réels et ils ne se remplacent pas.
 **⚠️ CINQUIÈME SIGNAL AJOUTÉ LE 13/10 À 12h00, ET IL COMBLE EXACTEMENT LE TROU QUE LE §6 AVAIT POURTANT
 NOMMÉ EN TOUTES LETTRES CINQ JOURS PLUS TÔT : AUCUN DES QUATRE NE COMPARAIT LE DOMAINE D'UNE ADRESSE AU
 DOMAINE D'UN SITE.** Le signal 2 compare les domaines de **site** entre eux, le signal 3 les **adresses
