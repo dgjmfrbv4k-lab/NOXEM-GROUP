@@ -621,6 +621,15 @@ lui attribue une table de droits d'importation la cite en réalité comme la par
 1. **Ne plus écrire l'un pour l'autre.** C'est le cinquième cas de la famille du caractère unique,
    après `newSglassind`/`newglassind`, `glasscorplnt`/`glasscorpint`, `index-gabon`/`indexgabon` et
    `laheyglass.ca`/`.com` — sauf qu'ici la lettre ne change pas un domaine, elle **inverse le camp**.
+   **⚠️ ET UN SIXIÈME CAS EST TOMBÉ DANS LA MÊME HEURE, SUR LE MÊME DOSSIER : `SITIVESP` N'EST PAS
+   `SINCAVESP`.** `SINCAVESP` est le *Sindicato do Comércio Atacadista de **Vidros** Planos, Cristais
+   e Espelhos do Estado de São Paulo* — nos meilleurs clients par définition. **`SITIVESP` est le
+   *Sindicato da Indústria de **Tintas** e Vernizes*** — peintures et vernis, fondé en 1941, conseil
+   composé de PPG, Sherwin-Williams, AkzoNobel et Axalta. **`TI` pour *tintas*, `CAV` pour
+   *comércio atacadista de vidros*.** Il remonte sur une recherche verrière parce qu'il partage le
+   suffixe `-VESP` de São Paulo, **et c'est lui, et non Sincavesp, qui publie une page `/associados/`**
+   — donc le piège se referme précisément sur celui qui a l'air exploitable. Un lot entier de noms
+   hors secteur évité par une seule lecture.
 2. **ABRAVIDRO EST LE PLUS GROS GISEMENT DE PROSPECTS IDENTIFIÉ DE LA SEMAINE, et il est exactement
    dans nos deux meilleures classes.** Deux cents distributeurs et transformateurs de verre **plat**,
    dans le marché que le §6 juge le plus favorable au titre de la Gecex 833. C'est la méthode de

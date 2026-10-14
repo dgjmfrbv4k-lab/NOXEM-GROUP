@@ -401,3 +401,41 @@ industrielle, et traiter Goias, Bahia et Parana ensuite pour ce que la recherche
 rendu. **Brasilia etait le plus petit des treize et c est par lui que j ai commence, ce qui etait
 l ordre inverse du bon.**
 
+### ⚠⚠ ET LE GISEMENT N EST PAS ATTEIGNABLE AU MOTEUR — mesure faite a 18h33 sur les DEUX plus grosses entites, et elle corrige ce que j ai ecrit vingt minutes plus tot
+
+**Je viens d annoncer deux cents prospects dans nos deux meilleures classes. Il faut corriger
+l attente tout de suite, parce que la porte n est pas celle que je croyais.**
+
+· **SINCAVESP (Sao Paulo) ne publie AUCUNE liste d associes.** Son site ne donne que de
+  l institutionnel. Rua Caiowaa 55, 1er etage, Perdizes, Sao Paulo, **telephone 11 3862-1112**.
+· **SINCAVIDRO (Rio de Janeiro) non plus.** Entite creee en 1957, ex-Sincaverj, Estrada do Engenho
+  d Agua 1260, president Antonio Skardanas, **`sincavidro@gmail.com` et 21 2494-5591**.
+· **Seule ABRAVID, la plus petite des treize, publie ses membres** — et elle a rendu deux noms et
+  zero envoi.
+
+**CE QUE CELA VEUT DIRE, ET C EST UN DEPLACEMENT D ACTION ET NON UN ABANDON :** la liste existe, elle
+est de grande valeur, et **elle se DEMANDE au lieu de se chercher.** Les deux syndicats sont
+precisement les syndicats du **commerce de GROS de verre plat** de Sao Paulo et de Rio : leurs
+adherents sont par definition des grossistes de verre plat, donc notre classe a 10,0 pour cent, dans
+le marche que le paragraphe 6 juge le plus favorable. **Un courriel a chacun coute deux messages et
+peut rendre ce que vingt appels de recherche ne rendront pas.** C est porte dans
+`DECISIONS-AARON.md`.
+
+**⚠ ET UN PIEGE DE SIGLE A CONNAITRE AVANT DE ROUVRIR CE DOSSIER, parce qu il se referme sur celui
+qui a l air exploitable : `SITIVESP` N EST PAS `SINCAVESP`.** `SITIVESP` est le *Sindicato da
+Industria de **TINTAS** e Vernizes* — peintures et vernis, fonde en 1941, conseil compose de PPG,
+Sherwin-Williams, AkzoNobel et Axalta. **Et c est LUI, pas Sincavesp, qui publie une page
+`/associados/`.** Il remonte sur une recherche verriere parce qu il partage le suffixe `-VESP` de Sao
+Paulo. **Un lot entier de noms hors secteur evite par une seule lecture.** Regle portee au
+paragraphe 6 comme sixieme cas de la famille du caractere unique.
+
+**Ordre revise pour le prochain tour, puisque le moteur ne rendra pas les listes :**
+1. **Demander** les listes a Sincavesp et Sincavidro — action pour Kevin, voir `DECISIONS-AARON.md`.
+2. En attendant, chercher les **entites des Etats que la recherche large n a jamais rendus** — Avigo
+   (Goias), Adevibase (Bahia et Sergipe), Adivipar (Parana) — sur le modele d Abravid, qui publiait.
+   Elles sont petites, donc elles publient peut-etre, et leurs marches sont vierges.
+3. **Ne pas redepenser d appels sur Sincavesp ni Sincavidro.** C est teste, et c est un verdict.
+
+**Un nom de passage a reprendre :** **Grupo Araujo** (`grupoaraujorio.com`), remonte sur la recherche
+de Rio, **absent du registre**, metier non etabli. A traiter au prochain tour.
+

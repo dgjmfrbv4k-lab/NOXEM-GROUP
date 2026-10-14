@@ -367,3 +367,46 @@ pays : deux producteurs mondiaux sur la qualite, et un chinois sur le prix. **Et
 antidumping a invoquer dans la zone**, l Anti-Dumping Commission australienne ayant termine son
 enquete sur la Chine. L angle y est l origine et la seconde source, jamais le douanier.
 
+---
+
+## Deux courriels qui peuvent rendre deux cents prospects qualifies — demande faite a 18h34 le 14/10
+
+**Faits.** **ABRAVIDRO** est l *Associacao Brasileira de **Distribuidores e Processadores** de Vidros
+Planos* : environ **200 associes** et **treize entites regionales**. Ses deux plus grosses entites
+sont **SINCAVESP** et **SINCAVIDRO**, qui sont nommement les *Sindicatos do Comercio Atacadista de
+Vidros Planos, Cristais e Espelhos* des Etats de **Sao Paulo** et de **Rio de Janeiro**.
+
+**Autrement dit, leurs adherents sont par definition des GROSSISTES DE VERRE PLAT** — la classe
+mesuree a 10,0 pour cent le 13/10 — dans le marche que le paragraphe 6 juge le plus favorable de la
+campagne au titre de la mesure Gecex 833, ou l Europe n est visee par aucun droit.
+
+**Et ni l un ni l autre ne publie sa liste d adherents.** Verifie ce soir : leurs sites ne donnent
+que de l institutionnel. **Seule la plus petite des treize, Abravid a Brasilia, publie ses membres**,
+et elle a rendu deux noms et zero envoi. **La liste existe, elle est de grande valeur, et elle se
+DEMANDE au lieu de se chercher.** Aucun appel de recherche n y changera rien.
+
+**Coordonnees relevees :**
+· **SINCAVESP** — Rua Caiowaa 55, 1er etage, Perdizes, Sao Paulo. Telephone **11 3862-1112**.
+· **SINCAVIDRO** — Estrada do Engenho d Agua 1260, Rio. **`sincavidro@gmail.com`**, **21 2494-5591**.
+  President Antonio Skardanas.
+
+**Options.**
+1. **Vous ecrivez aux deux**, en une ligne, pour demander la relation des adherents ou l annuaire du
+   secteur. Deux messages.
+2. **Je prepare les deux textes en portugais et vous les envoyez**, comme pour le Guatemala.
+3. **Vous m autorisez a les envoyer moi-meme.** Ce ne sont pas des prospects mais des syndicats
+   professionnels, donc le paragraphe 5 ne l interdit pas a la lettre — **je ne le fais pas sans
+   votre mot**, parce que c est un message qui sort de la boite et qui n entre pas dans le cadre de
+   l offre validee.
+4. **On laisse tomber** et on continue au moteur, en sachant que le moteur ne rendra pas ces listes.
+
+**MA RECOMMANDATION : la 2.** Je redige, vous envoyez, et le texte ne demande rien d autre que
+l annuaire du secteur — aucune offre, aucun prix, aucune mention de nos usines. **Le rapport est le
+meilleur du dossier : deux messages contre deux cents noms deja tries par metier**, alors que la
+mesure du 13/10 etablit qu une recherche large sur le Bresil rend dix-huit noms deja connus sur
+vingt-deux.
+
+**Ce qui ne depend pas de vous et que je fais en attendant :** les entites des Etats que la recherche
+large n a jamais rendus — Avigo au Goias, Adevibase en Bahia, Adivipar au Parana. Elles sont petites,
+donc elles publient peut-etre, comme Abravid l a fait.
+
