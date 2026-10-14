@@ -8667,3 +8667,71 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 157. Torstenson Glass (Morton Grove, Illinois) — `sales@tglass.com` — ANGLAIS — stockiste de feuille, 130 ans
+
+**Vérifié avant d'écrire :**
+- Fiche **déjà au registre** en `A QUALIFIER` depuis le 13/10, note relue avant de dépenser un appel : elle ne porte **aucun verdict**, seulement « métier non établi ». C'est donc une candidate légitime et non une des cinq fiches perdues du 13/10.
+- **Métier établi, et par le signal des épaisseurs** : leur page *flat glass* dit *stocked and readily available in **full sheets** and cut-to-size*, et un relevé indépendant donne leur gamme stockée de **3/16" (5 mm) à 3/4" (19 mm)**, feuilles jusqu'à **84" × 130"**. Le critère de la ligne qui consomme de la feuille est satisfait.
+- **130 ans d'existence**, services de façonnage, livraison sur tout le Chicagoland et **expédition dans tous les États-Unis**.
+- Adresse `sales@tglass.com` lue sur **leur propre page de contact**, domaine du site : §5 satisfait sans exception. ⚠ Une **ancienne** page donne `information@tglass.com` et une adresse de Chicago nord — **non retenue**, c'est le piège de la vieille page d'Al Ashoury.
+- **Signal de fournisseur relevé sans le demander** : leur gamme porte **Matelux**, qui est une marque **AGC**. Lu à l'endroit qui dit qu'on ACHÈTE — dans la gamme, pas dans la raison sociale. Donc prospect, et on sait contre qui l'on se place.
+- **INTERDIT DU §6 TENU** : jamais l'absence de production locale aux États-Unis, Vitro y produit — et c'est précisément Vitro qui a obtenu les mesures. L'argument est **douanier**, aucun taux cité.
+- Jour ouvré et heure vérifiés, mercredi, 10h35 à Chicago. Columbus Day était le 12.
+
+**Objet :** Clear float and mirror by the container — European origin
+
+**Corps :**
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing because you stock flat glass in full sheets, from 3/16"
+up to 3/4" and in lites as large as 84 x 130, and you ship beyond
+Chicagoland. A house that holds sheet stock buys by the load, and
+that is the only place where we can be useful to you.
+
+Our references:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+One point you will already know better than I do, and I mention it as
+a customs fact and nothing more: since the orders
+published in April, Chinese and Malaysian float carries antidumping
+and countervailing duties on entry. European origin is named in none
+of them. That changes the comparison between origins, and it is the
+reason I am writing to you now rather than a year ago.
+
+We ship full containers, in ISPM-15 treated wooden cases, in jumbo
+3210 x 2550 mm or cut to your sizes.
+
+We can put together an offer delivered to your port of destination,
+subject to validation on our side.
+
+So that the offer is worth anything to you, could you tell me which
+references and thicknesses you buy, the sizes, the rough volume and
+how often you order?
+
+And if you are committed to your current supply, say so plainly and I
+will not write again.
+
+I am at your disposal.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

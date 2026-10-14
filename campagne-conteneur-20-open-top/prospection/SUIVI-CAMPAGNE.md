@@ -7361,3 +7361,60 @@ et sur celui du metier.
 Steenebrugge et Schuet-Duis a rechercher sur leur nom seul, les six grossistes de la troisieme
 vague a deverrouiller, et environ trente-trois noms encore a extraire par les mots du metier.
 **Glas Fritz ouvre la SUISSE**, pays jamais prospecte.
+
+---
+
+### 14/10 a 17h33 — pivot export, seconde moitie de journee
+
+**Consigne de Kevin : « continue a fond, les pays export. »** L anneau d entrepot europeen est
+laisse de cote, la campagne repart sur les marches lointains apres le signal guatemalteque.
+
+**Chiffres du jour, substitues et non tapes :** registre a 1274 fiches, 53 premiers contacts et
+28 relances au statut du jour.
+
+**Quatre envois dans cette seconde moitie, tous selectionnes sur le metier et non sur le pays :**
+- **INCO — Industrias Consolidadas** (Soyapango, Salvador), trempeur-feuilleteur de 1963 qui revend
+  aussi de la feuille.
+- **Centro de Vidrio** (San Salvador), classe verrier pur, float transparent de 2 a 19 mm etabli sur
+  son propre domaine. Port Acajutla.
+- **Serra Morena Brasil** (Sao Paulo, filiales Itajai Porto Velho Recife), distributeur de chapas
+  depuis 1987 et trading de commerce international.
+- **Torstenson Glass** (Morton Grove, Illinois), stockiste de feuilles entieres depuis 130 ans,
+  fiche deverrouillee aujourd hui.
+
+**LE RESULTAT DE METHODE DE LA JOURNEE, ET IL VAUT MIEUX QUE LES QUATRE 53OIS : UN SIGNAL NEUF
+POUR SEPARER UN STOCKISTE D UN FACADIER, ET IL NE COUTE AUCUN APPEL DE PLUS.**
+Trois noms pris aux rubriques *almacenista y distribuidor de vidrio* d un portail sectoriel se sont
+reveles etre un facadier de mur-rideau (**Faiquito**, Quito), une maison de systemes aluminium et de
+polycarbonate (**ALCRISTAL**, Guayaquil) et un nom introuvable (**Antillian Service**,
+Saint-Domingue). Sur cinq noms pris a ces rubriques en quarante-huit heures : **un confirme, trois
+dementis, un inverifiable.**
+**Le mot *distribuidor* ne qualifie pas** — il reprend ce que la societe a declare a l annuaire, et
+un facadier qui achete beaucoup de verre se declare volontiers distributeur de verre. **Ce qui
+tranche est la publication des EPAISSEURS et des FORMATS.** Centro de Vidrio publie 2 a 19 mm, Serra
+Morena 4 6 8 10 mm en 3210 a 3660, Torstenson 3/16 a 3/4 de pouce en 84 sur 130. **Aucun facadier
+n en publie.** Regle portee au paragraphe 5 du mandat, et les deux derniers envois du jour ont ete
+selectionnes par elle.
+
+**Deux autres lecons consignees :**
+- **`vidraria` n est pas `vidraçaria`.** En portugais bresilien le premier mot designe la verrerie
+  de laboratoire et de table. Neuvieme instance de la regle *verrerie*, et la premiere qui se joue
+  sur une cedille. *Vidraria Oriental* ecartee avant toute recherche d adresse.
+- **Quatre noms ecartes et leurs verdicts ecrits** dans `PRIORITES-RECHERCHE.md` pour qu ils ne
+  soient pas recherches une seconde fois : Euroglas Salvador qui n existe pas, Vidraria Oriental,
+  Salem Distributing qui vend des machines AUX verriers, et All American Glass Distributors dont les
+  deux domaines appartiennent a deux autres societes.
+- **Deux courtiers de donnees de plus interdits** au titre du paragraphe 5 : `buzzfile.com` et
+  `cience.com`.
+
+**Et une confirmation de la saturation du 13/10 sur les deux plus gros blocs :** la requete par
+epaisseurs lancee sur les Etats-Unis et le Canada n a rendu **que des maisons deja au registre et
+deja relancees** — Glaz-Tech, Western States, Crone, National Glass, United Glass. Les maisons qui
+publient leurs epaisseurs sont precisement les mieux referencees, donc deja prises. **Le signal neuf
+ouvre les marches latino-americains, il n ouvre pas une couche supplementaire en Amerique du Nord.**
+
+**Garde-fous passes apres chaque lot :** integrite 10 champs OK, balayage a huit groupes connus,
+argument float zero a corriger, zero fiche en `A APPELER` sans telephone, controle avant-vol propre
+hors le texte 152 dicte par Kevin. Le controle avant-vol a refuse une premiere version du texte
+Torstenson pour le seul mot *price*, corrigee avant envoi.
+
