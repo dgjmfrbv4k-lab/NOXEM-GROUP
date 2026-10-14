@@ -8813,3 +8813,70 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 159. OneGlass (Preston, Melbourne) — `info@oneglass.com.au` — ANGLAIS — float 3 à 19 mm + low-iron + couché — **À ENVOYER LE 15/10**
+
+**Vérifié avant d'écrire :**
+- Mots distinctifs grepés avant création, `oneglass` et `one glass` : **absents du registre**. Les quatre autres noms du relevé australien ont été grepés un par un — Davis Glass, Glass Processing Australia, Glass Australia, Tough Glass : **tous les quatre déjà au registre et déjà traités**. L'Australie est couverte, OneGlass et Koala étaient les deux seuls noms neufs.
+- **Signal des épaisseurs largement satisfait** : leur page *clear float* publie **3, 4, 5, 6, 8, 10, 12, 15 et 19 mm**, et ils ont **quatre familles de float de plus** — low iron, Soltech, EVantage, EnergyTech — plus de l'acid-etched. Une maison qui publie cela tient du stock.
+- **Et ils trempent de 4 à 19 mm** avec façonnage interne : une ligne de trempe ne tourne que si de la feuille entre, c'est le critère du §6.
+- Depuis **2012**, société **entièrement australienne**. 16 Reserve St, Preston VIC 3072.
+- Adresse `info@oneglass.com.au` lue sur **leur page de contact**, domaine du site : §5 satisfait sans exception.
+- **Règle Prodiesa** : trempe, feuilleté, bombé et double vitrage sont leur métier, ils sortent de l'offre. Seul le **substrat** y entre.
+- **INTERDIT DU §6 TENU, ET IL EST STRICT SUR CE PAYS : aucun argument douanier.** Le dossier 575 de l'Anti-Dumping Commission a **terminé** l'enquête sur la Chine et la Thaïlande — seule l'Indonésie porte des droits, et leur échéance 2026 n'est pas vérifiée. **Rien n'est écrit là-dessus.**
+- **Et l'argument de l'absence de ligne float est délibérément ABSENT du texte**, bien qu'il soit vrai : c'est l'argument qui se retourne le plus vite du §6, un acheteur de Melbourne connaît son marché mieux que nous, et le lui expliquer serait la faute Miro Est — fabriquer un sujet que le client n'a pas soulevé. L'angle est **l'origine directe et le conteneur**, rien de plus.
+- **Heure : 03h30 à Melbourne au moment de la rédaction. ENVOI PROGRAMMÉ AU 15/10**, statut `A ENVOYER 2026-10-15`. C'est l'usage prévu du statut.
+
+**Objet :** Clear float, low-iron and mirror by the container — European origin
+
+**Corps :**
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France.
+
+I am writing because of what your own product pages hold: clear float
+from 3 to 19 mm, low-iron float, and four separate coated families
+alongside it, with toughening from 4 to 19 mm done in house. A house
+with a toughening line and that range on the shelf buys sheet by the
+load. That is the only thing we do, and it is the only place where we
+can be useful to you.
+
+Our references:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+We ship full containers, in ISPM-15 treated wooden cases, in jumbo
+3210 x 2550 mm or cut to your sizes. What we are offering is a direct
+European origin, loaded at origin and delivered to your port — one
+link fewer in the chain than buying imported glass locally.
+
+We can put together an offer delivered to your port of destination,
+subject to validation on our side.
+
+So that the offer is worth anything to you, could you tell me which
+references and thicknesses you buy, the sheet sizes, the rough volume
+and how often you order?
+
+And if you are committed to your current supply, say so plainly and I
+will not write again.
+
+I am at your disposal.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
