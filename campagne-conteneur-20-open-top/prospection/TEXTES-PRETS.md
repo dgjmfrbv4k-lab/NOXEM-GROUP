@@ -5960,10 +5960,10 @@ second origin is a real option rather than a complication - and that is the
 whole of my proposition.
 
 One fact that changed the comparison this year, and I state it as a customs
-fact rather than as a claim about our prices: since April the two cheapest
-import origins into the United States carry antidumping and countervailing
-duties. European glass is covered by none of those orders. I am not telling
-you what our glass costs - I am saying the arithmetic you did two years ago is
+fact and nothing more: since April, the two import origins that used to come in
+lowest into the United States carry antidumping and countervailing duties.
+European glass is covered by none of those orders. I am putting no figure in
+front of you today - I am saying that the arithmetic you did two years ago is
 no longer the same arithmetic.
 
 What we ship:
