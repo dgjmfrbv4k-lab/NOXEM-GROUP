@@ -6620,3 +6620,142 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 128. Euroglas-De Landtsheer / Safetyglass / IGP (Bornem, Fleurus, Meer) — `info@euroglas-dl.com` — NÉERLANDAIS — verrier
+
+**UN SEUL MESSAGE POUR TROIS SITES, et c'est le critère du bureau d'achat du §12.** La fiche du
+registre portait `Safetyglass` à Fleurus. Le second temps établit que c'est **une des trois
+implantations d'un même groupe** — Bornem (siège, depuis 1964), Fleurus et Meer — qui publient
+leurs trois adresses sur **une seule page de contact**. Trois sites dans un seul pays derrière une
+seule page, c'est **un seul bureau d'achat** : écrire à deux d'entre eux serait la faute Shibaam.
+**Le message part donc à l'adresse du GROUPE.**
+**⚠️ LE CRITÈRE DU FRAGMENT DE MARQUE A ÉTÉ APPLIQUÉ ET IL NE REND RIEN.** *Euroglas* est aussi le
+nom d'un producteur float européen, et le §6 impose de lever ce genre de coïncidence avant
+d'ouvrir. Vérification faite : **aucun lien capitalistique n'apparaît**, c'est une maison belge de
+transformation fondée à Bornem. **Réserve honnête : l'absence de lien n'est pas prouvée, elle n'est
+pas trouvée.** À relire si leur nom revient dans un dossier.
+**⚠️ EXCEPTION DU §5 À NOTER :** `info@safetyglass.be` et `info@igp.be` sont sur un **autre domaine**
+que le site `euroglas-dl.com` — mais c'est **leur propre page de contact** qui les publie, donc
+l'exception est satisfaite et consignée. L'adresse retenue est celle du groupe.
+**RÈGLE PRODIESA, et elle est totale :** trempé, feuilleté, verre de sécurité et transformation
+industrielle **sortent de l'offre** — c'est tout leur métier. Seul le **substrat** y entre.
+
+```
+Goedendag,
+
+Dit is een leveringsaanbod en geen prijsaanvraag. Ik schrijf naar het adres van
+de groep en niet naar een van uw drie vestigingen apart, omdat het mij om het
+basisglas gaat en dat waarschijnlijk op een plek wordt ingekocht. Bent u niet
+die persoon, dan zou ik u dankbaar zijn als u dit doorgeeft.
+
+Mijn naam is Aaron Harfi en ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas met zetel bij Lyon in Frankrijk.
+
+Ik kom u niets aanbieden van wat u zelf maakt, en bij u is dat veel: gehard
+glas, gelaagd glas, veiligheidsglas, industriele glasbewerking. Dat is precies
+waarom ik schrijf. Een groep die op drie plaatsen glas BEWERKT, koopt geen
+afgewerkt glas. Die koopt blad, en in hoeveelheid.
+
+Wat wij leveren is dus alleen wat er bij u binnenkomt voordat u begint:
+
+- blank en extra blank floatglas: https://noxemgroup.com/en/float-glass/
+- laagemissief glas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- spiegelblad zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Onze site bestaat enkel in het Frans en het Engels. Elke referentie leg ik u
+graag in het Nederlands uit.
+
+Wij verschepen per VOLLEDIGE CONTAINER, in met ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Wij kunnen een aanbod opmaken voor levering in uw
+bestemmingshaven, onder voorbehoud van validatie van onze kant. Een container
+verdeeld over Bornem, Meer en Fleurus blijft een container, en dat is meestal
+het hele punt.
+
+Om er een op te maken heb ik vier dingen nodig: welke diktes uw ovens en uw
+lamineerlijn het meest verbruiken, welke bladmaten daarbij passen, een ruwe
+jaarhoeveelheid, en of Antwerpen voor u de juiste haven is.
+
+En ligt uw bevoorrading vast, zeg het dan gerust ronduit, dan dring ik niet
+aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 129. Sprimoglass (Sprimont et Hasselt, Belgique) — `info@sprimoglass.com` — FRANÇAIS — verrier
+
+**LA PLUS GROSSE CIBLE BELGE OUVERTE À CE JOUR, et de loin.** Le registre la donnait pour une
+transformation de verre plat de 120 ans. Le second temps rend bien mieux : **deux sites, Sprimont et
+Hasselt depuis 2021, près de 500 personnes**, et ils se présentent comme **leader du vitrage isolant
+pour le bâtiment**. NACE 23120, 100 % belge, société anonyme créée en 1975 sur un fonds de 120 ans.
+**C'est la classe métier la plus productive de la campagne — verrier pur, 12,8 % de réponses.**
+**⚠️ RÈGLE PRODIESA, ET ELLE DÉCIDE DE TOUT LE MESSAGE :** le **vitrage isolant est leur produit**,
+donc il sort de l'offre. Ce qui entre est exactement ce qu'une ligne de double vitrage consomme —
+et le **low-E en feuille est le cœur du sujet**, puisqu'une unité scellée performante se fait avec
+du verre à couche acheté en feuille.
+**⚠️ UN SEUL COMPTE POUR LES DEUX SITES**, et une entité *Groupe Sprimoglass* existe au même numéro
+de rue : écrire deux fois serait la faute Shibaam.
+**Adresse `info@` sur leur propre domaine, §5 satisfait sans exception. Aucun nom de personne.**
+**Rien sur notre entrepôt ni sur la proximité**, qui est l'argument de l'autre campagne. **Ni prix,
+ni délai.**
+
+```
+Bonjour,
+
+C'est une offre de fourniture et non une demande de devis. Si vous n'etes pas
+la personne qui achete le verre de base, je vous serais reconnaissant de lui
+transmettre.
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat pres de Lyon.
+
+Je vous ecris pour une raison precise, et c'est votre metier qui la donne :
+vous etes un transformateur de vitrage isolant, sur deux sites. Une ligne
+d'unites scellees ne vit pas de ce qu'elle vend, elle vit de ce qui entre - du
+float et surtout du verre a couche, en feuille, de maniere reguliere. Tout le
+reste en depend.
+
+Je ne viens donc vous proposer aucun vitrage isolant, c'est ce que vous
+fabriquez. Je viens avec ce qui entre avant :
+
+- Verre a faible emissivite, qui est le vrai sujet pour une ligne de double
+  vitrage : https://noxemgroup.com/service/verre-a-faible-emissivite/
+- Float clair et extra-clair : https://noxemgroup.com/en/float-glass/
+- Miroir sans cuivre ni plomb : https://noxemgroup.com/service/miroir-sans-cuivre-ni-plomb/
+
+La page du float n'existe qu'en anglais, notre site n'etant publie qu'en
+francais et en anglais.
+
+Nous expedions en CONTENEUR COMPLET, en caisses bois traitees NIMP-15, en jumbo
+de 3210 x 2550 mm ou aux cotes que vous demandez, 23 a 25 tonnes de charge
+utile. Nous pouvons etablir une offre pour la livraison a votre port de
+destination, sous reserve de validation de notre cote. Un conteneur reparti
+entre Sprimont et Hasselt reste un conteneur.
+
+Pour la preparer, il me faut quatre choses : les couches et les epaisseurs que
+vos lignes consomment le plus, les formats de feuille qui leur conviennent, un
+volume annuel approximatif, et le port que vous voulez voir chiffre, Anvers ou
+un autre.
+
+Et si votre approvisionnement est verrouille et qu'il n'y a pas de place pour
+une seconde origine, dites-le-moi franchement et je n'insisterai pas.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
