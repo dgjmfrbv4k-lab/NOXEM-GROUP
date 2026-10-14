@@ -2032,6 +2032,24 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   **Et c'est la faute du 12/10 par un troisième bout** : ce jour-là j'avais vérifié l'heure et pas le
   JOUR, et une quarantaine de messages sont partis bureaux fermés. Vérifier l'heure ne sert à rien si
   c'est le calcul de l'heure qui est faux.
+  **⚠️ ET LA MEME FAUTE PRISE PAR UN TROISIEME BOUT, LE 14/10 À 15h00 : J'AI ANNONCÉ UN RÉSULTAT
+  AVANT D'AVOIR LU SI LA COMMANDE AVAIT RÉUSSI.** Un message de commit déjà poussé affirmait que le
+  gisement allemand était consigné dans `PRIORITES-RECHERCHE.md`. **Il ne l'était pas :** le script
+  qui devait l'écrire avait échoué — les signes **pour cent** du texte cassaient la chaîne de format
+  de Python — et je n'avais pas lu sa sortie avant de commiter. Le commit reste faux dans
+  l'historique, et seul le commit suivant a pu le dire.
+  **C'est la même racine que les deux fautes ci-dessus : affirmer avant d'avoir lu.** L'heure tapée
+  au lieu d'être substituée, le comptage tapé au lieu d'être substitué, et maintenant **l'écriture
+  déclarée au lieu d'être vérifiée**.
+  **RÈGLE AJOUTÉE : quand un message de commit affirme qu'un fichier a été écrit, on vérifie que le
+  fichier PORTE le texte avant de commiter, par un `grep`** — et non pas seulement que la commande a
+  été lancée. C'est le pendant exact de la fenêtre de 72 heures sur les rebonds : un envoi n'est pas
+  confirmé à la réception de l'identifiant, une écriture n'est pas confirmée au lancement du script.
+  **Et le piège technique mérite d'être nommé parce qu'il resservira : un texte français contient
+  des `%`**, donc il ne se passe jamais dans un `'...' % variable`. On substitue par `.replace()`,
+  comme le mandat impose déjà le heredoc quoté contre l'accent grave. Ma prose n'est pas de la
+  prose, c'est de l'entrée pour une machine — c'est le quatrième caractère de cette famille après
+  le `;`, le mot `DOUBLON` et l'accent grave.
   Deux envois d'ecart ne changent rien a un dossier, mais un chiffre invente dans un suivi qui sert
   de preuve est un faux au sens du paragraphe 16 — et c'est le meme defaut qui faisait annoncer
   « aucun rebond » sur une fenetre d'observation trop courte : affirmer avant d'avoir lu.
