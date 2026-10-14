@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **14/10/2026** depuis le registre. **192 societes** portent un telephone et
+Regeneree le **14/10/2026** depuis le registre. **199 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 192 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 199 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 178 societes
+## Hors Europe — 179 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | États-Unis | **The Glenny Glass Company** | `+1 513 489 2233` | 15h00 - 23h00 | A APPELER | LOT AMERICAIN DU 14/10 A 11h25, PAR LE PORTAIL SECTORIEL glassonweb et non par une recherche large. La decouverte large etait mesuree saturee aux Etats-Unis le 13/10, 15 noms sur 19 deja au registre, et le portail a rendu quatr... |
 | États-Unis | **Crone Wholesale Glass** | `+1 818 894 3644` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 17h29 par une recherche de decouverte sur les distributeurs americains, le gisement des fiches a site sans adresse etant epuise aux Etats-Unis et au Canada. Grep crone fait avant creation, absent du ... |
 | Ghana | **Punamactex Ent. Ltd** | `+233 21 689800` | 11h00 - 19h00 | A APPELER | BON PROFIL : negociant etabli depuis 1995 annoncant du float clair et du float teinte, donc importateur par construction. Port de Tema, nomme au paragraphe 4. Aucune adresse publiee dans les sources : a appeler. |
+| Mexique | **Vitromatic** | `+52 481 113 9953` | 17h00 - 01h00 | A APPELER | FICHE CREEE LE 14/10 A 11h30 PAR LE PORTAIL SECTORIEL, et le Mexique est le quatrieme marche ouvert ainsi aujourd hui. Mot distinctif grepe avant creation, vitromatic, ABSENT. ⚠ PIEGE DE NOM LEVE AVANT DE CREER, ET IL ETAIT REE... |
 | République dominicaine | **IMPORTDOM — Importa Dominicana de Vidrios y Materiales** | `+1 829 678 6775` | 15h00 - 23h00 | A APPELER | Calle 1ra n 10, El Naranjo. IMPORTATEUR DECLARE. Aucune adresse email publiee : a rappeler. Port Caucedo. METHODE EN DEUX TEMPS APPLIQUEE LE 08/10 : AUCUN DOMAINE PROPRE, la societe n a pas de site. POINT DE CONFORMITE A CONSIG... |
 | Équateur | **Grupo Viceva — FERCEVA S.A.** | `+593 4 2920298` | 16h00 - 00h00 | A APPELER | LOT EQUATORIEN DU 14/10 A 10h58. Le registre portait sept fiches equatoriennes, dont SIX a Quito ou Cuenca et une seule a Guayaquil, alors que Guayaquil est LE port du pays et sa capitale commerciale. Une recherche de decouvert... |
 | Algérie | **Technoglass** | `+213 555 62 47 74` | 10h00 - 18h00 · **dim-jeu** | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. Port Djendjen ou Bejaia. VERIFIE LE 08/10, TOUJOURS SANS ADRESSE EXPLOITABLE. Profil confirme et interessant : importation distribution et transformation du verre depuis 1987, SARL c... |
@@ -246,24 +247,30 @@ ne pas les appeler en se presentant comme un premier contact.
 | Haïti | **L Union Quincaillerie Materiaux de Construction** | `+509 35 27 03 30` | 15h00 - 23h00 | A QUALIFIER | La fiche ne mentionne pas de vitrerie : rien ne dit qu ils vendent du verre. Priorite basse, a qualifier avant tout effort. |
 | Sénégal | **SK ALU** | `+221 65 944 90 80` | 11h00 - 19h00 | A APPELER | Petite structure, à qualifier.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relance comme au decompte des fiches jamais contactees. Aucune adresse publiee, donc dossier... |
 
-## Europe — 14 societes
+## Europe — 20 societes
 
 Rappel du paragraphe 6 : **pas de nouvelle prospection europeenne.** Ces fiches ne s'appellent que
 s'il s'agit de relancer un dossier deja ouvert.
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
+| Allemagne | **Glas-Lerchenmueller GmbH** | `+49 6071 9236-0` | 09h00 - 17h00 | A QUALIFIER | Membre du Flachglas MarkenKreis, troisieme vague, celle prise par le MOT DU METIER. Le reseau le donne pour un gros TRADITIONNEL tenant environ CINQ CENTS articles en stock, float, verre coule, trempe, feuillete et miroirs. C e... |
 | Espagne | **Ramos Industria del Vidrio S.L.** | `+34 916 850 195` | 09h00 - 17h00 | A APPELER | 7000 m2 d usine et 2000 tonnes de stockage, centre de distribution a Fuenlabrada. Port Valence ou Bilbao, envoi en espagnol ADRESSE REBONDIE le 25/09 (550 5.1.1) : appeler le +34 916 850 195. BALAYAGE DU 08/10 : FICHE NON TESTE... |
 | Lituanie | **UAB SKP stiklas** | `+370 37 455 530` | 08h00 - 16h00 | A APPELER | Un des plus gros fabricants de vitrage isolant des pays baltes. Aucune adresse email publiee : a rappeler. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensemble des f... |
 | Pologne | **Glass Hurt** | `+48 530 412 642` | 09h00 - 17h00 | A APPELER | Grossiste sur la Triville (Gdansk, Gdynia, Sopot), a 10 minutes du port. Aucune adresse email publiee : a rappeler. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensem... |
 | Allemagne | **Völker Glashandel GmbH** | `+49 40 851 7480` | 09h00 - 17h00 | A APPELER | Winsbergring 30. Activite import-export declaree. Aucune adresse email publiee : a rappeler. |
+| Allemagne | **Steenebruegge GmbH & Co. KG** | `+49 2631 8386` | 09h00 - 17h00 | A QUALIFIER | Membre du Flachglas MarkenKreis, 350 km environ de l entrepot. DISTINCTE DE TARDIS, voir la fiche Tardis pour la verification. Aucun domaine propre trouve au premier temps, donc aucune adresse et pas de second temps possible en... |
 | Allemagne | **HoffmannGlas GmbH + Co. Glasgroßhandlung KG** | `+49 5171 2910` | 09h00 - 17h00 | A APPELER | Grossiste independant de taille moyenne, deux sites. Aucune adresse email publiee : a rappeler. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensemble des fiches verro... |
+| Allemagne | **PG PROJEKT GLAS GmbH** | `+49 7133 900 85 77` | 09h00 - 17h00 | A QUALIFIER | Membre du Flachglas MarkenKreis. FICHE RETENUE SANS ENVOI, meme doute de perimetre que GLS et il faut le poser avant d ecrire plutot qu apres. Leur site entier se presente comme PARTENAIRE ET REVENDEUR D OMNIDECOR, marque itali... |
 | Belgique | **Bouwmaterialen De Groote — Houtboerke** | `+32 9 253 86 08` | 09h00 - 17h00 | A APPELER | NEGOCE DE MATERIAUX QUI TIENT DU VERRE PLAT, donc le profil Cottrell et Point Mat applique a la Belgique. La question n est pas si le verre a sa place chez eux mais en quelle quantite ils l achetent. Adresse sur un quai a Gand,... |
 | Croatie | **Eko Vetri** | `+385 91 221 1998` | 09h00 - 17h00 | A APPELER | Sur le port de Rijeka : transit le plus court. Relance 07/10 sans signature, une seule question sur les plus gros volumes annuels, porte de sortie. Relance volontairement tres courte, l argumentaire ayant deja ete servi le 22/0... |
 | Roumanie | **TAMISTEF** | `+40 757 222 272` | 08h00 - 16h00 | A APPELER | À qualifier. Port Constanta, envoi en roumain. Relance 07/10 sans signature, une seule question sur les plus gros volumes annuels, porte de sortie. Angle dix-huit ans de vitrage isolant : ligne tournant en continu sur les memes... |
+| Allemagne | **Glastechnik Engels GmbH** | `+49 201 438810` | 09h00 - 17h00 | A QUALIFIER | Membre du Flachglas MarkenKreis. En plein Ruhr, 270 km environ de l entrepot. Maison familiale depuis 1919. Domaine confirme par deux de leurs propres pages dans les URL de resultats, la page a propos et la page de contact. Adr... |
 | Portugal | **Vicar — Vidros e Espelhos** | `+351 219 552 548` | 10h00 - 18h00 | A APPELER | Port Lisbonne, envoi en portugais DOMAINE vicar.pt INTROUVABLE le 25/09 : chercher le bon domaine ou appeler. RETESTEE LE 13/10 A 08h36 PAR RECHERCHE RESTREINTE AU DOMAINE, ET LE RESULTAT EST PIRE QU UN REBOND. La recherche ren... |
 | Serbie | **ROMIKS** | `+381 63 696 446` | 09h00 - 17h00 | A APPELER | Pays enclave : transit par Koper. ADRESSE REBONDIE : rappeler au +381 63 696 446. CONTROLE MX DU 07/10 : le domaine romiks.rs ne resout pas (NXDOMAIN), l adresse info@romiks.rs ne peut pas recevoir. Adresse retiree du registre.... |
+| Allemagne | **Glasmanufaktur TARDIS GmbH & Co. KG** | `+49 2631 95472-0` | 09h00 - 17h00 | A QUALIFIER | Membre du Flachglas MarkenKreis, 350 km environ de l entrepot. QUESTION D IDENTITE LEVEE AVANT DE CREER, ET ELLE AURAIT COUTE UN DOUBLON. Le relevé du reseau donnait Tardis ET Steenebrugge au MEME code postal 56566, ce qui est ... |
 | Belgique | **Chantraine & Co** | `+32 2 581 01 57` | 09h00 - 17h00 | A APPELER | LA PLUS PROCHE DE L ENTREPOT DE TOUT LE LOT, Lennik etant a une quinzaine de kilometres de Mollem. Et deux signaux de l independance recherchee, elle se dit FAMILIALE et active depuis 1946, donc anterieure aux rachats par les g... |
 | Irlande | **Bantry Glass & Glazing Ltd** | `+353 27 51132` | 10h00 - 18h00 | A APPELER | Adresse e-mail tronquee dans l'annuaire : ne pas deviner, appeler. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensemble des fiches verrouillees de la journee, sauf c... |
+| Allemagne | **Carl Abel Glas GmbH** | `+49 2251 8106-0` | 09h00 - 17h00 | A QUALIFIER | Membre du Flachglas MarkenKreis. LA PLUS PROCHE DE L ENTREPOT DE TOUT LE RELEVE ALLEMAND, 180 km environ, soit plus pres que la moitie de la Belgique. FOURNISSEUR DE SUBSTRAT ETABLI SANS DEPENSER UN APPEL. Saint-Gobain Glass De... |
 | Espagne | **Dicrisur S.L.** | `+34 955 631 906` | 09h00 - 17h00 | A APPELER | Seule adresse trouvee rattachee a cristalauto.es (vitrage automobile) : appeler pour obtenir le contact verre plat. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensem... |
 | Croatie | **Staklo Rijeka d.o.o.** | `051 568 528` | 09h00 - 17h00 | A APPELER | Petite structure — vérifier qu'elle peut absorber un conteneur. Qualifie le 07/10 : Kumiciceva 41A Rijeka, dirigeant Vujadin Djurdjevic selon le registre. La seule adresse trouvee est un gmail publie par un agregateur de regist... |
