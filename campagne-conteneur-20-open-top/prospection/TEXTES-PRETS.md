@@ -8452,3 +8452,75 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 154. INCO — Industrias Consolidadas (Soyapango, Salvador) — `info@inco.com.sv` — ESPAGNOL
+
+**LE SALVADOR N AVAIT QUE TROIS FICHES POUR SIX MILLIONS D HABITANTS, et voici la meilleure.**
+Maison de **1963**, Final 1a Avenida Norte à Soyapango, San Salvador. Un répertoire d'exportateurs
+salvadorien la décrit comme **fabricante de vidrio templado y laminado**, et elle s'y annonce
+**« únicos fabricantes de vidrio templado en El Salvador »** — ⚠️ c'est une **auto-description**,
+donc à ne pas reprendre comme un fait, mais elle dit le positionnement.
+Gamme au répertoire gouvernemental : escaliers, **vidrio en láminas**, trempé, profilés aluminium,
+tableaux, miroirs. **Le « vidrio en láminas » compte : ils revendent de la feuille, pas seulement
+leur transformation.**
+`info@` lue sur leur propre page de contact, domaine confirmé trois fois dans les URL.
+**⚠️ UN NOM ÉCARTÉ AU TEST MUNNWORKS :** un annuaire **gouvernemental d'investissement** donne
+Héctor Ramírez, `hramirez@`, comme **contact commercial** — donc le côté vente, pas les achats. Le §5
+exige une fonction pertinente **pour les achats**, et la source se dit elle-même possiblement
+périmée. Non employé.
+**⚠️ Et `soyapango@inco.com.sv` n'est pas pris non plus** : c'est la boîte d'un **magasin**, donc du
+détail. La règle du §13 qui préfère l'agence vise une agence **commerciale**, pas un point de vente.
+**Règle Prodiesa : trempé, feuilleté et miroirs sortent de l'offre. Reste le substrat.**
+**⚠️ AUCUN ARGUMENT DOUANIER ni d'absence de production locale.** Le §6 note que **Vitro dessert
+l'Amérique centrale depuis le Mexique**, et les droits salvadoriens sont inconnus.
+**Contexte qui pèse : le Guatemala voisin a répondu aujourd'hui en quatre heures par une demande de
+prix.** Le message tient sur l'origine et la seconde source.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien
+compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo porque ustedes templan y laminan desde 1963, y porque manejan
+tambien vidrio en laminas. Las dos cosas dicen lo mismo: entra hoja, de forma
+regular y en volumen, y su horno y su linea dependen de que siga entrando.
+Una segunda origen asegurada no es un lujo en esa situacion.
+
+No vengo a ofrecerles nada de lo que ustedes fabrican: ni templado, ni
+laminado, ni espejo. Solo el vidrio base que entra antes:
+
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- hoja de espejo sin cobre ni plomo, si compran hoja en lugar de platearla:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+Cualquier referencia se la explico en espanol.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en
+jumbo de 3210 x 2550 mm o en medidas a pedido, con carga util de 23 a 25
+toneladas. Podemos establecer una oferta para la entrega en su puerto de
+destino, bajo reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: que espesores consumen en volumen, las
+medidas que alimentan mejor su horno y su linea de laminado, cuanto y con que
+frecuencia, y su puerto, Acajutla o el que ustedes usen.
+
+Y si su abastecimiento actual no deja lugar a una segunda origen, digamelo
+con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
