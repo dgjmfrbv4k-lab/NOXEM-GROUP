@@ -187,6 +187,25 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   plutôt que paralysante : le même portail a rendu **Industrial Mercantil San Simón** au Guatemala, et là le
   second temps a **confirmé** le métier sur leur propre page float. Le portail ne ment pas plus qu'il ne dit
   vrai : **il désigne où regarder.**
+  **⚠️⚠️ ET LE 14/10 AU SOIR DONNE LE CHIFFRE, APRÈS CINQ NOMS PRIS AUX RUBRIQUES DE NÉGOCE DE CE MÊME
+  PORTAIL EN QUARANTE-HUIT HEURES : UN CONFIRMÉ, TROIS DÉMENTIS, UN INVÉRIFIABLE.**
+  · **Industrial Mercantil San Simón** (Guatemala), donnée pour fournisseur de float : **confirmée** sur
+    son propre domaine — et c'est elle qui a rendu la demande de prix la plus rapide de la campagne.
+  · **Imporex** (Montevideo), donnée *importador y comercial de vidrio plano* : **récipients et arts de
+    la table** sur son propre domaine.
+  · **Faiquito** (Quito), donnée *almacenista y distribuidor* : **façadier de mur-rideau** — toutes ses
+    pages sont des chantiers d'aéroport et de centre commercial.
+  · **ALCRISTAL** (Guayaquil), donnée *almacenista y distribuidor* : **systèmes aluminium, portes
+    automatiques, quincaillerie et polycarbonate**. Elle importe, mais pas de la feuille de verre.
+  · **Antillian Service Corporation** (Saint-Domingue), donnée *importador y comercial* : **trois raisons
+    sociales voisines et aucune coordonnée**, identité non tranchée.
+  **CE QUE CE CHIFFRE AJOUTE À LA LEÇON IMPOREX, ET C'EST PLUS PRÉCIS QUE « VÉRIFIER » : LA RUBRIQUE DE CE
+  PORTAIL N'EST PAS UNE QUALIFICATION, C'EST UNE DÉCLARATION DE LA SOCIÉTÉ À L'ANNUAIRE.** Un façadier qui
+  achète beaucoup de verre se décrit volontiers comme distributeur de verre, et il ne ment pas vraiment —
+  il ne dit simplement pas qu'il l'achète **coupé**. **Le mot qui tranche n'est donc pas *distribuidor*,
+  c'est l'ÉPAISSEUR et le FORMAT** : une maison qui stocke de la feuille publie ses épaisseurs, de 2 à
+  19 mm chez Centro de Vidrio, de 1,8 à 20 chez les autres. **Aucun façadier n'en publie.** À chercher
+  dans le second temps, au même coût que le reste.
   **⚠️ ET LA LEÇON S'ÉTEND AU PAYS, PAS SEULEMENT AU MÉTIER — deux cas de plus le 14/10 à 11h42.**
   · **Distribuidora Arquetipo** était classée sous le **Pérou** par le portail. Vérifiée : elle est
     **chilienne**, quatre succursales à Santiago, Antofagasta, Coquimbo et Talca. La fiche est créée, mais
