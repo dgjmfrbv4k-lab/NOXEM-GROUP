@@ -5994,3 +5994,62 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 118. Vitromatic (Mexique, San Luis Potosí) — `grupo@vitromatic.com` — ESPAGNOL — négoce
+
+**Plus de vingt succursales, et des verres nationaux ET importés** — un réseau de cette taille qui
+importe déjà achète au conteneur par construction. **Piège de nom levé avant d'écrire :** Vitromatic
+est aussi le nom d'une coentreprise d'électroménager liée à Vitro ; leur propre site établit que
+celle-ci est bien une maison du verre plat. **⚠ DOUBLE INTERDIT MEXICAIN DU §6, tenu à la lettre :
+rien sur les droits de douane**, la question de la préférence UE n'étant pas tranchée, **et rien sur
+l'enquête miroir** ouverte le 21/05/2026, une enquête ouverte n'étant pas une mesure. **Et jamais
+l'absence de production locale**, le Mexique ayant Vitro, Saint-Gobain et Guardian.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo por dos cosas que van juntas en su caso: ustedes tienen mas de
+veinte sucursales, y manejan vidrio nacional Y DE IMPORTACION. Lo segundo
+significa que ya saben recibir un contenedor y nacionalizarlo, y lo primero,
+que tienen donde colocar lo que entra. Esa combinacion es poco frecuente, y es
+exactamente a ella que nos dirigimos.
+
+No vengo a competir con lo que compran bien en plaza. Vengo con lo que una
+linea nacional no suele mantener en inventario:
+
+- float extra claro, de alta transmision: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo, que no se corroe en los cantos con aire humedo:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+Cualquier referencia se la explico en espanol.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido, con carga util de 23 a 25 toneladas.
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: de lo que hoy importan, que referencias
+y espesores son los que mas les cuesta reponer a tiempo, las medidas que les
+sirven, un volumen aproximado y la frecuencia, y su puerto, Altamira,
+Veracruz o Manzanillo.
+
+Y si sus origenes actuales les cubren, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
