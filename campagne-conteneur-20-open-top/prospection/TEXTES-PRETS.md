@@ -5935,3 +5935,62 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 117. The Glenny Glass Company (États-Unis, Ohio) — `sales@glennygls.com` — ANGLAIS — négoce
+
+**Leur propre formule donne l'angle : « independent wholesale distributor ».** Le mot *independent*
+dit qu'ils ne sont pas liés à un producteur — c'est exactement la porte ouverte à une seconde
+origine. **Et c'est le marché où l'argument du §6 est le plus fort**, les ordres du 06/04/2026
+frappant la Chine à 181,52 % et la Malaisie de 17,3 à 102 % en compensateur, l'Europe n'étant visée
+par aucun. **Précaution de formulation du §6 tenue à la lettre :** on ne dit pas que notre verre est
+bon marché, on dit que les deux origines les moins chères portent désormais des droits, et aucun
+taux n'est cité comme une promesse de prix. **Aucune adresse nominative employée** — deux ont été
+écartées, sans fonction vérifiée pour les achats.
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. If you are not the person who buys glass, I
+would be grateful if you passed this on to whoever does.
+
+I am writing because of one word you use about yourselves: independent. A
+distributor who is not tied to a single producer is the only kind for whom a
+second origin is a real option rather than a complication - and that is the
+whole of my proposition.
+
+One fact that changed the comparison this year, and I state it as a customs
+fact rather than as a claim about our prices: since April the two cheapest
+import origins into the United States carry antidumping and countervailing
+duties. European glass is covered by none of those orders. I am not telling
+you what our glass costs - I am saying the arithmetic you did two years ago is
+no longer the same arithmetic.
+
+What we ship:
+
+- clear and extra-clear float: https://noxemgroup.com/en/float-glass/
+- low-emissivity glass: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper and lead free mirror: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+We ship in FULL CONTAINERS, in NIMP-15 treated wooden cases, in 3210 x 2550 mm
+jumbo sheets or cut to your sizes, 23 to 25 tonnes payload. We can establish an
+offer for delivery to your port of destination, subject to validation on our
+side.
+
+To prepare it I need four things: which references and thicknesses move in
+volume for you, the sizes that suit your stock, roughly how much and how often,
+and your port of entry.
+
+And if your current supply leaves no room for another origin, say so plainly
+and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
