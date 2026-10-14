@@ -1739,7 +1739,15 @@ python3 - <<'EOF'
 import io, collections, re
 R=[l.split(';') for l in io.open('liste-prospects.csv',encoding='utf-8').read().rstrip('\n').split('\n')[1:] if len(l.split(';'))==10]
 print('1. statuts vides             :', sum(1 for c in R if not c[9].strip()))
-print('2. adresse mais statut appel :', sum(1 for c in R if c[6].strip() and c[9] in ('A APPELER','A QUALIFIER')))
+# Controle 2, CORRIGE LE 14/10 A 15h06 : il rendait 12 faux positifs sur 12. Une fiche gardee en
+# A APPELER avec une adresse au champ 7 n est presque jamais une fiche oubliee : c est une fiche
+# dont l adresse A REBONDI et qu on conserve pour l historique. Le controle les comptait toutes.
+# Il separe desormais les deux, et seule la seconde ligne est un signal.
+MORTE = re.compile(r'REBOND|rebondi|boite pleine|Mailbox is full|550|5\.1\.1|5\.4\.1|5\.7\.|'
+                   r'NE COMPTE PAS|adresse morte|quota d hebergement', re.I)
+gar = [c for c in R if c[6].strip() and c[9] in ('A APPELER','A QUALIFIER')]
+print('2a. adresse MORTE gardee pour historique :', sum(1 for c in gar if MORTE.search(c[8])))
+print('2b. ADRESSE VIVANTE mais fiche garee     :', [c[3] for c in gar if not MORTE.search(c[8])])
 m=collections.defaultdict(list)
 for c in R:
     if c[6].strip() and not c[9].startswith(('NE PAS','ECARTE')): m[c[6].strip().lower()].append(c[3])
