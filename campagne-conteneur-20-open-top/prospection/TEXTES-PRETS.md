@@ -8369,3 +8369,86 @@ recibirá la oferta más competitiva hasta su puerto.
 
 Quedo a su disposición.
 ```
+
+---
+
+## 153. Glaslinq BV (Groningue) — `groningen@glaslinq.nl` — NÉERLANDAIS — grossiste indépendant
+
+**LE PROFIL EXACT QUE LE §6 DIT DE CHERCHER, ET IL LE DIT DE LUI-MÊME :** *« Dé **onafhankelijke**
+glasgroothandel van Noord-Nederland »* — le grossiste **indépendant** du nord des Pays-Bas. Le §6
+établit depuis ce matin qu'en Belgique et dans le Golfe les gros grossistes appartiennent aux
+producteurs float, et que **le négociant indépendant est l'exception et notre seul client**. En voici
+un qui se définit par ce mot.
+**SEPTIÈME QUESTION DE GROUPE DE LA JOURNÉE, LEVÉE AVANT D'ÉCRIRE, ET FAVORABLE.** Ils appartiennent
+au **Olijslager Groep**, qui opère en **quatre segments : peinture, finition, industrie-bâtiment et
+verre**. **Ce n'est pas un producteur float** — donc « indépendant » reste vrai au sens qui nous
+intéresse, celui de l'approvisionnement. C'est l'inverse de Scheuten, fermée ce matin parce que Glas
+Trösch produit du float.
+**⚠️ ET UNE DATE CORRIGÉE EN PASSANT :** une première source donnait le rachat à **2024**, la presse
+spécialisée le date du **1ᵉʳ octobre 2022**, avec la fusion des quatre maisons en *Glaslinq BV* au
+**1ᵉʳ janvier 2023**. Généalogie : VAG Glas (Groningue, 2017), Glashandel Sneek (2020), Glas-LinQ
+Deventer et Meppel (2022).
+**QUATRE SUCCURSALES, UN SEUL COMPTE :** Groningue (siège, Wismarweg 7, KVK 68740980), Sneek, Meppel
+et Deventer. Chacune publie **sa propre boîte** sur `glaslinq.nl` — il n'existe pas de boîte générale,
+donc la règle du §13 qui préfère l'agence s'applique d'office. **Envoi au siège de Groningue.**
+**⚠️ UN ACHETEUR NOMMÉ ET VOLONTAIREMENT NON EMPLOYÉ.** Un réseau professionnel donne un *Inkoper* —
+acheteur — **au niveau du GROUPE Olijslager**. La fonction serait pertinente au sens du §5, mais la
+source n'est pas leur page et **aucune adresse n'est publiée** : la déduire serait le piège prospeo.
+**En revanche le fait compte et il entre dans le message sous forme de QUESTION** : si les achats
+verre se décident au groupe et non chez Glaslinq, je veux le savoir plutôt que le supposer — c'est le
+critère du bureau d'achat du §12, posé au lieu d'être présumé, comme sur Glas Fritz et Flachglas
+Sachsen aujourd'hui.
+**Ils tiennent l'isolant EN STOCK dans leurs points de vente** — donc ils l'achètent, et la lecture du
+verbe s'applique : *stocker ajoute*. ⚠️ Leur accueil dit pourtant « livré en 3 à 10 jours après
+commande », ce qui contredit le stock. Contradiction notée, non employée.
+**Ils ont leur propre équipe de pose : la pose sort de l'offre.**
+**⚠️ INTERDIT DU §6 : rien sur la production locale aux Pays-Bas, le garde-fou y porte NON ÉTABLI.**
+
+```
+Geachte heer, mevrouw,
+
+Mijn naam is Aaron Harfi, ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas bij Lyon in Frankrijk. Dit is een leveringsaanbod en geen
+prijsaanvraag. Bent u niet degene die inkoopt, dan ben ik u dankbaar als u
+dit doorgeeft.
+
+Ik schrijf u om een woord dat u zelf gebruikt: onafhankelijk. Dat is precies
+het profiel waar ik naar zoek, want een onafhankelijke groothandel kan een
+extra herkomst overwegen - een huis dat aan een glasfabrikant vastzit niet.
+U bedient vier vestigingen en u houdt isolatieglas op voorraad, dus blad moet
+binnenkomen, regelmatig en in volume.
+
+Ik bied u niets aan wat u zelf uitvoert - geen plaatsing. Alleen voorraad:
+
+- Helder float en extra helder glas: https://noxemgroup.com/en/float-glass/
+- Coated warmte-isolerend glas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegelglas zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Onze website bestaat alleen in het Frans en het Engels. Elke referentie licht
+ik u graag in het Nederlands toe.
+
+Wij verschepen in VOLLEDIGE CONTAINERS, in IPPC/ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Een container laat zich over Groningen, Sneek, Meppel en
+Deventer verdelen. Wij kunnen een aanbod opstellen voor levering in uw
+bestemmingshaven, onder voorbehoud van validatie van onze kant.
+
+Daarvoor heb ik vier gegevens nodig: welke diktes en coatings uw vestigingen
+het meest verbruiken, welke bladmaten u passen, een indicatie van uw
+jaarvolume met de bestelfrequentie, en welke haven u berekend wilt zien,
+Rotterdam of Amsterdam. En zegt u mij alstublieft ook of glas bij Glaslinq
+zelf wordt ingekocht dan wel centraal bij de Olijslager Groep - dan richt ik
+mij tot het juiste bureau.
+
+En als uw inkoop vastligt en er geen ruimte is voor een extra herkomst, zegt u
+het mij gerust, dan dring ik niet aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
