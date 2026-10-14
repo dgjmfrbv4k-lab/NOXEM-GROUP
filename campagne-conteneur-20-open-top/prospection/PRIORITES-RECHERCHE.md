@@ -150,3 +150,36 @@ Breda, Burman Glas et Martin Glas a Eindhoven, Glasbewerking Brabant et Quick Gl
 Evers dit Beopane a Schijndel, Scheuten Glasgroep a Venlo, Magho Glas a Dortmund, Glas Bogumil a
 Lunen, Glas Van Lent a Ekeren, De Grom en Belgique. **Toutes sortent d'annuaires, donc aucune n'est
 qualifiee tant que son propre site n'a pas ete lu.**
+
+### Liste d'amorce du MarkenKreis — dix membres NOMMES le 14/10 a 15h04, neuf absents du registre
+
+**Un seul appel de recherche a suffi** pour transformer le gisement en noms. Les neuf suivants ont
+ete grepes un par un sur leur element distinctif le plus court — ce qui est gratuit — et **tous
+sont absents du registre**. Le dixieme, Joh. Franz Koenig a Cologne, a recu son message le 14/10.
+
+| Societe | Lieu | Note |
+|---|---|---|
+| **Glaswerke Wolff + Meier Isolierglas** | Langgoens (Hesse) | le nom annonce le metier |
+| **FLACHGLAS Sachsen GmbH** | Grimma (Saxe) | |
+| **FLACHGLAS Suelzfeld GmbH** | Suelzfeld (Thuringe) | annonce la gamme complete d isolant |
+| **FLACHGLAS Wernberg GmbH** | Wernberg (Baviere) | |
+| **Mosa Glas** | Greven (Westphalie) | |
+| **Linther Glas / Koelling Glas** | Linthe (Brandebourg) | |
+| **glas strack innovations** | Bochum (Rhin-Ruhr) | **le plus proche de l entrepot** |
+| **Glasbau Aschaffenburg** | Aschaffenburg (Baviere) | |
+| **Glastech** | Basse-Autriche | ⚠ **du groupe Josko-Scheuringer depuis 2024**, lien a lever avant d ouvrir |
+
+**UN FAIT QUE JE N AVAIS PAS ET QUI ELARGIT LE GISEMENT : le reseau couvre l ALLEMAGNE, l AUTRICHE,
+la SUISSE ET LES PAYS-BAS**, et pas seulement l Allemagne. Le compendium du reseau le dit.
+**Consequence : ce gisement vaut aussi pour trois pays ou le registre est mince**, et il vaut pour
+la Suisse, que la campagne n a jamais ouverte.
+
+**⚠ RESERVE SUR LA SOURCE :** la page des membres a environ 477 jours selon les metadonnees du
+moteur, donc la liste peut avoir bouge — deux entrees recentes, Glastech et Joh. Franz Koenig, n y
+figuraient pas. **Les 48 autres noms restent a extraire**, et il faudra une lecture de la page
+elle-meme, pas une recherche par mots-cles.
+
+**⚠ ET LE CRITERE DU FRAGMENT DE MARQUE S APPLIQUE A CETTE LISTE COMME AUX AUTRES :** `FLACHGLAS`
+en tete de trois raisons sociales est le nom du reseau, pas celui d un producteur float — ce n est
+donc PAS un signal d appartenance a un groupe verrier, contrairement a `Glaver` ou a `Pilkington`.
+C est le pendant du piege `zoujaj` : un mot du metier n autorise ni a ouvrir ni a fermer.
