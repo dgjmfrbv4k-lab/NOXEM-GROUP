@@ -2105,6 +2105,26 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   **Conduite : sur tout prospect distributeur, chercher cette page dans le même second temps**, avec les mots
   *fournisseurs*, *proveedores*, *fornecedores*, *suppliers*, *marcas*, *nuestras marcas*. Zéro appel
   supplémentaire, puisque la recherche est déjà restreinte à son domaine.
+  **⚠️⚠️ ET IL FAUT CHERCHER UNE BOÎTE D'ACHATS, PAS SEULEMENT UNE ADRESSE — TROUVÉ LE 14/10 À
+  14h59, ET C'EST LA PREMIÈRE EN PLUS DE SIX CENTS ENVOIS.** `Vandaglas` publie sur sa page de
+  contact une adresse **`inkoop@`**, c'est-à-dire **achats**, à côté de son `info@`, de ses cinq
+  boîtes de succursale et de sa comptabilité. **C'est la meilleure adresse possible pour cette
+  campagne, et je ne l'avais jamais cherchée.**
+  **POURQUOI C'EST PLUS QU'UNE ADRESSE DE PLUS :** le §9 ouvre chaque message par « si vous n'êtes
+  pas la personne qui achète, transmettez » — c'est-à-dire qu'on paie, à chaque envoi, le coût
+  d'arriver au mauvais bureau. Une boîte d'achats supprime ce coût **et** le délai de
+  transmission, qui est l'endroit où un message à froid meurt le plus souvent.
+  **LES MOTS À CHERCHER DANS LE SECOND TEMPS, par langue, et cela ne coûte aucun appel de plus
+  puisque la recherche est déjà restreinte au domaine :** `inkoop` en néerlandais, `einkauf` et
+  `beschaffung` en allemand, `purchasing` et `procurement` en anglais, `compras` en espagnol et en
+  portugais, `achats` et `approvisionnement` en français.
+  **⚠️ ET LA DISTINCTION QUI ÉVITE LE PIÈGE MUNNWORKS :** on cherche la boîte de **l'acheteur**,
+  pas celle qui reçoit **les commandes des clients**. `openorders@` chez MunnWorks était une boîte
+  de commandes entrantes, et la mention *purchasing inquiries* sur leur page produit désignait les
+  clients qui veulent acheter **chez eux**. Le test : la boîte est-elle placée du côté des
+  **fournisseurs** ou du côté des **clients** ? `inkoop@` chez Vandaglas voisine avec
+  `crediteuren@`, les comptes **fournisseurs** — c'est le bon côté, et c'est ce voisinage qui le
+  prouve plutôt que le mot seul.
   **Et le premier temps rend parfois mieux qu'une adresse : la bonne identité.** La fiche
   « Importadora de Vidrios y Espejos Milagros » a fait remonter une société voisine, Imporvidrios
   SRL, qui porte **le même téléphone et le même secteur** — très probablement la même maison sous
