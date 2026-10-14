@@ -1866,6 +1866,22 @@ recherche porte sur l'ADRESSE DE SIÈGE et le NUMÉRO D'IMMATRICULATION, jamais 
 les deux seules choses qu'un groupe ne dédouble pas. **Et un territoire d'outre-mer multiplie le
 risque** : un groupe antillais se déclare naturellement sur plusieurs îles, que le registre range en
 « pays » distincts.
+**⚠️ ET LE CRITÈRE QUI DÉCIDE N'EST PAS LE LIEN CAPITALISTIQUE, C'EST LE BUREAU D'ACHAT — formulé le
+14/10 à 11h45 parce que j'ai tranché les DEUX SENS le même jour et qu'il faut dire pourquoi ce n'est
+pas une incohérence.**
+· **Saint Lu** (Sainte-Lucie et Grenade) → **un seul compte, un seul message**, la filiale grenadienne
+  passée en `NE PAS DEMARCHER`. Elle partage l'adresse et la direction de la maison mère.
+· **Extralum** (Costa Rica, Panama, Honduras) → **deux comptes**, et les deux fiches ont reçu leur
+  relance le 12/10. Une **usine** par pays, un **domaine** par pays, un **port** différent — Moín contre
+  Colón ou Balboa — et des conditions d'importation nationales distinctes.
+**La question n'est donc pas « est-ce le même groupe ? » mais « est-ce le même acheteur qui décide ? ».**
+Un groupe qui a une usine et un port par pays a un bureau d'achat par pays, et lui écrire deux fois n'est
+pas la faute Shibaam : c'est écrire à deux clients. Un groupe dont la filiale est servie depuis le siège
+n'en a qu'un, et deux messages y arrivent sur le même bureau.
+**⚠️ Et ce critère reste une PRÉSOMPTION tant qu'on n'a pas demandé.** Si Extralum centralise ses achats
+au Costa Rica, les deux relances du 12/10 sont une faute et la fiche panaméenne doit s'arrêter. **C'est
+écrit dans les deux fiches pour qu'on puisse me contredire**, et c'est le genre de chose qu'un appel
+tranche en trente secondes — une raison de plus pour le créneau d'appel demandé à Kevin.
 **Coût évité : un deuxième message à une société écrite le 06/10**, sur un compte qui touche notre
 seul client export. **Et gain commercial au passage :** un acheteur qui fournit ses ateliers de
 Guadeloupe *et* de Martinique est l'argument du volume groupé, comme Savima et Glass Alu SXM.
