@@ -325,3 +325,45 @@ d activite, plus loin, et elles sont moins nombreuses.
    le dossier destockage n a pas de registre, donc je ne peux pas y verser ces fiches moi-meme.**
 3. **Et l argument de proximite garde toute sa valeur sur les 26 qui ont recu** — il est dans chacun
    des messages, en kilometres exacts.
+
+---
+
+## Le groupage multi-references n est pas une niche de concurrent, c est une attente de marche — preuve independante trouvee le 14/10 a 18h23
+
+Le point 8 du tableau porte cette question depuis le 13/10, et il l appuyait sur **une seule source** :
+notre concurrent marseillais **Glass Overseas**, qui annonce des expeditions groupees melant couche,
+feuillete et float dans un meme conteneur. On pouvait donc la lire comme sa specialite a lui.
+
+**Elle ne l est pas. Deuxieme source, a l autre bout du monde et sans aucun rapport avec la premiere.**
+
+**PACIFIC GLASS NZ**, Auckland et Christchurch, deja au registre et relancee le 12/10, annonce sur son
+propre site qu elle travaille en **indenting et en MIXED CONTAINERS** — des conteneurs groupes
+melangeant plusieurs references — a cote de la vente en feuille libre et en caisse.
+
+**TROIS CHOSES EN DECOULENT, ET LA PREMIERE EST COMMERCIALE.**
+
+1. **Cette fiche est desormais la mieux qualifiee de la zone**, et pas par deduction : son unite
+   d achat est **etablie par ses propres mots**. Le signal des epaisseurs dit qu une maison tient du
+   stock ; celui-ci dit qu elle achete au conteneur. C est un rang au-dessus.
+
+2. **La question du point 8 se durcit** : si deux maisons que rien ne relie, a vingt mille kilometres
+   d ecart, structurent leur achat en conteneur groupe, alors **un conteneur mono-produit est une
+   offre moins bonne que celle du marche**, et pas seulement moins bonne que celle de Glass Overseas.
+   Cela vaut pour Miro Est et ses cinq references, et cela vaut pour Pacific Glass.
+
+3. **Et la reponse ne depend que de nos usines partenaires**, donc de vous. La question est inchangee
+   et elle est simple : **sait-on charger float, feuillete et couche dans un meme conteneur, oui ou
+   non ?** Si oui, cela se dit en premiere ligne a Pacific Glass et cela debloque le chiffrage Miro
+   Est. Si non, il faut le savoir avant de promettre quoi que ce soit, et il vaut mieux l apprendre
+   de nous que d un client decu.
+
+**Rien n a ete ecrit a Pacific Glass sur ce point** — le paragraphe 5 interdit toute condition non
+validee, et le groupage en est une. Le fait est consigne dans sa fiche et il attend votre reponse.
+
+**Et un second gain du meme relevé, a verser au dossier de prix plutot qu a une decision :**
+**Metro Performance Glass**, le plus gros verrier neo-zelandais, **nomme ses fournisseurs de float sur
+son propre site — AGC, Guardian et Xinyi**. On sait donc exactement contre qui l on se place dans ce
+pays : deux producteurs mondiaux sur la qualite, et un chinois sur le prix. **Et il n y a aucun droit
+antidumping a invoquer dans la zone**, l Anti-Dumping Commission australienne ayant termine son
+enquete sur la Chine. L angle y est l origine et la seconde source, jamais le douanier.
+
