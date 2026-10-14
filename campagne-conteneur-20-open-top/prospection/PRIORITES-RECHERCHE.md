@@ -476,3 +476,49 @@ une arborescence au lieu d une geographie : **tester le niveau regional ne dit r
 national.** Le nom de Grupo Araujo, trouve par hasard sur une recherche de Rio, est ce qui a revele
 l URL — et c est pour cela qu on lit les resultats au lieu de les compter.
 
+### LISTE PRETE — douze associes ABRAVIDRO rendus en DEUX appels, tous grepes et tous ABSENTS du registre (18h41)
+
+**Le grep est deja fait, un par un, sur le mot le plus court. C est la partie chere et elle est
+payee** — il ne reste que le second temps, deux appels par nom. Rangees par classe, la meilleure
+d abord.
+
+**NEGOCE ET GROS — a travailler en premier**
+| Societe | Lieu | Ce que la fiche ABRAVIDRO en dit |
+|---|---|---|
+| **TVT Vidros** | Jundiai (SP) | fondee debut des annees 1990 pour commercialiser le verre de construction **EN GROS** |
+| **Estrela Vidros** | Espirito Santo | se distingue sur le **marche de gros** capixaba du verre et des miroirs |
+| **MTX Glass** (ex Marcetex Vidros) | SP | **faconnage ET distribution** de verre plat, architectural corporatif commercial et residentiel |
+| **Vidrolar Comercial de Vidros** | Curitiba (PR) | specialisee en **verre plat** — deja signalee *a reprendre* le 12/10, jamais reprise |
+| **Casa do Vidraceiro** | a etablir | nom de negoce, metier a verifier |
+| **J Marques** | a etablir | metier a verifier |
+
+**VERRIER PUR — ligne qui consomme de la feuille**
+| Societe | Lieu | Ce que la fiche ABRAVIDRO en dit |
+|---|---|---|
+| **Unividros** | Tubarao (SC) | trempe **et** feuillete, **sert tout le Bresil** — la plus large couverture du lot |
+| **Tempermed** | Medianeira (PR) | construction et ligne decorative sur **PR, SC, RS et MT**, quatre Etats |
+| **Temperline** | Cascavel (PR) | **feuilleteur CERTIFIE** ABRAVIDRO, sert aussi Santa Catarina |
+| **Mary Art Vidros** | Guarapuava (PR) | trempe et feuillete |
+| **Art Vidros** | Morro da Fumaca (SC) | trempe depuis 2008 |
+| **DVB Vidros** | a etablir | metier a verifier |
+
+**⚠ TROIS PIEGES A CONNAITRE AVANT D OUVRIR CES FICHES, et ils sont tous du registre existant :**
+1. **`SA Vidros` n est PAS `NSA Vidros`.** NSA est deja au registre, relancee le 12/10. Une lettre.
+2. **`Vitral Vidros Planos` existe en DEUX exemplaires chez ABRAVIDRO**, un **DF** et un **MG** a
+   Uberlandia, et le registre porte deja une fiche `Vitral Vidros Planos` en `A APPELER` **sans
+   indication d Etat**. **Trancher lequel avant de creer quoi que ce soit** — c est le cas Glasstech
+   Azerbaidjan contre Emirats, et le paragraphe 12 impose le siege et l immatriculation.
+3. **`LM Vidros` est deja au registre en `A APPELER`**, et sa fiche ABRAVIDRO ajoute un fait utile :
+   elle est **franchisee BLINDEX** et distribue du feuillete **jusqu a l export**. Blindex est
+   Pilkington donc NSG, inscrit au paragraphe 6 : son approvisionnement est capte, et c est la
+   confirmation de l entree Blindex du 14/10 a 11h32.
+
+**ET UN FAIT DE CONTEXTE RELEVE SUR LE SITE D ABRAVIDRO, a verser au dossier douanier du paragraphe 6
+plutot qu a une fiche :** leur historique ecrit que l importation etait autrefois **inviable a cause
+des taxes**, et qu **en 2012 le droit d importation sur le trempe et le feuillete a ete AUGMENTE**
+pour que les membres concurrencent les etrangers a armes egales. ⚠ **C est la parole d un syndicat
+sur sa propre action de lobbying, pas une source douaniere**, et cela ne porte pas sur le float nu.
+Mais cela confirme par un troisieme bout ce que le paragraphe 6 soupconnait deja : **le droit
+bresilien sur le FEUILLETE a bouge a la hausse**, ce qui touche le dossier Miro Est. A lire au
+Siscomex avant tout usage.
+
