@@ -1820,7 +1820,16 @@ fiche Texas Glass — et chaque fois le compte de champs partait à 11, 14 ou 12
 « trois faits vont dans l'autre sens : les domaines diffèrent ; cette maison dit ceci ; et elle dit
 cela », alors que le `;` est le séparateur du fichier. **Remède de rédaction et non de code : dans une
 note de registre, une énumération se ponctue par `Un,` `Deux,` `Trois,` ou par un point, et le `·` reste
-réservé aux fichiers Markdown.** Le code refuse déjà, c'est à la plume de ne plus le déclencher. **Raison : le 08/10 j'ai passé la matinée à réparer trois lignes
+réservé aux fichiers Markdown.** Le code refuse déjà, c'est à la plume de ne plus le déclencher.
+**⚠️ QUATRIÈME FOIS LE 14/10 À 16h28, ET ELLE MÉRITE D'ÊTRE DITE PARCE QUE LE ` ; ` ÉTAIT DANS UNE NOTE QUI EXPLIQUAIT UNE RÈGLE.** La fiche Eurover devait porter « une marque dans une gamme dit qu'on ACHÈTE **;** la même dans une raison sociale dit qu'on APPARTIENT » — la tournure est naturelle, l'opposition appelle le point-virgule, et c'est précisément le caractère interdit. **Le garde-fou a refusé, rien n'a été écrit, et l'envoi était déjà parti** : la fiche est donc restée une minute sans sa trace d'envoi, ce qui est le vrai coût.
+**ET LE REMÈDE APPLIQUÉ VAUT MIEUX QUE LA CONSIGNE, PARCE QU'IL NOMME LE CHAMP FAUTIF.** L'`assert` de forme ne dit que « cette ligne n'a pas 10 champs » et imprime 80 caractères d'une ligne de deux mille — il faut ensuite chercher à l'œil. **Un contrôle en AMONT, sur le dictionnaire de mise à jour et avant la moindre écriture, rend la clé ET le champ :**
+```python
+for k, d in MAJ.items():
+    for champ, v in d.items():
+        assert v is None or ';' not in v, (k, champ, v)   # AVANT la boucle
+```
+**Il coûte trois lignes et il transforme une chasse en un message d'erreur.** Même principe pour une création de fiche : contrôler chaque champ de chaque ligne neuve avant de les joindre.
+ **Raison : le 08/10 j'ai passé la matinée à réparer trois lignes
 cassées par un `;` dans une note, puis j'ai commis exactement la même faute l'après-midi**, sur la
 fiche Manna Glass, dans un script écrit sans `assert`. La consigne ne suffit pas, **il faut que le
 code refuse**.
