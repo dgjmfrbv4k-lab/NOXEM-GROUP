@@ -8171,3 +8171,74 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 150. De Wolk Glas (Bolsward) — `info@dewolkglas.nl` — NÉERLANDAIS — négoce + fabrique propre
+
+**LES DEUX MEILLEURES CLASSES RÉUNIES, comme Steenebrügge et Glas Scholz.** De Wymerts 2E, 8701 WT
+Bolsward (Frise). Ils produisent leur **HR++ dans leur propre fabrique** et y font aussi le vitrage
+à stores intégrés, et ils écrivent noir sur blanc **qu'ils ne sont pas un intermédiaire** — tout
+est traité en interne. Isolant fini en 24 h en urgence.
+`info@` lue sur leur page d'adresse, domaine confirmé dix fois dans les URL.
+**⚠️ ET LA PHRASE QUI DÉCIDE DE L'OFFRE EST CELLE DU STOCK :** ils tiennent **trempé, miroirs et
+feuilleté en stock** à Bolsward. Un produit qu'on tient en stock est un produit qu'on **achète** —
+donc le **miroir entre dans l'offre**, exactement comme chez Lerchenmüller, et à l'inverse de
+Glaszentrum Dortmund qui le fabrique. La règle Prodiesa se lit sur le verbe : *produire* retire,
+*stocker* ajoute.
+**Règle Prodiesa : HR++ et vitrage à stores sortent de l'offre. Float, low-E et miroir entrent.**
+**⚠️ Loin du rayon fixé par Kevin — la Frise est au nord des Pays-Bas — mais le métier prime sur la
+géographie, c'est la mesure du 13/10.**
+**⚠️ INTERDIT DU §6 : rien sur la production locale aux Pays-Bas, le garde-fou y porte depuis cet
+après-midi la mention NON ÉTABLI, qui veut dire « à vérifier », pas « c'est vrai ».**
+
+```
+Geachte heer, mevrouw,
+
+Mijn naam is Aaron Harfi, ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas bij Lyon in Frankrijk. Dit is een leveringsaanbod en geen
+prijsaanvraag. Bent u niet degene die inkoopt, dan ben ik u dankbaar als u
+dit doorgeeft.
+
+U schrijft zelf dat u geen tussenhandel bent: uw HR++ en uw jaloezieglas
+maakt u in uw eigen glasfabriek in Bolsward. En u houdt gehard glas,
+spiegels en gelaagd glas op voorraad. Dat betekent twee dingen voor mij -
+uw fabriek draait op blad dat binnenkomt, en uw magazijn moet aangevuld
+worden. Een tweede vaste herkomst is dan geen luxe.
+
+Ik bied u daarom niets aan wat u zelf maakt - geen isolatieglas, geen
+jaloezieglas. Alleen wat daarvoor binnenkomt of wat u inkoopt:
+
+- Helder float en extra helder glas: https://noxemgroup.com/en/float-glass/
+- Coated warmte-isolerend glas: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegelglas zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+De spiegel noem ik bewust, omdat u die op voorraad houdt en dus inkoopt.
+Onze uitvoering is zonder koper en zonder lood, wat in vochtige ruimtes
+scheelt.
+
+Onze website bestaat alleen in het Frans en het Engels. Elke referentie licht
+ik u graag in het Nederlands toe.
+
+Wij verschepen in VOLLEDIGE CONTAINERS, in IPPC/ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten, met 23 tot 25 ton
+laadvermogen. Wij kunnen een aanbod opstellen voor levering in uw
+bestemmingshaven, onder voorbehoud van validatie van onze kant.
+
+Daarvoor heb ik vier gegevens nodig: welke diktes en coatings uw fabriek het
+meest verbruikt, welke bladmaten op uw lijnen passen, een indicatie van uw
+jaarvolume met de bestelfrequentie, en welke haven u berekend wilt zien,
+Rotterdam of Amsterdam.
+
+En als uw inkoop vastligt en er geen ruimte is voor een extra herkomst, zegt u
+het mij gerust, dan dring ik niet aan.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
