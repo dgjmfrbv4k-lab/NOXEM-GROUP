@@ -6177,3 +6177,63 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 121. Bahia Vidros Temperados (Brésil, Bahia) — `vendas@bahiavidros.com.br` — PORTUGAIS — négoce et verrier
+
+**Ils desservent SIX États** — Bahia, Sergipe, Alagoas, Pernambouc, Minas Gerais, Espírito Santo —
+et c'est leur propre périmètre. **Règle Prodiesa :** ils trempent, donc seul le substrat entre.
+**⚠ Leur zone couvre le Pernambouc, où Vivix produit à Goiana** : ils vendent sur le marché même du
+producteur, comme Intervidro, donc **jamais l'absence d'offre locale**. L'argument **douanier du §6**
+est autorisé au Brésil — Gecex 833 contre la Malaisie, le Pakistan et la Turquie, l'Europe non visée
+— **et il ne porte que sur le float clair de 1,8 à 20 mm**, la même résolution excluant le miroir,
+le réfléchissant et le teinté.
+
+```
+Bom dia,
+
+Chamo-me Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de vidro
+plano perto de Lyon, na Franca. Se nao for o senhor quem compra o vidro,
+agradeco que faca chegar esta mensagem a quem compra.
+
+Escrevo-vos por causa do vosso raio de accao, que e o que vos distingue: seis
+Estados, da Bahia ao Espirito Santo. Quem abastece seis Estados nao compra por
+obra, agrega o volume que uma unica praca nao atinge - e e precisamente esse
+volume que torna um conteiner completo razoavel em vez de pesado.
+
+Nao venho falar do temperado, que fazem voces. Venho falar do que entra antes,
+e sobretudo do que uma linha brasileira raramente mantem em estoque:
+
+- vidro float extra-claro: https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo, que nao se degrada pelas bordas no litoral:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+As paginas estao em ingles, o nosso site existe apenas em frances e ingles.
+
+Sobre o float incolor de 1,8 a 20 mm ha um facto aduaneiro que mudou a
+comparacao, e digo-o como facto e nao como promessa: a Resolucao Gecex 833
+aplica direito antidumping as origens da Malasia, do Paquistao e da Turquia, e
+a Uniao Europeia nao e visada. Nao falo do que custa o nosso vidro: digo que a
+conta nao e a mesma de ha dois anos.
+
+Trabalhamos em conteineres completos, em caixas de madeira tratada conforme a
+NIMF-15, em chapa jumbo ou em medidas sob encomenda. Podemos estabelecer uma
+oferta para entrega no vosso porto de destino, sob reserva de validacao da
+nossa parte.
+
+Para isso preciso de quatro coisas: que referencias e espessuras giram mais nos
+seis Estados, as medidas de chapa que vos servem, que quantidade por embarque e
+com que frequencia, e o vosso porto, Salvador ou Suape.
+
+E se o abastecimento actual vos cobre, digam sem rodeios e nao insisto.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
