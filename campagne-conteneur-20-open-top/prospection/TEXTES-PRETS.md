@@ -5673,3 +5673,109 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 112. Industrial Mercantil San Simón (Guatemala) — `info@sansimon.gt` — ESPAGNOL — négoce et verrier
+
+**La meilleure cible du pays, et c'est leur propre phrase qui le dit : « el mayor proveedor de
+vidrio, aluminio y accesorios arquitectónicos en Guatemala ».** Et leur page float explique
+elle-même pourquoi ils achètent de la feuille : le flotté y est « la materia prima por excelencia
+para ser transformado en templado, laminado, fabricar espejo y manufacturar DVH ». **Règle
+Prodiesa :** trempé, feuilleté, miroir et double vitrage sortent de l'offre, seul le substrat y
+entre. **Rien sur les droits guatémaltèques**, inconnus, **rien sur l'absence de production
+locale**, non vérifiée.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo por una frase de su propia pagina sobre el flotado: que es la
+materia prima por excelencia para transformar en templado, laminado, espejo y
+DVH. Es exactamente asi como nosotros vemos nuestro producto, y es la razon por
+la que no vengo a ofrecerles nada de lo que ustedes fabrican.
+
+Vengo con lo que entra antes:
+
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo, para el caso en que compren hoja de espejo en
+  lugar de platearla: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+Cualquier referencia se la explico en espanol.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido, con carga util de 23 a 25 toneladas.
+Podemos establecer una oferta para la entrega en su puerto de destino, bajo
+reserva de validacion de nuestra parte.
+
+Para prepararla necesito cuatro cosas: que espesores de flotado consumen en
+volumen, las medidas que alimentan mejor sus lineas, cuanto y con que
+frecuencia, y su puerto, Santo Tomas de Castilla o Puerto Quetzal.
+
+Y si su abastecimiento actual no deja lugar a una segunda origen, digamelo con
+franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 113. DISALVI S.A. (Guatemala) — `info@disalvigt.com` — ESPAGNOL — négoce
+
+**⚠ À ne pas confondre avec DISALVID (Guayaquil, Équateur), déjà au registre et relancée le 12/10 :
+deux sociétés sans rapport dont les domaines diffèrent d'une lettre.** Le signal qui les qualifie
+est le **verre cru** dans leur gamme, à côté du trempé et du miroir : un distributeur qui tient de
+la feuille brute achète par volume. **Rien sur les droits ni sur l'absence de production locale.**
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo por un detalle de su catalogo que no es un detalle: junto al
+templado y al espejo, ustedes manejan VIDRIO CRUDO. Quien sostiene hoja en
+bruto en bodega no compra por obra, compra por rotacion, y ese es el unico
+perfil al que un contenedor completo le sirve de verdad.
+
+Lo que embarcamos:
+
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- espejo sin cobre ni plomo: https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidrio de baja emisividad: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido. Podemos establecer una oferta para la
+entrega en su puerto de destino, bajo reserva de validacion de nuestra parte.
+
+Una sola pregunta para empezar: que espesores de crudo rotan mas rapido en su
+bodega, y por que puerto entran hoy.
+
+Y si estan bien servidos, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
