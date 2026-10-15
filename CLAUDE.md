@@ -302,8 +302,32 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   passer au prospect suivant → présenter le texte à Aaron au bilan. **Jamais d'envoi, même d'une
   ligne, même purement technique, même quand le client attend.** Un client qui attend une heure de
   plus ne coûte rien ; un client qui reçoit deux messages contradictoires coûte le dossier.
+  **⚠️⚠️ CONSIGNE DE KEVIN DU 15/10 À 09h41 — L'EXCEPTION EST SUPPRIMÉE. PLUS AUCUN ENVOI SANS SON
+  ACCORD EXPRESS, DEMANDÉ ET OBTENU, MESSAGE PAR MESSAGE.** Mot pour mot : *« tu n'envoies rien du
+  tout, je ne t'ai jamais dit d'envoyer, je veux juste préparer le message… tu dois toujours me
+  demander à partir d'aujourd'hui mon accord avant d'envoyer »*.
+  **CE QUI A DÉCLENCHÉ LA CONSIGNE, ET C'EST MA FAUTE DE LECTURE :** il m'a écrit, au sujet de
+  Miro Est, *« elle dit qu'on est cher **dis-lui** à quel prix vous êtes prêt à acheter ajd »*.
+  **J'ai lu « dis-lui » comme l'ordre d'envoyer. Ce n'en était pas un.** Il demandait le TEXTE.
+  **LA RÈGLE QUI EN SORT, ET ELLE EST PLUS ÉTROITE QUE TOUT CE QUI PRÉCÈDE :**
+  · **« dis-lui X », « réponds-lui », « demande-lui » = RÉDIGE X.** Ce sont des instructions de
+    CONTENU, jamais des autorisations d'envoi. C'est le sens par défaut, et il n'y a plus
+    d'interprétation à faire.
+  · **Seul un mot explicite sur l'ENVOI autorise l'envoi** — « envoie », « tu peux envoyer »,
+    « c'est bon, pars » — et il porte sur **ce message-là**, après que je le lui ai montré.
+  · **Un accord donné sur un message ne vaut jamais pour le suivant**, ni pour une file d'envois
+    programmés, ni pour une vague entière.
+  · **En cas de doute, il n'y a plus de doute : on ne part pas.** Le coût d'attendre son mot est
+    nul ; le coût d'un envoi non voulu est un client.
+  **ET CELA COUVRE AUSSI LES ENVOIS À FROID ET LES STATUTS `A ENVOYER`**, qui partaient jusqu'ici
+  sans rien demander parce qu'une session antérieure les avait programmés. **Un statut `A ENVOYER`
+  n'est plus une autorisation, c'est une file d'attente.** Elle se présente à Kevin et elle attend.
+  **La seule chose qui continue sans lui demander :** le travail qui n'envoie rien — recherche,
+  qualification, registre, rédaction des textes, garde-fous, suivi.
+
   **Exception unique : un ordre explicite d'Aaron sur ce message-là.** Il est alors cité dans la
-  fiche, avec l'heure.
+  fiche, avec l'heure. **⚠️ CETTE EXCEPTION EST CADUQUE depuis la consigne du 15/10 ci-dessus :
+  un ordre de RÉPONDRE n'est pas un ordre d'ENVOYER, et l'accord d'envoi se demande à part.**
   **⚠️ ET L'EXCEPTION NE COUVRE QUE CE QUI EST DICTÉ — FAUTE DU 12/10 À 15h24, RELEVÉE PAR KEVIN
   LUI-MÊME, ET ELLE EST PLUS GRAVE QUE CELLE DE JOHN PARCE QUE J'AVAIS L'ORDRE.** L'ordre de Kevin
   portait sept points pour **Miro Est** : dis-lui OK · savent-ils décharger · il me faut le port pour

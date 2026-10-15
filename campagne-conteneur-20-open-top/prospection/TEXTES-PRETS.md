@@ -9963,3 +9963,86 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 175. Miro Est (Saint-André, La Réunion) — `miroestgestion@orange.fr` — RÉPONSE AU REFUS SUR LE PRIX
+### ⚠️ TEXTE DICTÉ PAR KEVIN LE 15/10 — PRÉPARÉ, PAS ENVOYÉ. EN ATTENTE DE SON ACCORD EXPRÈS.
+
+**⚠️ RIEN N'EST PARTI. Et c'est la nouvelle règle du §5, posée par Kevin ce matin à 09h42 :
+plus aucun envoi sans son accord exprès, demandé et obtenu, message par message.**
+
+**CE QUI S'EST PASSÉ.** Le 14/10 à 09h48 de Paris, Kevin a envoyé la proposition CIF Pointe des
+Galets — trois offres (44/2 clair, verre clair 8 mm, conteneur mixé) plus des références
+complémentaires. **Le 15/10 à 09h35 de Paris, Graziella Virassamy répond et refuse sur le prix.**
+
+**SA RÉPONSE, MOT POUR MOT :** « J'ai bien reçu vos offres, et vous en remercie. Vos tarifs sont
+plus élevés que ceux que nous bénéficions avec nos différents partenaires. De ce faite, nous
+donnerons pas suite à ces offres. »
+
+**LES QUATRE POINTS DICTÉS PAR KEVIN, ET LE TEXTE NE CONTIENT QUE CEUX-LÀ** — règle du 12/10 sur
+le STADIP, où j'avais ajouté un paragraphe de ma propre initiative :
+1. je suis un peu **surpris** ·
+2. on a fait ça avec **beaucoup de clients**, on a **l'habitude** ·
+3. on s'est trouvé **encore moins cher**, on peut le faire ·
+4. **à quel prix est-elle prête à acheter aujourd'hui**, et quel prix elle juge compétitif.
+
+**⚠️ UNE QUESTION POSÉE À KEVIN ET NON À LA CLIENTE, comme le §5 l'impose depuis le 12/10 :**
+le point 3 tel que dicté — *« on peut le faire »* — **nous engage avant d'avoir vu son chiffre.**
+Elle peut annoncer n'importe quel niveau. **Le texte ci-dessous le formule donc comme une
+EXPÉRIENCE PASSÉE** (« il est fréquent que nous soyons repassés en dessous ») **et non comme une
+promesse de s'aligner**, et il conditionne la suite à son chiffre. **Si Kevin veut l'engagement
+ferme, il le dit et je le remets — c'est sa décision de prix, §11, pas la mienne.**
+
+**Vérifié avant d'écrire :**
+- **Fonction vérifiée et pertinente, donc nommable (§5)** : elle signe **cogérante**, ce qui est de
+  la direction. Kevin l'appelle déjà « Madame Virassamy ».
+- **⚠️ ADRESSE — la différence avec le registre est levée et non ignorée (§5).** Le registre porte
+  `miro.est@orange.fr` ; **sa propre signature dit que c'est la boîte *devis & commandes***, et
+  qu'elle-même est sur `miroestgestion@orange.fr`, gestion et comptabilité. **On répond dans SON
+  fil, à elle**, et `miro.est@` reste le canal des commandes. Pas de copie : mettre les deux
+  reviendrait à poser la négociation devant un autre bureau sans qu'elle l'ait demandé.
+- **⚠️ INTERDIT DOM TENU (§6) : pas un mot sur l'octroi de mer ni sur la fiscalité à l'entrée.**
+  Le taux du chapitre 70 n'est pas établi, l'exonération des intrants de production non plus.
+- **Aucun prix de notre part, aucun délai, aucun certificat.** La seule mention de prix est **la
+  sienne**, qu'on lui demande.
+- **Fuseau vérifié sur un cas connu (§13)** : son mail du 14/10 est horodaté 11h48 GMT+4 pour un
+  envoi à 07h48 UTC, donc **La Réunion = Paris + 2**. Ses horaires sont 8h-12h et 13h-16h du lundi
+  au jeudi, soit **6h-10h et 11h-14h de Paris**. Jeudi 15/10 est ouvré.
+
+**Objet :** (réponse dans le fil) NOXEM GROUP – Votre proposition verre CIF Pointe des Galets
+
+**Corps :**
+
+```
+Bonjour Madame Virassamy,
+
+Merci pour votre retour, et merci de le dire aussi franchement.
+
+Je vous avoue que je suis un peu surpris, et je vais vous dire pourquoi
+sans detour : la situation que vous me decrivez, nous la rencontrons
+souvent. Beaucoup de nos clients travaillaient deja avec des partenaires
+en place quand nous les avons approches, et il est frequent que nous
+soyons finalement repasses en dessous de ce qu'ils payaient.
+
+C'est pour cela que je ne referme pas le dossier sur ce seul echange.
+
+Une question, donc, et une seule : a quel prix seriez-vous prete a
+acheter aujourd'hui ? Autrement dit, quel niveau considerez-vous comme
+competitif sur vos references habituelles.
+
+Donnez-moi votre chiffre et je vous dis tout de suite, franchement, si
+nous pouvons y aller ou non. Vous ne perdez rien a me le dire, et si
+c'est hors de portee je vous le dirai aussi clairement que vous venez
+de le faire.
+
+Bien cordialement,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
