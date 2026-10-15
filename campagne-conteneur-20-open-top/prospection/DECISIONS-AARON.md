@@ -595,3 +595,60 @@ QUATRE lignes, et seule celle de la DISTRIBUTION, le +1 416 674 3931, arrive sur
 personne.** Le siege ne la donnerait pas.
 
 **Registre a 1412 fiches a cette heure. Aucun envoi de la journee.**
+
+---
+
+# MISE A JOUR DU 15/10 A 18h46 — HUIT NOUVEAUX TEXTES EN FILE, ET LE GOULOT A CHANGE DE NATURE
+
+## 1. HUIT FICHES NEUVES SONT PRETES ET ATTENDENT UN MOT — textes 209 a 216
+
+La file de 22 fiches du point 1 de 13h43 est partie cet apres-midi sur l accord expres de Kevin,
+mot pour mot **« envoie tout »**. **Cet accord est epuise** : il portait sur ces messages-la.
+**Huit fiches neuves ont ete ouvertes et deverrouillees depuis, chacune avec son texte redige et
+verifie, et aucune n est partie.**
+
+| Societe | Ville | Adresse |
+|---|---|---|
+| **Alagoas Vidros** | Maceió (Rua Soraya da Silva Maciel 403, Cidade Universitária), Alagoas | `vendas@alagoasvidros.com.br` |
+| **CSPAX Vidros** | Rio de Janeiro (São Cristóvão) | `cspaxvidros@gmail.com` |
+| **Casas Bandeirantes** | Serra Talhada (BR 232 km 416, Galpão 2), Pernambouc | `sac@casasbandeirantes.com.br` |
+| **Morumbi Vidros e Ferragens** | Fortaleza (Montese, siège | `contato@morumbiferragens.com.br` |
+| **New Temper Vidros** | Rio de Janeiro (Barros Filho) | `vendas@newtemper.com.br` |
+| **Top Vidro** | Tremembé (Av. Audra 994, CEP 12125-010), São Paulo | `topvidro@topvidro.com.br` |
+| **Vidro Mais** | Maceió (Av. Juca Sampaio 7, Jacintinho), Alagoas | `contato@vidromais.com` |
+| **Vidrus Distribuidora de Vidros Temperados** | Contagem (Minas Gerais) | `contato@vidrus.com.br` |
+
+**Les huit sont bresiliennes et elles ouvrent QUATRE Etats ou nous n avions aucune fiche** —
+Alagoas, Paraiba, Rio Grande do Norte et Sergipe — plus la ville de Rio de Janeiro, qui n en avait
+aucune non plus alors que l Etat en portait deux.
+
+**CE QUE J AI BESOIN DE SAVOIR, ET C EST UNE SEULE QUESTION : est-ce que je les envoie ?**
+`verif-texte.py` les a tous passes, zero defaut sur 183 textes. Le controle de doublons est propre.
+Aucun n emploie l argument douanier hors du float clair, aucun ne nomme une marque de fournisseur,
+et les huit portent la porte de sortie du §9.
+
+**⚠️ ET UNE DES HUIT VAUT PLUS QUE LES SEPT AUTRES REUNIES.** `Casas Bandeirantes`, a Serra Talhada
+au Pernambouc, **dessert onze Etats du Nord et du Nordeste** depuis trois unites — Alagoas, Bahia,
+Ceara, Maranhao, Paraiba, Para, Pernambouc, Piaui, Rio Grande do Norte, Sergipe et Tocantins. J ai
+passe la soiree a chercher un negociant au Para et au Piaui ville par ville sans rien trouver.
+**C est elle qui les sert.** Une seule maison couvre toute la facade.
+
+## 2. ET LE GOULOT N EST PLUS L ADRESSE, C EST LE TELEPHONE — le chiffre est net ce soir
+
+Mesure faite sur le registre a l instant : **il reste VINGT fiches adressees et jamais contactees
+dans tout le registre**, dont les huit ci-dessus. **Douze seulement**, donc, et elles sont tenues a
+dessein — Fast Vidros, Big River Glass et GDI portent une reserve de classe non levee, les deux
+allemandes sont de la classe verrier plus pose qui n a jamais rien rendu.
+
+**EN FACE : 219 FICHES EN `A APPELER`, TOUTES AVEC UN NUMERO VERIFIE, ET AUCUN APPEL JAMAIS
+PASSE.** La proportion n a pas cesse de monter — elle etait de 131 le 13/10, de 202 hier, de 219
+ce soir, **et elle monte parce que la prospection ecrite marche** : chaque nouveau marche ouvert
+rend plus de telephones que d adresses. Les DOM l avaient montre a neuf sur neuf, le Nordeste
+bresilien vient de le refaire.
+
+**Ce n est plus un souhait, c est une mesure : la prospection ecrite a epuise son gisement facile,
+et le prochain dossier ne viendra pas d une adresse de plus.** Les trois reserves de classe
+ci-dessus se tranchent en trente secondes d appel chacune, et le Para se debloque d un appel a
+Intervidro ou a Casas Bandeirantes.
+
+**Registre a 1474 fiches.**
