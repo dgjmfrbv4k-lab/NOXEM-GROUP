@@ -63,3 +63,40 @@ verre-aluminium du Queensland, ce qui vaut de se lever pour lui. **À appeler de
 2. **L'objectif d'un premier appel n'est pas de vendre, c'est d'obtenir la boîte des achats et un
    nom.** Huit de ces quinze fiches sont ici précisément parce que l'e-mail générique ne passe plus —
    un contact nommé au service achats vaut plus que la conversation elle-même.
+
+
+---
+
+## MISE A JOUR DU 15/10 A 13h26 — CE QUI A CHANGE DEPUIS LA VERSION DE 08h58
+
+La liste ci-dessus reste valable. **Trois corrections la touchent directement, et la premiere change
+le numero a composer.**
+
+### 1. SAAND INC. — composer le 416 674 3931 et NON le 416 798 2345
+La liste de 08h58 le donne dans la fenetre **15h00 de Paris**, avec le numero du **siege**. Le second
+temps du 15/10 a etabli que Saand a **quatre lignes** et qu elles ne se valent pas pour nous : siege
+et fabrication 416 798 2345, Londres 519 659 0819, Ottawa 613 838 3373, **et la DISTRIBUTION a sa
+propre ligne, le 416 674 3931**. C est leur page distribution qui annonce la gestion de stock de
+verre et l execution de commande pour des tiers, donc **le seul des quatre numeros qui arrive sur la
+bonne personne**. Le champ du registre est corrige. **Aucune adresse electronique n existe sur ce
+domaine**, verifie sur dix pages : cette fiche ne vaut QUE par le telephone.
+
+### 2. TRISTAR GLASS SORT DE LA LISTE D APPELS — elle est passee en file d envoi
+Deverrouillee le 15/10, `sales@tristarglass.com`, **texte 178 redige**. Classe verrier pur, trois
+usines. Elle n a plus besoin d un appel, elle a besoin de l accord de Kevin.
+
+### 3. DEUX ENTREES A AJOUTER EN HAUT DE LA FENETRE 15h00, USA EST ET CANADA
+- **Atlantic Glass Systems** (Charlottetown, Ile-du-Prince-Edouard, **+1 902 892 2791**, et Moncton
+  au 506 854 5220). **Courrier definitivement clos** : la seule adresse publiee est une boite de
+  **recrutement**, que le §5 interdit — c est le cas Lahey a l identique. Elle remplit donc le
+  critere qui a fait entrer huit des quinze dans la liste.
+- **Dixon Mirror and Glass** (South Salt Lake, **+1 801 486 2079**, fenetre **17h00 de Paris**).
+  **Un annuaire industriel ecrit qu elle n est PAS equipee pour recevoir du courrier electronique.**
+  Classe atelier, donc valeur moyenne, mais le telephone est son seul canal possible.
+
+### 4. ETAT
+Le registre porte desormais **N fiches en `A APPELER`, toutes avec un numero**, contre 183 ce matin.
+**Vingt-et-une y sont passees aujourd hui**, presque toutes parce que le second temps a etabli
+qu aucune adresse n existe — ce qui est un verdict et non un echec. **La proportion de fiches que
+seul le telephone peut atteindre AUGMENTE a mesure que la methode de deverrouillage epuise ce
+qu elle peut rendre**, et c est l argument le plus concret pour le creneau d appels demande a Kevin.

@@ -286,6 +286,22 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   prénom-point-nom sur le domaine de la société. Une adresse déduite d'un schéma est une adresse
   inventée, quel que soit le sérieux apparent de l'outil qui la propose — c'est le même piège que
   `prospeo.io` sur Lahey Glass le 13/10, et c'est la deuxième fois en deux jours.
+  **ET DEUX DE PLUS LE 15/10 À 13h31, SUR UNE RECHERCHE BRÉSILIENNE : `triceleads.com` et
+  `econodata.com.br`**, qui vendent des listes de sociétés par segment avec chiffre d'affaires et
+  coordonnées. Même nature que `dnb.com` et `emis.com`, donc même interdit, et à mettre dans
+  `blocked_domains` d'emblée sur toute recherche brésilienne.
+  **CELUI-LÀ MÉRITE D'ÊTRE CHIFFRÉ, PARCE QU'IL DIT EXACTEMENT CE QUE LA RÈGLE COÛTE :** `econodata`
+  annonçait **192 sociétés de verre à Porto Alegre**, dont **six au code d'activité `commerce de gros
+  de vidros, espelhos, vitrais e molduras`** — c'est-à-dire **la liste nominative exacte de notre
+  meilleure classe de métier dans cette ville**, celle que la méthode de la fédération du §6 cherche
+  à construire en quatre appels. Elle est interdite, et la recherche permise n'a rendu qu'**un** nom
+  utilisable, Cantini. **Le coût de la règle est donc de l'ordre de cinq fiches sur cette seule
+  ville, et il est assumé** — c'est la leçon Sealvid du 14/10 : mieux vaut une fiche de moins qu'une
+  fiche qualifiée par une source qu'on s'interdit.
+  **Et le code d'activité qu'`econodata` a révélé, lui, n'est PAS une donnée vendue, c'est une
+  nomenclature publique** : le CNAE du *comércio atacadista de vidros, espelhos, vitrais e molduras*
+  est un **critère de recherche réutilisable** sur n'importe quelle source permise, et c'est le seul
+  élément de ce résultat qui se garde.
   **LA RÈGLE QUI SE DÉGAGE, ET ELLE EST PLUS FINE QUE « NE PAS UTILISER LE SITE » :** un résultat de
   courtier peut **nommer** une société, et un nom n'est pas une donnée vendue — c'est ainsi qu'on apprend
   qu'elle existe. **Ce qui est interdit est de reprendre sa QUALIFICATION** : volumes, origines, ports,
