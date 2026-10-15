@@ -7657,3 +7657,36 @@ producteurs locaux, GlassTech Ghana fait du carrelage.
 · **Textes prets : 198**, dont treize ecrits cet apres-midi, controle a **0 a corriger**.
 · **202 fiches a appeler**, toutes avec un numero.
 · **25 fiches adressees et jamais contactees** — la file que Kevin doit arbitrer.
+
+## 16h46 — LA COHORTE DU 12/10 REND SES VERDICTS, ET TROIS ENVOIS COMPTES NE SONT JAMAIS ARRIVES
+
+**Relevé des rebonds à six heures. Aucun des 24 envois d aujourd hui n y figure** — c est le bon
+resultat, mais il ne vaut que pour l instant, la fenetre courant jusqu au 18/10.
+
+**CE QUI TOMBE EN REVANCHE EST LA COHORTE DU 12/10, AU TERME DE SES 72 HEURES.** Dix-neuf fils
+portent un avis aujourd hui. **Onze sont des echecs definitifs — et HUIT appartiennent a l autre
+campagne.** Le `grep` domaine par domaine est ce qui a empeche de les compter tous ici : c est la
+lecon du 15/10 sur la lecture des lignes, prise dans le sens de l attribution.
+
+**LES TROIS QUI SONT LES NOTRES, ET LES TROIS PORTENT LE MEME CODE :**
+| Fiche | Adresse | Diagnostic lu en entier |
+|---|---|---|
+| **Glassbuilt Manufacturing** (Edmonton) | `contact@glassbuilt.com` | `4.4.1`, 159.89.116.92 **timed out** |
+| **Fortavidrio** (Monterrey) | `contacto@fortavidrio.com` | `4.4.1`, 65.99.225.96 **timed out** |
+| **New Thai Aluminium & Glass** (Dhaka) | `info@tagbd.com` | `4.4.1`, 103.118.240.112, **No route to host** |
+
+**C est la signature du SERVEUR MUET**, et la regle la tranche sans hesitation : sur les signatures
+connues, **une seule** justifie de chercher une autre boite — la boite inexistante sur domaine
+vivant. **Le serveur muet envoie directement au telephone**, une autre adresse du meme domaine
+echouant a l identique. Les trois ont un numero, les trois passent en `A APPELER`.
+
+**ET LA METHODE A ETE TENUE SUR UN POINT OU ELLE EST FACILE A LACHER : LES TROIS DIAGNOSTICS ONT ETE
+LUS, PAS DEDUITS.** La taille des messages distinguait deja les echecs (~21 Ko) des delais (~19 Ko),
+et la tentation etait de s y fier. Un message a ete ouvert pour **verifier** cette correspondance
+avant de s en servir, puis les trois notres ont ete lus un par un. Le §13 impose de lire le rebond
+en entier et surtout **quel serveur le rend** — c est la ligne qui decide.
+
+**CE QUE CELA CHANGE AU COMPTAGE DU §3, ET IL FAUT LE DIRE SANS L ARRONDIR :** trois messages
+comptes comme envoyes le 12/10 **ne sont jamais arrives**. C est la troisieme fois que la fenetre de
+72 heures corrige un comptage — apres les cinq fiches du 11/10 et SAMIR ce matin. **Un envoi n est
+confirme qu apres 72 heures, et cette regle a maintenant paye trois fois.**
