@@ -10414,3 +10414,137 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 182. Australian Independent Glass — AIG (Pooraka, Adelaide) — `sales@independentglass.com.au` — ANGLAIS — premier contact
+### ⚠️ PREPARE LE 15/10 A 13h33 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Le mot **INDEPENDENT** est dans la raison sociale, et c est le meme signal que
+*Glenny Glass* et *Intraco UAE* au **§6** : une maison qui n appartient a aucun producteur float peut
+prendre une origine de plus sans rompre un contrat. Ils se declarent **fabricant, transformateur ET
+grossiste**, usine dediee de 3000 m2. Et le releve du jour notait **qu aucun negociant de verre plat
+n apparaissait en Australie-Meridionale** hors le depot KOMO : en voici un second, et Adelaide est un
+port.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Localisation etablie et non supposee** : Pooraka, SA — **pas** Melbourne, que le nom laissait
+  croire. Lecon Arquetipo appliquee avant l erreur.
+- **Interdit de zone, et il est double.** On dit que la derniere ligne float d Australasie **a ete
+  arretee** — jamais qu elle ne redemarrera, la couverture datant de fevrier 2025. Et **pas un mot
+  sur les droits de douane australiens** : verifie le 13/10, la Chine n y porte **aucun** antidumping,
+  seule l Indonesie est frappee. L angle est **l origine**, jamais le douanier.
+- **Regle Prodiesa** : trempe, feuillete et dos vinyle sortent de l offre, seul le substrat y entre.
+- Adresse sur **leur propre page**, domaine identique au site, **aucune exception du §5**.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys the sheet, I would be grateful if you passed it on.
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France.
+
+I am writing to you because of one word in your name. An independent house is
+not tied to a producer, so an extra origin is an option rather than a breach
+of contract - and that is the only situation in which a first email from a
+supplier is worth answering.
+
+The other reason is simpler. The last float line in Australasia has been shut
+down, so every sheet in the country now arrives by container. The question for
+a merchant is no longer local or imported, it is which origin, and how many of
+them you want to be able to call on.
+
+What we would supply is substrate, not finished product:
+
+- clear and extra clear float: https://noxemgroup.com/en/float-glass/
+- low-E: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper and lead free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Full containers, treated timber cases to ISPM-15, jumbo 3210 x 2550 mm or cut
+to your sizes. We can put together an offer for delivery to your destination
+port, subject to validation on our side.
+
+Your product pages name the types you carry but not the thicknesses, so I have
+to ask: which thicknesses and sizes move fastest for you, what volume and how
+often, and do you clear through Adelaide or through another port.
+
+And if you are well served today, say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 183. Monash Glass (Notting Hill, Melbourne) — `sales@monashglass.com` — ANGLAIS — premier contact
+### ⚠️ PREPARE LE 15/10 A 13h33 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** **Le critere du §6 qui tranche vraiment est satisfait** : ils publient leurs
+formats et leurs epaisseurs de stock, et ils annoncent **24 heures de delai sur le float**. Un delai
+de 24 heures n est possible que si la feuille est deja en entrepot. Cinquante ans de maison. **Classe
+NEGOCE.**
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Deux adresses se contredisent, et le choix suit la regle Conciera du §13** : la page de contact
+  **affiche** `sales@monashglass.com`, les donnees structurees portent le `.com.au`. **L affichee
+  l emporte**, et elle est sur le domaine du site — aucune exception du §5. Le `.com.au` reste en
+  **second essai**, jamais en remplacement.
+- **Starphire n est PAS nomme dans le message.** Leur offre speciale sur cette marque dit qu ils
+  achetent chez **Vitro**, ce qui sert a choisir l angle — pas a le dire. Faute du paragraphe STADIP.
+- **Interdit de zone** identique a AIG : ligne float **arretee**, et **rien sur les droits**.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys the sheet, I would be grateful if you passed it on.
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France.
+
+I am writing to you rather than to a glazing firm because of two things on
+your own pages: you publish your stock sizes and thicknesses, and you quote 24
+hours on float. Neither is possible unless the sheet is already in your
+warehouse, and a house that warehouses sheet is the only kind for which a full
+container is the natural unit.
+
+The reason to look now is that the last float line in Australasia has been
+shut down. Every sheet in the country arrives by container, so the question is
+no longer local or imported but which origins you can call on, and how many.
+
+What we would supply is substrate:
+
+- clear and extra clear float: https://noxemgroup.com/en/float-glass/
+- copper and lead free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- low-E: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Full containers, treated timber cases to ISPM-15, jumbo 3210 x 2550 mm or cut
+to your stock sizes - including the 1830 x 2440 you already run. We can put
+together an offer for delivery to your destination port, subject to validation
+on our side.
+
+For that I need four things: which thicknesses turn over fastest, your stock
+sizes, your volume and buying frequency, and whether you clear through
+Melbourne.
+
+And if you are committed to your current supply, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
