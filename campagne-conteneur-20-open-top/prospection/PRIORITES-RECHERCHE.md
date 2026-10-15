@@ -981,3 +981,24 @@ CONTENEURS**, en plus du transport specialise, du stockage et du verre national 
 niveau de preuve de Pacific Glass NZ et de ses *mixed containers* — la maison ne laisse pas deviner
 son unite d achat, elle la vend comme service. ⚠️ Trois autres *Distrividrios* sont deja au registre,
 l identite est a lever avant tout envoi.
+
+
+### ⚠️⚠️ SECONDE CORRECTION, A 13h57 — LA REGLE « UNE VILLE PAR REQUETE » INVALIDE UNE PARTIE DE MA PROPRE CARTE
+Columbus et Anchorage, testees seules, ont rendu **neuf noms et neuf absents** la ou la requete
+groupee ne rendait rien. **La regle se verifie donc du premier coup — et il faut en tirer la
+consequence genante : TOUTES mes requetes groupees d aujourd hui ont sous-teste leur seconde ville,
+et plusieurs verdicts « zone faite » ci-dessus reposent dessus.**
+**Les villes dont le verdict n est PAS fiable, parce qu elles partageaient leur requete :**
+Tacoma · Minneapolis ou Denver · **Charlotte** · Winnipeg · Adelaide, Auckland, Christchurch ·
+**Veracruz** · **Cartagena** · Concepcion ou Valparaiso · Recife ou Salvador · **Barbade** ·
+Zone Libre de Colon.
+**Trois d entre elles sont explicitement signalees SANS AUCUN RESULTAT dans le releve meme :**
+Cartagena, la Barbade et Veracruz. **Ce ne sont donc pas des zones faites, ce sont des zones non
+testees**, et les ranger comme faites serait le faux negatif que la regle vient d interdire.
+**PRIORITE POUR LA SUITE, parce que ce sont des PORTS et que les villes voisines ont bien donne :**
+**Cartagena** d abord — Barranquilla, a 120 km, est le meilleur rendement du jour avec Cali.
+Puis **Veracruz**, puis **Charlotte**, puis Concepcion et Recife.
+**Ce qui RESTE fiable dans la carte ci-dessus :** les zones interrogees SEULES — Porto Alegre,
+Guadalajara, Costa Rica, Republique dominicaine, Cali, Columbus, Anchorage — et les verdicts fondes
+sur une lecture de fiche plutot que sur un comptage, comme Hawai, ou le constat est qu un seul
+grossiste existe et qu il est au registre.
