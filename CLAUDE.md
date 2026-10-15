@@ -418,6 +418,37 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   écrit à une adresse déjà présente au registre sous une autre fiche, sans greper.**
   vérifié : Shibaam était déjà à `RELANCE 2026-10-06` et a reçu un troisième message en deux
   jours. Vérifier après l'envoi ne sert à rien, cela ne fait que documenter la faute.
+  **⚠️⚠️ SEPTIÈME ET HUITIÈME CAS LE 15/10, DANS LA MÊME JOURNÉE, ET ILS DISENT QUE LA RÈGLE N'EST PAS
+  « GREPER » MAIS « LIRE LES LIGNES » — LE `grep` A ÉTÉ LANCÉ LES DEUX FOIS.** Les deux ont coûté des
+  appels de recherche sur des fiches entièrement travaillées, et aucun n'est un oubli.
+  · **Le matin, par un FILTRE AVEUGLE À LA PROSE.** J'ai bâti ma liste de candidats au déverrouillage
+    par un `awk` dont le motif d'exclusion portait sur « aucune adresse », « formulaire uniquement »,
+    « fiche téléphonique » et `TESTEE`. **Brocanelli et Koala Glass en sont ressorties comme à faire**,
+    alors que leurs notes du 14/10 disent, en toutes lettres, « Adresse relevée et NON portée au champ »
+    et « ADRESSE DISPONIBLE ET DÉLIBÉRÉMENT NON PORTÉE AU CHAMP ». **Deux appels pour redécouvrir, mot
+    pour mot, le verdict déjà écrit.** `candidats-deverrouillage.py`, lancé ensuite, les écartait toutes
+    les deux — et montrait qu'il ne restait que **trois** fiches à site connu, dont les deux que je
+    venais de refaire. **C'est la leçon du 13/10 à la lettre, et le remède existait déjà : le script se
+    passe AVANT d'ouvrir un lot, jamais mon propre `awk`.**
+  · **L'après-midi, par un `grep` DONT J'AI LU LE NOMBRE ET PAS LES LIGNES.** Devant trois noms
+    du Mid-Atlantic j'ai lancé `grep -ic` et obtenu `tidewater -> 1`, `maryland glass -> 3`,
+    `glass distributors inc -> 3`. **J'ai pris ces comptes pour du bruit de sous-chaîne et j'ai
+    dépensé les trois seconds temps.** Les deux premières étaient au registre **avec leur adresse,
+    leur domaine voisin déjà relu caractère par caractère, et déjà ENVOYÉES le 13/10**. Deux appels
+    sur trois perdus.
+  **LA RÈGLE SE DURCIT SUR LE GESTE, PARCE QUE « greper » NE SUFFIT VISIBLEMENT PAS :
+  `grep -ic` EST INTERDIT POUR CET USAGE. On grepe en `grep -in` et ON LIT LES LIGNES RENDUES.**
+  Un nombre ne dit pas si la ligne est la société cherchée, une homonymie, ou un mot pris dans une
+  note — et c'est précisément cette distinction qu'on cherche. Le §5 écrivait déjà le 09/10 « lire les
+  résultats, pas seulement leur nombre » ; le 13/10 City Glass a montré qu'un `grep` mal lu est pire
+  qu'un `grep` oublié, parce qu'il donne la certitude d'avoir vérifié. **Le 15/10 ajoute que c'est vrai
+  des deux côtés : un compte non nul lu comme du bruit fait perdre des appels, un compte nul lu sans
+  les lignes fait écrire deux fois.**
+  **Et le point commun des deux cas du jour est plus utile que chacun : DANS LES DEUX, LE CONTRÔLE A
+  TOURNÉ ET J'AI DÉCIDÉ CONTRE SA SORTIE.** Ce n'est donc pas un garde-fou qui manque, c'est une
+  lecture. Le seul remède qui tienne est procédural : **la sortie du contrôle se lit en entier avant
+  de dépenser le premier appel de la fiche**, et quand un script existe pour ce contrôle, c'est lui
+  qu'on lance et pas un filtre improvisé.
   **CINQUIÈME CAS LE 11/10 AU SOIR, ET CELUI-LÀ MONTRE QUE « LE MOT DISTINCTIF » N'EST PAS ENCORE ASSEZ
   PRÉCIS — il faut dire lequel.** `detecte-doublons.py` a réuni **Alpha Glass LLC** et **Alphaglass LLC**
   (Ajman) sur le signal du domaine : même `alphaglass.org`, même ville, et la même activité mot pour mot.
