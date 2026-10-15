@@ -7690,3 +7690,60 @@ en entier et surtout **quel serveur le rend** — c est la ligne qui decide.
 comptes comme envoyes le 12/10 **ne sont jamais arrives**. C est la troisieme fois que la fenetre de
 72 heures corrige un comptage — apres les cinq fiches du 11/10 et SAMIR ce matin. **Un envoi n est
 confirme qu apres 72 heures, et cette regle a maintenant paye trois fois.**
+
+---
+
+## 15/10 a 18h17 — Rio de Janeiro, Fortaleza et Joinville : huit fiches neuves, deux deverrouillees, zero envoi
+
+**Lot de decouverte a UNE VILLE PAR REQUETE**, regle posee ce matin a 13h55 apres le faux negatif
+de Cali. Les trois villes avaient ete mesurees sans fiche avant de depenser le premier appel :
+**Rio de Janeiro ville** n en avait aucune alors que l Etat en portait deux, Rio Bonito et Tres Rios.
+
+**Dix noms rendus, grepes un par un en `grep -in` AVEC LECTURE DES LIGNES**, jamais en `grep -ic`.
+
+| Nom | Suite donnee |
+|---|---|
+| **CSPAX Vidros** (Rio, Sao Cristovao) | fiche creee **et deverrouillee**, texte 209 redige |
+| **New Temper Vidros** (Rio, Barros Filho) | fiche creee **et deverrouillee**, texte 210 redige |
+| **Glassfer Vidros** (Rio, Jacarepagua) | fiche creee, **aucune adresse publiee** → telephonique |
+| **Float Glass Tijuca** (Rio) | fiche creee, a deverrouiller |
+| **JRC Distribuidora** (Rio) | fiche creee au **telephone**, metier a etablir |
+| **Super Vidros Distribuidora** (Fortaleza) | fiche creee, **aucune adresse publiee** → telephonique |
+| **Morumbi Vidros e Ferragens** (Fortaleza) | fiche creee, reserve de classe sur *ferragens* |
+| **Master Temper** (Joinville) | fiche creee, **siege a Araucaria PR** et non Joinville |
+| **Real Vidros** (Fortaleza) | **fiche NON creee**, deja au registre et ecrite le 13/10 |
+| **Atacadao do Vidraceiro** (Joinville) | **fiche NON creee**, vendeur de produits pour vitriers |
+
+**TROIS CHOSES APPRISES, ET LES TROIS SONT DES DEMENTIS DU SECOND TEMPS.**
+1. **Super Vidros a perdu au second temps le signal qui en faisait la meilleure cible du lot.** La
+   decouverte annoncait *carga fechada, terco de chapa, meia chapa e pedaco*, ce qui est
+   litteralement notre unite de vente. **Cette phrase ne figure pas sur leur domaine** — il y a au
+   moins QUATRE maisons nommees Super Vidros. **Lecon Imporex a la lettre : la recherche large
+   IDENTIFIE, elle ne QUALIFIE pas.** Le signal est retire de la fiche et non affirme.
+2. **Master Temper n est pas a Joinville, son siege est a Araucaria dans le Parana**, et la
+   succursale de Joinville est donnee pour *inapta* par une source. **Lecon Arquetipo**, et elle
+   compte ici parce que le Parana releve d ADIVIPAR, la federation la plus productive de la methode.
+3. **Glassfer n est pas Estrada dos Bandeirantes 5172** comme quatre annuaires le disent, mais Rua
+   Rodolfo Portugal Milward 95. **Leur page a tranche contre les annuaires.**
+
+**CE QUI A ETE GAGNE MALGRE CES TROIS DEMENTIS, ET C EST LE POINT :** deux adresses solides.
+· **CSPAX** publie son adresse dans sa propre section *Endereco e Contatos* — c est une boite
+  **gmail**, donc l **exception du §5 est appliquee et notee**, et elle est satisfaite par la lettre
+  de la regle puisque c est leur page qui la publie. **Signal d entree double**, pronta entrega avec
+  stock et epaisseurs de revente. **Ils revendent le miroir sans le fabriquer, donc la regle Prodiesa
+  le laisse DANS l offre** — contrairement a Prodiesa et a TTR.
+· **New Temper** publie une boite sur son propre domaine, **aucune exception a noter**. Son signal
+  d entree est explicite : **ils ne servent pas le client final**, seulement les professionnels sur
+  CNPJ. **Reserve tenue : `vendas` est de la colonne CLIENT du tableau du §13**, donc le message
+  demande la transmission des la premiere ligne.
+
+**UN GARDE-FOU A TRAVAILLE SUR LE TEXTE 209** : `verif-texte.py` a refuse le mot *garantia*. Le
+motif etait juste — j avais ecrit que la bordure du miroir *resiste muito melhor* a l air salin,
+c est-a-dire une **garantie technique non validee** au sens du §5. Phrase refaite en question posee
+au client plutot qu en promesse faite par nous. **Controle repasse a zero a corriger.**
+
+**AUCUN ENVOI. L accord du jour, mot pour mot ENVOIE TOUT, portait sur les 23 messages en file et
+il est epuise.** Les textes 209 et 210 attendent un mot neuf de Kevin, consigne du 15/10 a 09h41.
+
+**Registre : 1458 fiches, dont 105 au Bresil. 47 envois confirmes le 15/10.
+2 fiches en file `A ENVOYER`, 213 fiches `A APPELER` toutes avec un numero.**

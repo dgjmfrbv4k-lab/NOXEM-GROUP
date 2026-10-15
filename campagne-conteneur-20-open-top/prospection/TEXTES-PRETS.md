@@ -12568,3 +12568,182 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 209. CSPAX Vidros (Rio de Janeiro, Sao Cristovao) — `cspaxvidros@gmail.com` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 18h15 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+**POURQUOI EUX.** Fiche nee d une recherche de decouverte sur la **ville de Rio de Janeiro**, qui
+n avait **aucune** fiche au registre alors que l Etat en portait deux. Une ville par requete, regle
+du 15/10 a 13h55. **Classe negoce et faconnage**, les deux meilleures du tri metier du §6.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Mot distinctif grepe en `grep -in` avec lecture des lignes**, absent. Balayage des doublons
+  passe apres creation, inchange a huit groupes.
+- **⚠️ EXCEPTION DU §5 EXPRESSEMENT APPLIQUEE ET NOTEE DANS LA FICHE** : l adresse est une boite
+  **gmail**, donc son domaine n est **pas** celui du site. Le second temps restreint a leur propre
+  domaine a verifie que la section *Endereco e Contatos* de **leur page** la publie, avec le
+  telephone et l adresse postale. C est la condition exacte que le §5 pose pour l employer.
+- **LE SIGNAL D ENTREE EST DOUBLE** : ils annoncent la **pronta entrega** avec stock en magasin, et
+  leurs epaisseurs de 3 a 6 mm portent sur des references de **revente**. Epaisseurs plus stock plus
+  delai court designent l **ENTREE** de l atelier, au sens de la regle reecrite ce matin sur Olglass.
+- **⚠️ DEUX MARQUES DE PRODUCTEUR FLOAT DANS LEUR GAMME MIROIR, ET AUCUNE N EST CITEE DANS LE
+  MESSAGE.** Une marque dans une **gamme** dit qu on **achete**, donc prospect et non concurrent — et
+  le nom reste dehors, faute du §STADIP du 12/10. Ce qu elle change est l **angle** et rien d autre.
+- **LE MIROIR RESTE DANS L OFFRE, contrairement a Prodiesa et a TTR** : ils **revendent** le miroir,
+  ils ne le fabriquent pas. La regle Prodiesa ne l en sort donc pas, et c est notre reference la plus
+  differenciante sur une ville cotiere et humide.
+- **Porte de sortie OBLIGATOIRE** : source etablie sur le miroir.
+- **Trois interdits bresiliens du §6 tenus.** Argument douanier **borne au float clair** et dit comme
+  un fait, sans aucun taux, sans nommer la Chine — **et surtout pas sur le miroir**, que la Gecex 833
+  exclut expressement de la mesure.
+
+**Objet :** `Float, extra clear e espelho sem cobre em conteiner completo`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos por uma coisa precisa da vossa pagina: os senhores trabalham com
+pronta entrega e mantem estoque na loja, e distribuem alem de beneficiar. Uma
+casa que guarda chapa compra chapa, e e so disso que eu trato.
+
+Nao lhes ofereco nada do que os senhores fazem no proprio galpao - nem corte,
+nem lapidacao, nem acabamento. Apenas o substrato que entra:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O espelho e a referencia pela qual comeco, e por um motivo de mercado e nao
+de preco: e um espelho cuja camada nao leva cobre nem chumbo, e e a
+referencia que levamos sobretudo a mercados litoraneos e umidos. Se isso
+pesa na clientela dos senhores, digam-me e eu detalho.
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao sobre o float incolor, como fato aduaneiro e nada mais: as
+medidas antidumping brasileiras em vigor sobre o float incolor alcancam
+origens asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso
+muda a comparacao entre origens. Nao vale para espelho nem para vidro
+colorido, e nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte - o porto do Rio de Janeiro, no seu caso.
+
+Para avancar preciso de pouca coisa: quais espessuras de float, de extra
+clear e de espelho os senhores giram de fato, quais medidas de chapa lhes
+servem, uma ordem de grandeza do volume anual com a frequencia de compra, e o
+porto que preferem.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
+fonte estabelecida raramente tem lugar para outra. Se for o seu caso, diga-me
+com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 210. New Temper Vidros (Rio de Janeiro, Barros Filho) — `vendas@newtemper.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 18h15 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+**POURQUOI EUX.** Meme recherche de ville que la 209. **Classe verrier pur croisee avec le negoce**,
+la meilleure du tri metier du §6 a 12,8 pour cent : trempe, lapidation **et** commerce de gros.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Mot distinctif grepe en `grep -in` avec lecture des lignes**, absent.
+- **Adresse sur leur propre domaine**, identique a celui du site et present dans les URL de
+  resultats, donc **aucune exception du §5 a noter**. Domaine relu caractere par caractere, un
+  second domaine voisin existant par ailleurs.
+- **⚠️ RESERVE DE BOITE, ET ELLE SE PAIE DANS LE PREMIER PARAGRAPHE.** `vendas` est de la colonne
+  **CLIENT** du tableau du §13 — c est la boite ou **leurs** clients demandent **leurs** prix.
+  Aucune boite d achats n est publiee. On l emploie faute de mieux, **et le message demande la
+  transmission des la premiere ligne**, ce que le §9 impose deja.
+- **LE SIGNAL D ENTREE EST SUR LEUR PROPRE PAGE ET IL EST EXPLICITE** : ils **ne servent pas le
+  client final**, seulement les vidracarias, les menuisiers et les constructeurs sur CNPJ. Une
+  maison qui ne vend qu au professionnel travaille au volume, et un four de trempe ne tourne que si
+  de la feuille entre.
+- **REGLE PRODIESA STRICTEMENT APPLIQUEE** : le **trempe sort de l offre**, les lignes decoratives
+  aussi, **seul le substrat entre**. Le miroir n est **pas** propose : rien n etablit qu ils en
+  tiennent, et le §5 interdit d offrir ce qu on n a pas verifie.
+- **Succursales a Rio das Ostras et a Campos : UN SEUL compte, un seul message.** Leur ecrire deux
+  fois serait la faute Shibaam.
+- **Porte de sortie OBLIGATOIRE.**
+- **Trois interdits bresiliens du §6 tenus**, argument douanier **borne au float clair**, sans taux
+  et sans nommer la Chine.
+
+**Objet :** `Chapa de float e extra clear em conteiner completo para a tempera`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Como escrevo a uma caixa de vendas,
+peco o favor de encaminhar a quem compra a chapa na casa, porque e a essa
+pessoa que esta mensagem interessa.
+
+Escrevo-vos por uma coisa precisa da vossa pagina: os senhores nao atendem
+cliente final e so vendem a vidracarias, esquadrias e construtoras com CNPJ.
+Quem trabalha assim trabalha em volume, e um forno de tempera so gira se
+entrar chapa. E e so da chapa que entra que eu trato.
+
+Nao lhes ofereco nada do que os senhores produzem - nem temperado, nem
+lapidacao, nem as linhas decorativas. Apenas o substrato:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte - o porto do Rio de Janeiro, no seu caso.
+
+Para avancar preciso de pouca coisa: quais espessuras de float e de extra
+clear o forno consome de fato, quais medidas de chapa lhes servem melhor, uma
+ordem de grandeza do volume anual com a frequencia de compra, e o porto.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
+fonte estabelecida raramente tem lugar para outra. Se for o seu caso, diga-me
+com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
