@@ -210,6 +210,25 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   c'est l'ÉPAISSEUR et le FORMAT** : une maison qui stocke de la feuille publie ses épaisseurs, de 2 à
   19 mm chez Centro de Vidrio, de 1,8 à 20 chez les autres. **Aucun façadier n'en publie.** À chercher
   dans le second temps, au même coût que le reste.
+  **⚠️⚠️ ET CE CRITÈRE A UN ANGLE MORT, TROUVÉ LE 15/10 À 13h37 — IL PROTÈGE CONTRE UN FAÇADIER,
+  IL NE PROTÈGE PAS CONTRE UN GROSSISTE GÉNÉRALISTE. C'est une précision, pas un démenti, et elle a
+  coûté une fiche ouverte une heure plus tôt comme « le meilleur signal du lot ».**
+  **Gómez Lotero y Cía. Ltda.** est remontée d'un annuaire barranquillero publiant **des feuilles de
+  verre et de miroir de 2 à 8 mm, en distribution nationale** — le critère satisfait à la lettre.
+  **Premier temps fait sur le nom seul : les deux faits sont faux.** Un, elle est à **Bello, en
+  Antioquia**, dans l'agglomération de **Medellín**, à sept cents kilomètres de la côte — la leçon
+  Arquetipo une fois de plus. Deux, et c'est ce qui ferme la fiche, **son propre profil annonce la
+  distribution d'ARTICLES RELIGIEUX, de produits plastiques et de DÉCORATIONS DE NOËL — crèches,
+  guirlandes, sapins — et, au milieu de cette liste, des *láminas de vidrio-espejo*.**
+  **POURQUOI LE CRITÈRE A ÉCHOUÉ, ET C'EST LA PARTIE RÉUTILISABLE :** il oppose une maison qui
+  **stocke de la feuille** à une maison qui **achète au chantier**, et sur cet axe il est juste. **Un
+  bazar qui vend des feuilles au détail publie lui aussi ses épaisseurs** — il est du bon côté de cet
+  axe-là et du mauvais côté de tous les autres. **Donc : l'épaisseur publiée se lit AVEC LE RESTE DU
+  CATALOGUE, jamais seule.** C'est exactement la règle du mot *verrerie* prise au niveau du produit,
+  déjà établie le 14/10 sur GLS Spezialglas dont la gamme portait du float **en composant** : le
+  chiffre n'autorise pas plus que le mot, seul l'**usage** décide.
+  **Et le test qui aurait suffi coûte zéro appel : lire les AUTRES lignes de la gamme.** Des sapins de
+  Noël à côté du miroir disent tout ce qu'il faut savoir.
   **⚠️ ET LA LEÇON S'ÉTEND AU PAYS, PAS SEULEMENT AU MÉTIER — deux cas de plus le 14/10 à 11h42.**
   · **Distribuidora Arquetipo** était classée sous le **Pérou** par le portail. Vérifiée : elle est
     **chilienne**, quatre succursales à Santiago, Antofagasta, Coquimbo et Talca. La fiche est créée, mais
