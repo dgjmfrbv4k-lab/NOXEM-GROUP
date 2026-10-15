@@ -11134,3 +11134,94 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 191. Binswanger Glass (Memphis, Tennessee) — `info@binswangerglass.com` — ANGLAIS — premier contact
+### PREPARE LE 15/10 A 14h41 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX — C EST LE PLUS GROS COMPTE AMERICAIN OUVERT DE LA SEMAINE.** Societe de verre plat
+de service complet fondee en **1872**, reseau national de succursales sur une dizaine d Etats.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE, ET LE PREMIER POINT A FAILLI FERMER LA FICHE.**
+- **⚠️ ACTIONNARIAT REETABLI PAR SOURCE PERMISE, ET LA RESERVE DU §6 TOMBE.** Ce matin le fait
+  n existait que chez des **courtiers de donnees**, dont deux nommement interdits, et il restait donc
+  une hypothese. Il est etabli par **leur propre page de presse** et confirme par Glass Magazine et
+  USGlass : **Transom Capital Group**, capital-investissement, les a acquis de Wingate Partners,
+  annonce du **12 novembre 2025**. **Le proprietaire est un FONDS et non un producteur float**, donc
+  Binswanger n est **pas** concurrente par nature au sens de Glaverpane et de Scheuten.
+  **C est la regle du §5 appliquee et elle a paye** : un courtier peut nommer un fait, sa
+  qualification ne se reprend pas, et le fait se reetablit ailleurs. Une recherche a suffi.
+- **⚠️ AUCUN CHIFFRE D IMPLANTATIONS N EST CITE.** La presse donne 42 sur onze Etats, leur propre
+  page annonce plus de cinquante, les tiers vont de 44 a 65. **On dit un reseau national, jamais un
+  nombre** — c est la regle des capacites non citables du §6 appliquee a un effectif.
+- **ET LE RACHAT N EST PAS MENTIONNE DANS LE MESSAGE.** Il **date** l approche et explique pourquoi
+  maintenant, mais le dire reviendrait a commenter la vie interne d une maison qu on ne connait pas.
+  C est la retenue du paragraphe STADIP, prise en prevention cette fois.
+- **Boite retenue** `info@`, publiee sur leur page de contact, domaine du site, aucune exception.
+  **Trois autres ecartees** : `customercare` est du cote CLIENT, piege MunnWorks ; `hr` est le
+  recrutement ; et une boite nominative de PRESSE, fonction non pertinente aux achats.
+- **UN DIRIGEANT NOMME SERAIT PERMIS — Blake Hancock, directeur general, fonction verifiee ET
+  pertinente — ET IL N EST PAS EMPLOYE.** Une boite generale ne presume rien. Le choix revient a
+  Kevin.
+- **AUCUN SERVICE ACHATS PUBLIE**, donc la premiere ligne demande la transmission : c est le cout
+  que le §13 signale sur toute fiche sans boite `inkoop`.
+- **Interdit du §6 tenu** : jamais l absence de production locale, Vitro produit et Cardinal exploite
+  sept sites float. L angle est **douanier**, sans aucun taux.
+- **Porte de sortie OBLIGATOIRE** (§9 point 7) : un reseau de cette taille a des contrats cadres.
+- **Regle Prodiesa** : ils fabriquent et posent, donc seul le **substrat** entre.
+
+**Objet :** `Substrate for a national flat glass network - one more origin`
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France. This is a supply offer, not a request for a
+quotation. We have no account with you and I am not selling you a service -
+so if this is not your desk, the right person is whoever buys glass for the
+network, and I would be grateful if you passed it on.
+
+I am writing to the company rather than to a branch because buying is the one
+thing a national network does centrally. You have been fabricating and
+installing flat glass since 1872, across branches in a dozen states, and a
+business that size does not buy sheet by the job. It buys it by the programme,
+and the origin of that sheet is a question that gets reviewed from time to
+time. This is me asking to be in the next review.
+
+I am not offering anything you make yourselves - no fabrication, no finished
+units, no installation. Only the substrate that goes into them:
+
+- clear and extra clear float: https://noxemgroup.com/en/float-glass/
+- low-E: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper and lead free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+One thing worth saying plainly, as a customs fact and nothing more. Since
+6 April 2026 the two cheapest origins into the United States carry antidumping
+and countervailing orders, and European glass carries none. That does not make
+our glass cheap and I am not claiming it does. It changes the comparison
+between origins, which is a different thing and the only thing I am claiming.
+
+We ship full containers, in treated timber cases to ISPM-15, in jumbo
+3210 x 2550 mm or cut to your sizes. We can put together an offer for delivery
+to your destination port, subject to validation on our side.
+
+For that I need four things: the references and thicknesses your fabrication
+consumes most, the sheet sizes your lines run, a rough annual volume with how
+often you order, and which ports you clear through - Houston, Savannah,
+Charleston or elsewhere.
+
+And I will say the obvious: a network your size almost certainly has supply
+agreements in place, and a second origin may simply not be available to you.
+If that is the case, say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
