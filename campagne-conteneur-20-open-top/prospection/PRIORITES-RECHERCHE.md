@@ -1188,3 +1188,48 @@ Alagoas **0**, Paraiba **0**, Sergipe **0**, Rio Grande do Norte **1**. **C est 
 couverte du Bresil et c est celle ou l argument porte le mieux.** Prochaine ville a interroger
 seule : **Belem par changement de source**, puis **Maceio**, **Joao Pessoa**, **Natal** et
 **Teresina**.
+
+---
+
+## 15/10 a 18h35 — Paraiba, Rio Grande do Norte et Piaui : trois Etats ouverts, un reste vide
+
+**Trois villes interrogees SEULES.** Paraiba et Rio Grande do Norte n avaient **aucune fiche** —
+verification faite pour le second, la seule occurrence du mot *Natal* au registre etant le
+**KwaZulu-Natal sud-africain**, ce qui est exactement le genre de faux positif qu un `grep -ic`
+aurait compte pour une fiche.
+
+| Ville | Rendu | Suite |
+|---|---|---|
+| **Joao Pessoa (PB)** | 2 noms neufs | **2 fiches**, dont une qui designe un Etat vierge |
+| **Natal (RN)** | 4 noms neufs | **4 fiches**, toutes telephoniques |
+| **Teresina (PI)** | **aucun nom local** | rien — voir ci-dessous |
+
+**LE GREP A EVITE TROIS DOUBLONS DANS CE SEUL LOT** : `Divinal Vidros`, `NSA Vidros` et
+`WegaVidros` sont remontees comme candidates et **etaient deja au registre**, toutes trois a Sao
+Paulo. A ce stade de la campagne c est le rendement normal de la recherche large, et c est
+precisement pourquoi on grepe **avant** de qualifier et non apres.
+
+**⚠️ TERESINA EST LE SECOND PARA : LA RECHERCHE LARGE N Y REND AUCUN NOM LOCAL.** Elle rend des
+maisons du Sud-Este et du Nordeste qui annoncent y livrer, toutes deja au registre. **Le Piaui
+reste donc a zero fiche**, comme le Para. **Meme conduite : ne PAS refaire la recherche large,
+changer de SOURCE** — portail sectoriel, puis annuaire de federation regionale.
+
+**UN SIGNAL QUI RESSORT DE TOUTE LA SERIE DU NORDESTE ET QUI VAUT MIEUX QU UNE FICHE :**
+`Intervidro`, a Olinda et Goiana, est citee comme livrant **en 48 heures dans TOUT le Nordeste**, et
+elle remonte sur **chacune** des quatre villes interrogees — Belem, Maceio, Teresina, Sao Luis.
+**C est elle, et non le producteur, qui tient la distribution de la facade.** Deja au registre.
+
+**DEUX FOURNISSEURS ETABLIS SANS UN APPEL DE PLUS, par la regle de la marque dans la gamme :**
+`VPM` (Goiania) dit sur son site que ses verres et miroirs sont d une marque de **producteur float
+du §6** ; `Top Vidro` (Tremembe) vend le miroir d un autre. **Dans les deux cas : ils achetent, donc
+ce sont des prospects, la marque reste hors du message, et la porte de sortie devient obligatoire.**
+
+**⚠️ ET TOP VIDRO PORTE LA RESERVE DE MARCHE LA PLUS LOURDE DE TOUTE LA SERIE BRESILIENNE.**
+Tremembe est dans la **vallee du Paraiba**, a quelques dizaines de kilometres des **deux** usines
+float de Jacarei et de Cacapava. **C est le point du Bresil ou le producteur local est le plus
+proche d un acheteur.** L angle y est **exclusivement l origine et la gamme** — le texte 215 met le
+**miroir en tete** pour cette raison, et ne dit pas un mot de la logistique.
+
+**ETAT DE LA FACADE NORD-NORDESTE APRES LA JOURNEE :** Ceara **2**, Maranhao **2**, Paraiba **2**,
+Rio Grande do Norte **4**, Alagoas **2**, **Para 0**, **Piaui 0**, Sergipe **0**.
+**Registre a 1471 fiches, dont 118 au Bresil. 7 en file `A ENVOYER`, 218 en `A APPELER`.**

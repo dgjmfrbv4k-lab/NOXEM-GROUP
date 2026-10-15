@@ -13141,3 +13141,93 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 215. Top Vidro (Tremembe, Vale do Paraiba, Sao Paulo) — `topvidro@topvidro.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 18h34 le 15/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+**POURQUOI EUX.** Remontee en marge d une recherche sur **Teresina**, qui n a rien donne localement.
+**Classe negoce**, etablie par la **clientele** et non par le nom : revente en **atacado** aux
+*vidracarias, construtoras e moveleiros*. Ils vendent **aux** transformateurs et aux poseurs au
+lieu d en etre un, et leur categorie *Vidros* porte le **float**. Maison active depuis 2007.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Mot distinctif grepe en `grep -in` avec lecture des lignes**, absent.
+- **Adresse sur leur page Contato**, domaine identique a celui du site, **aucune exception du §5**.
+- **⚠️ LEUR FOURNISSEUR DE MIROIR EST NOMME DANS LEUR GAMME, ET IL N EST PAS CITE DANS LE MESSAGE.**
+  C est une marque de **producteur float du §6**, en 2 a 6 mm. Marque dans une **gamme** = ils
+  **achetent**, donc prospect ; le nom reste dehors, faute du §STADIP.
+- **Porte de sortie OBLIGATOIRE.**
+- **⚠️⚠️ LA RESERVE LA PLUS LOURDE DE TOUTE LA SERIE BRESILIENNE, ET ELLE NE FIGURE PAS DANS LE
+  MESSAGE : Tremembe est dans la vallee du Paraiba, a quelques dizaines de kilometres des DEUX
+  usines float de Jacarei et de Cacapava.** C est le point du Bresil ou le producteur local est le
+  **plus proche** d un acheteur. **L angle est donc exclusivement l origine et la gamme** — une
+  allusion au delai ou a la logistique se retournerait dans la phrase suivante. Le miroir passe en
+  tete pour la meme raison : c est la reference ou l origine, et non la distance, decide.
+- **Trois interdits bresiliens tenus**, argument douanier **borne au float clair**, sans taux et
+  sans nommer la Chine. **`Nas suas medidas` avant le jumbo**, meme motif que les textes 209 a 214.
+
+**Objet :** `Espelho sem cobre, float e extra clear em conteiner completo`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos por uma coisa precisa das vossas paginas: os senhores revendem
+no atacado para vidracarias, construtoras e moveleiros, e tem o float na
+vossa categoria de vidros. Quem abastece os transformadores compra antes
+deles e compra em volume - e e so disso que eu trato.
+
+Comeco pelo espelho, de proposito:
+
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O espelho vem primeiro por um motivo de produto e nao de preco: o nosso nao
+leva cobre nem chumbo na camada, e e a referencia que nos distingue. Os
+senhores ja trabalham com espelho, entao sabem avaliar a diferenca melhor do
+que eu saberia explica-la por escrito.
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao sobre o float incolor, como fato aduaneiro e nada mais: as
+medidas antidumping brasileiras em vigor sobre o float incolor alcancam
+origens asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso
+muda a comparacao entre origens. Nao vale para espelho nem para vidro
+colorido, e nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm se preferirem - o
+comprimento de corte se faz sob encomenda. Podemos preparar uma oferta para
+entrega no seu porto de destino, sujeita a validacao da nossa parte - Santos,
+no seu caso.
+
+Para saber se faz sentido continuarmos, preciso de quatro coisas: quais
+espessuras de espelho e de float os senhores giram de fato, que medida de
+chapa lhes serve melhor, uma ordem de grandeza do volume anual com a
+frequencia de compra, e o porto.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
+fonte estabelecida raramente tem lugar para outra. Se for o seu caso, diga-me
+com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
