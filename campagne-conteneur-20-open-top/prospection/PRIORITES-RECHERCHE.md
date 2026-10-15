@@ -857,3 +857,49 @@ nomme et non exploite de toute la campagne.
   **sont bien les cinq qui figurent au texte**, et les cinq sont au registre. La methode a donc paye la ou
   le texte etait lisible, ce qui separe proprement le probleme : ce n est pas la methode qui echoue ici,
   c est l acces.
+
+
+---
+
+## VERDICT DU 15/10 A 13h15 — LA SATURATION SE MESURE PAR REGION, ET LE RESULTAT N EST PAS LE MEME PARTOUT
+
+La mesure du 13/10 declarait les Etats-Unis, le Canada, l Australie et le Bresil satures sur une
+recherche NATIONALE. Celle du 14/10 corrigeait : ce qui etait sature etait la METHODE, pas le
+marche. **Le 15/10 ajoute le troisieme etage, et c est celui qui sert a decider ou depenser :
+a methode egale — la meme decomposition regionale, le meme jour, le meme format de requete —
+le rendement varie de CINQ noms neufs a ZERO selon la region.**
+
+| Region interrogee | noms rendus | absents du registre | verdict |
+|---|---|---|---|
+| **Seattle et Tacoma** | 9 | **5** | **veine ouverte** |
+| Denver et Minneapolis | ~12 | **4** utiles | ouverte, mais loin des ports |
+| Sud-Est, Atlanta et Charlotte | 4 | **1** | quasi fait |
+| **Calgary et Winnipeg** | 9 | **0** | **FAIT, a ne plus interroger** |
+| **Guadalajara** | 5 | **1**, et de mauvaise classe | **FAIT** |
+
+**CE QUE LE ZERO DE CALGARY ETABLIT, ET C EST UTILE PARCE QUE C EST UN RESULTAT NEGATIF PROPRE :**
+les trois seuls vrais grossistes de l Ouest canadien sont deja au registre — National Glass a Delta
+et Calgary, IGD dont la fiche de Vaughan couvre les sept centres de distribution, et United Glass de
+Mississauga qui est notre propre dossier. Les six autres noms rendus etaient un poseur d enveloppe,
+un atelier sur mesure, deux fournisseurs de verre AUTOMOBILE et deux concurrents du §6. **Le Canada
+est le plus gros bloc du registre et il est reellement couvert sur sa classe utile.**
+
+**CE QUE LE CINQ DE SEATTLE ETABLIT :** la facade Nord-Ouest n avait jamais ete interrogee a son
+echelle. Alpine Glass, Budget Glass, Aspen Industries, Cascade Glass et — a lever d abord —
+Northwestern Industries et Hartung Glass, qui partagent une adresse a Tukwila.
+
+**REGIONS AMERICAINES ENCORE NON DECOMPOSEES, par ordre de valeur portuaire :**
+Norfolk et Hampton Roads · Cleveland, Columbus et Cincinnati · Detroit · Baltimore et Washington ·
+Honolulu et Anchorage, ou Savage Wholesale a deja une implantation.
+
+**ET DEUX SOURCES MESUREES EPUISEES LE MEME JOUR, pour ne pas y redepenser d appels :**
+1. **Les federations bresiliennes.** AMVID, AVIGO et Sindividros-RS ne remontent sur **aucune**
+   recherche — ni leur nom complet, ni une page d associes. La methode de l annuaire de federation
+   s arrete donc a **deux entites productives sur neuf testees**, ADIVIPAR avec 21 fiches et
+   ABRAVID avec 8.
+2. **La rubrique distributeurs de glassonweb.** Quatre noms rendus, dont **Flat Glass Distributors
+   de Jacksonville deja au registre en double**, **Hollander deja ferme en verre d art**, et
+   **Salem Distributing qui vend des MACHINES** et vient d etre ferme en hors gamme. Un seul nom
+   exploitable, **Jargo Glas** aux Pays-Bas, et il bute sur la reserve de perimetre europeen du §6.
+
+**Registre a 1393 fiches a cette heure.**
