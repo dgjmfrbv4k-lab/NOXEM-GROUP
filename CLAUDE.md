@@ -2352,6 +2352,24 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   comme le mandat impose déjà le heredoc quoté contre l'accent grave. Ma prose n'est pas de la
   prose, c'est de l'entrée pour une machine — c'est le quatrième caractère de cette famille après
   le `;`, le mot `DOUBLON` et l'accent grave.
+  **⚠️⚠️ ET LE 15/10 À 11h55 DONNE LE CAS OÙ LES DEUX RÈGLES DU MANDAT SE CONTREDISENT, CE QUI EST
+  NOUVEAU : LE HEREDOC QUOTÉ BLOQUE LA SUBSTITUTION QUE LE §13 EXIGE.** Un message de commit déjà poussé
+  porte, en toutes lettres, « Registre a **$N** fiches, dont **$U** aux Etats-Unis ». Les variables étaient
+  bien calculées par `awk` et bien passées — **et le `<<'EOF'` les a prises pour du texte**, puisque c'est
+  précisément ce qu'un délimiteur quoté fait.
+  **LA COLLISION EST ENTRE DEUX RÈGLES JUSTES.** Le §12 impose `<<'EOF'` depuis le 13/10, contre l'accent
+  grave que bash exécuterait. Le §13 impose de substituer tout chiffre plutôt que de le taper. **Un
+  heredoc quoté satisfait la première et rend la seconde impossible**, et je n'avais jamais écrit ce que
+  l'on fait alors.
+  **RÈGLE : un texte qui contient À LA FOIS un chiffre à substituer ET de la prose ne passe par aucun
+  heredoc.** On le compose en Python et on substitue par `.replace()`, comme pour les signes `%`, puis on
+  écrit le message dans un fichier que `git commit -F` lit. `git commit -F -` avec un heredoc quoté ne
+  sert que pour un message SANS aucun chiffre.
+  **Et le contrôle qui coûte une seconde, le même que pour les heures : relire le message AVANT de
+  pousser**, par `git log -1 --format=%B | grep -n '\$'`. Un `$` qui survit dans un message de commit est
+  toujours une substitution ratée.
+  **Le commit reste faux dans l'historique** — on ne réécrit pas une branche poussée — et c'est ce
+  paragraphe, plus le commit suivant, qui le disent.
   Deux envois d'ecart ne changent rien a un dossier, mais un chiffre invente dans un suivi qui sert
   de preuve est un faux au sens du paragraphe 16 — et c'est le meme defaut qui faisait annoncer
   « aucun rebond » sur une fenetre d'observation trop courte : affirmer avant d'avoir lu.
