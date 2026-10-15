@@ -1341,3 +1341,37 @@ porter** — plus net qu une plage d epaisseurs, puisque c est litteralement not
 Porte a sa fiche **pour la relance**.
 
 **Registre a 1474 fiches, dont 121 au Bresil, 8 en file `A ENVOYER`.**
+
+---
+
+## 15/10 a 18h46 — OU IL RESTE DE LA PLACE, MESURE SUR LE REGISTRE ET NON DE MEMOIRE
+
+**Deux mesures de couverture lancees ce soir ont rendu un ZERO FAUX, et la cause est la meme dans
+les deux cas : un jeton de filtre tape a la main.** Hawai, cherche comme `Hawaii` dans le champ
+ville, ressortait a zero et compte **six** mentions — deux appels perdus a redecouvrir un verdict
+de 13h23. La Nouvelle-Zelande, cherchee comme `Nouvelle-Zélande`, ressortait a zero et compte
+**douze** fiches, le registre l ecrivant **sans accent**. **Celle-la n a rien coute parce que j ai
+grepe avant de chercher** — c est toute la difference entre les deux. Regle portee au §13 du mandat.
+
+**CE QUE LA MESURE CORRIGEE DIT, ET ELLE CHANGE OU DEPENSER DEMAIN.**
+· **Les Etats-Unis sont a 132 fiches** et la decomposition par Etat touche sa limite. Les Etats
+  encore vides — Delaware, Idaho, Iowa, Maine, Mississippi, Montana, New Hampshire, les Dakotas,
+  Rhode Island, Vermont, Virginie-Occidentale, Wyoming — **sont tous desservis depuis un hub deja
+  couvert** : Minneapolis, Chicago, Kansas City, Saint-Louis, Seattle, Boston. **Y chercher serait
+  refaire la faute Honolulu sous une autre forme**, et c est la lecon Casas Bandeirantes prise a
+  l envers : quand le hub est deja au registre, la ville vide n a plus rien a rendre.
+· **La Nouvelle-Zelande est couverte a douze fiches** et c est coherent avec un marche de cinq
+  millions d habitants. Rien a y ouvrir.
+· **Les reservoirs reels ne sont plus dans la decouverte.** Les fiches **adressees et jamais
+  contactees** ne sont que **vingt**, dont huit viennent d etre mises en file ce soir, et **douze
+  autres sont tenues a dessein** — Fast Vidros, Big River Glass et GDI portent toutes trois une
+  reserve de classe non levee, et les deux allemandes sont de la classe verrier plus pose a zero
+  pour cent. **Il n y a donc pas de stock dormant d adresses : il y a un stock de QUESTIONS, et
+  elles se tranchent au telephone.**
+
+**LE CHIFFRE QUI RESUME LA SOIREE ET QUI DIT OU EST LE GOULOT : 219 FICHES EN `A APPELER`,
+TOUTES AVEC UN NUMERO, ET AUCUN APPEL JAMAIS PASSE. Contre 8 en file d envoi et vingt
+adressees au total.** La prospection ecrite a fait son travail ; **ce qui manque n est plus une
+adresse, c est un creneau d appels**, et c est le point 1 de `DECISIONS-AARON.md` depuis le 12/10.
+
+**Registre a 1474 fiches.**

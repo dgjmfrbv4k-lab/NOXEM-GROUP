@@ -2408,6 +2408,32 @@ H=$(TZ=Europe/Paris date '+%Hh%M')          # puis utiliser "$H" dans le script
 ```bash
 N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.csv)
 ```
+  **⚠️⚠️ ET LA MÊME RACINE ATTEINT LES FILTRES, PAS SEULEMENT LES NOTES — TROIS CAS LE 15/10 AU SOIR,
+  DONC UNE RÈGLE. UN JETON DE FILTRE TAPÉ À LA MAIN EST AUSSI FAUX QU'UN CHIFFRE TAPÉ À LA MAIN, et
+  il est pire parce qu'il rend un ZÉRO qui ressemble à un résultat.**
+  · **Mesure de couverture américaine État par État : Hawaï est ressorti à ZÉRO.** Le filtre cherchait
+    `Hawaii` dans le **champ ville**. La fiche Savage Wholesale porte *Tacoma, Spokane et Honolulu* —
+    des **villes**, jamais l'État — et la fiche de Maui porte *Hawai* **sans le second i**. Hawaï a en
+    réalité **six** mentions, et la recherche relancée sur Honolulu a **coûté deux appels** pour
+    retrouver mot pour mot un verdict écrit trois heures plus tôt.
+  · **Mesure de couverture par pays : la Nouvelle-Zélande est ressortie à ZÉRO.** Le registre écrit
+    `Nouvelle-Zelande` **sans accent** et j'avais tapé la forme accentuée. **Douze fiches** y sont, et
+    c'est l'un des marchés les mieux qualifiés du §6 puisque plus aucune ligne float n'y tourne.
+    **Celui-là n'a rien coûté, parce que j'ai grepé avant de chercher** — c'est exactement la
+    différence entre les deux cas.
+  **LA RÈGLE, ET ELLE EST MÉCANIQUE :**
+  1. **Un libellé de pays, d'État ou de ville ne se tape jamais dans un filtre : il se prend dans les
+     valeurs distinctes du registre**, par `awk -F';' 'NR>1{print $1}' … | sort -u`. 159 pays y sont,
+     chacun avec **une seule** orthographe — vérifié, aucune collision d'accent — donc la liste est la
+     source et ma mémoire ne l'est pas.
+  2. **Une mesure de couverture par État ou par région se fait sur la LIGNE ENTIÈRE**, jamais sur le
+     champ ville : une fiche multi-sites nomme ses villes et jamais son État.
+  3. **Le motif se coupe court**, `hawai` et non `hawaii`, `zelande` et non `Nouvelle-Zélande` — c'est
+     la règle du mot le plus court distinctif du §5, appliquée au filtre au lieu du `grep`.
+  **Et le point commun avec la leçon Brocanelli du matin est le même que partout : le contrôle a
+  tourné, il a rendu un zéro, et j'ai dépensé l'appel au lieu de douter du zéro.** Un zéro obtenu sur
+  un champ non vérifié ne dit rien du registre, il dit que le champ est faux — c'est la leçon Lahey du
+  §13, prise cette fois sur mes propres outils de mesure et non sur un domaine de prospect.
   **⚠️⚠️ ET LA RÈGLE A ÉTÉ ENFREINTE DE NOUVEAU LE 15/10, DANS UNE SESSION QUI L'APPLIQUAIT CORRECTEMENT
   À CÔTÉ — ET C'EST CETTE SIMULTANÉITÉ QUI EST LA LEÇON, PAS LA RÉCIDIVE.** Trois notes de registre ont
   été horodatées **09h06** et **10h20** alors que toute la matinée tient entre **08h19 et 08h49** : deux
