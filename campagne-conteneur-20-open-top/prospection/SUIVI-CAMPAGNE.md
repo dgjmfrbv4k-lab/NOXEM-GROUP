@@ -7457,3 +7457,49 @@ parti.
 **Concurrents ajoutes au paragraphe 6 :** Cardinal Glass Industries et TQMP Glass Manufacturing Corp.
 **Courtier ajoute au paragraphe 5 :** importyeti.com, arrive par une RECOMMANDATION de methode et non par un
 resultat de recherche.
+
+
+---
+
+## 15/10 — APRES-MIDI, A 13h19 — UNE REPONSE, UN AVIS DE DELAI, ET TREIZE FICHES
+
+### 1. Reponse recue — ITA SEN ALU (Senegal) : REFUS, et le ciblage etait faux
+Fabrizio Pistilli repond a 07h25 UTC : *« cette entreprise ne vend pas de verres plats en
+conteneur. Cette entreprise fabrique des fenetres et des portes avec des profiles et des
+accessoires italiens »*. **Deux fautes sur la meme fiche, et elles sont de nature differente.**
+La premiere etait deja consignee — le message du 06/10 portait en premiere ligne l argument de
+l absence de four float en Afrique de l Ouest, faux depuis que CNG Glass produit a Igbesa.
+**La seconde est celle que la reponse revele : le CIBLAGE lui-meme etait faux.**
+**Et c est une CONFIRMATION de la mesure par metier du 13/10, pas une surprise.** La classe
+aluminium-menuiserie-facade-pose est mesuree a 3,6 pour cent sur 55 fiches, et ses deux seules
+reponses etaient deja un refus et un mauvais classement. **Celle-ci est son deuxieme refus
+explicite.** Statut `REFUS 2026-10-15`, **sans date de reprise** — ce n est pas un refus de
+circonstance, c est un metier qui ne correspond pas. **Aucune reponse envoyee**, le refus etant
+clair et le §5 l interdisant de toute facon.
+
+### 2. Avis de delai — DISALVI S.A. (Guatemala) : l envoi du 14/10 N EST PAS delivre
+Code `4.4.3`, la requete MX sur `disalvigt.com` repond **SERVFAIL**. Reessais jusqu au **17/10**.
+L envoi ne compte pas avant cette date. **Quatrieme signature DNS, et son pronostic n est pas
+celui des trois autres** : un NULL MX est un refus declare, un MX vers une machine NXDOMAIN est un
+nom absent, un domaine introuvable est mort — **un SERVFAIL est une PANNE du serveur faisant
+autorite, donc le seul des quatre cas reellement reparable.**
+**ET LA FAUTE DE METHODE EVITEE DE JUSTESSE, qu il faut dire :** j ai d abord classe les onze
+rebonds du jour comme appartenant a l autre campagne, les noms visibles etant britanniques,
+tcheques et allemands. Celui-ci s affichait **tronque** en `info@disal…`, et un grep du registre
+a rendu deux fiches. **Un fragment tronque n est pas un domaine**, et conclure sans l ouvrir
+aurait ete l affirmation-sans-lecture que le §13 punit. Les dix autres sont bien d une autre
+campagne, verifies un par un.
+
+### 3. Prospection — treize fiches, et une mesure qui dit ou depenser demain
+**La saturation se mesure par REGION.** A methode egale, le meme jour : **Seattle 5 noms neufs,
+Denver et Minneapolis 4, le Sud-Est 1, Calgary-Winnipeg 0, Guadalajara 0.**
+Meilleure prise du jour : **Tristar Glass** (Catoosa OK, Grand Prairie et Houston TX),
+`sales@tristarglass.com`, classe verrier pur, trois usines, **texte 178 redige et en attente**.
+**Deux sources mesurees epuisees** : les federations bresiliennes restantes (AMVID, AVIGO,
+Sindividros-RS ne remontent sur aucune recherche) et la rubrique distributeurs de glassonweb
+(un seul nom exploitable sur quatre).
+
+### 4. Etat
+Registre a **1393 fiches**, dont **7 en REFUS**. `detecte-doublons.py`, `verif-argument-float.py`,
+`verif-texte.py` et le controle des 10 champs passent propres.
+**Rien n a ete envoye de la journee** : consigne de Kevin du 15/10 a 09h41.
