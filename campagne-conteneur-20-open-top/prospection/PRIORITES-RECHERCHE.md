@@ -604,3 +604,37 @@ COVISA, Vidrios RL (CABA, orienté consommateur final), Vitrex S.A., et **Casavi
 - **`Aluvi`** — le registre porte **ALUVI en Bolivie** et **Aluviacsa au Mexique** ; la recherche rend
   un **Aluvi argentin**. **Trois pays, trois fiches potentielles pour un même mot**, et le mot ne dit
   rien : c'est la règle *zoujaj*.
+
+
+---
+
+## 15/10 09h02 — le découpage RÉGIONAL rend ce que la requête nationale cache
+
+**Mesure.** La première requête brésilienne du matin était nationale et n'a rendu **que du pauliste**.
+Deux requêtes nommant les **États** — Sud d'un côté, Nordeste de l'autre — ont rendu des maisons
+entièrement différentes. **La raison est la même que celle du §6 sur les portails : un moteur classe
+par popularité, et au Brésil la popularité est à São Paulo.** Nommer l'État force la main.
+
+**Et le contrôle confirme que le Brésil est désormais bien couvert :** sur treize noms rendus par les
+deux requêtes régionales, **sept étaient déjà au registre et déjà envoyés** — Real Vidros, New Glass,
+Space Glass, Intervidro, Divibras, WegaVidros, LM Vidros. **Deux créés** (JJI Vidros au Ceará,
+Temperline au Paraná), quatre restants ci-dessous.
+
+**⚠️ ET UN NOM DE L'ANNUAIRE ABRAVIDRO EST RÉHABILITÉ : `TEMPERLINE` EXISTE.** L'entrée précédente
+avertissait que les onze noms du relevé pouvaient porter la faute de lecture de `TEMPERMED`, qui n'a
+aucun résultat au monde. **Temperline a été retrouvée par une voie entièrement indépendante**, une
+requête régionale, à Cascavel dans le Paraná. **Une confirmation par seconde source vaut mieux qu'une
+relecture de la première**, et elle rend la plus grande partie du relevé crédible à nouveau. Restent à
+confirmer de la même façon : TVT Vidros, Estrela Vidros, MTX Glass, Vidrolar, Casa do Vidraceiro,
+J Marques, Mary Art Vidros, Art Vidros, DVB Vidros.
+
+**QUATRE PISTES NON TRAVAILLÉES, CONSIGNÉES POUR NE PAS LES RECHERCHER DEUX FOIS :**
+- **Temperex Vidros** (Paulo Lopes, SC) — planos et **courbes de 4 à 19 mm**, bâtiment, réfrigération
+  et ligne agricole. Classe verrier, le signal d'épaisseurs est bon. **Le meilleur des quatre.**
+- **Abiseladora do Norte** — une page `float.html` annonçant du **float EXTRA CLAIR de 4 à 15 mm**,
+  c'est-à-dire notre référence exacte. **À qualifier en priorité après Temperex.**
+- **Casas Bandeirantes** — page *vidros* dans un négoce de matériaux généraliste. Profil douteux :
+  vérifier si le verre est une ligne réelle ou un rayon.
+- **Polividros Comercial** — **Instagram seulement**, aucun site propre trouvé. La règle anti-rebond
+  du §5 ne pourra pas être satisfaite par ce canal : fiche téléphonique au mieux, à ne pas travailler
+  tant qu'il reste des pistes avec domaine.
