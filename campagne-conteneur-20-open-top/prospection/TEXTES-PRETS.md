@@ -10548,3 +10548,71 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 184. Vidrios Tamayo (Itagui, Medellin) — `asistente@vidriostamayo.com` — ESPAGNOL — premier contact
+### ⚠️ PREPARE LE 15/10 A 13h52 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Itagui est la commune industrielle de l agglomeration de Medellin, et leur gamme
+porte **le miroir** — qui est le **seul** angle douanier colombien valable et notre reference la plus
+differenciante. Verre clair, reflechissant, miroirs, verre de securite et Vitrolit.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Le signal de stock est ABSENT** — aucune epaisseur, aucun format publies. Par le critere reecrit
+  ce matin, cela ne permet pas de conclure qu ils stockent, **donc le message POSE la question au
+  lieu de la supposer**, ce que le §9 point 6 impose de toute facon.
+- **L angle est le MIROIR, pas le float**, et c est le **§6** qui l impose : la mesure colombienne
+  vise le miroir chinois non encadre et rien d equivalent n existe sur le float. **Formulation
+  prudente tenue a la lettre, aucun chiffre.**
+- **Interdit du §6** : pas un mot sur l absence de production locale, **Vidrio Andino produit a
+  Soacha**. Espejos S.A.S. n est pas nomme.
+- **La boite est un secretariat**, donc le premier paragraphe demande la transmission.
+- Adresse sur **leur propre page de contact**, domaine identique au site, aucune exception du §5.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo por una referencia concreta de su catalogo: el espejo. Es la unica
+linea de vidrio plano en Colombia donde la comparacion entre origenes ha
+cambiado de verdad, porque la medida antidumping sobre el espejo sin enmarcar
+de origen chino figura entre los derechos vigentes publicados por el MinCIT.
+No es una oferta ni una promesa de nuestra parte, es un hecho aduanero.
+
+Nuestro espejo es sin cobre ni plomo, y en clima humedo esa diferencia se nota
+en el tiempo que aguanta el azogue:
+https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Tambien embarcamos float incoloro y extra claro
+https://noxemgroup.com/en/float-glass/ y vidrio de baja emisividad
+https://noxemgroup.com/en/low-e-glass-low-emissivity/. Las paginas estan en
+ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en
+jumbo de 3210 x 2550 mm o en medidas a pedido. Podemos establecer una oferta
+para la entrega en su puerto de destino, bajo reserva de validacion de nuestra
+parte.
+
+Antes de poner cifras necesito saber una cosa que su sitio no dice: ustedes
+mantienen hoja en bodega, o compran cortado segun el trabajo? La respuesta
+cambia por completo si un contenedor completo les sirve o no. Y si mantienen
+bodega, que espesores rotan mas rapido y por que puerto entran, Cartagena o
+Barranquilla.
+
+Y si estan bien servidos, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
