@@ -12012,3 +12012,84 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 202. Mary Art Vidros Laminados (Guarapuava, Parana) — `vidros@maryart.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 16h15 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Feuilleteur de **verres et cristaux de securite** a Guarapuava. **Classe VERRIER
+PUR**, la meilleure du tri. Membre d ADIVIPAR.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Domaine confirme**, leur page entreprise etant rendue, donc anti-rebond satisfait. ⚠️ **Meme
+  reserve que Temperlandia** : la partie locale vient d ABRAVIDRO et d un annuaire, pas d une page
+  affichee. **Le domaine est verifie, pas la boite.** En cas de rebond, ouvrir leur page de contact.
+- **Une adresse nominative ecartee** : `rodrigo@` figure sur leur Facebook **sans aucune fonction**.
+- **⚠️ TROIS HOMONYMES, DONT UN DANS LA MEME VILLE.** *Vidracaria Mary Art*, CNPJ different, Rua
+  Vicente Machado a Guarapuava, est une autre societe — et un annuaire lui prete une adresse
+  hotmail **qui ne doit surtout pas etre reprise ici**. Plus une Mary Art a Sao Paulo et une Mary
+  Art Transportes, peut-etre du meme groupe, **ce qui n est pas etabli**. §12 : on tranche sur le
+  siege et l immatriculation, jamais sur le nom.
+- **Regle Prodiesa** : le feuillete sort de l offre, seul le substrat y entre.
+- **Trois interdits bresiliens du §6 tenus**, **antidumping employe au titre du §6**, aucun taux,
+  rien sur le miroir ni le teinte.
+- **⚠️ ET L ANGLE EST CHOISI SUR LEUR METIER PRECIS** : un feuilleteur juge son fournisseur sur la
+  **regularite optique de la feuille** bien plus qu un simple trempeur, puisque deux feuilles se
+  superposent. C est dit sans promettre aucune caracteristique, le §5 interdisant toute garantie
+  technique non validee — on demande ce qu ils emploient, on n affirme rien.
+
+**Objet :** `Substrato para laminacao - segunda origem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos porque os senhores LAMINAM. Num laminado, duas chapas se
+sobrepoem, e e por isso que quem lamina costuma ser mais exigente com a
+materia de entrada do que quem apenas corta. Essa materia de entrada e a
+unica coisa que nos fazemos.
+
+Nao lhes ofereco nada do que os senhores produzem - nem laminado, nem vidro
+de seguranca acabado. Apenas o substrato:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. Paranagua, no seu caso.
+
+Para isso preciso de quatro informacoes: quais espessuras as suas linhas de
+laminacao mais consomem, quais medidas de chapa entram nelas, uma ordem de
+grandeza do volume anual com a frequencia de compra, e o porto.
+
+E se o abastecimento atual ja os cobre, diga-me com franqueza, que nao
+insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
