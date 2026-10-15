@@ -1292,3 +1292,52 @@ dans les deux fiches.**
 
 **Registre a 1473 fiches, dont 120 au Bresil.** Villes bresiliennes encore vierges et valant une
 requete seule : **Vitoria (ES)**, **Florianopolis (SC)**, **Uberlandia (MG)**, **Campo Grande (MS)**.
+
+---
+
+## 15/10 a 18h41 — LE PARA ET LE PIAUI SONT DESSERVIS, ET J AVAIS DECLARE LA QUESTION FERMEE UNE HEURE PLUS TOT
+
+**Il faut raconter ce retournement en entier, parce que la lecon vaut plus que la fiche.**
+Une heure avant, j ecrivais ici que **les trois sources du changement de source etaient epuisees**
+pour le Para et le Piaui — recherche large muette, aucune federation vivante, dossier antidumping
+deja mesure inoperant au Bresil — et que ces deux Etats **ne s ouvriraient pas depuis cette
+session**. **C etait exact sur les trois sources et faux sur la conclusion.**
+
+**`CASAS BANDEIRANTES`, A SERRA TALHADA AU PERNAMBOUC, DESSERT ONZE ETATS DU NORD ET DU NORDESTE,
+LE PARA ET LE PIAUI COMPRIS.** Alagoas, Bahia, Ceara, Maranhao, Paraiba, **Para**, Pernambouc,
+**Piaui**, Rio Grande do Norte, Sergipe et Tocantins, liste donnee par leur propre page. Trois
+unites — Serra Talhada, Recife, Juazeiro do Norte — et des representants nommes jusqu en Amapa.
+**Une seule maison couvre la facade que j ai passe la soiree a chercher ville par ville.**
+
+**ET VOICI PAR OU ELLE EST ARRIVEE, CE QUI EST TOUTE LA LECON : PAR UNE RECHERCHE SUR VITORIA.**
+Pas sur Belem, pas sur Teresina, pas sur une federation. Elle est tombee dans les resultats d une
+requete sur un Etat a **mille huit cents kilometres de la**, parce qu elle publie une page float
+que le moteur a jugee pertinente.
+**CE QU IL FAUT EN RETENIR, ET C EST UNE CORRECTION DE METHODE : CHERCHER UN FOURNISSEUR LA OU LE
+CLIENT HABITE EST LE MAUVAIS REFLEXE POUR UNE REGION MAL DESSERVIE.** Une region sans negociant
+local est, par definition, servie **depuis ailleurs** — donc le nom qu on cherche n est pas dans la
+ville vide, il est dans la ville d a cote qui l approvisionne. **Les quatre requetes sur Belem,
+Sao Luis, Teresina et Aracaju cherchaient dans le trou ; c est le bord du trou qui avait la
+reponse.** A appliquer ailleurs : devant un marche que la recherche locale declare vide, interroger
+**la place regionale qui le fournit**, pas la ville elle-meme.
+**ET LE SIGNAL ETAIT DEJA SOUS LES YEUX :** `Intervidro`, deja au registre, remontait sur **chacune**
+des quatre villes vides en annoncant livrer tout le Nordeste en 48 heures. **J avais note le fait
+et je n en avais pas tire la methode.**
+
+**CE QUI N EST PAS DEMENTI POUR AUTANT, et il faut le dire aussi :** le Para et le Piaui n ont
+toujours **aucun negociant local** au registre, et les trois sources restent bien epuisees **pour en
+trouver un**. Ce qui change est qu on n en a peut-etre pas besoin.
+
+**Fiche creee et deverrouillee, texte 216 redige.** Reserves portees : la liste des onze Etats est
+sur leur page de **controle solaire** et non sur celle du float, donc le texte **demande** la
+couverture ; `sac` est une boite **client**, donc le message demande la transmission ; **deux
+marques de producteur float** dans leur gamme, dont une en **franchise**, donc porte de sortie
+obligatoire et noms hors du message ; et **un seul compte pour le groupe**, leur societe de Juazeiro
+do Norte restant **sans fiche**.
+
+**GAIN ANNEXE SANS UN APPEL DE PLUS :** `Grupo RV Vidros` (Serra, ES), deja ecrite le 12/10, publie
+la **CHAPA JUMBO** dans son catalogue. **C est le signal d entree le plus direct qu une fiche puisse
+porter** — plus net qu une plage d epaisseurs, puisque c est litteralement notre unite de vente.
+Porte a sa fiche **pour la relance**.
+
+**Registre a 1474 fiches, dont 121 au Bresil, 8 en file `A ENVOYER`.**

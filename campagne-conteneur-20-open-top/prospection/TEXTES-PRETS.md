@@ -13231,3 +13231,105 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 216. Casas Bandeirantes (Serra Talhada, Pernambouc) — `sac@casasbandeirantes.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 18h40 le 15/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+**POURQUOI EUX, ET C EST LA MEILLEURE CIBLE DU NORDESTE TROUVEE A CE JOUR.** Remontee en marge d une
+recherche sur **Vitoria** qui n a rien donne localement. **Leur propre page donne la liste des Etats
+desservis : onze**, dont le **Para** et le **Piaui** — les deux que la recherche large et la route
+des federations avaient laisses a zero une heure plus tot. **Une seule maison couvre la facade que
+j ai passe la soiree a chercher ville par ville.** Distribution **et** faconnage, trois unites.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Mot distinctif grepe en `grep -in` avec lecture des lignes** — les occurrences de *bandeirantes*
+  au registre sont des **noms de rue** dans deux autres fiches. **Lire les lignes, pas leur nombre.**
+- **Adresse sur leurs propres pages**, domaine identique a celui du site, **aucune exception du §5**.
+- **⚠️ RESERVE DE BOITE** : `sac` est le service consommateur, donc la colonne **CLIENT** du tableau
+  du §13, et aucune boite d achats n est publiee. **Le message demande la transmission des la
+  premiere ligne.**
+- **⚠️ DEUX MARQUES DE PRODUCTEUR FLOAT DANS LEUR GAMME, AUCUNE N EST CITEE.** Leur float vient d une
+  coentreprise du §6, et ils sont **franchises** d une marque de trempe du **meme** groupe. Marque
+  dans une **gamme** = ils **achetent**, donc prospect. **Porte de sortie OBLIGATOIRE et elle pese
+  plus que d habitude** : une franchise est exclusive par nature sur la reference qu elle couvre.
+- **REGLE PRODIESA** : le **trempe sort de l offre**, ils le vendent sous franchise. **Le float et le
+  miroir y entrent**, ils les distribuent sans les fabriquer — ils publient meme un manuel de
+  faconnage du miroir.
+- **⚠️ UN SEUL COMPTE POUR LE GROUPE.** Leur societe de Juazeiro do Norte est consignee dans la fiche
+  et **aucune fiche separee n a ete creee** : centrale unique, 0800 unique, donc presomption d un
+  seul bureau d achat au sens du critere du 14/10. **Deux messages seraient la faute Shibaam.**
+- **⚠️ Reserve que le message respecte** : la liste des onze Etats figure sur leur page de **controle
+  solaire** et non sur celle du float, **donc la couverture peut differer par reference**. Le texte
+  **demande** la couverture au lieu de l affirmer.
+- **Trois interdits bresiliens tenus**, argument douanier **borne au float clair**, sans taux et sans
+  nommer la Chine. **`Nas suas medidas` avant le jumbo.**
+
+**Objet :** `Float, extra clear e espelho em conteiner completo - porto de Suape`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Como escrevo ao SAC, peco o favor de
+encaminhar a quem compra o vidro na casa, porque e a essa pessoa que esta
+mensagem interessa.
+
+Escrevo-vos por uma coisa precisa das vossas paginas: os senhores distribuem
+e beneficiam vidro plano para onze Estados do Norte e do Nordeste, a partir
+de Serra Talhada, do Recife e de Juazeiro do Norte. Procurei durante dias
+quem abastece essa faixa do pais, cidade por cidade, e a resposta sao os
+senhores. Quem cobre onze Estados compra em volume, e e so disso que eu
+trato.
+
+Nao lhes ofereco nada do que os senhores vendem sob franquia. Apenas o
+substrato que entra:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O espelho merece uma palavra, porque os senhores ja o trabalham a ponto de
+publicar um manual: o nosso nao leva cobre nem chumbo na camada, e e a
+referencia que levamos sobretudo a mercados litoraneos e umidos. Os senhores
+sabem avaliar a diferenca melhor do que eu saberia explica-la por escrito.
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao sobre o float incolor, como fato aduaneiro e nada mais: as
+medidas antidumping brasileiras em vigor sobre o float incolor alcancam
+origens asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso
+muda a comparacao entre origens. Nao vale para espelho nem para vidro
+colorido, e nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm se preferirem - o
+comprimento de corte se faz sob encomenda. Podemos preparar uma oferta para
+entrega no seu porto de destino, sujeita a validacao da nossa parte - Suape
+ou Recife, conforme lhes convier.
+
+Para saber se faz sentido continuarmos, preciso de quatro coisas: em quais
+Estados os senhores de fato giram o float, quais espessuras e que medida de
+chapa lhes servem, uma ordem de grandeza do volume anual com a frequencia de
+compra, e por qual porto entra hoje o vidro dos senhores.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
+fonte estabelecida, e um contrato que a prende, raramente tem lugar para
+outra. Se for o seu caso, diga-me com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
