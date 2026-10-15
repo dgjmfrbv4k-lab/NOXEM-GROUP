@@ -7564,3 +7564,54 @@ verrier pur et le negoce, laisser l aluminium et la pose en dernier. Elle est de
 **deux mesures independantes** au lieu d une. Les creations du jour l ont suivie — Tristar Glass,
 Karas and Karas, Minneapolis Glass, AIG, Monash Glass et El Mayorista sont toutes des deux
 meilleures classes.
+
+## 15/10 a 14h30 — LES 24 MESSAGES EN FILE SONT PARTIS, SUR ACCORD EXPRES DE KEVIN
+
+**L accord, mot pour mot : « Envoie les 24 ».** Il porte sur ces vingt-quatre messages et sur rien
+d autre. La consigne du 15/10 a 09h41 reste le regime normal — plus aucun envoi sans son accord
+demande et obtenu, message par message — et la file est de nouveau vide.
+
+**Controle avant-vol, dans l ordre.**
+1. **Jour ouvre** verifie pour les neuf pays de la file. Aucun ferie le jeudi 15/10 en Australie,
+   au Bresil, au Chili, en Colombie, en Guyane, au Mexique, au Perou, aux Emirats ou le jeudi est
+   travaille, ni aux Etats-Unis. Les feries voisins sont passes, le 12/10 et le 08/10. La recherche
+   a ete maigre plutot que concluante et c est dit comme tel.
+2. **Expediteur** lu dans `in:sent` : `aaron.harfi@noxem-group.com`. Envoi permis.
+3. **`verif-texte.py`** : 152 textes controles, **0 a corriger**.
+4. **Adresses lues au REGISTRE** et non de memoire, fiche par fiche.
+
+**Deux defauts trouves et corriges AVANT envoi, et ils valent d etre dits.**
+· **Dix-huit des vingt-quatre textes n avaient pas de ligne Objet.** Composes dans la langue du
+  prospect et **ecrits dans `TEXTES-PRETS.md`**, pas improvises au moment d envoyer.
+· **Le texte Karas ouvrait sur « Dear Ms Anderson ».** L annuaire de leur propre site etablit un
+  NOM et une FONCTION achats — donc l exception du §5 est satisfaite pour employer le nom — mais il
+  n etablit **aucune civilite**. La presumer serait inventer un fait sur une personne. Envoye en
+  **« Dear Nikki Anderson »**.
+
+**Les cinq vagues, espacees comme le §10 l impose, jamais en rafale.**
+| Vague | Pays | Fiches |
+|---|---|---|
+| 1 | Bresil | Temperline, Brazilglass, JJI Vidros, A2 Vidros, Linde Vidros |
+| 2 | Bresil, Chili, Perou | Bahia Vidros, Blue Glass, Tempermax, Distribuidora Arquetipo, Corporacion ADA |
+| 3 | Colombie, Mexique | Vidrios & Vitrolit, El Mayorista de Santander, Vidrios Tamayo, Crysmart, Grupo Perfiles |
+| 4 | Etats-Unis | Karas and Karas, Aldora, Girard Glass, Tristar, Neighbors |
+| 5 | Australie, Guyane, Emirats | AIG, Monash Glass, Alupose, puis **Desert Glass SEUL** |
+
+**Desert Glass est parti seul et en dernier**, hors vague, comme sa fiche l exigeait au titre du
+risque de rebond.
+
+**REBONDS : AUCUN sur les vingt-quatre, et AUCUN `5.7.1` d aucun serveur.** La regle d arret du §10
+n est donc pas approchee. **Mais ce n est PAS une confirmation** : la fenetre est de 72 heures, et
+le §13 a deja paye pour l avoir oublie — cinq fiches comptees envoyees le 11/10 ont fini en echec
+trois jours plus tard. **Ces vingt-quatre ne comptent comme confirmes que le 18/10.**
+
+**UNE FICHE A PERDU SON ENVOI DANS LE MEME RELEVE, et c est la mienne : SAMIR, Martinique.** Le
+message de cloture du 12/10 a 10h20 a rendu son avis d **ECHEC** a 12h11 UTC, au terme de la chaine
+de delais des 13 et 14/10. Cause deja etablie au §13 : le MX du domaine designe
+`mail.samir-martinique.fr`, qui ressort en NXDOMAIN — un enregistrement qui pointe vers une machine
+inexistante, et un nom absent du DNS ne reapparait pas seul. **L envoi du 12/10 ne compte pas.**
+Fiche passee en `A APPELER`, aucune autre boite de ce domaine ne peut marcher. Les trois autres
+echecs du releve appartiennent a l autre campagne.
+
+**Etat du registre : 1441 fiches, 26 au statut `ENVOYE 2026-10-15`, **zero** en `A ENVOYER`.**
+Integrite a 10 champs verifiee apres chaque ecriture, et `A APPELER` sans telephone reste a zero.

@@ -3206,6 +3206,8 @@ reponses contre 10 et 12,8 — c est pourquoi ce texte part en SECONDE vague et 
 Prodiesa : ils posent, donc substrat seul · **⚠️ INTERDIT DU §6 : aucun mot sur la fiscalite a
 l entree** · port Dégrad-des-Cannes · aucun prix, porte de sortie large.
 
+**Objet :** `Float et miroir en conteneur complet - fournisseur francais de verre plat`
+
 ```
 Bonjour,
 
@@ -6071,6 +6073,8 @@ Colombie sur le miroir** — Résolution 284 du MinCIT, miroirs chinois sans cad
 texte de la Résolution 123 n'ayant pas été lu. **Et jamais l'absence de production locale**, Vidrio
 Andino produit à Soacha, à vingt kilomètres de leurs bureaux.
 
+**Objet :** `Segunda origen en float y espejo - contenedor completo`
+
 ```
 Estimados senores,
 
@@ -6133,6 +6137,8 @@ l'antidumping au Brésil, Gecex 833 contre la Malaisie, le Pakistan et la Turqui
 — et **il ne porte que sur le float clair de 1,8 à 20 mm**, la même résolution excluant le miroir,
 le réfléchissant et le teinté.
 
+**Objet :** `Segunda origem em float - chaparia em conteiner completo`
+
 ```
 Bom dia,
 
@@ -6193,6 +6199,8 @@ est autorisé au Brésil — Gecex 833 contre la Malaisie, le Pakistan et la Tur
 — **et il ne porte que sur le float clair de 1,8 à 20 mm**, la même résolution excluant le miroir,
 le réfléchissant et le teinté.
 
+**Objet :** `Substrato para tempera e chaparia - segunda origem`
+
 ```
 Bom dia,
 
@@ -6250,6 +6258,8 @@ importée, quatre succursales et expédition dans tout le pays.** ⚠ Le portail
 **Pérou** ; vérification faite, elle est chilienne — d'où le port et la langue de ce texte.
 **Aucun argument d'absence de production locale**, Vidrios Lirquén produit au Chili (faute Forpec),
 et **rien sur les droits chiliens**, inconnus.
+
+**Objet :** `Segunda origen en float y espejo - contenedor completo`
 
 ```
 Estimados senores,
@@ -6309,6 +6319,8 @@ sont des vitriers achète la feuille par volume — c'est le profil F. Morales a
 mesure antidumping sur le verre plat chinois alors qu'il en a sur quatre autres produits, donc on
 affronte la Chine de face. L'angle est **l'origine et la régularité**, jamais le douanier. **Et
 rien sur l'absence de production locale**, non vérifiée.
+
+**Objet :** `Float y espejo en contenedor completo - proveedor frances`
 
 ```
 Estimados senores,
@@ -9358,6 +9370,8 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 
 **Corps :**
 
+**Objet :** `Substrato para tempera e laminado - segunda origem`
+
 ```
 Prezados senhores,
 
@@ -9425,6 +9439,8 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 **Fuseau calculé et non deviné (§13) :** Brésil UTC−3, Paris UTC+2, donc Brésil = **Paris − 5**. Vérifié sur un cas connu — 13h30 de Paris font bien 8h30 à Brasília. **Envoi dans la vague des Amériques.**
 
 **Corps :**
+
+**Objet :** `Chaparia e substrato em conteiner completo - segunda origem`
 
 ```
 Prezados senhores,
@@ -9495,6 +9511,8 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 
 **Corps :**
 
+**Objet :** `Segunda origem em float - comercio e beneficiamento`
+
 ```
 Prezados senhores,
 
@@ -9562,6 +9580,8 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 **Fuseau calculé et non deviné (§13) :** Brésil UTC−3, Paris UTC+2, donc Brésil = **Paris − 5**. Vérifié sur un cas connu — 13h30 de Paris font bien 8h30 à Brasília. **Envoi dans la vague des Amériques.**
 
 **Corps :**
+
+**Objet :** `Substrato para tempera e laminado - segunda origem`
 
 ```
 Prezados senhores,
@@ -10171,6 +10191,8 @@ anti-rebond est satisfaite sans exception a noter.
   est bon marche, on dit que les deux origines les moins cheres portent desormais des droits.
 - Mot distinctif **tristar** grepe avant travail, une seule fiche.
 
+**Objet :** `Substrate supply for three fabrication plants - second origin`
+
 ```
 Dear Sir or Madam,
 
@@ -10235,6 +10257,8 @@ plus est une option pour lui, pas une rupture de contrat.
   Soacha**. Et Espejos S.A.S. est un concurrent sur le miroir, jamais nomme.
 - **Regle Prodiesa** : ils ne fabriquent pas, ils distribuent — **toute la gamme leur est ouverte**.
 - Adresse lue sur **leur propre page**, domaine identique au site, **aucune exception du §5**.
+
+**Objet :** `Float y espejo en contenedor completo - para quien importa`
 
 ```
 Estimados senores,
@@ -10305,6 +10329,8 @@ donc une origine **turque** — ils comparent deja des origines.
 - **Regle Prodiesa** : ils ont leur propre atelier, donc le **substrat** entre et le faconnage sort.
 - Aucun prix, aucun delai, la formule imposee presente.
 
+**Objet :** `Flat glass in full containers - one more origin`
+
 ```
 Dear Sir or Madam,
 
@@ -10370,9 +10396,15 @@ caisse stocke de la feuille. Aucun facadier ne publie cela. **Classe NEGOCE.**
   du §6 tenue : on ne dit pas que notre verre est bon marche, on dit que les deux origines les moins
   cheres portent desormais des droits.
 - **Regle Prodiesa** : leur division contrat transforme, donc seul le **substrat** entre.
+- **CIVILITE RETIREE AVANT ENVOI, 15/10.** Le texte ouvrait sur **Dear Ms Anderson**. L annuaire
+  etablit un NOM et une FONCTION, il n etablit aucune civilite — la presumer serait inventer un
+  fait sur une personne, ce que le §5 interdit pour le dirigeant et qui vaut a plus forte raison
+  ici. Ouverture corrigee en **Dear Nikki Anderson**, qui emploie le fait verifie et rien de plus.
+
+**Objet :** `Sheet glass by the case - a second origin`
 
 ```
-Dear Ms Anderson,
+Dear Nikki Anderson,
 
 My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
 based near Lyon, France. I am writing to you rather than to a general inbox
@@ -10438,6 +10470,8 @@ port.
 - **Regle Prodiesa** : trempe, feuillete et dos vinyle sortent de l offre, seul le substrat y entre.
 - Adresse sur **leur propre page**, domaine identique au site, **aucune exception du §5**.
 
+**Objet :** `Float and mirror in full containers - one more origin`
+
 ```
 Dear Sir or Madam,
 
@@ -10501,6 +10535,8 @@ NEGOCE.**
 - **Starphire n est PAS nomme dans le message.** Leur offre speciale sur cette marque dit qu ils
   achetent chez **Vitro**, ce qui sert a choisir l angle — pas a le dire. Faute du paragraphe STADIP.
 - **Interdit de zone** identique a AIG : ligne float **arretee**, et **rien sur les droits**.
+
+**Objet :** `Stock float and mirror in full containers - one more origin`
 
 ```
 Dear Sir or Madam,
@@ -10570,6 +10606,8 @@ differenciante. Verre clair, reflechissant, miroirs, verre de securite et Vitrol
   Soacha**. Espejos S.A.S. n est pas nomme.
 - **La boite est un secretariat**, donc le premier paragraphe demande la transmission.
 - Adresse sur **leur propre page de contact**, domaine identique au site, aucune exception du §5.
+
+**Objet :** `Lamina de float y espejo en contenedor completo`
 
 ```
 Estimados senores,
@@ -10643,6 +10681,8 @@ construction.
   substrat y entre**.
 - Adresse sur **leur propre page de verre plat**, qui invite expressement a y ecrire pour les
   compositions hors catalogue — **bonne boite, bon cote**. Aucune exception du §5.
+
+**Objet :** `Sheet glass in full containers - one more origin`
 
 ```
 Dear Sir or Madam,
