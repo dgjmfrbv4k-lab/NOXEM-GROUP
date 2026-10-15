@@ -559,3 +559,48 @@ Une requête bâtie sur le *métier et les épaisseurs* trie donc mieux qu'une r
 **Résultat du lot :** Brazilglass, A2 Vidros, Blue Glass et Tempermax en `A ENVOYER 2026-10-15` ·
 Brastemper en `A APPELER` (trois numéros publiés, aucune adresse) · Divinal Vidros **déjà au
 registre** et relancée le 08/10, donc non recréée — le grep un par un a fait son travail.
+
+
+---
+
+## 15/10 08h54 — l'Argentine est verrouillée par VASA, et c'est un fait de STRUCTURE, pas de prix
+
+*Trouvé en appliquant la méthode du métier et des épaisseurs au Cône Sud. Le §6 nomme VASA comme
+producteur float depuis le 11/10 et dit qu'elle opère sur quatre pays. **Il ne disait pas qui
+distribue.** C'est cela qui manquait, et c'est ce qui décide du ciblage.*
+
+**LE FAIT.** Les deux plus gros distributeurs argentins que la recherche rend se déclarent
+**« distribuidor oficial de VASA »** :
+- **COVISA** (Caseros, Buenos Aires) — float en 4, 5, 6, 8 et 10 mm, feuilles de 3600 × 2500 et
+  **5500 × 3600 mm** ;
+- **Aluvi** — jumbo 3600 × 5500 en 4, 5, 6 et 8 mm, et 3700 × 5500 en 10 mm.
+
+**CE QUE CELA VEUT DIRE, ET C'EST LA RAISON DE NE PAS Y DÉPENSER D'APPELS.** Le signal des épaisseurs
+et des formats y est **excellent** — ce sont de vrais stockistes de feuille entière, exactement le
+profil que le critère du 14/10 cherche. **Et c'est précisément pour cela qu'ils sont fermés :** un
+distributeur officiel d'un producteur national ne prend pas une seconde origine sans rompre son
+contrat. C'est le fait de structure que le §6 a établi pour la Belgique et le Golfe — *les gros
+grossistes appartiennent aux producteurs* — retrouvé en Argentine par un lien **contractuel** et non
+capitalistique. **Le négociant indépendant y est l'exception, et c'est lui seul qui est notre client.**
+
+**⚠️ Et la nuance qui empêche d'en faire une exclusion :** « distribuidor oficial » n'est **pas** la
+propriété. Ce n'est donc **pas** un motif de `ECARTE` au sens du §6 — c'est un motif de **probabilité
+faible** et de **porte de sortie obligatoire** au sens du §9 point 7. Aucune fiche n'est fermée sur ce
+seul fait.
+
+**CONDUITE : en Argentine, chercher ce qui n'est PAS distributeur officiel de VASA**, et vérifier ce
+lien dans le second temps avant d'écrire — au même coût que le reste, puisqu'ils l'annoncent eux-mêmes
+sur leur page d'accueil. **VidrioPleno**, envoyée le 14/10, ne porte pas cette mention : c'est
+pourquoi elle reste la bonne cible argentine.
+
+**Noms relevés et grepés un par un, tous ABSENTS du champ société, aucun créé pour l'instant :**
+COVISA, Vidrios RL (CABA, orienté consommateur final), Vitrex S.A., et **Casavidrio** au Chili
+(planche de 3600 × 2500 en 4 mm, mais profil boutique en ligne).
+**⚠️ DEUX COLLISIONS DE NOM À RESPECTER AVANT TOUTE CRÉATION FUTURE**, et elles sont du genre que le
+§12 impose de trancher sur le siège et non sur le nom :
+- **`Megaglass`** — le registre porte une **Megaglass colombienne**, envoyée le 12/10 ; la recherche
+  rend `megaglass.com.ar`, **argentine**. Deux pays, vraisemblablement deux maisons, comme Glasstech
+  en Azerbaïdjan et aux Émirats.
+- **`Aluvi`** — le registre porte **ALUVI en Bolivie** et **Aluviacsa au Mexique** ; la recherche rend
+  un **Aluvi argentin**. **Trois pays, trois fiches potentielles pour un même mot**, et le mot ne dit
+  rien : c'est la règle *zoujaj*.

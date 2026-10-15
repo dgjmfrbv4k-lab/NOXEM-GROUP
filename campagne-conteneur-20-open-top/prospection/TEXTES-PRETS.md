@@ -9614,3 +9614,135 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 170. Crysmart (Ciudad de México, Miguel Hidalgo) — `ventas@crysmart.com` — ESPAGNOL — négoce de gros, cristal flotado 2 à 19 mm
+
+**Pourquoi eux :** ils se décrivent eux-mêmes comme **mayoristas** servant les **vidrieros y contratistas**, et leur fiche produit publie le cristal flotado clair en **2, 3, 4, 5, 6, 10, 12 et 19 mm** avec la mention **« VENTA POR HOJA ESTANDAR O A MEDIDA DEL CLIENTE »**. **Vendre à la *hoja estándar* est la marque du stockiste** — un façadier ne vend jamais à la feuille entière. **⚠️ Règle Prodiesa dans le bon sens :** ils vendent de l'**espejo flotado** sans l'argenter, donc **le miroir reste dans l'offre** — l'inverse du cas Prodiesa, et c'est le produit le plus différenciant du §8.
+
+**Vérifié avant d'écrire :** mot distinctif grepé **sur le champ société** et **pris sur le nom, jamais sur le domaine** (règle du jour) : absent. Adresse lue sur **leur propre page de contact**, domaine identique à celui du site, **§5 satisfait sans exception**. Aucune boîte d'achats publiée, **aucun dirigeant nommé**.
+**⚠️⚠️ TROIS INTERDITS MEXICAINS DU §6, ET LE PREMIER EST ABSOLU — LE TEXTE NE PORTE PAS UN MOT SUR LA DOUANE.** (1) **Rien sur les droits** : ni la *cuota compensatoria* chinoise et malaisienne, ni le droit général de 35 % du 01/01/2026, ni la préférence éventuelle de l'accord UE-Mexique — **le taux applicable à l'origine UE sur la 7005.29.99 n'est pas établi**, la recherche du 11/10 n'ayant rendu qu'une présomption. (2) **Jamais « pas de production locale »** : Vitro est producteur float mexicain *et* pétitionnaire des mesures, et Saint-Gobain y est présent. (3) **Rien sur l'enquête miroir** ouverte au DOF le 21/05/2026 en 7009.91.99 — **une enquête n'est pas une mesure** et ne s'annonce pas comme telle.
+**Fuseau calculé et non deviné (§13) :** Mexico UTC−6, Paris UTC+2, donc Mexico = **Paris − 8**. Vérifié sur un cas connu — 16h30 de Paris font bien 8h30 à Mexico.
+
+**Objet :** Vidrio flotado por contenedor completo — origen europeo directo
+
+**Corps :**
+
+```
+Estimados senores,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de
+vidrio plano con sede cerca de Lyon, en Francia. Esta es una oferta de
+suministro y no una solicitud de cotizacion. Si no es usted quien compra
+el vidrio, le agradeceria que la hiciera llegar a quien compra.
+
+Les escribo por lo que dice su propia ficha de producto: cristal flotado
+claro de 2 a 19 mm, con venta POR HOJA ESTANDAR o a la medida del
+cliente. Vender a la hoja entera es lo que hace una casa que tiene
+bodega, y atender a vidrieros y contratistas significa reponer ese
+inventario con regularidad. Eso es exactamente lo unico que hacemos
+nosotros.
+
+No les ofrezco nada de lo que ustedes transforman. Solo la hoja que
+entra en bodega:
+
+- vidrio flotado claro y extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre y sin plomo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Nuestro sitio existe solo en frances y en ingles. Con mucho gusto les
+explico cada referencia en espanol.
+
+Enviamos en CONTENEDORES COMPLETOS, en cajas de madera tratada
+IPPC/ISPM-15, en hoja jumbo de 3210 x 2550 mm o a las medidas de ustedes.
+Podemos preparar una oferta para la entrega en su puerto de destino,
+sujeta a validacion por nuestra parte.
+
+Para que esa oferta les sirva de algo, necesito cuatro datos: que
+referencias y espesores consumen mas, que medidas de hoja les convienen,
+un orden de magnitud del volumen anual con la frecuencia de compra, y que
+puerto quieren ver calculado. Veracruz, Altamira o
+Manzanillo.
+
+Y si su abastecimiento ya esta cerrado y no hay lugar para un segundo
+origen, digamelo con franqueza, que no insisto.
+
+Quedo a su disposicion.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 171. Grupo Perfiles (Aguascalientes + Zacatecas) — `alfa@grupoperfiles.com.mx` — ESPAGNOL — page de gros + bodega, classe mixte
+
+**Pourquoi eux, et la réserve est dite :** ⚠️ **classe mixte.** Ils annoncent conception, **fabrication et installation** de verre et d'aluminium, avec une page *cancelería* — c'est la classe pose/aluminium, **3,6 %**, la moins productive. **Ce qui fait quand même ouvrir la fiche est le critère du 14/10 :** ils ont une **page *mayoreo* distincte**, avec **huit épaisseurs publiées** (2, 3, 4, 5, 6, 9, 12 et 19 mm) **et une bodega séparée à Zacatecas**. Une maison qui tient une page de gros et un entrepôt **achète de la feuille au volume**, quoi qu'elle fasse par ailleurs en pose. **À travailler après Crysmart**, dont la classe est plus nette.
+**⚠️ Deux adresses publiées, et le choix est motivé :** `alfa@` est sur **leur page de contact** ; `contacto@` ne figure que dans l'avis de confidentialité et les conditions générales, **pièces juridiques plus anciennes**. La page de contact fait foi, `contacto@` reste en **secours**. Même discordance sur le téléphone. Les deux domaines sont ceux du site, donc le §5 est satisfait dans les deux cas — **c'est la récence qui tranche, pas la conformité**.
+
+**Vérifié avant d'écrire :** mot distinctif grepé **sur le champ société** et **pris sur le nom, jamais sur le domaine** (règle du jour) : absent. Adresse lue sur **leur propre page de contact**, domaine identique à celui du site, **§5 satisfait sans exception**. Aucune boîte d'achats publiée, **aucun dirigeant nommé**.
+**⚠️⚠️ TROIS INTERDITS MEXICAINS DU §6, ET LE PREMIER EST ABSOLU — LE TEXTE NE PORTE PAS UN MOT SUR LA DOUANE.** (1) **Rien sur les droits** : ni la *cuota compensatoria* chinoise et malaisienne, ni le droit général de 35 % du 01/01/2026, ni la préférence éventuelle de l'accord UE-Mexique — **le taux applicable à l'origine UE sur la 7005.29.99 n'est pas établi**, la recherche du 11/10 n'ayant rendu qu'une présomption. (2) **Jamais « pas de production locale »** : Vitro est producteur float mexicain *et* pétitionnaire des mesures, et Saint-Gobain y est présent. (3) **Rien sur l'enquête miroir** ouverte au DOF le 21/05/2026 en 7009.91.99 — **une enquête n'est pas une mesure** et ne s'annonce pas comme telle.
+**Fuseau calculé et non deviné (§13) :** Mexico UTC−6, Paris UTC+2, donc Mexico = **Paris − 8**. Vérifié sur un cas connu — 16h30 de Paris font bien 8h30 à Mexico.
+
+**Objet :** Vidrio flotado por contenedor completo — origen europeo directo
+
+**Corps :**
+
+```
+Estimados senores,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de
+vidrio plano con sede cerca de Lyon, en Francia. Esta es una oferta de
+suministro y no una solicitud de cotizacion. Si no es usted quien compra
+el vidrio, le agradeceria que la hiciera llegar a quien compra.
+
+Les escribo por su pagina de mayoreo, no por la de canceleria. Ahi
+publican vidrio en ocho espesores, de 2 a 19 mm, y tienen una bodega
+aparte en la ciudad de Zacatecas. Una casa que sostiene una linea de
+mayoreo y un almacen propio compra hoja por volumen y la repone, y eso
+es lo unico de lo que les hablo.
+
+No les ofrezco nada de lo que ustedes fabrican ni instalan. Solo la hoja
+que entra en bodega:
+
+- vidrio flotado claro y extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Nuestro sitio existe solo en frances y en ingles. Con mucho gusto les
+explico cada referencia en espanol.
+
+Enviamos en CONTENEDORES COMPLETOS, en cajas de madera tratada
+IPPC/ISPM-15, en hoja jumbo de 3210 x 2550 mm o a las medidas de ustedes.
+Podemos preparar una oferta para la entrega en su puerto de destino,
+sujeta a validacion por nuestra parte.
+
+Para que esa oferta les sirva de algo, necesito cuatro datos: que
+referencias y espesores consumen mas, que medidas de hoja les convienen,
+un orden de magnitud del volumen anual con la frecuencia de compra, y que
+puerto quieren ver calculado. Manzanillo,
+Veracruz o Altamira.
+
+Y si su abastecimiento ya esta cerrado y no hay lugar para un segundo
+origen, digamelo con franqueza, que no insisto.
+
+Quedo a su disposicion.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
