@@ -1,3 +1,19 @@
+# ✅ ALERTE MIRO EST LEVEE A 12h10 — VOUS AVEZ ENVOYE LA PROPOSITION REVISEE VOUS-MEME
+
+**L'encadre rouge ci-dessous est PERIME et je le laisse pour la trace.** Vous avez envoye la proposition
+revisee a **10h42 et 10h48** heure de Paris, soit bien avant la fermeture de 14h00. **La promesse du matin
+est tenue.** Le dossier n'attend plus rien de nous, il attend sa reponse.
+
+⚠️ **Deux envois identiques a six minutes d'intervalle** — vraisemblablement un doublon de manipulation.
+Elle a donc recu **quatre messages de nous en trois heures** ce matin. **Ne rien lui envoyer d'autre
+aujourd'hui.**
+
+⚠️ **Et je ne connais toujours pas les chiffres**, ni ceux du premier devis ni ceux du second : ils sont
+dans les pieces jointes, que ce connecteur ne sait pas ouvrir. **Donnez-les-moi** et je peux verifier la
+coherence et preparer la suite ; sans eux je travaille a l'aveugle sur le dossier le plus avance.
+
+---
+
 # 🔴 JEUDI 15/10, 10h31 — UNE SEULE CHOSE EST URGENTE AUJOURD'HUI, ET ELLE A UNE HEURE LIMITE : 14h00
 
 **MIRO EST ATTEND DE MEILLEURS TARIFS « DANS LA JOURNÉE », ET VOUS LE LUI AVEZ PROMIS DEUX FOIS CE MATIN.**

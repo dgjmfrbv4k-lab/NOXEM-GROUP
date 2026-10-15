@@ -10060,3 +10060,86 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 176. Nepal Glass Udhyog (Katmandou) — `nepalglasstech@gmail.com` — ANGLAIS — **LE PLUS GROS VOLUME DE LA CAMPAGNE**
+### ⚠️ PREPARE LE 15/10 A 12h11 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**CE N EST PAS UNE RELANCE, C EST UNE REPONSE QUI N EST JAMAIS PARTIE.** Amir Shrestha a ecrit le
+**09/10 a 12h16** : leur plus gros volume a Katmandou est le **float clair 12 mm**, besoin mensuel
+**10 a 15 conteneurs de 12 mm plus 2 conteneurs par autre epaisseur, soit 25 a 30 conteneurs par
+MOIS**. Il demande notre meilleur prix sur le clair. **Six jours de silence de notre cote.**
+A rapprocher d Akeeda, qui fait 16 a 24 conteneurs par AN.
+
+**CE QUE LE TEXTE NE FAIT PAS, ET POURQUOI.** Il ne donne **aucun prix** — §5. Il ne dit **rien sur
+la douane** : la reserve du §13 n est toujours pas tranchee, rien n etablit si la restriction indienne
+du 18/08/2026 sur le float 4-12 mm touche le **transit** vers un pays tiers. Il n annonce **aucun
+delai**. Il demande les deux faits sans lesquels aucun chiffrage n est possible.
+
+```
+Dear Mr Shrestha,
+
+Thank you for your message of 9 October, and my apologies for the delay in
+coming back to you.
+
+Your requirement is noted: clear float 12 mm as the main volume, 10 to 15
+containers a month, plus around 2 containers per other thickness.
+
+Two things before we put figures in front of you, because they change the
+costing and I would rather ask than guess:
+
+1. Which transit port do you work through - Kolkata, Haldia, or another? And
+   is the delivery point the port, or the border at Birgunj?
+2. For the other thicknesses, which ones and roughly what split?
+
+With those two answers we can put together an offer for delivery to your
+destination port, subject to validation on our side.
+
+And if you have already committed your volume elsewhere, say so plainly and I
+will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 177. Goldland Trading Company (Colombo) — `sales@goldlandtc.com` — ANGLAIS — relance
+### ⚠️ PREPARE LE 15/10 A 12h11 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**CONTEXTE.** P. Thileeban a repondu le **07/10** en demandant vers quels pays nous exportons. Nous
+avons repondu le jour meme — refus de communiquer la liste clients, mentions legales et WhatsApp
+donnes, cotation sollicitee. **Huit jours de silence depuis.** Maison de negoce, donc importatrice
+par construction : le Sri Lanka n a pas de ligne float. WhatsApp +94 768 336 336.
+
+**Gabarit a une seule question, aucun argument neuf, porte de sortie.**
+
+```
+Dear Mr Thileeban,
+
+Following up on our exchange of 7 October.
+
+One question only, and your answer closes the file either way: do you buy
+flat glass by the full container, and through which port?
+
+If yes, we can put together an offer for delivery to your port, subject to
+validation on our side.
+
+If you are committed to your current supply, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
