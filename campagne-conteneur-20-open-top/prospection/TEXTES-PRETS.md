@@ -9888,3 +9888,78 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 174. Girard Glass (Vernon / Los Angeles, Californie) — `Girardglass@att.net` — ANGLAIS — grossiste familial, camions de feuilles entières
+
+**Pourquoi eux, et c'est le meilleur signal du lot américain :** leur page de données de performance annonce des **« boom and stock sheet trucks »** livrant toute la Californie du Sud, plus un **Will Call cinq jours sur sept**. **« Stock sheet » est le mot même du critère du 14/10, écrit par eux et non déduit par moi** — un façadier ne fait pas rouler des camions de feuilles entières. Plus de **80 ans** de métier, et ils se disent **l'un des rares distributeurs de gros familiaux** des États-Unis : indépendants, donc libres de leur approvisionnement, exactement le profil que le §6 désigne comme notre client.
+
+**⚠️ EXCEPTION DU §5 À NOTER, ET ELLE EST EXPLICITE : LE DOMAINE DE L'ADRESSE N'EST PAS CELUI DU SITE.** Le site est `girardglass.com`, l'adresse publiée est `Girardglass@att.net`, une boîte de fournisseur d'accès. **La règle anti-rebond autorise ce cas à une condition — que la société la publie elle-même sur sa propre page — et c'est le cas**, elle figure dans la navigation de leur site. La condition est remplie et l'exception est consignée, comme le §5 l'impose.
+**⚠️ Mais le risque de rebond est supérieur à la moyenne :** une boîte `att.net` est une messagerie grand public et le relevé signale une page d'apparence ancienne. **L'envoi ne sera pas compté acquis avant les 72 heures du §13**, et s'il rebondit la fiche part au téléphone **sans second essai** — aucune autre boîte n'est publiée.
+
+**Vérifié avant d'écrire :** mot distinctif grepé **sur le champ société**, pris sur le nom et non sur le domaine : absent. Aucune boîte d'achats publiée, **aucun dirigeant nommé**.
+**⚠️ DEUX INTERDITS AMÉRICAINS TENUS.** (1) **Jamais « pas de production locale »** — Vitro est pétitionnaire des mesures et **Cardinal Glass Industries exploite sept sites float**, ajouté à la liste des concurrents ce matin même. (2) L'argument du §6 est servi comme **fait douanier**, jamais comme promesse de prix, et **aucun taux n'est cité**.
+**Fuseau calculé (§13) :** Californie UTC−7, Paris UTC+2, donc Californie = **Paris − 9**. Vérifié — 18h de Paris font 9h à Los Angeles. **Envoi en fin d'après-midi.**
+
+**Objet :** Clear float and low-E by the container — European origin, direct
+
+**Corps :**
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer and not a
+request for quotation. If you are not the person who buys the glass, I
+would be grateful if you passed it to whoever does.
+
+I am writing because of three words on your own site: stock sheet
+trucks. A house that runs boom and stock sheet trucks across Southern
+California, with will call five days a week, is buying full sheets by
+the load and turning them over. That is the only thing we do, and it is
+the only place where we can be useful to you.
+
+The other reason is that you are family owned and independent. A house
+that answers to nobody on where its glass comes from is the only kind
+for which a second origin is an option rather than a breach of
+contract.
+
+Our references:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+One thing worth saying plainly, as a customs fact and nothing more:
+since April 2026 the two cheapest origins on this market carry
+antidumping and countervailing orders, and European glass carries
+none. That changes the comparison. It is not a statement about our
+pricing.
+
+We ship full containers, in ISPM-15 treated wooden cases, in jumbo
+3210 x 2550 mm or cut to your sizes. We can put together an offer
+delivered to your port of destination, subject to validation on our
+side.
+
+For that to be worth anything to you, I need four things: which
+references and thicknesses move fastest off your racks, the sheet sizes
+that suit your trucks, a rough annual volume with how often you buy,
+and which port you want costed - Long Beach or Los Angeles.
+
+And if your supply is tied up and there is no room for a second origin,
+say so plainly and I will not push.
+
+I am at your disposal.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
