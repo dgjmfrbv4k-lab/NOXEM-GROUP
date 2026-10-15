@@ -11380,3 +11380,171 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 194. Vidral Distribuidora (Jardim Sao Manoel, Sao Paulo) — `contato@vidraldistribuidora.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 14h43 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN. **⚠️ A ENVOYER SEUL, HORS VAGUE.**
+
+**POURQUOI EUX.** Nom releve sur **deux recherches independantes**, celle de Recife et celle de
+Salvador, ce qui indique une diffusion depassant sa region. **Classe NEGOCE annoncee** — et
+l ordre de leur gamme est le bon : le **verre d abord**, les films ensuite, l aluminium en dernier.
+Ils annoncent des conditions pour les **constructeurs**, ce qui suppose du volume.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE, ET DEUX RESERVES COMMANDENT LA CONDUITE D ENVOI.**
+- **⚠️⚠️ FRAICHEUR : LEURS PAGES SONT DATEES D ENVIRON 3 500 JOURS, SOIT PRES DE DIX ANS.**
+  Adresse, telephone et gamme sont donc des donnees anciennes, et **c est la signature que le §13
+  associe au site laisse en ligne a messagerie abandonnee**, cas Vitrolux. **D ou l envoi SEUL et
+  hors vague** : un rebond ne doit pas abimer une vague entiere. Meme conduite que Desert Glass.
+- **⚠️ AUCUN SIGNAL DE STOCK.** Pas de table d epaisseurs. Seulement un article pedagogique
+  rappelant qu un millimetre pese 2,5 kg au metre carre — ce qui est exactement la regle du §4,
+  et ne dit **rien** de ce qu ils tiennent. **Le message pose donc la question.**
+- **Localisation ETABLIE au second temps**, Rua Costa do Marfim 360, Jardim Sao Manoel, Sao Paulo.
+  La creation ne donnait que l Etat — **lecon Arquetipo** — et la ville compte pour le
+  post-acheminement depuis Santos.
+- **Trois homonymes a ne pas confondre** : un VIDRAL guatemalteque de ferronnerie et un VIDRAL
+  PANAMA sont deja au registre. **Le §12 tranche sur le siege, jamais sur le nom.**
+- **Adresse** publiee sur leur propre site, domaine identique, **aucune exception du §5**.
+- **Trois interdits bresiliens du §6 tenus.** Jamais l absence de production locale, quatre
+  producteurs. **Le mot antidumping est employe au titre du §6**, qui autorise la Gecex 833 —
+  Malaisie, Pakistan et Turquie vises, Europe non visee — sans aucun taux. **Et rien sur le
+  miroir ni sur le teinte, que la mesure exclut.**
+- **Les films LLumar sont une gamme de REVENTE, pas une production** : la regle Prodiesa ne les
+  retire donc pas de l offre, mais nous n en vendons pas, et ils ne sont pas mentionnes.
+
+**Objet :** `Chapa de vidro em conteiner completo - uma pergunta antes`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Comeco por uma pergunta, porque dela depende se o resto lhe serve. Os senhores
+se apresentam como distribuidora e anunciam condicoes para construtoras, o que
+supoe volume. O que o site nao diz e se mantem CHAPA em estoque, e em quais
+espessuras, ou se compram ja cortado conforme o pedido. Um conteiner completo
+so faz sentido no primeiro caso.
+
+Se for o segundo, diga-me e nao lhe tomo mais tempo.
+
+Se mantem chapa, e disso que trato, e de mais nada. Nao lhes ofereco nada do
+que os senhores revendem ja pronto:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. Santos, no seu caso.
+
+Para isso preciso de quatro informacoes: quais espessuras giram mais, as
+medidas de chapa que lhes servem, uma ordem de grandeza do volume com a
+frequencia de compra, e o porto.
+
+E se o abastecimento atual ja os cobre, diga-me com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+
+---
+
+## 195. Vidreira de Viana (Zona Industrial de Viana, Luanda) — `vidreira.viana@hotmail.com` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 14h45 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX, ET CETTE FICHE ATTENDAIT DEPUIS LE 08/10.** Son metier n etait pas etabli : le mot
+**vidreira** designe en portugais aussi bien une verrerie de verre plat qu une fabrique de
+bouteilles, et leur site affichait alors *Pagina de testes* et *EM MANUTENCAO*. **Le test du §5 sort
+aujourd hui FAVORABLE** — transformation de verre, miroirs, acrylique et polycarbonate, decoupe
+sur mesure, trempe et feuilletage, et **pas un mot de bouteille, de garrafa ni d embalagem**. C est
+le cas **CSVM de Sfax** et non le cas SEVAM. **Classe VERRIER PUR**, la meilleure du tri.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Adresse** : exception du §5 **notee et satisfaite** — le domaine differe de celui du site, mais
+  **leur propre page de contact et leur pied de page la publient**. Elle remplace `contacto@` qui
+  avait rebondi en 550 le 05/10.
+- **⚠️ L ARGUMENT DE L ABSENCE DE PRODUCTION LOCALE N EST PAS EMPLOYE**, et c est delibere : il
+  n est **pas verifie** pour l Angola, et c est l argument le plus employe de la campagne et celui
+  qui se retourne le plus vite — fautes Forpec au Chili et ITA SEN ALU au Senegal. **L angle est
+  l origine et la seconde source**, qui ne dependent d aucune verification.
+- **Rien sur les droits de douane angolais**, non etablis.
+- **Regle Prodiesa** : trempe, feuillete et miroir sortent de l offre puisqu ils les font.
+- **Reserve de localisation consignee** : leur site dit Zona Industrial de Viana, un annuaire dit
+  Viana km 28 en ZEE. **Le site fait foi**, lecon Arquetipo.
+
+**Objet :** `Chapa de vidro em conteiner completo - segunda origem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos porque os senhores TRANSFORMAM. Corte a medida, tempera,
+laminacao e espelho sao quatro operacoes que so acontecem se entrar chapa, e
+uma unidade que faz as quatro consome chapa de forma regular e previsivel. E
+isso e a unica coisa que nos fazemos.
+
+Nao lhes ofereco nada do que os senhores produzem - nem temperado, nem
+laminado, nem espelho acabado. Apenas o substrato que entra neles:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Nao venho falar de precos nem dizer que conheco o vosso mercado melhor do que
+os senhores. Venho com uma coisa so: mais uma origem. Quem transforma depende
+inteiramente da regularidade de quem o abastece, e por isso uma segunda fonte
+costuma interessar ANTES de fazer falta, e nao depois.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas vossas medidas. Podemos estabelecer
+uma oferta para a entrega no vosso porto de destino, sob reserva de validacao
+da nossa parte. Luanda, no vosso caso.
+
+Para isso preciso de quatro coisas: quais espessuras as vossas linhas mais
+consomem, as medidas de chapa que entram nelas, uma ordem de grandeza do
+volume anual com a frequencia de compra, e o porto.
+
+E se o abastecimento atual ja vos cobre, digam-me com franqueza, que nao
+insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
