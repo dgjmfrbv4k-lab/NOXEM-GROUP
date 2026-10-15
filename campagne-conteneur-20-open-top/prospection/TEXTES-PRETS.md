@@ -12093,3 +12093,233 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 203. Pitanglass — Vidros de Seguranca (Pitanga, Parana) — `comercial@pitanglass.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 16h41 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX, ET C EST LE MEILLEUR PROFIL DU VIVIER ADIVIPAR.** Leur propre page les decrit
+vendant verre trempe, miroirs, accessoires et quincaillerie **AUX VITRIERS**. **Vendre aux vitriers
+est la definition du grossiste qui tient du stock** — meme signal que *A Loja do Vidraceiro* chez
+Sulglass. Classe mixte **VERRIER et NEGOCE**, les deux meilleures du tri du §6.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Adresse sur LEUR page de contact**, domaine du site, **aucune exception ni reserve** —
+  contrairement a Temperlandia et Mary Art, dont seul le domaine etait verifie.
+- **Deux autres boites ecartees** : `administrativo@` est l administratif et la protection des
+  donnees ; et la fiche ABRAVIDRO donne des boites **yahoo et hotmail**, vraisemblablement
+  anterieures a leur domaine propre. **On prend le domaine propre quand il existe.**
+- **Regle Prodiesa** : trempe, miroir et quincaillerie sortent de l offre.
+- **Trois interdits bresiliens du §6 tenus**, **antidumping employe au titre du §6**, aucun taux,
+  rien sur le miroir ni le teinte que la Gecex 833 exclut.
+
+**Objet :** `Chapa para quem abastece o vidraceiro - segunda origem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos por uma linha da vossa propria pagina: os senhores atendem
+VIDRACEIROS. Quem abastece o profissional vive do estoque, repoe com
+regularidade e nao pode ficar sem - e e o unico tipo de casa para quem um
+conteiner completo e uma unidade normal e nao um risco.
+
+O que embarcamos e a chapa que entra no deposito. Nao lhes ofereco nada do
+que os senhores temperam nem revendem prontos:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. Paranagua, no seu caso.
+
+Para isso preciso de quatro informacoes: quais espessuras giram mais depressa
+entre os seus clientes vidraceiros, quais medidas de chapa lhes servem, uma
+ordem de grandeza do volume anual com a frequencia de compra, e o porto.
+
+E se o abastecimento atual ja os cobre, diga-me com franqueza, que nao
+insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 204. World Glass (Arapongas, Parana) — `contato@worldglass.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 16h41 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Fondee en 1999, **trois debouches sur un meme four** : verre **bombe** pour le
+mobilier, trempe pour le batiment, et vitrage de **cabines de machines agricoles**. Trois marches
+distincts font une consommation de feuille reguliere et peu saisonniere. **Classe VERRIER PUR.**
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Adresse sur leur propre site**, domaine present dans les URL de resultats, aucune exception.
+  Une seconde forme donnee par un annuaire reste en secours.
+- **Une adresse nominative ecartee, cas Lahey** : `josemir@` est donnee comme la boite de
+  **RECRUTEMENT** dans une publication professionnelle. Fonction non pertinente aux achats.
+- **⚠️ UN COURTIER INTERDIT, `datanyze`, EST REMONTE DANS CES RESULTATS. Rien n en a ete repris**,
+  et le CNPJ cite vient de sites de consultation du registre public.
+- **Regle Prodiesa** : trempe et bombe sortent de l offre.
+- **Trois interdits bresiliens du §6 tenus**, **antidumping au titre du §6**, aucun taux.
+- **⚠️ ET LE DEBOUCHE AGRICOLE N EST PAS SURVENDU** : nous ne savons pas quelles specifications une
+  cabine de machine exige, et le §5 interdit toute garantie technique non validee. Le message le
+  **nomme** comme un fait de leur activite et **ne promet rien** sur ce segment.
+
+**Objet :** `Substrato para tempera e curvos - segunda origem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos porque os senhores atendem tres mercados a partir do mesmo forno:
+curvos para o moveleiro, temperado para a construcao, e vidro para cabines de
+maquinas agricolas. Tres mercados que nao sobem e descem juntos, o que
+significa um consumo de chapa regular ao longo do ano - e e exatamente esse
+perfil que torna um conteiner completo mais comodo do que pesado.
+
+Nao lhes ofereco nada do que os senhores produzem - nem curvo, nem temperado.
+Apenas o substrato que entra no forno:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. Paranagua, no seu caso.
+
+Para isso preciso de quatro informacoes: quais espessuras o forno mais
+consome, quais medidas de chapa entram nele, uma ordem de grandeza do volume
+anual com a frequencia de compra, e o porto.
+
+E se o abastecimento atual ja os cobre, diga-me com franqueza, que nao
+insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 205. Tempera Basalto — Basalto Vidros (Maringa, Parana) — `basaltovidros@hotmail.com` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 16h41 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Trempeur de Maringa, enseigne *Tempera Basalto*, deux unites. **Classe VERRIER.**
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE, ET DEUX POINTS DEMANDENT DE LA PRUDENCE.**
+- **⚠️ EXCEPTION DU §5 CONSIGNEE** : **toutes** leurs boites sont des **hotmail** alors qu ils ont
+  un domaine propre. L exception joue puisque **c est leur propre site qui les publie**, et elle est
+  notee comme la regle l exige.
+- **Choix motive entre trois boites** : la generique est retenue. `projetosbasalto@` est orientee
+  **projets**, donc le cote chantier. `ferragensbasalto@` est la **quincaillerie**, rattachee a une
+  seconde unite — **le mauvais cote au sens de la liste du §13**, un message de fournisseur de
+  verre n y a rien a faire.
+- **⚠️ UN MOT A NE PAS MAL LIRE, ET LA CONFUSION AURAIT ETE COUTEUSE DANS LE MESSAGE** : une de
+  leurs pages s intitule *Distribuidor Exclusivo no Parana* — **mais elle releve de leur rubrique
+  FERRAGEM**. Ils sont distributeurs exclusifs d une marque de **quincaillerie**, pas de verre.
+  **Donc on ne leur sert PAS la porte de sortie du contrat cadre** comme a US Glasstech ou a
+  Temperbras : ce serait repondre a une objection qu ils n ont pas, exactement la faute du
+  paragraphe STADIP.
+- **Regle Prodiesa**, **trois interdits bresiliens du §6 tenus**, **antidumping au titre du §6**.
+
+**Objet :** `Substrato para a tempera - segunda origem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos porque temperam em Maringa. Um forno nao tem meio-termo: gira se
+entrar chapa e para se nao entrar, e a regularidade de quem o abastece pesa
+tanto quanto o resto. Chapa e a unica coisa que nos fazemos.
+
+Nao lhes ofereco nada do que os senhores produzem nem revendem - nem
+temperado, nem ferragem. Apenas o substrato que entra no forno:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. Paranagua, no seu caso.
+
+Para isso preciso de quatro informacoes: quais espessuras o forno mais
+consome, quais medidas de chapa entram nele, uma ordem de grandeza do volume
+anual com a frequencia de compra, e o porto.
+
+E se o abastecimento atual ja os cobre, diga-me com franqueza, que nao
+insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
