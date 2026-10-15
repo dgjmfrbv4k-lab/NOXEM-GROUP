@@ -181,12 +181,35 @@ DEPUIS_LIEN = 103
 parts = re.split(r'^## (\d+)\.\s*(.+)$', texte, flags=re.M)
 sections = [(int(parts[i]), parts[i + 1], parts[i + 2]) for i in range(1, len(parts), 3)]
 
-verifies = ignores = defauts = 0
+# ⚠️ EXEMPTION DES TEXTES DICTES, AJOUTEE LE 15/10 A 08h26, ET ELLE EST DE LA MEME
+# FAMILLE QUE LES TROIS CORRECTIFS DU 13/10 : LE CONTROLEUR CRIAIT AU LOUP SUR UN
+# TEXTE PARFAITEMENT LEGITIME. Le texte 152, reponse a la demande de prix de San
+# Simon, est DICTE MOT POUR MOT PAR KEVIN au titre de l exception unique du §5, et
+# c est LUI qui l envoie, ce qu il a fait le 14/10 a 18h18. Le controleur y voyait
+# quatre defauts — le mot precios, la formule imposee absente, aucune signature, pas
+# de porte de sortie — et les quatre sont des proprietes du texte de KEVIN, pas des
+# fautes. Un texte dicte n est pas une approche a froid : il ne porte ni la formule
+# du §5, ni la signature du §10, ni la porte de sortie du §9, par construction.
+# LE MARQUEUR EST UN TITRE DE NIVEAU TROIS ET NON UN MOT EN PROSE, et c est delibere :
+# le §12 a paye cher le mot DOUBLON ecrit en prose, qui a rendu une fiche invisible
+# aux cinq signaux du balayage. Une phrase ordinaire ne produit pas un ### en debut
+# de ligne, donc ce marqueur-ci ne peut pas se declencher par une tournure.
+# Verifie DANS LES DEUX SENS : sur le fichier reel le 152 se tait et AUCUN autre texte
+# ne change d etat ; et sur un jeu d essai, un texte portant la meme phrase EN PROSE
+# et non en titre reste controle et ses fautes ressortent.
+DICTE = re.compile(r'^###.*\btexte\s+dict[ée]', re.M | re.I)
+
+verifies = ignores = defauts = dictes = 0
 avertis = []
 print('%s : %d section(s), controle a partir du n° %d\n' % (SRC, len(sections), DEPUIS))
 for num, titre, corps_section in sections:
     if num < DEPUIS:
         ignores += 1
+        continue
+    if DICTE.search(corps_section):
+        dictes += 1
+        print('  = %d. %s' % (num, titre[:60]))
+        print('      TEXTE DICTE par Kevin — hors controle du §5 et du §9 par construction')
         continue
     blocs = [b for b in re.findall(r'```(.*?)```', corps_section, re.S)
              if len(b.strip().split('\n')) >= 5]
@@ -235,7 +258,8 @@ for num, titre, cond in avertis:
     print('  ! %d. %s' % (num, titre[:66]))
     print('      mot conditionnel %s — justifie par une mention du §6 dans le commentaire' % cond)
 
-print('\n%d texte(s) controle(s), %d anterieur(s) ignore(s), %d a corriger, %d signale(s).'
-      % (verifies, ignores, defauts, len(avertis)))
+print('\n%d texte(s) controle(s), %d anterieur(s) ignore(s), %d dicte(s) exempte(s), '
+      '%d a corriger, %d signale(s).'
+      % (verifies, ignores, dictes, defauts, len(avertis)))
 if not defauts:
     print('Aucun. Les textes respectent les interdits du §5 et la forme du §9.')

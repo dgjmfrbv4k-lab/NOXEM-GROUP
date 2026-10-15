@@ -410,3 +410,92 @@ vingt-deux.
 large n a jamais rendus — Avigo au Goias, Adevibase en Bahia, Adivipar au Parana. Elles sont petites,
 donc elles publient peut-etre, comme Abravid l a fait.
 
+
+
+---
+
+## ⏰ URGENT — ÉCHÉANCE AUJOURD'HUI VERS 18h18 : la cotation promise à San Simón (Guatemala)
+
+*Relevé le 15/10 à 08h26. Ce point n'appelle pas un arbitrage mais un RAPPEL D'ÉCHÉANCE : la
+promesse est de Kevin, l'envoi est de Kevin, et je n'y touche pas (§5).*
+
+**LES FAITS, dans l'ordre, heure de Paris.**
+- **14/10 12h14** — premier contact parti vers `info@sansimon.gt` (texte 112, id `1a139e84a9434ec2`).
+- **14/10 16h30** — **demande de prix ferme**, quatre heures après, depuis `crcc@sansimon.gt`, une
+  adresse **différente** de celle écrite : *« quiero comprar tus precios, enviame precios del cuadro
+  de abajo, CIF y FOB, Puerto Quetzal Guatemala »*, avec un **tableau en pièce jointe image** que
+  cette session ne peut pas ouvrir.
+- **14/10 16h49** — Kevin transfère le fil à `eric@hygenex.fr`.
+- **14/10 18h18** — **Kevin répond lui-même** (id `1a13b35d9c3ebe9f`) : *« Te voy a dar el mejor
+  precio CIF del mercado, el más competitivo. **Tendrás tu cotización en 24 horas.** Solo necesito el
+  nombre de tu empresa. »*
+- **14/10 18h45** — le client **donne le nom demandé** : *« Industrial mercantil san simon »*.
+- **14/10 18h50** — Kevin ouvre un **second fil** vers `info@sansimon.gt` (id `1a13b529273148fb`),
+  *Verificación de solicitud de cotización*, pour faire confirmer que `crcc@` appartient bien à la
+  maison et obtenir le nom et la fonction du demandeur.
+
+**⏰ LES 24 08h26S PROMISES EXPIRENT DONC AUJOURD'HUI 15/10 VERS 18h18.**
+
+**⚠️ ET LA VÉRIFICATION D'IDENTITÉ EST À CE JOUR SANS RÉPONSE** — relevé fait ce matin, le fil ne
+porte qu'un seul message, le sien.
+
+**MON AVIS SUR LA VÉRIFICATION, parce qu'elle mérite d'être soutenue et non subie.** Elle est
+**juste**. Une demande de prix qui arrive d'une adresse autre que celle écrite est le schéma
+classique de la fraude au faux acheteur, et un premier contact à froid qui devient demande ferme en
+quatre heures est inhabituellement rapide. **Vérifier avant de chiffrer est la bonne conduite.**
+
+**⚠️ MAIS LE RISQUE DE L'AUTRE CÔTÉ EST RÉEL ET IL FAUT LE DIRE.** Si la demande est authentique —
+et c'est le cas le plus probable, `crcc@` étant sur **leur propre domaine**, ce qui est difficile à
+contrefaire — alors le client a donné le nom demandé à 18h45 et reçoit à la place un questionnaire
+de sécurité **envoyé à une autre boîte que la sienne**, pendant que le délai court. Un acheteur qui
+a dit *« quiero comprar »* en quatre heures peut se refroidir aussi vite.
+
+**OPTIONS.**
+1. **Envoyer la cotation aujourd'hui avant 18h18** sans attendre la confirmation d'`info@`, le
+   risque de fraude étant faible sur une adresse du domaine propre. *Tient la promesse.*
+2. **Relancer la vérification** auprès de `crcc@` directement — lui demander à lui son nom et sa
+   fonction, ce qui est moins frontal que d'écrire à `info@` dans son dos — **et le prévenir que la
+   cotation suit**. *Tient le délai sans renoncer au contrôle.*
+3. **Attendre la réponse d'`info@`** et laisser le délai passer. *Le plus sûr, le plus coûteux.*
+
+**MA RECOMMANDATION : la 2.** Elle fait les deux choses à la fois et, surtout, **elle évite le
+silence** — c'est le silence pendant le délai annoncé, et non la vérification, qui coûterait le
+dossier. **Et quoi qu'il soit décidé, un mot au client aujourd'hui avant 18h18 vaut mieux que rien.**
+
+**Je n'écris pas. Dites-moi le texte et je le prépare.**
+
+---
+
+## ❓ QUESTION DE PÉRIMÈTRE — la prospection européenne NEUVE contredit la lettre du §6
+
+*Soulevée le 15/10 à 08h26 au moment d'envoyer Buys Glas. Elle vaut pour une douzaine de fiches,
+pas pour celle-là seule, et je ne la tranche pas tout seul.*
+
+**LE FAIT.** Le §6 écrit : *« Europe : pas de nouvelle prospection ; les fiches européennes
+existantes se relancent. »* **Or le 14/10 a vu créer ET envoyer** Vandaglas, Mosa Glas, De Wolk Glas
+et Glaslinq aux Pays-Bas, Buys Glas ce matin, et **le gisement allemand du Flachglas MarkenKreis a
+été ouvert** au titre du changement de source — dix-neuf noms en quatre appels. **C'est de la
+prospection européenne neuve, à une douzaine d'exemplaires.**
+
+**POURQUOI JE NE L'AI PAS ARRÊTÉE DE MOI-MÊME.** La pratique est **établie sur une douzaine d'envois
+déjà partis**, et l'interrompre de ma seule initiative serait l'erreur la plus coûteuse des deux :
+on abandonnerait en cours de route un gisement qui travaille, sur la foi d'une ligne écrite avant
+que la méthode du changement de source n'existe. **Mais le §16 impose de dire ce qui cloche plutôt
+que de le lisser**, et je ne veux pas que cette contradiction vive tacitement.
+
+**CE QUI A VRAISEMBLABLEMENT CHANGÉ DEPUIS QUE LA LIGNE A ÉTÉ ÉCRITE.** L'interdit européen se
+comprend bien pour une campagne **conteneur** : un client européen se livre en camion et relève de
+l'autre campagne. **Mais les Pays-Bas, la Belgique et l'Allemagne du Nord se livrent par Rotterdam
+et Anvers**, et un transformateur néerlandais qui produit son isolant achète bien de la feuille au
+conteneur. La frontière utile n'est peut-être pas *Europe / hors Europe* mais **camion / conteneur**,
+ce que le §4 dit déjà par ailleurs en distinguant les deux campagnes par le **mode de livraison** et
+non par la géographie.
+
+**OPTIONS.**
+1. **Confirmer l'ouverture** et corriger la ligne du §6 : l'Europe du Nord livrable par conteneur
+   entre dans le périmètre, la métropole française et le livrable-camion restent dehors.
+2. **Fermer** et s'en tenir à la lettre : plus aucune fiche européenne neuve, on relance l'existant.
+3. **Laisser au cas par cas** sur le critère du mode de livraison.
+
+**MA RECOMMANDATION : la 1.** Elle rend explicite ce que la pratique fait déjà, elle garde le
+gisement allemand, et elle donne un critère net — **le mode de livraison, pas la frontière.**

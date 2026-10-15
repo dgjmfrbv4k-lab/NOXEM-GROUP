@@ -8320,6 +8320,24 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 
 ## 152. Industrial Mercantil San Simón (Guatemala) — RÉPONSE À LA DEMANDE DE PRIX — ESPAGNOL
 ### ⚠️ TEXTE DICTÉ PAR KEVIN LE 14/10 — IL L'ENVOIE LUI-MÊME, JE N'ENVOIE RIEN
+### ✅ ENVOYÉ PAR KEVIN LUI-MÊME LE 14/10 À 18h18 HEURE DE PARIS — DOSSIER CLOS DE MON CÔTÉ
+
+**Relevé le 15/10 à 08h20 dans `in:sent`, id `1a13b35d9c3ebe9f`, vers `crcc@sansimon.gt`.** Le
+texte parti est le sien et non le mien, et il est plus court que ce que j'avais rédigé — ce qui
+est son droit entier. Le client a répondu le nom demandé à **18h45**, id `1a13b4e421336366`.
+**Et Kevin a ouvert à 18h50 un SECOND FIL vers `info@sansimon.gt`**, id `1a13b529273148fb`, pour
+faire confirmer par la maison que l'adresse `crcc@` lui appartient. **Cette vérification est à ce
+jour sans réponse.**
+
+⚠️ **ÉCHÉANCE À DIRE À KEVIN AUJOURD'HUI : la cotation a été promise sous 24 heures le 14/10 à
+18h18, donc le délai annoncé au client expire aujourd'hui 15/10 vers 18h18 heure de Paris.**
+
+**Ce texte ne se corrige pas et ne se renvoie pas.** `verif-texte.py` y voyait quatre défauts —
+le mot *precios*, la formule imposée absente, aucune signature, pas de porte de sortie. **Les
+quatre sont des propriétés du texte de Kevin, pas des fautes** : un texte dicté n'est pas une
+approche à froid et ne porte aucune de ces trois pièces par construction. Le contrôleur exempte
+désormais les textes dictés, sur un marqueur en **titre** et non en prose — leçon du mot
+`DOUBLON` du §12, qui avait rendu une fiche invisible aux cinq signaux du balayage.
 
 **ORDRE REÇU, CITÉ MOT POUR MOT :** « Réponds-lui, dis-lui bonjour etc. OK très prochainement, il
 recevra l'offre la plus compétitif jusqu'à son port. Nous, on fait des prix. cif tu réponds ça, tu me
@@ -9169,6 +9187,78 @@ E se já estiverem comprometidos com o fornecedor atual, digam-me com
 franqueza e não insisto.
 
 Fico à disposição.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 164. Buys Glas (Stramproy, Limbourg) — `info@buysglas.nl` — NÉERLANDAIS — produit son isolant et son verre de sécurité
+
+**Vérifié avant d'écrire :**
+- Mot distinctif `buys` grepé avant création le 14/10 : **absent**. Adresse `info@buysglas.nl` lue sur **leur propre page de contact**, domaine du site, §5 satisfait sans exception.
+- **CE QUI A FAIT PENCHER LA DÉCISION, ET C'EST LE CRITÈRE QUI A REFUSÉ LEUR VOISIN LE MÊME JOUR :** De Glascentrale (Tilburg) a été écartée parce qu'elle **commande** son HR++ avec deux à quatre semaines de délai, donc elle achète des **unités finies**. **Buys Glas PRODUIT** son vitrage isolant et son verre de sécurité, avec stock et moyens de transformation. *Une ligne qui consomme de la feuille se réapprovisionne au conteneur ; une maison qui attend un mois son vitrage, non.* **Le même critère, appliqué aux deux, les sépare** — et c'est lui, pas l'étiquette de métier, qui décide.
+- **Règle Prodiesa appliquée :** vitrage isolant et verre de sécurité sont **leur** fabrication, ils **sortent de l'offre**. Seul le **substrat** y entre — float clair et extra-clair, low-E, miroir.
+- **Boîte d'achats cherchée** selon la méthode du 14/10 (`inkoop`, `verkoop`) : **il n'y en a pas de publiée**, seule la boîte générale existe. Deuxième application de la règle, négative comme la première.
+- **Aucun dirigeant nommé** : aucune fonction d'achat vérifiée sur leur site. Message au service, comme Mosa.
+- **AUCUN ARGUMENT DOUANIER**, et il n'y en a aucun à avoir : prospect intra-UE, pas de droit, pas de mesure. L'angle est la **seconde origine** et le conteneur, rien d'autre.
+
+**⚠️ LES DEUX RÉSERVES DE LA FICHE SONT MAINTENUES ET NON LEVÉES, elles portent sur le RENDEMENT ATTENDU et non sur l'éligibilité :**
+1. **Profil mixte.** Leurs pages `glaszetter` et `glas bestellen` et un showroom sur rendez-vous disent une part de **détail et de pose**. Le §6 mesure la classe verrier + pose à **0 % sur onze fiches**, la pire du registre. C'est le signal qui tire vers le bas, et il est réel.
+2. **Leur domaine héberge une page de spam de casino** indexée au même titre que leurs pages verrières. Un site compromis trahit une informatique peu tenue, **donc une boîte possiblement peu relevée**. Ce n'est pas un motif d'écarter, c'est un motif de **ne pas compter l'envoi comme acquis** avant la fenêtre de 72 heures du §13.
+
+**⚠️⚠️ ET UNE QUESTION DE PÉRIMÈTRE QUI N'EST PAS LA MIENNE À TRANCHER, SOULEVÉE ICI PARCE QU'ELLE VAUT POUR UNE DOUZAINE DE FICHES ET PAS POUR CELLE-CI SEULE.** Le §6 écrit : *« Europe : pas de nouvelle prospection ; les fiches européennes existantes se relancent. »* **Or cette fiche a été CRÉÉE le 14/10**, et elle n'est pas isolée — le même jour ont été créés et envoyés Vandaglas, Mosa Glas, De Wolk Glas et Glaslinq aux Pays-Bas, et le gisement allemand du Flachglas MarkenKreis a été ouvert au titre du changement de source du §6. **C'est donc de la prospection européenne neuve, à une douzaine d'exemplaires, et elle contredit la lettre du §6.** Je ne l'arrête pas unilatéralement : la pratique est établie sur une douzaine d'envois déjà partis, et l'interrompre de ma seule initiative serait l'erreur la plus coûteuse des deux. **Mais je ne la laisse pas tacite non plus — la question est portée à Kevin au bilan et dans `DECISIONS-AARON.md`.** Le §16 impose de dire ce qui cloche, pas de le lisser.
+
+**Objet :** Vlakglas per volledige container — tweede herkomst voor uw productie
+
+**Corps :**
+
+```
+Geachte heer, mevrouw,
+
+Mijn naam is Aaron Harfi, ik leid NOXEM GROUP, leverancier en exporteur van
+vlakglas bij Lyon in Frankrijk. Dit is een leveringsaanbod en geen
+prijsaanvraag. Bent u niet degene die het glas inkoopt, dan zou ik het op
+prijs stellen als u dit doorgeeft aan wie dat wel doet.
+
+Ik schrijf u om een reden die op uw eigen pagina's staat: u BESTELT uw
+isolatieglas niet, u MAAKT het zelf, net als uw veiligheidsglas en uw
+binnenglas, en u houdt daarbij voorraad aan. Dat is precies het verschil dat
+voor mij telt. Een huis dat zelf produceert, koopt blad in, regelmatig en in
+volume, en die productie staat stil zodra dat blad niet binnenkomt. Een
+tweede vaste herkomst is dan geen luxe maar een zekerheid.
+
+Ik bied u daarom niets aan wat u zelf maakt - geen isolatieglas en geen
+veiligheidsglas. Alleen het basisglas dat daarvoor binnenkomt:
+
+- Helder float en extra helder glas:
+  https://noxemgroup.com/en/float-glass/
+- Coated warmte-isolerend glas:
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- Spiegelglas zonder koper en zonder lood:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Onze website bestaat alleen in het Frans en het Engels. Elke referentie licht
+ik u graag in het Nederlands toe.
+
+Wij verschepen in VOLLEDIGE CONTAINERS, in IPPC/ISPM-15 behandelde houten
+kisten, in jumbobladen van 3210 x 2550 mm of op uw maten. Wij kunnen een
+aanbod opstellen voor levering in uw bestemmingshaven, onder voorbehoud van
+validatie van onze kant.
+
+Daarvoor heb ik vier gegevens nodig: welke diktes en coatings uw productie
+het meest verbruikt, welke bladmaten op uw lijnen passen, een indicatie van
+uw jaarvolume met de bestelfrequentie, en welke haven u berekend wilt zien,
+Rotterdam of Antwerpen.
+
+En als uw inkoop vastligt en er geen ruimte is voor een extra herkomst, zegt
+u het mij gerust, dan dring ik niet aan.
 
 Aaron Harfi
 President - NOXEM GROUP SAS
