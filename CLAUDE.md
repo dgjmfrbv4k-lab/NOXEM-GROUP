@@ -229,6 +229,25 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   chiffre n'autorise pas plus que le mot, seul l'**usage** décide.
   **Et le test qui aurait suffi coûte zéro appel : lire les AUTRES lignes de la gamme.** Des sapins de
   Noël à côté du miroir disent tout ce qu'il faut savoir.
+  **⚠️⚠️ ET LE MÊME JOUR À 13h45 LE CRITÈRE SE RETOURNE UNE SECONDE FOIS, PAR UN AUTRE CÔTÉ, CE QUI
+  OBLIGE À LE REFORMULER AU LIEU DE LUI AJOUTER DES EXCEPTIONS.** **Olglass** (Barranquilla) publie
+  bel et bien des épaisseurs — **4, 6, 8, 10 et 12 mm** — et le critère semble satisfait. Mais les
+  usages annoncés à côté sont *portes, cloisons de salle de bain, garde-corps, façades commerciales*,
+  et la maison dit que tout **sort de son usine et arrive POSÉ sur le chantier**. **Ce sont donc les
+  épaisseurs qu'elle TREMPE, pas celles qu'elle STOCKE : le produit qui sort, pas la feuille qui
+  entre.**
+  **LES TROIS CAS DU 15/10 DISENT LA MÊME CHOSE ET LA RÈGLE SE RÉÉCRIT UNE FOIS POUR TOUTES.** Un
+  **façadier** ne publie pas d'épaisseurs — c'est le cas d'origine, et il tient. Un **bazar** en
+  publie et vend des feuilles au détail. Un **transformateur** en publie aussi, et ce sont celles de
+  sa production.
+  **LA QUESTION N'EST DONC PAS « PUBLIENT-ILS DES ÉPAISSEURS » MAIS « DE QUEL CÔTÉ DE LEUR ATELIER CES
+  ÉPAISSEURS SE TROUVENT ».** Une plage d'épaisseurs accompagnée de **formats de feuille**, d'un
+  **délai court** ou d'une **vente à la caisse** désigne de l'entrée — c'est Karas and Karas avec ses
+  3/16 et 1/4 de pouce vendus à la caisse, et Monash Glass avec ses 24 heures sur le float. Une plage
+  d'épaisseurs accompagnée d'**usages** — garde-corps, douche, façade — désigne de la sortie.
+  **Et quand ce sont celles de la sortie, la fiche n'est pas fermée pour autant** : un trempeur qui
+  travaille du 4 au 12 **achète** du 4 au 12, et c'est l'argument de fond de la campagne. Elle est
+  simplement classée pour ce qu'elle est, et la règle Prodiesa s'y applique strictement.
   **⚠️ ET LA LEÇON S'ÉTEND AU PAYS, PAS SEULEMENT AU MÉTIER — deux cas de plus le 14/10 à 11h42.**
   · **Distribuidora Arquetipo** était classée sous le **Pérou** par le portail. Vérifiée : elle est
     **chilienne**, quatre succursales à Santiago, Antofagasta, Coquimbo et Talca. La fiche est créée, mais
