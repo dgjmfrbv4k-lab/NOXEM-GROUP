@@ -522,3 +522,40 @@ Mais cela confirme par un troisieme bout ce que le paragraphe 6 soupconnait deja
 bresilien sur le FEUILLETE a bouge a la hausse**, ce qui touche le dossier Miro Est. A lire au
 Siscomex avant tout usage.
 
+
+
+---
+
+## 15/10 — lot brésilien : deux verdicts négatifs à ne pas rechercher deux fois
+
+*Consignés à 08h42. Le §13 impose d'écrire le verdict là où le travail se fait, pas seulement
+dans un bilan — c'est la leçon Commercial Glass et Vitrolux du 13/10.*
+
+- **`TEMPERMED` — N'EXISTE PAS, ET LE NOM VIENT DE NOTRE PROPRE RELEVÉ.** Nom pris dans l'annuaire
+  ABRAVIDRO. Recherche large faite : **aucun résultat au monde**. Le plus proche est *Tempermax*,
+  qui est une autre maison. **Le nom a vraisemblablement été mal lu dans le relevé du 14/10.**
+  ⚠️ **Et cela vaut avertissement pour les onze autres noms du même relevé** — TVT Vidros, Estrela
+  Vidros, MTX Glass, Vidrolar, Casa do Vidraceiro, J Marques, Temperline, Mary Art Vidros, Art
+  Vidros, DVB Vidros : ils viennent de la même lecture et peuvent porter la même faute. **Un nom
+  relevé à l'œil sur une page d'annuaire n'est pas un fait vérifié**, et c'est la leçon Imporex
+  déplacée d'un cran en amont : avant même de qualifier, il faut que le nom soit juste.
+
+- **`MARIGLASS` (Campinas, SP) — ÉCARTÉE SUR LA CLASSE, AUCUNE FICHE CRÉÉE.** Le second temps rend
+  un métier net et c'est le mauvais : **vidraçaria e esquadrias de alumínio**, box de salle de
+  bain, miroirs, cloisons, façades, **showroom** et horaires de détail. C'est **verrier + pose**,
+  mesurée à **0 % sur onze fiches**, la pire classe du registre, croisée avec l'aluminium à 3,6 %.
+  Les épaisseurs qu'ils annoncent — 6, 8 et 10 mm *sob medida* — sont une **prestation de découpe**
+  et non un stock, ce qui est exactement la limite que le critère du 14/10 s'était fixée.
+  **Adresse disponible et délibérément non portée** : `contato@mariglass.com.br` est publiée, donc
+  le §5 serait satisfait. **C'est la classe qui retient l'envoi, pas la coordonnée.**
+
+**⚠️ ET LA LEÇON DE MÉTHODE DU MATIN VAUT MIEUX QUE LES DEUX VERDICTS : UNE RECHERCHE QUI ÉCHOUE
+PEUT MIEUX TRIER QU'UNE RECHERCHE QUI RÉUSSIT.** En cherchant un nom qui n'existe pas, le moteur a
+rendu **sept trempeurs brésiliens réels**, et il les a rendus **parce qu'ils publient tous leurs
+épaisseurs** — c'est-à-dire exactement le signal du 14/10 qui sépare un stockiste d'un façadier.
+Une requête bâtie sur le *métier et les épaisseurs* trie donc mieux qu'une requête bâtie sur un
+*nom*. **Cinq fiches créées, quatre textes écrits, pour un appel de recherche perdu.**
+
+**Résultat du lot :** Brazilglass, A2 Vidros, Blue Glass et Tempermax en `A ENVOYER 2026-10-15` ·
+Brastemper en `A APPELER` (trois numéros publiés, aucune adresse) · Divinal Vidros **déjà au
+registre** et relancée le 08/10, donc non recréée — le grep un par un a fait son travail.

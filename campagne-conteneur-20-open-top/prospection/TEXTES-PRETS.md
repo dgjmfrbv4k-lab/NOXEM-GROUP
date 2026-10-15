@@ -9345,3 +9345,272 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 166. Brazilglass (Guararema, SP) — `contato@brazilglass.com.br` — PORTUGAIS — têmpera 4 à 19 mm, feuilleté jusqu'à 100 mm — **LA PLUS GROSSE DU LOT**
+
+**Pourquoi eux :** leur propre page dit **« Maior Beneficiadora de Vidros Planos do Brasil »**. Têmpera de **4 à 19 mm**, thermodurci de 3 à 10, feuilleté de **6,3 à 100 mm** avec PVB et **SGP Sentryglas** — l'amplitude d'épaisseurs la plus large rencontrée au Brésil, et un feuilleteur SGP travaille des projets lourds. ⚠️ **Réserve portée dans la fiche : leur rattachement capitalistique n'est pas établi** et leur page fournisseurs n'a pas été trouvée. Le nom ne porte aucun fragment de marque de producteur, mais la règle du §6 impose de vérifier avant de conclure. **Une boîte `recrutamento@` écartée au titre du §5, cas Lahey.**
+
+**Vérifié avant d'écrire :** nom grepé **un par un sur le champ société** avant création, absent. Adresse lue sur **leur propre page de contact**, domaine identique à celui du site, **§5 satisfait sans exception**. Aucune boîte d'achats publiée, **aucun dirigeant nommé**. **Règle Prodiesa** : ce qu'ils fabriquent sort de l'offre, seul le **substrat** y entre.
+**⚠️ TROIS INTERDITS BRÉSILIENS DU §6 TENUS.** (1) **Jamais « pas de production locale »** — le Brésil compte **quatre** producteurs float, AGC, Cebrace, Guardian et Vivix, nommés par la Circular MDIC nº 36 du 26/07/2024. (2) L'argument brésilien est **douanier et seulement douanier** — Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, **l'Europe visée par aucune mesure**. (3) Sa portée est **étroite** : la mesure exclut le miroir, le teinté et le coloré dans la masse — **le miroir n'est donc pas lié à l'argument douanier dans ces textes**. Et **aucun taux n'est cité**, le droit ordinaire brésilien n'étant pas établi entre 9 et 25 %.
+**Fuseau calculé et non deviné (§13) :** Brésil UTC−3, Paris UTC+2, donc Brésil = **Paris − 5**. Vérifié sur un cas connu — 13h30 de Paris font bien 8h30 à Brasília. **Envoi dans la vague des Amériques.**
+
+**Corps :**
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora
+de vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo por causa do que as suas proprias paginas dizem. Os senhores
+temperam de 4 a 19 mm e laminam de 6,3 mm ate 100 mm, com PVB e com SGP.
+Uma casa com essa amplitude nao compra chapa avulsa: compra carga, e com
+regularidade, porque as linhas param quando a chapa nao entra.
+
+Por isso nao lhes ofereco nada do que os senhores mesmos fabricam - nem
+temperado, nem laminado, nem vidro inteligente. Apenas o substrato que
+entra neles:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+O nosso site existe apenas em frances e em ingles. Explico cada
+referencia em portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas
+antidumping brasileiras em vigor sobre o float incolor alcancam origens
+asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso muda
+a comparacao. Nao e uma afirmacao sobre o nosso preco.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada
+IPPC/ISPM-15, em chapa jumbo de 3210 x 2550 mm ou nas suas medidas.
+Podemos preparar uma oferta para entrega no seu porto de destino,
+sujeita a validacao da nossa parte.
+
+Para que essa oferta lhe seja util, preciso de quatro informacoes: quais
+referencias e espessuras a sua producao mais consome, quais medidas de
+chapa entram nas suas linhas, uma ordem de grandeza do volume anual com a
+frequencia de compra, e qual porto o senhor quer ver calculado. Santos ou Paranagua.
+
+E se o seu fornecimento ja estiver fechado e nao houver espaco para uma
+segunda origem, diga-me com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 167. A2 Vidros (Osasco + Limeira, SP) — `vendas@a2vidros.com.br` — PORTUGAIS — bénéficie ET distribue, fours propres
+
+**Pourquoi eux :** leur phrase dit qu'ils **« beneficiam e distribuem »** du verre plat — transformation **et** négoce, les deux meilleures classes du §6 réunies (12,8 % et 10 %). **Fours de trempe et de feuilletage propres**, certification Inmetro/IFBQ, débouchés bâtiment, mobilier, menuiserie et **chauffage solaire** — ce dernier supposant de l'extra-clair. **⚠️ DEUX USINES, UN SEUL COMPTE** (§12) : Osasco et Limeira sont dans le **même pays, le même marché douanier et le même port**. C'est le cas **Saint Lu**, pas Extralum. `vendas2@` de Limeira noté en secours, ne reçoit rien. **⚠️ `vendas@` est une boîte de VENTE** — assumé faute de mieux : le §5 interdit de nommer une **personne** à fonction commerciale, pas d'écrire à la boîte générale publiée.
+
+**Vérifié avant d'écrire :** nom grepé **un par un sur le champ société** avant création, absent. Adresse lue sur **leur propre page de contact**, domaine identique à celui du site, **§5 satisfait sans exception**. Aucune boîte d'achats publiée, **aucun dirigeant nommé**. **Règle Prodiesa** : ce qu'ils fabriquent sort de l'offre, seul le **substrat** y entre.
+**⚠️ TROIS INTERDITS BRÉSILIENS DU §6 TENUS.** (1) **Jamais « pas de production locale »** — le Brésil compte **quatre** producteurs float, AGC, Cebrace, Guardian et Vivix, nommés par la Circular MDIC nº 36 du 26/07/2024. (2) L'argument brésilien est **douanier et seulement douanier** — Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, **l'Europe visée par aucune mesure**. (3) Sa portée est **étroite** : la mesure exclut le miroir, le teinté et le coloré dans la masse — **le miroir n'est donc pas lié à l'argument douanier dans ces textes**. Et **aucun taux n'est cité**, le droit ordinaire brésilien n'étant pas établi entre 9 et 25 %.
+**Fuseau calculé et non deviné (§13) :** Brésil UTC−3, Paris UTC+2, donc Brésil = **Paris − 5**. Vérifié sur un cas connu — 13h30 de Paris font bien 8h30 à Brasília. **Envoi dans la vague des Amériques.**
+
+**Corps :**
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora
+de vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo por causa de uma frase das suas proprias paginas: os senhores
+beneficiam E distribuem vidro plano. Sao os dois lados que mais me
+interessam, porque os dois consomem chapa - os fornos proprios de tempera
+e de laminacao param sem ela, e o estoque de distribuicao precisa ser
+reposto. E o aquecimento solar, que consta entre os seus destinos, pede
+extra claro de alta transmissao.
+
+Por isso nao lhes ofereco nada do que os senhores mesmos fabricam - nem
+temperado nem laminado. Apenas o substrato que entra neles:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+O nosso site existe apenas em frances e em ingles. Explico cada
+referencia em portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas
+antidumping brasileiras em vigor sobre o float incolor alcancam origens
+asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso muda
+a comparacao. Nao e uma afirmacao sobre o nosso preco.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada
+IPPC/ISPM-15, em chapa jumbo de 3210 x 2550 mm ou nas suas medidas.
+Podemos preparar uma oferta para entrega no seu porto de destino,
+sujeita a validacao da nossa parte.
+
+Para que essa oferta lhe seja util, preciso de quatro informacoes: quais
+referencias e espessuras a sua producao mais consome, quais medidas de
+chapa entram nas suas linhas, uma ordem de grandeza do volume anual com a
+frequencia de compra, e qual porto o senhor quer ver calculado. Santos, no seu caso.
+
+E se o seu fornecimento ja estiver fechado e nao houver espaco para uma
+segunda origem, diga-me com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 168. Blue Glass (São José dos Pinhais, PR) — `blueglass@blueglass.com.br` — PORTUGAIS — commerce et beneficiamento depuis 1996
+
+**Pourquoi eux :** leur page *empresa* dit **« comercio e beneficiamento »** depuis **1996** — négoce et verrier à la fois. **⚠️ Et c'est la plus grande feuille du lot : 5800 × 2650 mm de maximum**, en 5, 6, 8, 10 et 12 mm. Une maison qui annonce 5800 de long travaille des feuilles entières et a le stockage qui va avec. Leur page *ferragens e aluminios* est un complément de négoce verrier normal au Brésil et **non** un signal de poseur — la classe est établie par le mot *beneficiamento*. **Paraná, donc Paranaguá plutôt que Santos, à leur laisser choisir.**
+
+**Vérifié avant d'écrire :** nom grepé **un par un sur le champ société** avant création, absent. Adresse lue sur **leur propre page de contact**, domaine identique à celui du site, **§5 satisfait sans exception**. Aucune boîte d'achats publiée, **aucun dirigeant nommé**. **Règle Prodiesa** : ce qu'ils fabriquent sort de l'offre, seul le **substrat** y entre.
+**⚠️ TROIS INTERDITS BRÉSILIENS DU §6 TENUS.** (1) **Jamais « pas de production locale »** — le Brésil compte **quatre** producteurs float, AGC, Cebrace, Guardian et Vivix, nommés par la Circular MDIC nº 36 du 26/07/2024. (2) L'argument brésilien est **douanier et seulement douanier** — Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, **l'Europe visée par aucune mesure**. (3) Sa portée est **étroite** : la mesure exclut le miroir, le teinté et le coloré dans la masse — **le miroir n'est donc pas lié à l'argument douanier dans ces textes**. Et **aucun taux n'est cité**, le droit ordinaire brésilien n'étant pas établi entre 9 et 25 %.
+**Fuseau calculé et non deviné (§13) :** Brésil UTC−3, Paris UTC+2, donc Brésil = **Paris − 5**. Vérifié sur un cas connu — 13h30 de Paris font bien 8h30 à Brasília. **Envoi dans la vague des Amériques.**
+
+**Corps :**
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora
+de vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo por causa de dois numeros das suas proprias paginas. Os senhores
+trabalham chapa ate 5800 x 2650 mm, e fazem comercio E beneficiamento
+desde 1996. Quem corta 5800 de comprimento nao trabalha com retalho:
+trabalha com chapa inteira, e tem o estoque que isso exige. Sao trinta
+anos de oficio e e exatamente esse perfil que compra por carga.
+
+Nao lhes ofereco nada do que os senhores mesmos beneficiam. Apenas a
+chapa que entra:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+O nosso site existe apenas em frances e em ingles. Explico cada
+referencia em portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas
+antidumping brasileiras em vigor sobre o float incolor alcancam origens
+asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso muda
+a comparacao. Nao e uma afirmacao sobre o nosso preco.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada
+IPPC/ISPM-15, em chapa jumbo de 3210 x 2550 mm ou nas suas medidas.
+Podemos preparar uma oferta para entrega no seu porto de destino,
+sujeita a validacao da nossa parte.
+
+Para que essa oferta lhe seja util, preciso de quatro informacoes: quais
+referencias e espessuras a sua producao mais consome, quais medidas de
+chapa entram nas suas linhas, uma ordem de grandeza do volume anual com a
+frequencia de compra, e qual porto o senhor quer ver calculado. Paranagua ou Santos.
+
+E se o seu fornecimento ja estiver fechado e nao houver espaco para uma
+segunda origem, diga-me com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 169. Tempermax (Sorocaba, SP) — `tempermax@tempermax.com.br` — PORTUGAIS — têmpera et feuilletage, INMETRO
+
+**Pourquoi eux :** classe **verrier pur**, la meilleure du registre à 12,8 %. Têmpera et feuilletage, épaisseurs publiées **6, 8 et 10 mm**, sur mesure ou en série, **certification INMETRO aux normes ABNT**. ⚠️ **Gamme plus étroite que les trois autres du lot** — trois épaisseurs contre cinq à huit — donc vraisemblablement plus petite. Retenue parce que la classe est la bonne et Sorocaba un bassin industriel, mais **elle passe après les trois autres**. **⚠️ Une seconde boîte écartée volontairement :** `beneficios@` est une boîte de **partenariats et avantages**, donc tournée vers leurs **clients** et non vers leurs fournisseurs — test MunnWorks du §13, on cherche le côté fournisseur.
+
+**Vérifié avant d'écrire :** nom grepé **un par un sur le champ société** avant création, absent. Adresse lue sur **leur propre page de contact**, domaine identique à celui du site, **§5 satisfait sans exception**. Aucune boîte d'achats publiée, **aucun dirigeant nommé**. **Règle Prodiesa** : ce qu'ils fabriquent sort de l'offre, seul le **substrat** y entre.
+**⚠️ TROIS INTERDITS BRÉSILIENS DU §6 TENUS.** (1) **Jamais « pas de production locale »** — le Brésil compte **quatre** producteurs float, AGC, Cebrace, Guardian et Vivix, nommés par la Circular MDIC nº 36 du 26/07/2024. (2) L'argument brésilien est **douanier et seulement douanier** — Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, **l'Europe visée par aucune mesure**. (3) Sa portée est **étroite** : la mesure exclut le miroir, le teinté et le coloré dans la masse — **le miroir n'est donc pas lié à l'argument douanier dans ces textes**. Et **aucun taux n'est cité**, le droit ordinaire brésilien n'étant pas établi entre 9 et 25 %.
+**Fuseau calculé et non deviné (§13) :** Brésil UTC−3, Paris UTC+2, donc Brésil = **Paris − 5**. Vérifié sur un cas connu — 13h30 de Paris font bien 8h30 à Brasília. **Envoi dans la vague des Amériques.**
+
+**Corps :**
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora
+de vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo porque os senhores temperam e laminam, com certificacao INMETRO
+nas normas ABNT, em 6, 8 e 10 mm, sob medida e em serie. Um forno de
+tempera so gira se entrar chapa, e e so disso que eu trato.
+
+Nao lhes ofereco nada do que os senhores mesmos fabricam - nem temperado
+nem laminado. Apenas o substrato que entra neles:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada
+referencia em portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas
+antidumping brasileiras em vigor sobre o float incolor alcancam origens
+asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso muda
+a comparacao. Nao e uma afirmacao sobre o nosso preco.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada
+IPPC/ISPM-15, em chapa jumbo de 3210 x 2550 mm ou nas suas medidas.
+Podemos preparar uma oferta para entrega no seu porto de destino,
+sujeita a validacao da nossa parte.
+
+Para que essa oferta lhe seja util, preciso de quatro informacoes: quais
+referencias e espessuras a sua producao mais consome, quais medidas de
+chapa entram nas suas linhas, uma ordem de grandeza do volume anual com a
+frequencia de compra, e qual porto o senhor quer ver calculado. Santos, no seu caso.
+
+E se o seu fornecimento ja estiver fechado e nao houver espaco para uma
+segunda origem, diga-me com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
