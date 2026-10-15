@@ -398,7 +398,7 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   fiches immédiatement.
   **Règle complétée : le mot à greper est le plus COURT élément distinctif, et il ne doit jamais être
   lui-même une concaténation.**
-  **⚠️⚠️ SIXIÈME CAS LE 15/10 À 10h20, ET IL DIT D OÙ VIENT LA CONCATÉNATION — DU DOMAINE. C'est la
+  **⚠️⚠️ SIXIÈME CAS LE 15/10 AU MATIN, ET IL DIT D OÙ VIENT LA CONCATÉNATION — DU DOMAINE. C'est la
   précision qui manquait, parce que la règle ci-dessus dit de ne pas greper une concaténation sans dire
   où l'on va la chercher par mégarde.** Une recherche a rendu *Distrividrios Lersas*, à Montería. J'ai
   grepé **`lersas`**, et il n'a **rien** rendu : le registre porte **`Distrividrios LER S.A.S.`**, avec
@@ -2196,6 +2196,26 @@ H=$(TZ=Europe/Paris date '+%Hh%M')          # puis utiliser "$H" dans le script
 ```bash
 N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.csv)
 ```
+  **⚠️⚠️ ET LA RÈGLE A ÉTÉ ENFREINTE DE NOUVEAU LE 15/10, DANS UNE SESSION QUI L'APPLIQUAIT CORRECTEMENT
+  À CÔTÉ — ET C'EST CETTE SIMULTANÉITÉ QUI EST LA LEÇON, PAS LA RÉCIDIVE.** Trois notes de registre ont
+  été horodatées **09h06** et **10h20** alors que toute la matinée tient entre **08h19 et 08h49** : deux
+  des trois heures étaient donc **dans le futur**, et la troisième invérifiable.
+  **CE QUI REND LE CAS INSTRUCTIF : LA MÊME SESSION SUBSTITUAIT CORRECTEMENT L'HEURE AILLEURS.**
+  `DECISIONS-AARON.md` et `PRIORITES-RECHERCHE.md` ont bien reçu `H=$(TZ=Europe/Paris date '+%Hh%M')`
+  passé en argument. **L'heure fausse est allée là où elle était écrite DANS UNE CHAÎNE PYTHON**, au
+  milieu d'une note de fiche de deux mille caractères, parce qu'on y tape de la prose et qu'on ne pense
+  plus à substituer. **La règle était connue, appliquée, et contournée au même instant par un autre
+  canal.**
+  **CONDUITE : la substitution ne se décide pas par FICHIER mais par VALEUR.** Dès qu'un script écrit
+  une heure, un comptage ou une date, la valeur vient d'une variable — qu'elle finisse dans un `.md`,
+  dans une note du CSV ou dans un commentaire de code. **Et le contrôle qui coûte une seconde : relire
+  les heures écrites contre `date` AVANT de commiter**, par
+  `grep -o '<jour> [AÀ] [0-9][0-9]h[0-9][0-9]' <fichiers>`. C'est ce `grep` qui a trouvé les trois, et il
+  les aurait trouvées avant le commit aussi bien qu'après.
+  **Les trois fiches portent leur correction en clair** — l'heure fausse remplacée par « dans la
+  matinée », bornes 08h19-08h49 vérifiées, et la cause nommée. **Un faux dans une note qui sert de
+  preuve se corrige en le disant, jamais en le réécrivant silencieusement** (§16).
+
   **ET LA SUBSTITUTION NE SUFFIT PAS NON PLUS QUAND C'EST LA FORMULE QUI EST FAUSSE — mesuré le 14/10
   à 11h39 sur la feuille d'envoi des Amériques.** J'avais calculé l'heure de Paris correspondant à 9h
   locale par `9 - décalage - 2`, et la feuille annonçait **10h de Paris pour le Brésil**. Paris est à
