@@ -10085,7 +10085,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 176. Nepal Glass Udhyog (Katmandou) — `nepalglasstech@gmail.com` — ANGLAIS — **LE PLUS GROS VOLUME DE LA CAMPAGNE**
-### ⚠️ PREPARE LE 15/10 A 12h11 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 12h11 — PAS ENVOYE. ⚠️ EXCLU DE L ENVOI DU 15/10, ET VOLONTAIREMENT : la fiche est en REPONSE 2026-10-09, donc ce texte est une REPONSE a un client qui a ecrit, pas un premier contact a froid. Un fil vivant est precisement le risque de croisement que la regle du paragraphe 5 vise, et ENVOIE TOUT ne le couvre pas. Il attend un mot de Kevin sur CE message.
 
 **CE N EST PAS UNE RELANCE, C EST UNE REPONSE QUI N EST JAMAIS PARTIE.** Amir Shrestha a ecrit le
 **09/10 a 12h16** : leur plus gros volume a Katmandou est le **float clair 12 mm**, besoin mensuel
@@ -10132,7 +10132,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 177. Goldland Trading Company (Colombo) — `sales@goldlandtc.com` — ANGLAIS — relance
-### ⚠️ PREPARE LE 15/10 A 12h11 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 12h11 — PAS ENVOYE. ⚠️ EXCLU DE L ENVOI DU 15/10 POUR LA MEME RAISON QUE LE 176 : fiche en REPONSE 2026-10-07, donc reponse a un client et non premier contact. Attend un mot de Kevin sur ce message.
 
 **CONTEXTE.** P. Thileeban a repondu le **07/10** en demandant vers quels pays nous exportons. Nous
 avons repondu le jour meme — refus de communiquer la liste clients, mentions legales et WhatsApp
@@ -10168,7 +10168,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 178. Tristar Glass Inc. (Catoosa OK, Grand Prairie TX, Houston TX) — `sales@tristarglass.com` — ANGLAIS — premier contact
-### ⚠️ PREPARE LE 15/10 A 13h08 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 13h08 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Faconneur de verre architectural, trois usines et plus de 250 salaries, fonde en
 2005. **Classe VERRIER PUR**, la meilleure des cinq du paragraphe 6 a 12,8 pour cent. Adresse
@@ -10241,7 +10241,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 179. El Mayorista de Santander S.A.S. (Bucaramanga) — `ventas@elmayoristadesantander.com` — ESPAGNOL — premier contact
-### ⚠️ PREPARE LE 15/10 A 13h25 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 13h25 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Maison familiale de plus de quarante ans qui **IMPORTE**, commercialise et
 distribue verre, miroirs et aluminium dans tout l orient colombien. **Classe NEGOCE**, et le mot
@@ -10312,7 +10312,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 180. Desert Glass & Mirror Trading L.L.C (Dubai) — `info@desertglassuae.com` — ANGLAIS — premier contact
-### ⚠️ PREPARE LE 15/10 A 13h25 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 13h25 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 ### ⚠️ ET A ENVOYER SEUL, JAMAIS DANS UNE VAGUE — voir la fiche : l adresse vient d un annuaire et leur page publie une adresse de gabarit sur un autre domaine. Un rebond ne doit pas abimer une vague entiere.
 
 **POURQUOI EUX MALGRE UN MARCHE QUE LE §6 DECLARE FAIBLE.** Emirates Float Glass produit 600 t/jour
@@ -10377,7 +10377,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 181. Karas and Karas Glass Co. (Boston Sud) — `nanderson@karasglass.com` — ANGLAIS — premier contact
-### ⚠️ PREPARE LE 15/10 A 13h25 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 13h25 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Maison de 1924, division de gros verre plat et miroir livrant le negoce dans tout
 le Nord-Est. **Le critere du §6 qui tranche vraiment est satisfait** : ils publient leurs
@@ -10451,7 +10451,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 182. Australian Independent Glass — AIG (Pooraka, Adelaide) — `sales@independentglass.com.au` — ANGLAIS — premier contact
-### ⚠️ PREPARE LE 15/10 A 13h33 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 13h33 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Le mot **INDEPENDENT** est dans la raison sociale, et c est le meme signal que
 *Glenny Glass* et *Intraco UAE* au **§6** : une maison qui n appartient a aucun producteur float peut
@@ -10520,7 +10520,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 183. Monash Glass (Notting Hill, Melbourne) — `sales@monashglass.com` — ANGLAIS — premier contact
-### ⚠️ PREPARE LE 15/10 A 13h33 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 13h33 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** **Le critere du §6 qui tranche vraiment est satisfait** : ils publient leurs
 formats et leurs epaisseurs de stock, et ils annoncent **24 heures de delai sur le float**. Un delai
@@ -10589,7 +10589,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 184. Vidrios Tamayo (Itagui, Medellin) — `asistente@vidriostamayo.com` — ESPAGNOL — premier contact
-### ⚠️ PREPARE LE 15/10 A 13h52 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 13h52 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Itagui est la commune industrielle de l agglomeration de Medellin, et leur gamme
 porte **le miroir** — qui est le **seul** angle douanier colombien valable et notre reference la plus
@@ -10659,7 +10659,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 185. Neighbors Windows and Doors (Anchorage, Alaska) — `sales@neighborsak.com` — ANGLAIS — premier contact
-### ⚠️ PREPARE LE 15/10 A 14h08 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ PREPARE LE 15/10 A 14h08 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX, ET LE PROFIL EST PLUS FORT QU IL N EN A L AIR.** Le nom dit menuiserie. Mais leur
 boutique porte une page dont l adresse meme dit **glass-sheets-wholesale**, et elle publie **du clair
@@ -10737,7 +10737,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 186. Glass Products Hawaii Inc. (Wailuku, Maui) — `info@glassproductshawaii.com` — ANGLAIS — premier contact
-### PREPARE LE 15/10 A 14h36 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 14h36 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** **Le critere du §6 est satisfait par le bon cote de l atelier** : ils publient une
 page **IN-STOCK** distincte d une page **SPECIAL ORDER**. C est de l ENTREE, pas de la sortie. Et
@@ -10808,7 +10808,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 187. Central Glass Australie (Salisbury, Adelaide) — `reception@centralglass.com.au` — ANGLAIS — premier contact
-### PREPARE LE 15/10 A 14h36 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 14h36 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX, ET IL FAUT DIRE LA FAIBLESSE AVANT LA FORCE.** C est la **classe menuiserie-facade a
 3,6 pour cent**, la quatrieme des cinq : ils fabriquent des systemes de fenetres et ils posent.
@@ -10888,7 +10888,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 188. Cristal Sete Vidros Temperados (Apucarana, Parana) — `cristalsete@cristalsete.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 14h38 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 14h38 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** **Classe VERRIER PUR**, la meilleure des cinq a 12,8 pour cent. Trempeur certifie
 NBR 7199, sorti de la page *nossos associados* d **ADIVIPAR**, l association des **distribuidores e
@@ -10973,7 +10973,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 189. Vidrolar Comercial de Vidros (Curitiba, Parana) — `vidrolar@vidrolar.com` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 14h38 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 14h38 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX, ET LA PHRASE QUI QUALIFIE EST LA LEUR.** Sur leur page de contact :
 ***atendemos exclusivamente industria e empresas***. **Une maison qui refuse le detail travaille au
@@ -11057,7 +11057,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 190. New Bright Trading (East Tamaki, Auckland) — `info@newbright.co.nz` — ANGLAIS — premier contact
-### PREPARE LE 15/10 A 14h38 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 14h38 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX, ET LE SIGNAL EST ACQUIS SANS ETRE SUPPOSE** : ils annoncent **eux-memes importer du
 verre trempe** conforme a l AS/NZS 2208. Une maison qui importe du trempe aux normes **importe par
@@ -11139,7 +11139,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 191. Binswanger Glass (Memphis, Tennessee) — `info@binswangerglass.com` — ANGLAIS — premier contact
-### PREPARE LE 15/10 A 14h41 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 14h41 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX — C EST LE PLUS GROS COMPTE AMERICAIN OUVERT DE LA SEMAINE.** Societe de verre plat
 de service complet fondee en **1872**, reseau national de succursales sur une dizaine d Etats.
@@ -11230,7 +11230,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 192. Vidrios Mas Vidrios y Aluminios (Cartagene) — `info@vidriosmasvidrios.com` — ESPAGNOL — premier contact
-### PREPARE LE 15/10 A 14h42 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 14h42 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure. ⚠️ ET IL A REBONDI EN 5.1.2, NXDOMAIN sur la requete MX : le domaine n existe pas pour le courrier bien que le site reponde. L ENVOI NE COMPTE PAS, fiche au telephone.
 
 **POURQUOI EUX.** Maison familiale de 1994, **distribution au gros** a Cartagene sur deux sedes plus
 une a Monteria. **Cartagene est un port majeur**, et c est la ville voisine de Barranquilla, qui a
@@ -11308,7 +11308,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 193. US Glasstech Hub (Oklahoma City) — `usglasstech@gmail.com` — ANGLAIS — premier contact
-### PREPARE LE 15/10 A 14h42 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 14h42 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** **L Oklahoma n avait aucune fiche.** Ils se declarent grossiste verrier de l Etat,
 verre architectural, de securite, decoratif et miroir. **Classe NEGOCE.**
@@ -11385,7 +11385,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 194. Vidral Distribuidora (Jardim Sao Manoel, Sao Paulo) — `contato@vidraldistribuidora.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 14h43 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN. **⚠️ A ENVOYER SEUL, HORS VAGUE.**
+### PREPARE LE 15/10 A 14h43 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure. **⚠️ A ENVOYER SEUL, HORS VAGUE.** ⚠️ ET IL A REBONDI EN 5.1.2, NXDOMAIN sur la requete MX — ce que la fiche avait PREDIT, d ou l envoi seul et hors vague. L ENVOI NE COMPTE PAS, fiche au telephone.
 
 **POURQUOI EUX.** Nom releve sur **deux recherches independantes**, celle de Recife et celle de
 Salvador, ce qui indique une diffusion depassant sa region. **Classe NEGOCE annoncee** — et
@@ -11473,7 +11473,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 195. Vidreira de Viana (Zona Industrial de Viana, Luanda) — `vidreira.viana@hotmail.com` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 14h45 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 14h45 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX, ET CETTE FICHE ATTENDAIT DEPUIS LE 08/10.** Son metier n etait pas etabli : le mot
 **vidreira** designe en portugais aussi bien une verrerie de verre plat qu une fabrique de
@@ -11553,7 +11553,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 196. Temperpar — Distribuidora de Vidros (Boqueirao, Curitiba) — `contato@temperpar.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 15h58 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 15h58 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** **Leur nom dit DISTRIBUIDORA DE VIDROS**, donc la **classe NEGOCE**, deuxieme
 meilleure du tri du §6 — exactement celle que la methode des federations cherche. Et le **Parana
@@ -11636,7 +11636,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 197. Tempex Vidros (Pinhais, Parana) — `tempex@tempex.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 15h58 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 15h58 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Trempeur de Pinhais, membre d **ADIVIPAR**. **Classe VERRIER.** Adresse sur leur
 **propre page de contact**, domaine du site — **ce que la page membre d ADIVIPAR ne donnait pas**.
@@ -11708,7 +11708,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 198. Prisma Tempera (Pinhais, Parana) — `contato@prismatempera.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 15h58 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 15h58 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX, ET CE QU ON SAIT D EUX EST MINCE — LE TEXTE LE DIT PLUTOT QUE DE LE MASQUER.**
 Trempeur de Pinhais, **membre d ADIVIPAR**, l association des distribuidores e processadores du
@@ -11783,7 +11783,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 199. Sulglass — Industria e Comercio de Vidros (Hauer, Curitiba) — `contato@sulglass.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h13 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h13 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX, ET LE FAIT QUI DECIDE EST LE NOM DE LEUR ENSEIGNE.** Ils exploitent **A LOJA DO
 VIDRACEIRO**, la boutique du **vitrier**. **Vendre aux vitriers est la definition meme du grossiste
@@ -11861,7 +11861,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 200. Temperlandia — Tempera Vidrolandia (Rolandia, Parana) — `comercial@temperlandia.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h13 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h13 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX — C EST LA MEILLEURE CIBLE DU VIVIER ADIVIPAR.** Trempeur depuis 1999, et leur page
 entreprise annonce des livraisons assurees par **leur propre flotte**, donc une logistique integree
@@ -11938,7 +11938,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 201. Temperbras (Cambe, agglomeration de Londrina) — `temperbras@temperbras.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h13 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h13 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Trempeur de Cambe, dans l agglomeration de Londrina, actif au Parana et en Santa
 Catarina. **Classe VERRIER.**
@@ -12017,7 +12017,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 202. Mary Art Vidros Laminados (Guarapuava, Parana) — `vidros@maryart.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h15 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h15 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Feuilleteur de **verres et cristaux de securite** a Guarapuava. **Classe VERRIER
 PUR**, la meilleure du tri. Membre d ADIVIPAR.
@@ -12098,7 +12098,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 203. Pitanglass — Vidros de Seguranca (Pitanga, Parana) — `comercial@pitanglass.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h41 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h41 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX, ET C EST LE MEILLEUR PROFIL DU VIVIER ADIVIPAR.** Leur propre page les decrit
 vendant verre trempe, miroirs, accessoires et quincaillerie **AUX VITRIERS**. **Vendre aux vitriers
@@ -12174,7 +12174,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 204. World Glass (Arapongas, Parana) — `contato@worldglass.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h41 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h41 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Fondee en 1999, **trois debouches sur un meme four** : verre **bombe** pour le
 mobilier, trempe pour le batiment, et vitrage de **cabines de machines agricoles**. Trois marches
@@ -12251,7 +12251,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 205. Tempera Basalto — Basalto Vidros (Maringa, Parana) — `basaltovidros@hotmail.com` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h41 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h41 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Trempeur de Maringa, enseigne *Tempera Basalto*, deux unites. **Classe VERRIER.**
 
@@ -12328,7 +12328,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 206. V1 Vidros — Duarte Vidros Ltda (Londrina, Parana) — `marcelo@v1vidros.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h43 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h43 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Membre d ADIVIPAR, a Londrina. Raison sociale **Duarte Vidros Ltda**. Ville
 etablie au premier temps, elle etait *a preciser*.
@@ -12413,7 +12413,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 207. TTR Vidros (Tres Rios, Rio de Janeiro) — `comercial@ttrvidros.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h52 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h52 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX, ET LA FICHE A CHANGE DE CLASSE EN UNE HEURE.** Le repertoire ABRAVIDRO la donnait
 *beneficiadora et fabricante plutot que distributrice*, donc defavorable. **Le second temps dit
@@ -12493,7 +12493,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 208. Smart Glass Rio (Rio Bonito, Etat de Rio de Janeiro) — `contato@smglass.com.br` — PORTUGAIS — premier contact
-### PREPARE LE 15/10 A 16h52 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### PREPARE LE 15/10 A 16h52 — ENVOYE LE 15/10 sur accord expres de Kevin, mot pour mot ENVOIE TOUT. Voir la fiche du registre pour l identifiant et l heure.
 
 **POURQUOI EUX.** Ils se declarent **DISTRIBUIDORA** de verre et d accessoires. **Classe NEGOCE**,
 la deuxieme du tri, et l Etat de Rio met un port a portee.
