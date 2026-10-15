@@ -10214,3 +10214,203 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 179. El Mayorista de Santander S.A.S. (Bucaramanga) — `ventas@elmayoristadesantander.com` — ESPAGNOL — premier contact
+### ⚠️ PREPARE LE 15/10 A 13h25 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Maison familiale de plus de quarante ans qui **IMPORTE**, commercialise et
+distribue verre, miroirs et aluminium dans tout l orient colombien. **Classe NEGOCE**, et le mot
+*mayorista* est dans la raison sociale. Un importateur achete deja au conteneur : une origine de
+plus est une option pour lui, pas une rupture de contrat.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **L angle est le MIROIR et non le float**, et c est le **§6** qui l impose : la mesure colombienne
+  de 2025 vise le **miroir** chinois non encadre et **rien d equivalent n existe sur le float**.
+  Formulation prudente du §6 tenue a la lettre — on dit que la mesure **figure parmi les droits
+  publies en vigueur par le MinCIT**, ce qui est verifiable, **et on ne cite aucun chiffre**.
+- **Interdit du §6** : pas un mot sur l absence de production locale, **Vidrio Andino produit a
+  Soacha**. Et Espejos S.A.S. est un concurrent sur le miroir, jamais nomme.
+- **Regle Prodiesa** : ils ne fabriquent pas, ils distribuent — **toute la gamme leur est ouverte**.
+- Adresse lue sur **leur propre page**, domaine identique au site, **aucune exception du §5**.
+
+```
+Estimados senores,
+
+Esta es una oferta de suministro, no una solicitud de cotizacion. Si no es
+usted quien compra el vidrio, le agradeceria que la haga llegar a quien compra.
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia.
+
+Les escribo porque ustedes IMPORTAN. Esa palabra cambia todo: quien ya trae
+contenedor no necesita que le expliquen el modelo, solo necesita saber si hay
+un origen mas que valga la pena mirar.
+
+Y hay una razon concreta para mirarlo ahora, en el espejo en particular. La
+medida antidumping colombiana sobre el espejo sin enmarcar de origen chino
+figura entre los derechos vigentes publicados por el MinCIT. No es una oferta
+ni una promesa de nuestra parte, es un hecho aduanero, y cambia la comparacion
+entre origenes para esa referencia.
+
+Lo que embarcamos:
+
+- espejo sin cobre ni plomo, nuestra referencia mas diferenciada y la mas
+  adecuada para clima humedo y costa:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- float incoloro y extra claro: https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad:
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Las paginas estan en ingles, nuestro sitio existe solo en frances e ingles.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en jumbo
+de 3210 x 2550 mm o en medidas a pedido. Podemos establecer una oferta para la
+entrega en su puerto de destino, bajo reserva de validacion de nuestra parte.
+
+Para eso necesito cuatro cosas: que referencias y espesores manejan, sus
+medidas, su volumen y frecuencia de compra, y por que puerto entran hoy,
+Cartagena o Santa Marta.
+
+Y si estan bien servidos, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 180. Desert Glass & Mirror Trading L.L.C (Dubai) — `info@desertglassuae.com` — ANGLAIS — premier contact
+### ⚠️ PREPARE LE 15/10 A 13h25 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+### ⚠️ ET A ENVOYER SEUL, JAMAIS DANS UNE VAGUE — voir la fiche : l adresse vient d un annuaire et leur page publie une adresse de gabarit sur un autre domaine. Un rebond ne doit pas abimer une vague entiere.
+
+**POURQUOI EUX MALGRE UN MARCHE QUE LE §6 DECLARE FAIBLE.** Emirates Float Glass produit 600 t/jour
+et double sa capacite, donc **l argument de l absence de production locale est INTERDIT** et
+l avantage douanier est nul. **Ce qui reste, et qui vaut ici : Dubai est une place de REEXPORT.**
+Un negociant y achete plusieurs origines a la fois, donc une origine de plus l interesse **en tant
+qu origine**. Et le fait le confirme : leur fiche produit annonce du **float ultra clair Sisecam**,
+donc une origine **turque** — ils comparent deja des origines.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Pas un mot sur les droits de douane emiratis**, ni sur une absence de production locale.
+- **Sisecam n est pas nomme dans le message.** Le savoir sert a choisir l angle, pas a le dire :
+  apprendre a un client qu on connait son fournisseur est la faute du paragraphe STADIP du §5.
+- **Regle Prodiesa** : ils ont leur propre atelier, donc le **substrat** entre et le faconnage sort.
+- Aucun prix, aucun delai, la formule imposee presente.
+
+```
+Dear Sir or Madam,
+
+This is a supply offer, not a request for a quotation. If you are not the
+person who buys the glass, I would be grateful if you passed it on.
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France.
+
+I am writing to you because of what Dubai is rather than what it lacks. A
+trading house on a re-export market buys several origins at once and compares
+them, and that is the only reason a new supplier is worth five minutes of your
+time. I am offering one more origin, not a replacement for what works.
+
+What we ship, and for a house serving the furniture and interiors trade the
+first line is the one that matters:
+
+- copper and lead free mirror, our most differentiated reference and the one
+  that holds up in humid and coastal conditions:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- clear and extra clear float: https://noxemgroup.com/en/float-glass/
+- lacquered glass for furniture and interiors:
+  https://noxemgroup.com/en/lacquered-glass/
+
+Full containers, treated timber cases to ISPM-15, jumbo 3210 x 2550 mm or cut
+to your sizes. We can put together an offer for delivery to your destination
+port, subject to validation on our side.
+
+To do that I need four things: the references and thicknesses you move, your
+sizes, your volume and buying frequency, and whether the glass stays in the
+UAE or is re-exported, because that changes how we pack it.
+
+And if you are well served today, say so plainly and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 181. Karas and Karas Glass Co. (Boston Sud) — `nanderson@karasglass.com` — ANGLAIS — premier contact
+### ⚠️ PREPARE LE 15/10 A 13h25 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Maison de 1924, division de gros verre plat et miroir livrant le negoce dans tout
+le Nord-Est. **Le critere du §6 qui tranche vraiment est satisfait** : ils publient leurs
+**epaisseurs de stock** — float en 3/16 et 1/4 de pouce, float epais de 3/8 a 3/4, miroir de stock
+dont Starphire — **et ils vendent A LA CAISSE**. Une maison qui publie ses epaisseurs et vend a la
+caisse stocke de la feuille. Aucun facadier ne publie cela. **Classe NEGOCE.**
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Adresse NOMINATIVE retenue au titre de l exception du §5** : Nikki Anderson figure a l annuaire
+  de contacts de **leur propre site** sous la fonction **ACHATS** — fonction **verifiee ET
+  pertinente**, ce que le §5 exige. Le message ne presume rien d autre de la personne.
+- **Interdit du §6** : jamais l absence de production locale aux Etats-Unis, **Vitro produit et
+  Cardinal exploite sept sites float**. L angle est **douanier** et rien d autre.
+- **Ordres antidumping et compensateurs du 06/04/2026** nommes comme un fait douanier, **sans aucun
+  taux** — ni les 181,52 pour cent chinois ni les 17,3 a 102 malaisiens. Precaution de formulation
+  du §6 tenue : on ne dit pas que notre verre est bon marche, on dit que les deux origines les moins
+  cheres portent desormais des droits.
+- **Regle Prodiesa** : leur division contrat transforme, donc seul le **substrat** entre.
+
+```
+Dear Ms Anderson,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France. I am writing to you rather than to a general inbox
+because your own contacts page lists you on the purchasing side.
+
+I am writing to you rather than to a glazing firm because your wholesale
+division publishes its stock thicknesses and sells by the case. That is the
+difference between a house that buys sheet and a house that buys jobs, and
+only the first one has any use for a full container.
+
+Since 6 April 2026 the two cheapest origins on the US market carry antidumping
+and countervailing orders. That does not make our glass cheap, and I am not
+claiming it does. It changes the comparison between origins, and it is the
+reason a European source is worth a look now when it was not two years ago.
+
+What we would supply is substrate, not finished product:
+
+- clear and extra clear float: https://noxemgroup.com/en/float-glass/
+- copper and lead free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- low-E: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Full containers, treated timber cases to ISPM-15, jumbo 3210 x 2550 mm or cut
+to your stock sizes. We can put together an offer for delivery to your
+destination port, subject to validation on our side.
+
+For that I need four things: the references and thicknesses that move fastest
+for you, your stock sizes, your volume and buying frequency, and whether you
+clear through Boston or elsewhere.
+
+And if you are committed to your current supply, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
