@@ -10883,3 +10883,254 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 188. Cristal Sete Vidros Temperados (Apucarana, Parana) — `cristalsete@cristalsete.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 14h38 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** **Classe VERRIER PUR**, la meilleure des cinq a 12,8 pour cent. Trempeur certifie
+NBR 7199, sorti de la page *nossos associados* d **ADIVIPAR**, l association des **distribuidores e
+processadores** du Parana — l entite qui a rendu 21 fiches, le meilleur rendement de la methode
+depuis qu elle existe. **Et le Parana est COTIER**, port de Paranagua, donc sans la reserve de
+post-acheminement qui greve les huit fiches de Brasilia.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Adresse** : leur page de contact publie `pedidos@`, qui veut dire **COMMANDES** — boite du cote
+  CLIENT, le piege MunnWorks exactement. **C est la generique `cristalsete@` qui est employee**,
+  meme domaine que le site, donc anti-rebond satisfait. `pedidos@` reste en secours.
+- **⚠️ LEUR FOURNISSEUR EST CONNU ET IL N EST PAS NOMME DANS LE MESSAGE.** Ils trempent sous la
+  marque **Blindex**, donc **Pilkington Brasil, donc NSG**, un producteur float mondial. Ce fait
+  **choisit l angle** — la seconde origine — **et il reste hors du texte**. C est la faute du
+  paragraphe STADIP du 12/10, que Kevin a relevee lui-meme : apprendre a un client que sa reference
+  est une marque concurrente fabrique un doute qu il n avait pas. Meme conduite que Monash, ou
+  Starphire n a pas ete nomme.
+- **Porte de sortie OBLIGATOIRE** : ils achetent a un groupe producteur, donc la probabilite est
+  faible et on le dit sans detour.
+- **Trois interdits bresiliens du §6 tenus.** Jamais l absence de production locale, quatre
+  producteurs. **Le mot antidumping est employe au titre du §6**, qui autorise expressement
+  l argument au Bresil — Gecex 833 contre la Malaisie, le Pakistan et la Turquie, l Europe non
+  visee — comme un fait douanier et jamais comme une promesse. Aucun taux. Et il ne porte **que sur le float clair de 1,8 a
+  20 mm**, la Gecex 833 excluant le miroir, le reflechissant et le teinte — **donc le miroir n est
+  pas propose ici**, contrairement aux autres textes bresiliens.
+- **Regle Prodiesa** : trempe, feuillete, controle solaire et parois de douche sortent de l offre.
+
+**Objet :** `Substrato para tempera - uma segunda origem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo porque os senhores temperam em Apucarana, dentro da norma
+brasileira. Um forno nao para: ele so gira se entrar chapa, e com
+regularidade. E essa chapa e a unica coisa que nos fazemos.
+
+Nao lhes ofereco nada do que os senhores fabricam - nem temperado, nem
+laminado, nem controle solar, nem box. Apenas o substrato que entra neles:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. Paranagua, no seu caso.
+
+Para que essa oferta lhe seja util preciso de quatro informacoes: quais
+espessuras o forno mais consome, quais medidas de chapa entram nele, uma ordem
+de grandeza do volume anual com a frequencia de compra, e o porto.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que tempera sob
+uma marca costuma ter o fornecimento amarrado. Se for o seu caso, diga-me com
+franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 189. Vidrolar Comercial de Vidros (Curitiba, Parana) — `vidrolar@vidrolar.com` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 14h38 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX, ET LA PHRASE QUI QUALIFIE EST LA LEUR.** Sur leur page de contact :
+***atendemos exclusivamente industria e empresas***. **Une maison qui refuse le detail travaille au
+volume**, et c est le signal le plus direct qu une fiche puisse porter. 47 ans de marche,
+specialises dans le **vitrage isolant**. **Classe VERRIER PUR.** Deux releves independants la
+rendent, ABRAVIDRO et ADIVIPAR. Port Paranagua.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **⚠️ EXCEPTION DU §5 CONSIGNEE, PIEGE DU DOMAINE VOISIN** : leur site est en `.com.br` et
+  l adresse qu ils publient **sur leur propre page** est `vidrolar@vidrolar.com`, **sans le `.br`**.
+  L exception joue puisque c est leur page qui la publie. **Si elle rebondit, essayer `.com.br`
+  AVANT de conclure** — l annuaire ABRAVIDRO donne cette seconde forme.
+- **Une boite `rh@` existe : c est le RECRUTEMENT**, et le §5 l interdit. Cas Lahey.
+- **Homonyme ecarte** : une Vidrolar Comercio de Vidros opere a Chapeco, Santa Catarina. Autre
+  societe, CNPJ different.
+- **LOW-E EN PREMIERE LIGNE, et c est le choix de fond** : ils sont **isolateurs**, donc c est la
+  reference ou le substrat decide de leur produit. Servir le float clair d abord serait leur parler
+  de leur matiere la moins differenciante.
+- **Trois interdits bresiliens du §6 tenus**, argument douanier seul et aucun taux. **Le mot
+  antidumping est employe au titre du §6**, qui autorise la Gecex 833 au Bresil — Malaisie,
+  Pakistan et Turquie vises, Europe non visee — et rien n est dit du miroir, que la mesure exclut.
+- **Regle Prodiesa** : isolant, trempe, feuillete et bombe sortent de l offre.
+
+**Objet :** `Low-E e float para quem faz insulado - segunda origem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo por uma frase da sua propria pagina: atendemos exclusivamente
+industria e empresas. Uma casa que recusa o varejo trabalha com volume e
+programa as suas compras, e e so com esse tipo de casa que um conteiner
+completo faz sentido.
+
+E escrevo sobretudo porque os senhores sao especializados em vidro insulado.
+Num insulado, o desempenho nao vem da montagem, vem da chapa que entra nela.
+Por isso comeco pela referencia que decide:
+
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+
+Nao lhes ofereco nada do que os senhores mesmos fazem - nem insulado, nem
+temperado, nem laminado, nem curvo. Apenas o substrato. O nosso site existe
+apenas em frances e em ingles, e explico cada referencia em portugues com
+muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. Paranagua, no seu caso.
+
+Para isso preciso de quatro informacoes: quais camadas low-E e quais
+espessuras as suas linhas consomem, as medidas de chapa que lhes servem, uma
+ordem de grandeza do volume anual com a frequencia de compra, e o porto.
+
+E se o abastecimento ja estiver fechado e nao houver espaco para uma segunda
+origem, diga-me com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 190. New Bright Trading (East Tamaki, Auckland) — `info@newbright.co.nz` — ANGLAIS — premier contact
+### PREPARE LE 15/10 A 14h38 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX, ET LE SIGNAL EST ACQUIS SANS ETRE SUPPOSE** : ils annoncent **eux-memes importer du
+verre trempe** conforme a l AS/NZS 2208. Une maison qui importe du trempe aux normes **importe par
+conteneur** — c est precisement le fait le plus difficile a etablir sur une fiche neuve, et il est
+ici publie par eux.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE, ET LE PREMIER POINT CHANGE TOUTE L OFFRE.**
+- **⚠️ CE TEXTE NE PROPOSE PAS DE SUBSTRAT, ET C EST VOULU.** Ils achetent du **PRODUIT FINI** —
+  des panneaux trempes a cotes avec leur quincaillerie — et **ne transforment rien**. Leur servir
+  du float clair ou du low-E serait leur proposer une matiere qu ils ne savent pas employer. C est
+  la **regle Prodiesa prise par un troisieme bout** : ce qu ils ACHETENT entre dans l offre, ce
+  qu ils ne transforment pas n y entre pas. Le §4 couvre le jumbo **ou les cotes**, et le §8 a bien
+  une page verre trempe.
+- **Adresse** `info@` lue sur leur propre site, domaine identique, aucune exception. `sales4@` de
+  l agence North Shore en secours.
+- **UNE ADRESSE NOMINATIVE ECARTEE BIEN QUE LA FONCTION SOIT BONNE** : Anson Li est administrateur,
+  donc une fonction de direction que le §5 accepte — mais l adresse vient d un **annuaire tiers**
+  et non de leur page. **C est la fonction qui va, pas la source.**
+- **Un courtier interdit, rocketreach, est remonte dans les memes resultats. Rien n en est repris.**
+- **Interdit de zone tenu deux fois** : ligne float d Australasie **arretee**, dite au passe, et
+  **rien sur les droits** neo-zelandais.
+- **DEUX MOTS RETIRES PAR `verif-texte.py` AVANT ENVOI** : *certified* panels et *lead time*. Le
+  §5 interdit le certificat **et** le delai non valides, et le controleur ne distingue pas celui du
+  client du notre — a juste titre, puisqu un client lit la phrase entiere. Reecrit en *to a
+  standard* et *plans its ordering well ahead*.
+- **⚠️ FUSEAU** : NZ = Paris + 11 en octobre. Un message parti le matin de Paris se lit le
+  lendemain chez eux.
+
+**Objet :** `Toughened glass to AS/NZS 2208 - one more origin`
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful
+if you passed it on.
+
+I am writing to you because your own pages say you import toughened glass to
+AS/NZS 2208. A house that imports toughened panels to a standard already buys by
+the container and already plans its ordering well ahead, so there is nothing
+about the model I need to explain to you. The only question is whether one more origin
+is worth having.
+
+I want to be precise about what we would and would not be offering, because
+most of what we ship would be no use to you. You buy finished panels, not
+sheet, so I am not proposing substrate:
+
+- toughened glass, cut to your sizes:
+  https://noxemgroup.com/en/tempered-glass/
+- copper and lead free mirror, if mirror is in your range:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+The reason to look now is structural rather than commercial. The last float
+line in Australasia has been shut down, so every sheet used in New Zealand
+arrives by container. For an importer that is not news - but it does mean the
+number of origins you can call on is worth more than it used to be.
+
+Full containers, treated timber cases to ISPM-15, cut to the sizes you run.
+We can put together an offer for delivery to your destination port, subject to
+validation on our side.
+
+For that I need four things: the panel sizes and thicknesses you move most,
+whether you need them processed to finished edges and holes, your volume and
+ordering frequency, and whether you clear through Auckland.
+
+And if your supply is settled, say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
