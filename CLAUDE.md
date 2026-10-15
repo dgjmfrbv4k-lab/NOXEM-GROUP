@@ -1403,6 +1403,18 @@ précédents ont déjà pris. **Un annuaire sectoriel classe par APPARTENANCE AU
 Il contient donc précisément les maisons qui ne font pas d'effort de référencement, c'est-à-dire souvent
 les plus industrielles. G.James est le plus gros groupe verre-aluminium du Queensland et la recherche
 large ne l'avait jamais rendu.
+**⚠️⚠️ ET AVANT DE CHANGER DE SOURCE, VERIFIER QU'ON A BIEN INTERROGE CE QU'ON CROIT — DEFAUT DE LA
+MÉTHODE TROUVÉ LE 15/10 À 13h55 : UNE VILLE GROUPÉE AVEC UNE AUTRE DANS LA MÊME REQUÊTE N'EST PAS
+UNE VILLE TESTÉE.** Une requête « Medellín **et** Cali » a rendu sept noms, tous de Medellín, et j'ai
+inscrit Cali comme n'ayant rien rendu. **Interrogée seule, Cali rend NEUF noms dont AUCUN n'est au
+registre** — avec Barranquilla le meilleur rendement du jour, et Distrividrios Ltda qui annonce des
+services de **déballage de conteneurs**. **C'est la plus grosse ville qui capte les résultats**, et
+le moteur n'équilibre rien.
+**RÈGLE : une ville par requête.** Grouper fait économiser un appel et en fait perdre dix. Et
+**ne jamais inscrire « n'a rien rendu » pour une ville qui partageait sa requête** — c'est un faux
+négatif consigné, que `PRIORITES-RECHERCHE.md` propagera ensuite. Deux villes américaines étaient
+déjà dans ce cas le même jour, Columbus groupée avec Cleveland et Cincinnati, Anchorage groupée avec
+Honolulu.
 **CONDUITE : devant un marché que la recherche large déclare saturé, changer de SOURCE avant de conclure
 que le pays est fait.** Dans l'ordre : portail sectoriel du pays ou de la région, pièce de dossier
 antidumping publique, annuaire de fédération professionnelle. **Et la saturation ne se déclare qu'après

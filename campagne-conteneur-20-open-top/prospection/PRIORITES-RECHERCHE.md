@@ -961,3 +961,23 @@ qui sature, comme le 14/10 le montrait, c est le gisement lui-meme sur ce pays.
   europeenne.
 - **Les listes d importateurs des dossiers antidumping** : deja epuisees au Bresil (donnees Receita
   non publiees), aux Etats-Unis (noms *business-proprietary*), et le Mexique demande `dof.gob.mx`.
+
+
+### ⚠️ CORRECTION DE LA CARTE CI-DESSUS, A 13h55 — CALI N EST PAS VIDE, ELLE N AVAIT PAS ETE TESTEE
+La carte ecrite une heure plus tot rangeait Cali parmi les villes « qui n ont rien rendu », en
+precisant — correctement — qu une absence de resultat n est pas un verdict et qu elle restait a
+interroger **seule**. **Interrogee seule, elle rend NEUF noms et AUCUN n est au registre :**
+Distrividrios Ltda, Vidriplano, Covial, Vidriera del Valle, Vidrios San Marcos, Vidriovalle,
+Vidrios X Metro, Vidrios Cohen, Altitud. **C est, avec Barranquilla, le meilleur rendement du jour.**
+**LA CAUSE EST UNE FAUTE DE METHODE ET ELLE SE GENERALISE : la requete etait « Medellin ET Cali »,
+et Medellin a tout pris.** Une ville noyee dans une requete groupee n est pas une ville testee —
+c est la plus grosse qui capte les resultats. **Donc : une ville par requete, et ne jamais inscrire
+« n a rien rendu » pour une ville qui partageait sa requete avec une autre.**
+**Conséquence immediate : COLUMBUS et ANCHORAGE, portees plus haut comme n ayant rien rendu, sont
+dans exactement le meme cas** — toutes deux etaient groupees, l une avec Cleveland et Cincinnati,
+l autre avec Honolulu. Elles ne sont pas vides, elles ne sont pas testees.
+**Prise du lot : Distrividrios Ltda de Cali annonce des services logistiques de DEBALLAGE DE
+CONTENEURS**, en plus du transport specialise, du stockage et du verre national et importe. C est le
+niveau de preuve de Pacific Glass NZ et de ses *mixed containers* — la maison ne laisse pas deviner
+son unite d achat, elle la vend comme service. ⚠️ Trois autres *Distrividrios* sont deja au registre,
+l identite est a lever avant tout envoi.
