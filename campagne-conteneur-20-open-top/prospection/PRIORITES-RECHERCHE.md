@@ -638,3 +638,66 @@ J Marques, Mary Art Vidros, Art Vidros, DVB Vidros.
 - **Polividros Comercial** — **Instagram seulement**, aucun site propre trouvé. La règle anti-rebond
   du §5 ne pourra pas être satisfaite par ce canal : fiche téléphonique au mieux, à ne pas travailler
   tant qu'il reste des pistes avec domaine.
+
+
+---
+
+## BALAYAGE DU 15/10 A 10h15 — DECOMPOSITION REGIONALE DES ETATS-UNIS, ET ELLE DEMENT LA SATURATION UNE SIXIEME FOIS
+
+**Le constat du 13/10 disait les Etats-Unis satures : 15 noms sur 19 deja au registre sur une recherche
+large nationale. Mesure de ce matin, en nommant la REGION au lieu du pays : la Nouvelle-Angleterre
+n avait AUCUNE fiche, et la requete en a rendu quatre, toutes absentes.** Massachusetts, New Hampshire,
+Maine, Rhode Island et Vermont : zero fiche sur 67 fiches americaines. Le registre couvrait la Floride,
+le Texas, la Californie, Chicago, Seattle, Atlanta, New York et l Ohio, et pas une ligne au nord-est de
+Secaucus.
+
+**CE QUE LA METHODE AJOUTE A LA LECON DU 14/10, et c est une precision operationnelle :** le changement
+de SOURCE (portail sectoriel, piece de dossier, annuaire de federation) n est pas le seul levier. **Le
+changement de MAILLE en est un autre, et il est gratuit** — meme moteur, meme cout, on remplace le nom
+du pays par celui de la region ou de l Etat. Un moteur classe par popularite a l echelle de la requete :
+sur `United States` il rend les memes gros noms indefiniment, sur `New England` il rend les maisons
+regionales. **A appliquer avant de declarer un grand pays fait.**
+
+**RESTENT SANS AUCUNE FICHE, par ordre de taille de marche :** Phoenix et l Arizona hors Tucson,
+Salt Lake City, Portland (Oregon), Saint-Louis et Kansas City (Missouri), Indianapolis, Milwaukee,
+Oklahoma City et Tulsa, Albuquerque, Orlando et Tampa, Nashville, La Nouvelle-Orleans en propre.
+
+### Prise du jour, creee au registre
+
+- **Karas and Karas Glass Co.** (Boston Sud) — `A ENVOYER 2026-10-15`, en file et non autorisee.
+  Division de gros, maison de 1924, **float de STOCK en 3/16 et 1/4 de pouce, float epais jusqu a 3/4,
+  miroir de stock vendu A LA CAISSE** : le critere epaisseur-et-format du paragraphe 6 est satisfait en
+  toutes lettres, c est un stockiste et pas un facadier. **Et elle porte la meilleure adresse de toute
+  la campagne : une boite NOMINATIVE D ACHATS** publiee par leur propre annuaire de contacts, donc
+  fonction verifiee ET pertinente au sens du paragraphe 5. C est la deuxieme en plus de six cents
+  envois, apres le `inkoop@` de Vandaglas du 14/10.
+
+### Noms ecartes, verdict consigne pour qu ils ne soient pas recherches deux fois
+
+- **Distincomer** (Cartago, Costa Rica) — **verre creux, piege du paragraphe 5**. Le site de son groupe,
+  Grupo Vical, la decrit comme distribuant des **envases y cristaleria**, et VICESA est une verrerie
+  d emballage. Un memoire universitaire lui prete aussi du verre plat : **il ne tranche pas**, le
+  paragraphe 5 imposant de lire le metier sur ce que la societe dit d elle-meme et nulle part ailleurs.
+  Aucune fiche. A rouvrir seulement si une page a elle annonce de la feuille.
+- **Beehive Glass** (Salt Lake City) — atelier sur mesure, **vitrail et verre grave** compris : classe
+  verrier + pose, a **zero pour cent** sur onze fiches au tableau du 13/10. Aucune fiche.
+- **Hartung Glass Industries** (Wilsonville, Oregon, et Salt Lake City) — **meme groupe et meme domaine
+  `hartung-glass.com` que la fiche canadienne de Burnaby, donc UN SEUL compte.** Creer une fiche
+  americaine serait la faute Shibaam. C est la regle du domaine du paragraphe 6 qui l a vu, une fois de
+  plus, et la raison sociale ne disait rien.
+- **Importadora Crispieri** — le portail la donnait sans pays dans un releve d Amerique centrale : elle
+  est **chilienne**, a Iquique, et **deja au registre**. Piege de localisation du paragraphe 5, troisieme
+  cas apres Distribuidora Arquetipo et VIDAL.
+- **Mygrant Glass** (Portland) — verre **automobile**, hors gamme. **Bullseye et Wissmach** et leurs
+  revendeurs — **verre d art**, regle de la marque du paragraphe 5.
+- **HAR Trading** — **glassware**, piege du paragraphe 5.
+- Deja au registre et verifiees une par une : VIDSA, Aluminios del Sur, Central Glass and Aluminum
+  Supplies, Caribbean Glass Co Ltd, Hepburn s Glass Supplies, Glassesco Hardware, Jubilee Suppliers,
+  Odoll s Aluminum and Glass.
+
+### Candidats non encore qualifies, a reprendre au prochain tour
+
+Dixon Mirror and Glass Co (South Salt Lake), Valleywide Glass et Universal Glass (Phoenix), Stuart Glass
+(Brighton) et Prime Glass and Mirror (Watertown) au Massachusetts, National Glass Industries et Majestic
+Glass (Portland), Couva Glass Co et Flintstones (Caraibes), LFC Comercializadora Corp (pays non etabli).
+**Tous sortent d annuaires : ils IDENTIFIENT et ne QUALIFIENT pas, le second temps reste du leur.**
