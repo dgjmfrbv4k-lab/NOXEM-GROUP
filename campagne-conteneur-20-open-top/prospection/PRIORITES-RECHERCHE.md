@@ -1022,3 +1022,34 @@ grossiste existe et qu il est au registre.
 **et elle ne garantit rien** — Auckland et Tacoma montrent qu une ville peut etre reellement faite.
 **Ce qui reste a retester seul :** Winnipeg, Christchurch, Valparaiso, la Barbade, la Zone Libre de
 Colon, Charlotte étant desormais faite et Veracruz, Cartagene, Cali, Columbus et Anchorage traitees.
+
+## 14h33 — CHRISTCHURCH ET COLUMBUS MESURES A LA REGLE D UNE VILLE PAR REQUETE, ET LE RESULTAT EST INVERSE D UNE VILLE A L AUTRE
+
+**CHRISTCHURCH : ZERO FICHE NEUVE, ET C EST UN VRAI NEGATIF, PAS UN APPEL PERDU.** La ville restait
+sur la liste des non testees en requete seule. Interrogee seule, elle rend trois noms **et les trois
+sont deja au registre** — **Pacific Glass NZ** (Christchurch, adresse connue), **Woods Glass**
+(Auckland et Christchurch, adresse connue) et **Glasslines**, que le registre situe a **Cambridge
+dans le Waikato** et non a Christchurch. Le quatrieme nom rendu, Glass Exchange, est un poseur
+d aluminium et d UPVC, donc hors classe.
+**CE QUE CELA ETABLIT : la Nouvelle-Zelande est reellement couverte, et cette fois la conclusion est
+fondee** — la saturation n y est pas un artefact de requetes groupees, puisque la requete seule a ete
+faite et qu elle ne rend rien de neuf. **Christchurch sort de la liste des villes a tester.**
+
+**COLUMBUS : UN SEUL NOM NEUF, ET IL EST DANS LA PIRE CLASSE.** Les deux distributeurs reels de la
+ville — **Ohio Glass Distributor** et **Trio Insulated Glass** — etaient deja au registre depuis ce
+matin. Le seul nom absent est **Active Glass & Mirror** (6009 Radekin Rd), decrit comme fabricant et
+POSEUR de verre et de miroir avec livraison locale. C est la classe verrier plus pose, a zero pour
+cent sur onze fiches, donc **aucune fiche creee** et le tri metier du §6 s applique avant la
+geographie. Les deux autres noms, Columbus Glass & Mirror et Bailey s Glass & Mirror, sont des
+entreprises de service et de reparation.
+
+**LA LECON COMMUNE AUX DEUX, ET ELLE NUANCE LA REGLE DU 15/10 SANS LA CONTREDIRE :** une ville par
+requete fait remonter ce qu une requete groupee cachait, c est acquis et mesure. **Mais elle ne cree
+pas de prospects la ou le metier n y est pas** — a Columbus elle rend quatre noms dont trois de
+poseurs. **Le gain de la regle est de VOIR la ville, pas de la rendre productive**, et les deux
+filtres se cumulent : on interroge seule, puis on trie par metier.
+
+**UN GAIN LATERAL QUI VAUT MIEUX QUE LES DEUX VILLES :** la recherche de Columbus a confirme les
+**deux domaines** portes par la fiche Ohio Glass Distributor, `ohioglassdistributor.com` et
+`ohglass.com`. La question du §13 — une seule maison a deux adresses, ou deux societes — reste donc
+ouverte et se leve au second temps avant tout envoi.
