@@ -7503,3 +7503,64 @@ Sindividros-RS ne remontent sur aucune recherche) et la rubrique distributeurs d
 Registre a **1393 fiches**, dont **7 en REFUS**. `detecte-doublons.py`, `verif-argument-float.py`,
 `verif-texte.py` et le controle des 10 champs passent propres.
 **Rien n a ete envoye de la journee** : consigne de Kevin du 15/10 a 09h41.
+
+
+---
+
+## MESURE DE L ENTONNOIR DU 15/10 A 13h47 — LES CINQ CHIFFRES DU §3, ET UNE CONFIRMATION
+
+### Les cinq chiffres, distincts comme le §3 l impose
+| | |
+|---|---|
+| fiches identifiees au registre | **1 412** |
+| dont avec une adresse | **834** |
+| **contactees au moins une fois** | **683** |
+| dont relancees | 442 |
+| **dossiers AVAL** (reponse ou plus) | **21**, dont **7 refus** → **14 vivants** |
+
+Le detail des 14 : **6 demandes de prix** (Caribbean Glass Specialists, Unionglass, Avgousti,
+Industrial Mercantil San Simon, Rubex, PG Glass Namibia), **1 devis envoye** (United Glass),
+**2 en negociation** (Carlen Glass, Miro Est), **5 reponses** a traiter (Goldland, Duravidrio,
+Nepal Glass Udhyog, Safa Taiba, Security Glass Products).
+**En attente d un mot de Kevin :** 22 fiches en file d envoi avec leur texte, 196 fiches a appeler,
+36 en `A VALIDER AARON`.
+
+### ⚠️ ET LE TAUX GLOBAL DE 3,1 % EST TROMPEUR — IL FAUT LE DIRE AVANT DE LE CITER
+21 sur 683 fait 3,1 %, et ce chiffre **sous-estime** la realite pour une raison mecanique :
+**503 des 683 fiches ont ete contactees dans les quatre derniers jours et n ont pas eu le temps de
+repondre.** C est exactement l avertissement du §15 — ne pas conclure a l echec parce que les
+contacts du jour n ont pas encore repondu. **Sur la base MURE, 180 fiches dont le dernier contact
+remonte au 11/10 ou avant, le taux de dossiers vivants est de 5,0 %.**
+
+### LA MESURE PAR METIER DU 13/10 EST CONFIRMEE, ET PAR UNE DEFINITION DIFFERENTE
+C est le resultat qui compte, parce qu une mesure qui se confirme sur une base independante n est
+plus une impression. Le 13/10 comptait les **reponses, refus inclus**, sur 193 fiches mures ; celle
+d aujourd hui compte les **dossiers aval UTILES, refus exclus**, sur 180 fiches mures.
+
+| Classe de metier | 13/10 — reponses | 15/10 — aval utile |
+|---|---|---|
+| **Verrier pur** | **12,8 %** (5/39) | **8,7 %** (4/46) |
+| **Negoce et distribution** | **10,0 %** (5/50) | **7,1 %** (3/42) |
+| Aluminium, facade, pose | 3,6 % (2/55) | 4,0 % (2/50) |
+| Verrier **+** pose | 0 % (0/11) | **0 %** (0/10) |
+| Autre ou non qualifie | 2,6 % (1/38) | 0 % (0/32) |
+
+**L ORDRE TIENT : verrier pur devant negoce, et les deux a environ le DOUBLE de la classe
+aluminium.** Les niveaux absolus sont plus bas aujourd hui, et c est normal — les refus sont exclus,
+or le 13/10 notait deja que les deux seules reponses de la classe aluminium etaient **un refus et un
+mauvais classement**. **Le verrier + pose reste a ZERO sur les deux mesures**, avec dix et onze
+fiches, ce qui commence a faire un fait plutot qu un hasard de tirage.
+**⚠️ ET UN CAS REEL EST VENU S Y AJOUTER CE MATIN :** le refus d **ITA SEN ALU** au Senegal, qui
+ecrit en clair fabriquer des fenetres et des portes et ne pas acheter de verre en conteneur. C est
+le **deuxieme refus explicite** de la classe aluminium-menuiserie, et il dit la raison que le §6
+avance depuis le 13/10 — un menuisier achete son verre **coupe** et au coup par coup.
+**⚠️ Reserve de methode a tenir :** le classement du jour est **automatique**, par mots-cles du champ
+activite, donc approximatif. Celui du 13/10 etait fait a la main. Les deux convergent, ce qui est
+rassurant, mais aucun des deux n est une mesure de precision.
+
+### CE QUE CELA CHANGE POUR DEMAIN — RIEN, ET C EST LE POINT
+La conduite du §6 est deja la bonne : **trier par METIER avant de trier par pays**, travailler le
+verrier pur et le negoce, laisser l aluminium et la pose en dernier. Elle est desormais appuyee sur
+**deux mesures independantes** au lieu d une. Les creations du jour l ont suivie — Tristar Glass,
+Karas and Karas, Minneapolis Glass, AIG, Monash Glass et El Mayorista sont toutes des deux
+meilleures classes.
