@@ -9980,7 +9980,18 @@ complémentaires. **Le 15/10 à 09h35 de Paris, Graziella Virassamy répond et r
 plus élevés que ceux que nous bénéficions avec nos différents partenaires. De ce faite, nous
 donnerons pas suite à ces offres. »
 
-**LES QUATRE POINTS DICTÉS PAR KEVIN, ET LE TEXTE NE CONTIENT QUE CEUX-LÀ** — règle du 12/10 sur
+**⚠️ VERSION RACCOURCIE SUR SECOND ORDRE DE KEVIN — « sois très rapide avec elle ».** Le texte
+ne porte plus que **DEUX** points, et la version longue ci-dessous est remplacée : *« premièrement
+je vais vous envoyer les meilleurs tarifs d'accord, et deuxièmement à quel prix vous êtes prêt à
+acheter aujourd'hui pour qu'on soit compétitif »*. **La surprise, l'expérience passée et la
+relance sur son chiffre sont retirées** — elles appartenaient au premier ordre.
+**⚠️ UN SEUL MOT CHANGÉ, ET IL EST SIGNALÉ À KEVIN :** il a dicté « **LES** meilleurs tarifs »,
+j'écris « **NOS** meilleurs tarifs ». *Les* meilleurs tarifs est une affirmation de **marché** ;
+*nos* meilleurs tarifs engage **notre** effort. Kevin lui a déjà écrit « la plus compétitive du
+marché » le 14/10, donc il est à l'aise avec la forme forte — **s'il la veut, il le dit et je
+remets son mot.**
+
+**LES QUATRE POINTS DU PREMIER ORDRE, CONSERVÉS POUR MÉMOIRE** — règle du 12/10 sur
 le STADIP, où j'avais ajouté un paragraphe de ma propre initiative :
 1. je suis un peu **surpris** ·
 2. on a fait ça avec **beaucoup de clients**, on a **l'habitude** ·
@@ -10017,24 +10028,10 @@ ferme, il le dit et je le remets — c'est sa décision de prix, §11, pas la mi
 ```
 Bonjour Madame Virassamy,
 
-Merci pour votre retour, et merci de le dire aussi franchement.
+Je vais vous envoyer nos meilleurs tarifs, d'accord.
 
-Je vous avoue que je suis un peu surpris, et je vais vous dire pourquoi
-sans detour : la situation que vous me decrivez, nous la rencontrons
-souvent. Beaucoup de nos clients travaillaient deja avec des partenaires
-en place quand nous les avons approches, et il est frequent que nous
-soyons finalement repasses en dessous de ce qu'ils payaient.
-
-C'est pour cela que je ne referme pas le dossier sur ce seul echange.
-
-Une question, donc, et une seule : a quel prix seriez-vous prete a
-acheter aujourd'hui ? Autrement dit, quel niveau considerez-vous comme
-competitif sur vos references habituelles.
-
-Donnez-moi votre chiffre et je vous dis tout de suite, franchement, si
-nous pouvons y aller ou non. Vous ne perdez rien a me le dire, et si
-c'est hors de portee je vous le dirai aussi clairement que vous venez
-de le faire.
+Dites-moi simplement a quel prix vous seriez prete a acheter aujourd'hui,
+pour que nous soyons competitifs.
 
 Bien cordialement,
 
