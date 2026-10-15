@@ -1090,3 +1090,60 @@ Les deux noms montrealais deja presents, IGP et Vitrerie Leon Charlebois, confir
 avait ete travaillee, mais pas epuisee.
 **⚠️ ET UN CONCURRENT A NE PAS OUVRIR, releve dans le meme annuaire :** **VITRO FLAT GLASS CANADA**
 et **Oldcastle Glass** sont au 72 Avenue SE a Calgary. Vitro est un producteur float du §6.
+
+---
+
+## 15/10 a 18h21 — Bresil : trois villes faites, le PARA reste VIDE, et Tijuca est un verdict
+
+**TROIS VILLES INTERROGEES SEULES**, une par requete, regle du 15/10 a 13h55.
+
+| Ville | Fiches avant | Rendu | Suite |
+|---|---|---|---|
+| **Rio de Janeiro ville** | **zero** | 5 noms | 5 fiches, **2 deverrouillees** |
+| **Fortaleza** | zero | 3 noms | 2 fiches, 1 deja au registre |
+| **Joinville** | zero | 2 noms | 1 fiche, 1 fermee |
+| **Belem (Para)** | **zero** | **aucun atacadiste local** | voir ci-dessous |
+
+**⚠️ LE PARA N A AUCUNE FICHE ET LA RECHERCHE LARGE N EN DONNE PAS. C EST UN TROU DE MARCHE, PAS UNE
+ABSENCE DE SOCIETES.** La requete sur Belem n a rendu **que des maisons du Sud-Este et du Nordeste
+qui annoncent y livrer** — Intervidro depuis Recife, New Glass, Mercinglass, toutes trois deja au
+registre. **Aucun negociant base a Belem.**
+**POURQUOI LE PARA VAUT L EFFORT PLUS QUE LA PLUPART DES VILLES DU SUD, et c est un raisonnement de
+geographie industrielle :** les quatre lignes float bresiliennes sont a Jacarei, Cacapava, Barra
+Velha et Goiana, c est-a-dire toutes dans le Sud-Este, en Santa Catarina ou au Pernambouc. **Belem
+est a deux mille kilometres de la plus proche**, et le post-acheminement terrestre y est donc le
+plus lourd du pays. **C est le seul marche bresilien ou une arrivee par mer part avec un avantage
+de structure et non seulement un avantage douanier.** Ports : Belem et Vila do Conde.
+**CONDUITE : ne PAS reprendre la recherche large, elle est faite et elle a repondu.** Appliquer le
+changement de source du §6 — portail sectoriel, puis annuaire de federation. **Et le nom a tester
+en premier est SINDIVIDROS-PA ou l entite ABRAVIDRO du Nord si elle existe**, en lisant d abord son
+nom : *distribuidores* ou *comercio atacadista* → on y va, *vidracarias* → on n y va pas.
+
+**⚠️ UN FAUX PROSPECT A CONNAITRE, ET C EST UNE SIGNATURE NEUVE : LE PORTAIL DE CAPTATION.**
+`Vidro Novo` est sortie de cette recherche comme le seul nom nommant le Para. **Ce n est pas une
+societe de verre.** Quatre marqueurs, tous lisibles en un appel : une **page par mot-cle et par
+ville**, un contenu **encyclopedique** sur la flottaison du verre, **aucune coordonnee nulle part**,
+et surtout **ses pages nomment d autres societes comme fournisseurs**. Un fournisseur ne renvoie pas
+vers ses concurrents. **Fiche fermee en `ECARTE — HORS PERIMETRE`.** A ajouter aux pieges de domaine
+du §13 : le domaine parque, le domaine repris et le site d agence web trompent sur l **adresse** ;
+celui-ci trompe sur l **existence meme** de la societe.
+
+**⚠️ TIJUCA EST FAIT, ET C EST UN VERDICT DE CLASSE QUI VAUT POUR TROIS NOMS.** `Float Glass Tijuca`
+avait ete ouverte sur la foi de son nom et du mot *distribuidor autorizado*. **Son site dit
+vidracaria de detail avec show-room**, boxes de douche, miroirs, **stores** et charnieres de
+quincaillerie. Test Gomez Lotero : lire les **autres** lignes de la gamme. **Classe verrier + pose,
+ZERO pour cent sur onze fiches mures.** Fermee, **et le verdict est etendu a `Glass Tijuca` et
+`Bel Vidros`**, memes revendeuses de la meme marque dans le meme quartier, **deliberement non
+creees**. Ne pas rechercher Tijuca une seconde fois : ce qui reste a Rio est le gros, et il est a
+**Sao Cristovao** et a **Barros Filho**.
+
+**TROIS CORRECTIONS DE LOCALISATION DANS LA MEME JOURNEE — LECON ARQUETIPO A LA CHAINE.**
+Master Temper a son siege a **Araucaria (PR)** et non a Joinville. Glassfer est **Rua Rodolfo
+Portugal Milward 95** et non Estrada dos Bandeirantes, contre quatre annuaires. Vidrus est a
+**Contagem (MG)** et non a Belo Horizonte. **Dans les trois cas c est la page de la societe qui a
+tranche contre le resume de recherche.** Le fait compte : il decide du port cite dans le message.
+
+**VILLES BRESILIENNES ENCORE SANS AUCUNE FICHE, mesurees a zero appel** et classees par interet :
+**Belem (PA)** et **Sao Luis (MA)** — ports du Nord, les plus eloignes des quatre fours ;
+**Vitoria (ES)** — grand port, mais Serra est deja couverte a cote ; puis **Maceio**,
+**Joao Pessoa**, **Aracaju**, **Teresina**, **Florianopolis**, **Uberlandia**.

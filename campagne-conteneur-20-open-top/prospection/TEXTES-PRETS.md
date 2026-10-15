@@ -12747,3 +12747,89 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 211. Vidrus Distribuidora de Vidros Temperados (Contagem, Minas Gerais) — `contato@vidrus.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 18h20 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+**POURQUOI EUX.** Remontee en marge d une recherche sur Belem qui, elle, n a rien donne. **Classe
+verrier pur** : ils ont un **four de trempe** a eux, et un four ne tourne que si de la feuille
+entre. C est la meilleure classe du tri metier du §6, a 12,8 pour cent.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Mot distinctif grepe en `grep -in` avec lecture des lignes**, absent.
+- **Adresse sur leur page Localizacao**, domaine identique a celui du site, **aucune exception du
+  §5**. Une seconde boite **hotmail** figure sur leur accueil : **ecartee** au profit du domaine
+  propre, et gardee en second essai puisqu ils la publient eux-memes.
+- **Les boites `vendas`, RH et financeiro sont ecartees** — `vendas` est de la colonne **CLIENT** du
+  tableau du §13. Aucune boite d achats publiee, donc **le message demande la transmission**.
+- **⚠️ CORRECTION DE LOCALISATION, TROISIEME DU JOUR** apres Master Temper et Glassfer : **Contagem**
+  et non Belo Horizonte. Lecon Arquetipo. Le message ne nomme donc aucune ville a tort.
+- **REGLE PRODIESA** : le **trempe sort de l offre**, ils le fabriquent. **Le miroir y reste**, ils
+  le **distribuent** sans le fabriquer — meme raisonnement que CSPAX, et l inverse de Prodiesa.
+- **⚠️ LEUR PROPRE SITE NOMME LES QUATRE USINES FLOAT DU BRESIL.** C est une quatrieme confirmation
+  independante, **et elle vient d un prospect** : ce client **sait** ce qui se produit chez lui.
+  L interdit du §6 n est pas une precaution ici, c est la condition pour etre lu.
+- **Porte de sortie OBLIGATOIRE.**
+- **Trois interdits bresiliens tenus**, argument douanier **borne au float clair**, sans taux et sans
+  nommer la Chine. **Rien n est dit du post-acheminement depuis Santos**, qui est notre probleme.
+
+**Objet :** `Chapa de float e extra clear em conteiner completo para o forno`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Como escrevo a caixa geral, peco o
+favor de encaminhar a quem compra a chapa na casa.
+
+Escrevo-vos por uma coisa precisa das vossas paginas: os senhores nao apenas
+distribuem, os senhores TEMPERAM, e a propria pagina diz que a chapa comum
+para processamento entra em incolor, verde, cinza e bronze. Um forno so gira
+se entrar chapa, e e so da chapa que entra que eu trato.
+
+Nao lhes ofereco nada do que sai do vosso forno - nem temperado, nem as
+linhas processadas. Apenas o substrato que entra, e o espelho, que os
+senhores distribuem sem fabricar:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao sobre o float incolor, como fato aduaneiro e nada mais: as
+medidas antidumping brasileiras em vigor sobre o float incolor alcancam
+origens asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso
+muda a comparacao entre origens. Nao vale para espelho nem para vidro
+colorido, e nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte - Santos, no seu caso, ou o porto que os senhores usarem.
+
+Para avancar preciso de pouca coisa: quais espessuras de float e de extra
+clear o forno consome de fato, quais medidas de chapa lhes servem melhor, uma
+ordem de grandeza do volume anual com a frequencia de compra, e o porto.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
+fonte estabelecida raramente tem lugar para outra. Se for o seu caso, diga-me
+com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
