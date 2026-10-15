@@ -10143,3 +10143,74 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 178. Tristar Glass Inc. (Catoosa OK, Grand Prairie TX, Houston TX) — `sales@tristarglass.com` — ANGLAIS — premier contact
+### ⚠️ PREPARE LE 15/10 A 13h08 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Faconneur de verre architectural, trois usines et plus de 250 salaries, fonde en
+2005. **Classe VERRIER PUR**, la meilleure des cinq du paragraphe 6 a 12,8 pour cent. Adresse
+deverrouillee le jour meme en deux temps, publiee sur leur propre page de contact, donc la regle
+anti-rebond est satisfaite sans exception a noter.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Regle Prodiesa.** Ils fabriquent le trempe, le feuillete, l isolant, le spandrel et la
+  serigraphie : **ces references sortent de l offre**. Seul le substrat y entre — float clair et
+  extra-clair, low-E, miroir.
+- **Interdit du §6.** Pas un mot sur l absence de production locale : Vitro produit, et
+  Cardinal exploite sept sites float. L angle est **douanier** et rien d autre.
+- **Porte de sortie obligatoire.** Ils sont Vitro PPG Certified Fabricator **et** Guardian SunGuard
+  Select Fabricator : deux contrats de fabricant certifie sont en place, donc la probabilite est
+  faible et on le dit sans detour.
+- **Aucun taux cite.** Les ordres **antidumping** et compensateurs du 06/04/2026 sont etablis au **§6**
+  sur sources de premier rang. Ils sont nommes dans le message comme un fait douanier, jamais comme une
+  promesse de prix, et **aucun taux n y figure** — ni les 181,52 pour cent chinois ni les 17,3 a 102
+  malaisiens. La precaution de formulation du §6 est tenue mot pour mot : on ne dit pas que notre verre
+  est bon marche, on dit que les deux origines les moins cheres portent desormais des droits.
+- Mot distinctif **tristar** grepe avant travail, une seule fiche.
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. If you are not the person who buys
+substrate, I would be grateful if you passed this on.
+
+I am writing to you rather than to a glazing contractor because you
+fabricate. Three plants running tempering, lamination and insulating lines
+only run if sheet glass comes in, and that makes the origin of that sheet a
+question worth one email.
+
+Since 6 April 2026 the two cheapest origins on the US market carry
+antidumping and countervailing orders. That does not make our glass cheap,
+and I am not claiming it does. It changes the comparison, and it is the
+reason a European origin is worth a look now when it was not two years ago.
+
+What we would supply is substrate only, not finished product:
+
+- clear and extra clear float - https://noxemgroup.com/en/float-glass/
+- low-E - https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper and lead free mirror -
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Full containers, treated timber cases to ISPM-15, jumbo 3210 x 2550 mm or
+cut to your sizes.
+
+We can put together an offer for delivery to your destination port, subject
+to validation on our side. To do that I need four things: the references and
+thicknesses you buy, your sizes, your volume and buying frequency, and the
+port you clear through - Houston, or elsewhere for the Oklahoma plant.
+
+You are a certified fabricator for two producers, so you may well be locked
+in. If that is the case, say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
