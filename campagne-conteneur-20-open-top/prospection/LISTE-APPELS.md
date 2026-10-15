@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **15/10/2026** depuis le registre. **216 societes** portent un telephone et
+Regeneree le **15/10/2026** depuis le registre. **220 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 216 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 220 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 195 societes
+## Hors Europe — 199 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Liban | **Hijazi Glass Contracting** | `+961 5 480 106` | 08h00 - 16h00 | A APPELER | FICHE CREEE LE 08/10 A 17h15 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre, y compris sur le champ societe seul apres un faux positif de sous-chaine, absent. USINE A GHAZIEH PRES DE SAIDA, do... |
 | Maroc | **Delta Glass Maroc** | `0522 653 050` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source Telecontact, qui la place en tete de sa liste verre trempe a Casablanca, avec une gam... |
 | Mexique | **Cristales Inteligentes** | `+52 55 2799 0884` | 17h00 - 01h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 23h02 PAR RECHERCHE DE CATEGORIE, NON TESTEE. Grep cristales inteligentes fait avant creation, absente. Plus de cinquante ans en distribution ET fabrication de verre, miroir inclus, selon la source. ... |
+| Philippines | **Century Glass Center** | `+63 2 733 5947` | 03h00 - 11h00 | A APPELER | FICHE CREEE LE 15/10 A 10h34. Mot distinctif grepe avant creation, century glass, ABSENT. ⚠️ CRITERE EPAISSEUR ET FORMAT DU PARAGRAPHE 6 SATISFAIT, et c est le seul des six noms philippins du releve a le satisfaire : leur gamme... |
 | États-Unis | **Glass Enterprises Inc** | `+1 215 638 1007` | 15h00 - 23h00 | A APPELER | GROS : usine neuve de 180 000 pieds carres a Norwich, fabricant certifie float. Aucune adresse publiee. ENRICHIE LE 08/10. Profil confirme et fort : decrite comme fabricant certifie de produits float pour tous les grands verrie... |
 | États-Unis | **The Glenny Glass Company** | `+1 513 489 2233` | 15h00 - 23h00 | A APPELER | LOT AMERICAIN DU 14/10 A 11h25, PAR LE PORTAIL SECTORIEL glassonweb et non par une recherche large. La decouverte large etait mesuree saturee aux Etats-Unis le 13/10, 15 noms sur 19 deja au registre, et le portail a rendu quatr... |
 | États-Unis | **Crone Wholesale Glass** | `+1 818 894 3644` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 17h29 par une recherche de decouverte sur les distributeurs americains, le gisement des fiches a site sans adresse etant epuise aux Etats-Unis et au Canada. Grep crone fait avant creation, absent du ... |
@@ -115,6 +116,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | États-Unis | **Hourglass DFW** | `+1 469 677 5738` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 15/10 DANS LA MATINEE EN A APPELER, et c est un verdict motive et non une absence de recherche. Mot distinctif grepe avant creation, hourglass, ABSENT. Second temps FAIT sur leur propre domaine. ⚠️ LA SEULE ADRES... |
 | Algérie | **Technoglass** | `+213 555 62 47 74` | 10h00 - 18h00 · **dim-jeu** | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. Port Djendjen ou Bejaia. VERIFIE LE 08/10, TOUJOURS SANS ADRESSE EXPLOITABLE. Profil confirme et interessant : importation distribution et transformation du verre depuis 1987, SARL c... |
 | Colombie | **Importadora C&C SAS** | `+57 318 372 9621` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 13/10 A 08h24. Nom grepe avant creation, importadora c, absent : la seule correspondance etait Importadora Crispieri au Chili, autre societe. PIEGE DE DOMAINE A SIGNALER, et il est inverse de l habituel : leur do... |
+| États-Unis | **Flower City Glass** | `+1 585 546 8646` | 15h00 - 23h00 | A APPELER | MEILLEURE PRISE DU LOT NEW-YORKAIS, ET L ETAT DE NEW YORK HORS NEW YORK VILLE N AVAIT AUCUNE FICHE. CLASSE NEGOCE. Ce qui la qualifie est explicite sur leur propre page de gros : les clients reguliers peuvent OUVRIR UN COMPTE A... |
 | Bolivie | **Cristales Templados Bolivianos — Cristembo** | `+591 4 268042` | 15h00 - 23h00 | A APPELER | Trempeur donc acheteur de float. Pays enclave, transit via Arica. Aucune adresse publiee : a appeler. PREMIER TEMPS DE LA METHODE REUSSI LE 08/10, SECOND TEMPS NON FAIT FAUTE DE BUDGET DE RECHERCHE. Domaine propre etabli et con... |
 | Indonésie | **PT Matahari Silverindo** | `+62 24 761 7600` | 04h00 - 12h00 | A APPELER | ANGLE TECHNIQUE PRECIS : ils argentent, et l argenture ne pardonne pas — chaque defaut du substrat est rendu permanent et double par le reflet, donc la qualite float exigee est plus stricite qu en vitrerie. Et le miroir haut de... |
 | Irak | **Arturaya Glass Company** | `+964 751 667 6876` | 08h00 - 16h00 · **dim-jeu** | A APPELER | IMPORTATEUR : se fournit déjà à l'étranger. Adresse info arobase arturaya.com relevee le 07/10, domaine identique au site. IMPORTE DEJA DES CONTENEURS : ils annoncent eux-memes travailler avec des usines etrangeres. Envoi 07/10... |
@@ -131,6 +133,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Argentine | **Herramaq Argentina** | `+54 2323 473460` | 14h00 - 22h00 | A APPELER | Transformateur verre plat trempe 4 a 19 mm. Adresse email trouvee mais sur un domaine different du site : appeler pour confirmer. Port Buenos Aires. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverro... |
 | Australie | **Glass Wholesale** | `+61 3 9969 2009` | 00h00 - 08h00 | A APPELER | Formulaire de contact uniquement. DEVERROUILLEE LE 08/10 : info arobase glasswholesale.com.au figure dans leurs propres documents de demande de compte client, a cote du standard 03 9969 2009, domaine identique a celui du site. ... |
 | Australie | **Davis Glass** | `+61 3 9330 1200` | 00h00 - 08h00 | A APPELER | Formulaire de contact uniquement. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : leur page de contact ne propose qu un formulaire, et je ne devine pas une adresse. Reste un dossier telephonique, 03 9330 1200. Adresse 156 Melrose Dr... |
+| Brésil | **Cristal Sete** | `+55 43 3420 7100` | 14h00 - 22h00 | A QUALIFIER | Consignee comme NON CREEE dans la fiche Bahia Vidros le 14/10 parmi les TREMPEURS CERTIFIES du Parana, et elle figure sous la forme Cristalsete a l annuaire d ADIVIPAR. CLASSE VERRIER PUR, la meilleure du tri. Deux graphies pou... |
 | Brésil | **Brastemper Industria de Vidros Temperados** | `+55 31 3458 9126` | 14h00 - 22h00 | A APPELER | FICHE TELEPHONIQUE D EMBLEE, ET C EST UN VERDICT ET NON UNE ABSENCE DE RECHERCHE. Second temps fait sur leur propre domaine : le site publie TROIS NUMEROS, 31 3458-9126, 31 98467-8391 et 31 3458-9366, et AUCUNE adresse e-mail n... |
 | Brésil | **Solida Vidros — Solida Industria Distribuicao e Comercio de Vidros Ltda** | `+55 61 3021 1493` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 14/10 A 18h40, EN DOSSIER TELEPHONIQUE. Mot distinctif grepe avant creation, solida, deux correspondances sans rapport, Industrias ConSOLIDAdas au Salvador et Avery Glass aux Etats-Unis. Absente du registre. ORIG... |
 | Brésil | **LM Vidros** | `+55 67 3303 2400` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 13/10 A 08h24. Nom grepe avant creation sous les deux formes, lm vid et lmvidros, pour ne pas repeter la faute Alphaglass du paragraphe 5 ou une concatenation masquait la forme separee. Absent. AUCUNE ADRESSE RET... |
@@ -159,6 +162,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | États-Unis | **Gordon's Glass and Mirror** | `+1 904 388 5555` | 15h00 - 23h00 | A APPELER | Adresse citee sur un domaine different du site : ne pas deviner, appeler. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensemble des fiches verrouillees de la journee,... |
 | États-Unis | **Quality Glass and Mirror** | `+1 402 339 3737` | 15h00 - 23h00 | A APPELER | Interlocuteur verifie : Katrina Hahn, representante Wholesale Manufacturing Distribution. Aucune adresse publiee. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensembl... |
 | Birmanie | **Central Aluminium** | `+95 973 123 473` | 04h30 - 12h30 | A APPELER | Entreprise de decoration et facade active depuis 1996. Aucune adresse email publiee : a rappeler. Port Rangoun. Alu, verre, composite, inox et plafonds a Yangon, 11 a 50 salaries. Aucune adresse email publiee hors bases payante... |
+| Brésil | **Vidrolar Comercial de Vidros** | `+55 41 3014 2200` | 14h00 - 22h00 | A QUALIFIER | A REPRENDRE EN PREMIER DU LOT, et ce n est pas mon jugement : elle etait deja consignee comme NON CREEE dans les fiches Linde Vidros et Bahia Vidros le 14/10, avec la mention specialisee en verre plat. Deux releves independants... |
 | Brésil | **Aluglass Vidros** | `+55 32 3512-5951` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
 | Mexique | **NAVISA** | `+52 222 123 1904` | 17h00 - 01h00 | A QUALIFIER | FICHE CREEE LE 14/10 A 18h22 ET NON ENVOYEE. Mot distinctif grepe avant creation, navisa, absent du registre. ADRESSES DISPONIBLES ET DELIBEREMENT NON PORTEES AU CHAMP, et c est le critere des epaisseurs qui tranche, pas un oub... |
 | Nicaragua | **Vidrio Centro S.A.** | `+505 2231 7204` | 17h00 - 01h00 | A APPELER | IMPORTATEUR DECLARE, plus de 25 ans sur le marche nicaraguayen. WhatsApp +505 8402 6128. Adresse email masquee en ligne : appeler ou WhatsApp. Port Corinto. Plus de 25 ans a Managua. Facades portes fenetres et miroirs en alu et... |
