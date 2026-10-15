@@ -702,6 +702,26 @@ lui attribue une table de droits d'importation la cite en réalité comme la par
    fédération se choisit sur le MÉTIER QU'ELLE SYNDIQUE, pas sur le fait qu'elle publie ses membres.** Le nom
    de l'entité le dit souvent : un syndicat du **commerce atacadista** (Sincavesp) ou une association de
    **distribuidores** vise nos deux meilleures classes ; une association de **vidraçarias** vise la pire.
+   **⚠️⚠️ LE COMPTE COMPLET, FAIT LE 15/10 SUR SEPT DES TREIZE : DEUX PRODUISENT, CINQ NON — ET LES DEUX
+   RAISONS D'ÉCHEC SONT DIFFÉRENTES, CE QUI EST PRÉCISÉMENT CE QU'IL FAUT SAVOIR AVANT DE DÉPENSER UN APPEL.**
+   | Entité | Publie ses membres ? | Métier syndiqué | Rendement |
+   |---|---|---|---|
+   | **ADIVIPAR** (Paraná) | **oui, ~27 noms** | **distribuidores e processadores** | **21 fiches** |
+   | **ABRAVID** (District fédéral) | **oui, 14 noms** | vidraçarias, mêlé | **8 fiches** |
+   | ASCEVI (Santa Catarina) | oui | **vidraçarias e esquadrias** | 0 — mauvaise classe |
+   | ADEVIBASE (Bahia-Sergipe) | non | formations pour **vidraceiros** | 0 — les deux |
+   | SINCAVESP (São Paulo) | **non** | comércio atacadista | 0 — pas de liste |
+   | SINCAVIDRO (Rio) | **non** | comércio atacadista | 0 — pas de liste |
+   | SINBEVIDROS (São Paulo) | **logos seulement** | beneficiadores | 0 — pas de noms |
+   **DEUX CONDITIONS, ET IL FAUT LES DEUX : la bonne classe ET une liste nominative.** Les trois syndicats
+   du *comércio atacadista* — les mieux ciblés sur le papier — ne publient aucun nom ; les deux associations
+   qui publient tout sont des associations de **vidraçarias**, sauf ADIVIPAR qui réunit les deux qualités et
+   qui est, à elle seule, le meilleur rendement de la méthode depuis qu'elle existe.
+   **ET LA CONSÉQUENCE POUR LA SUITE EST ÉCONOMIQUE : on ne teste plus une fédération sans avoir lu son NOM
+   et cherché sa page membres — les deux coûtent zéro appel.** Un nom qui dit *distribuidores* ou
+   *processadores* vaut le coup ; un nom qui dit *vidraçarias* ne le vaut pas ; et un syndicat (*sindicato*)
+   publie rarement ses affiliés là où une association (*associação*) le fait souvent. Restent à tester, et
+   seulement si le nom passe ce filtre : Amvid (Minas Gerais), Avigo (Goiás), Sindividros-RS.
    **⚠️ Et le cas Sincavesp ajoute la nuance inverse, qui est agaçante : la mieux ciblée des treize —
    *Sindicato do Comércio Atacadista* — est précisément celle qui NE PUBLIE PAS ses associés.** Il faudrait les
    lui demander. **Donc on choisit sur le métier, et on paie l'appel seulement si la page membre existe :
