@@ -7418,3 +7418,42 @@ argument float zero a corriger, zero fiche en `A APPELER` sans telephone, contro
 hors le texte 152 dicte par Kevin. Le controle avant-vol a refuse une premiere version du texte
 Torstenson pour le seul mot *price*, corrigee avant envoi.
 
+
+## Jeudi 15/10, matinee — 10h36
+
+**Registre a 1342 fiches.** Aucun envoi : la consigne de Kevin du 15/10 a 09h41 supprime l exception, plus
+rien ne part sans son accord expres message par message, et un statut `A ENVOYER` est desormais une file
+d attente et non une autorisation.
+
+**MIRO EST — URGENT, ECHEANCE 14h00 DE PARIS.** La cliente a refuse sur le prix a 09h35. Kevin a repondu
+lui-meme a 09h47 et a 09h58, en promettant DEUX FOIS de meilleurs tarifs dans la journee. Miro Est ferme a
+16h heure de La Reunion, soit 14h de Paris. Il manque le prix, qui est une decision du paragraphe 11.
+Porte en tete de `DECISIONS-AARON.md`.
+
+**Prospection : 42 fiches creees, 4 travaillees jusqu a l adresse ou au verdict.**
+- **Parana par ADIVIPAR, 21 fiches.** La federation qu il fallait choisir, et la regle ecrite le matin le
+  disait : on choisit sur le METIER SYNDIQUE. Vidrolar et Cristal Sete deverrouillees dans la foulee.
+- **District federal bresilien par ABRAVID, 8 fiches.**
+- **Etats-Unis, 11 fiches** par decomposition regionale — Nouvelle-Angleterre, Texas, Etat de New York,
+  Floride centrale. Karas and Karas porte une boite NOMINATIVE D ACHATS, la deuxieme de la campagne.
+  Flower City Glass passee en A APPELER sur un verdict negatif solide.
+- **Philippines, Mexique, Caraibes, 4 fiches.**
+
+**Trois mesures portees au mandat.**
+1. **La saturation americaine etait une saturation de MAILLE et non de marche.** Quatre refutations en une
+   matinee : 4 absents sur 4 en Nouvelle-Angleterre, 9 sur 9 a Phoenix Salt Lake City et Portland, 10 sur 10
+   au Midwest, 16 sur 16 au Texas, 5 sur 6 dans l Etat de New York. Contre 15 sur 19 DEJA PRESENTS au releve
+   national du 13/10.
+2. **Sept federations bresiliennes comptees, deux produisent.** Il faut LES DEUX conditions, la bonne classe
+   et une liste nominative. Les trois syndicats du comercio atacadista, les mieux cibles sur le papier, ne
+   publient aucun nom.
+3. **La signature est un TEST D AUTEUR.** L API n ajoute jamais la signature, le client web toujours : dans
+   la boite Workspace je distingue desormais les envois de Kevin des miens sans avoir a le demander.
+
+**Corrections consignees.** Six fiches affirmaient que TEMPERMED n existait pas : ADIVIPAR le liste a cote de
+TEMPER LINE, l hypothese de la faute de lecture tombe. Le texte 175 etait marque PAS ENVOYE alors qu il etait
+parti.
+
+**Concurrents ajoutes au paragraphe 6 :** Cardinal Glass Industries et TQMP Glass Manufacturing Corp.
+**Courtier ajoute au paragraphe 5 :** importyeti.com, arrive par une RECOMMANDATION de methode et non par un
+resultat de recherche.
