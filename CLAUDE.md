@@ -2585,6 +2585,25 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   **fournisseurs** ou du côté des **clients** ? `inkoop@` chez Vandaglas voisine avec
   `crediteuren@`, les comptes **fournisseurs** — c'est le bon côté, et c'est ce voisinage qui le
   prouve plutôt que le mot seul.
+  **⚠️⚠️ ET LE 15/10 À 13h41 DONNE LA LISTE, APRÈS CINQ CAS — LE TEST EST BON MAIS IL SE REFAIT
+  À CHAQUE FOIS, ALORS QUE LES NOMS DE BOÎTES SE RÉPÈTENT.** Cinq fiches ont buté dessus :
+  **MunnWorks** (`openorders@`), **Brocanelli** (`presupuestos@`), **Maryland Glass** (`quotes@`),
+  **Trulite** (`customerservice<ville>@`, une par succursale) et **Alugama**
+  (`experienciacliente.tiendas@`). Dans les cinq cas l'adresse était publiée par la société, donc le
+  §5 était satisfait **à la lettre** — et dans les cinq elle mène au mauvais bureau.
+  | Côté **ACHETEUR** — on écrit | Côté **CLIENT** — on n'écrit pas |
+  |---|---|
+  | `inkoop`, `einkauf`, `beschaffung`, `purchasing`, `procurement`, `compras`, `achats`, `approvisionnement`, `acquisti` | `customerservice`, `customercare`, `experienciacliente`, `atencionalcliente`, `openorders`, `pedidos`, `encomendas`, `orders`, `quotes`, `presupuestos`, `orcamento`, `devis`, `ventas`, `vendas`, `sales` |
+  **LE PIÈGE EST QUE LA COLONNE DE DROITE A L'AIR COMMERCIALE ET DONC PERTINENTE**, et c'est
+  exactement pourquoi on s'y trompe : `quotes@` et `presupuestos@` sonnent comme l'endroit où l'on
+  parle prix, alors que ce sont les boîtes où **leurs** clients demandent **leurs** prix. Un message
+  de fournisseur y arrive chez un vendeur, qui n'achète rien.
+  **CE QUI RESTE VRAI ET QUI PRIME SUR LA LISTE : le voisinage décide.** `ventas@` est de la mauvaise
+  colonne en principe, et c'est pourtant la **seule** boîte d'El Mayorista de Santander, maison qui se
+  déclare importatrice — on la prend, faute de mieux, en le notant. **La liste dit où regarder
+  d'abord, elle ne dispense pas de lire la page.** Et quand la seule boîte publiée est de la colonne
+  de droite, on l'emploie **en sachant** que le premier paragraphe devra demander la transmission —
+  ce que le §9 impose déjà.
   **Et le premier temps rend parfois mieux qu'une adresse : la bonne identité.** La fiche
   « Importadora de Vidrios y Espejos Milagros » a fait remonter une société voisine, Imporvidrios
   SRL, qui porte **le même téléphone et le même secteur** — très probablement la même maison sous
