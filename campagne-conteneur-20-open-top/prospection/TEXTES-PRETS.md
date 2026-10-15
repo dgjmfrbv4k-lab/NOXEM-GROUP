@@ -10616,3 +10616,79 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 185. Neighbors Windows and Doors (Anchorage, Alaska) — `sales@neighborsak.com` — ANGLAIS — premier contact
+### ⚠️ PREPARE LE 15/10 A 14h08 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX, ET LE PROFIL EST PLUS FORT QU IL N EN A L AIR.** Le nom dit menuiserie. Mais leur
+boutique porte une page dont l adresse meme dit **glass-sheets-wholesale**, et elle publie **du clair
+en 1/8, 3/16 et 1/4 de pouce en FEUILLES DE 72 x 96**, plus du feuillete. **Des epaisseurs AVEC un
+format de feuille, c est le cote ENTREE au sens du critere du §6** — et le 72 x 96 pouces est la
+feuille de stock nord-americaine standard, soit 1829 x 2438 mm. Ils annoncent l **enlevement
+immediat**, ce qui n est possible que si la feuille est deja la.
+
+**ET L ALASKA EST LE MEME CAS QUE HAWAI** : aucune production locale, aucun approvisionnement
+routier court, **tout arrive par la mer**. Un tenant de stock y est un acheteur de conteneur par
+construction.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Interdit du §6** : jamais l absence de production locale **aux Etats-Unis** — Vitro produit et
+  Cardinal exploite sept sites float. Ce qu on dit de l Alaska est que **l Etat** n en a pas et que
+  tout y arrive par bateau, ce qui est autre chose et ce qui est vrai.
+- **Ordres du 06/04/2026** nommes comme un fait douanier, **sans aucun taux**.
+- **Regle Prodiesa** : ils assemblent des fenetres, donc le produit fini sort de l offre, **seul le
+  substrat y entre**.
+- Adresse sur **leur propre page de verre plat**, qui invite expressement a y ecrire pour les
+  compositions hors catalogue — **bonne boite, bon cote**. Aucune exception du §5.
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France. Your flat glass page invites enquiries to this
+address for sizes and makeups outside the online catalogue, which is why I am
+writing here.
+
+I am writing to you rather than to a glazing firm because of what that page
+shows: you list 1/8, 3/16 and 1/4 inch clear in 72 x 96 sheets and offer
+immediate pick up. Neither is possible unless the sheet is already in your
+building, and a house that warehouses sheet in Alaska is buying it by sea
+whatever else it does.
+
+That is the whole of my point. Every sheet in the state arrives by water, so
+the question is not local or imported but how many origins you can call on -
+and since 6 April 2026 the two cheapest origins into the US carry antidumping
+and countervailing orders. That does not make our glass cheap, and I am not
+claiming it does. It changes the comparison.
+
+What we would supply is substrate, not finished windows:
+
+- clear and extra clear float: https://noxemgroup.com/en/float-glass/
+- low-E, which matters more in your climate than in most:
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper and lead free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Full containers, treated timber cases to ISPM-15, jumbo 3210 x 2550 mm or cut
+to your stock sizes - including the 72 x 96 you already run. We can put
+together an offer for delivery to your destination port, subject to validation
+on our side.
+
+For that I need four things: which thicknesses turn over fastest, your volume
+and buying frequency, whether you clear through Anchorage or through Tacoma
+and barge north, and whether you would want mirror in the same container.
+
+And if you are committed to your current supply, say so plainly and I will not
+write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
