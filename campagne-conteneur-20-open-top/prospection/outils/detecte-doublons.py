@@ -88,6 +88,14 @@ def national(t):
 # rendait `moov.mg`, qui est l operateur malgache, et rapprochait C.I.C de
 # Socavitre, deux societes sans rapport. A completer quand un cas se presente,
 # et toujours apres avoir LU le groupe rendu plutot qu en le supposant.
+#
+# AJOUT DU 15/10 : sercomtel.com.br, fournisseur d acces de Londrina au Parana.
+# Il est remonte sur Jet Vidros, dont l adresse d annuaire est projvidros@sercomtel
+# — une boite de FAI et non le domaine de la societe. Aucune fiche du registre ne
+# porte ce domaine aujourd hui, verifie par grep, donc l ajout ne change AUCUN
+# groupe rendu : il est PREVENTIF. C est la seule entree de cette liste posee avant
+# le faux positif plutot qu apres, et c est voulu — le paragraphe 12 dit de reparer
+# le signal des qu une note voit ce que le code ne voit pas, et la note l a vu ici.
 MUTUALISES = set("""
 gmail.com googlemail.com hotmail.com hotmail.fr hotmail.es hotmail.co.uk hotmail.it
 yahoo.com yahoo.fr yahoo.co.in yahoo.es yahoo.com.br outlook.com outlook.fr outlook.es
@@ -96,6 +104,7 @@ orange.fr wanadoo.fr free.fr sfr.fr laposte.net numericable.fr bbox.fr
 qq.com 163.com 126.com sina.com rediffmail.com mail.ru yandex.ru
 terra.com.br uol.com.br bol.com.br ig.com.br
 moov.mg mail.pf canl.nc offratel.nc orange.mu intnet.mu
+sercomtel.com.br
 """.split())
 
 

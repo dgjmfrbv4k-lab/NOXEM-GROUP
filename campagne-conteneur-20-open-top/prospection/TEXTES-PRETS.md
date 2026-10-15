@@ -12323,3 +12323,88 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 206. V1 Vidros — Duarte Vidros Ltda (Londrina, Parana) — `marcelo@v1vidros.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 16h43 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Membre d ADIVIPAR, a Londrina. Raison sociale **Duarte Vidros Ltda**. Ville
+etablie au premier temps, elle etait *a preciser*.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE, ET L ARBITRAGE D ADRESSE EST LIMITE — IL FAUT LE DIRE.**
+- **⚠️ L ADRESSE EST NOMINATIVE ET ELLE EST POURTANT RETENUE.** `marcelo@v1vidros.com.br` est
+  publiee **sur leur propre site**, sur leur propre domaine, et **c est la seule qu ils publient**.
+  La source est donc parfaite — **l inverse exact du cas New Bright**, ou la fonction allait et la
+  source non. **Mais la FONCTION n est pas donnee**, et le §5 n autorise a **nommer** quelqu un que
+  si elle est verifiee ET pertinente aux achats.
+- **CONDITION STRICTE, ET ELLE EST TENUE DANS LE TEXTE** : le message ouvre sur *Prezados
+  senhores*, **ne nomme pas Marcelo**, ne lui prete **aucune fonction**, et demande la transmission
+  a qui achete. **Employer la boite n est pas nommer la personne.** C est le precedent El Mayorista,
+  ou `ventas@` a ete pris faute de mieux en le notant.
+- **Deux homonymes ecartes** rendus par la meme recherche : *Parana Vidros* a Paranavai et
+  *Vidracaria Parana* a Sorocaba, deux autres societes.
+- **⚠️ ET CE QU ON NE SAIT PAS EST DIT** : leur metier exact n est pas etabli au-dela de
+  l appartenance a l association des distributeurs et processeurs. Le message **demande** plutot
+  que de supposer, comme pour Prisma Tempera.
+- **Trois interdits bresiliens du §6 tenus**, **antidumping employe au titre du §6**, aucun taux,
+  rien sur le miroir ni le teinte.
+
+**Objet :** `Chapa em conteiner completo - escrevo a partir da lista da ADIVIPAR`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Digo primeiro como cheguei ate voces, porque e mais honesto do que fingir que
+conheco a casa: encontrei-vos na lista de associados da ADIVIPAR, a associacao
+dos distribuidores e processadores de vidros do Parana. Sei portanto que estao
+em Londrina e que trabalham vidro plano, e nao muito mais do que isso.
+
+O que trago e simples e nao depende do que ainda nao sei. Somos uma origem
+europeia a mais, e embarcamos chapa:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. Paranagua, no seu caso.
+
+E comeco pela pergunta que decide o resto: os senhores mantem chapa em
+estoque, e em quais espessuras? Se compram ja cortado conforme o pedido, um
+conteiner completo nao lhes serve e prefiro saber agora. Se mantem estoque,
+preciso tambem das medidas que lhes convem, de uma ordem de grandeza do volume
+anual com a frequencia, e do porto.
+
+E se o abastecimento atual ja os cobre, diga-me com franqueza, que nao
+insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
