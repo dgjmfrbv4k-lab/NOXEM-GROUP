@@ -266,6 +266,13 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   recherche d'importateur. **C'était l'unique résultat au monde pour le nom cherché**, ce qui
   illustre le coût réel de la règle : sur cette fiche-là, s'interdire le courtier revient à ne rien
   savoir du tout.
+  **UN DE PLUS, LE 15/10, ET CELUI-LÀ N'EST PAS REMONTÉ DANS LES RÉSULTATS MAIS DANS UNE SUGGESTION DE
+  MÉTHODE — `importyeti.com`**, proposé comme « prochaine étape » pour trouver des importateurs de float
+  américains. Il vend des relevés de connaissements par société, donc même nature que Volza, Panjiva et
+  importinfo, donc **même interdit**, et à mettre dans `blocked_domains` d'emblée. **Ce qui est neuf est le
+  canal : un courtier peut arriver par une RECOMMANDATION et non par un résultat de recherche.** Un nom
+  suggéré n'est pas plus permis qu'un nom cliqué — c'est la nature du service qui décide, comme la règle le
+  dit depuis le 08/10.
   **ET DEUX DE PLUS LE 14/10 À 17h46, SUR UNE RECHERCHE AMÉRICAINE : `buzzfile.com` et `cience.com`**,
   qui vendent des profils de sociétés avec leurs contacts commerciaux — `cience.com` annonce en clair
   *access their contact details*. Même nature que `dnb.com` et ContactOut, donc même interdit et à
@@ -682,6 +689,28 @@ lui attribue une table de droits d'importation la cite en réalité comme la par
    (Brasília), Ascevi (Santa Catarina), Avigo (Goiás), Adivipar (Paraná), Adevibase (Bahia et
    Sergipe), Amvid (Minas Gerais), Sinbevidros et Sincavesp (São Paulo), Sincavidro (Rio de Janeiro).
    **Vérifié sur la première : `abravid.com.br/associados/` liste bien ses membres nommément.**
+   **⚠️⚠️ ET LE 15/10 MESURE CES TREIZE ENTITÉS AU LIEU DE LES ANNONCER, SUR LES DEUX PREMIÈRES : ELLES NE SE
+   VALENT PAS, ET L'ÉCART EST DE HUIT NOMS À ZÉRO.**
+   · **ABRAVID** (District fédéral) a rendu **quatorze membres nommés, dont dix avec leur adresse e-mail**.
+     Triés au tri métier du §6 : **huit retenus** — Vitron Distribuidora, Planalto, Estrutural, Vidromexicano,
+     Decorvidro, Brasil Temper, Mundial Temper, WM Comércio — et cinq fermés d'emblée (Dorma Service, deux
+     maisons de **molduras**, un vendeur de produits pour vitriers, un cartonnier). Deux étaient déjà au
+     registre, Vitral Vidros Planos et Solida.
+   · **ASCEVI** (Santa Catarina) publie ses associés tout aussi nommément — **et ce sont des *vidraçarias* et
+     des *esquadrias*, c'est-à-dire la classe verrier + pose, à ZÉRO pour cent sur onze fiches.** Aucune fiche.
+   **LA RÈGLE QUI EN SORT, ET ELLE PRÉCISE LA MÉTHODE DU CHANGEMENT DE SOURCE AU LIEU DE LA CONTREDIRE : une
+   fédération se choisit sur le MÉTIER QU'ELLE SYNDIQUE, pas sur le fait qu'elle publie ses membres.** Le nom
+   de l'entité le dit souvent : un syndicat du **commerce atacadista** (Sincavesp) ou une association de
+   **distribuidores** vise nos deux meilleures classes ; une association de **vidraçarias** vise la pire.
+   **⚠️ Et le cas Sincavesp ajoute la nuance inverse, qui est agaçante : la mieux ciblée des treize —
+   *Sindicato do Comércio Atacadista* — est précisément celle qui NE PUBLIE PAS ses associés.** Il faudrait les
+   lui demander. **Donc on choisit sur le métier, et on paie l'appel seulement si la page membre existe :
+   vérifier les deux avant de dépenser.** Non encore testées : Sincavidro (Rio), Adevibase (Bahia et Sergipe),
+   Adivipar (Paraná), Amvid (Minas Gerais), Avigo (Goiás), Sinbevidros (São Paulo).
+   **⚠️ ET UNE RÉSERVE DE MARCHÉ QUE LES HUIT FICHES D'ABRAVID PORTENT TOUTES : Brasília est à environ mille
+   kilomètres de Santos.** L'avantage douanier du §6 tient, le post-acheminement terrestre le mange en partie.
+   Les entités **côtières** valent donc mieux à effort égal, et c'est un critère de plus pour choisir la
+   prochaine : Sincavidro à Rio, Adevibase à Salvador, Adivipar à Paranaguá.
 **⚠️ Et les trois réserves de la leçon du 14/10 sur les fédérations s'appliquent telles quelles :** la
 page membre ne satisfait pas la règle anti-rebond, donc chaque nom coûte son second temps ; la
 fédération mélange les classes de métier ; et elle peut lister séparément des sociétés d'un même

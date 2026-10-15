@@ -701,3 +701,42 @@ Dixon Mirror and Glass Co (South Salt Lake), Valleywide Glass et Universal Glass
 (Brighton) et Prime Glass and Mirror (Watertown) au Massachusetts, National Glass Industries et Majestic
 Glass (Portland), Couva Glass Co et Flintstones (Caraibes), LFC Comercializadora Corp (pays non etabli).
 **Tous sortent d annuaires : ils IDENTIFIENT et ne QUALIFIENT pas, le second temps reste du leur.**
+
+
+### Suite du balayage du 15/10, a 10h20 — Floride centrale, Midwest et Bresil cotier
+
+**Prise : Trulite Glass and Aluminum Solutions** (siege Alpharetta, Georgie), creee en `A QUALIFIER`. Une
+trentaine de sites aux Etats-Unis et au Canada, classe verrier pur. **Aucune adresse retenue : leurs seules
+boites publiees sont des `customerservice` par succursale, c est-a-dire le PIEGE MUNNWORKS** — des boites du
+cote client et non du cote fournisseur. Le service achats du siege reste a trouver.
+
+**Noms ecartes, verdicts consignes.**
+- **Lincoln Distributors** (Tampa) — **verre d art**, famille Bullseye et Spektrum du paragraphe 5 : vitrail,
+  fusing et fournitures. **Et la societe est donnee FERMEE** par un relevé de fevrier 2026. Double motif.
+- **American Flat Glass Distributors** — deja ecartee au paragraphe 6 le 13/10, adresse de siege partagee avec
+  AGC a San Antonio. Ne pas rouvrir.
+- **Mygrant Glass** — verre automobile, hors gamme, remonte deux fois dans la journee sur Portland et Salt Lake.
+
+**Bresil : la decouverte par requete PRODUIT est saturee, et c est mesure.** Une requete sur les epaisseurs de
+float a Salvador et Recife a rendu huit noms bresiliens : **Bahia Vidros, Rio Vidros, TSJ Vidros, JJI Vidros,
+LM Vidros et Tempera Primos etaient DEJA au registre**, et les deux restants sont portugais donc hors
+prospection neuve au titre du paragraphe 6. **Six sur six de taux de presence.** Restent absents seulement
+*Portal Vidros AM* (Manaus) et *Feira do Vidro*, non qualifies.
+
+**ET LE CHANGEMENT DE SOURCE NE MARCHE PAS PARTOUT : ASCEVI EST UN RESULTAT NEGATIF A CONSIGNER.** L entite
+regionale de Santa Catarina publie bien ses associes nominativement, comme ABRAVID — **mais ce sont des
+VIDRACARIAS et des ESQUADRIAS**, c est-a-dire la classe verrier + pose, a **zero pour cent** sur onze fiches au
+tri du 13/10. Aucune fiche creee. **La lecon est que les treize entites d ABRAVIDRO ne se valent pas** : le
+paragraphe 6 les presentait en bloc comme le plus gros gisement, il faut desormais lire le METIER DOMINANT de
+chaque entite avant d en depenser un appel. ABRAVID, au District federal, melangeait les deux et a rendu huit
+noms exploitables sur quatorze. Ascevi n en rend aucun. **A tenter encore, non testees : Sincavidro (Rio),
+Adevibase (Bahia et Sergipe), Adivipar (Parana), Amvid (Minas Gerais), Avigo (Goias), Sinbevidros (Sao Paulo).**
+Sincavesp, la plus prometteuse sur le papier puisqu elle syndique le **commerce atacadista**, **ne publie pas
+ses associes** : il faudrait les demander au syndicat.
+
+**Candidats americains non encore qualifies, pour le prochain tour :** Central Wholesale et Glass Resource Group
+of Tampa Bay, Borter Glass (Tampa), Brads Glass (Jacksonville), County Glass and Mirror, Empire Supply, Hyperion
+Glass et Missouri Glass Company (Saint-Louis), Cook s Glass and Mirror, Hoosier Glass et Gilpin Glass
+(Indianapolis), Westport Glass and Mirror (Kansas City), Milwaukee Plate Glass (West Allis), Dixon Mirror and
+Glass (Salt Lake City), Valleywide et Universal Glass (Phoenix), Stuart Glass et Prime Glass and Mirror
+(Massachusetts), National Glass Industries et Majestic Glass (Portland).
