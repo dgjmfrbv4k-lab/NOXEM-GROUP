@@ -1070,3 +1070,23 @@ sur les DEUX conditions posees le 15/10** — la bonne classe de metier ET une l
 kilometres de post-acheminement mangent l avantage douanier. **Elles passent apres les entites
 cotieres**, et la methode de la federation est desormais epuisee au Bresil pour ce qu elle pouvait
 rendre a bon compte.
+
+## 17h39 — CALGARY ET VANCOUVER REFAITES POUR RIEN, ET C EST UN APPEL PERDU QU IL FAUT CONSIGNER
+
+**Deux des trois recherches de ce lot etaient REDONDANTES, et la preuve etait dans le registre.** La
+fiche **Oldcastle BuildingEnvelope**, creee a **13h15 aujourd hui**, porte en toutes lettres la
+mesure deja faite : *Calgary et Winnipeg rendent neuf noms et les TROIS SEULS vrais grossistes y
+sont DEJA au registre* — National Glass a Delta et Calgary, IGD, AGM. La requete Vancouver rend
+elle aussi **National Glass**, deja en `RELANCE 2026-10-08`.
+**LA FAUTE EST CELLE DU 13/10 ET DU 15/10 AU MATIN, UNE TROISIEME FOIS : un verdict ecrit dans une
+fiche ne protege que si on le LIT avant de depenser l appel.** `candidats-deverrouillage.py` ne
+couvre pas ce cas, puisqu il filtre les fiches a deverrouiller et non les VILLES deja interrogees.
+**CE QUI MANQUE EST DONC ICI, dans ce fichier, et c est sa raison d etre** : la liste des villes
+faites. **Calgary, Winnipeg, Vancouver et Delta sont FAITES** — les trois grossistes reels de
+l Ouest canadien sont au registre et contactes. Ne pas y revenir.
+
+**MONTREAL, EN REVANCHE, A RENDU TROIS NOMS ABSENTS** — Prelco, Lamiver et, pour Calgary, Novatech.
+Les deux noms montrealais deja presents, IGP et Vitrerie Leon Charlebois, confirment que la ville
+avait ete travaillee, mais pas epuisee.
+**⚠️ ET UN CONCURRENT A NE PAS OUVRIR, releve dans le meme annuaire :** **VITRO FLAT GLASS CANADA**
+et **Oldcastle Glass** sont au 72 Avenue SE a Calgary. Vitro est un producteur float du §6.
