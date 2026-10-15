@@ -722,6 +722,20 @@ lui attribue une table de droits d'importation la cite en réalité comme la par
    *processadores* vaut le coup ; un nom qui dit *vidraçarias* ne le vaut pas ; et un syndicat (*sindicato*)
    publie rarement ses affiliés là où une association (*associação*) le fait souvent. Restent à tester, et
    seulement si le nom passe ce filtre : Amvid (Minas Gerais), Avigo (Goiás), Sindividros-RS.
+   **⚠️⚠️ ET LA RÈGLE N'EST PAS BRÉSILIENNE, ELLE EST GÉNÉRALE — vérifiée le 15/10 sur DEUX fédérations
+   américaines le même jour, avec les deux issues opposées, et le NOM prédisait l'issue dans les deux cas.**
+   · **Texas Glass Association**, division Nord-Texas → **annuaire nominatif qui mêle faconneurs,
+     DISTRIBUTEURS et fournisseurs**. Seize noms, seize absents du registre. Productive.
+   · **AGMA — *Architectural Glass and METAL Association*** (Mid-Atlantic, ~28 membres) → annuaire
+     nominatif lui aussi, **et pas un distributeur dedans**. Ses membres s'appellent *…& Metal*,
+     *…Contractors*, *…Glazing*, et leurs fiches parlent de **murs-rideaux, de devantures et d'entrées**.
+     C'est la classe aluminium-façade-pose, à 3,6 %, et la classe verrier + pose, à 0 %. **Aucune fiche.**
+   **LE MOT QUI PRÉDIT EST DANS LE NOM DE LA FÉDÉRATION, et il coûte zéro appel à lire :** *distribuidores*,
+   *processadores*, *comércio atacadista*, *wholesalers*, *merchants* → on y va. ***Metal*, *Glazing*,
+   *Contractors*, *vidraçarias*, *esquadrias*, *window* → on n'y va pas.** Et *Glass Association* tout court
+   est ambigu : il faut alors lire trois noms de membres avant de dépenser le reste.
+   **C'est exactement le tri métier du §6 appliqué un cran plus haut — à la fédération plutôt qu'à la
+   société — et il économise vingt-huit vérifications pour une lecture de titre.**
    **⚠️ Et le cas Sincavesp ajoute la nuance inverse, qui est agaçante : la mieux ciblée des treize —
    *Sindicato do Comércio Atacadista* — est précisément celle qui NE PUBLIE PAS ses associés.** Il faudrait les
    lui demander. **Donc on choisit sur le métier, et on paie l'appel seulement si la page membre existe :

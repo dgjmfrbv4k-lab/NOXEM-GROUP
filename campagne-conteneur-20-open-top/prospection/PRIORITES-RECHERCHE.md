@@ -785,3 +785,38 @@ Southwest Glass, Anchor-Ventana Glass, Buchholtz Glass.
   Architectural Glass and Mirror de Halfmoon (Albany).
 - **A qualifier, non teste** : Glasshouse Inc. (Texas), F.W. Webb (Syracuse, donne distributeur de verre plat
   mais c est d abord un grossiste en plomberie, a verifier avant d ouvrir).
+
+
+### Quatrieme passage du 15/10, a 11h53 — Oklahoma, Arkansas, Tennessee, Indiana, Perth
+
+**Huit fiches creees, une deverrouillee.** Oklahoma, Arkansas et Indiana n avaient **aucune fiche**.
+
+**Prise du passage : US Glasstech Hub** (Oklahoma City), **distributeur EXCLUSIF de Saint-Gobain pour
+l Oklahoma**, dit par leur propre site. C est la regle du fragment de marque lue dans le bon champ — une
+marque dans une GAMME dit qu on ACHETE, donc prospect et non concurrent, **et on sait exactement contre qui
+on se place**. ⚠️ Le mot *exclusif* annonce un contrat cadre : porte de sortie du §9 obligatoire,
+probabilite modeste. Adresse retenue apres **deux arbitrages du §5** consignes dans la fiche — exception
+anti-rebond sur trois boites Gmail publiees par leur propre page, et choix de la boite du **president**
+contre celle du directeur **commercial**, qui est le cote client, piege MunnWorks.
+
+**AGMA EST UN RESULTAT NEGATIF QUI VAUT UNE REGLE, ET ELLE EST PORTEE AU §6.** L *Architectural Glass and
+**METAL** Association* publie bien ses ~28 membres nommement — **et pas un distributeur dedans** : des
+*…& Metal*, des *…Contractors*, des *…Glazing*, qui font du mur-rideau et de la devanture. Classe a 3,6 et
+a 0 pour cent. **Aucune fiche.** Mis en regard de la Texas Glass Association, seize noms sur seize absents
+le matin meme, **le NOM de la federation predisait l issue dans les deux cas** — et le lire coute zero appel.
+
+**Noms ecartes, verdicts consignes.**
+- **Carlex Glass** (Nashville) — vitrage **automobile**, hors gamme.
+- **Pilkington North America** (Nashville) — **NSG, producteur float, concurrent du §6.**
+- **Advantage Glass** (Tulsa) et **ACE Glass Construction** (Little Rock) — la raison sociale annonce la
+  CONSTRUCTION, donc classe poseur.
+- **Glass Superstore** et **Glasshouse AU** — detaillants en ligne, pas des marchands de la profession.
+- **Mygrant Glass** — automobile, troisieme fois de la journee.
+
+**Et l Australie est, elle, reellement couverte** : les trois meilleurs noms rendus par la requete sur
+Perth, Adelaide et Brisbane — **Walshs Glass, Glass Processing Australia et GlassCo Australia** — etaient
+**deja au registre tous les trois**. Deux absents seulement, crees ce jour.
+
+**Candidats non qualifies du passage :** Downtown Glass et Lincoln Glass (deja crees), West Little Rock
+Glass, Doc s Glass (Nashville), Glass Images (Holland, Michigan), Canon Double Glazing et Monash Glass
+(Australie).
