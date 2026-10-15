@@ -397,7 +397,26 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   elle ne dit rien du *mot composé*. Ici le vrai mot distinctif était **`alpha`**, qui rendait les deux
   fiches immédiatement.
   **Règle complétée : le mot à greper est le plus COURT élément distinctif, et il ne doit jamais être
-  lui-même une concaténation.** Devant `Alphaglass`, `Glassivoire`, `Vitroglass`, couper : `alpha`,
+  lui-même une concaténation.**
+  **⚠️⚠️ SIXIÈME CAS LE 15/10 À 10h20, ET IL DIT D OÙ VIENT LA CONCATÉNATION — DU DOMAINE. C'est la
+  précision qui manquait, parce que la règle ci-dessus dit de ne pas greper une concaténation sans dire
+  où l'on va la chercher par mégarde.** Une recherche a rendu *Distrividrios Lersas*, à Montería. J'ai
+  grepé **`lersas`**, et il n'a **rien** rendu : le registre porte **`Distrividrios LER S.A.S.`**, avec
+  des espaces et des points. **Le token que j'avais grepé, je l'avais pris sur le DOMAINE**,
+  `distrividrioslersas.com` — et **un nom de domaine est une concaténation par construction**, puisqu'il
+  ne peut porter ni espace ni point intérieur.
+  **CE QUE CELA A FAILLI COÛTER, ET C'EST LA FAUTE SHIBAAM EN ENTIER :** la fiche existe, elle porte
+  **exactement la même adresse** `info@distrividrioslersas.com`, et elle est en **`RELANCE 2026-10-12`**.
+  Une fiche créée et envoyée aurait été un **troisième message en trois jours** à une maison déjà
+  relancée. **Seul l'`assert` d'unicité de nom du script de création l'a arrêté** — le `grep`, lui, avait
+  dit « absent ».
+  **RÈGLE : le token de `grep` s'extrait du NOM DE LA SOCIÉTÉ, jamais du nom de domaine.** Quand le nom
+  n'est connu que par une URL, on le **décompose** avant de greper : devant `distrividrioslersas.com`, on
+  grepe **`distrividrio`** — qui rend d'un coup les **trois** fiches du registre, celle de Montería, la
+  *Distrividrios Antioquia* de Medellín et la *Distrividrios* vénézuélienne écartée en verre creux.
+  **Et le corollaire vaut autant que la règle : un `grep` qui rend zéro sur un nom pris dans une URL est
+  un résultat SUSPECT et non un feu vert.** C'est le pendant exact de la leçon Lahey du §13 — un résultat
+  négatif obtenu sur un champ non vérifié ne dit rien de la société, il dit que le champ est faux. Devant `Alphaglass`, `Glassivoire`, `Vitroglass`, couper : `alpha`,
   `ivoir`, `vitro`. Un `grep` de quatre à six lettres coûte la même seconde et voit les deux formes.
   **CE QUE CE CAS A COÛTÉ, ET CE QU'IL A ÉVITÉ, parce que les deux chiffres comptent :** la maison a reçu
   **trois** messages entre le 06 et le 09/10 — premier contact et relance sur `info@`, puis un premier
@@ -1378,6 +1397,29 @@ haut qui rend le marché attractif, exactement comme aux États-Unis avec Vitro.
 **douanier** — Gecex 833/2025 contre la Malaisie, le Pakistan et la Turquie, l'Europe non visée — jamais
 celui de l'absence d'offre. `verif-argument-float.py` portait déjà le Brésil mais son libellé était vague,
 « production float nationale » ; il nomme désormais les deux sociétés),
+**CARDINAL GLASS INDUSTRIES** (États-Unis — ajouté le 15/10, et c'est un trou du même genre que celui
+d'AGC comblé le 12/10 : **le §6 ne nommait que Vitro pour les États-Unis**, alors que Cardinal exploite
+**SEPT sites float américains**, dont un qui abrite **deux lignes** selon leur propre page de
+développement durable. **Winlock, dans l'État de Washington, est donné à 648 tonnes par jour**, et un
+rapport professionnel de 2005 décrivait déjà le même site avec un four de 650 t/jour. Ils annoncent un
+système de captage de CO2 à Winlock visant ~130 000 t/an pour 2029. ⚠️ **Réserves de source à tenir :**
+les surfaces annoncées se contredisent d'une page à l'autre, de 350 000 à plus de 700 000 pieds carrés,
+et **aucune liste officielle site par site avec les tonnages n'a été trouvée** — le seul chiffre sûr est
+leur propre « sept sites », et la seule capacité nommée est celle de Winlock. **Ne citer aucun total.**
+**CE QUE CELA CHANGE ET CE QUE CELA NE CHANGE PAS.** Cela **ne touche pas** l'argument américain, qui est
+**douanier** — ordres du 06/04/2026 contre la Chine et la Malaisie, l'Europe visée par aucun — et jamais
+celui de l'absence d'offre. Cela le **renforce** même, par le mécanisme du parapluie de prix déjà décrit
+pour Vitro : plus la production domestique est forte, plus le prix tenu est haut. **Et cela durcit
+l'interdit : ne JAMAIS écrire qu'il n'y a pas de production locale aux États-Unis**, où le registre
+compte le deuxième bloc de fiches. `verif-argument-float.py` portait le pays mais pas ce nom, et il le
+porte désormais ; contrôle passé, **aucune fiche américaine ne porte l'affirmation fausse**.
+**Et la leçon de méthode, parce qu'elle est la même que celle de Vidrio Andino le 14/10 : ce producteur
+a été trouvé dans la gamme d'un PROSPECT.** La fiche **TC Insulating Glass** (Canada) portait déjà
+« ils fabriquent des unités Cardinal, ce qui veut dire qu'ils achètent du verre Cardinal, donc
+américain » — la règle de la marque dans une gamme, correctement appliquée. **Le nom du producteur était
+donc au registre depuis des jours, du bon côté du raisonnement, et il manquait quand même à la liste des
+concurrents.** Quand une fiche nomme un fournisseur, ce fournisseur se vérifie contre la liste du §6 le
+jour même),
 **Fuyao Glass America** (États-Unis — ajouté le 11/10, et c'est encore un trou de la liste : **Fuyao est
 l'un des plus gros verriers du monde**, producteur de float et de vitrage automobile, et il n'y figurait
 pas. Son établissement de **Moraine (Ohio)** est remonté de l'exhibit I-7 du dossier float glass, parmi

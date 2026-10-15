@@ -65,8 +65,10 @@ PRODUCTEURS = {
     'Malaisie': 'Kibing Glass Malaysia, NSG Malaysian Sheet Glass et Jinjing Technology Malaysia, '
                 'les trois nommes a la liste des producteurs du dossier float glass americain',
     'États-Unis': 'Vitro Flat Glass et Vitro Meadville, petitionnaires de la mesure de 2026, plus '
-                  'Guardian, PPG et Fuyao Glass America. L argument americain est DOUANIER et non '
-                  'celui de l absence d offre',
+                  'Guardian, PPG, Fuyao Glass America et CARDINAL GLASS INDUSTRIES, ajoute le 15/10 '
+                  'et qui exploite SEPT sites float americains dont un a deux lignes, Winlock dans '
+                  'l Etat de Washington etant donne a 648 tonnes par jour. L argument americain est '
+                  'DOUANIER et non celui de l absence d offre',
     # AJOUTS DU 14/10 — L EUROPE N AVAIT AUCUNE ENTREE, ET C ETAIT LE TROU LE PLUS BEANT
     # DU DICTIONNAIRE : 24 fiches allemandes, 15 belges, 9 neerlandaises, 1 suisse et 1
     # luxembourgeoise ont ete ouvertes ou travaillees ce jour-la, et le garde-fou ne
