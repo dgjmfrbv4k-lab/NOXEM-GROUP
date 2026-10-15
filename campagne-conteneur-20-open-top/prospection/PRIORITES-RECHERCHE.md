@@ -1002,3 +1002,23 @@ Puis **Veracruz**, puis **Charlotte**, puis Concepcion et Recife.
 Guadalajara, Costa Rica, Republique dominicaine, Cali, Columbus, Anchorage — et les verdicts fondes
 sur une lecture de fiche plutot que sur un comptage, comme Hawai, ou le constat est qu un seul
 grossiste existe et qu il est au registre.
+
+
+### BILAN DES VILLES RETESTEES SEULES, A 14h05 — DIX APPLICATIONS, ET LE RESULTAT N EST PAS UNIFORME
+| Ville retestee seule | ce que la requete groupee disait | ce qu elle rend seule |
+|---|---|---|
+| **Cali** | rien | **9 noms, 9 absents** |
+| **Columbus** | rien | **4 noms, 4 absents** |
+| **Anchorage** | rien | **5 noms, 5 absents** |
+| **Cartagene** | rien | **5 noms neufs** |
+| **Veracruz** | rien | **3 noms neufs** |
+| **Adelaide** | « aucun negociant hors KOMO » | **3 noms neufs, dont un vrai marchand de feuille** |
+| **Recife** | 4 noms | 3 noms neufs |
+| **Concepcion** | rien | 3 noms neufs |
+| **Salvador** | « couverture mince » | 1 nom utile |
+| **Auckland** | 5 noms | **confirme, 4 sur 6 deja au registre** |
+| **Tacoma** | — | **confirme, Savage et Budget Glass deja au registre** |
+**NEUF RETESTS SUR ONZE ONT OUVERT QUELQUE CHOSE, DEUX ONT CONFIRME.** La regle paie donc largement,
+**et elle ne garantit rien** — Auckland et Tacoma montrent qu une ville peut etre reellement faite.
+**Ce qui reste a retester seul :** Winnipeg, Christchurch, Valparaiso, la Barbade, la Zone Libre de
+Colon, Charlotte étant desormais faite et Veracruz, Cartagene, Cali, Columbus et Anchorage traitees.
