@@ -340,6 +340,17 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   nomenclature publique** : le CNAE du *comércio atacadista de vidros, espelhos, vitrais e molduras*
   est un **critère de recherche réutilisable** sur n'importe quelle source permise, et c'est le seul
   élément de ce résultat qui se garde.
+  **UN DE PLUS LE 15/10 AU SOIR, SUR UNE RECHERCHE À ARACAJU : `empresas.serasaexperian.com.br`**, qui
+  vend des profils d'entreprises par société. **C'est le `dnb.com` brésilien et c'est exactement sa
+  nature**, donc même interdit, et à mettre dans `blocked_domains` d'emblée sur toute recherche
+  brésilienne — il remontait deux fois dans les dix premiers résultats.
+  **ET IL FAUT DIRE CE QUI N'EST PAS INTERDIT DANS LE MÊME RELEVÉ, parce que la frontière est fine et
+  qu'elle a servi deux fois aujourd'hui :** un agrégateur qui republie le **registre CNPJ** — raison
+  sociale, adresse, code d'activité — publie une **nomenclature publique**, comme le CNAE ci-dessus.
+  Il **identifie** et il ne **qualifie** pas, exactement comme un portail sectoriel, et le métier se
+  réétablit sur le domaine de la société. **Le critère n'est donc pas le site, c'est ce qu'on lui
+  prend** : un code d'activité public se garde, un contact ou un relevé d'importation vendu ne se
+  reprend jamais. C'est la règle de la leçon Imporex appliquée à une source de registre.
   **LA RÈGLE QUI SE DÉGAGE, ET ELLE EST PLUS FINE QUE « NE PAS UTILISER LE SITE » :** un résultat de
   courtier peut **nommer** une société, et un nom n'est pas une donnée vendue — c'est ainsi qu'on apprend
   qu'elle existe. **Ce qui est interdit est de reprendre sa QUALIFICATION** : volumes, origines, ports,

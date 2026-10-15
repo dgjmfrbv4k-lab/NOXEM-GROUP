@@ -1233,3 +1233,62 @@ proche d un acheteur.** L angle y est **exclusivement l origine et la gamme** �
 **ETAT DE LA FACADE NORD-NORDESTE APRES LA JOURNEE :** Ceara **2**, Maranhao **2**, Paraiba **2**,
 Rio Grande do Norte **4**, Alagoas **2**, **Para 0**, **Piaui 0**, Sergipe **0**.
 **Registre a 1471 fiches, dont 118 au Bresil. 7 en file `A ENVOYER`, 218 en `A APPELER`.**
+
+---
+
+## 15/10 a 18h38 — LA ROUTE DES FEDERATIONS EST FERMEE AU NORD, ET C EST UN RESULTAT, PAS UN ECHEC
+
+**Question posee ce soir : le §6 dit que devant un marche sature on change de SOURCE, et que la
+troisieme source est l annuaire de federation. Le Para et le Piaui ne rendent rien a la recherche
+large — qu y a-t-il a interroger ?**
+**REPONSE, ET ELLE EST DEFINITIVE : IL N Y A AUCUNE ENTITE VIDRIERE ACTIVE AU PARA, AU PIAUI NI AU
+CEARA.** La liste des entites regionales d ABRAVIDRO porte elle-meme comme **EXTINTAS** l **ADIREVI**
+(Associacao dos Distribuidores e Revendedores de Vidros do Ceara) et l **ANORDIV** (Associacao
+Norte-Nordeste de Distribuidores e Processadores de Vidros Planos). **La seule entite du Nordeste
+est ADEVIBASE, Bahia et Sergipe, deja testee le 15/10 et deja classee a zero** — elle fait de la
+formation pour vidraceiros et ne publie pas ses membres.
+
+**LA LISTE COMPLETE DES TREIZE EST DESORMAIS CONNUE, et elle corrige celle du §6 qui en nommait
+neuf :** Abravid (DF), Ascevi (SC), **Avigo (GO)**, Adivipar (PR), Adevibase (BA-SE), **Avims (MS)**,
+Amvid (MG), Sinbevidros (SP), **Sindividros-ES**, Sindividros-RS, Sincavesp (SP), Sincavidro (RJ) et
+**Sincomavi (Grande Sao Paulo)**.
+
+**AVIGO TESTEE CE SOIR — ECHEC, ET SUR LE SECOND CRITERE.** Son nom est *Associacao das Empresas
+Vidreiras de Goias* : **ni *distribuidores* ni *comercio atacadista***, donc un titre ambigu du
+genre *Glass Association*, et surtout **aucune page de membres n existe**. Les **deux** conditions
+du §6 doivent etre reunies — la bonne classe **et** une liste nominative — et il en manque une et
+demie. **Aucune fiche, aucun appel supplementaire depense.**
+**⚠️ Homonyme a connaitre pour ne pas y revenir : AVIVEGO est l association des controles techniques
+AUTOMOBILES de Goias**, sans aucun rapport. Un caractere et demi d ecart, famille desormais
+habituelle.
+
+**BILAN DE LA METHODE DES FEDERATIONS AU BRESIL, APRES HUIT ENTITES SUR TREIZE :**
+**deux produisent — ADIVIPAR 21 fiches, ABRAVID 8 — et six ne produisent rien**, pour l une ou
+l autre des deux raisons deja nommees, mauvaise classe ou pas de liste. **Les cinq non testees ont
+toutes un nom qui echoue au filtre du titre** : *Amvid* et *Avims* sont ambigus comme *Avigo*,
+*Sindividros-ES* et *Sincomavi* sont des **sindicatos**, qui ne publient quasi jamais leurs
+affilies. **CONDUITE : ne plus depenser d appel sur une federation bresilienne.** La methode a rendu
+ce qu elle avait a rendre, et elle reste excellente ailleurs — c est elle qui a ouvert l Allemagne
+et le Texas.
+
+**CONSEQUENCE POUR LE PARA ET LE PIAUI, ET IL FAUT L ECRIRE SANS L ARRONDIR : LES TROIS SOURCES DU
+CHANGEMENT DE SOURCE SONT EPUISEES.** La recherche large ne rend rien de local ; il n existe pas de
+federation ; et le §6 a deja mesure le **13/10** que la piste des listes d importateurs des dossiers
+antidumping **ne marche pas au Bresil**, la Circular MDIC identifiant les importateurs a partir de
+donnees fiscales non publiees. **Ces deux Etats ne s ouvriront donc pas depuis cette session.** Ce
+qui les ouvrirait : un appel a Intervidro, qui livre toute la facade en 48 heures et sait qui achete
+a Belem, ou un appel a ABRAVIDRO. **C est du telephone, et cela rejoint le point 1 de
+`DECISIONS-AARON.md`.**
+
+**ARACAJU, EN REVANCHE, A RENDU — ET PAR LE CODE D ACTIVITE.** L Etat de Sergipe n avait aucune
+fiche ; **deux creees**. `Sergipe Vidros` porte, comme activite principale declaree, **le comercio
+atacadista de vidros, espelhos, vitrais e molduras** — **mot pour mot le CNAE que la lecon econodata
+du 15/10 a retenu comme critere reutilisable**, et c est notre meilleure classe de metier. La
+nomenclature est publique, donc elle se garde ; la qualification de l agregateur, non.
+**⚠️ Les deux fiches d Aracaju portent une QUESTION D IDENTITE : raisons sociales voisines et MEME
+QUARTIER.** Immatriculations differentes, donc deux personnes morales — **ce qui n etablit pas deux
+bureaux d achat**. Ecrire aux deux serait la faute Shibaam tant que ce n est pas leve. **Consigne
+dans les deux fiches.**
+
+**Registre a 1473 fiches, dont 120 au Bresil.** Villes bresiliennes encore vierges et valant une
+requete seule : **Vitoria (ES)**, **Florianopolis (SC)**, **Uberlandia (MG)**, **Campo Grande (MS)**.
