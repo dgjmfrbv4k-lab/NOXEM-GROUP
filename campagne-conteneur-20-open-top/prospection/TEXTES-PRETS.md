@@ -9268,3 +9268,80 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 165. Aldora Aluminum and Glass Products (Coral Springs, Floride) — `contact@aldoraglass.com` — ANGLAIS — façonnier huit sites, achat centralisé — **VAGUE DES AMÉRIQUES DU 15/10**
+
+**Vérifié avant d'écrire :**
+- **Née de la fermeture d'une autre fiche.** En reprenant Coastal Glass Distributors — société fermée depuis 2009 — la recherche a rendu le nom de celle qui en a absorbé la marque. Mots distinctifs grepés avant création, `aldora`, `standard bent`, `bent glass` : **les trois absents**.
+- **Métier confirmé sur LEUR propre domaine** et non sur le portail — leçon Imporex. Huit établissements côtiers, siège Coral Springs.
+- **UN SEUL COMPTE POUR LES HUIT SITES, tranché par leur propre phrase** : ils annoncent approvisionner le verre et l'aluminium *depuis leur réseau entier*, donc un **achat centralisé**. C'est le cas **Saint Lu** et non le cas Extralum (§12) — un seul pays, un seul marché douanier, un seul bureau qui décide.
+- **⚠️ RÈGLE PRODIESA, ET ELLE EST CONTRE-INTUITIVE ICI.** En août 2026 ils ont signé une **lettre d'intention pour acquérir Lenoir Mirror Company**. Une maison qui se dote d'une ligne d'argenture a besoin de **substrat float qualité miroir**. **Donc notre miroir sans cuivre ni plomb — le produit le plus différenciant du §8 — NE LEUR EST PAS PROPOSÉ**, puisqu'ils s'apprêtent à fabriquer le leur. **C'est exactement la faute Prodiesa du 12/10, évitée cette fois avant l'envoi et non après.** L'argenture devient un **argument** et non une cible. Feuilleté, isolant, trempé et portes sortent aussi de l'offre.
+- **⚠️ Réserve tenue dans le texte : c'est une LETTRE D'INTENTION, pas une acquisition confirmée.** Le message en parle au conditionnel (*if that goes ahead*) et ne l'annonce jamais comme faite.
+- Adresse `contact@aldoraglass.com` lue sur **leur propre page de contact**, domaine du site, §5 satisfait **sans exception**.
+- **Boîte d'achats cherchée** (`purchasing`, `procurement`) : **aucune publiée**. Troisième application de la règle du 14/10, négative comme les deux premières. **Et une boîte nominative écartée** : leur page emploi cite un poste *Inside Sales*, fonction de **vente** et non d'achat — test MunnWorks, §5.
+- **ARGUMENT DU §6 APPLICABLE, et les États-Unis sont le marché où il est le plus fort** : ordres antidumping et compensateurs du **06/04/2026**, Chine **181,52 %**, Malaisie **17,3 à 102 %** en compensateur, **l'Europe visée par aucun**. Servi comme **fait douanier** et jamais comme promesse de prix, et **aucun taux n'est cité dans le texte**.
+- **Fuseau calculé et non deviné (§13)** : Floride UTC−4, Paris UTC+2, donc Floride = **Paris − 6**. Vérifié sur un cas connu — 14h de Paris font bien 8h en Floride. **Envoi à 15h de Paris pour 9h locales.**
+
+**Objet :** Clear float and low-E by the container — European origin, direct
+
+**Corps :**
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer and not a
+request for quotation. If you are not the person who buys the glass, I
+would be grateful if you passed it to whoever does.
+
+I am writing to you rather than to one of your plants because your own
+pages say you source glass and aluminium across your entire network -
+so there is one desk that decides, and this belongs on it.
+
+Two things in what you do point the same way. You fabricate laminated,
+insulating and tempered glass across eight coastal plants, which means
+sheet goes in continuously and those lines stop when it does not. And
+if your letter of intent on Lenoir Mirror goes ahead, you will be
+silvering your own mirror, which takes mirror-quality float substrate
+in volume.
+
+So I am not offering you anything you make yourself - no laminated, no
+insulating units, no tempered, and no finished mirror. Only the
+substrate that goes into them:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+One thing worth saying plainly, as a customs fact and nothing more:
+since April 2026 the two cheapest origins on this market carry
+antidumping and countervailing orders, and European glass carries
+none. That changes the comparison. It is not a statement about our
+pricing.
+
+We ship full containers, in ISPM-15 treated wooden cases, in jumbo
+3210 x 2550 mm or cut to your sizes. We can put together an offer
+delivered to your port of destination, subject to validation on our
+side.
+
+For that to be worth anything to you, I need four things: which
+references and thicknesses your lines consume most, the sheet sizes
+that suit them, a rough annual volume with how often you order, and
+which port you want costed - Charleston, Savannah, Miami or Norfolk.
+
+And if your supply is tied up and there is no room for a second
+origin, say so plainly and I will not push.
+
+I am at your disposal.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
