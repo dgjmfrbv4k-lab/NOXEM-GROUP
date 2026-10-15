@@ -12833,3 +12833,95 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 212. Morumbi Vidros e Ferragens (Fortaleza, Ceara) — `contato@morumbiferragens.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 18h25 le 15/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+**POURQUOI EUX, ET LA FICHE A CHANGE DE CLASSE AU SECOND TEMPS.** Creee avec une reserve lourde : le
+mot **ferragens** dans la raison sociale et le domaine faisait craindre le **vendeur de produits
+pour vitriers**, que le §5 fait fermer depuis ABRAVID. **Leur domaine a leve la reserve** — ils ont
+un **galpao de verre** et publient les **epaisseurs d incolore** qu ils tiennent, 3 a 10 mm. Un
+entrepot et des epaisseurs servis a des vidraceiros designent l **ENTREE** de l atelier, au sens de
+la regle reecrite ce matin. La quincaillerie est une **seconde ligne**, pas le metier.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Mot distinctif grepe en `grep -in` avec lecture des lignes**, absent.
+- **Adresse sur leur page Contatos**, domaine identique a celui du site, **aucune exception du §5**.
+- **⚠️ LEUR FOURNISSEUR DE FLOAT EST NOMME DANS LEUR GAMME, ET IL N EST PAS CITE DANS LE MESSAGE.**
+  C est un **producteur float bresilien du §6**, dont l usine est **la plus proche d eux**. Marque
+  dans une **gamme** = ils **achetent**, donc prospect ; le nom reste dehors, faute du §STADIP.
+  **Ce qu il change est l angle et rien d autre**, et il le change beaucoup : leur concurrence n est
+  pas l import lointain, c est une usine a huit cents kilometres.
+- **REGLE PRODIESA** : ils ne fabriquent rien, donc **toute la gamme de substrat entre**.
+- **Porte de sortie OBLIGATOIRE** : fournisseur etabli et proche.
+- **⚠️ Reserve de fraicheur** : pages de marketing datant de plus d un an, et **trois adresses
+  differentes de succursale** selon la page. Seul le siege est tenu pour sur, et le message
+  **demande** plutot qu il n affirme.
+- **Trois interdits bresiliens tenus**, argument douanier **borne au float clair**, sans taux et sans
+  nommer la Chine. **Rien n est dit du post-acheminement**, qui est notre probleme et pas le leur.
+
+**Objet :** `Chapa de float, extra clear e espelho em conteiner completo - Pecem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra a
+chapa, agradeco que encaminhe a quem compra.
+
+Escrevo-vos por duas coisas precisas das vossas paginas: os senhores tem
+galpao de vidros, e publicam as espessuras de incolor que giram, de 3 a
+10 mm. Quem guarda chapa e anuncia as suas espessuras compra chapa em
+volume, e e so disso que eu trato. Os senhores abastecem vidraceiros - eu
+abasteco quem abastece.
+
+O que posso pôr num conteiner para os senhores:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O espelho merece uma palavra, por um motivo de mercado e nao de preco: e um
+espelho cuja camada nao leva cobre nem chumbo, e e a referencia que levamos
+sobretudo a mercados litoraneos e umidos. Se isso pesa na clientela dos
+senhores, digam-me e eu detalho.
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao sobre o float incolor, como fato aduaneiro e nada mais: as
+medidas antidumping brasileiras em vigor sobre o float incolor alcancam
+origens asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso
+muda a comparacao entre origens. Nao vale para espelho nem para vidro
+colorido, e nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte - Pecem ou Mucuripe, conforme lhes convier.
+
+Antes de qualquer numero preciso confirmar o que o site diz, porque algumas
+paginas tem mais de um ano: quais espessuras de incolor e de extra clear os
+senhores de fato giram hoje, quais medidas de chapa lhes servem, uma ordem de
+grandeza do volume anual com a frequencia de compra, e o porto.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
+fonte estabelecida, e perto, raramente tem lugar para outra. Se for o seu
+caso, diga-me com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

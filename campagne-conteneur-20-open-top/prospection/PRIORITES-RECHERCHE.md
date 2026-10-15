@@ -1147,3 +1147,44 @@ tranche contre le resume de recherche.** Le fait compte : il decide du port cite
 **Belem (PA)** et **Sao Luis (MA)** — ports du Nord, les plus eloignes des quatre fours ;
 **Vitoria (ES)** — grand port, mais Serra est deja couverte a cote ; puis **Maceio**,
 **Joao Pessoa**, **Aracaju**, **Teresina**, **Florianopolis**, **Uberlandia**.
+
+---
+
+## 15/10 a 18h25 — SAO LUIS ET LE MARANHAO SONT OUVERTS, et Fortaleza rend sa meilleure fiche
+
+**SAO LUIS interrogee seule.** L Etat du Maranhao n avait **aucune fiche**. Quatre noms rendus,
+grepes un par un, **deux fiches creees et deux verdicts consignes**.
+· **Marvidros** (Forquilha ou Coroadinho) — **le meilleur nom du Nord a ce jour** : deux annuaires
+  independants la disent distribution de verre **PLAT**, vente au **GROS**, desserte de **tout
+  l Etat**. **Aucun site propre**, donc **fiche telephonique** au 98 3245-4638 — c est un verdict,
+  pas une absence de recherche. Un annuaire la dit **representante d une marque**, non etabli.
+· **Dararu Vidros** (Angelim) — plus faible, prix professionnels au detail plutot qu atacado declare.
+· **Grupo Rey do Vidro** — **deliberement NON creee**. Deux unites de **detail** dont une **dans un
+  centre commercial**, gamme boxes, **molduras**, esquadrias et envidracamento de sacadas. Classe
+  **verrier + pose**, zero pour cent. Une adresse existe pourtant sur un domaine tiers publie par
+  leur propre page, donc l exception du §5 serait satisfaite — **et c est bien le metier qui ferme,
+  pas l adresse**. Ne pas la rouvrir pour cette raison.
+· **Vidrauto** — **NON creee**, distributeur autorise en **vitrage AUTOMOBILE**, hors gamme.
+
+**⚠️ POURQUOI LE NORD VAUT L EFFORT, ET C EST LE MEME RAISONNEMENT QUE POUR LE PARA :** les quatre
+lignes float bresiliennes sont a Jacarei, Cacapava, Barra Velha et Goiana. **Sao Luis est a plus de
+mille cinq cents kilometres de la plus proche.** C est l un des rares marches bresiliens ou une
+arrivee par mer part avec un avantage **de structure** et pas seulement douanier. Port : **Itaqui**.
+
+**FORTALEZA REND SA MEILLEURE FICHE PAR RENVERSEMENT D UNE RESERVE, et le cas vaut d etre garde.**
+`Morumbi Vidros e Ferragens` avait ete creee **avec une reserve lourde** : *ferragens* dans la
+raison sociale **et dans le domaine**, donc le profil du vendeur de produits pour vitriers que le
+§5 fait fermer depuis ABRAVID. **Deux faits de leur propre domaine ont leve la reserve** — un
+**galpao de verre**, et les **epaisseurs d incolore publiees**, 3 a 10 mm, servies a des
+vidraceiros. **Entrepot plus epaisseurs plus clientele professionnelle = cote ENTREE.** Deverrouillee,
+texte 212 redige.
+**LA LECON EST SYMETRIQUE DE CELLE DE GOMEZ LOTERO ET IL FAUT LES LIRE ENSEMBLE :** la, un catalogue
+de bazar **fermait** une fiche que les epaisseurs seules auraient ouverte ; ici un **entrepot**
+ouvre une fiche que le nom seul aurait fermee. **Ni le mot ni le chiffre ne decident — l usage
+decide**, et l usage se lit dans ce qu il y a **autour** de l epaisseur.
+
+**ETAT DU NORD-NORDESTE APRES CE LOT :** Ceara **2 fiches**, Maranhao **2**, Para **0**, Piaui **0**,
+Alagoas **0**, Paraiba **0**, Sergipe **0**, Rio Grande do Norte **1**. **C est la facade la moins
+couverte du Bresil et c est celle ou l argument porte le mieux.** Prochaine ville a interroger
+seule : **Belem par changement de source**, puis **Maceio**, **Joao Pessoa**, **Natal** et
+**Teresina**.
