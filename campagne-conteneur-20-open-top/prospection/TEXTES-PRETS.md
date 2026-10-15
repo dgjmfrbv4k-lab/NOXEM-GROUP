@@ -12408,3 +12408,163 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 207. TTR Vidros (Tres Rios, Rio de Janeiro) — `comercial@ttrvidros.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 16h52 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX, ET LA FICHE A CHANGE DE CLASSE EN UNE HEURE.** Le repertoire ABRAVIDRO la donnait
+*beneficiadora et fabricante plutot que distributrice*, donc defavorable. **Le second temps dit
+l inverse** : ils publient des epaisseurs de **FLOAT** — 4, 6, 8 et 10 mm — et d **EXTRA CLEAR**
+en 6, 8 et 10, a cote du trempe. **Le float et l extra-clair ne sortent pas d un atelier de trempe,
+ce sont des references de REVENTE** : publier leurs epaisseurs designe l ENTREE, au sens de la
+regle reecrite ce matin sur Olglass. **Classe negoce croisee avec une ligne**, comme Cyberglass.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Adresse sur leur page de contacts**, domaine du site, **aucune exception**. La boite
+  **commerciale** est preferee a une generique, regle de l agence du §13.
+- **⚠️ LEUR FOURNISSEUR DE MIROIR EST NOMME DANS LEUR GAMME, ET IL N EST PAS CITE DANS LE MESSAGE.**
+  Une marque dans une **gamme** dit qu on **achete**, donc prospect et non concurrent — et le nom
+  reste dehors, faute du paragraphe STADIP. **Le miroir n est donc pas propose ici**, puisqu ils ont
+  deja une source etablie et que la Gecex 833 l exclut de toute facon de l argument douanier.
+- **Porte de sortie OBLIGATOIRE** : fournisseur etabli sur au moins une reference.
+- **⚠️ Reserve de fraicheur** : pages datees de 1 400 a 2 600 jours, epaisseurs et coordonnees **a
+  confirmer au premier echange** — le message le fait en demandant plutot qu en affirmant.
+- **Trois interdits bresiliens du §6 tenus**, **antidumping employe au titre du §6**, aucun taux.
+
+**Objet :** `Float e extra clear em conteiner completo - segunda origem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos por uma coisa precisa das vossas paginas: os senhores publicam as
+espessuras do FLOAT e do EXTRA CLEAR que oferecem, e nao apenas as do que
+temperam. Quem anuncia chapa incolor em quatro espessuras a revende, e quem a
+revende a compra em volume. E e so disso que eu trato.
+
+Nao lhes ofereco nada do que os senhores produzem - nem temperado, nem as
+linhas decorativas. Apenas o substrato:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. Rio de Janeiro ou Santos, conforme lhes convier.
+
+Antes de qualquer numero preciso confirmar o que o site diz, porque algumas
+paginas tem alguns anos: quais espessuras de float e de extra clear os
+senhores de fato giram hoje, quais medidas de chapa lhes servem, uma ordem de
+grandeza do volume anual com a frequencia de compra, e o porto.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
+fonte estabelecida raramente tem lugar para outra. Se for o seu caso, diga-me
+com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 208. Smart Glass Rio (Rio Bonito, Etat de Rio de Janeiro) — `contato@smglass.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 15/10 A 16h52 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Ils se declarent **DISTRIBUIDORA** de verre et d accessoires. **Classe NEGOCE**,
+la deuxieme du tri, et l Etat de Rio met un port a portee.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE, ET TROIS PRECAUTIONS SONT PRISES.**
+- **⚠️ LE NOM EST UN NOM DE PRODUIT.** *Smart glass* designe le verre electrochrome dans tout le
+  metier. La fiche est suffixee **Rio** au registre, et **le message ne joue pas sur le mot** — on
+  ne leur parle pas de verre intelligent, qui n est pas notre gamme.
+- **⚠️ LA VILLE DU REPERTOIRE ETAIT FAUSSE** : Rio de Janeiro annonce, **Rio Bonito** en realite,
+  soixante kilometres plus a l est. **Le port cite tient compte de la correction.**
+- **⚠️ ET UN SEPTIEME PIEGE DE DOMAINE** : leur accueil affiche une adresse de vente sur
+  `smartglassbr.com` quand tout le reste du site est en `smglass.com.br`. **On retient celui du
+  site**, et l autre est note sans etre employe. `vendas@` est de surcroit du cote CLIENT.
+- **⚠️ CE QU ON NE SAIT PAS EST DEMANDE** : aucune epaisseur ni format de stock publie, donc le
+  critere du §6 n est pas verifie et le message **pose la question** au lieu de la supposer.
+- **Trois interdits bresiliens du §6 tenus**, **antidumping au titre du §6**, aucun taux, rien sur
+  le miroir ni le teinte.
+
+**Objet :** `Chapa em conteiner completo para distribuidora - segunda origem`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos porque os senhores se apresentam como DISTRIBUIDORA de vidros e
+acessorios. Quem distribui vive do estoque e repoe com regularidade, e e o
+unico tipo de casa para quem um conteiner completo e uma unidade normal e nao
+um risco.
+
+O que embarcamos e a chapa que entra no deposito:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao, como fato aduaneiro e nada mais: as medidas antidumping
+brasileiras em vigor sobre o float incolor alcancam origens asiaticas, e o
+vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
+origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+oferta para entrega no seu porto de destino, sujeita a validacao da nossa
+parte. O porto do Rio de Janeiro fica a cerca de uma hora de voces.
+
+E comeco pela pergunta que decide o resto, porque o vosso site nao a responde:
+os senhores mantem CHAPA em estoque, e em quais espessuras? Se compram ja
+cortado conforme o pedido, um conteiner completo nao lhes serve e prefiro
+saber agora. Se mantem estoque, preciso tambem das medidas que lhes convem, de
+uma ordem de grandeza do volume anual com a frequencia, e do porto.
+
+E se o abastecimento atual ja os cobre, diga-me com franqueza, que nao
+insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
