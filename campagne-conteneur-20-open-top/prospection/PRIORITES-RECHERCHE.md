@@ -820,3 +820,40 @@ Perth, Adelaide et Brisbane — **Walshs Glass, Glass Processing Australia et Gl
 **Candidats non qualifies du passage :** Downtown Glass et Lincoln Glass (deja crees), West Little Rock
 Glass, Doc s Glass (Nashville), Glass Images (Holland, Michigan), Canon Double Glazing et Monash Glass
 (Australie).
+
+
+### 12h03 — LE GISEMENT DES 51 IMPORTATEURS MEXICAINS : RESULTAT NEGATIF, A NE PAS RETENTER PAR CE CHEMIN
+
+Le §6 designe depuis le 12/10 l avis d ouverture de l enquete antidumping mexicaine sur le **vidrio de
+espejo** comme « le plus gros gisement d importateurs documentes rencontre jusqu ici » — **51 importateurs
+et 10 exportateurs** identifies comme parties interessees possibles. **Trois recherches y ont ete consacrees
+ce midi, dont une approfondie. La liste n est pas atteignable.**
+
+**CE QUI EST ETABLI, ET C EST PRECIS :** la liste existe bien, et une analyse juridique la situe **au point
+20 de la section D** de la resolution. Le texte integral est au DOF sous le code de note **5788109** du
+**21/05/2026**, et il est republie en PDF par plusieurs courtiers en douane mexicains. **Aucun des deux
+chemins ne rend le point 20** : les moteurs n indexent que les resumes et les premiers paragraphes.
+
+**CONDUITE : ne plus y depenser d appels de recherche.** C est le meme verdict que celui porte le 13/10 sur
+l USITC, dont les 42 importateurs sont *business-proprietary*, et il confirme la regle generale du §6 — **la
+piste des listes d importateurs depend entierement de ce que l autorite PUBLIE, et de ce qu un moteur en
+INDEXE**. Elle a marche au Mexique sur le dossier **float** et en Colombie parce que ces textes-la nommaient
+les parties dans des passages indexes.
+
+**ET C EST UN ARGUMENT DE PLUS POUR LA DEMANDE D ACCES RESEAU** portee dans `DECISIONS-AARON.md` : avec
+`dof.gob.mx` autorise, ces 51 noms se lisent en un appel. C est, a ma connaissance, le plus gros gisement
+nomme et non exploite de toute la campagne.
+
+**CE QUE LES TROIS RECHERCHES ONT QUAND MEME RENDU, ET IL FAUT LE CONSIGNER.**
+- **SIX NOMS CHINOIS A NE JAMAIS OUVRIR**, cites par la resolution comme exportateurs et producteurs du
+  miroir vise : **Rider Glass Company, Freddy Industries, Qingdao REXI Industries, Sinoy Mirror, Shenzhen
+  Sun Global Glass, Huayou Glass**. La Chine est exclue definitivement au §6, et ce sont par ailleurs des
+  concurrents directs sur le miroir. *Rider Glass* etait deja remontee le matin meme sur une recherche
+  philippine, via une place de marche.
+- **La douane d entree principale du miroir chinois est MANZANILLO**, ce qui est un fait de logistique utile
+  pour un futur chiffrage mexicain cote Pacifique.
+- **Et une confirmation qui vaut d etre dite :** les cinq importateurs mexicains tires du dossier **float**
+  le 12/10 — Ermita Comercial, Indimex Trading, Grupo Vitropanel, Templados del Centro et Wham Picture —
+  **sont bien les cinq qui figurent au texte**, et les cinq sont au registre. La methode a donc paye la ou
+  le texte etait lisible, ce qui separe proprement le probleme : ce n est pas la methode qui echoue ici,
+  c est l acces.
