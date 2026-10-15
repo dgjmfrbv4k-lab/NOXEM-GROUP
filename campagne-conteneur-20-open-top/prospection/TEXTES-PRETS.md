@@ -10028,10 +10028,12 @@ ferme, il le dit et je le remets — c'est sa décision de prix, §11, pas la mi
 ```
 Bonjour Madame Virassamy,
 
-Je vais vous envoyer nos meilleurs tarifs, d'accord.
+Notre objectif, c'est de vous trouver les meilleurs prix.
 
-Dites-moi simplement a quel prix vous seriez prete a acheter aujourd'hui,
-pour que nous soyons competitifs.
+Si vous avez un prix en tete, dites-le moi, cela m'aidera.
+
+Dans tous les cas, je reviens vers vous d'ici peu avec de meilleurs
+tarifs.
 
 Bien cordialement,
 
