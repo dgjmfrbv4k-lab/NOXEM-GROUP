@@ -1,3 +1,36 @@
+# 🔴 JEUDI 15/10, 10h31 — UNE SEULE CHOSE EST URGENTE AUJOURD'HUI, ET ELLE A UNE HEURE LIMITE : 14h00
+
+**MIRO EST ATTEND DE MEILLEURS TARIFS « DANS LA JOURNÉE », ET VOUS LE LUI AVEZ PROMIS DEUX FOIS CE MATIN.**
+
+| Ce qui s'est passé | Heure de Paris |
+|---|---|
+| Graziella Virassamy répond au devis du 14/10 : *« vos tarifs sont plus élevés que ceux que nous bénéficions avec nos différents partenaires, de ce fait nous ne donnerons pas suite »* | **09h35** |
+| Vous lui répondez (texte 152) : *« je vous envoie de meilleurs tarifs d'ici peu, dans la journée »* | **09h47** |
+| Vous lui répondez encore (texte 175) : *« je reviens vers vous d'ici peu avec de meilleurs tarifs »* | **09h58** |
+
+**⏰ ELLE FERME À 14h00 HEURE DE PARIS.** Ses horaires sont dans sa signature — lundi au jeudi 8h-12h et
+13h-16h **heure de La Réunion**, et La Réunion est à Paris plus deux. Aujourd'hui est un jeudi. Demain
+vendredi elle ferme à **13h00 de Paris**.
+
+**CE QU'IL FAUT DE VOUS, ET C'EST LA SEULE CHOSE QUI MANQUE : LE NOUVEAU PRIX.** C'est une remise, donc le
+§11, donc vous seul. Je ne peux ni le fixer ni le laisser entendre.
+
+**⚠️ ET JE NE CONNAIS PAS LES TROIS CHIFFRES DU DEVIS DU 14/10** — ils sont dans une pièce jointe que ce
+connecteur ne sait pas ouvrir. Donnez-les-moi avec le nouveau niveau et le texte part en deux minutes,
+en français, dans son fil. **Sans eux je travaille à l'aveugle sur le dossier le plus avancé de la campagne.**
+
+**MA RECOMMANDATION, en une ligne :** ne pas renvoyer une grille entière. Lui donner **un** prix revu sur la
+**seule** référence qu'elle achète le plus — le 44/2 clair ou le 8 mm — et redemander son chiffre. Une remise
+générale sans contrepartie dit que le premier prix était gonflé ; une remise ciblée contre une information
+est un échange.
+
+**ET SI VOUS PRÉFÉREZ L'APPELER PLUTÔT QUE D'ÉCRIRE, le script est prêt dans `APPEL-MIRO-EST.md`.** Elle
+est joignable au **+262 6 92 61 69 40** (GSM de la cogérante) jusqu'à 14h00 de Paris. L'appel vaut mieux que
+l'e-mail ici : elle a déjà écrit qu'elle ne donnait pas suite, et un écrit de plus se classe plus vite
+qu'une voix.
+
+---
+
 # ⏱ MERCREDI 14/10, 11h17 — TABLEAU DE BORD DE CE QUI EST BLOQUE, A LIRE EN PREMIER
 
 **29 fiches et 5 demandes de prix attendent une decision.** Ce tableau ne remplace pas les

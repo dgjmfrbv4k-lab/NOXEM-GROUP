@@ -1697,6 +1697,23 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 **Une seule fois veut dire une seule fois** : ne pas la repeter, ne pas la doubler d'un « Best
 regards » signe plus haut, et ne jamais y faire figurer le +33 7 69 72 58 92, qui est mort.
 
+**⚠️⚠️ ET CE DEFAUT SE RETOURNE EN TEST D'AUTEUR, TROUVE LE 15/10 A 10h31 — C'EST LE SEUL BON COTE DE
+L'AFFAIRE ET IL EST UTILE TOUS LES JOURS : LA SIGNATURE DIT QUI A ENVOYE LE MESSAGE.**
+Puisque l'API n'ajoute **jamais** la signature configuree dans l'interface, et que le client web et
+mobile l'ajoute **toujours** :
+· un message de `in:sent` **sans** bloc de signature a ete envoye **par le connecteur**, donc par moi ;
+· un message **avec** la signature complete, image comprise, a ete envoye **par Kevin ou Aaron depuis
+  leur propre client**.
+**CAS REEL : le fil Miro Est du 15/10.** Deux reponses y figuraient, a 09h47 et a 09h58, que je n'avais
+pas envoyees et dont rien ne disait d'ou elles venaient. Les deux portent la signature complete : elles
+sont de Kevin. **Sans ce test j'aurais soit cru a un envoi de ma part, soit marque le texte « pas
+envoye » alors qu'il etait parti** — et c'est precisement ce que j'avais ecrit dans `TEXTES-PRETS.md`
+pendant une heure.
+**Cela repond aussi, partiellement, au probleme du §13 : « Aaron envoie depuis ces boites et je ne le
+vois pas ».** Je ne vois toujours pas ce qui part de l'ancienne boite, mais **dans la boite Workspace je
+peux desormais distinguer ses envois des miens**, sans avoir a le lui demander. A lire avant de conclure
+qu'un client n'a pas repondu ou qu'un message n'est pas parti.
+
 Ne jamais se presenter comme trader ou negociant : **fournisseur de verre plat**.
 
 **UN REBOND PEUT ARRIVER PLUS D'UNE HEURE APRES L'ENVOI — mesuré le 08/10.** Le rebond

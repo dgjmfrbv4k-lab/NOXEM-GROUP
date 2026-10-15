@@ -9967,10 +9967,25 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ---
 
 ## 175. Miro Est (Saint-André, La Réunion) — `miroestgestion@orange.fr` — RÉPONSE AU REFUS SUR LE PRIX
-### ⚠️ TEXTE DICTÉ PAR KEVIN LE 15/10 — PRÉPARÉ, PAS ENVOYÉ. EN ATTENTE DE SON ACCORD EXPRÈS.
+### ⚠️ TEXTE DICTÉ PAR KEVIN LE 15/10 — **ENVOYÉ PAR LUI À 09h58**, PAS PAR MOI.
 
-**⚠️ RIEN N'EST PARTI. Et c'est la nouvelle règle du §5, posée par Kevin ce matin à 09h42 :
-plus aucun envoi sans son accord exprès, demandé et obtenu, message par message.**
+**⚠️⚠️ MIS À JOUR LE 15/10 À 10h32 APRÈS RELECTURE DU FIL COMPLET, ET IL FAUT LE DIRE PRÉCISÉMENT PARCE QUE
+CE TEXTE A ÉTÉ MARQUÉ « PAS ENVOYÉ » PENDANT UNE HEURE ALORS QU'IL ÉTAIT PARTI.** Le fil
+`1a13e7cb5aa4814b` porte trois messages : la cliente à 09h35, une première réponse à **09h47** et
+celle-ci à **09h58**. Les deux réponses sont parties **de la main de Kevin**, depuis son propre client.
+
+**LA PREUVE EST MATÉRIELLE ET ELLE VAUT POUR TOUTE LA SUITE : les deux portent la SIGNATURE COMPLÈTE,
+image comprise.** Le §10 a établi le 12/10 que l'API Gmail n'ajoute **jamais** la signature configurée
+dans l'interface. Un envoi par connecteur sort donc sans signature, un envoi depuis son client en porte
+une. **C'est le test qui permet, désormais, de dire qui a envoyé quoi sans avoir à le demander.**
+
+**ET C'EST EXACTEMENT LA RÉPARTITION QUE LA CONSIGNE DU 15/10 INSTALLE : je rédige, il envoie.** La
+règle du §5 a fonctionné comme prévu — rien n'est parti de moi, et le texte était prêt quand il en a eu
+besoin.
+
+**⏰ CE QUI RESTE DÛ, ET IL Y A UNE HEURE LIMITE : de meilleurs tarifs sont promis DEUX FOIS « dans la
+journée », et Miro Est ferme à 14h00 de Paris** (16h00 à La Réunion, qui est à Paris plus deux). Il
+manque le prix, qui est une décision du §11. Porté en tête de `DECISIONS-AARON.md`.
 
 **CE QUI S'EST PASSÉ.** Le 14/10 à 09h48 de Paris, Kevin a envoyé la proposition CIF Pointe des
 Galets — trois offres (44/2 clair, verre clair 8 mm, conteneur mixé) plus des références
