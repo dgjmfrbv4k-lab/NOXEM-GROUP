@@ -1053,3 +1053,20 @@ filtres se cumulent : on interroge seule, puis on trie par metier.
 **deux domaines** portes par la fiche Ohio Glass Distributor, `ohioglassdistributor.com` et
 `ohglass.com`. La question du §13 — une seule maison a deux adresses, ou deux societes — reste donc
 ouverte et se leve au second temps avant tout envoi.
+
+## 14h35 — SINDIVIDROS-RS ECARTE SANS DEPENSER LA SUITE, ET LE NOM AVAIT PREDIT LES DEUX ECHECS
+
+Derniere entite regionale brésilienne de la liste des treize qui restait plausible, et **elle echoue
+sur les DEUX conditions posees le 15/10** — la bonne classe de metier ET une liste nominative.
+· **Pas de liste.** C est un **sindicato**, et la regle disait qu un syndicat publie rarement ses
+  affilies la ou une association le fait souvent. Verifie : la convocation d assemblee confirme qu il
+  a bien des associes, **et aucune liste nominative n est publiee**. Il faudrait la demander au siege.
+· **Mauvaise classe, et melangee.** Son intitule complet est *Sindicato das Industrias de Vidros,
+  Cristais, Espelhos, **Ceramica de Louca e Porcelana***, et ses segments annonces melangent le verre
+  plan avec le **vidro oco**, les optiques et la porcelaine. C est la famille de pieges du §5 —
+  *cristais* et verre creux — au niveau de la federation cette fois.
+**AUCUN APPEL DEPENSE AU-DELA DU PREMIER**, qui a suffi. Restent Amvid (Minas Gerais) et Avigo
+(Goias), **toutes deux a l interieur des terres**, donc frappees par la reserve de Brasilia : mille
+kilometres de post-acheminement mangent l avantage douanier. **Elles passent apres les entites
+cotieres**, et la methode de la federation est desormais epuisee au Bresil pour ce qu elle pouvait
+rendre a bon compte.

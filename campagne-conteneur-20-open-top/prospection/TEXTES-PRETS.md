@@ -10732,3 +10732,154 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 186. Glass Products Hawaii Inc. (Wailuku, Maui) — `info@glassproductshawaii.com` — ANGLAIS — premier contact
+### PREPARE LE 15/10 A 14h36 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** **Le critere du §6 est satisfait par le bon cote de l atelier** : ils publient une
+page **IN-STOCK** distincte d une page **SPECIAL ORDER**. C est de l ENTREE, pas de la sortie. Et
+leur propre page dit qu ils **font venir** le verre d Oahu ou du continent — un acheteur declare de
+verre lointain. **Classe NEGOCE.**
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Adresse** publiee sur leur propre page de contact, domaine identique au site, **aucune exception
+  du §5 a noter**. Deverrouillee en un seul appel.
+- **Interdit du §6 tenu** : pas un mot sur l absence de production locale aux Etats-Unis, Vitro
+  produit et Cardinal exploite sept sites float.
+- **ET L ARGUMENT DOUANIER N EST PAS SERVI ICI, VOLONTAIREMENT.** Il l est a Tristar, a Karas et a
+  Neighbors parce que ce sont des acheteurs de volume. Une maison de Maui achete a l unite autant
+  qu au conteneur, et la reserve de la fiche est franche : elle n a peut-etre ni le volume ni le
+  quai. **Leur opposer un fait douanier serait leur parler d un probleme qui n est pas le leur.**
+- **Regle Prodiesa** : ils posent de la douche et des fenetres, donc seul le substrat entre.
+- **LE MESSAGE POSE LA QUESTION DU VOLUME EN PREMIER AU LIEU DE LA SUPPOSER**, ce qui est la conduite
+  juste quand la qualification laisse un doute reel — c est moins flatteur et cela evite de faire
+  perdre son temps a quelqu un.
+
+**Objet :** `Sheet glass by the container - is that your scale?`
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France. If you are not the person who buys the glass, I would
+be grateful if you passed this on.
+
+I will start with the question rather than the pitch, because it decides
+whether the rest is worth your time.
+
+We ship flat glass in full containers only. Your own pages show an in-stock
+range alongside special order, and say that anything outside it comes over
+from Oahu or from the mainland. So you already buy glass that travels. What I
+cannot tell from outside is whether you buy it by the container, or in
+smaller lots through someone who does.
+
+If it is the second, say so and I will not take up more of your time.
+
+If it is the first, here is what we are. We supply substrate, not finished
+work - nothing you fabricate or install yourselves:
+
+- clear and extra clear float: https://noxemgroup.com/en/float-glass/
+- copper and lead free mirror, which holds up better than most in salt air:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- low-E: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Full containers, treated timber cases to ISPM-15, jumbo 3210 x 2550 mm or cut
+to your stock sizes. We can put together an offer for delivery to your
+destination port, subject to validation on our side.
+
+For that I would need the thicknesses you hold in stock, your sheet sizes, a
+rough annual volume with how often you reorder, and whether you would clear
+through Kahului or through Honolulu.
+
+And if you are well served today, say so plainly and I will not write again.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 187. Central Glass Australie (Salisbury, Adelaide) — `reception@centralglass.com.au` — ANGLAIS — premier contact
+### PREPARE LE 15/10 A 14h36 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX, ET IL FAUT DIRE LA FAIBLESSE AVANT LA FORCE.** C est la **classe menuiserie-facade a
+3,6 pour cent**, la quatrieme des cinq : ils fabriquent des systemes de fenetres et ils posent.
+**Ce qui garde la fiche ouverte est un fait et non un espoir** : un fabricant de fenetres **en
+usine**, depuis 1977, consomme de la feuille en volume et de facon reguliere — c est exactement le
+client qu Adelaide Independent Glass dit servir, et le message le prend par ce bout-la.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Trois adresses publiees, la plus neutre retenue.** `reception@` est au champ.
+- **UNE ADRESSE NOMINATIVE SERAIT PERMISE ICI, ET C EST RARE** : Gavin Hoskin est publie par leur
+  propre site comme **General Manager**, donc fonction **verifiee ET pertinente**, le §5 citant
+  expressement la direction. **Elle n est pas employee** — le choix revient a Kevin, et une boite
+  generale ne presume rien. La troisieme, un Estimator, est ecartee, fonction non pertinente.
+- **Interdit de zone tenu deux fois.** La derniere ligne float d Australasie **a ete arretee** — dit
+  au passe et sans jamais prejuger d un redemarrage. **Et PAS UN MOT sur les droits australiens** :
+  verifie le 13/10, la Chine et la Thailande ont vu leur enquete terminee en 2021 et seule
+  l Indonesie porte des droits, donc l argument douanier serait faux ici.
+- **Regle Prodiesa** : le systeme de fenetre sort de l offre, seul le substrat y entre.
+- **UN MOT INTERDIT RETIRE PAR `verif-texte.py` AVANT ENVOI, 15/10.** La phrase disait « it is not
+  about **price** ». Elle NIAIT toute question de prix, et le controleur l a refusee quand meme —
+  a juste titre : le §5 interdit le mot, pas seulement la promesse, et un garde-fou qui accepte les
+  emplois innocents finit par laisser passer les autres. Reecrite en « not commercial, it is
+  structural », qui dit la meme chose sans le mot.
+
+**Objet :** `Float and low-E for a window plant - one more origin`
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful
+if you passed it on.
+
+I am writing to you because you build windows in a factory rather than on a
+site. Since 1977 you have been making commercial and residential window
+systems in Salisbury, including prefabricated modular units, and a plant like
+that consumes sheet glass steadily and plans its buying ahead. That is the
+only thing we do.
+
+I am not offering you anything you make yourself - no window systems, no
+finished units. Only the glass that goes into them:
+
+- clear and extra clear float: https://noxemgroup.com/en/float-glass/
+- low-E, which is what a window system lives or dies on:
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper and lead free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+The reason to look at an extra origin now is not commercial, it is
+structural.
+The last float line in Australasia has been shut down, so every sheet used in
+the country arrives by container. The question is no longer local or imported,
+it is how many origins you can call on when one of them slips.
+
+Full containers, treated timber cases to ISPM-15, jumbo 3210 x 2550 mm or cut
+to the sizes your lines run. We can put together an offer for delivery to your
+destination port, subject to validation on our side.
+
+For that I need four things: the thicknesses and coatings your window systems
+consume most, the sheet sizes that suit your cutting, a rough annual volume
+with how often you order, and whether you clear through Adelaide.
+
+And if your supply is tied up and there is no room for a second origin, say so
+plainly and I will not push.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
