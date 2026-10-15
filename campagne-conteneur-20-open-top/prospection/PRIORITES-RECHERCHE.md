@@ -903,3 +903,61 @@ Honolulu et Anchorage, ou Savage Wholesale a deja une implantation.
    exploitable, **Jargo Glas** aux Pays-Bas, et il bute sur la reserve de perimetre europeen du §6.
 
 **Registre a 1393 fiches a cette heure.**
+
+
+---
+
+## CARTE DE SATURATION AU 15/10 A 13h49 — A LIRE AVANT DE DEPENSER LE PREMIER APPEL DEMAIN
+
+Quinze recherches de decouverte ont ete lancees aujourd hui. **Voici ou il reste quelque chose et ou
+il ne reste rien**, pour qu aucune de ces zones ne soit refaite.
+
+### VEINES OUVERTES — a reprendre en premier
+| Zone | mesure du 15/10 |
+|---|---|
+| **Barranquilla et cote caraibe colombienne** | **7 noms, 7 absents** — meilleur rendement du jour |
+| **Seattle et Tacoma** | 9 noms, **5 absents** |
+| Denver et Minneapolis | ~12 noms, **4 utiles** — mais loin de tout port |
+| Merida et golfe du Mexique | **1 nom utile**, et le seul reliant le Yucatan a Veracruz |
+
+### ZONES FAITES — ne plus y depenser d appels
+| Zone | mesure |
+|---|---|
+| **Calgary et Winnipeg** | 9 noms, **0 absent**. Les trois vrais grossistes de l Ouest canadien sont au registre |
+| **Guadalajara** | 5 noms, 4 deja presents, le cinquieme de mauvaise classe |
+| **Melbourne, Adelaide, Auckland, Christchurch** | 11 noms, **8 deja presents** |
+| **Caraibe anglophone** (Jamaique, Trinite, Barbade) | 3 noms, **3 deja presents** |
+| Republique dominicaine | 9 noms, 4 deja presents, 3 fermes par la regle du §5 |
+| Sud-Est americain (Atlanta, Charlotte) | 4 noms, **1 absent** |
+| Ohio et Michigan | Clearvue et Curved Glass deja presents, Great Lakes = bras d AIG |
+| **Hawai** | **un seul grossiste existe, Savage Wholesale, et il est au registre** |
+
+### ⚠️ ET LA RECHERCHE PAR METIER PLUTOT QUE PAR GEOGRAPHIE EST SATUREE AUSSI, AUX ETATS-UNIS
+Essayee cet apres-midi sur les auto-descriptions qui correlent avec nos meilleures classes —
+*importer of float glass*, *stocking distributor*, *glass merchants*. **Sept noms rendus, CINQ deja
+au registre** : GGI, Bear Glass, Western States Glass, Wholesale Glass and Supplies, Fab Glass,
+auxquels s ajoutent Glass Enterprises et Glaz-Tech deja connus. **Et les deux noms neufs ne valent
+pas une fiche** — *Build Source Direct*, dont la page est bourree de mots-cles au point que le
+moteur lui-meme conseille de verifier ses affirmations, et *Wholesale Glass Ltd* a Ossett, qui tombe
+sous la reserve europeenne du §6 et qui est de surcroit **distributeur AGC**, donc fourni par un
+producteur float.
+**CONCLUSION : la couche americaine de bonne classe est reellement prise.** Ce n est plus la methode
+qui sature, comme le 14/10 le montrait, c est le gisement lui-meme sur ce pays.
+
+### CE QUI N A PAS ENCORE ETE TENTE, par ordre de valeur
+1. **Norfolk et Hampton Roads** — non teste, et c est un port. *(Baltimore et Norfolk ont rendu trois
+   noms dont un seul neuf, donc la facade est a moitie faite.)*
+2. **Columbus** et **Anchorage** — n ont rien rendu dans une requete groupee, **ce qui est une absence
+   de resultat et non un verdict**. A interroger seules.
+3. **Chili hors Santiago** — Valparaiso et Concepcion, jamais decomposes.
+4. **Perou, Bolivie, Paraguay, Uruguay** — le §6 declasse le Perou faute d avantage douanier, mais
+   aucun des quatre n a ete decompose par region.
+5. **Cali et Medellin** — la Colombie vient de prouver que la decomposition y paie.
+
+### CE QUI EST EPUISE ET NE DOIT PLUS ETRE RETENTE
+- **Les federations bresiliennes restantes** : AMVID, AVIGO et Sindividros-RS ne remontent sur
+  **aucune** recherche. La methode s arrete a 2 entites productives sur 9.
+- **La rubrique distributeurs de glassonweb** : 4 noms, 1 seul exploitable, et il bute sur la reserve
+  europeenne.
+- **Les listes d importateurs des dossiers antidumping** : deja epuisees au Bresil (donnees Receita
+  non publiees), aux Etats-Unis (noms *business-proprietary*), et le Mexique demande `dof.gob.mx`.
