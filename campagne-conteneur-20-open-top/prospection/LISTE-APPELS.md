@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **15/10/2026** depuis le registre. **220 societes** portent un telephone et
+Regeneree le **15/10/2026** depuis le registre. **225 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 220 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 225 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 199 societes
+## Hors Europe — 204 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | États-Unis | **Hourglass DFW** | `+1 469 677 5738` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 15/10 DANS LA MATINEE EN A APPELER, et c est un verdict motive et non une absence de recherche. Mot distinctif grepe avant creation, hourglass, ABSENT. Second temps FAIT sur leur propre domaine. ⚠️ LA SEULE ADRES... |
 | Algérie | **Technoglass** | `+213 555 62 47 74` | 10h00 - 18h00 · **dim-jeu** | A APPELER | IMPORTATEUR DECLARE. Aucune adresse publiee. Port Djendjen ou Bejaia. VERIFIE LE 08/10, TOUJOURS SANS ADRESSE EXPLOITABLE. Profil confirme et interessant : importation distribution et transformation du verre depuis 1987, SARL c... |
 | Colombie | **Importadora C&C SAS** | `+57 318 372 9621` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 13/10 A 08h24. Nom grepe avant creation, importadora c, absent : la seule correspondance etait Importadora Crispieri au Chili, autre societe. PIEGE DE DOMAINE A SIGNALER, et il est inverse de l habituel : leur do... |
+| États-Unis | **US Glasstech Hub** | `+1 405 506 0884` | 15h00 - 23h00 | A QUALIFIER | FICHE CREEE LE 15/10 A 11h51. ⚠️ MOT DISTINCTIF GREPE AVANT CREATION, glasstech, ET IL REND SEPT FICHES — Azerbaidjan, Bahrein, Qatar, Emirats, Ghana, Canada et Caroline du Nord. AUCUNE n est americaine de l Oklahoma : c est la... |
 | États-Unis | **Flower City Glass** | `+1 585 546 8646` | 15h00 - 23h00 | A APPELER | MEILLEURE PRISE DU LOT NEW-YORKAIS, ET L ETAT DE NEW YORK HORS NEW YORK VILLE N AVAIT AUCUNE FICHE. CLASSE NEGOCE. Ce qui la qualifie est explicite sur leur propre page de gros : les clients reguliers peuvent OUVRIR UN COMPTE A... |
 | Bolivie | **Cristales Templados Bolivianos — Cristembo** | `+591 4 268042` | 15h00 - 23h00 | A APPELER | Trempeur donc acheteur de float. Pays enclave, transit via Arica. Aucune adresse publiee : a appeler. PREMIER TEMPS DE LA METHODE REUSSI LE 08/10, SECOND TEMPS NON FAIT FAUTE DE BUDGET DE RECHERCHE. Domaine propre etabli et con... |
 | Indonésie | **PT Matahari Silverindo** | `+62 24 761 7600` | 04h00 - 12h00 | A APPELER | ANGLE TECHNIQUE PRECIS : ils argentent, et l argenture ne pardonne pas — chaque defaut du substrat est rendu permanent et double par le reflet, donc la qualite float exigee est plus stricite qu en vitrerie. Et le miroir haut de... |
@@ -222,6 +223,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Martinique | **Point Mat** | `+596 596 564 700` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 12/10 A 11h18 par recherche sur les negoces de materiaux antillais. Nom grepe avant creation, pointmat, absent. METIER : negoce de materiaux depuis 1996, reseau de CINQ A SIX magasins en Martinique - les deux chi... |
 | Oman | **Abu Nadil Trade Services** | `+968 9574 1661` | 07h00 - 15h00 · **dim-jeu** | A APPELER | FICHE CREEE LE 08/10 A 17h10 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Site propre abunadilwindowtec.com. USINE PROPRE A AL JIFNAIN et bureau a Al Ghubra a Mascate... |
 | Paraguay | **Alutex S.A.** | `+595 982 884 209` | 14h00 - 22h00 | A APPELER | Trempeur donc acheteur de float. Aucune adresse publiee : a appeler. Transit via Montevideo. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : leur site n offre qu un formulaire. Reste un dossier telephonique, mais la fiche gagne un f... |
+| États-Unis | **Milwaukee Plate Glass Co.** | `+1 414 771 5660` | 15h00 - 23h00 | A APPELER | LE WISCONSIN N AVAIT AUCUNE FICHE. ⚠️ ET LA RAISON SOCIALE PORTE PLATE GLASS, c est-a-dire le verre plat en toutes lettres et dans la terminologie ancienne — signe d une maison etablie de longue date sur ce produit. C est le me... |
 | Antigua-et-Barbuda | **Summum Ltd** | `+1 268 562 6286` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee dans les resultats. A qualifier par telephone : verifier la taille et si la societe traite le verre. |
 | Barbade | **Odoll's Aluminum & Glass (1986) Ltd** | `+1 246 424 7833` | 15h00 - 23h00 | A APPELER | Adresse masquee par l'annuaire. Port Bridgetown. Precision du 07/10 : plus de 35 ans de revente, pose et fabrication de fenetres et portes. Port Bridgetown. |
 | Barbade | **Glassesco Hardware** | `+1 246 427 3060` | 15h00 - 23h00 | A APPELER | 132-133 Roebuck Street St. Michael. Se presente comme le specialiste verre et miroir de l ile. Aucune adresse publiee : a appeler. Port Bridgetown. METHODE EN DEUX TEMPS APPLIQUEE LE 08/10 : AUCUN DOMAINE PROPRE. Un annuaire do... |
@@ -256,6 +258,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Mexique | **Cristales Cuauhtemoc S.A.** | `+52 222 249 4250` | 17h00 - 01h00 | A APPELER | Creee le 13/10 a 17h10. Mot distinctif grepe avant creation, cuauhtemoc, absent du registre. Trois etablissements releves, Avenida 29 Poniente 3322 a Santa Cruz Los Angeles, une succursale Av. 31 Poniente 3331 aux Animas, et un... |
 | Suriname | **Xin Li Glashandel** | `+597 401 318` | 14h00 - 22h00 | A APPELER | Van t Hogerhuysstraat 15 Beekhuizen Paramaribo. Aucune adresse email publiee : a appeler ⚠ TRAVAILLEE LE 14/10 A 11h05, ET LE RESULTAT CORRIGE LA FICHE PLUTOT QUE DE L OUVRIR. Un, LE DOMAINE PROPRE A ETE TROUVE, xinli.sr, que c... |
 | Suriname | **Crystal Bouwmaterialen & Glashandel** | `+597 442 468` | 14h00 - 22h00 | A QUALIFIER | FICHE CREEE LE 14/10 A 11h05. Mot distinctif grepe avant creation, crystal, les trois correspondances etant nigerianes et egyptiennes, donc ABSENT du Suriname. LE SURINAME N AVAIT QUE DEUX FICHES, dont une sans aucune coordonne... |
+| États-Unis | **Cully Glass Corporation** | `+1 412 321 5150` | 15h00 - 23h00 | A APPELER | PITTSBURGH N AVAIT AUCUNE FICHE. CLASSE NEGOCE : ils se decrivent eux-memes comme DISTRIBUTEUR de verre et de miroirs pour le Grand Pittsburgh, maison familiale depuis 1980. Quarante-cinq ans sur un marche industriel ancien, et... |
 | Maroc | **Somaver — Société Marocaine du Verre** | `+212 5 22 35 05 66` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source Kompass, qui decrit l activite en propres termes. Aucune adresse ni telephone releves... |
 | Arabie saoudite | **Al Tbaynawi Glass** | `+966 16 532 5322` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Four Glaston et ligne de vitrage isolant LiSEC, trempe annoncée de 1600 m² par 10 heures. Pas d adresse publiee : appeler. Port Dammam. DEUX ERREURS DANS CETTE FICHE, corrigees le 08/10. PREMIERE : la societe est a HAIL et non ... |
 | Canada | **All Team Glass** | `+1 905 851 7711` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : le site ne donne que des telephones. Reste un dossier telephonique, et il est bien documente. Ligne principale 905-851-7711, numero gratuit 1-800-363-4651. Adre... |
@@ -263,9 +266,11 @@ ne pas les appeler en se presentant comme un premier contact.
 | Guyane | **ALUVER Guyane** | `+594 594 31 20 50` | a verifier | A APPELER | Fiche creee le 09/10/2026 13h07 CEST. LA GUYANE ETAIT A ZERO FICHE AU REGISTRE alors que c est un departement approvisionne par conteneur et DANS le perimetre de la campagne — le paragraphe 6 n exclut que la metropole. ALUVER e... |
 | Koweït | **Aluminum Glass Kuwait** | `+965 66468763` | 08h00 - 16h00 · **dim-jeu** | A QUALIFIER | FICHE CREEE LE 08/10 A 17h10 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Site propre kuwaitaluminumexperts.com. Annonce des panneaux aluminium vitres en verre depoli... |
 | Singapour | **Reliance Safety Glass Pte Ltd** | `+65 6755 4555` | 03h00 - 11h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 22h22 ET TELEPHONIQUE D EMBLEE. Grep reliance fait avant creation, absente. Remontee du second temps mene sur Singapore Safety Glass. MOTIF : LEUR ADRESSE EST OBFUSQUEE. La recherche restreinte a rel... |
+| États-Unis | **Capital Glass and Mirror Baton Rouge** | `+1 225 293 8440` | 15h00 - 23h00 | A QUALIFIER | FICHE CREEE LE 15/10 A 10h37. ⚠️ NOM SUFFIXE A LA CREATION, ET C EST NECESSAIRE : le registre porte deja une CAPITAL GLASS DISTRIBUTOR a San Marcos au Texas, societe sans aucun rapport. Le grep sur capital glass a bien rendu la... |
 | Haïti | **L Union Quincaillerie Materiaux de Construction** | `+509 35 27 03 30` | 15h00 - 23h00 | A QUALIFIER | La fiche ne mentionne pas de vitrerie : rien ne dit qu ils vendent du verre. Priorite basse, a qualifier avant tout effort. |
 | Sénégal | **SK ALU** | `+221 65 944 90 80` | 11h00 - 19h00 | A APPELER | Petite structure, à qualifier.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relance comme au decompte des fiches jamais contactees. Aucune adresse publiee, donc dossier... |
 | Équateur | **Faiquito S.A.** | `+593 2 380 1320` | 16h00 - 00h00 | A QUALIFIER | FICHE CREEE LE 14/10 A 17h35 ET NON ENVOYEE, pivot export. Mot distinctif grepe avant creation, faiquito, absent du registre. ADRESSE DISPONIBLE ET DELIBEREMENT NON PORTEE AU CHAMP, et c est une decision, pas un oubli. Leur pag... |
+| États-Unis | **Big River Glass** | `+1 225 925 8338` | 15h00 - 23h00 | A QUALIFIER | FICHE CREEE LE 15/10 A 10h37. Mot distinctif grepe avant creation, big river, ABSENT. Domaine propre bigriverglass.com repere, ce qui la distingue des autres noms du releve qui n ont qu une entree d annuaire. CLASSE A PRECISER ... |
 
 ## Europe — 21 societes
 
