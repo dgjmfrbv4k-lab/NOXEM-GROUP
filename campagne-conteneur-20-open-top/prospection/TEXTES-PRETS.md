@@ -11225,3 +11225,158 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+---
+
+## 192. Vidrios Mas Vidrios y Aluminios (Cartagene) — `info@vidriosmasvidrios.com` — ESPAGNOL — premier contact
+### PREPARE LE 15/10 A 14h42 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** Maison familiale de 1994, **distribution au gros** a Cartagene sur deux sedes plus
+une a Monteria. **Cartagene est un port majeur**, et c est la ville voisine de Barranquilla, qui a
+donne le meilleur rendement de la journee. Fiche nee de la regle **une ville par requete**.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE, ET LE TEXTE EST BATI SUR UNE QUESTION PARCE QUE LA
+QUALIFICATION LAISSE UN TROU REEL.**
+- **⚠️ LE FLOAT N EST PAS NOMME DANS LEUR GAMME.** Ils annoncent du reflechissant, de l ondule, du
+  feuillete et des **miroirs** — des verres **transformes**. Ils revendent donc vraisemblablement
+  du produit faconne et non de la feuille brute. **Aucune epaisseur ni format publies**, donc le
+  signal de stock est absent. **Le message POSE la question au lieu de la supposer**, ce qui est la
+  conduite juste quand le doute est reel, et c est la meme que pour Glass Products Hawaii.
+- **LE MIROIR EST LE BON ANGLE, ET C EST LE SEUL QUI PORTE EN COLOMBIE — le mot antidumping est
+  employe au titre du §6**, qui etablit la mesure colombienne sur source de premier rang. La mesure du MinCIT vise
+  le **miroir chinois non encadre** — rien d equivalent n existe sur le float, donc servir
+  l argument douanier sur du float colombien serait faux. **Formulation prudente obligatoire** : on
+  dit que la mesure **figure parmi les droits en vigueur publies par le MinCIT**, ce qui est
+  verifiable, et **aucun chiffre n est cite**.
+- **Espejos S.A.S. n est pas nomme** : c est le demandeur de la mesure, donc un **concurrent**.
+- **Interdit colombien tenu** : jamais l absence de production locale, **Vidrio Andino produit du
+  float a Soacha**.
+- **Adresse** sur leur propre domaine, aucune exception du §5.
+
+**Objet :** `Espejo y lamina en contenedor completo - una pregunta primero`
+
+```
+Estimados senores,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de cotizacion. Si no es usted quien compra, le agradeceria que
+la haga llegar a quien compra.
+
+Empiezo por una pregunta, porque de su respuesta depende que lo demas le
+sirva de algo. Su gama anuncia reflectivo, ondulado, laminado y espejo, es
+decir vidrio ya transformado. Lo que no dice su sitio es si ustedes mantienen
+LAMINA en bodega y en que espesores, o si compran el producto ya procesado
+segun el pedido. Un contenedor completo solo tiene sentido en el primer caso.
+
+Si compran procesado, digamelo y no le quito mas tiempo.
+
+Si mantienen lamina, hay una referencia en la que vale la pena que me
+escuche, y es justamente la que ustedes ya venden. Sobre el espejo sin
+enmarcar de origen chino, el Ministerio de Comercio publica una medida
+antidumping entre sus derechos vigentes. No es una oferta ni una promesa
+nuestra, es un hecho aduanero, y cambia la comparacion entre origenes para esa
+referencia y para ninguna otra.
+
+Nuestro espejo es sin cobre ni plomo, y en el Caribe esa diferencia se nota en
+lo que aguanta el azogue frente al aire salino:
+https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Tambien embarcamos float incoloro y extra claro
+https://noxemgroup.com/en/float-glass/ y vidrio de baja emisividad
+https://noxemgroup.com/en/low-e-glass-low-emissivity/. Las paginas estan en
+ingles, nuestro sitio existe solo en frances e ingles, y cualquier referencia
+se la explico en espanol.
+
+Embarcamos en CONTENEDOR COMPLETO, en cajas de madera tratada NIMP-15, en
+jumbo de 3210 x 2550 mm o en medidas a pedido. Podemos establecer una oferta
+para la entrega en su puerto de destino, bajo reserva de validacion de nuestra
+parte. Cartagena, en su caso, que lo tienen en casa.
+
+Y si estan bien servidos hoy, digamelo con franqueza y no insistire.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 193. US Glasstech Hub (Oklahoma City) — `usglasstech@gmail.com` — ANGLAIS — premier contact
+### PREPARE LE 15/10 A 14h42 — PAS ENVOYE. EN ATTENTE DE L ACCORD EXPRES DE KEVIN.
+
+**POURQUOI EUX.** **L Oklahoma n avait aucune fiche.** Ils se declarent grossiste verrier de l Etat,
+verre architectural, de securite, decoratif et miroir. **Classe NEGOCE.**
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE, ET LE FAIT CENTRAL JOUE DANS LES DEUX SENS.**
+- **⚠️ ILS SONT DISTRIBUTEUR EXCLUSIF DE SAINT-GOBAIN POUR L OKLAHOMA**, et leur gamme nomme
+  Planilux. **Une marque dans une GAMME dit qu on ACHETE**, donc c est un **prospect** et non un
+  concurrent, et on sait exactement contre qui l on se place. **Mais le mot EXCLUSIF annonce un
+  contrat cadre** : la **porte de sortie du §9 est obligatoire** et la probabilite est modeste.
+  **Elle est mise tres haut dans le message, au deuxieme paragraphe**, parce qu il serait malhonnete
+  de la glisser a la fin apres avoir fait mine d ignorer le mot.
+- **⚠️ SAINT-GOBAIN N EST PAS NOMME DANS LE TEXTE.** Le fait choisit l angle et reste dehors —
+  faute du paragraphe STADIP, comme Cristal Sete et Monash.
+- **Exception anti-rebond notee** : les trois boites publiees sont des **gmail** et non des boites
+  de leur domaine. L exception du §5 joue, c est **leur propre page** qui les publie et leur domaine
+  figure bien dans les URL de resultats. **La plus generique est au champ.**
+- **Deux boites nominatives ecartees par la FONCTION** : le directeur **commercial** est du cote
+  client, piege MunnWorks — et sa boite porte d ailleurs le nom du producteur — et la secretaire
+  n a pas de fonction pertinente aux achats.
+- **⚠️ AUCUNE EPAISSEUR PUBLIEE**, donc leur qualite de grossiste reste **leur propre copie
+  publicitaire**. Le message le prend en compte en demandant les epaisseurs plutot qu en les
+  supposant.
+- **Interdit du §6 tenu** : jamais l absence de production locale, Vitro et Cardinal produisent.
+  Angle **douanier**, aucun taux.
+
+**Objet :** `A second origin for an Oklahoma wholesaler`
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful
+if you passed it on.
+
+Let me deal with the obvious objection first, because you would raise it
+anyway. You are an exclusive distributor, and exclusive usually means there is
+no room at all for another origin. If that is the case here, say so in one
+line and I will not write again - I would rather know now than write to you
+three times.
+
+If there is room, here is why it might be worth the conversation. Since
+6 April 2026 the two cheapest origins into the United States carry antidumping
+and countervailing orders, and European glass carries none. That does not make
+our glass cheap, and I am not claiming it does. It changes the comparison
+between origins, which is a different claim and the only one I am making.
+
+What we would supply:
+
+- clear and extra clear float: https://noxemgroup.com/en/float-glass/
+- low-E: https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper and lead free mirror:
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Full containers, treated timber cases to ISPM-15, jumbo 3210 x 2550 mm or cut
+to your stock sizes. We can put together an offer for delivery to your
+destination port, subject to validation on our side - Houston or New Orleans,
+then inland to Oklahoma City.
+
+For that I need four things, and the first one your site does not say: which
+thicknesses you actually hold in stock, your stock sheet sizes, a rough annual
+volume with how often you reorder, and the port you would want costed.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
