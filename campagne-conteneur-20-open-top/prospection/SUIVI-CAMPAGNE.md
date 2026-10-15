@@ -7615,3 +7615,45 @@ echecs du releve appartiennent a l autre campagne.
 
 **Etat du registre : 1441 fiches, 26 au statut `ENVOYE 2026-10-15`, **zero** en `A ENVOYER`.**
 Integrite a 10 champs verifiee apres chaque ecriture, et `A APPELER` sans telephone reste a zero.
+
+## 15h59 — APRES LES 24 ENVOIS : QUALIFICATION, TEXTES, ET UN DOUBLON RATTRAPE DE QUELQUES MINUTES
+
+**Aucun envoi depuis les 24 autorises.** La file est vide et le regime du 15/10 09h41 s applique :
+plus rien ne part sans l accord expres de Kevin, message par message.
+
+**LE RESULTAT LE PLUS IMPORTANT DE L APRES-MIDI EST UN ENVOI QU ON N A PAS FAIT.**
+**Cristal Glass Parana EST Blue Glass** — meme rue, meme numero, meme quartier, meme annee de
+fondation, et la page associe d ABRAVIDRO intitulee *Cristal Glass* porte l adresse URL
+*blue-glass*. **Or Blue Glass a recu un message a 14h24, dans la vague 2.** Travailler cette fiche
+aurait ete un second message a la meme maison le meme jour.
+**ET AUCUN GARDE-FOU NE POUVAIT LA VOIR** : elle n avait ni domaine, ni adresse, ni telephone, et
+les deux noms ne partagent **aucun mot**. Invisible aux cinq signaux, exactement comme le §5 le
+decrit pour une fiche nee d un annuaire sans coordonnees. **Seul le premier temps sur le nom pouvait
+la trouver** — un argument de plus pour le faire AVANT de travailler une fiche. Neutralisee par le
+**STATUT** et non par un mot de la note, regle du 13/10.
+
+**DEUX RESULTATS DE METHODE, mesures et non supposes.**
+· **Une recherche sur un membre de federation rend ses CONCURRENTS LOCAUX.** La recherche Temperbras
+  a rendu trois maisons de la region de Curitiba en passant : **Prisma Tempera deverrouillee a cout
+  nul** (et sa ville enfin etablie), **Temperpar creee** — classe negoce, la meilleure du vivier —
+  et Parana Box ecartee, *box* designant les parois de douche. **Zero appel supplementaire.**
+· **Un piege de domaine a consigner : `temperbras.NET` n est PAS `temperbras.com.br`.** Deux maisons
+  reelles, deux Etats, deux metiers — un traiteur thermique de Diadema contre un trempeur du
+  Parana. Famille du caractere unique, sauf qu ici **les deux domaines sont vivants**.
+
+**CE QUI A ETE QUALIFIE.** Binswanger, le plus gros compte americain ouvert de la semaine, etait
+bloque par une question d actionnariat que seuls des courtiers interdits documentaient : reetablie
+par **leur propre page de presse**, Transom Capital est un fonds et non un producteur float, donc
+la reserve du §6 tombe. Vidreira de Viana attendait depuis le 08/10 : le test *verrerie* sort
+**favorable**, c est du verre plat. Et quatre fiches sont **restees sans texte volontairement** —
+GDI et Fast Vidros vendent de la quincaillerie, Vidrossul est une vidracaria servie par deux
+producteurs locaux, GlassTech Ghana fait du carrelage.
+
+**CHIFFRES DU §3, DISTINCTS COMME LA REGLE L IMPOSE.**
+· Registre : **1442 fiches**.
+· **Envois confirmes aujourd hui : 26** — dont les 24 de la file. ⚠️ **Confirmes sous reserve de la
+  fenetre de 72 heures : ils ne comptent definitivement que le 18/10.**
+· **Reponses qualifiees ce jour : 0.** Les 24 sont partis il y a une heure et demie.
+· **Textes prets : 198**, dont treize ecrits cet apres-midi, controle a **0 a corriger**.
+· **202 fiches a appeler**, toutes avec un numero.
+· **25 fiches adressees et jamais contactees** — la file que Kevin doit arbitrer.
