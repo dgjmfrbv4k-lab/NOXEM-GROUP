@@ -12596,6 +12596,11 @@ du 15/10 a 13h55. **Classe negoce et faconnage**, les deux meilleures du tri met
 - **Trois interdits bresiliens du §6 tenus.** Argument douanier **borne au float clair** et dit comme
   un fait, sans aucun taux, sans nommer la Chine — **et surtout pas sur le miroir**, que la Gecex 833
   exclut expressement de la mesure.
+- **⚠️ CORRIGE APRES REDACTION, LE 15/10 : `nas suas medidas` EST PASSE AVANT LE JUMBO.** Le releve de
+  chapa bresilien du jour donne des longueurs de coupe de **2200, 3300 et 3600** et non 2550. Le **3210
+  est la largeur de ruban et elle est identique**, donc **aucun hors-format** — seulement une longueur a
+  demander. Les quatre textes bresiliens du soir sont corriges parce qu ils **n etaient pas encore
+  partis** ; ceux des jours precedents ne le sont pas, et c est le cout.
 
 **Objet :** `Float, extra clear e espelho sem cobre em conteiner completo`
 
@@ -12636,7 +12641,8 @@ muda a comparacao entre origens. Nao vale para espelho nem para vidro
 colorido, e nao e uma afirmacao sobre o que cobramos.
 
 Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
-em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+em chapa NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm se
+preferirem - o comprimento de corte se faz sob encomenda. Podemos preparar uma
 oferta para entrega no seu porto de destino, sujeita a validacao da nossa
 parte - o porto do Rio de Janeiro, no seu caso.
 
@@ -12689,6 +12695,11 @@ la meilleure du tri metier du §6 a 12,8 pour cent : trempe, lapidation **et** c
 - **Porte de sortie OBLIGATOIRE.**
 - **Trois interdits bresiliens du §6 tenus**, argument douanier **borne au float clair**, sans taux
   et sans nommer la Chine.
+- **⚠️ CORRIGE APRES REDACTION, LE 15/10 : `nas suas medidas` EST PASSE AVANT LE JUMBO.** Le releve de
+  chapa bresilien du jour donne des longueurs de coupe de **2200, 3300 et 3600** et non 2550. Le **3210
+  est la largeur de ruban et elle est identique**, donc **aucun hors-format** — seulement une longueur a
+  demander. Les quatre textes bresiliens du soir sont corriges parce qu ils **n etaient pas encore
+  partis** ; ceux des jours precedents ne le sont pas, et c est le cout.
 
 **Objet :** `Chapa de float e extra clear em conteiner completo para a tempera`
 
@@ -12723,7 +12734,8 @@ vidro europeu nao e alcancado por nenhuma delas. Isso muda a comparacao entre
 origens. Nao e uma afirmacao sobre o que cobramos.
 
 Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
-em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+em chapa NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm se
+preferirem - o comprimento de corte se faz sob encomenda. Podemos preparar uma
 oferta para entrega no seu porto de destino, sujeita a validacao da nossa
 parte - o porto do Rio de Janeiro, no seu caso.
 
@@ -12772,6 +12784,11 @@ entre. C est la meilleure classe du tri metier du §6, a 12,8 pour cent.
 - **Porte de sortie OBLIGATOIRE.**
 - **Trois interdits bresiliens tenus**, argument douanier **borne au float clair**, sans taux et sans
   nommer la Chine. **Rien n est dit du post-acheminement depuis Santos**, qui est notre probleme.
+- **⚠️ CORRIGE APRES REDACTION, LE 15/10 : `nas suas medidas` EST PASSE AVANT LE JUMBO.** Le releve de
+  chapa bresilien du jour donne des longueurs de coupe de **2200, 3300 et 3600** et non 2550. Le **3210
+  est la largeur de ruban et elle est identique**, donc **aucun hors-format** — seulement une longueur a
+  demander. Les quatre textes bresiliens du soir sont corriges parce qu ils **n etaient pas encore
+  partis** ; ceux des jours precedents ne le sont pas, et c est le cout.
 
 **Objet :** `Chapa de float e extra clear em conteiner completo para o forno`
 
@@ -12809,7 +12826,8 @@ muda a comparacao entre origens. Nao vale para espelho nem para vidro
 colorido, e nao e uma afirmacao sobre o que cobramos.
 
 Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
-em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+em chapa NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm se
+preferirem - o comprimento de corte se faz sob encomenda. Podemos preparar uma
 oferta para entrega no seu porto de destino, sujeita a validacao da nossa
 parte - Santos, no seu caso, ou o porto que os senhores usarem.
 
@@ -12859,6 +12877,11 @@ la regle reecrite ce matin. La quincaillerie est une **seconde ligne**, pas le m
   **demande** plutot qu il n affirme.
 - **Trois interdits bresiliens tenus**, argument douanier **borne au float clair**, sans taux et sans
   nommer la Chine. **Rien n est dit du post-acheminement**, qui est notre probleme et pas le leur.
+- **⚠️ CORRIGE APRES REDACTION, LE 15/10 : `nas suas medidas` EST PASSE AVANT LE JUMBO.** Le releve de
+  chapa bresilien du jour donne des longueurs de coupe de **2200, 3300 et 3600** et non 2550. Le **3210
+  est la largeur de ruban et elle est identique**, donc **aucun hors-format** — seulement une longueur a
+  demander. Les quatre textes bresiliens du soir sont corriges parce qu ils **n etaient pas encore
+  partis** ; ceux des jours precedents ne le sont pas, et c est le cout.
 
 **Objet :** `Chapa de float, extra clear e espelho em conteiner completo - Pecem`
 
@@ -12900,7 +12923,8 @@ muda a comparacao entre origens. Nao vale para espelho nem para vidro
 colorido, e nao e uma afirmacao sobre o que cobramos.
 
 Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
-em chapa jumbo de 3210 x 2550 mm ou nas suas medidas. Podemos preparar uma
+em chapa NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm se
+preferirem - o comprimento de corte se faz sob encomenda. Podemos preparar uma
 oferta para entrega no seu porto de destino, sujeita a validacao da nossa
 parte - Pecem ou Mucuripe, conforme lhes convier.
 
@@ -12912,6 +12936,198 @@ grandeza do volume anual com a frequencia de compra, e o porto.
 E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
 fonte estabelecida, e perto, raramente tem lugar para outra. Se for o seu
 caso, diga-me com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 213. Vidro Mais (Maceio, Jacintinho, Alagoas) — `contato@vidromais.com` — PORTUGAIS — premier contact
+### PREPARE LE 18h29 le 15/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+**POURQUOI EUX.** Recherche de decouverte sur **Maceio**, une ville par requete. **L Etat d Alagoas
+n avait aucune fiche.** **Classe negoce**, et le signal est la **clientele** et non le nom : ils
+servent *vidracarias, serralherias e construtoras*, donc ils vendent **aux** poseurs au lieu d en
+etre un. C est la bonne place dans la chaine au sens du tri metier du §6.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Mot distinctif grepe en `grep -in` avec lecture des lignes**, absent.
+- **⚠️ PIEGE DE DOMAINE LEVE AU SECOND TEMPS, FAMILLE DU CARACTERE UNIQUE.** Deux domaines voisins
+  remontaient avec **des numeros differents**. Le site de la maison de Maceio est le **`.com.br`**,
+  et l adresse qu il publie est sur le **`.com`**. **L exception du §5 est donc appliquee et notee** :
+  elle est satisfaite parce que **deux de leurs propres pages** la publient, l accueil et la page de
+  contact. **Domaine a relire caractere par caractere avant d envoyer.**
+- **⚠️ LE COTE ENTREE N EST PAS ETABLI, ET LE TEXTE NE LE SUPPOSE PAS.** Leur gamme porte aussi
+  *esquadrias de aluminio* et *ferragens* — c est la configuration Morumbi **avant** que le galpao ne
+  soit trouve. Ici **ni entrepot ni epaisseurs ne sont publies**. Le message **demande** s ils
+  achetent la chapa entiere. C est la difference entre une question et une affirmation fausse.
+- **⚠️ Reserve de fraicheur** : accueil indexe depuis environ 918 jours.
+- **⚠️ RESERVE DE MARCHE A NE JAMAIS ECRIRE** : l usine float de Goiana est a environ deux cents
+  kilometres. **Maceio est le marche du Nordeste ou le producteur local est le PLUS proche**, donc
+  l angle y est l **origine et la gamme**, jamais la logistique. Le message n en dit pas un mot.
+- **Porte de sortie OBLIGATOIRE.** **Trois interdits bresiliens tenus**, argument douanier borne au
+  float clair, sans taux et sans nommer la Chine.
+- **⚠️ COTES : `a cotes` est mis en avant AVANT le jumbo**, parce que le releve de chapa bresilien du
+  jour donne 2200, 3300 et 3600 de longueur de coupe et non 2550. Le 3210 est la **largeur de ruban**
+  et elle est **identique** — il n y a donc **aucun hors-format**, seulement une longueur a demander.
+- **⚠️ CORRIGE APRES REDACTION, LE 15/10 : `nas suas medidas` EST PASSE AVANT LE JUMBO.** Le releve de
+  chapa bresilien du jour donne des longueurs de coupe de **2200, 3300 et 3600** et non 2550. Le **3210
+  est la largeur de ruban et elle est identique**, donc **aucun hors-format** — seulement une longueur a
+  demander. Les quatre textes bresiliens du soir sont corriges parce qu ils **n etaient pas encore
+  partis** ; ceux des jours precedents ne le sont pas, et c est le cout.
+
+**Objet :** `Chapa de float e espelho em conteiner completo - porto de Maceio`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que encaminhe a quem compra.
+
+Escrevo-vos por uma coisa precisa da vossa pagina: os senhores atendem
+vidracarias, serralharias e construtoras. Quem abastece os vidraceiros compra
+antes deles e compra em volume - e e so disso que eu trato.
+
+O que posso pôr num conteiner para os senhores:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O espelho merece uma palavra, por um motivo de mercado e nao de preco: e um
+espelho cuja camada nao leva cobre nem chumbo, e e a referencia que levamos
+sobretudo a mercados litoraneos e umidos. Se isso pesa na clientela dos
+senhores, digam-me e eu detalho.
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao sobre o float incolor, como fato aduaneiro e nada mais: as
+medidas antidumping brasileiras em vigor sobre o float incolor alcancam
+origens asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso
+muda a comparacao entre origens. Nao vale para espelho nem para vidro
+colorido, e nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm se preferirem. Digo
+nas vossas medidas em primeiro lugar de proposito: o comprimento de corte se
+faz sob encomenda. Podemos preparar uma oferta para entrega no seu porto de
+destino, sujeita a validacao da nossa parte - o porto de Maceio, no seu caso.
+
+Para saber se faz sentido continuarmos, preciso de quatro coisas: se os
+senhores compram a chapa inteira ou ja cortada, quais espessuras giram de
+fato, que medida de chapa lhes serve melhor, e uma ordem de grandeza do
+volume anual com a frequencia de compra.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
+fonte estabelecida raramente tem lugar para outra. Se for o seu caso, diga-me
+com franqueza, que nao insisto.
+
+Fico a disposicao.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 214. Alagoas Vidros — Fabrica Alagoas Vidros Temperados (Maceio, Cidade Universitaria) — `vendas@alagoasvidros.com.br` — PORTUGAIS — premier contact
+### PREPARE LE 18h29 le 15/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+**POURQUOI EUX.** Meme recherche de ville que la 213. **Classe verrier pur**, la meilleure du tri
+metier du §6 : **usine de trempe depuis 2010**, quatre lignes telephoniques, clientele de
+vidracarias, construtoras et vidraceiros locaux. Un four ne tourne que si de la feuille entre.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Mot distinctif grepe en `grep -in` avec lecture des lignes**, absent.
+- **Adresse sur leur propre domaine**, identique a celui du site, **aucune exception du §5**.
+- **⚠️ RESERVE DE BOITE** : `vendas` est de la colonne **CLIENT** du tableau du §13 et c est la
+  **seule** boite publiee. **Le message demande donc la transmission des la premiere ligne.**
+- **⚠️ LE FAIT QUI DECIDE EST DANS LEUR FOIRE AUX QUESTIONS, ET IL EST CHIFFRE : ils ne livrent pas,
+  SAUF les commandes en atacado de plus de 300 m2.** Un seuil de gros publie par la maison elle-meme
+  etablit qu elle travaille au volume. **C est le pendant du galpao de Morumbi par un autre chemin** :
+  la regle du 15/10 veut qu on lise ce qu il y a **autour** du chiffre, et ici c est un seuil de gros.
+- **⚠️ CE QUI RESTE OUVERT ET QUE LE TEXTE DEMANDE AU LIEU DE SUPPOSER** : ils ne publient **ni float
+  ni epaisseurs**, donc on ignore s ils achetent la chapa entiere ou du verre deja coupe a un
+  distributeur regional. **C est la question centrale du message.**
+- **REGLE PRODIESA STRICTEMENT APPLIQUEE** : le **trempe sort de l offre**, ils le fabriquent. Les
+  accessoires, l aluminium et la quincaillerie qu ils revendent sont **hors gamme** et ne se
+  mentionnent pas. **Seul le substrat entre.**
+- **⚠️ MEME RESERVE DE MARCHE QUE LA 213**, l usine float de Goiana est a environ deux cents
+  kilometres. **Rien sur la logistique dans le message.**
+- **Porte de sortie OBLIGATOIRE.** **Trois interdits bresiliens tenus**, argument douanier borne au
+  float clair, sans taux et sans nommer la Chine. **`A cotes` avant le jumbo**, meme motif que la 213.
+- **⚠️ CORRIGE APRES REDACTION, LE 15/10 : `nas suas medidas` EST PASSE AVANT LE JUMBO.** Le releve de
+  chapa bresilien du jour donne des longueurs de coupe de **2200, 3300 et 3600** et non 2550. Le **3210
+  est la largeur de ruban et elle est identique**, donc **aucun hors-format** — seulement une longueur a
+  demander. Les quatre textes bresiliens du soir sont corriges parce qu ils **n etaient pas encore
+  partis** ; ceux des jours precedents ne le sont pas, et c est le cout.
+
+**Objet :** `Chapa de float e extra clear em conteiner completo para o forno`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano sediada perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento e nao um pedido de cotacao. Como escrevo a caixa de vendas, peco
+o favor de encaminhar a quem compra a chapa na casa, porque e a essa pessoa
+que esta mensagem interessa.
+
+Escrevo-vos por duas coisas precisas das vossas paginas: os senhores sao
+fabrica de temperado desde 2010, e so entregam pedidos de atacado acima de
+300 metros quadrados. As duas dizem a mesma coisa - a casa trabalha em
+volume, e um forno so gira se entrar chapa. E e so da chapa que entra que eu
+trato.
+
+Nao lhes ofereco nada do que sai do vosso forno, nem os acessorios, o
+aluminio e as ferragens que os senhores revendem. Apenas o substrato:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+O nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao sobre o float incolor, como fato aduaneiro e nada mais: as
+medidas antidumping brasileiras em vigor sobre o float incolor alcancam
+origens asiaticas, e o vidro europeu nao e alcancado por nenhuma delas. Isso
+muda a comparacao entre origens. Nao e uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm se preferirem. Digo
+nas vossas medidas em primeiro lugar de proposito: o comprimento de corte se
+faz sob encomenda. Podemos preparar uma oferta para entrega no seu porto de
+destino, sujeita a validacao da nossa parte - o porto de Maceio.
+
+Para saber se faz sentido continuarmos, preciso de quatro coisas: se o forno
+e alimentado com chapa inteira ou com vidro ja cortado por um distribuidor,
+quais espessuras consome de fato, que medida de chapa lhes serve melhor, e
+uma ordem de grandeza do volume anual com a frequencia de compra.
+
+E vou dizer o que penso, para nao lhe tomar tempo: uma casa que ja tem a sua
+fonte estabelecida raramente tem lugar para outra. Se for o seu caso, diga-me
+com franqueza, que nao insisto.
 
 Fico a disposicao.
 
