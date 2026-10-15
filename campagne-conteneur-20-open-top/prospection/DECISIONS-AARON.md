@@ -549,3 +549,49 @@ non par la géographie.
 
 **MA RECOMMANDATION : la 1.** Elle rend explicite ce que la pratique fait déjà, elle garde le
 gisement allemand, et elle donne un critère net — **le mode de livraison, pas la frontière.**
+
+
+---
+
+# MISE A JOUR DU 15/10 A 13h43 — TROIS CHOSES QUI ATTENDENT UN MOT, ET LEUR COUT EST MESURE
+
+## 1. LA FILE D ENVOI EST COMPLETE ET ELLE ATTEND — 22 fiches, 22 textes, zero manquant
+Kevin a demande ce matin de **preparer** les messages. C est fait : la file `A ENVOYER` compte
+**22 fiches et chacune a son texte redige** dans `TEXTES-PRETS.md`, controle par `verif-texte.py`
+a **zero defaut**. Les trois qui manquaient ce matin ont ete ecrites dans la journee, plus deux
+australiennes deverrouillees cet apres-midi.
+**Rien ne part sans son accord, message par message**, et un statut `A ENVOYER` n est plus une
+autorisation mais une file d attente. **Ce qu il faut de lui : un mot, par message ou par lot.**
+Les trois qui valent d etre regardees en premier, parce qu elles sont dans les meilleures classes :
+- **Tristar Glass** (Oklahoma et Texas), faconneur, trois usines, texte 178.
+- **Karas and Karas** (Boston), negoce, publie ses epaisseurs et vend a la caisse, texte 181.
+- **El Mayorista de Santander** (Bucaramanga), importateur declare, texte 179.
+
+## 2. L ACCES RESEAU — LE COUT EST DESORMAIS CHIFFRE, ET IL A GRANDI AUJOURD HUI
+Le §13 demande depuis le 08/10 l ouverture du reglage *Network access*. **Voici ce que la
+restriction a coute dans la seule journee du 15/10, nommement :**
+- **Le catalogue PDF de Cantini Distribuidora** (Porto Alegre), heberge sur leur propre domaine.
+  Un catalogue de distributeur porte les **epaisseurs de stock** et les **marques distribuees** —
+  c est-a-dire le critere qui decide et le nom de leur fournisseur, d un coup.
+- **La page `valores.asp` de Scala Vidros** (Salvador). Si elle publie des epaisseurs, elle
+  **renverse** le verdict de classe que j ai du porter faute de pouvoir la lire.
+- **Le texte du DOF mexicain** (code 5788109 du 21/05/2026), qui nomme **51 importateurs** —
+  le plus gros gisement documente rencontre depuis le debut.
+- **Et un cas qui dit la meme chose par l autre bout :** un courtier interdit annoncait **192
+  societes de verre a Porto Alegre dont SIX au code de commerce de gros**. Interdit, donc la
+  recherche permise n a rendu qu **un** nom. Ce n est pas l acces reseau qui le reglerait, mais
+  cela chiffre ce qu une source directe vaut.
+
+## 3. LE CRENEAU D APPELS — LA PROPORTION TELEPHONIQUE AUGMENTE, ET C EST STRUCTUREL
+**196 fiches sont en `A APPELER`, toutes avec un numero, et aucun appel n a jamais ete passe.**
+Elles etaient 183 ce matin. **Plus de vingt y sont passees aujourd hui**, presque toutes parce que
+le second temps a etabli qu **aucune adresse n existe** — Saand, Atlantic Glass Systems, Cantini,
+Scala, Dixon Mirror, Trulite, Alugama.
+**Ce n est pas un echec de la methode, c est sa limite, et elle se voit maintenant :** plus on
+epuise ce que le deverrouillage peut rendre, plus la part des maisons que **seul le telephone peut
+atteindre** augmente. `APPELS-PRIORITAIRES.md` est a jour, quinze appels, fuseaux calcules.
+**⚠️ Et une correction y est portee aujourd hui qui change le numero a composer : Saand Inc. a
+QUATRE lignes, et seule celle de la DISTRIBUTION, le +1 416 674 3931, arrive sur la bonne
+personne.** Le siege ne la donnerait pas.
+
+**Registre a 1412 fiches a cette heure. Aucun envoi de la journee.**
