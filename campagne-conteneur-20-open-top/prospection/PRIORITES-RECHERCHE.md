@@ -740,3 +740,48 @@ Glass et Missouri Glass Company (Saint-Louis), Cook s Glass and Mirror, Hoosier 
 (Indianapolis), Westport Glass and Mirror (Kansas City), Milwaukee Plate Glass (West Allis), Dixon Mirror and
 Glass (Salt Lake City), Valleywide et Universal Glass (Phoenix), Stuart Glass et Prime Glass and Mirror
 (Massachusetts), National Glass Industries et Majestic Glass (Portland).
+
+
+### Troisieme passage du 15/10, a 10h30 — Texas par sa federation, Etat de New York par la region
+
+**La decomposition regionale refute la saturation americaine pour la quatrieme fois de la matinee, et cette
+fois sur deux chemins differents.**
+| Maille | Noms rendus | Absents du registre |
+|---|---|---|
+| Nouvelle-Angleterre | 4 | **4** |
+| Phoenix, Salt Lake City, Portland | 9 | **9** |
+| Saint-Louis, Kansas City, Indianapolis, Milwaukee | 10 | **10** |
+| **Texas, par l annuaire de sa federation** | 16 | **16** |
+| **Etat de New York hors New York ville** | 6 | **5** |
+**Contre 15 noms sur 19 DEJA PRESENTS au releve national du 13/10.** Les 67 fiches americaines etaient celles
+que le moteur rend sur une requete nationale, et rien d autre.
+
+**La federation americaine marche aussi, et c est la Texas Glass Association.** Elle passe le filtre ecrit ce
+matin sur les federations bresiliennes : sa **division Nord-Texas publie un annuaire membre nominatif**, et il
+melange **faconneurs, DISTRIBUTEURS et fournisseurs**. Seize noms rendus, seize absents. ⚠️ Mais la reserve de
+classe vaut comme au Bresil : la moitie sont des vitriers et des poseurs.
+
+**Sept fiches creees** : Flower City Glass, Binswanger Glass, Tristar Glass Products, Gibraltar Glass,
+Southwest Glass, Anchor-Ventana Glass, Buchholtz Glass.
+
+**Deux travaillees dans la foulee.**
+- **Flower City Glass** (Rochester et Syracuse) → **`A APPELER`**, verdict negatif solide : dix de leurs pages
+  rendues, aucune adresse de gros publiee, et la seule rencontree est une boite de **recrutement nominative**,
+  interdite deux fois. **Mais le deverrouillage a livre leur domaine de MESSAGERIE, `fcgflat.com`**, different
+  de celui du site — piege du domaine voisin, et une recherche restreinte a ce domaine reste a faire.
+- **Binswanger Glass** → siege de Memphis confirme sur leur propre site, **plus de cinquante implantations**
+  selon leur page des 150 ans. ⚠️ L actionnariat n est donne que par des **courtiers de donnees**, dont deux
+  nommement interdits : le fait reste une hypothese a reetablir. S il se confirme, il nous arrange deux fois —
+  proprietaire fonds d investissement et non producteur float, et division automobile cedee en 2022, donc
+  l activite restante est le verre plat.
+
+**Noms consignes et NON crees, pour ne pas les rechercher deux fois.**
+- **Guardian Industries, Geneva (New York)** — **producteur float, concurrent du §6**, a ne jamais ouvrir.
+- **Hartung Glass Industries** a Wilsonville et Salt Lake City — meme groupe et meme domaine que la fiche
+  canadienne de Burnaby, **un seul compte**.
+- **Classe vitrier et poseur, a reprendre seulement si le budget le permet** : A3 Glass Fabricator, Absolute
+  Glassworks, Bosshamer Glass, Dynamic Glass, Lakeview Glass, Country Glass and Mirror, Oakcliff Mirror and
+  Glass, Austin Glass and Mirror, Theut Glass (Texas) · Amthor Glass and Mirror (Buffalo), Glenville Glass et
+  Architectural Glass and Mirror de Halfmoon (Albany).
+- **A qualifier, non teste** : Glasshouse Inc. (Texas), F.W. Webb (Syracuse, donne distributeur de verre plat
+  mais c est d abord un grossiste en plomberie, a verifier avant d ouvrir).
