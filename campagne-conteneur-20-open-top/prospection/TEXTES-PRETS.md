@@ -13333,3 +13333,93 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 217. Vidrios + Vidrios S.A.S. (Cartagene, Colombie) — `info@vidriosmasvidriossas.com` — ESPAGNOL — premier contact
+### PREPARE LE 08h39 le 16/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+**POURQUOI EUX, ET LA FICHE ETAIT MORTE HIER.** L envoi du 15/10 a rebondi en `5.1.2` et la fiche
+etait passee en `A APPELER`. **Le rebond ne disait rien de la societe : il disait que le domaine
+porte au registre etait faux.** Le vrai est `…sas.com`. **Lecon Lahey, et le piege du domaine voisin
+du §13 pour la enieme fois.**
+**Classe negoce**, maison familiale de plus de trente ans, **deux sedes a Cartagene plus une a
+Monteria**, et **Cartagene est un port majeur** — donc aucun post-acheminement terrestre.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE.**
+- **Adresse sur leur page Contactenos**, domaine identique a celui du site, **aucune exception du §5**.
+  Domaine relu caractere par caractere contre celui qui a rebondi.
+- **⚠️ ILS SONT DISTRIBUTEUR EXCLUSIF DU SEUL PRODUCTEUR FLOAT DE COLOMBIE, ET SON NOM N EST PAS DANS
+  LE MESSAGE.** Marque dans une **gamme** = ils **achetent**, donc prospect. Mais **une exclusivite
+  est un CONTRAT**, pas une habitude d achat — comme la franchise de Casas Bandeirantes. **La porte de
+  sortie est donc franche et placee tot**, et le message ne fait pas semblant de l ignorer.
+- **⚠️ DEUX INTERDITS COLOMBIENS TENUS.** Un, **rien sur l absence de production locale** — leur
+  fournisseur produit a Soacha, l ecrire serait grotesque. Deux, **l argument douanier porte sur le
+  MIROIR et sur lui seul**, et il est dit en **formulation prudente** : la mesure *figure parmi les
+  droits en vigueur publies par le MinCIT*, jamais que le recours a ete rejete, qui n est pas lu.
+- **REGLE PRODIESA** : ils **distribuent** le miroir sans le fabriquer, donc **le miroir reste dans
+  l offre** et passe **en tete** — c est l angle colombien du §6 et c est leur gamme.
+- **Aucun chiffre de prix.** Le 0,77 dollar le kilo est un **plancher douanier** et non notre tarif,
+  donc il ne figure pas dans le message.
+
+**Objet :** `Espejo sin cobre y float en contenedor completo - puerto de Cartagena`
+
+```
+Estimados senores,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedora y exportadora de vidrio
+plano con sede cerca de Lyon, Francia. Esto es una oferta de suministro y no
+una solicitud de cotizacion. Si no es usted quien compra el vidrio, le
+agradezco que reenvie este mensaje a quien lo compra.
+
+Les escribo por algo concreto de sus paginas: ustedes distribuyen al por mayor
+en Cartagena y en el norte del pais, con dos sedes aqui y una en Monteria, y
+llevan mas de treinta anos en esto. Quien sostiene esa red compra lamina en
+volumen, y de la lamina que entra es de lo unico que yo me ocupo.
+
+Empiezo por el espejo, a proposito:
+
+- espejo sin cobre y sin plomo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidrio float incoloro y extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+El espejo va primero por dos razones. La primera es de producto: el nuestro no
+lleva cobre ni plomo en la capa, y es la referencia que llevamos sobre todo a
+mercados costeros y humedos. Cartagena es exactamente eso. La segunda es un
+hecho aduanero y nada mas: las medidas antidumping sobre el espejo chino sin
+enmarcar figuran entre los derechos antidumping vigentes publicados por el
+MinCIT, con vigencia de cinco anos desde octubre de 2025. Eso cambia la
+comparacion entre origenes. No es una afirmacion sobre lo que nosotros
+cobramos.
+
+Nuestro sitio existe solo en frances y en ingles. Le explico cada referencia
+en espanol con mucho gusto.
+
+Enviamos en CONTENEDORES COMPLETOS, en cajas de madera tratada IPPC/ISPM-15,
+en lamina a SUS MEDIDAS, o en jumbo de 3210 x 2550 mm si lo prefieren - el
+largo de corte se hace a pedido. Podemos preparar una oferta para la entrega
+en su puerto de destino, sujeta a validacion por nuestra parte. Cartagena, en
+su caso, sin acarreo terrestre.
+
+Para saber si tiene sentido seguir, necesito poco: que espesores de espejo y
+de float mueven de verdad, que medida de lamina les sirve, un orden de
+magnitud del volumen anual con la frecuencia de compra, y el puerto.
+
+Y le voy a decir lo que pienso, para no quitarle tiempo: una casa que tiene
+una distribucion exclusiva firmada rara vez tiene lugar para otra fuente, y lo
+entiendo perfectamente. Si ese es su caso, digamelo con franqueza, que no
+insisto.
+
+Quedo a su disposicion.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

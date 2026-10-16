@@ -1375,3 +1375,54 @@ adressees au total.** La prospection ecrite a fait son travail ; **ce qui manque
 adresse, c est un creneau d appels**, et c est le point 1 de `DECISIONS-AARON.md` depuis le 12/10.
 
 **Registre a 1474 fiches.**
+
+---
+
+## 16/10 a 08h40 — LE MEILLEUR GISEMENT DU MOMENT N EST PAS UNE VILLE NEUVE, C EST 37 FICHES QU ON A DECLAREES MORTES A TORT
+
+**Deux recuperations sur deux tentatives, a trois jours d intervalle, et c est ce qui en fait un
+gisement et non deux anecdotes.**
+· **Lahey Glass** (13/10) — fiche fermee cinq jours sur `laheyglass.ca`. Le vrai est `.com`.
+· **Vidrios + Vidrios** (16/10) — envoi rebondi hier en `5.1.2`, fiche passee en `A APPELER`. Le vrai
+  domaine est `…sas.com`. **Adresse vivante, fiche deverrouillee, texte 217 redige.** Et ce n etait
+  pas une petite fiche : **port majeur, classe negoce, trente ans de maison, et une gamme MIROIR**
+  qui tombe pile sur le seul angle douanier colombien du §6.
+
+**LA REGLE EST CELLE DU §13 ET ELLE EST DEJA ECRITE — ce qui manquait est de la CHIFFRER : un
+resultat negatif obtenu sur un domaine lui-meme NON VERIFIE ne dit rien de la societe, il dit que le
+domaine est faux.** Quand le second temps echoue, **on ne conclut rien sur la maison, on refait le
+PREMIER temps** sur le nom seul.
+
+**MESURE : 37 FICHES ACTIVES PORTENT UN VERDICT DE DOMAINE MORT** — *domaine introuvable*, `5.1.2`,
+NXDOMAIN, *domaine non indexe*.
+
+**⚠️ ET IL NE FAUT PAS ANNONCER 37 RECUPERATIONS, parce que le §13 distingue QUATRE causes et une
+seule se rattrape.**
+| Cause | Signature | Recuperable ? |
+|---|---|---|
+| **Domaine FAUX au registre** | aucune page de la societe n a jamais ete vue | **OUI — refaire le premier temps** |
+| Domaine **parque** | rend des PDF sans rapport, jamais de verre | non |
+| Site vivant, **messagerie abandonnee** | pages de la societe vieilles de plusieurs annees, Google dit *domaine introuvable* | non |
+| Domaine **repris par un tiers** | melange de vieilles pages verre et de commerce en ligne recent | **surtout pas** |
+
+**LE TRI SE FAIT SUR LA NOTE ET IL COUTE ZERO APPEL : si la note dit qu on a LU des pages de la
+societe, le domaine est le bon et le verdict tient. Si elle ne le dit pas, le domaine n a jamais ete
+verifie et la fiche est candidate.** Vitrolux, Commercial Glass et Vicar sont deja tranchees et ne se
+rouvrent pas — leurs verdicts sont ecrits dans leurs fiches depuis le 13/10.
+
+**ORDRE DE TRAVAIL PROPOSE, par valeur de marche et par classe de metier :**
+1. **Wholesale Glass Distributors Inc** (US) — le nom porte **les deux mots qui predisent**,
+   *wholesale* et *distributors*, et les Etats-Unis sont le meilleur marche douanier du §6.
+2. **Texas Glass Group** (US) — meme marche, et le Texas est la facade qui a le mieux rendu.
+3. **Qaswa Glass** (Oman), **TechnoGlass** (Nigeria), **Med Glass** (Maroc), **Tempo Glass** (Liban).
+4. Les quatre peruviennes en `RELANCE 2026-10-14` — **a traiter ensemble**, elles viennent du meme
+   lot et le meme defaut de domaine les frapperait toutes les quatre.
+5. **Ruthven Greenhouse** et **South Essex Fabricating** (Canada), en relance donc encore vivantes.
+
+**COUT ET RENDEMENT ATTENDUS, dits honnetement :** un premier temps coute **un** appel, un second en
+coute un autre. Si le taux tient a ce qu on a vu — deux sur deux, mais sur deux cas seulement — le
+gisement vaut plusieurs fiches ressuscitees pour une trentaine d appels. **C est meilleur que la
+decouverte de ville, qui tourne desormais a un ou deux noms neufs par requete sur les grands
+marches.**
+
+**Registre a 1479 fiches.**
