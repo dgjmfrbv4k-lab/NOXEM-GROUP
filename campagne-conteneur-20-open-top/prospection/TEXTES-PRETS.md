@@ -14438,17 +14438,39 @@ aaron.harfi@noxem-group.com | noxemgroup.com
   Glasshuset Norge AS**, présidée par **Trond Veggeberg**, dont le contact publié est
   **`post@glassimport.as` et le 995 38 823** — soit **exactement** l adresse et le numéro que
   GlassGrossisten publie sur sa propre page. C est la leçon SOREMIR du §6 par deux champs à la fois.
-- **⚠️ ET PROBABLEMENT UNE QUATRIÈME** : `si-glass.net`, usine de Sauda, publie Veggeberg comme
-  daglig leder. **Aucune fiche Si-Glass n a été créée** — une coordonnée partagée suffit à ne pas
-  ouvrir avant d avoir levé le lien, conduite American Flat Glass.
+- **⚠️⚠️ LA QUATRIÈME EST ÉTABLIE LE 16/10 À 15h54, ET ELLE N EST PLUS UNE PRÉSOMPTION.** Le second
+  temps fait sur `si-glass.net` rend, sur **leur propre page de contact**, **Trond Veggeberg comme
+  daglig leder, `post@glassimport.as` et le 995 38 823** — soit **le même homme, la même boîte et le
+  même numéro** que GlassGrossisten et Scan Glass. Le §12 impose de trancher sur un fait et non sur
+  le nom : le fait est là, en triple. **Si-Glass AS, Nesøyra 15, 4208 Saudasjøen, org. 924 690 305,
+  est le même compte. Aucune fiche Si-Glass. C est le troisième message évité sur ce groupe.**
+- **⚠️⚠️ ET CELA RETOURNE LE DOSSIER, parce que le groupe n est plus deux entrepôts mais deux
+  entrepôts ET UNE USINE.** Si-Glass se décrit comme **l un des plus gros producteurs de verre de
+  sécurité de Scandinavie**, avec sa fabrique à Saudasjøen. **Un trempeur a un four qui ne tourne que
+  si de la feuille entre** — c est mot pour mot le raisonnement du §6 sur la classe verrier pur, et
+  c est un consommateur de float d un tout autre ordre qu un négoce d encadrement.
+  **CONSÉQUENCE SUR LE TEXTE, ET ELLE A ÉTÉ APPLIQUÉE : la réserve de volume qui ouvrait sur le 2 mm
+  d encadrement était fondée sur une connaissance incomplète du groupe et elle est remplacée.** Le
+  paragraphe disait en substance « si vous ne faites que du petit format, ce n est pas pour vous ».
+  Il est faux : l usine est précisément ce qui rend le conteneur pertinent. La question de volume
+  reste posée, mais **sur le four et non contre lui**.
+- **⚠️ REGLE PRODIESA RESSERRÉE EN CONSÉQUENCE** : ils **TREMPENT ET FEUILLÈTENT**, donc le trempé et
+  le feuilleté sortent de l offre et n y figurent pas. Le **miroir y reste**, puisqu ils le déclarent
+  **importé** et non argenté par eux.
+- **⚠️ ET UNE BOÎTE NOMINATIVE ÉCARTÉE VOLONTAIREMENT** : `BAB@si-glass.as` est donnée pour
+  *Salg / Ordre / Tegning*, c est-à-dire **vente, commandes et plans** — colonne CLIENT du tableau du
+  §13, et une fonction qui n est pas celle des achats. Le §5 l interdit. **Veggeberg, lui, est
+  *daglig leder*, donc la DIRECTION, que le §5 nomme expressément comme pertinente** — c est pourquoi
+  son nom peut être employé, et il l est désormais en ouverture.
 - **Profil** : GlassGrossisten se déclare **importateur de miroir et d autres types de verre float**.
   Un importateur déclaré de miroir **et** de float est le meilleur profil possible, et le miroir sans
   cuivre ni plomb est notre référence la plus différenciante — **il passe donc en tête.**
 - **⚠️ EXCEPTION DU §5 INVOQUÉE ET NOTÉE** : l adresse est sur `glassimport.as` quand le site est
   `glassgrossisten.com`. Retenue **parce que la société la publie elle-même**. Relue caractère par
   caractère.
-- **⚠️ Réserve de volume posée dans le message** : leur gamme porte du 2 mm pour cadres, qui est du
-  verre d encadrement en petit format. La question du volume se pose avant toute offre.
+- **⚠️ Réserve de volume posée dans le message**, mais **sur l usine** : la question est de savoir ce
+  qui passe dans le four et dans les deux entrepôts, le 2 mm d encadrement n étant mentionné que pour
+  dire expressément qu il n est pas le sujet.
 - **⚠️ INTERDITS DU §6 TENUS.** L argument de l absence de ligne float est **vrai en Scandinavie** et
   il est dit **au passé** — la dernière a été arrêtée — jamais comme une prophétie, règle Australie.
   **Rien sur les droits de douane norvégiens**, non établis. **Pilkington n est pas nommé comme
@@ -14457,7 +14479,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 - **REGLE PRODIESA appliquée. Liens produit présents** (§9 point 3). **Signature une seule fois.**
 - Anglais. Jour ouvré vérifié, la Norvège n a aucun férié en octobre.
 
-**Objet :** `Copper-free mirror and clear float in full containers`
+**Objet :** `Clear float for Saudasjoen, and mirror for the warehouses`
 
 ```
 Hello,
@@ -14467,11 +14489,15 @@ exporter based near Lyon, France. This is a supply offer, not a request for a
 quotation. If you are not the person who buys, I would be grateful if you
 passed this on to whoever does.
 
-I am writing because of how you describe yourselves: an importer of mirror,
-of mirror with safety backing, and of other types of float glass. Importing is
-the whole subject of this message, so I will not waste your time explaining
-why a Norwegian house imports - you have been doing it longer than I have been
-writing to you.
+Mr Veggeberg, I am writing to you because the same three companies answer to
+you and they add up to something my offer fits exactly. GlassGrossisten
+describes itself as an importer of mirror, of mirror with safety backing and
+of other types of float glass. Scan Glass sits on the other side of the
+country. And Si-Glass runs a safety glass plant at Saudasjoen.
+
+Importing is therefore the whole subject of this message, and I will not
+waste your time explaining why a Norwegian house imports - you have been
+doing it longer than I have been writing to you.
 
 I start with mirror on purpose:
 
@@ -14492,12 +14518,19 @@ together an offer for delivery to your port of destination, subject to
 validation on our side. Stavanger or Oslo, whichever your group clears
 through.
 
-And here is the question that decides the rest, which I would rather ask than
-assume. Your range includes 2 mm glass for picture framing, which is a
-small-format trade, alongside float and mirror. A full container is twenty-odd
-tonnes on one reference. So: how many square metres a year actually move in
-mirror, and in float, and in which thicknesses? If the turnover sits on small
-formats, this is not for you and I will say so myself.
+I am not offering you toughened or laminated glass. Saudasjoen makes it, and
+by your own account makes a great deal of it. What a tempering plant needs is
+the sheet that goes in, and a furnace only earns its keep while sheet keeps
+arriving. That is the whole of my argument, and it rests on continuity rather
+than on anything I could put in a first letter.
+
+So the question that decides the rest is a volume question, and I would
+rather ask it than assume it. A full container is twenty-odd tonnes on one
+reference. How many square metres a year actually move in clear float, and in
+mirror, and in which thicknesses? And does Saudasjoen buy on its own account
+or through the group? Your range also carries 2 mm for picture framing, which
+is a small-format trade - I mention it only so you know I am asking about the
+furnace and the warehouses, not about that.
 
 One more thing, said once. I understand you may buy through a single
 established channel, and I am not asking you to leave it. If there is no room
