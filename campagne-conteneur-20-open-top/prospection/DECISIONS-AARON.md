@@ -718,3 +718,59 @@ le 08/10.
 
 **Registre a 1476 fiches, 8 en file `A ENVOYER` qui attendent toujours un mot, 219 en
 `A APPELER`.**
+
+---
+
+## ⏳ LE PARTAGE DE L EUROPE ENTRE LES DEUX CAMPAGNES — EN ATTENTE DEPUIS LE 09/10, ET IL BLOQUE DES FICHES TOUS LES JOURS
+
+**Releve le 16/10/2026 a 10h38 parce que quatre echeances sont tombees aujourd hui sans que rien puisse partir.**
+
+### LES FAITS
+Le 09/10, quatre fiches europeennes entierement travaillees — **Goteborgs Byggnadsglas** (Suede),
+**The Glass Warehouse** (Royaume-Uni), **Glass & Import AS** (Norvege) et **Glass Partners Solutions
+Iberica** (Espagne) — ont ete **differees au 16/10** plutot qu envoyees, sur trois raisons :
+
+1. **Perimetre.** Le paragraphe 6 du mandat dit qu en Europe il n y a **pas de nouvelle
+   prospection**, seules les fiches existantes se relancent. Un premier contact a froid vers une
+   societe europeenne est une nouvelle prospection, quelle que soit l anciennete de la fiche.
+2. **Ciblage, et c est plus fort que la lecture du reglement.** L Europe est le territoire de
+   **l autre campagne**, celle du destockage livre en **camion inloader** depuis la Belgique.
+   Proposer un conteneur maritime a une maison joignable en camion, c est proposer la mauvaise
+   logistique pour sa geographie, et c est la premiere chose qu un acheteur verrait. Goteborgs
+   Byggnadsglas est litteralement **sur le port de Goteborg**, a portee de camion.
+3. **Conflit d envoi verifie dans la boite** pour deux des quatre : la campagne de destockage avait
+   deja ecrit **deux fois** a `post@gias.no` et a `info@gps-glass.com`, les 07 et 09/10. Un
+   troisieme message depuis la **meme adresse expeditrice** serait la faute Shibaam.
+
+**Aujourd hui 16/10 l echeance est atteinte et AUCUNE des trois raisons n a bouge.** Les quatre
+fiches sont donc passees en **`A VALIDER AARON`**, parce qu un statut date promet un envoi a cette
+date et que ce serait faux : **ce qui manque n est pas une date, c est une decision.**
+
+### CE QUE CELA BLOQUE, CHIFFRE
+**150 fiches europeennes** sont au registre. Elles ne sont pas toutes concernees — beaucoup sont
+deja contactees ou ecartees — mais **toute fiche europeenne non contactee est dans cette zone
+grise**, et elle s agrandit a chaque fois qu une recherche en rend une.
+
+### LES OPTIONS
+1. **L Europe reste a l autre campagne, sans exception.** Les quatre fiches passent en
+   `NE PAS DEMARCHER` sur cette campagne et on cesse d y depenser de l effort. **Clair, et c est ce
+   que le paragraphe 6 dit deja a la lettre.**
+2. **Partage par la LOGISTIQUE et non par la geographie.** L autre campagne prend ce qui est
+   livrable en camion depuis la Belgique ; celle-ci prend les **iles et les peripheries** mal
+   servies par la route — Royaume-Uni apres le Brexit, Irlande, Chypre, Malte, Grece insulaire,
+   Scandinavie du Nord. C est defendable commercialement et cela sauve les fiches qui ont un vrai
+   sens conteneur.
+3. **Partage par le VOLUME.** Le conteneur complet a celle-ci, la palette et le camion partiel a
+   l autre, quel que soit le pays. **Le plus logique sur le papier et le plus difficile a tenir**,
+   parce qu on ne connait pas le volume d un prospect avant de lui avoir parle.
+
+### MA RECOMMANDATION
+**L option 2.** Elle respecte la raison d etre du paragraphe 6 — ne pas proposer un conteneur a qui
+peut etre servi en camion — sans jeter les fiches ou le conteneur est le mode d approvisionnement
+naturel. **Chypre en est la preuve vivante** : Christakis Avgousti nous a ecrit mot pour mot *we do
+buy flat glass in full containers CIF Limassol*, et c est une fiche europeenne. Si l option 1 avait
+ete appliquee strictement, ce dossier n existerait pas.
+
+**Et quelle que soit l option, une regle s impose dans les trois : AVANT TOUT ENVOI EUROPEEN,
+VERIFIER DANS `in:sent` QUE L AUTRE CAMPAGNE N A PAS ECRIT A LA MEME ADRESSE.** C est ce controle,
+et lui seul, qui a evite deux fautes Shibaam le 09/10.
