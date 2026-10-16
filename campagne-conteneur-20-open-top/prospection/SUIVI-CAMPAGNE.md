@@ -7747,3 +7747,55 @@ il est epuise.** Les textes 209 et 210 attendent un mot neuf de Kevin, consigne 
 
 **Registre : 1458 fiches, dont 105 au Bresil. 47 envois confirmes le 15/10.
 2 fiches en file `A ENVOYER`, 213 fiches `A APPELER` toutes avec un numero.**
+
+---
+
+## 16/10 a 08h33 — boite traitee, quatre fiches corrigees, Miami ouvert sous l angle export
+
+**§2 applique : la boite avant toute recherche.** Quarante fils relus sur deux jours, tries entre les
+deux campagnes.
+
+**TROIS REPONSES, DONT UNE SEULE EST A MOI.**
+· **Vidrofornense (PT)** — *« Nao compramos contentores de vidro »*. **REFUS**, exclusion appliquee
+  immediatement comme le §15 l impose.
+· **IG Glas (CH)** — demande de prix sur six caisses, **fil destockage**, pas touche.
+· **Rising Star (Qingdao)** — fournisseur chinois entrant, hors perimetre, pas de fiche.
+
+**REBONDS TRIES PAR DOMAINE CONTRE LE REGISTRE**, ce qui evite de s attribuer ceux de l autre
+campagne : sur une cinquantaine, **six** touchent des fiches conteneur. Cinq etaient deja traitees.
+**Un seul etait neuf : Cristal Sete.**
+
+**⚠️ ET IL PORTE UNE SIGNATURE QUE LE §13 N AVAIT PAS — LA DIXIEME : `550 5.7.133`
+`RESOLVER.RST.SenderNotAuthenticatedForGroup`, Exchange Online.** L adresse **n est pas une boite,
+c est un GROUPE de distribution** ferme aux expediteurs externes. **Ce n est pas un `5.7.1`**, donc
+la regle d arret du §10 ne se declenche pas, et **ce n est pas notre reputation** — le rebond porte
+SPF=pass, DKIM=pass, DMARC=bestguesspass. Fiche en `A RENVOYER`, le domaine etant vivant.
+
+**⚠️ ET J AI ECRIT UNE REGLE FAUSSE PUIS JE L AI MESUREE, CE QUI L A TUEE EN CINQ MINUTES.** J avais
+pose que *la partie locale recopiant le domaine annonce un groupe ferme*. **Mesure sur le registre :
+37 fiches portent ce motif et UNE SEULE a rebondi ainsi.** Mirodec, Arkiglass, SAG, Zrcalo,
+Coovidrios, Rozhano, Sydney Glass sont toutes parties sans rebond sur exactement cette forme. **Le
+motif ne predit rien**, et s en servir aurait condamne trente-six boites qui marchent. La note est
+corrigee en place et porte la mesure au lieu de l intuition — c est la conduite du §16, et c est la
+deuxieme fois en deux jours qu un controle passe AVANT de garder un correctif evite d installer un
+garde-fou qui crie au loup.
+
+**PROSPECTION — MIAMI PRIS PAR UN ANGLE NEUF.** La ville avait treize fiches, toutes en vitrerie
+**locale**. Aucune n avait ete cherchee comme **place de reexport vers les Caraibes et l Amerique
+latine**, qui est le raisonnement Intraco du §6 applique a l autre hemisphere.
+**Resultat mesure, et il est honnete : la place est deja largement travaillee.** Dix noms rendus,
+**deux absents** du registre — Glass and Mirror Enterprises et International Glass & Mirror. **Delt
+River Glass non creee**, poseur local, classe a zero pour cent.
+**Mais l angle a rendu mieux que des fiches : il a requalifie deux fiches existantes.**
+· **Signature Glass & Mirror**, en `A APPELER` : leur propre accueil les donne pour **l un des
+  principaux exportateurs de Floride du Sud vers l Amerique du Sud et les Caraibes**, trente ans de
+  maison. Aucune adresse publiee, donc le verdict telephonique tient — **mais l appel vaut desormais
+  beaucoup plus cher**, et les horaires et le fait qu ils soient hispanophones sont portes a la fiche.
+· **Glass Global Distributors** : leur site se declare **ancienne succursale d ACI - Vitro America**.
+  **Vitro est sur la liste des concurrents du §6** et c est le petitionnaire des ordres americains.
+  Le message est parti le 09/10, donc le point se leve pour la **suite** et non pour l envoi. **C est
+  la lecon SOFAVI par un troisieme champ** — apres le domaine et l adresse postale, voici la page a
+  propos.
+
+**AUCUN ENVOI.** Controle de forme propre, balayage inchange a huit groupes, aucune fiche `A APPELER`
+sans numero. **Registre a 1476 fiches.**

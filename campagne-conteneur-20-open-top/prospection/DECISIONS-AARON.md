@@ -652,3 +652,53 @@ ci-dessus se tranchent en trente secondes d appel chacune, et le Para se debloqu
 Intervidro ou a Casas Bandeirantes.
 
 **Registre a 1474 fiches.**
+
+---
+
+# ⚠️ URGENT — 16/10 A 08h33 : UNITED GLASS ATTEND TOUJOURS LE DEVIS QU IL A DEMANDE, ET CE N EST PAS CELUI QU IL A RECU
+
+**C est le dossier le plus avance de la campagne, et il bloque sur une cote.** Chronologie etablie en
+lisant le fil entier, rien n est suppose.
+
+| Quand | Quoi |
+|---|---|
+| **08/10** | John ecrit **deux fois** : *« just use your pricing based on jumbo sheet size »*, puis *« You can quote based on jumbo sheet size 3210 x 2550 mm »* |
+| **08/10** | Base actee et ecrite dans le fil : **jumbo 3210 x 2550**, neuf references, **CIF Toronto**, conteneur complet |
+| **15/10 16h06** | John : **« Never received your quote for the jumbo sheet sizes »** |
+| **15/10 16h14** | Le dossier est renvoye avec le PDF `NOXEM_Quotation_United_Glass_CIF_Toronto_v2` |
+
+**⚠️ MAIS LE CORPS DE CET ENVOI DIT LUI-MEME, EN PREMIERE LIGNE : *« I am still working on the
+quotation in 3210 × 2550 mm »*** — et les dix prix qui suivent sont donnes **pour 2440 × 3300 mm**,
+c est-a-dire le 96 × 130 pouces. Total 184 369,87 € sur dix conteneurs.
+
+**Donc le client demande le jumbo depuis huit jours et recoit une grille sur l autre cote.** Son
+message du 15 ne dit pas autre chose, et il n a pas repondu depuis.
+
+**CE QUI N EST PAS EN CAUSE, et il faut le dire pour ne pas rejouer la faute du 08/10 :** le
+**2440 × 3300 n est PAS un hors-format**. Sa plus petite dimension est 2440, donc il tient dans le
+ruban — le §4 l a etabli apres trois erreurs dans la meme journee, dont une sur ce dossier precis.
+**Les deux cotes sont faisables.** Le probleme n est pas technique, il est que **ce n est pas la cote
+demandee**, et que le client l a dit trois fois.
+
+**CE QU IL FAUT, ET C EST UNE SEULE CHOSE : la grille en 3210 × 2550, neuf references, CIF Toronto.**
+C est un prix, donc le §11, donc Aaron. Je ne peux ni la produire ni l envoyer.
+
+**Je n ai rien ecrit a John** — le §5 l interdit, et c est precisement ce fil qui a produit la regle
+le 08/10.
+
+---
+
+## Et trois faits de la matinee, pour memoire
+
+· **Vidrofornense (Portugal) : REFUS.** *« Nao compramos contentores de vidro. »* Le gabarit de
+  cloture a converti un silence en verdict — troisieme fois. Fiche passee en `REFUS 2026-10-15`.
+· **SAMIR (Martinique) : echec definitif confirme.** Deux avis de delai puis echec a 72 heures. La
+  relance du 12/10 **n est pas delivree**, et ce n est plus une presomption. Leur MX pointe vers une
+  machine absente du DNS. **C est notre seul client export, et il est injoignable par ecrit.**
+· **IG Glas (Suisse) demande un prix** sur **3 caisses 6 mm + 3 caisses 8 mm extra-clair**, rendu
+  chez eux avec grue, sous 1 a 2 mois. **C est le fil destockage et non le conteneur**, je n y ai pas
+  touche. Trois choses manquent avant de chiffrer : combien de m² dans une caisse, grue ou inloader,
+  et qui dedouane a l entree en Suisse.
+
+**Registre a 1476 fiches, 8 en file `A ENVOYER` qui attendent toujours un mot, 219 en
+`A APPELER`.**
