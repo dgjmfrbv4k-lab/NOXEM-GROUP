@@ -1575,3 +1575,62 @@ Et l inverse a ete tranche dans le meme lot : **SA Vidros** (Campinas) n est **p
 (Sao Paulo) — villes differentes, domaines differents, deux societes.
 
 **Registre a 1484 fiches.**
+
+---
+
+## 16/10 a 10h56 — CARTE DU BRESIL PAR ETAT, ET ELLE DIT OU ALLER : L ESPIRITO SANTO AVAIT UNE FICHE POUR UN GRAND PORT
+
+**Mesure faite sur le champ VILLE, sans double comptage, 124 fiches bresiliennes.**
+
+| Etat | fiches | | Etat | fiches |
+|---|---|---|---|---|
+| **Sao Paulo** | 34 | | Sergipe | 2 |
+| **Parana** | 28 | | Maranhao | 2 |
+| District federal | 9 | | Bahia | 2 |
+| Rio de Janeiro | 8 | | Alagoas | 2 |
+| Pernambouc | 7 | | Tocantins | 1 |
+| Minas Gerais | 6 | | Paraiba | 1 |
+| Rio Grande do Norte | 5 | | Para | 1 |
+| Santa Catarina | 4 | | Mato Grosso | 1 |
+| Ceara | 4 | | Goias | 1 |
+| Rio Grande do Sul | 3 | | **Espirito Santo** | **1** |
+| | | | Amazonas | 1 |
+| | | | Piaui / Nord isole | 0 |
+
+**DEUX FAUX DEPARTS AVANT D OBTENIR CE TABLEAU, et ils sont de la meme famille que les faux zeros du
+§13 :**
+1. **Un premier comptage en `awk` a rendu ZERO pour Sao Paulo.** Cause : `awk` lit de l **ERE**, ou
+   l alternance s ecrit `|` et non `\|`. **Un motif de filtre tape a la main dans le mauvais
+   dialecte rend un zero qui ressemble a un resultat**, et je ne l ai vu que parce que Sao Paulo ne
+   PEUT pas valoir zero. **Doutier du zero, toujours.**
+2. **Un second comptage sur la LIGNE ENTIERE a rendu 76 pour le Ceara**, soit plus que le total
+   plausible. Cause : les **notes citent d autres villes**. **Le §13 impose la ligne entiere pour
+   CHERCHER une fiche, et c est juste ; il ne faut PAS l employer pour COMPTER.** Une mesure de
+   couverture se fait sur le champ ville, en acceptant qu une fiche multi-sites sous-declare.
+
+### CE QUE LA CARTE A RENDU EN DEUX APPELS
+· **VITORIA, Espirito Santo** — une fiche pour un grand port, le trou le plus net. Ville testee
+  seule. **Deux prises : Distribuidora Max Vidros**, qui se declare distributrice et partenaire
+  officielle de Clarity Glass, et **TemperGlass**, industrie verriere locale de plus de quinze ans.
+  Ecartees : ASA Glass, vidracaria.
+· **JOINVILLE, Santa Catarina** — **faite, et c est un verdict.** Atacadao do Vidraceiro vend des
+  ferragens, Glassville, TRC et Souza sont des vidracarias de detail et de pose. **Seule Master
+  Temper vaut quelque chose, et elle etait deja au registre** — l appel lui a tout de meme gagne son
+  **adresse postale** sans appel dedie.
+· **ET UN PIEGE DE NOM QUI RAPPORTE :** la recherche Vitoria a rendu **VITORIA VIDROS, qui n est pas
+  a Vitoria** — usine a **Lagarto, Sergipe**, centre de distribution a **Sao Luis, Maranhao**. Lecon
+  Arquetipo, sauf que c est le NOM qui trompe et non l annuaire. **Et cela la rend plus interessante :
+  ces deux Etats portent deux fiches chacun.** Elle annonce un **cadastro de revendedores avec tabela
+  de precos**, donc elle vend a la chapa — critere d entree du §6 pris par le bon bout.
+
+### OU ALLER ENSUITE AU BRESIL, par ordre de valeur
+1. **Porto Alegre / Rio Grande do Sul, 3 fiches** — gros bassin industriel et port de Rio Grande. Le
+   §6 note que la seule recherche permise n y avait rendu que Cantini.
+2. **Salvador / Bahia, 2 fiches** — port majeur. ⚠ **Deja testee le 15/10 a 14h05**, a verifier
+   contre le marqueur de lot avant de redepenser.
+3. **Itajai et Florianopolis / Santa Catarina** — l Etat a 4 fiches et Joinville est faite, mais
+   Itajai est un des premiers ports a conteneurs du pays et n a jamais ete interrogee seule.
+4. **Goiania / Goias, 1 fiche**, et **Cuiaba / Mato Grosso, 1** — gros marches agricoles en
+   croissance, mais loin de tout port, meme reserve que Brasilia et Palmas.
+
+**Registre a 1487 fiches.**
