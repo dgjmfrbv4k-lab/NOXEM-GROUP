@@ -13423,3 +13423,98 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 218. CADIVI SRL (La Plata, province de Buenos Aires, Argentine) — `cadivi@cadivi.com.ar` — ESPAGNOL — premier contact
+
+**Redige le 16/10 a 10h28. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+**POURQUOI CETTE FICHE REMONTE AUJOURD HUI, ET C EST UNE LECON AVANT D ETRE UN TEXTE.** Elle a ete
+**deverrouillee le 15/10 a 12h00**, adresse verifiee sur son propre domaine, **meilleure classe de
+metier des cinq** — et son statut est reste `A APPELER`, pose avant le deverrouillage et jamais
+realigne. **Elle etait donc invisible a toute requete sur la file d envoi**, et c est le controle 2
+de l audit du §12 qui l a rendue : *adresse sans trace de rebond, fiche garee*. Une fiche
+deverrouillee dont le statut n est pas realigne dans la meme ecriture est une fiche perdue.
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE :**
+- **Mot distinctif grepe en `grep -in` et LIGNES LUES** : `cadivi` rend **une seule** ligne, la sienne.
+- **Adresse** `cadivi@cadivi.com.ar` publiee sur **leur propre site**, domaine **identique** a celui
+  du site `cadivi.com.ar`. **Aucune exception du §5.** Relue caractere par caractere.
+- **Classe de metier : negoce ET transformation**, soit les deux meilleures du §6 a 12,8 et 10,0 pour
+  cent. PME familiale sur deux generations, La Plata, **livraison a tout le pays**. Leur propre site
+  ecrit que **le float est la BASE de tous leurs autres produits** — c est le client qui explique
+  lui-meme pourquoi il achete de la feuille.
+- **REGLE PRODIESA appliquee** : ils trempent, feuillettent et montent du double vitrage certifie
+  **IRAM 12598-1**. Ces trois references **sortent de l offre**. Seul le **substrat** y entre, float
+  clair, extra-clair et low-E.
+- **⚠️ INTERDIT DU §6 TENU : jamais d absence de production locale en Argentine.** VASA, la
+  Vidrieria Argentina, produit a Llavallol et a Los Cardales et opere sur **quatre pays**. Le mot
+  *production locale* ne figure pas dans le texte.
+- **⚠️ RIEN SUR LES DROITS DE DOUANE ARGENTINS**, inconnus. Le §6 l interdit tant qu ils ne sont pas
+  lus a la source du pays.
+- **⚠️ PORTE DE SORTIE OBLIGATOIRE, ET PAS SEULEMENT PAR CONVENANCE.** Leur propre domaine **heberge
+  un catalogue VASA**, et c est la **troisieme fiche argentine dans ce cas** apres COVISA et Aluvi.
+  Trois sur trois : le marche est **systematiquement approvisionne par son producteur national**. La
+  probabilite est structurellement faible et le message le dit sans detour.
+- **AUCUNE EPAISSEUR PROPRE PUBLIEE** — celles du PDF sont celles de VASA et ne leur sont pas
+  attribuees dans le texte.
+- **Liens des pages produit presents**, controle du §9 point 3. **Signature une seule fois.**
+- Port **Buenos Aires** ou **La Plata**. Horaires locaux lundi-vendredi 8h-17h.
+
+**Objet :** `Vidrio float en contenedor completo - segunda fuente - puerto de Buenos Aires`
+
+```
+Estimados senores,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedora y exportadora de vidrio
+plano con sede cerca de Lyon, Francia. Esto es una oferta de suministro y no
+una solicitud de cotizacion. Si no es usted quien compra el vidrio, le
+agradezco que reenvie este mensaje a quien lo compra.
+
+Les escribo por una frase de su propio sitio: ustedes dicen que el float es la
+BASE de todos sus demas productos. Eso lo dice todo sobre lo que entra en su
+planta. Una casa de dos generaciones que comercializa y transforma desde La
+Plata hacia todo el pais, y que certifica su doble vidriado bajo IRAM 12598-1,
+compra lamina de manera continua y no por obra.
+
+De la lamina que entra es de lo unico que me ocupo. No les ofrezco templado,
+laminado ni doble vidriado: eso lo hacen ustedes, y mejor que nadie en su
+mercado. Les ofrezco el sustrato:
+
+- vidrio float incoloro y extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre y sin plomo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+Nuestro sitio existe solo en frances y en ingles. Le explico cada referencia en
+espanol con mucho gusto.
+
+Enviamos en CONTENEDORES COMPLETOS, en cajas de madera tratada IPPC/ISPM-15, en
+lamina a SUS MEDIDAS, o en jumbo de 3210 x 2550 mm si lo prefieren - el largo de
+corte se hace a pedido. Podemos preparar una oferta para la entrega en su puerto
+de destino, sujeta a validacion por nuestra parte. Buenos Aires o La Plata, en
+su caso.
+
+Para saber si tiene sentido seguir, necesito poco: que espesores mueven de
+verdad, que medida de lamina les sirve, un orden de magnitud del volumen anual
+con la frecuencia de compra, y el puerto.
+
+Y le voy a decir con franqueza lo que pienso, para no quitarle tiempo. En su
+mercado el abastecimiento esta muy concentrado, y una planta que ya tiene su
+fuente establecida rara vez tiene lugar para otra. Lo entiendo perfectamente. Lo
+unico que propongo es ser una segunda fuente, por si un dia la primera no puede.
+Si no es el caso, digamelo con franqueza, que no insisto.
+
+Quedo a su disposicion.
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

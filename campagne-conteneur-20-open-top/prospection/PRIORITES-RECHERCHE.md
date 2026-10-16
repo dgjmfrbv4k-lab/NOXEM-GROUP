@@ -1426,3 +1426,99 @@ decouverte de ville, qui tourne desormais a un ou deux noms neufs par requete su
 marches.**
 
 **Registre a 1479 fiches.**
+
+---
+
+## 16/10 a 16/10 a 10h31 — LA LISTE « CE QUI N A PAS ENCORE ETE TENTE » ETAIT PERIMEE EN ENTIER, ET LE VRAI GISEMENT N EST PLUS LA DECOUVERTE
+
+**DEUX APPELS PERDUS CE MATIN, ET LA CAUSE N EST PAS L ETOURDERIE : C EST CE FICHIER-CI.** Sa liste
+du 15/10 a 13h49 donnait cinq pistes « pas encore tentees ». **Quatre sur cinq etaient faites**, et
+le registre le disait :
+
+| Piste annoncee non tentee | Realite au registre |
+|---|---|
+| Chili hors Santiago, Valparaiso et Concepcion | **faites** le 15/10 a 14h03 et 14h06, villes testees SEULES |
+| Columbus et Anchorage | **deux fiches chacune** au registre |
+| Cali et Medellin | **faites** le 15/10 a 13h54 et 13h50 |
+| Perou par region | **fait** le 15/10 a 13h54, pays declare largement fait |
+| **Norfolk et Hampton Roads** | **la seule qui etait vraiment neuve** |
+
+**J AI DEPENSE VALPARAISO ET CONCEPCION AVANT DE VERIFIER.** C est exactement la lecon Brocanelli du
+15/10 au matin, prise sur un autre fichier : **le controle existait, il disait la verite, et j ai
+depense l appel sans le lire.** Ici le controle n est pas un script, c est le registre lui-meme —
+les marqueurs `LOT DE <ville> DU <date>` y sont, et un `grep -o 'LOT [A-Z][^.]*'` les rend tous en
+une seconde pour zero appel.
+
+**REGLE : la liste des pistes non tentees de CE fichier ne fait pas foi. Elle se verifie contre les
+marqueurs de lot du REGISTRE avant de depenser le premier appel.** Un fichier de priorites vieillit
+d un jour sur l autre ; le registre, lui, porte la trace de ce qui a ete fait.
+
+### Ce que Norfolk a rendu, puisque c etait la seule piste reelle
+Cinq noms. **Tidewater Flat Glass deja au registre et deja envoyee** le 13/10, **Binswanger** deja
+presente, **Glass Corporation** et **Virginia Glass House** de la classe facade et pose a 3,6 pour
+cent. **Une seule prise : CONNOLLY GLASS INC** (Chesapeake), trempe, biseautage et feuilletage, donc
+la **meilleure classe des cinq**. Fiche creee, adresse publiee sur sa propre page de contact,
+**reserve de taille portee en clair** — boite gmail, une ligne, horaires courts — et statut
+`A QUALIFIER` parce que la question du conteneur complet se tranche au telephone, pas en ligne.
+
+---
+
+## LE VRAI GISEMENT, MESURE A 16/10 a 10h31 : 66 FICHES ONT UNE ADRESSE ET N ONT JAMAIS ETE CONTACTEES
+
+Ce n est pas de la decouverte, c est du **stock deja trouve et jamais travaille**. Reparti ainsi :
+
+- **A VALIDER AARON** : 27
+- **A APPELER** : 14
+- **A QUALIFIER** : 13
+- **A ENVOYER** : 10
+- **VERIFICATION COMPLIANCE — REPONDRE DEPUIS LE DOMAINE** : 1
+- **A RELANCER — REPONSE RECUE** : 1
+
+**ET IL FAUT DIRE TOUT DE SUITE CE QUI N EST PAS EXPLOITABLE, sinon le chiffre ment :**
+- Les **neuf sud-africaines** sont en `A VALIDER AARON` parce que le marche est **gele** au titre du
+  paragraphe 7 : PFG appartient a PG Group, avec qui nous negocions. Ce n est pas un oubli, c est un
+  arbitrage qui attend.
+- Les **six camerounaises** sont de la **pire classe de metier** — menuiserie aluminium et
+  miroiterie, mesurees a 3,6 et 0 pour cent le 13/10.
+- Les **dix en file d envoi** attendent l accord expres de Kevin, qui n est pas une absence de
+  travail mais une regle du paragraphe 5.
+
+### CE QUI EST REELLEMENT EXPLOITABLE : 10 FICHES A ADRESSE VIVANTE, GAREES EN `A APPELER` OU `A QUALIFIER`
+
+Rendues par le **controle 2b de l audit du paragraphe 12** — *adresse sans trace de rebond, fiche
+garee*. Triees au metier du paragraphe 6 :
+
+| Fiche | Pays | Classe | Verdict |
+|---|---|---|---|
+| **CADIVI** | Argentine | **negoce ET transformation** | **TRAITEE CE MATIN**, texte 218, file au 19/10 |
+| Olglass Internacional | Colombie | transformateur avec pose | a travailler, regle Prodiesa |
+| Glasstech Chili | Chili | **a etablir** — ils trempent de 5 a 19 mm | un appel de qualification |
+| PG Projekt Glas | Allemagne | negoce de verre **decoratif** | ⚠ risque de la famille verre d art du §5 |
+| GDI — Glass Distributors | Etats-Unis | **tranche contre elle le 15/10** : quincaillerie | ne pas rouvrir |
+| Big River Glass | Etats-Unis | **declassee le 15/10** : pose et service local | ne pas rouvrir |
+| Carl Abel, Glastechnik Engels | Allemagne | verrier + pose, **0 pour cent sur onze fiches** | en dernier |
+| Vidrossul, Fast Vidros | Bresil | vidracaria et quincaillerie | en dernier |
+| NAVISA | Mexique | pose | en dernier |
+
+### ⚠️⚠️ ET LA PRISE DU JOUR DIT UNE REGLE QUI MANQUAIT : UN DEVERROUILLAGE ET LE REALIGNEMENT DU STATUT SE FONT DANS LA MEME ECRITURE
+
+**CADIVI a ete deverrouillee le 15/10 a 12h00** — adresse verifiee sur son propre domaine, classe de
+metier la meilleure des cinq, qualification complete y compris le catalogue VASA heberge sur leur
+domaine. **Et son statut est reste `A APPELER`**, pose avant le deverrouillage.
+
+**CONSEQUENCE : elle etait invisible a toute requete sur la file d envoi, et au comptage des fiches
+adressees jamais contactees qui trie par statut.** Une journee entiere d envois a pu passer a cote.
+C est la **meme famille que la lecon Staklo Bakar du paragraphe 12** — une decision ecrite en prose
+que le statut ne porte pas — sauf qu ici ce n est meme pas une decision, c est un oubli d ecriture.
+
+**Le seul controle qui la voie est le 2b de l audit**, parce qu il croise le **champ adresse** avec
+le **statut** au lieu de lire l un des deux. **A passer en fin de chaque journee**, et pas seulement
+quand on cherche des doublons.
+
+### UNE FAUTE DE CALENDRIER TROUVEE DANS LE MEME PASSAGE, ET AVANT L ENVOI POUR UNE FOIS
+**Vidrios + Vidrios etait programmee au `A ENVOYER 2026-10-17`, qui est un SAMEDI.** Reportee au
+lundi 19/10, jour de semaine **calcule et non suppose**, et verifie pour la Colombie ou la Ley
+Emiliani reporte les feries au lundi — le prochain est le **lundi 2 novembre**. C est la faute du
+12/10 prise une quatrieme fois, mais la premiere ou elle est vue **avant** que le message parte.
+
+**Registre a 1480 fiches.**
