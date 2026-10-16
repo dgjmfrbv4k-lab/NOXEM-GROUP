@@ -9581,6 +9581,8 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 
 **Corps :**
 
+- **⚠️ CERTIFICATION DU CLIENT, pas la notre — test du §5 fait.** La certification nommee dans le message est **la leur**, lue sur leur propre source. Le §5 interdit de citer un certificat **non valide de notre cote** : il n'est pas en cause ici. C'est le precedent Med Glass du 09/10, mot pour mot.
+
 **Objet :** `Substrato para tempera e laminado - segunda origem`
 
 ```
@@ -10190,6 +10192,8 @@ anti-rebond est satisfaite sans exception a noter.
   malaisiens. La precaution de formulation du §6 est tenue mot pour mot : on ne dit pas que notre verre
   est bon marche, on dit que les deux origines les moins cheres portent desormais des droits.
 - Mot distinctif **tristar** grepe avant travail, une seule fiche.
+
+- **⚠️ CERTIFICATION DU CLIENT, pas la notre — test du §5 fait.** La certification nommee dans le message est **la leur**, lue sur leur propre source. Le §5 interdit de citer un certificat **non valide de notre cote** : il n'est pas en cause ici. C'est le precedent Med Glass du 09/10, mot pour mot.
 
 **Objet :** `Substrate supply for three fabrication plants - second origin`
 
@@ -13460,6 +13464,8 @@ deverrouillee dont le statut n est pas realigne dans la meme ecriture est une fi
 - **Liens des pages produit presents**, controle du §9 point 3. **Signature une seule fois.**
 - Port **Buenos Aires** ou **La Plata**. Horaires locaux lundi-vendredi 8h-17h.
 
+- **⚠️ CERTIFICATION DU CLIENT, pas la notre — test du §5 fait.** La certification nommee dans le message est **la leur**, lue sur leur propre source. Le §5 interdit de citer un certificat **non valide de notre cote** : il n'est pas en cause ici. C'est le precedent Med Glass du 09/10, mot pour mot.
+
 **Objet :** `Vidrio float en contenedor completo - segunda fuente - puerto de Buenos Aires`
 
 ```
@@ -13589,6 +13595,106 @@ one cannot deliver. If that is not of interest, say so plainly and I will not
 push.
 
 Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 220. MTX Glass — Marcetex Vidros (Barueri, Sao Paulo) — `mtxglass@mtxglass.com.br` — PORTUGAIS — premier contact
+
+**Redige le 16/10 a 10h49. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE :**
+- **Mot distinctif grepe en `grep -in` et LIGNES LUES** : `mtx`, `marcetex` et `mtxglass`, **tous
+  trois ABSENTS**. Et **`sa vidros` a rendu NSA Vidros**, qui est une **autre** maison — Sao Paulo
+  contre Campinas, domaines differents — tranche sur le siege au titre du §12.
+- **⚠️ UNE SEULE MAISON SOUS DEUX NOMS**, tranche avant la creation : la page Abravidro a l URL
+  `marcetex-vidros` et le titre **MTX GLASS**, et les deux donnent **la meme adresse**. Une fiche,
+  **un seul message** — deux fiches auraient fabrique la faute Shibaam.
+- **Adresse** `mtxglass@mtxglass.com.br`, publiee dans la section contacts de **leur propre
+  accueil**, domaine **identique** au site. **Aucune exception du §5.**
+- **Ville corrigee** : Abravidro dit Santana de Parnaiba, **leur site dit Barueri**, meme rue et
+  meme numero. C est leur donnee qui fait foi — l annuaire identifie, il ne qualifie pas.
+- **Classe : distribution ET faconnage**, les deux meilleures du §6. Gamme lue sur leur site :
+  extra clear, miroir et incolore, en trempe, feuillete et **monolithique**, **3,15 a 12 mm**, sur
+  mesure, pour **tout le Bresil**.
+- **REGLE PRODIESA** : trempe et feuillete **sortent** de l offre. Le substrat y entre.
+- **⚠️ RESERVE SUR LE MIROIR, TENUE DANS LE TEXTE** : ils annoncent de l espelhado sans qu on sache
+  s ils argentent. Le miroir est donc **en derniere position et sans insistance**. S ils argentent,
+  il en sort — regle Prodiesa, cas Prodiesa lui-meme.
+- **⚠️ INTERDIT DU §6 TENU : jamais d absence de production locale au Bresil**, qui compte **quatre**
+  producteurs float — AGC, Cebrace, Guardian et Vivix.
+- **⚠️ ET L ANGLE DOUANIER EST SERVI SUR LE FLOAT CLAIR ET SUR RIEN D AUTRE**, parce que la Gecex 833
+  **exclut** le miroir, le teinte et le colore dans la masse. La phrase le dit explicitement. **Aucun
+  taux cite**, aucun chiffre, et rien sur le droit ordinaire qui n est pas etabli.
+- **Liens des pages produit presents** (§9 point 3). **Signature une seule fois.** Port Santos.
+
+- **⚠️ CERTIFICATION DU CLIENT, pas la notre — test du §5 fait.** La certification nommee dans le message est **la leur**, lue sur leur propre source. Le §5 interdit de citer un certificat **non valide de notre cote** : il n'est pas en cause ici. C'est le precedent Med Glass du 09/10, mot pour mot.
+
+**Objet :** `Vidro float incolor e extra claro em conteiner completo - segunda origem - Santos`
+
+```
+Prezados senhores,
+
+Meu nome e Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com sede perto de Lyon, na Franca. Isto e uma oferta de
+fornecimento e nao um pedido de cotacao. Se nao e o senhor quem compra o
+vidro, agradeco que repasse esta mensagem a quem compra.
+
+Escrevo por causa de uma coisa concreta: a certificacao de vidro laminado que
+a casa obteve, emitida pelo Ibelq com acreditacao do Inmetro. Quem trabalha
+sob certificacao tem de justificar o que entra no autoclave, lote apos lote.
+Para a maioria dos transformadores a origem da chapa e so uma questao de
+custo. Para uma casa certificada e tambem uma questao de documentacao, e e
+exatamente ai que eu posso ser util.
+
+Nao ofereco temperado nem laminado. Isso os senhores fazem, e fazem
+certificado. Ofereco a chapa que entra:
+
+- vidro float incolor e extra claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+O espelho fica por ultimo de proposito: se os senhores mesmos prateiam, me
+digam e eu o tiro da conversa.
+
+Nosso site existe apenas em frances e em ingles. Explico cada referencia em
+portugues com muito gosto.
+
+Uma observacao sobre origens, e ela vale para o float INCOLOR apenas. A
+Resolucao Gecex 833 aplica direito antidumping ao float incolor de 1,8 a 20 mm
+vindo da Malasia, do Paquistao e da Turquia. A Europa nao e alvo de nenhuma
+dessas medidas. A mesma resolucao exclui expressamente o espelho, o fume e o
+colorido na massa, portanto nada disso vale para essas referencias. E um fato
+aduaneiro, nao uma afirmacao sobre o que cobramos.
+
+Enviamos em CONTEINERES COMPLETOS, em caixas de madeira tratada IPPC/ISPM-15,
+em chapa NA MEDIDA DOS SENHORES, ou em jumbo de 3210 x 2550 mm se preferirem -
+o comprimento de corte e feito sob encomenda. Podemos preparar uma oferta para
+a entrega no porto de destino dos senhores, sujeita a validacao do nosso lado.
+Santos, no caso.
+
+Para saber se vale a pena seguir, preciso de pouco: que espessuras realmente
+giram, que medida de chapa serve a linha, uma ordem de grandeza do volume
+anual com a frequencia de compra, e o porto.
+
+E digo com franqueza o que penso, para nao tomar o tempo dos senhores. Uma
+casa certificada costuma ter um fornecimento ja homologado, e trocar isso nao
+e coisa pequena. Entendo perfeitamente. O que proponho e ser uma segunda
+origem, para o dia em que a primeira nao puder entregar. Se nao for o caso,
+me diga com franqueza, que eu nao insisto.
+
+Fico a disposicao.
 
 Aaron Harfi
 President - NOXEM GROUP SAS

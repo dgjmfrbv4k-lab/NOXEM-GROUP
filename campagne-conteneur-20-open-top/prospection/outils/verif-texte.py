@@ -53,7 +53,7 @@ SRC = args[0] if args else 'TEXTES-PRETS.md'
 
 INTERDITS = [
     r'\beuros?\b', r'\bprecios?\b', r'\bprices?\b', r'\bUSD\b', '€', r'\bplazos?\b',
-    r'\bcertificad\w*\b', r'\bcertificat\w*\b', r'\bISO\s?9', r'\bd[ée]lais?\b',
+    r'\bd[ée]lais?\b',
     r'\bdescuento\b', r'\bremise\b', r'\bgarantia\b', r'\bgarantie\b', r'\bwarranty\b',
     r'\bpas de production locale\b', r'\bno local production\b',
     r'\blead ?times?\b', r'\bdelivery times?\b', r'\bplazo de entrega\b',
@@ -74,6 +74,40 @@ INTERDITS = [
 # demande la justification.
 CONDITIONNELS = [r'\bantidumping\b', r'\bdroits? de douane\b', r'\btariffs?\b',
                  r'\bdut(y|ies)\b', r'\bcuota\b', r'\boctroi de mer\b']
+
+# CONDITIONNELS DE CERTIFICAT — sortis des INTERDITS le 16/10, et c est la
+# CINQUIEME fois que ce controleur refuse un texte juste. Le §5 interdit de
+# citer un CERTIFICAT NON VALIDE — c est-a-dire LE NOTRE. Il n a jamais
+# interdit de parler de celui DU CLIENT, et le mandat le dit en toutes lettres
+# sur Med Glass : « la certification citee est la LEUR, lue sur leur site, non
+# la notre, donc l interdit du paragraphe 5 n est pas en cause ».
+# Le texte 220, bati sur la certification feuilletee Ibelq-INMETRO de MTX
+# Glass, a ete refuse pour cela — et c est precisement l angle le plus fort de
+# la fiche, celui qui a marche sur Med Glass au Maroc.
+# MEME PRINCIPE QUE LES CONDITIONNELS DU §6 : on ne supprime pas le signal, on
+# exige que l auteur DISE qu il a applique le test. Le marqueur est une phrase
+# en capitales, deliberee, qu aucune prose ne declenche par hasard — c est la
+# lecon du mot DOUBLON ecrit en prose du §12, prise a l envers.
+CONDITIONNELS_CERT = [r'\bcertificad\w*\b', r'\bcertificat\w*\b',
+                      r'\bcertifi\w*\b', r'\bzertifi\w*\b', r'\bISO\s?9']
+MARQUEUR_CERT = 'CERTIFICATION DU CLIENT'
+
+# ⚠️ ET LE MARQUEUR NE SUFFIT PAS SEUL — mesure du 16/10 sur jeu d essai. Un
+# texte qui annonce NOTRE PROPRE certificat passait des lors que le commentaire
+# portait le marqueur, parce que le marqueur est une ATTESTATION D AUTEUR et
+# qu un auteur distrait la signe. C est la limite inherente au mecanisme des
+# conditionnels du §6, prise ici de face.
+# D ou une seconde liste que RIEN ne leve : un possessif de premiere personne
+# a portee d un mot de certificat, et le numero de norme lui-meme. Si la
+# certification du CLIENT doit etre nommee, elle se nomme sans numero — « votre
+# certification pour le feuillete » dit la meme chose et ne peut pas se lire
+# comme la notre.
+CERT_DUR = [r'\b(notre|nos)\b(\s+\w+){0,3}\s+certifi',
+            r'\b(nuestr[oa]s?)\b(\s+\w+){0,3}\s+certifi',
+            r'\b(noss[oa]s?)\b(\s+\w+){0,3}\s+certifi',
+            r'\bour\b(\s+\w+){0,3}\s+certifi',
+            r'\bISO\s?9\d{3}\b', r'\bcertificado de origem\b',
+            r'\bcertificat d origine\b', r'\bcertificate of origin\b']
 # Formule imposee du paragraphe 5. LISTE COMPLETEE LE 13/10 : elle ne portait
 # qu'UNE forme espagnole, le calque "bajo reserva de", alors que les textes
 # reels de la campagne emploient depuis le debut "sujeta a validacion POR
@@ -237,6 +271,18 @@ for num, titre, corps_section in sections:
                 avertis.append((num, titre, cond))
             else:
                 pb.append('MOT CONDITIONNEL %s SANS JUSTIFICATION §6 dans le commentaire' % cond)
+        dur = [m for m in CERT_DUR if re.search(m, plat, re.I)]
+        if dur:
+            pb.append('CERTIFICAT ANNONCE COMME LE NOTRE %s — interdit du §5, '
+                      'AUCUN marqueur ne le leve' % dur)
+        cert = [m for m in CONDITIONNELS_CERT if re.search(m, plat, re.I)]
+        if cert:
+            if MARQUEUR_CERT in corps_section:
+                avertis.append((num, titre, cert))
+            else:
+                pb.append('MOT DE CERTIFICAT %s SANS LE MARQUEUR %s dans le commentaire — '
+                          'le §5 interdit NOTRE certificat, pas celui du client, et le marqueur '
+                          'atteste que le test a ete fait' % (cert, MARQUEUR_CERT))
         if not any(f in plat for f in FORMULE):
             pb.append('FORMULE IMPOSEE ABSENTE')
         n = plat.count(SIGNATURE)
