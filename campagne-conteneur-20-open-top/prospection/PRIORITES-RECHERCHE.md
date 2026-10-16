@@ -1522,3 +1522,56 @@ Emiliani reporte les feries au lundi — le prochain est le **lundi 2 novembre**
 12/10 prise une quatrieme fois, mais la premiere ou elle est vue **avant** que le message parte.
 
 **Registre a 1480 fiches.**
+
+---
+
+## 16/10 a 10h47 — ABRAVIDRO NATIONALE PUBLIE BIEN SES ASSOCIES, LE §6 SE TROMPAIT — MAIS ELLE EST DEJA MOISSONNEE, ET JE L AI ANNONCEE AVANT DE LA MESURER
+
+**IL FAUT COMMENCER PAR LA FAUTE, parce qu elle est exactement celle que le mandat punit partout :
+j ai ecrit que c etait la trouvaille du jour et le plus gros gisement nomme du mandat AVANT d avoir
+grepe un seul nom.** La mesure, faite dans la minute suivante, dit l inverse.
+
+### CE QUI EST VRAI, ET CELA CORRIGE LE §6
+Le §6 affirme qu une **federation nationale publie rarement ses membres alors qu une regionale le
+fait**, et c est pour cela que la methode testait les treize entites regionales une par une — sept
+testees, deux productives.
+**C est faux pour Abravidro.** Elle publie `abravidro.org.br/quem-somos/empresas-associadas`, paginee
+par lettre, **et une page par societe** sous `/empresas-associadas/<nom>`, avec **adresse, telephone,
+e-mail et site propre**. Trois pages de certification s y ajoutent, feuillete et trempe.
+
+### ET CE QUI EST FAUX : LE GISEMENT EST DEJA PRIS
+**Treize noms releves, DOUZE deja au registre** — ABC Temper, Abrasipa, Aluglass Vidros, Amazon
+Temper, VPM, DM Vidros, Grupo RV Vidros, Disk Vidros, Vitrino Vidros, Temperline, Vitral Vidros,
+Cyberglass. Seule **Alumitec** manquait, et son nom dit l aluminium.
+Une session anterieure a donc deja moissonne cette liste, par les entites regionales ou par les
+recherches de ville. **Ne pas relancer une campagne de vingt-six appels par lettre dessus.**
+
+### CE QUE LA ROUTE REND QUAND MEME, CHIFFRE SUR QUATRE APPELS
+| Appel | Rendu |
+|---|---|
+| 1. existence de l annuaire | confirmee, format etabli |
+| 2. premiere lettre | 5 societes, **5 deja au registre** |
+| 3. cinq noms du registre sans site | **aucun n est membre** — la route ne sert pas a deverrouiller mes fiches |
+| 4. trois noms neufs apercus | **MTX Glass, Vitrax, SA Vidros, avec coordonnees completes** |
+
+**TROIS FICHES CREEES EN QUATRE APPELS**, avec adresse postale, telephone et site propre. C est
+**comparable a la decouverte de ville en nombre, et meilleur en qualite** : une recherche de ville
+rend un ou deux noms **sans coordonnees**, donc deux appels de plus chacun. Ici la coordonnee vient
+avec le nom.
+**Mais le gain reel est modeste et il faut le dire : l e-mail de l annuaire ne satisfait PAS la regle
+anti-rebond**, donc un second temps reste du avant tout envoi. Cout par fiche envoyable : environ
+**1,3 appel contre 2** par la methode classique.
+
+### DEUX NOMS APERCUS ET NON TRAVAILLES, pour qui reprendra
+**Vidralia** et **Art Vidros**, tous deux absents du registre et tous deux membres Abravidro. Leurs
+coordonnees n ont pas ete relevees.
+
+### ET UN POINT DU §12 TRANCHE AVANT CREATION, QUI AURAIT FAIT UNE FAUTE SHIBAAM
+La page `/empresas-associadas/marcetex-vidros` s intitule **MTX GLASS**, et les deux noms donnent **la
+meme adresse**, Rua Pirituba 245, avec des telephones differents. **Une seule maison, une seule
+fiche, un seul message** le jour venu. C est la lecon Miroiterie des Antilles : on tranche sur le
+siege, jamais sur le nom.
+Et l inverse a ete tranche dans le meme lot : **SA Vidros** (Campinas) n est **pas** **NSA Vidros**
+(Sao Paulo) — villes differentes, domaines differents, deux societes.
+
+**Registre a 1484 fiches.**

@@ -785,6 +785,21 @@ lui attribue une table de droits d'importation la cite en réalité comme la par
    (Brasília), Ascevi (Santa Catarina), Avigo (Goiás), Adivipar (Paraná), Adevibase (Bahia et
    Sergipe), Amvid (Minas Gerais), Sinbevidros et Sincavesp (São Paulo), Sincavidro (Rio de Janeiro).
    **Vérifié sur la première : `abravid.com.br/associados/` liste bien ses membres nommément.**
+   **⚠️⚠️ ET LA PRÉMISSE DE CE PARAGRAPHE EST FAUSSE, MESURÉE LE 16/10 : ABRAVIDRO **NATIONALE**
+   PUBLIE SES ASSOCIÉS, UN PAR PAGE, AVEC ADRESSE, TÉLÉPHONE, E-MAIL ET SITE PROPRE.**
+   `abravidro.org.br/quem-somos/empresas-associadas`, paginé par lettre, plus une page par société
+   sous `/empresas-associadas/<nom>` et trois pages de certification. Il n'était donc pas nécessaire
+   de passer par les treize régionales pour avoir les noms — **sept régionales testées pour deux
+   productives, quand la nationale les portait toutes.**
+   **MAIS LE GISEMENT EST DÉJÀ PRIS, et c'est la seconde moitié de la mesure : douze noms relevés sur
+   treize étaient DÉJÀ au registre.** Une session antérieure l'a moissonné sans le dire. **Ne pas y
+   relancer une campagne par lettre.** Quatre appels y ont rendu **trois fiches neuves** — MTX Glass,
+   Vitrax, SA Vidros — avec leurs coordonnées complètes, ce qui vaut la découverte de ville en nombre
+   et la dépasse en qualité, la coordonnée venant avec le nom. **L'e-mail de l'annuaire ne satisfait
+   toujours pas la règle anti-rebond**, donc un second temps reste dû : environ 1,3 appel par fiche
+   envoyable contre 2 par la méthode classique.
+   **LA RÈGLE GÉNÉRALE À EN TIRER : avant de décomposer une fédération en ses entités régionales,
+   VÉRIFIER SI LA NATIONALE PUBLIE SES MEMBRES.** Cela coûte un appel et peut en économiser treize.
    **⚠️⚠️ ET LE 15/10 MESURE CES TREIZE ENTITÉS AU LIEU DE LES ANNONCER, SUR LES DEUX PREMIÈRES : ELLES NE SE
    VALENT PAS, ET L'ÉCART EST DE HUIT NOMS À ZÉRO.**
    · **ABRAVID** (District fédéral) a rendu **quatorze membres nommés, dont dix avec leur adresse e-mail**.
