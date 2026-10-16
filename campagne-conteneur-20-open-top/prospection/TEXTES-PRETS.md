@@ -14515,3 +14515,257 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 231. Glassfabrikken AS (Larvik, Vestfold) — `kristian@glassfabrikken.no` — ANGLAIS — premier contact
+
+**Redige le 16/10 a 15h43. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe en `grep -in`, LIGNES LUES** : `glassfabrikken`, **ABSENT**.
+- **⚠️⚠️ L ADRESSE EST NOMINATIVE, ET C EST LE CAS QUE LE §5 AUTORISE EXPRESSÉMENT — pas une
+  exception.** Elle est publiée sur **leur propre annuaire du personnel**, domaine identique au site,
+  et **Kristian Nauf y est donné comme DAGLIG LEDER** — directeur général, donc une fonction
+  **vérifiée ET pertinente**, le §5 nommant « achats, import, **direction** ».
+  **Six autres adresses nominatives écartées** : vente, technique, usine, production et deux
+  conseillers commerciaux — fonctions non pertinentes pour les achats.
+  **Et la générale `glass@glassfabrikken.no` n est PAS retenue** : elle vient de l annuaire 1881 et
+  non de leur site, donc la règle anti-rebond n est pas satisfaite pour elle.
+- **Grosse maison** : 55 salariés, fondée 1993, trente ans de fourniture au marché professionnel.
+- **⚠️ ET LE SIGNAL QUI DÉCIDE EST LEUR MARCHÉ DÉCLARÉ** : ils servent **les entreprises verrières
+  professionnelles**, donc ils vendent **au métier** et non au chantier. C est du volume et du stock
+  de feuille entrante.
+- **Larvik est un port**, donc aucun post-acheminement — le meilleur profil géographique du lot.
+- **⚠️ INTERDITS DU §6 TENUS** : argument scandinave au **passé**, Pilkington non nommé, **rien sur
+  les droits**, aucun chiffre de marché cité. **REGLE PRODIESA. Liens produit présents. Signature une
+  seule fois.** Jour ouvré vérifié.
+
+**Objet :** `Clear float for your lines - full containers into Larvik`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. I am writing to you directly because yours is the only role on the
+contact page that would decide something like this - if that is wrong, I would
+be grateful if you passed it to whoever buys the glass.
+
+I am writing because of who you say you sell to: professional glass companies
+working in facade, service and interior. A house that supplies the trade
+rather than the site buys sheet by the load and keeps it in stock, and the
+load is the only thing I deal in.
+
+And everything you process in Larvik arrived by sea before it reached you.
+The last float line in Scandinavia was shut down at Halmstad and nothing has
+replaced it. So the question is not whether to import - it is how many origins
+you can call on.
+
+I am not offering toughened, laminated, screen-printed or enamelled glass.
+You do all of that, and you have done it for thirty years. I am offering the
+sheet that goes in:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order. We can
+put together an offer for delivery to your port of destination, subject to
+validation on our side. Larvik itself, which puts the quay about as close to
+Hegdalveien as it gets.
+
+To know whether this is worth your time, I need very little: which
+thicknesses actually move through the plant, what sheet size suits your
+tempering and laminating lines, a rough idea of annual volume with how often
+you buy, and the port.
+
+And I will say plainly what I expect. A works of your size has a settled
+supply and changing it is not a small thing. I understand that completely.
+All I am proposing is to be a second source, for the week the first one
+cannot deliver. If that is of no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 232. Tonsberg Glassliperi og Speilfabrikk AS (Borre, Vestfold) — `post@glassliperi.no` — ANGLAIS — premier contact
+
+**Redige le 16/10 a 15h50. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe en `grep -in`, LIGNES LUES** : `glassliperi` puis `speilfabrikk`, **ABSENT** les deux.
+- **Adresse relevee sur LEUR PROPRE DOMAINE** `glassliperi.no`, donc la regle anti-rebond du §5
+  est satisfaite par construction. Boite generale, aucune boite d achat publiee.
+- **⚠️⚠️ REGLE PRODIESA, ET C EST LE CAS D ECOLE DE TOUTE LA CAMPAGNE : ILS ARGENTENT EUX-MEMES.**
+  Leur propre site dit qu ils fabriquent le miroir **dans leur usine**, la plupart des formes.
+  **Le miroir sans cuivre ni plomb est donc INTERDIT dans ce message**, alors que c est la page la
+  plus differenciante du §8 — c est exactement la faute commise sur **Prodiesa le 12/10**, ou le
+  texte offrait le miroir en premiere position a un fabricant de miroir.
+  **Le texte ci-dessous ne porte que le SUBSTRAT**, float clair et extra-clair, et il le dit en
+  toutes lettres au client pour que l intention soit lisible.
+- **L extra-clair est l argument de fond** : un argenteur haut de gamme achete du substrat a faible
+  teneur en fer pour que le miroir ne verdisse pas. C est le seul endroit ou nous valons mieux qu un
+  float ordinaire chez eux, et c est vrai sans rien promettre.
+- **Classe de metier : verrier pur**, la meilleure du §6 a 12,8 pour cent de reponse.
+- **⚠️ INTERDITS DU §6 TENUS** : argument scandinave au **passe**, **rien sur les droits ni sur la
+  fiscalite norvegienne**, aucun producteur nomme, aucune usine partenaire. **Porte de sortie
+  presente. Liens produit presents. Signature une seule fois.** Jour ouvre verifie.
+
+**Objet :** `Clear and extra-clear float substrate - full containers into Oslo or Larvik`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation, and if you are not the person who buys the glass I would be
+grateful if you passed it on.
+
+Let me start with what I am NOT writing about, because it is the whole point.
+You silver your own mirror, in your own factory, in most shapes. I am not
+going to offer you finished mirror. You make it.
+
+What I am offering is the sheet that goes under the silver. A mirror works
+buys substrate, and the substrate decides what the finished mirror looks
+like: ordinary float carries a green cast that shows on a large pane and on
+anything pale behind it, and low-iron glass does not. That is the one place
+where the origin of the sheet actually changes your product rather than just
+your invoice.
+
+- clear float glass and extra-clear, low-iron float
+  https://noxemgroup.com/en/float-glass/
+- and the difference between the two, if it is useful to you
+  https://noxemgroup.com/verre-float-clair-vs-verre-float-extra-clair-quelles-differences-guide-complet/
+
+The second reason I am writing is simply where your sheet comes from. The
+last float line in Scandinavia was shut down and nothing has replaced it, so
+every sheet on Raveien arrived by sea before it reached you. The question is
+not whether to import - it is how many origins you can call on when one of
+them is short.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so odd
+formats for shaped mirror are not a problem. We can put together an offer for
+delivery to your port of destination, subject to validation on our side -
+Oslo or Larvik, whichever your forwarder prefers.
+
+To know whether this is worth your time I need very little: which
+thicknesses you silver, what sheet size suits your cutting and polishing
+line, whether you take extra-clear at all today, a rough annual volume with
+how often you buy, and the port.
+
+And I will say plainly what I expect. A works that has been grinding and
+silvering for as long as yours has a settled supplier, and changing it is not
+a small thing. I understand that. All I am proposing is to be a second
+source, for the week the first one cannot deliver. If that is of no interest,
+say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 233. Vikesa Glassindustri AS (Bjerkreim, Rogaland) — `postmaster@vgi.no` — ANGLAIS — premier contact
+
+**Redige le 16/10 a 15h50. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe en `grep -in`, LIGNES LUES** : `vikesa` puis `vikeså`, **ABSENT** les deux.
+- **Adresse relevee sur LEUR PROPRE DOMAINE** `vgi.no`, regle anti-rebond satisfaite.
+  **⚠️ Et `tilbud@vgi.no`, relevee sur la meme page, est ECARTEE VOLONTAIREMENT** : *tilbud* veut
+  dire **offre ou devis**, c est la boite ou **leurs** clients demandent **leurs** prix, donc la
+  colonne CLIENT du tableau du §13. Le piege MunnWorks exactement.
+- **⚠️ UN SEUL COMPTE POUR DEUX MARQUES** : `vgi.no` sert a la fois Vikesa Glassindustri et
+  **Bockmann Glassindustri**, meme telephone, meme page. **Aucune fiche Bockmann n est ouverte.**
+- **Pourquoi eux** : communique NTB, ils produisent **dans leur propre usine** la quasi-totalite du
+  vitrage isolant qu ils vendent en Norvege, et ils ont ouvert une **succursale de gros a Bergen**
+  en juin 2017. Ils sont donc a cheval sur les deux meilleures classes du §6 — fabricant **et**
+  negociant.
+- **⚠️⚠️ RESERVE DE CIBLAGE : LA MARQUE SANCO EST DANS LEUR GAMME, ET SANCO EST UNE LICENCE DE GLAS
+  TROSCH**, producteur float. **Regle du fragment de marque lue dans le bon champ** : une marque
+  dans une **gamme** dit qu on ACHETE, donc ils restent un prospect et non un concurrent — mais
+  leur verre a couche vient tres vraisemblablement de leur licencieur. **Donc le texte ne plaide PAS
+  le verre a couche, il plaide le SUBSTRAT CLAIR**, ou la licence ne les tient pas. Et la porte de
+  sortie est renforcee en consequence.
+- **REGLE PRODIESA** : ils fabriquent le vitrage isolant, donc le double vitrage sort de l offre.
+- **⚠️ INTERDITS DU §6 TENUS** : argument scandinave au **passe**, **rien sur les droits ni sur la
+  fiscalite norvegienne**, Glas Trosch non nomme au client, aucune usine partenaire. **Liens produit
+  presents. Signature une seule fois.** Jour ouvre verifie.
+
+**Objet :** `Clear float substrate - full containers into Stavanger`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the sheet, I would be grateful
+if you passed this on to whoever does.
+
+I am writing to you rather than to a glazier because of what you actually
+are. You make, in your own plant, very nearly all of the insulating glass you
+sell in Norway, and since 2017 you have run a wholesale branch in Bergen as
+well. A house that both manufactures and stocks is the only kind that buys
+glass the way I sell it - by the load, not by the job.
+
+So I am not offering you sealed units, and I am not offering you anything you
+already produce. I am offering the sheet that goes in:
+
+- clear float glass and extra-clear, low-iron float
+  https://noxemgroup.com/en/float-glass/
+- copper-free and lead-free mirror, for the Bergen warehouse rather than the
+  plant
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to look at in one place
+  https://noxemgroup.com/en/catalog/
+
+The reason this is worth a reply at all is simply geography. The last float
+line in Scandinavia was shut down and nothing has replaced it, so every sheet
+that enters Bjerkreim arrived by sea first. The question was never whether to
+import. It is how many origins you can call on when one of them is short, and
+Stavanger is fifty kilometres from your plant.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order. We can
+put together an offer for delivery to your port of destination, subject to
+validation on our side.
+
+What I need to know is small and concrete: which thicknesses actually move
+through the line, what sheet size suits your cutting table, whether the
+Bergen branch buys on its own account or draws from Bjerkreim, a rough annual
+volume with how often you buy, and the port.
+
+And I will be straightforward about the odds. A plant of your size works to a
+specification and buys to it, and I would expect the clear substrate to be
+the only part of this where a new origin is even possible. If even that is
+settled and you have no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

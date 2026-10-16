@@ -1634,3 +1634,56 @@ Et l inverse a ete tranche dans le meme lot : **SA Vidros** (Campinas) n est **p
    croissance, mais loin de tout port, meme reserve que Brasilia et Palmas.
 
 **Registre a 1487 fiches.**
+
+---
+
+## CARTE DU MARCHE NORVEGIEN — relevee le 16/10 a 15h51, marche ouvert sur ordre direct de Kevin
+
+**Etat : 14 fiches norvegiennes, dont 8 en file d envoi au 19/10.** Le pays en comptait **2** ce
+matin. C est le plus gros gain de decouverte sur un pays neuf depuis l Allemagne du 14/10.
+
+**VILLES ET ZONES FAITES — ne pas y redepenser d appels :** Oslo, Bergen, Trondheim, Stavanger,
+Drammen, Kristiansand, Alesund et Molde. **Une ville par requete**, regle du 15/10 tenue — aucune
+n a partage sa requete avec une autre, donc aucun faux negatif consigne.
+
+**CE QUI RESTE A TESTER, par ordre de valeur decroissante :** Tromso et le Nord (Bodo est faite par
+Drag Industrier), Haugesund, Sandefjord et Tonsberg hors la miroiterie deja prise, Lillehammer et
+l Innlandet hors Hamar, Kristiansund.
+
+**⚠️⚠️ LE VERDICT DE METHODE QUI VAUT PLUS QUE LA LISTE DE VILLES : GLASSFAGKJEDEN NE SE TRAVAILLE
+PAS, ET POUR DEUX RAISONS INDEPENDANTES QUI SE CONFIRMENT.**
+C est la grande chaine verriere norvegienne, 42 a 43 membres nommes, et elle ressemble exactement au
+gisement que la methode de l annuaire de federation du §6 cherche.
+1. **ELLE EST PILOTEE PAR PILKINGTON NORGE**, c est-a-dire par **NSG**, producteur float mondial et
+   concurrent au titre du §6. Un annuaire tenu par un concurrent n est pas une source de prospects,
+   c est la liste de ses clients captifs — ils achetent leur feuille a celui qui tient la chaine.
+2. **ET SES MEMBRES SONT DES GLASSMESTERE**, c est-a-dire des maitres-vitriers avec pose. **C est la
+   classe a ZERO pour cent de reponse sur onze fiches** au tri metier du §6.
+**Les deux raisons suffisent chacune. Ensemble elles ferment le dossier** — et c est la regle du
+15/10 appliquee un cran plus haut : **une federation se choisit sur le METIER QU ELLE SYNDIQUE**, et
+ici le nom le disait deja, *fagkjeden* etant la chaine du METIER au sens artisanal.
+**Economie realisee : une quarantaine de seconds temps non depenses.**
+
+**CE QUI A MARCHE A LA PLACE, et c est reutilisable ailleurs :** le **registre des fournisseurs** de
+la filiere — les maisons qui FOURNISSENT les vitriers plutot que les vitriers eux-memes. C est de la
+qu ont ete tirees Vikesa Glassindustri, Tonsberg Glassliperi, Glassfabrikken et Modum. **La regle
+generale : devant une chaine de poseurs, ne pas lire ses membres, lire ses FOURNISSEURS.**
+
+**DEUX PIEGES D IDENTITE RELEVES SUR CE PAYS, au titre du §12 :**
+- **Glasshuset Norge AS** reunit **GlassGrossisten** (Sandnes) et **Scan Glass** (Fredrikstad), meme
+  dirigeant Trond Veggeberg, meme adresse `post@glassimport.as`, meme telephone. **Une seule fiche.**
+  Si-Glass a Sauda appartient tres probablement au meme groupe — **aucune fiche ouverte** en
+  attendant d avoir tranche.
+- **CG Glass** a **trois** sites : Vennesla, Kristiansand sous la raison sociale *CG Glass & Fasade
+  AS*, et de la production a Bergen. **Une seule fiche**, et c est l argument du volume groupe.
+- **Vikesa Glassindustri** et **Bockmann Glassindustri** partagent le domaine `vgi.no` et le
+  telephone. **Une seule fiche.** Ne pas confondre avec **Vikesa Trevarefabrikk**, menuiserie, autre
+  societe — homonymie de commune.
+
+**⚠️ ET LE SILENCE A TENIR SUR CE PAYS : rien sur les droits de douane ni sur la fiscalite a
+l entree.** La Norvege est **hors Union mais dans l EEE**, et la question n a ete tranchee pour
+aucun des deux regimes. Meme interdit que le Mexique, l Australie, le Perou et les DOM.
+
+**L ARGUMENT QUI PORTE, ET IL EST SOLIDE ET SANS CHIFFRE : plus aucune ligne float en Scandinavie.**
+A employer **au passe** — la ligne a ete arretee — jamais comme une prediction. C est l argument
+Australie-Nouvelle-Zelande transpose, et il vaut pour les 14 fiches.

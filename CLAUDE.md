@@ -344,6 +344,13 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   vend des profils d'entreprises par société. **C'est le `dnb.com` brésilien et c'est exactement sa
   nature**, donc même interdit, et à mettre dans `blocked_domains` d'emblée sur toute recherche
   brésilienne — il remontait deux fois dans les dix premiers résultats.
+  **UN DE PLUS LE 16/10, SUR UNE RECHERCHE NORVÉGIENNE : `revenuebase.ai`**, qui vend des
+  **bases de contacts B2B** — sociétés, dirigeants et leurs coordonnées. C'est exactement la nature
+  de ContactOut, de `cience.com` et de `wiza.co`, donc **même interdit**, et à mettre dans
+  `blocked_domains` d'emblée. **Ce qu'il ajoute aux précédents est la LANGUE : c'est le premier
+  courtier rencontré sur une recherche en scandinave**, ce qui dit que la couche de courtiers n'est
+  pas propre à l'Amérique et qu'il faut les bloquer **avant** la première requête sur un pays neuf,
+  et non après les avoir vus remonter.
   **ET IL FAUT DIRE CE QUI N'EST PAS INTERDIT DANS LE MÊME RELEVÉ, parce que la frontière est fine et
   qu'elle a servi deux fois aujourd'hui :** un agrégateur qui republie le **registre CNPJ** — raison
   sociale, adresse, code d'activité — publie une **nomenclature publique**, comme le CNAE ci-dessus.
