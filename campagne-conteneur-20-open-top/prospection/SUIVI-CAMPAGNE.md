@@ -7799,3 +7799,60 @@ River Glass non creee**, poseur local, classe a zero pour cent.
 
 **AUCUN ENVOI.** Controle de forme propre, balayage inchange a huit groupes, aucune fiche `A APPELER`
 sans numero. **Registre a 1476 fiches.**
+
+---
+
+## 16/10, fin d apres-midi a 15h58 — LOT NORVEGE BOUCLE, SUR ORDRE DIRECT DE KEVIN
+
+**Le pays passe de 2 fiches a 14, dont 8 en file d envoi au lundi 19/10.** Ordre direct de
+Kevin, « prospecte la Norvege a fond ». **Conflit avec le §6, qui interdit la NOUVELLE prospection
+europeenne, assume et consigne dans chaque fiche :** l ordre de l utilisateur prime au titre du §10,
+et il tranche de fait l arbitrage Europe porte a Aaron le matin meme, dans le sens de l option 2 —
+partage par la **logistique** et non par la geographie, la Scandinavie du Nord revenant a cette
+campagne parce qu elle est mal servie par le camion depuis la Belgique.
+
+**Deux fiches creees en fin de lot**, grepees en `grep -in` avec les lignes lues, absentes, et les
+deux avec un second temps fait **sur leur propre domaine**, donc la regle anti-rebond satisfaite :
+- **Tonsberg Glassliperi og Speilfabrikk** (Borre), `post@glassliperi.no`. **Ils argentent dans leur
+  propre usine, donc la regle Prodiesa sort le miroir de l offre** et le texte ne porte que le
+  substrat, float clair et extra-clair. **C est la faute Prodiesa du 12/10 evitee a l endroit exact
+  ou elle avait ete commise** — un fabricant de miroir a qui l on offrait du miroir.
+- **Vikesa Glassindustri** (Bjerkreim), `postmaster@vgi.no`. Le second temps a **corrige l adresse
+  postale** qu une source tierce donnait fausse, et il a montre que le domaine sert aussi
+  **Bockmann Glassindustri** : un seul compte. La boite `tilbud@vgi.no` est ecartee volontairement,
+  *tilbud* voulant dire devis, donc la colonne **client** du tableau du §13.
+
+**LA PRISE DE LA JOURNEE EST UN TROISIEME MESSAGE EVITE, ET IL A FALLU UN APPEL POUR LE PROUVER.**
+Le texte 230 portait **Si-Glass** en simple presomption de groupe. Second temps sur `si-glass.net` :
+**leur propre page donne Trond Veggeberg comme daglig leder, avec `post@glassimport.as` et le
+995 38 823** — le meme homme, la meme boite et le meme numero que GlassGrossisten et Scan Glass. Le
+§12 veut un fait et non un nom : **le fait est la en triple.** Aucune fiche Si-Glass.
+**Et cela retourne la valeur du dossier au lieu de seulement fermer une fiche :** le groupe n est
+pas deux entrepots, c est **deux entrepots et une usine**, Si-Glass se decrivant comme l un des plus
+gros producteurs de verre de securite de Scandinavie. **Le texte 230 a ete corrige en consequence
+AVANT tout envoi** — sa reserve de volume portait sur le 2 mm d encadrement et laissait entendre au
+client que le conteneur n etait peut-etre pas pour lui.
+
+**TROIS VERDICTS DE RECHERCHE CONSIGNES, qui valent pour ne pas redepenser d appels :**
+1. **Glassfagkjeden ne se travaille pas**, et pour deux raisons independantes : elle est **pilotee
+   par Pilkington Norge**, donc par un concurrent au sens du §6, et ses 42 a 43 membres sont des
+   **glassmestere**, la classe a **zero pour cent**. Une quarantaine de seconds temps epargnes.
+   **Ce qui a marche a la place est le registre des FOURNISSEURS de la filiere** — devant une chaine
+   de poseurs, ne pas lire ses membres, lire ses fournisseurs.
+2. **Haugesund rend zero.** Que des glassmestere, dont Kalland qui est de Glassfagkjeden, et
+   Glassenteret qui fait du vitrail et de la restauration, signal verre d art.
+3. **Vitrea fermee en `ECARTE — HORS PERIMETRE`, et la methode compte autant que le verdict.** La
+   recherche restreinte a `vitrea.no` a rendu **zero**, et **ce zero n a pas ete consigne** : le
+   domaine venait du guide de la federation et n avait jamais ete verifie, donc c est la **lecon
+   Lahey** — un negatif sur un champ non verifie dit que le champ est faux, pas que la societe est
+   introuvable. Premier temps refait sur le nom seul : groupe de **cinq societes de vitrerie de
+   service**, code de branche du vitrier, a cent vingt kilometres d Oslo dans les terres.
+
+**ETAT DU REGISTRE : 1501 fiches.** Controle de forme a 10 champs propre. `detecte-doublons.py`
+ne rend que les groupes deja connus et acceptes. `verif-argument-float.py` : **0 fiche a corriger**.
+`genere-liste-appels.py` relance. **`A APPELER` sans numero : 0**, l invariant tient.
+`verif-texte.py` : **200 textes controles, 0 a corriger**, 244 titres au fichier.
+
+**AUCUN ENVOI. File d attente a 25 fiches `A ENVOYER`, 223 fiches `A APPELER`.** Rien ne part
+sans l accord expres de Kevin, consigne du 15/10 — un statut `A ENVOYER` est une file d attente et
+non une autorisation.
