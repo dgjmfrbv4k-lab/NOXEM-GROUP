@@ -14096,3 +14096,422 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 226. Rakvåg Glass AS (Hjelset et Molde, More og Romsdal) — `post@rakvaag.no` — ANGLAIS — premier contact
+
+**Redige le 16/10 a 15h39. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe en `grep -in`, LIGNES LUES** : `rakvag` et `rakvåg`, **ABSENT**.
+- **⚠️ C EST LEUR PROPRE SITE QUI DONNE L ANGLE : ils achètent leur verre brut chez AGC GLASS EUROPE
+  et chez PILKINGTON.** Méthode de la page fournisseurs du §13, et elle nomme **deux** maisons de la
+  liste des concurrents du §6. Une marque dans une **gamme** dit qu on **achète** : c est un prospect.
+- **Signal de volume, récent** : ligne d isolant supplémentaire achetée, capacité **doublée**
+  annoncée par leur direction, nouvelle ligne jusqu à 100 mm.
+- **⚠️ CE QUE LE TEXTE NE DIT PAS, ET C EST DÉLIBÉRÉ** : ils se posent publiquement **contre
+  l import**. C est l isolant **fini** importé qu ils combattent, pas la feuille qu ils achètent déjà
+  à l étranger chez AGC. Mélanger les deux serait la faute STADIP — fabriquer un doute que le client
+  n a pas soulevé. **Le sujet n est pas abordé.**
+- Adresse publiée sur leur accueil, domaine identique. `roy@` (daglig leder, donc direction) gardée
+  en escalade ; les deux autres adresses nominatives sont des fonctions de **vente**, écartées au §5.
+- **⚠️ INTERDITS DU §6 TENUS.** L argument de l absence de ligne float est **vrai en Scandinavie** et
+  il est dit **au passé** — la dernière a été arrêtée — jamais comme une prophétie, règle Australie.
+  **Rien sur les droits de douane norvégiens**, non établis. **Pilkington n est pas nommé comme
+  concurrent dans le message.** **Aucun chiffre de marché cité** : le « plus de 85 pour cent » de la
+  presse professionnelle sert à calibrer, pas à être servi comme un fait de notre connaissance.
+- **REGLE PRODIESA appliquée. Liens produit présents** (§9 point 3). **Signature une seule fois.**
+- Anglais. Jour ouvré vérifié, la Norvège n a aucun férié en octobre.
+
+**Objet :** `Clear float in full containers - a second origin alongside your current two`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing because of two things you say yourselves. The first is that your
+raw glass comes from AGC Glass Europe and from Pilkington. The second is that
+you have just put in another insulating glass line and expect to double
+capacity, with the new line running up to 100 mm.
+
+Those two facts together are the whole reason for this message. A plant that
+doubles its output doubles the sheet it has to bring in, and every sheet you
+use already crosses a border to reach Hjelset - the last float line in
+Scandinavia was shut down at Halmstad, and nothing has replaced it since. So
+the question for you is not whether to import. It is how many origins you want
+to be able to call.
+
+I am not offering you insulating units, toughened or laminated glass. You make
+those. I am offering the substrate:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo if that suits your line better - the cut
+length is made to order. We can put together an offer for delivery to your
+port of destination, subject to validation on our side. Molde, I assume, but
+tell me if you clear somewhere else.
+
+To know whether this is worth your time, I need very little: which thicknesses
+actually move for you, what sheet size suits the new line, a rough idea of
+annual volume with how often you buy, and the port.
+
+And I will say plainly what I expect. Two established suppliers, both of them
+very large, is a settled arrangement and I am not asking you to break it. All
+I am proposing is to be a third name on the list, for the week one of the two
+cannot deliver. If that is of no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 227. EW Glass & Plast AS (Trondheim) — `post@ewglass.no` — ANGLAIS — premier contact
+
+**Redige le 16/10 a 15h39. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe en `grep -in`, LIGNES LUES** : `ew glass` rend **six lignes, toutes des sous-chaînes de
+  « New Glass »** — Brésil, Belgique, Canada, Gabon. **Aucune n est celle-ci.** C est exactement
+  pourquoi `grep -ic` est interdit et pourquoi on lit les lignes.
+- **Meilleur profil de négoce du pays**, et il satisfait le critère d entrée du §6 **mot pour mot** :
+  stock de **plaques** en **épaisseurs et dimensions**, vendues **entières** ou coupées, vente
+  principalement **en gros**, livraison nationale. Épaisseurs + formats + plaque entière = le côté
+  **entrée** de l atelier.
+- **⚠️ Réserve GDI posée dans le message** : ils vendent aussi plastique et quincaillerie, donc la
+  question du volume de **verre** est posée en clair plutôt que supposée.
+- `erik@` (daglig leder) gardée en escalade ; logistique, vente et bureau écartées au §5.
+- **⚠️ INTERDITS DU §6 TENUS.** L argument de l absence de ligne float est **vrai en Scandinavie** et
+  il est dit **au passé** — la dernière a été arrêtée — jamais comme une prophétie, règle Australie.
+  **Rien sur les droits de douane norvégiens**, non établis. **Pilkington n est pas nommé comme
+  concurrent dans le message.** **Aucun chiffre de marché cité** : le « plus de 85 pour cent » de la
+  presse professionnelle sert à calibrer, pas à être servi comme un fait de notre connaissance.
+- **REGLE PRODIESA appliquée. Liens produit présents** (§9 point 3). **Signature une seule fois.**
+- Anglais. Jour ouvré vérifié, la Norvège n a aucun férié en octobre.
+
+**Objet :** `Full containers of clear float - stock replenishment, Trondheim`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing because of how you describe your own stock: plate glass,
+laminated safety glass, tinted and patterned glass, held in a range of
+thicknesses and sizes, sold whole or cut to measure, mostly wholesale, shipped
+across the country. That is a house that buys sheet by the load rather than by
+the job, and the load is all I deal in.
+
+It also means every sheet in Transittgata has come in from abroad. The last
+float line in Scandinavia was shut down at Halmstad and nothing replaced it,
+so the only real question for a Norwegian stockist is which origins are on the
+list.
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- lacquered glass
+  https://noxemgroup.com/en/lacquered-glass/
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order. We can put
+together an offer for delivery to your port of destination, subject to
+validation on our side. Trondheim, in your case.
+
+And I will ask the thing that decides it rather than assume it: how much
+GLASS, in square metres a year, actually passes through the warehouse, in
+which thicknesses, and how often you replenish. You carry plastics and
+fittings as well, and if the turnover sits mostly on those rather than on
+sheet, tell me and I will leave it there.
+
+If your supply is settled and there is no room for another name, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 228. Modum Glassindustri AS (Geithus, Modum) — `post@modumglass.no` — ANGLAIS — premier contact
+
+**Redige le 16/10 a 15h39. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe en `grep -in`, LIGNES LUES** : `modum`, **ABSENT**.
+- **⚠️ CERTIFICATION DU CLIENT, pas la nôtre — test du §5 fait.** La déclaration environnementale
+  citée est **la leur**, publiée sur leur propre domaine. Le §5 interdit de citer un certificat
+  **non validé de notre côté** : il n est pas en cause ici. Précédent Med Glass du 09/10.
+- **ET C EST LA MEILLEURE SOURCE DE LA FICHE** : leur **déclaration environnementale** du produit
+  Lamitech donne la composition — **float de 8,76 mm feuilleté au PVB**. Un document de performance
+  nomme ce qui **entre** dans le produit, et tout feuilleteur en publie par obligation. C est la
+  méthode du §13, et elle est plus sûre qu une page fournisseurs parce qu elle n est pas optionnelle.
+- **Classe verrier pur.** Adresse confirmée **au second temps** sur leur page kundesenter — la
+  première recherche ne la donnait que par des annuaires. `henning@` (daglig leder) en escalade.
+- **⚠️ Un courtier interdit, `prospeo.io`, est remonté sur ce nom : sa donnée n est pas reprise.**
+- **⚠️ INTERDITS DU §6 TENUS.** L argument de l absence de ligne float est **vrai en Scandinavie** et
+  il est dit **au passé** — la dernière a été arrêtée — jamais comme une prophétie, règle Australie.
+  **Rien sur les droits de douane norvégiens**, non établis. **Pilkington n est pas nommé comme
+  concurrent dans le message.** **Aucun chiffre de marché cité** : le « plus de 85 pour cent » de la
+  presse professionnelle sert à calibrer, pas à être servi comme un fait de notre connaissance.
+- **REGLE PRODIESA appliquée. Liens produit présents** (§9 point 3). **Signature une seule fois.**
+- Anglais. Jour ouvré vérifié, la Norvège n a aucun férié en octobre.
+
+**Objet :** `Clear float for lamination - full containers, port of Oslo`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing because of a document you publish yourselves. The environmental
+declaration for Lamitech sets out what the product is made of: 8.76 mm float,
+laminated with PVB. That tells me more than any sales page would. It says you
+run an autoclave on ordinary clear float, continuously, to a fixed
+specification - and that is the only part of your process I am in a position
+to be useful on.
+
+I am not offering laminated or toughened glass, and I am certainly not going
+to lecture the country's leading safety glass maker about either. I am
+offering the sheet that goes in:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+One thing is worth stating plainly because it shapes the whole question. The
+last float line in Scandinavia was shut down at Halmstad and nothing has
+replaced it, so every sheet that enters Geithus has been imported. The choice
+is not between local and imported. It is between origins.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order. We can put
+together an offer for delivery to your port of destination, subject to
+validation on our side. Oslo or Drammen, I assume.
+
+To know whether this is worth your time: which thicknesses actually move,
+which sheet size suits the laminating line, a rough idea of annual volume with
+how often you buy, and the port.
+
+And I will say what I expect. A plant working to that standard has a supply
+chain that is settled and audited, and changing it is not a small thing. I
+understand that completely. All I am proposing is to be a second source, for
+the day the first one cannot deliver. If that is of no interest, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 229. CG Glass Vennesla AS (Vennesla, Agder) — `kundeservice@cg-glass.no` — ANGLAIS — premier contact
+
+**Redige le 16/10 a 15h39. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe en `grep -in`, LIGNES LUES** : `cg glass` et `cg-grupp`, **ABSENT**.
+- **Leur propre site dit la phrase qu on cherche** : ils se fournissent en verre **auprès de
+  fabricants établis** et le transforment à Vennesla. C est le client qui explique qu il achète
+  de la feuille.
+- **⚠️ `kundeservice@` est du côté CLIENT** (table du §13) et c est la **seule** boîte publiée sur
+  leur domaine : retenue faute de mieux, et le message **demande la transmission dès la première
+  ligne** — cas El Mayorista. `post@glassfasade.no`, vue en annuaire, **non confirmée et non
+  retenue**.
+- **⚠️ Le miroir est en DERNIÈRE position et le message leur demande s ils argentent eux-mêmes** —
+  règle Prodiesa par société **et par référence**.
+- Filiale à 100 pour cent de CG Gruppen AS, même adresse et même numéro : **un seul compte.**
+- **⚠️ INTERDITS DU §6 TENUS.** L argument de l absence de ligne float est **vrai en Scandinavie** et
+  il est dit **au passé** — la dernière a été arrêtée — jamais comme une prophétie, règle Australie.
+  **Rien sur les droits de douane norvégiens**, non établis. **Pilkington n est pas nommé comme
+  concurrent dans le message.** **Aucun chiffre de marché cité** : le « plus de 85 pour cent » de la
+  presse professionnelle sert à calibrer, pas à être servi comme un fait de notre connaissance.
+- **REGLE PRODIESA appliquée. Liens produit présents** (§9 point 3). **Signature une seule fois.**
+- Anglais. Jour ouvré vérifié, la Norvège n a aucun férié en octobre.
+
+**Objet :** `Substrate for processing - full containers, port of Kristiansand`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer and not a request for
+a quotation. I am writing to the customer service address because it is the
+only one published - if you are not the person who buys the glass, I would be
+grateful if you passed this on to whoever does.
+
+I am writing because of a sentence on your own site: you source your glass
+from established manufacturers and process it in Vennesla. That is exactly the
+part of the business I deal with, and the only part. Everything that leaves
+your works - the processing, the mirror finishing, the fabrication - is yours
+and I am not offering it.
+
+What I am offering is the sheet that arrives:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+The mirror is last on that list on purpose. You describe mirror as one of your
+specialities, and I do not know whether you silver it yourselves or buy it
+finished. If you silver it, tell me and I will take it off the table - in that
+case only the substrate is of any use to you.
+
+One fact worth stating because it shapes the question: the last float line in
+Scandinavia was shut down at Halmstad and nothing replaced it, so the glass
+arriving in Vennesla has been imported whatever happens. The choice is between
+origins, not between local and foreign.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order. We can put
+together an offer for delivery to your port of destination, subject to
+validation on our side. Kristiansand, in your case.
+
+To know whether this is worth your time: which thicknesses actually move,
+which sheet size suits your lines, a rough idea of annual volume with how
+often you buy, and the port.
+
+And if your supply is settled and there is no room for another name, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 230. Glasshuset Norge AS — groupe GlassGrossisten et Scan Glass (Sandnes et Fredrikstad) — `post@glassimport.as` — ANGLAIS — premier contact
+
+**Redige le 16/10 a 15h39. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **⚠️⚠️ UN SEUL MESSAGE POUR TROIS RAISONS SOCIALES, ET SANS CE CONTRÔLE LE LOT PARTAIT AVEC LA
+  FAUTE SHIBAAM.** Le lot a rendu **GlassGrossisten** (Sandnes) et **Scan Glass** (Fredrikstad)
+  comme deux maisons distantes de six cents kilomètres. Scan Glass appartient à **100 pour cent à
+  Glasshuset Norge AS**, présidée par **Trond Veggeberg**, dont le contact publié est
+  **`post@glassimport.as` et le 995 38 823** — soit **exactement** l adresse et le numéro que
+  GlassGrossisten publie sur sa propre page. C est la leçon SOREMIR du §6 par deux champs à la fois.
+- **⚠️ ET PROBABLEMENT UNE QUATRIÈME** : `si-glass.net`, usine de Sauda, publie Veggeberg comme
+  daglig leder. **Aucune fiche Si-Glass n a été créée** — une coordonnée partagée suffit à ne pas
+  ouvrir avant d avoir levé le lien, conduite American Flat Glass.
+- **Profil** : GlassGrossisten se déclare **importateur de miroir et d autres types de verre float**.
+  Un importateur déclaré de miroir **et** de float est le meilleur profil possible, et le miroir sans
+  cuivre ni plomb est notre référence la plus différenciante — **il passe donc en tête.**
+- **⚠️ EXCEPTION DU §5 INVOQUÉE ET NOTÉE** : l adresse est sur `glassimport.as` quand le site est
+  `glassgrossisten.com`. Retenue **parce que la société la publie elle-même**. Relue caractère par
+  caractère.
+- **⚠️ Réserve de volume posée dans le message** : leur gamme porte du 2 mm pour cadres, qui est du
+  verre d encadrement en petit format. La question du volume se pose avant toute offre.
+- **⚠️ INTERDITS DU §6 TENUS.** L argument de l absence de ligne float est **vrai en Scandinavie** et
+  il est dit **au passé** — la dernière a été arrêtée — jamais comme une prophétie, règle Australie.
+  **Rien sur les droits de douane norvégiens**, non établis. **Pilkington n est pas nommé comme
+  concurrent dans le message.** **Aucun chiffre de marché cité** : le « plus de 85 pour cent » de la
+  presse professionnelle sert à calibrer, pas à être servi comme un fait de notre connaissance.
+- **REGLE PRODIESA appliquée. Liens produit présents** (§9 point 3). **Signature une seule fois.**
+- Anglais. Jour ouvré vérifié, la Norvège n a aucun férié en octobre.
+
+**Objet :** `Copper-free mirror and clear float in full containers`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys, I would be grateful if you
+passed this on to whoever does.
+
+I am writing because of how you describe yourselves: an importer of mirror,
+of mirror with safety backing, and of other types of float glass. Importing is
+the whole subject of this message, so I will not waste your time explaining
+why a Norwegian house imports - you have been doing it longer than I have been
+writing to you.
+
+I start with mirror on purpose:
+
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+Ours carries no copper and no lead in the backing. That is the reference we
+send most often to coastal and humid markets, and the Norwegian west coast is
+exactly that.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order. We can put
+together an offer for delivery to your port of destination, subject to
+validation on our side. Stavanger or Oslo, whichever your group clears
+through.
+
+And here is the question that decides the rest, which I would rather ask than
+assume. Your range includes 2 mm glass for picture framing, which is a
+small-format trade, alongside float and mirror. A full container is twenty-odd
+tonnes on one reference. So: how many square metres a year actually move in
+mirror, and in float, and in which thicknesses? If the turnover sits on small
+formats, this is not for you and I will say so myself.
+
+One more thing, said once. I understand you may buy through a single
+established channel, and I am not asking you to leave it. If there is no room
+for another origin, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
