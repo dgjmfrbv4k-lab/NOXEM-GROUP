@@ -1,3 +1,19 @@
+# 🔴 LA GRILLE DE PRIX BLOQUE NEUF DOSSIERS — FEUILLE UNIQUE : `GRILLE-DE-PRIX-A-FAIRE.md`
+
+Neuf societes ont **demande un prix** et attendent. La plus ancienne depuis le **28/09**, soit dix-huit
+jours. Le plus gros volume declare de toute la campagne — **25 a 30 conteneurs par mois au Nepal** — en
+fait partie, et un prix lui a ete **promis par ecrit** le 09/10 pour *early next week*.
+
+**Une seule grille les debloque tous les neuf.** Le detail de ce que chacun a demande, avec les cotes,
+les epaisseurs, les ports et les volumes deja confirmes, est dans
+`campagne-conteneur-20-open-top/prospection/GRILLE-DE-PRIX-A-FAIRE.md`.
+
+Le minimum qui en debloque six : **float clair au m2, par epaisseur de 4 a 12 mm, en 20 pieds complet,
+rendu port.** Et deux conditions a trancher avec : **l'incoterm** (trois clients ont ecrit CIF) et les
+**conditions de paiement**.
+
+---
+
 # ✅ ALERTE MIRO EST LEVEE A 12h10 — VOUS AVEZ ENVOYE LA PROPOSITION REVISEE VOUS-MEME
 
 **L'encadre rouge ci-dessous est PERIME et je le laisse pour la trace.** Vous avez envoye la proposition
