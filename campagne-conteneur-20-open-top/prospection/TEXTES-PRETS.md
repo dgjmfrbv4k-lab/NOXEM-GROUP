@@ -13518,3 +13518,85 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 219. Jersey Tempered Glass Inc. — JTG (Mt. Laurel, New Jersey) — `contact@jerseytemperedglass.com` — ANGLAIS — premier contact
+
+**Redige le 16/10 a 10h34. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+**CE QUI A ETE VERIFIE AVANT D ECRIRE :**
+- **Mot distinctif grepe en `grep -in` et LIGNES LUES** : `jersey` puis `mt laurel` rendent trois
+  lignes — Bear Glass, American Pro Glass et GGI — **toutes autres societes**. Absente.
+- **Adresse** `contact@jerseytemperedglass.com`, publiee sur **leur propre page de contact**,
+  domaine **identique** au site. **Aucune exception du §5.** Relue caractere par caractere.
+  **`quotes@` ecartee volontairement** : cote CLIENT au sens de la table du §13.
+- **Classe verrier pur**, la meilleure des cinq. Trempe, trempe feuillete aux normes **ANSI Z97.1**
+  et **ASTM C1172**, pare-balles, spandrel laque au dos, garde-corps et **verre de yacht**.
+- **REGLE PRODIESA, et elle retire beaucoup ici** : trempe, feuillete, pare-balles, **spandrel
+  laque** et garde-corps sortent de l offre. **Ne jamais leur proposer de verre laque**, ils le font
+  eux-memes. Seul le substrat entre : float clair, extra-clair, low-E.
+- **⚠️ INTERDIT DU §6 TENU : jamais d absence de production locale aux Etats-Unis.** Vitro produit
+  et Cardinal exploite sept sites float. L angle est **douanier** et il est formule comme un fait
+  douanier, jamais comme une promesse de prix.
+- **Aucun chiffre de droit n est cite dans le message.** Le 181,52 pour cent reste en interne.
+- **Liens des pages produit presents** (§9 point 3). **Signature une seule fois.** Port Philadelphie.
+
+**Objet :** `Clear and low-E float in full containers - second origin - Philadelphia`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I am writing because of what you make rather than what you sell. Tempered
+laminated to ANSI Z97.1 and ASTM C1172, bullet resistant, back-painted
+spandrel, yacht glazing - none of that is work you can do on glass you have not
+chosen carefully. A furnace and an autoclave only run if sheet keeps coming in,
+and the sheet that comes in is the only thing I deal with.
+
+So I am not offering you tempered, laminated or back-painted glass. You make
+those, and you make them to standards I am not going to lecture you about. I am
+offering the substrate:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+One thing has changed on your side of the Atlantic and it is worth a minute.
+Since April 2026 the two cheapest origins on the US market carry antidumping
+and countervailing duties - China and Malaysia. European glass is covered by
+none of those orders. That is a customs fact and nothing more, and it is not a
+claim about what we charge. What it changes is the comparison between origins,
+which is not what it was a year ago.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo if that suits you better - the cut length is
+made to order. We can put together an offer for delivery to your port of
+destination, subject to validation on our side. Philadelphia in your case.
+
+To know whether this is worth either of our time, I need very little: which
+thicknesses actually move for you, what sheet size suits your line, a rough
+idea of annual volume with how often you buy, and the port.
+
+And I will say plainly what I expect, so as not to waste your time. A
+fabricator who runs to those standards usually has a supply chain that is
+settled and audited, and changing it is not a small thing. I understand that
+completely. All I am proposing is to be a second source, for the day the first
+one cannot deliver. If that is not of interest, say so plainly and I will not
+push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

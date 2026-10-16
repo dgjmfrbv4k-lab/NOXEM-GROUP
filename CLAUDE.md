@@ -2430,6 +2430,20 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
      champ ville : une fiche multi-sites nomme ses villes et jamais son État.
   3. **Le motif se coupe court**, `hawai` et non `hawaii`, `zelande` et non `Nouvelle-Zélande` — c'est
      la règle du mot le plus court distinctif du §5, appliquée au filtre au lieu du `grep`.
+  4. **⚠️ ET LE JETON SE PREND DANS LA LANGUE DU REGISTRE, QUI EST LE FRANÇAIS — quatrième cas le
+     16/10, et celui-là a coûté un appel de recherche entier.** J'ai mesuré la couverture américaine
+     en grepant **`new orleans`** : **zéro**, et j'ai lancé une recherche de découverte sur la ville.
+     **Le registre écrit `La Nouvelle-Orleans`**, et il portait déjà **deux** fiches qui la servent —
+     *M and M Glass Company* et *Flat Glass Distributors Inc.* La recherche n'a rendu aucun nom neuf
+     de cette ville, ce qui était prévisible puisqu'elle était faite.
+     **LA RÈGLE DES VALEURS DISTINCTES NE SUFFIT DONC PAS POUR UNE VILLE**, parce que le champ ville
+     est de la prose libre et non une nomenclature : il porte `La Nouvelle-Orleans`, `Philadelphie`,
+     `Riyad`, `Montevideo`, `Mascate`, `Carthagène`. **Devant un nom de ville, greper la forme
+     FRANÇAISE, et à défaut le fragment commun aux deux langues** — `orlean` rend les deux formes,
+     `philadelph` rend `Philadelphia` et `Philadelphie`. C'est encore la règle du plus court élément
+     distinctif, appliquée cette fois au problème de la langue.
+     **Et le point commun avec les trois cas précédents est toujours le même : le contrôle a tourné,
+     il a rendu un zéro, et j'ai dépensé l'appel au lieu de douter du zéro.**
   **Et le point commun avec la leçon Brocanelli du matin est le même que partout : le contrôle a
   tourné, il a rendu un zéro, et j'ai dépensé l'appel au lieu de douter du zéro.** Un zéro obtenu sur
   un champ non vérifié ne dit rien du registre, il dit que le champ est faux — c'est la leçon Lahey du
