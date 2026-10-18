@@ -29,30 +29,32 @@ CUTS = [5.733, 7.067, 8.433, 10.167, 11.467, 13.133, 14.667, 15.9, 17.833, 19.43
         23.833, 25.3, 26.967, 28.567, 30.033, 31.3, 32.733, 34.3, 35.6, 37.033, 38.467, 39.933, 42.1,
         43.367, 44.8, 46.2, 47.367, 48.733, 50.133, 51.467, 52.833, 54.333, 55.5, 56.9]
 
-# (début, texte dit par la voix off)
+# (début, texte dit par la voix off) — ton parlé, direct, à la première personne
 SCRIPT = [
-    (0.6, "Samedi, dix-sept octobre. Le lendemain matin, Paris se réveille comme ça."),
-    (6.0, "Des vitrines explosées. Des rayons vidés."),
-    (10.4, "Place Vendôme, aux Galeries Lafayette, on pose du bois sur ce qui reste."),
-    (16.1, "Même la République est couverte de tags."),
-    (22.6, "Des voitures calcinées. Des kiosques brûlés."),
-    (28.0, "Mais dès l'aube, ils sont là. Ceux qui nettoient. Ceux qui réparent."),
-    (35.8, "Derrière chaque vitrine, il y a quelqu'un. Un commerçant. Une équipe. Une famille."),
-    (46.4, "Ils ont tout cassé. Sauf notre envie de nous relever."),
-    (52.4, "Commerçants de France, on est avec vous."),
-    (59.0, "Piwa Studio, à vos côtés pour rouvrir."),
+    (0.5, "Regardez ce magasin. Regardez ça."),
+    (3.4, "C'est un truc de fou."),
+    (5.9, "Des vitrines explosées. Tout est vidé."),
+    (10.3, "Place Vendôme, Galeries Lafayette. On met du bois partout."),
+    (16.0, "Même la République, couverte de tags."),
+    (22.5, "Des voitures brûlées. Des kiosques en cendres."),
+    (28.0, "Mais regardez. Dès le matin, ils nettoient. Ils réparent."),
+    (35.8, "Derrière chaque vitrine, il y a un commerçant. Une équipe. Une famille."),
+    (46.3, "Ils ont tout cassé. Pas notre envie de nous relever."),
+    (51.6, "Nous, Piwa Studio, nous soutenons les commerçants de France."),
+    (59.0, "Piwa Studio. On vous aide à rouvrir. Écrivez-nous."),
 ]
 # sous-titres affichés (même découpage que SCRIPT, orthographe d'écran)
 CAPTIONS = [
-    "Samedi 17 octobre. Le lendemain matin, Paris se réveille comme ça.",
-    "Des vitrines explosées. Des rayons vidés.",
-    "Place Vendôme, aux Galeries Lafayette, on pose du bois sur ce qui reste.",
-    "Même la République est couverte de tags.",
-    "Des voitures calcinées. Des kiosques brûlés.",
-    "Mais dès l'aube, ils sont là. Ceux qui nettoient. Ceux qui réparent.",
-    "Derrière chaque vitrine, il y a quelqu'un. Un commerçant. Une équipe. Une famille.",
-    "Ils ont tout cassé. Sauf notre envie de nous relever.",
-    "Commerçants de France, on est avec vous.",
+    "Regardez ce magasin. Regardez ça.",
+    "C'est un truc de fou.",
+    "Des vitrines explosées. Tout est vidé.",
+    "Place Vendôme, Galeries Lafayette. On met du bois partout.",
+    "Même la République, couverte de tags.",
+    "Des voitures brûlées. Des kiosques en cendres.",
+    "Mais regardez. Dès le matin, ils nettoient. Ils réparent.",
+    "Derrière chaque vitrine, il y a un commerçant. Une équipe. Une famille.",
+    "Ils ont tout cassé. Pas notre envie de nous relever.",
+    "Nous, PIWA Studio, nous soutenons les commerçants de France.",
     None,  # l'écran de fin porte le texte
 ]
 PLACES = [
@@ -76,7 +78,7 @@ def make_voice(model, tmp):
     for i, (start, text) in enumerate(SCRIPT):
         out = Path(tmp) / f"v{i}.wav"
         subprocess.run([sys.executable, "-m", "piper", "-m", str(model), "-f", str(out),
-                        "--length-scale", "0.92", "--sentence-silence", "0.12"],
+                        "--length-scale", "0.86", "--sentence-silence", "0.12"],
                        input=text.encode(), check=True, capture_output=True)
         with wave.open(str(out)) as w:
             sr = w.getframerate()
@@ -226,15 +228,17 @@ def draw_titles(img, t):
     if t < 5.6:
         a = fx.window(t, 0.0, 5.4, 0.1, 0.4)
         img.alpha_composite(Image.new("RGBA", (W, H), fx.BG + (int(120 * a),)))
-        fx.draw_text(img, "PARIS · 18 OCTOBRE", fx.F_TAG, 640, fx.window(t, 0.2, 5.4, 0.2, 0.4), tracking=10)
-        fx.slam(img, "LE", fx.F_BIG, 790, t, 0.1, 5.4, tracking=-4)
-        fx.slam(img, "LENDEMAIN.", fx.F_BIG, 950, t, 0.3, 5.4, gradient=True, tracking=-4)
+        fx.draw_text(img, "PIWA STUDIO PRÉSENTE", fx.F_TAG, 560, fx.window(t, 0.1, 5.4, 0.2, 0.4), color=fx.MUTE, tracking=10)
+        fx.draw_text(img, "PARIS · 18 OCTOBRE", fx.F_TAG, 620, fx.window(t, 0.2, 5.4, 0.2, 0.4), tracking=10)
+        fx.slam(img, "REGARDEZ", fx.F_BIG, 790, t, 0.5, 5.4, tracking=-4)
+        fx.slam(img, "ÇA.", fx.F_HUGE, 980, t, 2.0, 5.4, gradient=True, tracking=-4)
     # climax
     if 54.3 <= t < FOOTAGE_END:
         a = fx.window(t, 54.3, FOOTAGE_END, 0.15, 0.2)
         img.alpha_composite(Image.new("RGBA", (W, H), fx.BG + (int(140 * a),)))
-        fx.slam(img, "ON EST", fx.F_BIG, 760, t, 54.3, FOOTAGE_END)
-        fx.slam(img, "AVEC VOUS.", fx.F_BIG, 920, t, 54.6, FOOTAGE_END, gradient=True)
+        fx.slam(img, "NOUS", fx.F_BIG, 680, t, 54.3, FOOTAGE_END)
+        fx.slam(img, "SOUTENONS", fx.F_BIG, 840, t, 54.5, FOOTAGE_END)
+        fx.slam(img, "LA FRANCE.", fx.F_BIG, 1000, t, 54.7, FOOTAGE_END, gradient=True)
 
 
 def end_card(t):
@@ -244,7 +248,7 @@ def end_card(t):
     a = fx.ease_out(fx.prog(lt, 0.0, 0.5))
     fx.draw_map(img, 540, 1250, 520, fill_a=0.22 * a, line_a=0.6 * a, glow=a)
     img.alpha_composite(fx.faded(fx.LOGO, a), ((W - fx.LOGO.width) // 2, int(470 + (1 - a) * 60)))
-    fx.draw_text(img, "soutient les commerçants de France", fx.F_S, 850, fx.ease_out(fx.prog(lt, 0.4, 0.4)))
+    fx.draw_text(img, "soutient les commerçants de France", fx.F_M, 860, fx.ease_out(fx.prog(lt, 0.4, 0.4)))
     fx.draw_text(img, "Une vidéo pour votre réouverture ?", fx.F_M, 1620, fx.ease_out(fx.prog(lt, 1.0, 0.4)), gradient=True)
     fx.draw_text(img, "Écrivez-nous.", fx.F_M, 1700, fx.ease_out(fx.prog(lt, 1.2, 0.4)), gradient=True)
     fx.draw_text(img, "#SoutienAuxCommerçants  #PiwaStudio", fx.F_XS, 1790, fx.ease_out(fx.prog(lt, 1.6, 0.4)), color=fx.MUTE)
