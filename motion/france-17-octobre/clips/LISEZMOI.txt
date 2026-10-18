@@ -1,0 +1,12 @@
+Déposer ici les vidéos à intégrer (formats .mp4, .mov, .webm ou .mkv) :
+
+  paris  marseille  lyon  bordeaux  rennes  poitiers  chambery   -> une vidéo par ville
+  casse1 casse2 casse3 casse4                                   -> derrière "Vitrines brisées",
+                                                                   "Rideaux arrachés", "Boutiques
+                                                                   incendiées", "Des commerçants à terre"
+
+Seules les 4 premières secondes de chaque vidéo sont utilisées. Puis :
+
+  python3 motion/france-17-octobre/render.py motion/france-17-octobre/piwa-france-17-octobre.mp4 --clips motion/france-17-octobre/clips
+
+N'utiliser que des images filmées par nous, achetées sous licence ou autorisées par leur auteur.

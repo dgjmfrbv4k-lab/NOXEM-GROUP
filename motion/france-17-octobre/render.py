@@ -1,7 +1,12 @@
-"""PIWA Studio — « France, 17 octobre » : motion design vertical (1080x1920, 60 s) avec bande-son.
+"""PIWA Studio — « France, 17 octobre » : motion design vertical (1080x1920, 46 s) avec bande-son.
 
 Rendu image par image avec Pillow, son synthétisé avec numpy, encodé en MP4 par ffmpeg.
-    python3 motion/france-17-octobre/render.py [sortie.mp4] [--preview dossier t1,t2,...]
+    python3 motion/france-17-octobre/render.py [sortie.mp4] [--clips dossier] [--preview dossier t1,t2,...]
+
+Avec --clips, les vidéos trouvées dans le dossier passent en plein écran sous le motion design :
+paris.mp4, marseille.mp4, lyon.mp4, bordeaux.mp4, rennes.mp4, poitiers.mp4, chambery.mp4
+(une par ville) et casse1.mp4 … casse4.mp4 (une par phrase choc). Les fichiers absents sont
+remplacés par l'animation seule. N'utiliser que des images dont on détient les droits.
 """
 import math
 import random
@@ -12,9 +17,11 @@ import wave
 from pathlib import Path
 
 import numpy as np
-from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFont
 
 W, H, FPS, DURATION = 1080, 1920, 30, 60.0
+SPEED = 1.3  # la timeline est écrite sur 60 s puis jouée en accéléré
+OUT_DURATION = DURATION / SPEED
 ROOT = Path(__file__).resolve().parents[2]
 FONT_DIR = Path("/usr/share/fonts/opentype/inter")
 
@@ -363,6 +370,69 @@ def draw_planks(img, t, start, y_top, y_bottom, alpha=1.0):
     img.alpha_composite(layer)
 
 
+# ---------------------------------------------------------------- vidéos importées
+class ClipBank:
+    """Extrait chaque vidéo en images 1080x1920 (recadrage plein écran) et les sert à la demande."""
+
+    def __init__(self):
+        self.dir = None
+        self.tmp = None
+        self.frames = {}
+
+    def get(self, name, t_in):
+        if self.dir is None:
+            return None
+        if name not in self.frames:
+            src = next((self.dir / f"{name}{ext}" for ext in (".mp4", ".mov", ".webm", ".mkv")
+                        if (self.dir / f"{name}{ext}").exists()), None)
+            files = []
+            if src:
+                out = Path(self.tmp) / name
+                out.mkdir(parents=True, exist_ok=True)
+                subprocess.run([
+                    "ffmpeg", "-loglevel", "error", "-y", "-i", str(src), "-t", "4",
+                    "-vf", f"fps={FPS},scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H}",
+                    "-q:v", "3", str(out / "%04d.jpg"),
+                ], check=True)
+                files = sorted(out.glob("*.jpg"))
+            self.frames[name] = files
+        files = self.frames[name]
+        if not files:
+            return None
+        return files[min(len(files) - 1, int(t_in / SPEED * FPS))]
+
+
+CLIPS = ClipBank()
+
+
+def draw_clip(img, name, t, start, end):
+    """Vidéo plein écran, assombrie et teintée aux couleurs PIWA, avec léger zoom."""
+    path = CLIPS.get(name, max(0.0, t - start))
+    if path is None:
+        return False
+    fr = Image.open(path).convert("RGB")
+    z = 1.0 + 0.10 * prog(t, start, end - start)
+    fr = fr.resize((int(W * z), int(H * z)), Image.BILINEAR)
+    fr = fr.crop(((fr.width - W) // 2, (fr.height - H) // 2, (fr.width - W) // 2 + W, (fr.height - H) // 2 + H))
+    fr = ImageEnhance.Contrast(ImageEnhance.Color(fr).enhance(0.7)).enhance(1.25)
+    fr = Image.blend(fr, GRADIENT_FULL, 0.18)
+    fr = Image.blend(fr, Image.new("RGB", (W, H), BG), 0.45)
+    a = window(t, start, end, 0.06, 0.06)
+    img.alpha_composite(faded(fr.convert("RGBA"), a))
+    # bandes sombres haut et bas pour garder le texte lisible
+    shade = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(shade)
+    for y in range(0, 620, 8):
+        d.rectangle((0, y, W, y + 8), fill=BG + (int(200 * (1 - y / 620) * a),))
+        d.rectangle((0, H - y - 8, W, H - y), fill=BG + (int(150 * (1 - y / 620) * a),))
+    img.alpha_composite(shade)
+    return True
+
+
+def clip_name(city):
+    return city.lower().replace("é", "e")
+
+
 # ---------------------------------------------------------------- timeline
 F_MEGA = font("Black", 360)
 F_HUGE = font("Black", 260)
@@ -454,6 +524,17 @@ def scene_cities(img, t):  # 19 – 30 s
         return
     a = window(t, CITY_START, end, 0.2, 0.3)
     active = min(len(CITIES) - 1, int((t - CITY_START) / CITY_STEP))
+    s = CITY_START + active * CITY_STEP
+    if draw_clip(img, clip_name(CITIES[active][0]), t, s, s + CITY_STEP):
+        # avec une vraie vidéo : mini-carte en bas à droite
+        draw_map(img, 860, 1600, 300, line_a=a, fill_a=0.25 * a)
+        lo, la = CITIES[active][1]
+        x, y = project(lo, la, 860, 1600, 300)
+        draw_pin(img, x, y, t, s, a)
+        draw_text(img, f"{active + 1:02d} / {len(CITIES):02d}", F_TAG, 210, a, color=MUTE, tracking=6)
+        slam(img, CITIES[active][0], F_BIG if len(CITIES[active][0]) < 8 else F_XL, 380, t, s, s + CITY_STEP,
+             gradient=True)
+        return
     # la carte glisse doucement vers la ville active
     lon, lat = CITIES[active][1]
     tx, ty = project(lon, lat, 540, 1200, 900)
@@ -463,7 +544,6 @@ def scene_cities(img, t):  # 19 – 30 s
     for i, (name, (lo, la)) in enumerate(CITIES):
         x, y = project(lo, la, cx, cy, 900)
         draw_pin(img, x, y, t, CITY_START + i * CITY_STEP, a if i == active else a * 0.6)
-    s = CITY_START + active * CITY_STEP
     draw_text(img, f"{active + 1:02d} / {len(CITIES):02d}", F_TAG, 210, a, color=MUTE, tracking=6)
     slam(img, CITIES[active][0], F_BIG if len(CITIES[active][0]) < 8 else F_XL, 380, t, s, s + CITY_STEP,
          gradient=True)
@@ -483,8 +563,9 @@ def scene_count(img, t):  # 30 – 36.5 s
 
 
 def scene_beats(img, t):  # 36.5 – 42.5 s
-    for start, words in BEATS:
+    for k, (start, words) in enumerate(BEATS):
         if start <= t < start + 1.5:
+            draw_clip(img, f"casse{k + 1}", t, start, start + 1.5)
             n = len(words)
             for i, w in enumerate(words):
                 f = F_BIG if len(w) <= 10 else F_XL
@@ -540,26 +621,34 @@ def hit_energy(t):
     return e
 
 
+def beat_pulse(t):
+    """Petit coup de zoom sur chaque temps de la musique."""
+    if not 4.2 <= t < 50.8 or 16.3 <= t < 19.0:
+        return 0.0
+    beat = 60 / 128 * SPEED
+    return math.exp(-((t - 4.2) % beat) / SPEED * 14)
+
+
 def post(img, t):
     """Effets caméra : flash, glitch RVB, zoom punch et tremblement sur les impacts."""
     e = hit_energy(t)
     rgb = img.convert("RGB")
-    if e > 0.05:
-        if e > 0.3:  # glitch RVB
-            r, g, b = rgb.split()
-            s = int(18 * e)
-            rgb = Image.merge("RGB", (ImageChops.offset(r, s, 0), g, ImageChops.offset(b, -s, 0)))
-        z = 1 + 0.06 * e
+    if e > 0.3:  # glitch RVB
+        r, g, b = rgb.split()
+        s = int(24 * e)
+        rgb = Image.merge("RGB", (ImageChops.offset(r, s, 0), g, ImageChops.offset(b, -s, 0)))
+    z = 1 + 0.07 * e + 0.018 * beat_pulse(t)
+    if z > 1.002:
         zw, zh = int(W * z), int(H * z)
         rnd = random.Random(int(t * FPS))
-        sx = rnd.uniform(-1, 1) * 30 * e
-        sy = rnd.uniform(-1, 1) * 30 * e
+        sx = rnd.uniform(-1, 1) * 40 * e
+        sy = rnd.uniform(-1, 1) * 40 * e
         big = rgb.resize((zw, zh), Image.BILINEAR)
         left = (zw - W) / 2 + sx
         top = (zh - H) / 2 + sy
         rgb = big.crop((int(left), int(top), int(left) + W, int(top) + H))
-        if e > 0.6:  # flash blanc
-            rgb = Image.blend(rgb, Image.new("RGB", (W, H), (255, 255, 255)), (e - 0.6) * 0.9)
+    if e > 0.6:  # flash blanc
+        rgb = Image.blend(rgb, Image.new("RGB", (W, H), (255, 255, 255)), (e - 0.6) * 0.9)
     return rgb
 
 
@@ -579,12 +668,12 @@ SR = 44100
 
 
 def soundtrack():
-    n = int(DURATION * SR)
+    n = int(OUT_DURATION * SR)
     out = np.zeros(n)
     rng = np.random.default_rng(1)
 
-    def add(sig, at, gain=1.0):
-        i = int(at * SR)
+    def add(sig, at, gain=1.0):  # `at` est en temps de timeline
+        i = int(at / SPEED * SR)
         j = min(n, i + len(sig))
         if i < n:
             out[i:j] += sig[: j - i] * gain
@@ -608,11 +697,11 @@ def soundtrack():
     tt = np.arange(n) / SR
     pad = (np.sin(2 * np.pi * 55 * tt) + 0.6 * np.sin(2 * np.pi * 82.41 * tt) + 0.4 * np.sin(2 * np.pi * 65.41 * tt))
     pad *= 0.5 + 0.5 * np.sin(2 * np.pi * 0.25 * tt) ** 2
-    env = np.clip(tt / 2, 0, 1) * np.clip((DURATION - tt) / 3, 0, 1)
+    env = np.clip(tt / 2, 0, 1) * np.clip((OUT_DURATION - tt) / 3, 0, 1)
     out += pad * env * 0.10
 
     # battements 128 BPM de 4,2 s à 50,8 s, pause au moment du « Mais en marge »
-    beat = 60 / 128
+    beat = 60 / 128 * SPEED  # 128 BPM réels une fois accéléré
     b = 4.2
     while b < 50.8:
         if not 16.3 <= b < 19.0:
@@ -630,8 +719,8 @@ def soundtrack():
         d = np.arange(int(0.25 * SR)) / SR
         add(np.sin(2 * np.pi * f * d) * np.exp(-d * 18), SHATTER + rng.uniform(0, 1.0), 0.05)
     # montée avant la carte
-    d = np.arange(int(2.7 * SR)) / SR
-    add(rng.standard_normal(len(d)) * (d / 2.7) ** 2, 16.3, 0.18)
+    d = np.arange(int(2.7 / SPEED * SR)) / SR
+    add(rng.standard_normal(len(d)) * (d / d[-1]) ** 2, 16.3, 0.18)
     # accord final
     d = np.arange(int(6 * SR)) / SR
     chord = sum(np.sin(2 * np.pi * f * d) for f in (220, 277.18, 329.63, 440)) * np.exp(-d * 0.6)
@@ -653,6 +742,11 @@ def write_wav(path):
 
 def main():
     args = sys.argv[1:]
+    if "--clips" in args:
+        i = args.index("--clips")
+        CLIPS.dir = Path(args[i + 1])
+        CLIPS.tmp = tempfile.mkdtemp(prefix="piwa-clips-")
+        del args[i:i + 2]
     if "--preview" in args:
         i = args.index("--preview")
         out = Path(args[i + 1])
@@ -670,9 +764,9 @@ def main():
             "-c:v", "libx264", "-preset", "slow", "-crf", "20", "-pix_fmt", "yuv420p",
             "-c:a", "aac", "-b:a", "192k", "-shortest", "-movflags", "+faststart", out,
         ], stdin=subprocess.PIPE)
-        total = int(DURATION * FPS)
+        total = int(OUT_DURATION * FPS)
         for i in range(total):
-            ff.stdin.write(render(i / FPS).tobytes())
+            ff.stdin.write(render(i / FPS * SPEED).tobytes())
             if i % 300 == 0:
                 print(f"{i}/{total}", flush=True)
         ff.stdin.close()
