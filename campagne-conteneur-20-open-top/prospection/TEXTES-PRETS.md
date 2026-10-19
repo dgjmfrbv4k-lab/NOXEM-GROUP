@@ -20175,3 +20175,22 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+## 291. ANNULE — GABARIT "PARTENAIRE EN ENERGIES RENOUVELABLES", RETIRE LE 19/10
+
+**⚠️ CE TEXTE N EXISTE PLUS ET IL NE DOIT PAS ETRE RECRIT.** Il avait ete redige sur une consigne
+qui ne visait PAS cette campagne : Kevin l a corrigee dans la minute — mot pour mot, « je me suis
+trompe, c est pour la campagne des bornes de gonflage, tu continues comme d habitude, tu changes
+rien ».
+
+**Il demandait de ne PAS se presenter comme NOXEM GROUP, de ne pas nommer le metier, et d annoncer
+un partenariat en energies renouvelables.** Rien de cela ne s applique au verre plat.
+
+**POURQUOI LE CORPS EST SUPPRIME ET PAS SEULEMENT BARRE :** un texte pret a partir, anonyme et sans
+lien produit, laisse dans ce fichier est exactement ce qu une session ulterieure peut prendre pour
+une file d attente. **La trace du cas reste, le texte envoyable ne reste pas.**
+
+**RIEN N A ETE ENVOYE.** Les regles du §9 et du §10 s appliquent sans changement a tous les textes
+de cette campagne : identification en premiere ligne comme fournisseur de verre plat, liens produit
+du §8, signature complete du §10 en un seul exemplaire.
