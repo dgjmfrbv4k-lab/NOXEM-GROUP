@@ -930,7 +930,21 @@ lui attribue une table de droits d'importation la cite en réalité comme la par
    de passer par les treize régionales pour avoir les noms — **sept régionales testées pour deux
    productives, quand la nationale les portait toutes.**
    **MAIS LE GISEMENT EST DÉJÀ PRIS, et c'est la seconde moitié de la mesure : douze noms relevés sur
-   treize étaient DÉJÀ au registre.** Une session antérieure l'a moissonné sans le dire. **Ne pas y
+   treize étaient DÉJÀ au registre.**
+   **⚠️⚠️ ET CETTE PHRASE EST TROP FORTE — DÉMENTIE LE 19/10 À @H@ PAR UN MEMBRE D'ABRAVIDRO QUI
+   ÉTAIT ABSENT DU REGISTRE.** **Pestana Vidros**, à Belo Horizonte, est listée par ABRAVIDRO comme
+   entreprise associée — avec sa page, son adresse et son téléphone — et le `grep-nom.py` la donne
+   **absente**. Elle est arrivée par un tout autre chemin, le gisement **AMVID** du Minas Gerais.
+   **CE QUI EST FAUX DANS LA MESURE DU 16/10 N'EST PAS LE CHIFFRE, C'EST CE QU'IL COUVRE :** douze sur
+   treize étaient déjà présents **parmi les noms que CETTE passe-là avait relevés**, et cette passe
+   lisait l'annuaire **par lettre**, donc une tranche de l'alphabet. **Elle ne disait rien du reste de
+   la liste**, et j'en ai tiré « le gisement est déjà pris », qui est une conclusion sur l'ensemble
+   tirée d'un échantillon non représentatif.
+   **CONDUITE CORRIGÉE : ABRAVIDRO n'est PAS épuisée, et ses deux cents associés se parcourent lettre
+   par lettre** — c'est précisément ce que sa pagination permet. Ce qui reste vrai de la mesure : la
+   couche déjà moissonnée est dense, donc **le `grep` avant chaque second temps est obligatoire** et
+   le rendement par appel y sera plus bas qu'ailleurs. **C'est une raison de greper, pas une raison de
+   ne pas y aller.** Une session antérieure l'a moissonné sans le dire. **Ne pas y
    relancer une campagne par lettre.** Quatre appels y ont rendu **trois fiches neuves** — MTX Glass,
    Vitrax, SA Vidros — avec leurs coordonnées complètes, ce qui vaut la découverte de ville en nombre
    et la dépasse en qualité, la coordonnée venant avec le nom. **L'e-mail de l'annuaire ne satisfait

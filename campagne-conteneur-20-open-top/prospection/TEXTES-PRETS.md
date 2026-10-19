@@ -18597,3 +18597,109 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 275. Pestana Vidros - Vidraçaria Pestana Ltda (Belo Horizonte) — `comercial@pestanavidros.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h05 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Seconde fiche du gisement AMVID.** Grep passe dans un appel separe : **ABSENT**.
+- **⚠️⚠️ ET LE FAIT QUI DECIDE DE TOUT LE TEXTE : ILS SONT L UNIQUE FRANCHISE BLINDEX DU MINAS
+  GERAIS.** `Blindex` est **Pilkington Brasil**, donc **NSG**, donc un producteur float que le §6
+  range parmi les concurrents. **Une marque dans une gamme dit qu on ACHETE** : prospect, pas
+  concurrent — c est mot pour mot ce que le §6 a etabli le 14/10 sur les distributeurs Blindex.
+- **⚠️ MAIS UNE FRANCHISE EXCLUSIVE N EST PAS UNE SIMPLE DISTRIBUTION, ET LE TEXTE LE DIT AU CLIENT
+  AU LIEU DE L IGNORER.** *Exclusive* veut dire **contractuelle** : la probabilite est
+  structurellement plus faible qu ailleurs, la **porte de sortie du §9 est obligatoire et
+  sincere**, et **on ne demande pas a un franchise de rompre sa franchise.** Ce qu on peut etre est
+  la seconde origine **sur ce que la franchise ne couvre pas** — et le texte **pose la question**
+  au lieu de supposer la reponse.
+- **Adresse sur LEUR PROPRE site.** Une seconde adresse figure a la fiche ABRAVIDRO : **gardee en
+  second essai**, l annuaire ne satisfaisant pas l anti-rebond.
+- **⚠️ ADRESSE DE TIERS ECARTEE — PIEGE LEADER MAT** : un agregateur de registre publie sous leur
+  CNPJ l adresse de leur **cabinet comptable**. Domaine tiers, aucune parente avec le nom : refusee.
+- **⚠️ UN HOMONYME** : un profil social *Pestana Vidros e Espelhos* porte l indicatif **27**, celui
+  de l Espirito Santo. Autre maison, non retenue.
+- **⚠️ ET UNE MESURE A VERSER AU §6** : cette fiche est **membre d ABRAVIDRO et elle etait ABSENTE**,
+  alors que la mesure du 16/10 donnait **douze noms sur treize deja presents**. **Le gisement
+  ABRAVIDRO n est donc pas entierement moissonne** — c est une passe par lettre qui avait ete faite,
+  pas la liste entiere.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE** : Gecex 833, float clair de 1,8 a 20 mm,
+  Malaisie-Pakistan-Turquie, **miroir et teinte exclus**. Et **jamais** l absence de production
+  locale au Bresil.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Uma segunda origem para o que a franquia não cobre`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe.
+
+Vou comecar pelo que normalmente faria um fornecedor desistir de escrever, e
+que para mim e justamente o motivo de escrever com clareza: eu sei que voces
+sao a unica franqueada Blindex de Minas Gerais. Nao estou lhe pedindo para
+mexer nisso. Uma franquia exclusiva e um contrato, e quem propoe a um
+franqueado que rompa o contrato nao esta propondo um negocio, esta propondo um
+problema.
+
+O que eu vendo e chapa em contentor completo, e a unica pergunta que lhe faco
+e esta: a franquia cobre TUDO o que entra no seu galpao? Na maioria das casas
+que conheco, nao. Sobra sempre uma espessura fora de faixa, um extra-claro
+para um projeto especifico, um low-E que nao esta na tabela, um volume de
+ponta que o fornecedor principal nao entrega no prazo. E nessa sobra, e
+somente nela, que eu posso ser util.
+
+Deixo claro o que NAO estou oferecendo. A tempera e o beneficiamento sao o
+trabalho de voces, nao o meu, e ali nao tenho nada a vender. O que ofereco e
+o substrato:
+
+- vidro float claro e extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e com a medida exata: desde a Gecex 833 o float incolor de
+1,8 a 20 mm originario da Malasia, do Paquistao e da Turquia paga direito
+antidumping no Brasil, e a Europa nao esta nessa medida. Isso vale para essa
+faixa de float incolor e nao vale para espelho nem para fume. Nao estou lhe
+dando numeros numa primeira carta e nao estou dizendo que nosso vidro e
+barato.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda. Podemos preparar uma oferta para a
+entrega no seu porto de destino, sujeita a validacao do nosso lado. Belo
+Horizonte fica longe da costa, entao nao vou adivinhar o seu porto: diga qual
+o seu frete ja usa e eu trabalho sobre esse.
+
+O que preciso de volta e pouco, e e uma pergunta so: o que a franquia NAO lhe
+fornece. Espessura, cor, capa, prazo, volume de ponta - qualquer uma dessas.
+Com isso eu lhe digo numa unica resposta se faz sentido ou nao.
+
+E a parte honesta. Se a franquia cobre tudo e voces estao satisfeitos, diga
+com franqueza e eu nao insisto. Prefiro um nao claro a uma conversa que nao
+leva a nada.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
