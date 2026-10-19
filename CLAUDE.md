@@ -316,6 +316,22 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   **Et ce quart l'a prouvé le même soir** : Indiana Glass, dont l'argument de vente *est* la demi-chapa,
   et Dulles Glass, dont le stock vaut quatre conteneurs — deux fiches qu'aucune recherche par ville
   n'avait rendues en trois passages sur leurs États.
+  **⚠️⚠️ ET VOICI LA VALIDATION QUI VAUT MIEUX QUE TOUTES LES MESURES DE RENDEMENT, TROUVÉE LE 19/10
+  AU SOIR EN APPLIQUANT LA REQUÊTE AU CANADA : LE CRITÈRE A PRÉDIT, RÉTROSPECTIVEMENT, NOTRE SEUL
+  DOSSIER DE DEVIS DE LA CAMPAGNE.**
+  La page *wholesale* d'**United Glass** (Mississauga) annonce la vente « **individual sheets, case
+  quantities, half case quantities or a whole truck load** » — c'est-à-dire le critère de la fraction
+  de feuille **au complet, sur ses quatre degrés**. Or United Glass est la maison qui a **demandé un
+  devis**, et à qui Aaron a envoyé une proposition sur **dix conteneurs** le 08/10.
+  **Le critère ne décrit donc pas seulement un bon profil sur le papier : il désigne la seule maison
+  qui, à ce jour, a demandé à acheter.** C'est la meilleure justification qu'un critère de ciblage
+  puisse avoir, et elle est vérifiable sur une page publique.
+  **Et le même tour l'a confirmé sur trois autres fiches déjà contactées**, ce qui en fait un
+  **validateur rétrospectif** et pas seulement un filtre d'entrée : **National Glass** (« cases, stock
+  sheets », et le mot **independent**, celui de Glenny Glass et d'Intraco), **Woodbridge Glass**
+  (« packs, cases, stock sheets ») et **Bear Glass** (« stocking distributor of **sheets** », jusqu'à
+  19 mm). **Donc la requête se relance aussi sur les fiches DÉJÀ ENVOYÉES, pour trier celles qui
+  méritent l'effort de relance** — à coût nul, puisqu'elle rend ces noms de toute façon.
   **⚠⚠ ET UN QUATRIÈME CAS LE MÊME SOIR AJOUTE LA DIMENSION QUI MANQUAIT AU CRITÈRE — LA TAILLE DU
   FORMAT, ET PAS SEULEMENT SON CÔTÉ D'ATELIER. Cas VALLEYWIDE GLASS (Phoenix), et il satisfaisait le
   critère à la lettre.** Leur page de gros publie des feuilles de stock recuites, nommément du **1/8 DS
