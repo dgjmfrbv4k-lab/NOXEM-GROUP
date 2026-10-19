@@ -334,6 +334,17 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   prénom-point-nom sur le domaine de la société. Une adresse déduite d'un schéma est une adresse
   inventée, quel que soit le sérieux apparent de l'outil qui la propose — c'est le même piège que
   `prospeo.io` sur Lahey Glass le 13/10, et c'est la deuxième fois en deux jours.
+  **UN DE PLUS LE 19/10 À 12h22, SUR UNE RECHERCHE CANADIENNE : `crunchbase.com`**, qui vend des
+  profils de sociétés avec leurs coordonnées — *Contact Email* est un champ de sa fiche. **C'est
+  mot pour mot la nature de `dnb.com` et d'`emis.com`**, donc même interdit, et à mettre dans
+  `blocked_domains` d'emblée. **Il est plus dangereux que les autres pour une raison précise : il
+  passe pour une source de presse économique et non pour un vendeur de contacts**, et il remonte
+  spontanément sur un nom de société sans qu'on l'ait cherché. **Cas réel : Bronco Industries**,
+  trempeur de Colombie-Britannique, dont il publiait l'`info@` sur le bon domaine. **L'adresse n'a
+  PAS été portée au champ** — une adresse EST une qualification, et la règle veut qu'un courtier
+  puisse nommer sans qu'on reprenne ce qu'il qualifie. La fiche est téléphonique, et **c'est la
+  leçon Sealvid une seconde fois : mieux vaut une fiche téléphonique qu'une adresse prise chez une
+  source qu'on s'interdit.**
   **ET DEUX DE PLUS LE 15/10 À 13h31, SUR UNE RECHERCHE BRÉSILIENNE : `triceleads.com` et
   `econodata.com.br`**, qui vendent des listes de sociétés par segment avec chiffre d'affaires et
   coordonnées. Même nature que `dnb.com` et `emis.com`, donc même interdit, et à mettre dans
