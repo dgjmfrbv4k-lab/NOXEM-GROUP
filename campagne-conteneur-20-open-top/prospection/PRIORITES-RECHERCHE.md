@@ -2819,3 +2819,76 @@ document nommant le chapitre 70 le porte a 30 pour cent mais il date d environ 2
 citable**, et l exoneration des **INTRANTS de production** — qui changerait tout pour un
 transformateur — est une question ouverte. La Nouvelle-Caledonie et la Polynesie ne sont **pas** des
 DOM : hors territoire douanier de l Union, taxes propres, meme interdit.
+
+
+## CARAIBE ANGLOPHONE — L ANNUAIRE SECTORIEL EST LA SOURCE, ET IL PUBLIE LES COORDONNEES (19/10 a 16h24)
+
+**MESURE SUR SEPT PAYS, ET LE RENDEMENT TIENT A LA SOURCE ET NON AU MARCHE.** `findyello.com` recense
+les entreprises caraibes **par pays ET par rubrique** — GLASS DEALERS, GLASS WHOLESALE
+MANUFACTURERS, GLASS FLOAT PLATE WINDOW AND DOORS — **et il publie l adresse postale ET le
+telephone de chaque entree.** C est la difference decisive avec les annuaires francais, qui
+rendaient des noms nus et dont les neuf fiches d outre-mer n ont donne **aucune** adresse.
+
+| Pays | Noms rendus | Neufs | Appelables | Verdict |
+|---|---|---|---|---|
+| **Bahamas** | 10 | **8** | 6 | **le plus vierge de la zone** |
+| **Trinite** | 11 | **10** | 6 | le meilleur rendement du jour |
+| **Porto Rico** | 9 | **8** | 0, mais 3 domaines propres | **territoire douanier US** |
+| Barbade | 7 | 3 | 2 | largement faite |
+| Guyana | 5 | 3 | 3 | faite |
+| Jamaique | 7 | 1 | 0 | **faite** |
+| Rep. dominicaine | 2 | 2 | 0 | **bien couverte, 15 fiches** |
+| Suriname | 1 | 0 | 0 | **fait**, 3 fiches couvrent le marche |
+
+**⚠⚠ PORTO RICO EST LE MARCHE LE PLUS SOUS-EXPLOITE DE LA ZONE, ET POUR UNE RAISON DOUANIERE : IL
+EST DANS LE TERRITOIRE DOUANIER DES ETATS-UNIS.** Les ordres du 06/04/2026 y valent — 181,52 % sur
+l entite nationale chinoise, compensateur de 17,3 a 102 % sur la Malaisie — **et l Europe n est
+visee par aucun**. Trois millions d habitants, et **quatre** fiches seulement avant aujourd hui.
+**C est le meilleur rapport entre la force de l argument et la couverture actuelle de tout le
+registre.** Et trois des huit fiches creees portent **un domaine propre**, donc sont
+deverrouillables.
+
+**LES DEUX FAITS DE MARCHE QUI COMMANDENT L ANGLE AUX BAHAMAS**, tires des rubriques meme de
+l annuaire : il existe une rubrique **HURRICANE IMPACT WINDOWS** — donc un marche de **feuillete
+epais**, et un feuilleteur consomme **deux feuilles par unite** — et **Grand Bahama est FREEPORT**,
+zone franche et grand port de transbordement. **Aucun des deux ne s ecrit** : le §5 interdit tout
+certificat et toute garantie technique, le §6 interdit d affirmer quoi que ce soit sur les droits
+sans avoir lu la source du pays. **Ils servent a choisir la cible et la gamme, pas a remplir un
+message.**
+
+**⚠⚠ DEUX LECONS DE REQUETE, LES DEUX MESUREES LE MEME JOUR, ET ELLES VALENT POUR TOUTE LA SUITE DE
+LA MOISSON.**
+1. **LA REQUETE SE FAIT DANS LA LANGUE DU PAYS, JAMAIS EN ANGLAIS PAR DEFAUT.** Cas **Suriname** :
+   la requete anglaise `glass aluminium Paramaribo` a rendu **dix resultats sur dix sud-africains**,
+   les mots *glass and aluminium* etant domines par ce marche — **et parmi eux PG GROUP et PG GLASS,
+   qui sont les comptes proteges du §7, en negociation avec Willem Heunis.** Un relevé pris sans
+   lire aurait pu rouvrir une fiche sur un compte protege. **Reprise en neerlandais, la requete a
+   rendu le marche en un appel.**
+2. **UNE VILLE HOMONYME SE NOMME EN ENTIER.** Cas **Republique dominicaine** : `Santo Domingo et
+   Santiago` a fait capter **sept resultats sur dix par le CHILI**, Santiago du Chili mangeant
+   Santiago de los Caballeros. La regle du 15/10 disait *une ville par requete*, apres Medellin et
+   Cali ; **ce cas ajoute que l homonymie entre deux pays est pire que le groupement — ce n est pas
+   une ville qui mange l autre, c est un PAYS ENTIER qui mange la ville cherchee.**
+   **A nommer en entier desormais :** Santiago de los Caballeros, Cordoba (Argentine / Espagne),
+   Valencia (Espagne / Venezuela), San Jose (Costa Rica / Californie), Santa Cruz (Bolivie /
+   Canaries / Bresil), Cartagena (Colombie / Espagne), La Paz (Bolivie / Mexique).
+   **Et Santiago de los Caballeros reste A FAIRE** — ne pas inscrire qu elle n a rien rendu, ce
+   serait le faux negatif consigne que la regle du 15/10 interdit.
+
+**⚠ TROISIEME CAS DE LA FAMILLE DU FILM SOLAIRE EN UNE JOURNEE, ET C EST DESORMAIS UN REFLEXE A
+AVOIR :** **Visiocom** (Martinique), **Sunless** (La Reunion) et **Performa** (Saint-Domingue) ont
+toutes trois ete creees avec la meme reserve. Le motif est **securite plus controle solaire**, qui
+est la paire canonique des gammes de **films adhesifs** — c est ce qui a revele **Ingesob** a
+Santiago comme applicatrice de films alors qu un portail la donnait parmi les *vidrierias*, et
+**Klingshield** en Afrique du Sud. **Un poseur de films achete du polyester en rouleau, pas de la
+feuille.** Le mot espagnol `laminado` est le piege le plus net : il designe **le feuillete OU le
+film**. **LE TEST QUI TRANCHE EN UN APPEL : un verrier annonce des EPAISSEURS et des COTES, un
+applicateur annonce des TAUX DE REJET SOLAIRE, des MICRONS et des GARANTIES DE POSE.**
+**Le climat tropical attire ce metier**, donc le reflexe vaut pour tout l outre-mer et toute la
+Caraibe.
+
+**CE QUI RESTE A MOISSONNER SUR CETTE SOURCE, et elle couvre toute la zone :** Iles Caimans (4
+fiches), Bermudes (2), Curacao (2), Aruba (2), Antigua (3), Sainte-Lucie (2), Belize (1), Grenade
+(1), Saint-Vincent (1) — **et la Dominique, Saint-Kitts et les Turks-et-Caicos, qui n ont AUCUNE
+fiche au registre.** Plus **Haiti**, onze millions d habitants pour cinq fiches, dont le contexte
+est a peser avant d y investir.
