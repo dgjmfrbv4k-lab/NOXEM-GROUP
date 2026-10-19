@@ -66,6 +66,10 @@ PRODUCTEURS = {
                 'les trois nommes a la liste des producteurs du dossier float glass americain',
     'États-Unis': 'Vitro Flat Glass et Vitro Meadville, petitionnaires de la mesure de 2026, plus '
                   'Guardian, PPG, Fuyao Glass America et CARDINAL GLASS INDUSTRIES, ajoute le 15/10 '
+                  'et, PRECISION DU 19/10 QUI REND L INTERDIT CONCRET ETAT PAR ETAT, GUARDIAN exploite '
+                  'un site a KINGSBURG EN CALIFORNIE et VITRO ARCHITECTURAL GLASS est base a FRESNO — '
+                  'donc la Californie elle-meme abrite deux producteurs du paragraphe 6, a moins de trois '
+                  'cents kilometres des trois prospects ouverts ce jour a Sacramento et Stockton, '
                   'et qui exploite SEPT sites float americains dont un a deux lignes, Winlock dans '
                   'l Etat de Washington etant donne a 648 tonnes par jour. L argument americain est '
                   'DOUANIER et non celui de l absence d offre',
