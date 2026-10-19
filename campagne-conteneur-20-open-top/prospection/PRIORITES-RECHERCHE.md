@@ -2210,3 +2210,40 @@ d habitants ou le registre ne comptait qu une quinzaine de fiches.
 
 **RESTE A FAIRE SUR CE GISEMENT :** Templados HP (second temps), VIFIRE, puis les rubriques AMEVEC
 non encore lues — il y en a d autres que *fabricantes* et *procesadores*.
+
+### ⚠️⚠️ LE FILON SGCC EST DEJA PRIS DANS LE GOLFE ET AU LEVANT — mesure du 19/10 a 13h56, ET C EST UN RESULTAT NEGATIF QUI ECONOMISE DES APPELS
+
+La liste des usines certifiees SGCC est **vraiment mondiale** : elle porte des usines en **Chine**,
+au **Bahrein**, au **Qatar**, en **Arabie saoudite**. Deux appels y ont ete depenses pour en tirer
+les noms du Golfe et du Levant. **Voici ce qu ils ont rendu, et c est a consigner plutot qu a
+refaire :**
+
+| Nom rendu | Pays | Etat au registre |
+|---|---|---|
+| **Glasstech Industries B.S.C** | Bahrein | **DEJA AU REGISTRE**, `RELANCE 2026-10-12` |
+| **Horizontal Tempering Glass** | Liban | **DEJA AU REGISTRE**, `RELANCE 2026-10-12` |
+| Aluminum Technology Auxiliary Industries | Qatar | absente — **ECARTEE au tri metier** |
+| ALUMATEC | Arabie saoudite | absente — **ECARTEE deux fois** |
+
+**DEUX NOMS SUR QUATRE ETAIENT DEJA LA ET DEJA RELANCES**, et le `grep` a rendu au passage deux
+**homonymes** de Glasstech, en Azerbaidjan et aux Emirats, eux aussi relances — donc **quatre fiches
+pour un seul token**, toutes vivantes. Le travail est fait.
+
+**ET LES DEUX ABSENTES NE VALENT PAS L APPEL, pour des motifs du mandat et non par paresse :**
+· **Aluminum Technology Auxiliary Industries** et **ALUMATEC** portent toutes deux *Aluminum* dans
+  leur raison sociale, donc la classe **aluminium-facade-pose** que le paragraphe 6 mesure a
+  **3,6 pour cent** — et il dit en clair : *en dernier, et pas du tout quand le budget de recherche
+  est serre*.
+· **ALUMATEC est en plus en ARABIE SAOUDITE**, que le paragraphe 6 classe comme **le marche le mieux
+  pourvu de la zone en float local** — Obeikan, Zoujaj, Guardian et UFG — donc un marche faible pour
+  nous, sans argument douanier et sans argument d absence d offre.
+
+**CONCLUSION POUR LES PROCHAINS TOURS, ET ELLE EST NETTE : le filon SGCC vaut pour les ETATS-UNIS, le
+CANADA et le MEXIQUE, et pas ailleurs.** Dans le Golfe et au Levant la couche certifiee est deja au
+registre ; en Chine et en Turquie le paragraphe 6 exclut ; en Europe il n y a pas de prospection
+neuve. **Ne plus y depenser d appel de liste.**
+
+**Et ce resultat negatif vaut d etre dit positivement : il CONFIRME que le moissonnage anterieur du
+Golfe etait bon.** Deux sources independantes — la recherche large des sessions precedentes et un
+organisme de certification americain — rendent les memes maisons. C est la meilleure preuve de
+couverture qu on ait obtenue sur une region.
