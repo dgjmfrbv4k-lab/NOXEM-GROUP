@@ -2394,8 +2394,49 @@ el vidrio crudo en templado*.
 
 **ET LE CONTRE-POINT A GARDER : Copacabana, qui n etait sur aucune liste, porte DEUX des quatre
 meilleures maisons du releve.** Templacol et Vitelco y sont toutes deux, dans le meme parc
-industriel, et aucune des deux n etait au registre. **Une commune de banlieue industrielle rend plus
-qu une recherche sur la grande ville** — et c est la lecon du 15/10 sur Cali prise par l autre bout :
-ce n est pas seulement la grosse ville qui capte les resultats, c est que la peripherie industrielle
-ne remonte jamais spontanement. **Villes de l agglomeration encore non testees et qui le valent :
-Itagui, Bello, Envigado, Sabaneta, La Estrella, Girardota.**
+industriel, et aucune des deux n etait au registre. **J en avais tire sur le moment qu une commune de banlieue
+industrielle rend plus qu une recherche sur la grande ville. ⚠️⚠️ CETTE HYPOTHESE A ETE TESTEE DANS
+LE QUART D HEURE SUIVANT ET ELLE EST REFUTEE — voir la mesure Itagui ci-dessous.** Je la laisse
+ecrite telle qu elle a ete formulee, avec son dementi, plutot que de la reecrire silencieusement.
+
+
+## ⚠️⚠️ MESURE ITAGUI DU 19/10 A 14h35 — UN APPEL, ZERO FICHE, ET ELLE REFUTE L HYPOTHESE QUE
+## JE VENAIS D ECRIRE UN QUART D 14h35 PLUS TOT
+
+**L hypothese etait : Copacabana portait DEUX des meilleures maisons du releve de Medellin et
+n etait sur aucune liste, donc la banlieue industrielle rend mieux que la grande ville.** Testee
+immediatement sur **Itagui**, la plus industrielle des satellites de Medellin. **Elle ne tient pas.**
+
+**CE QUE L APPEL A RENDU : une dizaine de noms, et un seul utilisable — DEJA AU REGISTRE ET DEJA
+ENVOYE.**
+· **Aluminios y Vidrios Tamayo** — le seul du bon cote de l atelier : ils distribuent du **vidrio
+  CRUDO** et de securite, avec des sieges a Medellin, Itagui et Rionegro. **`ENVOYE 2026-10-15`.**
+· **Divimarcas Proyectos** — *venteneria y cerramientos*. **Le mot `ventanas` ferme la piste dans un
+  pays qui produit son float**, regle Fenplast. Pas de fiche.
+· **Vidrios Feralum**, **VitroSur**, **Acrylvidrios**, **Vitalum**, **Aluvidrios H.A.**, **Vidrios
+  Rio Claro**, **Vidrios y Espejos El Brasil** — tous **aluminium plus verre plus cabine de douche**,
+  ou des fiches d annuaire sans rien d autre. **C est la classe aluminium-facade-pose a 3,6 pour cent
+  et la classe verrier plus pose a ZERO**, les deux pires du §6. **Aucune fiche.**
+
+**POURQUOI L HYPOTHESE ETAIT FAUSSE, ET LA CORRECTION EST PLUS UTILE QUE L HYPOTHESE :
+CE QUI PREDIT N EST PAS LE STATUT DE BANLIEUE, C EST LE PARC INDUSTRIEL.** Templacol et Vitelco sont
+toutes deux dans le **Parque Industrial Copacabana** et sur la **Via Machado** — une zone d usines.
+Itagui est une banlieue **commerciale** dense, faite d ateliers de rue qui posent du verre coupe.
+**Les deux sont des communes peripheriques et elles n ont rien a voir.**
+
+**LE JETON A CHERCHER EST DONC `parque industrial`, `zona industrial`, `poligono industrial` ou
+`distrito industrial`, et non le nom d une commune.** C est le tri par metier du §6 applique a la
+GEOGRAPHIE : on ne cherche pas une ville, on cherche une zone d usines. Meme logique que le mot qui
+predit dans le nom d une federation, et cela coute zero appel a formuler.
+
+**CONDUITE : Bello, Envigado, Sabaneta, La Estrella et Girardota ne se testent PAS une par une.**
+Ce serait cinq appels pour le rendement d Itagui. **Une seule requete sur la zone industrielle de la
+vallee d Aburra vaut mieux que cinq requetes communales**, et c est ce qu il faudra faire au prochain
+tour.
+
+**ET LA LECON DE DISCIPLINE, parce que c est elle qui compte le plus ici : l hypothese a ete ECRITE
+puis TESTEE dans le quart d heure, et elle est tombee.** Le mandat impose de mesurer avant de garder
+— c est ce qui avait fait **rejeter** le motif « aucune ligne float » le 12/10 pour huit faux
+positifs, et **rejeter** la premiere version du correctif d initiales le 19/10 pour 29 signalements
+sur 190. **Une hypothese formulee sur un cas n est pas une regle, et un appel pour la tuer est un
+appel bien depense** : il evite les cinq que la fausse regle aurait coutes.
