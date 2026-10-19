@@ -1544,6 +1544,35 @@ message** — l'inverse de Forpec au Chili et d'ITA SEN ALU au Sénégal, où l'
 parti. **Et la vérification valait d'être faite plutôt que supposée dans les deux sens** : supposer
 qu'il était parti aurait fabriqué une faute, supposer qu'il ne l'était pas aurait couvert la vraie.
 
+**⚠️⚠️ ET UN AXE DE CIBLAGE ENTIER QUE LE TRI PAR METIER NE VOIT PAS, OUVERT LE 19/10 A 15h02 :
+LES CONSOMMATEURS DE VERRE PLAT DONT LE METIER NE S'APPELLE PAS *VERRE*.**
+Le tableau par metier ci-dessous classe des verriers, des negociants et des facadiers — c'est-a-dire
+**des maisons que l'on trouve en cherchant du verre**. Il ne peut donc pas voir celle-ci.
+**CAS PERFICOM (San Juan del Rio, Queretaro), et c'est la demonstration la plus nette de la journee :**
+son metier declare est la **porte de refrigeration commerciale**. Elle n'est dans **aucun** annuaire
+verrier, aucun portail sectoriel, aucune federation du verre — et elle annonce sur sa propre page
+**deux des plus grosses machines de trempe du Mexique** et **plus de 2000 portes par jour**.
+**ET SON PROFIL D'ACHAT EST MEILLEUR QUE CELUI D'UN FACADIER, pour la raison exacte que le §6 donne
+aux 3,6 % de la classe facade :** un poseur achete **au coup par coup, en cotes qui changent a chaque
+chantier**. Une ligne en serie achete **en continu, en cotes qui se repetent**. Le conteneur complet
+est l'unite naturelle du second et pas du premier.
+**OU LES TROUVER, ET C'EST LA SEULE SOURCE QUI MARCHE : UNE LISTE QUI ATTESTE UN PROCEDE, PAS UN
+SECTEUR.** Perficom est sortie de la liste des licencies **IGCC** — une certification de **vitrage
+isolant**, qui la nomme parce qu'elle en fabrique, sans se soucier de ce que la societe vend par
+ailleurs. **C'est la lecon SGCC du meme jour poussee a son terme : un organisme de certification
+certifie un PROCEDE, donc il recense tous ceux qui le pratiquent, y compris sous une autre
+etiquette industrielle.**
+**LES INDUSTRIES A CHERCHER DANS CES LISTES, parce qu'elles consomment de la feuille en serie :**
+porte et vitrine **de refrigeration** et de froid commercial · **electromenager** (portes de four,
+clayettes) · **agencement de magasin** et presentoirs · **mobilier** (plateaux, etageres) ·
+**ascenseurs** · **solaire** (et la page verre photovoltaique du §8 existe pour cela) ·
+**equipement medical et laboratoire**.
+**⚠️ ET LE GARDE-FOU QUI VA AVEC : ces maisons ne connaissent pas le vocabulaire verrier et elles ne
+sont PAS des verriers.** La regle Prodiesa s'y applique comme ailleurs — ce qu'elles fabriquent sort
+de l'offre — et il ne faut pas leur **asserter** leur specification. Sur Perficom le low-E est le
+candidat evident puisqu'une porte de froid est un probleme thermique : **le texte le PROPOSE et
+DEMANDE, il ne l'affirme pas.** C'est la frontiere de la faute STADIP du 12/10.
+
 **⚠️⚠️ LE CRITERE DE CIBLAGE LE PLUS PREDICTIF N'EST PAS LA GEOGRAPHIE, C'EST LE METIER — mesure du
 13/10, et c'est le resultat le plus utile de la journee.** Tout ce paragraphe raisonne par **pays**.
 Mesure faite sur les fiches assez anciennes pour avoir pu repondre, seuil de quatre jours, en classant

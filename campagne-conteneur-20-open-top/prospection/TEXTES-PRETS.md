@@ -19797,3 +19797,117 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+## 287. Perficom S.A. de C.V. (San Juan del Rio, Queretaro) — `contact@perficominternational.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 14h49 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Trouvee par la liste des licencies IGCC.** Grep passe dans **deux appels separes** de l ecriture :
+  **absente aux deux**.
+- **⚠️⚠️ AUCUNE RECHERCHE VERRIERE NE RENDRAIT CETTE MAISON, et c est tout l interet de la fiche.**
+  Son metier declare est la **porte de refrigeration commerciale**. Elle n est dans aucun annuaire
+  verrier, aucun portail sectoriel, aucune federation du verre. **Seule une liste qui atteste un
+  PROCEDE la fait apparaitre** — la lecon SGCC poussee a son terme : un organisme de certification
+  trouve les consommateurs de verre **dans les industries qui ne s appellent pas verre**.
+- **ILS TREMPENT EUX-MEMES ET ILS LE CHIFFRENT** : deux des plus grosses machines de trempe du
+  Mexique selon leur propre page, le trempe allant directement aux coupeuses automatiques.
+- **⚠️ L ANGLE EST LA SERIE, ET IL EST MEILLEUR QUE CELUI D UN FACADIER.** Ils annoncent **plus de
+  2000 portes par jour**. **Volume continu et cotes repetables** — l oppose exact du poseur qui achete
+  au coup par coup selon le chantier, ce qui est la raison que le §6 donne aux 3,6 pour cent de la
+  classe facade. **Le texte prend ce chiffre comme point de depart**, et c est **leur** chiffre.
+- **⚠️ LE LOW-E EST PROPOSE MAIS PAS AFFIRME COMME LEUR BESOIN.** Une porte de froid est un probleme
+  thermique, donc le low-E est le candidat evident — **mais je ne le sais pas et le texte le DEMANDE**
+  au lieu de l affirmer. **C est la frontiere de la faute STADIP** : poser la question qui sert,
+  jamais asserter une specification a leur place.
+- **⚠️⚠️ DEUX INTERDITS DU §6 PROPRES AU MEXIQUE, ET LE TEXTE N EN PORTE AUCUN.**
+  1. **RIEN SUR LES DROITS DE DOUANE.** La cuota contre la Chine et la Malaisie existe, le droit
+     general de 35 pour cent existe, **et le taux applicable a une origine UE sous le pilier de
+     l accord de 2000 n est PAS etabli**. Donc **pas un mot** : ni aranceles, ni cuotas, ni mesure,
+     ni allusion a un changement de comparaison. **C est la seule famille de textes de la campagne
+     ou l argument douanier est entierement retire.**
+  2. **JAMAIS l absence de production locale au Mexique**, Vitro y produisant.
+- **Donc l angle est l ORIGINE, la SECONDE SOURCE et la REGULARITE d une ligne en serie** — et rien
+  d autre. Plus etroit encore qu en Colombie.
+- **⚠️ LE DOMAINE RETENU EST CELUI DE LEUR PAGE**, pas ceux que des annuaires donnent
+  (`perficom.com`, `perficom.net.mx`, un site wix a leur nom). Et `importkey.com`, courtier interdit,
+  est remonte dans le meme releve : **rien ne lui a ete pris**.
+- **REGLE PRODIESA** : le trempe et la porte finie **sortent** de l offre, seul le substrat entre.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique — le 19/10 est un lundi et le 16 septembre est passe.
+
+**Objet :** `Para 2000 puertas al dia, la chapa tiene que ser la misma todos los dias`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, en Francia. Esto es una oferta de suministro, no
+una solicitud de cotizacion. Si no es usted quien compra el vidrio en placa, le
+agradezco que lo reenvie a quien lo compra.
+
+Les escribo por dos cosas que estan en su propio sitio y que, juntas, me
+parecen poco comunes. La primera es que ustedes templan: dos de las maquinas de
+templado mas grandes de Mexico, con el vidrio pasando directo a corte
+automatico. La segunda es que hacen mas de 2000 puertas al dia.
+
+Esa combinacion describe un comprador muy distinto del habitual en mi oficio.
+Un instalador de fachadas compra por obra, con medidas que cambian cada vez. Una
+linea de 2000 puertas al dia compra en serie, con medidas que se repiten - y lo
+que esa linea necesita de su proveedor no es flexibilidad, es que la chapa sea
+identica la semana que viene. Un contenedor completo es exactamente la unidad de
+esa clase de consumo. Es lo unico que yo vendo.
+
+Dejo claro lo que NO estoy ofreciendo. El templado, el corte y la puerta
+terminada son su trabajo, no el mio, y ahi no tengo nada que venderles. Lo que
+ofrezco es lo que entra antes del horno:
+
+- vidrio float claro y extra-claro, la base
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la linea completa, si resulta mas practico verlo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Pongo el low-E en la lista sin suponer que sea lo que ustedes usan: una puerta
+de refrigeracion es antes que nada un problema termico, asi que me parece el
+candidato obvio, pero quien lo sabe son ustedes y no yo. Digame cual es su
+sustrato y hablamos de ese.
+
+Las paginas estan en ingles: nuestro sitio existe solo en frances y en ingles.
+Si prefiere que le detalle cualquiera de esas referencias en espanol, lo hago
+con gusto.
+
+No le voy a dar cifras en una primera carta y no le voy a decir que nuestro
+vidrio sea mas economico que el que compran hoy. Lo que ofrezco es otra cosa:
+una segunda procedencia, en Europa, calificada antes de que la necesiten.
+
+Despachamos CONTENEDORES COMPLETOS, en huacales de madera tratada conforme a
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se corta
+a pedido, de modo que la medida fija de su linea no es un obstaculo, es
+justamente lo que facilita las cosas. Podemos preparar una oferta para la
+entrega en su puerto de destino, sujeta a validacion por nuestra parte. San Juan
+del Rio no esta en la costa, asi que no voy a adivinar su puerto: digame por
+cual reciben hoy el importado y trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que sustrato y que espesores entran en el
+horno, si llevan capa y cual, las medidas de placa que pide su linea de corte,
+un volumen anual aproximado con la frecuencia de compra, y ese puerto.
+
+Y la parte honesta. Una planta que produce en serie no cambia de proveedor por
+una carta, y no se lo estoy pidiendo - interrumpir una linea de 2000 puertas al
+dia por probar un sustrato nuevo seria el peor consejo que yo podria darles. Les
+estoy pidiendo ser el segundo nombre de la lista, calificado con antelacion,
+para la semana en que el primero se quede corto. Si estan comprometidos con el
+suministro que tienen, diganlo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
