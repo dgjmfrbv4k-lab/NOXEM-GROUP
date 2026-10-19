@@ -17250,3 +17250,96 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 261. Paragon Tempered Glass LLC (Antwerp, Ohio, et Niles, Michigan) — `info@paragontemperedglass.com` — ANGLAIS — premier contact
+
+### PREPARE LE 12h24 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Troisieme fiche du filon SGCC.** **Trois noms grepes dans un appel separe** — Paragon Tempered
+  Glass, Paragon Glass et **Tem-Pace** : les trois **ABSENTS**.
+- **⚠️⚠️ REGLE HEHR APPLIQUEE AVANT D OUVRIR, ET C EST LA PREMIERE FOIS QU ELLE SERT** : j ai grepe
+  **le nom de l ancienne societe rachetee**, pas seulement le nom actuel. L usine de Niles est
+  l ancienne **Tem-Pace LLC**. **C est exactement ce qui aurait evite Midwest Glass Fabricators ce
+  matin**, ouverte sans voir qu elle appartenait a Oldcastle.
+- **TREMPEUR PUR**, meilleure classe du §6. **Deux usines**, Ohio et Michigan. **Un seul compte** au
+  sens du §12 — une societe, un domaine, rien n indiquant deux bureaux d achat.
+- **⚠️ PIEGE DE DOMAINE SEVERE** : `paragon-glass.com` appartient a **Paragon Glass**, societe
+  **differente**, a Brooklyn. Le trempeur de l Ohio est sur `paragontemperedglass.com`. **Un trait
+  d union et un mot separent deux maisons sans rapport** — famille Lahey et Blue Star, **troisieme
+  fois de la journee**.
+- **⚠️ ADRESSE LUE SUR LEUR PAGE DE CONFIDENTIALITE**, en clair et sur leur propre domaine. C est
+  une page inhabituelle pour cela, **mais c est le meme principe que le certificat de performance du
+  §13 : un document OBLIGATOIRE porte l information que la page commerciale omet.** Publiee par eux,
+  jamais deduite.
+- **⚠️ TROIS NUMEROS CIRCULENT** en annuaire. Seul celui qu ils publient est retenu.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️ MARCHE INTERIEUR : le port se demande au lieu de se supposer.**
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul.**
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for Antwerp and Niles - a second origin out of Europe`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If this is not the desk that buys your sheet, please pass it along.
+
+I am writing to you rather than to a glazing contractor because of what a
+tempering business is at your scale: two furnaces in two states, and nothing
+to sell until sheet has gone through one of them. A furnace is the least
+forgiving machine in this trade - it earns only while glass moves through it,
+and it costs the same whether glass is there or not. Sheet by the load is the
+only thing I deal in.
+
+So let me be precise about what I am NOT offering. The tempering itself is
+your work, not mine, and I have nothing to sell you there. What I am offering
+is what sits on the rack in front of the furnace:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass, where the coating allows tempering
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties from 17.3 to 102 percent
+on Malaysia. European glass is named in neither order. That is a customs fact
+and nothing more. I am not quoting you a number in a first letter, and I am
+not claiming our glass is cheap. I am saying the comparison is not what it
+was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size each furnace is set up for is not an obstacle, and the two plants
+do not have to take the same thing. We can put together an offer for delivery
+to your port of destination, subject to validation on our side. Both sites
+are inland, so I will not guess your port - tell me which one your freight
+already uses and I will work to it.
+
+What I need back is small: which thicknesses go through each furnace, whether
+you temper coated stock and which coatings, the sheet sizes your tables want,
+a rough annual volume with how often you buy, and that port.
+
+And the honest part. Two plants running means a supplier who earned the
+place, and I am not asking to replace him. I am asking to be the second name
+on the list, for the week the first one is short - and a cold furnace is the
+most expensive thing in either building. If that is of no interest, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
