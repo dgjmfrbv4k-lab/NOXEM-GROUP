@@ -7856,3 +7856,100 @@ ne rend que les groupes deja connus et acceptes. `verif-argument-float.py` : **0
 **AUCUN ENVOI. File d attente a 25 fiches `A ENVOYER`, 223 fiches `A APPELER`.** Rien ne part
 sans l accord expres de Kevin, consigne du 15/10 — un statut `A ENVOYER` est une file d attente et
 non une autorisation.
+
+
+## BILAN DU 19/10 a 16h32 — JOURNEE OUTRE-MER ET CARAIBE, sur consigne de Kevin
+
+### ACTIVITE
+**Zero envoi. Aucun message n est parti, sur aucune campagne**, la consigne de Kevin du 15/10
+s appliquant message par message et aucun accord n ayant ete demande ni obtenu aujourd hui.
+Tout le travail du jour est de celui qui n envoie rien : recherche, qualification, registre,
+garde-fous, suivi.
+
+**Registre : 1723 fiches.** La journee a travaille **13 territoires** — sept d outre-mer francais
+et six caraibes — plus deux rubriques du portail latino-americain en debut d apres-midi.
+
+| Zone | Fiches | Dont a appeler |
+|---|---|---|
+| Outre-mer francais | **66** | 16 |
+| Caraibe | **120** | 39 |
+
+**698 fiches contactees** au total sur la campagne, **14 dossiers vivants**, **266 fiches en
+A APPELER** dont **toutes** portent un numero.
+
+### LES CINQ CHIFFRES DU §3, DISTINCTS COMME LE MANDAT L IMPOSE
+· **recherches du jour** : une vingtaine d appels, sur 13 territoires
+· **envois confirmes** : **0** — et c est voulu, pas un echec
+· **reponses qualifiees** : **0** aujourd hui
+· **demandes de devis** : **0** nouvelle
+· **commandes** : **0**
+
+### LE RESULTAT PRINCIPAL EST UNE MESURE, PAS UN NOMBRE DE FICHES
+**LA RECHERCHE LARGE EST EPUISEE SUR L OUTRE-MER FRANCAIS.** Sept territoires passes, et sur
+**cinq** d entre eux la majorite des noms rendus etaient deja au registre : Mayotte **3 sur 3**,
+Polynesie **2 sur 2**, Guadeloupe 5 sur 7, La Reunion 5 sur 6, Nouvelle-Caledonie 5 sur 7. Les
+quelques noms neufs sont de la **classe pose**, a zero pour cent sur onze fiches mures.
+**Le changement de source a ete teste comme le §6 l impose, deux fois, les deux negatives** :
+l annuaire de la zone de **Jarry** ne rend que des fiches deja presentes, et l annuaire du batiment
+caledonien **ibat.nc** ne rend que des poseurs — lecon ASCEVI, une source se choisit sur le
+**metier qu elle recense**.
+
+**ET LE FAIT QUI COMMANDE TOUT CE BLOC : LA METHODE DE DEVERROUILLAGE Y REND ZERO, DIX FOIS SUR
+DIX.** Elle rend 38 % dans le monde. **Ces fiches sont telephoniques par nature et non par
+accident**, et `APPELS-OUTRE-MER.md` a ete ecrit pour cela — 21 fiches, triees par classe de metier,
+fuseaux calcules et verifies un par un sur un cas connu, pieges de chaque fiche rappeles ligne par
+ligne, et deux numeros marques **ne pas appeler** parce qu ils sont le compte protege Riou.
+
+**A L INVERSE, LA CARAIBE ANGLOPHONE EST UN GISEMENT OUVERT, ET LA RAISON EST LA SOURCE.**
+`findyello.com` recense **par pays et par rubrique** et **publie l adresse postale et le telephone**
+de chaque entree, la ou les annuaires francais rendent des noms nus. Bahamas **8 noms neufs sur
+10**, Trinite **10 sur 11**, Porto Rico **8 sur 9**.
+
+### OPPORTUNITES — ET CE SONT DES QUALIFICATIONS, PAS DES DECOUVERTES
+Cinq fiches qui dormaient ont change de rang aujourd hui, toutes sur des faits lus sur le domaine
+de la societe ou dans une rubrique nommant le **float** :
+1. **SOMALU** (Papeete, relancee le 12/10) — **elle dit elle-meme importer son verre de France, de
+   Chine et de Belgique.** Deux origines europeennes deja en place : la question n est pas de lui
+   apprendre a importer d Europe, mais d etre une origine de plus. C est le profil Intraco UAE.
+2. **ALUVER Guyane** (a appeler) — vente **a la feuille entiere**, delai de 24 a 48 h, table
+   numerique a **21 m²/h**, et **LACOBEL d AGC** dans la gamme. Un stockiste qui achete chez un
+   producteur float.
+3. **Hepburn s Glass Supplies** (Jamaique) — **grossiste en float clair et teinte**, dit par sa
+   propre page About.
+4. **Glassesco Hardware** (Barbade) — classee **GLASS FLOAT, PLATE, WINDOW AND DOORS**.
+5. **Island Glass** (Bermudes, relancee) — **plus gros fournisseur de l ile**, division contrat
+   mur-rideau.
+
+**ET LE MARCHE LE PLUS SOUS-EXPLOITE DU REGISTRE EST PORTO RICO**, parce qu il est dans le
+**territoire douanier des Etats-Unis** : les ordres du 06/04/2026 y valent — 181,52 % sur l entite
+nationale chinoise — **et l Europe n est visee par aucun**. Trois millions d habitants et **quatre**
+fiches avant aujourd hui.
+
+### PROBLEMES
+· **Un doublon de ma propre main**, VIDPIA en Argentine, cree a 15h27 huit heures apres la meme
+  maison a 09h13. Cas Dialum : la chambre nomme long, le portail nomme court, et aucune des deux
+  fiches n avait de coordonnee donc **les cinq signaux du balayage etaient aveugles**. Resolu, rien
+  n est parti.
+· **Un numero mal attribue**, le numero d une voisine porte sur TreeCon avec une reserve en prose.
+  **C est la faute GlassPanel, et la lecon disait deja qu une reserve ne repare pas un champ faux.**
+  Corrige dans la minute — et la correction a rendu Commercial Glass joignable par telephone, elle
+  qui ne l etait par aucun canal.
+· **Un faux negatif du `grep` sur un ACCENT**, Reunivitre : j allais creer une fiche deja envoyee.
+  **Le code est repare** et 66 raisons sociales du registre etaient exposees.
+· **Quatre fiches ouvertes avec une reserve de film solaire** — Visiocom, Sunless, Performa, et X
+  Press ecartee d emblee. Le climat tropical attire ce metier, et un poseur de films achete du
+  polyester en rouleau.
+· **Haiti rend zero verrier** malgre onze millions d habitants. Verdict consigne.
+
+### SUITE — LES TROIS ACTIONS PRIORITAIRES
+1. **LE CRENEAU D APPELS.** C est le seul canal qui ouvre l outre-mer, la feuille est prete, et
+   **266 fiches du registre entier portent un numero sans avoir jamais ete appelees.** Deux appels
+   tranchent en trente secondes des questions qui bloquent des fiches : l identite **Arch Glass
+   contre Cayman Glass**, dont l une est deja relancee, et l identite **Pooran Glass Suppliers
+   contre Caribbean Glass Specialists**, qui est en negociation.
+2. **PORTO RICO ET LA CARAIBE ANGLOPHONE**, sur `findyello` : il reste Antigua, Sainte-Lucie,
+   Curacao, Aruba, Belize, Grenade, Saint-Vincent, et **la Dominique, Saint-Kitts et les
+   Turks-et-Caicos qui n ont aucune fiche**. Plus **Santiago de los Caballeros**, qui n a pas ete
+   testee et qu il ne faut pas inscrire comme sterile.
+3. **LA FILE D ENVOIS ATTEND TOUJOURS L ACCORD DE KEVIN**, message par message. Elle ne part pas
+   d elle-meme, et aucune fiche creee aujourd hui n a change cela.

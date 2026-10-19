@@ -2892,3 +2892,41 @@ fiches), Bermudes (2), Curacao (2), Aruba (2), Antigua (3), Sainte-Lucie (2), Be
 (1), Saint-Vincent (1) — **et la Dominique, Saint-Kitts et les Turks-et-Caicos, qui n ont AUCUNE
 fiche au registre.** Plus **Haiti**, onze millions d habitants pour cinq fiches, dont le contexte
 est a peser avant d y investir.
+
+
+## HAITI — VERDICT NEGATIF, ET IL FAUT LE CONSIGNER POUR NE PAS LE REFAIRE (19/10 a 16h31)
+
+**ONZE MILLIONS D HABITANTS, CINQ FICHES AU REGISTRE, ET C EST LE PLUS GROS ECART DE LA ZONE — ce
+qui en faisait la cible evidente de la moisson caraibe. Requete faite EN FRANCAIS, langue du pays,
+comme la lecon surinamaise du meme jour l impose.**
+
+**RESULTAT : AUCUN VERRIER, AUCUN MIROITIER, AUCUN NEGOCE DE VERRE PLAT IDENTIFIABLE.** Les dix
+resultats sont des **quincailleries generalistes de materiaux de construction** — Quincaillerie
+Nouvelle, Christ Capable Materiaux, CLYF Quincaillerie, L Union Quincaillerie, Shekinah
+Distribution, El Shaddai, Emmanuel Quincaillerie. **Pas une seule n est qualifiee sur le verre**, et
+les sources sont des pages de reseau social et des annuaires locaux.
+
+**AUCUNE FICHE N A ETE CREEE, ET C EST UN CHOIX QUI SUIT DEUX REGLES ETABLIES.** Un, le tri metier du
+§6 : une quincaillerie generaliste est la classe la moins productive, et la **lecon Gomez Lotero** du
+15/10 dit precisement ce qu elle coute — le bazar de Bello publiait bel et bien des feuilles de
+verre-miroir de 2 a 8 mm, **au milieu d articles religieux et de decorations de Noel**. Deux, la
+distinction du 19/10 : **un nom RETENU se cree dans le meme lot, un nom ECARTE d emblee se consigne
+ici.** Aucun de ces dix n est retenu, donc les dix sont consignes ici, nommement, pour ne pas etre
+recherches une seconde fois.
+
+**ET IL FAUT DIRE CE QUI N EST PAS ETABLI, parce que la nuance compte : ce verdict porte sur ce que
+le WEB rend, pas sur le marche.** Un pays de onze millions d habitants consomme du verre plat, et il
+l importe entierement. **La filiere existe, elle n a simplement aucune presence en ligne** — ce qui
+est coherent avec un pays ou la couverture internet des entreprises est faible et ou le registre du
+commerce n est pas numerise.
+**LES TROIS SOURCES QU IL FAUDRAIT, ET AUCUNE N EST ATTEIGNABLE D ICI :** le **Moniteur**, journal
+officiel haitien, la **Chambre de commerce et d industrie de Port-au-Prince**, et les listes de
+fournisseurs des bailleurs de la reconstruction. **A verser au point d acces de
+`DECISIONS-AARON.md`**, avec le DOF mexicain et EDIS de l USITC.
+
+**⚠ ET UNE RESERVE DE FOND QUI PESE AVANT TOUT EFFORT COMMERCIAL, a dire franchement : le contexte
+securitaire de Port-au-Prince rend l acheminement portuaire et le recouvrement incertains.** Ce
+n est pas une raison d ecarter le pays — le §0 dit qu une difficulte ponctuelle n arrete pas la
+campagne — mais c est un element a verser a une decision d Aaron au titre du **§11**, puisque
+toute condition de paiement releve de lui. **Ne pas y investir d appels de recherche avant cet
+arbitrage.**
