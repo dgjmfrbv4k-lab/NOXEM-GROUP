@@ -334,6 +334,22 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   prénom-point-nom sur le domaine de la société. Une adresse déduite d'un schéma est une adresse
   inventée, quel que soit le sérieux apparent de l'outil qui la propose — c'est le même piège que
   `prospeo.io` sur Lahey Glass le 13/10, et c'est la deuxième fois en deux jours.
+  **TROIS DE PLUS LE 19/10 À 14h47, SUR UNE RECHERCHE COLOMBIENNE : `informacolombia.com`,
+  `empresite.eleconomistaamerica.co` et `datacreditoempresas.com.co`**, qui vendent des **profils
+  d'entreprise avec NIT et téléphone**. C'est la nature exacte de `dnb.com`, interdit depuis le
+  11/10, et **les deux premiers sont du groupe Informa D&B**, c'est-à-dire littéralement le même
+  vendeur sous un autre domaine. Même interdit, et à mettre dans `blocked_domains` d'emblée sur toute
+  recherche colombienne — ils occupaient **cinq des dix premiers résultats** sur le nom cherché.
+  **Rien ne leur a été pris**, l'adresse de la fiche venant de la page de contact de la société.
+  **ET CE CAS DONNE LA MEILLEURE DÉMONSTRATION DE LA RÈGLE RENCONTRÉE JUSQU'ICI, parce qu'elle est
+  vérifiable sur place : LEURS DONNÉES ÉTAIENT FAUSSES.** Sur *Laminados y Blindados*, l'un donnait
+  un `+57 15480204` et l'autre un numéro tronqué, quand la maison publie elle-même
+  `(601) 223 9644` sur son propre site. **Jusqu'ici la règle se défendait sur son principe — ne pas
+  reprendre une qualification vendue — et coûtait des fiches : Sealvid, Bronco, les cinq de Porto
+  Alegre. Ici elle ne coûte rien et elle protège d'une erreur matérielle.** Un courtier qui vend un
+  numéro ne le vérifie pas, et une adresse ou un téléphone faux dans une fiche vaut moins qu'un
+  champ vide — c'est la leçon Willem Heunis du §5 par un autre chemin : le registre doit porter ce
+  que la société publie, jamais ce qu'un tiers en dit.
   **UN DE PLUS LE 19/10 À 12h22, SUR UNE RECHERCHE CANADIENNE : `crunchbase.com`**, qui vend des
   profils de sociétés avec leurs coordonnées — *Contact Email* est un champ de sa fiche. **C'est
   mot pour mot la nature de `dnb.com` et d'`emis.com`**, donc même interdit, et à mettre dans
@@ -999,6 +1015,27 @@ lui attribue une table de droits d'importation la cite en réalité comme la par
    est ambigu : il faut alors lire trois noms de membres avant de dépenser le reste.
    **C'est exactement le tri métier du §6 appliqué un cran plus haut — à la fédération plutôt qu'à la
    société — et il économise vingt-huit vérifications pour une lecture de titre.**
+   **⚠️⚠️ ET LA REGLE QUI COIFFE TOUT CELA, DEGAGEE LE 19/10 APRES TROIS CAS DANS LA MEME JOURNEE —
+   UNE SOURCE NE SE MESURE PAS, CE SONT SES **PAGES** QUI SE MESURENT, UNE PAR UNE.** C'est la forme
+   generale de ce que les treize regionales du 15/10 et les deux federations americaines disaient
+   deja par un bout : on ne juge pas un annuaire, on juge la rubrique qu'on lit.
+   · **ABRAVIDRO, deux tranches, rendements opposes.** La liste des **associes**, paginee par lettre,
+     n'est PAS moissonnee — Pestana Vidros et Sao Cristovao Temper en sont sorties le 19/10 alors que
+     le §6 la donnait pour prise, parce que la passe du 16/10 avait lu **une tranche de l'alphabet**
+     et non la liste. Les deux listes de **certifies**, elles, sont prises a **15 sur 16**. Meme
+     federation, meme jour, et il fallait les mesurer separement.
+   · **`vidrioperfil.com`, deux rubriques.** Le §6 mesure ses rubriques de **negoce** a un confirme
+     pour quatre dementis et un inverifiable. Sa rubrique des **fabricants** est une tranche
+     differente et elle n'a jamais ete lue. Le chiffre de 1 sur 6 ne dit donc **rien** d'elle.
+   · **Et le meme principe vaut pour une VILLE, par l'autre bout :** sur l'agglomeration de Medellin,
+     trois angles — la ville, la commune peripherique, la zone industrielle — ont rendu **le meme
+     ensemble de noms**. C'est a ce moment-la, et pas avant, qu'un marche se declare fait.
+   **CONSEQUENCE PRATIQUE, ET ELLE COUPE DANS LES DEUX SENS :** un verdict de saturation ne se garde
+   que pour la **page** sur laquelle il a ete mesure, donc un « deja pris » n'interdit pas de lire une
+   autre rubrique de la meme source. Et inversement un bon rendement sur une rubrique ne promet rien
+   sur la rubrique voisine. **Avant de declarer une source epuisee, lister ses pages et dire laquelle
+   a ete lue** — cela coute zero appel et c'est ce qui a rendu huit fiches le 19/10 sur une
+   federation que le mandat declarait moissonnee.
    **⚠️ Et le cas Sincavesp ajoute la nuance inverse, qui est agaçante : la mieux ciblée des treize —
    *Sindicato do Comércio Atacadista* — est précisément celle qui NE PUBLIE PAS ses associés.** Il faudrait les
    lui demander. **Donc on choisit sur le métier, et on paie l'appel seulement si la page membre existe :

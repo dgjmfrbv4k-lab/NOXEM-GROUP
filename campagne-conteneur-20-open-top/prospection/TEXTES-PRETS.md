@@ -19696,3 +19696,104 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+## 286. Laminados y Blindados S.A.S. (Bogota) — `info@laminadosyblindados.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 14h43 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Trouvee par la rubrique FABRICANTS de `vidrioperfil.com`, tranche jamais lue** — huit noms
+  colombiens absents du registre sur cette seule page. Grep passe dans **deux appels separes** de
+  l ecriture : **absente aux deux**.
+- **VERRIER PUR**, meilleure classe du §6. Maison de **1994**, feuillete, blinde, verre de couleur.
+- **⚠️⚠️ L ANGLE EST LE MOT `MAQUILA`, ET C EST LE MEILLEUR QUE LA CAMPAGNE AIT TROUVE SUR CE METIER.**
+  Faire du faconnage a facon veut dire faire tourner sa ligne **pour des tiers**, donc le taux
+  d occupation **est** le modele economique — pas une consequence de la demande, mais son objet.
+  **Une ligne qui tourne pour autrui consomme de la feuille en continu, et une rupture d entrant ne
+  coute pas une vente, elle coute le contrat de faconnage d un client.** C est l argument de la
+  seconde origine dans sa forme la plus forte, et il est **tire de leur propre page de services**.
+- **Ils annoncent aussi leur propre transport**, ce qui confirme qu ils tiennent du stock.
+- **⚠️ A NE PAS CONFONDRE AVEC `Vidrios y Laminados`**, autre nom de la meme rubrique, **dont le lien
+  avec celle-ci n est PAS etabli**. Les deux partagent le mot `laminados` et le §12 veut qu on tranche
+  sur le siege et le NIT. **Aucune fiche ouverte sur l autre tant que ce n est pas leve** — et c est
+  pour cela que ce texte ne cite ni chiffre de surface ni rang national.
+- **⚠️ TROIS COURTIERS COLOMBIENS DANS LE MEME RELEVE ET RIEN NE LEUR A ETE PRIS** — et leurs numeros
+  ne concordaient pas avec celui que la maison publie, ce qui est la meilleure demonstration de la
+  regle du §5 rencontree jusqu ici.
+- **⚠️⚠️ DEUX ARGUMENTS DU §6 INTERDITS ET ABSENTS DU TEXTE.** Un, **l angle douanier colombien porte
+  sur le MIROIR et sur lui seul** — Resolution 284 — **et ils n en font pas**, donc aucune mention de
+  droits, d aranceles ni de mesure. Deux, **JAMAIS l absence de production locale en Colombie**,
+  Vidrio Andino produisant a Soacha. `verif-argument-float.py` a **0 fiche a corriger**.
+- **⚠️ BOGOTA EST A 1000 KM DE LA COTE ET A 2600 M D ALTITUDE** : le port se **demande**, et le texte
+  le dit sans en faire une objection.
+- **REGLE PRODIESA** : feuillete, blinde et couleur **sortent** de l offre, seul le substrat entre.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie en Colombie, **Ley Emiliani verifiee** — le 19/10 est un lundi ordinaire.
+
+**Objet :** `Para una linea que trabaja por maquila, la lamina no puede faltar`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, en Francia. Esto es una oferta de suministro, no
+una solicitud de cotizacion. Si no es usted quien compra la lamina, le
+agradezco que lo reenvie a quien la compra.
+
+Les escribo por una palabra que esta en su pagina de servicios: maquila.
+Procesar por cuenta de terceros cambia por completo lo que un faltante
+significa. Cuando una planta trabaja solo para si misma, quedarse sin lamina
+cuesta una venta. Cuando trabaja por maquila, cuesta el compromiso que tiene
+con el cliente que le confio el trabajo - y eso no se recupera la semana
+siguiente. De ahi esta carta, y no de un catalogo.
+
+Lo que yo vendo es una sola cosa: lamina en contenedor completo.
+
+Dejo claro lo que NO estoy ofreciendo. El laminado, el blindado y el
+beneficiado son su trabajo, no el mio, y ahi no tengo nada que venderles. Lo
+que ofrezco es lo que entra antes de la linea:
+
+- vidrio float claro y extra-claro, la base del laminado
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la linea completa, si resulta mas practico verlo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe solo en frances y en ingles.
+Si prefiere que le detalle cualquiera de esas referencias en espanol, lo hago
+con gusto.
+
+No le voy a dar cifras en una primera carta y no le voy a decir que nuestro
+vidrio sea mas economico que el que usted compra hoy. Lo que ofrezco es otra
+cosa: una segunda procedencia, en Europa, calificada antes de que la necesite.
+
+Despachamos CONTENEDORES COMPLETOS, en huacales de madera tratada conforme a
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se
+corta a pedido, de modo que la medida a la que estan ajustadas sus mesas no es
+un obstaculo. Podemos preparar una oferta para la entrega en su puerto de
+destino, sujeta a validacion por nuestra parte. Bogota no esta en la costa, asi
+que no voy a adivinar su puerto ni voy a fingir que el flete interno no existe:
+digame por cual recibe hoy el importado y trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores entran en su linea de
+laminado, si trabajan vidrio con capa y cuales, las medidas de lamina que piden
+sus mesas, un volumen anual aproximado con la frecuencia de compra, y ese
+puerto.
+
+Y la parte honesta. Una planta de 1994 que procesa para terceros tiene un
+proveedor que se gano el puesto, y no le estoy pidiendo que lo cambie. Le estoy
+pidiendo ser el segundo nombre de la lista, calificado con antelacion, para el
+mes en que el primero se quede corto. Si estan comprometidos con el suministro
+que tienen, digalo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

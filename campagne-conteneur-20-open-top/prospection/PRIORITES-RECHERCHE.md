@@ -2454,6 +2454,16 @@ requetes differentes — la ville, la commune peripherique, la zone industrielle
 meme ensemble de noms**. C est le critere de saturation du §6 pris au serieux : on ne declare un
 marche fait qu apres avoir change d angle, et ici les trois angles donnent la meme liste.
 **Ne plus depenser d appel de decouverte sur l agglomeration de Medellin.**
+**⚠️⚠️ ET CETTE CONCLUSION EST DEMENTIE DANS L HEURE, PAR UNE QUATRIEME SOURCE — voir la mesure de la
+rubrique FABRICANTS ci-dessous.** `Cristalservice`, trempeur a **Medellin**, quartier Floresta, four
+horizontal oscillant de **2395 x 3595 mm** en 4 a 12 mm, **etait absente du registre**, et aucune des
+trois requetes ci-dessus ne l avait rendue.
+**LA CONCLUSION JUSTE EST PLUS ETROITE : l agglomeration de Medellin est faite PAR MOTEUR DE
+RECHERCHE, et pas par rubrique de portail.** Les trois angles qui convergeaient etaient trois
+formulations **du meme moteur** — ce n etait donc PAS un changement de SOURCE au sens du §6, et je
+l avais compte comme tel. **C est la regle portee au §6 ce jour meme, appliquee a une ville au lieu
+d une federation : un verdict de saturation ne se garde que pour l angle sur lequel il a ete
+mesure.** La phrase fausse reste ecrite avec son dementi en face, plutot que reecrite en silence.
 
 **⚠️⚠️ ET LA REQUETE A FAILLI COUTER UN DOUBLON SUR UNE COLLISION DE NOM : `VITELSA` N EST PAS
 `VITELCO`.** Le releve a rendu *VITELSA — Vidrios de Seguridad, 25 ans d experience*, sur
@@ -2478,3 +2488,58 @@ cette page-la est la rubrique des **FABRICANTS**, qui est une tranche differente
 mesurent, ce sont leurs PAGES.** Une rubrique de fabricants vise la meilleure classe du §6 la ou une
 rubrique de negoce melangeait facadiers et poseurs de films. **A tester, en appliquant le second
 temps a chaque nom comme la lecon Imporex l impose.**
+
+
+## ⚠️⚠️ RUBRIQUE FABRICANTS DE `vidrioperfil.com` — LUE LE 19/10 A 14h42, ET ELLE VALIDE LA REGLE DES
+## PAGES LE JOUR MEME OU ELLE EST ECRITE : HUIT NOMS COLOMBIENS ABSENTS
+
+**Le §6 mesure les rubriques de NEGOCE de ce portail a un confirme pour quatre dementis et un
+inverifiable** — chiffre du 14/10 au soir, et il est juste. **La rubrique des FABRICANTS est une
+tranche differente, et elle n avait jamais ete lue.** Resultat : **huit noms absents du registre**,
+dont deux gros, et **zero concurrent entre au registre par megarde** — controle fait.
+
+### LE CONTROLE DES CONCURRENTS D ABORD, parce que la rubrique en contenait trois
+· **Vidrio Andino** — producteur float de Soacha, **concurrent par nature** au §6. **Absent du
+  registre : correct.**
+· **Vitro Colombia S.A.S. (Vitemco), Grupo Vitro** — **`vitro` est sur la liste des fragments de
+  marque du §6** et Vitro est un producteur float mondial. **Filiale, donc concurrente par nature**
+  au titre Saint-Gobain Egypt. **Absente du registre : correct.** ⚠️ Les onze fiches que le token
+  `vitro` fait remonter sont toutes des maisons sans rapport dans d autres pays — `Vitrosak`,
+  `Vitromas`, `Art Vitro` — ce qui est le piege *zoujaj* : **`vitro` est la racine espagnole du mot
+  verre**, et le §6 le sait deja puisqu il range ce token parmi les contamines.
+· **Guardian** — seulement des centres de distribution a Carthagene selon le portail. Concurrent.
+· **Tecnoglass** — **absente, et elle le reste.** Le §6 impose de lever son lien au capital de Vidrio
+  Andino avant d ouvrir la fiche. Le lien est **etabli** (communique Saint-Gobain), mais c est une
+  participation **minoritaire DE Tecnoglass DANS** le producteur, donc l inverse d une filiale : au
+  precedent Flachglas Wernberg c est un **prospect** et non un concurrent, mais **son fournisseur de
+  feuille est vraisemblablement son propre participe**, donc porte de sortie du §9 obligatoire et
+  probabilite faible. **A trancher avant d ecrire, pas maintenant.**
+· **Mappi, Glass Tools de Colombia, Maquinaria Bandi** — machines. **Hors gamme.**
+
+### DEUX FICHES CREEES
+· **Laminados y Blindados S.A.S.** (Bogota, Calle 69A 72-50) — maison de **1994**, donnee pour l un
+  des plus gros faconneurs nationaux. **Et le mot qui qualifie vraiment est `maquila`** : qui faconne
+  a facon fait tourner sa ligne pour des tiers, donc son taux d occupation est son modele — une ligne
+  de feuilletage qui tourne pour autrui consomme de la feuille en continu. `A ENVOYER`.
+· **Cristalservice** (Medellin, Floresta) — **four horizontal oscillant de 2395 x 3595 mm, 4 a
+  12 mm**, trempe courbe. **`A APPELER` et c est un verdict** : leur site publie une adresse mais
+  **obfusquee**, et le §5 interdit de la deviner. 2395 tient largement dans le ruban de 3210, donc
+  aucune objection de format ne tient.
+
+### SIX NOMS RESTANT A TRAVAILLER, dans cet ordre
+1. **Vidrios y Laminados** — plus de **10 000 m²** annonces, blinde, trempe, feuillete. ⚠️ **Son lien
+   avec `Laminados y Blindados` n est PAS etabli** et les deux noms partagent un mot : **le §12
+   impose de trancher sur le siege et le NIT**, jamais sur le nom. **A lever avant d ouvrir.**
+2. **Vidrios Arango**, **Seblico**, **Vitocsa**, **Tempse**, **Accymox** — noms sans metier etabli,
+   un second temps chacun.
+**Et quatre noms voisins du meme releve, grepes : `Cristal Group Bogota` est deja en
+`RELANCE 2026-10-12`, `Cristalinox SAS` et `Cristalvit Ltda` sont absentes et non qualifiees,
+`cristalglass.co` est une maison colombienne a ne pas confondre avec `Cristal Glass Parana` du Bresil,
+qui est en `NE PAS DEMARCHER`.**
+
+### ⚠️ TROIS COURTIERS DE DONNEES COLOMBIENS A METTRE DANS `blocked_domains`
+`informacolombia.com`, `empresite.eleconomistaamerica.co` et `datacreditoempresas.com.co` vendent des
+**profils d entreprise avec NIT et telephone**. C est la nature exacte de `dnb.com`, interdit depuis
+le 11/10, et les deux premiers sont du groupe **Informa D&B**. **Rien ne leur a ete pris.** Et ils
+illustrent pourquoi la regle existe : **leurs numeros ne concordent pas avec ceux du site** — un
+`+57 15480204` et un numero incomplet contre le `(601) 223 9644` que la maison publie elle-meme.
