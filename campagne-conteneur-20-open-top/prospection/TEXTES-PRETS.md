@@ -15277,3 +15277,77 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 240. Decorama Glas & Graveerservice (Malden, Pays-Bas) — `info@decorama.nl` — NEERLANDAIS — REPONSE DICTEE PAR KEVIN — ⚠️ CAMPAGNE DESTOCKAGE, PAS CELLE-CI
+
+### DOSSIER OUVERT — exemption de porte de sortie
+
+### PREPARE LE 10h27 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **⚠️ CE FIL N APPARTIENT PAS A CETTE CAMPAGNE.** C est le **destockage** — lot de 8230 m² au depot
+  de Mollem Z5 a Asse, livrable en camion inloader. Le texte est consigne ici parce que c est ici que
+  Kevin l a demande, et **aucune fiche n est creee au registre conteneur**.
+- **⚠️ ORTHOGRAPHE DU DOMAINE RELUE CARACTERE PAR CARACTERE** : Kevin a ecrit `decorma.nl`, le fil
+  porte **`decorama.nl`**, avec un **a**. C est la famille du caractere unique du §13, et c est la
+  regle du 08/10 sur Willem Heunis : **l adresse se lit dans la SOURCE, jamais de memoire, meme
+  quand c est Kevin qui la dicte.** Adresse verifiee dans le fil `in:sent` et dans sa reponse.
+- **ORDRE DE KEVIN DU 19/10, cite :** *« rappelle-lui le lot … on veut tout liquider la, on est en
+  train de tout liquider sur le lot car on change d entrepot donc c est 8000 m² environ … dis-lui
+  qu est-ce que vous voulez prendre dessus … ensuite que vous livrer par Contenair est-ce que ca
+  pourrait etre avantageux pour vous dans les formats 2550 x 1605, on peut vous livrer a votre port
+  en conteneur aussi cette solution-la sur commande. Qu est-ce que vous voulez faire en gros »*
+- **⚠️⚠️ REGLE DU §5 TENUE A LA LETTRE — UN ORDRE DE REPONDRE AUTORISE CE QUI EST DICTE, ET RIEN DE
+  PLUS. Trois choses ont ete DELIBEREMENT laissees hors du texte**, et elles sont remontees a Kevin
+  et non a la cliente, ce qui est exactement la lecon STADIP du 12/10 :
+  1. **AUCUN PRIX**, alors que c est sa seule question concrete — elle demande le tarif du miroir
+     4 mm, du float 4 mm, 6 mm et 8 mm. Kevin n en a dicte aucun, et le §5 interdit un prix non
+     valide. **Le texte ne repond donc pas a sa question, et c est voulu.**
+  2. **AUCUNE RESERVE SUR LE FLOAT 4 MM.** Le lot porte du float **Low-E** 4 mm, pas de float clair
+     4 mm. C est un point a lever au depot — **pas a lui apprendre dans un message**, ce serait
+     fabriquer un doute qu elle n a pas.
+  3. **AUCUNE EXPLICATION DU FORMAT.** Que 2550 x 1605 soit exactement un jumbo coupe en deux est
+     vrai et interessant pour nous ; ce n est pas dicte, donc cela n y figure pas.
+- **FORMULE IMPOSEE DU §5 PRESENTE** sur l option conteneur : *onder voorbehoud van validatie van
+  onze kant*. **Signature du §10 une seule fois**, en fin de corps. Aucun numero mort.
+- **Chiffres repris de notre propre message du 16/10**, references une par une, aucun arrondi invente.
+
+**Objet :** `RE: Voorraad vlakglas te koop - NOXEM GROUP`
+
+```
+Goedemorgen Arjan,
+
+Dank voor uw snelle antwoord.
+
+Even ter herinnering waar het om gaat: wij wisselen van magazijn en ruimen
+daarom de VOLLEDIGE voorraad op. Alles moet weg. Het gaat om ongeveer
+8230 m², verdeeld over zes referenties:
+
+- Float Low-E 4 mm - 2357 m²
+- Zilveren spiegel 4 mm - 2374 m²
+- Float 6 mm - 1555 m²
+- Float 8 mm - 573 m²
+- Float 10 mm - 450 m²
+- Gelaagd glas 55.2 / 10.8 mm - 921 m²
+
+Zegt u mij dus gewoon: wat zou u hieruit willen afnemen?
+
+En daarnaast is er nog een tweede mogelijkheid, waarvan ik niet weet of die
+voor u interessanter uitpakt. Wij leveren namelijk ook per CONTAINER, in
+precies het formaat 2550 x 1605 dat u noemt. Zou dat voor u voordeliger zijn?
+In dat geval kunnen wij een volledige container tot uw haven leveren, op
+bestelling, onder voorbehoud van validatie van onze kant.
+
+Laat mij weten wat u wilt doen.
+
+Met vriendelijke groet,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

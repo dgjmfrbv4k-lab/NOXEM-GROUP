@@ -313,7 +313,23 @@ for num, titre, corps_section in sections:
             pb.append('NUMERO MORT +33 7 69 72 58 92')
         if not any(s in plat for s in SORTIE) and not REPONSE_OUVERTE.search(corps_section):
             pb.append('pas de porte de sortie')
-        if num >= DEPUIS_LIEN and PRODUIT.search(t) and LIEN not in t:
+        # ⚠️ LA MEME EXEMPTION PORTE SUR LE CONTROLE DES LIENS, ETENDUE LE 19/10 A 10h29,
+        # ET C EST LE MEME FAUX POSITIF DE PORTEE PRIS PAR UN SECOND BOUT.
+        # Le controle des liens a ete ecrit le 14/10 pour les PREMIERS CONTACTS : il part de
+        # l idee qu un destinataire qui ne nous connait pas n a aucun moyen d aller voir, et
+        # c est juste. Son declencheur est deja la LISTE DE REFERENCES et non le numero du
+        # texte, ce qui le rend muet sur les relances PAR CONSTRUCTION, une relance ne
+        # repetant pas le premier message. UN TEXTE DE REPONSE DANS UN FIL VIVANT EST DANS
+        # EXACTEMENT LA MEME POSITION, ET PLUS ENCORE : le premier message est parti avec ses
+        # liens, le client a repondu dessus, et les relier serait du bruit.
+        # CAS QUI L A REVELE, texte 240 : Kevin dicte le rappel d un LOT DE STOCK PHYSIQUE —
+        # six references avec leurs metrages reels en depot. Ce ne sont pas des pages de
+        # catalogue, et y accrocher les liens produit du §8 serait doublement faux : faux sur
+        # le fond, puisqu une page de gamme ne decrit pas un lot d entrepot, et faux sur la
+        # regle, puisque le §5 interdit d AJOUTER quoi que ce soit a ce qui est dicte.
+        # CE QUE L EXEMPTION NE LEVE TOUJOURS PAS : tous les autres controles tiennent.
+        if (num >= DEPUIS_LIEN and PRODUIT.search(t) and LIEN not in t
+                and not REPONSE_OUVERTE.search(corps_section)):
             pb.append('REFERENCES NOMMEES SANS LIEN DE PAGE — §9 point 3 et §8')
         if pb:
             defauts += 1
