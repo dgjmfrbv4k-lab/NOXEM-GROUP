@@ -18978,3 +18978,392 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 279. Smart Vidros - Mundim Vidros Eirelli (Belo Horizonte, Minas Gerais) — `smartvidrosbh@smartvidrosbh.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h19 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Grep passe dans un appel SEPARE de l ecriture**, sur la marque **et** sur la raison sociale
+  reelle : `smartvidros` **absent**, `mundim` **absent**. Le douzieme cas du §5, applique.
+- **TREMPEUR**, meilleure classe du §6 a 12,8 pour cent.
+- **⚠️ L ANGLE EST LEUR COTE DE FOUR, ET C EST EUX QUI LA PUBLIENT : 4200 x 2400 mm.** C est le seul
+  chiffre du message, et il est **a eux**, pas a nous — donc il ne tombe pas sous l interdit du §5,
+  qui vise nos prix, delais et certificats. **Et il repond d avance a l objection de format du §4** :
+  2400 tient largement dans le ruban de 3210, et la longueur se coupe a la demande.
+- **Flotte de livraison propre couvrant la majeure partie de l Etat** : ils **stockent**, donc le
+  conteneur est leur unite naturelle au sens du §4.
+- **⚠️ RESERVE DE SOURCE PORTEE DANS LE TEXTE LUI-MEME** : leurs pages sont indexees a environ trois
+  ans et demi, donc la cote de four est donnee **comme je l ai lue** et je leur demande de la
+  confirmer. C est plus honnete que de l affirmer, et cela fait une question de plus a laquelle il
+  est facile de repondre.
+- **REGLE PRODIESA** : la trempe **sort** de l offre, seul le substrat entre.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE** — float clair 1,8 a 20 mm, Malaisie Pakistan
+  Turquie, **ni miroir ni fume** — et **jamais** l absence de production locale au Bresil.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Chapa para um forno de 4200 x 2400 - uma segunda origem`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe.
+
+Escrevo para voces por causa de um numero que esta no site de voces: o forno
+de tempera de 4200 x 2400 mm. Um forno dessa largura nao e um forno de
+vidracaria, e um forno que precisa de chapa entrando para girar - e chapa em
+contentor completo e a unica coisa que eu vendo. Vi tambem a frota propria
+cobrindo boa parte de Minas, o que me diz que voces guardam estoque, e nao
+compram peca por obra.
+
+Se eu li essa medida numa pagina antiga, corrija-me: e exatamente o tipo de
+dado que muda a conversa.
+
+Deixo claro o que NAO estou oferecendo. A tempera e o beneficiamento sao o
+trabalho de voces, nao o meu. O que ofereco e o que entra antes do forno:
+
+- vidro float claro e extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E, se o temperam
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e com a medida exata: desde a Gecex 833 o float incolor de
+1,8 a 20 mm originario da Malasia, do Paquistao e da Turquia paga direito
+antidumping no Brasil, e a Europa nao esta nessa medida. Isso vale para essa
+faixa de float incolor, e nao vale para espelho nem para vidro fume. Nao estou
+lhe dando numeros numa primeira carta e nao estou dizendo que nosso vidro e
+barato. Estou dizendo que a comparacao mudou.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm. E aqui vale
+dizer com clareza, porque e a objecao que eu ouco mais: 2400 mm cabe folgado
+na nossa largura, e o comprimento e cortado sob encomenda. A medida para a
+qual as suas mesas estao ajustadas nao e obstaculo nenhum. Podemos preparar
+uma oferta para a entrega no seu porto de destino, sujeita a validacao do
+nosso lado.
+
+O que preciso de volta e pouco: quais espessuras passam pelo forno, se
+temperam vidro com capa e quais, as medidas de chapa que o forno pede, um
+volume anual aproximado com a frequencia de compra, e por qual porto voces
+costumam receber importado.
+
+E a parte honesta. Trinta anos de mercado querem dizer um fornecedor que
+ganhou o lugar, e nao estou pedindo para substitui-lo. Estou pedindo para ser
+o segundo nome da lista, para a semana em que o primeiro ficar curto - um
+forno parado e a coisa mais cara do galpao. Se isso nao interessa, diga com
+franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+## 280. Vidrominas (Alfenas, Minas Gerais) — `vidrominas@vidrominas.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h19 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Grep passe dans un appel SEPARE de l ecriture** : **absent**.
+- **A CHEVAL SUR LES DEUX MEILLEURES CLASSES DU §6** : ils **fabriquent** du trempe, du feuillete et
+  du controle solaire, **et** ils animent un reseau de **vidraceiros credenciados** avec une promesse
+  de livraison rapide dans la region. Donc verrier pur **et** negoce, 12,8 et 10 pour cent.
+- **⚠️ L ANGLE EST LE RESEAU DE CREDENCIADOS, ET C EST EUX QUI L ANNONCENT** : qui promet une
+  livraison rapide a un reseau ne peut pas se permettre une rupture. **C est l argument de la seconde
+  origine dit par leur propre promesse commerciale**, et non par nous.
+- **⚠️ RESERVE SUR L ADRESSE, LEVEE ET NOTEE** : elle est relevee sur leur page **Trabalhe conosco**.
+  Ce n est **pas** le piege Lahey ni Le Batiment Guyanais : la partie locale est **le nom de la
+  maison**, pas un libelle de recrutement, et ce n est pas une personne nommee. C est la boite
+  generale. **Elle n est ni cote acheteur ni cote client au sens du tableau du §13**, donc le premier
+  paragraphe demande la transmission, ce que le §9 impose deja.
+- **⚠️ RESERVE DE MARCHE PORTEE DANS LE TEXTE** : Alfenas est dans le sud de Minas, **a l interieur**.
+  Je ne devine donc pas leur port et je le leur demande — meme conduite que pour Betim.
+- **REGLE PRODIESA** : trempe, feuillete et controle solaire **sortent** de l offre, seul le substrat
+  entre.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE**, et **jamais** l absence de production locale.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Para quem promete entrega rapida aos credenciados - uma segunda origem`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe.
+
+Escrevo para voces e nao para uma vidracaria por causa de uma promessa que
+esta no site de voces: entrega rapida aos vidraceiros credenciados da regiao.
+Quem promete isso nao pode ter falta - e falta, numa casa que tempera e lamina
+em Alfenas, comeca sempre no mesmo lugar: na chapa que entra. Chapa em
+contentor completo e a unica coisa que eu vendo.
+
+Deixo claro o que NAO estou oferecendo. Tempera, laminacao e controle solar
+sao o trabalho de voces, nao o meu, e ali nao tenho nada a vender. O que
+ofereco e o que entra antes:
+
+- vidro float claro e extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E, se o temperam ou laminam
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e com a medida exata: desde a Gecex 833 o float incolor de
+1,8 a 20 mm originario da Malasia, do Paquistao e da Turquia paga direito
+antidumping no Brasil, e a Europa nao esta nessa medida. Isso vale para essa
+faixa de float incolor, e nao vale para espelho nem para vidro fume. Nao estou
+lhe dando numeros numa primeira carta e nao estou dizendo que nosso vidro e
+barato. Estou dizendo que a comparacao mudou.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda, de modo que a medida de estoque das suas
+mesas nao e obstaculo. Podemos preparar uma oferta para a entrega no seu porto
+de destino, sujeita a validacao do nosso lado. Alfenas fica no interior, entao
+nao vou adivinhar o seu porto: diga qual o seu frete ja usa e eu trabalho
+sobre esse.
+
+O que preciso de volta e pouco: quais espessuras entram no forno e na
+laminadora, se trabalham vidro com capa e quais, as medidas de chapa que as
+suas mesas pedem, um volume anual aproximado com a frequencia de compra, e
+esse porto.
+
+E a parte honesta. Uma casa que abastece uma rede de credenciados tem um
+fornecedor que ganhou o lugar, e nao estou pedindo para substitui-lo. Estou
+pedindo para ser o segundo nome da lista, para a semana em que o primeiro
+ficar curto. Se isso nao interessa, diga com franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+## 281. Fantástico Vidros (Contagem, Minas Gerais) — `comercial@fantasticovidros.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h20 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Grep passe dans un appel SEPARE de l ecriture** : **absent**.
+- **TREMPEUR**, meilleure classe du §6 a 12,8 pour cent.
+- **⚠️ L ANGLE EST LEURS EPAISSEURS, LUES DU BON COTE DE L ATELIER** : ils annoncent **6, 8 et
+  10 mm** avec des **usages** a cote, donc ce sont les epaisseurs qu ils **trempent** et non celles
+  qu ils stockent — la regle reecrite le 15/10 apres Olglass. **Et la fiche ne se ferme pas pour
+  autant : un trempeur qui travaille du 6 au 10 ACHETE du 6 au 10**, et c est l argument de fond de
+  la campagne. Le texte le dit dans ces termes, en leur rendant leur propre chiffre.
+- **⚠️⚠️ LE MIROIR EST ABSENT DU MESSAGE, ET C EST DELIBERE.** Leur gamme annonce des **espelhos** et
+  **rien ne dit s ils argentent ou s ils revendent**. **Je ne le suppose pas** : la regle Prodiesa
+  veut que ce qu une maison FABRIQUE sorte de l offre, et proposer du miroir a un argenteur est
+  exactement la faute commise sur Prodiesa le 12/10. **Le miroir attend que la question soit
+  tranchee**, par l echange ou par un appel.
+- **⚠️ LA VILLE EST CONTAGEM ET LEUR SITE SE DIT DE BELO HORIZONTE** — meme agglomeration, donc
+  siege contre site d exploitation, et **le message ne nomme ni l une ni l autre** pour ne pas se
+  tromper sur un point qui ne sert a rien.
+- **⚠️ `comercial@` EST UNE BOITE DU COTE CLIENT** au sens du tableau du §13, et c est la **seule**
+  publiee : on l emploie faute de mieux, precedent El Mayorista, et la premiere ligne demande la
+  transmission.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE**, et **jamais** l absence de production locale.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Quem tempera de 6 a 10 compra de 6 a 10 - uma segunda origem`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe a quem compra.
+
+Escrevo para voces por causa das espessuras que estao no site de voces: 6, 8 e
+10 mm na tempera. Essas sao as espessuras que saem do forno, e e justamente por
+isso que elas me interessam - quem tempera de 6 a 10 compra chapa de 6 a 10, e
+chapa em contentor completo e a unica coisa que eu vendo.
+
+Deixo claro o que NAO estou oferecendo. A tempera, a laminacao e o
+beneficiamento sao o trabalho de voces, nao o meu, e ali nao tenho nada a
+vender. O que ofereco e o que entra antes do forno:
+
+- vidro float claro e extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E, se o temperam
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e com a medida exata: desde a Gecex 833 o float incolor de
+1,8 a 20 mm originario da Malasia, do Paquistao e da Turquia paga direito
+antidumping no Brasil, e a Europa nao esta nessa medida. Isso vale para essa
+faixa de float incolor, e nao vale para espelho nem para vidro fume. Nao estou
+lhe dando numeros numa primeira carta e nao estou dizendo que nosso vidro e
+barato. Estou dizendo que a comparacao mudou.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda, de modo que a medida de estoque para a
+qual as suas mesas estao ajustadas nao e obstaculo. Podemos preparar uma
+oferta para a entrega no seu porto de destino, sujeita a validacao do nosso
+lado. Contagem fica longe da costa, entao nao vou adivinhar o seu porto: diga
+qual o seu frete ja usa e eu trabalho sobre esse.
+
+O que preciso de volta e pouco: se as tres espessuras do site continuam sendo
+as suas faixas de trabalho, se temperam vidro com capa e quais, as medidas de
+chapa que as suas mesas pedem, um volume anual aproximado com a frequencia de
+compra, e esse porto.
+
+E a parte honesta. Uma casa com forno, laminadora e entrega propria ja tem
+fornecedor, e nao estou pedindo para substitui-lo. Estou pedindo para ser o
+segundo nome da lista, para a semana em que o primeiro ficar curto - um forno
+parado e a coisa mais cara do galpao. Se isso nao interessa, diga com
+franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+## 282. Viminas (Serra, Espirito Santo - cinq sites) — `viminas@viminas.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h20 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Grep passe dans un appel SEPARE de l ecriture** : **absent**.
+- **⚠️⚠️ C EST LA MEILLEURE FICHE DU LOT, ET POUR TROIS RAISONS QUI SE CUMULENT.**
+  1. **NEGOCE ET DISTRIBUTION**, et pas de maniere supposee : leur page **Compre Conosco** dit qu ils
+     ne vendent qu a des personnes morales dont le CNAE est **vidracaria, materiel de construction ou
+     esquadrias**. **Ils vendent AUX vitriers, donc ils sont le grossiste** — la classe a 10 pour
+     cent, et la position que le §6 paie trois fois mieux que le poseur.
+  2. **LE SIEGE EST COTIER.** Serra est dans l agglomeration de Vitoria et de son port, donc la
+     reserve de post-acheminement qui pese sur Alfenas, Betim, Contagem et Brasilia **ne pese pas
+     ici**. C est le critere cotier du §6, pour une fois satisfait.
+  3. **CINQ SITES** — Serra, Vila Velha, Belo Horizonte, Campos et la Bahia — donc **l argument du
+     volume groupe**, celui de Savima et de Glass Alu SXM.
+- **⚠️ UN SEUL COMPTE POUR LES CINQ, REGLE DU §12.** Meme domaine, meme marque, reseau national servi
+  depuis un siege : c est le cas **Saint Lu** et non le cas **Extralum**, donc **un seul bureau
+  d achat**. Ecrire aussi a `filial.bh@` serait la faute Shibaam. **L adresse de la filiale est
+  gardee dans la fiche comme SECOURS en cas de rebond, jamais comme second envoi.**
+- **⚠️ ILS SONT A CHEVAL SUR DEUX ETATS** et la recherche est arrivee par Minas : la fiche porte le
+  **siege**, et le message ne parle ni de Minas ni d une filiale en particulier.
+- **REGLE PRODIESA** : rien ne sort de l offre ici, **ils ne transforment pas, ils distribuent** —
+  donc c est la seule fiche du lot a qui la **gamme complete** peut etre presentee, miroir compris.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE — et c est ici qu il faut etre le plus precis**,
+  puisque la gamme complete est offerte : la mesure vaut pour le **float clair de 1,8 a 20 mm** et
+  **ni pour le miroir ni pour le fume**. Le texte le dit en toutes lettres.
+- **⚠️ ET JAMAIS l absence de production locale au Bresil** : quatre producteurs y sont, et c est
+  precisement d eux que vient le parapluie de prix qui rend le marche interessant.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Para quem so vende a vidracarias - uma segunda origem em contentor`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe a quem compra.
+
+Escrevo para voces por causa de uma regra que esta na pagina Compre Conosco:
+voces so vendem a empresas cujo CNAE e vidracaria, material de construcao ou
+esquadrias. Isso diz que voces sao o atacado e nao a obra - e o atacado e o
+unico lugar onde um contentor completo de chapa faz sentido. E e a unica coisa
+que eu vendo.
+
+Vi tambem que a matriz fica na Serra, a um passo do porto, e que ha cinco
+enderecos entre o Espirito Santo, Minas, o Rio e a Bahia. Guardo esse segundo
+ponto para o fim desta carta, porque ele muda o tamanho da conversa.
+
+Nossa linha, com o link de cada referencia:
+
+- vidro float claro e extra-claro, a base
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo, para litoral e area umida
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro laqueado, para marcenaria e ambientes
+  https://noxemgroup.com/en/lacquered-glass/
+- e a linha completa
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e com a medida exata, porque aqui a distincao importa: desde
+a Gecex 833 o float INCOLOR de 1,8 a 20 mm originario da Malasia, do Paquistao
+e da Turquia paga direito antidumping no Brasil, e a Europa nao esta nessa
+medida. Essa medida vale para essa faixa de float incolor e NAO vale para
+espelho nem para vidro fume - nessas duas referencias a comparacao e outra e
+eu nao vou fingir o contrario. Nao estou lhe dando numeros numa primeira carta
+e nao estou dizendo que nosso vidro e barato. Estou dizendo onde a comparacao
+mudou e onde nao mudou.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda, de modo que as medidas de estoque que a
+sua clientela pede nao sao obstaculo. Podemos preparar uma oferta para a
+entrega no seu porto de destino, sujeita a validacao do nosso lado.
+
+E aqui esta o segundo ponto que eu guardei. Com cinco enderecos, a pergunta
+nao e se um contentor cabe, e como ele se divide: um contentor montado para
+mais de um deposito e o mesmo frete maritimo para mais de um ponto de venda.
+Se isso interessa, me diga quais depositos entrariam e eu trabalho sobre essa
+hipotese.
+
+O que preciso de volta e pouco: quais referencias e espessuras giram no seu
+estoque, as medidas de chapa que a sua clientela pede, um volume anual
+aproximado com a frequencia de compra, e por qual porto voces recebem o
+importado hoje.
+
+E a parte honesta. Um atacadista com cinco enderecos e trinta anos de praca
+tem fornecedor, e nao estou pedindo para substitui-lo. Estou pedindo para ser
+o segundo nome da lista, para o mes em que o primeiro ficar curto ou subir de
+preco. Se voces estao comprometidos com o fornecimento que tem, diga com
+franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
