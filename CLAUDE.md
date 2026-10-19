@@ -1877,6 +1877,13 @@ isolant**, qui la nomme parce qu'elle en fabrique, sans se soucier de ce que la 
 ailleurs. **C'est la lecon SGCC du meme jour poussee a son terme : un organisme de certification
 certifie un PROCEDE, donc il recense tous ceux qui le pratiquent, y compris sous une autre
 etiquette industrielle.**
+**⚠️ ET UN TROISIEME ORGANISME, TROUVE LE 19/10 AU SOIR : `NAMI`**, qui certifie lui aussi le
+**vitrage isolant** et qui a rendu le metier de **Vista Glass Corporation** (Vaughan, Ontario) alors
+qu'elle n'a aucun site propre et qu'aucune recherche large ne disait ce qu'elle fait. **Les trois a
+interroger sont donc `SGCC`, `IGCC` et `NAMI`**, et la lecon s'ajoute a la precedente : un annuaire de
+certification ne sert pas seulement a DECOUVRIR un nom hors secteur, **il sert aussi a QUALIFIER un nom
+qu'on a deja et dont le metier est introuvable autrement** — une fiche muette au moteur de recherche
+peut etre bavarde chez son certificateur. A essayer avant de classer une fiche en « metier a etablir ».
 **LES INDUSTRIES A CHERCHER DANS CES LISTES, parce qu'elles consomment de la feuille en serie :**
 porte et vitrine **de refrigeration** et de froid commercial · **electromenager** (portes de four,
 clayettes) · **agencement de magasin** et presentoirs · **mobilier** (plateaux, etageres) ·
