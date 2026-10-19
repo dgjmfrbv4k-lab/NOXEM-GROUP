@@ -17833,3 +17833,100 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 267. El Mundo del Vidrio (Mexico, Iztapalapa) — `ventas.templado@mundodelvidrio.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 13h47 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **TREMPEUR PUR**, meilleure classe du §6. Four et machines pour les **grandes pieces**,
+  expedition dans toute la Republique — **portee nationale et non locale**. Grep passe dans un
+  appel separe : **ABSENT**.
+- **⚠️⚠️ ET LA PLAGE D EPAISSEURS SE LIT JUSTE : 6 A 19 MM, DONC LA SORTIE DE L ATELIER** au sens
+  de la regle Olglass du 15/10 — ce sont les epaisseurs qu ils **trempent**. **La fiche n est pas
+  fermee pour autant, au contraire** : un trempeur qui travaille du 6 au 19 **achete** du 6 au 19.
+  **Et le fait utile est que la plage COMMENCE A 6** : ils ne font pas de mince, donc **le float
+  epais est la reference et le 4 mm ne sert a rien ici** — c est ce qui distingue ce texte des
+  autres trempeurs du lot.
+- **Adresse sur LEUR PROPRE site**, meme domaine. **Boite SPECIALISEE sur le trempe** et non un
+  `ventas` generique : **le bon service, meme si c est le mauvais cote du comptoir.** Transmission
+  demandee.
+- **⚠️ SIX NUMEROS PUBLIES** sur la meme page. Le premier est au champ, les autres dans la note.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️ INTERDITS MEXICAINS DU §6** : **rien** sur les droits, **jamais** l absence de production
+  locale.
+- **⚠️ ET LE GREP A RENDU UNE COLLISION LUE ET NON COMPTEE** : `templacris` rapproche **TemplaCris**
+  de Queretaro, remontee dans le meme appel, de **Templacristal y Acero** d Ocoyucan, deja au
+  registre. **Deux societes differentes, deux Etats.** Aucune fusion.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Lámina de 6 a 19 mm para su horno - un segundo origen`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Escribo a la direccion de su area de templado:
+si no es la mesa que compra la lamina, le agradeceria que la hiciera llegar a
+quien corresponda.
+
+Le escribo a ustedes y no a un instalador por dos cosas que dicen de si
+mismos, y la segunda es la que importa. La primera es que templan y envian a
+toda la Republica. La segunda es que su rango empieza en 6 mm y llega a 19:
+eso no es un taller de vidrio delgado, es una planta de vidrio GRUESO, y el
+grueso es la parte de la lamina que menos proveedores cubren bien. Lamina por
+contenedor completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado, el canteado,
+las piezas grandes: ese es su trabajo, no el mio, y ahi no tengo nada que
+venderle. Lo que le ofrezco es lo que entra antes de que el horno arranque:
+
+- vidrio float claro y extra-claro, en los espesores gruesos que ustedes
+  trabajan y no en el 4 mm que no les sirve
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, si lo templan
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+No le voy a dar cifras en una primera carta, ni le voy a hablar de aduanas de
+su pais, que no me corresponde. Le hablo de origen. Una planta que surte a
+toda la Republica no puede permitirse que su lamina entre por una sola
+puerta: el mes en que su proveedor se atrasa, no para un cliente suyo, paran
+todos a la vez.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun NIMF-15,
+cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se corta a
+pedido, de modo que la medida de stock para la que esta calibrado su horno no
+es un obstaculo. Podemos preparar una oferta para la entrega en su puerto de
+destino, sujeta a validacion por nuestra parte. La Ciudad de Mexico esta
+tierra adentro, asi que no voy a adivinar su puerto: digame cual usa ya su
+flete y trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores pasan realmente por el
+horno, las medidas de lamina que piden sus mesas, un volumen anual aproximado
+con la frecuencia de compra, y ese puerto.
+
+Y la parte honesta. Una planta con horno propio tiene un proveedor que se
+gano el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre
+de la lista, para la semana en que el primero quede corto - y un horno frio
+es la cosa mas cara de su nave. Si eso no le interesa, digamelo con franqueza
+y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
