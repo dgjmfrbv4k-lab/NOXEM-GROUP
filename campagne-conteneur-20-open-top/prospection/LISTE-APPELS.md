@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **19/10/2026** depuis le registre. **274 societes** portent un telephone et
+Regeneree le **19/10/2026** depuis le registre. **277 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 274 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 277 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 250 societes
+## Hors Europe — 253 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -161,6 +161,8 @@ ne pas les appeler en se presentant comme un premier contact.
 | Brésil | **Distribuidora Max Vidros** | `+55 27 99656 5454 (WhatsApp)` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 16/10 a 10h55, LOT DE VITORIA, VILLE TESTEE SEULE. ⚠ POURQUOI VITORIA : mesure de couverture bresilienne refaite ce matin par Etat, sur le champ VILLE et sans double comptage - l ESPIRITO SANTO ne portait QU UNE ... |
 | Cambodge | **Pang Luon (Pranet) Import-Export & Construction Co. Ltd** | `023 212 578 et 012 814 567 et 012 558 111 siege, 023 726 343 et 012 349 888 succursale` | 04h00 - 12h00 | A APPELER | Fondee en 1992. Importateur declare de float. 408ABC Preah Monivong Blvd. Angle retenu : la meme chose en un maillon de moins, direct depuis un distributeur europeen. Ports Sihanoukville ou Phnom Penh. Mini-mail sur mesure EN C... |
 | Canada | **Lahey Glass** | `+1 902 462 8000` | 15h00 - 23h00 | A APPELER | Adresse brent.macintyre citee sans recoupement du domaine : appeler plutot que deviner. VERIFIE LE 08/10, RESULTAT NEGATIF : trois recherches, dont une restreinte au domaine laheyglass.ca, ne rendent aucun resultat. Le domaine ... |
+| Canada | **Prelco** | `+1 514 640 1122` | 15h00 - 23h00 | A QUALIFIER | FICHE CREEE LE 17h39, decomposition regionale sur Montreal. Mot distinctif grepe en grep -in et LIGNES LUES avant creation, prelco, ABSENT. Nom releve dans la rubrique GROSSISTES ET FABRICANTS DE VITRES d un annuaire quebecois,... |
+| Canada | **Lamiver** | `+1 514 640 6490` | 15h00 - 23h00 | A QUALIFIER | FICHE CREEE LE 17h39, meme releve que Prelco. Mot distinctif grepe en grep -in et LIGNES LUES avant creation, lamiver, et la SEULE ligne rendue est une Glasserie Miroiterie et Verrerie de TUNISIE dont la note contient la chaine... |
 | Canada | **Saand Inc.** | `+1 416 674 3931` | 15h00 - 23h00 | A APPELER | FICHE CREEE LE 14/10 A 11h27 PAR LE PORTAIL SECTORIEL glassonweb, la decouverte large etant saturee au Canada, huit noms sur neuf deja presents le 13/10. Mot distinctif grepe avant creation, saand, ABSENT. ⚠ DOUBLE CLASSE, ET C... |
 | Ghana | **Prime Glass Ghana** | `+233 53 524 1993` | 11h00 - 19h00 | A APPELER | Port Tema. Angle du 20 pieds pour demarrer. Mini-mail sur mesure EN CONTROLE MX DU 07/10 : le domaine primeglassghana.com n a aucun enregistrement MX, seulement un A. Livraison incertaine. Ne pas inclure dans un lot groupe : te... |
 | Ghana | **Perfect Glass Ghana** | `+233 204 336 854` | 11h00 - 19h00 | A APPELER | Façades en interne et transformation de verre trempé, feuilleté et double vitrage. Port Tema, envoi en anglais. Relance courte le 06/10, lot 4. Rebond 06/10 : serveur distant mal configure. Appeler. RETESTEE LE 08/10 A 16h40 : ... |
@@ -181,6 +183,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | États-Unis | **Aspen Industries** | `+1 253 218 2929` | 15h00 - 23h00 | A QUALIFIER | LOT DE SEATTLE ET TACOMA DU 15/10 A 13h13, PAR DECOMPOSITION REGIONALE. C est la sixieme application de la methode du jour et elle tient : une recherche nationale declarait les Etats-Unis satures le 13/10, une recherche sur la ... |
 | États-Unis | **Gordon's Glass and Mirror** | `+1 904 388 5555` | 15h00 - 23h00 | A APPELER | Adresse citee sur un domaine different du site : ne pas deviner, appeler. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensemble des fiches verrouillees de la journee,... |
 | États-Unis | **Quality Glass and Mirror** | `+1 402 339 3737` | 15h00 - 23h00 | A APPELER | Interlocuteur verifie : Katrina Hahn, representante Wholesale Manufacturing Distribution. Aucune adresse publiee. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverrouillage a ete appliquee a l ensembl... |
+| États-Unis | **Complete Line Glass Wholesalers Inc.** | `+1 210 651 9873` | 15h00 - 23h00 | A APPELER | LOT IGCC AMERICAIN DU 19/10 A 11h25. Passe au grep-nom.py, version qui connait desormais les acronymes : ABSENT. ⚠️⚠️ FICHE TELEPHONIQUE PAR VERDICT ET NON PAR DEFAUT, ET LES DEUX BOITES QU ILS PUBLIENT SONT LES DEUX PIEGES NOM... |
 | États-Unis | **Dixon Mirror and Glass Co.** | `+1 801 486 2079` | 15h00 - 23h00 | A APPELER | L UTAH N AVAIT AUCUNE FICHE. Donnee sous la rubrique GROS ET FABRICANTS par l annuaire, donc la bonne classe sur le papier. Telephone releve +1 801 486 2079, A CONFIRMER, source annuaire. Et la seule autre maison verriere de Sa... |
 | Birmanie | **Central Aluminium** | `+95 973 123 473` | 04h30 - 12h30 | A APPELER | Entreprise de decoration et facade active depuis 1996. Aucune adresse email publiee : a rappeler. Port Rangoun. Alu, verre, composite, inox et plafonds a Yangon, 11 a 50 salaries. Aucune adresse email publiee hors bases payante... |
 | Brésil | **Aluglass Vidros** | `+55 32 3512-5951` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 11/10/2026 A 21h40 PAR L ANNUAIRE DES MEMBRES D ABRAVIDRO, piste ouverte le meme soir et qui a rendu onze noms neufs en UNE recherche — le meilleur rendement de la soiree. Nom grepe sur son plus court element dis... |
@@ -229,6 +232,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Canada | **Adriatic Glass and Mirrors Ltd** | `+1 905 738 1587` | 15h00 - 23h00 | A APPELER | Capacite de feuilletage propre : achete de la feuille brute. REBOND 06/10 : 550 5.4.1 Access denied cote Outlook, l'adresse sales n'accepte pas le courrier externe. Appeler le +1 905 738 1587. VERIFIE LE 08/10 : rien de neuf co... |
 | Canada | **Glassbuilt Manufacturing** | `+1 780 455 0440` | 15h00 - 23h00 | A APPELER | Couvre cinq provinces et territoires : volume. Port Vancouver puis rail. CONTROLE MX DU 07/10 : le domaine glassbuilt.com n a aucun enregistrement MX, seulement un A. Livraison incertaine. Ne pas inclure dans un lot groupe : te... |
 | Canada | **Vitralite Industries Inc.** | `+1 250 860 0571` | 15h00 - 23h00 | A APPELER | Aucune adresse publiee sur la page contact. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : leur page de contact ne donne qu une adresse postale et un telephone, et je ne devine pas une adresse. Reste un dossier telephonique, 250-86... |
+| Canada | **Unicel Architectural Corp. — groupe Allegion** | `+1 450 670 6844` | 15h00 - 23h00 | A QUALIFIER | LOT IGCC DU 19/10 A 11h17, troisieme nom du filon. Passe au grep-nom.py : unicel ET allegion ABSENTS tous les deux, donc aucun risque de doublon. ⚠️⚠️ FICHE OUVERTE EN A QUALIFIER ET NON EN A ENVOYER, ET IL FAUT DIRE POURQUOI P... |
 | Colombie | **Factory Glass S.A.S.** | `+57 310 221 1950` | 16h00 - 00h00 | A APPELER | ⚠️ FICHE CREEE SOUS LA COLOMBIE ET NON SOUS LE SALVADOR, ET C EST LA LECON DU 14/10 A 11h42 QUI SE REFERME UNE TROISIEME FOIS. Le portail vidrioperfil la listait parmi les maisons SALVADORIENNES. Verification faite sur son prop... |
 | Colombie | **Espejos Bogota** | `+57 312 306 4572` | 16h00 - 00h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 13h32, NON TESTEE. Grep espejos bogota et espejosbogota faits avant creation, absente. Profil releve : faconnage et fourniture de verre plat et de miroirs, et le relevé mentionne du MIROIR IMPORTE — ... |
 | Côte d'Ivoire | **VITRINES** | `+225 05 74 44 44 25` | 11h00 - 19h00 | A APPELER | 9 kilos Cocody Abidjan. Port Abidjan. Mini-mail sur mesure FR CONTROLE MX DU 07/10 : le domaine vitrerie.business ne resout pas (NXDOMAIN), l adresse info@vitrerie.business ne peut pas recevoir. Adresse retiree du registre. Pas... |
@@ -248,7 +252,6 @@ ne pas les appeler en se presentant comme un premier contact.
 | Trinité-et-Tobago | **Kamri Glass Investments Ltd** | `+1 868 235 4527` | 15h00 - 23h00 | A APPELER | SEUL FABRICANT DE TREMPE ET DE FEUILLETE DES CARAIBES. Pas d'adresse publiee, formulaire seulement : appeler. Port Port-of-Spain. Adresse kamriglass arobase gmail.com disponible mais la filiale Guyana a ete relancee le 06/10 : ... |
 | Égypte | **Venster Egypt for Aluminum & Glass Works** | `+20 121 000 7500` | 08h00 - 16h00 · **dim-jeu** | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. Decrit son activite principale comme les solutions de MUR-RIDEAU et le VITRAGE STRUCTUREL, avec des produits verriers specia... |
 | Émirats arabes unis | **Abbas Tempering Industry LLC** | `+971 4 267 7740` | 07h00 - 15h00 | A APPELER | Trempeur : cible float 4-12 mm. Numero normalise le 08/10 au format international, il etait au format local de Dubai.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relan... |
-| États-Unis | **Glass and Mirror Enterprises** | `+1 305 694 0666` | 15h00 - 23h00 | A QUALIFIER | FICHE CREEE LE 16/10 A 08h32 par recherche sur la PLACE DE REEXPORT DE MIAMI, angle neuf : la ville etait deja travaillee en vitrerie locale et jamais sous l angle EXPORT vers les Caraibes et l Amerique latine. CLASSE A PRECISE... |
 | Éthiopie | **Abdi Aluminium & Glass Works** | `+251 911 262649` | 08h00 - 16h00 | A APPELER | Fabricant de facades et murs rideaux donc consommateur de verre. Adresse masquee par l annuaire : a appeler. Pays enclave, transit via Djibouti. FUSION DU 08/10, detectee par un balayage systematique du registre : 1 fiche(s) en... |
 | Arabie saoudite | **ArcGlass** | `+966 11 440 5959` | 08h00 - 16h00 · **dim-jeu** | A APPELER | FICHE CREEE LE 08/10 A 17h20 par recherche large pays, methode du paragraphe 13. Nom grepe un a un sur le champ societe, absent. Source annuaire GlassOnWeb. Usine annoncee produisant des unites de vitrage INTEGRE et ISOLANT. Le... |
 | Brésil | **Vitral Vidros Planos** | `+55 61 3462 3200` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 18h12, meme recherche. Grep vitral fait avant creation : trois fiches le portent — VITRALUX au Burkina, Vitralite au Canada, Sharm Group a Maurice — AUCUNE n est celle-ci. VITRAL VIDROS PLANOS, plus ... |

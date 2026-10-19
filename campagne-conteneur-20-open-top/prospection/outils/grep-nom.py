@@ -83,7 +83,14 @@ def chercher(R, nom):
         if len(c) != 10:
             continue
         plat = aplatir(c[3])
-        if cible in plat:
+        # ⚠️ SYMETRIQUE, ajoute le 19/10 apres un SECOND doublon cree en dix minutes.
+        # Je cherchais `Complete Line Glass Wholesalers Inc` et le registre porte
+        # `Complete Line Glass` : la cible etait plus LONGUE que la fiche, donc
+        # `cible in plat` ne pouvait pas correspondre. C est la regle Arabian Glass du
+        # 09/10 — une societe se PUBLIE sous son nom court et se DEPOSE sous son nom
+        # long — appliquee au code au lieu d etre seulement ecrite.
+        # Le garde-fou de longueur evite qu un nom de deux lettres rende tout le registre.
+        if cible in plat or (len(plat) >= 6 and plat in cible):
             hits.append(c)
         # ⚠️ EGALITE ET NON SOUS-CHAINE. Premiere version du 19/10 : je cherchais les
         # initiales N IMPORTE OU dans le nom aplati, et la mesure a rendu 29 signalements
