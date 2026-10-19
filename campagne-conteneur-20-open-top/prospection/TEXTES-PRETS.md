@@ -18883,3 +18883,98 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 278. São Cristóvão Temper (Betim, Minas Gerais) — `contato@saocristovaotemper.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h11 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Cinquieme fiche du gisement AMVID.** Grep passe dans un appel separe sur les **deux** raisons
+  sociales : **absentes**.
+- **TREMPEUR**, meilleure classe du §6, a Betim.
+- **⚠️ ET LEUR CLIENTELE QUALIFIE LA FICHE, dite par eux** : ils servent les **vidraçarias**, les
+  constructeurs, les architectes et les ingenieurs. **Servir des vidraçarias veut dire etre EN
+  AMONT du poseur** — la distinction du §6 entre le trempeur a 12,8 pour cent et le poseur a 3,6,
+  lue dans leur description de clientele, comme pour Varsa Continental ce matin.
+- **Adresse sur LEUR PROPRE page de contact.** La fiche ABRAVIDRO porte la meme : **elle confirme,
+  elle ne fonde pas** — c est le site qui fonde.
+- **⚠️ DEUX ENTITES AU REGISTRE A LA MEME ADRESSE**, deux CNPJ rue Angicos 70. **Meme adresse, meme
+  maison au sens du §12** : un seul compte, et le second nom est grepe et absent. **Ne pas ouvrir de
+  fiche dessus.**
+- **⚠️ ILS ANNONCENT DES PRODUITS CERTIFIES. C est LEUR certification, pas la notre** : le §5
+  interdit d annoncer un certificat de notre cote, **et rien ne s en dit**.
+- **⚠️ ET C EST LE DEUXIEME MEMBRE D ABRAVIDRO ABSENT DU REGISTRE AUJOURD HUI**, apres Pestana.
+  **Confirmation que la mesure du 16/10 portait sur une tranche de l alphabet et non sur la liste
+  entiere.**
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE**, et **jamais** l absence de production locale.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Chapa para quem atende as vidraçarias - uma segunda origem`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe.
+
+Escrevo para voces e nao para uma vidracaria por uma frase que esta no site de
+voces: atendem vidracarias, construtoras, arquitetos e engenheiros. Quem
+atende vidracarias esta um degrau ACIMA da obra, e esse degrau e exatamente
+onde a chapa entra. Uma vidracaria compra peca cortada; voces compram chapa.
+Chapa em contentor completo e a unica coisa que eu vendo.
+
+Deixo claro o que NAO estou oferecendo. A tempera e o beneficiamento sao o
+trabalho de voces, nao o meu, e ali nao tenho nada a vender. O que ofereco e
+o que entra antes do forno:
+
+- vidro float claro e extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E, se o temperam
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e com a medida exata: desde a Gecex 833 o float incolor de
+1,8 a 20 mm originario da Malasia, do Paquistao e da Turquia paga direito
+antidumping no Brasil, e a Europa nao esta nessa medida. Isso vale para essa
+faixa de float incolor e nao vale para espelho nem para fume. Nao estou lhe
+dando numeros numa primeira carta e nao estou dizendo que nosso vidro e
+barato. Estou dizendo que a comparacao mudou.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda, de modo que a medida de estoque para a
+qual o seu forno esta ajustado nao e obstaculo. Podemos preparar uma oferta
+para a entrega no seu porto de destino, sujeita a validacao do nosso lado.
+Betim fica longe da costa, entao nao vou adivinhar o seu porto: diga qual o
+seu frete ja usa e eu trabalho sobre esse.
+
+O que preciso de volta e pouco: quais espessuras passam pelo forno, se
+temperam vidro com capa e quais, as medidas de chapa que suas mesas pedem, um
+volume anual aproximado com a frequencia de compra, e esse porto.
+
+E a parte honesta. Quem abastece as vidracarias de uma regiao tem um
+fornecedor que ganhou o lugar, e nao estou pedindo para substitui-lo. Estou
+pedindo para ser o segundo nome da lista, para a semana em que o primeiro
+ficar curto - e um forno parado e a coisa mais cara do galpao. Se isso nao
+interessa, diga com franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
