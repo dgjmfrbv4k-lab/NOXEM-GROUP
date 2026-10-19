@@ -259,6 +259,21 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   **Et quand ce sont celles de la sortie, la fiche n'est pas fermée pour autant** : un trempeur qui
   travaille du 4 au 12 **achète** du 4 au 12, et c'est l'argument de fond de la campagne. Elle est
   simplement classée pour ce qu'elle est, et la règle Prodiesa s'y applique strictement.
+  **⚠⚠ ET LE MEILLEUR SIGNAL D'ENTRÉE N'EST NI L'ÉPAISSEUR NI LE FORMAT, C'EST LA FRACTION DE
+  FEUILLE QU'ILS ACCEPTENT DE VENDRE — trouvé le 19/10 au soir sur SUPER VIDROS DISTRIBUIDORA
+  (Fortaleza), et c'est la formulation la plus directe rencontrée en six cents fiches.** Leur page dit
+  qu'ils vendent en **`carga fechada`**, c'est-à-dire **en charge complète**, puis en **`terço chapa`**,
+  **`meia chapa`** et **`pedaço`** — par tiers de feuille, par demi-feuille et au morceau.
+  **Pourquoi cela vaut mieux qu'une plage d'épaisseurs : une maison qui vend au TIERS et à la DEMI
+  feuille achète donc la feuille ENTIÈRE, et une maison qui vend en CHARGE COMPLÈTE raisonne par camion
+  ou par conteneur et non par chantier.** C'est le critère établi par le **mode de vente** plutôt que par
+  le format, là où une plage d'épaisseurs seule peut appartenir à un bazar comme à un stockiste.
+  **Le vocabulaire à chercher dans le second temps, par langue, et il ne coûte aucun appel de plus :**
+  `carga fechada`, `chapa inteira`, `meia chapa`, `terço de chapa` · `caja`, `carga completa`,
+  `lámina entera`, `media lámina` · `by the case`, `full case`, `full crate`, `truckload`,
+  `container load`, `half sheet`, `full sheet` · `à la caisse`, `feuille entière`, `demi-feuille`.
+  **Et le pendant négatif se lit dans la même phrase** : une maison qui ne vend qu'**au mètre carré
+  coupé** ou **à la pièce finie** le dit tout aussi volontiers, et c'est la sortie.
   **⚠️ ET LA LEÇON S'ÉTEND AU PAYS, PAS SEULEMENT AU MÉTIER — deux cas de plus le 14/10 à 11h42.**
   · **Distribuidora Arquetipo** était classée sous le **Pérou** par le portail. Vérifiée : elle est
     **chilienne**, quatre succursales à Santiago, Antofagasta, Coquimbo et Talca. La fiche est créée, mais
