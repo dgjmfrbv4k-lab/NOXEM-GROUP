@@ -18118,3 +18118,97 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 270. Nashville Tempered Glass (Nashville et Hendersonville, Tennessee) — `sales@ntglass.com` — ANGLAIS — premier contact
+
+### PREPARE LE 13h52 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Cinquieme fiche du filon SGCC**, et **premier Etat du Sud-Est** du lot. Grep passe dans un appel
+  separe : **ABSENT**.
+- **TREMPEUR PUR**, meilleure classe du §6, **trois sites** publies sur la meme page de contact avec
+  un seul numero principal — donc **un seul compte** au sens du §12.
+- **⚠️ UN CRENEAU DE GAMME CONNU ET VOLONTAIREMENT NON SERVI** : un portail les classe en **verre
+  favorable aux oiseaux**, qui est un debouche de **feuille**. **Le §5 interdit toute garantie
+  technique non validee**, donc **rien n en est dit** — la reference reste le substrat nu, et le
+  creneau se garde pour l echange **s il le souleve lui-meme**. C est la meme retenue que sur le
+  bombage de Cristacurva ce matin.
+- **Adresse sur LEUR PROPRE page de contact.** Colonne client, seule boite de leur page → precedent
+  El Mayorista.
+- **⚠️ UNE SECONDE ADRESSE ET UN SECOND NUMERO CIRCULENT** sur un annuaire de voisinage et **ne
+  concordent pas** avec la page de la societe : non retenus.
+- **⚠️ UNE ADRESSE NOMINATIVE DE SALARIE est proposee par un site qui VEND des contacts** : meme
+  nature que les courtiers du §5, **rien n en est repris**. Et un annuaire nomme un dirigeant de
+  seconde main, fonction non etablie → **message au service**.
+- **⚠️ NE PAS CONFONDRE AVEC `tnglass.com`**, Tennessee Glass Company, autre maison de Nashville.
+  **`ntglass` et `tnglass` ne diffèrent que d une lettre** — famille Lahey, **septieme fois de la
+  journee**. Grepee, absente, aucune fiche a ce stade.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul.**
+- **⚠️ LE PORT SE DEMANDE** : le Tennessee est un marche interieur.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for three plants - a second origin out of Europe`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. You publish one sales address, so if this lands on a selling desk,
+please pass it to whoever buys your sheet.
+
+I am writing to you rather than to a glazing contractor because of what a
+tempering business is at three sites: three furnaces, or at least three
+floors of work, and nothing to sell until annealed sheet has gone through
+one of them. A furnace costs the same whether glass is moving through it or
+not. Sheet by the load is the only thing I deal in.
+
+So let me be precise about what I am NOT offering. The tempering itself is
+your work, not mine, and I have nothing to sell you there. What I am offering
+is what sits on the rack in front of it:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass, where the coating allows tempering
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties from 17.3 to 102 percent
+on Malaysia. European glass is named in neither order. That is a customs fact
+and nothing more. I am not quoting you a number in a first letter, and I am
+not claiming our glass is cheap. I am saying the comparison is not what it
+was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your furnaces are set up for is not an obstacle, and the three
+sites do not have to take the same thing. We can put together an offer for
+delivery to your port of destination, subject to validation on our side.
+Tennessee is inland, so I will not guess your port - tell me which one your
+freight already uses and I will work to it.
+
+What I need back is small: which thicknesses go through the furnaces, whether
+you temper coated stock and which coatings, the sheet sizes your tables want,
+a rough annual volume with how often you buy, and that port.
+
+And the honest part. Three sites running means a supplier who earned the
+place, and I am not asking to replace him. I am asking to be the second name
+on the list, for the week the first one is short. If that is of no interest,
+say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
