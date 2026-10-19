@@ -2716,3 +2716,35 @@ certificat de performance du §13, applique a un contenu editorial au lieu d un 
 lui-meme, plus *que establece*, *como aplicarla*, *que verificar antes de aprobar*. **A tester sur
 les normes equivalentes ailleurs** — NTC 1467 en Colombie, NBR 14698 et NBR 7199 au Bresil,
 AS/NZS 2208 en Australie.
+
+
+### LA METHODE DES MAISONS QUI ECRIVENT LA NORME EST VALIDEE SUR LE BRESIL — 19/10 a 15h21
+
+**Portee a la `NBR 14698` — verre trempe pour la construction — elle rend quatre noms de societes qui
+publient une page technique sur la norme. Deux etaient deja au registre** (Divinal Vidros en relance,
+Cyberglass en `A APPELER`), **une est creee**, **une est mise en attente.**
+
+· **`SVA Vidros`** (Concordia, Santa Catarina) — beneficiamento de trempe, feuillete, imprime et
+  miroirs, **epaisseurs certifiees 6 a 12 mm**, et une **tournee de livraison** couvrant l ouest de
+  Santa Catarina et le nord et l ouest du Rio Grande do Sul. Donc transformateur **et** distributeur.
+  **`A APPELER`, et c est un verdict : leur page de contact n offre qu un formulaire.**
+· **`Rohden`** — **non ouverte, et volontairement.** Le nom est celui d un groupe **BOIS** brésilien
+  connu (portes, menuiserie), et leur page sur la NBR 14698 pourrait donc etre celle d un **fabricant
+  de portes qui achete du verre** — ce qui releve de l axe des industries qui ne s appellent pas verre,
+  ouvert le meme jour sur Perficom. **Mais cela peut aussi etre une homonymie.** Le §6 impose de lever
+  le groupe et le metier avant d ouvrir une fiche sur un nom qui porte un signal contraire. **Un appel
+  a depenser au prochain tour, et il vaut la peine precisement a cause de cet axe.**
+
+**CE QUE LA VALIDATION VAUT, ET IL FAUT ETRE PRECIS : deux noms sur quatre etaient deja pris, donc le
+rendement est de 50 pour cent.** C est en dessous de la liste de certification nord-americaine, et
+**bien au-dessus du CNAE sur un moteur**, qui a rendu un nom utilisable sur huit le meme jour.
+**La methode se garde donc comme SUBSTITUT quand aucun annuaire de certifies n existe**, ce qui est le
+cas au Bresil, en Colombie et au Mexique — trois pays sur trois en Amerique latine.
+
+**ET UN FAIT TECHNIQUE A VERSER AU DOSSIER, QUI N EST PAS UN ARGUMENT MAIS UNE QUESTION POUR AARON :**
+la NBR 14698 renvoie, pour les tolerances dimensionnelles, **aux normes du VERRE D ORIGINE** — et elle
+nomme **`NBR NM 294` pour le float**. C est donc la norme que citerait un acheteur bresilien pour la
+feuille **entrante**, c est-a-dire pour ce que nous fournissons. **Le §5 interdit d annoncer une
+conformite non validee, donc rien ne s en ecrit** — mais **demander a un prospect quelle norme il
+exige de son float entrant est une question legitime et utile**, et la reponse est exactement ce
+qu Aaron doit savoir pour arbitrer. A porter dans `DECISIONS-AARON.md` au prochain passage.
