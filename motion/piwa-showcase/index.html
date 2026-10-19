@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>PIWA Studio — Showcase</title>
+<style>
+/* Scène 1080x1920 pilotée par seek(t) : rien ne bouge tout seul, chaque image est calculée. */
+:root {
+  --bg: #050508; --fg: #F4F5FA; --mute: #8D93A8;
+  --cyan: #22D3EE; --violet: #8B5CF6; --pink: #F472B6; --red: #EF4444;
+  --glass: rgba(255,255,255,.06); --edge: rgba(255,255,255,.16);
+  --grad: linear-gradient(100deg, var(--cyan), var(--violet) 50%, var(--pink));
+  --display: "Inter Display", "Inter", system-ui, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 1080px; height: 1920px; background: var(--bg); overflow: hidden; }
+body { font-family: var(--display); color: var(--fg); -webkit-font-smoothing: antialiased; }
+#stage { position: absolute; inset: 0; perspective: 1700px; perspective-origin: 50% 46%; overflow: hidden; }
+.layer { position: absolute; inset: 0; transform-style: preserve-3d; }
+.center { position: absolute; left: 50%; top: 50%; transform-style: preserve-3d; }
+.glow { position: absolute; border-radius: 50%; filter: blur(110px); opacity: .55; }
+.glass { background: var(--glass); border: 1.5px solid var(--edge); backdrop-filter: blur(24px) saturate(140%);
+  box-shadow: 0 40px 120px rgba(0,0,0,.55), inset 0 1px 0 rgba(255,255,255,.18); }
+.grad-text { background: var(--grad); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.title { position: absolute; left: 0; right: 0; text-align: center; font-weight: 900; letter-spacing: -0.04em; line-height: .95; }
+.kicker { position: absolute; left: 0; right: 0; text-align: center; font-weight: 600; font-size: 34px; letter-spacing: .32em; color: var(--mute); }
+
+/* 1. prompt */
+#prompt { width: 920px; height: 156px; margin: -78px 0 0 -460px; border-radius: 78px; display: flex; align-items: center; gap: 22px; padding: 0 22px 0 48px; }
+#prompt .txt { flex: 1; font-size: 40px; font-weight: 500; white-space: nowrap; overflow: hidden; }
+#prompt .caret { display: inline-block; width: 3px; height: 46px; background: var(--fg); vertical-align: -8px; margin-left: 4px; }
+#send { width: 112px; height: 112px; border-radius: 50%; background: var(--grad); display: grid; place-items: center; box-shadow: 0 0 60px rgba(139,92,246,.7); }
+#send svg { width: 46px; height: 46px; }
+#streak { position: absolute; left: 50%; top: 50%; height: 6px; width: 1400px; margin: -3px 0 0 -700px; border-radius: 6px;
+  background: linear-gradient(90deg, transparent, #fff, transparent); box-shadow: 0 0 40px #fff, 0 0 120px var(--violet); }
+
+/* 2. mur de vidéos */
+#wall { width: 1700px; margin-left: -850px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 26px; }
+#wall .tile { aspect-ratio: 16/9; border-radius: 22px; overflow: hidden; border: 1.5px solid var(--edge); background: #111; box-shadow: 0 30px 60px rgba(0,0,0,.6); }
+#wall .tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+/* 3. cartes savoir-faire */
+.skill { position: absolute; width: 860px; height: 250px; margin: -125px 0 0 -430px; border-radius: 42px; padding: 40px 48px; display: flex; flex-direction: column; justify-content: space-between; }
+.skill .row { display: flex; align-items: baseline; justify-content: space-between; }
+.skill h3 { font-size: 62px; font-weight: 800; letter-spacing: -0.02em; }
+.skill .n { font-size: 30px; font-weight: 600; color: var(--mute); letter-spacing: .2em; }
+.skill .sub { font-size: 30px; color: var(--mute); }
+.wave { display: flex; align-items: center; gap: 7px; height: 70px; }
+.wave i { flex: 1; border-radius: 6px; background: var(--grad); background-size: 860px 100%; }
+
+/* 4. téléphone */
+#phone { width: 440px; height: 900px; margin: -450px 0 0 -220px; border-radius: 72px; background: #0b0b10; padding: 16px;
+  border: 2px solid rgba(255,255,255,.22); box-shadow: 0 60px 160px rgba(0,0,0,.7), 0 0 120px rgba(139,92,246,.35); }
+#phone .screen { width: 100%; height: 100%; border-radius: 58px; overflow: hidden; position: relative; }
+#phone .screen img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.chip { position: absolute; padding: 22px 38px; border-radius: 60px; font-size: 38px; font-weight: 700; white-space: nowrap; }
+
+/* 5. tarifs */
+.price { background: rgba(10,10,16,.78) !important; position: absolute; width: 920px; height: 300px; margin: -150px 0 0 -460px; border-radius: 48px; padding: 0 56px; display: flex; align-items: center; justify-content: space-between; }
+.price .l { display: grid; gap: 6px; }
+.price .r { display: grid; justify-items: end; gap: 0; }
+.price .d { font-size: 104px; font-weight: 900; letter-spacing: -0.04em; line-height: 1; }
+.price .u { font-size: 30px; color: var(--mute); }
+.price .old { font-size: 46px; font-weight: 700; color: var(--mute); position: relative; width: max-content; }
+.price .old::after { content: ""; position: absolute; left: -8px; right: -8px; top: 52%; height: 6px; border-radius: 4px; background: var(--red); transform-origin: left; transform: scaleX(var(--strike, 0)); }
+.price .new { font-size: 132px; font-weight: 900; letter-spacing: -0.05em; line-height: 1; }
+.price .tag { position: absolute; top: -28px; left: 56px; padding: 12px 26px; border-radius: 40px; background: var(--pink); font-size: 26px; font-weight: 800; letter-spacing: .08em; }
+.price li::before { content: "✓  "; color: var(--cyan); font-weight: 800; }
+
+/* 6. fin */
+#logo { position: absolute; left: 50%; top: 700px; width: 900px; margin-left: -450px; }
+#wa { position: absolute; left: 50%; top: 1250px; width: 820px; margin-left: -410px; height: 150px; border-radius: 75px; display: flex; align-items: center; justify-content: center; gap: 24px; font-size: 50px; font-weight: 800; }
+#wa .dot { width: 26px; height: 26px; border-radius: 50%; background: #25D366; box-shadow: 0 0 30px #25D366; }
+
+#flash { position: absolute; inset: 0; background: #fff; pointer-events: none; }
+#vignette { position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse 75% 60% at 50% 48%, transparent 55%, rgba(0,0,0,.75)); }
+#grain { position: absolute; inset: -50%; pointer-events: none; opacity: .07; mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E"); }
+</style>
+</head>
+<body>
+<div id="stage">
+  <div class="glow" id="g1" style="width:1100px;height:1100px;background:var(--violet)"></div>
+  <div class="glow" id="g2" style="width:900px;height:900px;background:var(--cyan)"></div>
+  <div class="glow" id="g3" style="width:800px;height:800px;background:var(--pink)"></div>
+
+  <!-- 1. prompt -->
+  <div class="layer" id="s1">
+    <div class="kicker" id="k1" style="top:640px">PIWA STUDIO</div>
+    <div class="center"><div id="prompt" class="glass"><div class="txt"><span id="typed"></span><span class="caret" id="caret"></span></div>
+      <div id="send"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div></div></div>
+    <div id="streak"></div>
+  </div>
+
+  <!-- 2. mur -->
+  <div class="layer" id="s2">
+    <div class="center" id="wallwrap"><div id="wall"></div></div>
+    <div class="title" id="t2a" style="top:330px;font-size:120px">Pubs. Lancements.</div>
+    <div class="title grad-text" id="t2b" style="top:470px;font-size:120px">Recrutement.</div>
+    <div class="kicker" id="k2" style="top:1560px">TOUT EN MOTION DESIGN</div>
+  </div>
+
+  <!-- 3. savoir-faire -->
+  <div class="layer" id="s3">
+    <div class="kicker" id="k3" style="top:260px">UNE ÉQUIPE COMPLÈTE</div>
+    <div class="center" id="skills"></div>
+  </div>
+
+  <!-- 4. formats -->
+  <div class="layer" id="s4">
+    <div class="title" id="t4a" style="top:170px;font-size:104px">Tous les formats.</div>
+    <div class="center" id="phonewrap">
+      <div id="phone"><div class="screen"><img src="assets/phone1.jpg" id="ph1" alt=""><img src="assets/phone2.jpg" id="ph2" alt=""></div></div>
+      <div class="chip glass" id="c1">TikTok</div><div class="chip glass" id="c2">Reels</div>
+      <div class="chip glass" id="c3">YouTube</div><div class="chip glass" id="c4">LinkedIn</div>
+    </div>
+    <div class="title" id="t4b" style="top:1600px;font-size:84px">Livrée en <span class="grad-text">7 jours.</span></div>
+  </div>
+
+  <!-- 5. tarifs -->
+  <div class="layer" id="s5">
+    <div class="title" id="t5a" style="top:200px;font-size:132px">On casse</div>
+    <div class="title grad-text" id="t5b" style="top:330px;font-size:132px">les prix.</div>
+    <div class="center" id="prices"></div>
+    <div class="kicker" id="k5" style="top:1640px;letter-spacing:.12em;font-size:30px">PRIX HT · VOIX OFF, MUSIQUE ET 2 RETOUCHES INCLUS</div>
+  </div>
+
+  <!-- 6. fin -->
+  <div class="layer" id="s6">
+    <img id="logo" src="assets/logo.png" alt="PIWA">
+    <div class="title" id="t6a" style="top:1010px;font-size:64px;font-weight:700;letter-spacing:-0.01em">Des vidéos qui font <span class="grad-text">vendre.</span></div>
+    <div id="wa" class="glass"><span class="dot"></span>06 86 12 13 71</div>
+    <div class="kicker" id="k6" style="top:1450px;letter-spacing:.2em">ÉCRIVEZ-NOUS SUR WHATSAPP</div>
+  </div>
+
+  <div id="vignette"></div>
+  <div id="grain"></div>
+  <div id="flash"></div>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const clamp = (x, a = 0, b = 1) => Math.max(a, Math.min(b, x));
+const prog = (t, s, d) => clamp((t - s) / d);
+const eOut = (x) => 1 - Math.pow(1 - x, 3);
+const eIO = (x) => x < .5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2;
+const eBack = (x) => { const c = 1.7; return 1 + (c + 1) * Math.pow(x - 1, 3) + c * Math.pow(x - 1, 2); };
+const win = (t, s, e, fi = .35, fo = .35) => Math.min(eOut(prog(t, s, fi)), 1 - prog(t, e - fo, fo));
+const blurIn = (el, t, s, e, rise = 60) => {
+  const a = win(t, s, e, .5, .35), p = eOut(prog(t, s, .6));
+  el.style.opacity = a; el.style.filter = `blur(${(1 - p) * 18}px)`;
+  el.style.transform = `translateY(${(1 - p) * rise}px)`;
+};
+
+// ---- timeline (secondes)
+const T = { PROMPT: 0, PRESS: 3.0, WALL: 3.4, SKILLS: 7.6, FORMATS: 12.4, PRICES: 16.4, END: 22.2, DURATION: 26 };
+const PROMPT_TEXT = "Crée la pub de ma marque";
+
+// ---- construction
+const wall = $("wall");
+for (let i = 0; i < 40; i++) {
+  const d = document.createElement("div"); d.className = "tile";
+  d.innerHTML = `<img src="assets/tile${String((i * 7) % 16 + 1).padStart(2, "0")}.jpg" alt="">`;
+  wall.appendChild(d);
+}
+const SKILLS = [["01", "Script", "Écrit pour capter dès la 1re seconde"], ["02", "Voix off", "Plus de 25 langues"],
+                ["03", "Musique", "Sound design calé sur l'image"], ["04", "Animation", "Motion design 2D & 3D"]];
+const skillsEl = $("skills");
+SKILLS.forEach(([n, h, s]) => {
+  const c = document.createElement("div"); c.className = "skill glass";
+  c.innerHTML = `<div class="row"><h3>${h}</h3><span class="n">${n}</span></div><div class="wave">${"<i></i>".repeat(42)}</div><div class="sub">${s}</div>`;
+  skillsEl.appendChild(c);
+});
+const PRICES = [["15 s", "Réseaux sociaux", 390, 190, ["Voix off", "Musique"]],
+                ["30 s", "Pub · offre · produit", 690, 390, ["Script sur mesure", "Voix off", "Musique"]],
+                ["1 min", "Présentation complète", 990, 700, ["Script sur mesure", "Voix off", "Sound design"]]];
+const pricesEl = $("prices");
+PRICES.forEach(([d, u, o, n, f], i) => {
+  const c = document.createElement("div"); c.className = "price glass";
+  c.innerHTML = `${i === 1 ? '<div class="tag">LA PLUS DEMANDÉE</div>' : ""}<div class="l"><div class="d">${d}</div><div class="u">${u}</div></div>
+    <div class="r"><div class="old">${o} €</div><div class="new grad-text">${n} €</div></div>`;
+  pricesEl.appendChild(c);
+});
+
+function show(id, a) { const el = $(id); el.style.opacity = a; el.style.visibility = a > 0.001 ? "visible" : "hidden"; }
+
+function seek(t) {
+  // ambiance : halos qui dérivent
+  $("g1").style.transform = `translate(${-300 + 220 * Math.sin(t * .35)}px, ${-250 + 160 * Math.cos(t * .3)}px)`;
+  $("g2").style.transform = `translate(${520 + 160 * Math.cos(t * .4)}px, ${1250 + 140 * Math.sin(t * .33)}px)`;
+  $("g3").style.transform = `translate(${300 + 200 * Math.sin(t * .27 + 1)}px, ${700 + 180 * Math.cos(t * .25)}px)`;
+  $("g3").style.opacity = .25 + .2 * (t > T.PRICES ? 1 : 0);
+  $("grain").style.transform = `translate(${(t * 997) % 60}px, ${(t * 613) % 60}px)`;
+
+  // 1. prompt
+  const a1 = win(t, 0.1, T.WALL + .2, .5, .25);
+  show("s1", a1);
+  if (a1 > 0) {
+    const n = Math.floor(PROMPT_TEXT.length * clamp((t - .7) / 1.7));
+    $("typed").textContent = PROMPT_TEXT.slice(0, n);
+    $("caret").style.opacity = (Math.floor(t * 2.4) % 2 === 0 || (t > .7 && t < 2.4)) ? 1 : 0;
+    const enter = eOut(prog(t, .1, 1.1));
+    const press = t > T.PRESS ? eOut(prog(t, T.PRESS, .25)) : 0;
+    $("prompt").style.transform = `translate3d(0, ${(1 - enter) * 120}px, ${(1 - enter) * -500 + press * 260}px) rotateX(${(1 - enter) * 28 + 6 - 6 * enter}deg) rotateY(${-8 + 8 * enter}deg)`;
+    $("send").style.transform = `scale(${t > T.PRESS - .15 && t < T.PRESS + .1 ? .86 : 1 + .06 * Math.sin(t * 6) * (t > 2.4 ? 1 : 0)})`;
+    blurIn($("k1"), t, .3, T.WALL);
+    const s = prog(t, T.PRESS + .05, .35);
+    $("streak").style.opacity = s > 0 && s < 1 ? Math.sin(Math.PI * s) : 0;
+    $("streak").style.transform = `scaleX(${.1 + 1.4 * eOut(s)})`;
+  }
+
+  // 2. mur de vidéos (travelling avant sur un plan incliné)
+  const a2 = win(t, T.WALL, T.SKILLS + .2, .25, .3);
+  show("s2", a2);
+  if (a2 > 0) {
+    const lt = t - T.WALL, k = eIO(prog(t, T.WALL, T.SKILLS - T.WALL));
+    $("wallwrap").style.transform = `translate3d(0, ${-200}px, ${-900 + 700 * k}px) rotateX(${58 - 14 * k}deg) rotateZ(${-16 + 8 * k}deg) translateY(${-900 + lt * 170}px)`;
+    blurIn($("t2a"), t, T.WALL + .5, T.SKILLS);
+    blurIn($("t2b"), t, T.WALL + 1.0, T.SKILLS);
+    blurIn($("k2"), t, T.WALL + 1.6, T.SKILLS, 30);
+  }
+
+  // 3. savoir-faire : cartes empilées en profondeur, caméra en orbite
+  const a3 = win(t, T.SKILLS, T.FORMATS + .2, .3, .3);
+  show("s3", a3);
+  if (a3 > 0) {
+    const k = eIO(prog(t, T.SKILLS, T.FORMATS - T.SKILLS));
+    skillsEl.style.transform = `translate3d(0, ${60}px, ${-300 + 200 * k}px) rotateX(${14 - 6 * k}deg) rotateY(${-32 + 40 * k}deg)`;
+    [...skillsEl.children].forEach((c, i) => {
+      const s = T.SKILLS + .25 + i * .7, p = eBack(prog(t, s, .55));
+      const active = clamp(1 - Math.abs(t - (s + .5)) / .8);
+      c.style.opacity = eOut(prog(t, s, .3));
+      c.style.transform = `translate3d(${(1 - p) * 500}px, ${-390 + i * 290}px, ${(1 - p) * -600 + i * -60 + active * 90}px)`;
+      c.style.borderColor = `rgba(${active > .3 ? "139,92,246" : "255,255,255"},${.16 + .7 * active})`;
+      c.style.boxShadow = `0 40px 120px rgba(0,0,0,.55), 0 0 ${90 * active}px rgba(139,92,246,${.6 * active})`;
+      c.querySelectorAll(".wave i").forEach((b, j) => {
+        const h = 10 + 58 * Math.abs(Math.sin(j * .55 + t * (5 + i)) * Math.cos(j * .17 - t * 2)) * (.35 + .65 * active);
+        b.style.height = h + "px"; b.style.backgroundPosition = `${-j * 20}px 0`; b.style.opacity = .5 + .5 * active;
+      });
+    });
+    blurIn($("k3"), t, T.SKILLS + .1, T.FORMATS, 30);
+  }
+
+  // 4. formats : téléphone en 3D et pastilles
+  const a4 = win(t, T.FORMATS, T.PRICES + .2, .3, .3);
+  show("s4", a4);
+  if (a4 > 0) {
+    const lt = t - T.FORMATS, k = eIO(prog(t, T.FORMATS, T.PRICES - T.FORMATS)), p = eBack(prog(t, T.FORMATS, .7));
+    $("phonewrap").style.transform = `translate3d(0, ${40 + (1 - p) * 500}px, ${-200}px) rotateY(${-38 + 62 * k}deg) rotateX(${8 - 4 * k}deg) rotateZ(${-6 + 6 * k}deg)`;
+    $("ph2").style.opacity = clamp((lt - 1.8) / .3);
+    [["c1", -520, -300, 120], ["c2", 380, -160, 200], ["c3", -470, 260, 160], ["c4", 330, 380, 240]].forEach(([id, x, y, z], i) => {
+      const q = eBack(prog(t, T.FORMATS + .5 + i * .22, .45));
+      const el = $(id);
+      el.style.opacity = eOut(prog(t, T.FORMATS + .5 + i * .22, .25));
+      el.style.transform = `translate3d(${x * q}px, ${y * q + 12 * Math.sin(t * 2 + i)}px, ${z * q}px) translate(-50%, -50%) rotateY(${38 - 62 * k}deg)`;
+    });
+    blurIn($("t4a"), t, T.FORMATS + .2, T.PRICES);
+    blurIn($("t4b"), t, T.FORMATS + 2.0, T.PRICES);
+  }
+
+  // 5. tarifs : l'ancien prix est barré, le nouveau tombe
+  const a5 = win(t, T.PRICES, T.END + .2, .25, .3);
+  show("s5", a5);
+  if (a5 > 0) {
+    blurIn($("t5a"), t, T.PRICES + .05, T.END);
+    blurIn($("t5b"), t, T.PRICES + .35, T.END);
+    const k = eIO(prog(t, T.PRICES + 1.2, T.END - T.PRICES - 1.2));
+    pricesEl.style.transform = `translate3d(0, ${200}px, ${-260 + 120 * k}px) rotateX(${12 - 8 * k}deg) rotateY(${-14 + 18 * k}deg)`;
+    [...pricesEl.children].forEach((c, i) => {
+      const s = T.PRICES + 1.0 + i * .35, p = eBack(prog(t, s, .6));
+      const pos = [-1, 0, 1][i];
+      const focus = i === 1 ? eOut(prog(t, T.PRICES + 3.6, .6)) : 0;
+      c.style.opacity = eOut(prog(t, s, .3));
+      c.style.transform = `translate3d(${(1 - p) * (i % 2 ? -900 : 900)}px, ${pos * 340}px, ${focus * 120}px) rotateY(${(1 - p) * (i % 2 ? 30 : -30)}deg)`;
+      c.style.borderColor = i === 1 ? `rgba(244,114,182,${.4 + .5 * focus})` : "";
+      c.style.boxShadow = `0 40px 120px rgba(0,0,0,.55)` + (i === 1 ? `, 0 0 ${140 * focus}px rgba(244,114,182,.55)` : "");
+      const strike = eOut(prog(t, s + .9, .3));
+      c.querySelector(".old").style.setProperty("--strike", strike);
+      const np = eBack(prog(t, s + 1.25, .45));
+      const nw = c.querySelector(".new");
+      nw.style.opacity = clamp(np * 1.5);
+      nw.style.transform = `scale(${.4 + .6 * np})`; nw.style.transformOrigin = "right center";
+    });
+    blurIn($("k5"), t, T.PRICES + 3.4, T.END, 20);
+  }
+
+  // 6. fin
+  const a6 = win(t, T.END, T.DURATION + 1, .3, .1);
+  show("s6", a6);
+  if (a6 > 0) {
+    const p = eOut(prog(t, T.END, 1.0));
+    $("logo").style.opacity = p;
+    $("logo").style.filter = `blur(${(1 - p) * 24}px) drop-shadow(0 0 ${40 * p}px rgba(139,92,246,.6))`;
+    $("logo").style.transform = `scale(${1.25 - .25 * p})`;
+    blurIn($("t6a"), t, T.END + .6, T.DURATION + 1);
+    const w = eBack(prog(t, T.END + 1.1, .55));
+    $("wa").style.opacity = clamp(w);
+    $("wa").style.transform = `scale(${.6 + .4 * w})`;
+    blurIn($("k6"), t, T.END + 1.5, T.DURATION + 1, 20);
+  }
+
+  // flash sur les coupes
+  const cuts = [T.PRESS + .1, T.WALL, T.SKILLS, T.FORMATS, T.PRICES, T.END];
+  let f = 0;
+  cuts.forEach((c) => { if (t >= c) f = Math.max(f, Math.exp(-(t - c) * 14)); });
+  $("flash").style.opacity = f * .55;
+  // fondu de sortie
+  if (t > T.DURATION - .6) $("flash").style.background = "#000", $("flash").style.opacity = prog(t, T.DURATION - .6, .6);
+  else $("flash").style.background = "#fff";
+}
+window.seek = seek;
+window.TIMELINE = T;
+seek(0);
+// lecture en temps réel quand on ouvre la page dans un navigateur (pour filmer l'écran)
+if (!navigator.webdriver) {
+  const t0 = performance.now();
+  const loop = () => { seek(((performance.now() - t0) / 1000) % T.DURATION); requestAnimationFrame(loop); };
+  requestAnimationFrame(loop);
+}
+</script>
+</body>
+</html>
