@@ -16873,3 +16873,105 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 257. Glass and Metal Craft (Wixom, Michigan) — `sales@glassandmetalcraft.com` — ANGLAIS — premier contact
+
+### PREPARE LE 12h16 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **⚠️⚠️ ET LA LOCALISATION QUE JE PORTAIS ETAIT FAUSSE, C EST LA LECON DE CETTE FICHE.** Je
+  cherchais `Glass and Mirror Craft` **a South Gate en Californie**, d apres le releve de la liste
+  IGCC. La maison est a **Wixom dans le Michigan**, a trois mille kilometres, et *Glass + Mirror
+  Craft* est sa **division** de faconnage, pas une societe. **C est la lecon Arquetipo et la lecon
+  Glaz-Tech reunies** : un fait de localisation lu dans un resume n est pas un fait — **et il ne
+  l est pas davantage quand il sort d une liste de certification.** A appliquer aux autres noms du
+  meme releve dont j ai note la ville.
+- **FACONNEUR PUR**, meilleure classe du §6. Vitrage isolant, verre epais, faconnage architectural,
+  **au service des miroitiers-poseurs des Etats-Unis et du Canada**.
+- **⚠️⚠️ LE FAIT QUI DECIDE DE L ANGLE : ils se presentent comme les PREMIERS a avoir faconne du
+  SunGuard SNX 62/27 sur du verre epais.** `SunGuard` est la marque a couche de **Guardian**,
+  producteur float au §6. **Une marque dans une gamme dit qu on ACHETE** : prospect et non
+  concurrent, et on sait contre qui l on se place. Meme lecture que Precision Glass Industries ce
+  matin.
+- **Adresse lue dans le PIED DE PAGE de leur propre site**, meme domaine. Anti-rebond satisfaite.
+- **⚠️ DEUX BOITES ECARTEES** : `arc-projects@` est une boite de **soumission de projets pour
+  architectes**, donc cote client, et elle n est lue que dans le **texte d aide d un formulaire** —
+  reserve Conciera. Et une boite **nominative de ressources humaines** figure sur leur page
+  carrieres : **le §5 l interdit**, cas Lahey, **troisieme fois cette semaine**.
+- **⚠️ `Forman Glass` est une autre marque portee par le MEME domaine** : pas de seconde fiche, meme
+  logique que `Window World` chez Vetriko il y a une heure.
+- **REGLE PRODIESA** : vitrage isolant et faconnage **sortent** de l offre.
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul.**
+- **⚠️ GRANDS LACS, donc le port se demande au lieu de se supposer.**
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for Wixom - a second origin out of Europe`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. You publish a sales address, so if this lands on a selling desk,
+please pass it to whoever buys your sheet.
+
+I am writing to you rather than to a glazier because of where you sit in the
+chain: the glaziers are your customers, and you are the one buying sheet by
+the load. Insulated units, heavy glass, architectural fabrication - all three
+start on the same rack. Sheet by the load is the only thing I deal in.
+
+So let me be precise about what I am NOT offering. The sealed unit, the
+spacer, the heavy fabrication, the metal: that is your work, not mine, and I
+have nothing to sell you there. What I am offering is what sits on the rack
+before any of it starts:
+
+- clear and extra-clear float glass, the base of every line you run
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass for the insulating side
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror, for the mirror side of the business
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+I also know, because you say it yourselves, that your coated glass carries a
+named float producer's brand. That is not a reason for me to stay away - it
+is the reason I am writing. Being first to fabricate a coating on heavy glass
+means your line is ahead of your supply, and a line that is ahead of its
+supply is the one that suffers most when one origin runs short.
+
+On timing. Since April the imported sheet that used to set the floor carries
+antidumping and countervailing duties - 181.52 percent on the Chinese entity,
+countervailing duties from 17.3 to 102 percent on Malaysia. European glass is
+named in neither order. That is a customs fact and nothing more. I am not
+quoting you a number in a first letter, and I am not claiming our glass is
+cheap. I am saying the comparison is not what it was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your tables are set up for is not an obstacle. We can put together
+an offer for delivery to your port of destination, subject to validation on
+our side. Wixom is inland, so I will not guess your port - tell me which one
+your freight already uses and I will work to it.
+
+What I need back is small: which thicknesses and coatings actually go into
+the units, the sheet sizes your tables want, a rough annual volume with how
+often you buy, and that port.
+
+And the honest part. A fabricator serving glaziers in two countries has a
+supplier who earned the place, and I am not asking to replace him. I am
+asking to be the second name on the list, for the week the first one is
+short. If that is of no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

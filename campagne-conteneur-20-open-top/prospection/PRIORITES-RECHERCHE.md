@@ -2064,3 +2064,27 @@ facadier qui achete coupe au trempeur qui achete de la feuille.
 2. **Tecnovidrio** (Mexico) et le troisieme **Insulite Glass**, celui d **Atlacomulco** au Mexique —
    a ne pas confondre avec les deux americains du Kansas et du New Jersey, deja traites.
 3. **Tecnoglass** (Barranquilla), **seulement apres** avoir leve le lien Vidrio Andino.
+
+### ⚠️ LA VILLE LUE SUR UNE LISTE DE CERTIFICATION N EST PAS UN FAIT — mesure du 19/10 a 12h17
+
+**Glass and Mirror Craft etait notee *South Gate, Californie*. La maison est a WIXOM DANS LE
+MICHIGAN**, a trois mille kilometres, et *Glass + Mirror Craft* est la **division** de faconnage de
+**Glass + Metal Craft**, pas une societe. **Le nom etait bon, la ville etait fausse, et le statut
+juridique aussi.**
+
+**LE CHIFFRE HONNETE, parce qu il decide de la conduite : sur les huit noms du releve dont j avais
+note la ville, SEPT etaient justes** — Dallas pour Blue Star, Largo pour Advanced Impact, Houston
+pour Precision, Olathe pour Insulite, Davenport pour Mid-American, Wyoming pour Wolverine,
+Americus pour Southern Wholesale. **Une sur huit etait fausse.** Ce n est donc pas une source a
+rejeter, c est une source a **verifier au second temps**, comme toutes les autres.
+
+**CE QUE CELA AJOUTE AUX LECONS ARQUETIPO ET GLAZ-TECH :** on savait qu un **portail** et qu un
+**moteur de recherche** peuvent misclasser un pays ou un Etat. **On sait maintenant qu une liste de
+CERTIFICATION le peut aussi** — et c est plus surprenant, puisqu elle certifie une **usine**, donc
+un lieu. L explication tient a ce que la §13 disait deja pour Midwest Glass Fabricators : **ce qui
+est certifie est un SITE, sous le nom commercial qu il portait le jour de l essai.** Une division
+peut donc y figurer sous son propre nom, et son adresse y vieillir.
+
+**CONDUITE : la ville ne se porte au registre qu apres le second temps sur le domaine de la
+societe.** Avant cela elle se note comme indicative, jamais comme etablie — et surtout elle ne sert
+pas a formuler la requete du premier temps, ou elle fait perdre l appel.
