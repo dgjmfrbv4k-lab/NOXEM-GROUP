@@ -2003,3 +2003,64 @@ Nord.
    et le mot *window* est dans la liste des mots qui ferment une piste au paragraphe 6. Ils font leur
    propre vitrage isolant parce qu ils sont integres, pas parce qu ils achetent de la feuille au
    marche.
+
+
+## LE FILON IGCC N EST PAS AMERICAIN, IL EST INTERNATIONAL — mesure du 19/10 a 12h10
+
+**Un seul appel sur la liste, formule sur les pays au lieu des Etats, a rendu des licencies au
+CANADA, au MEXIQUE, au CHILI, en COLOMBIE et au BRESIL.** Tout ce qui precede traitait ce filon
+comme une source americaine. **C est faux, et c etait une limite de MA requete, pas de la source.**
+
+**CE QUE LES SIX PREMIERS NOMS INTERNATIONAUX ONT DONNE, parce que le chiffre compte autant que la
+trouvaille :**
+
+| Nom | Pays | Issue |
+|---|---|---|
+| **Comercial Dialum** | Chili | **fiche DEVERROUILLEE** — elle etait au registre depuis le 15/10 en `A ETABLIR` et sans coordonnees |
+| **Fenplast** | Canada | fiche creee, adressee, texte 253 |
+| **GlassecViracon** | Bresil | fiche creee, **telephonique par verdict** — leur page obfusque ses adresses |
+| **Vidrio Duro de Mexico** | Mexique | fiche creee avec son **verdict** — aucun domaine propre au monde |
+| **Prelco**, **Novatech** | Canada | **deja au registre**, deux seconds temps economises |
+| **Skyland Insulated Glass** | Colombie | **introuvable, et le verdict est ci-dessous** |
+| **Tecnoglass** | Colombie | **NON OUVERTE — le paragraphe 6 impose de lever d abord son lien au capital de VIDRIO ANDINO**, producteur float colombien |
+
+**CE QUE CELA CHANGE POUR LA METHODE, ET C EST LE POINT LE PLUS UTILE : UN ORGANISME DE
+CERTIFICATION QUALIFIE LA OU UN PORTAIL NE FAIT QU IDENTIFIER.** La lecon Imporex dit qu un portail
+sectoriel nomme sans qualifier. **Une liste de licencies dit l inverse : elle n est pas declarative,
+elle atteste qu une usine a passe un essai en laboratoire.** C est exactement ce qui a permis de
+lever le `A ETABLIR` de Dialum sans depenser un appel de qualification.
+
+**⚠️ ET LE VERDICT SKYLAND, ECRIT POUR QUE L APPEL NE SOIT PAS REDEPENSE :** la seule societe
+barranquillera de ce nom au registre du commerce colombien est **Grupo Skyland Colombia S.A.S.**,
+dont l activite declaree est le **developpement de logiciels**. Ce n est pas elle. L entree IGCC
+etait donnee comme **ancienne** par la recherche, donc l usine a vraisemblablement ferme ou change de
+nom. **Aucune fiche creee.** La meme recherche a rendu deux noms barranquilleros de plus, ecartes au
+tri metier du paragraphe 6 avant tout appel : `vidriosbarranquilla.com` est **verrier + pose**, la
+classe a zero pour cent, et `Distriglass Aluminios` est de la classe **aluminium** a 3,6.
+
+**⚠️⚠️ ET IL FAUT REGLER UNE CONTRADICTION QUE J AI CREEE MOI-MEME DANS L HEURE, plutot que de la
+laisser dormir : LE POINT 4 CI-DESSUS DIT D ECARTER ANDERSEN ET PELLA PARCE QUE CE SONT DES
+FABRICANTS DE FENETRES — ET J AI OUVERT FENPLAST, QUI EST UN FABRICANT DE FENETRES.**
+Les deux decisions tiennent, mais seulement si l on dit **ce qui les separe**, et ce n est pas le
+metier :
+1. **LA TAILLE, donc le contrat cadre.** Andersen et Pella sont des geants continentaux dont le
+   verre vient d accords de volume avec un producteur float americain — Cardinal est nomme au
+   paragraphe 6 pour ses sept sites. Une seconde origine n y est pas une option, c est une rupture
+   de contrat. Fenplast est une usine quebecoise de 350 salaries.
+2. **LE PAYS, et c est le critere qui decide.** Un menuisier **americain** integre achete a un
+   producteur **national**. Un menuisier **canadien** n a aucun producteur national — le Canada est
+   le seul pays du G20 sans ligne float — donc **il importe deja**, et la question pour lui n est
+   pas *importer ou non* mais **de quel pays**. C est exactement l argument du paragraphe 6 sur les
+   90 pour cent venus des Etats-Unis.
+**REGLE : le mot *window* ferme une piste dans un pays qui PRODUIT son float, et il ne la ferme pas
+dans un pays qui n en produit pas.** Le critere n est donc pas le metier seul, c est le metier
+**croise au pays** — et c est la meme logique que le tri metier du paragraphe 6, qui opposait deja le
+facadier qui achete coupe au trempeur qui achete de la feuille.
+
+### RESTENT SUR LE FILON INTERNATIONAL
+1. **La liste internationale n est pas epuisee** : un seul appel l a interrogee par pays, et elle
+   porte adresse et contact de certification pour chaque licencie. **Un appel de plus sur la liste
+   vaut toujours mieux que deux sur une societe.**
+2. **Tecnovidrio** (Mexico) et le troisieme **Insulite Glass**, celui d **Atlacomulco** au Mexique —
+   a ne pas confondre avec les deux americains du Kansas et du New Jersey, deja traites.
+3. **Tecnoglass** (Barranquilla), **seulement apres** avoir leve le lien Vidrio Andino.
