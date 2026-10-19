@@ -774,3 +774,50 @@ ete appliquee strictement, ce dossier n existerait pas.
 **Et quelle que soit l option, une regle s impose dans les trois : AVANT TOUT ENVOI EUROPEEN,
 VERIFIER DANS `in:sent` QUE L AUTRE CAMPAGNE N A PAS ECRIT A LA MEME ADRESSE.** C est ce controle,
 et lui seul, qui a evite deux fautes Shibaam le 09/10.
+
+---
+
+## ❓ QUESTION TECHNIQUE NEUVE DU 19/10 A 18h46 — QUELLE EST LA PLUS GRANDE FEUILLE QU'ON PEUT CHARGER DANS UN CONTENEUR, ET POURQUOI CELA DECIDE DE L'OFFRE ENTIERE
+
+**FAITS.**
+1. Une passe de recherche par vocabulaire de stock a rendu, chez **trois grossistes australiens
+   independants** — Davis Glass a Melbourne, Glass Australia a Malaga, Sydney Glass a Bankstown — **la
+   meme cote de stock, le 2440 x 3660 mm**, sur toutes leurs epaisseurs de 6 a 12 mm.
+2. **Une page de fabricant donne la raison : le 3660 x 2440 serait LA PLUS GRANDE COTE CHARGEABLE DANS
+   UN CONTENEUR.** Si c'est exact, la cote de marche australienne n'est pas une cote de ligne float,
+   c'est une **cote de TRANSPORT** — et elle vaudrait pour nous autant que pour eux.
+3. **⚠️ RESERVE DE SOURCE, ET ELLE EST ENTIERE :** c'est une page **commerciale** d'un fabricant
+   chinois, pas un document de transitaire ni une fiche technique de conteneur. **Je ne l'ai pas
+   verifiee et rien n'en a ete ecrit a quiconque** — le §5 interdit toute condition technique non
+   validee.
+
+**POURQUOI LA QUESTION COMPTE PLUS QU'ELLE N'EN A L'AIR.** Le §4 dit que la cote d'un jumbo n'est pas
+la cote maximale d'une ligne float, et que seule la **largeur** du ruban est contrainte a environ
+3210 mm — **la longueur se coupe a la demande**, ce que deux preuves materielles etablissent
+desormais : le devis d'Aaron a John en 3300 mm, et la grille de stock publiee d'Intervidro en
+**2200 x 3600 mm**. Autrement dit, **du cote de l'USINE la longueur est libre.**
+**Mais du cote du CONTENEUR elle ne l'est peut-etre pas**, et c'est le seul endroit de la chaine ou
+cette campagne-ci est contrainte, puisqu'elle vend **par conteneur complet** et non par camion. Si le
+plafond de chargement est bien de l'ordre de 3660 mm, alors :
+- **une demande de 96 x 130 pouces passe** (2438 x 3302 mm), et c'est la cote de stock nord-americaine
+  qui revient sur Syracuse Glass, Torstenson et United Glass ;
+- **une demande de PLF 6000 x 3210 ne passe pas** dans un conteneur, ce qui donnerait une reponse
+  nette au dossier **Rakosy Uveg** reste ouvert au §4 section 4 ter depuis le 08/10 — et la reponse
+  serait non pour une raison de **transport** et non de production ;
+- et la fourchette entre 3300 et 3660 mm devient **l'argument commercial le plus precis de la
+  campagne** : on peut servir la cote de stock de l'Amerique du Nord et celle de l'Australasie, les
+  deux, et le dire.
+
+**CE QUE JE DEMANDE, ET C'EST UNE SEULE QUESTION A UN TRANSITAIRE :** quelle est la **longueur et la
+hauteur utiles de chargement** d'un **conteneur 20 pieds open top** pour des caisses de verre
+debout sur chant, et donc **quelle est la plus grande feuille expediable** ? La question est du §11 —
+information indispensable qui n'existe nulle part ailleurs — et elle ne demande aucune decision
+commerciale.
+
+**MA RECOMMANDATION.** Poser la question au transitaire en meme temps que les deux autres qui
+attendent — le taux IGI mexicain de la fraction 7005.29.99 pour une origine UE, et l'exoneration
+d'octroi de mer pour les intrants de production aux Antilles. **Un seul appel couvre les trois**, et
+chacune des trois debloque un marche entier.
+**Jusque-la : aucune cote maximale n'est annoncee a aucun prospect**, et les textes continuent de dire
+ce qu'ils disent aujourd'hui — jumbo 3210 x 2550, **ou a vos cotes**, la longueur coupee a la demande.
+C'est vrai de l'usine, et cela n'engage rien sur le chargement.
