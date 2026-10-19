@@ -18025,3 +18025,96 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 269. Templados y Herrajes Ontiveros - TOSA (Monterrey, Nuevo León) — `ventas@templadoraontiveros.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 13h50 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **TREMPEUR ET FABRICANT D UNITES ISOLANTES**, donc **deux lignes et non une**, meilleure classe du
+  §6. **Quatrieme fiche du Nuevo Leon aujourd hui.** Grep passe dans un appel separe sur les deux
+  raisons sociales : **absentes**.
+- **⚠️⚠️ COLLISION DE PATRONYME TRANCHEE, ET ELLE VAUT D ETRE DITE** : le nom `Ontiveros` est aussi
+  porte par un **troisieme domaine de Varsa Continental**, `varsaontiveros.com` — qui est une autre
+  maison de Monterrey, fiche 268. **Les deux sieges diffèrent**, Eugenio Garza Sada pour Varsa et
+  Rio Santa Catarina pour celle-ci, **et le §12 tranche sur le siege et non sur le nom.** Deux
+  fiches distinctes, et le verdict est ecrit dans les deux.
+- **⚠️ ET CE MEME CONTROLE A EVITE UN DOUBLON SUR VARSA** : `varsaontiveros.com` porte **la meme rue
+  et le meme telephone** que `templadosvarsa.com`. C est un domaine de plus de la meme societe, pas
+  une societe de plus. **Troisieme domaine pour une maison, et la coordonnee l a prouve** — c est la
+  lecon SOFAVI appliquee a l envers.
+- **Adresse sur LEUR PROPRE domaine.** Colonne client, seule boite → precedent El Mayorista.
+- **⚠️ CINQ NUMEROS CIRCULENT**, dont deux WhatsApp donnes par leur propre guide de cotation.
+- **REGLE PRODIESA** : trempe, vitrage isolant et quincaillerie **sortent** de l offre. **Et le
+  low-E a d autant plus de sens qu ils assemblent des unites isolantes.**
+- **⚠️ INTERDIT DU §6, SIEGE DE VITRO A MONTERREY MEME** : jamais l absence de production locale,
+  rien sur les droits.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Lámina para el horno y para la cámara - un segundo origen`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Si esta no es la mesa que compra la lamina, le
+agradeceria que la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador porque tienen DOS lineas que comen
+lamina y no una: el horno de templado, y el armado de vidrio insulado. La
+segunda es la que me interesa mas, porque una camara aislante consume
+ademas vidrio con capa, y eso estrecha mucho la lista de origenes que le
+pueden servir. Lamina por contenedor completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado, el armado de
+la unidad, el sellado, los herrajes: ese es su negocio, no el mio, y ahi no
+tengo nada que venderle. Lo que le ofrezco es lo que entra antes de las dos
+lineas:
+
+- vidrio float claro y extra-claro, la base de ambas
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, que es lo que consume la camara
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+No le voy a hablar del mercado mexicano ni de aduanas: estan en Monterrey y
+lo conocen mejor que yo. Le hablo de origen. Dos lineas en la misma nave
+significan que un atraso de su proveedor no para una cosa, para las dos a la
+vez. Un segundo origen europeo no es un cambio de proveedor: es una segunda
+puerta.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun NIMF-15,
+cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se corta a
+pedido, de modo que la medida de stock para la que estan calibradas sus mesas
+no es un obstaculo. Podemos preparar una oferta para la entrega en su puerto
+de destino, sujeta a validacion por nuestra parte. Monterrey esta tierra
+adentro, asi que no voy a adivinar su puerto: digame cual usa ya su flete y
+trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores pasan por el horno, que
+capas low-E entran en las camaras, las medidas de lamina que piden sus mesas,
+un volumen anual aproximado con la frecuencia de compra, y ese puerto.
+
+Y la parte honesta. Dos lineas en operacion significan un proveedor que se
+gano el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre
+de la lista, para la semana en que el primero quede corto. Si eso no le
+interesa, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
