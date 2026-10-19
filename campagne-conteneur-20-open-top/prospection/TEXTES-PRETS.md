@@ -17534,3 +17534,101 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 264. Templados HP (Zapopan, Jalisco) — `ventas@templadoshp.com.mx` — ESPAGNOL — premier contact
+
+### PREPARE LE 12h34 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Seconde fiche du gisement AMEVEC**, prise dans la rubrique *vidrio procesadores*. Grep passe
+  dans un **appel separe** : **ABSENT**.
+- **TREMPEUR**, meilleure classe du §6, dans l agglomeration de Guadalajara.
+- **⚠️⚠️ LE FAIT QUI DECIDE DE L ANGLE : ils se presentent comme FABRICANT CERTIFIE ET HOMOLOGUE DE
+  SAINT-GOBAIN MEXIQUE.** Saint-Gobain est producteur float et figure au §6. **Une marque dans une
+  gamme dit qu on ACHETE** : prospect et non concurrent, et on sait contre qui l on se place.
+  **Troisieme cas du genre aujourd hui** apres Precision Glass avec Guardian et Glass and Metal
+  Craft avec SunGuard.
+- **Adresse sur LEUR PROPRE site**, meme domaine. **Colonne client** et seule boite publiee →
+  precedent El Mayorista, transmission demandee.
+- **⚠️ RESERVE DE SITE, ET ELLE EST REELLE** : leur page d accueil annonce etre **en maintenance**
+  et porte un titre sans rapport. **Controle INDEX Gabon fait** — les pages rendues parlent bien de
+  verre, dont une page de percage, donc le domaine est le leur. **Mais un site en maintenance peut
+  avoir une messagerie instable : adresse a confirmer au premier rebond.**
+- **⚠️ UN WHATSAPP DIFFERE DU FIXE** sur la meme page. Seul le fixe est retenu.
+- **REGLE PRODIESA** : trempe, insule et laminage **sortent** de l offre.
+- **⚠️ INTERDITS MEXICAINS DU §6** : **rien** sur les droits, et **jamais** l absence de production
+  locale — ils sont justement clients d un producteur.
+- **Port de Manzanillo.** Seconde fiche du Jalisco aujourd hui avec Cristacurva, **societes
+  distinctes, verifie au balayage.**
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Sustrato para su horno - un segundo origen desde Europa`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Escribo a la unica direccion que ustedes
+publican: si cae en una mesa de ventas, le agradeceria que la hiciera llegar
+a quien compra la lamina.
+
+Le escribo a ustedes y no a un instalador por lo que son: un horno. Una linea
+de templado no gana nada mientras espera, y solo trabaja si hay lamina en el
+caballete de enfrente. Lamina por contenedor completo es lo unico que yo
+vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado, el insulado,
+el laminado: ese es su trabajo, no el mio, y ahi no tengo nada que venderle.
+Lo que le ofrezco es lo que entra antes de que el horno arranque:
+
+- vidrio float claro y extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, para el lado insulado
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+Y sobre su proveedor actual, voy a ser directo porque ustedes lo son: su
+propia pagina dice que son fabricante homologado de un gran productor de
+vidrio. Eso no es una razon para no escribirle, es la razon por la que le
+escribo. Una homologacion le asegura la calidad y le fija el origen, y el
+origen fijo es justamente lo que duele la semana en que el suministro se
+atrasa. No le pido romper nada.
+
+No le voy a dar cifras en una primera carta, ni le voy a hablar de aduanas de
+su pais, que no me corresponde.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun NIMF-15,
+cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se corta a
+pedido, de modo que la medida de stock para la que esta calibrado su horno no
+es un obstaculo. Podemos preparar una oferta para la entrega en su puerto de
+destino, sujeta a validacion por nuestra parte. Manzanillo, que es el puerto
+natural de Jalisco.
+
+Lo que necesito de vuelta es poco: que espesores pasan por el horno, si
+templan vidrio con capa y cuales, las medidas de lamina que piden sus mesas,
+un volumen anual aproximado con la frecuencia de compra, y el puerto.
+
+Y la parte honesta. Un horno homologado tiene un proveedor que se gano el
+puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre de la
+lista, para la semana en que el primero quede corto - y un horno frio es la
+cosa mas cara de su planta. Si eso no le interesa, digamelo con franqueza y
+no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
