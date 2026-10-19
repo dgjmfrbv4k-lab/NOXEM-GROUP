@@ -27,6 +27,14 @@ PRODUCTEURS = {
     'Mexique': 'Vitro via Vidrio Plano de Mexico, et Guardian Industries de Mexico (float et miroir)',
     'Indonésie': 'Asahimas',
     'Chili': 'Vidrios Lirquén',
+    'Venezuela': "GUARDIAN, usine de vidrio flotado a MATURIN, lancee en coentreprise en 1990\n"
+                 "                selon le portail sectoriel. Ajoutee le 19/10 et c'etait un trou : quatorze\n"
+                 "                fiches venezueliennes ont ete creees ce jour-la et le pays n etait pas couvert.\n"
+                 "                Guardian est aux concurrents du paragraphe 6 depuis le debut.\n"
+                 "                RESERVE DE SOURCE A TENIR : le fait a TRENTE-SIX ANS et rien n etablit que le\n"
+                 "                four tourne aujourd hui, dans un pays dont l industrie a beaucoup souffert.\n"
+                 "                C est donc un fait a VERIFIER et non a servir — ce qui suffit, au sens du\n"
+                 "                paragraphe 6, a s interdire l argument de l absence d offre en attendant.",
     'Colombie': "VIDRIO ANDINO, a Soacha (Cundinamarca), km 6,5 route Soacha-Mondonedo.\n"
                  "                Ajoute le 14/10 et c'etait un TROU : le paragraphe 6 declare la Colombie\n"
                  "                bon marche sur le miroir et ne nommait aucun producteur colombien.\n"
