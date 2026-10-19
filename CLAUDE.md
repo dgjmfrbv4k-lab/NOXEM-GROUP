@@ -1628,6 +1628,22 @@ trois chaines.
 qui **argente** son miroir ne doit JAMAIS recevoir notre miroir sans cuivre ni plomb. Ce qui entre est
 le **float clair et l'extra-clair** — et le `low-iron` de leur gamme est le mot anglais de notre
 extra-clair, donc la reference se nomme d'elle-meme.
+**⚠⚠ ET LA LIMITE DE CETTE METHODE A ETE MESUREE DANS L'HEURE QUI A SUIVI, SUR TROIS MARCHES, ET ELLE
+EST SEVERE : LA MARQUE PROPRE DU DISTRIBUTEUR CACHE LE FABRICANT.** Le rayon de Lowe's expose
+`Gardner Glass Products`, c'est-a-dire le nom du **fabricant**, et c'est ce qui a rendu la methode
+possible. **Les trois autres chaines testees ne l'exposent pas :**
+- **Bunnings** (Australie) vend sous **`Essential Glass`**, sa propre marque.
+- **Telhanorte** (Bresil) vend sous **`Exclusivo Telhanorte`** et **`Alterna`**, et ses pages ne portent
+  qu'un **code fournisseur interne** du genre `LJ-1028`, qui ne nomme personne.
+- **Leroy Merlin Bresil** vend sous **`Versatik`**.
+**DONC LA METHODE NE MARCHE QUE LA OU LA CHAINE REVEND LA MARQUE DU FABRICANT, et la marque propre est
+la norme plutot que l'exception.** Conduite : **un seul appel par chaine, et on s'arrete des que le
+rayon ne rend qu'un nom de distributeur** — il n'y a rien derriere, et chercher le fabricant d'une
+marque propre coute des appels pour rien. Le seul reste exploitable d'une passe negative est un nom qui
+ne ressemble pas a celui de l'enseigne, comme **`Glass Vale`** sur une chapa de miroir bresilienne.
+**⚠️ Et `Alterna` illustre au passage le token contamine du §5 :** grepe sur la ligne entiere il rend
+**58 fiches**, parce que le mot *alternative* est dans la prose de tout le registre. On regrepe alors
+sur le champ raison sociale seul, comme pour `prodiesa`.
 **⚠️ ET LE GARDE-FOU QUI VA AVEC : ces maisons ne connaissent pas le vocabulaire verrier et elles ne
 sont PAS des verriers.** La regle Prodiesa s'y applique comme ailleurs — ce qu'elles fabriquent sort
 de l'offre — et il ne faut pas leur **asserter** leur specification. Sur Perficom le low-E est le
