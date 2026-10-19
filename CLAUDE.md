@@ -2940,6 +2940,23 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   domaine ressemble au nom de la société ? Si non, et si la page ne dit pas pourquoi, on ne la retient
   pas.** À distinguer de l'exception légitime du §5 — une société qui publie une boîte `gmail` ou le
   domaine d'une société sœur **sur sa propre page de contact**, ce qui s'emploie et se note.
+  **⚠️⚠️ PIÈGE DE LA MÊME FAMILLE, TROUVÉ LE 19/10 À 12h27, ET C'EST LE PLUS BÊTE DES TROIS PARCE
+  QUE L'ADRESSE EST SUR LE BON DOMAINE ET N'EXISTE PAS : LE TEXTE DE REMPLISSAGE D'UN FORMULAIRE.**
+  Cas réel : **Vidrio Bisel** (Monterrey). Leur page de recrutement affiche
+  **`correo@vidriobisel.com.mx`** — bon domaine, forme parfaite, règle anti-rebond satisfaite à la
+  lettre. **Et `correo` veut dire *courriel* en espagnol : c'est le libellé du champ, pas une
+  boîte.** L'employer serait **inventer une adresse** au sens du §5, exactement comme reprendre le
+  schéma d'un courtier.
+  **LE TEST, ET IL COÛTE ZÉRO APPEL : lire la PARTIE LOCALE comme un mot.** `correo`, `email`,
+  `mail`, `nombre`, `your-email`, `ejemplo`, `example`, `usuario`, `tuempresa`, `name` et
+  `prenom.nom` ne sont pas des boîtes, ce sont des **légendes de champ**. Une vraie boîte dit une
+  fonction (`ventas`, `compras`, `info`, `contacto`) ou un nom de personne.
+  **ET C'EST LA MÊME FAMILLE QUE LES TROIS AUTRES PIÈGES D'ADRESSE, par un quatrième chemin :**
+  Conciera publiait la sienne dans les **données structurées** et non à l'écran, Leader Mat rendait
+  celle de son **agence web** dans le code de la page, WM Guadeloupe une adresse **corrompue d'une
+  lettre** — et ici le texte est à l'écran, lisible, sur le bon domaine, **et ne désigne personne.**
+  Le point commun des quatre : **ce qui ressemble à une adresse sur la page d'une société n'est pas
+  toujours une adresse de cette société**, et seule la lecture du texte autour le dit.
   **SEPTIÈME SIGNATURE, TROUVÉE LE 13/10, ET ELLE EST PIRE QU'UNE ADRESSE MORTE PARCE QU'ELLE N'EST
   PAS SILENCIEUSE : LE DOMAINE A ÉTÉ REPRIS PAR UN TIERS.** Cas réel : **Vicar — Vidros e Espelhos**
   (Portugal). La recherche restreinte à `vicar.pt` rend bien `geral@vicar.pt` et le 219 552 548, lus
