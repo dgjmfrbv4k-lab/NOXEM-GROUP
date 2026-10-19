@@ -464,6 +464,31 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   qu'il soit nommé ici ou non — c'est la nature du service qui compte, pas le nom).
   **QUATRE DE PLUS, remontés le 11/10 sur des recherches africaines et nigériane :** `importers.africa-business.com`, qui vend une liste téléchargeable de contacts d'importateurs africains avec des adresses masquées en échantillon ; **`panjiva.com`** et **`importkey.com`**, qui vendent des relevés d'importation nominatifs ; et **`marketinsidedata.com`**, qui publie des totaux d'import-export par société. Même nature que Volza, donc même interdit — et à mettre dans `blocked_domains` plutôt qu'à écarter après coup, parce qu'ils occupent sinon la moitié des résultats sur une recherche d'importateur.
   **DEUX DE PLUS, remontés le 11/10 au soir sur une recherche panaméenne :** **`veritradecorp.com`**, qui vend des relevés d'importation et d'exportation par société, et **`dnb.com`**, qui vend des profils et des contacts d'entreprises. Même nature que Volza, donc même interdit — et à mettre dans `blocked_domains` d'emblée. **Précision utile pour ne pas sur-bloquer :** un **portail sectoriel** comme `vidrioperfil.com` n'est PAS un courtier, il recense les verriers d'un pays et son recensement est une piste d'identification légitime. Il ne satisfait simplement pas la règle anti-rebond, comme tout annuaire.
+  **⚠️⚠️ ET LE 19/10 AU SOIR TRANCHE LE CAS `kompass.com`, QUI N'ÉTAIT NULLE PART DANS CE MANDAT ALORS
+  QUE 18 FICHES LE CITENT — ET LA RÉPONSE EST QU'IL N'EST PAS UN COURTIER. Je consigne aussi que je
+  l'ai d'abord cru, parce que la mesure m'a contredit et que c'est elle qui compte (§16).**
+  Devant une recherche marocaine je l'ai classé courtier au test de la nature — « un site qui vend
+  des profils et des contacts d'entreprises » — c'est-à-dire la nature exacte de `dnb.com` et
+  d'`emis.com`. **Mesure faite avant d'écrire quoi que ce soit : 18 fiches le citent, en Algérie (8),
+  au Maroc (8) et au Liban (2) ; UNE SEULE porte une adresse e-mail au champ, et UNE SEULE a été
+  envoyée.**
+  **Et la lecture des notes montre que les sessions antérieures l'avaient DÉJÀ traité correctement,
+  comme un annuaire :** sur *Vitre Khezzane*, « elles viennent toutes deux d'ANNUAIRES — Kompass,
+  Pages Jaunes Algérie, El Mouchir… et JAMAIS de la page de contact de la société », adresse **non
+  retenue** ; sur *Vitrosak*, « le domaine n'apparaît pas dans les URL de résultats, qui sont toutes
+  des annuaires — El Mouchir, Kompass… La règle anti-rebond n'était donc pas satisfaite ».
+  **LE TEST QUI SÉPARE LES DEUX FAMILLES, et il est plus net que « vend-il des données » :
+  un COURTIER vend, PAR SOCIÉTÉ, ce qu'on ne peut obtenir autrement — relevés d'importation
+  nominatifs, annuaires de salariés, schémas d'adresse. Un ANNUAIRE publie un RECENSEMENT :
+  des noms rangés par pays et par rubrique.** `kompass` est de la seconde famille, comme
+  `vidrioperfil`, `telecontact.ma`, les Pages Jaunes et les agrégateurs de registre CNPJ.
+  **CONDUITE, inchangée et désormais écrite : on lui prend des NOMS et des RUBRIQUES, jamais une
+  adresse ni un contact** — il ne satisfait pas la règle anti-rebond — **et jamais son métier, qui
+  est la leçon Imporex** : un annuaire IDENTIFIE, il ne QUALIFIE pas, et le métier se réétablit sur
+  le domaine de la société. C'est exactement ce que les 18 fiches font déjà, toutes en `A QUALIFIER`
+  ou `A APPELER` avec la gamme « non établie ».
+  **Ce qui reste à faire sur ces 18 fiches n'est donc pas une correction mais leur second temps
+  normal**, et il est d'autant plus dû que leur qualification actuelle ne vaut rien.
   **UN DE PLUS, remonté le 12/10 sur une recherche américaine : `importinfo.com`**, qui vend des relevés de connaissements et de manifestes par société — 222 pour Glasscorp sur 2019-2025. Même nature que Volza, donc même interdit et à mettre dans `blocked_domains`.
   **ET UN AUTRE LE MÊME JOUR À 17h30, SUR LA MÊME RECHERCHE AMÉRICAINE : `importdoor.com`**, qui vend lui
   aussi des relevés de connaissements par société. **Celui-là mérite d'être raconté, parce qu'il montre
