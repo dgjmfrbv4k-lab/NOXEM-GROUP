@@ -3091,3 +3091,82 @@ Integrite : aucune ligne malformee. `A APPELER` sans telephone : 0.
 5. **Grands Etats americains sans federation** — le filon est desormais mesure comme **ferme** en
    Georgie, en Ohio et en Pennsylvanie. Restent New York, les Carolines, l'Arizona, le Nevada et la
    Louisiane, **et il faut y entrer par un portail sectoriel et non par le moteur.**
+
+---
+
+## 19/10 a 18h28 — ⚠⚠ CORRECTION DE LA LISTE DE PRIORITES ECRITE UNE DEMI-HEURE PLUS TOT
+
+**Deux des cinq priorites que je venais d'ecrire sont FAUSSES, et le registre les a dementies dans
+l'heure. Je les corrige ici plutot que de les reecrire en silence.**
+
+### Priorite 1 — ABRAVIDRO, liste des associes : DEMENTIE. Elle est largement moissonnee.
+J'avais ecrit qu'elle n'etait pas moissonnee, au motif que **Pestana Vidros** et **Sao Cristovao
+Temper** en etaient sorties ce matin alors que le paragraphe 6 la donnait pour prise.
+**Mesure faite : seize noms grepes, TREIZE deja au registre, trois absents.** Les deux trouvailles du
+matin etaient l'**exception** et j'en avais tire une regle.
+Les trois absents sont crees : **EM Vidros** (Raposa, Maranhao, coordonnees completes, et c'est le
+seul nom du NORD-EST bresilien du lot), **TVT Vidros Temperados** et **Art Vidros** (noms seuls).
+Matiere versee dans quatre fiches existantes : **Cyberglass** (adresse relevee et NON portee au
+champ, plus la certification LAMINE qui double le besoin en float nu), **Cristal Sete** (ABRAVIDRO
+publie la MEME boite que le registre, donc le statut `A RENVOYER` ne trouvera pas de seconde boite
+par cette source — la fiche part au telephone), **Temperaco** et **Vidrosistemas**.
+
+### Priorite 3 — Santiago de los Caballeros « jamais testee » : DEMENTIE. Elle est faite.
+Sur six noms rendus, **cinq etaient deja au registre** — Vidmetal, **Torniacero envoyee le 12/10**,
+**Biselados del Caribe relancee le 12/10**, Comercial Cristal et Vidriera Eurocaribe. Un seul absent,
+**Aluvidrio**, cree sous le nom suffixe du pays parce que le grep rend *Aluvidrios Alessi* au
+Venezuela.
+
+### ⚠ LA CAUSE DES DEUX ERREURS EST LA MEME, ET ELLE EST DEJA AU PARAGRAPHE 13
+**J'ai bati ces priorites sur le souvenir des REQUETES lancees, et non sur une lecture du REGISTRE.**
+C'est exactement la faute du zero obtenu sur un champ non verifie : un verdict de couverture ne se
+tire jamais de ce qu'on croit avoir cherche, **il se grepe**. Et le grep coute une seconde quand une
+passe de decouverte coute deux appels par fiche.
+**Conduite : une priorite de recherche ne s'inscrit ici qu'apres un `grep-nom.py` sur deux ou trois
+noms temoins du gisement.** Deux lignes de controle auraient evite les deux.
+
+### ⚠ CE QUI EST VRAI ET NEUF, EN REVANCHE : LA RUBRIQUE DES FABRICANTS DE `vidrioperfil` QUALIFIE MIEUX QUE SA RUBRIQUE DE NEGOCE
+Priorite 2 tenue, et elle paie. Le paragraphe 6 mesure ses rubriques de **negoce** a un confirme pour
+quatre dementis ; la rubrique des **fabricants**, jamais lue, **ne se trompe pas sur les trois noms
+verifiables du lot** — Vitro, Guardian de Mexico et Saint-Gobain Glass Mexico y sont correctement
+decrits comme fabricants.
+**La raison est structurelle et elle se reutilise ailleurs : une maison a un FOUR ou une TREMPE, ou
+elle n'en a pas.** Elle ne peut pas se declarer fabricant sans l'etre. Le mot *distribuidor*, lui,
+est une declaration que n'importe qui peut faire — c'est ce qui avait fait prendre un facadier pour
+un stockiste sur **Faiquito** et un applicateur de films sur **Ingesob**.
+**Donc : sur un portail sectoriel, lire la rubrique des FABRICANTS avant celle du NEGOCE.**
+Quatre fiches mexicaines creees — Viseg, Mubor Glass, Vitraud, Alcridisa — et **dix noms sur quinze
+deja au registre, donc le Mexique est largement fait.**
+
+### ⚠ ET UN CHIFFRE QUI MESURE L'INFIABILITE GEOGRAPHIQUE DE CE PORTAIL : TROIS PAYS POUR UNE SOCIETE
+**VILUX ex Vidriocar** y est donnee sous le **Perou** le 14/10, sous le **Mexique** ce soir, et la
+seule fiche reelle est **PARAGUAYENNE** — VILUX S.A., groupe Costa, Fernando de la Mora, contactee le
+09/10. Le paragraphe 5 soupconnait la collision ; elle est desormais chiffree. **La colonne pays de
+ce portail ne vaut rien**, et le paragraphe 12 impose de trancher sur le siege et l'immatriculation.
+
+### ⚠ ET UN FAUX POSITIF DE `grep-nom.py` ATTRAPE DEUX FOIS DANS LA MEME HEURE, PAR LA SEULE LECTURE DES LIGNES
+Le script cherche des **sous-chaines** du nom aplati, donc il **sur-signale** autant qu'il
+sous-signale :
+- `artvidros` ressort de **SMARTVIDROS** (Belo Horizonte) — deux maisons distinctes.
+- `aluvidrio` ressort de **ALUVIDRIOS ALESSI** (Venezuela) — deux maisons distinctes.
+**Dans les deux cas j'ai failli declarer le nom deja present sur ce seul resultat.** Le paragraphe 5
+tranche et il a tranche : **on lit les LIGNES, jamais le nombre** — et cela vaut dans les deux sens,
+pour un compte nul comme pour un compte non nul.
+
+### Etat du registre a 18h28
+**1806 fiches**, dont **157 au Bresil** et **61 au Mexique**. Balayage : 8 groupes connus.
+Integrite propre. `A APPELER` sans telephone : 0. `verif-argument-float.py` : 0 fiche a corriger.
+**Aucun message d'aucune sorte n'est parti sur cette campagne aujourd'hui.**
+
+### Ou depenser les appels suivants — liste refaite, et cette fois GREPEE
+1. **`vidrioperfil`, rubrique des fabricants, AUTRES PAYS que le Mexique** — la rubrique vient d'etre
+   mesuree comme la plus fiable du portail, et elle n'a ete lue que pour un pays.
+2. **Regionales bresiliennes dont le nom passe le filtre du paragraphe 6** : Amvid (Minas Gerais),
+   Avigo (Goias), Sindividros-RS. **A greper sur deux noms temoins avant d'y depenser un appel.**
+3. **Nord-Est bresilien** — EM Vidros est la seule fiche du Maranhao, et tout le bloc bresilien est
+   concentre sur Sao Paulo, le Parana, le Minas et Brasilia. Recife, Fortaleza, Salvador et Sao Luis
+   sont les villes a tester, **une par requete**, et chacune est plus proche de l'Europe par mer que
+   Santos.
+4. **Grands Etats americains sans federation** — New York, les Carolines, l'Arizona, le Nevada, la
+   Louisiane, **et par un portail sectoriel et non par le moteur**, la Georgie, l'Ohio et la
+   Pennsylvanie ayant ete mesurees fermees ce soir.
