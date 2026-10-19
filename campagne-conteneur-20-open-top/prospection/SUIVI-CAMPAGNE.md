@@ -8009,3 +8009,55 @@ malformee, balayage des doublons a **8 groupes** tous connus et traites, `A APPE
 `A ENVOYER` n'est pas une autorisation, c'est une file d'attente.
 **Et 281 fiches portent un numero sans qu'aucun appel n'ait jamais ete passe** — c'est le gisement que
 la soiree a encore grossi, et il ne se debloque que par un creneau d'appels.
+
+## 20h33 — SOIREE DU 19/10, LOT PAR LOT, ET LES CINQ CHIFFRES DU PARAGRAPHE 3 SEPARES
+
+**LES CINQ CHIFFRES, ET LE TROISIEME EST CELUI QUI COMPTE :**
+· recherches lancees ce soir : une trentaine d appels, en huit lots
+· **ENVOIS CONFIRMES : ZERO.** Aucun message n est parti, sur aucun lot, a aucun moment
+· reponses qualifiees : zero ce soir
+· demandes de devis : zero ce soir
+· commandes : zero
+**La file d envoi attend l accord expres de Kevin, message par message, consigne du 15/10 a 09h41.**
+
+**ETAT DU REGISTRE : 1869 fiches.** A QUALIFIER 549 · A APPELER 284 · A ENVOYER 90 ·
+A VALIDER AARON 41.
+
+**CE QUI A ETE TROUVE, PAR ORDRE D IMPORTANCE.**
+
+**1. UNE METHODE DE DECOUVERTE, MESUREE SUR QUATRE LANGUES.** La requete de vocabulaire de stock —
+les mots de la FRACTION DE FEUILLE : chapa inteira, lamina entera, full case, feuille entiere —
+cherche par **MODE DE VENTE** et non par ville ni par metier. Elle a rendu **31 noms dont 19 deja au
+registre**, soit six sur dix : un taux de recouvrement eleve n est pas un echec, il dit que la
+requete vise la population que des semaines de tri a la main ont deja selectionnee.
+**Et elle est validee par l aval :** United Glass, la seule maison qui ait DEMANDE UN DEVIS,
+annonce sur sa propre page vendre a la feuille, a la caisse, a la demi-caisse ou au camion entier.
+
+**2. UN SECOND AXE, DE PRODUIT ET NON DE GEOGRAPHIE.** Chercher le **procede** — ligne d argenture,
+ligne de feuilletage, ligne de vitrage isolant — ne rend que des maisons dont l achat de substrat
+est une NECESSITE INDUSTRIELLE. Trois argenteurs en un appel. C est la regle Prodiesa prise par
+l endroit : on cherche une maison PARCE QU elle fabrique, et on ne lui propose que l amont.
+
+**3. LA REGLE DU RUBAN DU PARAGRAPHE 4 N A PLUS A ETRE DEFENDUE.** Sept sources, cinq pays, quatre
+continents, aucun contre-exemple — et la meilleure est une TABLE : Metro Performance Glass publie
+5100 x 3210 pour les epaisseurs a partir de 5 mm, 4500 x 3210 pour le 4 mm. La largeur est 3210
+partout, seule la longueur bouge.
+
+**4. LA QUESTION DE L AUTOCLAVE EST REPONDUE.** Les equipementiers calibrent les lignes de
+feuilletage a 3300 mm, donc AU-DESSUS de 3210. La question n est plus technique mais factuelle, et
+elle est pour Aaron : la cote de NOS autoclaves.
+
+**5. UNE PANNE DE GARDE-FOU QUI MASQUAIT 112 FICHES ACTIVES.** `verif-argument-float.py` ignorait
+toute fiche dont la note contient le mot DOUBLON — la convention que le paragraphe 12 a condamnee le
+13/10, corrigee alors dans un seul outil sur deux. Une note disant BALAYAGE DES DOUBLONS PASSE
+rendait donc la fiche aveugle a l autre controle. **Reparee**, et elle a immediatement rendu une
+vraie faute : Pacific Glass Corporation affirmait que les Philippines n ont pas de ligne float,
+interdit nommement depuis le 15/10.
+
+**6. ET UNE FAUTE DE METHODE DE MA PART, consignee au titre du paragraphe 16 :** pour verifier les
+fiches marocaines j ai improvise une regex au lieu de lancer le script, et elle a rendu **26 hits
+dont 24 faux** — exactement la mesure du 12/10, huit cris pour zero loup, refaite cinq jours plus
+tard. Le script existe pour cela.
+
+**SUITE, LES TROIS PRIORITES.** Un, les seconds temps dus sur les fiches ouvertes ce soir. Deux, le
+creneau d appels, qui reste le premier goulot. Trois, la file d envoi, qui attend un mot.

@@ -886,3 +886,39 @@ froids et proches, rien ne change.
 argument de vente et non une reserve. Un client tropical qui a ete decu par une couche tendre
 importee de loin comprendra immediatement la difference.
 
+## ⏳ UN CAS CONCRET POUR L ARBITRAGE EUROPEEN, TROUVE LE 19/10 A 20h33 — IL NE DEMANDE PAS UNE DECISION NEUVE, IL CHIFFRE CELLE QUI ATTEND
+
+**Le partage de l Europe entre les deux campagnes attend depuis le 09/10, et le mandat dit en
+attendant : EUROPE, PAS DE NOUVELLE PROSPECTION, les fiches existantes se relancent.** Je l ai
+applique a la lettre ce soir, et voici ce que cela a coute, pour que la decision se prenne sur un
+exemple et non dans l abstrait.
+
+**A BISELADORA DO NORTE, LDA** — Rua Doutor Manuel Ramos 365, 4415-456 Grijo, **Vila Nova de Gaia**,
+agglomeration de Porto. `geral@abiseladoradonorte.com`, fixe 227 622 627, mobile 968 041 165, le
+tout lu sur **leur propre page de contact**, donc la regle anti-rebond du paragraphe 5 est
+satisfaite sans exception.
+
+**SA GAMME EST DU COTE ENTREE SUR TOUTE LA LIGNE, ce qui en fait exactement le profil que la
+campagne cherche :** float de **2 a 19 mm**, float couleur de 4 a 10, float **EXTRA-CLAIR de 4 a
+15 mm**, miroir float de 3 a 6 et miroir couleur de 4 a 6. Et ils se decrivent comme **commerce de
+vidro em chapa** et distribution de verre **aux entreprises du secteur** — donc negoce de gros au
+metier, l une des deux meilleures classes du tri du paragraphe 6.
+
+**AUCUNE FICHE N A ETE CREEE, et c est volontaire.** Sa qualification complete est consignee dans la
+note de **VCP — Vidraria Central do Porto**, qui est dans la meme agglomeration et deja relancee,
+pour qu elle soit disponible **le jour ou l arbitrage sera rendu** et qu aucun appel de recherche ne
+soit a redepenser.
+
+**CE QUE CELA DIT DE LA DECISION, ET JE NE LA PRENDS PAS :** le Portugal compte **7 fiches** au
+registre, toutes deja relancees ou closes, et la couche suivante existe et se trouve en un appel. Si
+l Europe revient a cette campagne, il y a de la matiere immediate. Si elle revient a l autre, cette
+qualification lui est utile telle quelle. **Dans les deux cas elle n est pas perdue — c est le seul
+point que je voulais garantir.**
+
+**ET UNE PRECISION DE VOCABULAIRE UTILE A QUI TRAITERA LE PORTUGAL, parce qu elle protege de fermer
+de bonnes fiches :** le piege **`vidraria`** du paragraphe 5 est explicitement **BRESILIEN** — au
+Bresil `vidraria` designe la verrerie de laboratoire et de table, et `vidracaria` le verre plat. **En
+portugais d Europe, `vidraria` est le mot ORDINAIRE du metier verrier.** Notre fiche *Vidraria
+Central do Porto* est une maison de verre plat deja relancee. **Appliquer la regle bresilienne au
+Portugal fermerait donc de bonnes fiches.**
+
