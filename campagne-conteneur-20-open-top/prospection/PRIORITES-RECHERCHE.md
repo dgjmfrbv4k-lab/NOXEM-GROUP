@@ -2930,3 +2930,75 @@ n est pas une raison d ecarter le pays — le §0 dit qu une difficulte ponctuel
 campagne — mais c est un element a verser a une decision d Aaron au titre du **§11**, puisque
 toute condition de paiement releve de lui. **Ne pas y investir d appels de recherche avant cet
 arbitrage.**
+
+
+## ⚠⚠ LE FILON DU JOUR POUR LE MARCHE LE PLUS FORT : LES CHAPITRES D ETAT DE LA NGA (19/10 a 16h54)
+
+**C est le gisement le plus prometteur ouvert aujourd hui, et il porte sur les Etats-Unis — le
+marche ou l argument de la campagne est le plus fort, et le deuxieme bloc du registre.**
+
+**CE QUI EST ETABLI SUR LA SOURCE NATIONALE, ET IL FAUT LE DIRE D ABORD : la NATIONAL GLASS
+ASSOCIATION NE PUBLIE PAS son annuaire de membres en acces libre.** C est la question que le §6
+impose de poser avant de decomposer une federation en regionales — *cela coute un appel et peut en
+economiser treize* — et la reponse est non. **Mais elle publie DEUX choses exploitables :** la liste
+de ses **CHAPITRES AFFILIES**, et ses **listes d adhesions nouvelles et renouvelees**, ou figurent
+des noms de negoce (c est de la que viennent Glass Warehouse, Glass Depot et Wholesale Glass
+Distributors).
+
+**TROIS CHAPITRES TESTES DANS L HEURE, ET ILS NE SE VALENT PAS — le NOM et la PAGE MEMBRES decident,
+exactement comme sur les treize regionales bresiliennes.**
+
+| Chapitre | Publie ses membres ? | Metier syndique | Rendement |
+|---|---|---|---|
+| **WASHINGTON Glass Association** | **oui, 14 noms publics avec villes et adresses** | **verriers et distributeurs** | **7 fiches** |
+| **MINNESOTA Glass Association** | non, annuaire reserve — noms tires des pages conseil et histoire | verriers, melange | **8 fiches** |
+| CALIFORNIA Glass Association | **partiel, 3 noms sur ~40** | ambigu | 2 fiches |
+| *TEXAS Glass Association* | *oui* | *faconneurs, distributeurs, fournisseurs* | *16 noms le 15/10* |
+
+**RESTENT A TESTER, et le filtre du nom du §6 s applique avant de depenser :** les autres chapitres
+que la page NGA liste. **Le mot qui predit est dans le nom :** *Glass Association* est **ambigu** et
+demande de lire trois noms de membres d abord ; *Glazing*, *Metal*, *Contractors* **disent non**.
+
+**⚠ DEUX ASSOCIATIONS ECARTEES D EMBLEE SANS DEPENSER UN APPEL, ET LES DEUX SUR LEUR NOM SEUL :**
+· **NORTHERN CALIFORNIA GLASS MANAGEMENT ASSOCIATION** — publie un annuaire nominatif complet avec
+  adresses et telephones, **et ce sont des *union glazing contractors***. C est mot pour mot le cas
+  **AGMA** du 15/10 : vingt-huit membres examines, **pas un distributeur dedans**.
+· Et sur la liste WGA elle-meme, **Forefront Facades**, **Sargent Construction Services** et
+  **Colorado Steel Sash** — facade, construction, chassis acier.
+
+**⚠⚠ ET UN PIEGE PROPRE AUX FEDERATIONS, RENCONTRE DEUX FOIS DANS L HEURE ET QU IL FAUT NOMMER :
+ELLES ADMETTENT LEURS FOURNISSEURS D AMONT, QUI NE SONT PAS DES ACHETEURS DE VERRE.**
+**SIKA CORPORATION** est membre de l association du Minnesota : c est un fabricant de **colles, de
+mastics et d etancheite**. **QXO** est membre de celle de Washington : c est un **groupe cote de
+distribution de materiaux** construit par rachats. Ni l un ni l autre n achete de la feuille au sens
+de cette campagne. **C est le meme piege que les six distributeurs de machines ecartes le 14/10 sur
+le Flachglas MarkenKreis, et que Hafele et Wacker au Mexique.**
+**Le test coute zero appel : lire le metier, pas la liste.**
+
+**ET DEUX QUESTIONS DE COMPTE ONT ETE OUVERTES PLUTOT QUE DES FICHES CREEES — c est la conduite que
+le mandat impose et que le balayage m a rappelee le meme jour sur Wholesale Glass Distributors.**
+1. **HARTUNG GLASS** figure a Seattle dans l annuaire WGA, alors que le registre ne connait que sa
+   filiale **canadienne** de Burnaby, contactee le 12/10. Critere du 14/10 : **est-ce le meme
+   acheteur qui decide.** Un transformateur a plusieurs usines centralise generalement l achat de
+   feuille — ce qui ferait **un seul compte** — mais une frontiere douaniere separe Burnaby de
+   Seattle, et les droits de 50 % de la Section 338 sont precisement un motif de **decentraliser**.
+   **Aucune fiche americaine creee avant de lever.**
+2. **AMERICAN GLASS & MIRROR** (Minnesota) a ete rapprochee par la regle des initiales de
+   **AGM GLASS FABRICATORS** de Winnipeg, relancee le 12/10 — **AGM sont exactement ses initiales**,
+   et les deux Etats sont voisins. **Aucune fusion, aucun envoi avant de lever.**
+
+**⚠ L INTERDIT AMERICAIN DU §6 EST RENFORCE SUR CES DEUX ETATS, ET IL FAUT SAVOIR POURQUOI AVANT
+D ECRIRE :** **CARDINAL GLASS INDUSTRIES a son siege au MINNESOTA**, a Eden Prairie, **et son four de
+WINLOCK est dans l ETAT DE WASHINGTON**, donne a 648 t/jour. **Ecrire a un verrier de Seattle ou de
+Minneapolis qu il n y a pas de production locale serait demasque dans la seconde.** L argument est
+**douanier** et rien d autre.
+
+**ET DEUX ANGLES DE GAMME, UN PAR ETAT, qui sortent de la geographie :**
+· **WASHINGTON** — facade **Pacifique**, et Seattle-Tacoma est la premiere porte d entree du float
+  asiatique sur la cote ouest. **C est donc l Etat ou les droits du 06/04/2026 changent le plus la
+  comparaison.**
+· **MINNESOTA** — climat continental rigoureux, donc le marche du **LOW-E** et du **TRIPLE
+  VITRAGE**, deux pages du §8. Le triple vitrage y est bien plus pertinent qu ailleurs aux
+  Etats-Unis. **Mais l Etat est ENCLAVE** : port d entree a laisser choisir, Duluth par la voie du
+  Saint-Laurent, Chicago, ou un port cotier avec post-acheminement ferroviaire — et le
+  post-acheminement mange une part de l avantage, comme les mille kilometres de Brasilia a Santos.
