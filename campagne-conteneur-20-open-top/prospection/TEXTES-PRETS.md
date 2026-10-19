@@ -17733,3 +17733,103 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 266. Correlli Glass - Luvimex (Mexico, Iztacalco) — `ventas@correlliglass.com.mx` — ESPAGNOL — premier contact
+
+### PREPARE LE 12h39 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Grep passe dans un appel separe sur les DEUX raisons sociales**, Correlli Glass et Luvimex :
+  **les deux absentes.**
+- **TREMPEUR ET FEUILLETEUR**, meilleure classe du §6. **Deux usines** a Iztacalco : la **Planta
+  229**, entrepot et premiere transformation, et la **Planta 245**, trempe et finitions. Fondee en
+  1991, feuilletage a l EVA.
+- **⚠️ ET LE SIGNAL QUI COMPTE EST L ENTREPOT, PAS LE FOUR** : une usine dediee a l entrepot et a la
+  **premiere transformation** est exactement ce qu on a quand on **stocke de la feuille**. C est le
+  critere du §5 sur le cote de l atelier ou se trouvent les epaisseurs, lu dans l organisation
+  industrielle au lieu du catalogue.
+- **⚠️ UN FAIT DE SOURCE SECONDAIRE, DIT COMME TEL** : un fournisseur de machines leur attribue **le
+  plus grand nombre de fours de trempe de Mexico** et un service 24 heures. **Ce n est pas eux qui
+  le disent**, donc ce n est pas repris dans le message comme une flatterie — mais cela concorde
+  avec les deux usines.
+- **Adresse sur LEUR PROPRE site**, meme domaine que celui retenu. Colonne client et seule boite →
+  precedent El Mayorista.
+- **⚠️ DEUX DOMAINES COEXISTENT**, `.com` et `.com.mx`, et c est **le `.com.mx` qui porte les
+  coordonnees**. Le champ site porte donc celui-la, **pour que l adresse et le site concordent**.
+  Famille Lahey, **sixieme fois de la journee**.
+- **⚠️ UNE COTE DE TREMPE DE 2600 x 4200 MM CIRCULE**, mais elle vient d un **blog de 2012** : **non
+  retenue.** Utile seulement a savoir que 2600 tient dans le ruban, donc aucune question de §4.
+- **REGLE PRODIESA** : trempe et feuilletage **sortent** de l offre.
+- **⚠️ INTERDITS MEXICAINS DU §6** : **rien** sur les droits, **jamais** l absence de production
+  locale.
+- **⚠️ LE PORT SE DEMANDE** : Mexico est tierra adentro.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Lámina para la Planta 229 - un segundo origen desde Europa`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Si esta no es la mesa que compra la lamina, le
+agradeceria que la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador por algo muy concreto que se lee en
+la descripcion de sus propias plantas: tienen una nave dedicada al almacen y
+a la primera transformacion, y otra donde se templa y se termina. Una casa
+que dedica una planta entera a guardar y cortar vidrio antes de templarlo es
+una casa que compra lamina en cantidad, no piezas por obra. Lamina por
+contenedor completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado, el laminado al
+EVA, los acabados: ese es su trabajo, no el mio, y ahi no tengo nada que
+venderle. Lo que le ofrezco es lo que llega a la Planta 229 antes de que
+empiece todo lo demas:
+
+- vidrio float claro y extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+No le voy a dar cifras en una primera carta, ni le voy a hablar de aduanas de
+su pais, que no me corresponde. Le hablo de origen. Treinta y cinco anos de
+oficio significan un proveedor establecido, y tambien significan que su
+almacen vive de que ese proveedor llegue a tiempo. Un segundo origen europeo
+no es un cambio de proveedor: es una segunda puerta para ese almacen.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun NIMF-15,
+cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se corta a
+pedido, de modo que la medida de stock para la que estan calibradas sus mesas
+no es un obstaculo. Podemos preparar una oferta para la entrega en su puerto
+de destino, sujeta a validacion por nuestra parte. La Ciudad de Mexico esta
+tierra adentro, asi que no voy a adivinar su puerto: digame cual usa ya su
+flete y trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores entran realmente al almacen,
+que capas low-E trabajan, las medidas de lamina que piden sus mesas, un
+volumen anual aproximado con la frecuencia de compra, y ese puerto.
+
+Y la parte honesta. Una casa fundada en 1991 tiene un proveedor que se gano
+el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre de la
+lista, para la semana en que el primero quede corto. Si eso no le interesa,
+digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
