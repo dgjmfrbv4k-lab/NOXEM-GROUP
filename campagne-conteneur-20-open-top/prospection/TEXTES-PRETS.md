@@ -20301,3 +20301,112 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+## 293. Portal Glass (Terenos, Mato Grosso do Sul) — `portalglass@portalglass.ind.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 15h12 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Associee d ABRAVIDRO.** Grep passe dans un appel **separe** de l ecriture : **absente**.
+- **VERRIER PUR**, meilleure classe du §6 : leur propre site annonce qu ils **fabriquent** du trempe
+  **et** du feuillete. La fiche les supposait simples distributeurs — **le second temps a corrige le
+  metier avant l ecriture du texte**, et c est pour cela qu on fait le second temps.
+- **⚠️ ADRESSE SUR LEUR PROPRE DOMAINE, ET C EST LA SEULE DU LOT DANS CE CAS** : `portalglass.ind.br`
+  apparait dans les URL de resultats, donc la regle anti-rebond du §5 est satisfaite — contrairement a
+  Temperaco, DVB et Casa dos Espelhos, qui restent telephoniques.
+- **⚠️ ET LA PAGE DE LA FEDERATION ETAIT PERIMEE** : ABRAVIDRO donne un autre site et une boite
+  **gmail**. **On prend le nom a la federation et les coordonnees a la societe, jamais l inverse** —
+  troisieme fois dans la journee.
+- **⚠️⚠️ L ANGLE EST CONTRAINT PAR LA GEOGRAPHIE ET LE TEXTE LE DIT AU LIEU DE LE TAIRE.** Terenos est
+  a **plus de mille kilometres** de Paranagua et de Santos : c est la pire situation portuaire des
+  fiches bresiliennes avec Cuiaba. **Cacher cela serait la pire approche possible** devant un acheteur
+  qui connait son fret mieux que nous — le §6 dit qu une erreur sur ce terrain ruine le message entier.
+  **Donc le texte pose le fret interne comme la QUESTION a trancher ensemble**, et non comme un detail.
+- **⚠️ ET C EST CE QUI REND LE GROUPAGE PERTINENT ICI PLUS QU AILLEURS** : a mille kilometres de port,
+  un conteneur a moitie plein est une faute economique. Le texte demande donc quelles references
+  rempliraient le conteneur — **une question, jamais un engagement**, le groupage restant a l arbitrage
+  d Aaron depuis la decouverte de Glass Overseas.
+- **⚠️ LM VIDROS, A CAMPO GRANDE DANS LE MEME ETAT, EST AU REGISTRE EN `A APPELER`** : deux fiches du
+  Mato Grosso do Sul. **Le texte n y fait aucune allusion** — on ne parle jamais d un autre prospect a
+  un prospect.
+- **REGLE PRODIESA** : trempe et feuillete **sortent** de l offre, seul le substrat entre.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE** — float clair 1,8 a 20 mm, Malaisie Pakistan
+  Turquie, ni miroir ni teinte — et **jamais** l absence de production locale au Bresil.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Mil quilometros de porto - vale a pena conversar sobre isso primeiro`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe a quem compra.
+
+Vou comecar pelo ponto fraco da minha propria proposta, porque voces o conhecem
+melhor do que eu: Terenos esta a mais de mil quilometros de Paranagua e de
+Santos. Quem vende chapa importada e finge que o frete interno nao existe esta
+falando com alguem que confere a conta depois - e perde o interlocutor na
+primeira planilha. Entao eu prefiro colocar isso na mesa agora.
+
+O que eu vendo e uma coisa so: chapa em contentor completo. E o motivo de eu
+escrever apesar da distancia e que voces TEMPERAM e LAMINAM, pelo que diz o site
+de voces. Um forno e uma laminadora so giram se entrar chapa, e a mil
+quilometros de porto a pergunta nao e se um contentor cabe - e o que entra
+dentro dele para que a viagem se pague.
+
+Deixo claro o que NAO estou oferecendo. A tempera e a laminacao sao o trabalho
+de voces, nao o meu, e ali nao tenho nada a vender. O que ofereco e o que entra
+antes:
+
+- vidro float claro e extra-claro, a base
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E, se o trabalham
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e com a medida exata: desde a Gecex 833 o float incolor de
+1,8 a 20 mm originario da Malasia, do Paquistao e da Turquia paga direito
+antidumping no Brasil, e a Europa nao esta nessa medida. Isso vale para essa
+faixa de float incolor, e nao vale para espelho nem para vidro fume. Nao estou
+lhe dando numeros numa primeira carta e nao estou dizendo que nosso vidro e
+barato. Estou dizendo que a comparacao mudou.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda, de modo que a medida de estoque das suas
+mesas nao e obstaculo. Podemos preparar uma oferta para a entrega no seu porto
+de destino, sujeita a validacao do nosso lado.
+
+E a pergunta que me interessa de verdade, por causa da distancia: se voces
+tivessem que montar um contentor para a sua planta, quais referencias e quais
+espessuras entrariam nele. Digam e eu trabalho sobre essa hipotese, junto com o
+porto que voces usam hoje.
+
+O resto que preciso e pouco: quais espessuras passam pelo forno e pela
+laminadora, se trabalham vidro com capa e quais, as medidas de chapa que as
+suas mesas pedem, e um volume anual aproximado com a frequencia de compra.
+
+E a parte honesta. Pode ser que a conta nao feche por causa do frete, e nesse
+caso eu prefiro saber agora do que insistir. Nao estou pedindo para substituir
+quem abastece voces hoje - estou pedindo para ser o segundo nome da lista, com
+numeros na mao, para que a decisao seja de voces e nao minha. Se nao interessa,
+diga com franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
