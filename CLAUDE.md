@@ -1608,6 +1608,26 @@ porte et vitrine **de refrigeration** et de froid commercial · **electromenager
 clayettes) · **agencement de magasin** et presentoirs · **mobilier** (plateaux, etageres) ·
 **ascenseurs** · **solaire** (et la page verre photovoltaique du §8 existe pour cela) ·
 **equipement medical et laboratoire**.
+**⚠⚠ ET UNE HUITIEME INDUSTRIE, AJOUTEE LE 19/10 AU SOIR, QUI SE CHERCHE DANS UNE SOURCE QU'AUCUNE
+AUTRE REGLE DE CE MANDAT N'EMPLOIE : LE RAYON VERRE ET MIROIR D'UNE CHAINE DE BRICOLAGE.**
+Cas **GARDNER GLASS PRODUCTS**, ex *Gardner Mirror Corporation*, siege a North Wilkesboro en Caroline
+du Nord, plus Huntsville au Texas et Indianapolis : miroir, trempe, feuillete, **low-iron** et grave a
+l'acide. **Elle etait au registre comme une fiche vide et son metier reel se lit dans le catalogue
+d'une grande chaine de bricolage americaine**, ou ses miroirs et ses verres de remplacement sont
+vendus en cotes standard de 24 x 30, 30 x 36 et 48 x 60 pouces.
+**POURQUOI C'EST LE MEILLEUR PROFIL D'ACHAT DE TOUT L'AXE, et mieux que le froid commercial :** une
+production destinee au rayon d'une chaine nationale est une production de **tres grande serie, en
+cotes FIGEES par le referencement du distributeur**. Un facadier achete au chantier, une ligne de
+portes de froid achete en continu, **et un fournisseur de grande distribution achete la meme cote
+pendant des annees.**
+**LA METHODE, ET ELLE NE COUTE QU'UN APPEL : lire les MARQUES du rayon verre et miroir d'une chaine de
+bricolage, puis grepper chaque nom.** Ce sont par construction des transformateurs de verre plat en
+serie, et aucun annuaire verrier ne les range comme tels. A faire par pays — chaque marche a deux ou
+trois chaines.
+**⚠️ ET LA REGLE PRODIESA Y COUPE DEUX FOIS, c'est la faute Prodiesa du 12/10 qui guette :** une maison
+qui **argente** son miroir ne doit JAMAIS recevoir notre miroir sans cuivre ni plomb. Ce qui entre est
+le **float clair et l'extra-clair** — et le `low-iron` de leur gamme est le mot anglais de notre
+extra-clair, donc la reference se nomme d'elle-meme.
 **⚠️ ET LE GARDE-FOU QUI VA AVEC : ces maisons ne connaissent pas le vocabulaire verrier et elles ne
 sont PAS des verriers.** La regle Prodiesa s'y applique comme ailleurs — ce qu'elles fabriquent sort
 de l'offre — et il ne faut pas leur **asserter** leur specification. Sur Perficom le low-E est le
