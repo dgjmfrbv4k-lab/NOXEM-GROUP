@@ -17159,3 +17159,94 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 260. Allglass Tempering Inc. (Schiller Park, Illinois) — `services@allglasstempering.com` — ANGLAIS — premier contact
+
+### PREPARE LE 12h23 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Deuxieme fiche du filon SGCC.** Grep passe dans un **appel separe** : **ABSENT**.
+- **TREMPEUR ET FEUILLETEUR**, meilleure classe du §6, dans la banlieue de Chicago.
+- **⚠️ ET UN DETAIL DE LEUR GAMME QUI FAIT L ANGLE DU TEXTE : ILS IMPRIMENT EN NUMERIQUE SUR LE
+  VERRE**, en plus du sablage. **Une maison qui imprime travaille des surfaces propres et
+  regulieres, donc elle est regardante sur le substrat** — c est un argument a faire valoir et non
+  une difficulte, et c est ce qui distingue ce texte de celui de Chicago Tempered Glass.
+- **Adresse sur LEUR PROPRE page de contact**, meme domaine. **Boite de SERVICE** — ni colonne
+  client, ni boite de recrutement : un canal de travail.
+- **⚠️ UN SITE DE VERIFICATION D ADRESSES EST REMONTE DANS LE MEME RELEVE** et propose un **schema**
+  d adresses de salaries. **Un schema est une adresse deduite, donc inventee au sens du §5** — meme
+  piege que `prospeo` sur Lahey, `wiza` sur Saand et `leadiq` sur Midwest. **Rien n en est repris.**
+- **⚠️ SECOND NUMERO D ANNUAIRE non retenu.**
+- **REGLE PRODIESA** : trempe, feuilletage, sablage et impression **sortent** de l offre.
+- **⚠️ SECONDE FICHE DE LA REGION DE CHICAGO LE MEME JOUR** avec Chicago Tempered Glass. **Deux
+  societes distinctes** — domaines, rues et telephones differents, **verifie au balayage**.
+- **⚠️ MARCHE INTERIEUR : le port se demande au lieu de se supposer.**
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul.**
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for the furnace and the printer - a second origin`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If this is not the desk that buys your sheet, please pass it along.
+
+I am writing to you rather than to a glazing contractor because of what your
+shop does at both ends of its range. At one end a tempering furnace and a
+laminating line, which earn nothing until sheet goes through them. At the
+other end sandblasting and digital printing, which are the two processes that
+punish a bad surface hardest. Sheet by the load is the only thing I deal in,
+and surface is the part of it I would rather you judged for yourself.
+
+So let me be precise about what I am NOT offering. The tempering, the
+lamination, the blasting, the printing: that is your work, not mine, and I
+have nothing to sell you there. What I am offering is what sits on the rack
+before the first of them:
+
+- clear and extra-clear float glass - and extra-clear is the one worth
+  looking at if you print, because the green cast of ordinary float shifts
+  every colour you lay on it
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass, where the coating allows tempering
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties from 17.3 to 102 percent
+on Malaysia. European glass is named in neither order. That is a customs fact
+and nothing more. I am not quoting you a number in a first letter, and I am
+not claiming our glass is cheap. I am saying the comparison is not what it
+was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your tables are set up for is not an obstacle. We can put together
+an offer for delivery to your port of destination, subject to validation on
+our side. Schiller Park is inland, so I will not guess your port - tell me
+which one your freight already uses and I will work to it.
+
+What I need back is small: which thicknesses go through the furnace, whether
+you print on clear or on extra-clear, the sheet sizes your tables want, a
+rough annual volume with how often you buy, and that port.
+
+And the honest part. A shop with a furnace and a printer has a supplier who
+earned the place, and I am not asking to replace him. I am asking to be the
+second name on the list, for the week the first one is short. If that is of
+no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
