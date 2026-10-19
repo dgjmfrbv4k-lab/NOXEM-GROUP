@@ -16774,3 +16774,102 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 256. Vetriko S.A. (Durán, Guayas, Équateur) — `ventas@vetriko.com.ec` — ESPAGNOL — premier contact
+
+### PREPARE LE 12h14 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **SECONDE FICHE EQUATORIENNE DU JOUR** avec Fairis, et c est la mesure qui compte : **le pays
+  passe de deux faux departs a deux cibles attestees**. Faiquito etait un facadier et ALCRISTAL un
+  vendeur d aluminium, tous deux donnes pour distributeurs par un portail. **Une liste de licencies
+  ne declare pas, elle atteste.**
+- **FACONNEUR PUR**, meilleure classe du §6. Usine de **3 500 metres carres**, decoupe, trempe,
+  feuilletage, vitrage isolant, faconnage de chant et usinage. RUC au registre fiscal, activite
+  declaree *fabricacion de vidrio plano templado o laminado*.
+- **⚠️ DEUX DOMAINES POUR LA MEME MAISON, FAMILLE LAHEY** : `vetrikoec.com` et `vetriko.com.ec`.
+  Les deux rendent leurs pages et les deux publient la meme adresse, qui est sur le **second**. Le
+  champ site porte donc ce second domaine, **pour que l adresse et le site concordent** — regle
+  anti-rebond satisfaite sur celui-la.
+- **⚠️ DEUX PORTABLES QUI SE CONTREDISENT ENTRE LA VERSION ESPAGNOLE ET LA VERSION ANGLAISE DE LEUR
+  PROPRE SITE.** Aucun des deux n est porte au champ : **un numero qui se contredit sur le site meme
+  de la societe ne vaut pas mieux qu un numero d annuaire.** Seul le fixe publie est retenu.
+- **⚠️ UN SHOWROOM `Window World` a Samborondon** est annonce sur leur domaine avec un troisieme
+  numero : **c est un point de vente, pas une societe distincte.** Nom grepe, absent, **aucune
+  seconde fiche** — c est la lecon Glass Alu SXM, ou creer la seconde fiche aurait fabrique le
+  doublon.
+- **REGLE PRODIESA** : decoupe, trempe, feuilletage et vitrage isolant **sortent** de l offre.
+- **⚠️ AUCUN ARGUMENT DOUANIER ET AUCUN ARGUMENT D ABSENCE DE PRODUCTION LOCALE** : le §6 n etablit
+  rien sur l Equateur et interdit d affirmer sans avoir lu la source du pays.
+- **⚠️ DURAN EST EN FACE DE GUAYAQUIL, DE L AUTRE COTE DU FLEUVE** : le port est a une dizaine de
+  kilometres. **C est l argument de desserte le plus court de tout le lot**, et il se dit.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie en Equateur.
+
+**Objet :** `Sustrato para su planta de Durán - un segundo origen`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Si esta no es la mesa que compra el vidrio en
+lamina, le agradeceria que la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador por lo que son: una planta de
+proceso. Corte, templado, laminado, camara aislante, canteado y mecanizado,
+todo bajo un mismo techo. Ninguna de esas lineas arranca si no entra lamina,
+y lamina por contenedor completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado, el laminado,
+la unidad sellada, el canteado: ese es su trabajo, no el mio, y ahi no tengo
+nada que venderle. Lo que le ofrezco es lo que entra en la planta antes de
+que su horno arranque:
+
+- vidrio float claro y extra-claro, la base de todas sus lineas
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo, que aguanta donde el aire es humedo - y en la
+  costa del Guayas eso se nota
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+No le voy a dar cifras en una primera carta, ni le voy a hablar de aduanas
+de su pais, que no me corresponde. Le hablo de origen y de distancia. Usted
+esta a diez kilometros de Guayaquil, del otro lado del rio: para una planta
+asi, un contenedor que llega al puerto esta practicamente en el patio. Lo
+que decide entonces no es el flete interno, es de cuantas puertas distintas
+puede entrar su lamina. Hoy son pocas.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se
+corta a pedido, de modo que la medida de stock para la que estan calibradas
+sus mesas no es un obstaculo. Podemos preparar una oferta para la entrega en
+su puerto de destino, sujeta a validacion por nuestra parte. Guayaquil.
+
+Lo que necesito de vuelta es poco: que espesores entran realmente en la
+planta, que capas low-E trabajan, las medidas de lamina que piden sus mesas,
+un volumen anual aproximado con la frecuencia de compra, y el puerto.
+
+Y la parte honesta. Una planta en operacion tiene un proveedor que se gano
+el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre de
+la lista, para la semana en que el primero quede corto. Si eso no le
+interesa, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
