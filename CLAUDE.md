@@ -711,6 +711,22 @@ hits = [c for c in R if 'prodiesa' in c[3].lower()]
   avant de dépenser le premier appel* — étendue de l'appel de recherche à **l'écriture au registre** :
   grouper les deux pour gagner un aller-retour ne gagne rien, cela aveugle le contrôle qu'on vient de
   lancer.
+  **⚠⚠ TREIZIÈME CAS LE 19/10 AU SOIR, ET IL ENFREINT CETTE RÈGLE PAR UN TROISIÈME CHEMIN, PIRE QUE LES
+  DEUX AUTRES : LE CONTRÔLE A ÉTÉ RÉPARÉ ENTRE SA LECTURE ET L'ÉCRITURE.** J'ai grepé `AGI Mauritius` et
+  `Glasslam Mauritius`, obtenu **ABSENT aux deux**, et composé un lot de création. L'assert d'unicité a
+  bloqué sur Glasslam : le registre la porte sous **`Glasslam (Mauritius) Ltd`** et l'ancien motif de
+  séparateurs de `grep-nom.py` **ne couvrait pas la parenthèse**, que le token devait enjamber.
+  **J'ai réparé le code dans la demi-heure — puis j'ai relancé le lot SANS REGREPPER LES AUTRES NOMS.**
+  Résultat : **`AGI Mauritius Ltd` créée en double de `AGI (Mauritius) Ltd`**, même domaine, même ville,
+  en `RELANCE 2026-10-12`.
+  **C'est pire qu'un contrôle oublié ou mal lu, parce que j'avais la PREUVE que mes résultats
+  précédents étaient faux — je venais de la produire moi-même — et je ne les ai pas refaits.**
+  **RÈGLE : QUAND UN GARDE-FOU EST CORRIGÉ, TOUT CE QUI A ÉTÉ DÉCIDÉ SUR SA SORTIE D'AVANT EST À
+  REFAIRE, et d'abord le lot en cours d'écriture.** Un correctif périme les sorties antérieures du même
+  outil, exactement comme une mesure périme un chiffre du mandat.
+  **Et c'est `detecte-doublons.py` qui a rattrapé, passé après le lot comme la règle du 14/10 l'impose :
+  11 groupes au lieu de 8, dans la minute.** Troisième fois dans la même journée après IGG et Dialum.
+  Fiche neutralisée, matière versée dans l'ancienne, **rien n'est parti**.
   **ET `detecte-doublons.py` N'AURAIT PAS RATTRAPÉ CELUI-LÀ, ce qui est la seconde moitié de la
   leçon :** les deux noms sont différents, et l'ancienne fiche n'avait **ni domaine, ni adresse, ni
   téléphone** — donc aucun des cinq signaux. C'est exactement la fiche *née d'un annuaire sans site,

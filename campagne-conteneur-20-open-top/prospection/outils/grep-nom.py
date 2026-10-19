@@ -32,7 +32,27 @@ CSV = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'liste-pros
 
 # Tout ce qui separe deux mots dans une raison sociale, et qui varie d une source
 # a l autre : espace, trait d union, point, apostrophe, underscore, esperluette.
-SEPARATEURS = re.compile(r"[\s\-\._'’&/]+")
+# ⚠⚠ CORRECTIF DU 19/10 AU SOIR, 15e cas de la famille du caractere unique du §5. L ancien motif ne couvrait ni la PARENTHESE ni le TIRET
+# CADRATIN, qui sont pourtant les deux signes de ponctuation que le registre emploie lui-meme par
+# convention : la parenthese pour desambiguer un homonyme (Arista (verre, Colombie), Sunny Glass
+# (Carthagene), Knight Industries (verre plat, Canada)) et le tiret cadratin pour accoler le nom
+# legal au nom commercial (Linde Vidros — Vidracaria Linde Ltda).
+# MESURE, ET ELLE EST A DIRE EXACTEMENT PARCE QUE J AI D ABORD ECRIT PLUS FORT QUE LE FAIT :
+# 232 raisons sociales sur 1853 PORTENT un signe non couvert — 129 tirets cadratins, 102
+# parentheses, 4 virgules, 3 plus. Mais toutes ne sont pas ATTEINTES : le defaut ne mord que quand
+# le token cherche doit ENJAMBER la ponctuation. "Sunny Glass" trouve bien "Sunny Glass
+# (Carthagene)", la parenthese venant APRES ; c est "Glasslam Mauritius" contre "Glasslam
+# (Mauritius) Ltd" qui echoue, la parenthese etant AU MILIEU. Donc la famille atteinte est celle
+# des noms dont la forme de registre INSERE un pays ou une ville entre parentheses.
+# MESURE AVANT ET APRES, sur quinze noms dont treize sans piege : 13 trouves sur 15 avant,
+# 15 sur 15 apres, et AUCUN faux positif neuf. Les treize sorties identiques, verifie par diff.
+# CE QUE LE TROU A COUTE : le 19/10 au soir, "Glasslam Mauritius" est ressortie ABSENTE alors que
+# le registre portait "Glasslam (Mauritius) Ltd" en RELANCE 2026-10-12. Seul l assert d unicite du
+# script de creation l a arretee, et une fiche creee aurait fait un TROISIEME message a la
+# meilleure cible mauricienne : la faute Shibaam. C est le cas Distrividrios LER une seconde fois.
+# Les lettres non-ASCII restent des LETTRES et ne sont pas ajoutees a la classe, pour ne pas couper
+# les noms portant un ss allemand, un o barre scandinave ou un l polonais.
+SEPARATEURS = re.compile(r"[\s\-\._'’&/—–,\(\)\[\]\+\|:;!\?\"«»]+")
 
 
 def sans_accent(s):
