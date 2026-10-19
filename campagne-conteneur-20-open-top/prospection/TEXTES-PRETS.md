@@ -20624,3 +20624,107 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 296. Prelco inc. (Riviere-du-Loup, Quebec — siege) — `prelco@prelco.ca` — FRANCAIS — premier contact
+
+### PREPARE A 18h50 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Deverrouillee ce soir par un second temps sur son nom**, la fiche n ayant jusqu ici que le
+  telephone de l unite de Pointe-aux-Trembles, prise a une liste de licencies IGCC. **La maison a cinq
+  etablissements au moins** — Riviere-du-Loup (siege), Pointe-aux-Trembles, Princeville, Edmundston au
+  Nouveau-Brunswick et Belleville en Ontario.
+- **Adresse retenue `prelco@prelco.ca`, publiee par la societe sur SA PROPRE page de contact** : la
+  regle anti-rebond du §5 est satisfaite. **⚠️ `ventes@prelco.ca`, relevee dans leur brochure, est
+  ECARTEE** — cote CLIENT au tableau du §13, c est la boite ou leurs architectes demandent des prix.
+- **⚠️⚠️ LEUR FOURNISSEUR EST TRES PROBABLEMENT SAINT-GOBAIN**, et la source n est pas une page
+  marketing : **le site de Saint-Gobain Glass porte une page de service nommee `prelco-riviere-du-loup`
+  a l adresse exacte du siege.** C est la regle du certificat du §13 prise par le haut — quand un
+  producteur float REFERENCE une maison dans son reseau, cette maison achete chez lui.
+- **Donc la porte de sortie du §9 n est pas une formalite ici**, et le texte dit en clair qu on ne
+  demande pas de rompre un referencement.
+- **⚠️ ET LE TEXTE NE NOMME PAS SAINT-GOBAIN.** Je le sais par leur reseau, pas par eux, et le leur
+  dire ferait exactement la faute STADIP du 12/10 : apprendre au client quelque chose sur son propre
+  fournisseur et fabriquer un doute qu il n avait pas. **Le texte demande ce qu ils achetent, il ne le
+  leur annonce pas.**
+- **LE PROFIL D ACHAT EST LA MEILLEURE RAISON D ECRIRE** : vitrages pour batiments commerciaux et
+  institutionnels, tours residentielles, **et vehicules terrestres, FERROVIAIRES et MARITIMES
+  specialises**. Le ferroviaire et le maritime sont du **feuillete epais en SERIE** — deux feuilles par
+  unite, et des cotes qui se **repetent**. C est l axe Perficom du §6 chez un verrier, et c est ce que
+  le point 2 du §9 sert.
+- **⚠️ L ANGLE CANADIEN EST DE GESTION DU RISQUE ET JAMAIS DE PRIX.** Le texte dit les trois faits que
+  le §6 autorise — plus de ligne float au Canada, environ 90 pour cent du verre des fabricants
+  canadiens vient des Etats-Unis, et les echanges avec ce pays portent des droits et des surtaxes
+  reciproques depuis aout et septembre. **Il NE DIT PAS que le float est taxe** — SH 7005 n est PAS sur
+  les listes de riposte, et l ecrire serait faux. **Et il ne cite AUCUNE faillite de facadier**, ce que
+  le §6 garde en interne.
+- **⚠️ LA QUESTION DU §12 EST OUVERTE ET ELLE DECIDE DU NOMBRE DE MESSAGES** : cinq etablissements sur
+  trois provinces ont-ils UN bureau d achat au siege ou UN PAR SITE. **Un seul compte tant que la
+  reponse n est pas connue**, et le texte pose la question lui-meme plutot que de supposer.
+- **⚠️ MARQUEUR `CERTIFICATION DU CLIENT`** — le texte parle de LEUR referencement et de LEURS normes,
+  **jamais d un certificat de notre cote**. Aucun agrement, aucune norme annoncee.
+- **REGLE PRODIESA** : trempe, feuillete et unites scellees **sortent** de l offre, seul le substrat
+  entre.
+- **⚠️ RESERVE DE SOURCE TENUE** : leur page de contact est ancienne dans l index et les annuaires
+  donnent des numeros qui ne concordent pas. **La page de la societe fait foi**, et le domaine est a
+  relire caractere par caractere avant tout envoi.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Rien ne part sans l accord expres de Kevin.
+
+**Objet :** `Une seconde origine pour le verre qui entre dans vos cinq usines`
+
+```
+Bonjour,
+
+Je m appelle Aaron Harfi et je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat etabli pres de Lyon, en France. Ceci est une offre de fourniture et
+non une demande de prix. Si vous n etes pas la personne qui achete la feuille, je
+vous serais reconnaissant de transmettre - j ecris a votre adresse generale
+parce que c est celle que vous publiez.
+
+Je vous ecris pour une raison precise et c est votre gamme de vehicules. Un
+vitrage ferroviaire ou maritime se fabrique en serie, dans des cotes qui se
+repetent, et un feuillete consomme deux feuilles par unite. C est exactement le
+profil pour lequel un conteneur complet a un sens, alors qu il n en a aucun pour
+un chantier dont chaque cote change. Vos cinq etablissements, du
+Nouveau-Brunswick a l Ontario, disent la meme chose autrement.
+
+Ce que nous fournissons, et les pages plutot que ma parole :
+
+- float clair et extra-clair, la base de la gamme
+  https://noxemgroup.com/en/float-glass/
+- verre a faible emissivite, pour vos unites scellees
+  https://noxemgroup.com/service/verre-a-faible-emissivite/
+- triple vitrage, pour les climats froids
+  https://noxemgroup.com/service/triple-vitrage/
+- et la gamme complete, si c est plus simple de la voir en un seul endroit
+  https://noxemgroup.com/en/catalog/
+
+Nous expedions des CONTENEURS COMPLETS, en caisses bois traitees conformes
+NIMP-15, soit coupe A VOS COTES, soit en jumbo 3210 x 2550 mm. La longueur se
+coupe a la demande, donc la cote a laquelle vos tables sont reglees n est pas un
+obstacle. Nous pouvons etablir une offre pour la livraison a votre port de
+destination, sous reserve de validation de notre cote. Dites-moi par quel port
+vous recevez aujourd hui, et si vos cinq sites achetent ensemble ou chacun pour
+lui - je travaille sur ce que vous me direz plutot que de le supposer.
+
+Ce dont j ai besoin en retour est court : quelles epaisseurs passent chez vous,
+quels verres a couche vous travaillez et lesquels, les cotes de feuille que vos
+lignes demandent, un volume annuel approximatif avec la frequence d achat, et ce
+port.
+
+Et la partie honnete. Une maison referencee quelque part ne change pas de
+substrat a la legere, et je ne vous le demande pas. Ce que je demande, c est
+d etre le second nom de la liste, qualifie a l avance, pour le mois ou le
+premier manque ou ou un verre a couche est en attente. Si vous etes engages sur
+l approvisionnement que vous avez, dites-le franchement et je n insisterai pas.
+
+Cordialement,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
