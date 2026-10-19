@@ -1784,3 +1784,42 @@ Caviplan est remontee **en passant**, dans le relevé de coordonnees de Casa Seg
 reseau cites au meme endroit — **Red ViiO** et **Red Climanet**, reseaux de fabricants de double
 vitrage — sont de la meme nature et **ne sont pas testes**. Un fabricant de DVH achete du substrat,
 c est la classe verrier pur a 12,8 pour cent.
+
+### CALIFORNIE DU NORD, RELEVE DU 19/10 A 09h20 — CE QUI EST PRIS ET CE QUI EST FERME
+
+**Trois fiches creees** : All Counties Glass Distributors (Stockton et Santa Ana), Central Valley
+Glass & Screen et DC Glass Distributors (Sacramento). **Deux noms fermes, un signal consigne.**
+
+**FERMES, et ils ne se recherchent plus :**
+- **Original Glass Designs** (San Jose, 1740 Junction Ave) — Thomasnet la donne *distributor of
+  plate, window and insulated glass units*, **son propre profil dit fabricante de MIROIRS BISEAUTES,
+  d ETAGERES et de PLATEAUX DE TABLE**. C est le petit format decoratif, pas un acheteur de
+  conteneur. ⚠️ **Quatrieme fois aujourd hui qu un portail IDENTIFIE sans QUALIFIER** — apres
+  vidrioperfil qui a mis Casa Segat au Mexique, qui a invente Grosmark, et Thomasnet ici.
+  ⚠️ Et `signalhire.com`, **courtier interdit du §5**, remontait dans le meme releve avec des
+  adresses nominatives : non reprises.
+- **Hayward Glass** (Hayward) — vitrage **et auto-verre**, boutique a deux adresses. Et **Mygrant
+  Glass**, le gros voisin, est un **grossiste d AUTO-VERRE** a plus de 70 depots : hors gamme, et
+  c est le meme verdict que celui rendu a Oakland le matin meme.
+- **Nor Sac Glass & Aluminum** — service de vitrerie residentielle et commerciale, classe a 3,6 %.
+
+**⚠️⚠️ SIGNAL DU §12 A LEVER AVANT D OUVRIR QUOI QUE CE SOIT SUR NOR SAC : elle est donnee a la MEME
+ADRESSE que DC Glass Distributors, 3901 Pell Circle a Sacramento.** C est le cas American Flat Glass
+Distributors et AGC repris par le meme champ — **ce n est pas la raison sociale qui trahit un lien,
+c est une coordonnee**. Meme maison sous deux noms, predecesseur, ou simple partage de batiment :
+non tranche, **aucune fiche**, et un appel suffit.
+**⚠️ Et une seconde identite a ne pas confondre** : le registre porte **U.S. Glass & Aluminum Inc.**
+a Sacramento, en relance depuis le 08/10, et le meme releve a fait remonter un **US Glass Co**
+(`usglassco.com`). Deux noms voisins sur la meme ville : **ne pas creer avant d avoir tranche.**
+
+**⚠️⚠️ FAIT DU §6 RELEVE AU PASSAGE, ET IL DURCIT L INTERDIT AMERICAIN AU LIEU DE L ASSOUPLIR :
+GUARDIAN exploite un site a KINGSBURG, en Californie, et VITRO ARCHITECTURAL GLASS est base a
+FRESNO.** Deux producteurs du §6 **dans la vallee meme** de nos trois nouveaux prospects. Donc :
+**ne jamais ecrire qu il n y a pas de production locale en Californie**, et l argument y est
+**douanier** et rien d autre. `verif-argument-float.py` portait deja les Etats-Unis, Vitro et
+Cardinal — **Guardian Kingsburg est a lui ajouter** quand l occasion se presentera.
+
+**RESTE A FAIRE SUR LA ZONE :** Citywide Glass (Woodland) — page vieille d environ 1 300 jours, donc
+a tester **avant** d y croire ; et les gaps de **San Jose, Fresno et l Inland Empire**, qui n ont
+toujours aucune fiche. ⚠️ **Mais pas par recherche de ville** : Oakland a rendu zero ce matin, et ce
+sont les annuaires de fournisseurs qui ont rendu les trois fiches.
