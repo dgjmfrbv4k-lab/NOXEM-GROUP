@@ -69,6 +69,17 @@ un PLF, à **Caribbean Glass** que son 3302 × 2261 était un *oversize*, et j'a
 (2140, 2261 et 2440 en travers). **Et le devis d'Aaron à John est la preuve matérielle** : une
 feuille de **3300 mm de long**, sur dix conteneurs. C'est d'ailleurs pour cela que le 96 × 130
 pouces est la cote de stock nord-américaine.
+**⚠⚠ SECONDE PREUVE MATÉRIELLE, ET ELLE EST MEILLEURE QUE LA PREMIÈRE PARCE QU'ELLE EST PUBLIÉE ET
+NON PRIVÉE — TROUVÉE LE 19/10 AU SOIR SUR LA GRILLE DE STOCK D'INTERVIDRO, à OLINDA ET GOIANA
+(PERNAMBOUC).** Leur page de distribution publie le float commun **de 2 à 20 mm** en **trois formats de
+feuille : 2200 × 3210, 2200 × 3300 et 2200 × 3600 mm**. **Donc une maison brésilienne tient en stock
+courant une feuille de TROIS MÈTRES SOIXANTE DE LONG**, dont la plus petite dimension, 2200, tient
+largement dans le ruban. Le devis d'Aaron était une pièce interne sur un seul client ; ceci est un
+**catalogue public**, et il montre la série complète — 3210, 3300, 3600 — c'est-à-dire exactement ce
+que la règle prédit : **la largeur est contrainte, la longueur se décline.**
+**Et cette grille satisfait du même coup le critère du 15/10 sur ses DEUX termes** — épaisseurs **et**
+formats de feuille — donc elle désigne le côté **entrée** de l'atelier : c'est le profil du stockiste,
+et c'est le meilleur signal d'achat qu'une page publique puisse donner.
 **CE QUI RESTE VRAIMENT OUVERT, et c'est beaucoup plus étroit :**
 1. **Le PLF au sens strict, 6000 × 3210**, que demandait **Rákosy Üveg** — « standard purchasing
    sizes are jumbo sheets, typically 6000 × 3210 mm », et il ne peut pas travailler
