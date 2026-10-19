@@ -16466,3 +16466,107 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 253. Fenplast (Candiac et Delson, Québec) — `info@fenplast.com` — FRANCAIS — premier contact
+
+### PREPARE LE 12h08 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Deuxieme fiche internationale du filon IGCC**, apres le Chili. Grep passe **dans un appel
+  separe de la creation**, consigne nee du doublon Dialum : **ABSENT**.
+- **⚠️ CLASSE DE METIER DITE FRANCHEMENT** : ce n est **ni un verrier pur ni un negociant**, c est
+  un **menuisier industriel**, la classe que le §6 mesure a **3,6 pour cent**. **La raison d ouvrir
+  quand meme est precise** : un menuisier qui **fabrique ses propres unites scellees** achete de la
+  **feuille**, pas du verre coupe au chantier. C est l inverse exact du facadier du §5. **Le signal
+  est le vitrage isolant integre, pas le metier declare** — et il est atteste par l IGCC.
+- **Fabrication entierement integree** : extrusion de leurs profiles PVC, unites scellees,
+  assemblage. **225 000 pieds carres a Candiac** depuis 2012, plus de 350 salaries, seconde usine a
+  Delson. Fondee en 1989.
+- **Adresse sur LEUR PROPRE page `nous-joindre`**, meme domaine. Regle anti-rebond satisfaite.
+- **⚠️ ET UN FAIT QUI REND LA DEMANDE DE TRANSMISSION CONCRETE** : leur page carrieres publie un
+  poste de **commis a l approvisionnement** a Candiac. **Le service des achats existe nommement**,
+  donc le premier paragraphe peut le nommer au lieu de reciter une formule.
+- **⚠️ BOITES ECARTEES** : `rp@` est la protection des renseignements personnels — nominative et
+  sans fonction d achat — et `marketing@` est le programme de reference. Colonne client toutes deux.
+- **⚠️ TROIS ADRESSES POSTALES CIRCULENT**, dont une d annuaire probablement perimee. Celle du site
+  est retenue.
+- **REGLE PRODIESA** : unites scellees, profiles et portes **sortent** de l offre. N entrent que le
+  **float clair et extra-clair** et le **low-E**, qui est la reference juste pour le Quebec.
+- **⚠️⚠️ ARGUMENT CANADIEN DU §6 ET SA LIMITE, QUI EST UN INTERDIT** : plus de ligne float au
+  Canada, seul pays du G20 dans ce cas, et environ **90 pour cent** du verre des fabricants
+  canadiens vient des **Etats-Unis**. **NE JAMAIS ECRIRE QUE LE FLOAT EST TAXE** — la position
+  **SH 7005 n est PAS sur les listes de riposte**, ce serait faux et un acheteur le sait. L argument
+  est la **gestion du risque d une origine unique**, jamais le prix. Et **les faillites de facadiers
+  canadiens restent en interne**, le §6 l impose.
+- **Port de Montreal**, a vingt-cinq kilometres.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Quebec.
+
+**Objet :** `Le verre de vos thermos - une seconde origine`
+
+```
+Bonjour,
+
+Je m appelle Aaron Harfi et je dirige NOXEM GROUP, fournisseur et exportateur
+de verre plat etabli pres de Lyon, en France. C est une offre de
+fourniture, pas une demande de prix. Vous publiez une adresse generale : si
+ce message n arrive pas sur le bureau qui achete le verre, merci de le
+transmettre a votre service de l approvisionnement.
+
+Je vous ecris plutot qu a un installateur a cause d une chose precise que
+vous faites et que la plupart de vos concurrents sous-traitent : vous
+fabriquez vous-memes vos unites scellees, dans une usine ou vous extrudez
+deja vos propres profiles. Cela veut dire que vous n achetez pas du verre
+coupe au chantier, vous achetez de la FEUILLE. La feuille au conteneur
+complet est la seule chose que je vends.
+
+Je precise donc tout de suite ce que je ne vous propose PAS. L unite
+scellee, l intercalaire, le profile, la porte : c est votre metier, pas le
+mien, et je n ai rien a vous vendre la-dessus. Ce que je propose est ce qui
+entre dans l usine avant que votre ligne demarre :
+
+- verre float clair et extra-clair, la base de toutes vos unites
+  https://noxemgroup.com/en/float-glass/
+- verre a faible emissivite, low-E, qui est la reference d un climat comme
+  le votre
+  https://noxemgroup.com/service/verre-a-faible-emissivite/
+- et la gamme complete, si c est plus commode en un seul endroit
+  https://noxemgroup.com/en/catalog/
+
+Et voici pourquoi j ecris au Canada en particulier. Le Canada est le seul
+pays du G20 sans ligne float nationale, et environ quatre-vingt-dix pour
+cent du verre utilise par les fabricants canadiens vient des Etats-Unis.
+Ce n est pas un reproche, c est une geographie. Mais une usine qui tient
+tout son verre d un seul pays voisin a un interet objectif a connaitre une
+deuxieme porte, et c est tout ce que je viens vous proposer. Je ne vous
+parle ni de tarif ni de douane : je vous parle de ne pas dependre d une
+seule frontiere.
+
+Nous expedions des CONTENEURS COMPLETS, en caisses bois traitees NIMP-15,
+decoupes A VOS COTES, ou en jumbo 3210 x 2550 mm - la longueur se coupe a la
+demande, donc la cote de stock pour laquelle vos tables sont reglees n est
+pas un obstacle. Nous pouvons etablir une offre pour la livraison a votre
+port de destination, sous reserve de validation de notre cote. Montreal,
+a vingt-cinq kilometres de Candiac.
+
+Ce que j attends en retour est court : quelles epaisseurs entrent
+reellement dans vos unites, quelles couches low-E vous travaillez, la cote
+de feuille que veulent vos tables, un volume annuel approximatif avec la
+frequence d achat, et le port.
+
+Et la partie honnete. Une usine integree depuis 1989 a un fournisseur qui a
+gagne sa place, et je ne demande pas a le remplacer. Je demande a etre le
+deuxieme nom sur la liste, pour la semaine ou le premier est en rupture. Si
+cela ne vous interesse pas, dites-le moi franchement et je n insiste pas.
+
+Cordialement,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
