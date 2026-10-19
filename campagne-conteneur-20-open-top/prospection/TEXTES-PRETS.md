@@ -18212,3 +18212,91 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 271. Star Glass Tempering (Elk Grove Village, Illinois) — `office@starglasstempering.com` — ANGLAIS — premier contact
+
+### PREPARE LE 13h54 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Sixieme fiche du filon SGCC**, et **troisieme de l agglomeration de Chicago aujourd hui** apres
+  Chicago Tempered Glass et Allglass Tempering. **Les trois sont distinctes** — trois domaines,
+  trois rues, trois telephones, **verifie au balayage**. Ce n est pas un hasard de tirage : **le
+  filon SGCC recense des FOURS**, et Chicago est l un des plus gros bassins de trempe du pays.
+- **⚠️⚠️ ET LA VILLE N EST PAS CELLE DE LEUR MARQUE** : ils se vendent sous le nom **Chicago** et
+  l usine est a **Elk Grove Village**. **C est la lecon Arquetipo par un quatrieme chemin** — ni un
+  portail, ni un annuaire, ni le moteur, mais **la societe elle-meme** qui met une autre ville dans
+  son nom commercial. Le champ ville porte l usine.
+- **TREMPEUR PUR**, meilleure classe du §6. Fondee en 2001.
+- **Adresse sur LEUR PROPRE page de contact.** **Boite de bureau** — ni vente, ni recrutement : un
+  canal de travail.
+- **⚠️ UN SECOND NUMERO, DONNE POUR UN PORTABLE**, non porte au champ, garde pour l appel.
+- **⚠️ `Startech Glass` EST UN AUTRE NOM** remonte dans le meme appel, grepe et absent. **Le mot
+  `star` les rapproche sans rien prouver** — a traiter separement.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul.**
+- **⚠️ LE PORT SE DEMANDE** : marche interieur.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for Scott Street - a second origin out of Europe`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If this is not the desk that buys your sheet, please pass it along.
+
+I am writing to you rather than to a glazing contractor because of what you
+have had on that floor since 2001: a tempering furnace. Twenty-five years of
+it. A furnace earns nothing while it waits and costs the same either way, and
+it only runs if annealed sheet is on the rack in front of it. Sheet by the
+load is the only thing I deal in.
+
+So let me be precise about what I am NOT offering. The tempering, the panels,
+the custom work: that is your trade, not mine, and I have nothing to sell you
+there. What I am offering is what arrives before the furnace:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass, where the coating allows tempering
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties from 17.3 to 102 percent
+on Malaysia. European glass is named in neither order. That is a customs fact
+and nothing more. I am not quoting you a number in a first letter, and I am
+not claiming our glass is cheap. I am saying the comparison is not what it
+was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your furnace is set up for is not an obstacle. We can put together
+an offer for delivery to your port of destination, subject to validation on
+our side. Illinois is inland, so I will not guess your port - tell me which
+one your freight already uses and I will work to it.
+
+What I need back is small: which thicknesses go through the furnace, whether
+you temper coated stock and which coatings, the sheet sizes your tables want,
+a rough annual volume with how often you buy, and that port.
+
+And the honest part. A quarter of a century in one trade means a supplier who
+earned the place, and I am not asking to replace him. I am asking to be the
+second name on the list, for the week the first one is short - and a cold
+furnace is the most expensive thing in your building. If that is of no
+interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

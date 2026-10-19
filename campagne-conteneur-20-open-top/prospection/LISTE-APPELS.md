@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **19/10/2026** depuis le registre. **282 societes** portent un telephone et
+Regeneree le **19/10/2026** depuis le registre. **284 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 282 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 284 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 258 societes
+## Hors Europe — 260 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Maroc | **Koutetac Sarl** | `+212 608 77 82 04` | 10h00 - 18h00 | A APPELER | FICHE CREEE LE 08/10 A 17h00 par recherche large pays, methode du paragraphe 13. Nom grepe un a un au registre avant creation, absent. Source Maalam, listee pour le verre trempe a Tanger, sans autre information. Seule l inscrip... |
 | Mexique | **Vidrio Plano de Cancún** | `+52 55 5679 3575` | 17h00 - 01h00 | A APPELER | MARCHE DE LA RIVIERA MAYA : construction hoteliere continue, et le verre mexicain vient de Monterrey a plus de deux mille kilometres. Aucune adresse publiee : a appeler. Ports Progreso ou Veracruz. METHODE EN DEUX TEMPS APPLIQU... |
 | Mexique | **Vidrios y Cristales Guadalajara** | `+52 33 2212 1941` | 17h00 - 01h00 | A APPELER | 50 ANS, usines au Jalisco, distribution nationale. Port Manzanillo ou Veracruz. Envoi en espagnol. REBOND 24/09 (boite pleine) : renvoye le 25/09. Relance courte le 06/10, lots 7 et 8. Rebond 06/10 : BOITE PLEINE, adresse valid... |
+| Mexique | **Glasser S.A. de C.V.** | `+52 55 5311 2000` | 17h00 - 01h00 | A APPELER | FILON SGCC ET LOT MEXICAIN DU 19/10 A 12h40. Grep passe dans un appel SEPARE : ABSENT au champ raison sociale — une fiche tunisienne porte glasser par SOUS-CHAINE, Glasserie Miroiterie et Verrerie de Tunisie, LIGNE LUE ET ECART... |
 | Mexique | **Vidrah** | `+52 771 202 5885` | 17h00 - 01h00 | A APPELER | GISEMENT AMEVEC, LE 19/10 A 12h35. Grep passe dans un appel SEPARE : ABSENT. VERRIER PUR ET MAQUILADOR, c est-a-dire faconneur a facon pour d autres — la meilleure classe du §6, et le profil le plus dependant de la feuille entr... |
 | Nigéria | **TechnoGlass Industries Ltd** | `+234 703 274 9126` | 10h00 - 18h00 | A APPELER | CIBLE PRIORITAIRE : la plus grosse capacite de la sous-region. ADRESSE REBONDIE : rappeler au +234 703 274 9126. CONTROLE MX DU 07/10 : le domaine technoglassng.com ne resout pas (NXDOMAIN), l adresse info@technoglassng.com ne ... |
 | Seychelles | **HT Aluminium and Granite** | `+248 271 45 55 / +248 437 33 98` | 07h00 - 15h00 | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. MEILLEURE CIBLE SEYCHELLOISE DU LOT, et pour une raison precise : ils ne se contentent pas d annoncer de l aluminium, ils an... |
@@ -256,6 +257,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Trinité-et-Tobago | **Kamri Glass Investments Ltd** | `+1 868 235 4527` | 15h00 - 23h00 | A APPELER | SEUL FABRICANT DE TREMPE ET DE FEUILLETE DES CARAIBES. Pas d'adresse publiee, formulaire seulement : appeler. Port Port-of-Spain. Adresse kamriglass arobase gmail.com disponible mais la filiale Guyana a ete relancee le 06/10 : ... |
 | Égypte | **Venster Egypt for Aluminum & Glass Works** | `+20 121 000 7500` | 08h00 - 16h00 · **dim-jeu** | A APPELER | FICHE CREEE LE 08/10 A 17h30 par recherche large pays. Nom grepe un a un sur le champ societe, absent. Decrit son activite principale comme les solutions de MUR-RIDEAU et le VITRAGE STRUCTUREL, avec des produits verriers specia... |
 | Émirats arabes unis | **Abbas Tempering Industry LLC** | `+971 4 267 7740` | 07h00 - 15h00 | A APPELER | Trempeur : cible float 4-12 mm. Numero normalise le 08/10 au format international, il etait au format local de Dubai.  STATUT RENSEIGNE LE 08/10 : cette fiche avait un statut VIDE, ce qui la rendait invisible aux pools de relan... |
+| États-Unis | **Crystal Tempering Inc.** | `+1 386 668 9686` | 15h00 - 23h00 | A APPELER | FILON SGCC, LE 19/10 A 13h53. Grep passe dans un appel SEPARE, releve plus tot dans la journee : ABSENT. TREMPEUR ET FACONNEUR ARCHITECTURAL, meilleure classe du §6, a DeBary en Floride, dans la couronne d Orlando. Trempe et ve... |
 | États-Unis | **Wolverine Glass Products Inc.** | `+1 616 538 0100` | 15h00 - 23h00 | A APPELER | LOT IGCC AMERICAIN DU 19/10 A 11h56. Passe au grep-nom.py : ABSENT. FACONNEUR PUR, meilleure classe du §6. Usine de 126 000 pieds carres a Wyoming dans le Michigan, faconnage sur mesure, vitrage isolant, parois de douche, plate... |
 | Éthiopie | **Abdi Aluminium & Glass Works** | `+251 911 262649` | 08h00 - 16h00 | A APPELER | Fabricant de facades et murs rideaux donc consommateur de verre. Adresse masquee par l annuaire : a appeler. Pays enclave, transit via Djibouti. FUSION DU 08/10, detectee par un balayage systematique du registre : 1 fiche(s) en... |
 | Arabie saoudite | **ArcGlass** | `+966 11 440 5959` | 08h00 - 16h00 · **dim-jeu** | A APPELER | FICHE CREEE LE 08/10 A 17h20 par recherche large pays, methode du paragraphe 13. Nom grepe un a un sur le champ societe, absent. Source annuaire GlassOnWeb. Usine annoncee produisant des unites de vitrage INTEGRE et ISOLANT. Le... |
