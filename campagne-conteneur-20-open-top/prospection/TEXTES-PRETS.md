@@ -18402,3 +18402,97 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 273. Grupo Vicon (Mexico, Iztapalapa) — `ventas@grupovicon.com.mx` — ESPAGNOL — premier contact
+
+### PREPARE LE 13h59 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **TREMPEUR**, meilleure classe du §6, a Iztapalapa — **troisieme fiche de cet arrondissement
+  aujourd hui** avec El Mundo del Vidrio et Correlli, **et les trois sont distinctes**, verifie au
+  balayage. Grep passe dans un appel separe : **ABSENT**.
+- **Adresse sur LEUR PROPRE domaine.** Colonne client, seule boite → precedent El Mayorista.
+- **⚠️ FICHE OUVERTE SUR UNE QUALIFICATION MINCE, ET JE LE DIS** : la recherche ne rend d eux que le
+  libelle *vidrio templado*, une rue, un numero et une adresse. **Le metier est etabli, le CALIBRE
+  ne l est pas.** Le texte est donc plus court que les autres et **pose la question du volume au
+  lieu de supposer la taille** — on ne flatte pas une maison dont on ne sait rien.
+- **⚠️ ET LE TRI METIER A ECARTE LE NOM QUE JE CHERCHAIS** : **VITEC**, qui figure a l annuaire
+  AMEVEC dans la rubrique verre, est en realite un fabricant de **herrajes** — de la quincaillerie,
+  **hors gamme**. Aucune fiche. **Lecon Imporex une fois de plus : la rubrique d un annuaire ne
+  qualifie pas.**
+- **⚠️ DEUX NOMS A NE PAS OUVRIR DANS LE MEME RELEVE** : **Vitro Arquitectonico** et sa plante de
+  Garcia sont **Vitro**, concurrent par nature ; et **Grupo Vitro Panel** porte le fragment `vitro`
+  que le §6 impose de verifier — elle est de toute facon **deja au registre**.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️ INTERDITS MEXICAINS DU §6** : **rien** sur les droits, **jamais** l absence de production
+  locale.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Lámina para su horno - un segundo origen desde Europa`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Si esta no es la mesa que compra la lamina, le
+agradeceria que la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador por una razon sencilla: ustedes
+templan. Un horno no gana nada mientras espera y cuesta lo mismo este cargado
+o vacio, y solo trabaja si hay lamina en el caballete de enfrente. Lamina por
+contenedor completo es lo unico que yo vendo.
+
+Y voy a ser honesto sobre lo que no se de ustedes: su sitio me dice que
+templan vidrio y donde estan, pero no me dice de que tamano es su taller ni
+que espesores mueven. No voy a suponerlo ni a halagarles con cifras que no
+tengo. Preferiria que me lo diga usted.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado es su trabajo,
+no el mio, y ahi no tengo nada que venderle. Lo que le ofrezco es lo que entra
+antes del horno:
+
+- vidrio float claro y extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, si lo templan
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+No le voy a dar cifras en una primera carta, ni le voy a hablar de aduanas de
+su pais, que no me corresponde. Le hablo de origen: que exista un segundo
+nombre en su lista el dia que el primero se atrase.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun NIMF-15,
+cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se corta a
+pedido. Podemos preparar una oferta para la entrega en su puerto de destino,
+sujeta a validacion por nuestra parte. La Ciudad de Mexico esta tierra
+adentro, asi que no voy a adivinar su puerto: digame cual usa ya su flete y
+trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores pasan por el horno, las
+medidas de lamina que piden sus mesas, un volumen anual aproximado con la
+frecuencia de compra, y ese puerto. Con eso le digo en una sola respuesta si
+un contenedor tiene sentido para ustedes o no lo tiene, sin hacerle perder el
+tiempo.
+
+Y la parte honesta. Un taller con horno propio tiene un proveedor que se gano
+el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre de la
+lista. Si eso no le interesa, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
