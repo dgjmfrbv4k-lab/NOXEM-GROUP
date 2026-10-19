@@ -7953,3 +7953,59 @@ fiches avant aujourd hui.
    testee et qu il ne faut pas inscrire comme sterile.
 3. **LA FILE D ENVOIS ATTEND TOUJOURS L ACCORD DE KEVIN**, message par message. Elle ne part pas
    d elle-meme, et aucune fiche creee aujourd hui n a change cela.
+
+---
+
+## 19/10 a 19h09 — SOIREE DE PROSPECTION, HORS FENETRE DE BILAN. ENTREE FACTUELLE, PAS UN BILAN.
+
+La fenetre de bilan du paragraphe 15 s'est fermee a 18 h et le bilan du jour y a ete porte. Ce qui
+suit est la **consignation** imposee par le paragraphe 2 point 6, pour reprendre sans doublon ni perte.
+
+### Les cinq chiffres du paragraphe 3, distincts
+| | |
+|---|---|
+| **recherches** (appels WebSearch de la soiree) | une vingtaine |
+| **envois confirmes** | **ZERO. Aucun message d'aucune sorte n'est parti sur cette campagne aujourd'hui.** |
+| **reponses qualifiees** | aucune nouvelle |
+| **demandes de devis** | aucune nouvelle |
+| **commandes** | aucune |
+
+### Registre
+**1853 fiches**, dont **542 en `A QUALIFIER`**, **281 en `A APPELER`** et **87 en file d'envoi**.
+Derniers textes rediges : jusqu'au **n° 296**. Controles a chaque lot — integrite a zero ligne
+malformee, balayage des doublons a **8 groupes** tous connus et traites, `A APPELER` sans telephone a
+**0**, `verif-argument-float.py` a **0 fiche a corriger**, `verif-texte.py` a **0 texte a corriger**.
+
+### Ce qui a ete fait, par gisement
+1. **Trois territoires caraibes ouverts**, premiere fiche chacun : Turques-et-Caiques, Dominique,
+   Saint-Christophe-et-Nieves. Cinq noms ecartes avec leur motif.
+2. **Sud-est americain mesure FERME** a la federation : aucun roster en Georgie, Ohio, Pennsylvanie.
+3. **New York et les Carolines ouvertes par le portail** : **Syracuse Glass**, la seule fiche de la
+   campagne a satisfaire les deux criteres d'entree d'atelier, plus Triton Glass et Innovative Glass.
+4. **Prelco deverrouillee** — cinq etablissements, adresse generale retenue, fournisseur
+   vraisemblablement Saint-Gobain par sa page de service.
+5. **Nord-Est bresilien** : Super Vidros et son `carga fechada`, Intervidro et sa grille
+   2200 x 3600 mm, deux importateurs qualifies.
+6. **ABRAVIDRO, vidrioperfil, SGCC et IGCC** moissonnes, dont **Andersen** et **Pella**.
+7. **La reserve des noms consignes videe** : **vingt-neuf fiches pour ZERO appel de recherche.**
+
+### Trois choses mesurees qui changent la methode, toutes portees au mandat
+- **Le critere de la FRACTION DE FEUILLE** — `carga fechada`, `meia chapa`, `by the case`, refente a
+  la demande, `mayoreo por hojas`. Meilleur signal d'entree que l'epaisseur.
+- **L'ECHELLE du format** : une cote de stock dont la grande dimension atteint 130 pouces ou 3200 mm
+  designe un acheteur de feuille ; en dessous de deux metres c'est un comptoir.
+- **Le consignement des noms ecartes rend des fiches a zero appel**, des jours plus tard.
+
+### Quatre corrections de ma main, consignees plutot que reecrites
+- **Deux de mes propres priorites de recherche etaient fausses** — ABRAVIDRO donnee non moissonnee,
+  Santiago de los Caballeros donnee non testee. Les deux dementies par le registre dans l'heure.
+- **Un chiffre faux dans un message de commit deja pousse** : « Texte 306 » pour le texte 295. Le
+  nombre etait substitue et faux quand meme, la commande mesurant autre chose que la phrase.
+- **Mubor Glass creee sous le Mexique** et decrite panameenne vingt minutes plus tard.
+- **Gardner Glass** porte `Denver` dans sa raison sociale et la federation la donne en Caroline du Nord.
+
+### Ce qui attend Kevin, et c'est le point de blocage
+**87 fiches en file d'envoi, et rien ne part sans son accord expres, message par message.** Un statut
+`A ENVOYER` n'est pas une autorisation, c'est une file d'attente.
+**Et 281 fiches portent un numero sans qu'aucun appel n'ait jamais ete passe** — c'est le gisement que
+la soiree a encore grossi, et il ne se debloque que par un creneau d'appels.
