@@ -1743,3 +1743,44 @@ defaut. **C est la que l argument douanier du §6 porte le plus.**
 TROIS FICHES.** Marche enorme, anglophone, insulaire donc approvisionne par mer. Le §6 interdit la
 prospection europeenne neuve, donc **rien n a ete fait** — mais c est le plus gros trou europeen du
 registre et il merite d etre nomme dans `DECISIONS-AARON.md`.
+
+### FILON OUVERT A 09h13 — CAVIPLAN, ET C EST LE MEILLEUR DEPUIS ADIVIPAR
+
+**La chambre argentine du VIDRIO PLANO publie son `listado de socios` avec adresse, telephone et
+site, et une `Vidrioguia` qui trie les membres PAR PRODUIT.** Les deux conditions du §6 sont reunies
+— la bonne classe de metier **et** une liste nominative — ce qui n etait plus arrive depuis ADIVIPAR.
+
+**RENDEMENT MESURE SUR LE PREMIER RELEVE : SEPT NOMS, SEPT ABSENTS.** Alcon-Glass, America Zemel,
+Cristales Ebenor, Vidrieria Lourdes, Vitrodi, Scheimberg Vidrios, Contacto S.A. — plus **Vidpia**
+et **Inastillex** venus de la Vidrioguia. ⚠️ Le `grep` sur `alcon` rendait sept lignes, **toutes du
+bruit de sous-chaine** — *Metalcon Perou* et le mot *balcon* dans une note : lignes lues, pas
+comptees, regle du §5.
+**Et le recoupement favorable qui valide la source : `LP Vidrios`, deja au registre et envoyee le
+14/10, a bien sa page de socio.** La liste contient donc nos cibles reelles.
+
+**DEUX FICHES CREEES CE MATIN**, les deux mieux documentees, en `A QUALIFIER` et **sans adresse
+e-mail** — une page de federation ne satisfait pas la regle anti-rebond, lecon du 14/10 :
+- **Vidpia S.A.I.C.F.** (Cordoba, Lazaro Langer 191) — **la meilleure du lot** : fondee en **1948**,
+  la revue de la chambre dit qu elle a **obtenu la distribution de VASA** puis developpe des produits
+  elabores, donc negoce **et** transformation. ⚠️ Mais Cordoba est a sept cents kilometres du port.
+- **Cristales Ebenor S.A.** (Oliden 2380, CABA) — citee sous *Profilit trempe*, donc elle transforme.
+  Metier precis a etablir.
+
+**RESTENT A TRAVAILLER, un second temps chacun :** Alcon-Glass, America Zemel, Vidrieria Lourdes,
+Vitrodi, Scheimberg Vidrios, Contacto S.A., Inastillex S.R.L. **Et la page `listado-de-socios`
+elle-meme n a pas ete epuisee** — elle annonce « decenas de empresas » et le relevé n en a rendu
+qu une poignee. **Un appel de plus sur cette page vaut mieux que dix recherches de ville.**
+
+**⚠️⚠️ MAIS LA RESERVE DE MARCHE EST LOURDE ET ELLE DOIT ETRE DITE AVANT D Y INVESTIR :
+DANS LA VIDRIOGUIA, LA SEULE SOCIETE LISTEE SOUS LA RUBRIQUE *FLOAT* EST VASA ELLE-MEME.**
+C est la **cinquieme** confirmation du constat du §6 du 15/10, apres COVISA, Aluvi, CADIVI et
+Casa Segat : **le marche argentin est integralement approvisionne par son producteur national**,
+qui opere en outre sur quatre pays. La porte de sortie du §9 y est **obligatoire** et la probabilite
+structurellement faible. **Donc : filon riche en NOMS, pauvre en PROBABILITE.** A travailler quand
+le budget de recherche est confortable, apres les marches ou l argument douanier porte.
+
+**ET LA METHODE QUI A OUVERT CE FILON MERITE D ETRE NOTEE, parce qu elle n etait pas cherchee :**
+Caviplan est remontee **en passant**, dans le relevé de coordonnees de Casa Segat. Les annuaires de
+reseau cites au meme endroit — **Red ViiO** et **Red Climanet**, reseaux de fabricants de double
+vitrage — sont de la meme nature et **ne sont pas testes**. Un fabricant de DVH achete du substrat,
+c est la classe verrier pur a 12,8 pour cent.
