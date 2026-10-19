@@ -848,7 +848,7 @@ l'origine UE pour la position 7005.** Il faut la publication au **DOF** et le ta
 réforme 2026, consultés directement. **Donc : la conclusion reste une forte présomption et non un
 fait, et l'interdiction d'écrire quoi que ce soit sur les droits à un prospect mexicain TIENT.**
 **Mais la portée du dossier change** : le Mexique passe de « marché peut-être annulé par 35 % » à
-« marché probablement viable, à un document près ». **13 fiches et un marché de 130 millions
+« marché probablement viable, à un document près ». **44 fiches au 19/10 à 12h41 — et non 13 : ce chiffre-là datait du 11/10 et il a été recompté depuis le registre après que je l'aie réemployé tel quel dans un message de commit, qui reste donc faux dans l'historique. C'est la faute du §13 : un chiffre écrit dans ce mandat vieillit comme un autre, et il se recompte avant de servir, par substitution et jamais à la main — et un marché de 130 millions
 d'habitants en dépendent**, et la question à poser au transitaire est désormais beaucoup plus étroite :
 non plus « y a-t-il une préférence » mais **« quel est le taux IGI de la fraction 7005.29.99 pour une
 origine UE sous le pilier commercial de l'accord de 2000 »**.
