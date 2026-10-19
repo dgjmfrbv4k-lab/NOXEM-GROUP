@@ -80,6 +80,24 @@ que la règle prédit : **la largeur est contrainte, la longueur se décline.**
 **Et cette grille satisfait du même coup le critère du 15/10 sur ses DEUX termes** — épaisseurs **et**
 formats de feuille — donc elle désigne le côté **entrée** de l'atelier : c'est le profil du stockiste,
 et c'est le meilleur signal d'achat qu'une page publique puisse donner.
+**⚠️⚠️ TROISIÈME ET QUATRIÈME PREUVES PUBLIÉES, TROUVÉES LE 19/10 AU SOIR, ET LA DERNIÈRE EST LA PLUS
+GRANDE COTE RENCONTRÉE DE TOUTE LA CAMPAGNE. La règle n'a donc plus besoin d'être défendue, elle est
+mesurée sur quatre catalogues de trois pays.**
+· **TSJ Vidros** (Mauá et Santo André, São Paulo) publie ses *chapas* en **DEUX** formats —
+  **2200 × 3210 ET 2400 × 3210 mm**, en incolore de 2 à 12 mm. Une maison brésilienne tient donc en
+  stock courant une feuille de **2400 de petite dimension**.
+· **Prodiesa** (Mexique) publie son verre plat en 2, 3, 4, 5, 6, 8, 10 et 12 mm, **en tailles allant
+  jusqu'à 2600 × 3660 mm** — soit **trois mètres soixante-six de long**, dont la plus petite
+  dimension, 2600, tient dans le ruban.
+**LA SÉRIE COMPLÈTE VA DANS UN SEUL SENS, et c'est ce qui en fait une règle et non une intuition :**
+le devis d'Aaron à John, 3300 de long, pièce privée · la grille Intervidro, 3210 puis 3300 puis
+3600 · TSJ Vidros, 2400 de large · Prodiesa, 2600 × 3660. **Quatre sources, trois pays, et aucune
+contre-exemple.** La seule question devant une cote reste : **sa plus petite dimension tient-elle
+dans 3210 ?**
+**Et les quatre satisfont le critère d'entrée du 15/10 sur ses DEUX termes** — épaisseurs *et*
+formats de feuille — ce qui dit au passage où la méthode doit chercher : **une page qui publie un
+format de feuille est une page de stockiste**, et c'est devenu la meilleure requête de découverte
+de la campagne (voir le §13 sur le vocabulaire de stock).
 **CE QUI RESTE VRAIMENT OUVERT, et c'est beaucoup plus étroit :**
 1. **Le PLF au sens strict, 6000 × 3210**, que demandait **Rákosy Üveg** — « standard purchasing
    sizes are jumbo sheets, typically 6000 × 3210 mm », et il ne peut pas travailler
@@ -274,6 +292,30 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   `container load`, `half sheet`, `full sheet` · `à la caisse`, `feuille entière`, `demi-feuille`.
   **Et le pendant négatif se lit dans la même phrase** : une maison qui ne vend qu'**au mètre carré
   coupé** ou **à la pièce finie** le dit tout aussi volontiers, et c'est la sortie.
+  **⚠️⚠️ ET CE VOCABULAIRE N'EST PAS SEULEMENT UN CONTRÔLE DE SECOND TEMPS, C'EST LA MEILLEURE REQUÊTE
+  DE DÉCOUVERTE DE LA CAMPAGNE — mesuré le 19/10 au soir sur TROIS langues et quatre marchés.** Le §6
+  cherchait jusqu'ici par **ville**, par **métier** ou par **annuaire de fédération**. Une requête bâtie
+  sur les mots de la **fraction de feuille** cherche par **MODE DE VENTE**, ce qui est exactement le
+  critère qui distingue nos deux meilleures classes des trois autres : on ne demande plus *qui vend du
+  verre ici*, on demande *qui le vend à la caisse*.
+  **ET SA SIGNATURE DE QUALITÉ EST CONTRE-INTUITIVE, D'OÙ L'INTÉRÊT DE L'ÉCRIRE : ELLE REND
+  MAJORITAIREMENT DES NOMS DÉJÀ AU REGISTRE, ET C'EST LE BON SIGNE.** Mesure du soir : **8 noms rendus
+  sur le Midwest américain, 5 déjà présents** — Torstenson déjà envoyée avec son verdict d'épaisseurs,
+  Milwaukee Plate Glass et Glass Enterprises déjà créées, Bear Glass et Fab Glass déjà relancées.
+  **9 noms au Brésil, 6 déjà présents** — New Glass, TSJ Vidros, São Mateus, VPM, Bahia Vidros,
+  VidroFlex. **14 noms au Mexique et en Colombie, 8 déjà présents** — Aluviacsa, CEYCO, Prodiesa et
+  NAVISA d'un côté, Vidrieria Universal, Distrividrios Antioquia, Distrividrios LER et El Diamante de
+  l'autre. Soit **19 seconds temps économisés par le `grep` sur 31 noms rendus**, un peu plus de six
+  sur dix. (J'avais d'abord écrit 9 et 7 pour ce troisième relevé, en comptant de mémoire au lieu de
+  recompter les deux listes : c'est la faute du §13 et elle est corrigée ici même, avant le commit.)
+  **Un taux de recouvrement élevé ne veut PAS dire que la requête est stérile — il veut dire qu'elle
+  vise la population que des semaines de travail ont déjà sélectionnée à la main.** C'est l'inverse
+  exact de la recherche large, qui rend des façadiers, des bazars et du verre d'art qu'il faut ensuite
+  écarter un par un. **Une requête dont les trois quarts des résultats sont déjà des fiches à nous est
+  une requête bien ciblée, et le quart restant est de la matière pure.**
+  **Et ce quart l'a prouvé le même soir** : Indiana Glass, dont l'argument de vente *est* la demi-chapa,
+  et Dulles Glass, dont le stock vaut quatre conteneurs — deux fiches qu'aucune recherche par ville
+  n'avait rendues en trois passages sur leurs États.
   **⚠⚠ ET UN QUATRIÈME CAS LE MÊME SOIR AJOUTE LA DIMENSION QUI MANQUAIT AU CRITÈRE — LA TAILLE DU
   FORMAT, ET PAS SEULEMENT SON CÔTÉ D'ATELIER. Cas VALLEYWIDE GLASS (Phoenix), et il satisfaisait le
   critère à la lettre.** Leur page de gros publie des feuilles de stock recuites, nommément du **1/8 DS
