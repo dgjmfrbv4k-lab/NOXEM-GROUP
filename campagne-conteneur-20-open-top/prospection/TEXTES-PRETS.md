@@ -14802,3 +14802,153 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 234. All Counties Glass Distributors (Stockton et Santa Ana, Californie) — `south.info@allcountiesglass.com` — ANGLAIS — premier contact
+
+**Redige le 19/10 a 09h06. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe sur le CHAMP SOCIETE, lignes lues** : `all countie`, `counties`, **ABSENT**, et zero mention
+  sur la ligne entiere non plus.
+- **Adresse relevee sur LEUR PROPRE DOMAINE** `allcountiesglass.com`, page *Southern Location* — regle
+  anti-rebond du §5 satisfaite.
+- **⚠️ LA BOITE `acgnorders@` EST ECARTEE VOLONTAIREMENT** : *orders* est de la colonne **CLIENT** du
+  tableau du §13, c est la boite ou **leurs** clients passent **leurs** commandes. Piege MunnWorks a
+  l identique. `south.info@` est une boite generale, donc neutre.
+- **⚠️ UN SEUL COMPTE POUR DEUX ENTREPOTS**, §12 : Stockton au nord et Santa Ana au sud, meme domaine,
+  meme marque. **Un seul message**, et les deux sites deviennent l argument du volume groupe.
+- **Classe negoce et distribution**, la deuxieme du §6 a 10 pour cent — et le nom le dit lui-meme.
+- **⚠️⚠️ INTERDIT DU §6 TENU : AUCUNE MENTION DE L ABSENCE DE PRODUCTION LOCALE.** Vitro et Cardinal
+  produisent aux Etats-Unis, Cardinal sur sept sites. **L argument est douanier et rien d autre.**
+  Les taux ne sont **pas** cites comme un tarif, seulement comme un fait douanier public, et le §6
+  l impose : on ne dit pas que notre verre est bon marche, on dit que les deux origines les moins
+  cheres portent desormais des droits.
+- **REGLE PRODIESA** : ils distribuent et ne fondent pas, donc toute la gamme substrat leur est
+  ouverte. **Liens produit presents. Porte de sortie presente. Signature une seule fois.**
+- Jour ouvre verifie aux Etats-Unis le 20/10.
+
+**Objet :** `A second origin for Stockton and Santa Ana - full containers`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing to you rather than to a glazing contractor because of what you
+are. You run two warehouses, Stockton and Santa Ana, you carry a full line
+for new construction and replacement, and you serve builders across
+California and Nevada. A house that stocks for two states buys sheet by the
+load, and the load is the only thing I deal in.
+
+What I am offering is the sheet that goes on your racks:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to look at in one place
+  https://noxemgroup.com/en/catalog/
+
+The reason I am writing now rather than a year ago is a change on your side
+of the ocean, and you will know it better than I do. Since April the imported
+sheet that used to set the floor on the Pacific coast carries antidumping and
+countervailing duties - 181.52 percent on the Chinese entity, countervailing
+duties on Malaysia. European glass is named in neither order. I am not
+telling you our glass is cheap, and I am not quoting you a number here: I am
+saying the comparison is not what it was, and that is worth one reply.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order. We can
+put together an offer for delivery to your port of destination, subject to
+validation on our side. Oakland for Stockton, Long Beach for Santa Ana, or
+whichever your broker prefers - and a container split between the two
+warehouses is the same container to me.
+
+To know whether this is worth your time I need very little: which thicknesses
+actually move, what sheet size suits your cutting, a rough annual volume with
+how often you buy, and the port.
+
+And I will say the obvious. A distributor of your size has a supply line that
+works, and I am not asking you to tear it up. I am asking to be the second
+one, for the week the first cannot deliver. If there is no room for that, say
+so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 235. Caribbean Glass Specialists Ltd (Barataria, Trinite) — `glasspec@caribbeanglasstt.com` — ANGLAIS — REPONSE A AKEEDA, DOSSIER VIVANT
+
+**Redige le 19/10 a 09h06. RIEN N EST PARTI. ⚠️ CE TEXTE REPOND A UNE CLIENTE QUI A DEJA NOTRE DEVIS :
+il ne part sous AUCUN pretexte sans l accord expres de Kevin, et c est exactement le cas John du 08/10.**
+
+- **Ce qu elle a ecrit le 17/10** : le devis est bien arrive, **l option A, le FOB, est much more
+  lucrative**, et elle demande qu on la previenne **quand le fret baissera**.
+- **⚠️⚠️ CE QUE LE TEXTE NE FAIT PAS, ET C EST LA LECON STADIP DU 12/10 :** il **n ajoute aucune
+  reserve technique, aucune question de marque, aucune nuance de format** qu elle n a pas soulevee.
+  Elle n a souleve **aucun** doute — elle a choisi une option et nomme un obstacle. Tout ce que je
+  croirais devoir ajouter se pose a Kevin AVANT, jamais a elle.
+- **⚠️ AUCUN PRIX, AUCUN DELAI, AUCUN TAUX DE FRET CHIFFRE.** Le §5 l interdit et, ici, ce serait en
+  plus dangereux : annoncer un niveau de fret qu on ne maitrise pas engage sur un marche qui bouge
+  chaque semaine. La formule imposee est reprise telle quelle.
+- **Ce que le texte fait, et c est tout** : il accuse reception de son choix, il confirme qu on la
+  previendra, et il demande **une seule chose exploitable** — la fenetre de livraison qui l arrange,
+  parce que c est elle qui decide si une baisse de fret lui sert ou non.
+- **Prochaine action si Kevin ne veut rien envoyer :** point de contact au **17/11**, un mois.
+
+### DOSSIER OUVERT — exemption de porte de sortie
+
+Ce texte **repond a une cliente qui a deja notre devis** et qui vient de choisir l option A. La
+porte de sortie du §9 vise une **approche a froid sur un gros compte** : ici elle offrirait une
+sortie a quelqu un qui vient d entrer, ce qui est le contraire de ce qu on veut. **Tous les autres
+controles restent dus et sont passes** — aucun prix, aucun delai, formule imposee presente,
+signature du §10 en un seul exemplaire, numero mort absent.
+
+**Objet :** `Re: Follow-up - full containers of flat glass, one question`
+
+```
+Good day Akeeda,
+
+Thank you for coming back to me, and for being clear about Option A - that
+settles the structure, and it is the one I would have recommended too.
+
+On freight, you have put your finger on the one part of this that is not
+mine to set. I will watch the Europe to Port of Spain rates and I will come
+back to you the moment they move in your favour, rather than leaving you to
+chase me. You will not need to ask twice.
+
+One thing would help me watch the right window. Is there a period that suits
+you better for taking delivery - a quarter you build stock for, or a month
+you would rather avoid? A rate that is good in February is no use to you if
+the glass has to land in November, and if I know your window I can tell you
+whether a dip is worth acting on or worth ignoring.
+
+Everything else in the offer stands as sent, and we can establish the offer
+for delivery to your port of destination, subject to validation on our side,
+whenever you want it refreshed.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

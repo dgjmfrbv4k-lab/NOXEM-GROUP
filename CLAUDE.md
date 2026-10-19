@@ -552,6 +552,26 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   un résultat SUSPECT et non un feu vert.** C'est le pendant exact de la leçon Lahey du §13 — un résultat
   négatif obtenu sur un champ non vérifié ne dit rien de la société, il dit que le champ est faux. Devant `Alphaglass`, `Glassivoire`, `Vitroglass`, couper : `alpha`,
   `ivoir`, `vitro`. Un `grep` de quatre à six lettres coûte la même seconde et voit les deux formes.
+  **⚠️⚠️ NEUVIÈME CAS LE 19/10, ET IL FERME UNE FAMILLE QUE LES HUIT AUTRES N'AVAIENT PAS VUE :
+  UN NOM DE SOCIÉTÉ QUI DEVIENT LE NOM D'UNE RÈGLE DU MANDAT CESSE D'ÊTRE GREPPABLE.** Devant dix noms
+  rendus par le portail mexicain, j'ai grepé `prodiesa` en `grep -in` sur la ligne entière, comme la
+  règle l'impose. **Il a rendu des dizaines de fiches allemandes, angolaises et saoudiennes** — parce
+  que « **règle Prodiesa** » est écrit dans les notes de tout le registre depuis le 12/10. Le mot ne
+  désigne plus une société mexicaine, il désigne **ma propre méthode**.
+  **C'EST EXACTEMENT LA PANNE DU MOT `DOUBLON` ÉCRIT EN PROSE, prise par l'autre bout** : là un marqueur
+  de convention était noyé dans la prose et rendait une fiche invisible ; ici un nom propre est devenu
+  de la prose et rend le `grep` **aveugle par excès de bruit**. Les deux disent la même chose : *la
+  prose d'une note n'est pas de la prose, c'est de la donnée, et elle pollue les outils qui la lisent.*
+  **RÈGLE : quand un `grep` de nom rend un nombre de lignes manifestement hors de proportion, le token
+  n'est pas distinctif — il est entré dans le vocabulaire des notes. On regrepe alors sur le CHAMP
+  RAISON SOCIALE seul**, ce qui coûte trois lignes de Python et rend la réponse juste :
+```python
+hits = [c for c in R if 'prodiesa' in c[3].lower()]
+```
+  **Les noms déjà contaminés à ce jour, parce que le mandat les emploie comme noms de règle ou de
+  leçon :** `prodiesa`, `shibaam`, `lahey`, `imporex`, `munnworks`, `vandaglas`, `glasscorp`, `vitro`.
+  **Et le coût évité est réel** : la même passe a montré qu'**Aluviacsa, Bode Vidrio, Indiglass et
+  Vitromatic étaient déjà au registre**, soit quatre seconds temps économisés sur dix noms.
   **CE QUE CE CAS A COÛTÉ, ET CE QU'IL A ÉVITÉ, parce que les deux chiffres comptent :** la maison a reçu
   **trois** messages entre le 06 et le 09/10 — premier contact et relance sur `info@`, puis un premier
   contact sur `infoajman@`. C'est la faute Shibaam, sur une cible prioritaire. **Et les deux fiches

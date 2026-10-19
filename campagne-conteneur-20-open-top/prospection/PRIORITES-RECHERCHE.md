@@ -1687,3 +1687,59 @@ aucun des deux regimes. Meme interdit que le Mexique, l Australie, le Perou et l
 **L ARGUMENT QUI PORTE, ET IL EST SOLIDE ET SANS CHIFFRE : plus aucune ligne float en Scandinavie.**
 A employer **au passe** — la ligne a ete arretee — jamais comme une prediction. C est l argument
 Australie-Nouvelle-Zelande transpose, et il vaut pour les 14 fiches.
+
+---
+
+## 19/10 au matin, a 09h08 — SEPT APPELS, UNE FICHE, ET LE RESULTAT UTILE EST LA CARTE DES IMPASSES
+
+**Ce qui est acquis : la recherche de VILLE est morte sur les marches matures anglophones et
+hispanophones.** Trois villes testees une par une, zero fiche :
+
+| Ville | Ce qu elle rend | Verdict |
+|---|---|---|
+| **Wellington** (Nouvelle-Zelande) | que des glassmestere et poseurs — Mike s Glass, Wellington Glass & Mirror, Affordable Glass, Glass Group | classe a 0 %, **aucune fiche** |
+| **Oakland** (Californie) | California Glass Co = **bottles**, Mygrant = **auto-verre**, AFG **AGC** Flat Glass = concurrent §6 | trois pieges connus, **aucune fiche** |
+| **Toluca** (Mexique) | Aluviacsa et Bode Vidrio, **deja au registre** ; Arizmendi = canceles et fachadas | **aucune fiche** |
+
+**ET CE QUI EST PLUS UTILE QUE LES TROIS VERDICTS : LES MOTS QUI LES ONT FERMES SONT TOUS DEJA DANS LE
+MANDAT.** *bottles* est le piege verre creux du §5 ; *auto glass* n a jamais ete notre gamme ; *AGC*
+est un fragment de marque du §6 ; *canceles* et *fachadas* sont la classe a 3,6 %. **Zero regle neuve
+a ecrire, donc le ciblage est bon — c est la SOURCE qui est epuisee**, exactement comme le 14/10
+l avait mesure.
+
+**SOURCES TESTEES ET LEUR RENDEMENT :**
+- **Portail sectoriel mexicain** (`vidrioperfil.com`) : **dix noms**, dont **quatre deja au registre**
+  (Prodiesa, Aluviacsa, Indiglass, Vitromatic), **un concurrent du §6** (Vidrios Lirquen, producteur
+  float chilien), et cinq absents dont deux serieux — **Grosmark e Hijos** et **Casa Segat**, tous
+  deux *almacenista y comercial de vidrio plano*. ⚠️ Les deux portent aussi *cristaleria en general*,
+  donc le second temps devra trancher verre plat contre arts de la table avant toute fiche.
+  **A FAIRE : deux seconds temps, et rien d autre de ce portail.**
+- **Sindividros-RS** (Bresil) : **ne publie aucun associe**, et il syndique aussi le **vidro oco**.
+  ⚠️ **Le nom le disait** — un *sindicato* publie rarement ses affilies, regle du §6 du 15/10.
+  **J ai depense l appel contre ma propre regle. A ne pas refaire.**
+- **NCGMA** (Northern California Glass **Management** Association) : association de **poseurs
+  syndiques**, membres en *…& Aluminum* et *…Glazing*. **C est AGMA a l identique**, classe a 3,6 et
+  0 %. **Ne pas moissonner.** Mais elle a fait tomber trois noms de distributeurs au passage.
+- **La seule fiche du matin vient de la**, et par ricochet : **All Counties Glass Distributors**,
+  Stockton et Santa Ana, deux entrepots, Californie et Nevada, adresse sur son propre domaine.
+
+**CE QUI RESTE A FAIRE SUR CE FILON, par ordre de valeur :**
+1. **Grosmark e Hijos** et **Casa Segat** (Mexique) — second temps, metier a trancher.
+2. **Nicolet Glass** (Californie) — donne distributeur par Thomasnet, **absent du registre**, premier
+   temps non fait. ⚠️ **Hayward Glass est deja tranche et NEGATIF** : vitrage et auto-verre, boutique.
+3. **Baie de San Francisco, San Jose, Fresno, Inland Empire** restent sans aucune fiche — mais **pas
+   par recherche de ville**, le test d Oakland vient de le montrer.
+
+**MESURE DE COUVERTURE AMERICAINE, faite sans aucun appel, et elle designe ou chercher :**
+Idaho, Iowa et Kansas a **zero**, Nebraska et Nouveau-Mexique a **un**, Connecticut, Kentucky, Oregon,
+Utah et Wisconsin a **deux**. ⚠️ **Mais la plupart sont des Etats INTERIEURS**, donc post-acheminement
+lourd — c est la reserve de Brasilia du §6. **Les seuls qui valent le detour sont cotiers ou
+portuaires : l Oregon (Portland), le Connecticut et le Wisconsin (Milwaukee).**
+**Et le vrai trou n est pas un petit Etat : la CALIFORNIE n a que quinze mentions** contre 28 en
+Floride et 24 au Texas, pour la premiere economie du pays et la cote qui achetait asiatique par
+defaut. **C est la que l argument douanier du §6 porte le plus.**
+
+**⚠️ ET UN CHIFFRE A PORTER A L ARBITRAGE EUROPE PLUTOT QU A LA PROSPECTION : LE ROYAUME-UNI N A QUE
+TROIS FICHES.** Marche enorme, anglophone, insulaire donc approvisionne par mer. Le §6 interdit la
+prospection europeenne neuve, donc **rien n a ete fait** — mais c est le plus gros trou europeen du
+registre et il merite d etre nomme dans `DECISIONS-AARON.md`.

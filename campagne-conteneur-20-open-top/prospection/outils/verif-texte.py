@@ -233,6 +233,27 @@ sections = [(int(parts[i]), parts[i + 1], parts[i + 2]) for i in range(1, len(pa
 # et non en titre reste controle et ses fautes ressortent.
 DICTE = re.compile(r'^###.*\btexte\s+dict[ée]', re.M | re.I)
 
+# ⚠️⚠️ EXEMPTION DE PORTE DE SORTIE, AJOUTEE LE 19/10, ET C EST UN FAUX POSITIF DE
+# PORTEE ET NON DE VOCABULAIRE — ce qui la distingue des quatre correctifs precedents.
+# Les trois pannes du 13/10 et celle du 15/10 venaient d un controleur dont le
+# VOCABULAIRE etait plus pauvre que celui des textes. Celle-ci est autre : le
+# vocabulaire est bon, c est le PERIMETRE qui est faux. Le paragraphe 9 impose la
+# porte de sortie « sur les GROS COMPTES », c est-a-dire sur une APPROCHE A FROID.
+# Le texte 235 repond a Akeeda de Caribbean Glass Specialists, qui a deja notre
+# devis en main et qui vient de CHOISIR l option A. Lui ecrire « si cela ne vous
+# interesse pas je n insiste pas » serait absurde et, sur un dossier en
+# negociation, dommageable : on offre une sortie a quelqu un qui vient d entrer.
+# CE QUE L EXEMPTION NE LEVE PAS, ET C EST VOLONTAIRE : un texte de reponse reste
+# soumis a TOUS les autres controles — mots interdits du §5, formule imposee,
+# signature du §10 en un exemplaire, numero mort, certificats. Seule la porte de
+# sortie tombe. C est l inverse du texte DICTE, qui sort de tout par construction
+# puisqu il n est pas de moi.
+# LE MARQUEUR EST UN TITRE DE NIVEAU TROIS, exactement comme celui des textes
+# dictes, et pour la meme raison dite le 15/10 : le §12 a paye cher le mot DOUBLON
+# ecrit en prose, qui a rendu une fiche invisible aux cinq signaux. Une tournure de
+# phrase ne produit pas un ### en debut de ligne.
+REPONSE_OUVERTE = re.compile(r'^###.*\bdossier\s+ouvert\b', re.M | re.I)
+
 verifies = ignores = defauts = dictes = 0
 avertis = []
 print('%s : %d section(s), controle a partir du n° %d\n' % (SRC, len(sections), DEPUIS))
@@ -290,7 +311,7 @@ for num, titre, corps_section in sections:
             pb.append('SIGNATURE presente %d fois au lieu d une' % n)
         if MORT in plat or MORT in t:
             pb.append('NUMERO MORT +33 7 69 72 58 92')
-        if not any(s in plat for s in SORTIE):
+        if not any(s in plat for s in SORTIE) and not REPONSE_OUVERTE.search(corps_section):
             pb.append('pas de porte de sortie')
         if num >= DEPUIS_LIEN and PRODUIT.search(t) and LIEN not in t:
             pb.append('REFERENCES NOMMEES SANS LIEN DE PAGE — §9 point 3 et §8')
