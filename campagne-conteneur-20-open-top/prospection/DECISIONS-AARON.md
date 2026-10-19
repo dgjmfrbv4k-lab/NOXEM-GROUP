@@ -922,3 +922,72 @@ portugais d Europe, `vidraria` est le mot ORDINAIRE du metier verrier.** Notre f
 Central do Porto* est une maison de verre plat deja relancee. **Appliquer la regle bresilienne au
 Portugal fermerait donc de bonnes fiches.**
 
+
+
+---
+
+## ÉTUDE DES VOLUMES D'IMPORT — DEUX POINTS POUR VOUS, LE 19/10/2026 a 21h09
+
+Demandée par Kevin ce soir : « il faut qu'on se fixe les gros pays, faire une étude de qui achète le
+plus en conteneur à l'étranger ». Elle est écrite en entier dans **`ETUDE-VOLUMES-IMPORT.md`**.
+**Je ne vous demande d'arbitrage que sur deux choses** — tout le reste est de l'opérationnel que je
+mène seul au titre du §1.
+
+### POINT A — LE MIROIR DEVIENT-IL UN AXE PROPRE AUX ÉTATS-UNIS ?
+
+**LES FAITS, et ils sont mesurés et non supposés :**
+- Les États-Unis sont le **1ᵉʳ importateur mondial de miroirs**, à **15,4 %** du marché mondial.
+- Ils ont importé **1,27 milliard de dollars** de miroirs en **2024**.
+- **577 millions viennent de CHINE**, 237 du Mexique, 90 de Taïwan.
+- Leurs importations de **float clair** la même année sont de **136 millions**.
+- **Donc le miroir importé aux États-Unis pèse NEUF FOIS leur float clair importé.**
+- L'origine chinoise porte depuis le **06/04/2026** un droit antidumping de **181,52 %** et des droits
+  compensateurs de 19,75 à 113,34 %.
+- Et le **miroir sans cuivre ni plomb** est, au §8, **le produit le plus différenciant de la gamme**.
+
+**LE PROBLÈME : toute la campagne américaine est bâtie sur l'argument FLOAT.** Les 223 fiches
+américaines actives ont reçu des liens float et low-E, et le miroir n'y figure qu'en ligne de gamme
+citée au passage. **Le plus gros marché mesuré de l'étude, servi par l'origine la plus frappée, sur
+notre référence la plus différenciante — et nous l'abordons en second.**
+
+**LES OPTIONS :**
+1. **Le miroir devient un axe propre aux États-Unis**, avec son propre angle de message et la page
+   `copper-and-lead-free-mirror` en première position pour les miroitiers et les revendeurs.
+2. On ne change rien et le miroir reste une référence citée après le float.
+3. On attend d'avoir une réponse américaine avant de réorienter quoi que ce soit.
+
+**MA RECOMMANDATION : l'option 1**, et pour une raison qui n'est pas le volume mais la **concurrence**
+— sur le float clair nous affrontons Vitro et Cardinal, protégés par un parapluie de prix ; sur le
+miroir sans cuivre ni plomb nous avons un produit que l'origine frappée ne fait pas.
+**Pourquoi je vous le demande au lieu de le décider : cela touche la GAMME et non la méthode**, et le
+§11 vous réserve la gamme. **Et la règle Prodiesa coupe dedans** — à tout argenteur, le miroir fini ne
+se propose jamais, seul le substrat entre. Il faut donc trancher, maison par maison, qui argente et
+qui revend, et c'est un travail que je ne lance pas sans votre mot.
+
+### POINT B — UN ACCÈS, ET IL VAUT PLUS CHER QUE TOUTE L'ÉTUDE
+
+**J'ai trouvé ce soir que le CANADA PUBLIE OFFICIELLEMENT LE NOM DES SOCIÉTÉS QUI IMPORTENT, par code
+produit.** C'est la *Base de données des importateurs canadiens*, d'Innovation, Sciences et
+Développement économique Canada, bâtie sur les données douanières de l'Agence des services
+frontaliers, millésime **2024**. **Ce n'est pas un courtier** — c'est un recensement d'État, de même
+nature que l'exhibit de l'USITC qui nous a donné Glasscorp, WHTB et MunnWorks — et ses données sont
+versées en **données ouvertes**.
+
+**CE QUE J'EN AI TIRÉ CE SOIR, en lisant à travers des résumés de recherche :** 22 noms, dont
+**15 fiches neuves créées à zéro appel de recherche**, et **7 confirmations** sur des fiches
+canadiennes qu'on travaillait déjà — Bronco, Garibaldi, BG Glass, Vanbo, Woodbridge, PFG Glass
+Industries, Prelco. **Leur statut d'importateur est désormais attesté par la douane et non déclaré par
+elles.** C'est le signal d'achat le plus fort que la campagne ait rencontré.
+
+**CE QUE JE NE PEUX PAS FAIRE, et c'est la demande :** le §13 m'interdit d'atteindre une page
+directement depuis cette session, donc je lis ces listes **à travers des résumés**. **Les listes
+complètes sont téléchargeables en tableur** — une centaine de noms sur le miroir non encadré, une
+trentaine sur l'origine chinoise, vingt sur le float de 6 à 10 mm, quinze sur le plus de 10 mm,
+**chacun avec sa ville et sa province**.
+**Il suffit que quelqu'un télécharge ces cinq tableaux et me les dépose.** C'est, de très loin, le
+meilleur gisement de prospects identifié depuis le début de la campagne, et il tient dans un fichier.
+À comparer au coût de la méthode ordinaire : deux appels de recherche par fiche, 200 appels par tour.
+
+**Et une question de méthode qui en découle, à poser à un transitaire ou à une chambre de commerce :
+quels AUTRES pays publient cela ?** Les États-Unis ne le font pas, le Brésil ne le fait pas — je l'ai
+vérifié. Si un seul autre grand marché le fait, le gisement double.

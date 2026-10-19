@@ -2034,6 +2034,64 @@ avoir épuisé les trois**, jamais sur le seul moteur.
 QUALIFIE pas.** Chacun des noms ci-dessus a été vérifié sur le site de la société avant d'ouvrir une
 fiche, et c'est ainsi que six distributeurs de machines et un verrier creux ont été écartés.
 
+**⚠️⚠️ ET IL Y A UNE QUATRIÈME CLASSE DE SOURCE, TROUVÉE LE 19/10 AU SOIR, QUI EST PLUS FORTE QUE LES
+TROIS AUTRES RÉUNIES PARCE QU'ELLE NE REPOSE SUR AUCUNE DÉCLARATION DE LA SOCIÉTÉ : LE RECENSEMENT
+DOUANIER NOMINATIF PUBLIÉ PAR UN ÉTAT.**
+**Cas : la BASE DE DONNÉES DES IMPORTATEURS CANADIENS (CID) d'Innovation, Sciences et Développement
+économique Canada, bâtie sur les données de l'Agence des services frontaliers (CBSA), millésime 2024.
+Elle publie, par code SH, LA LISTE NOMINATIVE DES SOCIÉTÉS QUI ONT DÉDOUANÉ LE PRODUIT** — définies
+comme celles qui représentent ensemble jusqu'à 80 % des importations, avec leur ville et leur
+province, exportables en tableur, et versées en **données ouvertes** sur le portail fédéral.
+**POURQUOI ELLE EST PERMISE, ET CE N'EST PAS UNE LECTURE COMPLAISANTE DU §5 :** c'est un **recensement
+public d'un État**, de même nature que l'**exhibit du dossier float glass de l'USITC** qui a donné
+Glasscorp, WHTB, ODL et MunnWorks, que la **résolution du DOF** mexicain et que celle du **MinCIT**
+colombien. Le §5 énonce lui-même le critère : « réétablir le fait par une source permise — un dossier
+antidumping public, une pièce de l'USITC, ou ce que la société dit d'elle-même ». **Le test du §5 sur
+Kompass s'applique mot pour mot : un courtier VEND, par société, ce qu'on ne peut pas obtenir
+autrement ; un recensement d'État PUBLIE.** Et il faut le dire, parce que la confusion serait facile :
+un site de relevés de connaissements est remonté sur l'un de ces noms le même soir, **et rien ne lui a
+été pris** ; le fait d'importation retenu vient de la base d'État et de nulle part ailleurs.
+**CE QU'ELLE ÉTABLIT, ET C'EST LE SIGNAL D'ACHAT LE PLUS FORT QUE LA CAMPAGNE AIT RENCONTRÉ EN SIX
+CENTS FICHES.** Tous les critères du §6 — l'épaisseur publiée, le format de feuille, le mode de vente
+au tiers et à la demi-feuille, la page fournisseurs, le certificat de performance — sont des **indices
+de ce qu'une maison achète, déclarés par elle**. Celui-ci est un **FAIT DOUANIER, et ce n'est pas elle
+qui le dit** : elle a importé, et l'État l'a enregistré.
+**⚠️ ET C'EST POUR CELA QU'IL RENVERSE LE TRI MÉTIER DANS UN CAS PRÉCIS, ce qu'aucun autre critère ne
+fait.** Deux des fiches ouvertes ce soir — **Accurate Glass Products** (Barrie) et **Kai Wei Glass and
+Mirror** (Markham) — se déclarent en parois de douche, garde-corps et pose de miroir, c'est-à-dire la
+classe **verrier + pose, à ZÉRO pour cent sur onze fiches**. **Et la douane les donne importatrices de
+float, l'une sur le teinté et le chinois, l'autre sur le chinois.** Or la raison pour laquelle cette
+classe ne répond jamais est qu'elle **achète coupé au transformateur local, au coup par coup** — ce
+qu'une maison qui dédouane elle-même sa feuille outre-mer ne fait précisément pas. **Donc : un fait
+douanier d'importation PRIME sur le classement par métier déclaré.** C'est la règle du mot *verrerie*
+prise au niveau du **profil d'achat** : le métier déclaré n'autorise ni à ouvrir ni à fermer, seul
+l'**usage** décide — et ici l'usage est attesté par un tiers qui ne vend rien.
+**CE QU'ELLE N'ÉTABLIT PAS, et la leçon Imporex vaut ici comme ailleurs : elle IDENTIFIE, elle ne
+QUALIFIE pas.** Ni le métier, ni l'adresse, ni le téléphone. Chaque nom coûte son second temps.
+**LA MESURE, SUR VINGT-DEUX NOMS RELEVÉS ET GREPÉS UN PAR UN : SEPT ÉTAIENT DÉJÀ AU REGISTRE, ET LES
+SEPT SONT DES FICHES CANADIENNES DÉJÀ TRAVAILLÉES** — Bronco, Garibaldi, BG Glass, Vanbo, Woodbridge,
+PFG Glass Industries, Prelco. **Un taux de recouvrement élevé est le BON signe**, exactement comme
+pour la méthode du vocabulaire de stock : la source douanière désigne **la même population** que le
+tri à la main avait sélectionnée, elle la confirme, et elle ajoute le fait que le tri ne pouvait pas
+voir. **Trois noms ont été écartés d'emblée comme concurrents du §6** — Pilkington North America,
+Vitro Flat Glass Canada, Schott North America — ce qui est logique, un producteur float important
+aussi, et c'est la liste du §6 qui a travaillé avant la main. **Quinze fiches créées à ZÉRO appel de
+recherche.**
+**⚠️ ET UNE RÉSERVE DE CIBLAGE QUI SE LIT DANS LA MÊME LISTE : la fraction MIROIR mêle des miroitiers
+et des ENSEIGNES DE GRANDE DISTRIBUTION** — Costco, Home Depot, Dollarama, Crate and Barrel, Wayfair.
+**Celles-là ne sont pas des cibles de conteneur de jumbo** : elles achètent du miroir **fini en cotes
+de rayon**, et c'est la leçon Gardner Glass — une cote lue dans un rayon est toujours une cote de
+sortie. Un recensement douanier recense **tout le monde**, y compris l'acheteur de produit fini.
+**OÙ CHERCHER L'ÉQUIVALENT AILLEURS, parce que la vraie question est là : quels AUTRES États publient
+le nom de leurs importateurs ?** Le Canada le fait. Les États-Unis **ne** le font pas — le §6 a mesuré
+le 13/10 que les 42 importateurs du rapport USITC Pub. 5579 sont *business-proprietary* et que seul
+l'**exhibit** nomme. Le Brésil **ne** le fait pas — la Circular MDIC nº 36/2024 identifie ses
+importateurs « a partir dos dados oficiais da Receita Federal », donc à partir de données **non
+publiées**. Le Mexique et la Colombie nomment les **parties intéressées** d'une enquête, ce qui est
+plus étroit. **Donc la piste est à tester pays par pays, et elle dépend entièrement de ce que
+l'autorité PUBLIE** — c'est la conclusion du 12/10 confirmée par un cinquième pays, et le Canada en
+est le meilleur cas au monde à ma connaissance.
+
 **⚠️⚠️ UN CRITÈRE QUI VAUT MIEUX QUE CETTE LISTE, DÉGAGÉ LE 14/10 À 13h20 APRÈS QUATRE ÉCARTS EN UNE
 MATINÉE : LE FRAGMENT DE MARQUE DANS UNE RAISON SOCIALE. C'est le frère du critère Pasabahçe du 09/10,
 et il a travaillé deux fois le même jour à cinq mille kilomètres d'écart.**

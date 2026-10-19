@@ -8061,3 +8061,63 @@ tard. Le script existe pour cela.
 
 **SUITE, LES TROIS PRIORITES.** Un, les seconds temps dus sur les fiches ouvertes ce soir. Deux, le
 creneau d appels, qui reste le premier goulot. Trois, la file d envoi, qui attend un mot.
+
+
+---
+
+### 19/10/2026 a 21h09 — ÉTUDE DES VOLUMES D'IMPORT, ET UNE SOURCE DOUANIÈRE NOMINATIVE
+
+**Demande de Kevin :** se fixer les gros pays, par volume d'import réel. **Axe neuf** — le registre
+était bâti par métier et par opportunité douanière, **jamais par volume mesuré**. Étude écrite dans
+`ETUDE-VOLUMES-IMPORT.md`.
+
+**LES CINQ CHIFFRES DU §3, TENUS DISTINCTS :**
+- recherches : **10 appels** (étude d'import 6, seconds temps canadiens 4)
+- **envois confirmés : ZÉRO** — rien n'est parti aujourd'hui, et rien ne part sans l'accord exprès de
+  Kevin message par message (§5, consigne du 15/10)
+- réponses qualifiées : 0
+- demandes de devis : 0
+- commandes : 0
+
+**CE QUE L'ÉTUDE ÉTABLIT :**
+- Sur les **cinq premiers importateurs mondiaux** de la position SH 7005, **un seul est travaillable
+  pour nous** : le **Canada**. La **Chine est 1ʳᵉ** (11,3 %, 678 M$) et nous est interdite comme source
+  d'approvisionnement ; l'**Inde est 3ᵉ** et déclassée ; la **Pologne** est hors périmètre européen ; la
+  **Turquie** est un concurrent exclu.
+- Le **Canada est 2ᵉ importateur mondial** (6,04 %, ~361 M$) avec un **déficit de −114 M$** sur le
+  float clair en 2024, **aucune ligne float** et 90 % de dépendance aux États-Unis.
+- **Le miroir américain pèse neuf fois le float clair américain** : 1,27 Md$ en 2024 contre 136 M$,
+  dont **577 M$ d'origine chinoise**. Voir le point A de `DECISIONS-AARON.md`.
+- Le **Pérou** importe ~91 M$, presque autant que le Mexique avec le quart de sa population, et n'a
+  aucun four float. **Le §6 l'avait déclassé sur le douanier, à juste titre — mais le volume n'avait
+  jamais été mesuré.**
+- **ERREUR D'ALLOCATION MESURÉE : 158 fiches brésiliennes pour un marché d'import de ~70 M$, contre
+  92 fiches canadiennes pour ~361 M$.** À volume égal, le Brésil est couvert **neuf fois plus
+  densément**. Personne ne pouvait le voir avant d'avoir mesuré les volumes.
+
+**TROUVAILLE DE MÉTHODE — une QUATRIÈME classe de source, plus forte que les trois du §6 :** la
+**Base de données des importateurs canadiens** d'ISED, bâtie sur les données douanières CBSA 2024,
+**publie le nom des sociétés qui ont dédouané chaque code SH**. Source d'État, donc permise au §5 au
+même titre qu'un exhibit de l'USITC. **22 noms relevés et grepés un par un : 7 déjà au registre et
+déjà travaillés** (le bon signe — la douane désigne la même population que mon tri à la main),
+**3 écartés comme concurrents** du §6 (Pilkington North America, Vitro Flat Glass Canada, Schott),
+**15 fiches créées à zéro appel de recherche**.
+
+**QUATRE SECONDS TEMPS DÉPENSÉS SUR LES MEILLEURS, et deux se qualifient d'eux-mêmes :**
+- **GLASSIQUE** — la meilleure fiche de la soirée. Son propre site dit qu'elle **ne fabrique pas** et
+  qu'elle **s'approvisionne en float et en verre à couche auprès de lignes de production partenaires**
+  pour revendre aux transformateurs et aux façadiers. Classe négoce, et **la règle Prodiesa ne retire
+  rien : toute la gamme entre**, miroir et low-E compris. Second temps à refaire sur sa page de contact.
+- **GLASTEK** (Bolton, Ontario) — `enquiries@glastek.ca`, gamme publiée de **4 à 19 mm** plus low-iron.
+  **Le fait douanier et sa propre page se confirment l'un l'autre** : la douane la donne importatrice
+  de plus de 10 mm, sa gamme porte du 12, du 15 et du 19. ⚠️ Réserve à lever : une maison de vente aux
+  enchères publie une installation de transformation du verre à son nom, donc peut-être une liquidation.
+- **ACCURATE GLASS PRODUCTS** (Barrie) et **KAI WEI GLASS AND MIRROR** (Markham) — **et elles donnent
+  une règle** : leur métier déclaré les range en classe verrier + pose, à **0 %**, et **la douane les
+  donne importatrices de float**. Or cette classe ne répond pas parce qu'elle achète **coupé au
+  transformateur local** — ce qu'une maison qui dédouane elle-même outre-mer ne fait pas. **Un fait
+  douanier d'importation prime donc sur le classement par métier déclaré.** Consigné au §6.
+
+**Registre : 1894 fiches.** Contrôles passés après écriture — forme 10 champs OK, doublons 8 groupes
+(référence), noyaux voisins 18 paires (référence), argument float **0 à corriger**, `A APPELER` sans
+téléphone **0**.
