@@ -15519,3 +15519,99 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 243. Laurier Architectural — division du Groupe Novatech (Laurier-Station, Quebec) — `infotechnique@laurier.net` — FRANCAIS — premier contact
+
+### PREPARE LE 11h11 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **SOURCE NEUVE POUR LA CAMPAGNE : la liste des licencies de l `IGCC`**, l organisme qui certifie
+  le vitrage isolant aux Etats-Unis et au Canada. **Le nom passe le filtre du §6 sans ambiguite** —
+  *Insulating Glass MANUFACTURERS*, pas *Glazing*, pas *Metal*, pas *Contractors* — et la
+  certification etant quasi obligatoire sur ce marche, la liste contient les maisons qui ne font
+  aucun effort de referencement. **Elle se valide elle-meme** : deux de ses licencies, American
+  Insulated Glass et Trulite, etaient deja au registre.
+- **⚠️⚠️ COLLISION DE NOM REFUSEE PLUTOT QUE TRANCHEE** : le registre portait deja une **Novatech
+  Glass a Calgary**, et Laurier se declare **division du Groupe Novatech** au Quebec. Trois mille
+  cinq cents kilometres. **Le §12 tranche sur le siege et l immatriculation, jamais sur le nom** —
+  les deux fiches restent distinctes et **la question est ecrite dans les deux**.
+- **Adresse lue dans leur propre documentation**, et `laurier.net` figure dans les URL de resultats.
+- **⚠️ BOITE TECHNIQUE, donc colonne CLIENT du §13** : c est la que *leurs* clients posent leurs
+  questions de composition. Seule boite publiee → precedent **El Mayorista**, et le premier
+  paragraphe demande la transmission.
+- **⚠️ REGLE PRODIESA** : les unites scellees sortent de l offre, et **le feuillete acoustique aussi
+  par prudence**, rien ne disant s ils l achetent ou le produisent. Reste le substrat.
+- **⚠️ INTERDIT DU §6 TENU, ET IL EST PRECIS : le SH 7005 n est PAS sur les listes de riposte
+  canadiennes.** Ne jamais ecrire que le float est taxe. L argument est de **gestion du risque**.
+  Et les faillites de facadiers restent internes, elles ne se citent pas.
+- **CERTIFICATION DU CLIENT** — le texte dit « une maison certifiee », et c est **la LEUR** : ils
+  figurent nommement a la liste des licencies de l IGCC, ce qui est precisement d ou vient ce nom.
+  **Aucun certificat de NOTRE cote n est annonce**, ce que le §5 interdit. Test fait.
+- **Liens produit presents. Porte de sortie presente. Signature une seule fois.** Jour ouvre verifie.
+
+**Objet :** `Substrat pour vos unites scellees - une seconde origine`
+
+```
+Bonjour,
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur
+de verre plat près de Lyon. Ceci est une offre de fourniture et non une
+demande de devis. J'écris à la seule adresse que vous publiez : si elle
+arrive au service technique, merci de la transmettre à qui achète le verre.
+
+Je vous écris plutôt qu'à un poseur à cause de ce que vous fabriquez : des
+unités scellées à double scellement, polysulfure ou silicone, pour le
+commercial et l'institutionnel, avec lame d'argon. Une ligne d'unités
+scellées ne tourne que si de la feuille y entre, et la feuille par camion
+complet est la seule chose dont je m'occupe.
+
+Donc je vais être précis sur ce que je ne propose PAS. L'unité scellée, le
+double scellement, le montage : c'est votre métier, pas le mien. Ce que je
+propose est ce qui entre dans l'atelier avant que votre ligne ne démarre :
+
+- float clair et extra-clair
+  https://noxemgroup.com/en/float-glass/
+- verre à faible émissivité, low-E, que toute unité à argon consomme
+  https://noxemgroup.com/service/verre-a-faible-emissivite/
+- et la gamme complète, si c'est plus simple en une seule page
+  https://noxemgroup.com/service/catalogue/
+
+Pourquoi maintenant, et c'est une question d'approvisionnement et non de
+prix. Le Canada est le seul pays du G20 sans ligne float nationale, et
+environ 90 % du verre utilisé par les fabricants canadiens vient des
+États-Unis. Depuis août et septembre, les échanges entre les deux pays
+portent des droits de 50 % et des surtaxes réciproques. Je ne vous dis pas
+que votre verre est taxé — le verre plat de bâtiment n'est pas sur les listes
+de riposte, et je ne vais pas vous raconter le contraire. Je dis qu'un marché
+qui tient 90 % de son approvisionnement d'un seul pays, dans ce climat
+commercial, a un intérêt objectif à connaître une seconde origine.
+
+Nous expédions en CONTENEURS COMPLETS, en caisses bois traitées NIMP-15,
+coupé à VOS cotes, ou en jumbo 3210 x 2550 mm. La longueur se coupe à la
+demande, donc la cote à laquelle vos tables sont réglées n'est pas un
+problème. Nous pouvons établir une offre pour la livraison à votre port de
+destination, sous réserve de validation de notre côté. Montréal ou Québec,
+selon ce qui vous arrange.
+
+Ce que j'attends en retour est court : quelles épaisseurs passent réellement
+dans vos unités, quelles couches low-E vous utilisez, quel format de feuille
+vos tables préfèrent, un volume annuel approximatif avec la fréquence
+d'achat, et le port.
+
+Et la partie honnête. Une maison certifiée qui fournit le commercial et
+l'institutionnel a un fournisseur qui a mérité sa place, et je ne demande pas
+à le remplacer. Je demande à être le deuxième nom sur la liste, pour la
+semaine où le premier est en rupture. Si cela ne vous intéresse pas,
+dites-le franchement et je n'insiste pas.
+
+Bien cordialement,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
