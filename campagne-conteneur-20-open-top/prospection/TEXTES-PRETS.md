@@ -20194,3 +20194,110 @@ une file d attente. **La trace du cas reste, le texte envoyable ne reste pas.**
 **RIEN N A ETE ENVOYE.** Les regles du §9 et du §10 s appliquent sans changement a tous les textes
 de cette campagne : identification en premiere ligne comme fournisseur de verre plat, liens produit
 du §8, signature complete du §10 en un seul exemplaire.
+
+
+## 292. DA Vidros (Ribeirao Preto, Sao Paulo) — `aldo_davidros@hotmail.com` — PORTUGAIS — premier contact
+
+### PREPARE LE 15h09 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Trouvee incidemment en cherchant DVB Vidros**, dans la meme ville. Grep passe dans un appel
+  **separe** de l ecriture : **absente**, et le faux positif `SoliDA VIDROS` lu et ecarte.
+- **⚠️⚠️ L ANGLE EST LEUR PROPRE PHRASE, ECRITE EN CAPITALES SUR LEUR SITE :
+  `VENDAS SOMENTE PARA VIDRACARIAS`.** Ils ne vendent **qu aux vitriers**. C est la meilleure
+  qualification possible pour cette campagne et elle ne se deduit pas, elle se lit : **une maison qui
+  ne vend qu aux vitriers EST le grossiste**, donc la classe negoce a 10 pour cent du §6, et non le
+  poseur a 3,6. C est le critere Viminas dans une autre langue.
+- **⚠️ ET CETTE MEME PHRASE LEVE LE DOUTE SUR LEUR GAMME.** Ils annoncent verre, quincaillerie et
+  kits, ce qui tirait vers la classe menuiserie. **Mais la quincaillerie est ce qu ils revendent AUX
+  vitriers, pas ce qui les definit** — un grossiste de vitriers vend forcement les ferrures qui vont
+  avec le verre. Le doute est tranche par leur clientele, pas par leur catalogue.
+- **⚠️ LA QUESTION DU §12 EST RESOLUE, ET DANS LE BON SENS.** Les annuaires donnaient a DVB Vidros
+  **la meme rue, le meme numero et le meme telephone** qu a celle-ci. Le second temps sur leur propre
+  domaine donne **Rua Graca Aranha 1906** et les numeros **3919-4548** et **3919-2491** — ni la rue ni
+  le telephone des annuaires. **L alarme venait des annuaires et non des societes**, et c est la lecon
+  Imporex prise sur une adresse postale. **Deux maisons distinctes, deux messages legitimes.**
+- **⚠️ ADRESSE EN `hotmail`, ET C EST L EXCEPTION DU §5 ASSUMEE** : la societe la publie sur sa propre
+  page `contato.php`. Notee comme telle dans la fiche. Seconde boite gardee en **secours**.
+- **⚠️ LES DEUX BOITES SONT NOMINATIVES et aucune fonction n est publiee : LE TEXTE NE NOMME
+  PERSONNE.** Ecrire a la boite n est pas nommer la personne, et le §5 interdit le second.
+- **Ribeirao Preto est a environ 400 km de Santos** : le texte le dit sans en faire une objection, et
+  demande le port.
+- **REGLE PRODIESA** : rien ne sort de l offre, **ils ne transforment pas, ils distribuent** — donc
+  gamme complete presentable, miroir compris.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE, et elle compte ici puisque la gamme complete est
+  offerte** : float **clair** de 1,8 a 20 mm contre la Malaisie, le Pakistan et la Turquie, **ni
+  miroir ni teinte**, l Europe visee par aucune. Et **jamais** l absence de production locale.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Para quem vende somente a vidracarias - uma segunda origem em contentor`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe a quem compra.
+
+Escrevo por causa de uma frase que esta em letras maiusculas no site de voces:
+vendas somente para vidracarias. Essa frase me diz mais do que qualquer
+catalogo. Quem vende so a vidracarias nao esta na obra, esta um degrau acima
+dela - e esse degrau e o unico lugar onde um contentor completo de chapa faz
+sentido. E e a unica coisa que eu vendo.
+
+Nossa linha, com o link de cada referencia:
+
+- vidro float claro e extra-claro, a base
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo, para area umida
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- vidro laqueado, para marcenaria e ambientes
+  https://noxemgroup.com/en/lacquered-glass/
+- e a linha completa
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e com a medida exata, porque aqui a distincao importa: desde
+a Gecex 833 o float INCOLOR de 1,8 a 20 mm originario da Malasia, do Paquistao
+e da Turquia paga direito antidumping no Brasil, e a Europa nao esta nessa
+medida. Isso vale para essa faixa de float incolor e NAO vale para espelho nem
+para vidro fume - nessas duas referencias a comparacao e outra e eu nao vou
+fingir o contrario. Nao estou lhe dando numeros numa primeira carta e nao
+estou dizendo que nosso vidro e barato. Estou dizendo onde a comparacao mudou
+e onde nao mudou.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda, de modo que as medidas de estoque que as
+suas vidracarias pedem nao sao obstaculo. Podemos preparar uma oferta para a
+entrega no seu porto de destino, sujeita a validacao do nosso lado. Ribeirao
+Preto fica a umas quatro horas de Santos, entao o frete interno existe e eu nao
+vou fingir o contrario: diga por qual porto voces recebem o importado e eu
+trabalho sobre esse.
+
+O que preciso de volta e pouco: quais referencias e espessuras giram mais no
+seu estoque, as medidas de chapa que as suas vidracarias pedem, um volume
+anual aproximado com a frequencia de compra, e esse porto.
+
+E a parte honesta. Um distribuidor que atende as vidracarias de uma regiao tem
+um fornecedor que ganhou o lugar, e nao estou pedindo para substitui-lo. Estou
+pedindo para ser o segundo nome da lista, qualificado com antecedencia, para o
+mes em que o primeiro ficar curto ou subir. Se voces estao comprometidos com o
+fornecimento que tem, diga com franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
