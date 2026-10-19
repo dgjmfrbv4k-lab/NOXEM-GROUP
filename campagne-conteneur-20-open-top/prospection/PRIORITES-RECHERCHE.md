@@ -60,6 +60,21 @@ que la seule adresse publiee est **nominative**, ce que le §5 interdit. Un appe
 **Ma phrase « il peut omettre un candidat, jamais en inclure un que le script ecarte » etait donc
 fausse, et elle est corrigee ici plutot que laissee en place.**
 
+**⚠️⚠️ ET LA PREMIERE MESURE SUR CETTE LISTE LA CORRIGE DES SA PREMIERE UTILISATION, LE 19/10 AU
+SOIR : UNE FICHE A UN SEUL APPEL EST BON MARCHE, ELLE N EST PAS POUR AUTANT DE BONNE CLASSE.**
+Les deux premieres converties — **Ponto do Vidro** (Fortaleza) et **Vidronorte** (Recife) — sont des
+**vidracarias de detail**, c est-a-dire la classe *verrier plus pose*, **a zero pour cent sur onze
+fiches**. Les deux ont bien rendu une adresse publiee sur leur propre page, donc la methode marche ;
+mais elles ne valent rien a envoyer.
+**ET LA CAUSE N EST PAS UN HASARD, ce qui la rend utilisable :** ces deux fiches sont nees de
+**recherches par VILLE** dans le Nordeste, et la section 3 ci-dessous classe la recherche large par
+ville comme **la plus pauvre des cinq methodes**. Une ville rend ce qu elle contient, et une ville
+contient surtout des vitriers.
+**CONDUITE : LE COUT EN APPELS CLASSE L ORDRE, LE METIER CLASSE LA VALEUR.** Une fiche a un appel de
+la classe aluminium ne vaut pas une fiche a deux appels de la classe negoce. **Donc on lit la colonne
+Societe avant de depenser**, et sur les dix ci-dessus les noms a privilegier sont ceux qui disent le
+negoce ou la transformation, pas ceux qui disent la vitrerie.
+
 **La regeneration canonique reste le script lui-meme, dont la premiere section sort deja triee site
 connu en tete :**
 ```bash
