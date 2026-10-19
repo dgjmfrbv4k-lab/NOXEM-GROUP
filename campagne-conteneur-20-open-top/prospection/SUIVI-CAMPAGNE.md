@@ -8121,3 +8121,56 @@ déjà travaillés** (le bon signe — la douane désigne la même population qu
 **Registre : 1894 fiches.** Contrôles passés après écriture — forme 10 champs OK, doublons 8 groupes
 (référence), noyaux voisins 18 paires (référence), argument float **0 à corriger**, `A APPELER` sans
 téléphone **0**.
+
+
+---
+
+### 19/10/2026 a 22h28 — L'ÉTUDE APPLIQUÉE : PÉROU, ATLANTIQUE CANADIEN, AXE MIROIR AMÉRICAIN
+
+Suite directe de `ETUDE-VOLUMES-IMPORT.md`, écrite une heure plus tôt. **Les cinq chiffres du §3,
+tenus distincts : recherches ~30 appels · ENVOIS CONFIRMÉS ZÉRO · réponses qualifiées 0 · demandes
+de devis 0 · commandes 0.** Rien n'est parti aujourd'hui et rien ne partira sans l'accord exprès de
+Kevin, message par message (§5, consigne du 15/10).
+
+**PÉROU — de 24 à 31 fiches actives.** L'étude l'a désigné : ~91 M$ d'import, presque le Mexique
+avec le quart de la population, et **aucun four float**. Méthode : vocabulaire de stock, **une ville
+par requête** (Lima puis Arequipa). Les meilleures sont celles qui se déclarent *al por mayor* —
+**Corporación Vialfi** (Arequipa, adresse sur son propre domaine, expédie tout le sud, port de
+**Matarani**) et **Lima Vidrios** (miroirs nationaux **et importés**). **Qanger** est feuilleteur :
+le feuilleté sort de l'offre, le float clair 3 et 4 mm entre. **Corporación Marin** est créée avec
+son **pays à vérifier** (domaine en `.com` quand les autres sont en `.pe`), et l'argument de
+l'absence de four float ne s'y emploie **pas du tout**.
+**Deux pièges écartés sans dépenser de second temps :** *Importadora Andina* vend du verre de
+**laboratoire** — la leçon `vidraria` en espagnol — et `blindex.com.pe` est **Pilkington**, donc un
+concurrent du §6. Plus *Importadora J & J del Sur*, qui importe des **outils** de vitrerie.
+
+**ATLANTIQUE CANADIEN ET QUÉBEC — 4 fiches, et un fait de marché qui vaut plus.** Halifax a été
+choisie parce que c'est **le port canadien le plus proche de l'Europe**, donc le fret le plus court,
+et qu'elle n'avait que trois mentions. **Résultat : il n'y a aucun grossiste de float à Halifax** —
+les seuls rendus sont hors province, National Glass depuis Delta et Calgary, United Glass depuis
+Mississauga. **Et la page d'Eastern Glass nomme ses fournisseurs : VITRO à Bedford**, donc
+l'Atlantique achète au producteur américain. L'angle y est la **seconde origine**, pas un marché
+sans offre.
+⚠️ **Signal à lever avant tout envoi :** *Robover* et *Vitrerie Global* sont tous deux sur le
+**boulevard Wilfrid-Hamel** à Québec — leçon SOFAVI, une coordonnée partagée se tranche sur le
+numéro civique avant de traiter deux fiches comme deux comptes. Et **Artisans du Vitrail** est
+écartée d'emblée : vitrail artistique, et sa « feuille entière » fait **8 pieds carrés**, soit le
+quarantième d'un jumbo — leçon Valleywide, le bon vocabulaire à la mauvaise échelle.
+
+**AXE MIROIR AMÉRICAIN — le point A de `DECISIONS-AARON.md` gagne sa meilleure pièce.**
+**Interglass USA** (Savannah, Houston, Miami — trois ports) annonce sur sa propre page du **miroir
+SANS CUIVRE NI PLOMB**, clair, gris et bronze, en cote de stock de **84 × 130 pouces**. C'est notre
+référence la plus différenciante **déjà dans leur gamme** : il n'y a rien à expliquer, la seule
+question est l'origine. Et l'étude dit que les États-Unis importent 1,27 Md$ de miroir dont 577 M$
+de Chine, frappée de 181,52 %.
+**D & W Incorporated** (Elkhart, Indiana) est créée par l'**axe des procédés** : ligne d'argenture
+interne, flotte de livraison aux vitriers locaux. ⚠️ **Ils argentent, donc le miroir fini ne leur
+est JAMAIS proposé** — seul le substrat clair et extra-clair entre. C'est la faute Prodiesa du 12/10
+que ce garde-fou existe pour éviter.
+**Et deux noms n'ont PAS donné de fiche, à dessein :** *Lenoir Mirror* relève du compte **Aldora**,
+qui a signé une lettre d'intention pour la racheter — une seule maison, un seul acheteur ; et
+*United Lens* fait de l'**optique**, donc hors gamme.
+
+**Registre à 1909 fiches, dont 98 canadiennes actives.** Contrôles passés après chaque écriture :
+forme 10 champs, 8 groupes de doublons, 18 paires de noyaux voisins, **0 argument float à corriger**,
+**0 `A APPELER` sans téléphone**.
