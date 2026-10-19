@@ -98,6 +98,32 @@ dans 3210 ?**
 formats de feuille — ce qui dit au passage où la méthode doit chercher : **une page qui publie un
 format de feuille est une page de stockiste**, et c'est devenu la meilleure requête de découverte
 de la campagne (voir le §13 sur le vocabulaire de stock).
+**⚠️⚠️⚠️ ET LA PREUVE QUI CLÔT LE DÉBAT EST TOMBÉE LE MÊME SOIR, SUR L'AUTRE HÉMISPHÈRE : CE N'EST
+PLUS UNE COTE ISOLÉE, C'EST LA RÈGLE ELLE-MÊME MISE EN TABLEAU PAR UN DISTRIBUTEUR.**
+**METRO PERFORMANCE GLASS** (Auckland), le plus gros transformateur de Nouvelle-Zélande, publie sa
+table de dimensions ainsi : feuille **maximale de float clair à 5100 × 3210 mm** pour la plupart des
+épaisseurs à partir de 5 mm · **4500 × 3210** pour le 4 mm · **1840 × 1220** pour le 2 mm.
+**LA LARGEUR EST 3210 PARTOUT ET SEULE LA LONGUEUR BOUGE.** Nous n'avons plus à déduire la règle
+d'une série de cotes : un distributeur l'écrit colonne par colonne.
+**⚠️ ET CELA FAIT AVANCER LA QUESTION OUVERTE N°1 CI-DESSOUS, celle du PLF strict de 6000 × 3210
+que demandait Rákosy Üveg — sans la trancher, et il ne faut donc toujours rien en annoncer.** Une
+feuille de **5100 × 3210 en stock courant** ne prouve pas que le 6000 soit disponible chez nos
+usines. Mais elle établit qu'une feuille de **3210 de large et de plus de cinq mètres de long**
+circule dans le commerce ordinaire, ce qui est beaucoup plus proche du PLF que tout ce que nous
+avions, et déplace la question de « est-ce que de telles cotes existent » à « est-ce que **les
+nôtres** les font ».
+**ET LA SEPTIÈME PREUVE AJOUTE L'ARGUMENT LE PLUS UTILE DES SEPT, parce qu'il porte sur le
+TRANSPORT et pas seulement sur la ligne :** **Glass Australia** (Malaga, WA) publie ses cotes
+standard de float clair en **1830 × 2440 et 2440 × 3660 mm**, de 2 à 12 mm — la même longueur de
+3660 que Prodiesa au Mexique, à l'autre bout du monde. **Or l'Australie n'a PLUS AUCUNE LIGNE
+FLOAT depuis l'arrêt d'Oceania Glass.** Donc ces cotes ne peuvent pas être des cotes de camion
+depuis une usine voisine : **ce sont nécessairement des cotes qui ont traversé un océan en
+conteneur.** C'est la démonstration que le format n'est pas seulement produisible, mais
+**transportable** — ce qui est exactement ce que cette campagne doit savoir.
+**BILAN DE LA RÈGLE : sept sources, cinq pays, quatre continents, aucun contre-exemple.** Devis
+d'Aaron 3300 · Intervidro 3210/3300/3600 · TSJ Vidros 2400 de large · Prodiesa 2600 × 3660 · Metro
+Glass 5100 × 3210 en tableau · Glass Australia 2440 × 3660 sur un marché sans four. **La question
+devant une cote reste la seule qui vaille : sa plus petite dimension tient-elle dans 3210 ?**
 **CE QUI RESTE VRAIMENT OUVERT, et c'est beaucoup plus étroit :**
 1. **Le PLF au sens strict, 6000 × 3210**, que demandait **Rákosy Üveg** — « standard purchasing
    sizes are jumbo sheets, typically 6000 × 3210 mm », et il ne peut pas travailler
