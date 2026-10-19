@@ -20519,3 +20519,108 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 295. Syracuse Glass Company (Syracuse, New York) — `info@syracuseglass.com` — ANGLAIS — premier contact
+
+### PREPARE A 18h40 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Trouvee par le PORTAIL SECTORIEL et non par le moteur**, en application du verdict ecrit une heure
+  plus tot : la Georgie, l Ohio et la Pennsylvanie, cherchees au moteur dans la meme soiree, n ont
+  rendu que des boutiques de decoupe en ligne. Grep passe dans un **appel separe** de l ecriture :
+  **absente**.
+- **⚠️⚠️ SEULE FICHE DE LA CAMPAGNE A SATISFAIRE LES DEUX CRITERES D ENTREE D ATELIER A LA FOIS.**
+  Celui du 15/10 : ils publient leur **grille de stock en PDF**, avec le **96 x 130 pouces** en clair,
+  teinte, reflechissant et Low-E, et les epaisseurs de 1/8 a 1/2 pouce. Et celui degage ce soir meme
+  sur Super Vidros : **leur grille dit que les feuilles de stock peuvent etre REFENDUES a la demande**,
+  10 dollars par refente en float et 20 en feuillete. **On ne refend que ce qu on tient entier.**
+- **Le point 2 du §9 part de la**, et c est un fait tire de leur propre document, pas une flatterie.
+- **1909, 125 000 pieds carres, ~115 salaries, et elle se declare DISTRIBUTEUR INDEPENDANT** — le mot
+  de Glenny Glass et d Intraco, le seul profil pour qui une origine de plus est une option.
+- **⚠️⚠️ ET L ARGUMENT DOUANIER AMERICAIN EST ENTIEREMENT RETIRE DU TEXTE, alors qu il est vrai.**
+  Leur propre certificat les donne membres du **VITRO CERTIFIED FABRICATOR NETWORK**, et **Vitro est le
+  PETITIONNAIRE des ordres du 06/04/2026**. Leur substrat est donc le produit domestique **protege** par
+  la mesure : leur dire que les origines chinoise et malaisienne portent desormais des droits ne leur
+  apprend rien et les met du cote du demandeur. **Troisieme famille de textes de la campagne sans
+  argument douanier**, apres Perficom et Templanova.
+- **⚠️ ET JAMAIS L ABSENCE DE PRODUCTION LOCALE** : Vitro et Cardinal produisent aux Etats-Unis,
+  Cardinal sur sept sites. L angle est l **ORIGINE** et la **SECONDE SOURCE**.
+- **⚠️ LA PORTE DE SORTIE EST PLUS QU UNE FORMALITE ICI** : un reseau de fabricants certifies est un
+  engagement contractuel, donc le texte dit en clair qu on ne demande pas de changer de substrat.
+- **⚠️ DEUX BOITES ECARTEES VOLONTAIREMENT.** `Orders@` est une boite de **commandes entrantes**, donc
+  cote CLIENT au tableau du §13 — piege MunnWorks, Maryland Glass, Brocanelli. Et la liste de contacts
+  en PDF nomme une **Purchasing Agent** avec son adresse : fonction verifiee et pertinente, donc le §5
+  l autoriserait, **mais le document date de 2018 et le releve signale lui-meme une coquille dans
+  l adresse**. Risque Willem Heunis. **Non employee.** Seule `info@`, publiee par la societe sur son
+  propre domaine, satisfait la regle anti-rebond.
+- **⚠️ SYRACUSE EST A L INTERIEUR**, environ 400 km de New York et proche d Albany et de Montreal : le
+  port se **demande**, et le texte dit que le fret interne existe plutot que de le cacher.
+- **REGLE PRODIESA** : trempe, feuillete et unites isolantes **sortent** de l offre, seul le substrat
+  entre.
+- **⚠️ MARQUEUR `CERTIFICATION DU CLIENT`** — le controle avant-vol a refuse ce texte pour son mot
+  *certified*, et il avait raison de le demander. **Le mot porte ici sur LEUR certification, jamais
+  sur la notre** : la phrase est *a certified fabricator does not change substrate lightly*, et elle
+  sert la porte de sortie. **Le texte n annonce AUCUN certificat de notre cote** — ni ISPM-15 comme
+  une garantie, ni une norme americaine, ni un agrement. Le §5 interdit notre certificat non valide
+  par Aaron, pas la mention de celui du client.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Rien ne part sans l accord expres de Kevin.
+
+**Objet :** `A second origin for the sheet that goes into your stock list`
+
+```
+Good morning,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, in France. This is a supply offer, not a request for
+a quotation. If you are not the person who buys the sheet, I would be grateful
+if you passed this on - I am writing to your general address because it is the
+one you publish.
+
+I am writing to you rather than to a glazing contractor because of your own
+stock sheet list. You carry 96 x 130 in clear, tinted, reflective and low-E,
+from 1/8 up to 1/2 inch, and you offer to split a stock sheet on request. A
+company that splits sheets is a company that holds them whole, and that is the
+only kind of buyer a full container makes sense for. Ninety-odd years as an
+independent distributor and fabricator says the same thing a different way.
+
+What we supply, and the pages rather than my word for it:
+
+- clear and extra-clear float, the base of the range
+  https://noxemgroup.com/en/float-glass/
+- low-E, for the insulating units you fabricate
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror, which behaves differently from a
+  conventional silvered mirror in humid service
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to see it in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, in treated timber crates compliant with ISPM-15,
+either cut TO YOUR SIZES or as jumbo 3210 x 2550 mm. The length is cut to
+order, so a 130 inch stock length is not an obstacle. We can prepare an offer
+for delivery to your port of destination, subject to validation on our side.
+Syracuse is inland, so there is a domestic leg and I am not going to pretend
+otherwise: tell me which port you clear imported glass through today and I will
+work from that one.
+
+What I need back is short: which thicknesses move through your stock, which
+coated products you carry and in what, the sheet sizes your tables and your
+line are set for, a rough annual volume with the buying frequency, and that
+port.
+
+And the honest part. A certified fabricator does not change substrate lightly,
+and I am not asking you to. What I am asking is to be the second name on the
+list, qualified in advance, for the month the first one runs short or a coated
+product is on allocation. If you are committed to the supply you have, say so
+plainly and I will not push.
+
+Best regards,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
