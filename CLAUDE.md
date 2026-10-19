@@ -358,6 +358,31 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   (« packs, cases, stock sheets ») et **Bear Glass** (« stocking distributor of **sheets** », jusqu'à
   19 mm). **Donc la requête se relance aussi sur les fiches DÉJÀ ENVOYÉES, pour trier celles qui
   méritent l'effort de relance** — à coût nul, puisqu'elle rend ces noms de toute façon.
+  **⚠️⚠️ ET LE 19/10 AU SOIR OUVRE UN SECOND AXE, QUI N'EST PAS GÉOGRAPHIQUE MAIS DE PRODUIT, ET QUI
+  EST STRUCTURELLEMENT MIEUX CIBLÉ QUE TOUS LES AUTRES : CHERCHER LE STOCK DU PRODUIT QUE NOUS
+  DIFFÉRENCIONS LE PLUS — LE MIROIR — TROUVE LES MAISONS QUI DOIVENT ACHETER NOTRE SUBSTRAT.**
+  Une requête sur `"mirror sheets"` plus `"by the case"` ou `"stock sheets"` a rendu, **en un seul
+  appel, trois argenteurs** : **Lenoir Mirror** (Caroline du Nord), **Walker Glass** (Montréal) et
+  **D & W Incorporated**, les trois décrivant une **ligne d'argenture** ou un stock de feuilles de
+  miroir.
+  **POURQUOI CET AXE EST MEILLEUR QUE LA GÉOGRAPHIE, et la raison est logique et non statistique :
+  un argenteur ne peut argenter que ce qu'il achète.** Chercher par ville rend tout ce qui touche au
+  verre et oblige à trier cinq classes de métier. Chercher par **procédé** ne rend que des maisons
+  dont l'achat de substrat est une **nécessité industrielle**, pas une option commerciale.
+  C'est la **règle Prodiesa prise par l'endroit** : au lieu de découvrir après coup qu'une maison
+  fabrique ce qu'on voulait lui vendre, on la cherche *parce qu'*elle le fabrique, et on ne lui
+  propose que l'amont.
+  **⚠️ ET LE GARDE-FOU EST LE MÊME, IL NE FAUT SURTOUT PAS L'OUBLIER SUR CET AXE-LÀ : à un argenteur,
+  LE MIROIR FINI NE SE PROPOSE JAMAIS.** C'est exactement la faute commise sur Prodiesa le 12/10, où
+  le message offrait le miroir sans cuivre ni plomb en première position à un fabricant de miroir.
+  Sur cet axe le produit d'appel est le **substrat** — float clair et extra-clair qualité miroir,
+  dans la plage même que la maison argente, 3 à 6 mm chez Walker.
+  **Les mots à employer, par langue :** `mirror sheets`, `silvering line`, `silvered glass`,
+  `mirror stock sheets` · `línea de plateado`, `espejos por lámina`, `vidrio para platear` ·
+  `linha de espelhação`, `espelho em chapa` · `ligne d'argenture`, `verre à argenter`.
+  **Et le même axe se décline sur nos autres références** : une ligne de **feuilletage** achète du
+  float clair par paires, une ligne de **trempe** l'achète en épaisseurs précises, une ligne de
+  **double vitrage** l'achète en low-E. **Chercher le procédé, pas le lieu.**
   **⚠⚠ ET UN QUATRIÈME CAS LE MÊME SOIR AJOUTE LA DIMENSION QUI MANQUAIT AU CRITÈRE — LA TAILLE DU
   FORMAT, ET PAS SEULEMENT SON CÔTÉ D'ATELIER. Cas VALLEYWIDE GLASS (Phoenix), et il satisfaisait le
   critère à la lettre.** Leur page de gros publie des feuilles de stock recuites, nommément du **1/8 DS
