@@ -1950,3 +1950,56 @@ un marche a decouvrir, c est un marche fait. **Ne pas y redepenser d appels.**
 **Et `trademo.com`, deja interdit depuis le 08/10, remontait en seconde position** sur une recherche
 d importateurs portoricains : la regle du 16/10 vaut ici aussi, **on les bloque AVANT la premiere
 requete sur un territoire neuf**, pas apres les avoir vus.
+
+---
+
+## FILON IGCC — OUVERT LE 19/10 A 11h14, ET IL FAUT DIRE SES DEUX FACES
+
+**La source :** l **Insulating Glass Certification Council** publie la liste nominative de ses
+licencies, c est-a-dire les fabricants de vitrage isolant **certifies** des Etats-Unis et du Canada.
+Son nom passe le filtre du paragraphe 6 sans ambiguite — *Insulating Glass MANUFACTURERS* — et la
+certification etant quasi obligatoire sur ce marche, la liste contient les maisons qui ne font aucun
+effort de referencement. **Elle se valide elle-meme** : American Insulated Glass et Trulite, deux de
+ses licencies, etaient deja au registre.
+
+**RENDEMENT DES DEUX PREMIERS APPELS : sept noms, cinq absents.** Viracon, Tower Insulating Glass,
+Insulite Glass, Midwest Glass Fabricators, Laurier Architectural.
+**Une fiche creee : LAURIER ARCHITECTURAL**, Quebec, en `A ENVOYER 2026-10-20`.
+
+### ⚠️⚠️ ET LE TROISIEME AXE DE RISQUE DU PARAGRAPHE 13 SE VERIFIE DES LE PREMIER LOT : UNE LISTE DE
+### CERTIFICATION NOMME DES **SITES**, PAS DES SOCIETES
+
+**MIDWEST GLASS FABRICATORS — AUCUNE FICHE, et trois motifs qui se cumulent.**
+1. **Regle anti-rebond NON satisfaite.** L adresse `sales@mwgf.com` vient d une page **LinkedIn**, et
+   **aucun site propre n est remonte** : le domaine `mwgf.com` ne figure dans aucune URL de resultat.
+2. **`leadiq.com`, courtier interdit**, proposait par-dessus un **schéma** d adresse en
+   initiale-plus-nom. Adresse deduite donc inventee, troisieme fois apres Lahey et Saand.
+3. **ET LE MOTIF QUI DECIDE : la societe aurait ete rachetee en fevrier 2024 par OLDCASTLE
+   BUILDINGENVELOPE — QUI EST DEJA AU REGISTRE**, en `A QUALIFIER`, sous « implantations multiples en
+   Amerique du Nord ». ⚠️ **Le fait vient du courtier, donc il n est PAS etabli** au sens du
+   paragraphe 5 — mais il suffit a **ne pas ouvrir** la fiche, exactement comme RY Glass Imports le
+   14/10. Si le rachat est reel, Midwest n est pas une societe mais un **site** d un groupe deja
+   present, et la fiche serait un doublon.
+
+**LA LECON GENERALE, ET ELLE VAUT POUR TOUTE LISTE DE CERTIFICATION :** on certifie une **usine**,
+pas une maison mere. Une usine rachetee reste donc listee sous son ancien nom aussi longtemps que son
+certificat court. **C est le cas Flachglas Wernberg du paragraphe 13 — une federation qui liste
+separement trois societes d une meme holding — mais par un mecanisme different et plus trompeur : ici
+ce n est pas la federation qui separe, c est le CERTIFICAT qui fige un nom perime.**
+**Conduite : sur cette liste, greper le nom ET chercher le groupe avant d ouvrir.** Le `grep-nom.py`
+sur `oldcastle` a coute une seconde et a evite un doublon sur le plus gros faconneur d Amerique du
+Nord.
+
+### RESTENT A TRAVAILLER SUR CE FILON, et dans cet ordre
+1. **Tower Insulating Glass** et **Insulite Glass** — taille moyenne, le bon calibre : un geant a des
+   contrats cadres, une maison moyenne a une place a prendre en seconde origine.
+2. **Viracon** — le plus gros faconneur architectural d Amerique du Nord, donc valeur haute et
+   probabilite faible. ⚠️ **Appartient a Apogee Enterprises** : chercher le groupe avant d ouvrir, la
+   lecon ci-dessus.
+3. **La liste elle-meme n est pas epuisee** — les documents de l IGCC sont des tables de plusieurs
+   pages et deux appels n en ont rendu que sept noms. **Un appel de plus sur la liste vaut mieux que
+   deux sur une societe.**
+4. ⚠️ **ANDERSEN et PELLA sont a ECARTER sans les chercher** : ce sont des fabricants de FENETRES,
+   et le mot *window* est dans la liste des mots qui ferment une piste au paragraphe 6. Ils font leur
+   propre vitrage isolant parce qu ils sont integres, pas parce qu ils achetent de la feuille au
+   marche.

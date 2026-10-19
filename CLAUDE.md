@@ -317,6 +317,16 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   mettre dans `blocked_domains` d'emblée. **Ils occupaient à eux deux les deux premiers résultats**
   sur le nom cherché, et la donnée qu'ils proposaient — un dirigeant nommé, un numéro par antenne —
   est exactement ce que le §5 interdit de reprendre.
+  **UN DE PLUS LE 19/10 À 11h14, SUR UNE RECHERCHE AMÉRICAINE : `leadiq.com`**, qui vend des
+  annuaires de salariés par société — *Employee Directory, Headcount & Staff*. Même nature que
+  ContactOut, `wiza.co` et `clodura.ai`, donc **même interdit**. **Et il a proposé exactement les
+  deux choses que le §5 interdit, dans le même résultat :** un **schéma** d'adresse en
+  initiale-plus-nom sur le domaine de la société — donc une adresse inventée, troisième fois après
+  Lahey et Saand — **et une qualification capitalistique**, le rachat de Midwest Glass Fabricators
+  par Oldcastle BuildingEnvelope. **Le second fait est précieux et il n'est PAS utilisable** : la
+  règle veut qu'un courtier puisse NOMMER sans qu'on reprenne sa QUALIFICATION. Il a néanmoins servi
+  à **ne pas ouvrir** la fiche, exactement comme sur RY Glass Imports le 14/10 — un fait d'une source
+  interdite suffit à s'abstenir, jamais à affirmer.
   **ET DEUX DE PLUS LE MÊME JOUR À 11h27, SUR DES RECHERCHES CANADIENNE ET AMÉRICAINE : `wiza.co` et
   `clodura.ai`**, qui vendent des contacts et des coordonnées de salariés par société. Même nature que
   ContactOut et SignalHire, donc même interdit. **Ce qu'ils proposaient sur Saand est exactement ce que

@@ -15615,3 +15615,88 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 244. Tower Insulating Glass LLC (North Bellmore, Long Island, New York) — `sales@towerigllc.com` — ANGLAIS — premier contact
+
+### PREPARE LE 11h15 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Deuxieme fiche du filon IGCC**, apres Laurier Architectural. `tower insulating glass` passe au
+  `grep-nom.py` : **ABSENT**.
+- **Adresse lue sur LEUR PROPRE page de contact.** Regle anti-rebond satisfaite par construction.
+- **CERTIFICATION DU CLIENT** — le texte dit *certified since 1991*, et c est **la LEUR** : ils
+  figurent nommement a la liste des licencies de l IGCC, ce qui est d ou vient ce nom. **Aucun
+  certificat de NOTRE cote n est annonce**, ce que le §5 interdit. Test fait.
+- **⚠️⚠️ ELLE COMBLE LE TROU MESURE CE MATIN** : l Etat de New York ne portait que **six** fiches
+  vivantes pour le marche de construction le plus dense du pays.
+- **⚠️ ADRESSE NOMINATIVE ECARTEE VOLONTAIREMENT** : un `barry@` circule, donne pour un dirigeant,
+  **mais il n apparait que sur un site de donnees de FRET**. Le §5 exige une fonction **verifiee et
+  pertinente pour les achats** — un dirigeant n est pas forcement l acheteur, et une source de
+  transport n etablit rien. Le cas Lahey a l identique.
+- **⚠️ BOITE DE LA COLONNE CLIENT**, seule publiee → precedent **El Mayorista**, transmission
+  demandee au premier paragraphe.
+- **⚠️ DEUX PIEGES DE FORME NOTES** : leur adresse d immatriculation a Lynbrook n est pas l usine, et
+  il existe une **Tower Glass Inc** a Santee en Californie, sans rapport.
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul.**
+- **Liens produit presents. Porte de sortie presente. Signature une seule fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for your IG line - a second origin`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. I am writing to the only general address you publish, so if it
+lands on a sales desk, please pass it to whoever buys your sheet.
+
+I am writing to you rather than to a glazing contractor because of what you
+are: a certified insulating glass manufacturer since 1991. Thirty-five years
+of sealed units is a lot of glass through the line, and a line only runs if
+sheet goes into it. Sheet by the load is the only thing I deal in.
+
+So let me be precise about what I am NOT offering. The sealed unit, the
+spacer, the seal: that is your work, not mine, and I have nothing to sell you
+there. What I am offering is what sits on the racks before your line starts:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass - which any insulating unit consumes
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties from 17.3 to 102 percent
+on Malaysia. European glass is named in neither order. That is a customs fact
+and nothing more. I am not quoting you a number in a first letter, and I am
+not claiming our glass is cheap. I am saying the comparison is not what it
+was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your line is set up for is not a problem. We can put together an
+offer for delivery to your port of destination, subject to validation on our
+side. New York or Newark, which is half an hour from Charles Court.
+
+What I need back is small: which thicknesses actually go into the units,
+which low-E coatings you run, what sheet size your tables want, a rough
+annual volume with how often you buy, and the port.
+
+And the honest part. Thirty-five years in one trade means a supplier who has
+earned the place, and I am not asking to replace him. I am asking to be the
+second name on the list, for the week the first one is short. If that is of
+no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
