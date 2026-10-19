@@ -3128,6 +3128,36 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   un **prospect** et on sait contre qui l'on se place ; la même marque dans la **raison sociale** dit
   qu'elle lui **appartient**, donc c'est un concurrent. *Glaverpane* se ferme, *Wolff + Meier* s'écrit.
   **Le même mot, deux champs, deux conclusions opposées — c'est l'endroit où il se trouve qui décide.**
+  **⚠️⚠️ ET LE 19/10 AU SOIR AJOUTE LES MARQUES DE MIROIR, PRISES DANS UNE SOURCE DE PREMIER RANG —
+  LE TEXTE D'UNE RÉSOLUTION DU DOF MEXICAIN, ET NON UN ANNUAIRE.** La résolution antidumping sur le
+  *vidrio de espejo* chinois nomme **les quatre producteurs nationaux mexicains de miroir** — **Vitro,
+  Prodiesa, Guardian Glass México et Saint-Gobain**, confirmés par une lettre de la **CANACINTRA du
+  17 mars 2026** — **et elle donne leurs marques commerciales**, ce qui en fait un critère de ciblage
+  gratuit et réutilisable :
+  **`platia`** (Vitro) · **`Mirror-Pro`, `Satin-Pro`, `Antik-Pro`, `Pro-Secure`** (Prodiesa) ·
+  **`UltraMirror`** (Guardian) · **`miralite`** (Saint-Gobain).
+  **Elles se lisent exactement comme `Climaplus` et `Stadip`, dans les deux champs :** une de ces
+  marques dans la **gamme** d'une maison mexicaine dit qu'elle **achète** son miroir à ce
+  producteur — donc c'est un **prospect**, et l'on sait contre qui l'on se place ; la même dans une
+  **raison sociale** dirait qu'elle lui appartient.
+  **⚠️ ET LE §6 NE CONNAISSAIT QUE DEUX DE CES QUATRE PRODUCTEURS**, Vitro et Prodiesa, comme
+  demandeurs de la mesure. **Guardian México et Saint-Gobain sont donc eux aussi producteurs de
+  miroir au Mexique** — ils étaient déjà concurrents comme producteurs float, ils le sont désormais
+  aussi sur le miroir, et aucune fiche mexicaine ne doit s'ouvrir sur l'un de ces quatre noms.
+  **⚠️ UN FAIT DE PRODUIT À CONNAÎTRE AVANT D'ÉCRIRE SUR NOTRE MIROIR, et il nuance notre meilleur
+  argument :** la résolution décrit la composition du *vidrio de espejo* comme du float incolore ou
+  coloré, plus un film d'**argent ou d'aluminium**, plus un film de **cuivre — SAUF DANS LES MIROIRS
+  D'ALUMINIUM** — plus une peinture imperméable. **Donc le marché connaît déjà le miroir sans cuivre
+  par la voie de l'aluminium**, et notre *miroir sans cuivre **ni plomb*** se situe par rapport à
+  cela et non dans le vide. À savoir avant de le présenter comme une singularité.
+  **⚠️ CONTRADICTION DE SOURCE À NE PAS TRANCHER SEUL :** le §6 date du 21/05/2026 la **résolution
+  d'ouverture**, et ce relevé date du 21/05/2026 une **résolution préliminaire**. L'un des deux
+  qualificatifs est faux et un extrait ne permet pas de le lever. **Cela ne change rien à la
+  conduite — l'interdit tient a fortiori : RIEN SUR LES DROITS À UN PROSPECT MEXICAIN**, et une
+  enquête ne s'annonce jamais comme une mesure.
+  **Et Saint-Gobain exploite des fours float à CUAUTLA (Morelos) avec trois lignes de transformation
+  dont une ligne de miroir** — une raison de plus de ne jamais écrire qu'il n'y a pas de production
+  locale au Mexique.
 
   **⚠️⚠️ UNE FÉDÉRATION PROFESSIONNELLE IDENTIFIE, ELLE NE QUALIFIE PAS — ET LE 14/10 L'A MONTRÉ SUR LES
   DEUX AXES LE MÊME JOUR, CE QUI EN FAIT UNE RÈGLE ET NON UNE REDITE DE LA LEÇON IMPOREX.** Le §6 range
