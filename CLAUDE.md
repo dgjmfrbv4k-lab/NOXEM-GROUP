@@ -2822,7 +2822,57 @@ reste des cas connus et acceptés (Mirodec, les antennes PG, le groupe Riou, Tex
 « vérifier avant de fusionner », et cinq lignes qu'on relit valent mieux qu'un silence qui cache un
 sixième. **Pour parler d'une fiche en double sans en déclarer une, écrire « fiche en double ».** Les
 deux autres marqueurs du registre, `TESTEE` et `DEVERROUILLEE`, pilotent
-`candidats-deverrouillage.py` de la même façon et appellent la même prudence. **⚠️ ET CETTE CONVENTION M'A FAIT TAIRE UN VRAI SIGNAL LE
+`candidats-deverrouillage.py` de la même façon et appellent la même prudence.
+**⚠️⚠️⚠️ ET LE 19/10 AU SOIR MONTRE QUE CE CORRECTIF N'AVAIT ÉTÉ APPLIQUÉ QU'À UN SEUL OUTIL SUR
+DEUX — `verif-argument-float.py` PORTAIT ENCORE LE TEST DANGEREUX, ET IL MASQUAIT 112 FICHES
+ACTIVES. C'est la panne la plus grave trouvée de la soirée, et elle est pire que celle de City
+Glass parce qu'elle est AUTO-DESTRUCTRICE.**
+Sa première ligne de boucle était `if 'DOUBLON' in c[8].upper(): continue` — mot pour mot la
+convention que ce paragraphe venait de condamner. **Donc toute fiche dont la note d'envoi consigne
+« balayage des doublons passé avant d'ouvrir la cohorte » devenait invisible au contrôle factuel
+du float.** Autrement dit : **avoir écrit qu'on avait bien fait le travail rendait la fiche aveugle
+à l'autre garde-fou.** On ne peut pas inventer un mécanisme plus pervers.
+**MESURE : 112 fiches ACTIVES étaient masquées, dont 50 dans un pays abritant un producteur
+connu.** Et ce n'est pas théorique : **Pacific Glass Corporation**, relancée le 14/10, portait
+« les Philippines n'ont pas de ligne float » — que le §6 interdit **nommément** depuis le 15/10,
+Pioneer Float Glass et TQMP. Le mot *ANGLE* devant la phrase dit qu'elle a été servie, ce qui est
+le signal que le §6 tient pour le plus sûr. **Faute Forpec et faute ITA SEN ALU pour la troisième
+fois, et le garde-fou rendait ZÉRO pendant cinq jours.**
+**DEUX PANNES SE CUMULAIENT, et il faut les distinguer parce que les remèdes diffèrent :**
+1. **Le dictionnaire des producteurs ne contenait pas les Philippines**, alors que le §6 écrivait
+   l'interdit. Ajoutées, avec **Singapour** (l'argument y est vrai et *sans valeur*, la Malaisie
+   étant à une heure de camion avec trois producteurs) et **l'Équateur** (présomption, voir
+   ci-dessous).
+2. **Le test par le mot `DOUBLON`.** Remplacé par le test de **STATUT**, avec la **même définition
+   que `neutralisee()` dans `detecte-doublons.py`** — c'est le seul moyen que les deux outils ne se
+   contredisent pas, et le §12 l'imposait déjà pour cette raison exacte.
+**LA RÈGLE GÉNÉRALE QUI MANQUAIT, ET ELLE VAUT POUR TOUTE CORRECTION FUTURE : quand une convention
+du registre est déclarée dangereuse, elle se corrige dans TOUS les outils qui la lisent, le jour
+même, et on vérifie lesquels la lisent par un `grep` au lieu de le supposer.**
+```bash
+grep -ln "DOUBLON\|TESTEE\|DEVERROUILLEE" campagne-conteneur-20-open-top/prospection/outils/*.py
+```
+  **Lancé le soir même, il a rendu QUATRE fichiers et non trois** — j'en attendais trois, et
+  `verif-texte.py` s'y est ajouté, ce qui est exactement pourquoi ce `grep` remplace la supposition.
+  **Et le balayage complet donne un résultat BORNÉ, qu'il faut dire précisément plutôt que de
+  laisser craindre le pire :**
+  · `verif-argument-float.py` → **seul fautif**, test `in` sur la note. **Réparé.**
+  · `detecte-doublons.py` → déjà réparé le 13/10 par `neutralisee()`. **Sain.**
+  · `verif-texte.py` → ne cite le mot **qu'en commentaire**, aucun test. **Sain.**
+  · `candidats-deverrouillage.py` → lit bien `TESTEE` et `DEVERROUILLEE`, **mais c'est sa raison
+    d'être** (écarter une fiche déjà testée) et il le fait en **frontière de mot**, ce qui le rend
+    beaucoup moins sensible à la prose qu'un `in` nu. **Conception assumée, pas une panne** — la
+    prudence du §12 continue de s'y appliquer à la plume.
+  **Ce `grep` coûte une seconde et il est désormais obligatoire après toute décision de ce genre.**
+**⚠️ ET L'ENTRÉE ÉQUATEUR EST UNE PRÉSOMPTION ET NON UN FAIT, elle est écrite comme telle dans le
+code :** deux relevés du 19/10 donnent **Vidrio Andino présent en Colombie, en Équateur et au
+Venezuela**, et **Vitro** avec deux centres de distribution en Équateur. **Les deux sources sont
+des annuaires**, donc la leçon Imporex s'applique : **cela ne s'affirme pas, mais cela suffit à
+s'abstenir** — précédent RY Glass. Quatre fiches équatoriennes portaient l'affirmation et sont
+déjà contactées ; elles portent la correction, et **le passé ne se réécrit pas : aucun envoi
+correctif, le §5 l'interdit.**
+**Bilan du correctif, mesuré : de 0 fiche signalée à 5, dont une vraie faute interdite nommément
+par le mandat.** Un garde-fou qui rend zéro n'est rassurant que si l'on a vérifié qu'il regarde. **⚠️ ET CETTE CONVENTION M'A FAIT TAIRE UN VRAI SIGNAL LE
 13/10 À 15h51, EN UN SEUL MOT ÉCRIT EN PROSE — c'est la panne la plus discrète de la journée.** J'avais
 inscrit le rapprochement **Texas Glass / Texas Glass Group** dans les deux fiches, et la phrase disait
 « cette fiche se neutralise en **DOUBLON** le cas échéant ». **Le mot était explicatif, le script l'a

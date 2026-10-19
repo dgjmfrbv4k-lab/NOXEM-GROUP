@@ -26,6 +26,26 @@ PRODUCTEURS = {
     'Azerbaïdjan': 'Azerfloat',
     'Mexique': 'Vitro via Vidrio Plano de Mexico, et Guardian Industries de Mexico (float et miroir)',
     'Indonésie': 'Asahimas',
+    'Philippines': "PIONEER FLOAT GLASS MFG et sa societe mere TQMP GLASS MANUFACTURING CORP, qui a\n"
+                   "                   rachete en 2017 les parts d AGC Philippines. Le paragraphe 6 ecrit l interdit en\n"
+                   "                   toutes lettres depuis le 15/10 : NE JAMAIS ECRIRE QU IL N Y A PAS DE PRODUCTION\n"
+                   "                   LOCALE AUX PHILIPPINES. Le pays MANQUAIT A CE DICTIONNAIRE jusqu au 19/10 au soir,\n"
+                   "                   et une fiche relancee le 14/10 portait l affirmation fausse : c est la faute ITA SEN\n"
+                   "                   ALU et la faute Forpec par un troisieme chemin. L angle y est l origine et les\n"
+                   "                   epaisseurs que la ligne locale ne couvre pas, Pioneer s arretant a 12 mm.",
+    'Singapour': "AUCUN float a Singapour meme, et c est precisement pourquoi l argument y est SANS\n"
+                 "                 VALEUR : la MALAISIE est a une heure de camion de Woodlands avec TROIS producteurs,\n"
+                 "                 Kibing Glass Malaysia, NSG Malaysian Sheet Glass et Jinjing Technology Malaysia, plus\n"
+                 "                 Asahimas en Indonesie. Le paragraphe 6 impose de NE PAS EMPLOYER L ARGUMENT. Les trois\n"
+                 "                 fiches singapouriennes le consignent correctement, et ce signalement est la pour que\n"
+                 "                 cela reste vrai des prochaines.",
+    'Équateur': "⚠ PRESOMPTION ET NON FAIT ETABLI, a lire comme telle. Deux releves du 19/10 au soir donnent\n"
+                "                VIDRIO ANDINO present en Colombie, EN EQUATEUR et au Venezuela, et VITRO avec deux\n"
+                "                centres de distribution en Equateur et au Bresil. LES DEUX SOURCES SONT DES ANNUAIRES,\n"
+                "                donc la lecon Imporex interdit d en reprendre la qualification : cela ne s AFFIRME pas,\n"
+                "                mais cela suffit a S ABSTENIR, exactement comme sur RY Glass. Trois fiches equatoriennes\n"
+                "                portent l affirmation et sont deja contactees — Covinhar, Cristalinos et Duravidrio —\n"
+                "                donc le signalement sert a NE PAS LA REPETER, pas a corriger le passe.",
     'Chili': 'Vidrios Lirquén',
     'Venezuela': "GUARDIAN, usine de vidrio flotado a MATURIN, lancee en coentreprise en 1990\n"
                  "                selon le portail sectoriel. Ajoutee le 19/10 et c'etait un trou : quatorze\n"
@@ -234,7 +254,20 @@ for n, l in enumerate(io.open(CSV, encoding='utf-8').read().split('\n')[1:], sta
     if not l.strip():
         continue
     c = l.rstrip('\r').split(';')
-    if len(c) < 10 or 'DOUBLON' in c[8].upper():
+    # ⚠️⚠️ CORRECTIF DU 19/10 AU SOIR, ET C EST LA PANNE LA PLUS GRAVE TROUVEE DANS CET OUTIL.
+    # CE TEST PORTAIT SUR LE MOT DOUBLON DANS LA NOTE, c est-a-dire exactement la convention
+    # que le paragraphe 12 a DECLAREE DANGEREUSE ET REMPLACEE le 13/10 apres le ratage City
+    # Glass : « une fiche sort du balayage par son STATUT, JAMAIS par un mot de sa note ».
+    # Le correctif avait ete applique a detecte-doublons.py, via neutralisee(), ET PAS ICI.
+    # MESURE AVANT CORRECTIF : 112 fiches ACTIVES etaient invisibles a ce controle, dont 50
+    # dans un pays abritant un producteur connu. Et la cause est auto-destructrice : une note
+    # d envoi qui consigne « balayage des doublons passe » — c est-a-dire qui dit qu on a bien
+    # fait le travail — rendait la fiche aveugle a CE controle-ci. C est ainsi que Pacific
+    # Glass Corporation, relancee le 14/10, a pu porter « les Philippines n ont pas de ligne
+    # float » alors que le paragraphe 6 l interdit nommement depuis le 15/10.
+    # On filtre donc par le STATUT, avec la MEME definition que detecte-doublons.py, ce qui
+    # est le seul moyen que les deux outils ne se contredisent pas.
+    if len(c) < 10 or c[9].startswith(('NE PAS', 'ECARTE')):
         continue
     note = BENIGNE.sub(' ', c[8])
     fautives = phrases_fautives(note)
