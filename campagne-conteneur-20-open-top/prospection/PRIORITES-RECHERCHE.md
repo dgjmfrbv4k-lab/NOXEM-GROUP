@@ -2247,3 +2247,38 @@ neuve. **Ne plus y depenser d appel de liste.**
 Golfe etait bon.** Deux sources independantes — la recherche large des sessions precedentes et un
 organisme de certification americain — rendent les memes maisons. C est la meilleure preuve de
 couverture qu on ait obtenue sur une region.
+
+## GISEMENT AMVID (MINAS GERAIS) — DIX NOMS POUR UN APPEL, TOUS ABSENTS (19/10 a 14h01)
+
+**AMVID est l *Associação Mineira do COMERCIO ATACADISTA, Varejista e dos BENEFICIADORES do
+Vidro*.** Son nom porte **deux** des mots que le paragraphe 6 donne pour favorables —
+*comercio atacadista* et *beneficiadores* — donc elle passe le filtre de nom **avant le premier
+appel**, contrairement aux cinq regionales steriles du 15/10.
+
+**⚠️ MAIS ELLE NE PUBLIE PAS SA LISTE D ASSOCIES**, comme les trois syndicats du *comercio
+atacadista* du 15/10. **Ce qui a rendu les noms est un COMPTE RENDU D ELECTION de 2019** — donc une
+source datee, qui identifie et ne qualifie pas, et dont la composition a pu changer.
+
+**DIX NOMS RELEVES, LES DIX GREPES AU SCRIPT, LES DIX ABSENTS DU REGISTRE :**
+Cristal Temper (Muriae) · Lamina Temper (Belo Horizonte) · Bend Glass (Belo Horizonte) ·
+Reflex Tempervidros · Irmãos Paiva · São Cristóvão Temper · Vidrália · Pestana Vidros (Belo
+Horizonte) · Smart Vidros · Temper Patos.
+
+**ET LE MOT `TEMPER` REVIENT CINQ FOIS SUR DIX**, ce qui dit la classe de metier sans avoir a la
+chercher : ce sont des **trempeurs**, la classe a **12,8 pour cent** du paragraphe 6. C est le
+meilleur ratio de classe d un releve depuis ADIVIPAR.
+
+**⚠️ DEUX ECARTS ET UNE COLLISION, FAITS AVANT DE DEPENSER UN SECOND TEMPS :**
+· **Vidraçaria Manchester**, citee dans le meme article, est **ecartee au tri metier** —
+  *vidraçaria* est la classe verrier + pose, a **zero pour cent** sur onze fiches.
+· **Vitral (Uberlandia)** est citee aussi, et le registre porte deja une **Vitral Vidros Planos**
+  bresilienne : a lever avant d ouvrir, le token `vitral` etant commun.
+· **`Vidrália` rend `Vidral` au Guatemala** par sous-chaine. **Ligne lue, aucun rapport.**
+
+**⚠️ ET LA RESERVE DE MARCHE EST CELLE D ABRAVID, par la meme cause : BELO HORIZONTE EST A ENVIRON
+SIX CENTS KILOMETRES DE SANTOS ET QUATRE CENT CINQUANTE DE RIO.** L avantage douanier brésilien du
+paragraphe 6 tient entier, le post-acheminement terrestre en mange une part. Minas Gerais vaut donc
+moins, a effort egal, qu une entite cotiere — mais mieux que Brasilia, qui est a mille.
+
+**CONDUITE : ces dix noms sont un gisement de SECOND TEMPS, a deux appels par fiche.** Ils ne
+coutent rien a garder ici et ils evitent de redecouvrir AMVID dans un mois.
