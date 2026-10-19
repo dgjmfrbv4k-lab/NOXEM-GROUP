@@ -17930,3 +17930,98 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 268. Varsa Continental - Templados Varsa (Monterrey, Nuevo León) — `ventas@varsacontinental.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 13h48 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **TREMPEUR**, meilleure classe du §6, et **troisieme fiche du Nuevo Leon aujourd hui** avec
+  Vidrio Bisel et CRLaredo. Grep passe dans un appel separe : **ABSENT**.
+- **⚠️ ET LE FAIT QUI QUALIFIE LE PROFIL : ils fournissent des PROFESSIONNELS ET DES
+  INSTALLATEURS.** Ils sont donc **en amont de la pose et non la pose elle-meme** — c est la
+  distinction du §6 entre le trempeur a 12,8 pour cent et le poseur a 3,6, lue dans leur propre
+  description de clientele.
+- **⚠️⚠️ PIEGE DU DOMAINE VOISIN, EXCEPTION DU §5 APPLIQUEE ET NOTEE** : le site est
+  `templadosvarsa.com`, l adresse est sur `varsacontinental.com`. **Les deux domaines different**,
+  et elle est retenue **parce que leur propre page de contact la publie**.
+- **⚠️ ET L ADRESSE EST OBFUSQUEE sur la page**, avec un arobase entre parentheses contre les
+  aspirateurs. Elle est donc **publiee et non deduite** — ce n est pas un schema au sens du §5 —
+  **mais la desobfuscation est une lecture de ma part, a confirmer au premier rebond.**
+- **⚠️ TROIS NUMEROS SE CONTREDISENT** entre leur page de contact, leur accueil et leur reseau
+  social. Celui de la page de **contact** est retenu. **Troisieme fiche du jour dans ce cas**, apres
+  Vetriko et Templados HP.
+- **REGLE PRODIESA** : la trempe **sort** de l offre, et leur quincaillerie est **hors gamme**.
+- **⚠️⚠️ INTERDIT MEXICAIN DU §6, ET IL COMPTE DOUBLE ICI : LE SIEGE DE VITRO EST A MONTERREY
+  MEME.** Donc **jamais** l absence de production locale — ils connaissent le producteur national
+  mieux que nous — et **rien** sur les droits.
+- **⚠️ LE PORT SE DEMANDE** : Monterrey est a quatre cents kilometres d Altamira.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Lámina para su templadora - un segundo origen desde Europa`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Si esta no es la mesa que compra la lamina, le
+agradeceria que la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador por una razon que esta en su propia
+descripcion: ustedes surten a profesionales e instaladores. Estan un paso
+arriba de la obra, y ese paso es justamente donde entra la lamina. Un horno
+no gana nada mientras espera, y solo trabaja si hay vidrio en el caballete de
+enfrente. Lamina por contenedor completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado, el canteado,
+los herrajes: ese es su negocio, no el mio, y ahi no tengo nada que venderle.
+Lo que le ofrezco es lo que entra antes de que el horno arranque:
+
+- vidrio float claro y extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, si lo templan
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+Y voy a ser directo sobre una cosa, porque ustedes estan en Monterrey y lo
+saben mejor que yo: no le voy a hablar del mercado mexicano del vidrio, ni de
+aduanas, ni de lo que paga una origen u otra. Le hablo solo de lo que si me
+corresponde: una segunda puerta de entrada para su lamina. No le pido cambiar
+de proveedor, le pido que exista un segundo nombre el dia que el primero se
+atrase.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun NIMF-15,
+cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se corta a
+pedido, de modo que la medida de stock para la que esta calibrado su horno no
+es un obstaculo. Podemos preparar una oferta para la entrega en su puerto de
+destino, sujeta a validacion por nuestra parte. Monterrey esta tierra
+adentro, asi que no voy a adivinar su puerto: digame cual usa ya su flete y
+trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores pasan por el horno, las
+medidas de lamina que piden sus mesas, un volumen anual aproximado con la
+frecuencia de compra, y ese puerto.
+
+Y la parte honesta. Una templadora establecida tiene un proveedor que se gano
+el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre de la
+lista, para la semana en que el primero quede corto. Si eso no le interesa,
+digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
