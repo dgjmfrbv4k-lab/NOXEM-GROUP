@@ -20410,3 +20410,112 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+## 294. Templanova (Leon, Guanajuato) — `gerencia_ventas@templanova.mx` — ESPAGNOL — premier contact
+
+### PREPARE LE 15h18 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Trouvee en cherchant le padron des certifies NOM-146, qui n existe pas.** Grep passe dans **deux
+  appels separes** de l ecriture : **absente aux deux**.
+- **VERRIER PUR**, meilleure classe du §6 : *procesadora de vidrio arquitectonico* — trempe, coupe,
+  feuillete de securite, bisel. ISO 9001:2015 annoncee par eux.
+- **⚠️ L ANGLE EST CE QUI LES A FAIT REMONTER, et c est un signal de qualite en soi :** ils publient
+  une page technique detaillee sur la **NOM-146-SCFI-2016**, plus des pages sur les garde-corps et
+  les vitrines. **Une maison qui ECRIT sur la norme qu elle applique la travaille**, elle ne la subit
+  pas — et une norme de verre de securite se tient par la **regularite du substrat**. Le texte part de
+  la, et c est un fait tire de leur site, donc le point 2 du §9 est tenu.
+- **⚠️⚠️ ET LE TEXTE NE PARLE PAS DE *NOTRE* CONFORMITE A LA NOM-146.** Le §5 interdit d annoncer un
+  certificat de notre cote non valide par Aaron, et **la NOM est une norme MEXICAINE que seul un
+  organisme mexicain atteste**. Dire que nous y repondons serait une garantie technique inventee.
+  **Le texte parle de LEUR norme et de ce qu elle exige de l entrant, jamais de ce que nous
+  certifions.** C est la frontiere du marqueur `CERTIFICATION DU CLIENT` du 19/10, et elle est tenue.
+- **⚠️ CINQ BOITES PUBLIEES, LES CINQ COTE CLIENT** au tableau du §13 : `gerencia_ventas@` et
+  `ventas1@` a `ventas4@`. Aucune boite d achats. **Cas El Mayorista** : on emploie faute de mieux,
+  et le choix entre les cinq est raisonne — **la direction commerciale transmet a l acheteur, un
+  vendeur de poste 101 ne le fait pas.** Premier paragraphe en demande de transmission.
+- **⚠️⚠️ DEUX INTERDITS DU §6 PROPRES AU MEXIQUE, ET LE TEXTE N EN PORTE AUCUN.** Un, **rien sur les
+  droits** : la cuota contre la Chine et la Malaisie existe, le droit general de 35 pour cent existe,
+  **et le taux applicable a une origine UE sous le pilier de l accord de 2000 n est PAS etabli** —
+  donc pas un mot sur les aranceles, les cuotas, une mesure ni un changement de comparaison. Deux,
+  **jamais l absence de production locale au Mexique**, Vitro y produisant.
+- **Donc l angle est l ORIGINE et la SECONDE SOURCE** — comme Perficom, et c est la seconde famille
+  de textes de la campagne ou l argument douanier est entierement retire.
+- **⚠️ LEON EST DANS LE BAJIO**, a environ 400 km de Manzanillo comme de Veracruz : le port se
+  **demande**, et le texte dit que le fret interne existe.
+- **REGLE PRODIESA** : trempe, feuillete et bisel **sortent** de l offre, seul le substrat entre.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Una norma de vidrio de seguridad se sostiene en la lamina que entra`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, en Francia. Esto es una oferta de suministro, no
+una solicitud de cotizacion. Si no es usted quien compra la lamina, le
+agradezco que lo reenvie a quien la compra - escribo a la gerencia de ventas
+porque es el unico correo de contacto que ustedes publican.
+
+Les escribo por algo que me llamo la atencion en su sitio: ustedes publican una
+pagina tecnica sobre la NOM-146 y lo que hay que verificar antes de aprobar una
+fabricacion. Casi nadie en este oficio escribe sobre la norma que aplica. Quien
+lo hace la trabaja, no la padece - y una norma de vidrio de seguridad no se
+sostiene solo en el horno: se sostiene en que la lamina que entra sea la misma
+cada vez.
+
+De ahi esta carta. Lo que yo vendo es una sola cosa: lamina en contenedor
+completo.
+
+Dejo claro lo que NO estoy ofreciendo. El templado, el corte, el laminado y el
+bisel son su trabajo, no el mio, y ahi no tengo nada que venderles. Y no voy a
+decirle que cumplimos la NOM-146: esa norma la certifica un organismo mexicano y
+no yo, y prefiero decirlo antes que insinuar lo contrario. Lo que ofrezco es lo
+que entra antes del horno:
+
+- vidrio float claro y extra-claro, la base
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, si lo templan
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la linea completa, si resulta mas practico verlo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe solo en frances y en ingles.
+Si prefiere que le detalle cualquiera de esas referencias en espanol, lo hago
+con gusto.
+
+No le voy a dar cifras en una primera carta y no le voy a decir que nuestro
+vidrio sea mas economico que el que compran hoy. Lo que ofrezco es otra cosa:
+una segunda procedencia, en Europa, calificada antes de que la necesiten.
+
+Despachamos CONTENEDORES COMPLETOS, en huacales de madera tratada conforme a
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se
+corta a pedido, de modo que la medida a la que estan ajustadas sus mesas no es
+un obstaculo. Podemos preparar una oferta para la entrega en su puerto de
+destino, sujeta a validacion por nuestra parte. Leon esta en el Bajio, asi que
+el flete interno existe y no voy a fingir lo contrario: digame por cual puerto
+reciben hoy el importado y trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores pasan por el horno y por la
+linea de laminado, si trabajan vidrio con capa y cual, las medidas de lamina
+que piden sus mesas, un volumen anual aproximado con la frecuencia de compra, y
+ese puerto.
+
+Y la parte honesta. Una planta certificada no cambia de sustrato a la ligera, y
+no se lo estoy pidiendo - hacerlo en medio de un ciclo de certificacion seria el
+peor consejo que yo podria darles. Les estoy pidiendo ser el segundo nombre de
+la lista, calificado con antelacion, para el mes en que el primero se quede
+corto. Si estan comprometidos con el suministro que tienen, diganlo con
+franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

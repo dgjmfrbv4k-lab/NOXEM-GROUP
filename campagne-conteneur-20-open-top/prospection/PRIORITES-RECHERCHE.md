@@ -2678,3 +2678,41 @@ d envoi.** Son enseigne — *la boutique du vitrier* — dit l inverse de son co
   AVANT de depenser l appel, cela coute zero.**
 · **Et Porto Alegre vaut l effort** : a 300 km du port de Rio Grande et dotee de son propre port
   fluvial, c est l une des meilleures situations portuaires du registre bresilien.
+
+
+## VERDICT NOM-146 (MEXIQUE) — AUCUN PADRON PUBLIE, ET LA PISTE NE SE REOUVRE PAS AU MOTEUR (19/10 a 15h18)
+
+**La source de certification a ete la meilleure de la journee** — SGCC et IGCC ont rendu Perficom,
+trois trempeurs americains, et leve Dialum et Cristacurva sans un appel de qualification. **Portee au
+Mexique, elle ne rend rien.**
+· **La norme existe et elle est la bonne** : `NOM-146-SCFI-2016`, verre de securite pour la
+  construction, en vigueur depuis 2017, Classe I trempe et Classe II feuillete-inastillable. Les
+  certificats sont delivres **par produit et par modele** par un organisme accredite.
+· **⚠️ MAIS AUCUNE LISTE DE TITULAIRES N EST PUBLIEE.** La norme dit que les organismes doivent
+  informer la **DGN** des certificats emis — donc la source autoritative est la DGN, plus l **EMA**
+  pour les organismes accredites, **et ni l une ni l autre n est atteignable depuis cette session**.
+  La seule liste rencontree est un avis du **DOF de 2005** nommant l ONNCCE comme organisme et
+  *Vidrio Plano de Mexico* comme laboratoire — **perime et anterieur a la norme de 2016**.
+**CONDUITE : ne pas redepenser d appel sur ce filon au moteur.** C est la meme conclusion que pour
+l ICONTEC colombien le meme jour : **le processus de certification est public, le registre des
+titulaires ne l est pas.** Deux pays sur deux en Amerique latine, contre les Etats-Unis et le Canada
+ou le SGCC et l IGCC publient leurs annuaires. **La regle qui s en degage : un organisme de
+certification ne vaut comme source que s il publie un ANNUAIRE, et cela se verifie en un appel avant
+d en depenser cinq.**
+**⚠️ ET UN NOM A NE PAS OUVRIR, releve au passage :** *Vidrio Plano de Mexico* porte le fragment
+`vitro` par filiation — c est le bras verre plat historique du groupe **Vitro**, qui est sur la liste
+des concurrents du §6. **Aucune fiche.** A ne pas confondre avec `Vidrio Plano de Cancun`, qui est au
+registre en `A APPELER` et n a aucun lien etabli avec elle — le §12 tranche sur le siege, jamais sur
+le nom.
+
+**MAIS L APPEL N A PAS ETE PERDU, ET C EST LE RICOCHET QUI PAIE UNE SECONDE FOIS AUJOURD HUI :**
+**`Templanova`** (Leon, Guanajuato) est remontee parce qu elle **publie une page technique sur la
+NOM-146**. Transformateur de verre architectural, ISO 9001:2015, `A ENVOYER`, texte 294.
+**ET CELA DONNE UNE SOURCE DE REMPLACEMENT QUAND L ANNUAIRE N EXISTE PAS : chercher les maisons qui
+ECRIVENT SUR LA NORME plutot que celles qui la detiennent.** Une page technique sur une norme de
+verre de securite n est publiee que par une maison qui la travaille — c est le raisonnement du
+certificat de performance du §13, applique a un contenu editorial au lieu d un PDF de conformite.
+**Mots a essayer, et ils ne coutent pas plus qu une recherche ordinaire :** le numero de la norme
+lui-meme, plus *que establece*, *como aplicarla*, *que verificar antes de aprobar*. **A tester sur
+les normes equivalentes ailleurs** — NTC 1467 en Colombie, NBR 14698 et NBR 7199 au Bresil,
+AS/NZS 2208 en Australie.
