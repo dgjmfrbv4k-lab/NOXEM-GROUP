@@ -16570,3 +16570,207 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 254. Fairis C.A. (Ambato et Cuenca, Équateur) — `contacto@fairis.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 12h11 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Troisieme fiche internationale du filon IGCC.** Grep passe **dans un appel separe de la
+  creation** : **ABSENT**.
+- **FACONNEUR PUR**, meilleure classe du §6, et **le plus gros verrier equatorien rencontre jusqu
+  ici**. **C est la certification qui justifie d y revenir** : l Equateur avait deja coute deux faux
+  departs — Faiquito qui est **facadier** et ALCRISTAL qui vend de l **aluminium**, tous deux
+  donnes pour distributeurs par un portail. **Une liste de licencies atteste la ou un portail
+  declare.**
+- **MARQUES PROPRES, ET ELLES DISENT LE METIER MIEUX QU UNE RUBRIQUE** : `FAITEM` pour leur trempe,
+  `FAILAM` pour leur feuillete, `FAITLAM` pour le feuillete monte a partir de feuilles Faitem. **Une
+  maison qui baptise ses produits les fabrique.**
+- **⚠️ SIEGE ETABLI ET NON SUPPOSE — LECON VIDAL IMPORTADORA** : trois villes circulent, Ambato,
+  Guayaquil et Cuenca. **Le fait qui tranche est leur propre indicatif telephonique**, `+593 3`,
+  celui du Tungurahua — donc **Ambato**, coherent avec ce qu ils publient eux-memes. Cuenca est une
+  antenne.
+- **Adresse sur LEUR PROPRE page `contacto`**, meme domaine. Regle anti-rebond satisfaite. Boite
+  generale, donc transmission demandee. WhatsApp publie en reserve si l adresse rebondit.
+- **REGLE PRODIESA** : trempe, feuillete et vitrage isolant **sortent** de l offre.
+- **⚠️⚠️ AUCUN ARGUMENT DOUANIER ET AUCUN ARGUMENT D ABSENCE DE PRODUCTION LOCALE.** Le §6 n etablit
+  **rien** sur l Equateur — ni mesure antidumping, ni etat de la production — et il interdit
+  d affirmer l un ou l autre sans avoir lu la source du pays. **L angle est l origine et la seconde
+  source, et rien d autre.** C est le texte le plus depouille du lot, volontairement.
+- **Port de Guayaquil.**
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie en Equateur.
+
+**Objet :** `Sustrato para Faitem y Failam - un segundo origen desde Europa`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Si esta no es la mesa que compra el vidrio en
+lamina, le agradeceria que la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador por una razon concreta: ustedes no
+revenden vidrio ajeno, lo transforman y le ponen su propio nombre. Faitem
+para el templado, Failam para el laminado, Faitlam para el laminado armado
+sobre sus propias hojas Faitem. Una casa que bautiza sus productos los
+fabrica, y una planta que templa y lamina solo trabaja si entra lamina.
+Lamina por contenedor completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado, el laminado,
+el PVB, la unidad sellada: ese es su trabajo, no el mio, y ahi no tengo nada
+que venderle. Lo que le ofrezco es lo que entra en la planta antes de que su
+horno arranque:
+
+- vidrio float claro y extra-claro, la base de Faitem y de Failam
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo, que aguanta donde el aire es humedo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+No le voy a dar cifras en una primera carta, ni le voy a hablar de aduanas
+de su pais, que no me corresponde. Le hablo de origen. Su lamina llega hoy
+de un numero muy corto de origenes, y el mes en que uno de ellos se atrasa
+es el mes en que su horno espera. Un segundo origen europeo no es un cambio
+de proveedor: es una segunda puerta.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se
+corta a pedido, de modo que la medida de stock para la que estan calibradas
+sus mesas no es un obstaculo. Podemos preparar una oferta para la entrega en
+su puerto de destino, sujeta a validacion por nuestra parte. Guayaquil.
+
+Lo que necesito de vuelta es poco: que espesores entran realmente en Faitem
+y en Failam, que capas low-E trabajan, las medidas de lamina que piden sus
+mesas, un volumen anual aproximado con la frecuencia de compra, y el puerto.
+
+Y la parte honesta. Una planta de este tamano tiene un proveedor que se gano
+el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre de
+la lista, para la semana en que el primero quede corto. Si eso no le
+interesa, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 255. Cristacurva (Guadalajara, Jalisco, et San Juan del Río, Querétaro) — `ventasgdl@cristacurva.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 12h13 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **FICHE DEVERROUILLEE PAR LE FILON IGCC, PAS CREEE PAR LUI** — elle etait au registre depuis le
+  15/10 en `A QUALIFIER`, **sans site, sans adresse et sans telephone**. C est le deuxieme
+  deverrouillage du genre dans la journee apres Dialum au Chili, et le mecanisme est le meme :
+  **une liste de licencies ATTESTE le metier la ou un annuaire le declare**, ce qui leve le
+  `A QUALIFIER` sans depenser un appel de qualification.
+- **VERRIER PUR**, meilleure classe du §6. Trempe, feuillete, **bombe**, blinde, et leurs documents
+  montrent aussi des **unites isolantes plates**. **Deux usines**, Jalisco et Queretaro.
+- **⚠️ ET UN FAIT NEUF QUI CHANGE LE CALIBRE : ILS ONT UN BUREAU DE VENTE A HOUSTON**, et leurs
+  fiches de chantier nomment des ouvrages a Houston, en Oklahoma et sur la Cinquieme Avenue a New
+  York. **C est un exportateur, pas seulement un faconneur local** — donc un volume de feuille
+  entrante superieur a la demande mexicaine seule, et une maison habituee a l international.
+- **Adresse sur LEUR PROPRE page de contact**, meme domaine. Ils publient **une boite par site** :
+  celle retenue est celle de **l usine de Guadalajara**, pas une boite generale — regle du §13 qui
+  prefere l agence. Elle est de la **colonne client**, mais c est la seule nature qu ils publient,
+  precedent El Mayorista, d ou la demande de transmission au premier paragraphe.
+- **⚠️ ADRESSES D ANNUAIRE ECARTEES** : une fiche Cylex de **sept ans** et deux adresses postales
+  contradictoires. Seul ce que leur page publie est retenu.
+- **REGLE PRODIESA, STRICTE ICI** : trempe, feuillete, bombe, blinde et unites isolantes **sortent
+  tous** de l offre. **Seul le substrat entre.**
+- **⚠️⚠️ DEUX RESERVES TENUES.** Un, **rien sur les droits mexicains** — ni cuota chinoise, ni les
+  35 pour cent, ni l enquete miroir du DOF — le taux applicable a une origine UE n etant pas etabli,
+  et **jamais l absence de production locale**, Vitro produit. Deux, **aucune garantie technique sur
+  l aptitude de notre float au BOMBAGE** : le bombe demande une qualite de surface et une regularite
+  d epaisseur particulieres, et le §5 interdit toute garantie non validee. **Le texte pose la
+  question au lieu d affirmer** — et c est la bonne facon de la poser, puisque c est eux qui
+  connaissent leur four.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Sustrato para sus dos plantas - un segundo origen desde Europa`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Escribo a la direccion de la planta de
+Guadalajara porque es ahi donde entra el vidrio; si no es la mesa que lo
+compra, le agradeceria que la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador por lo que hacen: curvan, templan,
+laminan y blindan, en dos plantas, Jalisco y Queretaro. Ninguna de esas
+cuatro lineas arranca si no entra lamina, y lamina por contenedor completo
+es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El curvado, el templado,
+el laminado, el blindaje, la unidad sellada: ese es su trabajo, no el mio, y
+ahi no tengo nada que venderle. Lo que le ofrezco es lo que entra antes de
+que el horno arranque:
+
+- vidrio float claro y extra-claro, la base de las cuatro lineas
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+Y una pregunta tecnica que prefiero hacerle antes que afirmarle nada,
+porque ustedes conocen su horno y yo no: el curvado exige una regularidad de
+espesor y una calidad de superficie que no todos los floats dan por igual.
+Digame que exige su linea de curvado en esa materia y se lo llevo a nuestras
+plantas antes de prometerle cualquier cosa. No le voy a asegurar hoy algo
+que no haya validado.
+
+No le voy a dar cifras en una primera carta, ni le voy a hablar de aduanas
+de su pais, que no me corresponde. Le hablo de origen. Una casa que exporta
+obra a Houston, a Oklahoma y a Nueva York no puede permitirse que su lamina
+dependa de una sola puerta de entrada. Un segundo origen europeo no es un
+cambio de proveedor: es esa segunda puerta.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se
+corta a pedido. Podemos preparar una oferta para la entrega en su puerto de
+destino, sujeta a validacion por nuestra parte. Manzanillo o Lazaro Cardenas
+para Guadalajara, Veracruz o Altamira para Queretaro, segun lo que ya usen.
+
+Lo que necesito de vuelta es poco: que espesores entran realmente en cada
+planta, que capas low-E trabajan, las medidas de lamina que piden sus mesas,
+un volumen anual aproximado con la frecuencia de compra, y el puerto.
+
+Y la parte honesta. Dos plantas en operacion significan un proveedor que se
+gano el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre
+de la lista, para la semana en que el primero quede corto. Si eso no le
+interesa, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
