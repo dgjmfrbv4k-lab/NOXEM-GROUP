@@ -15700,3 +15700,293 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 245. Southern Wholesale Glass (Americus, Georgie) — `sales@southernwholesaleglass.com` — ANGLAIS — premier contact
+
+### PREPARE LE 11h51 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Troisieme fiche du filon IGCC du jour.** `Southern Wholesale Glass` passe au `grep-nom.py`,
+  version qui connait les acronymes et les deux sens de longueur : **ABSENT**. Le domaine et le
+  229 928 grepes separement : rien non plus.
+- **LES DEUX MEILLEURES CLASSES DE METIER A LA FOIS**, comme Complete Line Glass : leur propre page
+  dit *distributor AND fabricator of insulated and tempered flat glass serving glass shops in
+  Alabama, Georgia and Florida*. Negoce a 10 pour cent **et** verrier pur a 12,8 pour cent — et une
+  clientele de *glass shops*, c est-a-dire qu ils **stockent de la feuille pour la revendre**. C est
+  exactement le profil du §6 pour qui le conteneur est l unite naturelle.
+- **REGLE PRODIESA APPLIQUEE A LA LETTRE** : ils trempent et ils assemblent des unites scellees,
+  donc **le trempe et le double vitrage SORTENT de l offre**. N entre que le **substrat** — float
+  clair et extra-clair, low-E, miroir — et le miroir au titre de leur activite de **distribution**,
+  pas de fabrication.
+- **⚠️ PIEGE DU DOMAINE VOISIN, RELU CARACTERE PAR CARACTERE** : le site est
+  `southernwholesale.glass` et l adresse est sur `southernwholesaleglass.com`. **Les deux domaines
+  different.** L exception du §5 s applique et elle est notee dans la fiche : c est **leur propre
+  page de contact** qui publie l adresse, donc la regle anti-rebond est satisfaite par la page.
+- **⚠️ `Careers@` ECARTEE VOLONTAIREMENT** : boite de **recrutement**, le §5 l interdit. Cas Lahey
+  a l identique, et c est la deuxieme fois en deux jours que le filon IGCC en presente une.
+- **⚠️ BOITE DE LA COLONNE CLIENT** au tableau du §13 du 15/10 : `sales@` est l endroit ou **leurs**
+  clients demandent **leurs** prix. Aucune boite cote fournisseur n est publiee — ni `inkoop`, ni
+  `purchasing`, ni `procurement`. Employee **faute de mieux**, precedent El Mayorista, et la
+  transmission a l acheteur est demandee **des le premier paragraphe**.
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent du float aux Etats-Unis, donc **jamais**
+  l argument de l absence d offre locale. **Argument douanier seul**, ordres du 06/04/2026, et
+  presente comme un fait de douane et non comme une promesse de prix.
+- **Port : Savannah**, a trois heures de route d Americus, et c est l argument de desserte.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie aux Etats-Unis.
+
+**Objet :** `Sheet for your racks - a second origin out of Europe`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. The only general address you publish is a sales one, so if this
+lands on a selling desk, please pass it to whoever buys your sheet.
+
+I am writing to you rather than to a glazing contractor because of what you
+describe yourselves as: a distributor AND fabricator serving glass shops
+across Alabama, Georgia and Florida. That is two businesses that both run on
+the same thing. The shops you serve buy from your racks, and your tempering
+and insulating lines only run if sheet goes into them. Sheet by the load is
+the only thing I deal in.
+
+So let me be precise about what I am NOT offering. The tempering, the sealed
+unit, the spacer: that is your work, not mine, and I have nothing to sell you
+there. What I am offering is what sits on the racks before any of it starts:
+
+- clear and extra-clear float glass, the base of both of your lines
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass, which your insulating units consume
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror, which holds up where the air is damp -
+  and the Gulf coast is where that is decided
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties from 17.3 to 102 percent
+on Malaysia. European glass is named in neither order. That is a customs fact
+and nothing more. I am not quoting you a number in a first letter, and I am
+not claiming our glass is cheap. I am saying the comparison is not what it
+was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your tables are set up for is not an obstacle. We can put together
+an offer for delivery to your port of destination, subject to validation on
+our side. Savannah would be the obvious one from Americus.
+
+What I need back is small: which thicknesses actually move off your racks,
+which low-E coatings you run, the sheet sizes your shops ask for, a rough
+annual volume with how often you buy, and the port.
+
+And the honest part. A wholesaler who has held three states has a supplier
+who earned the place, and I am not asking to replace him. I am asking to be
+the second name on the list, for the week the first one is short. If that is
+of no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 246. Glasswerks LA Inc. (South Gate, Californie) — `glasswerks@glasswerks.com` — ANGLAIS — premier contact
+
+### PREPARE LE 11h52 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Quatrieme fiche du filon IGCC du jour.** `Glasswerks` passe au `grep-nom.py` : **ABSENT**.
+- **FACONNEUR PUR**, la meilleure classe du §6 a 12,8 pour cent. Trempe, feuillete, vitrage isolant,
+  entretoise non metallique G3, couche low-E tendre, et une ligne **jumbo**. Californie du Sud,
+  Las Vegas et Hawai.
+- **Adresse lue sur LEUR PROPRE page `contact-us`**, meme domaine que le site. Regle anti-rebond
+  satisfaite par construction. **Boite generale** — ni colonne acheteur, ni colonne client — donc
+  transmission demandee des le premier paragraphe.
+- **⚠️⚠️ LE PIEGE DE CE DOSSIER EST LE §4, ET IL EST A L ENVERS DE TOUS LES AUTRES.** Leur jumbo va
+  jusqu a **130 par 268 pouces**. **130 pouces font 3302 mm**, donc leur plus petite dimension
+  **depasse** la largeur de ruban d environ 3210 mm. **Ce n est PAS le cas Caribbean Glass**, ou le
+  2261 passait en travers et ou l exces de prudence avait coute deux demandes de prix. Ici la cote
+  est vraiment hors ruban. **Le texte ne dit donc pas un mot de leur oversize** et ne propose que le
+  substrat de stock — le §4 interdit d annoncer un grand format tant qu Aaron ne l a pas dit.
+- **REGLE PRODIESA** : trempe, feuillete et double vitrage **sortent** de l offre. N entrent que le
+  **float clair et extra-clair** et le **low-E**.
+- **⚠️ DEUX NUMEROS QUI NE CONCORDENT PAS** entre annuaires. Seul le **888 789 7810**, publie par
+  leur propre page, est retenu — la regle du registre contre l adresse de memoire, appliquee au
+  telephone.
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul**, et presente
+  comme un fait de douane, jamais comme une promesse de prix.
+- **Ports : Los Angeles et Long Beach**, a vingt kilometres de South Gate.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for your lines - a second origin out of Europe`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. You publish one general address, so if this lands anywhere other
+than the desk that buys your sheet, please pass it along.
+
+I am writing to you rather than to a glazing contractor because of what you
+are: a fabricator. Tempering, lamination, insulating units, your own
+non-metallic spacer. Every one of those lines has the same thing at the
+front of it - annealed sheet on a rack - and sheet by the load is the only
+thing I deal in.
+
+So let me be precise about what I am NOT offering. The tempering, the
+lamination, the sealed unit, the spacer: that is your work, not mine, and I
+have nothing to sell you there. What I am offering is what goes in before any
+of it starts:
+
+- clear and extra-clear float glass, the base of all three of your lines
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass for the insulating side
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties from 17.3 to 102 percent
+on Malaysia. European glass is named in neither order. That is a customs fact
+and nothing more. I am not quoting you a number in a first letter, and I am
+not claiming our glass is cheap. I am saying the comparison is not what it
+was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order. We can
+put together an offer for delivery to your port of destination, subject to
+validation on our side. Long Beach or Los Angeles, twenty kilometres from
+Rheem Avenue.
+
+What I need back is small: which thicknesses and coatings actually go into
+the lines, the sheet sizes your tables are set up for, a rough annual volume
+with how often you buy, and the port.
+
+And the honest part. A fabricator running three lines at that size has a
+supplier who earned the place, and I am not asking to replace him. I am
+asking to be the second name on the list, for the week the first one is
+short. If that is of no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 247. Precision Glass Industries - PGI (Houston et Conroe, Texas) — `info@precisionglassindustries.com` — ANGLAIS — premier contact
+
+### PREPARE LE 11h54 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Cinquieme fiche du filon IGCC du jour.** `Precision Glass Industries` passe au `grep-nom.py` :
+  **ABSENT**.
+- **FACONNEUR PUR**, meilleure classe du §6. Trempe, feuillete, laque, gros faconnage, vitrage
+  isolant commercial. **Deux usines** — Peyton Road a Houston et un campus neuf de 135 000 pieds
+  carres a **Conroe** — pour le Texas et la Louisiane.
+- **⚠️⚠️ LE FAIT QUI DECIDE DE L ANGLE : ILS SONT FACONNIER AGREE GUARDIAN ET SUNGUARD.** C est la
+  regle du fragment de marque lue dans le **bon champ** : une marque dans une **gamme** dit qu on
+  **achete**, donc ils sont **prospect** et non concurrent — l inverse exact de Glaverpane. Et cela
+  dit **contre qui** l on se place. L angle est la **seconde origine**, jamais l absence d offre.
+- **⚠️ PIEGE DU DOMAINE VOISIN EVITE** : les annuaires donnent indifferemment le `.com` et le
+  `.net`. Le second temps a ete fait sur les deux, et c est le **`.com`** qui rend **leurs propres
+  brochures et fiches techniques**, lesquelles publient `info@`. Regle anti-rebond satisfaite par
+  leur propre document.
+- **⚠️ ADRESSE NOMINATIVE ECARTEE** : un `lcarlyle@` circule dans un annuaire de faconniers agrees,
+  **sans aucune fonction etablie**. Le §5 l interdit — cas Lahey.
+- **⚠️ DIRIGEANT CONNU ET NON EMPLOYE** : un portail sectoriel nomme un president dans l annonce de
+  Conroe. La fonction serait pertinente, **mais la lecon Imporex veut qu un portail IDENTIFIE sans
+  QUALIFIER.** Le message va au service.
+- **REGLE PRODIESA** : trempe, feuillete, **laque** et double vitrage **sortent** de l offre — ils
+  les font. N entrent que le **float clair et extra-clair** et le **low-E**.
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul.**
+- **Port de Houston**, a vingt kilometres de Peyton Road.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for Houston and Conroe - a second origin out of Europe`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If this lands anywhere other than the desk that buys your sheet,
+please pass it along.
+
+I am writing to you rather than to a glazing contractor because of what you
+are: a fabricator, now on two sites, with a new campus in Conroe and a
+service area that runs across Texas and into Louisiana. Tempering, lamination,
+back-painting, heavy fabrication, commercial insulating units - five lines
+with the same thing at the front of all of them, annealed sheet on a rack.
+Sheet by the load is the only thing I deal in.
+
+So let me be precise about what I am NOT offering. The tempering, the
+lamination, the back-painting, the sealed unit: that is your work, not mine,
+and I have nothing to sell you there. What I am offering is what goes in
+before any of it starts:
+
+- clear and extra-clear float glass, the base of every one of those lines
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass for the insulating side
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+I also know, because you say so yourselves, that your coated glass comes from
+a named float producer. That is not a reason for me to write - it is the
+reason. A fabricator who has just doubled his footprint is a fabricator whose
+line stops if one origin is short, and one origin is what you have.
+
+On timing. Since April the imported sheet that used to set the floor carries
+antidumping and countervailing duties - 181.52 percent on the Chinese entity,
+countervailing duties from 17.3 to 102 percent on Malaysia. European glass is
+named in neither order. That is a customs fact and nothing more. I am not
+quoting you a number in a first letter, and I am not claiming our glass is
+cheap. I am saying the comparison is not what it was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your tables are set up for is not an obstacle. We can put together
+an offer for delivery to your port of destination, subject to validation on
+our side. Houston, twenty kilometres from Peyton Road.
+
+What I need back is small: which thicknesses and coatings actually go into
+the lines, the sheet sizes your tables want, a rough annual volume with how
+often you buy, and the port.
+
+And the honest part. An approved fabricator has an agreement, and I am not
+asking you to break it. I am asking to be the second name on the list, for
+the week the first one is short. If that is of no interest, say so plainly
+and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
