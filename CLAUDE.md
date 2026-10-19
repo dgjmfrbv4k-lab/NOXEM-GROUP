@@ -1650,7 +1650,23 @@ possible. **Les trois autres chaines testees ne l'exposent pas :**
   qu'un **code fournisseur interne** du genre `LJ-1028`, qui ne nomme personne.
 - **Leroy Merlin Bresil** vend sous **`Versatik`**.
 **DONC LA METHODE NE MARCHE QUE LA OU LA CHAINE REVEND LA MARQUE DU FABRICANT, et la marque propre est
-la norme plutot que l'exception.** Conduite : **un seul appel par chaine, et on s'arrete des que le
+la norme plutot que l'exception.**
+**⚠⚠ ET LE GARDE-FOU QUE CETTE METHODE EXIGE, PAYE AU PRIX D'UNE FICHE MAL LUE LE SOIR MEME : UNE COTE
+LUE DANS UN RAYON EST TOUJOURS UNE COTE DE SORTIE.** J'avais cree **Knight Industries** comme la
+meilleure des trois en lisant *« diverses cotes et diverses epaisseurs »* comme le critere du 15/10
+satisfait cote **entree**. Le relevé detaille de la gamme le dement : ce sont des **panneaux finis** de
+**20 × 24 a 36 × 48 pouces**, en **2,3 et 3 mm de qualite B**, et la page du distributeur ajoute que
+*la plupart des fabricants de fenetres ont abandonne cette epaisseur* et que l'usage restant est le
+**remplacement, l'encadrement de tableaux et le bricolage**. Le plus grand panneau fait **914 × 1219 mm,
+soit le quinzieme d'un jumbo.**
+**La faute de lecture est d'avoir pris une GAMME DE PRODUITS FINIS pour une grille de stock d'entree.**
+C'est la lecon Valleywide du meme soir, en pire, et elle vaut aussi pour **Gardner Glass**, dont les
+24 × 30 a 48 × 60 pouces sont des cotes de rayon et non des cotes d'achat.
+**Donc : pour juger l'entree, il faut la grille de stock du FOURNISSEUR, jamais le catalogue du
+DISTRIBUTEUR.** Le rayon sert a trouver le NOM ; l'echelle d'achat se cherche ensuite, sur le domaine de
+la maison. **Et l'erreur symetrique est tout aussi interdite : on ne FERME pas une fiche sur un relevé
+de rayon** — une source tierce n'autorise ni a ouvrir ni a fermer, c'est la regle du mot *verrerie*.
+ Conduite : **un seul appel par chaine, et on s'arrete des que le
 rayon ne rend qu'un nom de distributeur** — il n'y a rien derriere, et chercher le fabricant d'une
 marque propre coute des appels pour rien. Le seul reste exploitable d'une passe negative est un nom qui
 ne ressemble pas a celui de l'enseigne, comme **`Glass Vale`** sur une chapa de miroir bresilienne.
