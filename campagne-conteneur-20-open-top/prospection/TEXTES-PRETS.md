@@ -15432,3 +15432,90 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 242. Glass and Mirror Enterprises (Miami, Floride) — `sales@myglassandmirror.com` — ANGLAIS — premier contact
+
+### PREPARE LE 11h07 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Fiche DEVERROUILLEE, pas creee** : elle etait en `A QUALIFIER` avec un site et pas d adresse, et
+  `candidats-deverrouillage.py` la designait comme l une des **deux seules** fiches du registre a
+  site connu — donc un seul appel au lieu de deux.
+- **Adresse lue sur LEUR PROPRE site**, avec le 6800 N.W. 37th Avenue et deux lignes.
+- **⚠️ BOITE DE LA COLONNE CLIENT DU §13**, et c est la **seule** publiee. Precedent **El Mayorista** :
+  on l emploie en le sachant, et **le premier paragraphe demande la transmission**.
+- **⚠️⚠️ RESERVE D AGE DITE AVANT L ENVOI : leur copyright s arrete a 2012.** C est la premiere
+  moitie de la signature **Vicar** du §13 — mais seulement la premiere : **toutes** les pages rendues
+  sont les leurs, aucune boutique etrangere ne cohabite sur le domaine. **Donc pas de domaine repris
+  et pas de risque de fuite** ; le risque est le rebond, et il est acceptable. En cas de rebond, la
+  fiche part au telephone, pas a une seconde adresse.
+- **⚠️ LE MIROIR EST DANS L OFFRE ICI, et c est l inverse de la fiche haitienne du meme jour** : ils
+  **achetent** du miroir en feuille pour le couper, ils ne l argentent pas. Et Miami est un climat
+  **humide**, ce qui est le marche meme du miroir sans cuivre ni plomb au §8.
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent aux Etats-Unis. **Argument douanier seul.**
+- **Liens produit presents. Porte de sortie presente. Signature une seule fois.** Jour ouvre verifie.
+
+**Objet :** `Sheet for your cutting tables - a second origin`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. I am writing to the only address you publish, so if it lands on a
+sales desk, please pass it to whoever buys your sheet.
+
+I am writing to you rather than to a glazing contractor because of how you
+describe yourselves: an industrial supplier to furniture manufacturers, more
+than twenty years in Miami, working a range of types and thicknesses in glass
+and mirror. A house that cuts for furniture makers buys sheet by the load,
+and sheet by the load is the only thing I deal in.
+
+What I am offering is what goes on the racks before your tables start:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- lacquered and back-painted glass, if furniture work calls for it
+  https://noxemgroup.com/en/lacquered-glass/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+One word on the mirror, because it is the piece of our range that behaves
+differently in your climate. Ours is made without copper and without lead,
+which is what matters where the air is humid most of the year - the failure
+that eats a conventional mirror from the edge starts in the copper layer.
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties on Malaysia. European
+glass is named in neither order. That is a customs fact and nothing more. I
+am not quoting you a number in a first letter, and I am not claiming our
+glass is cheap. I am saying the comparison is not what it was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+size your tables are set up for is not a problem. We can put together an
+offer for delivery to your port of destination, subject to validation on our
+side. Miami, in your case, which makes the inland leg close to nothing.
+
+What I need back is small: which thicknesses actually move, what sheet size
+your tables want, a rough annual volume with how often you buy, and the port.
+
+And the honest part. Twenty years in one city means a supplier who has earned
+the place, and I am not asking for it. I am asking to be the second name on
+the list, for the week the first one is short. If that is of no interest, say
+so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
