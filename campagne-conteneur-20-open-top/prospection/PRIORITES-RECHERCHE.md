@@ -3002,3 +3002,92 @@ Minneapolis qu il n y a pas de production locale serait demasque dans la seconde
   Etats-Unis. **Mais l Etat est ENCLAVE** : port d entree a laisser choisir, Duluth par la voie du
   Saint-Laurent, Chicago, ou un port cotier avec post-acheminement ferroviaire — et le
   post-acheminement mange une part de l avantage, comme les mille kilometres de Brasilia a Santos.
+
+---
+
+## 19/10 a 18h22 — TROIS TERRITOIRES CARAIBES OUVERTS, ET LE VERDICT NEGATIF DU SUD-EST AMERICAIN
+
+### 1. Les trois derniers blancs de la zone caraibe sont comblés — PREMIERE FICHE CHACUN
+
+| Territoire | Fiche creee | Classe | Verdict de la source |
+|---|---|---|---|
+| **Iles Turques-et-Caiques** | **O J Caicos Glass** (Providenciales) | **verre plat negoce** | rubrique `GLASS-FLOAT PLATE WINDOW AND DOORS`, la bonne |
+| **Dominique** | Speciality Making & Materials (Roseau) | fenetres negoce + fabrication | aucune rubrique verre plat |
+| **Saint-Christophe-et-Nieves** | S Hunkins & Sons (Charlestown, Nevis) | fenetres negoce + fabrication | aucune rubrique verre plat |
+
+**LA SEULE FICHE DE BONNE CLASSE EST CELLE DES TURQUES-ET-CAIQUES**, et elle l'est parce que
+l'annuaire y porte la rubrique du verre plat — la meme qui a rendu Royal Glass au Guyana. Les deux
+autres territoires ne rendent **que** de la menuiserie uPVC, des volets anti-cyclone, de la
+quincaillerie generaliste et du film teinte.
+
+**CINQ NOMS ECARTES D'EMBLEE, avec leur motif, pour qu'ils ne soient pas recherches deux fois :**
+- **Astaphan J & Co** et **Ricardo's Hardware** — quincaillerie generaliste, lecon Gomez Lotero :
+  un bazar publie des epaisseurs et vend tout le reste.
+- **Dragon Windows** — uPVC, menuiserie, classe a 3,6 pour cent.
+- **Conquering Storm Shutters** — volets, pose.
+- **One Shade Darker** — **film teinte**, lecon Ingesob : un applicateur de films ne s'approche meme
+  pas d'un acheteur de verre.
+- **Ocho Rios Glass Hardware Supplies** — listee sous la Dominique, **mais Ocho Rios est une ville
+  JAMAICAINE** et les entrees affichees sous elle sont d'autres societes. Lecon Arquetipo plus lecon
+  Imporex : aucune fiche, identite non tranchee.
+
+### 2. ⚠ VERDICT NEGATIF A CONSIGNER : LE SUD-EST AMERICAIN N'A PAS DE FEDERATION EXPLOITABLE
+
+La methode de la federation a ete mesuree a son meilleur aujourd'hui — Washington 7 sur 14,
+Massachusetts 12 sur 15. **Elle s'arrete ici : aucune `glass dealers association` ne publie de
+roster en Georgie, en Ohio ni en Pennsylvanie.** Un appel depense pour l'etablir, et c'est un appel
+bien depense : il evite d'en chercher trois de plus.
+Ce que la recherche rend a la place, et il faut le savoir pour ne pas s'y reprendre :
+- **Stained Glass Association of America** — ses partenaires georgiens et pennsylvaniens (**DHD
+  Metals** a Conyers, **CAFF Company** a Pittsburgh) sont des fournisseurs de **verre d'art et de
+  plomb**. Famille Bullseye et Spektrum du paragraphe 5. Ecartes.
+- **Rosso Wholesale Glass Dealers Inc.** (Pennsylvanie, 1969) — **sa raison sociale dit
+  *Wholesale Glass Dealers* et sa clientele est celle des *gift and antique shops*.** C'est de la
+  verrerie cadeau. **Meilleure demonstration rencontree de la regle du paragraphe 5 : le nom ne dit
+  rien du metier**, et ici il dit meme le contraire.
+
+### 3. ⚠⚠ ET LA LECON DE METHODE DU SOIR, MESUREE SUR DEUX SECONDS TEMPS NEGATIFS D'AFFILEE :
+### UNE RECHERCHE « wholesale flat glass distributor <ville> » REND DES BOUTIQUES DE DECOUPE EN LIGNE
+
+- **Dulles Glass** (Virginie), qui se presente en toutes lettres comme *Wholesale Glass and Mirror
+  Supplier* : son domaine n'est qu'un **configurateur de miroirs a la piece**, avec des lots de cinq,
+  des miroirs **acryliques** fabriques a la commande et du **polycarbonate**. Son « maximum 98 par
+  80 pouces » est un maximum de **DECOUPE**, pas un format de stock. Cote SORTIE au sens du
+  critere du 15/10. **Aucune fiche.**
+- **Glass Supply House** (annoncee a Atlanta, **etablie a Lawrenceville** — lecon Arquetipo une fois
+  de plus) : adresse **gmail**, deux numeros **en 833 et 877**, horaires fermes a 14h45, blog signe
+  par une agence de marketing, et « made to any thickness » en un a trois jours. Petite structure de
+  faconnage. **Aucune fiche.**
+
+**C'est le paragraphe 6 du 14/10 confirme par l'autre bout : le moteur classe par POPULARITE, donc
+sur une requete de gros il rend d'abord le commerce en ligne, qui est le mieux reference.** Le
+remede est connu et il reste le meme — portail sectoriel, piece de dossier antidumping, annuaire de
+federation — et en Georgie les trois sont epuises ou inexistants.
+
+### 4. Ce que le grep a economise dans la meme passe, et c'est la moitie du gain
+**Echols Glass & Mirror** et **American Insulated Glass** sont ressorties de la recherche georgienne
+comme des noms neufs : **les deux etaient au registre, relancees le 12/10 et le 08/10.** Et
+**EGM Tempering**, la division d'Echols, y est deja neutralisee en `NE PAS DEMARCHER`. Trois
+messages de trop evites par un `grep-nom.py` lance dans un appel separe de l'ecriture.
+**Leur matiere a ete versee dans les fiches existantes** — et elle vaut mieux qu'une fiche neuve :
+Echols publie des **formats de feuille de stock de 84 par 130 pouces**, soit 2134 par 3302 mm, donc
+le critere du 15/10 satisfait sur ses **deux** termes.
+
+### 5. Etat du registre a 18h22
+**1798 fiches, dont 225 aux Etats-Unis.** Balayage des doublons : 8 groupes, tous connus et traites.
+Integrite : aucune ligne malformee. `A APPELER` sans telephone : 0.
+**Aucun message d'aucune sorte n'est parti sur cette campagne aujourd'hui.**
+
+### 6. Ou dépenser les appels suivants, par rendement mesuré décroissant
+1. **ABRAVIDRO, liste des ASSOCIES, lettre par lettre** — le paragraphe 6 la declarait moissonnee et
+   **Pestana Vidros l'a dementi ce matin**. La passe du 16/10 n'avait lu qu'une tranche de
+   l'alphabet. Deux cents associes, avec adresse, telephone, e-mail et site propre par page.
+2. **`vidrioperfil.com`, rubrique des FABRICANTS** — jamais lue. Le 1 sur 6 mesure ses rubriques de
+   **negoce** et ne dit rien d'elle.
+3. **Santiago de los Caballeros** — jamais testee, et **a ne pas inscrire comme sterile** : c'est la
+   deuxieme ville dominicaine et la regle de la ville homonyme nommee en entier n'y a jamais servi.
+4. **Regionales bresiliennes restantes** dont le nom passe le filtre du paragraphe 6 : Amvid (Minas
+   Gerais), Avigo (Goias), Sindividros-RS.
+5. **Grands Etats americains sans federation** — le filon est desormais mesure comme **ferme** en
+   Georgie, en Ohio et en Pennsylvanie. Restent New York, les Carolines, l'Arizona, le Nevada et la
+   Louisiane, **et il faut y entrer par un portail sectoriel et non par le moteur.**
