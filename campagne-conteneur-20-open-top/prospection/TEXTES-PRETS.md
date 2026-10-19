@@ -19367,3 +19367,112 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+## 283. Arque Glass Vidros de Segurança Ltda (Maringá, Paraná) — `contato@arqueglass.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h25 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Grep passe dans DEUX appels SEPARES de l ecriture**, sur la marque et sur la raison sociale
+  complete : **absente aux deux**.
+- **⚠️ SEULE DES DOUZE CERTIFIES ABRAVIDRO A MANQUER AU REGISTRE** — les onze autres y sont, dont
+  quatre deja envoyees. La mesure est consignee dans `PRIORITES-RECHERCHE.md`.
+- **VERRIER PUR**, meilleure classe du §6 a 12,8 pour cent, **et le metier est ATTESTE et non
+  declare** : certification Inmetro et IFBQ sur le trempe en 6, 8 et 10 mm. C est la lecon SGCC de
+  ce matin — un organisme de certification **atteste** la ou un portail **declare**.
+- **⚠️ L ANGLE EST UNE CERTIFICATION DU CLIENT, ET IL FAUT DIRE POURQUOI C EST PERMIS :** le §5
+  interdit d annoncer **un certificat de NOTRE cote** non valide par Aaron. **Parler du LEUR n est
+  pas la meme chose** — c est un fait verifiable qui les concerne, et c est le meme raisonnement que
+  la cote de four de Smart Vidros, qui est leur chiffre et non le notre. **Test fait : chacune des
+  six occurrences du mot dans le corps designe LEUR certification Inmetro et IFBQ, aucune ne
+  designe la notre, et rien n est dit ni laisse entendre sur nos propres certificats.**
+- **⚠️ ET L ANGLE EST MEILLEUR QU UN COMPLIMENT, parce qu il porte un argument de FOND** : un four
+  audite chaque annee sur des epaisseurs nommees ne peut pas changer de substrat au hasard. **La
+  constance de l entrant est donc leur contrainte, et c est exactement ce que vend une seconde
+  origine.** C est le point 2 du §9 — un fait verifie tire de leur activite, pas une flatterie.
+- **Les 6, 8 et 10 mm certifies se lisent du cote SORTIE** au sens de la regle reecrite le 15/10.
+  **La fiche ne se ferme pas : qui trempe du 6 au 10 ACHETE du 6 au 10.**
+- **⚠️ `pedido@` N EST PAS RETENUE** bien qu ils la publient : `pedidos` est dans la colonne **cote
+  client** du tableau du §13, c est la boite ou **leurs** clients commandent. On ecrit a `contato@`.
+- **⚠️ TROIS RUES DIFFERENTES SELON LES ANNUAIRES**, toutes au numero 149 : c est leur **site** qui
+  fait foi. Le message ne cite aucune adresse, donc le risque est nul de toute facon.
+- **⚠️ MARINGA EST A L INTERIEUR DU PARANA.** Paranagua est le port plausible, **je ne le devine
+  pas** et le message le demande — meme conduite que pour Betim, Contagem et Alfenas.
+- **REGLE PRODIESA** : trempe et feuillete **sortent** de l offre, seul le substrat entre.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE** — float clair 1,8 a 20 mm, Malaisie Pakistan
+  Turquie, **ni miroir ni fume** — et **jamais** l absence de production locale au Bresil.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Um forno auditado todo ano precisa de chapa constante - uma segunda origem`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe a quem compra.
+
+Escrevo para voces por causa da certificacao. Voces estao na lista de
+processadoras com temperado certificado nas espessuras de 6, 8 e 10 mm, e isso
+me diz uma coisa que nenhum catalogo diria: o forno de voces e auditado todo
+ano, em espessuras nomeadas. Uma casa nessa situacao nao pode trocar de
+substrato ao acaso - a constancia do que ENTRA e a condicao do que sai
+certificado. E e exatamente ai que uma segunda origem serve para alguma coisa.
+
+E a leitura simples: quem tempera de 6 a 10 compra chapa de 6 a 10. Chapa em
+contentor completo e a unica coisa que eu vendo.
+
+Deixo claro o que NAO estou oferecendo. A tempera e o beneficiamento sao o
+trabalho de voces, nao o meu, e ali nao tenho nada a vender. O que ofereco e
+o que entra antes do forno:
+
+- vidro float claro e extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E, se o temperam
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e com a medida exata: desde a Gecex 833 o float incolor de
+1,8 a 20 mm originario da Malasia, do Paquistao e da Turquia paga direito
+antidumping no Brasil, e a Europa nao esta nessa medida. Isso vale para essa
+faixa de float incolor, e nao vale para espelho nem para vidro fume. Nao estou
+lhe dando numeros numa primeira carta e nao estou dizendo que nosso vidro e
+barato. Estou dizendo que a comparacao mudou.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda, de modo que a medida de estoque para a
+qual as suas mesas estao ajustadas nao e obstaculo. Podemos preparar uma
+oferta para a entrega no seu porto de destino, sujeita a validacao do nosso
+lado. Maringa fica no interior, entao nao vou adivinhar o seu porto: diga qual
+o seu frete ja usa e eu trabalho sobre esse.
+
+O que preciso de volta e pouco: se as tres espessuras certificadas sao as suas
+faixas de maior giro, se temperam vidro com capa e quais, as medidas de chapa
+que as suas mesas pedem, um volume anual aproximado com a frequencia de
+compra, e esse porto.
+
+E a parte honesta. Uma casa de 1995 com certificacao auditada tem fornecedor,
+e nao estou pedindo para substitui-lo - trocar de substrato no meio de um
+ciclo de certificacao seria o pior conselho que eu poderia dar. Estou pedindo
+para ser o segundo nome da lista, qualificado com antecedencia, para a semana
+em que o primeiro ficar curto. Se isso nao interessa, diga com franqueza e eu
+nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

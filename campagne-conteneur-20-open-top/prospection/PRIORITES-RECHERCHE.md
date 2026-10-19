@@ -2282,3 +2282,64 @@ moins, a effort egal, qu une entite cotiere — mais mieux que Brasilia, qui est
 
 **CONDUITE : ces dix noms sont un gisement de SECOND TEMPS, a deux appels par fiche.** Ils ne
 coutent rien a garder ici et ils evitent de redecouvrir AMVID dans un mois.
+
+
+## ⚠️⚠️ FILON CERTIFICATION ABRAVIDRO — MESURE COMPLETE LE 19/10 A 14h24, ET C EST UN RESULTAT
+## NEGATIF QUI ECONOMISE DES APPELS : 15 NOMS SUR 16 DEJA AU REGISTRE
+
+**La piste etait la meilleure de la journee sur le papier**, et c est pour cela qu il faut dire
+qu elle est prise. Le paragraphe 6 notait depuis le 16/10 que `abravidro.org.br` porte, outre sa
+liste d associes paginee par lettre, **trois pages de certification** — jamais lues. Elles le sont.
+
+**POURQUOI J Y ALLAIS, ET LE RAISONNEMENT RESTE JUSTE :** une liste de certification **ATTESTE** le
+metier la ou un portail le **DECLARE**, c est la lecon SGCC de ce matin qui a leve Dialum et
+Cristacurva sans un appel de qualification. Et le metier atteste ici est le **trempe** et le
+**feuillete**, soit la meilleure classe du paragraphe 6 a 12,8 pour cent.
+
+**LA PREMISSE DE DEPART ETAIT FAUSSE, ET ELLE EST CORRIGEE ICI :** je cherchais la liste **Inmetro**
+en croyant la certification du verre de securite **OBLIGATOIRE** au Bresil, donc la liste
+**exhaustive**. **Elle est VOLONTAIRE** — Portaria Inmetro 327/2007, puis 491/2023 — et l Abravidro
+le dit en toutes lettres : *voluntaria, de acordo com os interesses estrategicos tecnicos e
+comerciais da empresa*. ⚠️ **Une source de fabricant affirme l inverse et son texte parait perime**,
+donc le fait est a confirmer sur la Portaria elle-meme avant tout usage. **Ce qui change pour nous :
+une liste volontaire ne recense pas un marche, elle recense les maisons qui ont choisi de payer un
+audit** — ce qui est d ailleurs un bon signal de taille, mais pas une couverture.
+
+**LE COMPTE, LISTE PAR LISTE :**
+
+| Liste | Noms rendus | Deja au registre | Fiches creees |
+|---|---|---|---|
+| **Vidros TEMPERADOS certificados** | 12 | **11**, dont 4 deja envoyees | **1** — Arque Glass |
+| **Vidros LAMINADOS certificados** | 4 | **4** | **0** |
+
+**Les onze du trempe deja presents :** ABC Temper `ENVOYE 2026-10-12`, New Temper Vidros, Temperline
+`ENVOYE 2026-10-15`, MTX Glass–Marcetex, Cristal Glass Parana en `NE PAS DEMARCHER`, Cyberglass,
+Divibras `ENVOYE 2026-10-12`, Casas Bandeirantes, Amazon Temper, Vitral Vidros Planos, et LM Vidros
+rencontree dans le meme releve.
+**Les quatre du feuillete sont un SOUS-ENSEMBLE du trempe** — Cyberglass, MTX Glass, New Temper,
+Temperline — ce qui etait previsible et qu il fallait verifier plutot que supposer : on ne feuillete
+pas sans four.
+
+**⚠️ ET LE GREP A ATTRAPE UNE COLLISION DE NOM QUI AURAIT FAIT UN DOUBLON : l Abravidro nomme
+*MARCETEX*, le registre porte *MTX Glass — Marcetex Vidros*.** Une session anterieure avait deja
+resolu le sigle. **C est le onzieme cas du paragraphe 5 — l acronyme n est pas une variante
+d ecriture — et cette fois le correctif d initiales du `grep-nom.py` a fonctionne.**
+
+**CE QUE CELA PRECISE DE MA CORRECTION DE CE MATIN, ET IL FAUT LE DIRE SANS L ARRONDIR DANS UN SENS
+NI DANS L AUTRE.** J ai ecrit ce matin que le paragraphe 6 avait tort de donner le gisement
+ABRAVIDRO pour *deja pris*, Pestana Vidros et Sao Cristovao Temper etant toutes deux absentes.
+**C etait juste, et cela ne vaut que pour la liste des ASSOCIES.** La liste des **CERTIFIES**, elle,
+est bel et bien prise a 15 sur 16. **Ce sont deux tranches de la meme source avec des rendements
+opposes**, et la lecon generale est celle du 15/10 sur les treize regionales : **une federation ne se
+mesure pas, ce sont ses PAGES qui se mesurent, une par une.**
+
+**CONDUITE POUR LES PROCHAINS TOURS :**
+· **Les deux pages de certification sont FAITES. Ne plus y depenser un appel**, quelle que soit la
+  source qui en renverra les noms.
+· **La liste des ASSOCIES reste ouverte** et se parcourt **lettre par lettre** — c est la seule
+  tranche de cette federation qui rende encore.
+· **Et la question du paragraphe 6 sur les autres pays reste la bonne** : quel organisme certifie le
+  verre de securite dans le Golfe, en Afrique australe, au Mexique hors AMEVEC ? **Le SGCC couvre
+  l Amerique du Nord et le Golfe-Levant est deja pris.** L Ibelq, l IFBQ, l ABNT et la SGS sont les
+  quatre certificateurs bresiliens nommes — **l IFBQ et l Ibelq publient leurs propres listes de
+  certificats**, et ce sont des tranches encore non lues, distinctes de celles de l Abravidro.
