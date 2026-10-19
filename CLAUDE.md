@@ -895,6 +895,36 @@ python3 campagne-conteneur-20-open-top/prospection/outils/grep-nom.py "Glaz Tech
   script.** C'est la doctrine du §12 appliquée une fois de plus : quand une note voit ce que le code
   ne voit pas, on répare le code. Ici c'était l'inverse, le code voyait ce que mon `grep` manquait,
   et le remède est le même.
+  **⚠️⚠️ QUATORZIÈME CAS LE 19/10 AU SOIR, ET IL DIT LE COÛT SYMÉTRIQUE DE CE CORRECTIF-LÀ : LA
+  SUPPRESSION DES SÉPARATEURS, QUI FAIT VIVRE L'OUTIL, LUI FAIT AUSSI TROUVER UN TOKEN EN TRAVERS
+  DES MOTS. Deux faux positifs dans la même minute, sur le même relevé.**
+  · Le token **`Espejos SAS`** s'aplatit en `espejossas`, qui est une **sous-chaîne** de
+    `eldiamantevidriosyespejossas`. Le script a donc rendu **El Diamante**, société sans rapport à
+    Bogotá, pour une recherche portant sur une maison de **Palmira**. Seule la **lecture de la
+    ligne** l'a montré — le compte, lui, disait « 1 fiche au registre ».
+  · Le token **`Devidros`** a rendu **VINGT-QUATRE fiches**, hors de toute proportion, parce
+    qu'aplati il se trouve dans la phrase portugaise **« de vidros »**, que **39 raisons sociales du
+    registre** portent : *Indústria **de Vidros***, *Comércio e Atacado **de Vidros***. Et ses deux
+    hits de **domaine** étaient du même tonneau — `lin|devidros.com` et `nsacomercio|devidros.com`.
+  **CE QUE CELA AJOUTE AU NEUVIÈME CAS, qui disait de regreper sur le CHAMP raison sociale : ici le
+  champ raison sociale EST la source du bruit, donc changer de champ ne sert à rien.** Ce qui
+  tranche est une **regex à FRONTIÈRE DE MOT sur le nom NON aplati** :
+```python
+import re
+hits = [c for c in R if re.search(r'\bdevidros\b', c[3], re.I)]   # rend 0 : absente
+```
+  **RÈGLE : quand `grep-nom.py` rend un nombre hors de proportion, ou rend une fiche d'une autre
+  ville que celle cherchée, le token est une PHRASE COURANTE DU MÉTIER dans la langue du pays et non
+  un nom. On le revérifie alors à la frontière de mot, sur le nom non aplati**, avant de conclure
+  quoi que ce soit — dans un sens comme dans l'autre, un faux positif coûtant un appel et un faux
+  négatif coûtant un message de trop.
+  **Les phrases à connaître comme non distinctives, parce qu'elles sont dans des dizaines de raisons
+  sociales :** `de vidros`, `de vidrio`, `de vidros planos`, `y espejos`, `e espelhos`,
+  `glass and mirror`, `vidrios y aluminio`, `glass and aluminium`. **Un token qui en contient une
+  n'est pas un token.**
+  **Et le point commun avec les douze cas précédents reste le même, et c'est la seule discipline qui
+  tienne : le script a tourné, il a rendu un chiffre, et c'est de LIRE LES LIGNES que la réponse est
+  venue.**
   **ET LE MÊME APPEL A RENDU UN FAIT QUI SE GARDE, PARCE QU'IL CORRIGE UNE GÉOGRAPHIE :** la recherche
   portait sur **Boston** et Glaz-Tech est à **Tucson**, avec neuf implantations dans le Sud-Ouest, les
   Rocheuses et la Louisiane — **aucune en Nouvelle-Angleterre**. Le moteur l'a rendue sur une page
