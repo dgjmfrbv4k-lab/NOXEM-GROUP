@@ -8237,3 +8237,58 @@ domestique** — fait négatif consigné, la fiche recule derrière celles qui i
 10 champs, **8 groupes de doublons** (référence retrouvée), 18 paires de noyaux voisins, **0 argument
 float à corriger**, **0 `A APPELER` sans téléphone**. Cinquième occurrence du `;` dans une note,
 attrapée par l'`assert` **avant** toute écriture.
+
+
+---
+
+### 19/10/2026 a 23h34 — TÂCHE PLANIFIÉE MISE EN PLACE, ET LE PREMIER ENVOI SUR ORDRE EXPRÈS
+
+**ORDRE DE KEVIN, le 19/10 à 23h30, cité mot pour mot :** « configure un démarrage automatique chaque
+matin à 8 h 30, heure de Paris, consacré exclusivement aux nouveaux prospects. Aucune relance… puis
+**effectue les envois** avec le message et l'offre validés. Enregistre chaque envoi et poursuis les
+lots sans attendre mon rappel » · et « **contacte ceux** [chez qui] c'est le matin chez eux ».
+**C'est le premier ordre d'envoi EXPLICITE depuis sa consigne du 15/10 à 09h41**, et il porte sur les
+**premiers contacts à de nouveaux prospects, aucune relance.**
+
+**TÂCHE CRÉÉE ET ACTIVE.** `trig_01LWRuz93JSKZAUVeVTggSd3` · `CRON_TZ=Europe/Paris 22 8 * * 1-5` ·
+`enabled: true` · **prochaine exécution le mardi 20/10/2026 à 8h22 heure de Paris** (06h22 UTC).
+Minute décalée de 8 minutes avant 8h30 selon la règle anti-congestion, et **du lundi au vendredi**
+plutôt que sept jours sur sept, parce qu'un envoi parti bureaux fermés est perdu — c'est la leçon des
+52 messages du 12/10.
+
+**⚠️⚠️ DEUX MANQUES RÉELS, à ne pas maquiller.**
+1. **La tâche ne porte AUCUN connecteur** (`mcp_connections: []`). Le paramètre `connectors` est
+   **refusé pour cette organisation**, et l'avertissement du serveur est explicite : *« the sessions
+   it fires will run without connector tools »*. **Donc la session de 8h22 n'aura PAS Gmail et ne
+   pourra PAS envoyer.** Elle fera tout le reste — recherche, qualification, registre, rédaction,
+   contrôles, commit — et son prompt lui interdit de prétendre le contraire. **Remède : Kevin doit
+   recréer la routine depuis l'interface des routines de claude.ai**, où il peut y attacher Gmail.
+2. **Aucune source n'est attachée** (`sources: []`). Il faut vérifier que la session éveillée dispose
+   bien du dépôt NOXEM-GROUP, sans quoi ni le mandat ni le registre ne seront là.
+
+**LES CINQ CHIFFRES DU §3, TENUS DISTINCTS :** recherches ~40 appels · **envois partis : 1** ·
+**envois CONFIRMÉS : 0** (la confirmation demande 72 h sans avis d'échec, §13) · réponses qualifiées 0 ·
+demandes de devis 0 · commandes 0.
+
+**L'ENVOI : LOGAN GLASS** (Meadowbrook, Queensland), `sales@loganglass.com.au`, identifiant
+`1a156159c62b936f`, texte 297. **Pourquoi celle-là et aucune autre :** sur les **111 fiches envoyables
+du registre**, c'est **la seule** à la fois sans contact antérieur, pourvue d'une adresse vérifiée, et
+**dans la matinée de son destinataire** — 7h33 le mardi 20 à Brisbane. Les deux plus gros viviers, les
+États-Unis et le Brésil avec 31 fiches chacun, étaient à 17h30 et 18h30 locales.
+**Contrôles passés avant l'envoi :** expéditeur confirmé `aaron.harfi@noxem-group.com` (§10) · adresse
+prise au **registre** · anti-rebond satisfaite sur leur propre page · `verif-texte.py` **0 défaut** ·
+`verif-argument-float.py` **0 fiche**. ⚠️ **Le contrôle MX n'a pas pu être fait** — liste blanche DNS,
+§13.
+**Ce que le texte ne dit pas, à dessein :** il ne nomme **pas Starphire**, qui est dans leur gamme et
+qui est une marque de Vitro — ce serait la faute STADIP du 12/10 ; **rien sur les droits**, la Chine
+n'étant pas frappée en Australie ; la ligne float **a été arrêtée**, jamais « ne redémarrera » ; et le
+trempé ne figure pas dans l'offre (règle Prodiesa).
+
+**⚠️ ET UN FAIT DE BOÎTE PARTAGÉE À VERSER AU §10 :** à 23h26, quatre minutes avant cet envoi, **une
+autre session a expédié trois messages** à des transporteurs allemands depuis la même boîte, dont un
+qui a **rebondi**. Le quota et la réputation sont communs — mon compte d'envois ne vaut que pour moi.
+
+**RECOMMANDATION, et c'est une observation d'horaire :** 8h22 de Paris est la bonne heure pour
+l'Europe, l'Afrique, le Golfe et l'Inde. **Mais les deux plus gros viviers du registre sont les
+États-Unis et le Brésil, qui sont dans leur matinée vers 14h-16h heure de Paris.** Un second créneau
+l'après-midi vaudrait plus que le premier.

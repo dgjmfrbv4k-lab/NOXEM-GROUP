@@ -20728,3 +20728,96 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+## 297. Logan Glass (Meadowbrook, Queensland — region de Brisbane) — `sales@loganglass.com.au` — ANGLAIS — premier contact
+
+### REDIGE A 23h33 le 19/10 — ENVOI SUR L ORDRE EXPRES DE KEVIN DU 19/10 A 23h30, cite mot pour mot dans la fiche.
+
+- **Pourquoi celle-ci et pas une autre a cette heure-ci :** il est 23h30 a Paris, donc **7h30 le mardi
+  20 octobre a Meadowbrook**, le Queensland etant a UTC+10 sans heure d ete. Sur les **111 fiches
+  envoyables du registre**, c est **la seule** qui soit a la fois sans contact anterieur, pourvue d une
+  adresse verifiee, et dans la matinee de son destinataire. Mardi 20 octobre n est ferie ni en
+  Australie ni au Queensland.
+- **Les quatre signaux d entree sont dans le texte, tires de LEUR page et non supposes** : la mention
+  *trade enquiries only*, la liste de feuilles de stock de 3 a 12 mm, la refente limitee a deux coupes
+  avec la chute a prendre, et la disponibilite au lendemain avec limite de commande a 10 heures.
+- **⚠️ LE TEXTE NE NOMME PAS STARPHIRE, et c est delibere.** Leur gamme le porte en 6 et 10 mm, et
+  c est une marque de Vitro, qui est sur la liste des concurrents du §6. **Le leur dire serait la faute
+  STADIP du 12/10** : apprendre au client que sa reference est une marque concurrente et fabriquer un
+  doute qu il n avait pas. Le texte parle de **low-iron**, qui est leur propre mot, et demande ce qu ils
+  achetent au lieu de le leur annoncer.
+- **⚠️ RIEN SUR LES DROITS DE DOUANE**, §6 : le dossier 575 de l Anti-Dumping Commission a proroge les
+  droits sur l **Indonesie seulement** et a ete **termine** pour la Chine et la Thailande. On affronte
+  le float chinois de face sur l origine, pas sur le douanier.
+- **La ligne float A ETE ARRETEE, jamais « ne redemarrera »** — Oceania Glass, administrateurs nommes
+  le 04/02/2025, aucun repreneur pour le four.
+- **Regle Prodiesa appliquee :** ils trempent pour les professionnels, donc **le trempe ne figure pas
+  dans l offre**. Seul le substrat entre.
+- **Porte de sortie du §9 presente**, et signature du §10 **une seule fois**.
+
+**Objet :** Flat glass by the container, Europe to Brisbane - second origin for your stock sheets
+
+```
+Dear Sir or Madam,
+
+My name is Aaron Harfi. I run NOXEM GROUP, a flat glass supplier and exporter
+based near Lyon in France. We ship flat glass in full containers to processors,
+wholesalers and glaziers outside Europe.
+
+I am writing to you rather than to anyone else in Queensland for a specific
+reason: your own pages are written for the trade only, and they read like a
+stockholder's pages rather than a shopfront's. You publish a stock sheet range
+from 3 to 12 mm in clear and tinted, you carry low-iron in 6 and 10 mm, your
+re-cut service is limited to two cuts per sheet with the offcut going to the
+customer, and light stock items are available next day against a 10 am cut-off.
+Those are the terms of a house that buys whole sheets and carries the balance
+itself. That is the house a container is built for, and it is not the case for a
+glazier whose sizes change with every job.
+
+There is also the obvious fact about your market, and I will state it as it
+stands rather than overstate it: the last float line in Australasia has been
+shut down, so every square metre of float used in Australia now arrives by sea.
+The question for a buyer is no longer local or imported. It is which origin, and
+how many of them you want to be able to call on.
+
+What we supply, with the pages rather than my word for it:
+
+- clear and extra-clear float glass, the base of the range
+  https://noxemgroup.com/en/float-glass/
+- low-emissivity glass, if you carry coated stock
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror, which holds up in coastal and humid air
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to see it in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in ISPM-15 treated timber cases, either cut to
+your sizes or as standard jumbo 3210 x 2550 mm. The length is cut to order, so a
+size your tables are already set to is not an obstacle. We can put together an
+offer for delivery to your port of destination, subject to validation on our
+side.
+
+What I need back is short, and it is the part only you can answer: which
+thicknesses actually move through your racks, which of them you would rather not
+depend on a single origin for, the sheet sizes your cutting tables are set to,
+an approximate annual volume with how often you buy, and the port you take
+delivery at today. I would rather work from what you tell me than from what I
+can read.
+
+And the honest part. A wholesaler with a working supply line does not change it
+on the strength of a first email, and I am not asking you to. What I am asking
+is to be the second name on your list, qualified in advance, for the month when
+the first one is short or a thickness is on back order. If you are committed to
+the supply you have, say so plainly and I will not write again.
+
+Kind regards,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
