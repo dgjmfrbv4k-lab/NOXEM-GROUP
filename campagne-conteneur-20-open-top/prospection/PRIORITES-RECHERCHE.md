@@ -2593,3 +2593,42 @@ Nouvelle-Orleans — et le §13 rappelle que le registre ecrit **`La Nouvelle-Or
 **Aucun lien etabli dans les deux cas, et le §12 tranche sur le siege et l immatriculation, jamais
 sur le nom.** C est la troisieme famille de collisions de la journee apres `Vitelco`/`Vitelsa` et
 `Dialum` — et les trois ont ete prises par le `grep` ou par la lecture, pas par le balayage.
+
+
+### ⚠️⚠️ ET LE CRITERE PORTUAIRE EST TESTE DANS LE QUART D 14h55, SUR SAVANNAH : ZERO FICHE.
+### C EST LE DEUXIEME DEMENTI DE L APRES-MIDI APRES ITAGUI, ET IL DIT LA MEME CHOSE AUTREMENT
+
+**Savannah est un des plus gros ports conteneurs des Etats-Unis.** Requete faite sur la ville seule,
+regle du 15/10. **Resultat : aucune fiche.**
+· **J & L Glass** (depuis 1983), **Rick s Glass Company** (la plus ancienne de la ville, avec un
+  comptoir de detail), **Savannah Glass LLC** — **les trois sont absentes du registre et les trois
+  sont ecartees au tri metier** : faconnage **plus pose**, vitrerie commerciale et residentielle,
+  vente au comptoir. **C est la classe verrier plus pose a ZERO pour cent et la classe detail.**
+· **Flat Glass Distributors**, la seule du releve a annoncer un **four de trempe**, est **deja au
+  registre** — a Jacksonville et Houston, en `A APPELER` — et le `grep` l a montre. **Paragon
+  Tempered Glass** a ete creee ce matin. **Trulite** est en `A QUALIFIER`. **Guardian** est un
+  concurrent du §6 et n est pas au registre, ce qui est correct.
+
+**LA CONCLUSION, ET ELLE EST LA MEME FORME QUE LA LECON ITAGUI : LA PROXIMITE PORTUAIRE EST UN
+CRITERE DE CLASSEMENT, PAS UN CRITERE DE RECHERCHE.**
+**Pourquoi :** un port n est pas une ville industrielle. Savannah **transite** du fret, elle ne le
+**transforme** pas — son commerce du verre est du detail et de la pose, parce que c est ce qu une
+ville de services demande. **Maspeth et San Leandro n ont PAS ete trouvees parce qu elles sont pres
+d un port : elles ont ete trouvees par une liste de CERTIFICATION, et leur proximite portuaire est
+ce qui les a fait monter dans l ordre de travail.** J avais inverse la cause et l effet dans l heure
+qui a suivi.
+**DONC : on cherche par PROCEDE — une liste qui atteste un four — puis on CLASSE par distance au
+port.** Jamais l inverse. Et c est exactement la forme de la lecon Itagui : on ne cherche pas une
+commune, on cherche une zone d usines ; on ne cherche pas un port, on cherche un four.
+**Houston, Charleston, Norfolk, Baltimore, Seattle, Long Beach et La Nouvelle-Orleans ne se testent
+donc PAS une par une** — ce serait sept appels pour le rendement de Savannah. **La ligne de
+`PRIORITES-RECHERCHE.md` ecrite un quart d heure plus tot, qui proposait de le faire, est retiree
+par celle-ci.**
+
+**ET LES DEUX DEMENTIS DE L APRES-MIDI DISENT LA MEME CHOSE SUR MA PROPRE METHODE, ce qui vaut mieux
+que les deux fiches qu ils ont coutees :** j ai deux fois tire une regle de DECOUVERTE d un fait qui
+etait un fait de QUALITE. Copacabana portait deux bonnes maisons — j en ai conclu qu il fallait
+chercher en banlieue. Maspeth est pres d un port — j en ai conclu qu il fallait chercher dans les
+ports. **Dans les deux cas le fait etait vrai et la regle etait fausse, parce que ce qui rend une
+maison bonne n est pas ce qui permet de la trouver.** Deux appels pour l apprendre, et ils evitent
+les douze que les deux fausses regles auraient coutes.
