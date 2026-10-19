@@ -15351,3 +15351,84 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 241. Caribbean Standard Glass Manufacturing S.A. — CSG (Port-au-Prince, Haiti) — `info@csghaiti.com` — FRANCAIS — premier contact
+
+### PREPARE LE 11h05 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Passe au `grep-nom.py`** : `caribbean standard glass`, **ABSENT**. Et la meme passe a montre que
+  **Glass Global Distributors est au registre DEUX fois** et Hepburn s aussi — deux seconds temps
+  economises.
+- **⚠️ PIEGE DU NOM, NOMME DANS LE MANDAT** : `CARIBBEAN GLASS` designe **quatre** maisons sans
+  rapport au registre, dont notre negociation de Trinite et l usine de **bouteilles** dominicaine.
+  Celle-ci est une cinquieme, et seul le nom les rapproche.
+- **Adresse lue sur LEUR PROPRE page d accueil**, `csghaiti.com`. Regle anti-rebond satisfaite.
+- **⚠️⚠️ QUALIFICATION PROUVEE PAR LEUR PROPRE DOCUMENT, ce qui est rare** : leur page de feuillete
+  decrit des **couches de FLOAT** assemblees par intercalaires PVB de 0,38 mm. **Ils disent donc
+  eux-memes que le float est leur matiere premiere.** Classe verrier pur, 12,8 pour cent.
+- **⚠️ REGLE PRODIESA, ET ELLE RETIRE BEAUCOUP** : trempe, feuillete, pare-balles, vitrines,
+  mobilier et portes de douche **sortent** de l offre. Seul le substrat y entre.
+- **⚠️ LE MIROIR EST VOLONTAIREMENT ABSENT DU TEXTE**, bien qu il soit dans leur gamme : rien
+  n etablit s ils l **argentent**. La faute Prodiesa du 12/10 consistait exactement a proposer le
+  miroir a un fabricant de miroir. **La question va a Kevin, pas a eux** — lecon STADIP.
+- **AUCUN ARGUMENT DOUANIER**, Haiti n ayant aucune mesure connue et le §6 interdisant d affirmer la
+  douane d un pays sans sa source. **Et pas un mot sur l absence de production locale**, non verifiee.
+  L angle est l origine, la continuite et le format.
+- **Liens produit presents. Porte de sortie presente. Signature une seule fois.** Jour ouvre verifie.
+
+**Objet :** `Float clair et extra-clair par conteneur - une seconde origine`
+
+```
+Bonjour,
+
+Je m'appelle Aaron Harfi, je dirige NOXEM GROUP, fournisseur et exportateur
+de verre plat près de Lyon. Ceci est une offre de fourniture et non une
+demande de devis. Si vous n'êtes pas la personne qui achète la matière
+première, merci de transmettre.
+
+Je vous écris plutôt qu'à un poseur pour une raison qui est sur votre propre
+site : votre page de feuilleté décrit des couches de float assemblées par
+intercalaires PVB de 0,38 mm. Autrement dit, le float est votre matière
+première, et c'est la seule chose dont je m'occupe. Une maison qui trempe et
+feuillette depuis 1981 sait exactement ce qu'elle achète.
+
+Donc je vais être précis sur ce que je ne propose PAS. Le trempé, le
+feuilleté, le pare-balles, les vitrines, les portes de douche : c'est votre
+métier, pas le mien, et je n'ai rien à vous y vendre. Ce que je propose est
+ce qui entre dans votre atelier avant que vos lignes ne démarrent :
+
+- float clair et extra-clair
+  https://noxemgroup.com/en/float-glass/
+- verre à faible émissivité, low-E
+  https://noxemgroup.com/service/verre-a-faible-emissivite/
+- et la gamme complète, si c'est plus simple en une seule page
+  https://noxemgroup.com/service/catalogue/
+
+Nous expédions en CONTENEURS COMPLETS, en caisses bois traitées NIMP-15,
+coupé à VOS cotes, ou en jumbo 3210 x 2550 mm. La longueur se coupe à la
+demande, donc une cote de stock à laquelle vos tables sont réglées n'est pas
+un problème. Nous pouvons établir une offre pour la livraison à votre port de
+destination, sous réserve de validation de notre côté.
+
+Ce que j'attends en retour est court : quelles épaisseurs passent réellement
+dans votre four et dans votre autoclave, quel format de feuille vos tables
+préfèrent, un volume annuel approximatif avec la fréquence d'achat, et le
+port.
+
+Et la partie honnête. Quarante-cinq ans de métier veut dire un fournisseur
+qui a mérité sa place, et je ne demande pas à le remplacer. Je demande à être
+le deuxième nom sur la liste, pour la semaine où le premier est en rupture.
+Si cela ne vous intéresse pas, dites-le franchement et je n'insiste pas.
+
+Bien cordialement,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
