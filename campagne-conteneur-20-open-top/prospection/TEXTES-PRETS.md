@@ -18496,3 +18496,104 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 274. CristalTemper (Muriaé, Minas Gerais) — `contato@cristaltemper.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h02 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **PREMIERE FICHE DU GISEMENT AMVID**, et elle justifie le gisement : **les deux meilleures classes
+  de metier a la fois, et c est dans leur propre titre de page** — *Distribuidora de Vidros* et
+  *Vidro Temperado*. **Ils annoncent en plus un OUTLET de verre, donc un STOCK** : une maison sans
+  stock n a rien a declasser. Grep passe dans un appel separe : **ABSENT**.
+- **⚠️ ET LEUR GEOGRAPHIE EST MEILLEURE QUE CELLE DE LEUR ASSOCIATION** : Muriae est sur la
+  **BR-116, l axe Rio-Bahia**, a l est du Minas — donc **beaucoup plus pres de Rio que de Belo
+  Horizonte**, et la reserve de post-acheminement qui pese sur tout le gisement AMVID est **moindre
+  ici**. Rio ou Vitoria plutot que Santos, **a demander et non a supposer**.
+- **Adresse sur LEUR PROPRE site et sur leur page `contatos`.**
+- **⚠️ TROIS ADRESSES POSTALES CIRCULENT** — celle de leur site est retenue, les deux autres
+  viennent d un reseau social et d un annuaire.
+- **⚠️ DEUX ADRESSES ECARTEES.** Une boite **Gmail** sur leur page sociale : **domaine mutualise, et
+  ce n est pas leur page de contact** — l exception du §5 ne joue pas quand une adresse de leur
+  propre domaine existe. Et une adresse de **representant regional**, nominative sans fonction
+  d achat : §5.
+- **⚠️ QUATRE NOMS VOISINS, les quatre grepes et absents** : `Cristalis Temper` a Betim, `DEC Temper`
+  a Montes Claros, `Tempersete`, `Temperax`. **Le suffixe `TEMPER` est partage par toute la filiere
+  bresilienne de la trempe : il ne distingue rien**, et c est pourquoi le grep se fait au script.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️⚠️ ARGUMENT DOUANIER BRESILIEN DU §6 SERVI AVEC SA PORTEE EXACTE, et c est le §6 lui-meme qui la borne** : la Gecex 833 ne vaut **que** sur
+  le float clair de 1,8 a 20 mm, contre la Malaisie, le Pakistan et la Turquie, **et elle exclut le
+  miroir et le teinte** — donc le texte nomme les trois origines et le produit, et rien d autre. Et
+  **jamais** l absence de production locale : ils sont quatre au Bresil.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Chapa para o estoque e para o forno - uma segunda origem`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe.
+
+Escrevo para voces e nao para um vidraceiro por causa de duas palavras que
+estao no titulo da sua propria pagina: distribuidora e temperado. Sao os dois
+lados do mesmo negocio, e os dois vivem de chapa. E voces tem outlet, o que
+significa que tem ESTOQUE - quem nao estoca nao tem o que liquidar. Chapa em
+contentor completo e a unica coisa que eu vendo.
+
+Deixo claro o que NAO estou oferecendo. A tempera e o beneficiamento sao o
+trabalho de voces, nao o meu, e ali nao tenho nada a vender. O que ofereco e
+o que entra antes de tudo isso:
+
+- vidro float claro e extra-claro, para o estoque e para o forno
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espelho sem cobre e sem chumbo, que um distribuidor vende e nao fabrica
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, e serei exato porque voces conhecem o assunto melhor do que
+eu em termos de preco: desde a Gecex 833 o float incolor de 1,8 a 20 mm
+originario da Malasia, do Paquistao e da Turquia paga direito antidumping no
+Brasil. A Europa nao esta nessa medida. Isso vale para o float incolor nessa
+faixa e nao vale para espelho nem para fume, e eu nao vou esticar o argumento
+alem disso. Nao estou lhe dando numeros numa primeira carta e nao estou
+dizendo que nosso vidro e barato. Estou dizendo que a comparacao mudou.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda, de modo que a medida de estoque para a
+qual suas mesas estao ajustadas nao e obstaculo. Podemos preparar uma oferta
+para a entrega no seu porto de destino, sujeita a validacao do nosso lado.
+Muriae fica na BR-116, mais perto do Rio e de Vitoria do que de Santos: diga
+qual porto o seu frete ja usa e eu trabalho sobre esse.
+
+O que preciso de volta e pouco: quais espessuras saem realmente do estoque,
+quais passam pelo forno, as medidas de chapa que suas mesas pedem, um volume
+anual aproximado com a frequencia de compra, e esse porto.
+
+E a parte honesta. Uma distribuidora com forno proprio tem um fornecedor que
+ganhou o lugar, e nao estou pedindo para substitui-lo. Estou pedindo para ser
+o segundo nome da lista, para a semana em que o primeiro ficar curto. Se isso
+nao interessa, diga com franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
