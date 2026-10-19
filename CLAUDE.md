@@ -1079,6 +1079,22 @@ lui attribue une table de droits d'importation la cite en réalité comme la par
      nominatif lui aussi, **et pas un distributeur dedans**. Ses membres s'appellent *…& Metal*,
      *…Contractors*, *…Glazing*, et leurs fiches parlent de **murs-rideaux, de devantures et d'entrées**.
      C'est la classe aluminium-façade-pose, à 3,6 %, et la classe verrier + pose, à 0 %. **Aucune fiche.**
+   **⚠️⚠️ ET UNE SECONDE CONDITION, MESURÉE LE 19/10 AU SOIR SUR LA DIVISION DE HOUSTON DE CETTE MÊME
+   FÉDÉRATION TEXANE : LE CONSEIL D'ADMINISTRATION N'EST PAS L'ANNUAIRE DES MEMBRES, ET IL EST BIAISÉ
+   DANS LE MAUVAIS SENS.** La division **Nord-Texas** publie un annuaire nominatif mêlant façonneurs,
+   **distributeurs** et fournisseurs — seize noms, seize absents, la meilleure passe de la méthode. La
+   division de **Houston** ne publie que ses **conseils** successifs.
+   **Neuf noms relevés, quatre déjà au registre et déjà travaillés — et LES CINQ ABSENTS SONT TOUS DANS
+   LES PIRES CLASSES, sans une exception :** trois ateliers locaux de *Glass & Mirror*, donc la classe
+   verrier + pose à **0 %**, un *Glazing Solutions* et un *Aluminum Specialties*, donc la classe à
+   **3,6 %**. Plus deux hors sujet complet, une maison de quincaillerie de porte et **un courtier en
+   assurance**.
+   **POURQUOI LE BIAIS EST STRUCTUREL ET NON UN HASARD DE TIRAGE : un conseil d'association est composé
+   de ceux qui ont le TEMPS d'y siéger.** Ce sont des patrons de maisons locales, pas les acheteurs des
+   gros distributeurs régionaux. **L'annuaire recense tout le monde, le conseil recense les bénévoles.**
+   **Donc la grille du §6 devient : bonne classe syndiquée, liste nominative — ET que cette liste soit
+   un annuaire de MEMBRES et non un trombinoscope de CONSEIL.** Un appel suffit à le voir, et c'est ce
+   qu'il a coûté.
    **LE MOT QUI PRÉDIT EST DANS LE NOM DE LA FÉDÉRATION, et il coûte zéro appel à lire :** *distribuidores*,
    *processadores*, *comércio atacadista*, *wholesalers*, *merchants* → on y va. ***Metal*, *Glazing*,
    *Contractors*, *vidraçarias*, *esquadrias*, *window* → on n'y va pas.** Et *Glass Association* tout court
