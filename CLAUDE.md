@@ -580,6 +580,40 @@ hits = [c for c in R if 'prodiesa' in c[3].lower()]
 ```
   **Les noms déjà contaminés à ce jour, parce que le mandat les emploie comme noms de règle ou de
   leçon :** `prodiesa`, `shibaam`, `lahey`, `imporex`, `munnworks`, `vandaglas`, `glasscorp`, `vitro`.
+  **⚠️⚠️ ONZIÈME CAS LE 19/10 À 11h23, ET CELUI-LÀ A RÉELLEMENT CRÉÉ LE DOUBLON AU LIEU DE L'ÉVITER —
+  UN ACRONYME N'EST PAS UNE VARIANTE D'ÉCRITURE, C'EST UNE AUTRE CHAÎNE.** J'ai passé
+  **`Infinity Glass Group`** au `grep-nom.py`, obtenu **ABSENT**, et créé la fiche. **Le registre
+  portait `IGG Glass`**, avec la même adresse `igg-glass.ca` et le même téléphone, **en
+  `RELANCE 2026-10-12`** — donc ma fiche était un **troisième message en une semaine**, la faute
+  Shibaam, sur une maison que je venais de classer parmi les meilleures du filon.
+  **ET LE GREP AVAIT RAISON DE DIRE ABSENT. C'est ce qui rend ce cas différent des dix autres :**
+  les neuf premiers venaient d'un `grep` mal lancé ou mal lu, le dixième d'un séparateur non couvert.
+  **Ici la normalisation des séparateurs ne pouvait rien** — `infinityglassgroup` et `iggglass` n'ont
+  aucune sous-chaîne commune. Un sigle n'est pas une orthographe du nom, c'est un autre nom.
+  **CE QUI A SAUVÉ LE COUP N'EST PAS MOI, C'EST `detecte-doublons.py`**, qui a rendu 11 groupes au
+  lieu de 8 dans la minute qui a suivi la création. **C'est la mesure du 14/10 sur Patagonia prise une
+  seconde fois : le balayage n'est pas seulement un contrôle de REGISTRE, c'est un contrôle de
+  SAISIE, et il se passe APRÈS CHAQUE LOT DE CRÉATIONS, sans exception.** Fiche neutralisée, matière
+  versée dans l'ancienne, rien n'est parti.
+  **LE CODE EST RÉPARÉ, parce que la consigne ne suffirait pas :** `grep-nom.py` compare désormais
+  **les initiales, dans les deux sens** — celles du nom cherché contre le premier mot de chaque
+  raison sociale, et le token cherché contre les initiales de chaque raison sociale.
+  **⚠️ ET LA PREMIÈRE VERSION DU CORRECTIF A ÉTÉ REJETÉE SUR MESURE, comme le motif
+  « aucune ligne float » l'avait été le 12/10 :** en cherchant les initiales **n'importe où** dans le
+  nom aplati, elle rendait **29 signalements sur 190 noms pour zéro vrai** — `atg` d'*Al Tbaynawi*
+  retrouvé dans *flo**ATG**lass*, et surtout **`pgg` de *Perfect Glass Ghana* retrouvé dans
+  *PG Glass Botswana***, c'est-à-dire un rapprochement avec les **comptes protégés du §7**. Resserré
+  sur l'**égalité** au lieu de la sous-chaîne : **2 signalements sur 380 noms**, et les deux sont de
+  vraies questions — *Aldar Glass Industries* contre *AGI Mauritius*, *Al Watan Glass* contre
+  *AWG Northern Distribution*.
+  **⚠️ CE QUE LE CORRECTIF NE COUVRE PAS, ET IL FAUT LE DIRE : LA CONTRACTION.** Le même matin,
+  **AGNORA** a été reconnue à temps comme *Architectural Glass of NORth America* — **mais aucune
+  règle d'initiales ne peut la trouver**, puisque `agnora` n'est pas `aga` : c'est une contraction
+  syllabique, pas un sigle. **Elle a été attrapée par l'ADRESSE PARTAGÉE, et par rien d'autre.** Donc
+  sur une liste de fédération, le `grep` de nom reste insuffisant et **c'est la coordonnée qui
+  tranche** — domaine, téléphone ou rue — exactement comme pour SOFAVI et American Flat Glass.
+  **Trois cas d'acronyme dans la même matinée en font une famille : `IGG`, `AGNORA`, et `RGT` pour
+  *Rodriguez Glass and Tempering*.**
   **⚠️⚠️ DIXIÈME CAS LE 19/10 À 10h19, UNE HEURE APRÈS LE NEUVIÈME, ET IL FERME LA DERNIÈRE FAMILLE
   DE SÉPARATEURS : LE TRAIT D'UNION. J'ai grepé `glaz tech`, puis `glaztech`, obtenu **ZÉRO aux
   deux**, et dépensé un second temps complet sur **Glaz Tech Industries**. Le registre porte
