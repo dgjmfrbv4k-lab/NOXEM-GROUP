@@ -821,3 +821,68 @@ chacune des trois debloque un marche entier.
 **Jusque-la : aucune cote maximale n'est annoncee a aucun prospect**, et les textes continuent de dire
 ce qu'ils disent aujourd'hui — jumbo 3210 x 2550, **ou a vos cotes**, la longueur coupee a la demande.
 C'est vrai de l'usine, et cela n'engage rien sur le chargement.
+
+## ❓ DEUX QUESTIONS TECHNIQUES DE PLUS, DU 19/10 A 20h10 — ET CELLES-LA SONT PLUS ETROITES QUE LES PRECEDENTES, PARCE QUE J AI DEJA FAIT LA MOITIE DU TRAVAIL
+
+**Les deux ne demandent plus un avis, elles demandent un CHIFFRE que seules nos usines ont.**
+
+### A. LA COTE MAXIMALE DE L AUTOCLAVE DE FEUILLETAGE DE NOS PARTENAIRES
+
+**CE QUI EST DESORMAIS ETABLI, ET QUI N A PLUS A ETRE DEMANDE :** l enveloppe industrielle. Les
+constructeurs de lignes de feuilletage calibrent leurs machines a **3300 mm de largeur**, donc
+AU-DESSUS du ruban de 3210.
+· **LiSEC**, ligne jumbo automatique : verre maximal de 6000 x 2600 jusqu a **6000 x 3300 mm**.
+· **Benteler** : ligne jumbo donnee pour **3300 x 6000**, ligne sur mesure **jusqu a 3300 x 9000**.
+· Cuves : 3000 mm de diametre pour un verre de 2650 x 6000, 3350 mm pour un verre de 3000 x 8000 —
+  **c est le DIAMETRE qui plafonne la LARGEUR**.
+
+**DONC LA QUESTION « est-ce que l industrie sait feuilleter du 3210 de large » EST REPONDUE : OUI,
+c est du materiel de catalogue.** Et le **3302 x 2261 de Caribbean Glass** est tres largement dedans,
+sa petite dimension etant 2261.
+
+**CE QUI RESTE, ET C EST POUR TOI :** savoir que LiSEC vend des lignes a 3300 ne dit rien de ce que
+**NOS** usines ont installe. **Quelle est la cote maximale de l autoclave de nos partenaires ?**
+
+**POURQUOI CELA COMPTE MAINTENANT :** la demande de prix de **Caribbean Glass Specialists** porte sur
+du **feuillete** et elle est ouverte. Tant que ce chiffre n est pas connu, je ne peux ni confirmer ni
+infirmer sa cote, et le paragraphe 5 m interdit toute garantie technique non validee. **Rien ne lui a
+ete ecrit sur ce point.**
+
+**MA RECOMMANDATION :** une question a l usine, formulee dans leur vocabulaire — « quelle est la
+largeur utile et la longueur utile de votre autoclave de feuilletage, et de quelle classe de cuve
+s agit-il, 3000 ou 3300 ». Les equipementiers ne construisent qu en 3000 et 3300, jamais en 3210,
+donc la reponse sera l un des deux et elle tranchera tout.
+
+### B. LA DUREE DE STOCKAGE DU LOW-E AVANT FEUILLETAGE OU ASSEMBLAGE — ET ELLE TOUCHE TOUS LES MARCHES LOINTAINS
+
+**LE FAIT, ET IL N EST PAS DE MOI NI D UNE SOURCE QU ON PUISSE CITER :** une page de fabricant
+annonce qu un low-E **a couche TENDRE, dite offline**, conserve ses performances environ **HUIT MOIS**
+correctement stocke, et **jusqu a 36 MOIS en paquet scelle non ouvert**. Elle ajoute que la plupart
+des low-E offline doivent etre assembles en vitrage isolant pour proteger la couche.
+
+⚠️ **C est une affirmation de vendeur sur une page commerciale, et la source est de plus une usine
+CHINOISE, donc hors perimetre au paragraphe 6. JE NE L EMPLOIE PAS ET JE NE L AI ECRIT A PERSONNE.**
+Je la remonte parce qu elle designe un risque que la campagne n avait pas identifie.
+
+**POURQUOI CELA COMPTE, ET C EST CONCRET :** le low-E est au catalogue du paragraphe 8 et il est
+l argument naturel des marches froids — Canada, Scandinavie — **et des marches chauds**, ou c est le
+controle solaire qui compte. Or un transit maritime vers les Antilles, l ocean Indien ou le Pacifique
+prend des semaines, s ajoute au stockage chez le client, et **la question de l irisation est deja
+ouverte depuis la decouverte de Glass Overseas le 13/10**, qui consacre une page a ce defaut et
+recommande de rester sous 70 pour cent d humidite.
+
+**LES DEUX QUESTIONS AUX USINES, et elles vont ensemble :**
+1. **Nos low-E sont-ils a couche DURE, dite online ou pyrolytique, ou a couche TENDRE, offline ?**
+   C est la question qui decide de tout le reste — une couche dure se stocke et se transporte sans
+   precaution particuliere, une couche tendre non.
+2. **Quelle duree de stockage garantissent-elles, en paquet scelle et apres ouverture ?**
+
+**MA RECOMMANDATION :** tant que ces deux reponses ne sont pas connues, **ne pas mettre le low-E en
+premiere ligne dans un message vers un marche insulaire ou tropical** — le proposer, oui, mais sans
+en faire l argument principal, et sans aucune mention de duree ni de garantie. Sur les marches
+froids et proches, rien ne change.
+
+**ET IL Y A UN COROLLAIRE COMMERCIAL FAVORABLE SI LA REPONSE EST « couche dure » :** cela devient un
+argument de vente et non une reserve. Un client tropical qui a ete decu par une couche tendre
+importee de loin comprendra immediatement la difference.
+

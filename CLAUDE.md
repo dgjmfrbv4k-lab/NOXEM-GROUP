@@ -133,6 +133,32 @@ devant une cote reste la seule qui vaille : sa plus petite dimension tient-elle 
    la ligne. Elle ne concerne que le **feuilleté** : le 3302 × 2261 de Caribbean Glass en relève,
    le 3300 × 2140 de Rubex non, puisque c'est du float nu. Repère d'enveloppe industrielle : Green
    Glass annonce feuilleter jusqu'à 2,8 × 6 m.
+   **⚠️⚠️ RÉPONSE TROUVÉE LE 19/10 AU SOIR, ET ELLE EST FAVORABLE : L'AUTOCLAVE N'EST PAS LA
+   CONTRAINTE QUI NOUS GÊNE, PARCE QUE LES CONSTRUCTEURS DE LIGNES LES CALIBRENT À 3300 — DONC
+   AU-DESSUS DE 3210.** Cherchée par l'axe des procédés, sur les catalogues des équipementiers
+   plutôt que sur des pages de verriers :
+   · **LiSEC**, ligne de feuilletage jumbo entièrement automatique : cote de verre maximale de
+     **6000 × 2600 jusqu'à 6000 × 3300 mm**, plus long sur demande.
+   · **Benteler** : ligne jumbo donnée pour du **3300 × 6000 mm**, et ligne sur mesure **jusqu'à
+     3300 × 9000 mm**.
+   · Cuves d'autoclave : 3000 mm de diamètre intérieur et 6000 mm de longueur utile pour un verre
+     de 2650 × 6000 · 3350 mm de diamètre et 8000 mm de longueur pour un verre de 3000 × 8000.
+     **Et c'est le DIAMÈTRE de la cuve qui plafonne la LARGEUR du verre**, la feuille devant tenir
+     dans le diamètre avec son châssis et ses cales.
+   **CE QUE CELA ÉTABLIT, ET CE QUE CELA N'ÉTABLIT PAS — la distinction est tout, et c'est le §5 qui
+   l'impose.** C'est établi au niveau de l'**enveloppe industrielle** : une feuille feuilletée de
+   3210 de large entre dans une ligne jumbo de série, et le **3302 × 2261 de Caribbean Glass est
+   très largement dedans** puisque sa petite dimension est 2261. La question « est-ce que
+   l'industrie sait feuilleter ces cotes » est donc **répondue : oui, c'est du matériel de
+   catalogue.** Ce n'est **pas** établi pour **nos** usines partenaires : savoir que LiSEC vend des
+   lignes à 3300 ne dit rien de ce que les nôtres ont installé. **La question change donc de nature
+   et se rétrécit** — elle n'est plus technique mais **factuelle, et elle est pour Aaron** : quelle
+   est la cote maximale de l'autoclave de nos partenaires ? Portée dans `DECISIONS-AARON.md`.
+   **Et rien ne s'en écrit à un client dans l'intervalle** : le §5 interdit toute garantie technique
+   non validée, et un catalogue d'équipementier n'est pas une validation de notre capacité.
+   **Repère de vocabulaire utile au passage :** les équipementiers construisent en **3000 et
+   3300 mm** de largeur, jamais en 3210 — donc une cote de ruban de 3210 relève d'une **cuve de
+   classe 3300**, et c'est ainsi qu'il faut poser la question à un fabricant.
 **Donc : ne jamais annoncer un grand format PLF disponible tant qu'Aaron ne l'a pas dit — mais ne
 plus traiter une cote de ruban ordinaire comme un hors-format.** L'excès de prudence a coûté plus
 cher que l'inverse ici : il a fait passer deux demandes de prix fermes pour des dossiers
