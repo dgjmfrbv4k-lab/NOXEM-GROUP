@@ -15191,3 +15191,89 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 239. RGT Glass America — Rodriguez Glass and Tempering (Saddle Brook, New Jersey) — `Sales@glassrgt.com` — ANGLAIS — premier contact
+
+### PREPARE LE 10h22 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Passe au `grep-nom.py`**, qui normalise les separateurs depuis ce matin : `rgt glass` et
+  `rodriguez glass`, **ABSENTS des deux**.
+- **Adresse lue sur LEUR PROPRE page de contact**, `glassrgt.com`. Regle anti-rebond satisfaite.
+- **⚠️ BOITE DE LA COLONNE CLIENT DU §13**, et c est la **seule** qu ils publient. Precedent
+  **El Mayorista** : on l emploie en le sachant, et **le premier paragraphe demande la transmission
+  a qui achete** — ce que le §9 impose deja.
+- **⚠️⚠️ CLASSE VERRIER PUR, LA MEILLEURE DU §6 A 12,8 POUR CENT.** Vitrage isolant, trempe et
+  feuillete de securite, pour les entreprises de vitrerie, les concepteurs et les architectes.
+- **⚠️ REGLE PRODIESA A LA LETTRE** : isolant, trempe et feuillete **sortent** de l offre. Seul le
+  **substrat** y entre. C est l argument de fond du message et il n en a pas d autre.
+- **⚠️ CONTROLE DU §6 SUR LE NOM FAIT AVANT D OUVRIR LA FICHE** : trois lettres en tete de raison
+  sociale imposent de chercher le groupe. **RGT = Rodriguez Glass and Tempering**, affaire familiale
+  de troisieme generation. **Aucun rattachement a un producteur float.**
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent aux Etats-Unis. **Argument douanier seul.**
+- **Liens produit presents. Porte de sortie presente. Signature une seule fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for your furnace and your IG line - a second origin`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. I am writing to the address you publish, so if it lands on a
+sales desk, please pass it to whoever buys your raw sheet.
+
+I am writing to you rather than to a glazing contractor because of what you
+make: insulating units, tempered glass and laminated safety glass, for the
+glaziers, designers and architects of the metro area. Three generations of
+that is a lot of furnace hours, and a furnace only runs if sheet goes into
+it. Sheet by the load is the only thing I deal in.
+
+So let me be precise about what I am NOT offering. You temper, you laminate
+and you build sealed units - that is your work, not mine, and I have nothing
+to sell you there. What I am offering is what sits on the racks before your
+line starts:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties on Malaysia. European
+glass is named in neither order. That is a customs fact and nothing more. I
+am not quoting you a number in a first letter, and I am not claiming our
+glass is cheap. I am saying the comparison is not what it was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your tables are set up for is not a problem. We can put together
+an offer for delivery to your port of destination, subject to validation on
+our side. Newark is twenty minutes from Jefferson Avenue, which makes the
+inland leg close to nothing.
+
+What I need back is small: which thicknesses actually go through the furnace
+and into the units, what sheet size your cutting tables want, a rough annual
+volume with how often you buy, and the port.
+
+And the honest part. Three generations means a supplier who has earned the
+place, and I am not asking for it. I am asking to be the second name on the
+list, for the week the first one is short. If that is of no interest, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

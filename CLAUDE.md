@@ -570,6 +570,40 @@ hits = [c for c in R if 'prodiesa' in c[3].lower()]
 ```
   **Les noms déjà contaminés à ce jour, parce que le mandat les emploie comme noms de règle ou de
   leçon :** `prodiesa`, `shibaam`, `lahey`, `imporex`, `munnworks`, `vandaglas`, `glasscorp`, `vitro`.
+  **⚠️⚠️ DIXIÈME CAS LE 19/10 À 10h19, UNE HEURE APRÈS LE NEUVIÈME, ET IL FERME LA DERNIÈRE FAMILLE
+  DE SÉPARATEURS : LE TRAIT D'UNION. J'ai grepé `glaz tech`, puis `glaztech`, obtenu **ZÉRO aux
+  deux**, et dépensé un second temps complet sur **Glaz Tech Industries**. Le registre porte
+  **`Glaz-Tech`**, et aucun des deux tokens ne le voit.
+  **LA FICHE ÉTAIT DÉJÀ RELANCÉE LE 08/10**, avec `info@glaztech.com`, **et elle portait déjà mot pour
+  mot le verdict que l'appel venait de redécouvrir** — la plage de 3/32 à 3/4 de pouce lue du bon côté
+  de l'atelier. Un appel perdu, et c'est la troisième fois en cinq jours après Brocanelli et Maryland
+  Glass.
+  **LE §5 COUVRAIT DEUX SÉPARATEURS SUR TROIS.** La règle du 11/10 oppose `Alpha Glass` à
+  `Alphaglass`, donc l'**espace** et la **concaténation** ; celle du 15/10 ajoute que le token ne se
+  prend jamais dans une **URL**, qui concatène par construction. **Aucune des deux ne parle du trait
+  d'union**, qui est pourtant la forme que prennent la moitié des raisons sociales techniques —
+  Glaz-Tech, Flachglas Nord-Ost, Saint-Gobain, Wolff + Meier.
+  **ET LE REMÈDE N'EST PAS UNE TROISIÈME FORME À GREPER, C'EST DE SUPPRIMER LA QUESTION :** on compare
+  des chaînes **dont tout séparateur a été retiré des deux côtés**. `glaz tech`, `glaztech` et
+  `glaz-tech` deviennent alors le même token, et il n'y a plus de forme à deviner.
+```bash
+python3 campagne-conteneur-20-open-top/prospection/outils/grep-nom.py "Glaz Tech Industries" "Walter Stern"
+```
+  Il cherche sur le **champ raison sociale**, ce qui règle du même coup le neuvième cas ci-dessus, et
+  il imprime à part le comptage sur la ligne entière, à titre indicatif. **Vérifié dans les deux
+  sens** : il rend Glaz-Tech depuis les deux orthographes, et il reproduit la paire
+  `Alpha Glass` / `Alphaglass` qui avait coûté un troisième message.
+  **RÈGLE : devant un nom rendu par une recherche, on ne grepe plus à la main — on passe le nom au
+  script.** C'est la doctrine du §12 appliquée une fois de plus : quand une note voit ce que le code
+  ne voit pas, on répare le code. Ici c'était l'inverse, le code voyait ce que mon `grep` manquait,
+  et le remède est le même.
+  **ET LE MÊME APPEL A RENDU UN FAIT QUI SE GARDE, PARCE QU'IL CORRIGE UNE GÉOGRAPHIE :** la recherche
+  portait sur **Boston** et Glaz-Tech est à **Tucson**, avec neuf implantations dans le Sud-Ouest, les
+  Rocheuses et la Louisiane — **aucune en Nouvelle-Angleterre**. Le moteur l'a rendue sur une page
+  générique de négoce de verre plat. **C'est la leçon Arquetipo par un troisième chemin** : ce n'était
+  ni un portail ni un annuaire qui misclassait le pays, c'est le moteur de recherche lui-même qui a
+  misclassé l'État. Un fait de localisation lu dans un résumé de recherche n'est pas un fait, quelle
+  que soit la source qui le rend.
   **Et le coût évité est réel** : la même passe a montré qu'**Aluviacsa, Bode Vidrio, Indiglass et
   Vitromatic étaient déjà au registre**, soit quatre seconds temps économisés sur dix noms.
   **CE QUE CE CAS A COÛTÉ, ET CE QU'IL A ÉVITÉ, parce que les deux chiffres comptent :** la maison a reçu

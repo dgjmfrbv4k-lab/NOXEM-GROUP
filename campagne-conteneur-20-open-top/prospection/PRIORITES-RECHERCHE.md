@@ -1823,3 +1823,79 @@ Cardinal — **Guardian Kingsburg est a lui ajouter** quand l occasion se presen
 a tester **avant** d y croire ; et les gaps de **San Jose, Fresno et l Inland Empire**, qui n ont
 toujours aucune fiche. ⚠️ **Mais pas par recherche de ville** : Oakland a rendu zero ce matin, et ce
 sont les annuaires de fournisseurs qui ont rendu les trois fiches.
+
+---
+
+## NORD-EST DES ETATS-UNIS — CE QUI EST PRIS, CE QUI EST MORT, ET POURQUOI LA RECHERCHE LARGE N Y REND PLUS RIEN (19/10, 10h21)
+
+**Mesure de couverture faite gratuitement avant de depenser le premier appel**, par greps lus en
+lignes et non en nombres. Etat du bloc Nord-Est au 19/10 :
+
+| Zone | Fiches reelles | Dont vivantes |
+|---|---|---|
+| Etat de New York | 7 | 6 — GrayGlass fermee ce matin |
+| New Jersey | 3 | 3 — JTG, American Pro Glass, GGI |
+| Massachusetts | 3 | 3 — Karas and Karas envoyee le 15/10, Stuart et Prime a qualifier |
+| Connecticut | 2 | 2 — Glass Enterprises, Curved Glass Distributors |
+| **Rhode Island, New Hampshire, Vermont, Maine** | **0** | **0** |
+
+⚠️ **Le `providence` du premier comptage valait 5 et c etait du bruit SEYCHELLOIS en entier** —
+cinq fiches de Victoria et de Mahe, zone industrielle de Providence. Lu en lignes, pas en nombre,
+donc rien n a ete conclu de faux. C est exactement la regle du 15/10, et elle a servi du premier coup.
+
+### TROIS NOMS CHERCHES, TROIS VERDICTS, AUCUNE FICHE — a ne pas rechercher une seconde fois
+
+- **WALTER STERN, INC.** (Port Washington, NY) — **VERRE DE LABORATOIRE, HORS SUJET.** Leur propre
+  site les donne fournisseurs de **billes de verre, poires en caoutchouc et instruments en acier
+  inoxydable** pour le laboratoire, maison familiale de 1946. Un annuaire ajoute du borosilicate et
+  du sodo-calcique en verre de montre et en verre perfore. **C est le piege `vidraria` du §5 en
+  anglais** : `glassware` et verrerie de laboratoire ne designent jamais le verre plat de batiment.
+  ⚠️ Et un second annuaire le decrit en outilleur de coupe du verre, description que son propre
+  domaine dement — **la lecon Imporex, le portail identifie et ne qualifie pas.** Aucune fiche.
+
+- **CONSOLIDATED GLASS HOLDINGS (CGH)** (Pedricktown, New Jersey) — **EN FAILLITE, LIQUIDEE.**
+  C etait la meilleure piste du lot sur le papier : transformateur **et distributeur** de verre
+  architectural, implantations annoncees au New Jersey, dans le Massachusetts, le Connecticut, la
+  Virginie, la Pennsylvanie, l Alabama et le Texas — soit quatre Etats du Nord-Est d un coup.
+  **Chapitre 7 : la holding et ses filiales J.E. Berkowitz, Shaw Glass Holdings et Columbia
+  Commercial Building Products ont cesse leur activite.** Un communique anterieur donnait JEB en
+  pause et CCBP en liquidation. Son fonds la porte en **ancienne** participation. Aucune fiche.
+  ⚠️ **ET C EST LA LECON DE SOURCE DU LOT : l annuaire glassonweb portait l entree comme active,
+  avec des metadonnees vieilles de QUATRE ANS.** Un portail sectoriel ne dit pas seulement rien du
+  metier, **il ne dit rien non plus de l EXISTENCE** — et c est une faille de plus a la lecon
+  Imporex, qui ne couvrait que la qualification.
+
+- **GLAZ-TECH INDUSTRIES** — **DEJA AU REGISTRE, RELANCEE LE 08/10**, `info@glaztech.com`, et sa
+  fiche portait deja mot pour mot le verdict sur les epaisseurs que l appel a redecouvert.
+  ⚠️ **UN APPEL PERDU, ET LA CAUSE EST LE TRAIT D UNION** : j ai grepe `glaz tech` puis `glaztech`,
+  zero aux deux, et le registre porte `Glaz-Tech`. **Regle et outil ecrits dans le §5 du mandat le
+  jour meme**, `outils/grep-nom.py`, qui normalise les separateurs des deux cotes.
+  ⚠️ **ET ELLE N EST PAS A BOSTON MAIS A TUCSON**, avec neuf implantations du Sud-Ouest a la
+  Louisiane et **aucune en Nouvelle-Angleterre**. Le moteur l a rendue sur une recherche bostonienne
+  parce que sa page de negoce de verre plat est generique. **Lecon Arquetipo par un troisieme
+  chemin : ce n est plus un portail qui misclasse le pays, c est le moteur qui misclasse l Etat.**
+
+### CE QUE LA RECHERCHE BOSTONIENNE A RENDU, ET POURQUOI ELLE NE SE REFAIT PAS
+
+Sept noms, **un seul de la bonne classe** — et c etait Glaz-Tech, deja au registre. Tous les autres
+sont de la classe **verrier + pose**, a ZERO pour cent sur onze fiches : Boston Glass Group donnee
+*full-service glazing*, Arlmont Glass donnee *sales and installations*, Boston Glass and Boarding
+Service donnee en service de condamnation. **Karas and Karas, la seule vraie maison de negoce de
+Boston, est au registre et envoyee depuis le 15/10.**
+**Conclusion de methode, et elle confirme la mesure du 14/10 : la couche de negoce de la
+Nouvelle-Angleterre est MINCE, elle n est pas cachee.** Boston a un grossiste historique et des
+vitriers. Ce n est donc pas un marche a redecouvrir par un changement de source, c est un marche
+petit. **Ne pas y redepenser d appels de decouverte par ville.**
+
+### OU LE NORD-EST VAUT ENCORE UN APPEL
+
+1. **RGT Glass America** (Saddle Brook, New Jersey) — donnee fabricant de verre architectural
+   servant les entreprises de vitrerie, les concepteurs et les architectes. **Absente du registre**,
+   verifie au `grep-nom.py`. Second temps a faire sur son propre domaine, en etablissant d abord
+   **si le nom cache un rattachement a un groupe** — trois lettres en tete d une raison sociale sont
+   exactement le profil du §6 sur les fragments de marque.
+2. **Stuart Glass et Prime Glass and Mirror Watertown**, deja au registre en `A QUALIFIER`, et
+   **Buchholtz Glass** a Buffalo de meme. Trois seconds temps a faire **avant** toute decouverte
+   neuve : une fiche deja ouverte coute un appel, une fiche neuve en coute deux.
+3. **Rhode Island, New Hampshire, Vermont et Maine sont a zero**, mais ce sont quatre petits Etats
+   et la mesure bostonienne dit ce qu on y trouverait. **Dernier rang de priorite.**
