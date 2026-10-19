@@ -17632,3 +17632,104 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 265. CRLaredo Glass (Nuevo Laredo, Tamaulipas, et Laredo, Texas) — `ventas7@crlaredoglass.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 12h37 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Troisieme fiche du gisement AMEVEC.** Grep passe dans un **appel separe** : **ABSENT** — et le
+  meme appel a montre que **Crysmart etait deja au registre et ENVOYEE le 15/10**, un second temps
+  economise.
+- **⚠️ CLASSE DITE FRANCHEMENT** : leur gamme annoncee est escaliers, douches, dressings, fenetres,
+  portes et bords de piscine, donc **une part importante de detail et de pose** — la classe a zero
+  pour cent du §6. **Ce qui justifie la fiche est le mot *gros* et le fait qu ils trempent.**
+- **⚠️⚠️ UNE SOCIETE, DEUX PAYS, UN SEUL COMPTE.** Bureau a Nuevo Laredo et bureau a Laredo au
+  Texas, de part et d autre du Rio Grande. **Le critere du §12 n est pas le lien capitalistique mais
+  le bureau qui ACHETE** : une maison frontaliere avec un atelier d un cote et un comptoir de
+  l autre n a **qu un seul acheteur**. Un seul message, fiche sous le Mexique parce que c est la
+  qu est l atelier. **Ne pas ouvrir de fiche americaine sur ce nom.**
+- **Adresses sur LEUR PROPRE page de contact**, meme domaine. **Boites NUMEROTEES**, `ventas7` et
+  `ventas8`, donc vraisemblablement une par vendeur. Colonne client → precedent El Mayorista,
+  transmission demandee, et `ventas8` reste en second essai.
+- **⚠️ ADRESSE NOMINATIVE ECARTEE** : un prenom-nom circule sur leur page americaine et dans
+  l annuaire, **sans aucune fonction etablie**. Le §5 l interdit — cas Lahey, **quatrieme fois cette
+  semaine**.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️⚠️ INTERDIT MEXICAIN DU §6, ET IL EST PLUS IMPORTANT ICI QU AILLEURS** : **rien sur les
+  droits** — cette maison importe et vend **des deux cotes** de la frontiere, donc **elle connait la
+  douane mieux que nous**, et le §6 dit qu une erreur sur ce terrain ruine le message entier. Et
+  **jamais** l absence de production locale, Vitro produit.
+- **⚠️ LE PORT SE DEMANDE** : Nuevo Laredo est le premier poste frontalier terrestre du pays, mais
+  c est un marche **interieur** pour le conteneur maritime.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Lámina para su horno de Nuevo Laredo - un segundo origen`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Escribo a una de las direcciones de ventas que
+ustedes publican: si no es la mesa que compra la lamina, le agradeceria que
+la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador por dos cosas que dicen de si
+mismos. La primera es que templan. La segunda es que venden al mayoreo, y no
+solo al menudeo. Las dos significan lo mismo para mi: que entra lamina en
+cantidad, y lamina por contenedor completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado, los canceles
+de bano, los barandales, la instalacion: ese es su trabajo, no el mio, y ahi
+no tengo nada que venderle. Lo que le ofrezco es lo que entra antes de que el
+horno arranque:
+
+- vidrio float claro y extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo, para el lado de bano y closet
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+Y sobre aduanas no le voy a decir nada, por una razon sencilla: ustedes
+compran y venden a los dos lados de ese puente todos los dias, y saben de eso
+mucho mas que yo. Tampoco le voy a dar cifras en una primera carta. Le hablo
+solo de origen. Una casa que abastece dos mercados a la vez no se puede
+permitir que su lamina entre por una sola puerta.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun NIMF-15,
+cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se corta a
+pedido, de modo que la medida de stock para la que esta calibrado su horno no
+es un obstaculo. Podemos preparar una oferta para la entrega en su puerto de
+destino, sujeta a validacion por nuestra parte. Nuevo Laredo esta tierra
+adentro, asi que no voy a adivinar su puerto: digame cual usa ya su flete y
+trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores pasan por el horno, las
+medidas de lamina que piden sus mesas, un volumen anual aproximado con la
+frecuencia de compra, y ese puerto.
+
+Y la parte honesta. Una casa que surte dos paises tiene un proveedor que se
+gano el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre
+de la lista, para la semana en que el primero quede corto. Si eso no le
+interesa, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
