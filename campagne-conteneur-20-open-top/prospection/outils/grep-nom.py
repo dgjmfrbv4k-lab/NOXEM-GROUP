@@ -181,6 +181,25 @@ def sans_pluriel(s):
                    for m in SEPARATEURS.split(sans_accent(s.lower())) if m)
 
 
+# Mots generiques du metier, dans les quatre langues du registre plus le hongrois.
+# Un nom de societe COURT qui est un fragment de l un d eux n est pas distinctif : il
+# rapprocherait des dizaines de fiches sans rapport. Liste a completer EN LISANT le
+# groupe rendu, jamais en le supposant — meme consigne que MUTUALISES dans
+# detecte-doublons.py.
+MOTS_GENERIQUES = (
+    'aluminium', 'aluminum', 'aluminio', 'alumini',
+    'vidrio', 'vidros', 'vidraria', 'vidracaria', 'vidraceiro',
+    'vitre', 'vitrerie', 'vitrage', 'vitraria',
+    'glass', 'glas', 'verre', 'verrerie', 'sikuveg',
+    'cristal', 'cristales', 'espejo', 'espelho', 'mirror', 'miroir', 'tempered',
+)
+
+
+def generique(plat):
+    """Vrai si ce nom aplati est un fragment d un mot courant du metier."""
+    return any(plat in m for m in MOTS_GENERIQUES)
+
+
 def chercher(R, nom):
     """Rend les fiches dont la raison sociale correspond, separateurs ET acronymes."""
     cible = aplatir(nom)
@@ -199,7 +218,31 @@ def chercher(R, nom):
         # 09/10 — une societe se PUBLIE sous son nom court et se DEPOSE sous son nom
         # long — appliquee au code au lieu d etre seulement ecrite.
         # Le garde-fou de longueur evite qu un nom de deux lettres rende tout le registre.
-        if cible in plat or (len(plat) >= 6 and plat in cible):
+        # ⚠⚠ SEUIL ABAISSE DE 6 A 4 LE 19/10 AU SOIR, APRES UN DOUBLON QUE CE SEUIL-LA A
+        # LAISSE CREER. Je cherchais `Komo Glass` et le registre porte `KOMO` tout court :
+        # quatre caracteres, donc le garde-fou `len(plat) >= 6` ecartait la fiche et le
+        # script a repondu ABSENT. La comparaison etait deja symetrique depuis ce matin,
+        # c est sa BORNE qui etait fausse.
+        # CE QUE LE SEUIL DE 6 RENDAIT INVISIBLE : 20 raisons sociales du registre
+        # s aplatissent sous 6 caracteres, et ce sont de vrais noms distinctifs — KOMO,
+        # SAMIR, Gapex, Luvit, NASCO, Viseg, VIDSA, Iciza, SOJAG, ACMAK... ET SURTOUT
+        # `Rubex`, QUI EST UN COMPTE PROTEGE DU PARAGRAPHE 7 avec une demande de prix
+        # ouverte. Un `Rubex Glass Industries` rendu par une recherche aurait ete declare
+        # absent, et la fiche creee en double sur un compte en negociation.
+        # MESURE FAITE AVANT DE GARDER LE CORRECTIF, comme pour la lettre doublee et le
+        # pluriel, et comme le correctif d initiales qui avait ete REJETE pour 29 faux
+        # positifs : seuil 6 -> 99 rapprochements par inclusion inverse · seuil 4 NU ->
+        # 281, donc INUTILISABLE · seuil 4 + REGLE DU GENERIQUE -> 103, soit QUATRE
+        # signalements neufs dont UN vrai.
+        # POURQUOI LE SEUIL 4 NU EST INUTILISABLE, et c est la panne `SA Vidros` qui a
+        # rendu la premiere version de noyaux-voisins.py inexploitable : une seule fiche
+        # nommee `ALUM` est sous-chaine de TOUT nom en aluminium ou aluminio, et elle
+        # produisait a elle seule environ CENT CINQUANTE faux positifs. Meme chose pour
+        # `Idra`, qui vit dans vidraria et vidracaria, et pour `UVEG`, qui vit dans
+        # sikuveg. Le remede est celui que noyaux-voisins.py emploie deja : LE NOM COURT
+        # NE COMPTE QUE S IL N EST PAS UN FRAGMENT DE MOT GENERIQUE DU METIER.
+        court_utile = len(plat) >= 6 or (len(plat) >= 4 and not generique(plat))
+        if cible in plat or (court_utile and plat in cible):
             hits.append(c)
         # ⚠️ EGALITE ET NON SOUS-CHAINE. Premiere version du 19/10 : je cherchais les
         # initiales N IMPORTE OU dans le nom aplati, et la mesure a rendu 29 signalements

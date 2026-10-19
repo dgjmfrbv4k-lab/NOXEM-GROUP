@@ -989,6 +989,59 @@ hits = [c for c in R if re.search(r'\bdevidros\b', c[3], re.I)]   # rend 0 : abs
   Noelia ressort, et Glaz-Tech comme Alpha Glass/Alphaglass ne régressent pas.
   `sans_pluriel()` neutralise un `s` final sur chaque mot de plus de trois lettres, et la
   correspondance est rendue dans la section **approchée**, avec la lettre doublée.
+  **⚠️⚠️ SEIZIÈME CAS LE 19/10 AU SOIR, ET IL A RÉELLEMENT CRÉÉ LE DOUBLON : LE CODE ÉTAIT
+  SYMÉTRIQUE ET C'EST SA BORNE QUI ÉTAIT FAUSSE.** J'ai passé **`Komo Glass`** au script, obtenu
+  **ABSENT**, et créé la fiche. **Le registre portait `KOMO` tout court**, même domaine
+  `komo.com.au`, mêmes deux villes Adelaide et Melbourne, **et déjà envoyée le 09/10**.
+  **LA CAUSE EST PRÉCISE, ET ELLE N'EST NI UN OUBLI NI UNE MAUVAISE LECTURE :** la comparaison
+  inverse existait depuis le matin — `plat in cible`, pour le cas *Complete Line Glass* — mais elle
+  était gardée par `len(plat) >= 6`, un garde-fou posé contre un nom de deux lettres qui rendrait
+  tout le registre. **`komo` fait QUATRE caractères.** Le script a donc répondu ABSENT en toute
+  logique.
+  **⚠️ CE QUE LE SEUIL DE SIX RENDAIT INVISIBLE, ET C'EST BEAUCOUP PLUS GRAVE QUE KOMO : VINGT
+  RAISONS SOCIALES DU REGISTRE S'APLATISSENT SOUS SIX CARACTÈRES, ET L'UNE D'ELLES EST `RUBEX` —
+  UN COMPTE PROTÉGÉ DU §7, EN `DEMANDE DE PRIX — A CHIFFRER`.** Un *Rubex Glass Industries* rendu
+  par une recherche aurait été déclaré absent, et la fiche créée en double **sur un dossier de prix
+  ouvert en négociation**. Les autres : `SAMIR`, `Gapex`, `Luvit`, `NASCO`, `Viseg`, `VIDSA`,
+  `Iciza`, `SOJAG`, `ACMAK`, `GTAB`, `QXO`, `SIALA`, `Phi-co`, `SK ALU`, `ÜVEG`, `EBF`, `Idra`,
+  `ALUM`.
+  **MESURE FAITE AVANT DE GARDER LE CORRECTIF, comme pour la lettre doublée et le pluriel, et comme
+  le correctif d'initiales qui avait été REJETÉ pour 29 faux positifs :**
+  · seuil **6** → **99** rapprochements par inclusion inverse ;
+  · seuil **4 nu** → **281**, donc **INUTILISABLE** ;
+  · seuil **4 + règle du générique** → **103**, soit **quatre signalements neufs dont UN vrai**.
+  **POURQUOI LE SEUIL DE QUATRE NU EST INUTILISABLE, ET C'EST LA PANNE `SA VIDROS` QUI AVAIT RENDU
+  LA PREMIÈRE VERSION DE `noyaux-voisins.py` INEXPLOITABLE :** une seule fiche nommée **`ALUM`** est
+  sous-chaîne de **tout** nom en *aluminium*, *aluminum* ou *aluminio*, et elle produisait à elle
+  seule **environ cent cinquante** faux positifs. Même chose pour **`Idra`**, qui vit dans
+  *vidraria* et *vidraçaria*, et pour **`ÜVEG`**, qui vit dans *síküveg*.
+  **LE REMÈDE EST CELUI QUE `noyaux-voisins.py` EMPLOIE DÉJÀ, ET IL FALLAIT LE TRANSPOSER :
+  UN NOM COURT NE COMPTE QUE S'IL N'EST PAS UN FRAGMENT DE MOT GÉNÉRIQUE DU MÉTIER.** D'où une
+  liste `MOTS_GENERIQUES` dans les quatre langues du registre plus le hongrois — *aluminium*,
+  *vidrio*, *vidraçaria*, *vitrerie*, *glass*, *verrerie*, *síküveg*, *cristal*, *espejo*,
+  *mirror*, *tempered* — **à compléter en LISANT le groupe rendu, jamais en le supposant**, même
+  consigne que `MUTUALISES` dans `detecte-doublons.py`.
+  **ET LA RÈGLE DU TREIZIÈME CAS A ÉTÉ APPLIQUÉE CETTE FOIS, ce qui est le seul progrès réel :**
+  un correctif périme les sorties antérieures du même outil, donc **les 38 noms créés dans la
+  soirée ont été REGREPÉS avec l'outil réparé**. Résultat : **4 signalements, dont trois déjà lus
+  et tranchés le soir même** — `Eurovere`/`Eurover` sur deux continents, `Blackline`/`Bas Timmers`
+  en faux positif, `Vidrios y Aluminios del Sur`/`Aluminios del Sur` au Honduras — **et aucun autre
+  doublon créé.**
+  **ET CE QUI A RATTRAPÉ N'EST TOUJOURS PAS MOI, C'EST `detecte-doublons.py`**, passé après le lot
+  comme la règle du 14/10 l'impose : **12 groupes au lieu de 8, dans la minute.** Quatrième fois
+  après IGG, Dialum et AGI Mauritius. Fiche neutralisée, matière versée dans l'ancienne, **rien
+  n'est parti.**
+  **⚠️ ET LE MÊME BALAYAGE A RENDU UN SECOND GROUPE QUE JE N'AVAIS PAS CHERCHÉ, révélé par ma
+  propre écriture : `vidriosmillet.com.mx` réunissait `Millet Industria de Vidrio` et
+  `Espejos Millet Centro de Distribucion`.** Et la preuve de l'identité est une **coordonnée** et
+  non un nom, comme le §12 l'impose : **l'adresse de la seconde est le siège social légal que la
+  note de la première nomme depuis le 08/10**. Raison sociale du groupe : *M Industria S.A. de
+  C.V.*, membre de *M Grupo Industrial*. Un seul compte, la seconde neutralisée.
+  **Et deux aveux au titre du §16 sur ce cas-là :** mon second temps a dépensé un appel pour
+  « découvrir » la vente *al mayoreo por hojas* **qui était déjà écrite au registre sur l'autre
+  fiche** — faute Brocanelli une fois de plus ; et **j'ai écrasé le champ site**, qui portait
+  `millet.com.mx`, par `vidriosmillet.com.mx`. L'ancien est consigné dans la note et les deux
+  domaines se relisent caractère par caractère avant tout envoi.
   **ET LE MÊME APPEL A RENDU UN FAIT QUI SE GARDE, PARCE QU'IL CORRIGE UNE GÉOGRAPHIE :** la recherche
   portait sur **Boston** et Glaz-Tech est à **Tucson**, avec neuf implantations dans le Sud-Ouest, les
   Rocheuses et la Louisiane — **aucune en Nouvelle-Angleterre**. Le moteur l'a rendue sur une page
