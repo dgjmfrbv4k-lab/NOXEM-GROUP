@@ -1899,3 +1899,54 @@ petit. **Ne pas y redepenser d appels de decouverte par ville.**
    neuve : une fiche deja ouverte coute un appel, une fiche neuve en coute deux.
 3. **Rhode Island, New Hampshire, Vermont et Maine sont a zero**, mais ce sont quatre petits Etats
    et la mesure bostonienne dit ce qu on y trouverait. **Dernier rang de priorite.**
+
+---
+
+## PORTO RICO — TROIS APPELS, ZERO FICHE, ET C EST UN VERDICT DE MARCHE (19/10, 10h55)
+
+**Pourquoi le territoire avait ete choisi, et le raisonnement reste bon :** Porto Rico est dans le
+**territoire douanier des Etats-Unis**, donc les ordres antidumping du 06/04/2026 y valent — c est
+l argument le plus fort de la campagne. Et le registre n y portait que **quatre** fiches pour
+3,2 millions d habitants, toutes de l agglomeration de San Juan : Bayamon, Caguas, Guaynabo, San Juan.
+
+**CE QUE LES TROIS APPELS ONT RENDU, ET POURQUOI AUCUNE FICHE N EST CREEE.**
+
+· **`Caribbean Salesency`**, donnee par `vidrioperfil.com` pour *almacenista y comercial de vidrio
+  plano* : **LA SOCIETE N EXISTE PAS SOUS CE NOM.** Second temps fait sur le nom seul, rien. Les
+  voisins que la recherche rend a la place sont **Caribe Sales Agencies** (Guaynabo), qui distribue
+  du **materiel electrique et de construction** et non du verre plat, et **Caribbean Sales
+  Associates**, connue d un seul annuaire sans metier. C est la lecon **Vidraria Oriental** une
+  troisieme fois : le portail a IDENTIFIE un nom, il ne l a pas QUALIFIE, et ici le nom lui-meme
+  ne resout pas.
+· **`ADC Glass`**, donnee par le meme portail pour *importador y comercial de vidrio plano
+  monolitico y manufacturado* — c est-a-dire **exactement notre profil** : la fiche du portail ne
+  porte **ni telephone, ni adresse, ni courriel, ni personne**, et le second temps ne rend **aucun
+  domaine propre**. Le seul *ADC* que la recherche trouve est **ADC Global Tech, a Las Rozas, en
+  Espagne** — la leçon Arquetipo sur la geographie, une fois de plus.
+  **Nom consigne ici et NON cree en fiche** : une fiche sans aucune coordonnee ne promet rien et
+  gonfle le compte des *a appeler*, ce que le §12 mesure depuis le 11/10. **A rouvrir seulement si
+  une source permise lui donne une coordonnee.**
+
+**⚠️ ET LE CHIFFRE DU PORTAIL `vidrioperfil` S AGGRAVE : il etait de UN confirme sur SIX le 14/10,
+il passe a UN sur HUIT.** Les deux noms portoricains sont l un introuvable et l autre sans
+coordonnee. **Conduite : ce portail reste une source d IDENTIFICATION legitime, mais son rendement
+mesure est d environ 12 pour cent** — a employer quand il n y a rien d autre, jamais en premier.
+
+**CE QUE LA RECHERCHE A RENDU D AUTRE, ET QUI FERME LE MARCHE PLUTOT QUE DE L OUVRIR :** la couche
+verriere portoricaine restante est du **vitrage automobile** — Cano Auto Glass, Dr. Glass, Dacar
+Auto Glass — et de la **pose aluminium-verre**, AC Aluminum & Glass Services. Le vitrage automobile
+est hors gamme, il achete des pare-brise et non de la feuille. La pose est la classe a 3,6 pour cent.
+**Santurce Glass est deja au registre, ecartee en petite structure.**
+**DONC : les trois fiches portoricaines actives — JL Trading, Alum Glass Depot et San Juan Glass —
+SONT la couche de negoce de l ile, et elles sont toutes les trois deja contactees.** Ce n est pas
+un marche a decouvrir, c est un marche fait. **Ne pas y redepenser d appels.**
+
+**DEUX COURTIERS DE PLUS POUR `blocked_domains`, remontes dans ces memes recherches :**
+· **`internationaltradeinsights.com`**, qui publie des listes d *Alleged Importers* avec nom,
+  adresse, courriel et telephone du destinataire — c est mot pour mot la nature de Volza et de
+  Panjiva, donc meme interdit.
+· **`fastbase.com`**, qui vend des listes de societes par pays et par secteur — meme nature que
+  `dnb.com` et `emis.com`.
+**Et `trademo.com`, deja interdit depuis le 08/10, remontait en seconde position** sur une recherche
+d importateurs portoricains : la regle du 16/10 vaut ici aussi, **on les bloque AVANT la premiere
+requete sur un territoire neuf**, pas apres les avoir vus.
