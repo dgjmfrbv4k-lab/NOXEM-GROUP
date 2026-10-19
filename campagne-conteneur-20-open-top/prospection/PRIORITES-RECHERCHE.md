@@ -3170,3 +3170,62 @@ Integrite propre. `A APPELER` sans telephone : 0. `verif-argument-float.py` : 0 
 4. **Grands Etats americains sans federation** — New York, les Carolines, l'Arizona, le Nevada, la
    Louisiane, **et par un portail sectoriel et non par le moteur**, la Georgie, l'Ohio et la
    Pennsylvanie ayant ete mesurees fermees ce soir.
+
+---
+
+## 19/10 a 18h43 — ARIZONA, NEVADA ET LOUISIANE : VERDICT NEGATIF SUR LE PORTAIL, ET UNE CORRECTION DE COMMIT
+
+### 1. ⚠ `glassonweb` EST UN ANNUAIRE DE POSEURS DANS CES TROIS ETATS — un appel depense, verdict consigne
+Le portail avait ete mesure **productif** le 14/10 sur les Etats-Unis, le Canada et l'Australie, et il
+vient de rendre **Syracuse Glass, Triton Glass et Innovative Glass** sur New York et les Carolines.
+**Sur l'Arizona, le Nevada et la Louisiane il ne rend que la classe a 3,6 pour cent et pire :**
+- **Arizona Glass & Door** (Gilbert) — reparation, remplacement et **FILM de fenetre**. Famille
+  Ingesob, hors perimetre.
+- **nvision Glass** (Sparks, pres de Reno) et **Synergy Glass** (Mandeville) — **glazing**, devantures,
+  murs-rideaux, parois de douche. Classe a 3,6 pour cent, motif AGMA.
+- **Architectural Glass & Metal** (Baton Rouge) — le **`& Metal`** du nom suffit, c'est la regle du
+  filtre de federation du paragraphe 6 appliquee a une societe.
+- **Acme Glass and Mirror** (Monroe) — verre **automobile** et residentiel. Hors perimetre.
+**AUCUNE FICHE CREEE.** Et c'est la regle du 19/10 confirmee une fois de plus : **une source ne se
+mesure pas, ce sont ses PAGES qui se mesurent.** Le meme portail est bon sur un Etat et sterile sur le
+voisin, et le verdict ne se garde que pour la tranche sur laquelle il a ete mesure.
+
+### 2. La requete par VOCABULAIRE DE STOCK, en revanche, continue de payer
+C'est elle qui a rendu Syracuse Glass. Relancee sur `full case`, `by the case` et `half sheets`, elle
+rend surtout des noms **deja au registre** — Glass Enterprises, Glaz-Tech, Glasco, United Glass qui est
+notre propre client, Wholesale Glass Distributors dont le doublon INC contre LLC a ete traite ce matin —
+**ce qui est en soi la meilleure preuve que cette requete cible la bonne population.**
+Deux ecarts : **Ed Hoy's International**, fournisseur de verre d'**art** (famille Bullseye), et
+**Hexad Industries**, fabricant **chinois**, exclu par le paragraphe 6.
+
+### 3. ⚠⚠ ET LE CRITERE DE L'ENTREE D'ATELIER GAGNE SA QUATRIEME DIMENSION : L'ECHELLE DU FORMAT
+**Valleywide Glass** (Phoenix) publie des feuilles de stock recuites en **1/8 DS, 48 x 60 pouces**, et
+des chutes au pied carre. **Les deux termes du critère du 15/10 sont la, et le signal reste faible :
+48 x 60 pouces font 1219 x 1524 mm, soit le CINQUIEME d'un jumbo.**
+Les trois cas du 15/10 opposaient le **cote** du format, entree ou sortie. Celui-ci est du **bon** cote
+et reste hors sujet. **La question est donc double : de quel cote de l'atelier, ET a quelle echelle.**
+Repere chiffre ajoute au paragraphe 5 : **une grande dimension de 130 pouces ou de 3200 mm designe un
+acheteur de feuille** — Syracuse en 96 x 130, Torstenson en 84 x 130, Intervidro en 2200 x 3600. **En
+dessous de deux metres, c'est un comptoir.**
+
+### 4. ⚠ FAUX POSITIF DE GREP CONSIGNE DANS LA FICHE, POUR QU'ELLE NE SOIT PAS FERMEE PAR ERREUR
+`American Glass Coatings` (Eatontown, New Jersey) fait remonter **AGC Gedopt**, en Belgique, qui est en
+`NE PAS DEMARCHER` — parce que ses **initiales sont A G C** et que le correctif d'initiales du matin
+compare dans les deux sens. **Les deux maisons n'ont aucun rapport**, et c'est le meme mecanisme qui
+avait failli rapprocher Perfect Glass Ghana de PG Glass Botswana, donc des comptes proteges. Le
+signalement est un **vrai faux positif, a lire et a ne pas suivre**, et c'est desormais ecrit dans la
+fiche.
+
+### 5. ⚠⚠ CORRECTION D'UN CHIFFRE FAUX DANS UN MESSAGE DE COMMIT DEJA POUSSE
+Le commit precedent annonce **« Texte 306 redige pour Syracuse Glass »**. **Le texte porte le numero
+295.** J'avais substitue le nombre depuis `grep -c '^## '`, qui compte **306 titres de niveau 2** dans
+`TEXTES-PRETS.md`, alors que `verif-texte.py` compte **295 sections numerotees** — les deux ne mesurent
+pas la meme chose.
+**LE COMMIT RESTE FAUX DANS L'HISTORIQUE** et c'est ce paragraphe qui le dit.
+**ET LA LECON N'EST PAS CELLE DU PARAGRAPHE 13 SUR LES CHIFFRES TAPES, C'EST SA SUITE : le nombre ETAIT
+substitue, et il etait faux quand meme, parce que la COMMANDE mesurait autre chose que ce que la phrase
+affirmait.** C'est exactement la faute du fuseau de Brasilia du 14/10 — valeur substituee, formule
+fausse. **Donc : une substitution se verifie sur un cas connu avant de servir**, et ici le cas connu
+etait sous les yeux, puisque le texte venait d'etre ecrit sous le numero 295.
+**Controle a ajouter, il coute une seconde : le numero d'un texte se prend dans son propre titre**, par
+`grep -o '^## [0-9]*' TEXTES-PRETS.md | tail -1`, jamais dans un comptage de lignes.

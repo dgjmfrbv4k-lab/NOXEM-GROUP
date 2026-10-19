@@ -274,6 +274,21 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   `container load`, `half sheet`, `full sheet` · `à la caisse`, `feuille entière`, `demi-feuille`.
   **Et le pendant négatif se lit dans la même phrase** : une maison qui ne vend qu'**au mètre carré
   coupé** ou **à la pièce finie** le dit tout aussi volontiers, et c'est la sortie.
+  **⚠⚠ ET UN QUATRIÈME CAS LE MÊME SOIR AJOUTE LA DIMENSION QUI MANQUAIT AU CRITÈRE — LA TAILLE DU
+  FORMAT, ET PAS SEULEMENT SON CÔTÉ D'ATELIER. Cas VALLEYWIDE GLASS (Phoenix), et il satisfaisait le
+  critère à la lettre.** Leur page de gros publie des feuilles de stock recuites, nommément du **1/8 DS
+  en 48 × 60 pouces**, coupées sur place, et des **chutes vendues au pied carré**. Épaisseur **et**
+  format de feuille : les deux termes du 15/10 sont là, et le signal reste **faible**.
+  **Parce que 48 × 60 pouces font 1219 × 1524 mm, c'est-à-dire le CINQUIÈME d'un jumbo.** Une maison qui
+  tient cette cote et vend ses chutes au pied carré est un **comptoir de négoce local**, approvisionné
+  par un distributeur régional et non par conteneur.
+  **Les trois cas du 15/10 opposaient le côté du format — entrée ou sortie. Celui-ci est du bon côté et
+  reste hors sujet, donc la question est double : DE QUEL CÔTÉ DE L'ATELIER, ET À QUELLE ÉCHELLE.** Un
+  format d'entrée de 48 × 60 ne devient pas un conteneur.
+  **Le repère chiffré, et il est simple à appliquer : une cote de stock dont la grande dimension atteint
+  **130 pouces** ou **3200 mm** désigne un acheteur de feuille — c'est Syracuse Glass en 96 × 130,
+  Torstenson en 84 × 130 et Intervidro en 2200 × 3600. En dessous de 2 mètres, c'est un comptoir, et il
+  passe après tout le reste de son État.
   **⚠️ ET LA LEÇON S'ÉTEND AU PAYS, PAS SEULEMENT AU MÉTIER — deux cas de plus le 14/10 à 11h42.**
   · **Distribuidora Arquetipo** était classée sous le **Pérou** par le portail. Vérifiée : elle est
     **chilienne**, quatre succursales à Santiago, Antofagasta, Coquimbo et Talca. La fiche est créée, mais
