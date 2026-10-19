@@ -16357,3 +16357,112 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 252. Comercial Dialum S.A. - Dialum Cristales (Lampa, Santiago, et Concepción, Chili) — `contacto@dialum.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 12h05 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **PREMIERE FICHE DU FILON IGCC HORS DES ETATS-UNIS, et c est la trouvaille de methode du jour :
+  LA LISTE DES LICENCIES IGCC N EST PAS AMERICAINE, ELLE EST INTERNATIONALE.** Un seul appel y a
+  rendu des licencies au Canada, au Mexique, au Chili, en Colombie et au Bresil.
+- **⚠️⚠️ ET CETTE FICHE A COMMENCE PAR UN DOUBLON QUE J AI CREE, CONSIGNE ICI PLUTOT QU EFFACE.**
+  `grep-nom.py` **avait rendu** la fiche `Dialum Cristales`, creee le 15/10 depuis un portail, en
+  `A QUALIFIER` et sans coordonnees — **et j avais lance le grep et la creation dans la MEME
+  commande**, donc sa sortie etait illisible au moment de l ecriture. La fiche neuve est neutralisee,
+  la matiere versee dans l ancienne, et la regle est portee au §5 : **le controle et l ecriture ne
+  sont jamais dans la meme commande.**
+- **CE QUE LE FILON A APPORTE, ET C EST REEL** : la fiche du 15/10 etait `A ETABLIR` sur l activite
+  et sans aucune coordonnee. Elle est desormais **qualifiee par un organisme de certification**,
+  adressee, et datee. **Un licencie IGCC a son metier ATTESTE et non declare.**
+- **LES DEUX MEILLEURES CLASSES A LA FOIS** : distribution de cristaux **et** fabrication — usine de
+  DVH et de feuillete a Lampa depuis 2005, antenne a Concepcion.
+- **⚠️ ET LA MENTION GLAVERBEL DU 15/10 SE LIT MAINTENANT DANS LE BON CHAMP** : une marque dans une
+  **gamme** dit qu on **achete**. Le fragment `glaver` du §6 impose la **verification** avant
+  d ouvrir, pas la fermeture — verification faite, Dialum est **distributeur** et non detenue par
+  AGC. C est l inverse exact de Glaverpane.
+- **⚠️ TROIS PIEGES DE NOM ET DE DOMAINE LEVES.** Un, **`dalum.cl` est une AUTRE societe**, a La
+  Florida — **une seule lettre**, famille Lahey et `newSglassind`. Deux, des annuaires donnent des
+  adresses en **`.cl`** quand la societe publie en **`.com`**. Trois, une adresse **nominative**
+  circule en annuaire sans fonction etablie, le §5 l interdit. Seule `contacto@dialum.com`, publiee
+  par **leur propre site** et sur **le meme domaine**, est retenue.
+- **⚠️ LAMPA EST AUSSI LA COMMUNE DE PATAGONIA GLASS**, deja au registre. Societes differentes —
+  **verifie au balayage** sur le telephone et sur le domaine, pas suppose.
+- **REGLE PRODIESA** : **termopanel, DVH et feuillete sortent de l offre**, ils les fabriquent.
+  N entrent que le **substrat**.
+- **⚠️⚠️ DEUX INTERDITS DU §6 TENUS, ET LE PREMIER A DEJA COUTE UN MESSAGE SUR CE PAYS.** Un, **ne
+  jamais ecrire qu il n y a pas de production locale au Chili** — Vidrios Lirquen produit a Penco,
+  c est la faute Forpec. Deux, **rien sur les droits de douane** : aucune mesure chilienne n est
+  etablie, et le §6 interdit d affirmer qu un pays taxe sans avoir lu sa source. **L angle est
+  l origine et la seconde source, et rien d autre.**
+- **Ports de San Antonio et Valparaiso.**
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Chili.
+
+**Objet :** `Sustrato para sus lineas - un segundo origen desde Europa`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Si esta no es la mesa que compra el vidrio en
+lamina, le agradeceria que la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador por lo que son: distribuidores de
+cristales y, al mismo tiempo, fabricantes - planta de termopanel y de
+laminado en Lampa desde 2005, mas la sucursal de Concepcion. Las dos mitades
+del negocio viven de lo mismo: lamina recocida sobre un caballete. Lamina por
+contenedor completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El termopanel, el DVH, el
+laminado, el sellado: ese es su trabajo, no el mio, y ahi no tengo nada que
+venderle. Lo que le ofrezco es lo que esta en el caballete antes de que su
+linea arranque:
+
+- vidrio float claro y extra-claro, la base de ambas mitades del negocio
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, que todo termopanel consume
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- espejo sin cobre ni plomo, que un distribuidor vende y no fabrica
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+No le voy a dar cifras ni hablar de aranceles en una primera carta. Le hablo
+de origen. Hoy su lamina llega de un numero muy corto de origenes, y el mes
+en que uno de ellos se atrasa es el mes en que su horno y su linea de
+termopanel esperan. Un segundo origen europeo no es un cambio de proveedor:
+es una segunda puerta.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se
+corta a pedido, de modo que la medida de stock para la que estan calibradas
+sus mesas no es un obstaculo. Podemos preparar una oferta para la entrega en
+su puerto de destino, sujeta a validacion por nuestra parte. San Antonio o
+Valparaiso, segun lo que ya usen.
+
+Lo que necesito de vuelta es poco: que espesores salen efectivamente del
+stock, que capas low-E trabajan, las medidas de lamina que piden sus mesas,
+un volumen anual aproximado con la frecuencia de compra, y el puerto.
+
+Y la parte honesta. Una casa que lleva mas de veinte anos en este oficio
+tiene un proveedor que se gano el puesto, y no le pido que lo reemplace. Le
+pido ser el segundo nombre de la lista, para la semana en que el primero
+quede corto. Si eso no le interesa, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

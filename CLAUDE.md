@@ -614,6 +614,28 @@ hits = [c for c in R if 'prodiesa' in c[3].lower()]
   tranche** — domaine, téléphone ou rue — exactement comme pour SOFAVI et American Flat Glass.
   **Trois cas d'acronyme dans la même matinée en font une famille : `IGG`, `AGNORA`, et `RGT` pour
   *Rodriguez Glass and Tempering*.**
+  **⚠️⚠️ DOUZIÈME CAS LE 19/10 À 12h05, ET IL A CRÉÉ LE DOUBLON POUR UNE RAISON QUE LES ONZE AUTRES
+  N'ONT JAMAIS EUE : LE `grep` AVAIT RAISON, IL AVAIT RENDU LA FICHE, ET SA SORTIE ÉTAIT ILLISIBLE AU
+  MOMENT OÙ J'ÉCRIVAIS.** J'ai passé `Dialum` — le mot le plus court distinctif, exactement comme la
+  règle l'impose — au `grep-nom.py`, et **il a rendu la ligne chilienne `Dialum Cristales`**, créée
+  le 15/10 depuis un portail, en `A QUALIFIER` et sans aucune coordonnée. **C'est la même société :**
+  le portail l'avait nommée court, le nom légal est *Comercial Dialum S.A.* J'ai créé la fiche quand
+  même.
+  **LA CAUSE N'EST NI UN `grep` OUBLIÉ NI UN `grep` MAL LU — C'EST UN `grep` ET UNE CRÉATION LANCÉS DANS
+  LA MÊME COMMANDE DE SHELL.** Le script de création tournait dans le même appel que le contrôle, donc
+  **sa sortie ne pouvait pas être lue avant l'écriture**, et l'`assert` d'unicité de nom a laissé
+  passer puisque `Comercial Dialum S.A.` n'est pas `Dialum Cristales`.
+  **RÈGLE : LE CONTRÔLE ET L'ÉCRITURE NE SONT JAMAIS DANS LA MÊME COMMANDE.** On lance le `grep`, **on
+  lit sa sortie**, puis on crée. C'est la règle du 15/10 — *la sortie du contrôle se lit en entier
+  avant de dépenser le premier appel* — étendue de l'appel de recherche à **l'écriture au registre** :
+  grouper les deux pour gagner un aller-retour ne gagne rien, cela aveugle le contrôle qu'on vient de
+  lancer.
+  **ET `detecte-doublons.py` N'AURAIT PAS RATTRAPÉ CELUI-LÀ, ce qui est la seconde moitié de la
+  leçon :** les deux noms sont différents, et l'ancienne fiche n'avait **ni domaine, ni adresse, ni
+  téléphone** — donc aucun des cinq signaux. C'est exactement la fiche *née d'un annuaire sans site,
+  sans adresse et sans téléphone* que le §5 décrit comme **invisible aux quatre signaux**. Sur ce
+  genre de fiche, **la lecture de la sortie du `grep` est le SEUL garde-fou qui existe.** Fiche
+  neutralisée dans la minute, matière versée dans l'ancienne, rien n'est parti.
   **⚠️⚠️ DIXIÈME CAS LE 19/10 À 10h19, UNE HEURE APRÈS LE NEUVIÈME, ET IL FERME LA DERNIÈRE FAMILLE
   DE SÉPARATEURS : LE TRAIT D'UNION. J'ai grepé `glaz tech`, puis `glaztech`, obtenu **ZÉRO aux
   deux**, et dépensé un second temps complet sur **Glaz Tech Industries**. Le registre porte
