@@ -2088,3 +2088,20 @@ peut donc y figurer sous son propre nom, et son adresse y vieillir.
 **CONDUITE : la ville ne se porte au registre qu apres le second temps sur le domaine de la
 societe.** Avant cela elle se note comme indicative, jamais comme etablie — et surtout elle ne sert
 pas a formuler la requete du premier temps, ou elle fait perdre l appel.
+
+### ⚠️ VERDICT HEHR GLASS — AUCUNE FICHE, ET LE NOM NE SE RECHERCHE PLUS (19/10 a 12h18)
+
+Le nom figurait a mon releve de la liste IGCC comme *Hehr Glass, Pomona, Californie*. **Trois faits
+le ferment, et aucun des trois n est une question de coordonnees :**
+1. **L activite de Pomona est le produit pour VEHICULES DE LOISIRS**, pas le vitrage de batiment.
+2. **L usine du Michigan, a Chesaning, est portee FERMEE** par un relevé cartographique.
+3. **Et le motif qui decide : la branche vitrage a ete rachetee en 2018 par LIPPERT COMPONENTS**,
+   groupe d equipements de caravane. ⚠️ Le fait vient d un site de fusions-acquisitions, donc il
+   n est **pas etabli** au sens du paragraphe 5 — **mais il suffit a ne PAS ouvrir la fiche**,
+   exactement comme RY Glass Imports le 14/10 et Midwest Glass Fabricators le 19/10 au matin.
+
+**C est le troisieme nom de cette liste ferme par un RACHAT, et cela fait une regle plutot qu une
+coincidence** : apres Midwest Glass Fabricators passee a Oldcastle et Glass + Mirror Craft qui est
+une division de Glass + Metal Craft, **une liste de certification fige le nom et l adresse du SITE
+au jour de l essai**. Sur cette source, le reflexe n est donc pas seulement de greper le nom, c est
+de **chercher le groupe**.

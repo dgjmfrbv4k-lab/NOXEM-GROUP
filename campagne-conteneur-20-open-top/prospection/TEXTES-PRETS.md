@@ -16975,3 +16975,94 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 258. A3 Glass Fabricator (Houston, Texas) — `sales@a3glassfabricator.com` — ANGLAIS — premier contact
+
+### PREPARE LE 12h18 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Grep du nom passe dans un appel SEPARE** de la creation : **ABSENT**. Domaine, telephone et rue
+  grepes a part : rien non plus.
+- **FACONNEUR PUR**, meilleure classe du §6, et **la liste de leurs procedes internes est longue** :
+  trempe, feuilletage, couche, decoupe, percage, meulage, polissage de chant, sablage, decoupe de
+  formes, biseautage, plus une ligne de vitrage isolant. **Tout cela dans un seul atelier** veut
+  dire un volume de feuille entrante consequent.
+- **⚠️⚠️ UNE CONTRADICTION QUI NE DOIT PAS ETRE REPETEE.** Ils annoncent **la seule** ligne de
+  vitrage isolant entierement automatisee des Etats-Unis — et **Blue Star Architectural Glass**,
+  fiche creee ce matin, annonce **exactement la meme chose** pour Dallas. **Les deux ne peuvent pas
+  etre vraies ensemble.** Ce sont des arguments de vente, aucun n est verifie, et **ni l un ni
+  l autre n est repris dans un message** : c est le genre de detail qu un acheteur texan connait
+  mieux que nous, et le §6 dit qu une erreur sur ce terrain ruine le message entier.
+- **Adresse sur LEUR PROPRE site**, meme domaine. Anti-rebond satisfaite. **Colonne client**, aucune
+  boite fournisseur publiee → precedent El Mayorista, transmission demandee au premier paragraphe.
+- **⚠️ RESERVE DE FRAICHEUR** : plusieurs de leurs pages ont plus d un an.
+- **REGLE PRODIESA** : trempe, feuilletage, couche et vitrage isolant **sortent** de l offre.
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul.**
+- **Port de Houston**, a trente kilometres.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for Windfern Road - a second origin out of Europe`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. You publish a sales address, so if this lands on a selling desk,
+please pass it to whoever buys your sheet.
+
+I am writing to you rather than to a glazing contractor because of how much
+of the work you keep in house. Tempering, lamination, coating, cutting,
+drilling, grinding, edge polishing, sandblasting, shape cutting, bevelling,
+and an insulating line on top. That is a long list for one roof, and every
+item on it starts with the same thing: annealed sheet on a rack. Sheet by the
+load is the only thing I deal in.
+
+So let me be precise about what I am NOT offering. All ten of those processes
+are your work, not mine, and I have nothing to sell you there. What I am
+offering is what goes in before the first of them:
+
+- clear and extra-clear float glass, the base of the whole shop
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass for the insulating side
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties from 17.3 to 102 percent
+on Malaysia. European glass is named in neither order. That is a customs fact
+and nothing more. I am not quoting you a number in a first letter, and I am
+not claiming our glass is cheap. I am saying the comparison is not what it
+was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your tables are set up for is not an obstacle. We can put together
+an offer for delivery to your port of destination, subject to validation on
+our side. Houston, thirty kilometres from Windfern Road, which is about as
+short as the last leg ever gets.
+
+What I need back is small: which thicknesses and coatings actually run
+through the shop, the sheet sizes your tables want, a rough annual volume
+with how often you buy, and the port.
+
+And the honest part. A shop that does ten processes in house has a supplier
+who earned the place, and I am not asking to replace him. I am asking to be
+the second name on the list, for the week the first one is short - and with
+ten processes downstream, that week costs you more than it costs most. If
+that is of no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
