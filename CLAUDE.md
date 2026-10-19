@@ -3480,6 +3480,18 @@ python3 campagne-conteneur-20-open-top/prospection/outils/candidats-deverrouilla
   Conséquences pratiques, à intégrer à la conduite des journées :
   · **La méthode en deux temps coûte deux appels par fiche**, parfois trois avec une relance de
     requête. Le plafond représente donc de l'ordre de **70 à 90 fiches par tour**, pas plus.
+  · **⚠⚠ ET LA SEULE MÉTHODE QUI RENDE DES FICHES À ZÉRO APPEL EST LE CONSIGNEMENT DES NOMS ÉCARTÉS
+    DANS LA NOTE D'UNE FICHE VOISINE — mesurée le 19/10 au soir, et c'est le meilleur rendement de la
+    journée.** La note de **Vidrios & Vitrolit**, écrite le 15/10, portait *« noms du même relevé
+    consignés ici pour ne pas les rechercher deux fois »* et **triait même l'ordre de reprise** — négoce
+    d'abord, verriers ensuite. **Quatre jours plus tard, cinq fiches colombiennes en sont sorties sans
+    redépenser un seul appel** : Jose Trento Vidrios, Heralba, Arista, Seblico et Cobre y Vidrio.
+    **Cinq fiches pour zéro appel, contre deux appels par fiche à la méthode classique.**
+    **Donc : un relevé de recherche ne se jette JAMAIS à la fin d'un lot.** Les noms qu'on n'a pas eu le
+    budget de travailler, et même ceux qu'on écarte, s'écrivent dans la note de la fiche du même relevé,
+    **avec leur métier déclaré et l'ordre de reprise**. C'est ce qui transforme un budget dépensé en
+    réserve, et c'est aussi ce qui évite de repayer la même recherche — le pendant exact de la règle du
+    verdict consigné qui a fait naître `candidats-deverrouillage.py`.
   · **Donc trier AVANT de chercher, et non l'inverse.** Le filtre à trois conditions du §13 et le
     tri par valeur commerciale ne sont pas du confort : ils décident ce qui rentre dans le budget.
   · **Et toujours finir le second temps d'une fiche avant d'ouvrir la suivante.** Le 08/10 deux
