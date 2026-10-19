@@ -299,6 +299,19 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   théorique : le pays décide du fuseau d'envoi, du port cité dans le message, de la langue, et surtout des
   **interdits du §6** — écrire à une maison chilienne les arguments douaniers péruviens serait faux deux
   fois.
+  **⚠⚠ ET CE N'EST PLUS UN ACCIDENT, C'EST UN BIAIS MESURÉ — AU 19/10 AU SOIR, TROIS MAISONS CHILIENNES
+  ONT ÉTÉ RANGÉES SOUS LE PÉROU PAR CETTE FAMILLE DE SOURCES.** Après **Distribuidora Arquetipo** le
+  14/10, deux noms donnés péruviens par un relevé du 15/10 se sont révélés déjà au registre **sous le
+  Chili** : **Dialum Cristales**, dont le nom légal est *Comercial Dialum S.A.* à Lampa, et **Vidrios El
+  Castillo**. Avec **VILUX**, donnée sous le Pérou puis sous le Mexique alors que la seule fiche réelle
+  est **paraguayenne**, cela fait **quatre attributions fausses pour un seul portail**.
+  **DONC : LA RUBRIQUE PÉRUVIENNE DE CE PORTAIL EST CONTAMINÉE DE SOCIÉTÉS CHILIENNES, et un nom qu'elle
+  rend a son pays à ÉTABLIR au même titre que son métier.** Les cinq fiches créées depuis ce relevé le
+  portent en toutes lettres dans leur champ ville : *à établir — PAYS À VÉRIFIER*.
+  **Et le coût du doute est précisément celui que le paragraphe ci-dessus annonce : l'argument de
+  l'absence de production locale est VRAI au Pérou, qui n'a pas de four float, et FAUX au Chili, où
+  Vidrios Lirquén produit.** Donc sur une fiche de pays douteux, **cet argument ne s'emploie pas du
+  tout** — c'est la seule conduite qui ne se trompe dans aucun des deux sens.
   **ET LE MÊME RELEVÉ PÉRUVIEN PORTAIT DEUX COLLISIONS DE NOM QU'IL A FALLU REFUSER DE CRÉER :** un *VILUX
   S.A.* péruvien décrit comme *ex Vidriocar*, ce qui est mot pour mot la description de **VILUX S.A. au
   Paraguay**, déjà contactée le 09/10 ; et un *PRODIESA* péruvien donné comme *Productora y Distribuidora de
