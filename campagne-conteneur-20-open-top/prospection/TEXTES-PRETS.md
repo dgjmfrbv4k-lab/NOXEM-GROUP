@@ -19911,3 +19911,267 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 288. US Glass Tempering (San Leandro, California) — `sales@usglasstemp.com` — ANGLAIS — premier contact
+
+### PREPARE LE 14h53 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Trouvee par la liste SGCC**, en cherchant l axe des industries qui ne s appellent pas verre. Grep
+  passe dans un appel **separe** de l ecriture : **absente**.
+- **TREMPEUR**, meilleure classe du §6 a 12,8 pour cent. **Deux sites**, Californie et Nevada.
+- **⚠️ L ANGLE EST LE PORT, ET IL EST RARE DANS CE REGISTRE :** San Leandro est dans la baie de San
+  Francisco, **a une demi-heure d Oakland**. **Toutes les fiches travaillees aujourd hui etaient a
+  l interieur** — Bogota, Maringa, Alfenas, Contagem, San Juan del Rio — et sur chacune le texte
+  devait concéder le fret terrestre. **Ici il n y en a pas, et c est l argument qui ouvre le
+  message.**
+- **⚠️ `sales@` EST COTE CLIENT** au tableau du §13, et c est la **seule** boite publiee : employee
+  faute de mieux, precedent El Mayorista, **avec demande de transmission en premier paragraphe**.
+- **⚠️ COLLISION DE NOM LEVEE : `US Glass Tempering` n est PAS `US Tempering LLC`** du Queens, creee
+  dans le meme lot. Deux maisons, deux cotes du pays, deux domaines. **Le rapprochement est dans les
+  deux fiches.**
+- **⚠️ ARGUMENT DU §6 A SA PORTEE EXACTE**, et **jamais** l absence de production locale aux
+  Etats-Unis — Vitro y produit et Cardinal exploite sept sites float.
+- **REGLE PRODIESA** : le trempe **sort** de l offre. **Liens produit presents. Porte de sortie
+  presente. Formule imposee presente. Signature une seule fois.** Jour ouvre verifie — le 19/10 est
+  un lundi, le Columbus Day du 12/10 est passe.
+
+**Objet :** `Float through Oakland, for a furnace half an hour from the terminal`
+
+```
+Good morning,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quote. If you are not the person who buys the glass, I would be grateful if you
+would forward it to whoever does.
+
+I am writing to you because of where you are. Most of the letters I send have
+to concede inland freight somewhere in the second paragraph. Yours does not:
+San Leandro is half an hour from the Port of Oakland, and a container of sheet
+that clears there is on your floor the same day. For a tempering plant, that is
+not a detail - it is the difference between an import being a plan and an
+import being a nuisance.
+
+Sheet glass in full containers is the only thing I sell.
+
+Let me be clear about what I am NOT offering. Tempering and fabrication are
+your trade, not mine, and I have nothing to sell you there. What I offer is
+what goes in before the furnace:
+
+- clear and extra-clear float glass, the base product
+  https://noxemgroup.com/en/float-glass/
+- low-emissivity glass, low-E, if you temper coated
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier to see it in one place
+  https://noxemgroup.com/en/catalog/
+
+On timing, and with the measure stated exactly: since the antidumping and
+countervailing orders of 6 April 2026, Chinese float carries a 181.52 percent
+antidumping rate for the country-wide entity, and Malaysian float carries
+countervailing duties ranging from 17.3 to 102 percent depending on the
+exporter. Europe is named in neither. I am not telling you our glass is cheap
+and I am not giving you numbers in a first letter. I am telling you the
+comparison moved.
+
+We ship FULL CONTAINERS, in heat-treated timber cases to ISPM-15, cut TO YOUR
+SIZES, or in jumbo at 3210 x 2550 mm - the length is cut to order, so whatever
+stock size your tables are set up for is not an obstacle. We can prepare an
+offer for delivery to your port of destination, subject to validation on our
+side.
+
+What I need back is small: which thicknesses run through your furnace, whether
+you temper coated glass and which coatings, the sheet sizes your tables call
+for, an approximate annual volume with your buying frequency, and the port you
+currently clear imports through.
+
+And the honest part. A plant with two locations already has a supplier who
+earned the place, and I am not asking you to replace him. I am asking to be the
+second name on the list, qualified in advance, for the month the first one runs
+short - an idle furnace is the most expensive thing in the building. If you are
+committed to your current supply, say so plainly and I will not push.
+
+Best regards,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+## 289. US Tempering LLC (Maspeth, Queens, New York) — `sales@ustempering.com` — ANGLAIS — premier contact
+
+### PREPARE LE 14h53 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Trouvee par la liste SGCC.** Grep passe dans un appel **separe** de l ecriture : **absente**.
+- **TREMPEUR**, meilleure classe du §6.
+- **⚠️⚠️ ET C EST LA MEILLEURE LOCALISATION DE TOUT LE REGISTRE POUR CETTE CAMPAGNE :** Maspeth est
+  dans le Queens, **a quelques kilometres du port de New York et du New Jersey**, premier port de la
+  cote Est. **Post-acheminement quasi nul.** Le texte en fait sa premiere ligne — et c est un fait
+  geographique, pas une flatterie, donc le point 2 du §9 est tenu.
+- **⚠️ `sales@` EST COTE CLIENT** au §13 et c est la seule boite publiee : faute de mieux, avec
+  demande de transmission.
+- **⚠️ COLLISION DE NOM LEVEE : `US Tempering LLC` n est PAS `US Glass Tempering`** de Californie,
+  creee dans le meme lot.
+- **⚠️ ARGUMENT DU §6 A SA PORTEE EXACTE**, et **jamais** l absence de production locale aux
+  Etats-Unis.
+- **REGLE PRODIESA** appliquee. **Liens, porte de sortie, formule imposee, signature une fois.** Jour
+  ouvre verifie.
+
+**Objet :** `A container of float, a few miles from the terminal that lands it`
+
+```
+Good morning,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quote. If you are not the person who buys the glass, I would be grateful if you
+would forward it to whoever does.
+
+I am writing to you because of your address. I spend most of my letters
+explaining how a container gets from a port to a plant. With Maspeth there is
+almost nothing to explain: you are a few miles from the Port of New York and
+New Jersey. Of every tempering plant I have looked at this year, yours is the
+one for which an imported container is the least complicated thing in the
+world.
+
+Sheet glass in full containers is the only thing I sell.
+
+Let me be clear about what I am NOT offering. Tempering and fabrication are
+your trade, not mine, and I have nothing to sell you there. What I offer is
+what goes in before the furnace:
+
+- clear and extra-clear float glass, the base product
+  https://noxemgroup.com/en/float-glass/
+- low-emissivity glass, low-E, if you temper coated
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier to see it in one place
+  https://noxemgroup.com/en/catalog/
+
+On timing, and with the measure stated exactly: since the antidumping and
+countervailing orders of 6 April 2026, Chinese float carries a 181.52 percent
+antidumping rate for the country-wide entity, and Malaysian float carries
+countervailing duties ranging from 17.3 to 102 percent depending on the
+exporter. Europe is named in neither. I am not telling you our glass is cheap
+and I am not giving you numbers in a first letter. I am telling you the
+comparison moved.
+
+We ship FULL CONTAINERS, in heat-treated timber cases to ISPM-15, cut TO YOUR
+SIZES, or in jumbo at 3210 x 2550 mm - the length is cut to order, so whatever
+stock size your tables are set up for is not an obstacle. We can prepare an
+offer for delivery to your port of destination, subject to validation on our
+side.
+
+What I need back is small: which thicknesses run through your furnace, whether
+you temper coated glass and which coatings, the sheet sizes your tables call
+for, an approximate annual volume with your buying frequency, and the port you
+currently clear imports through.
+
+And the honest part. You already have a supplier who earned the place, and I am
+not asking you to replace him. I am asking to be the second name on the list,
+qualified in advance, for the month the first one runs short - an idle furnace
+is the most expensive thing in the building. If you are committed to your
+current supply, say so plainly and I will not push.
+
+Best regards,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+## 290. Glassfab Tempering Services Inc. (Tracy et Fremont, Californie) — `info@glassfabusa.com` — ANGLAIS — premier contact
+
+### PREPARE LE 14h53 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Trouvee par la liste SGCC.** Grep passe dans un appel **separe** de l ecriture : **absente**.
+- **TREMPEUR**, meilleure classe du §6. **Deux sites californiens.**
+- **⚠️ L ANGLE EST DANS LEUR NOM : `TEMPERING SERVICES`, c est-a-dire de la trempe A FACON pour des
+  tiers.** C est le profil `maquila` de Laminados y Blindados a Bogota, et c est l argument le plus
+  fort du metier : **qui fait tourner sa ligne pour d autres a un taux d occupation qui EST son
+  modele economique**, donc une rupture d entrant ne coute pas une vente mais le contrat d un client.
+- **⚠️ `info@` EST UNE BOITE GENERALE** et non une boite de vente : **meilleure que celles des deux
+  autres fiches du lot**, et c est note dans la fiche.
+- **⚠️ COLLISION DE NOM LEVEE : `Glassfab Tempering Services` de Tracy n est PAS `Glassfab Canada`**,
+  qui est au registre a Aldergrove en Colombie-Britannique en `A QUALIFIER`. Meme mot, deux pays,
+  domaines differents, **aucun lien etabli** — le §12 tranche sur le siege, jamais sur le nom.
+- **⚠️ Tracy est dans la vallee centrale, a environ une heure d Oakland**, et Fremont est dans la
+  baie : **acceptable, et le texte ne pretend pas mieux** — c est moins bon que Maspeth et le texte
+  ne s en sert donc pas comme argument.
+- **⚠️ ARGUMENT DU §6 A SA PORTEE EXACTE**, et **jamais** l absence de production locale aux
+  Etats-Unis. **REGLE PRODIESA** appliquee. **Liens, porte de sortie, formule imposee, signature une
+  fois.** Jour ouvre verifie.
+
+**Objet :** `For a line that tempers on contract, the sheet cannot be late`
+
+```
+Good morning,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quote. If you are not the person who buys the glass, I would be grateful if you
+would forward it to whoever does.
+
+I am writing to you because of the second word in your name. Tempering
+services - processing on contract, for other people's glass and other people's
+deadlines - changes what a shortage means. A plant that tempers only its own
+work loses a sale when the sheet is late. A plant that tempers on contract
+loses the commitment it made to the customer who trusted it with the job, and
+that does not come back the following week.
+
+Sheet glass in full containers is the only thing I sell.
+
+Let me be clear about what I am NOT offering. Tempering and fabrication are
+your trade, not mine, and I have nothing to sell you there. What I offer is
+what goes in before the furnace:
+
+- clear and extra-clear float glass, the base product
+  https://noxemgroup.com/en/float-glass/
+- low-emissivity glass, low-E, if you temper coated
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier to see it in one place
+  https://noxemgroup.com/en/catalog/
+
+On timing, and with the measure stated exactly: since the antidumping and
+countervailing orders of 6 April 2026, Chinese float carries a 181.52 percent
+antidumping rate for the country-wide entity, and Malaysian float carries
+countervailing duties ranging from 17.3 to 102 percent depending on the
+exporter. Europe is named in neither. I am not telling you our glass is cheap
+and I am not giving you numbers in a first letter. I am telling you the
+comparison moved.
+
+We ship FULL CONTAINERS, in heat-treated timber cases to ISPM-15, cut TO YOUR
+SIZES, or in jumbo at 3210 x 2550 mm - the length is cut to order, so whatever
+stock size your tables are set up for is not an obstacle. We can prepare an
+offer for delivery to your port of destination, subject to validation on our
+side. I will not guess at your port either: tell me which one you clear through
+today and I will work on that one.
+
+What I need back is small: which thicknesses run through your furnace, whether
+you temper coated glass and which coatings, the sheet sizes your tables call
+for, an approximate annual volume with your buying frequency, and the port you
+currently clear imports through.
+
+And the honest part. A plant running two locations on contract work already has
+a supplier who earned the place, and I am not asking you to replace him -
+changing substrate in the middle of a contract run would be the worst advice I
+could give you. I am asking to be the second name on the list, qualified in
+advance, for the month the first one runs short. If you are committed to your
+current supply, say so plainly and I will not push.
+
+Best regards,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

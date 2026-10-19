@@ -2543,3 +2543,53 @@ qui est en `NE PAS DEMARCHER`.**
 le 11/10, et les deux premiers sont du groupe **Informa D&B**. **Rien ne leur a ete pris.** Et ils
 illustrent pourquoi la regle existe : **leurs numeros ne concordent pas avec ceux du site** — un
 `+57 15480204` et un numero incomplet contre le `(601) 223 9644` que la maison publie elle-meme.
+
+
+## ⚠️⚠️ AXE DES INDUSTRIES QUI NE S APPELLENT PAS VERRE — OUVERT ET TESTE LE 19/10 A 14h54,
+## ET IL REND MIEUX PAR RICOCHET QUE PAR SA CIBLE
+
+**L axe est ecrit au §6 : pour trouver un consommateur de feuille dont le metier declare n est pas le
+verre, il faut une liste qui atteste un PROCEDE et non un secteur.** Il est ne de **Perficom**, qui
+fabrique des portes de refrigeration et temper son propre verre, et qu aucune recherche verriere
+n aurait rendue.
+
+**TESTE IMMEDIATEMENT SUR LE SGCC, POUR LE FROID COMMERCIAL AUX ETATS-UNIS. ET VOICI LE RESULTAT
+HONNETE : LA CIBLE A ECHOUE, LE RICOCHET A RENDU TROIS FICHES.**
+
+### LA CIBLE : UN SEUL NOM, ET IL EST INTROUVABLE
+**`Refrigeration & Display Components LLC`** figure bien comme licencie SGCC. **Introuvable
+ailleurs** : aucune page au monde ne la decrit comme verrier, et le second temps n a rien rendu.
+**C est le cas Hehr Glass a l identique** — entree ancienne, maison fermee ou renommee. **Aucune
+fiche, et le nom ne se recherche plus.**
+**⚠️ ET LA CAUSE EST DANS LA SOURCE, PAS DANS L AXE : les annuaires SGCC indexes sont de 2015, 2016
+et janvier 2021.** Aucune liste de 2026 n est atteignable. Donc le filon froid commercial **n est pas
+ferme**, il est **mal source** — et c est une distinction qui change la conduite : on ne le rouvre
+qu avec un annuaire recent, pas en cherchant plus fort dans les anciens.
+
+### LE RICOCHET : TROIS TREMPEURS AMERICAINS, TOUS ABSENTS, TOUS DE LA MEILLEURE CLASSE
+· **US Tempering LLC** (Maspeth, Queens) — **la meilleure localisation de tout le registre pour cette
+  campagne** : a quelques kilometres du port de New York et du New Jersey. `A ENVOYER`, texte 289.
+· **US Glass Tempering** (San Leandro, Californie, plus un site au Nevada) — **a une demi-heure du
+  port d Oakland**. `A ENVOYER`, texte 288.
+· **Glassfab Tempering Services Inc.** (Tracy et Fremont, Californie) — **trempe A FACON**, le profil
+  `maquila`. `A ENVOYER`, texte 290.
+
+**⚠️⚠️ ET CE QUE CE LOT APPREND SUR LE REGISTRE DEPASSE LES TROIS FICHES : LA PROXIMITE PORTUAIRE EST
+UN CRITERE QUE LA CAMPAGNE N UTILISE PAS, ET ELLE DEVRAIT.** Toutes les fiches travaillees aujourd hui
+avant celles-ci sont **a l interieur** — Bogota a 1000 km de la cote, Maringa, Alfenas, Copacabana,
+Contagem, Betim, San Juan del Rio — et sur **chacune** le texte a du conceder le fret terrestre et
+demander le port. **Sur Maspeth il n y a rien a conceder, et le message s ouvre sur ce fait.**
+**Le §6 connait deja ce critere pour les federations bresiliennes** — « les entites cotieres valent
+mieux a effort egal » — **mais il n a jamais ete applique au choix d une VILLE de recherche.**
+**A faire au prochain tour : chercher les trempeurs par VILLE PORTUAIRE** et non par grande
+agglomeration. Houston, Savannah, Charleston, Norfolk, Baltimore, Seattle, Long Beach, La
+Nouvelle-Orleans — et le §13 rappelle que le registre ecrit **`La Nouvelle-Orleans`**, en francais.
+
+### ⚠️ DEUX COLLISIONS DE NOM LEVEES DANS CE LOT, et elles sont ecrites dans les trois fiches
+· **`US Glass Tempering` (Californie) n est PAS `US Tempering LLC` (New York).** Deux maisons, deux
+  cotes du pays, deux domaines — `usglasstemp.com` contre `ustempering.com`.
+· **`Glassfab Tempering Services` (Tracy, Californie) n est PAS `Glassfab Canada`**, qui est au
+  registre a Aldergrove en Colombie-Britannique en `A QUALIFIER`.
+**Aucun lien etabli dans les deux cas, et le §12 tranche sur le siege et l immatriculation, jamais
+sur le nom.** C est la troisieme famille de collisions de la journee apres `Vitelco`/`Vitelsa` et
+`Dialum` — et les trois ont ete prises par le `grep` ou par la lecture, pas par le balayage.
