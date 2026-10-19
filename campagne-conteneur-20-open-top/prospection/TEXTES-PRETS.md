@@ -17343,3 +17343,94 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 262. Acme Glass Ltd. (Surrey, Colombie-Britannique) — `info@acmeglassltd.com` — ANGLAIS — premier contact
+
+### PREPARE LE 12h29 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Quatrieme fiche du filon SGCC**, et **seconde de Colombie-Britannique** apres Bronco Industries.
+  Grep passe dans un **appel separe**, sur les deux formes voisines : **ABSENT**.
+- **⚠️ RESERVE DE CLASSE DITE FRANCHEMENT** : les annuaires les rangent aussi en **portes de douche
+  et miroiterie**, donc il y a une part de detail et de pose — la classe a **zero pour cent** du §6.
+  **Ce qui justifie la fiche n est pas leur vitrine, c est LE FOUR** : une usine **certifiee** pour
+  le verre de securite trempe, et qui trempe achete de la feuille. Le volume est a confirmer.
+- **Adresse sur LEUR PROPRE page de contact**, meme domaine. Anti-rebond satisfaite.
+- **⚠️⚠️ TROIS NOMS ET TROIS DOMAINES SE RESSEMBLENT DANS LA MEME VILLE, LE PIEGE LE PLUS SERRE DE
+  LA JOURNEE.** `ACM Glass Ltd` sur `acmglassltd.ca` est une **autre societe**, a deux rues de la —
+  **une lettre de moins et une autre extension**. Un profil professionnel donne encore
+  `acmeglass.ca`, troisieme forme. Et deux adresses postales et deux numeros circulent pour Acme
+  elle-meme. **Seuls ceux de leur page sont retenus, relus caractere par caractere.** Famille Lahey,
+  **cinquieme fois aujourd hui** apres Blue Star, Paragon, Vetriko et Bronco.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️ ARGUMENT CANADIEN DU §6 ET SON INTERDIT** : plus de ligne float au Canada, seul pays du G20,
+  environ **90 pour cent** du verre venu des Etats-Unis. **NE JAMAIS ECRIRE QUE LE FLOAT EST TAXE**,
+  SH 7005 n est pas sur les listes de riposte. **Gestion du risque, jamais le prix**, et les
+  faillites de facadiers canadiens **restent en interne**.
+- **⚠️ SURREY EST SUR LE PORT DE VANCOUVER** : desserte conteneur directe, comme Bronco.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for your furnace - a second origin, landed at Vancouver`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If this is not the desk that buys your sheet, please pass it along.
+
+I am writing to you rather than to a glazing contractor because you run a
+furnace. A tempering line earns nothing while it waits, and it only runs if
+sheet is on the rack in front of it. Sheet by the load is the only thing I
+deal in.
+
+So let me be precise about what I am NOT offering. The tempering, the shower
+units, the mirror work: that is your business, not mine, and I have nothing
+to sell you there. What I am offering is what arrives before any of it
+starts:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass, where the coating allows tempering
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror, for the mirror side
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+And here is why I am writing to Canada in particular. Canada is the only G20
+country with no float line of its own, and something close to ninety percent
+of the glass used by Canadian fabricators comes from the United States. That
+is not a criticism, it is a geography. But a shop that takes all its sheet
+from one neighbouring country has an objective interest in knowing a second
+door, and a second door is all I am offering. I am not talking to you about
+tariffs or customs - I am talking about not depending on one border.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your furnace is set up for is not an obstacle. We can put together
+an offer for delivery to your port of destination, subject to validation on
+our side. Vancouver, which is about as short as the last leg gets from
+Surrey.
+
+What I need back is small: which thicknesses go through the furnace, whether
+you temper coated stock and which coatings, the sheet sizes your tables want,
+a rough annual volume with how often you buy, and the port.
+
+And the honest part. A shop that has held its ground in the Lower Mainland
+has a supplier who earned the place, and I am not asking to replace him. I am
+asking to be the second name on the list, for the week the first one is
+short. If that is of no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

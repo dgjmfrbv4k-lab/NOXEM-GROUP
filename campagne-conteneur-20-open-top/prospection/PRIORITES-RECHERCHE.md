@@ -2144,3 +2144,25 @@ producteurs float de leurs clients : il certifie les deux.**
 securite en Amerique du Sud, dans le Golfe, en Afrique australe ?** Si la reponse existe, c est le
 meme filon applique a des marches ou nous avons des dizaines de fiches sans metier etabli. A tester
 au prochain tour, **un appel suffit pour savoir**.
+
+### MESURE DU FILON SGCC EN ONTARIO, ET ELLE DIT OU NE PLUS CHERCHER (19/10 a 12h29)
+
+Le nom **ALODAN & SONS** (Woodbridge, Ontario) releve a la liste SGCC est **introuvable** : aucune
+page au monde ne le porte. Entree ancienne, maison fermee ou renommee. **Aucune fiche creee, et le
+nom ne se recherche plus.**
+
+**MAIS LA RECHERCHE A RENDU QUATRE VRAIS VERRIERS DE WOODBRIDGE ET DE VAUGHAN, ET TROIS ETAIENT
+DEJA AU REGISTRE — DONT DEUX DEJA CONTACTEES :**
+· **North Temp Glass** — `RELANCE 2026-10-12`
+· **Woodbridge Glass Distribution** (Concord) — `ENVOYE 2026-10-13`
+· **All Team Glass** — `A APPELER`, et **sa fiche portait deja tout ce que la recherche venait de
+  rendre**, adresse, numero gratuit et portee nationale incluses. C est la lecon Brocanelli une fois
+  de plus, et c est le `grep` qui l a evitee.
+· **Verrage Glass and Mirror** — absente, mais **ecartee au tri metier** : vitrerie residentielle et
+  commerciale avec pose, la classe a **zero pour cent**. Pas de fiche.
+**S y ajoute TC Insulating Glass de Woodbridge, deja au registre.**
+
+**CONCLUSION POUR LES PROCHAINS TOURS : le triangle Woodbridge-Vaughan-Concord est FAIT.** Quatre
+fiches sur cinq y sont deja, et trois sont contactees. **Ne plus y depenser d appel de decouverte**,
+quelle que soit la source qui rendra ces noms. Les villes ontariennes qui restent a tester sont
+ailleurs : Mississauga, Brampton, Hamilton, Kitchener, London, Ottawa.
