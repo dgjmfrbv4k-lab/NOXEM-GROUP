@@ -2748,3 +2748,74 @@ feuille **entrante**, c est-a-dire pour ce que nous fournissons. **Le §5 interd
 conformite non validee, donc rien ne s en ecrit** — mais **demander a un prospect quelle norme il
 exige de son float entrant est une question legitime et utile**, et la reponse est exactement ce
 qu Aaron doit savoir pour arbitrer. A porter dans `DECISIONS-AARON.md` au prochain passage.
+
+
+## VERDICT COMPLET SUR L OUTRE-MER FRANCAIS — 19/10 a 16h02, sur consigne expresse de Kevin
+
+**SIX TERRITOIRES PASSES, ET LA CONCLUSION EST NETTE : LA RECHERCHE LARGE EST EPUISEE SUR TOUT
+L OUTRE-MER FRANCAIS, ET CE N EST PAS LE MARCHE QUI EST FAIT, C EST LA METHODE.**
+
+| Territoire | Noms rendus | Deja au registre | Neufs | Verdict |
+|---|---|---|---|---|
+| Martinique | 6 | 3 | **3** | productif |
+| Guadeloupe | 7 | 5 dont 2 deja fermees | 2 hors classe | **FAITE** |
+| Guyane | 5 | 3 | 2 classe pose | faite |
+| La Reunion | 6 | 5 dont 2 deja fermees | 1 douteux | **FAITE** |
+| Nouvelle-Caledonie | 7 | 5 | 2 | **FAITE** |
+| Mayotte | 3 | **3 sur 3** | 0 | **FAITE** |
+| Polynesie | 2 | **2 sur 2** | 0 | **FAITE** |
+
+**ET LE CHANGEMENT DE SOURCE A ETE TESTE, COMME LE PARAGRAPHE 6 L IMPOSE AVANT DE CONCLURE —
+DEUX SOURCES DE PLUS, LES DEUX NEGATIVES, ET POUR DES RAISONS DIFFERENTES QU IL FAUT DISTINGUER.**
+· **`jarrybusiness.com`**, annuaire de la zone industrielle de Jarry en Guadeloupe, qui est la
+  SEULE zone de negoce de l ile : il rend Antilles Miroiterie, Savima, La Vitrerie et Soprover,
+  **les quatre deja au registre**. Rien de neuf. La source est la bonne et le gisement est pris.
+· **`ibat.nc`**, annuaire sectoriel du batiment caledonien : il rend **six noms neufs et les six
+  sont des POSEURS** — PRO POSE ALU, SUPERPOSE, OLNA SERVICES, MENUISERIE VERLAGUET, Master Pose,
+  DMA SARL. **Aucun negociant, aucun stockiste.** C est la lecon ASCEVI et la lecon AGMA a la
+  lettre : **une source se choisit sur le METIER QU ELLE RECENSE**, et un annuaire d ARTISANS du
+  batiment ne contient pas de negociants, quelle que soit la qualite de son classement.
+  **Les six noms sont consignes ici nommement pour ne pas etre recherches deux fois, et aucune
+  fiche n est creee** — ils sont ecartes d emblee comme Hafele et Wacker au Mexique. La
+  distinction qui gouverne : **un nom RETENU se cree dans le meme lot, un nom ECARTE d emblee se
+  consigne ici.**
+
+**CE QU IL RESTE A TESTER, ET DANS CET ORDRE :** la CCI de chaque territoire, un syndicat local du
+batiment dont le NOM porterait *negoce*, *distribution* ou *materiaux* — jamais *artisans* ni
+*menuiserie* — et l annuaire de la zone industrielle de **Ducos** a Noumea et du **Port** a La
+Reunion, sur le modele de Jarry. **Trois territoires n ont aucune source de zone testee.**
+
+**⚠⚠ ET LE FAIT QUI COMMANDE TOUTE LA CONDUITE SUR CE BLOC, MESURE LE 14/10 ET PORTEE A DIX SUR DIX
+AUJOURD HUI : LA METHODE DE DEVERROUILLAGE REND ZERO SUR L OUTRE-MER.** Techniglass Mayotte publie
+son adresse postale et son telephone et aucune adresse e-mail, comme les neuf precedentes. La
+methode qui rend 38 pour cent dans le monde rend **zero** ici, et ce n est pas un hasard de tirage
+a dix essais : une maison antillaise, reunionnaise ou mahoraise publie son standard et garde sa
+boite pour ses clients etablis.
+**DONC : CONTINUER A DEPENSER DES APPELS DE RECHERCHE SUR CE BLOC EST UNE PERTE SECHE.** Le canal
+qui le debloque est le **creneau d appels**, et **vingt fiches d outre-mer portent un numero sans
+avoir jamais ete appelees**. C est le point 1 de `DECISIONS-AARON.md` et la mesure du jour le
+confirme par l autre bout.
+
+**LES DEUX MEILLEURES CIBLES DE L OUTRE-MER SONT IDENTIFIEES ET ELLES ETAIENT DEJA AU REGISTRE —
+c est la qualification, et non la decouverte, qui a paye aujourd hui.**
+1. **SOMALU** (Papeete, Polynesie), relancee le 12/10 : **elle dit elle-meme importer son verre de
+   France, de Chine et de Belgique et le transformer sur place.** Deux origines europeennes deja en
+   place, donc la question n est pas de lui apprendre a importer d Europe mais d etre une origine
+   de plus. Groupe de cinq societes, plus de quarante-cinq ans. C est le profil Intraco UAE.
+2. **ALUVER Guyane** (Cayenne), en A APPELER : **vente A LA FEUILLE ENTIERE**, delai de 24 a 48
+   heures, table a commande numerique a **21 metres carres par heure**, et **LACOBEL d AGC** dans
+   la gamme — donc un stockiste qui achete chez un producteur float, et l on sait contre qui l on
+   se place.
+
+**⚠ ET UN COMPTE PROTEGE PESE SUR CE BLOC : le groupe RIOU** y a SOREMIR et SOFAVI a La Reunion,
+Riou Ocean Glass a Maurice et Euroglas-De Landtsheer en Belgique — **quatre societes, un seul
+compte**, en attente d arbitrage depuis le 08/10. **Et GLASS OVERSEAS**, branche verre de Bleu
+Marine a Marseille, fait exactement notre metier vers Mayotte, la Martinique, la Guadeloupe et La
+Reunion depuis 1989, en `A VALIDER AARON`.
+
+**⚠ INTERDIT A REDIRE PARCE QU IL COUVRE TOUT CE BLOC : RIEN, NI ECRIT NI LAISSE ENTENDRE, SUR LA
+FISCALITE A L ENTREE.** L octroi de mer externe s applique au verre europeen dans les DOM, le seul
+document nommant le chapitre 70 le porte a 30 pour cent mais il date d environ 2016 et n est **pas
+citable**, et l exoneration des **INTRANTS de production** — qui changerait tout pour un
+transformateur — est une question ouverte. La Nouvelle-Caledonie et la Polynesie ne sont **pas** des
+DOM : hors territoire douanier de l Union, taxes propres, meme interdit.
