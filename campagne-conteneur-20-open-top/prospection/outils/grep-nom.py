@@ -26,6 +26,7 @@ import io
 import os
 import re
 import sys
+import unicodedata
 
 CSV = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'liste-prospects.csv')
 
@@ -34,9 +35,34 @@ CSV = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'liste-pros
 SEPARATEURS = re.compile(r"[\s\-\._'’&/]+")
 
 
+def sans_accent(s):
+    """Depouille les accents. Ajoute le 19/10 a 16h31, TREIZIEME cas de la famille
+    du paragraphe 5 et le premier qui ne soit pas un separateur.
+
+    Ne : j ai grepe `Reunivitre`, sans accent, obtenu ABSENT, et j allais creer la
+    fiche. Le registre porte `Reunivitre` AVEC UN E ACCENTU AIGU, avec son adresse
+    contact arobase reunivitre point re, son telephone et un envoi en file. C etait
+    un doublon de plus a une maison deja deverrouillee — la faute Shibaam.
+
+    Les separateurs etaient couverts depuis le 19/10 au matin, les initiales depuis
+    le meme jour, et l ACCENT ne l etait pas : `reunivitre` et `reunivitre` accentue
+    n ont aucune sous-chaine commune pour une comparaison brute. C est la meme panne
+    que le jeton `Nouvelle-Zelande` du paragraphe 13 — ou le registre ecrit SANS
+    accent et ou j avais tape la forme accentuee, rendant zero sur douze fiches —
+    sauf qu ici elle est dans le CODE, donc elle se repare une fois pour toutes
+    plutot que de dependre de ma memoire a chaque appel.
+
+    Le registre melange les deux formes : il porte `Reunivitre` et `Nigeria`
+    accentues, et `Nouvelle-Zelande` et `Perou` non accentues. Aucune regle de
+    saisie ne tiendra, donc la comparaison doit etre insensible aux accents.
+    """
+    return ''.join(c for c in unicodedata.normalize('NFD', s)
+                   if unicodedata.category(c) != 'Mn')
+
+
 def aplatir(s):
-    """Retire les separateurs et met en minuscules."""
-    return SEPARATEURS.sub('', s.lower())
+    """Retire les separateurs, les accents, et met en minuscules."""
+    return SEPARATEURS.sub('', sans_accent(s.lower()))
 
 
 def charger():
@@ -62,13 +88,13 @@ SUFFIXES = {'inc', 'ltd', 'llc', 'sa', 'sas', 'sarl', 'srl', 'gmbh', 'bv', 'nv',
 
 def initiales(s):
     """Initiales des mots significatifs : 'Infinity Glass Group Inc' -> 'igg'."""
-    mots = [m for m in SEPARATEURS.split(s.lower()) if m and m not in SUFFIXES]
+    mots = [m for m in SEPARATEURS.split(sans_accent(s.lower())) if m and m not in SUFFIXES]
     return ''.join(m[0] for m in mots)
 
 
 def premier_mot(s):
     """Premier mot significatif, aplati : 'IGG Glass' -> 'igg'."""
-    mots = [m for m in SEPARATEURS.split(s.lower()) if m and m not in SUFFIXES]
+    mots = [m for m in SEPARATEURS.split(sans_accent(s.lower())) if m and m not in SUFFIXES]
     return mots[0] if mots else ''
 
 
