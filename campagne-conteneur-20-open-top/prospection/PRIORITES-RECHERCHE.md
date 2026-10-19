@@ -2440,3 +2440,41 @@ puis TESTEE dans le quart d heure, et elle est tombee.** Le mandat impose de mes
 positifs, et **rejeter** la premiere version du correctif d initiales le 19/10 pour 29 signalements
 sur 190. **Une hypothese formulee sur un cas n est pas une regle, et un appel pour la tuer est un
 appel bien depense** : il evite les cinq que la fausse regle aurait coutes.
+
+
+### SUITE IMMEDIATE : LE JETON `zona industrial` TESTE A 14h37, ET IL DIT QUE L ANTIOQUIA EST FAIT
+
+**La regle corrigee ci-dessus a ete appliquee tout de suite** — une requete sur la **zone
+industrielle** de la vallee d Aburra au lieu de cinq requetes communales. **Elle a rendu les quatre
+noms que j avais deja** : Templacol et Vitelco creees ce jour, Corvit `RELANCE 2026-10-12` avec son
+usine en **zone industrielle de Guayabal**, et Tecnovidrios deja ecartee sur le mot `ventanas`.
+
+**LA CONCLUSION N EST DONC PAS QUE LE JETON EST MAUVAIS, C EST QUE L ANTIOQUIA EST FAIT.** Trois
+requetes differentes — la ville, la commune peripherique, la zone industrielle — **convergent sur le
+meme ensemble de noms**. C est le critere de saturation du §6 pris au serieux : on ne declare un
+marche fait qu apres avoir change d angle, et ici les trois angles donnent la meme liste.
+**Ne plus depenser d appel de decouverte sur l agglomeration de Medellin.**
+
+**⚠️⚠️ ET LA REQUETE A FAILLI COUTER UN DOUBLON SUR UNE COLLISION DE NOM : `VITELSA` N EST PAS
+`VITELCO`.** Le releve a rendu *VITELSA — Vidrios de Seguridad, 25 ans d experience*, sur
+`vitelsa.com.co`, **et le `grep` a montre qu elle est au registre depuis le 09/10, en `ENVOYE`**,
+a Mosquera (Cundinamarca) avec des sites a Yumbo et a Bucaramanga.
+· **Quatre lettres separent les deux noms**, aucune ville n est commune, les domaines et les boites
+  diffèrent — `informacion@vitelsa.com.co` contre `contacto@vitelco.com.co` — et
+  `detecte-doublons.py` ne rend **aucun** groupe sur les cinq signaux.
+· **C est le piege Euroglas et le piege Caribbean Glass** : deux maisons sans rapport dont le nom
+  commence pareil. ⚠️ **Le lien capitalistique n est PAS tranche** et le §12 veut qu on decide sur le
+  siege et le **NIT**, jamais sur le nom.
+· **Le rapprochement est ecrit DANS LES DEUX FICHES**, et dans les deux sens — pour qu une session
+  ulterieure ne voie pas `Vitelsa ENVOYE` et n en conclue pas que Vitelco est faite, ni l inverse.
+  **C est la regle du §13 : une lecon qui vise des fiches nommees s ecrit AUSSI dans ces fiches, le
+  jour meme.**
+
+### TRANCHE NON LUE DE `vidrioperfil.com`, A GARDER POUR UN PROCHAIN TOUR — UN APPEL
+Le meme releve a rendu la page **`/es/colombia-vidrierias-y-fabricantes-de-vidrio`**. **Le §6 mesure
+les rubriques de NEGOCE de ce portail a un confirme pour quatre dementis et un inverifiable** — mais
+cette page-la est la rubrique des **FABRICANTS**, qui est une tranche differente et **non lue**.
+**C est la lecon ABRAVIDRO du jour appliquee a un portail : ce ne sont pas les sources qui se
+mesurent, ce sont leurs PAGES.** Une rubrique de fabricants vise la meilleure classe du §6 la ou une
+rubrique de negoce melangeait facadiers et poseurs de films. **A tester, en appliquant le second
+temps a chaque nom comme la lecon Imporex l impose.**
