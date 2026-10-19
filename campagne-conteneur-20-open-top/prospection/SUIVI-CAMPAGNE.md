@@ -8174,3 +8174,66 @@ qui a signé une lettre d'intention pour la racheter — une seule maison, un se
 **Registre à 1909 fiches, dont 98 canadiennes actives.** Contrôles passés après chaque écriture :
 forme 10 champs, 8 groupes de doublons, 18 paires de noyaux voisins, **0 argument float à corriger**,
 **0 `A APPELER` sans téléphone**.
+
+
+---
+
+### 19/10/2026 a 23h27 — UN CRITÈRE D'ACHAT NEUF, ET DEUX DOUBLONS DE MA MAIN RATTRAPÉS
+
+**Les cinq chiffres du §3 : recherches ~38 appels · ENVOIS CONFIRMÉS ZÉRO · réponses qualifiées 0 ·
+demandes de devis 0 · commandes 0.** Rien n'est parti et rien ne partira sans l'accord exprès de
+Kevin, message par message.
+
+**LE CRITÈRE LE PLUS FORT DE LA CAMPAGNE, ET IL ÉTAIT SOUS NOS YEUX.** **Pacific Glass**
+(Christchurch) annonce dans une seule phrase du `loose sheet`, du `case glass`, puis de
+l'**`indenting`** et des **`mixed containers`**. *Indenting* est la commande passée **directement à
+un verrier étranger** ; *mixed container* est le conteneur **groupant plusieurs références**.
+**Tous les critères du §5 disaient comment une maison REVEND — celui-ci dit comment elle ACHÈTE.**
+Il passe donc au-dessus de l'épaisseur, du format, du mode de vente et même du fait douanier
+canadien, qui atteste un import sans dire comment il est organisé. Vocabulaire consigné par langue.
+⚠️ **Et sa limite est mesurée dans la même soirée : la requête a rendu NOTRE PROPRE SITE dans les
+deux langues testées.** Ces mots sont aussi ceux des fournisseurs — donc excellente en **contrôle
+de second temps**, médiocre en **découverte large**.
+
+**ET LE `mixed container` RELANCE LA QUESTION DU GROUPAGE**, ouverte depuis le 13/10 sur Glass
+Overseas et par les cinq références de Miro Est. Un client qui écrit *mixed containers* ne se
+satisfait pas d'un conteneur mono-produit. **Rien ne lui en est promis tant qu'Aaron ne l'a pas dit.**
+
+**LA MEILLEURE CIBLE MEXICAINE TROUVÉE À CE JOUR, par cette requête : IMPEX CASA BLANCA** (Mexico).
+Elle se déclare **importateur direct de verre de construction, fournisseurs en Inde et en Chine**.
+Un premier message à froid paie normalement trois obstacles — expliquer le conteneur, le délai
+maritime, le dédouanement. **Elle les a déjà tous les trois.** Seule reste l'origine. ⚠️ Et
+l'interdit tient malgré la tentation : **rien sur les droits à un prospect mexicain.**
+
+**QUATRIÈME CAS SUR QUATRE EN ARGENTINE : VidGlass** se déclare *distributeur direct de VASA*. Le
+§6 mesurait trois sur trois ; c'est désormais **quatre sur quatre**, et celle-ci est la plus
+explicite puisque le lien est son argument de vente. La porte de sortie du §9 y est obligatoire.
+
+**⚠️⚠️ DEUX DOUBLONS, TOUS DEUX DE MA MAIN, RATTRAPÉS PAR `detecte-doublons.py` — 12 groupes au lieu
+de 8 dans la minute.**
+1. **J'ai créé `Komo Glass` alors que le registre portait `KOMO`**, même domaine, mêmes deux villes,
+   **déjà envoyée le 09/10.** La cause est dans le **code** : la comparaison inverse existait, mais
+   son garde-fou exigeait **six** caractères et `komo` en fait **quatre**. **Vingt raisons sociales
+   du registre s'aplatissent sous six caractères — dont `RUBEX`, compte protégé du §7 en
+   `DEMANDE DE PRIX`.** Seuil abaissé à 4 avec une **règle du mot générique**, mesure faite :
+   99 → 281 brut (inutilisable, `ALUM` à lui seul faisait ~150 faux positifs) → **103 avec la
+   règle, soit quatre signalements neufs dont un vrai.** Et **les 38 noms de la soirée ont été
+   regrepés** avec l'outil réparé : aucun autre doublon.
+2. **`vidriosmillet.com.mx` réunissait `Millet Industria de Vidrio` et `Espejos Millet Centro de
+   Distribucion`** — et la preuve est une **coordonnée** : l'adresse de la seconde est le siège
+   légal que la note de la première nomme depuis le 08/10. Un seul compte, la seconde neutralisée.
+   **Deux aveux (§16) :** mon second temps a dépensé un appel pour « découvrir » la vente *al
+   mayoreo por hojas* **déjà écrite au registre sur l'autre fiche**, et **j'ai écrasé le champ
+   site** (`millet.com.mx` → `vidriosmillet.com.mx`) — l'ancien est consigné, les deux se relisent
+   caractère par caractère.
+**Rien n'est parti d'aucune des deux fiches neutralisées.**
+
+**MESURES DE SOURCE, pour ne pas y redépenser d'appels.** La veine **SGCC** est **déjà moissonnée** :
+sur cinq noms relevés, **trois étaient au registre et les trois sont dans la file d'envoi du jour**.
+Et **Glass Enterprises Inc** (Pennsylvanie) dit explicitement s'approvisionner **uniquement en
+domestique** — fait négatif consigné, la fiche recule derrière celles qui importent déjà.
+
+**Registre à 1920 fiches, dont 1742 actives.** Contrôles passés après chaque écriture : forme
+10 champs, **8 groupes de doublons** (référence retrouvée), 18 paires de noyaux voisins, **0 argument
+float à corriger**, **0 `A APPELER` sans téléphone**. Cinquième occurrence du `;` dans une note,
+attrapée par l'`assert` **avant** toute écriture.
