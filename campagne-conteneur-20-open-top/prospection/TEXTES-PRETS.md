@@ -19586,3 +19586,113 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+## 285. Vitelco de Colombia S.A.S. (Copacabana, Antioquia) — `contacto@vitelco.com.co` — ESPAGNOL — premier contact
+
+### PREPARE LE 14h33 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Grep passe dans DEUX appels SEPARES de l ecriture**, marque et raison sociale complete :
+  **absente aux deux**.
+- **⚠️⚠️ LA MEILLEURE QUALIFICATION DU LOT, ET ELLE TIENT EN UN MOT QU ILS ECRIVENT EUX-MEMES :** ils
+  annoncent **convertir le `vidrio crudo` en `templado`**. **Verre CRU veut dire feuille brute, donc
+  ils ACHETENT DE LA FEUILLE** — ce qui est exactement ce que la campagne vend. **C est ce que la
+  fiche Templacol n a pas pu etablir le meme jour**, et c est pourquoi ce texte est plus direct que
+  le 284 : je n ai pas a demander de quel cote de l atelier ils sont, ils l ont dit.
+- **VERRIER PUR**, meilleure classe du §6. **Trempe plat ET courbe, et SANS PINCES** — sans marque de
+  pinzatura, specialite technique qui suppose un substrat regulier.
+- **⚠️ L ANGLE EST LE TREMPE COURBE SANS PINCES, et il faut dire pourquoi c est juste et non une
+  flatterie** : c est le point 2 du §9, un fait verifie tire de leur activite. **Un four courbe sans
+  pinces est le procede le moins tolerant a une irregularite de feuille**, donc la constance de
+  l entrant est leur contrainte propre. **C est l argument de la seconde origine qualifiee a
+  l avance**, le meme que sur Arque Glass par un autre chemin.
+- **⚠️ ET LE TEXTE NE PROMET AUCUNE QUALITE DE NOTRE COTE.** Dire que leur procede est exigeant est un
+  fait sur **leur** atelier. **Le §5 interdit une garantie technique de notre cote et il n y en a
+  aucune** : pas un mot sur une tolerance, une planeite, un certificat ou une norme que nous
+  tiendrions. **C est la frontiere que la faute STADIP du 12/10 a tracee** — ne pas fabriquer un
+  doute, et ne pas promettre pour le lever.
+- **Ils sont aussi `comercializadora`** de verre trempe ou de securite : qui transforme **et** revend
+  tient du stock, donc le conteneur est son unite.
+- **⚠️ A NE PAS CONFONDRE AVEC TEMPLACOL, texte 284, AUSSI A COPACABANA.** Deux maisons distinctes :
+  domaines, standards et rues differents, et `detecte-doublons.py` ne rend aucun groupe. **Les deux
+  messages sont donc deux premiers contacts et non la faute Shibaam** — et c est note dans les deux
+  fiches pour qu une session ulterieure ne les fusionne pas sur la seule ville.
+- **⚠️⚠️ DEUX ARGUMENTS DU §6 INTERDITS ET ABSENTS DU TEXTE.** Un, l angle douanier colombien porte
+  sur le **miroir** et sur lui seul : ils n en font pas, **aucune mention de droits**. Deux,
+  **jamais** l absence de production locale en Colombie, Vidrio Andino produisant a Soacha.
+- **⚠️ COPACABANA EST A L INTERIEUR** : le port se **demande**.
+- **REGLE PRODIESA** : le trempe **sort** de l offre, seul le substrat entre.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie en Colombie, **Ley Emiliani verifiee** — le 19/10 est un lundi et n est
+  pas un report de ferie.
+
+**Objet :** `Vidrio crudo para un horno curvo sin pinzas`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, en Francia. Esto es una oferta de suministro, no
+una solicitud de cotizacion. Si no es usted quien compra la lamina, le
+agradezco que lo reenvie a quien la compra.
+
+Les escribo porque ustedes dicen en su sitio algo que casi nadie dice con esa
+claridad: que convierten el vidrio CRUDO en templado. Eso significa que lo que
+entra por su puerta es lamina, no producto terminado - y lamina en contenedor
+completo es lo unico que yo vendo. La mayoria de las cartas como esta llegan al
+lugar equivocado. Esta, creo, no.
+
+Lo segundo que me hizo escribirles es el curvo sin pinzas. Templar curvo sin
+dejar marca es el proceso menos tolerante que hay con una lamina irregular: lo
+que ustedes necesitan de un proveedor no es una buena semana, es que la lamina
+sea la misma la proxima vez. De ahi esta carta.
+
+Dejo claro lo que NO estoy ofreciendo. El templado, el curvado y el beneficiado
+son su trabajo, no el mio, y ahi no tengo nada que venderles. Lo que ofrezco es
+lo que entra antes del horno:
+
+- vidrio float claro y extra-claro, la base
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, si lo templan
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la linea completa, si resulta mas practico verlo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe solo en frances y en ingles.
+Si prefiere que le detalle cualquiera de esas referencias en espanol, lo hago
+con gusto.
+
+No le voy a dar cifras en una primera carta y no le voy a decir que nuestro
+vidrio sea barato. Lo que ofrezco es una segunda procedencia, en Europa,
+calificada antes de que la necesite.
+
+Despachamos CONTENEDORES COMPLETOS, en huacales de madera tratada conforme a
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se
+corta a pedido, de modo que la medida a la que estan ajustadas sus mesas no es
+un obstaculo. Podemos preparar una oferta para la entrega en su puerto de
+destino, sujeta a validacion por nuestra parte. Copacabana queda tierra
+adentro, asi que no voy a adivinar su puerto: digame por cual recibe hoy el
+importado y trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores pasan por el horno, si
+templan vidrio con capa y cuales, las medidas de lamina que piden sus mesas y
+su linea de curvado, un volumen anual aproximado con la frecuencia de compra,
+y ese puerto.
+
+Y la parte honesta. Una planta que templa curvo sin pinzas ya tiene un
+proveedor que se gano el puesto, y no le estoy pidiendo que lo cambie - cambiar
+de sustrato en medio de una serie seria el peor consejo que yo podria darle.
+Le estoy pidiendo ser el segundo nombre de la lista, calificado con antelacion,
+para el mes en que el primero se quede corto. Si estan comprometidos con el
+suministro que tienen, digalo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

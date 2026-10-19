@@ -2343,3 +2343,59 @@ mesure pas, ce sont ses PAGES qui se mesurent, une par une.**
   l Amerique du Nord et le Golfe-Levant est deja pris.** L Ibelq, l IFBQ, l ABNT et la SGS sont les
   quatre certificateurs bresiliens nommes — **l IFBQ et l Ibelq publient leurs propres listes de
   certificats**, et ce sont des tranches encore non lues, distinctes de celles de l Abravidro.
+
+
+## LOT MEDELLIN DU 19/10 A 14h32 — DIX NOMS, DEUX FICHES, ET QUATRE VERDICTS QUI ECONOMISENT DES APPELS
+
+**Pourquoi ce lot :** la fiche Templacol avait fait apparaitre que l agglomeration de Medellin, coeur
+industriel de la Colombie, ne comptait que **quatre** fiches contre onze a Bogota. **Une ville par
+requete**, regle du 15/10, donc Medellin seule et non groupee avec Cali.
+
+**LE CHIFFRE DU LOT : dix noms rendus, deux deja au registre et deja contactees, deux fiches creees,
+quatre ecartees sans depenser un appel, deux laissees en attente faute de domaine propre.**
+
+### DEJA AU REGISTRE — et le `grep` l a montre avant toute depense
+· **Distrividrios Antioquia** (Cl. 54 56A-19, Medellin) — `ENVOYE 2026-10-09`. **Et c est la plus
+  qualifiee du releve** : elle publie *vidrios importados de 2 mm a 19 mm incoloro* et vend *al por
+  mayor y por lamina*. Plage d epaisseurs **plus** vente a la feuille **plus** gros : les trois
+  signaux du cote ENTREE au sens de la regle du 15/10. **Elle etait deja prise.**
+· **Vidrios Corvit** (Carrera 65, Medellin, usine a Guayabal) — `RELANCE 2026-10-12`.
+
+### ECARTEES SANS APPEL, et chacune par une regle deja ecrite
+· **Impacto Solar** — un annuaire la donne pour *importador directo*, **et son offre est la PELICULA
+  SOLAIRE**. C est le cas **Ingesob** du §5 a l identique : un applicateur de films n approche meme
+  pas un acheteur de feuille. **Aucune fiche.**
+· **Tecnovidrios** — *vidrios y ventanas antiruido*. **Le mot `ventanas` ferme la piste dans un pays
+  qui PRODUIT son float**, et la Colombie en produit depuis Vidrio Andino a Soacha : c est la regle
+  Fenplast du 19/10 prise dans son sens fermant. **Aucune fiche.**
+· **Cotividrios La 30** et **Vitrocristales** — donnees *importadores* par un **annuaire** et par lui
+  seul. **Lecon Imporex : un annuaire IDENTIFIE, il ne QUALIFIE pas**, et aucune des deux n a de
+  domaine propre dans le releve. **Noms gardes ici, fiches non ouvertes** — a reprendre seulement si
+  une source permise etablit leur metier.
+· **Vidrios y Estilos** — site indexe a environ **1 475 jours**, soit quatre ans. Signature du site
+  vivant a messagerie douteuse du §13. **Pas de fiche sans second temps**, et il n en vaut pas le
+  cout devant les autres.
+
+### EN ATTENTE FAUTE DE DOMAINE PROPRE
+· **Vidrios Panoramic** (Medellin) — se decrit comme *empresa manufacturera dedicada a la
+  transformacion y comercializacion de vidrio de seguridad templado y laminado*, donc **la bonne
+  classe**. **Mais le seul lien rendu est une page Facebook** : la regle anti-rebond du §5 n est pas
+  satisfaite et aucune adresse ne peut en sortir. **A reprendre par une recherche sur le nom seul**,
+  pour voir si un domaine propre existe. **Un appel, et il vaut la peine.**
+· **Vilam** (Medellin ou Itagui) — feuilletage, rendue par un annuaire seul. Meme traitement.
+
+### CE QUE LE LOT DIT DE LA METHODE, ET C EST UN FAIT DE STRUCTURE SUR CE MARCHE
+**Le releve ne contient presque aucun importateur pur : il contient des TRANSFORMATEURS.** Et c est
+coherent avec le §6 — **la Colombie produit son float a Soacha**, donc la couche d importateurs y est
+mince par construction, la feuille locale couvrant le gros du besoin. **Conduite : sur un marche qui
+produit son float, chercher le TREMPEUR et non l importateur.** Le trempeur achete quand meme, et il
+est de la meilleure classe du §6. C est exactement ce que Vitelco a confirme en un mot — *convierte
+el vidrio crudo en templado*.
+
+**ET LE CONTRE-POINT A GARDER : Copacabana, qui n etait sur aucune liste, porte DEUX des quatre
+meilleures maisons du releve.** Templacol et Vitelco y sont toutes deux, dans le meme parc
+industriel, et aucune des deux n etait au registre. **Une commune de banlieue industrielle rend plus
+qu une recherche sur la grande ville** — et c est la lecon du 15/10 sur Cali prise par l autre bout :
+ce n est pas seulement la grosse ville qui capte les resultats, c est que la peripherie industrielle
+ne remonte jamais spontanement. **Villes de l agglomeration encore non testees et qui le valent :
+Itagui, Bello, Envigado, Sabaneta, La Estrella, Girardota.**
