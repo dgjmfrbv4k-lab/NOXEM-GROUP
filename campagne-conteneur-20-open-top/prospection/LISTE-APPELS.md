@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **16/10/2026** depuis le registre. **269 societes** portent un telephone et
+Regeneree le **19/10/2026** depuis le registre. **274 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 269 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 274 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 245 societes
+## Hors Europe — 250 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Algérie | **Vitrosak** | `+213 560 53 51 68` | 10h00 - 18h00 · **dim-jeu** | A APPELER | Aucune adresse publiee. Port Bejaia. — TESTEE LE 11/10 EN DEUX TEMPS, ET LE SECOND TEMPS A SAUVE UN ENVOI PERDU. Grep du mot distinctif vitrosak fait avant : une seule fiche. PREMIER TEMPS, recherche large : les annuaires donne... |
 | Angola | **Axial / AS Glass Angola** | `+244 924 955 330` | 10h00 - 18h00 | A APPELER | Port Luanda, envoi en portugais. Relance 08/10, deuxieme tranche, format court a une seule question plus porte de sortie. Delivrabilite deja prouvee par l envoi du debut octobre. Angle caixilharia : fabricant de chassis donc co... |
 | Arabie saoudite | **Euro Glass** | `+966 55 550 5040` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Releve sur annuaire arabe, numero a verifier. |
+| Argentine | **Casa Segat S.A.** | `+54 11 4942 4431` | 14h00 - 22h00 | A APPELER | LOT DU 19/10 A 09h11. Mot distinctif grepe sur le CHAMP SOCIETE puis sur la ligne entiere, segat, ABSENT des deux. ⚠️⚠️ TROUVEE SOUS LE MAUVAIS PAYS — le portail vidrioperfil la donnait parmi les societes MEXICAINES, elle est A... |
 | Argentine | **Herramaq Argentina** | `+54 2323 473460` | 14h00 - 22h00 | A APPELER | Transformateur verre plat trempe 4 a 19 mm. Adresse email trouvee mais sur un domaine different du site : appeler pour confirmer. Port Buenos Aires. BALAYAGE DU 08/10 : FICHE NON TESTEE, ET C EST UN CHOIX. La methode de deverro... |
 | Australie | **Glass Wholesale** | `+61 3 9969 2009` | 00h00 - 08h00 | A APPELER | Formulaire de contact uniquement. DEVERROUILLEE LE 08/10 : info arobase glasswholesale.com.au figure dans leurs propres documents de demande de compte client, a cote du standard 03 9969 2009, domaine identique a celui du site. ... |
 | Australie | **Davis Glass** | `+61 3 9330 1200` | 00h00 - 08h00 | A APPELER | Formulaire de contact uniquement. VERIFIE LE 08/10, AUCUNE ADRESSE PUBLIEE : leur page de contact ne propose qu un formulaire, et je ne devine pas une adresse. Reste un dossier telephonique, 03 9330 1200. Adresse 156 Melrose Dr... |
@@ -215,6 +216,10 @@ ne pas les appeler en se presentant comme un premier contact.
 | Arabie saoudite | **Alfa Star Glass** | `+966 53 637 3747` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Usine avec ligne de trempe horizontale et ligne de double vitrage, cibler float. Port Dammam, envoi en arabe. Relance courte le 06/10, lot 3. SECONDE RELANCE ENVOYEE LE 12/10 A 11h53, gabarit de cloture de fiche, une seule ques... |
 | Arabie saoudite | **Glasshouse Company Ltd.** | `+966 11 498 5959` | 08h00 - 16h00 · **dim-jeu** | A APPELER | Site de 10468 m² et deux lignes de production, près de 200000 m² de verre par an annoncés. Pas d adresse publiee : appeler. Port Dammam. FUSION DU 08/10, detectee par un balayage systematique du registre : 1 fiche(s) en double ... |
 | Argentine | **Brocanelli S.A.** | `+54 9 351 633 7183` | 14h00 - 22h00 | A QUALIFIER | FICHE CREEE LE 14/10 A 18h58 ET NON ENVOYEE, pour DEUX motifs distincts qu il faut separer. Mot distinctif grepe avant creation, brocanelli, absent du registre. MOTIF UN, LE SIGNAL DES EPAISSEURS EST FAIBLE ET NON ABSENT : leur... |
+| Argentine | **Templados Centro S.R.L.** | `+54 351 494 6993` | 14h00 - 22h00 | A APPELER | Citee par la Vidrioguia sous TEMPLADOS et sous LAMINADOS AU PVB, donc elle trempe ET feuillette. LOT CAVIPLAN DU 19/10 A 09h15. Nom grepe sur le CHAMP SOCIETE puis sur la ligne entiere, ABSENT des deux. Source : le listado de s... |
+| Argentine | **Templados Super S.A.** | `+54 11 4249 8625` | 14h00 - 22h00 | A APPELER | Citee par la Vidrioguia sous TEMPLADOS. LOT CAVIPLAN DU 19/10 A 09h15. Nom grepe sur le CHAMP SOCIETE puis sur la ligne entiere, ABSENT des deux. Source : le listado de socios de la CAVIPLAN, chambre argentine du vidrio plano, ... |
+| Argentine | **Tempered Glass S.R.L.** | `+54 11 4262 0970` | 14h00 - 22h00 | A APPELER | Citee par la Vidrioguia sous TEMPLADOS. Seconde ligne publiee 4262-3549. LOT CAVIPLAN DU 19/10 A 09h15. Nom grepe sur le CHAMP SOCIETE puis sur la ligne entiere, ABSENT des deux. Source : le listado de socios de la CAVIPLAN, ch... |
+| Argentine | **Jose M. Fontela e Hijos S.A.I.C.** | `+54 341 462 7272` | 14h00 - 22h00 | A APPELER | Metier A ETABLIR, la chambre la liste sans categorie de produit dans ce qui a ete releve. LOT CAVIPLAN DU 19/10 A 09h15. Nom grepe sur le CHAMP SOCIETE puis sur la ligne entiere, ABSENT des deux. Source : le listado de socios d... |
 | Bahamas | **Glass Suppliers & Installers Ltd** | `+1 242 341 2048` | 15h00 - 23h00 | A QUALIFIER | Reperee le 08/10 en verifiant Nassau Glass. Fenetres a impact anti-cyclone, donc consommatrice de feuillete, exactement notre gamme technique. ADRESSE larada arobase gsibahamas.com ECARTEE : relevee sur leur page Facebook et no... |
 | Bahreïn | **Bahrain Prism Glass Factory WLL** | `+973 1746 4000` | 08h00 - 16h00 · **dim-jeu** | A QUALIFIER | Transformateur complet, zone portuaire de Hidd. ADRESSE REBONDIE : rappeler au +973 1746 4000. CONTROLE MX DU 07/10 : le domaine prismbahrain.com ne resout pas (NXDOMAIN), l adresse info@prismbahrain.com ne peut pas recevoir. A... |
 | Brésil | **Sergipe Vidros** | `+55 79 3209 1299` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 18h36 le 15/10 par recherche de decouverte sur la VILLE D ARACAJU, une ville par requete. L ETAT DE SERGIPE N AVAIT AUCUNE FICHE. Mot distinctif grepe en grep -in avec lecture des lignes, absent. MEILLEUR NOM DE ... |
