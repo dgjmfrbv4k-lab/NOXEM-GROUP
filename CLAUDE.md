@@ -364,6 +364,41 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   `container load`, `half sheet`, `full sheet` · `à la caisse`, `feuille entière`, `demi-feuille`.
   **Et le pendant négatif se lit dans la même phrase** : une maison qui ne vend qu'**au mètre carré
   coupé** ou **à la pièce finie** le dit tout aussi volontiers, et c'est la sortie.
+  **⚠️⚠️⚠️ ET IL Y A UN CRITÈRE D'UN CRAN AU-DESSUS DE CELUI-LÀ, TROUVÉ LE 19/10 AU SOIR SUR
+  PACIFIC GLASS (Bromley, Christchurch) : LE VOCABULAIRE DE L'IMPORT LUI-MÊME. Tous les critères
+  ci-dessus disent comment une maison REVEND. Celui-ci dit comment elle ACHÈTE.**
+  Leur page annonce, dans la même phrase : **`loose sheet`** et **`case glass`**, puis
+  **`indenting`** et **`mixed containers`**.
+  · **`indenting`** est le terme de métier anglo-saxon pour la commande passée **directement à un
+    verrier étranger, en production**, par opposition à l'achat sur stock local.
+  · **`mixed containers`** est le **conteneur groupant plusieurs références**.
+  **Autrement dit cette maison ne dit pas seulement qu'elle achète de la feuille : elle décrit
+  exactement la transaction que nous proposons, dans son propre vocabulaire commercial.** C'est le
+  signal d'achat le plus direct qu'une page publique puisse porter — au-dessus de l'épaisseur, du
+  format, du mode de vente et même du fait douanier canadien, qui atteste un import sans dire
+  comment il est organisé.
+  **LES MOTS À CHERCHER DANS LE SECOND TEMPS, par langue, et ils ne coûtent aucun appel de plus :**
+  `indent`, `indenting`, `indent orders`, `direct from mill`, `mill direct`, `mixed container`,
+  `consolidated container`, `FCL`, `LCL`, `import programme` · `pedido de importación`,
+  `importación directa`, `contenedor consolidado`, `carga consolidada` ·
+  `importação direta`, `contêiner consolidado` · `commande sur indent`, `import direct`,
+  `conteneur groupé`, `groupage`.
+  **⚠️ ET LE `mixed container` TOMBE PILE SUR UNE QUESTION OUVERTE DEPUIS LE 13/10 :** Glass
+  Overseas, le négociant marseillais qui fait notre métier depuis 1989, annonce précisément des
+  expéditions groupant couché, feuilleté et float **dans un même conteneur**, et Miro Est nous a
+  demandé **cinq références**. **Un client qui écrit `mixed containers` ne se satisfait pas d'un
+  conteneur mono-produit** — c'est une raison de plus de faire trancher la question du groupage par
+  Aaron, et **rien ne s'en promet tant qu'il ne l'a pas dit** (§5).
+  **⚠️ MESURE SUR LA SOURCE SGCC, LE MÊME SOIR, POUR NE PAS Y REDÉPENSER D'APPELS : ELLE EST DÉJÀ
+  MOISSONNÉE.** Le répertoire des produits certifiés du *Safety Glazing Certification Council*
+  recense les licenciés de la certification du verre de sécurité, donc des **trempeurs**, qui sont
+  la meilleure classe du §6 à 12,8 %. **Sur cinq noms relevés, TROIS étaient déjà au registre et
+  les trois sont dans la file d'envoi du jour** — Allglass Tempering, Chicago Tempered Glass,
+  Nashville Tempered Glass. Une passe antérieure l'a donc exploitée sans le dire. **Deux réserves à
+  garder :** l'édition publique la plus récente trouvée date de **juillet 2023**, donc une licence
+  peut avoir été perdue ; et le répertoire est un **PDF** que cette session ne peut pas lire, donc
+  les noms viennent de résumés de recherche. **Ce qui reste à faire là n'est pas une moisson, c'est
+  le second temps des noms déjà pris.**
   **⚠️⚠️ ET CE VOCABULAIRE N'EST PAS SEULEMENT UN CONTRÔLE DE SECOND TEMPS, C'EST LA MEILLEURE REQUÊTE
   DE DÉCOUVERTE DE LA CAMPAGNE — mesuré le 19/10 au soir sur TROIS langues et quatre marchés.** Le §6
   cherchait jusqu'ici par **ville**, par **métier** ou par **annuaire de fédération**. Une requête bâtie
