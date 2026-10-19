@@ -152,6 +152,35 @@ def premier_mot(s):
     return mots[0] if mots else ''
 
 
+def sans_pluriel(s):
+    """Neutralise un S final sur chaque mot. QUINZIEME cas de la famille du caractere
+    unique, ajoute le 19/10 au soir.
+
+    Ne : la rubrique peruvienne du portail donnait `Vidrieria Noelia`. Grepe tel quel,
+    le script a repondu ABSENT — et le registre porte `VidrieriaS Noelia`, au Venezuela,
+    en A QUALIFIER. UN S. J allais creer la fiche sous le Perou, ce qui aurait fait un
+    doublon ET sous un faux pays.
+
+    Pourquoi ce cas devait arriver : ce secteur nomme ses maisons avec des mots qui
+    s accordent — Vidrieria et VidrieriaS, Cristal et CristaleS, Vidro et VidroS,
+    Espejo et EspejoS. Le pluriel est donc la variante la plus probable de toutes, et
+    c etait la seule de la famille a ne pas etre couverte : les separateurs le sont
+    depuis le matin, les initiales aussi, l accent depuis 16h31 et la lettre doublee
+    depuis 16h40.
+
+    MESURE FAITE AVANT DE RETENIR LE CORRECTIF, comme pour la lettre doublee et comme
+    le correctif d initiales qui avait ete REJETE pour 29 faux positifs : la
+    neutralisation du pluriel ne rapproche QU UNE SEULE paire nouvelle sur les 1875
+    fiches du registre — `Glasslines` en Nouvelle-Zelande contre `Glassline` en Serbie,
+    qui sont deux maisons reelles de deux pays, deja au registre et deja traitees. Donc
+    un signalement de plus a lire, et zero faux positif de consequence.
+
+    Le seuil de 4 lettres evite de mutiler un mot court dont le S est structurel.
+    """
+    return ''.join(m[:-1] if len(m) > 3 and m.endswith('s') else m
+                   for m in SEPARATEURS.split(sans_accent(s.lower())) if m)
+
+
 def chercher(R, nom):
     """Rend les fiches dont la raison sociale correspond, separateurs ET acronymes."""
     cible = aplatir(nom)
@@ -187,8 +216,11 @@ def chercher(R, nom):
 
 
 def chercher_approche(R, nom, deja):
-    """Correspondances a LETTRE DOUBLEE pres, rendues a part. Voir reduire()."""
+    """Correspondances APPROCHEES rendues a part : a LETTRE DOUBLEE pres, voir
+    reduire(), ET a PLURIEL pres, voir sans_pluriel() — ajoute le 19/10 au soir
+    apres le cas Vidrieria/VidrieriaS Noelia."""
     cible = reduire(aplatir(nom))
+    cible_sp = reduire(sans_pluriel(nom))
     if len(cible) < 5:
         return []                      # garde-fou : un token court rendrait du bruit
     vus = {id(c) for c in deja}
@@ -197,7 +229,9 @@ def chercher_approche(R, nom, deja):
         if len(c) != 10 or id(c) in vus:
             continue
         plat = reduire(aplatir(c[3]))
-        if cible in plat or (len(plat) >= 6 and plat in cible):
+        plat_sp = reduire(sans_pluriel(c[3]))
+        if (cible in plat or (len(plat) >= 6 and plat in cible)
+                or cible_sp in plat_sp or (len(plat_sp) >= 6 and plat_sp in cible_sp)):
             hits.append(c)
     return hits
 
@@ -220,7 +254,7 @@ def main(noms):
                 print('      %s | %s | %s | %s | %s'
                       % (c[0], c[2][:40], c[3], c[6] or '(pas d adresse)', c[9]))
         if approx:
-            print('    ⚠⚠ %d FICHE(S) A UNE LETTRE DOUBLEE PRES — cas Aluglas/Aluglass :'
+            print('    ⚠⚠ %d FICHE(S) A UNE LETTRE DOUBLEE OU A UN PLURIEL PRES — cas Aluglas/Aluglass et Vidrieria/Vidrierias :'
                   % len(approx))
             for c in approx:
                 print('      %s | %s | %s | %s | %s'

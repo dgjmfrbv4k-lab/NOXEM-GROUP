@@ -268,6 +268,26 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   plutôt que paralysante : le même portail a rendu **Industrial Mercantil San Simón** au Guatemala, et là le
   second temps a **confirmé** le métier sur leur propre page float. Le portail ne ment pas plus qu'il ne dit
   vrai : **il désigne où regarder.**
+  **⚠️⚠️⚠️ ET LE 19/10 AU SOIR MESURE L'AUTRE MOITIÉ DU PROBLÈME, QUI EST PIRE QUE LE MÉTIER : SUR CE
+  PORTAIL, LE PAYS N'EST PAS FIABLE NON PLUS, ET PAS À QUATRE EXCEPTIONS PRÈS — À LA MAJORITÉ.**
+  Une requête combinant **pays + produit** sur ses pages péruviennes a rendu une quinzaine de noms.
+  Le registre en situe **au moins cinq dans un AUTRE pays** : **Aluvitem** en Bolivie, **Vidpia** en
+  Argentine, **Vitelsa** en Colombie, **Vidrierías Noelia** au Venezuela, **Kalciyan** en Argentine
+  — cette dernière reconnue argentine par la page elle-même. S'y ajoutent **Tecnoglass** et
+  **Tempse**, que la page donne pour colombiennes, **Vidrios El Castillo** déjà établi chilien le
+  15/10, et **Vidriería Oriental** déjà établie introuvable le 14/10. **Contre DEUX confirmés
+  péruviens : Fullglass et Grupo Covico.**
+  **⚠️ ET L'EXPLICATION HONNÊTE N'EST PROBABLEMENT PAS LA MALVEILLANCE DU PORTAIL, il faut le dire :
+  ma requête mêlait le PAYS et le PRODUIT, et ses pages PRODUIT sont CONTINENTALES.** Le plus
+  probable est donc que **j'ai lu une liste latino-américaine en croyant lire une liste
+  péruvienne** — ce qui est une faute de requête autant qu'un défaut de source.
+  **CE QUI NE CHANGE RIEN À LA CONDUITE, et c'est le point utile : un nom pris sur ce portail doit
+  avoir SON PAYS RÉÉTABLI, pas seulement son métier.** La leçon Imporex ne demandait que le métier,
+  la leçon Arquetipo demandait le pays ; **sur ce portail les deux sont dues, systématiquement.**
+  **ET LA RÈGLE DE REQUÊTE QUI EN DÉCOULE : on interroge une page PAYS SEULE, jamais pays + produit.**
+  C'est la règle « une ville par requête » du 15/10 appliquée à un autre axe — mêler deux critères
+  fait croire qu'on a interrogé l'intersection alors qu'on a interrogé l'union.
+
   **⚠️⚠️ ET LE 14/10 AU SOIR DONNE LE CHIFFRE, APRÈS SIX NOMS PRIS AUX RUBRIQUES DE NÉGOCE DE CE MÊME
   PORTAIL EN QUARANTE-HUIT HEURES : UN CONFIRMÉ, QUATRE DÉMENTIS, UN INVÉRIFIABLE.**
   · **Industrial Mercantil San Simón** (Guatemala), donnée pour fournisseur de float : **confirmée** sur
@@ -950,6 +970,25 @@ hits = [c for c in R if re.search(r'\bdevidros\b', c[3], re.I)]   # rend 0 : abs
   **Et le point commun avec les douze cas précédents reste le même, et c'est la seule discipline qui
   tienne : le script a tourné, il a rendu un chiffre, et c'est de LIRE LES LIGNES que la réponse est
   venue.**
+  **⚠️⚠️ QUINZIÈME CAS LE 19/10 AU SOIR, ET C'EST LA VARIANTE LA PLUS PROBABLE DE TOUTE LA FAMILLE,
+  CELLE QUI MANQUAIT : LE PLURIEL. UN S.**
+  La rubrique péruvienne du portail donnait **`Vidriería Noelia`**. Grepé tel quel, le script répond
+  **ABSENT** — et le registre porte **`VidrieríaS Noelia`**, au **Venezuela**, en `A QUALIFIER`.
+  J'allais créer la fiche sous le **Pérou** : un doublon **et** sous un faux pays.
+  **POURQUOI CE CAS DEVAIT ARRIVER, et c'est ce qui le rend plus important que les autres : ce
+  secteur nomme ses maisons avec des mots qui s'accordent.** *Vidriería* et *Vidrierías*, *Cristal*
+  et *Cristales*, *Vidro* et *Vidros*, *Espejo* et *Espejos*, *Glassline* et *Glasslines*. **Le
+  pluriel est donc la variante la plus fréquente de toutes**, et c'était la seule de la famille
+  encore découverte : les séparateurs le sont depuis le matin, les initiales aussi, l'accent depuis
+  16h31, la lettre doublée depuis 16h40.
+  **MESURE FAITE AVANT DE RETENIR LE CORRECTIF, comme pour la lettre doublée et comme le correctif
+  d'initiales qui avait été REJETÉ pour 29 faux positifs : la neutralisation du pluriel ne rapproche
+  QU'UNE SEULE paire nouvelle sur les 1875 fiches** — `Glasslines` (Nouvelle-Zélande) contre
+  `Glassline` (Serbie), deux maisons réelles de deux pays, déjà au registre et déjà traitées. **Un
+  signalement de plus à lire, zéro faux positif de conséquence.** Vérifié dans les deux sens :
+  Noelia ressort, et Glaz-Tech comme Alpha Glass/Alphaglass ne régressent pas.
+  `sans_pluriel()` neutralise un `s` final sur chaque mot de plus de trois lettres, et la
+  correspondance est rendue dans la section **approchée**, avec la lettre doublée.
   **ET LE MÊME APPEL A RENDU UN FAIT QUI SE GARDE, PARCE QU'IL CORRIGE UNE GÉOGRAPHIE :** la recherche
   portait sur **Boston** et Glaz-Tech est à **Tucson**, avec neuf implantations dans le Sud-Ouest, les
   Rocheuses et la Louisiane — **aucune en Nouvelle-Angleterre**. Le moteur l'a rendue sur une page
