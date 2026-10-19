@@ -18703,3 +18703,183 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 276. Reflex Tempervidros (Contagem, Minas Gerais) — `comercial9@reflextempervidros.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h08 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Troisieme fiche du gisement AMVID.** Grep passe dans un appel separe : **ABSENT**.
+- **VERRIER PUR**, meilleure classe du §6. **Trois procedes et non un** : lamine, trempe,
+  reflechissant, plus du feuillete-trempe. **Un atelier qui couvre le lamine ET le trempe achete de
+  la feuille en deux qualites**, et c est l argument du texte.
+- **Adresse sur LEUR PROPRE domaine.**
+- **⚠️ LE CHIFFRE 9 DANS LA PARTIE LOCALE EST A SIGNALER** : c est vraisemblablement **une boite
+  parmi plusieurs d une equipe commerciale**, comme les `ventas7` et `ventas8` de CRLaredo ce matin.
+  Elle est publiee donc elle s emploie, **mais c est un poste et non un service** : le premier
+  paragraphe demande la transmission.
+- **REGLE PRODIESA, LARGE ICI** : lamine, trempe, reflechissant et feuillete-trempe **sortent tous**
+  de l offre.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE** : Gecex 833, float clair de 1,8 a 20 mm,
+  Malaisie-Pakistan-Turquie, **miroir et teinte exclus**. Et **jamais** l absence de production
+  locale.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Chapa para três linhas - uma segunda origem`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. O endereco que voces publicam parece
+ser de uma pessoa da equipe comercial: se nao for quem compra a chapa,
+agradeco que encaminhe.
+
+Escrevo para voces e nao para um vidraceiro por causa do numero de linhas que
+tem sob o mesmo teto. Laminado, temperado, refletivo, e laminado temperado em
+cima disso. Sao processos diferentes que pedem qualidades diferentes de chapa,
+e isso significa que voces nao compram um produto, compram uma CARTEIRA de
+chapa. Chapa em contentor completo e a unica coisa que eu vendo.
+
+Deixo claro o que NAO estou oferecendo. A laminacao, a tempera, o refletivo:
+sao o trabalho de voces, nao o meu, e ali nao tenho nada a vender. O que
+ofereco e o que entra antes das tres linhas:
+
+- vidro float claro e extra-claro, a base das tres
+  https://noxemgroup.com/en/float-glass/
+- vidro de baixa emissividade, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+Sobre o momento, com a medida exata: desde a Gecex 833 o float incolor de 1,8
+a 20 mm originario da Malasia, do Paquistao e da Turquia paga direito
+antidumping no Brasil, e a Europa nao esta nessa medida. Isso vale para essa
+faixa de float incolor, e nao vale para espelho nem para fume - nao vou
+esticar o argumento alem do que a medida diz. Nao estou lhe dando numeros numa
+primeira carta e nao estou dizendo que nosso vidro e barato.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda, e as tres linhas nao precisam receber a
+mesma coisa. Podemos preparar uma oferta para a entrega no seu porto de
+destino, sujeita a validacao do nosso lado. Contagem fica longe da costa,
+entao nao vou adivinhar o seu porto: diga qual o seu frete ja usa e eu
+trabalho sobre esse.
+
+O que preciso de volta e pouco: quais espessuras entram em cada linha, quais
+capas low-E trabalham, as medidas de chapa que suas mesas pedem, um volume
+anual aproximado com a frequencia de compra, e esse porto.
+
+E a parte honesta. Tres linhas em operacao significam um fornecedor que ganhou
+o lugar, e nao estou pedindo para substitui-lo. Estou pedindo para ser o
+segundo nome da lista, para a semana em que o primeiro ficar curto. Se isso
+nao interessa, diga com franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 277. Minas Laminação (Contagem, Minas Gerais) — `comercial@minaslaminacao.com.br` — PORTUGAIS — premier contact
+
+### PREPARE LE 14h08 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **VERRIER PUR**, meilleure classe du §6, et **un metier ETROIT, ce qui est un avantage** : ils
+  feuillettent, y compris du **trempe**, et ils font du verre **anti-vandalisme**. **Un feuilleteur
+  ne vend rien sans feuille entrante**, et l anti-vandalisme demande des **epaisseurs fortes et
+  plusieurs plis** — donc beaucoup de m² par unite livree.
+- Grep passe dans un appel separe : **ABSENT**.
+- **Adresse sur LEUR PROPRE domaine.** Colonne client, seule boite → precedent El Mayorista.
+- **⚠️ ET UNE RESERVE TECHNIQUE QUE LE TEXTE NE FRANCHIT PAS** : l anti-vandalisme releve de normes
+  d impact et de compositions de PVB precises. **Le §5 interdit toute garantie technique non
+  validee** : le texte **pose la question** de ce que leur composition exige, et **ne promet rien**.
+  Meme retenue que sur le bombage de Cristacurva et le verre a oiseaux de Nashville aujourd hui.
+- **REGLE PRODIESA** : le feuilletage et le trempe **sortent** de l offre.
+- **⚠️ ARGUMENT DOUANIER DU §6 A SA PORTEE EXACTE**, et **jamais** l absence de production locale.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Bresil.
+
+**Objet :** `Chapa para laminar - uma segunda origem desde a Europa`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi e eu dirijo a NOXEM GROUP, fornecedora e exportadora de
+vidro plano com base perto de Lyon, na Franca. Esta e uma oferta de
+fornecimento, nao um pedido de orcamento. Se este nao for o setor que compra a
+chapa, agradeco que encaminhe.
+
+Escrevo para voces e nao para um vidraceiro por causa do que fazem, que e
+estreito e por isso mesmo interessante para mim: voces laminam, inclusive
+temperado, e fazem vidro anti-vandalismo. Quem lamina nao tem nada a vender
+antes de receber chapa, e anti-vandalismo significa espessuras altas e varias
+camadas - ou seja, muito metro quadrado por peca entregue. Chapa em contentor
+completo e a unica coisa que eu vendo.
+
+Deixo claro o que NAO estou oferecendo. A laminacao, o PVB, a composicao: sao
+o trabalho de voces, nao o meu, e ali nao tenho nada a vender. O que ofereco e
+o que entra antes do forno e da autoclave:
+
+- vidro float claro e extra-claro, nas espessuras altas que a sua composicao
+  pede
+  https://noxemgroup.com/en/float-glass/
+- e a linha completa, se for mais pratico num so lugar
+  https://noxemgroup.com/en/catalog/
+
+As paginas estao em ingles: nosso site existe em frances e em ingles apenas.
+Se preferir que eu detalhe qualquer uma dessas referencias em portugues, faco
+com prazer.
+
+E uma pergunta tecnica que prefiro FAZER em vez de afirmar, porque voces
+conhecem a sua composicao e eu nao: um anti-vandalismo e ensaiado como
+conjunto, e o substrato entra nesse ensaio. Diga-me o que a sua composicao
+exige da chapa - planicidade, regularidade de espessura, tolerancia - e eu
+levo isso as nossas fabricas antes de lhe prometer qualquer coisa. Nao vou
+lhe garantir hoje nada que nao tenha validado.
+
+Sobre o momento, com a medida exata: desde a Gecex 833 o float incolor de 1,8
+a 20 mm originario da Malasia, do Paquistao e da Turquia paga direito
+antidumping no Brasil, e a Europa nao esta nessa medida. Nao vale para
+espelho nem para fume. Nao estou lhe dando numeros numa primeira carta.
+
+Despachamos CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+NIMF-15, cortado NAS SUAS MEDIDAS, ou em jumbo de 3210 x 2550 mm - o
+comprimento e cortado sob encomenda. Podemos preparar uma oferta para a
+entrega no seu porto de destino, sujeita a validacao do nosso lado. Contagem
+fica longe da costa, entao diga qual porto o seu frete ja usa.
+
+O que preciso de volta e pouco: quais espessuras entram na autoclave, as
+medidas de chapa que suas mesas pedem, um volume anual aproximado com a
+frequencia de compra, e esse porto.
+
+E a parte honesta. Quem lamina ha anos tem um fornecedor que ganhou o lugar, e
+nao estou pedindo para substitui-lo. Estou pedindo para ser o segundo nome da
+lista, para a semana em que o primeiro ficar curto. Se isso nao interessa,
+diga com franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---

@@ -1,6 +1,6 @@
 # Liste d'appel NOXEM GROUP — campagne conteneur
 
-Regeneree le **19/10/2026** depuis le registre. **284 societes** portent un telephone et
+Regeneree le **19/10/2026** depuis le registre. **285 societes** portent un telephone et
 aucune adresse e-mail exploitable. L'e-mail ne peut pas les atteindre : seul le telephone les ouvre.
 
 Tri par valeur commerciale decroissante, calculee sur les marqueurs de la fiche : importateur
@@ -45,7 +45,7 @@ rebond de Google parle du DOMAINE et non de la boite n'a plus de messagerie du t
 est le seul chemin, definitivement. Trois cas mesures le 08/10, Arturaya a Erbil, Vitrolux a Abidjan
 et Commercial Glass aux Bermudes.
 
-**Ce qui reste ici est donc un residu, mais un residu reel :** ces 284 societes ont ete
+**Ce qui reste ici est donc un residu, mais un residu reel :** ces 285 societes ont ete
 testees ou n'ont pas de domaine indexe. Deux cas se distinguent :
 - celles dont le site n'expose qu'un **formulaire** ou une adresse **obfusquee** — Manna Glass,
   Dr Greiche, Glasshouse, Nawzad NIT, Glass Enterprises, Nassau Glass, Vidrio Centro. Elles
@@ -63,7 +63,7 @@ septembre partaient de l'ancienne boite `harfiaaron0@gmail.com`, que la session 
 **Aaron peut lever le doute en cherchant une de ces adresses dans l'ancienne boite.** D'ici la,
 ne pas les appeler en se presentant comme un premier contact.
 
-## Hors Europe — 260 societes
+## Hors Europe — 261 societes
 
 | Pays | Societe | Telephone | Appeler entre (heure de Paris) | Statut | Pourquoi elle compte |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@ ne pas les appeler en se presentant comme un premier contact.
 | Bahreïn | **Bahrain Prism Glass Factory WLL** | `+973 1746 4000` | 08h00 - 16h00 · **dim-jeu** | A QUALIFIER | Transformateur complet, zone portuaire de Hidd. ADRESSE REBONDIE : rappeler au +973 1746 4000. CONTROLE MX DU 07/10 : le domaine prismbahrain.com ne resout pas (NXDOMAIN), l adresse info@prismbahrain.com ne peut pas recevoir. A... |
 | Brésil | **Sergipe Vidros** | `+55 79 3209 1299` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 18h36 le 15/10 par recherche de decouverte sur la VILLE D ARACAJU, une ville par requete. L ETAT DE SERGIPE N AVAIT AUCUNE FICHE. Mot distinctif grepe en grep -in avec lecture des lignes, absent. MEILLEUR NOM DE ... |
 | Brésil | **SA Vidros** | `+55 19 3326 5110` | 14h00 - 22h00 | A APPELER | Releve sur l annuaire des associes d Abravidro. Rua Benigno Ribeiro 539, Sao Bernardo, Campinas, Sao Paulo 13030-600. Telephones 19 3326-5110 et 19 3326-5111, site savidros.com.br. ⚠️ HOMONYMIE TRANCHEE AVANT LA CREATION, et il... |
+| Brésil | **Lamina Temper** | `+55 31 99568 8303` | 14h00 - 22h00 | A APPELER | GISEMENT AMVID, LE 19/10 A 14h07. Grep passe dans un appel SEPARE : ABSENT. VERRIER, meilleure classe du §6. Le nom annonce le feuilletage et la trempe. Rue Desembargador Amorim a CONTAGEM et non a Belo Horizonte, contrairement... |
 | Brésil | **GlassecViracon - Glassec Vidros de Segurança Ltda** | `+55 11 4597 8100` | 14h00 - 22h00 | A APPELER | LOT IGCC INTERNATIONAL DU 19/10 A 12h02. Passe au grep-nom.py : ABSENT. LA LISTE DES LICENCIES IGCC N EST PAS AMERICAINE, ELLE EST INTERNATIONALE — c est la trouvaille de methode du jour. Elle a rendu des licencies au Canada, a... |
 | Brésil | **Scala Vidros** | `+55 71 3017 1999` | 14h00 - 22h00 | A APPELER | LOT BRESILIEN DU 15/10 A 13h28, PAR DECOMPOSITION REGIONALE SUR LES ETATS COTIERS, methode qui a rendu cinq noms neufs a Seattle le matin meme. Le Bresil est le marche que le paragraphe 6 juge le plus favorable et il porte le d... |
 | Brésil | **Tempera Primos** | `+55 47 3633 0015` | 14h00 - 22h00 | A APPELER | FICHE CREEE LE 12/10/2026 A 18h12, meme recherche. Grep primos fait avant creation, absent. TEMPERA PRIMOS, Sao Bento do Sul, Santa Catarina, telephone 47 3633-0015. Elle porte une page PRODUITS VIDROS FLOAT et annonce le float... |
