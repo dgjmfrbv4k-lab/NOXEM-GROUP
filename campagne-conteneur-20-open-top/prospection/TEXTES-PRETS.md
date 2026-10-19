@@ -18300,3 +18300,105 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 272. Inova Glass S.A. de C.V. (Chihuahua et six succursales du Nord) — `ventas@inova-glass.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 13h58 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **LE PLUS GROS RESEAU MEXICAIN RENCONTRE AUJOURD HUI**, et il maille le **Nord**, c est-a-dire la
+  zone la plus industrielle du pays : Chihuahua, Coahuila, Sinaloa avec Mazatlan, Sonora avec
+  Guaymas, Nuevo Leon avec Guadalupe et Centro — plus Hermosillo, Torreon et Aguascalientes selon un
+  fournisseur de machines.
+- **TREMPEUR**, meilleure classe du §6. Grep passe dans un appel separe : **ABSENT**.
+- **⚠️ UN SEUL COMPTE AU SENS DU §12** : un site unique avec une page par succursale, une seule
+  marque, **et une rubrique `COMPRAS` sur la page de Mazatlan** — donc des achats vraisemblablement
+  centralises. **Un seul message, et la demande de transmission nomme ce service**, puisqu il existe
+  sur leur propre site.
+- **⚠️ TROIS DOMAINES SONT A EUX** : `.com.mx` pour le site, `.com` pour les adresses — **les deux
+  apparaissent dans les URL de resultats**, donc l anti-rebond est satisfaite sur les deux — et
+  `go-glass.com.mx` pour Guaymas. **Famille Lahey, huitieme fois de la journee, mais ici les trois
+  sont legitimes.**
+- **⚠️ DEUX ADRESSES ECARTEES.** Une **nominative** en initiale-point-nom sur la page de Guadalupe,
+  sans fonction → §5, cas Lahey, **cinquieme fois cette semaine**. Et un `…@outlook.com` sur leur
+  page sociale : **domaine mutualise, page qui n est pas leur page de contact, libelle de la colonne
+  client** — trois motifs de refus.
+- **⚠️ DEUX HOMONYMES MEXICAINS, grepes et absents** : `Innova Glass` a Puebla, **avec deux N**, qui
+  fait des portes et fenetres — et la **regle Fenplast** la ferme, puisque le Mexique produit son
+  float — et `Grupo iNOVAGLASS` a Morelia, qui distribue du verre **automobile**.
+- **REGLE PRODIESA** : la trempe **sort** de l offre.
+- **⚠️ INTERDITS MEXICAINS DU §6** : **rien** sur les droits, **jamais** l absence de production
+  locale.
+- **⚠️ ET UN ATOUT DE DESSERTE A NOMMER : Mazatlan et Guaymas sont des PORTS du Pacifique**, donc
+  deux de leurs succursales sont a quai.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Lámina para sus plantas del Norte - un segundo origen`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Su propio sitio tiene un apartado de COMPRAS:
+si esta carta no llega ahi, le agradeceria que la hiciera llegar.
+
+Le escribo a ustedes y no a un instalador por la forma de su red. No tienen
+una planta, tienen siete, repartidas por Chihuahua, Coahuila, Sinaloa, Sonora
+y Nuevo Leon. Eso cambia una cosa para quien compra: ustedes no mueven
+pedidos, mueven VOLUMEN, y el volumen entra en lamina. Lamina por contenedor
+completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado y el trabajo de
+cada sucursal son su negocio, no el mio, y ahi no tengo nada que venderle. Lo
+que le ofrezco es lo que entra antes de los hornos:
+
+- vidrio float claro y extra-claro
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, si lo templan
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+Y hay algo en su geografia que vale la pena decir, porque no es asi para la
+mayoria de nuestros interlocutores: dos de sus plazas, Mazatlan y Guaymas,
+son PUERTOS. Para esas dos, un contenedor no tiene casi acarreo. Para las
+del interior, el flete terrestre es el mismo que ya pagan hoy por la lamina
+que reciben. No le voy a dar cifras en una primera carta, ni le voy a hablar
+de aduanas de su pais, que no me corresponde — le hablo de que la geografia
+les favorece mas que a otros.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun NIMF-15,
+cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se corta a
+pedido, de modo que las medidas de stock de cada planta no son un obstaculo, y
+las sucursales no tienen que recibir lo mismo. Podemos preparar una oferta
+para la entrega en su puerto de destino, sujeta a validacion por nuestra
+parte.
+
+Lo que necesito de vuelta es poco: que espesores pasan realmente por los
+hornos, que capas low-E trabajan, las medidas de lamina que piden sus mesas,
+un volumen anual aproximado con la frecuencia de compra, y el puerto o los
+puertos que ya usan.
+
+Y la parte honesta. Una red de siete plazas tiene un proveedor que se gano el
+puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre de la
+lista, para la semana en que el primero quede corto - y con siete plantas,
+esa semana cuesta siete veces. Si eso no le interesa, digamelo con franqueza
+y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
