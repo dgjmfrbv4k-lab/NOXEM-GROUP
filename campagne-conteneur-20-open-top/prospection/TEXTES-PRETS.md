@@ -15106,3 +15106,88 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 238. Tempco Glass Fabrication (Flushing, Queens, New York) — `info@tempcoglass.com` — ANGLAIS — premier contact
+
+### PREPARE LE 10h15 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Grepe sur la ligne entiere** : `tempco`, **ABSENT** — le seul retour etait *GlassTempCorr* au
+  Perou, sous-chaine.
+- **Adresse lue sur LEUR PROPRE domaine**, `tempcoglass.com`, page de contact. Regle anti-rebond
+  satisfaite par construction, le domaine de l adresse etant celui du site.
+- **⚠️⚠️ CLASSE DE METIER LA MEILLEURE DU §6 — VERRIER PUR, 12,8 pour cent.** Usine de trempe et de
+  vitrage isolant de 45 000 pieds carres, et ils ecrivent eux-memes servir **les vitriers, les
+  ateliers de verre et les fabricants** de l agglomeration. Ce n est donc ni un poseur ni un
+  facadier mais un **transformateur**, c est-a-dire une maison dont le four ne tourne que si de la
+  feuille entre.
+- **⚠️ REGLE PRODIESA APPLIQUEE A LA LETTRE** : ils FABRIQUENT le trempe et le vitrage isolant,
+  donc **le trempe et le double vitrage sortent de l offre**. Seul le **substrat** y entre — float
+  clair et extra-clair, low-E, miroir sans cuivre ni plomb.
+- **⚠️ INTERDIT DU §6 TENU** : les Etats-Unis produisent leur float — Vitro, Cardinal et sept sites.
+  **Pas un mot sur une absence d offre locale. Argument douanier seul**, ordres du 06/04/2026.
+- **Liens produit presents. Porte de sortie presente. Signature une seule fois.** Jour ouvre verifie,
+  lundi 19/10 n est ferie ni aux Etats-Unis ni en France.
+
+**Objet :** `Substrate for your tempering line - a second origin`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the raw sheet, please pass this
+on to whoever does.
+
+I am writing to you rather than to a glazing contractor for a reason that is
+on your own site: forty-five thousand square feet of tempering and insulating
+glass, serving the glaziers, glass shops and fabricators of the metro area.
+A furnace only runs if sheet goes into it, and sheet by the load is the only
+thing I deal in.
+
+So let me be precise about what I am NOT offering. You temper and you build
+sealed units - that is your work, not mine, and I have nothing to sell you
+there. What I am offering is what goes on the racks before your line starts:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties on Malaysia. European
+glass is named in neither order. That is a customs fact and nothing more. I
+am not quoting you a number in a first letter, and I am not claiming our
+glass is cheap. I am saying the comparison is not what it was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so a
+stock size your line is set up for is not a problem. We can put together an
+offer for delivery to your port of destination, subject to validation on our
+side. New York or Newark, for Maple Avenue.
+
+What I need back is small: which thicknesses actually go through the furnace,
+what sheet size your cutting table wants, a rough annual volume with how
+often you buy, and the port.
+
+And the honest part. A plant that size has a supplier who has earned the
+place, and I am not asking for it. I am asking to be the second name on the
+list, for the week the first one is short. If that is of no interest, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
