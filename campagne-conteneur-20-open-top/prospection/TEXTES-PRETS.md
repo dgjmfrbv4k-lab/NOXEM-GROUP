@@ -19476,3 +19476,113 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+
+## 284. Templacol (Copacabana, Antioquia) — `comercial@templacol.com` — ESPAGNOL — premier contact
+
+### PREPARE LE 14h29 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **Trouvee en cherchant la liste ICONTEC, qui n existe pas.** Grep passe dans un appel **separe** de
+  l ecriture : **absente**.
+- **VERRIER**, meilleure classe du §6. **Six lignes de produit** : trempe, trempe serigraphie,
+  feuillete, controle solaire, controle acoustique, structurel.
+- **⚠️ L ANGLE EST LA LARGEUR DE LEUR GAMME, et c est un fait tire de leur site** : six lignes de
+  verre de securite ne se font pas avec une seule reference entrante. **Une maison qui fait du
+  serigraphie, de l acoustique et du structurel achete plusieurs substrats**, donc le conteneur
+  complet est pour elle une question de **composition** et pas seulement de volume.
+- **⚠️ ET LE MESSAGE NE PROMET PAS UN CONTENEUR MIXTE.** Le §6 porte la question du groupage de
+  references dans un meme conteneur **a l arbitrage d Aaron**, depuis la decouverte de Glass
+  Overseas le 13/10. Le texte **demande** donc quelles references les interesseraient et dit qu il
+  travaillera sur cette hypothese — **une question, jamais un engagement**, et le tout sous la
+  formule imposee.
+- **⚠️ LE DOUTE SUR LEUR METIER EST POSE DANS LE TEXTE, PAS SUPPOSE** : ils se decrivent comme
+  faisant l innovation et la **comercializacion** de verre de securite, et commercialiser n est pas
+  fabriquer. La question du four est posee en premiere demande, ce qui la tranche sans la soulever
+  comme un doute — **ce n est pas la faute STADIP du 12/10**, parce que c est une question
+  d information et non une reserve technique qui fabrique un doute chez le client.
+- **⚠️⚠️ DEUX ARGUMENTS DU §6 SONT INTERDITS ICI ET LE TEXTE NE LES PORTE PAS.**
+  1. **L angle douanier colombien porte sur le MIROIR et sur lui seul** — Resolution 284, plancher
+     de 0,77 USD/kg contre le miroir chinois non encadre. **Ils ne font pas de miroir, donc
+     l argument ne vaut rien et n est pas servi.** Aucune mention de droits, d aranceles ni de
+     mesure.
+  2. **JAMAIS l absence de production locale en Colombie** : Vidrio Andino exploite un four float a
+     Soacha. **Rien de tel dans le texte**, et `verif-argument-float.py` est passe a **0 fiche a
+     corriger**.
+- **Donc l angle est l ORIGINE et la SECONDE SOURCE, et rien d autre.** C est plus etroit que sur un
+  prospect bresilien ou americain, et c est voulu.
+- **⚠️ `servicioalcliente@` ET `info@` ECARTEES** : la premiere est **cote client** au sens du
+  tableau du §13, la seconde est designee par leur politique de confidentialite comme la boite des
+  **PQR**, donc des reclamations. Gardees en **secours** dans la fiche, jamais en second envoi.
+- **⚠️ COPACABANA EST A L INTERIEUR**, dans l agglomeration de Medellin : le port se **demande**.
+- **REGLE PRODIESA** : les six lignes **sortent** de l offre, seul le substrat entre.
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie en Colombie — **et la Ley Emiliani est verifiee**, le 19/10 est un
+  **lundi** et ce n est pas un report de ferie.
+
+**Objet :** `Seis lineas de vidrio de seguridad no se hacen con un solo sustrato`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, en Francia. Esto es una oferta de suministro, no
+una solicitud de cotizacion. Si no es usted quien compra la lamina, le
+agradezco que lo reenvie a quien la compra.
+
+Les escribo por algo concreto de su sitio: ustedes no tienen una linea, tienen
+seis - templado, templado con serigrafia, laminado, control solar, control
+acustico y estructural. Seis lineas de vidrio de seguridad no se hacen con un
+solo sustrato entrando por la puerta. Y lamina en contenedor completo es lo
+unico que yo vendo.
+
+Dejo claro lo que NO estoy ofreciendo. El templado, el laminado y el
+beneficiado son su trabajo, no el mio, y ahi no tengo nada que venderles. Lo
+que ofrezco es lo que entra antes:
+
+- vidrio float claro y extra-claro, la base
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la linea completa, si resulta mas practico verlo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe solo en frances y en ingles.
+Si prefiere que le detalle cualquiera de esas referencias en espanol, lo hago
+con gusto.
+
+No le voy a dar cifras en una primera carta y no le voy a decir que nuestro
+vidrio sea barato. Lo que ofrezco es otra cosa: una segunda procedencia, en
+Europa, calificada antes de que usted la necesite.
+
+Despachamos CONTENEDORES COMPLETOS, en huacales de madera tratada conforme a
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se
+corta a pedido, de modo que la medida de inventario a la que estan ajustadas
+sus mesas no es un obstaculo. Podemos preparar una oferta para la entrega en
+su puerto de destino, sujeta a validacion por nuestra parte. Copacabana queda
+tierra adentro, asi que no voy a adivinar su puerto: digame por cual recibe
+hoy el importado y trabajo sobre ese.
+
+Y aqui esta la pregunta que me interesa de verdad, por esas seis lineas: si
+tuviera que armar un contenedor para su planta, que referencias y que
+espesores entrarian en el. Digamelo y trabajo sobre esa hipotesis.
+
+Lo demas que necesito es poco: que espesores pasan por el horno, si templan
+vidrio con capa y cuales, las medidas de lamina que piden sus mesas, un
+volumen anual aproximado con la frecuencia de compra, y ese puerto.
+
+Y la parte honesta. Una planta con seis lineas ya tiene proveedor, y no le
+estoy pidiendo que lo reemplace. Le estoy pidiendo ser el segundo nombre de la
+lista, calificado con antelacion, para el mes en que el primero se quede
+corto - un horno parado es lo mas caro que hay en una planta. Si estan
+comprometidos con el suministro que tienen, digalo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
