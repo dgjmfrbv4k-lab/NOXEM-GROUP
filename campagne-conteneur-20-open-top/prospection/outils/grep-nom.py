@@ -65,6 +65,40 @@ def aplatir(s):
     return SEPARATEURS.sub('', sans_accent(s.lower()))
 
 
+def reduire(s):
+    """Reduit toute lettre repetee a une seule. QUATORZIEME cas de la famille du
+    caractere unique, ajoute le 19/10 a 16h40.
+
+    Ne : l annuaire caraibe donne `Aluglass NV` a Oranjestad et LE REGISTRE PORTE
+    `Aluglas Aruba`, avec UN SEUL S, relancee le 12/10 avec l adresse
+    info arobase aluglassaruba point com — ou le domaine, lui, en a DEUX. Un grep sur
+    le nom rendu par la source ne voyait donc PAS la fiche : `aluglass` n est pas une
+    sous-chaine de `aluglasaruba`, dans aucun sens.
+
+    Si la fiche avait ete creee, c etait un troisieme message a une maison deja
+    relancee — la faute Shibaam.
+
+    Les separateurs etaient couverts le matin, les initiales aussi, l accent a 16h31,
+    et la LETTRE DOUBLEE ne l etait pas. Ce n est ni un separateur ni une
+    normalisation : c est une faute de frappe ou une variante d orthographe, et le
+    mot `glass` lui-meme en porte une.
+
+    MESURE FAITE AVANT DE GARDER LE CORRECTIF, comme le mandat l impose depuis le
+    motif `aucune ligne float` rejete le 12/10 pour huit faux positifs : la reduction
+    rapproche ZERO paire du registre a tort, alors que MILLE raisons sociales sur
+    1729 portent une lettre doublee. Le signal est donc sur et il protege mille
+    fiches.
+
+    Il est rendu A PART dans la sortie, pour qu une correspondance APPROCHEE ne se
+    confonde jamais avec une correspondance exacte.
+    """
+    out = []
+    for car in s:
+        if not out or out[-1] != car:
+            out.append(car)
+    return ''.join(out)
+
+
 def charger():
     lignes = io.open(CSV, encoding='utf-8').read().rstrip('\n').split('\n')
     return [l.rstrip('\r').split(';') for l in lignes[1:]]
@@ -132,11 +166,28 @@ def chercher(R, nom):
     return hits
 
 
+def chercher_approche(R, nom, deja):
+    """Correspondances a LETTRE DOUBLEE pres, rendues a part. Voir reduire()."""
+    cible = reduire(aplatir(nom))
+    if len(cible) < 5:
+        return []                      # garde-fou : un token court rendrait du bruit
+    vus = {id(c) for c in deja}
+    hits = []
+    for c in R:
+        if len(c) != 10 or id(c) in vus:
+            continue
+        plat = reduire(aplatir(c[3]))
+        if cible in plat or (len(plat) >= 6 and plat in cible):
+            hits.append(c)
+    return hits
+
+
 def main(noms):
     R = charger()
     print('Registre : %d fiches.\n' % len(R))
     for nom in noms:
         hits = chercher(R, nom)
+        approx = chercher_approche(R, nom, hits)
         brut = sum(1 for c in R if aplatir(nom) in aplatir(';'.join(c)))
         print('=== %s   (token aplati : %s)' % (nom, aplatir(nom)))
         if not hits:
@@ -146,6 +197,12 @@ def main(noms):
         else:
             print('    ⚠ %d FICHE(S) AU REGISTRE :' % len(hits))
             for c in hits:
+                print('      %s | %s | %s | %s | %s'
+                      % (c[0], c[2][:40], c[3], c[6] or '(pas d adresse)', c[9]))
+        if approx:
+            print('    ⚠⚠ %d FICHE(S) A UNE LETTRE DOUBLEE PRES — cas Aluglas/Aluglass :'
+                  % len(approx))
+            for c in approx:
                 print('      %s | %s | %s | %s | %s'
                       % (c[0], c[2][:40], c[3], c[6] or '(pas d adresse)', c[9]))
         print('')
