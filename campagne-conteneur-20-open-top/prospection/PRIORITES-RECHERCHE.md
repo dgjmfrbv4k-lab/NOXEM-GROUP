@@ -2166,3 +2166,47 @@ DEJA AU REGISTRE — DONT DEUX DEJA CONTACTEES :**
 fiches sur cinq y sont deja, et trois sont contactees. **Ne plus y depenser d appel de decouverte**,
 quelle que soit la source qui rendra ces noms. Les villes ontariennes qui restent a tester sont
 ailleurs : Mississauga, Brampton, Hamilton, Kitchener, London, Ottawa.
+
+## ⚠️⚠️ GISEMENT AMEVEC (MEXIQUE), ET IL NUANCE LA REGLE DU NOM DE FEDERATION — 19/10 a 12h33
+
+**AMEVEC est l *Asociacion Mexicana de VENTANAS y CERRAMIENTOS*. Son nom porte DEUX des mots que le
+paragraphe 6 range parmi ceux qui ferment une piste — *window* et *facade*.** La regle disait donc :
+on n y va pas.
+
+**ELLE A POURTANT RENDU DEUX CIBLES DE PREMIERE CLASSE POUR DEUX APPELS, ET VOICI POURQUOI : SON
+ANNUAIRE EST SEGMENTE PAR PRODUIT.** Il a une rubrique *fabricantes de vidrio plano* et une rubrique
+**_vidrio procesadores_** — donc on peut y prendre la bonne classe de metier et laisser le reste, ce
+qui est impossible dans un annuaire plat comme celui de l AGMA du Mid-Atlantic.
+
+**LA REGLE SE COMPLETE DONC AINSI : un nom de federation qui dit *ventanas*, *window*, *metal* ou
+*glazing* ferme la piste SEULEMENT SI son annuaire est PLAT. S il est segmente par metier ou par
+produit, le mauvais nom ne coute rien — on lit la bonne rubrique.** Et cela se verifie en **un**
+appel, celui qui liste les rubriques.
+
+**LE TRI DES SEPT NOMS, FAIT AVANT DE DEPENSER LE MOINDRE SECOND TEMPS, ET IL EST SANS APPEL :**
+
+| Nom | Metier lu sur sa fiche | Decision |
+|---|---|---|
+| **Temperados Mexico** (Hidalgo) | trempe, insule, laminage, maquilas — **et *venta vidrio 3mm a 19mm*** | **FICHE, texte 263** |
+| **Templados HP** (Zapopan) | trempe, insule, laminage | **FICHE** |
+| VIFIRE | systemes de verre coupe-feu | a voir, vitrage technique |
+| Mosti Sistemi | **cancelerie d aluminium** et verre | classe a 3,6 % — en dernier |
+| **Grupo GNOVIA** | **restauration et reparation** de verre abime | **ECARTE** — c est un service, pas un acheteur de feuille |
+| **Ventanas Exclusivas** | fabricant de **fenetres** | **ECARTE** — voir ci-dessous |
+| **Alcore** | **fenetres** aluminium et PVC | **ECARTE** — voir ci-dessous |
+| **Marbolz Vetrostile** | distributeur de **machines** | **ECARTE** — hors gamme |
+
+**⚠️ ET LES DEUX ECARTS *FENETRES* SONT L APPLICATION DIRECTE DE LA REGLE ECRITE CE MATIN SUR
+FENPLAST, CE QUI LA VALIDE PAR L AUTRE BOUT :** *le mot **window** ferme une piste dans un pays qui
+PRODUIT son float, et ne la ferme pas dans un pays qui n en produit pas.* **Le Mexique produit son
+float — Vitro — donc un menuisier mexicain achete national**, et les deux fiches se ferment sans un
+appel. Fenplast, au Canada, restait ouverte pour la raison exactement inverse. **La regle a donc
+servi dans ses deux sens le meme jour.**
+
+**ET LE RENDEMENT EST LE MEILLEUR DE LA JOURNEE : trois appels — un pour les rubriques, un pour les
+fiches membres, un pour le second temps — ont rendu DEUX cibles de premiere classe et CINQ noms
+fermes.** La methode de l annuaire de federation du paragraphe 6 appliquee a un pays de 130 millions
+d habitants ou le registre ne comptait qu une quinzaine de fiches.
+
+**RESTE A FAIRE SUR CE GISEMENT :** Templados HP (second temps), VIFIRE, puis les rubriques AMEVEC
+non encore lues — il y en a d autres que *fabricantes* et *procesadores*.

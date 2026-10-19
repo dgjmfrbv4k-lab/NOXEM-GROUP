@@ -17434,3 +17434,103 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 263. Temperados México (Mineral de la Reforma, Hidalgo) — `info@temperados.com.mx` — ESPAGNOL — premier contact
+
+### PREPARE LE 12h32 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **PREMIERE FICHE D UN GISEMENT NEUF : AMEVEC**, l association mexicaine des fenetres et
+  fermetures. **Son nom dit *ventanas* et *cerramientos*, donc le §6 dit de ne pas y aller** — et
+  c est une exception justifiee, expliquee au fichier `PRIORITES-RECHERCHE.md` : **son annuaire est
+  segmente PAR PRODUIT**, avec une rubrique *vidrio procesadores*, donc on peut y prendre la bonne
+  classe et laisser le reste.
+- **⚠️ GREP LU, PAS COMPTE** : `Temperados` rend **cinq** fiches bresiliennes et portugaises par
+  sous-chaine — Brastemper, Vidrus, Fortal, Bahia Vidros, Nortempera. **Lues et ecartees une par
+  une.** La mexicaine est absente.
+- **⚠️⚠️ ET C EST LE MEILLEUR SIGNAL DU LOT, AU SENS EXACT DU §5 : leur fiche d association dit
+  *VENTA VIDRIO 3MM A 19MM*.** Ils ne publient pas seulement les epaisseurs qu ils **trempent**, ils
+  annoncent **vendre de la feuille**. **C est de l ENTREE et non de la sortie** — la distinction que
+  le §5 a mis trois cas a etablir le 15/10, et ici elle est tranchee par leur propre libelle.
+- **Adresse sur LEUR PROPRE page de contact**, meme domaine. Anti-rebond satisfaite.
+- **⚠️ DEUX VERSIONS DU SITE COEXISTENT**, dont une sur un port 8080, et un numero de WhatsApp
+  differe du fixe. Seul le fixe de la page de contact est retenu.
+- **⚠️ UNE PROMOTION DE REMISE EST AFFICHEE SANS DATE sur une version du site** : **rien n en est
+  tire.** Le §5 interdit toute mention de prix — et une remise qu **ils** consentent ne dit rien de
+  ce qu ils **paient**.
+- **REGLE PRODIESA** : trempe, insule et laminage **sortent** de l offre.
+- **⚠️⚠️ INTERDITS MEXICAINS DU §6, ET ILS SONT DEUX** : **rien** sur les droits — ni cuota
+  chinoise, ni les 35 pour cent, ni l enquete miroir du DOF, le taux applicable a une origine UE
+  n etant pas etabli — et **jamais** l absence de production locale, Vitro produit.
+- **⚠️ MARCHE INTERIEUR : le port se demande au lieu de se supposer.**
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie au Mexique.
+
+**Objet :** `Lámina de 3 a 19 mm - un segundo origen desde Europa`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con base cerca de Lyon, Francia. Esta es una oferta de suministro, no
+una solicitud de presupuesto. Si esta no es la mesa que compra el vidrio en
+lamina, le agradeceria que la hiciera llegar a quien corresponda.
+
+Le escribo a ustedes y no a un instalador por una frase que ustedes mismos
+publican: venta de vidrio de 3 a 19 mm. Eso significa que no solo templan,
+sino que tambien venden lamina, y que el vidrio que entra a su planta es
+mucho mas que el que consumen sus propios pedidos. Lamina por contenedor
+completo es lo unico que yo vendo.
+
+Permitame ser preciso sobre lo que NO le ofrezco. El templado, el insulado,
+el laminado y las maquilas que hacen para terceros: ese es su trabajo, no el
+mio, y ahi no tengo nada que venderle. Lo que le ofrezco es lo que entra
+antes de que el horno arranque:
+
+- vidrio float claro y extra-claro, en el rango de espesores que ustedes ya
+  manejan
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, para el lado insulado
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- y la gama completa, si le resulta mas comodo en un solo lugar
+  https://noxemgroup.com/en/catalog/
+
+Las paginas estan en ingles: nuestro sitio existe en frances y en ingles
+unicamente. Si prefiere que le detalle cualquiera de esas referencias en
+castellano, lo hago con gusto.
+
+No le voy a dar cifras en una primera carta, ni le voy a hablar de aduanas
+de su pais, que no me corresponde. Le hablo de origen. Una casa que revende
+lamina y que ademas maquila para terceros tiene dos razones para no depender
+de una sola puerta de entrada: si su proveedor se atrasa, no solo para su
+horno, sino tambien el de sus clientes. Un segundo origen europeo no es un
+cambio de proveedor: es esa segunda puerta.
+
+Despachamos CONTENEDORES COMPLETOS, en cajas de madera tratada segun
+NIMF-15, cortado A SUS MEDIDAS, o en jumbo de 3210 x 2550 mm - el largo se
+corta a pedido, de modo que la medida de stock para la que estan calibradas
+sus mesas no es un obstaculo. Podemos preparar una oferta para la entrega en
+su puerto de destino, sujeta a validacion por nuestra parte. Hidalgo esta
+tierra adentro, asi que no voy a adivinar su puerto: digame cual usa ya su
+flete y trabajo sobre ese.
+
+Lo que necesito de vuelta es poco: que espesores mueve realmente, que capas
+low-E trabaja, las medidas de lamina que piden sus mesas, un volumen anual
+aproximado con la frecuencia de compra, y ese puerto.
+
+Y la parte honesta. Una planta que templa y revende tiene un proveedor que se
+gano el puesto, y no le pido que lo reemplace. Le pido ser el segundo nombre
+de la lista, para la semana en que el primero quede corto. Si eso no le
+interesa, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
