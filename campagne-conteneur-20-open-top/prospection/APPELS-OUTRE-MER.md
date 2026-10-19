@@ -1,110 +1,129 @@
-# APPELS OUTRE-MER — la seule porte qui marche sur ces territoires
+# APPELS OUTRE-MER — feuille dediee, 16h05 le 19/10/2026
 
-**Etabli le 19/10 a 11h01, sur consigne de Kevin de privilegier l outre-mer.**
+**POURQUOI CETTE FEUILLE EXISTE, ET C EST UNE MESURE ET NON UNE PREFERENCE.** Le paragraphe 13 a
+mesure le 14/10 que la methode de deverrouillage par recherche restreinte rend **38 pour cent** de
+bout en bout dans le monde et **ZERO** sur l outre-mer francais : neuf essais, neuf formulaires ou
+telephones, aucune adresse. **Le 19/10 porte la mesure a dix sur dix** avec Techniglass Mayotte, qui
+publie son adresse postale et son numero et aucune adresse e-mail.
+**Ce n est pas un hasard de tirage : une maison antillaise, reunionnaise ou mahoraise publie son
+standard et garde sa boite pour ses clients etablis.** Donc **ces fiches sont telephoniques par
+nature et non par accident**, et depenser un appel de recherche de plus sur ce bloc est une perte
+seche. **Vingt et une fiches portent un numero et n ont jamais ete appelees.**
 
-## POURQUOI CE FICHIER EXISTE, ET IL FAUT LE DIRE AVANT LA LISTE
+**FUSEAUX CALCULES ET NON DEVINES, formule du paragraphe 13 : heure de Paris = heure locale voulue
++ 2 − decalage UTC du territoire.** Paris est a UTC+2 jusqu au 25/10, puis UTC+1 — **toute cette
+feuille se recalcule le 25/10.** Chaque ligne est verifiee sur un cas connu, comme la regle l impose
+depuis la faute bresilienne du 14/10 ou 10h de Paris avaient ete annoncees pour 9h a Brasilia alors
+qu elles y font 5h du matin.
 
-**La methode de deverrouillage par courriel rend 38 pour cent sur le registre mondial et ZERO sur
-les DOM-COM.** Mesure du 14/10 sur neuf fiches d affilee, toutes des meilleures classes de metier :
-Ravate Professionnel, Point Mat, Le Batiment Guyanais, WM Guadeloupe, ALUVER Guyane, Glass Alu
-Matoury, plus Leader Mat, Techniglass Mayotte et Cole Bay Glass. **Neuf sur neuf : formulaire ou
-telephone, aucune adresse publiee.** Une maison antillaise ou reunionnaise publie son standard et
-garde sa boite pour ses clients etablis.
+| Territoire | UTC | Pour 9h locale, appeler a | Verification |
+|---|---|---|---|
+| Martinique, Guadeloupe, Saint-Martin | −4 | **15h00 Paris** | 15h Paris = 13h UTC = 9h locale ✓ |
+| Guyane | −3 | **14h00 Paris** | 14h Paris = 12h UTC = 9h locale ✓ |
+| La Reunion | +4 | **07h00 Paris** | 7h Paris = 5h UTC = 9h locale ✓ |
+| Mayotte | +3 | **08h00 Paris** | 8h Paris = 6h UTC = 9h locale ✓ |
+| Nouvelle-Caledonie | +11 | **07h00 Paris pour 16h locale** | 7h Paris = 5h UTC = 16h locale ✓ |
+| Polynesie francaise | −10 | **21h00 Paris** | 21h Paris = 19h UTC = 9h locale ✓ |
 
-**ET TROIS VERDICTS DE PLUS LE 19/10 CONFIRMENT QUE LE PROBLEME N EST PAS LE NOMBRE DE NOMS :**
-· **Polynesie francaise** — recherche de decouverte : **aucune societe neuve**. SPM et SOMALU sont
-  le marche, et les deux sont deja relancees.
-· **Guyane hors Cayenne** — Kourou et Saint-Laurent ne portent que des **artisans vitriers**, la
-  classe a zero pour cent sur onze fiches. Le negoce guyanais est a Cayenne et Matoury, et il est
-  au registre.
-· **Porto Rico** — hors DOM mais meme lecon : les trois fiches actives SONT le negoce de l ile.
-**DONC : l outre-mer n est pas un marche a DECOUVRIR, c est un marche a APPELER.** Continuer a y
-depenser des appels de recherche est une perte seche ; ce fichier est la conclusion operationnelle.
+**⚠ La Nouvelle-Caledonie et la Polynesie sont inappelables a 9h locale depuis Paris** — il y
+faudrait minuit et 21h. Pour la Caledonie on appelle **en fin de matinee locale**, soit 7h de Paris ;
+pour la Polynesie, **21h de Paris**, ce qui est hors de toute journee de travail raisonnable et
+rend l **e-mail preferable** sur ces deux territoires — et c est justement la ou les adresses
+existent, SOMALU et SPM etant les deux seules fiches du bloc a en porter une.
 
-## CE QUI EST APPELABLE AUJOURD HUI — 40 fiches avec un numero
+---
 
-**12 en NEGOCE et 15 en VERRIER**, c est-a-dire les deux classes a 10 et 12,8 pour cent du
-paragraphe 6. La classe **ALU-POSE** est en fin de liste parce qu elle rend 3,6 pour cent : un poseur
-achete son verre coupe au coup par coup, le conteneur n est pas son unite.
+## LES DEUX APPELS QUI VALENT LE PLUS, ET POURQUOI
 
-**Les creneaux sont en HEURE DE PARIS**, calcules par la formule du paragraphe 13 — heure de Paris
-egale heure locale plus deux moins le decalage — **verifiee sur un cas connu** : La Reunion sort a
-07h, ce que `genere-liste-appels.py` donne lui-meme pour Ravate.
-**⚠️ Deux territoires sont hors de toute journee de travail francaise :** la
-**Nouvelle-Caledonie** est a UTC+11, donc ses bureaux ouvrent **a minuit heure de Paris**, et la
-**Polynesie** a UTC-10, donc **a 21h**. Ces trois fiches-la se traitent par courriel ou pas du tout.
+### 1. ALUVER Guyane — Cayenne — **+594 594 31 20 50** — appeler a **14h00 Paris**
+**C est le meilleur dossier telephonique de tout l outre-mer, et il est qualifie sur trois faits
+lus sur leur propre domaine.** Un, ils vendent **a la feuille entiere** et annoncent un delai de
+**24 a 48 heures** sur la decoupe — ce sont les **deux marqueurs d ENTREE** retenus le 15/10, ceux
+qui separent un stockiste d un facadier. Deux, leur table a commande numerique est donnee a
+**21 metres carres par heure**, cadence qui ne se nourrit pas de chutes. Trois, et c est le plus
+utile, leur gamme nomme le **LACOBEL 6 mm**, qui est une marque **AGC** : regle du fragment de
+marque lue dans le bon champ, une marque de producteur float dans une **gamme** dit qu on **achete**
+chez lui. **Leur substrat vient donc vraisemblablement d AGC par conteneur, ce qui prouve qu ils
+savent recevoir et dedouaner un lot complet.**
+**OBJECTIF DE L APPEL, un seul :** obtenir leurs **references, epaisseurs, formats et volume
+mensuel**, et savoir **quel port** ils emploient — Degrad des Cannes. **Angle :** la seconde
+origine. **Gamme a citer dans cet ordre :** float clair et extra-clair, **verre laque** puisque le
+Lacobel en est, miroir sans cuivre ni plomb, feuillete en substrat.
+**⚠ Regle Prodiesa :** le feuillete sort de l offre, ils le font. **⚠ Rien sur la fiscalite.**
 
-| Territoire | Societe | Ville | Telephone | Classe | Creneau Paris | Statut |
-|---|---|---|---|---|---|---|
-| Guadeloupe | **La Vitrerie** | Baie-Mahault (ZAC Moudong Sud) | `+590 590 38 78 20` | NEGOCE | 14h - 22h | ENVOYE 2026-10-09 |
-| Guadeloupe | **Leader Mat Guadeloupe** | Baie-Mahault (ZI de Jarry, rue Thomas  | `+590 590 32 64 80` | NEGOCE | 14h - 22h | A APPELER |
-| Guadeloupe | **WM Guadeloupe (WMG SAS)** | Baie-Mahault (15 rue de la Chapelle, Z | `+590 974 56 05 24` | NEGOCE | 14h - 22h | A APPELER |
-| Guyane | **Le Batiment Guyanais** | Matoury (route du Larivot), Cacao, Man | `+594 594 38 08 50` | NEGOCE | 13h - 21h | A APPELER |
-| La Réunion | **Comptoir de Cambaie** | Saint-Paul (ZI de Cambaie) | `+262 262 45 69 06` | NEGOCE | 06h - 14h | ENVOYE 2026-10-13 |
-| La Réunion | **PIECESMENUISERIE COM** | Le Port (16 rue Claude Chappe) et Sain | `+262 262 32 95 04` | NEGOCE | 06h - 14h | ENVOYE 2026-10-14 |
-| La Réunion | **Ravate Professionnel** | Le Port (ZI n1, rue Stevenson) et Sain | `+262 262 42 49 49` | NEGOCE | 06h - 14h | A APPELER |
-| Martinique | **Cottrell** | Le Lamentin (ZI Jambette) et cinq autr | `+596 596 50 39 16` | NEGOCE | 14h - 22h | ENVOYE 2026-10-14 |
-| Martinique | **Marquibat — Martiniquaise de Quincaillerie Batiment** | Le Lamentin (ZI La Lezarde, Immeuble E | `+596 596 50 74 73` | NEGOCE | 14h - 22h | A APPELER |
-| Martinique | **Martinique Materiaux — Gedimat Martinique** | Le Lamentin (Place d Armes) | `+596 596 57 41 41` | NEGOCE | 14h - 22h | A APPELER |
-| Martinique | **Point Mat** | Ducos (zone de Champigny), Le Francois | `+596 596 564 700` | NEGOCE | 14h - 22h | A APPELER |
-| Mayotte | **Cananga — enseigne Batimax** | Mamoudzou (ZI Kaweni) et Combani | `+262 269 61 83 62` | NEGOCE | 07h - 15h | ENVOYE 2026-10-13 |
-| Guadeloupe | **SOPROVER PLD** | Baie-Mahault | `0590 26 64 40 a confirmer` | VERRIER | 14h - 22h | A QUALIFIER |
-| Guadeloupe | **Univers du Verre** | — | `+590 590 266 458` | VERRIER | 14h - 22h | ADRESSE INVALIDE |
-| Guyane | **ALUVER Guyane** | Cayenne | `+594 594 31 20 50` | VERRIER | 13h - 21h | A APPELER |
-| Guyane | **Glass Alu Matoury** | Matoury (Cogneau Larivot) | `+594 594 35 20 02` | VERRIER | 13h - 21h | A APPELER |
-| La Réunion | **Dijoux Vitrerie et Miroiterie** | Saint-Pierre (Chemin Badamier) | `+262 262 26 68 40` | VERRIER | 06h - 14h | RELANCE 2026-10-12 |
-| La Réunion | **Miro Est** | Saint-André (Chemin Pente Sassy) | `+262 262 58 01 39` | VERRIER | 06h - 14h | EN NEGOCIATION |
-| La Réunion | **Miroglass** | Le Port | `+262 262 42 01 54` | VERRIER | 06h - 14h | A APPELER |
-| La Réunion | **Réunivitre** | Sainte-Suzanne et Saint-André | `+262 693 47 00 58` | VERRIER | 06h - 14h | ENVOYE 2026-10-09 |
-| La Réunion | **SOFAVI - Agence Sud de SOREMIR** | Saint-Pierre (ZI n3, 30 avenue Charles | `+262 262 35 48 74 a confirmer` | VERRIER | 06h - 14h | A VALIDER AARON |
-| La Réunion | **SOREMIR — Sté Réunionnaise de Miroiterie** | — | `+262 262 29 18 17` | VERRIER | 06h - 14h | A VALIDER AARON |
-| Martinique | **SAMIR** | Fort-de-France | `+596 596 50 00 22` | VERRIER | 14h - 22h | A APPELER |
-| Mayotte | **Techniglass Mayotte** | Mamoudzou (ZI Kaweni) | `+262 269 63 56 54` | VERRIER | 07h - 15h | A APPELER |
-| Nouvelle-Calédonie | **EGPV Miroiterie Vitrerie** | Nouméa (7 rue Ampère) | `+687 27 43 60` | VERRIER | 23h - 07h | A APPELER |
-| Nouvelle-Calédonie | **MIVI — Miroiterie Vitrerie** | Nouméa | `+687 24 11 84` | VERRIER | 23h - 07h | RELANCE 2026-10-12 |
-| Polynésie française | **SPM — Société Polynésienne de Miroiterie** | Arue (Tahiti) | `+689 40 43 64 60` | VERRIER | 20h - 04h | RELANCE 2026-10-12 |
-| Martinique | **Diamant Verre** | Le Marin | `+596 696 433 209` | AUTRE | 14h - 22h | A QUALIFIER |
-| Sint Maarten | **Rollfix** | Cole Bay (Well Road 9 Jobco Complex) | `+1 721 543 5960` | AUTRE | 14h - 22h | RELANCE 2026-10-14 |
-| Guadeloupe | **ALU ACTION** | Pointe-a-Pitre (Faubourg Alexandre Isa | `+590 970 35 65 99` | ALU-POSE | 14h - 22h | ENVOYE 2026-10-09 |
-| Guadeloupe | **Alu Technologie** | Petit-Bourg (Colin Nord-Ouest) et Sain | `+590 590 25 77 98` | ALU-POSE | 14h - 22h | ENVOYE 2026-10-09 |
-| Guadeloupe | **Alumettal** | Petit-Canal (Gros Cap) | `+590 970 35 14 90` | ALU-POSE | 14h - 22h | ENVOYE 2026-10-09 |
-| Guadeloupe | **FIC ALU** | Basse-Terre (75 rue Maurice Marie Clai | `+590 590 81 13 09` | ALU-POSE | 14h - 22h | ENVOYE 2026-10-09 |
-| Guadeloupe | **SOJAG** | Baie-Mahault (Quartier Boisneuf, rond- | `+590 590 32 07 07` | ALU-POSE | 14h - 22h | ENVOYE 2026-10-09 |
-| Guadeloupe | **TPF ALU** | Baie-Mahault (Lieu-dit Calvaire, Chape | `+590 970 35 97 37` | ALU-POSE | 14h - 22h | ENVOYE 2026-10-09 |
-| Guyane | **ALUBAT Guyane SAS (groupe C.P.G.)** | Cayenne | `05 94 37 79 45` | ALU-POSE | 13h - 21h | A APPELER |
-| Guyane | **Alupose** | Cayenne (92 Cite Horth) | `+594 694 02 28 22` | ALU-POSE | 13h - 21h | ENVOYE 2026-10-15 |
-| Guyane | **MG Aluminium (Menuiserie Guyanaise d Aluminium)** | Cayenne (ZI Collery 4 Est) et Matoury | `0594 37 79 58` | ALU-POSE | 13h - 21h | ENVOYE 2026-10-12 |
-| Martinique | **Alu Espace +** | Ducos (ZAC La Marie) | `0596 54 14 36` | ALU-POSE | 14h - 22h | A APPELER |
-| Martinique | **Solutions FAR (Fourniture Aluminium et Renovation)** | Ducos (zone Cocotte) | `0596 77 11 11` | ALU-POSE | 14h - 22h | A APPELER |
+### 2. SAMIR — Fort-de-France — **+596 596 50 00 22** — appeler a **15h00 Paris**
+Miroiterie, decoupe, verres speciaux, vitrages de securite. **⚠ Et sa fiche porte une correction a
+connaitre avant de decrocher :** elle affirmait *territoire francais, pas de droits de douane UE*,
+ce qui est **exact sur le droit de douane et faux sur la fiscalite** — l octroi de mer externe
+s applique au verre europeen. **Corrige le 08/10, et le sujet ne se rouvre pas au telephone.**
+**⚠ Son adresse e-mail est morte** : le MX de `samir-martinique.fr` repond mais designe une machine
+`mail.samir-martinique.fr` **absente du DNS en A comme en AAAA**. Un nom absent du DNS ne reapparait
+pas tout seul — **donc le telephone est le seul canal, et c est definitif.**
 
-## ⚠️ TROIS PIEGES DANS CETTE LISTE MEME, A LIRE AVANT DE COMPOSER
+---
 
-1. **SOPROVER PLD et ALUBAT Guadeloupe PARTAGENT LE STANDARD.** Le `0590 26 64 40` de SOPROVER est
-   le meme numero qu ALUBAT, a Jarry Moudong, **et ALUBAT est en NE PAS DEMARCHER**. Le rapprochement
-   a ete fait a la main le 09/10 puis confirme par `detecte-doublons.py` le 12/10, apres correction
-   de son signal telephone sur les neuf derniers chiffres. **Donc cet appel peut tomber chez une
-   maison qu on ne doit pas demarcher** : la premiere question est de savoir a qui l on parle.
-   Le champ porte d ailleurs `a confirmer`, ce qui est honnete et ne repare rien.
-2. **Univers du Verre est en ADRESSE INVALIDE**, avec deux rebonds et le mot irrecuperable dans sa
-   note. Elle est dans cette liste **parce que le telephone est tout ce qui reste**, pas parce que
-   la fiche est neuve.
-3. **Miro Est est EN NEGOCIATION et Kevin tient le dossier lui-meme.** Elle figure ici pour que
-   personne ne l appelle a froid par-dessus lui.
+## LES DIX-NEUF AUTRES, PAR ORDRE DE CLASSE DE METIER
 
-## DEUX CHOSES A SAVOIR AVANT DE DECROCHER, ET ELLES SONT DES INTERDITS
+**Le tri du paragraphe 6 gouverne l ordre : negoce et verrier pur d abord, aluminium et pose en
+dernier.** Et une reserve propre a l insulaire, qui joue en faveur des negociants de materiaux :
+**aux Antilles tout arrive par conteneur**, donc un gros negoce de materiaux **importe deja** et
+sait decharger — ce qui n est pas vrai d un negoce continental equivalent.
 
-1. **RIEN SUR LA FISCALITE A L ENTREE.** L octroi de mer externe s applique au verre europeen, le
-   seul document trouve qui nomme le chapitre 70 le porte a 30 pour cent — mais il date de 2016 et
-   son territoire n est pas identifie, **donc il n est pas citable**. Et la Nouvelle-Caledonie et la
-   Polynesie ne sont pas des DOM : elles ont leurs propres taxes, inconnues.
-   **La question a poser a un transitaire, et elle est precise : un transformateur de verre des
-   Antilles importe-t-il son float brut en exoneration d octroi de mer au titre des intrants de
-   production ?** Seize fiches en dependent, dont notre seul client export.
-2. **REGLE PRODIESA.** Ce qu une maison FABRIQUE sort de l offre, ce qu elle ACHETE y entre. Devant
-   un trempeur ou un miroitier, on ne propose que le **substrat** — float clair et extra-clair,
-   low-E, miroir sans cuivre ni plomb.
+### Classe NEGOCE — a appeler en premier
+| Societe | Territoire | Numero | Heure Paris | Objectif de l appel |
+|---|---|---|---|---|
+| **Ravate Professionnel** | La Reunion | +262 262 42 49 49 | **07h00** | Le plus gros negoce de l ile. Savoir **qui achete le verre** et s ils importent en direct |
+| **Point Mat** | Martinique | +596 596 564 700 | **15h00** | Reseau de cinq a six magasins. Meme question, plus le **volume** |
+| **Martinique Materiaux — Gedimat** | Martinique | +596 596 57 41 41 | **15h00** | ⚠ **Gedimat est une enseigne de groupement** : savoir si les achats sont **centralises en metropole**, ce qui fermerait le dossier |
+| **Le Batiment Guyanais** | Guyane | +594 594 38 08 50 | **14h00** | Grossiste bois et materiaux. ⚠ Son domaine de messagerie reel est **bg973.fr** et non batiment-guyanais.com — piege du domaine voisin, a confirmer |
+| **Leader Mat Guadeloupe** | Guadeloupe | +590 590 32 64 80 | **15h00** | ⚠ Sa seule adresse trouvee est celle de son **agence web**, `contact@sybaxis.com`, donc inutilisable. Demander **une adresse d achats** |
+| **WM Guadeloupe (WMG SAS)** | Guadeloupe | +590 974 56 05 24 | **15h00** | ⚠ L adresse des donnees structurees est **corrompue d une lettre** — `vm-` au lieu de `wm-`. Demander la vraie |
+| **Marquibat** | Martinique | +596 596 50 74 73 | **15h00** | Grossiste quincaillerie et fournitures. Verifier si le **verre plat** est une ligne reelle |
 
-## ET LE DOSSIER LE PLUS AVANCE DE LA ZONE EST DEJA OUVERT
-**Miro Est (Saint-Andre, La Reunion) est en NEGOCIATION** et a donne ses cinq references le 12/10.
-**SOREMIR, SOFAVI et Riou Ocean Glass sont UN SEUL compte du groupe Riou**, en attente d arbitrage
-depuis le 08/10 — ils ne figurent pas ci-dessous et ne doivent pas etre appeles avant.
+### Classe VERRIER PUR — a appeler ensuite
+| Societe | Territoire | Numero | Heure Paris | Objectif |
+|---|---|---|---|---|
+| **Miroglass** | La Reunion | +262 262 42 01 54 | **07h00** | Au **Port**, donc a quai. References et volume |
+| **Glass Alu Matoury** | Guyane | +594 594 35 20 02 | **14h00** | 20 a 49 salaries, le plus gros verrier guyanais apres ALUVER |
+| **Techniglass Mayotte** | Mayotte | +262 269 63 56 54 | **08h00** | ⚠ **Ouvert lundi-jeudi 7h30-15h30, vendredi jusqu a 12h30** — fenetre etroite, 8h de Paris tombe juste |
+| **SOPROVER PLD** | Guadeloupe | 0590 26 64 40 | **15h00** | ⚠ **Meme standard qu ALUBAT Guadeloupe**, qui est en NE PAS DEMARCHER — trancher le lien **avant** de parler offre |
+| **EGPV Miroiterie Vitrerie** | Nouvelle-Caledonie | +687 27 43 60 | **07h00** | Z.I. Ducos. Fenetre unique dans la journee |
+| **Diamant Verre** | Martinique | +596 696 433 209 | **15h00** | ⚠ Metier **non etabli**, et ⚠ **homonyme sans rapport a Noumea** — ne jamais confondre les deux fiches |
+| **Univers du Verre** | Guadeloupe | +590 590 266 458 | **15h00** | ⚠ **Deux rebonds**, adresse irrecuperable. Sert la Guadeloupe, la Martinique **et** Saint-Martin, donc volume groupe |
+
+### Classe ALUMINIUM ET POSE — en dernier, et pas du tout si le temps manque
+A 3,6 pour cent au tri du paragraphe 6, contre 10 et 12,8 pour les deux classes ci-dessus.
+**ALUBAT Guyane SAS** (05 94 37 79 45) · **Alu Espace +** (0596 54 14 36) ·
+**Solutions FAR** (0596 77 11 11).
+
+### ⚠ NE PAS APPELER — compte protege en attente d arbitrage
+**SOFAVI** (+262 262 35 48 74) et **SOREMIR** (+262 262 29 18 17) sont **le meme compte**, celui du
+**groupe RIOU**, qui a aussi **Riou Ocean Glass** a Maurice et **Euroglas-De Landtsheer** en
+Belgique — **quatre societes, un seul compte**, en attente d arbitrage d Aaron depuis le 08/10.
+Le lien n est etabli ni par la raison sociale ni par le nom : il l est par le **domaine
+riouglass.re** porte par les deux adresses. **Les appeler avant l arbitrage serait un troisieme
+contact a une maison dont on ne sait pas encore si on la demarche.**
+
+---
+
+## ⚠ CE QUI NE SE DIT DANS AUCUN DE CES APPELS
+
+1. **RIEN, ni dit ni laisse entendre, SUR LA FISCALITE A L ENTREE.** L octroi de mer externe
+   s applique au verre europeen dans les DOM, et la loi du 02/07/2004 traite comme une
+   **importation** l entree de marchandises d un autre Etat membre. Le seul document trouve qui
+   nomme le chapitre 70 le porte a **30 pour cent**, mais il date d environ 2016, son territoire
+   n est pas identifie et il **n est pas citable**. **Et l exoneration des INTRANTS de production,
+   qui changerait tout pour un transformateur, est une question ouverte** dans
+   `DECISIONS-AARON.md` — c est precisement ce qu un interlocuteur antillais saurait nous dire, et
+   **on peut le lui DEMANDER sans rien affirmer.**
+   **La Nouvelle-Caledonie et la Polynesie ne sont pas des DOM** : hors territoire douanier de
+   l Union, taxes propres, **meme interdit**.
+2. **Aucun prix, aucun delai, aucun certificat, aucune condition de paiement.** Formule imposee :
+   *nous pouvons etablir une offre pour la livraison a votre port de destination, sous reserve de
+   validation de notre cote*.
+3. **Jamais nommer nos usines partenaires**, ni leur pays, ni leur nombre.
+4. **Regle Prodiesa, a verifier societe par societe avant de parler gamme :** ce qu une maison
+   **fabrique** sort de l offre, ce qu elle **achete** y entre. Un miroitier n achete pas de
+   miroir, il achete du float a argenter.
+5. **Et rien ne s envoie apres l appel sans l accord expres de Kevin** — ni devis, ni documentation,
+   ni message de suite. Le texte se prepare et il attend.
