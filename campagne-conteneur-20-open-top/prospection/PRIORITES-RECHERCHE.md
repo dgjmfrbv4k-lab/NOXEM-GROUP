@@ -2632,3 +2632,49 @@ chercher en banlieue. Maspeth est pres d un port — j en ai conclu qu il fallai
 ports. **Dans les deux cas le fait etait vrai et la regle etait fausse, parce que ce qui rend une
 maison bonne n est pas ce qui permet de la trouver.** Deux appels pour l apprendre, et ils evitent
 les douze que les deux fausses regles auraient coutes.
+
+
+## ⚠️⚠️ LE CNAE DU GROS NE RATTRAPE PAS LA LISTE QU `econodata` VENDAIT — MESURE DE PORTO ALEGRE DU
+## 19/10 A 15h15, ET ELLE CHIFFRE LE COUT DE LA REGLE DES COURTIERS AU LIEU DE L ESTIMER
+
+**Le §5 garde, du resultat `econodata` interdit du 15/10, UNE chose : le CNAE
+`46.79-6-03 — comercio atacadista de vidros, espelhos, vitrais e molduras`**, parce qu une
+nomenclature publique n est pas une donnee vendue. Il le presente comme **« un critere de recherche
+reutilisable sur n importe quelle source permise »**. **Teste aujourd hui sur Porto Alegre, la ville
+meme ou le courtier annoncait 192 societes de verre dont SIX a ce code. Il ne rattrape pas la
+liste.**
+
+**HUIT NOMS RENDUS, UN SEUL UTILISABLE.** Mega Vidros, Vidracaria Marques, Imbex, Sigallis, JR
+Vidros, Porto Alegre Vidros : **des vidracarias qui posent et vendent au particulier, sur mesure** —
+la classe a **ZERO pour cent** du §6. Mundial Vidros etait deja au registre en relance.
+**Seule prise : `Glasspoa — A Loja do Vidraceiro`**, fiche creee en `A QUALIFIER`.
+
+**POURQUOI LA RECHERCHE PERMISE N Y ARRIVE PAS, ET LA CAUSE EST PRECISE :** un moteur indexe des
+**pages de vente**, et un grossiste de vitriers n en fait pas — il n a pas de client a attirer sur
+le web, sa clientele est professionnelle et deja connue. **Les vidracarias, elles, vivent du
+referencement local**, donc elles occupent tous les resultats. Le CNAE, lui, vit dans un **registre**
+que le moteur n indexe pas page par page. **Le code est donc un bon critere et un mauvais mot-cle :
+il sert a LIRE un registre, pas a INTERROGER un moteur.**
+
+**CE QUE CELA CONFIRME DU §5, ET IL FAUT LE DIRE SANS L ARRONDIR : le cout de la regle des courtiers
+sur cette ville est reel et il est de l ordre de cinq fiches.** Le §5 l avait estime a cinq le 15/10
+et l avait assume ; la mesure d aujourd hui ne le reduit pas. **La regle tient quand meme** — mieux
+vaut cinq fiches de moins qu une liste qualifiee par une source qu on s interdit, c est la lecon
+Sealvid — **mais on ne doit plus esperer que le CNAE la remplace.**
+
+**ET LA SEULE PRISE PORTE ELLE-MEME LE SIGNAL CONTRAIRE, ce qui est instructif :** `Glasspoa` a le
+CNAE du gros en activite **secondaire** et la **fabrication de produits en METAL** en principale. Le
+mot `metal` est precisement celui qui ferme une piste au §6 — c est lui qui a fait ecarter l AGMA et
+ses vingt-huit membres. **Non tranche, et c est pour cela qu elle est en `A QUALIFIER` et non en file
+d envoi.** Son enseigne — *la boutique du vitrier* — dit l inverse de son code principal.
+
+**CONDUITE POUR LE RIO GRANDE DO SUL, qui reste sous-couvert et COTIER :**
+· **Ne plus interroger un moteur avec un code CNAE.** Deux fiches seulement y sont, Cantini et
+  Glasspoa, toutes deux a Porto Alegre et toutes deux en `A QUALIFIER` ou `A APPELER`.
+· **La voie qui reste est la federation**, et le §6 nomme **Sindividros-RS** parmi les non testees.
+  ⚠️ Mais son nom commence par *sindicato*, et la mesure du 15/10 dit qu un **syndicat publie
+  rarement ses affilies** la ou une **association** le fait souvent — les trois syndicats du
+  *comercio atacadista* testes ce jour-la n ont rendu **aucun** nom. **Donc : lire sa page membres
+  AVANT de depenser l appel, cela coute zero.**
+· **Et Porto Alegre vaut l effort** : a 300 km du port de Rio Grande et dotee de son propre port
+  fluvial, c est l une des meilleures situations portuaires du registre bresilien.
