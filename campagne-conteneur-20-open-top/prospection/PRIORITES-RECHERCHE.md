@@ -2105,3 +2105,42 @@ coincidence** : apres Midwest Glass Fabricators passee a Oldcastle et Glass + Mi
 une division de Glass + Metal Craft, **une liste de certification fige le nom et l adresse du SITE
 au jour de l essai**. Sur cette source, le reflexe n est donc pas seulement de greper le nom, c est
 de **chercher le groupe**.
+
+## ⚠️⚠️ SOURCE NEUVE DU 19/10 A 12h21 : LE SGCC, ET IL VISE LA MEILLEURE CLASSE DE METIER DU REGISTRE
+
+Le **Safety Glazing Certification Council** certifie le verre de **securite**, c est-a-dire le
+**TREMPE** et le **FEUILLETE**. **Il recense donc des TREMPEURS, la classe que le paragraphe 6
+mesure a 12,8 pour cent de reponse — la plus productive du registre, devant le negoce a 10 et loin
+devant la facade a 3,6.**
+
+**EN QUOI IL VAUT MIEUX QUE L IGCC, ET C EST SUR TROIS POINTS :**
+1. **LE METIER VISE.** L IGCC recense des assembleurs d unites isolantes, dont beaucoup sont des
+   menuisiers integres — Andersen, Pella, Fenplast. Le SGCC recense des **fours**, et un four ne
+   tourne que si de la feuille entre.
+2. **UNE SECTION PAR USINE ET PAS SEULEMENT PAR SOCIETE.** C est precisement ce qui manquait a la
+   liste IGCC et qui a fait ouvrir Midwest Glass Fabricators par erreur, puis mal localiser Glass +
+   Mirror Craft.
+3. **IL EST INTERNATIONAL ET IL LE DIT** : Etats-Unis, Canada, Mexique, **Chine**, Europe, Turquie.
+   ⚠️ La Chine et la Turquie sont **exclues** au paragraphe 6, et **l Europe ne se prospecte plus
+   en neuf** — seules les fiches europeennes existantes se relancent. **Restent les Etats-Unis, le
+   Canada et le Mexique**, qui sont precisement les trois marches ou l argument douanier porte.
+
+**⚠️ ET IL FAUT LIRE SES NOMS AVEC LA LISTE DES CONCURRENTS DU PARAGRAPHE 6 OUVERTE, parce que le
+premier releve en contenait trois :** *Vandaglas **Eckelt*** est autrichienne et **Eckelt Glas est
+une filiale de SAINT-GOBAIN**, *Sisecam Duzcam* est turque et nommee au paragraphe 6, et des
+entites **Guardian** figurent aux annuaires anciens. **Un annuaire de certification ne trie pas les
+producteurs float de leurs clients : il certifie les deux.**
+
+**SIX NOMS RELEVES, TOUS ABSENTS DU REGISTRE, ET VOICI L ORDRE :**
+1. **Chicago Tempered Glass** — faite, texte 259.
+2. **Bronco Industries** (Delta, Colombie-Britannique) — **le Canada est le plus gros bloc du
+   registre** et l argument du paragraphe 6 y est le plus solide.
+3. **Allglass Tempering** (Schiller Park, Illinois) et **Star Glass Tempering** (Chicago), cette
+   derniere remontee incidemment dans le meme appel.
+4. **Paragon Tempered Glass**, **Crystal Tempering**, **Nashville Tempered Glass** — releves aux
+   annuaires de 2012 a 2016, donc **anciens** : greper le nom ET chercher le groupe, regle Hehr.
+
+**⚠️ ET LA MEME QUESTION SE POSE POUR LE RESTE DU MONDE : quel organisme certifie le verre de
+securite en Amerique du Sud, dans le Golfe, en Afrique australe ?** Si la reponse existe, c est le
+meme filon applique a des marches ou nous avons des dizaines de fiches sans metier etabli. A tester
+au prochain tour, **un appel suffit pour savoir**.

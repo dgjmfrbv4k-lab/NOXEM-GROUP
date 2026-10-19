@@ -17066,3 +17066,96 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 259. Chicago Tempered Glass Inc. (Chicago, Illinois) — `info@chicagotemperedglass.com` — ANGLAIS — premier contact
+
+### PREPARE LE 12h20 le 19/10 — NON ENVOYE. Attend l accord expres de Kevin, consigne du 15/10 a 09h41.
+
+- **PREMIERE FICHE D UNE SOURCE NEUVE, ET C EST LA MEILLEURE DE LA JOURNEE EN TERMES DE CIBLAGE :
+  LE SGCC, *Safety Glazing Certification Council*.** Il certifie le verre de **securite**, donc les
+  **TREMPEURS** — exactement la classe a **12,8 pour cent** du §6, la plus productive du registre.
+  **La liste IGCC visait les assembleurs d unites isolantes, celle-ci vise les trempeurs**, et les
+  deux sont internationales : Etats-Unis, Canada, Mexique, Chine, Europe, Turquie.
+- **⚠️ ET ELLE A UNE SECTION PAR USINE ET NON SEULEMENT PAR SOCIETE**, ce qui est precisement ce qui
+  manquait a la liste IGCC et ce qui a fait ouvrir Midwest Glass Fabricators par erreur ce matin.
+- **TREMPEUR ET FEUILLETEUR**, meilleure classe du §6. Grep passe dans un **appel separe** :
+  **ABSENT**.
+- **Adresse sur LEUR PROPRE site**, meme domaine. **Et leur page dit en clair que les devis et les
+  commandes passent par cette adresse ou par fax** — donc c est le **canal de travail**, pas une
+  boite d accueil. C est mieux qu un `info@` ordinaire.
+- **⚠️ DEUX ADRESSES POSTALES, ET C EST VOULU** : le bureau est sur Mozart Street, **les livraisons
+  vont sur California Avenue**. Les deux sont a eux — **a ne pas lire comme deux etablissements**,
+  et a garder pour un eventuel chiffrage.
+- **⚠️ DEUX NUMEROS D ANNUAIRE NE CONCORDENT PAS** avec celui du site, dont un en indicatif 312.
+  Seul celui qu ils publient est retenu.
+- **REGLE PRODIESA** : trempe et feuilletage **sortent** de l offre.
+- **⚠️ CHICAGO EST UN MARCHE INTERIEUR : le port se demande au lieu de se supposer.**
+- **⚠️ INTERDIT DU §6 TENU** : Vitro et Cardinal produisent. **Argument douanier seul.**
+- **Liens produit presents. Porte de sortie presente. Formule imposee presente. Signature une seule
+  fois.** Jour ouvre verifie.
+
+**Objet :** `Substrate for your tempering line - a second origin`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. I am writing to the address your own site gives for quotes and
+orders, so I hope it is the right desk - if it is not, please pass it to
+whoever buys your sheet.
+
+I am writing to you rather than to a glazing contractor because of what a
+tempering shop is. A furnace earns nothing when it is warm and empty. It
+earns when sheet goes through it, and the sheet has to be there first. Sheet
+by the load is the only thing I deal in.
+
+So let me be precise about what I am NOT offering. The tempering, the
+lamination, the interlayer: that is your work, not mine, and I have nothing
+to sell you there. What I am offering is what sits on the rack before the
+furnace:
+
+- clear and extra-clear float glass, the base of both of your lines
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass, where the coating allows tempering
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor carries antidumping and countervailing duties - 181.52
+percent on the Chinese entity, countervailing duties from 17.3 to 102 percent
+on Malaysia. European glass is named in neither order. That is a customs fact
+and nothing more. I am not quoting you a number in a first letter, and I am
+not claiming our glass is cheap. I am saying the comparison is not what it
+was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so the
+stock size your furnace is set up for is not an obstacle. We can put together
+an offer for delivery to your port of destination, subject to validation on
+our side. Chicago is inland, so I will not guess your port - tell me which
+one your freight already uses and I will work to it.
+
+What I need back is small: which thicknesses actually go through the furnace,
+whether you temper coated stock and which coatings, the sheet sizes your
+tables want, a rough annual volume with how often you buy, and that port.
+
+And the honest part. A tempering shop that has held Chicago has a supplier
+who earned the place, and I am not asking to replace him. I am asking to be
+the second name on the list, for the week the first one is short - and a cold
+furnace is the most expensive thing in your building. If that is of no
+interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
