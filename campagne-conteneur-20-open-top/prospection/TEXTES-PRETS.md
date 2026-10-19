@@ -14952,3 +14952,157 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 ```
 
 ---
+
+## 236. Central Valley Glass & Screen (Sacramento, Californie) — `info@cvgsonline.com` — ANGLAIS — premier contact
+
+**Redige le 19/10 a 09h19. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe sur la ligne entiere** : `central valley`, **ABSENT**.
+- **Adresse sur LEUR page Contact**, domaine identique au site — §5 satisfait.
+- **⚠️ `order@` ET `showers@` ECARTEES** : colonne **client** et boite de produit, tableau du §13.
+- **⚠️ REGLE PRODIESA** : ils fabriquent l isolant et trempent, donc **isolant et trempe sortent de
+  l offre**. Seul le substrat entre.
+- **⚠️⚠️ INTERDIT DU §6 TENU, ET IL EST AIGU ICI** : **Guardian est a Kingsburg et Vitro
+  Architectural Glass a Fresno**, dans leur propre vallee. **Aucune mention d absence de production
+  locale.** L argument est **douanier** et rien d autre, et les taux sont donnes comme un fait
+  public, jamais comme notre tarif.
+- **Liens produit presents. Porte de sortie presente. Signature une seule fois.** Jour ouvre verifie.
+
+**Objet :** `Clear float for the IG line - full containers into Oakland`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing to you because of what you say you are: a wholesale supplier of
+insulated units, tempered glass and screens, running daily delivery across
+Northern and Central California. A house that delivers every day holds
+stock, and stock is bought by the load.
+
+So I am not offering you sealed units or toughened glass. You make those.
+I am offering the sheet that goes in:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+And the reason to read a letter from France rather than bin it is a change
+on your side, which you will know better than I do. Since April the imported
+sheet that used to set the floor on the Pacific coast carries antidumping
+and countervailing duties - 181.52 percent on the Chinese entity,
+countervailing duties on Malaysia. European glass is named in neither order.
+I am not telling you our glass is cheap and I am not quoting a number in a
+first letter. I am saying the comparison is not what it was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order. We can
+put together an offer for delivery to your port of destination, subject to
+validation on our side. Oakland is the obvious one for 88th Street.
+
+To know whether this is worth your time I need very little: which
+thicknesses actually move through the IG line, what sheet size suits your
+cutting, a rough annual volume with how often you buy, and the port.
+
+And I will say the obvious thing. You have a supply line that works and I am
+not asking you to tear it up. I am asking to be the second one, for the week
+the first cannot deliver. If there is no room for that, say so plainly and I
+will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 237. DC Glass Distributors (Sacramento, Californie) — `dcglasssac@comcast.net` — ANGLAIS — premier contact
+
+**Redige le 19/10 a 09h19. RIEN N EST PARTI, et rien ne part sans l accord expres de Kevin.**
+
+- **Grepe sur la ligne entiere** : `dc glass`, **ABSENT** — le seul retour etait *TDC Glass* en
+  Roumanie, sous-chaine.
+- **⚠️ EXCEPTION DU §5 INVOQUEE ET NOTEE** : l adresse est sur un domaine **tiers**, `comcast.net`,
+  mais elle est publiee **sur leur propre page de contact**, ce qui est exactement l exception
+  prevue. `orders@dcglasssac.com` est ecartee, colonne **client** du §13.
+- **⚠️⚠️ LE MEILLEUR SIGNAL DE QUALIFICATION DU LOT** : ils annoncent **stock sheets**, **cut size
+  glass** et **case goods**. Feuille en stock et vente **a la caisse** — c est le critere d **entree**
+  du §5, Karas and Karas a l identique. Plus un **dossier d ouverture de compte** professionnel.
+- **⚠️ SIGNAL DU §12 CONSIGNE** : **Nor Sac Glass & Aluminum est donnee a la MEME adresse**, 3901 Pell
+  Circle. **Aucune fiche Nor Sac** avant d avoir leve le lien — cas American Flat Glass et AGC.
+- **⚠️ INTERDIT DU §6 TENU** : Guardian a Kingsburg, Vitro a Fresno. **Argument douanier seul.**
+- **Liens produit presents. Porte de sortie presente. Signature une seule fois.** Jour ouvre verifie.
+
+**Objet :** `Stock sheets by the container - a second origin`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon, France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys, please pass this on to whoever
+does.
+
+I am writing to you rather than to a glazing contractor because of three
+words on your own homepage: stock sheets, cut size, case goods. A house that
+sells sheet from stock and ships by the case is buying sheet by the load, and
+the load is the only thing I deal in. Everything else I could say follows
+from that.
+
+What I am offering is what goes on the racks before you cut it:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier in one place
+  https://noxemgroup.com/en/catalog/
+
+The timing is not mine, it is yours. Since April the imported sheet that used
+to set the floor on this coast carries antidumping and countervailing duties
+- 181.52 percent on the Chinese entity, countervailing duties on Malaysia.
+European glass is named in neither order. That is a customs fact and nothing
+more - I am not quoting you a number in a first letter, and I am not claiming
+our glass is cheap. I am saying the comparison is not what it was.
+
+We ship FULL CONTAINERS, in treated wooden cases to IPPC/ISPM-15, cut to YOUR
+sizes, or in 3210 x 2550 mm jumbo - the cut length is made to order, so your
+stock sizes are not a problem. We can put together an offer for delivery to
+your port of destination, subject to validation on our side. Oakland, for
+Pell Circle.
+
+What I need back is small: which thicknesses actually turn over, what sheet
+size your cutting table wants, a rough annual volume with how often you buy,
+and the port.
+
+And the honest part. You opened in 2018 and you already run a trade counter,
+so you have a supplier who has earned the place. I am not asking for it. I am
+asking to be the second name on the list, for the week the first one is
+short. If that is of no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
