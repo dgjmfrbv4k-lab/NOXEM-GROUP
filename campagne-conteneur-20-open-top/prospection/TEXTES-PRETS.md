@@ -21901,3 +21901,193 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 310. Lasiluoto Oy (Piikkio, pres de Turku, Finlande) — `lasiluoto@lasiluoto.fi` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 11h13 POUR LA FENETRE DE 8h30 DU 21/10. Non envoye — la journee du 20/10 est a
+20 envois confirmes, soit le HAUT de la bande du paragraphe 10, et plus rien ne part aujourd hui.
+Couvert par l accord expres de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects
+NEUFS, aucune relance.**
+
+- **⚠️⚠️ L ACCROCHE EST UN CHIFFRE LU SUR LEUR PROPRE PAGE, ET C EST LE MEILLEUR GENRE D ACCROCHE :
+  ils publient une cote maximale de vitrage isolant de 3210 x 5800 mm.** Donc leur ligne avale du
+  **3210 de large**, donc un **jumbo y entre sans recoupe**. C est le §4 retourne en argument de
+  vente au lieu d un debat interne : la question du format, qui occupe la moitie du mandat, **ne se
+  pose meme pas avec eux**, et le dire prouve qu on a lu leur page.
+- **METIER ETABLI SUR LEUR PROPRE DOMAINE** : ils ecrivent qu ils FABRIQUENT l isolant dans leur
+  usine de Piikkio. **Classe verrier pur, la meilleure du §6.** La rubrique de la federation est
+  confirmee ici, contrairement a trois autres noms de la meme rubrique testes le meme jour.
+- **Regle Prodiesa stricte** : isolant, securite et chauffant **sortent** de l offre. Seul le
+  substrat y entre — et le **low-E** en premier, qu une ligne d isolant consomme par definition.
+- **⚠️ AUCUN DIRIGEANT NOMME DANS LE MESSAGE, et la distinction merite d etre dite :** Kari Lilja
+  est bien le directeur general, donc une fonction que le §5 autorise a nommer — **mais son adresse
+  n existe que sous forme de SCHEMA prenom point nom, et une adresse deduite d un schema est une
+  adresse inventee**, meme quand la societe publie le schema. Le message part donc a la generale et
+  demande la transmission, ce que le §9 impose deja.
+- **⚠️ RIEN sur les droits, le prix, le delai ou un certificat.** La formule imposee est presente.
+  **L argument du float absent est VRAI en Finlande et il est servi au PASSE** — Lahti arretee en
+  2009 — regle Australie, jamais comme une prophetie. **Piege connu : Pilkington Lahden Lasitehdas
+  existe encore mais en TRANSFORMATION, pas en four**, et le texte ne confond pas les deux.
+- **Porte de sortie du §9 presente. Signature du §10 une seule fois.** Port Turku ou Naantali.
+
+**Objet :** `Your 3210 mm line and a second origin for the sheet`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing to you because of a number on your own page. You give the maximum
+size of your insulating units as 3210 by 5800 mm. That tells me your line takes
+sheet at full jumbo width, which is not true of most works your size, and it
+means a standard jumbo goes onto your table as it arrives, with nothing to cut
+away first. For a supplier that is the whole question, so let me get it out of
+the way: with you it does not arise.
+
+What does arise is where the sheet comes from. The last float furnace in
+Finland, at Lahti, was shut in 2009, and the last one in the Nordic countries,
+Halmstad, in 2013. Every square metre you laminate into a unit at Piikkio has
+crossed a border or a sea before you touch it. The question is not whether to
+import. It is how many origins you can call on when the one you use is short,
+or when a coating you need is out of programme that month.
+
+I am not offering you insulating units, safety glass or heated glass. You make
+all three at Piikkio. I am offering what goes into them:
+
+- low-E, low emissivity glass - the one that matters most to you, since a
+  sealed unit line consumes coated sheet by definition
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- clear and extra-clear float glass, the base of the range
+  https://noxemgroup.com/en/float-glass/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm, and the length is
+cut to order. We can put together an offer for delivery to your port of
+destination, subject to validation on our side - Turku or Naantali, whichever
+you clear through.
+
+What I need back is short. Which thicknesses actually move through Piikkio, and
+in what sheet size you take them. Which low-E coatings you work with, and
+roughly what volume of coated sheet in a year. How often you replenish. And the
+port.
+
+And the honest part. A works that runs a sealed unit line plans its supply a
+long way ahead and does not change it on a first email. I am not asking you to.
+I am asking to be a qualified second name, ready for the month when the first
+one is short. If there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 311. PL-Glass Oy — PLG (Haapajarvi, Finlande) — `myynti@plg.fi` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 11h13 POUR LA FENETRE DE 8h30 DU 21/10. Non envoye, meme motif que le texte 310 :
+la bande du paragraphe 10 est atteinte pour la journee. Couvert par l accord expres de Kevin du
+19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS, aucune relance.**
+
+- **METIER ETABLI SUR LEUR PROPRE DOMAINE ET DANS LEURS PROPRES MOTS : LASINVALMISTAJA, fabricant
+  de verre**, fonde en 1980, pour l industrie du batiment. **Classe verrier pur, la meilleure du §6.**
+- **⚠️⚠️ L ACCROCHE EST UN FAIT DE PRODUIT ET NON UNE FLATTERIE : ils publient des U de 0,5 a 2,3
+  W/m2K en TRIPLE et des unites jusqu a QUATRE feuilles.** Un U de 0,5 en triple suppose **deux faces
+  a couche**, donc une maison qui achete du low-E **en continu et en quantite**. C est exactement la
+  cible de la page low-E du §8, et le climat finlandais est celui ou l argument porte.
+- **Et le second fait montre un vrai four plutot qu une sous-traitance** : leur page precise que le
+  percage et le meulage se font **avant** la trempe — ce qu on n ecrit que lorsqu on trempe soi-meme.
+  **Un four ne tourne que si de la feuille entre**, raisonnement du §6 sur la classe verrier pur.
+- **Regle Prodiesa stricte** : trempe, isolant, feuillete, imprime, bombe et coupe-feu **sortent** de
+  l offre. Seul le substrat y entre.
+- **⚠️ CE QUE LE TEXTE NE FAIT PAS, FAUTE STADIP DU 12/10 : il ne mentionne NULLE PART qu ils
+  representent Pyrobel, donc AGC.** Une licence de verre coupe-feu ne dit rien de qui leur fournit
+  leur float, et l ecrire reviendrait a leur apprendre quelque chose sur leur propre fournisseur
+  pour fabriquer un doute qu ils n ont pas souleve. **Le fait reste dans la fiche, pas dans le
+  message.**
+- **⚠️ RESERVE D AGE ASSUMEE DANS LE TEXTE** : leurs pages datent d environ 900 jours, donc la gamme
+  se **pose** et ne s affirme pas — « as your pages describe it ».
+- **⚠️ RIEN sur les droits, le prix, le delai, un certificat. Formule imposee presente. Argument du
+  float absent servi au PASSE.** Aucun dirigeant nomme, aucune fonction d achats publiee.
+- **Porte de sortie du §9 presente. Signature du §10 une seule fois.** Port Helsinki, Rauma ou
+  Kokkola — Haapajarvi est dans l interieur du Nord, et le message le demande au lieu de le choisir.
+
+**Objet :** `The coated sheet behind a 0.5 triple unit`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing to you rather than to a glazing firm because of what you call
+yourself and what your figures say. You describe yourselves as a glass
+manufacturer, making building, insulating and fire glass to order for the
+construction industry since 1980 - and you publish U values down to 0.5 W/m2K
+on triple units, with elements of up to four panes. A 0.5 triple is not built
+out of plain glass. It needs two coated surfaces, which means your works buys
+low-E sheet continuously and in volume, not job by job.
+
+Your pages also say that drilling and grinding are done before toughening,
+which is something a firm only writes when the furnace is its own. A furnace
+only runs if sheet goes into it.
+
+That sheet has to come from somewhere, and in Finland it comes from abroad. The
+furnace at Lahti was shut in 2009 and the last Nordic one, Halmstad, in 2013.
+The question is not whether to import. It is how many origins you can call on
+when the one you use is short, or when a coating is out of programme.
+
+So I am not offering you insulating units, toughened glass, laminated glass or
+fire glass. You make all of those. I am offering what goes in underneath:
+
+- low-E, low emissivity glass - the one that matters most to a works building
+  triples at those U values
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- clear and extra-clear float glass, the base of the range
+  https://noxemgroup.com/en/float-glass/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is cut
+to order, so the format your cutting table is set to is not an obstacle. We can
+put together an offer for delivery to your port of destination, subject to
+validation on our side.
+
+What I need back is short, and I would rather have it from you than read it off
+pages that have not been updated in a while. Which low-E coatings you actually
+work with, and roughly what volume of coated sheet in a year. Which thicknesses
+of clear float move through Haapajarvi, and in what sheet size. How often you
+replenish. And which port you clear through - Haapajarvi is inland, so that is
+your call and not mine.
+
+And the honest part. A works that has been buying from the same people since
+1980 does not change supplier on a first email. I am not asking you to. I am
+asking to be a qualified second name, ready for the month when the first one is
+short. If there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

@@ -1538,6 +1538,38 @@ lui attribue une table de droits d'importation la cite en réalité comme la par
    est ambigu : il faut alors lire trois noms de membres avant de dépenser le reste.
    **C'est exactement le tri métier du §6 appliqué un cran plus haut — à la fédération plutôt qu'à la
    société — et il économise vingt-huit vérifications pour une lecture de titre.**
+   **⚠️⚠️ ET LE 20/10 DESCEND LA MÊME RÈGLE D'UN CRAN DE PLUS — AU NOM DU **MEMBRE** ET NON DE LA
+   FÉDÉRATION — PARCE QU'UNE RUBRIQUE PRODUIT BIEN CHOISIE RESTE À MOITIÉ FAUSSE, ET C'EST MESURÉ.**
+   La **SUOMEN TASOLASIYHDISTYS RY** est exactement la bonne source au sens ci-dessus : association
+   nationale du verre plat, ~150 membres, **qui publie ses adhérents PAR GROUPE DE PRODUIT**. Sa
+   rubrique `ERISTYSLASIT`, les vitrages isolants, devrait donc désigner des **fabricants** d'isolant.
+   **Cinq de ses noms ont eu leur second temps le 20/10. DEUX fabriquent, TROIS posent.**
+   · **PL-Glass Oy — PLG** (Haapajärvi) : se dit **`lasinvalmistaja`**, fabricant de verre, triple à
+     **U 0,5** et faconnage **avant** trempe. **Fabricant.**
+   · **Lasiluoto Oy** (Piikkiö) : écrit fabriquer l'isolant **dans son usine**, cote maxi
+     **3210 × 5800**. **Fabricant.**
+   · **Raahen Lasi** : *« eristyslasit toimitetaan tilauksesta »* — l'isolant est **livré sur
+     commande**, donc acheté fini. Vitrier-poseur, revendeur de systèmes Lukkan.
+   · **Maakunnan Lasi** : deux agences et une **ligne de dépannage payante**. Vitrier.
+   · **Lasitalo Oy Tampere** : **sept salariés**, terrasses, balcons, garde-corps. Vitrier.
+   **DONC UNE RUBRIQUE PRODUIT RECENSE CEUX QUI VENDENT LE PRODUIT, PAS CEUX QUI LE FONT** — c'est la
+   leçon Imporex appliquée à une source que le §6 autorise, et la réserve que la note de Seloy avait
+   **posée** le matin même est maintenant **chiffrée** : environ deux sur cinq dans la queue de liste.
+   **⚠️ ET DEUX PRÉDICTEURS ONT TENU, TOUS DEUX À ZÉRO APPEL — à garder comme hypothèses mesurées et
+   non comme lois, le dénominateur étant de cinq.**
+   **Un. LA DOUBLE RUBRIQUE.** La note de Seloy avait désigné d'avance les noms figurant dans **DEUX**
+   groupes de produit comme les plus forts. `PLG` est dans `ERISTYSLASIT` **et** `KARKAISTUT LASIT`,
+   et c'est l'un des deux fabricants. `BestGlass` l'était aussi et avait été envoyée le matin.
+   **Une maison listée sous deux procédés en exploite deux, donc elle a des machines.**
+   **Deux. LA FORME DU NOM, et elle est lisible dans n'importe quelle langue.** Les trois poseurs
+   s'appellent **`<ville ou région> + Lasi`** — *Raahen* Lasi, *Maakunnan* Lasi — ou portent un mot
+   générique du métier, *Lasitalo*, la « maison du verre ». Les fabricants portent une **marque
+   inventée** : Seloy, Tambest, BestGlass, Finnglass, Lasiluoto, PLG. **Un artisan se nomme d'après
+   sa ville, un industriel se donne un nom de marque** — et les suffixes `-palvelu` (service) et
+   `-asennus` (pose) le disent carrément. Sur ce critère, les quatre noms finlandais encore consignés
+   — *Myllykosken Lasi*, *Jukan Lasipalvelu*, *Mikkelin Lasiasennus* — se classent d'eux-mêmes en
+   dernier, **sans dépenser un appel**, et c'est exactement ce que la règle du nom de fédération fait
+   un cran plus haut.
    **⚠️⚠️ ET LA REGLE QUI COIFFE TOUT CELA, DEGAGEE LE 19/10 APRES TROIS CAS DANS LA MEME JOURNEE —
    UNE SOURCE NE SE MESURE PAS, CE SONT SES **PAGES** QUI SE MESURENT, UNE PAR UNE.** C'est la forme
    generale de ce que les treize regionales du 15/10 et les deux federations americaines disaient
@@ -3080,7 +3112,23 @@ for k, d in MAJ.items():
     for champ, v in d.items():
         assert v is None or ';' not in v, (k, champ, v)   # AVANT la boucle
 ```
-**Il coûte trois lignes et il transforme une chasse en un message d'erreur.** Même principe pour une création de fiche : contrôler chaque champ de chaque ligne neuve avant de les joindre.
+**Il coûte trois lignes et il transforme une chasse en un message d'erreur.**
+**⚠️⚠️ SEPTIÈME, HUITIÈME ET NEUVIÈME FOIS LE 20/10 À 11h12, LES TROIS DANS LA MÊME ÉCRITURE, ET
+C'EST CE CONTRÔLE-LÀ QUI LES A TOUTES NOMMÉES — DONC IL EST VALIDÉ ET LA PLUME NE L'EST TOUJOURS
+PAS.** Trois des sept fiches nordiques créées portaient un ` ; ` dans leur champ **activité**, et
+pas dans une note : *« plus une division PARE-BRISE automobile **;** le trempé figure dans leur
+gamme »*, *« une ligne de dépannage payante **;** solutions verrières »*, *« vérandas sur mesure
+**;** sept salariés »*. **Les trois sont la même tournure** : une énumération dont le dernier
+membre est d'une autre nature que les précédents, et que le français ponctue naturellement par un
+point-virgule.
+**CE QUE LA MESURE DIT, ET ELLE EST ENCOURAGEANTE DANS UN SENS ET PAS DANS L'AUTRE :** l'`assert`
+en amont a rendu **la clé, le numéro de champ et les 80 premiers caractères** du premier fautif,
+donc la correction a pris une seconde au lieu d'une chasse — c'est exactement ce pour quoi il a été
+écrit le 14/10. **Rien n'a été écrit, aucune fiche n'a été perdue.** Mais c'est la troisième
+journée de suite où la faute revient, et le remède de rédaction du 13/10 — *une énumération se
+ponctue par `Un,` `Deux,` `Trois,` ou par un point* — **n'avait été appliqué qu'aux NOTES**, parce
+que c'est là que les six premiers cas étaient tombés. **Le champ ACTIVITÉ est de la prose lui aussi
+et il obéit à la même règle.** Les trois sont réécrites avec un point. Même principe pour une création de fiche : contrôler chaque champ de chaque ligne neuve avant de les joindre.
  **Raison : le 08/10 j'ai passé la matinée à réparer trois lignes
 cassées par un `;` dans une note, puis j'ai commis exactement la même faute l'après-midi**, sur la
 fiche Manna Glass, dans un script écrit sans `assert`. La consigne ne suffit pas, **il faut que le
@@ -3583,6 +3631,25 @@ awk -F';' -v j="$(TZ=Europe/Paris date '+%Y-%m-%d')" \
   un **prospect** et on sait contre qui l'on se place ; la même marque dans la **raison sociale** dit
   qu'elle lui **appartient**, donc c'est un concurrent. *Glaverpane* se ferme, *Wolff + Meier* s'écrit.
   **Le même mot, deux champs, deux conclusions opposées — c'est l'endroit où il se trouve qui décide.**
+  **⚠️⚠️ ET LE 20/10 AJOUTE UNE TROISIÈME DIMENSION À CETTE RÈGLE, APRÈS LE CHAMP : LE TEMPS. UNE
+  MARQUE LUE DANS LA PAGE D'HISTOIRE D'UNE MAISON N'EST PAS UNE MARQUE DANS SA GAMME.**
+  Cas **Járn og gler** (Reykjavík), grossiste importateur islandais fondé en 1942, consigné le matin
+  même dans la note de Samverk comme nom à reprendre. Son domaine porte bien le mot **`Pilkington`**
+  — et il le porte dans sa page *Fyrirtækið*, à propos de **1975**, l'année où ses importations de
+  verre ont grossi. **Son catalogue d'aujourd'hui, lui, ne contient pas une feuille de verre :**
+  serrures de porte coulissante en verre, charnières JNF, seuils, parcloses, colles, mastics,
+  primaires — **des accessoires POUR le verre** — à côté de matériel d'encadrement et de fournitures
+  de peinture d'art.
+  **LA RÈGLE DEVIENT DONC : la marque compte dans la GAMME COURANTE, pas dans l'HISTORIQUE, pas dans
+  une page *à propos*, pas dans une référence de chantier ancienne.** C'est la leçon Viridian du §6
+  par un autre chemin — *une page « à propos » n'est pas une source d'actualité* — et ici elle décide
+  non pas d'un fait de marché mais de l'ouverture d'une fiche.
+  **Et le coût évité est réel : `Pilkington` + `heildverslun` (grossiste importateur) + une île sans
+  float est, sur le papier, le profil d'importateur le plus net qu'on puisse rêver.** Seule la lecture
+  de la **date** à côté de la marque l'a arrêté. **La réserve GDI que la note de Samverk avait posée
+  le matin — une maison de quincaillerie dont le verre peut être marginal — est donc confirmée, et
+  c'est la deuxième fois dans la journée qu'une réserve écrite d'avance dans une fiche fait gagner
+  l'appel qui la lève.**
   **⚠️⚠️ ET LE 19/10 AU SOIR AJOUTE LES MARQUES DE MIROIR, PRISES DANS UNE SOURCE DE PREMIER RANG —
   LE TEXTE D'UNE RÉSOLUTION DU DOF MEXICAIN, ET NON UN ANNUAIRE.** La résolution antidumping sur le
   *vidrio de espejo* chinois nomme **les quatre producteurs nationaux mexicains de miroir** — **Vitro,

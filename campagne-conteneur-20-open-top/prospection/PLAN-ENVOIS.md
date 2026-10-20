@@ -133,3 +133,31 @@ awk -F';' -v j="$(TZ=Europe/Paris date '+%Y-%m-%d')" \
 ```
 
 Le comptage decide de la taille de la vague. Il se fait **avant** le classement, jamais apres.
+
+
+## FENETRE DU 21/10 A 8h30 — DEUX TEXTES FINLANDAIS DEJA PRETS, PLUS LA FILE NORDIQUE
+
+Armee le 20/10 a 11h15, **apres avoir compte** ce qui etait deja parti dans la journee — c est l ordre
+que la correction ci-dessus impose desormais.
+
+| Fiche | Pays | Texte | Pourquoi elle est en tete |
+|---|---|---|---|
+| **Lasiluoto Oy** (Piikkio) | Finlande | **310** | fabricant d isolant en propre, **et sa cote maxi publiee est 3210 x 5800 mm** — un jumbo entre sur sa ligne sans recoupe, ce qui se dit dans le message |
+| **PL-Glass Oy — PLG** (Haapajarvi) | Finlande | **311** | **se dit fabricant de verre**, triple a **U 0,5** donc deux faces a couche, et faconnage avant trempe donc four en propre |
+
+**Les deux sont CLASSE VERRIER PUR, la meilleure du paragraphe 6 a 12,8 pour cent, et les deux sont
+des acheteurs de LOW-E par necessite industrielle et non par preference.** 8h30 de Paris est 9h30 a
+Helsinki, soit leur matinee pleine.
+
+**ET LA FENETRE DE 14 H DU 21/10 PREND LES CINQ AMERICAINES reportees d aujourd hui :** Syracuse Glass
+(295), DC Glass Distributors (237), Southern Wholesale Glass (245), Insulite Glass Co. (248),
+Mid-American Glass (251).
+
+**⚠️ CE QUI DECIDE DE LA TAILLE DES DEUX VAGUES EST LE COMPTAGE DU MATIN, PAS CETTE LISTE.** Sept
+fiches au total depassent la bande de 15 a 20 seulement si d autres envois s y ajoutent — mais le
+comptage se fait quand meme, avant de composer, et il tranche. Et la regle du paragraphe 10 tient :
+**vagues de 5, espacees**, arret immediat si un `5.7.1` tombe d un serveur neuf.
+
+**NE PAS Y METTRE :** Raahen Lasi et Maakunnan Lasi, datees au 27/10 et de dernier rang — ce sont des
+vitriers-poseurs, classe a ZERO pour cent, et elles ne doivent jamais prendre la place d un verrier
+pur dans une vague.

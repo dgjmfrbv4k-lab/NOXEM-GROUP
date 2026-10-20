@@ -8475,3 +8475,65 @@ americaines reportees a demain 14 h avec leurs textes deja prets. La correction 
 **SUITE :** plus aucun envoi aujourd hui. Le temps restant va aux seconds temps des noms consignes —
 les neuf finlandais de la rubrique isolant, les cinq de la rubrique trempe, et `jarngler.is` en
 Islande — pour que la fenetre de 8h30 de demain ait des fiches pretes au lieu d avoir a les chercher.
+
+---
+
+### 20/10 — 11h15 · la rubrique produit d une federation mesuree, sept fiches, deux textes pour demain
+
+**Les cinq chiffres du paragraphe 3, distincts :**
+
+| | |
+|---|---|
+| **Recherches** | **8 appels**, tous sur des noms **deja consignes**, donc sans cout de decouverte |
+| **Envois confirmes** | **20 sur la journee**, **0 dans ce bloc** — la bande du paragraphe 10 est atteinte |
+| **Reponses qualifiees** | 0 |
+| **Demandes de devis** | 0 |
+| **Commandes** | 0 |
+
+**Registre : 1943 fiches, soit SEPT de plus. Textes : 311, soit DEUX de plus, tous deux prets pour
+la fenetre de 8h30 de demain.**
+
+**LE RESULTAT DE METHODE DU BLOC VAUT PLUS QUE LES FICHES : LA RUBRIQUE `ERISTYSLASIT` DE LA
+FEDERATION FINLANDAISE EST A MOITIE FAUSSE, ET C EST MAINTENANT CHIFFRE.** Cinq de ses noms ont eu
+leur second temps. **Deux fabriquent, trois posent.**
+
+- **PL-Glass Oy — PLG** (Haapajarvi) — **fabricant**, se dit `lasinvalmistaja`, triple a **U 0,5**
+  donc deux faces a couche, faconnage avant trempe donc four en propre. Represente Pyrobel, donc
+  AGC : une marque dans une gamme dit qu on **achete**. Fiche creee, texte **311**.
+- **Lasiluoto Oy** (Piikkio) — **fabricant**, l ecrit noir sur blanc, **et publie une cote maxi de
+  3210 x 5800 mm**. Un jumbo entre sur sa ligne sans recoupe, et c est l accroche du texte **310**.
+- **Raahen Lasi** — *« eristyslasit toimitetaan tilauksesta »*, l isolant est **livre sur commande**.
+  Vitrier-poseur, revendeur Lukkan. Classe a zero pour cent, datee au 27/10, dernier rang.
+- **Maakunnan Lasi** — deux agences et une **ligne de depannage payante**, signature du poseur deja
+  decrite au paragraphe 6 sur les maitres-vitriers allemands. Meme traitement.
+- **Lasitalo Oy Tampere** — sept salaries, terrasses et balcons. **Fermee.**
+
+**ET DEUX PREDICTEURS A ZERO APPEL ONT TENU, consignes au paragraphe 6 comme hypotheses mesurees :**
+la **double rubrique** — une maison listee sous deux procedes a des machines, ce que la note de Seloy
+avait predit pour PLG et BestGlass — et la **forme du nom** : les trois poseurs s appellent
+*ville + Lasi* ou portent un mot generique, les fabricants portent une marque inventee. Les quatre
+noms finlandais encore consignes se classent donc d eux-memes en dernier, sans depenser un appel.
+
+**ISLANDE : JARN OG GLER FERMEE, ET LE PIEGE MERITE D ETRE CONNU.** Grossiste importateur de 1942,
+profil d importateur parfait sur le papier — **et le mot `Pilkington` figure bien sur leur domaine,
+dans leur page d HISTOIRE, a propos de 1975.** Leur catalogue d aujourd hui ne contient que des
+**accessoires pour le verre**, serrures, charnieres, parcloses, mastics, a cote d encadrement et de
+peinture d art. **La regle de la marque dans une gamme gagne donc une dimension de TEMPS**, consignee
+au paragraphe 13 : la gamme COURANTE vaut signal, l historique non.
+
+**V.E. LIPPONEN (Oulu) EN `A QUALIFIER` ET NON ENVOYABLE :** un agregateur donne son inscription au
+registre du commerce comme **cessee au 28/02/2025** quand les autres la donnent active. A lever au
+registre PRH ou par un appel, pas par une recherche.
+
+**UNE FAUTE DE PLUME, RATTRAPEE PAR LE CODE :** trois des sept fiches portaient un ` ; ` dans leur
+champ **activite**, septieme a neuvieme occurrence de cette famille. L `assert` en amont a nomme la
+cle et le champ, rien n a ete ecrit. Le remede de redaction du 13/10 ne visait que les NOTES — il
+vaut pour le champ activite aussi, et c est consigne.
+
+**Controles passes apres ecriture, tous a leur niveau de reference :** 0 ligne malformee ·
+`detecte-doublons` 8 groupes sur 1763 fiches actives · `noyaux-voisins` 18 paires ·
+`verif-argument-float` 0 a corriger · `verif-texte` 0 a corriger sur 277 textes · 0 fiche
+`A APPELER` sans telephone.
+
+**SUITE :** plus aucun envoi aujourd hui. Demain 8h30, Lasiluoto et PLG, textes prets. Demain 14 h,
+les cinq americaines reportees, textes prets. **Et le comptage du jour se fait AVANT de composer.**
