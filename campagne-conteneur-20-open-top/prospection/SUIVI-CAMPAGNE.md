@@ -10046,3 +10046,33 @@ cette liste sert. ⚠️ **Et elle a au passage montre une limite du classement 
 *Vidracaria Marinho*, porte le mot VIDRACARIA — donc la classe verrier + pose a ZERO pour cent** que
 le verdict Mais Vidros Salvador a etablie ce matin. **Le classement lit le champ activite, pas le
 nom** : a corriger a l'oeil avant de depenser l'appel.
+
+## 20/10 a 14h09 — un troisieme correctif essaye et REJETE sur mesure, et le rejet vaut l'ajout
+
+**Recherches : 0. Envois confirmes : 0. Correctif rejete : 1.**
+
+**L'IDEE, et elle venait d'un cas reel :** le rang 3 de la liste ordonnee est **Vidracaria Marinho**,
+et le mot *vidracaria* annonce la classe **verrier + pose, ZERO pour cent**, etablie ce matin meme
+sur Mais Vidros Salvador. **Il fallait donc faire lire le NOM a `classe-file.py`, pas seulement
+l'activite.**
+
+**⚠️⚠️ MESURE FAITE AVANT D'ECRIRE LA MOINDRE LIGNE, ET ELLE CONDAMNE L'IDEE.** Dans la file prete,
+**DEUX fiches seulement** portent le mot dans le nom sans l'avoir dans l'activite — **et le
+correctif les degraderait TOUTES LES DEUX A TORT** :
+- **Pestana Vidros - Vidracaria Pestana**, dont l'activite **etablie par recherche** est *trempeur de
+  verre plat, commerce en ligne propre* — donc verrier, pas poseur ;
+- **Sierra Pacific Windows**, dont l'activite dit *EXPLOITE SA PROPRE LIGNE DE VITRAGE ISOLANT* — et
+  **la regle de la licence IGCC ecrite ce matin dit precisement qu'un fenetrier licencie ACHETE DE
+  LA FEUILLE.**
+Et dans les fiches a deverrouiller, les 39 cas portent presque tous le mot **dans l'activite aussi**,
+donc le classement les traite deja bien sans le nom.
+
+**CONCLUSION, ET ELLE EST PLUS UTILE QUE LE CORRECTIF : quand l'activite a ete ETABLIE PAR
+RECHERCHE, elle est STRICTEMENT MEILLEURE QUE LE NOM, et le nom ne doit pas la contredire.** C'est
+la regle du mot *verrerie* du paragraphe 5 prise a l'envers.
+**⚠️ Et le vrai remede pour un cas comme Vidracaria Marinho n'est pas dans l'outil : c'est que son
+champ activite n'a jamais ete etabli.** On lit sa note avant de depenser l'appel, comme toujours.
+
+**Troisieme correctif rejete sur mesure**, apres celui des initiales — 29 faux positifs — et le
+motif *aucune ligne float* — 8 faux positifs. **Le rejet est consigne dans le code lui-meme**, pour
+qu'une session future ne reessaie pas la meme bonne idee.

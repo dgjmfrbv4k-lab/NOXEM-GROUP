@@ -45,6 +45,29 @@ SIGNAUX = [
  (-2,'-echelle',          r'reserve d echelle|petite structure|sur mesure pour chaque|comptoir de negoce'),
 ]
 
+# ⛔⛔ CORRECTIF ESSAYE ET REJETE LE 20/10, ET LE REJET VAUT D ETRE CONSIGNE.
+# L IDEE : lire aussi le NOM, pas seulement l activite, parce qu une raison sociale qui porte
+# « vidracaria », « window » ou « glazing » annonce la classe POSE a zero pour cent. Elle venait
+# d un cas reel - le rang 3 de la liste ordonnee etait « Vidracaria Marinho ».
+# ⚠ MESURE FAITE AVANT D ECRIRE LA MOINDRE LIGNE, et elle condamne l idee :
+#   - dans la FILE PRETE, DEUX fiches seulement portent le mot dans le nom sans l avoir dans
+#     l activite, et LE CORRECTIF LES DEGRADERAIT TOUTES LES DEUX A TORT :
+#       · PESTANA VIDROS - VIDRACARIA PESTANA, dont l activite ETABLIE PAR RECHERCHE est
+#         « trempeur de verre plat, commerce en ligne propre » - donc verrier, pas poseur ;
+#       · SIERRA PACIFIC WINDOWS, dont l activite dit « EXPLOITE SA PROPRE LIGNE DE VITRAGE
+#         ISOLANT » - et la regle de la licence IGCC du 20/10 dit precisement qu un fenetrier
+#         licencie ACHETE DE LA FEUILLE.
+#   - dans les fiches a deverrouiller, les 39 cas ont presque tous le mot DANS L ACTIVITE AUSSI,
+#     donc le classement les traite deja correctement sans le nom.
+# CONCLUSION : QUAND L ACTIVITE A ETE ETABLIE PAR RECHERCHE, ELLE EST STRICTEMENT MEILLEURE QUE
+# LE NOM, et le nom ne doit pas la contredire. C est la regle du mot « verrerie » du paragraphe 5
+# prise a l envers : le mot d une raison sociale n autorise ni a ouvrir ni a fermer.
+# ⚠ ET LE VRAI REMEDE POUR UN CAS COMME VIDRACARIA MARINHO N EST PAS DANS L OUTIL : c est que son
+# champ activite n a jamais ete etabli. On lit sa NOTE avant de depenser l appel, comme toujours.
+# Troisieme correctif rejete sur mesure apres celui des initiales (29 faux positifs) et le motif
+# « aucune ligne float » (8 faux positifs).
+
+
 def classe_metier(act):
     """Classe sur le CHAMP ACTIVITE SEUL. Voir l avertissement en tete de fichier."""
     a = act.lower()
