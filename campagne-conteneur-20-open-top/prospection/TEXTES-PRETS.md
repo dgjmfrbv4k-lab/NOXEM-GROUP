@@ -21099,3 +21099,179 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 301. Finnglass Oy — Nordic Glass (Alavus, Ostrobotnie du Sud) — `timo.saukko@finnglass.com` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 09h19. Envoi couvert par l accord expres de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS, aucune relance.**
+
+- **⚠️ L ADRESSE EST NOMINATIVE ET C EST LE CAS QUE LE §5 AUTORISE :** Timo Saukko est donné sur
+  **leur propre page de contact** comme **CEO et co-propriétaire**, donc la **DIRECTION**, que le §5
+  nomme à côté des achats. Publiée, pas déduite d un schéma. Les quatre autres — ventes, commandes,
+  projet, technique — sont écartées, et `orders@` est la colonne CLIENT.
+- **⚠️ LE TEXTE NE REPREND PAS LA GAMME LONGUE LUE DANS UN ANNUAIRE**, leçon Imporex. Il s en tient à
+  ce que la **fédération** dit — *karkaisu* et *laminointi*, trempe et lamination — et à ce que le
+  nom de la maison implique.
+- **⚠️⚠️ ET IL NE DIT PAS UN MOT DE PILKINGTON NI DE NSG TEC.** Une page *Our Partners Network* est
+  remontée sur la même recherche sans que le lien soit établi. **Le mentionner serait la faute STADIP
+  du 12/10 deux fois** : un fait non vérifié, et une remarque sur le fournisseur du client qu il n a
+  pas soulevée.
+- **Règle Prodiesa :** trempé, laminé, thermodurci et isolant **ne figurent pas dans l offre**. Seul
+  le substrat.
+- **L argument du float absent est VRAI en Finlande** — Lahti arrêté en **2009** — servi **au passé**.
+  **Rien sur les droits ni la fiscalité.** La formule imposée est présente. **Porte de sortie
+  présente. Signature une seule fois.**
+
+**Objet :** `Clear float substrate for Alavus - full containers`
+
+```
+Dear Mr Saukko,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. I am writing to you directly because yours is the only role on
+the contact page that would decide something like this - if I have that wrong,
+I would be grateful if you passed it to whoever buys the glass.
+
+I am writing because of what happens inside your works rather than what comes
+out of it. You temper and you laminate. Both of those are furnace and
+autoclave operations, and both of them consume plain sheet continuously - a
+furnace only earns its keep while glass keeps arriving at the loading end.
+That is the only part of your business I am in a position to be useful on, and
+it is the whole of my offer.
+
+So I am not offering toughened, heat-strengthened or laminated glass. You make
+those, and you make them in a plant built for it. I am offering the sheet that
+goes in:
+
+- clear and extra-clear, low-iron float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+One fact shapes the rest, and you know it better than I do: the last float
+furnace in Finland was shut down at Lahti and nothing has replaced it, nor is
+there one anywhere else in the Nordic countries since Halmstad closed. Every
+sheet that reaches Asematie has crossed a border already. The question is not
+whether to import. It is how many origins you can call on when one of them is
+short or a thickness is out of programme.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order, so the format your cutting table and your furnace are set to is
+not an obstacle. We can put together an offer for delivery to your port of
+destination, subject to validation on our side - Vaasa or Helsinki, whichever
+your forwarder uses.
+
+To know whether this is worth your time I need very little, and it is the part
+only you can answer. Which thicknesses actually move through the furnace. What
+sheet size suits the loading table. Whether you take extra-clear at all today.
+A rough annual volume with how often you buy. And the port.
+
+And I will say plainly what I expect. A plant working to a specification buys
+to it, and changing a qualified supply is not a small decision. I understand
+that completely. All I am proposing is to be a second source, qualified in
+advance, for the week the first one cannot deliver. If that is of no interest,
+say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 302. Tambest Oy (Forssa) — `tilaukset@tambest.com` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 09h19. Envoi couvert par l accord expres de Kevin du 19/10 a 23h30.**
+
+- **⚠️⚠️ LA BOÎTE EST SUBIE ET LE REFUS QUI LA MOTIVE DOIT ÊTRE DIT : LEUR PAGE PUBLIE UN SCHÉMA
+  D ADRESSE — prénom.nom@tambest.com — ET JE NE L EMPLOIE PAS.** Une adresse déduite d un schéma est
+  une adresse **inventée** au sens du §5, et la règle ne distingue pas selon que le schéma vienne
+  d un courtier ou de la société : ce qui est publié est la **règle**, pas l adresse. Leçon Lahey,
+  Saand et leadiq, appliquée cette fois à une source **permise**. La seule boîte concrète est
+  `tilaukset@` — les **commandes**, donc la colonne CLIENT — et elle est employée **en demandant la
+  transmission en première phrase**.
+- **Le texte est bâti sur leur propre page de contact** : production **et** administration sur le
+  même site, un responsable de production et R&D, un quai d expédition, et un commercial dédié à
+  **l export de verre bombé**. Une maison qui exporte du bombé plie de la feuille en volume.
+- **Règle Prodiesa :** trempé, laminé et bombé **hors offre**. Seul le substrat.
+- **⚠️ RIEN DE TECHNIQUE N EST AFFIRMÉ SUR LE BOMBAGE** — ni cote maximale, ni rayon, ni épaisseur :
+  le §5 interdit toute garantie technique non validée, et la question de la cote d autoclave est
+  **encore ouverte pour nos partenaires** (§4, `DECISIONS-AARON.md`). Le texte **demande**.
+- **L argument du float absent est VRAI** et servi **au passé**. Rien sur les droits. Formule
+  imposée, porte de sortie, signature une seule fois.
+
+**Objet :** `Clear float for the furnace at Ravikatu - full containers`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation, and I am writing to your orders address because it is the only
+one you publish as an address rather than as a pattern. If you are not the
+person who BUYS the glass, I would be grateful if you passed this on to
+whoever does - it is of no use to a colleague who takes orders.
+
+I am writing because of what your own contact page shows. Administration and
+glass production sit on the same site at Ravikatu. You have a production and
+R&D manager, a works supervisor, and a shipping dock with its own opening
+hours. And you have a salesman whose job is the export of curved glass. A
+works that tempers, laminates and bends, and that ships abroad, consumes plain
+sheet continuously - a furnace only earns its keep while glass keeps arriving
+at the loading end.
+
+So I am not offering toughened, laminated or curved glass. You make all three.
+I am offering the sheet that goes in:
+
+- clear and extra-clear, low-iron float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+One fact shapes the rest, and you know it better than I do: the last float
+furnace in Finland was shut down at Lahti and nothing has replaced it, nor is
+there one anywhere in the Nordic countries since Halmstad closed. Every sheet
+that reaches Forssa crossed a border already. The question is not whether to
+import. It is how many origins you can call on.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order. We can put together an offer for delivery to your port of
+destination, subject to validation on our side - Helsinki or Rauma, whichever
+your forwarder uses.
+
+What I need back is short. Which thicknesses actually move through the
+furnace, and which through the bending line, since I expect they are not the
+same. What sheet size the loading tables are set to. A rough annual volume
+with how often you buy. And the port. I would rather work from what you tell
+me than from what I can read.
+
+And the honest part. A works with a qualified supply does not change it on a
+first email, and I am not asking you to. I am asking to be a second name,
+ready for the week the first one is short. If that is of no interest, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
