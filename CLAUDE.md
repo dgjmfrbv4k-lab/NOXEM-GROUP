@@ -1111,6 +1111,44 @@ hits = [c for c in R if 'prodiesa' in c[3].lower()]
   réserve plutôt qu'une fiche. **Conduite : la ligne se lit quand même, à chaque fois et en entier**
   — c'est en la lisant qu'on voit si le nom est consigné ou s'il est une vraie fiche, et le
   dix-septième cas, FS Glass, est précisément celui où elle disait la seconde chose.
+  **⚠️⚠️ DIX-NEUVIÈME CAS LE 20/10, ET IL A RÉELLEMENT CRÉÉ LE DOUBLON SUR UNE MAISON DÉJÀ
+  RELANCÉE : LE SIGLE PARTAGÉ.** La base douanière canadienne nomme **`Produits Verriers
+  International IGP`** ; le registre portait **`IGP — International Glass Products Inc.`**, même
+  domaine `igpglass.ca`, même téléphone, même adresse Maurice-Duplessis, **en `RELANCE 2026-10-12`**.
+  Ma fiche était donc un **troisième message en huit jours**.
+  **ET LE SCRIPT AVAIT RAISON DE DIRE ABSENT**, comme pour IGG : les deux noms aplatis n'ont aucune
+  sous-chaîne commune, les initiales ne concordent pas — PVII contre IIGPI — et le sigle fait
+  **trois** caractères, donc sous le seuil de l'inclusion inverse. **C'est la raison sociale
+  FRANÇAISE contre le nom commercial ANGLAIS, et le seul pont entre les deux est le sigle.**
+  **TROIS DOUBLONS DE CETTE FAMILLE FONT UNE RÈGLE** — `IGG`, `AGI`, `IGP`.
+  **LE SIGNAL QUI MARCHE EST SIMPLE : LES DEUX NOMS PORTENT LE MÊME SIGLE EN CAPITALES, EN MOT
+  ENTIER.** Mesuré avant d'être retenu, comme la lettre doublée et le pluriel, et comme les trois
+  correctifs **rejetés** : sans exclusion **87 paires**, noyées par `KG` et `EL` ; les formes
+  juridiques et les articles exclus, **15 paires dont 3 vraies** ; les mots de métier exclus en plus
+  — `GLAS`, `ALU`, `ETS`, `TOO`, `UAB`, `FZCO` — **3 paires, 3 vraies**, et ce sont exactement IGP,
+  IGG et AGI. **Zéro faux positif dans un même pays.**
+  ⚠️ **Et ce que la mesure ne couvrait pas est dit plutôt que laissé croire :** elle comparait les
+  couples **d'un même pays**, alors que le script cherche sur tout le registre. Le sigle `IGP` rend
+  donc aussi une fiche **belge** sans rapport. C'est **une ligne de plus à lire**, pas un faux
+  verdict — le script signale, il ne conclut pas.
+  **⚠️⚠️ VINGTIÈME CAS LE MÊME JOUR, TROUVÉ PAR ACCIDENT EN TESTANT LE PRÉCÉDENT, ET C'EST LE
+  CORRECTIF LE MIEUX RENTABILISÉ DE TOUS : LE MOT DE LIAISON ÉCRIT EN TOUTES LETTRES LÀ OÙ L'AUTRE
+  FICHE PORTE UNE ESPERLUETTE.** J'ai regreppé `A Cutting Edge Glass **and** Mirror` et obtenu
+  **ABSENT**, alors que le registre porte `A Cutting Edge Glass **&** Mirror` — **que je venais de
+  créer moi-même une heure plus tôt.** L'esperluette est retirée comme séparateur, le mot `and` ne
+  l'était pas, donc les deux chaînes diffèrent d'un mot entier.
+  **ET LA MESURE A RENDU DEUX DOUBLONS RÉELS QUI DORMAIENT AU REGISTRE, invisibles aux cinq signaux
+  de `detecte-doublons.py` :** `Val & Val` contre `Val and Val`, et `Echols Glass & Mirror` contre
+  `Echols Glass and Mirror`. **Deux prises, zéro faux positif sur 1967 fiches.**
+  Les liaisons neutralisées sont celles des quatre langues du registre plus l'allemand : `and`,
+  `et`, `y`, `e`, `und`, `en`.
+  **⚠️ ET LA PAIRE `Val & Val` EST INSTRUCTIVE AU-DELÀ DU CORRECTIF :** l'une est sous le **Mexique**,
+  l'autre sous le **Pérou**, les deux en `A QUALIFIER`, les deux **sans aucune coordonnée**. C'est la
+  fiche que le §5 décrit comme invisible aux cinq signaux, **et le couple de pays est exactement
+  celui que le §5 signale comme contaminé** — quatre attributions fausses déjà mesurées sur la
+  rubrique péruvienne d'un portail. **Pas de fusion** : le §12 tranche sur le siège, qu'on n'a pas.
+  Les deux fiches portent le renvoi, et **le premier appel dépensé sur l'une doit chercher le PAYS
+  avant le métier.**
   **⚠️⚠️ ONZIÈME CAS LE 19/10 À 11h23, ET CELUI-LÀ A RÉELLEMENT CRÉÉ LE DOUBLON AU LIEU DE L'ÉVITER —
   UN ACRONYME N'EST PAS UNE VARIANTE D'ÉCRITURE, C'EST UNE AUTRE CHAÎNE.** J'ai passé
   **`Infinity Glass Group`** au `grep-nom.py`, obtenu **ABSENT**, et créé la fiche. **Le registre

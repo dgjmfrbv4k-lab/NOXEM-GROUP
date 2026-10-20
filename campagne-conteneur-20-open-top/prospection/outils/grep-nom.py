@@ -80,9 +80,28 @@ def sans_accent(s):
                    if unicodedata.category(c) != 'Mn')
 
 
+# ⚠️⚠️ CINQUIEME FAMILLE, AJOUTEE LE 20/10 ET TROUVEE PAR ACCIDENT EN TESTANT LA
+# PRECEDENTE : LE MOT DE LIAISON ECRIT EN TOUTES LETTRES LA OU L AUTRE FICHE PORTE UNE
+# ESPERLUETTE. J ai regrepe `A Cutting Edge Glass and Mirror` et obtenu ABSENT, alors que
+# le registre porte `A Cutting Edge Glass & Mirror` — que je venais de creer moi-meme une
+# heure plus tot. L esperluette est retiree comme separateur, le mot `and` ne l est pas,
+# donc les deux chaines different d un mot entier.
+# ⚠️ MESURE FAITE AVANT D ADOPTER, et elle est la meilleure de la journee : la
+# neutralisation des mots de liaison rapproche DEUX paires nouvelles sur les 1967 fiches,
+# et LES DEUX SONT DE VRAIS DOUBLONS DEJA PRESENTS AU REGISTRE, qu aucun des cinq signaux
+# de detecte-doublons.py n avait vus :
+#   · `Val & Val` contre `Val and Val`
+#   · `Echols Glass & Mirror` contre `Echols Glass and Mirror`
+# ZERO faux positif, DEUX prises. A comparer aux trois correctifs REJETES sur mesure —
+# initiales a 29 faux, `aucune ligne float` a 8, lecture du nom par classe-file a 2 sur 2.
+# Les mots couverts sont les liaisons des quatre langues du registre plus l allemand :
+# and, et, y, e, und, en.
+LIAISONS = re.compile(r'\b(and|et|y|und|en|e)\b', re.I)
+
+
 def aplatir(s):
-    """Retire les separateurs, les accents, et met en minuscules."""
-    return SEPARATEURS.sub('', sans_accent(s.lower()))
+    """Retire les mots de liaison, les separateurs, les accents, et met en minuscules."""
+    return SEPARATEURS.sub('', sans_accent(LIAISONS.sub(' ', s).lower()))
 
 
 def reduire(s):
@@ -200,12 +219,58 @@ def generique(plat):
     return any(plat in m for m in MOTS_GENERIQUES)
 
 
+# ⚠️⚠️ QUATRIEME FAMILLE, AJOUTEE LE 20/10 APRES UN TROISIEME DOUBLON DE SIGLE : LE SIGLE
+# PARTAGE. La base douaniere canadienne nomme `Produits Verriers International IGP`, le
+# registre portait `IGP - International Glass Products Inc.` — meme societe, meme domaine,
+# meme telephone, et elle etait DEJA RELANCEE. Le script a repondu ABSENT, et il avait
+# raison au sens strict : les deux noms aplatis n ont aucune sous-chaine commune, les
+# initiales ne concordent pas (PVII contre IIGPI), et le sigle fait TROIS caracteres, donc
+# sous le seuil de l inclusion inverse. C est la famille du onzieme cas — IGG contre
+# Infinity Glass Group — et du treizieme — AGI Mauritius. TROIS doublons, une regle.
+# LE SIGNAL QUI MARCHE EST SIMPLE : les deux noms portent le MEME SIGLE EN CAPITALES, en
+# mot entier. `IGP` est dans les deux, `IGG` etait dans les deux, `AGI` aussi.
+# ⚠️ MESURE FAITE AVANT D ADOPTER, comme pour la lettre doublee, le pluriel, et comme les
+# TROIS correctifs REJETES — initiales a 29 faux positifs, `aucune ligne float` a 8,
+# lecture du nom par classe-file a 2 sur 2 faux. Sur les 1967 fiches, en comparant tous
+# les couples d un meme pays :
+#   · sans liste d exclusion          -> 87 paires, noyees par `KG` et `EL`
+#   · avec les formes juridiques et les articles exclus -> 15 paires, dont 3 VRAIES
+#   · avec les mots de metier exclus en plus            -> 3 paires, 3 VRAIES
+# Soit IGP, IGG et AGI, c est-a-dire exactement les trois doublons que cette famille a
+# produits. ZERO faux positif DANS UN MEME PAYS.
+# ⚠️ ET IL FAUT DIRE CE QUE LA MESURE NE COUVRAIT PAS, parce que la premiere execution du
+# script repare l a montre : elle comparait les couples D UN MEME PAYS, alors que le script
+# cherche sur TOUT le registre. Le sigle `IGP` rend donc aussi une fiche BELGE,
+# `Euroglas-De Landtsheer - Safetyglass - IGP`, qui n a aucun rapport. C est UNE LIGNE DE
+# PLUS A LIRE et non un faux verdict : le script SIGNALE, il ne CONCLUT pas, et le
+# paragraphe 12 tranche sur le siege. La mesure reste bonne, son perimetre etait plus
+# etroit que l outil et c est dit ici plutot que laisse croire.
+# ⚠️ LA LISTE SE COMPLETE EN LISANT CE QUI SORT, jamais en le supposant — meme consigne
+# que MOTS_GENERIQUES ici et que MUTUALISES dans detecte-doublons.py.
+SIGLES_GENERIQUES = {
+    # formes juridiques
+    'SAS', 'SRL', 'LLC', 'LTD', 'INC', 'GMBH', 'PTY', 'LLP', 'PLC', 'JSC', 'FZE', 'FZC',
+    'FZCO', 'WLL', 'SARL', 'EURL', 'SDN', 'BHD', 'LTDA', 'EIRL', 'SAC', 'OHG', 'KFT',
+    'ZRT', 'DOO', 'ZOO', 'CJSC', 'OOO', 'SRO', 'TOO', 'UAB', 'ETS', 'SPA', 'USA',
+    # articles et liaisons
+    'LAS', 'LOS', 'DEL', 'AND', 'THE', 'DOS', 'DAS',
+    # mots de metier et de pays en capitales, trouves EN LISANT la sortie
+    'GLAS', 'ALU', 'VERRE', 'MALI', 'SEN', 'VIDRO', 'VIDRI',
+}
+
+
+def sigles(nom):
+    """Sigles en CAPITALES de 3 a 4 lettres portes par un nom, hors generiques."""
+    return {t for t in re.findall(r'\b[A-Z]{3,4}\b', nom) if t not in SIGLES_GENERIQUES}
+
+
 def chercher(R, nom):
     """Rend les fiches dont la raison sociale correspond, separateurs ET acronymes."""
     cible = aplatir(nom)
     if not cible:
         return []
     ini = initiales(nom)
+    sg = sigles(nom)
     hits = []
     for c in R:
         if len(c) != 10:
@@ -255,6 +320,8 @@ def chercher(R, nom):
             hits.append(c)            # le registre porte l ACRONYME du nom cherche
         elif len(cible) >= 3 and cible == initiales(c[3]):
             hits.append(c)            # le registre porte le nom DEVELOPPE d un sigle
+        elif sg and sg & sigles(c[3]):
+            hits.append(c)            # MEME SIGLE EN CAPITALES : cas IGP, IGG, AGI
     return hits
 
 

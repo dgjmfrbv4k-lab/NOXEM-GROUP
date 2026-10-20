@@ -10312,3 +10312,52 @@ INTERNATIONAL, produits de consommation · REN-WIL, decoration et miroirs decora
 achetent du produit FINI en cotes de rayon, et c est la lecon Gardner Glass.** Un recensement
 douanier recense tout le monde, y compris l acheteur de produit fini — meme reserve que sur la
 fraction miroir le 19/10.
+
+
+---
+
+## 20/10 — 14h46 · DEUX FAMILLES DE DOUBLONS FERMEES, ET LA SECONDE EN A REVELE DEUX QUI DORMAIENT
+
+**Recherches : 2 appels. Fiches creees : 0 nette — une creee puis neutralisee. Envois confirmes :
+0 sur ce lot. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0. Registre a 1967
+fiches.**
+
+**DIX-NEUVIEME CAS DE LA FAMILLE DU GREP, ET IL A CREE LE DOUBLON SUR UNE MAISON DEJA RELANCEE.**
+La base douaniere canadienne nomme *Produits Verriers International IGP*, le registre portait
+*IGP — International Glass Products Inc.* : meme domaine, meme telephone, meme adresse, **en
+RELANCE depuis le 12/10**. Ma fiche etait un **troisieme message en huit jours**.
+**Et le script avait raison de dire ABSENT** — aucune sous-chaine commune, initiales discordantes,
+sigle de trois caracteres donc sous le seuil. **C est la raison sociale FRANCAISE contre le nom
+commercial ANGLAIS, et le seul pont est le sigle.**
+**C est `detecte-doublons.py` passe APRES le lot qui a rattrape, sur le domaine ET le telephone.
+Sixieme fois** apres IGG, Dialum, AGI Mauritius, Millet et Al Intethar. **Fiche neutralisee,
+matiere versee dans l ancienne, RIEN N EST PARTI.**
+
+**CORRECTIF MESURE PUIS ADOPTE, comme la lettre doublee et le pluriel, et comme les TROIS
+correctifs rejetes :** sans exclusion 87 paires, noyees par `KG` et `EL` · formes juridiques et
+articles exclus, 15 paires dont 3 vraies · mots de metier exclus en plus, **3 paires, 3 vraies** —
+et ce sont exactement IGP, IGG et AGI, les trois doublons que cette famille a produits.
+⚠️ **Et ce que la mesure ne couvrait pas est dit plutot que laisse croire** : elle comparait les
+couples d un meme pays, le script cherche sur tout le registre, donc `IGP` rend aussi une fiche
+belge sans rapport. Une ligne de plus a lire, pas un faux verdict.
+
+**⚠️⚠️ VINGTIEME CAS TROUVE PAR ACCIDENT EN TESTANT LE PRECEDENT, ET C EST LE CORRECTIF LE MIEUX
+RENTABILISE DE TOUS.** J ai regrepe *A Cutting Edge Glass AND Mirror* et obtenu ABSENT — alors que
+le registre porte *A Cutting Edge Glass & Mirror*, **que je venais de creer moi-meme une heure plus
+tot**. L esperluette etait retiree comme separateur, le mot `and` ne l etait pas.
+**ET LA MESURE A RENDU DEUX DOUBLONS REELS QUI DORMAIENT AU REGISTRE, invisibles aux cinq signaux :**
+`Val & Val` contre `Val and Val`, et `Echols Glass & Mirror` contre `Echols Glass and Mirror`.
+**Deux prises, zero faux positif sur 1967 fiches.** Echols etait deja neutralisee. Val and Val ne
+l est pas.
+
+**⚠️ ET LA PAIRE VAL AND VAL EST INSTRUCTIVE AU-DELA DU CORRECTIF :** l une est sous le MEXIQUE,
+l autre sous le PEROU, les deux en A QUALIFIER, **les deux sans aucune coordonnee**. C est la fiche
+que le paragraphe 5 decrit comme invisible aux cinq signaux, **et le couple de pays est exactement
+celui que le paragraphe 5 signale comme contamine** — quatre attributions fausses deja mesurees sur
+la rubrique peruvienne d un portail. **Pas de fusion**, le paragraphe 12 tranche sur le siege qu on
+n a pas. Les deux fiches portent le renvoi.
+
+**ET LA REGLE DU TREIZIEME CAS A ETE APPLIQUEE : un correctif perime les sorties anterieures du
+meme outil.** Les **dix-neuf noms crees aujourd hui** ont ete regrepes avec l outil repare —
+Marvite, Temperex, A Cutting Edge, Tradeways, Al Intethar, Fenergic, Universal Glass Tech, Toro
+Glasswall, et les onze du matin. **Aucun doublon neuf revele.**
