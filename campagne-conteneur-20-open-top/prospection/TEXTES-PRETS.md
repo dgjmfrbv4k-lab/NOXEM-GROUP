@@ -21004,3 +21004,98 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 300. Samverk hf. — glerverksmidja (Hella et Kopavogur, Islande) — `samverk@samverk.is` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 09h11. PREMIER MESSAGE DE LA CAMPAGNE VERS L ISLANDE — le pays n avait aucune fiche.
+Envoi couvert par l accord expres de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects
+NEUFS, aucune relance.**
+
+- **⚠️⚠️ POURQUOI CE MARCHE EST LE PLUS PUR D EUROPE POUR CETTE CAMPAGNE :** une **île sans aucune
+  ligne float**, donc **cent pour cent** du verre plat y arrive **par la mer**. La question du camion,
+  qui rend le périmètre européen discutable ailleurs, **ne se pose même pas ici**.
+- **Le texte est bâti sur trois faits lus sur LEUR propre domaine** : ils travaillent sur le
+  **catalogue AGC**, ils **tiennent un stock à Hella** qu ils achètent eux-mêmes, et ils sont **la
+  seule usine du pays dotée d un four de trempe**.
+- **⚠️ CE QUE LE TEXTE NE FAIT PAS, ET C EST LA FAUTE STADIP DU 12/10 QU IL ÉVITE : il ne dit NULLE
+  PART qu AGC est un concurrent, ni que leur fournisseur poserait un problème.** Le client n a soulevé
+  aucun doute et je n en fabrique pas. AGC est mentionné **une fois, en passant**, comme le fait
+  public qu il est, et le message se place **à côté** et non **contre**.
+- **Règle Prodiesa appliquée strictement** : le trempé, l isolant, le laqué et les garde-corps **ne
+  figurent pas dans l offre** — ils les fabriquent. Seul le **substrat** y entre.
+- **⚠️ RIEN SUR LES DROITS ni sur la fiscalité islandaise**, non établis, §5 et §6. Rien sur le prix,
+  le délai ou un certificat. La formule imposée est présente.
+- **L argument du float absent est VRAI** et il est servi comme un fait de géographie, pas comme une
+  prophétie. **`Glerverksmidja` veut dire usine de verre et n est PAS un four** — le texte ne confond
+  pas les deux.
+- **Porte de sortie du §9 présente. Signature du §10 une seule fois.**
+
+**Objet :** `A second origin for the sheet you stock at Hella`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing to you rather than to anyone else in Iceland because of what you
+are. You run the country's glass factory at Hella, you hold your own stock
+there rather than ordering each job in, and by your own account you are the
+only works in Iceland with a dedicated tempering furnace. Those three things
+together describe a house that buys sheet by the load and keeps the balance,
+which is the only kind of house a container suits.
+
+And the geography says the rest better than I could. There is no float furnace
+in Iceland, so every square metre you cut has crossed the sea already. The
+question is not whether to import. It is how many origins you can call on when
+one of them is short, or when a thickness you need is not in the programme
+that month.
+
+I am not offering you toughened glass, sealed units, painted glass or
+balustrades. You make all of those at Hella. I am offering the sheet that goes
+in:
+
+- clear and extra-clear float glass, the base of the range
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror, which holds up in damp and salt air
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+You work from the AGC programme today, which is a perfectly good one, and I am
+not suggesting otherwise. I am offering to sit alongside it.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order, so the format your cutting table is set to is not an obstacle.
+We can put together an offer for delivery to your port of destination, subject
+to validation on our side - Reykjavik or Thorlakshofn, whichever you clear
+through.
+
+What I need back is short. Which thicknesses actually move through Hella, and
+in what sheet size you take them. How much clear float, roughly, in a year,
+and how often you replenish. Whether the tinted really sits at 6 and 8 mm as
+your pages suggest. And the port. I would rather work from what you tell me
+than from what I can read.
+
+And the honest part. A works on an island plans its supply carefully and does
+not change it on a first email. I am not asking you to. I am asking to be a
+qualified second name, ready for the month when the first one is short. If
+there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
