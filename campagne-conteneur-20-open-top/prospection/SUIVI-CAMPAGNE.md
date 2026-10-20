@@ -8670,3 +8670,41 @@ changement d heure est pose** : Paris quitte l heure d ete le 25/10 et l Ameriqu
 2 novembre, donc entre les deux il faut retrancher une heure aux fenetres americaines.
 
 **SUITE :** la liste attend un creneau de Kevin. Rien d autre ne la debloque.
+
+---
+
+### 20/10 — 11h39 · Porto Rico tranche, un envoi arrete, deux textes de plus
+
+**Les cinq chiffres du paragraphe 3 :** recherches **2** · envois confirmes **20 sur la journee,
+0 dans ce bloc** · reponses qualifiees **0** · demandes de devis **0** · commandes **0**.
+
+**DEUX APPELS DEPENSES SUR PORTO RICO, ET ILS ONT PAYE DANS LES DEUX SENS — un piege leve et un
+envoi arrete.** Les deux fiches etaient a `A ENVOYER 2026-10-20` alors que **leurs propres notes
+disaient que le second temps restait du.** C est exactement le genre d incoherence entre statut et
+note qu un envoi automatique aurait transformee en faute.
+
+- **CRISTALERIA AMIGO — le piege du mot `cristaleria` est LEVE, et c est du VERRE PLAT.** Leur
+  catalogue porte facades commerciales, vitrines, miroirs, portes et **fijos 3/8 templado**. Le test
+  du paragraphe 5 passe mot par mot : ni envase, ni botella, ni copa, ni vaso. **La fiche n est donc
+  pas fermee comme SEVAM.** Mais le verdict de classe est defavorable — fabrication plus montage
+  plus **installation**, donc verrier plus pose, zero pour cent — et sa seule cote publiee est celle
+  d un **produit fini**. Reclassee en dernier rang.
+- **⚠️⚠️ VIDREX — L ENVOI EST ARRETE, ET POUR UNE RAISON DE PARAGRAPHE 5.** La recherche restreinte
+  a leur domaine rend bien leur site, qui parle bien de verre — donc ni domaine parque ni domaine
+  repris. **Mais elle ne rend AUCUNE adresse e-mail.** Le gmail porte au champ ne vient donc pas de
+  leur propre domaine et **la regle anti-rebond n est pas satisfaite.** Statut passe de `A ENVOYER`
+  a `A APPELER`, champ e-mail **vide**. C est la lecon Sealvid et la lecon Bronco : mieux vaut une
+  fiche telephonique qu une adresse dont on ne peut pas dire d ou elle vient.
+
+**DEUX TEXTES DE PLUS, 319 et 320**, ce qui porte le total a 286 :
+- **319 Connolly Glass** (Chesapeake, Virginie) — verrier pur qui **trempe sur place**, et
+  l accroche est geographique comme pour TemperGlass : **Norfolk est a vingt minutes**, donc
+  quasiment pas de post-acheminement.
+- **320 Center Vidros** (Ribeirao Preto) — et ce texte **commence par une question au lieu d une
+  presentation**, parce que la reponse decide de tout : quelle part de leur volume est le gros. La
+  reserve du mot *varejo* n est pas tranchee par moi, elle est **posee au client**. Et les 400 km
+  jusqu a Santos sont **dits** plutot que caches.
+
+**Controles : 0 ligne malformee, 0 fiche `A APPELER` sans telephone, 0 a corriger sur 286 textes.**
+
+**SUITE :** demain 8h30 Lasiluoto et PLG, demain 14 h les cinq americaines.
