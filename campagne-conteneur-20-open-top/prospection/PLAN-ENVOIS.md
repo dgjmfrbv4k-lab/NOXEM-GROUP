@@ -230,3 +230,56 @@ pour mot que Kevin a dictee.
 **⚠️ JOUR OUVRE : le 21/10 est un mercredi, aucun ferie national connu dans les sept pays concernes.**
 A reverifier pour la Colombie avant tout **lundi**, la Ley Emiliani y reportant les feries au lundi —
 le prochain est le **2 novembre**.
+
+
+---
+
+## ⚠️⚠️ REVISION DES VAGUES DU 21/10, FAITE A 13h20 APRES AVOIR CLASSE LA FILE ENTIERE — ET ELLE ME DONNE TORT
+
+**J'ai note les 96 fiches pretes sur les criteres du paragraphe 6 — classe de metier, marche, signaux
+d entree — et le classement CONTREDIT le plan que je venais d ecrire une heure plus tot.**
+
+**CE QUE LE CLASSEMENT DIT.** Les fiches en tete sont des **verriers et des negociants portant un
+signal d entree mesure** : Indiana Glass et DC Glass Distributors sur le **mode de vente**, Syracuse
+Glass et Vidrus sur **epaisseur plus format** et le mot **independant**, puis une longue serie
+bresilienne, mexicaine et colombienne a 8 et 9 points.
+**ET LES FICHES DE MON NOUVEL AXE SONT LOIN DERRIERE** : ART Maslen au rang 62, Refricomp 63,
+Ojeda 84, BC Greenhouse 83, Supernordico 93.
+
+**POURQUOI JE NE CORRIGE PAS LE CLASSEMENT POUR LES REMONTER, ALORS QUE J AI PASSE LA JOURNEE A LES
+TROUVER — C EST LA QUESTION HONNETE ET VOICI LA REPONSE.** Le tableau du paragraphe 6 mesure le
+verrier pur a **12,8 pour cent** et le negoce a **10 pour cent** sur des reponses reelles.
+**L axe des industries qui ne s appellent pas verre n a produit AUCUNE reponse a ce jour, pour la
+bonne raison qu aucun message n est encore parti.** Il est **prometteur et non prouve**, et
+**l enthousiasme n est pas une mesure**. La file se classe sur ce qui est mesure.
+
+**CONDUITE RETENUE, ET ELLE FAIT LES DEUX : QUINZE ENVOIS, DIX SUR LE PROFIL PROUVE ET CINQ EN
+COHORTE D ESSAI ETIQUETEE.**
+| Fenetre Paris | Fiches | Pourquoi |
+|---|---|---|
+| **08h00** | **Lasiluoto** · **PL-Glass (PLG)** | Finlande 9h. Verriers purs, deja armees. |
+| **14h00** | **Indiana Glass** · **Vidrus** · **MTX Glass** · **Fantastico Vidros** | Bresil 9h. **Les quatre premiers du classement sur ce fuseau**, mode de vente et epaisseur plus format. |
+| **15h00** | **Syracuse Glass** · **DC Glass Distributors** · **Dulles Glass** · **RGT Glass America** | Etats-Unis Est 9h. **Rangs 3, 4, 11 et 12**, dont deux portant le mot **independant**. |
+| **16h00-18h00** | **ART Maslen** · **Refricomp** · **Refrigeracion Ojeda** · **Supernordico** · **BC Greenhouse Builders** | **COHORTE D ESSAI DE L AXE**, cinq fiches, cinq pays, cinq industries differentes. ⚠️ Fenetres respectives : Australie des 8h, Bresil 14h, Colombie 16h, Mexique 17h, Colombie-Britannique 18h. |
+
+**⚠️⚠️ ET LA COHORTE D ESSAI N A DE SENS QUE SI ON PEUT LA MESURER, DONC LES CINQ PORTERONT
+`1ER CONTACT 2026-10-21` EN TETE DE NOTE, en format fixe.** Sans ce champ, on saura dans deux semaines
+qu il y a eu des reponses sans pouvoir dire d ou elles viennent — c est tout l objet de la mesure du
+jour sur l absence de date de premier contact.
+
+**⚠️ Sierra Pacific Windows est RETIREE de la vague de demain** malgre sa taille : rang 54, aucun
+signal d entree mesure dans sa note, et une adresse de **colonne client** sur un domaine de maison
+mere. Elle passe apres la cohorte d essai.
+
+**⚠️⚠️ ET UNE FAUTE DE MON PROPRE OUTIL DE CLASSEMENT, TROUVEE ET CORRIGEE AVANT DE S EN SERVIR.** Ma
+premiere version classait sur **l activite ET la note reunies**, et elle rangeait **23 fiches sur 96**
+en *verrier + pose*, la classe a **zero pour cent** — parce que le mot **pose** est partout dans la
+prose francaise des notes : *verdict de deverrouillage **pose***, *la question se **pose***, *le
+paragraphe 5 **pose***. **Le cas le plus net est Refricomp, dont la note dit `aucun rayon de pose` —
+c est-a-dire exactement le contraire — et que l outil classait en poseur.**
+**C est le faux positif Klingshield du 09/10 reproduit a l identique une semaine plus tard, dans un
+outil neuf.** Corrige en classant sur le **CHAMP ACTIVITE SEUL**, la note ne servant plus qu aux
+signaux. **Les deux fiches finlandaises remontent du rang 90 au rang 68.**
+**REGLE : un classement se fait sur un CHAMP CURATE, jamais sur la prose d une note.** C est la
+quatrieme fois que cette famille mord — apres le marqueur `DOUBLON` ecrit en prose, le `;` de
+ponctuation et le `grep` sur la ligne entiere.
