@@ -8292,3 +8292,64 @@ qui a **rebondi**. Le quota et la réputation sont communs — mon compte d'envo
 l'Europe, l'Afrique, le Golfe et l'Inde. **Mais les deux plus gros viviers du registre sont les
 États-Unis et le Brésil, qui sont dans leur matinée vers 14h-16h heure de Paris.** Un second créneau
 l'après-midi vaudrait plus que le premier.
+
+---
+
+## 20/10/2026 — 08h59 — MATINEE SCANDINAVE : HUIT PREMIERS CONTACTS EN NORVEGE, SIX FICHES NEUVES EN SUEDE ET AU DANEMARK
+
+**Les cinq chiffres du paragraphe 3, distincts :**
+- recherches de decouverte : 2 (Suede, Danemark) plus 5 seconds temps
+- envois confirmes : **8**, tous des PREMIERS CONTACTS vers des prospects neufs
+- reponses qualifiees : 0 a cette heure
+- demandes de devis : 0
+- commandes : 0
+
+**POURQUOI LA NORVEGE ET PAS LES ETATS-UNIS.** A 08h46 de Paris il est 08h46 a Oslo, donc la matinee
+du destinataire. Nos deux plus gros viviers envoyables — 31 fiches americaines et 31 bresiliennes —
+sont a 02h46 et 03h46 locales. La fenetre du matin europeen est la seule ouverte, et elle ne contenait
+que la Norvege.
+
+**Les huit, en deux vagues espacees de 5 et de 3, dans l ordre de la valeur du profil :**
+Glasshuset Norge (un seul compte pour QUATRE raisons sociales, importateur declare de miroir et de
+float, usine de trempe a Saudasjoen) · EW Glass et Plast (epaisseurs ET formats ET vente a la plaque
+entiere, donc le cote ENTREE) · Glassfabrikken (55 salaries, vend AU METIER, a Larvik qui est un port)
+· Rakvag Glass (achete chez AGC et Pilkington de son propre aveu, et DOUBLE sa capacite d isolant) ·
+Modum Glassindustri (declaration environnementale donnant la composition de Lamitech) · Vikesa
+Glassindustri · Tonsberg Glassliperi (argenteur — miroir fini retire de l offre, regle Prodiesa) ·
+CG Glass Vennesla.
+
+**CE QUI NE PART PAS, ET LE MOTIF EST DEJA ECRIT DANS LES FICHES.** Mon filtre de depart comptait
+9 Norvege, 3 Allemagne et 1 Ghana comme envoyables. Quatre de ces fiches portent un VERDICT en prose
+qu un filtre sur statut ne voit pas — c est la lecon Brocanelli du 15/10 : Carl Abel et Glastechnik
+Engels sont de la classe verrier plus pose a ZERO pour cent, PG Projekt Glas est du verre de
+decoration satine, GlassTech Fabrications est de l amenagement interieur avec du carrelage. Holvik
+Glas reste, en facade aluminium, classe a 3,6 pour cent. **Un compte de filtre n est pas une liste de
+travail.**
+
+**SIX FICHES NEUVES, ET L AXE EST LOGISTIQUE ET NON GEOGRAPHIQUE.** Quatre suedoises — Y Glas (vend le
+planglas EMBALLE EN CAISSES, le critere du mode de vente), Fasadglas Backlin (division de gros avec sa
+propre boite), GlasGiganten (achete son float a Saint-Gobain Emmaboda), Glasjouren — et deux danoises —
+Mirit Glas (reseau de fabricants internationaux declare, float en stock de 1 a 25 mm) et Redtz.
+Le raisonnement de perimetre est ecrit en toutes lettres dans chaque fiche pour que Kevin puisse le
+contredire en une minute.
+
+**TROIS TROUVAILLES VERSEES AU MANDAT.**
+1. **Le PLF strict de 6000 x 3210 est atteint par trois sources scandinaves**, dont la corporation
+   danoise des vitriers qui le donne comme le format NORMAL de la profession. La question du
+   paragraphe 4 passe de « est-ce que cette cote existe » a « est-ce que les notres la font », et elle
+   reste pour Aaron. **Rien ne s en ecrit a un client.**
+2. **Saint-Gobain Emmaboda ajoute a la liste des concurrents** — et c est un site de TRANSFORMATION et
+   non un four, meme distinction que Pilkington Norge a Elverum. L argument de l absence de ligne float
+   scandinave reste VRAI.
+3. **Dix-septieme cas de la famille du grep**, et il a evite un troisieme message : FS Glass est
+   Forserum Safety Glass AB, deja relancee le 13/10. Le script disait ABSENT en premiere ligne et
+   PRESENT AILLEURS en seconde.
+
+**GARDE-FOUS.** Preflight du paragraphe 10 fait avant la premiere vague. verif-texte.py et
+verif-argument-float.py a zero avant chaque envoi. Apres chaque ecriture : 1926 lignes, zero malformee,
+detecte-doublons.py a huit groupes, noyaux-voisins.py a 18 paires, zero A APPELER sans telephone.
+**Un point-virgule de prose a de nouveau fait refuser une ecriture** — sixieme fois — et rien n a ete
+ecrit avant correction.
+
+**SUITE.** Fenetre americaine a partir de 14h de Paris, 89 fiches envoyables y attendent. D ici la,
+decouverte sur la Finlande et l Islande, qui ont 1 et 0 fiche pour le meme fait de marche.

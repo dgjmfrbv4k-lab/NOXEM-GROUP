@@ -120,15 +120,47 @@ FLOAT depuis l'arrêt d'Oceania Glass.** Donc ces cotes ne peuvent pas être des
 depuis une usine voisine : **ce sont nécessairement des cotes qui ont traversé un océan en
 conteneur.** C'est la démonstration que le format n'est pas seulement produisible, mais
 **transportable** — ce qui est exactement ce que cette campagne doit savoir.
-**BILAN DE LA RÈGLE : sept sources, cinq pays, quatre continents, aucun contre-exemple.** Devis
+**BILAN DE LA RÈGLE : DIX sources, SEPT pays, QUATRE continents, aucun contre-exemple.** Devis
 d'Aaron 3300 · Intervidro 3210/3300/3600 · TSJ Vidros 2400 de large · Prodiesa 2600 × 3660 · Metro
-Glass 5100 × 3210 en tableau · Glass Australia 2440 × 3660 sur un marché sans four. **La question
-devant une cote reste la seule qui vaille : sa plus petite dimension tient-elle dans 3210 ?**
+Glass 5100 × 3210 en tableau · Glass Australia 2440 × 3660 sur un marché sans four · **et les trois
+scandinaves du 20/10, qui atteignent la cote maximale : Glasjouren 3210 × 6000 EN STOCK, Fasadglas
+jusqu'à 3 × 6 m, Glarmesterlauget 3210 × 6000 donné comme le format NORMAL de la profession**
+(détail au point 1 ci-dessous). **La question devant une cote reste la seule qui vaille : sa plus
+petite dimension tient-elle dans 3210 ?**
 **CE QUI RESTE VRAIMENT OUVERT, et c'est beaucoup plus étroit :**
 1. **Le PLF au sens strict, 6000 × 3210**, que demandait **Rákosy Üveg** — « standard purchasing
    sizes are jumbo sheets, typically 6000 × 3210 mm », et il ne peut pas travailler
    économiquement autrement. **Un seul fait, pas quatre**, contrairement à ce que ce paragraphe
    affirmait. Question toujours posée dans `DECISIONS-AARON.md`, section 4 ter.
+   **⚠️⚠️ ET LE 20/10 AU MATIN APPORTE TROIS SOURCES SCANDINAVES QUI ATTEIGNENT LA COTE EXACTE —
+   LA QUESTION N'EST PLUS « EST-CE QUE 6000 × 3210 EXISTE » MAIS SEULEMENT « EST-CE QUE LES NÔTRES
+   LE FONT ».** Les sept preuves du §4 plafonnaient à **5100 × 3210** chez Metro Performance Glass.
+   Ces trois-là donnent le 6000, et elles sont tombées dans la même matinée, sur deux pays, en
+   cherchant tout autre chose :
+   · **GLASJOUREN I STOR-STOCKHOLM** (Suède) écrit sur sa page float qu'elle **lagerför — tient en
+     STOCK — les épaisseurs les plus courantes au format 3210 × 6000 mm**, et sur sa page miroir
+     qu'elle fabrique des miroirs **jusqu'à 6000 × 3210 mm**. Ce n'est pas une cote maximale
+     théorique, c'est une **cote de stock**.
+   · **FASADGLAS BÄCKLIN** (Suède) donne son float **de 2 à 19 mm en dimensions allant jusqu'à
+     3 × 6 mètres**.
+   · **⚠️ ET LA TROISIÈME EST LA MEILLEURE DES TROIS PARCE QU'ELLE NE VEND RIEN : LE
+     *GLARMESTERLAUGET*, la corporation danoise des vitriers, écrit que le verre se coupe
+     NORMALEMENT au format 3210 × 6000 mm.** Une corporation de métier décrit l'usage de la
+     profession, pas son propre catalogue — c'est le même rang de source qu'un tableau de
+     distributeur comme celui de Metro Glass, et c'est au-dessus d'une page commerciale.
+   **CE QUE CELA ÉTABLIT ET CE QUE CELA N'ÉTABLIT PAS, et la distinction est celle que le §4 impose
+   déjà pour l'autoclave :** c'est établi au niveau de l'**enveloppe industrielle et commerciale**
+   — une feuille de 6000 × 3210 se produit, se stocke et se transporte, et c'est la cote
+   **normale** d'une profession entière. Ce n'est **PAS** établi pour **nos** usines partenaires.
+   **La question change donc de nature et se rétrécit exactement comme celle de l'autoclave : elle
+   n'est plus technique mais factuelle, et elle est pour Aaron.** Rien ne s'en écrit à un client
+   dans l'intervalle, le §5 interdisant toute garantie technique non validée.
+   **Et le §4 gagne une règle de méthode au passage : les cotes les plus grandes se trouvent là où
+   le camion ne va pas.** Les sept premières preuves venaient du Brésil, du Mexique, de
+   Nouvelle-Zélande et d'Australie ; ces trois-là viennent de Scandinavie. **Un marché servi par
+   conteneur ou par ferry publie des cotes de feuille ; un marché servi par camion depuis l'usine
+   voisine n'a pas besoin de les publier.** C'est une indication de l'endroit où chercher la
+   prochaine.
 2. **La cote maximale de l'AUTOCLAVE de feuilletage**, qui est une contrainte distincte de celle de
    la ligne. Elle ne concerne que le **feuilleté** : le 3302 × 2261 de Caribbean Glass en relève,
    le 3300 × 2140 de Rubex non, puisque c'est du float nu. Repère d'enveloppe industrielle : Green
@@ -876,6 +908,34 @@ hits = [c for c in R if 'prodiesa' in c[3].lower()]
 ```
   **Les noms déjà contaminés à ce jour, parce que le mandat les emploie comme noms de règle ou de
   leçon :** `prodiesa`, `shibaam`, `lahey`, `imporex`, `munnworks`, `vandaglas`, `glasscorp`, `vitro`.
+  **⚠️⚠️ DIX-SEPTIÈME CAS LE 20/10 AU MATIN, ET IL A RÉELLEMENT ÉVITÉ UN TROISIÈME MESSAGE — CETTE
+  FOIS C'EST LA LIGNE « PRÉSENT AILLEURS » DU SCRIPT QUI A TOUT FAIT, ET J'AI FAILLI NE PAS LA
+  LIRE.** Sur un relevé suédois de huit noms, `grep-nom.py` a répondu pour **FS Glass** :
+  *« ABSENT du champ raison sociale. ⚠ mais 1 ligne le porte AILLEURS — a lire avant de
+  conclure. »* **Cette ligne est `Suède | Forserum | Forserum Safety Glass AB | info@fsglass.se |
+  RELANCE 2026-10-13`.** Le registre ne porte pas le nom commercial *FS Glass*, il porte la raison
+  sociale complète, et le lien est dans le **DOMAINE** : `fsglass.se`. Une fiche créée aurait été un
+  **troisième message en une semaine** à une maison relancée le 13/10.
+  **CE QUE CE CAS AJOUTE AUX SEIZE AUTRES : les seize portaient sur le TOKEN — séparateur, pluriel,
+  accent, sigle, lettre doublée, seuil de longueur. Celui-ci porte sur le CHAMP.** Le token était
+  bon, la comparaison sur la raison sociale était bonne, et la réponse juste était **ailleurs, dans
+  le champ site**. C'est la raison d'être de cette ligne de sortie, et c'est la discipline du §5
+  prise une dix-septième fois : **le script a tourné, il a dit ABSENT en première ligne, et c'est la
+  SECONDE ligne qui tranchait.** Un verdict se lit en entier, pas à sa première ligne.
+  **⚠️ ET LE MÊME RELEVÉ A DONNÉ UN FAUX POSITIF DE LA FAMILLE DU QUATORZIÈME CAS, dans l'autre
+  sens :** le token **`Y-Glas`** s'aplatit en `yglas` et le script a rendu **52 FICHES** — parce que
+  `yglas` vit à l'intérieur de **`CitY GLASs`, `SafetY GLASs`, `QualitY GLASs`, `CitY GLASses`**.
+  C'est la panne `Devidros` à l'identique : un token qui enjambe la frontière des mots d'une phrase
+  courante du métier. **À ajouter à la liste des phrases non distinctives : `y glas`, `ty glass`.**
+  Revérifié à la frontière de mot sur le nom non aplati : **zéro**, la société est bien absente.
+  **⚠️⚠️ ET UNE COLLISION D'UNE SEULE LETTRE À CONNAÎTRE AVANT DE CONFONDRE LES DEUX, parce qu'elles
+  sont au registre toutes les deux désormais :** **`GlassGrossisten`** avec DEUX s est la marque
+  norvégienne du groupe **Glasshuset Norge**, sur `glassgrossisten.com`, envoyée le 20/10 ;
+  **`Glasgrossisten`** avec UN s est une maison **suédoise de Malmö**, sur `glasgrossisten.com`,
+  fournisseur de l'**encadrement**. Deux pays, deux domaines à une lettre près, aucun lien établi.
+  C'est la famille du caractère unique — `newSglassind`, `glasscorplnt`, `index-gabon`,
+  `laheyglass.ca`, `ABRAVIDRO`/`ABIVIDRO`, `SITIVESP`/`SINCAVESP` — et le §12 impose de trancher sur
+  une **coordonnée**, jamais sur le nom.
   **⚠️⚠️ ONZIÈME CAS LE 19/10 À 11h23, ET CELUI-LÀ A RÉELLEMENT CRÉÉ LE DOUBLON AU LIEU DE L'ÉVITER —
   UN ACRONYME N'EST PAS UNE VARIANTE D'ÉCRITURE, C'EST UNE AUTRE CHAÎNE.** J'ai passé
   **`Infinity Glass Group`** au `grep-nom.py`, obtenu **ABSENT**, et créé la fiche. **Le registre
@@ -2296,6 +2356,25 @@ la fiche. Il n'est pas au registre à ce jour.
 Vidrios de la Sabana, qui en est distributeur. **Le catalogue d'un distributeur nomme ses
 fournisseurs, donc il nomme les producteurs locaux** — c'est une source de concurrents qu'aucune
 recherche de découverte ne donne, et elle est gratuite puisqu'on lit déjà ces pages pour déverrouiller),
+**SAINT-GOBAIN EMMABODA GLAS** (Suède — ajouté le 20/10 au matin, et ce n'est **pas** un trou de
+production mais un **piège de lecture**, du genre qui fait perdre un argument vrai). Filiale d'un
+producteur float mondial, donc **concurrente par nature** au même titre que Saint-Gobain Egypt :
+**ne jamais la démarcher.** Elle est remontée par la **méthode de la page fournisseurs du §13** —
+**GlasGiganten** écrit sur sa propre page produit que *son floatglas est livré par Emmaboda
+Saint-Gobain*, et son dépoli et son trempé *par AGC / Saint-Gobain*. Une marque dans une **gamme**
+dit qu'on **achète**, donc GlasGiganten est un prospect et l'on sait contre qui l'on se place.
+**⚠️⚠️ ET VOICI LE PIÈGE, QUI EST LA DISTINCTION PILKINGTON NORGE / ELVERUM PRISE UNE SECONDE FOIS :
+EMMABODA EST UN SITE DE TRANSFORMATION, PAS UNE LIGNE FLOAT.** Lire « Saint-Gobain fournit du float
+depuis Emmaboda » comme « la Suède produit du float » serait faux, et cela ferait **abandonner un
+argument vrai** — la dernière ligne float scandinave, **Halmstad**, a été arrêtée par Pilkington en
+**janvier 2013**, et **Lahti** en Finlande en 2009. **L'argument de l'absence de ligne float reste
+donc VRAI en Norvège, en Suède, au Danemark et en Finlande**, et il se sert **au passé**, règle
+Australie : la dernière ligne **a été arrêtée**, jamais « il n'en existera jamais ».
+**La règle générale, et c'est la troisième fois qu'elle sert : un site de PRODUCTION d'un
+producteur float n'est pas forcément un FOUR.** Pilkington Norge produit à Elverum — trempe et
+isolant. Saint-Gobain produit à Emmaboda — transformation. **Avant de conclure qu'un pays a du
+float, vérifier que le site nommé fond du verre.**
+
 **GLAS TRÖSCH / EUROGLAS** (Suisse — ajouté le 14/10 à 16h35, et **c'est le trou le plus grave qui
 restait sur l'Europe, parce qu'il a laissé passer un envoi**. Groupe suisse, plus de 65 sites et
 ~6 000 salariés, qui **produit du float sous la marque EUROGLAS** : **Hombourg** en Alsace depuis
