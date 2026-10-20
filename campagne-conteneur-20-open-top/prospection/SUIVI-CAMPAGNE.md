@@ -9908,3 +9908,34 @@ est deja ecrit et conforme, on cesse d'en ecrire d'autres.
 **Et la mesure valait d'etre faite plutot que supposee, dans les deux sens** : supposer que les 17
 etaient fautifs aurait declenche une reecriture inutile, supposer qu'ils etaient sains sans lire
 aurait pu couvrir un vrai probleme.
+
+## 20/10 a 13h59 — vider la liste des fiches a site connu : trois verdicts, dont une fermeture nette
+
+**Recherches : 2. Envois confirmes : 0. Fiches fermees : 1. Fiches declassees : 1.**
+
+**La liste des candidats au deverrouillage A SITE CONNU — les moins cheres, un appel chacune — est
+passee de HUIT ce matin a UNE.** Trois travaillees dans cette heure, et **aucune ne finit en file**,
+ce qui est un resultat et non un echec : **chaque verdict ecrit est un appel qu'une session future
+ne depensera pas.**
+
+**⛔ CORPORACION MARIN (Lima) — FERMEE, `ECARTE — HORS GAMME`, ET LA FERMETURE EST NETTE.** Sa page
+*Sobre Nosotros* dit qu'elle commercialise des **OUTILS, DES MACHINES ET DES ACCESSOIRES** pour
+l'installation de fenetres et de cloisons de verre. **Son catalogue ne contient pas une feuille de
+verre** : charnieres crabe, supports, equerres pour double vitrage, poteaux acier 304, meules
+diamant, scies cloche. **C'est de la quincaillerie de vitrier.** C'est le cas des six distributeurs
+de **machines** ecartes le 14/10, et **la lecon Imporex une fois de plus** — la source a identifie,
+elle n'a pas qualifie.
+
+**🟠 GRE OCEAN CONCEPT (Port-Louis) — declassee par classe.** Ingenierie du verre et de la **facade**,
+avec **installation** : classe a 3,6 pour cent, et aucune epaisseur publiee. ⚠️ **Deux jeux de
+coordonnees discordants sur leur propre site**, et **une boite nominative ECARTEE pour motif de
+regle** — fonction non etablie, le paragraphe 5 l'interdit.
+**⚠️ Et une collision de mot consignee pour que personne ne la surinterprete : GRE OCEAN Concept et
+RIOU OCEAN Glass sont toutes deux a Port-Louis et partagent le mot OCEAN. Aucun lien etabli** — les
+domaines n'ont rien de commun. **Le mot ne fait pas le groupe, la coordonnee tranche, et ici elle
+les separe.**
+
+**⚠️ Deux fiches mauriciennes sur deux sortent facadieres** — note comme une indication de marche et
+**non comme une mesure**, deux cas ne faisant pas une mesure.
+
+**Registre : 1958 fiches. Candidats au deverrouillage : 413, dont UNE a site connu.**
