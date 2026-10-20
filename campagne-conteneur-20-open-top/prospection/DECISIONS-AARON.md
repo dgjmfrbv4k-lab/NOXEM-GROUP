@@ -81,6 +81,44 @@ quinze jours.** A vous de dire s il part.
 
 ---
 
+## 0 bis. 🟠 AJOUTE A 13h00 — UNE PAGE ENTIERE DE NOTRE CATALOGUE N A JAMAIS SERVI, ET L INDUSTRIE QUI L ACHETE N A JAMAIS ETE PROSPECTEE
+
+**LE FAIT, MESURE ET NON SUPPOSE : sur les 330 textes ecrits depuis le debut de la campagne, ZERO
+emploie la page VERRE PHOTOVOLTAIQUE du site.** Et sur 1953 fiches, **QUATRE** seulement evoquent le
+photovoltaique, dont **aucune n est un fabricant de panneaux ou de capteurs**. La page existe, elle
+est au paragraphe 8 du mandat, et elle n a jamais servi une seule fois.
+
+**L INDUSTRIE EXISTE ET ELLE EST GROSSE.** Le Bresil a un marche du chauffe-eau solaire considerable
+et des fabricants domestiques de **capteurs plans**, qui consomment du verre en serie et en cotes
+figees. Releve du jour, tous **ABSENTS du registre** : **HELIOTEK** (groupe Bosch, gammes MC1300,
+MC1500, MC2000, MC3000) · **RINNAI**, qui fabrique au Bresil a **Mogi das Cruzes** dans l Etat de Sao
+Paulo · **KISOLTEC**, gamme STT certifiee A a l Inmetro · **UNISOL** · plus **SOLETROL** et
+**KOMECO**, connus du secteur et absents eux aussi.
+
+**⚠️⚠️ MAIS JE N AI CREE AUCUNE FICHE, ET VOICI POURQUOI — C EST UNE QUESTION DE PRODUIT ET ELLE EST
+POUR VOUS.** Le verre que ces capteurs emploient est decrit par les fabricants eux-memes comme du
+**vidro prismatico temperado de baixo teor de ferro** : du verre **PRISMATIQUE**, c est-a-dire
+**IMPRIME et LAMINE AU ROULEAU**, a faible teneur en fer, trempe. **Ce n est PAS du float.** Le verre
+imprime sort d une ligne de laminage, pas d un bain d etain — c est un autre procede industriel.
+
+**LA QUESTION, EN UNE LIGNE : nos usines partenaires fournissent-elles du VERRE IMPRIME A BASSE
+TENEUR EN FER — solaire, prismatique, 3,2 ou 4 mm, trempe ou a tremper — ou seulement du FLOAT ?**
+
+**CE QUE CHAQUE REPONSE DECLENCHE :**
+· **OUI** → c est un marche entier a ouvrir, avec une page de catalogue deja ecrite, zero concurrence
+  interne a notre propre gamme, et six noms deja identifies a zero appel. Le Bresil est en plus le
+  marche que le paragraphe 6 juge le plus favorable.
+· **NON** → on le sait une fois pour toutes, **la page photovoltaique ne se lie plus a personne**, et
+  on cesse d y penser. **Ce resultat-la vaut aussi la peine d etre obtenu** : une page de catalogue
+  qu on ne peut pas honorer est un risque, pas un atout.
+
+**⚠️ ET RIEN N EST ECRIT A PERSONNE DANS L INTERVALLE.** Le paragraphe 5 interdit toute garantie
+technique non validee, et lier une page de notre site a un fabricant de capteurs reviendrait a
+affirmer qu on fournit le produit. **C est exactement la situation de l autoclave et du PLF :
+l industrie sait faire, la question est de savoir si NOUS le faisons.**
+
+---
+
 ## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
 
 **⚠️⚠️ CETTE SECTION A ETE CORRIGEE TROIS FOIS CE MATIN ET JE LE DIS PLUTOT QUE DE LA LISSER.**

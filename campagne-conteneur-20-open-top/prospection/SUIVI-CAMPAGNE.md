@@ -9329,3 +9329,45 @@ ils n'achetent pas de verre.
 
 **Garde-fous :** doublons **8 groupes**, noyaux **19 paires**, float **0 a corriger**, `verif-texte.py`
 **0 a corriger** sur 296 textes. **Registre : 1953 fiches. 341 textes.**
+
+## 20/10 a 13h02 — compter l'emploi de nos propres pages produit, et trouver un angle mort et une page qu'on ne peut peut-etre pas honorer
+
+**Recherches : 2. Envois confirmes : 0. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0.
+Fiches creees : 0 — et c'est une decision, pas une panne. Six noms identifies et consignes.**
+
+**J'ai mesure l'emploi des DIX pages produit du paragraphe 8 dans les 341 textes. Le resultat :**
+float **260** · low-E **220** · miroir **166** · catalogue **92** · laque **16** · trempe **15** ·
+vitrage technique **5** · double vitrage **2** · triple vitrage **2** · **verre photovoltaique ZERO.**
+
+**ET LA LECTURE N'EST PAS LA MEME POUR LES QUATRE DERNIERS, c'est tout l'interet du comptage.**
+- **Trempe, double et triple vitrage sont rares A JUSTE TITRE** : c'est la **regle Prodiesa**. Nos
+  deux meilleures classes sont le verrier pur et le negoce, et **un trempeur ne s'achete pas du
+  trempe**. Leur rarete prouve que la regle est appliquee. ⚠️ Seule exception a chercher : le
+  **negociant pur**, qui revend de l'isolant tout fait — et le paragraphe 8 range justement le triple
+  vitrage pour le **Canada et la Scandinavie**, nos deux plus gros blocs.
+- **⚠️⚠️ LE VITRAGE TECHNIQUE EST UN VRAI ANGLE MORT.** Coupe-feu et pare-balles ne sont **presque
+  jamais fabriques localement**, donc la regle Prodiesa ne les retire quasiment jamais de l'offre —
+  l'inverse exact du trempe. **Cinq emplois sur 341 textes est un oubli, pas une discipline.** Et le
+  premier usage naturel est tombe le jour meme : **RefriPuertas fabrique une porte retardante au
+  feu.**
+- **Le verre laque est sous-employe par CIBLAGE**, et cela se corrige tout seul : son marche est
+  l'agencement et le mobilier, c'est-a-dire **les industries qui ne s'appellent pas verre**, axe
+  ouvert le 19/10 et travaille aujourd'hui.
+
+**🟠 ET LE ZERO DU PHOTOVOLTAIQUE A OUVERT UNE QUESTION DE PRODUIT POUR KEVIN.** L'industrie existe et
+elle est grosse — les fabricants bresiliens de **capteurs solaires plans** consomment du verre en
+serie et en cotes figees. **Six noms identifies a zero appel et tous absents du registre** : Heliotek
+(Bosch), Rinnai qui fabrique a Mogi das Cruzes, Kisoltec, Unisol, Soletrol, Komeco.
+**⚠️⚠️ ET AUCUNE FICHE N'EST CREEE, POUR UNE RAISON DE PRODUIT ET NON DE CIBLAGE : le verre de ces
+capteurs n'est PAS du float.** Les fabricants le decrivent eux-memes comme du *vidro prismatico
+temperado de baixo teor de ferro* — du verre **imprime, lamine au rouleau**. **Le verre imprime sort
+d'une ligne de laminage et non d'un bain d'etain.**
+**La question a exactement la forme de celle de l'autoclave et du PLF : l'industrie sait faire, et la
+question est de savoir si NOS usines le font.** Portee dans `DECISIONS-AARON.md`. **Et un NON vaut
+aussi la peine d'etre obtenu** — une page de catalogue qu'on ne peut pas honorer est un risque.
+
+**⚠️ Et un faux positif de `grep-nom.py` lu et tranche au passage** : `Unisol` rendait deux lignes
+« ailleurs », toutes deux de la famille Devidros — le token aplati enjambe les mots. **Verifie a la
+frontiere de mot sur le nom non aplati : zero.** La societe est bien absente.
+
+**Registre : 1953 fiches. 341 textes.**

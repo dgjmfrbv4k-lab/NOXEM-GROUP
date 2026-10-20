@@ -2816,6 +2816,67 @@ Articles de fond utiles en appui d'argument :
 - double vs triple vitrage : `https://noxemgroup.com/double-vitrage-ou-triple-vitrage-que-choisir-pour-vos-projets-residentiels-et-tertiaires/`
 - types de verre pour promoteurs : `https://noxemgroup.com/quels-types-de-verre-pour-les-promoteurs-immobiliers/`
 
+**⚠️⚠️ MESURE DU 20/10 SUR CE TABLEAU LUI-MEME, ET ELLE DIT QU'UNE LIGNE N'A JAMAIS SERVI : SUR
+330 TEXTES ECRITS, **ZERO** EMPLOIE LA PAGE **VERRE PHOTOVOLTAIQUE**.** Et sur 1953 fiches,
+**quatre** seulement evoquent le photovoltaique, **dont aucune n'est un fabricant de panneaux ou de
+capteurs**. Le tableau du §8 annonce une page que la campagne n'a jamais liee une seule fois.
+**L'INDUSTRIE QUI L'ACHETE EXISTE ET N'A JAMAIS ETE PROSPECTEE** — au Bresil, les fabricants de
+**capteurs solaires plans** consomment du verre en serie et en cotes figees, et six noms ont ete
+identifies a zero appel : Heliotek (Bosch), Rinnai, Kisoltec, Unisol, Soletrol, Komeco. **Tous
+absents du registre.**
+**⚠️⚠️ ET LA RAISON POUR LAQUELLE AUCUNE FICHE N'A ETE CREEE EST UNE QUESTION DE PRODUIT, PAS DE
+CIBLAGE : LE VERRE DE CES CAPTEURS N'EST PAS DU FLOAT.** Les fabricants le decrivent eux-memes comme
+du *vidro prismatico temperado de baixo teor de ferro* — du verre **IMPRIME, LAMINE AU ROULEAU**, a
+basse teneur en fer. **Le verre imprime sort d'une ligne de laminage et non d'un bain d'etain : c'est
+un autre procede.**
+**DONC LA QUESTION EST POUR AARON ET ELLE A EXACTEMENT LA FORME DE CELLE DE L'AUTOCLAVE ET DU PLF :
+l'industrie sait faire, et la question est de savoir si NOS usines le font.** Portee dans
+`DECISIONS-AARON.md`. **Rien ne se lie a personne dans l'intervalle** — lier une page de notre site
+a un fabricant de capteurs reviendrait a affirmer qu'on fournit le produit, et le §5 l'interdit.
+**ET LA LECON DE METHODE VAUT AU-DELA DE CETTE PAGE : un tableau de pages produit se MESURE comme une
+source se mesure.** La regle du 19/10 dit qu'on ne juge pas un annuaire mais la rubrique qu'on lit ;
+ici, **on ne juge pas un catalogue mais la page qu'on emploie**. Une ligne qui n'a jamais servi en
+330 textes est soit une cible qu'on ne cherche pas, soit un produit qu'on ne peut pas livrer — et les
+deux se decouvrent en comptant, jamais en relisant le tableau.
+
+**⚠️⚠️ ET LE COMPTAGE A ETE FAIT SUR LES DIX PAGES, PUISQUE LA QUESTION SE POSAIT. VOICI LE TABLEAU,
+ET IL DIT OU LA CAMPAGNE REGARDE ET OU ELLE NE REGARDE PAS.** Occurrences dans `TEXTES-PRETS.md` au
+20/10 :
+| Page | Emplois | Lecture |
+|---|---|---|
+| Float clair / extra-clair | **260** | la base, et c'est normal |
+| Low-E | **220** | second pilier, normal |
+| Miroir sans cuivre ni plomb | **166** | notre produit le plus differenciant, bien servi |
+| Catalogue | **92** | en complement, normal |
+| Verre laque | **16** | ⚠ **sous-employe** |
+| Verre trempe | **15** | correct, voir ci-dessous |
+| Vitrage technique | **5** | ⚠⚠ **le plus sous-employe des utiles** |
+| Double vitrage | **2** | correct, voir ci-dessous |
+| Triple vitrage | **2** | correct, voir ci-dessous |
+| Verre photovoltaique | **0** | question de produit, voir ci-dessus |
+**ET LA LECTURE N'EST PAS LA MEME POUR LES QUATRE DERNIERS, C'EST TOUT L'INTERET DU COMPTAGE.**
+· **Trempe, double et triple vitrage sont RARES A JUSTE TITRE, et c'est la REGLE PRODIESA qui
+  l'explique** : nos deux meilleures classes de metier sont le verrier pur et le negoce, et **un
+  trempeur ne s'achete pas du trempe, un fabricant d'isolant ne s'achete pas d'isolant**. Leur
+  rarete est la preuve que la regle est appliquee, pas un defaut. ⚠ **La seule exception a
+  chercher est le NEGOCIANT PUR** — un distributeur qui ne transforme pas revend de l'isolant tout
+  fait, et le §8 range justement le triple vitrage pour le **Canada et la Scandinavie**, ou nous
+  avons les deux plus gros blocs de fiches. **A verifier fiche par fiche avant d'en conclure quoi
+  que ce soit.**
+· **Le VITRAGE TECHNIQUE est sous-employe et il ne devrait pas l'etre.** Coupe-feu et pare-balles
+  sont des produits que **presque personne ne fabrique localement**, donc la regle Prodiesa ne les
+  retire quasiment jamais de l'offre — l'inverse exact du trempe. **Cinq emplois sur 330 textes est
+  un oubli, pas une discipline.** ⚠ Et le premier usage naturel vient d'etre trouve le jour meme :
+  **RefriPuertas fabrique une PORTE RETARDANTE AU FEU**, qui demande un vitrage coupe-feu.
+· **Le VERRE LAQUE est sous-employe pour une raison de CIBLAGE, et elle se corrige d'elle-meme.**
+  Son marche est l'**agencement, le mobilier, la credence** — c'est-a-dire exactement les
+  **industries qui ne s'appellent pas verre** du §6, axe ouvert le 19/10 et travaille depuis.
+  **La campagne ne liait pas cette page parce qu'elle n'ecrivait pas a ces gens-la.**
+**LA REGLE GENERALE : une page peu employee est soit une discipline, soit un angle mort, et SEULE LA
+REGLE PRODIESA SEPARE LES DEUX.** Si le prospect type FABRIQUE le produit, la rarete est juste. S'il
+ne le fabrique pas, c'est une page qu'on oublie de lier. **Ce comptage se refait periodiquement, il
+coute une commande.**
+
 Le site n'existe qu'en **FR et EN**. Pour un prospect hispanophone ou lusophone,
 lien EN + phrase d'explication dans sa langue.
 
