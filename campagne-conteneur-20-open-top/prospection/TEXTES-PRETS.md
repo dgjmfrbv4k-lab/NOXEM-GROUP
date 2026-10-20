@@ -23294,3 +23294,106 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 324. Commercial Insulating Glass (Sarasota, Floride, Etats-Unis) — `CIG_Info@cigglass.com` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 12h03. Non envoye — bande du paragraphe 10 atteinte. Couvert par l accord de
+Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS.**
+
+- **⚠️⚠️ L ANGLE EST LE PLUS PRECIS DE LA JOURNEE, ET IL CONSISTE A RETIRER NOTRE MEILLEUR PRODUIT
+  DE L OFFRE. Ils COUCHENT eux-memes, par depot chimique en phase vapeur** — leur unite HeatClear
+  est batie sur un **procede CVD brevete**. **Donc le low-E ne leur est PAS propose : ils le
+  fabriquent.** Ce qui entre chez eux est le **float clair et extra-clair destine a etre couche**.
+- **C est la regle Prodiesa appliquee au bon niveau**, et c est la seconde fois de la journee apres
+  Ispan. **Le texte le dit en toutes lettres** — *I am not offering you low-E, you make it* — parce
+  qu un fournisseur qui propose a un coateur de lui vendre de la couche prouve en une ligne qu il
+  n a pas lu sa page.
+- **ET CE QUI REMPLACE L ARGUMENT LOW-E EST PLUS JUSTE POUR EUX : un substrat destine a etre couche
+  ne se juge pas sur la couche, il se juge sur la PLANEITE, l absence d inclusion et la constance
+  d une livraison a l autre.** Un defaut invisible sur un vitrage ordinaire devient visible sous
+  une couche CVD et traverse toute la serie.
+- **⚠️ INTERDIT AMERICAIN DU §6 : le texte n ecrit NULLE PART qu il n y a pas de production locale**
+  — Vitro et les sept sites float de Cardinal. **Angle DOUANIER**, ordres du 06/04/2026, Chine et
+  Malaisie frappees, **Europe visee par aucun**, donne comme **fait** et non comme annonce.
+- **AUCUN PRIX ANNONCE** : l ouverture anglaise emploie *quotation* et le mot *price* n apparait
+  nulle part. **Verifie par relevé du corps.**
+- **⚠️ VOISINAGE DE SARASOTA NON TRANCHE ET SANS CONSEQUENCE ICI : Styleline est a Sarasota elle
+  aussi et au registre, mais SANS AUCUNE COORDONNEE** — il n y a donc aucun risque de double envoi
+  aujourd hui. **Le lien se tranche avant de deverrouiller Styleline, jamais apres.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port Tampa ou Jacksonville,
+  et le texte le demande au lieu de le choisir.
+
+**Objet :** `The clear glass under a CVD coating`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+Let me start with what I am NOT offering you, because it is the part that
+matters.
+
+I am not offering you low-E. You make it. Your HeatClear unit is built on your
+own patented chemical vapour deposition process, and a supplier who turned up
+offering coated glass to a company that coats its own would be telling you in
+one line that he had not read your pages.
+
+What I am offering is what goes under the coating: clear and extra-clear float
+glass, bought by the container, cut to your sizes or supplied as standard jumbo.
+
+And I think you will agree that this is the harder half of the purchase rather
+than the easier one. A sheet destined to be coated is not judged the way a sheet
+destined for a window is judged. Flatness matters more. An inclusion that
+nobody would notice in an ordinary glazing unit sits under a deposited layer and
+stays there. And consistency from one delivery to the next matters most of all,
+because a coating line is set up against the substrate it was commissioned with.
+Those are the three things I would want to talk about with you, and they are
+three things a buyer rarely gets asked about.
+
+There is also a change on your side of the water that I give as a customs fact
+and nothing more. On 6 April 2026 the United States published antidumping and
+countervailing orders on float glass. Chinese float carries an antidumping rate
+of 181.52 percent for the country-wide entity, plus countervailing duties;
+Malaysian float lost the antidumping case but carries countervailing duties from
+17.3 to 102 percent depending on the exporter. European glass is covered by none
+of these orders. That says nothing about our own figures, which I am in no
+position to put to you before we have validated them on our side. It changes
+which origins are still in the comparison.
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR sizes or as standard jumbo 3210 x 2550 mm, with the length cut to
+order. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - Tampa or Jacksonville, I would assume, but
+that is your call.
+
+What I need back is short. Which thicknesses go onto the coating line, and in
+what sheet size. Roughly how much clear and extra-clear in a year, and how often
+you replenish. What flatness and inclusion criteria your process actually
+demands - I would rather be told than guess, because that is the part that
+decides whether we are useful to you at all. And the port.
+
+And the honest part. A works running a patented coating process does not change
+substrate on a first email, and it would be unwise to. I am asking to be a
+qualified second name, ready for the quarter when the first one is short. If
+there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

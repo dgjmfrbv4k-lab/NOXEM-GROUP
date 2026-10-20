@@ -8878,3 +8878,36 @@ distributeur, et le test d echelle la classe du mauvais cote sans depenser un ap
 **Controles : 0 ligne malformee, 8 groupes au balayage, 0 fiche `A APPELER` sans telephone,
 0 a corriger sur 289 textes.** L annotation du texte 323 a ete verifiee par relevé : **aucun mot
 de prix dans le corps**, l ouverture portugaise employant *orcamento*.
+
+---
+
+### 20/10 — 12h04 · deux des trois fiches neuves qualifiees, et l une repond a sa propre question
+
+**Les cinq chiffres du paragraphe 3 :** recherches **2** · envois confirmes **20 sur la journee,
+0 dans ce bloc** · reponses qualifiees **0** · demandes de devis **0** · commandes **0**.
+
+**⚠️⚠️ COMMERCIAL INSULATING GLASS — LE SECOND TEMPS REPOND A LA QUESTION QUE LA FICHE POSAIT
+ELLE-MEME UNE HEURE PLUS TOT, et la reponse change la reference a leur proposer.** La fiche
+demandait si leur procede de couche brevete voulait dire qu ils achetent du float NU plutot que du
+low-E deja couche. **Reponse : ils couchent eux-memes, par DEPOT CHIMIQUE EN PHASE VAPEUR** — leur
+unite HeatClear est batie sur un procede CVD brevete.
+**CONSEQUENCE : LE LOW-E NE LEUR EST PAS PROPOSE. Ils le fabriquent.** C est la regle Prodiesa
+appliquee au bon niveau, et la seconde fois de la journee apres Ispan.
+**Et le texte 324 en fait son ouverture : il commence par dire ce qu il N OFFRE PAS.** Ce qui
+remplace l argument low-E est plus juste pour eux — **un substrat destine a etre couche se juge sur
+la planeite, l absence d inclusion et la constance d une livraison a l autre**, parce qu un defaut
+invisible sur un vitrage ordinaire reste visible sous une couche et traverse toute la serie.
+Fiche deverrouillee, `CIG_Info@cigglass.com` publiee sur leur domaine.
+
+**THERMOSEAL INDUSTRIES — siege tranche, et fiche TELEPHONIQUE par verdict.** La source qui fait
+foi est leur propre page de contact et elle donne **Irving, Texas**, decrit comme leur installation
+la plus recente ; **Gloucester City dans le New Jersey** est la seconde implantation, que les
+annuaires situent a deux adresses differentes. **Un seul compte pour les deux sites**, et **le port
+se demandera dans le message au lieu d etre choisi** — Irving est dans l interieur pres de Dallas
+et le New Jersey sur l Atlantique, ce n est pas le meme dossier. ⚠ **Leur page ne publie aucune
+adresse e-mail, seulement un formulaire et un numero vert** : aucune adresse n est inventee, statut
+`A APPELER`. ⚠ Et la cadence de 200 000 unites par an **reste une donnee d annuaire** et ne
+s affirme pas.
+
+**Controles : 0 ligne malformee, 0 fiche `A APPELER` sans telephone, 0 a corriger sur 290 textes**,
+et l annotation du 324 verifiee par relevé — aucun mot de prix dans le corps.
