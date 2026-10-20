@@ -9116,3 +9116,42 @@ domaines et les Etats different, aucune fusion · argument float 0 a corriger ·
 telephone 0.
 
 **Registre : 1948 fiches.**
+
+## 20/10 a 12h39 — la reserve consignee paie trois fois, et la licence de certification devient un critere d'entree
+
+**Recherches : 5. Envois confirmes : 0 (journee a 19, haut de la bande). Reponses qualifiees : 0.
+Demandes de devis : 0. Commandes : 0. Fiches creees : 2. Textes rediges : 1.**
+
+**LA METHODE DE CONSIGNATION A ZERO APPEL A SERVI DEUX FOIS DE SUITE.** Les cinq noms mexicains de
+l'axe des portes refrigerees avaient ete ecrits le matin dans la note de Perficom avec leur metier
+presume et leur ordre de reprise. **Les reprendre a coute UN appel de premier temps au lieu de deux**,
+le grep etant deja passe.
+- **REFRIGERACION OJEDA (Mexico, Iztacalco) — creee, adressee, texte 326 redige.** Vitrines a
+  **cristal frontal courbe renforce**, refrigerateurs verticaux a **portes de cristal**. Usine propre,
+  plus de 25 000 m2 et environ 700 personnes annonces — ⚠ sur une page que la societe dit elle-meme
+  ancienne, donc **les chiffres ne se citent pas**, seule l'usine est etablie. **Test d'echelle passe.**
+  Adresse `marketing@ojeda.com.mx` sur leur propre domaine, anti-rebond satisfait **sans exception a
+  invoquer**. Deux autres boites ecartees avec leur motif, dont une sur le domaine **ROK Internacional**
+  qui pose une question de groupe au sens de la lecon SOREMIR.
+- **REFRIPUERTAS (Mexico, Azcapotzalco) — creee, telephonique.** Metier **reetabli sur leur domaine**
+  comme la lecon Imporex l'exigeait : portes reach-in en **verre de securite isolant totalement
+  trempe**, deux panneaux au froid positif et trois au negatif. ⚠ **Echelle NON tranchee et dite comme
+  telle** — cotes standard donc series, mais aucune cadence, aucun parc machine, et une ouverture le
+  samedi matin. **C'est ce qu'un appel tranche en trente secondes.** Adresse d'annuaire **non portee au
+  champ**, lecon Sealvid.
+
+**⚠️⚠️ ET LA LISTE IGCC-IGMA A RENDU UNE REGLE QUI VAUT PLUS QUE SES NOMS : UNE LICENCE DE
+CERTIFICATION EST UN CERTIFICAT DU COTE ENTREE, ET ELLE PRIME SUR LE METIER DECLARE.** La liste est
+pleine de **menuisiers et de fabricants de fenetres**, classe a 3,6 pour cent — mais **on ne l'obtient
+pas sans exploiter une ligne de vitrage isolant, et une telle ligne ne tourne qu'avec de la feuille qui
+entre.** C'est la structure exacte du recensement douanier canadien : un tiers qui ne vend rien atteste
+ce que la maison ne dit pas d'elle-meme.
+**⚠️ ET LA SECONDE MOITIE EMPECHE D'EN ABUSER : LA LICENCE NE DIT RIEN DE L'ECHELLE.** Le meilleur nom
+du releve, **R&R Insulated Glass Products**, s'est revele au second temps une **petite structure de
+Fremont** — gerant nomme, transporteur federal a un seul vehicule, trois adresses discordantes.
+**Fiche NON creee, verdict consigne.** Quatre autres noms consignes avec leur classe et leur ordre de
+reprise dans la note de Commercial Insulating Glass, Sierra Pacific Windows en tete.
+
+**Garde-fous :** forme OK · doublons **8 groupes**, ligne de reference · noyaux **19 paires** · float
+**0 a corriger** · `A APPELER` sans telephone **0** · `verif-texte.py` **0 a corriger** sur 292 textes.
+**Registre : 1950 fiches, dont 69 au Mexique. 337 textes.**

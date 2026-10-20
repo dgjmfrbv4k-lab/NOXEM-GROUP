@@ -2193,6 +2193,31 @@ interroger sont donc `SGCC`, `IGCC` et `NAMI`**, et la lecon s'ajoute a la prece
 certification ne sert pas seulement a DECOUVRIR un nom hors secteur, **il sert aussi a QUALIFIER un nom
 qu'on a deja et dont le metier est introuvable autrement** — une fiche muette au moteur de recherche
 peut etre bavarde chez son certificateur. A essayer avant de classer une fiche en « metier a etablir ».
+**⚠️⚠️ ET LE 20/10 À 13h20 AJOUTE LES DEUX MOITIÉS QUI MANQUAIENT À CET AXE, MESURÉES SUR LA LISTE
+IGCC-IGMA DES FABRICANTS CERTIFIÉS DE VITRAGE ISOLANT. LA PREMIÈRE RENVERSE LE TRI MÉTIER, LA SECONDE
+EMPÊCHE D'EN ABUSER.**
+1. **UNE LICENCE DE CERTIFICATION EST UN CERTIFICAT DU CÔTÉ ENTRÉE, ET ELLE PRIME SUR LE MÉTIER
+   DÉCLARÉ.** La liste IGCC est pleine de **menuisiers et de fabricants de fenêtres** — Sierra
+   Pacific Windows, YKK AP America, EFCO, Dynamic Windows & Doors — c'est-à-dire de la classe que le
+   §6 mesure à **3,6 %**. **Mais on n'obtient pas cette licence sans EXPLOITER UNE LIGNE DE VITRAGE
+   ISOLANT, et une ligne de vitrage isolant ne tourne qu'avec de la FEUILLE QUI ENTRE.** La licence
+   atteste donc un achat de substrat que la raison sociale cache. **C'est la structure exacte de la
+   règle du recensement douanier canadien** — un tiers qui ne vend rien atteste ce que la maison ne
+   dit pas d'elle-même — et c'est pourquoi une fenêtrerie **licenciée** ne se traite pas comme un
+   poseur de façade.
+2. **⚠️ MAIS LA LICENCE NE DIT RIEN DE L'ÉCHELLE, ET C'EST LA LEÇON VALLEYWIDE PRISE SUR CET AXE.**
+   Le meilleur nom du relevé, **R&R Insulated Glass Products**, licenciée et exploitant sous
+   *Aurora Windows and Doors*, s'est révélée au second temps une **petite structure de Fremont** :
+   profils d'annuaire local, un **gérant nommé**, un enregistrement de transporteur fédéral à **un
+   seul véhicule**, et **trois adresses discordantes**. Aucun parc machine, aucune cadence. **Fiche
+   non créée**, verdict consigné pour qu'il ne soit pas repayé.
+**DONC LE CRITÈRE EST DOUBLE SUR CET AXE COMME IL L'EST SUR LE FORMAT : LA LICENCE DIT LE CÔTÉ DE
+L'ATELIER, LE TEST D'ÉCHELLE DIT SI CELA FAIT UN CONTENEUR.** Une licence sans échelle est un atelier
+de quartier qui monte ses doubles vitrages — et c'est exactement ce que le 48 × 60 pouces de
+Valleywide était du bon côté du format.
+**⚠️ RÉSERVE DE SOURCE À TENIR : la liste IGCC est un PDF que cette session ne peut pas lire**, donc
+les noms viennent de résumés de recherche et **chacun coûte son second temps**. Même réserve que sur
+le répertoire SGCC, dont l'édition publique la plus récente trouvée datait de juillet 2023.
 **LES INDUSTRIES A CHERCHER DANS CES LISTES, parce qu'elles consomment de la feuille en serie :**
 porte et vitrine **de refrigeration** et de froid commercial · **electromenager** (portes de four,
 clayettes) · **agencement de magasin** et presentoirs · **mobilier** (plateaux, etageres) ·

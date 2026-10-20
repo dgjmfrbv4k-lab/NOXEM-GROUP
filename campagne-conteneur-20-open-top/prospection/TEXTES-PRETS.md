@@ -23509,3 +23509,115 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 - **S il a deja tranche le groupage**, le paragraphe correspondant se remplace par la reponse
   ferme, dans un sens ou dans l autre. **Un non clair vaut mieux qu un flou** devant un acheteur
   qui, lui, achete deja en conteneur mixte.
+
+## 326. Refrigeracion Ojeda (Mexico, Iztacalco) — `marketing@ojeda.com.mx` — ESPAGNOL — premier contact
+
+**Redige le 20/10 a 12h55. Non envoye — bande du paragraphe 10 atteinte, la journee est a 19.
+Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS.**
+
+- **AXE DES INDUSTRIES QUI CONSOMMENT DU VERRE PLAT SANS S APPELER VERRE**, ouvert le 19/10 par
+  Perficom. Leur metier declare est la **refrigeration commerciale** et aucune recherche verriere ne
+  les rend — et leur catalogue est plein de verre : **cristal frontal courbe renforce** sur la gamme
+  Dolce, **portes de cristal a joint magnetique** sur les refrigerateurs verticaux.
+- **L ARGUMENT DE FOND EST LA SERIE, et c est exactement la raison que le paragraphe 6 donne pour
+  les 3,6 pour cent de la classe facade.** Une vitrine de supermarche se fabrique en **cotes
+  repetables** et en **flux continu** ; un poseur achete au coup par coup selon le chantier. **Le
+  texte le dit en une phrase et c est son meilleur passage** : *una medida que se repite es una
+  medida que se puede comprar por anticipado*.
+- **REGLE PRODIESA APPLIQUEE EN TOUTES LETTRES, troisieme fois de la journee apres Ispan et CIG.**
+  Le texte commence par dire ce qu il **ne** propose **pas** — ni vitrine, ni porte terminada, ni
+  mueble. Ce qui entre est le **substrat**.
+- **⚠️ LE LOW-E EST PROPOSE ET DEMANDE, JAMAIS AFFIRME.** Une porte de froid est un probleme
+  thermique, donc le low-E est le candidat evident — **mais ce n est pas leur vocabulaire et ce
+  n est pas a moi d asserter leur specification.** C est la frontiere de la faute STADIP du 12/10.
+  Le texte emploie la forme interrogative : *si su puerta lleva un vidrio de baja emisividad, me
+  interesa saber cual*.
+- **⚠️ INTERDITS MEXICAINS DU §6, LES DEUX RESPECTES ET VERIFIES SUR LE CORPS.** Un, **aucun mot sur
+  les droits de douane** — le taux applicable a une origine UE n est pas etabli. Deux, **nulle part
+  il n est ecrit qu il n y a pas de production locale** : Vitro, Guardian, Saint-Gobain a Cuautla et
+  Prodiesa y produisent. **L angle est l ORIGINE et la SECONDE SOURCE**, pas l absence d offre.
+- **AUCUN PRIX ANNONCE** : le mot *precio* n apparait nulle part, l ouverture emploie *cotizacion*.
+  **Verifie par relevé du corps.**
+- **Site en FR et EN seulement, donc liens EN et explication en espagnol**, comme le paragraphe 8
+  l impose pour un prospect hispanophone.
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port **demande** et non
+  choisi — Veracruz ou Altamira sont cites comme hypothese, pas comme decision.
+
+**Objet :** `El vidrio que va debajo de sus vitrinas`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, en Francia. Esto es una oferta de suministro, no
+una solicitud de cotizacion. Si usted no es la persona que compra el vidrio, le
+agradeceria que lo hiciera llegar a quien corresponda.
+
+Permitame empezar por lo que NO le ofrezco, porque es la parte que importa.
+
+No le ofrezco vitrinas, ni puertas terminadas, ni muebles refrigerados. Ustedes
+los fabrican, y los fabrican en su propia planta. Le escribo por lo que va
+debajo: la hoja de vidrio que entra antes de que ustedes la conviertan en
+producto.
+
+Le escribo a ustedes y no a otro por una razon concreta que esta en su propio
+catalogo. Su linea Dolce lleva cristal frontal curvo reforzado. Sus
+refrigeradores verticales llevan puertas de cristal con sello magnetico y marco
+iluminado. Sus vitrinas murales abiertas y sus congeladores verticales salen de
+la misma planta. Eso no es vidrio comprado a la medida de una obra: es vidrio
+comprado por modelo, en medidas que se repiten mes tras mes.
+
+Y ahi esta el punto. Una medida que se repite es una medida que se puede
+comprar por anticipado, en volumen, y no pieza por pieza. Es exactamente el
+patron de compra al que se ajusta un contenedor completo, y no es el patron de
+un instalador que pide cada trabajo cuando llega. Por eso le escribo a una
+fabrica de refrigeracion y no a una vidrieria.
+
+Lo que le propongo es el sustrato:
+
+- vidrio float claro y extra-claro, la base de la gama, y el extra-claro es el
+  que da transparencia real a un frente de exhibicion en lugar del tono verdoso
+  del float comun
+  https://noxemgroup.com/en/float-glass/
+- y, si viene al caso, vidrio de baja emisividad, low-E
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- la gama completa, si prefiere verla de una sola vez
+  https://noxemgroup.com/en/catalog/
+
+Nuestro sitio esta en frances e ingles unicamente, le pido disculpas por ello.
+Si prefiere que le detalle cualquiera de estas referencias en espanol, lo hago
+con gusto.
+
+Sobre el low-E no quiero afirmar nada que no me conste: una puerta de frio es
+antes que nada un problema termico, asi que supongo que alguna de sus puertas
+lleva un vidrio de baja emisividad, pero es una suposicion mia. Si es asi, me
+interesa saber cual, porque de eso depende si tengo algo util que ofrecerle o
+no.
+
+Enviamos CONTENEDORES COMPLETOS, embalados en cajas de madera tratada segun
+NIMP-15, ya sea cortado a SUS medidas o en formato jumbo estandar de
+3210 x 2550 mm. El largo se corta a pedido, de modo que la medida de su linea
+no es un obstaculo. Podemos preparar una oferta para la entrega en su puerto de
+destino, sujeta a validacion por nuestra parte. Supongo Veracruz o Altamira,
+pero prefiero que me lo diga usted en lugar de adivinarlo.
+
+Lo que necesito de vuelta es corto. Que espesores pasan realmente por su
+planta, y en que medida de hoja los reciben. Aproximadamente cuanto vidrio
+claro y extra-claro consumen al ano, y cada cuanto reponen. Si compran la hoja
+ya cortada o la cortan ustedes. Y el puerto.
+
+Y la parte honesta. Una planta que produce en serie no cambia de proveedor por
+un correo, y no se lo estoy pidiendo. Le estoy pidiendo ser un segundo nombre
+calificado, listo para el mes en que el primero no alcance o en que un espesor
+se demore. Si no hay lugar para eso, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
