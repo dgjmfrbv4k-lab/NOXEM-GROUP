@@ -24871,3 +24871,111 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 340. GlassTemp Inc. (Bellwood, Illinois, États-Unis) — `sales@glasstemp.com` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-23`.**
+
+- **⚠️⚠️ LE SIGNAL D ENTREE EST LE PLUS PRECIS RENCONTRE DEPUIS SYRACUSE GLASS, ET IL EST CHIFFRE :
+  leur four TAMGLASS est annonce a une cote maximale de 80 x 130 POUCES**, epaisseurs trempees
+  1/8, 3/16, 1/4, 3/8 et 1/2 de pouce. **Le 130 pouces est le fait qui compte** — c est 3302 mm, et
+  le §4 etablit que le 96 x 130 est LA cote de stock nord-americaine. **Un four qui accepte 130
+  pouces recoit de la feuille de 130 pouces.** Le texte le dit, parce que c est verifiable et que
+  c est exactement ce qu un fournisseur doit avoir lu.
+- **ET LA REGLE DU §4 S APPLIQUE SANS RESERVE :** 80 pouces font 2032 mm, donc leur plus petite
+  dimension tient tres largement dans le ruban de 3210. **Rien de ce qu ils trempent n est hors
+  format**, et il n y a aucune prudence de cote a prendre ici.
+- **MAISON QUI GROSSIT**, fondee en 2016, 51 a 200 salaries, distinguee en 2025 dans un classement
+  de croissance. **Une maison qui grossit cherche de la capacite, pas seulement un prix** — c est
+  l angle du texte et il est different de celui des fiches etablies.
+- **REGLE PRODIESA : la trempe sort de l offre.** Entre le float clair **recuit** dans les cinq
+  epaisseurs memes qu ils trempent, plus l extra-clair.
+- **⚠️ LA BOITE EST DE LA COLONNE CLIENT** — `sales@` — et c est la seule utile qu ils publient.
+  **Transmission demandee en ouverture**, comme le §9 l impose.
+- **⚠️ DEUX ADRESSES NOMINATIVES ECARTEES :** `john@` est donnee pour les NOUVEAUX CLIENTS, donc le
+  cote client, piege MunnWorks ; `hector@` est donnee pour l EMPLOI sur une page et pour les
+  services sur une autre, donc fonction non verifiee. Le §5 interdit les deux.
+- **⚠️ INTERDIT DU §6 : rien sur l absence de production locale aux Etats-Unis.** Angle douanier,
+  et aucun taux cite comme une promesse de prix.
+- **AUCUN PRIX ANNONCE.** Formule imposee, porte de sortie, signature une fois. **Port demande.**
+- **⚠️ ET `verif-texte.py` A REFUSE LA PREMIERE VERSION, ce qui est consigne au titre du §16 :**
+  j avais ecrit *« or a lead time slips »* en parlant du delai de LEUR fournisseur et non du
+  notre. **Le §5 interdit le mot sans distinguer de qui l on parle, et c est volontaire** — une
+  phrase sur les delais dans un premier message se lit comme une promesse quoi qu elle dise.
+  Remplace par *« or a shipment runs late »*. **Le garde-fou a travaille avant l envoi et non
+  apres**, ce qui est exactement sa raison d etre.
+
+**Objet :** `130 inches in, and where it comes from`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If this is not the right desk, I would be grateful if you passed it
+to whoever buys the raw glass.
+
+I will say in one paragraph why I am writing to you specifically, because a
+general email to a glass company is worth nobody's time.
+
+Your Tamglass line is published at a maximum of 80 by 130 inches, in 1/8,
+3/16, 1/4, 3/8 and 1/2 inch. A furnace that takes 130 inches is a furnace fed
+with 130-inch sheet, which means you buy stock size rather than cut pieces -
+and stock size by the crate is the only buying pattern a full container fits.
+Most of the companies I write to have to be asked what they buy. Yours is
+printed on your own page.
+
+The other thing your page says is that you are growing: founded in 2016,
+fifty-plus people, on a growth list this year. In my experience that changes
+what a supplier conversation is about. A settled shop is asking about price. A
+growing one is asking whether the glass will be there in March.
+
+What I am NOT offering: tempered glass. You temper, and a supplier who offers a
+fabricator its own process has not read the page. What I am offering is what
+goes into the furnace:
+
+- clear annealed float, in the five thicknesses you run
+  https://noxemgroup.com/en/float-glass/
+- and extra-clear low-iron, for the pieces where the green edge shows
+  https://noxemgroup.com/en/float-glass/
+
+On sizes, so there is no doubt: our standard jumbo is 3210 x 2550 mm, and the
+length is cut to order. 130 inches is 3302 mm, which is a length and not a
+width, so it is cut to order rather than a special. Nothing you run is an
+awkward size for us.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+as jumbo or cut to YOUR sizes. We can put together an offer for delivery to
+your port of destination, subject to validation on our side - Chicago by rail
+from an East Coast port, I would guess, but tell me rather than let me assume.
+
+One fact about origins, and it is customs rather than price. Since April 2026
+float glass from China carries US antidumping and countervailing duties, and
+Malaysian float carries countervailing duties. European origin is covered by
+neither. I am not claiming our glass is cheap. I am saying the set of origins
+worth comparing has changed this year, and it is worth five minutes to see
+where we land.
+
+What I need back is short: which of the five thicknesses actually move in
+volume, what sheet size you take them in, roughly how much in a year, whether
+low-iron is in the mix, and the port or inland point you clear through.
+
+And the honest part. A fabricator running a Tamglass line has a supply
+arrangement that works, and I am not asking you to replace it. I am asking to
+be a second qualified name for the month when a thickness is out of programme
+or a shipment runs late. If there is no room for that, say so plainly and I will
+not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

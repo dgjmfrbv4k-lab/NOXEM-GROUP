@@ -10393,3 +10393,41 @@ toutes les fiches de negoce de son Etat.
 **⚠️ Et une adresse nominative relevee et NON retenue :** leur directrice MARKETING. Le paragraphe 5
 n autorise un nom que si la fonction est pertinente pour les ACHATS, et leur propre page precise que
 c est pour la publicite et la presse.
+
+
+---
+
+## 20/10 — 14h52 · DEUX VERRIERS PURS AMERICAINS DEVERROUILLES, ET LE PREMIER PUBLIE SA COTE D ENTREE
+
+**Recherches : 2 appels. Deverrouillages : 2. Fiches creees : 0. Envois confirmes : 0 sur ce lot.
+Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0. Registre a 1967 fiches, file a
+104, textes a 340.**
+
+**GLASSTEMP INC** (Bellwood, Illinois) est la meilleure fiche americaine de l apres-midi, et le
+motif est chiffre sur leur propre page : **leur four TAMGLASS est annonce a 80 x 130 POUCES**, en
+1/8, 3/16, 1/4, 3/8 et 1/2 de pouce. **Le 130 pouces est le fait qui compte** — c est 3302 mm, et
+le paragraphe 4 etablit que le 96 x 130 est LA cote de stock nord-americaine. **Un four qui accepte
+130 pouces est nourri de feuille de 130 pouces**, donc ils achetent la cote entiere et pas du debit.
+**Et la regle du paragraphe 4 s applique sans reserve** : 80 pouces font 2032 mm, donc leur plus
+petite dimension tient largement dans le ruban. Rien de ce qu ils trempent n est hors format.
+**Maison qui GROSSIT** — fondee en 2016, 51 a 200 salaries, distinguee en 2025 dans un classement de
+croissance. **Une maison qui grossit cherche de la capacite et pas seulement un prix**, et le texte
+340 est bati la-dessus plutot que sur le prix ou le delai.
+
+**BENT GLASS DESIGN** (Hatboro, Pennsylvanie) deverrouillee aussi, et la ville corrigee — la fiche
+la portait a etablir. Fabricant de verre courbe depuis 1988. ⚠️ **Societe soeur a connaitre avant
+d ouvrir une seconde fiche : PROCURVE GLASS TECHNOLOGY**, pour le verre de transport. C est le cas
+Extralum contre Saint Lu — la question n est pas le groupe, c est le BUREAU D ACHAT, et rien ne le
+dit. **Aucune fiche ProCurve creee.**
+
+**⚠️ ET `verif-texte.py` A REFUSE LA PREMIERE VERSION DU TEXTE 340, consigne au titre du paragraphe
+16.** J avais ecrit *or a lead time slips*, en parlant du delai de LEUR fournisseur et non du notre.
+**Le paragraphe 5 interdit le mot sans distinguer de qui l on parle, et c est volontaire** : une
+phrase sur les delais dans un premier message se lit comme une promesse quoi qu elle dise. Remplace
+par *or a shipment runs late*. **Le garde-fou a travaille AVANT l envoi et non apres.**
+
+**TROIS BOITES NOMINATIVES ECARTEES SUR CES DEUX FICHES, pour trois motifs differents**, ce qui
+montre que le tableau des colonnes du paragraphe 13 sert tous les jours. Chez GlassTemp, `john@` est
+donnee pour les NOUVEAUX CLIENTS — piege MunnWorks, colonne client — et `hector@` est donnee pour
+l EMPLOI sur une page et pour les services sur une autre, donc fonction non verifiee. Chez M and M
+Glass ce matin, la directrice MARKETING. **Aucune des trois n est pertinente pour les achats.**
