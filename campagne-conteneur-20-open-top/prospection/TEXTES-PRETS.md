@@ -22143,7 +22143,7 @@ substitui. Proponho ser a SEGUNDA ORIGEM, para o mes em que a primeira estiver
 em falta, ou para a espessura que sair de programa.
 
 Ha ainda um ponto de comercio exterior que vale a pena ter em conta, e digo-o
-como facto aduaneiro e nao como promessa de preco. A Resolucao Gecex 833 aplica
+como facto aduaneiro e nada mais. A Resolucao Gecex 833 aplica
 direitos antidumping ao float INCOLOR de 1,8 a 20 mm originario da Malasia, do
 Paquistao e da Turquia. A Uniao Europeia nao e visada por nenhuma dessas
 medidas. Isso nao vale para o vidro colorido nem para o espelho, que a propria
@@ -22227,11 +22227,11 @@ um pedido de orcamento. Se nao for a pessoa responsavel pelas compras, agradeco
 que encaminhe.
 
 Escrevo-lhes por causa da vossa certificacao de vidro laminado, emitida pelo
-Ibelq com acreditacao do INMETRO. Quem lamina sob certificacao nao escolhe o
-substrato apenas pelo preco: tem de saber, lote a lote, o que entrou na
-autoclave e conseguir demonstra-lo. Isso muda a conversa. Com a maioria dos
-compradores falo de custo posto; com os senhores faz mais sentido falar de
-origem constante e de documentacao que acompanha a carga.
+Ibelq com acreditacao do INMETRO. Quem lamina sob certificacao tem de saber,
+lote a lote, o que entrou na autoclave e conseguir demonstra-lo. Isso muda a
+conversa: com os senhores faz sentido falar de origem constante e da
+documentacao que acompanha a carga, que e precisamente o que uma linha
+certificada nao pode improvisar.
 
 Nao proponho substituir o vosso fornecedor atual. Proponho ser uma SEGUNDA
 ORIGEM qualificada, para o mes em que a primeira estiver em falta ou em que uma
@@ -22239,7 +22239,7 @@ espessura sair de programa - situacao em que uma linha certificada e a que mais
 sofre, porque nao pode simplesmente comprar o que aparecer.
 
 Ha um ponto de comercio exterior que vale a pena ter em conta, e digo-o como
-facto aduaneiro e nao como promessa de preco. A Resolucao Gecex 833 aplica
+facto aduaneiro e nada mais. A Resolucao Gecex 833 aplica
 direitos antidumping ao float INCOLOR de 1,8 a 20 mm originario da Malasia, do
 Paquistao e da Turquia, e a Uniao Europeia nao e visada por nenhuma dessas
 medidas.
@@ -22364,6 +22364,407 @@ am asking to be a qualified second name, ready for the quarter when the first
 one is short. If there is no room for that, say so plainly and I will not push.
 
 Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 315. Glassique (Etobicoke, Ontario, Canada) — `info@glassique.ca` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 11h24. Non envoye — bande du paragraphe 10 atteinte pour la journee. Couvert par
+l accord de Kevin du 19/10 a 23h30 sur les premiers contacts a des prospects NEUFS.**
+
+- **⚠️⚠️ PROFIL LE PLUS PUR DE TOUTE LA FILE CANADIENNE, ET C EST LEUR PROPRE PAGE QUI LE DIT :
+  ILS NE FABRIQUENT RIEN.** Ils s approvisionnent en **float et en verre a couche aupres de lignes
+  de production partenaires** et revendent aux transformateurs, aux faconneurs industriels, aux
+  poseurs et aux fabricants de mur-rideau. **La trempe ne figure pas dans leur gamme**, ce qui
+  confirme l absence d atelier. **Classe NEGOCE du §6.**
+- **POURQUOI CE PROFIL VAUT MIEUX QU UN TRANSFORMATEUR POUR NOUS, et le texte le dit sans le
+  flatter : un negociant n a pas de four a proteger.** Une origine de plus est pour lui une
+  **option commerciale**, pas une remise en cause industrielle — c est le mot *independent* de
+  Glenny Glass et d Intraco, et c est le seul profil pour qui notre proposition ne coute rien a
+  examiner.
+- **⚠️⚠️ ET LE TEXTE S APPUIE SUR LEUR PHRASE A EUX — *partner production lines*, AU PLURIEL — ET
+  NON SUR LE FAIT DOUANIER.** La base des importateurs canadiens de l ISED, qui est la source
+  permise par laquelle la fiche est nee, **n est pas citee dans le message** : un acheteur a qui
+  l on annonce qu on a lu ses dedouanements se cabre, et son propre site dit deja tout ce qu il
+  faut. **La source sert au CIBLAGE, pas a l accroche.**
+- **⚠️ ANGLE CANADIEN DU §6, ET IL EST DE GESTION DU RISQUE ET NON DE PRIX :** plus de ligne float
+  au Canada — servi **sans millesime**, regle du §6 — et environ 90 pour cent du verre des
+  fabricants canadiens vient des Etats-Unis. **⚠️ LE FLOAT, POSITION SH 7005, N EST PAS SUR LES
+  LISTES DE RIPOSTE : le texte n ecrit NULLE PART qu il est taxe**, ce qui serait faux. Il dit la
+  **concentration d origine**, qui est vraie et suffit. **Et il ne cite pas les faillites de
+  facadiers canadiens**, que le §6 reserve a l interne.
+- **Regle Prodiesa : ils ne fabriquent rien, donc la gamme complete leur est offrable, miroir
+  compris** — c est l inverse exact du cas Prodiesa, et il faut le remarquer pour ne pas s autocensurer.
+- **Formule imposee presente. Porte de sortie presente. Signature une fois.** Port Toronto via
+  Montreal, et le texte le leur demande.
+
+**Objet :** `One more partner production line`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I am writing to you because of how you describe yourselves. You do not make
+glass. You source float and coated glass from partner production lines and sell
+it on to commercial fabricators, industrial processors, glazing contractors and
+curtain wall manufacturers. That is an unusual thing to say plainly, and it is
+exactly why I am writing to you rather than to a shop with a furnace: you have
+no production of your own to defend, so one more supply line is an option to
+look at rather than a decision to reopen.
+
+The word that caught my eye is the plural. Partner production lines. A house
+that already works with more than one mill knows what the second one is for -
+the month the first is short, the thickness that drops out of programme, the
+run that slips. I would like to be on that list.
+
+The Canadian backdrop makes the case better than I can. There is no float
+furnace in Canada, so every sheet you sell has been imported by someone, and
+something close to nine tenths of the glass used by Canadian manufacturers comes
+from a single neighbouring country. I am not going to tell you that is about to
+become expensive - I do not know that, and flat glass is not on the retaliation
+lists. What I will say is narrower and I think you already agree with it: a
+market that draws nine tenths of a material from one border has an objective
+interest in knowing a second origin before it needs one.
+
+Since you resell rather than transform, I am not carving anything out of the
+range:
+
+- clear and extra-clear float glass
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- lacquered glass, for shopfitting and furniture work
+  https://noxemgroup.com/en/lacquered-glass/
+- and the full range in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR sizes or as standard jumbo 3210 x 2550 mm, with the length cut to
+order. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - Montreal, I would assume, but tell me.
+
+What I need back is short. Which thicknesses actually move through Etobicoke,
+and in what stock sheet size you take them. Roughly how much clear float in a
+year, and how often you replenish. Which coated products you carry, and whether
+you buy mirror as finished sheet. And the port.
+
+And the honest part. A trader lives on the reliability of the people behind him
+and does not add a name on a first email. I am not asking you to. I am asking to
+be a qualified second name, ready for the month when the first one is short. If
+there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 316. Glastek Industries (Bolton, Ontario, Canada) — `enquiries@glastek.ca` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 11h24. Non envoye, meme motif. Couvert par l accord de Kevin du 19/10 a 23h30.**
+
+- **⚠️⚠️ L ACCROCHE EST LA PARTIE HAUTE DE LEUR GAMME, ET C EST UN ARGUMENT DE DISPONIBILITE ET NON
+  DE PRIX.** Leur page produits publie **4, 5, 6, 8, 10, 12, 15 et 19 mm en clair**, plus gris,
+  bronze, **low-iron**, acide et miroir clair. **Au-dela de 10 mm on est dans le garde-corps, la
+  devanture et le vitrage de securite — et c est precisement l epaisseur que peu de lignes
+  nord-americaines tiennent en stock.** Une maison qui publie du 15 et du 19 a un probleme
+  d approvisionnement que nous savons traiter.
+- **Le critere d entree du §6 est satisfait sur ses DEUX termes**, epaisseurs **et** gamme, et
+  **`low-iron` est le mot anglais de notre extra-clair** — la reference se nomme donc d elle-meme,
+  comme sur Gardner Glass.
+- **⚠️ LE FAIT DOUANIER DE LA BASE ISED CONFIRME LA LECTURE MAIS N EST PAS CITE DANS LE MESSAGE**,
+  meme conduite que pour Glassique : la source sert au **ciblage**, l accroche vient de **leur
+  propre page**. Ici les deux se confirment l une l autre, ce qui est la meilleure situation
+  possible et reste une affaire interne.
+- **Regle Prodiesa stricte : la TREMPE, le heat-soak, la decoupe et le facettage SORTENT de
+  l offre** — ils les font. Seul le substrat y entre. **Et le raisonnement du §6 est servi tel
+  quel : un trempeur qui travaille du 4 au 19 ACHETE du 4 au 19.**
+- **⚠️ ANGLE CANADIEN DU §6 : plus de ligne float au Canada, servi sans millesime, et 90 pour cent
+  du verre venu d un seul pays. LE FLOAT N EST PAS SUR LES LISTES DE RIPOSTE et le texte ne dit
+  nulle part qu il est taxe.** Aucun taux, aucun prix, aucun delai.
+- **Formule imposee presente. Porte de sortie presente.** Port Montreal ou Toronto.
+
+**Objet :** `The 15 and 19 mm end of your range`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I am writing to you because of the top of your published range. You list clear
+float at 4, 5, 6, 8, 10, 12, 15 and 19 mm, alongside grey, bronze, low-iron,
+acid-etched and mirror. Most shops that advertise a range stop at 12. Carrying
+15 and 19 means you are serving balustrades, shopfronts and security glazing,
+and anyone who buys at that end of the scale knows the problem: the thick stuff
+is the first thing to go out of programme and the last to come back.
+
+That is the part of your buying I think I can be useful on, and it is a question
+of availability rather than anything else. A tempering line that runs from 4 to
+19 mm has to buy from 4 to 19 mm, and the heavy end is where a second origin
+earns its place.
+
+The Canadian backdrop is the rest of the case. There is no float furnace in
+Canada, so every sheet in your racks was imported by someone, and close to nine
+tenths of the glass used by Canadian manufacturers comes from one neighbouring
+country. Flat glass is not on the retaliation lists and I am not going to
+pretend otherwise. The narrower point stands on its own: a market drawing nine
+tenths of a material across one border has a real interest in knowing a second
+origin before it needs one.
+
+I am not offering you tempered glass, heat-soaked glass, cutting or bevelling.
+That is your works. I am offering what goes in:
+
+- clear float across the range, including the heavy thicknesses
+  https://noxemgroup.com/en/float-glass/
+- extra-clear - the same product your pages call low-iron
+  https://noxemgroup.com/en/float-glass/
+- copper-free and lead-free mirror, if you buy mirror as finished sheet
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR sizes or as standard jumbo 3210 x 2550 mm, with the length cut to
+order. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - Montreal or Toronto, whichever you clear
+through.
+
+What I need back is short. Which thicknesses actually move in volume, as opposed
+to the ones you list. What stock sheet size your cutting table is set for.
+Roughly how much clear float and how much low-iron in a year, and how often you
+replenish. Whether the 15 and 19 are a steady line or project work. And the port.
+
+And the honest part. A works with a furnace plans its supply a long way ahead and
+does not change it on a first email. I am not asking you to. I am asking to be a
+qualified second name, ready for the quarter when the first one is short. If
+there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 317. Prelco (Riviere-du-Loup et Pointe-aux-Trembles, Quebec, Canada) — `prelco@prelco.ca` — FRANCAIS — premier contact
+
+**Redige le 20/10 a 11h25. Non envoye — bande du paragraphe 10 atteinte. Couvert par l accord de
+Kevin du 19/10 a 23h30 sur les premiers contacts a des prospects NEUFS.**
+
+- **CERTIFICATION DU CLIENT : la fiche a ete qualifiee par la liste des licencies de
+  l INSULATING GLASS CERTIFICATION COUNCIL, qui atteste qu ils FABRIQUENT des unites scellees et
+  les font auditer.** C est une source qui **qualifie** la ou un annuaire se contente d identifier,
+  et c est elle qui a leve la lecon Imporex sur cette fiche. **Classe verrier pur, la meilleure du
+  §6.** **⚠️ Le texte parle de LEUR certification et ne promet AUCUN certificat de notre cote**,
+  ce que le §5 interdit.
+- **CONSEQUENCE D ACHAT, ET C EST L ANGLE : une ligne d unites scellees consomme du LOW-E en
+  continu et par paires.** Le texte le dit comme un fait de procede, pas comme une flatterie.
+- **⚠️⚠️ UN SEUL MESSAGE POUR UN GROUPE A CINQ SITES, §12 :** Riviere-du-Loup, Pointe-aux-Trembles,
+  Princeville, Edmundston au Nouveau-Brunswick et Belleville en Ontario. **Ne jamais ouvrir une
+  seconde fiche sur un de ces sites**, ce serait la faute Shibaam — et c est au contraire un
+  **argument de volume groupe**, comme Savima et Glass Alu SXM.
+- **⚠️ SIGNAL DU §12 CONSIGNE ET NON TRANCHE : LAMIVER INC, deja au registre, est au 3805 de la
+  meme rue que leur site de Pointe-aux-Trembles, au 3740.** Deux maisons de verre sur le meme
+  troncon peuvent etre voisines ou d un meme groupe — cas American Flat Glass et AGC. **Rien n est
+  conclu, et rien n est ecrit a Lamiver avant que ce soit leve.**
+- **⚠️ ANGLE CANADIEN DU §6, DE GESTION DU RISQUE ET NON DE PRIX : plus de ligne float au Canada,
+  servi sans millesime, et 90 pour cent du verre venu d un seul pays. LE FLOAT N EST PAS SUR LES
+  LISTES DE RIPOSTE et le texte ne dit nulle part qu il est taxe.** Et il **ne cite pas** les
+  faillites de facadiers canadiens, que le §6 reserve a l interne.
+- **Regle Prodiesa : unites scellees et transformation SORTENT de l offre.** Seul le substrat y
+  entre. **Francais**, le groupe etant quebecois. **Formule imposee et porte de sortie presentes.**
+- **AUCUN PRIX ANNONCE** : le mot *prix* n apparait que dans l ouverture imposee par le §9 — *ceci
+  est une offre de fourniture et non une demande de prix* — ou il sert a REFUSER d en demander un.
+  **La phrase qui ecartait le cout rendu en le nommant a ete RETIREE** le 20/10, par application de
+  la regle ecrite au §5 une heure plus tot : on ne nie pas un prix, on n en parle pas.
+
+**Objet :** `Le verre a couche qui entre dans vos unites scellees`
+
+```
+Bonjour,
+
+Je m appelle Aaron Harfi et je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat etabli pres de Lyon, en France. Ceci est une offre de fourniture et
+non une demande de prix. Si vous n etes pas la personne qui achete le verre, je
+vous serais reconnaissant de transmettre.
+
+Je vous ecris a cause de ce que vous fabriquez. Vous produisez des unites
+scellees et vous les faites auditer - vous figurez parmi les licencies de
+l Insulating Glass Certification Council. Une maison qui travaille sous ce
+regime ne choisit pas son substrat au hasard ni au dernier moment : elle doit
+savoir ce qui entre dans chaque unite et pouvoir le montrer. Cela change la
+conversation, et ce dont il devient utile de parler est la constance d origine
+et la regularite de programme.
+
+Et une ligne d unites scellees consomme du verre a couche en continu, par paires,
+ce qui est exactement le genre de besoin qu un conteneur sert bien et qu une
+commande au coup par coup sert mal.
+
+Le contexte canadien fait le reste du raisonnement. Il n y a plus de ligne float
+au Canada, donc chaque feuille que vous montez a ete importee par quelqu un, et
+pres de neuf dixiemes du verre utilise par les fabricants canadiens vient d un
+seul pays voisin. Je ne vais pas vous annoncer que cela va encherir : je n en
+sais rien, et le verre plat ne figure pas sur les listes de represailles. Le
+point est plus etroit et vous le savez mieux que moi : un marche qui tire neuf
+dixiemes d une matiere d une seule frontiere a interet a connaitre une seconde
+origine avant d en avoir besoin.
+
+Je ne vous propose ni unites scellees ni transformation - c est votre metier sur
+cinq sites. Je vous propose ce qui entre :
+
+- verre a faible emissivite, le low-E, celui qui compte le plus pour une ligne
+  d unites scellees
+  https://noxemgroup.com/service/verre-a-faible-emissivite/
+- float clair et extra-clair, la base de la gamme
+  https://noxemgroup.com/en/float-glass/
+- et la gamme complete, si c est plus simple a voir d un bloc
+  https://noxemgroup.com/en/catalog/
+
+Nous expedions en CONTENEURS COMPLETS, en caisses bois traitees NIMP-15, soit a
+VOS cotes, soit en jumbo standard de 3210 x 2550 mm, la longueur etant coupee a
+la demande. Nous pouvons etablir une offre pour la livraison a votre port de
+destination, sous reserve de validation de notre cote - Montreal, je suppose,
+mais dites-le moi.
+
+Ce dont j ai besoin en retour est court. Quelles couches vous travaillez
+reellement et quel volume de verre couche par an, approximativement. Quelles
+epaisseurs de float clair passent chez vous et en quelle cote de feuille. A
+quelle frequence vous reapprovisionnez. Si vos cinq sites achetent ensemble ou
+chacun pour soi - cela change ce que je peux proposer. Et le port.
+
+Et la partie honnete. Un groupe de cette taille a son approvisionnement organise
+et ne le reorganise pas sur un premier courriel. Ce n est pas ce que je demande.
+Je demande a etre un second nom qualifie, pret pour le trimestre ou le premier
+sera court. S il n y a pas de place pour cela, dites-le franchement et je
+n insisterai pas.
+
+Cordialement,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 318. TemperGlass Espirito Santo (Vitoria, Bresil) — `vendas@temperglass.ind.br` — PORTUGAIS — premier contact
+
+**Redige le 20/10 a 11h25. Non envoye, meme motif. Couvert par l accord de Kevin du 19/10 a 23h30.**
+
+- **⚠️⚠️ TROIS RESERVES DE LA FICHE, TOUTES REPORTEES ICI PARCE QU ELLES TOUCHENT L ENVOI.**
+  Un, **l adresse est sur `temperglass.IND.br` quand le site est `temperglass.COM.br`** — piege du
+  domaine voisin du §13, **exception du §5 invoquee et notee**, l adresse n etant retenue que parce
+  qu ils la publient **eux-memes**. **Relue caractere par caractere : `ind` point `br`.**
+  Deux, `vendas` est la colonne **CLIENT** — le texte demande donc explicitement la transmission.
+  Trois, **leurs pages sont indexees a environ 1700 jours**, donc l adresse peut etre perimee : le
+  rebond eventuel sera lu comme tel et **pas** comme un signal sur notre reputation.
+- **L ACCROCHE EST LE PORT, ET ELLE EST GEOGRAPHIQUE PLUTOT QUE COMMERCIALE :** ils sont a Vitoria,
+  **donc dans la ville du port**, sans aucun post-acheminement terrestre. C est un avantage reel et
+  rare — le §6 note que les fiches de Brasilia perdent au transport ce que l argument douanier leur
+  donne. Ici il n y a rien a perdre.
+- **Parc industriel de plus de 4000 m2 et plus de quinze ans**, classe verrier pur.
+- **⚠️ INTERDIT BRESILIEN DU §6 : rien sur l absence de production locale, le pays compte QUATRE
+  producteurs float — AGC, Cebrace, Guardian et Vivix.** Angle douanier **limite au float CLAIR**,
+  Gecex 833 du §6, Europe non visee, **aucun taux cite**, rien sur le droit ordinaire non etabli.
+- **Regle Prodiesa : trempe, feuillete, colore et plateaux SORTENT de l offre. ⚠️ ET LE MIROIR EN
+  SORT AUSSI PAR PRUDENCE** — leur gamme le porte sans dire s ils l argentent, et le doute se
+  tranche par une **question** et non par une offre, comme sur Ispan ce matin.
+- **Formule imposee presente. Porte de sortie presente.** Port Vitoria.
+
+**Objet :** `O substrato que entra no vosso forno, e o porto a dois passos`
+
+```
+Bom dia,
+
+Chamo-me Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de vidro
+plano sediada perto de Lyon, em Franca. Esta e uma proposta de fornecimento, nao
+um pedido de orcamento. Se nao for a pessoa responsavel pelas compras, agradeco
+que encaminhe a quem compra - sei que este endereco e o de vendas.
+
+Escrevo-lhes por duas razoes, e a segunda e geografica. A primeira e que os
+senhores tem forno proprio ha mais de quinze anos, num parque industrial de mais
+de quatro mil metros quadrados. Um forno so gira se entrar chapa, e quem tempera
+de forma continua compra de forma continua - e esse o perfil para quem um
+contentor faz sentido.
+
+A segunda razao e que estao em Vitoria. A maior parte das casas com quem falo no
+Brasil fica a centenas de quilometros do porto, e o trecho rodoviario come boa
+parte do que a importacao poderia dar. Convosco nao ha trecho: a carga desce no
+porto da vossa propria cidade. E uma vantagem que poucos tem e que vale a pena
+dizer em voz alta.
+
+Nao proponho substituir o vosso fornecedor. Proponho ser uma SEGUNDA ORIGEM,
+para o mes em que a primeira estiver em falta ou em que uma espessura sair de
+programa.
+
+Ha ainda um ponto de comercio exterior que vale a pena ter em conta, e digo-o
+como facto aduaneiro e nada mais. A Resolucao Gecex 833 aplica direitos
+antidumping ao float INCOLOR de 1,8 a 20 mm originario da Malasia, do Paquistao
+e da Turquia, e a Uniao Europeia nao e visada por nenhuma dessas medidas. Nao
+vale para o colorido, que a propria resolucao exclui, e por isso nao o invoco
+para o resto da vossa linha.
+
+Nao lhes ofereco temperado, laminado, colorido nem tampos: e o que os senhores
+fabricam. Ofereco o que entra:
+
+- float incolor e extra-claro, a base de tudo
+  https://noxemgroup.com/en/float-glass/
+- e a gama completa, se for mais facil ver tudo junto
+  https://noxemgroup.com/en/catalog/
+
+Trabalhamos em CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+IPPC/ISPM-15, nas VOSSAS medidas ou em chapa jumbo padrao de 3210 x 2550 mm, com
+o comprimento cortado sob encomenda. Podemos preparar uma oferta para entrega no
+vosso porto de destino, sob reserva de validacao da nossa parte - Vitoria, pelo
+que percebo.
+
+O que preciso de volta e curto. Quais espessuras entram no forno e em que medida
+de chapa as recebem. Que volume de float incolor por ano, aproximadamente, e com
+que frequencia repoem. E uma pergunta a que nao sei responder sozinho: os
+espelhos que constam da vossa linha, compram-nos ja espelhados ou espelham-nos
+aqui? A resposta muda o que faz sentido pôr-vos a frente.
+
+E a parte honesta. Quem tem forno planeia o abastecimento com antecedencia e nao
+o muda por causa de um primeiro e-mail. Nao e isso que peco. Peco para ser um
+segundo nome qualificado, pronto para quando o primeiro faltar. Se nao houver
+espaco para isso, diga-o com franqueza e nao insistirei.
+
+Com os melhores cumprimentos,
 
 Aaron Harfi
 President - NOXEM GROUP SAS

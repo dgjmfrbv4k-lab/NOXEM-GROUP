@@ -8577,3 +8577,53 @@ et jamais la notre. **0 a corriger sur 280 textes apres correction.**
 
 **SUITE :** plus aucun envoi aujourd hui. Demain 8h30, Lasiluoto et PLG. Demain 14 h, les cinq
 americaines reportees. Les trois textes de ce bloc entrent dans la file derriere elles.
+
+---
+
+### 20/10 — 11h31 · quatre textes de plus, et un trou de LANGUE trouve dans mon propre controleur
+
+**Les cinq chiffres du paragraphe 3, distincts :** recherches **0** · envois confirmes **20 sur la
+journee, 0 dans ce bloc** · reponses qualifiees **0** · demandes de devis **0** · commandes **0**.
+
+**Textes : 318 au total.** Quatre ecrits dans ce bloc, tous dans les deux meilleures classes :
+- **315 Glassique** (Etobicoke, Ontario) — **profil le plus pur de la file canadienne : ils ne
+  fabriquent rien** et le disent, ils s approvisionnent aupres de *lignes de production
+  partenaires*, au pluriel, et revendent aux transformateurs. **Un negociant n a pas de four a
+  proteger**, donc une origine de plus est une option et non une remise en cause.
+- **316 Glastek Industries** (Bolton, Ontario) — accroche sur le **haut de gamme, 15 et 19 mm**, que
+  peu de lignes nord-americaines tiennent en stock, et `low-iron` est leur mot pour notre
+  extra-clair.
+- **317 Prelco** (Quebec, cinq sites) — **licencie IGCC**, donc fabricant audite d unites scellees,
+  donc acheteur de low-E en continu. **Un seul message pour les cinq sites**, paragraphe 12.
+- **318 TemperGlass** (Vitoria) — accroche **geographique** : ils sont dans la ville du port, donc
+  **zero post-acheminement terrestre**, ce qui est rare et vaut d etre dit.
+
+**⚠️⚠️ ET LE RESULTAT LE PLUS IMPORTANT DU BLOC N EST PAS UN TEXTE, C EST UN DEFAUT TROUVE DANS
+`verif-texte.py` — LE PREMIER QUI AILLE DANS LA DIRECTION DANGEREUSE.** Les six corrections
+anterieures de ce controleur le faisaient **crier au loup** ; celle-ci le rendait **aveugle**. Sa
+liste des mots interdits portait **`precios` en espagnol et `prices` en anglais**, et **ni `prix` en
+francais ni `preco` en portugais** — deux des quatre langues de la campagne, sur le mot que le
+paragraphe 5 interdit en premier.
+
+**MESURE FAITE AVANT DE TOUCHER AU CODE, ET ELLE EST RASSURANTE, donc je la donne telle quelle
+plutot que de dramatiser : 39 occurrences dans 30 corps, lues une par une, ZERO faute reelle.** Trois
+familles, toutes legitimes — l ouverture imposee du paragraphe 9, la precaution que le paragraphe 6
+impose sur les droits, et le prix du client ou d un concurrent. **La seule occurrence qui promette un
+tarif est le texte 175, dicte par Kevin et envoye par lui**, donc deja exempte.
+
+**LE REMEDE N EST PAS D INTERDIRE LE MOT**, ce qui refuserait l ouverture du paragraphe 9 dans cinq
+textes et la precaution du paragraphe 6 dans vingt : c est une famille **conditionnelle a marqueur**,
+couvrant les quatre langues, exactement comme `antidumping` et comme le mot *certificat*. **Le CHIFFRE
+reste absolument interdit** — euros, USD et le signe restent dans la liste dure, donc aucun montant ne
+passe, marqueur ou pas. **Verifie dans les deux sens sur jeu d essai, quatre cas**, dont un montant en
+euros refuse malgre le marqueur.
+
+**ET J AI APPLIQUE LA REGLE A MES PROPRES TEXTES DU JOUR plutot que de la reserver aux suivants :**
+trois phrases des textes 313 et 317 ecartaient le prix **en le nommant** — c est la faute que j avais
+consignee une heure plus tot sur le texte 314. Elles sont retirees, et le seuil du controle est
+descendu a 310 pour couvrir la journee.
+
+**Controles : 0 a corriger sur 284 textes. Registre inchange a 1943 fiches, aucun envoi.**
+
+**SUITE :** demain 8h30 Lasiluoto et PLG, demain 14 h les cinq americaines. Les six textes ecrits
+aujourd hui entrent dans la file derriere elles.

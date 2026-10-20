@@ -52,7 +52,7 @@ assert not attendu, '--depuis attend un numero'
 SRC = args[0] if args else 'TEXTES-PRETS.md'
 
 INTERDITS = [
-    r'\beuros?\b', r'\bprecios?\b', r'\bprices?\b', r'\bUSD\b', '€', r'\bplazos?\b',
+    r'\beuros?\b', r'\bUSD\b', '€', r'\bplazos?\b',
     r'\bd[ée]lais?\b',
     r'\bdescuento\b', r'\bremise\b', r'\bgarantia\b', r'\bgarantie\b', r'\bwarranty\b',
     r'\bpas de production locale\b', r'\bno local production\b',
@@ -91,6 +91,42 @@ CONDITIONNELS = [r'\bantidumping\b', r'\bdroits? de douane\b', r'\btariffs?\b',
 CONDITIONNELS_CERT = [r'\bcertificad\w*\b', r'\bcertificat\w*\b',
                       r'\bcertifi\w*\b', r'\bzertifi\w*\b', r'\bISO\s?9']
 MARQUEUR_CERT = 'CERTIFICATION DU CLIENT'
+
+# CONDITIONNELS DE PRIX — ajoutes le 20/10 a 11h30 apres une mesure qui a trouve
+# un TROU DE LANGUE dans ce fichier meme. Les INTERDITS portaient `precios` en
+# espagnol et `prices` en anglais, et NI `prix` EN FRANCAIS NI `preco` EN
+# PORTUGAIS — soit deux des quatre langues de la campagne, sur le mot que le §5
+# interdit en premier. Un texte francais promettant « nos meilleurs tarifs »
+# passait donc le controle sans un mot.
+#
+# MESURE FAITE AVANT DE CORRIGER, ET ELLE EST RASSURANTE, DONC ELLE SE DIT : sur
+# les 284 textes, 39 occurrences dans 30 corps, LUES UNE PAR UNE, et ZERO faute
+# reelle. Elles sont de trois familles, toutes legitimes :
+#   1. l ouverture imposee par le §9 — « ceci est une offre de fourniture et non
+#      une demande de PRIX » : on refuse d en demander un, on n en annonce pas ;
+#   2. la precaution de formulation que le §6 IMPOSE sur les droits de douane —
+#      « c est un fait douanier, pas une offre de PRIX » ;
+#   3. le prix DU CLIENT ou D UN CONCURRENT — « vous publiez une tabela de
+#      precos », « le mois ou le premier montera de prix ».
+# La seule occurrence qui promet un tarif est le texte 175, DICTE par Kevin et
+# envoye par lui : il est deja exempte par construction.
+#
+# D OU LE CHOIX DE LA FAMILLE : un mot dont la licite depend de A QUI LE PRIX EST
+# ATTRIBUE ne peut pas etre interdit en bloc — l interdire refuserait l ouverture
+# du §9 dans cinq textes et la precaution du §6 dans vingt. Ce serait le
+# controleur-qui-crie-au-loup du §12, et un garde-fou qui crie au loup finit
+# ignore. Donc SIGNALE avec marqueur, comme `antidumping` et comme le certificat.
+# ⚠️ ET CE QUI RESTE ABSOLUMENT INTERDIT EST LE CHIFFRE, PAS LE MOT : `euros`,
+# `USD` et `€` restent dans INTERDITS, donc aucun montant ne peut passer.
+CONDITIONNELS_PRIX = [r'\bprix\b', r'\bprices?\b', r'\bprecios?\b',
+                      r'\bpre[c\u00e7]os?\b', r'\bcustos?\b', r'\bcostes?\b',
+                      r'\btarifs?\b', r'\bprazos?\b']
+MARQUEUR_PRIX = 'AUCUN PRIX ANNONCE'
+# Applique a partir du n° 310, comme DEPUIS=32 l a ete pour la signature : les
+# 284 textes anterieurs ont ete relus A LA MAIN le 20/10, occurrence par
+# occurrence, et le resultat ci-dessus est le compte rendu de cette relecture.
+# Les reannoter un par un ne prouverait rien de plus.
+DEPUIS_PRIX = 310
 
 # ⚠️ ET LE MARQUEUR NE SUFFIT PAS SEUL — mesure du 16/10 sur jeu d essai. Un
 # texte qui annonce NOTRE PROPRE certificat passait des lors que le commentaire
@@ -296,6 +332,15 @@ for num, titre, corps_section in sections:
         if dur:
             pb.append('CERTIFICAT ANNONCE COMME LE NOTRE %s — interdit du §5, '
                       'AUCUN marqueur ne le leve' % dur)
+        prixc = [m for m in CONDITIONNELS_PRIX if re.search(m, plat, re.I)]
+        if prixc and num >= DEPUIS_PRIX:
+            if MARQUEUR_PRIX in corps_section:
+                avertis.append((num, titre, prixc))
+            else:
+                pb.append('MOT DE PRIX %s SANS LE MARQUEUR %s dans le commentaire — '
+                          'le §5 interdit D ANNONCER un prix, pas de dire qu on n en '
+                          'annonce pas ni de parler de celui du client, et le marqueur '
+                          'atteste que le test a ete fait' % (prixc, MARQUEUR_PRIX))
         cert = [m for m in CONDITIONNELS_CERT if re.search(m, plat, re.I)]
         if cert:
             if MARQUEUR_CERT in corps_section:
