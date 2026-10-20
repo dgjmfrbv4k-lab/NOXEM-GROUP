@@ -121,6 +121,19 @@ en majorite de la classe aluminium** — a lire avant de s y lancer.
 · **L OUTRE-MER PAR E-MAIL** : neuf deverrouillages, **zero** adresse. C est le creneau d appels qui
   debloque ce marche.
 · **Les rubriques de NEGOCE de `vidrioperfil`** : un confirme pour quatre dementis.
+· **⚠️⚠️ LA CARAIBE ANGLOPHONE PAR E-MAIL — MESURE DU 20/10, ET ELLE EST SANS APPEL : SEPT NOMS
+  RENDUS, SEPT DEJA AU REGISTRE.** Une requete sur le vocabulaire du stock appliquee a la Jamaique,
+  Trinite, la Barbade et les Bahamas a rendu Hepburn s Glass, Creative Glass and Aluminium, Jubilee
+  Suppliers, Flintstones, Odoll s, Premier Importers et Storm Frame Windows — **les sept etaient
+  deja la**, avec Caribbean Glass Co, Caribbean Glass Specialists et Kamri Glass.
+  **ET SIX DES SEPT SONT EN `A APPELER` SANS LA MOINDRE ADRESSE.** Ce n est donc pas un probleme de
+  DECOUVERTE, c est le meme mur que l outre-mer francais : **ces maisons publient un telephone et
+  un annuaire, pas une boite.** La methode de deverrouillage du paragraphe 13 rend 38 pour cent dans
+  le monde et **zero** sur le bloc DOM-COM, et la Caraibe anglophone se comporte pareil.
+  **CONDUITE : ne plus depenser d appel de DECOUVERTE sur la Caraibe. Le marche est identifie, il
+  est telephonique.** Et c est une raison de plus pour le creneau d appels demande a Kevin — ce sont
+  des marches sans production locale, donc structurellement les mieux cibles de la campagne.
+
 · **L EUROPE** : pas de nouvelle prospection tant que l arbitrage du partage entre les deux
   campagnes n est pas rendu. Cas concret consigne ce soir — A Biseladora do Norte, au Portugal,
   matiere gardee dans la note de VCP.

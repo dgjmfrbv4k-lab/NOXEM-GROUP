@@ -462,6 +462,21 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   `carga fechada`, `chapa inteira`, `meia chapa`, `terço de chapa` · `caja`, `carga completa`,
   `lámina entera`, `media lámina` · `by the case`, `full case`, `full crate`, `truckload`,
   `container load`, `half sheet`, `full sheet` · `à la caisse`, `feuille entière`, `demi-feuille`.
+  **⚠️⚠️ ET CE VOCABULAIRE A UN TROU DE LANGUE, MESURÉ LE 20/10 SUR LE MEXIQUE, ET IL FAUT LE DIRE
+  PARCE QUE C'EST NOTRE MEILLEURE REQUÊTE DE DÉCOUVERTE QUI TOMBE À PLAT SUR UN MARCHÉ DE 130
+  MILLIONS D'HABITANTS.** Une requête mexicaine bâtie sur `caja completa`, `lámina entera` et
+  `media lámina` n'a rendu **aucune occurrence littérale** de ces trois formules, et seulement
+  quatre noms dont **trois déjà au registre**.
+  **LA CAUSE N'EST PAS QUE LE MEXIQUE NE VEND PAS À LA FEUILLE, C'EST QU'IL LE DIT AUTREMENT : la
+  formule du commerce mexicain est `MAYOREO Y MENUDEO`**, gros et détail, et elle est partout —
+  chez CEYCO comme chez El Cristal. Le couple `carga fechada`/`meia chapa` est **brésilien**, le
+  `by the case` est **anglo-saxon**, et ni l'un ni l'autre ne se transpose.
+  **À AJOUTER À LA LISTE POUR L'ESPAGNOL D'AMÉRIQUE DU NORD ET CENTRALE :** `mayoreo`,
+  `venta al mayoreo`, `mayoreo y menudeo`, `precio de mayoreo`, `distribuidor autorizado`.
+  **Et la règle générale que cela donne, parce qu'elle vaut pour toute requête de vocabulaire : une
+  formule de métier se vérifie DANS LE PAYS avant d'en tirer un verdict de saturation.** Un zéro
+  obtenu sur une formule qu'on n'emploie pas là-bas ne dit rien du marché — c'est la leçon du jeton
+  de filtre du §13, prise cette fois sur la langue du commerce et non sur celle du registre.
   **Et le pendant négatif se lit dans la même phrase** : une maison qui ne vend qu'**au mètre carré
   coupé** ou **à la pièce finie** le dit tout aussi volontiers, et c'est la sortie.
   **⚠️⚠️⚠️ ET IL Y A UN CRITÈRE D'UN CRAN AU-DESSUS DE CELUI-LÀ, TROUVÉ LE 19/10 AU SOIR SUR
@@ -4448,6 +4463,22 @@ awk -F';' -v j="$(TZ=Europe/Paris date '+%Y-%m-%d')" \
   S'y ajoutent trois verdicts antérieurs du même bloc — **Leader Mat** et son adresse d'agence web,
   **Techniglass Mayotte** et son adresse tronquée dans l'index, **Cole Bay Glass** et son formulaire.
   **Neuf sur neuf.**
+  **⚠️⚠️ ET LA CARAÏBE ANGLOPHONE SE COMPORTE EXACTEMENT PAREIL — MESURÉ LE 20/10, ET DEUX CAS FONT
+  UNE RÈGLE PLUTÔT QU'UN ACCIDENT.** Une requête de découverte sur la Jamaïque, Trinité, la Barbade
+  et les Bahamas a rendu **sept noms, et les sept étaient DÉJÀ au registre** — Hepburn's Glass,
+  Creative Glass and Aluminium, Jubilee Suppliers, Flintstones, Odoll's, Premier Importers, Storm
+  Frame Windows — aux côtés de Caribbean Glass Co, Caribbean Glass Specialists et Kamri Glass.
+  **ET SIX DES SEPT SONT EN `A APPELER` SANS LA MOINDRE ADRESSE.**
+  **Ce n'est donc pas un problème de DÉCOUVERTE, c'est le mur du bloc outre-mer** : ces maisons
+  publient un téléphone et une fiche d'annuaire, pas une boîte. La méthode de déverrouillage rend
+  38 % dans le monde, **zéro** sur les DOM-COM, et la Caraïbe anglophone est du même côté.
+  **CONDUITE : ne plus dépenser d'appel de DÉCOUVERTE sur la Caraïbe anglophone.** Le marché est
+  identifié et il est **téléphonique**.
+  **ET C'EST D'AUTANT PLUS COÛTEUX QUE CES ÎLES SONT STRUCTURELLEMENT NOS MEILLEURES CIBLES :**
+  aucune production locale, tout arrive par conteneur, et la question pour l'acheteur n'est pas
+  « local ou importé » mais **quelle origine**. C'est l'argument le plus fort de la campagne, et il
+  se heurte à l'absence de canal écrit. **Le créneau d'appels n'est pas un confort sur ces
+  marchés-là, c'est la seule porte.**
   **CE QUE CELA ÉTABLIT, ET C'EST UNE CONCLUSION DE MÉTHODE PLUS QU'UNE SÉRIE DE VERDICTS :** la
   méthode de déverrouillage du §13 rend 38 % de bout en bout sur le registre mondial, et **zéro** sur
   le bloc français d'outre-mer. Ce n'est pas un hasard de tirage à neuf essais : une maison antillaise

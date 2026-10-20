@@ -10195,3 +10195,40 @@ au registre sous deux fiches.
 **Un fait douanier costaricien releve et NON utilisable** : un droit NPF de 5 pour cent sur le verre
 trempe plat et le miroir non encadre, dans un document de 2022. Le paragraphe 6 impose la source du
 pays et une date. **Garde comme piste, pas comme argument.**
+
+
+---
+
+## 20/10 — 14h32 · DEUX VERDICTS DE MARCHE, ZERO FICHE, ET C EST LE BON RESULTAT
+
+**Recherches : 3 appels. Fiches creees : 0. Envois confirmes : 0 sur ce lot. Reponses qualifiees :
+0. Demandes de devis : 0. Commandes : 0. Registre a 1963 fiches.**
+
+**LA CARAIBE ANGLOPHONE EST FAITE, ET ELLE EST TELEPHONIQUE. SEPT NOMS RENDUS, SEPT DEJA AU
+REGISTRE.** Hepburn s Glass, Creative Glass and Aluminium, Jubilee Suppliers, Flintstones, Odoll s,
+Premier Importers, Storm Frame Windows — tous la, aux cotes de Caribbean Glass Co, Caribbean Glass
+Specialists et Kamri Glass. **Et six des sept sont en `A APPELER` sans la moindre adresse.**
+**Ce n est donc pas un probleme de decouverte, c est le mur de l outre-mer** : la methode de
+deverrouillage rend 38 pour cent dans le monde, zero sur les DOM-COM, et la Caraibe est du meme
+cote. **Deux cas font une regle**, elle est ecrite au paragraphe 13 du mandat et dans
+`PRIORITES-RECHERCHE.md`.
+**ET C EST LE VERDICT LE PLUS FRUSTRANT DE LA JOURNEE, parce que ces iles sont structurellement nos
+MEILLEURES cibles** — aucune production locale, tout par conteneur, et la question de l acheteur
+est *quelle origine* et non *local ou importe*. **Le creneau d appels n y est pas un confort, c est
+la seule porte.**
+
+**ET LA MEILLEURE REQUETE DE DECOUVERTE DE LA CAMPAGNE TOMBE A PLAT SUR LE MEXIQUE, POUR UNE RAISON
+DE LANGUE ET NON DE MARCHE.** `caja completa`, `lamina entera` et `media lamina` ne rendent **aucune
+occurrence litterale** au Mexique, et quatre noms dont trois deja au registre.
+**La formule du commerce mexicain est `MAYOREO Y MENUDEO`**, et elle est partout. Le couple
+`carga fechada`/`meia chapa` est bresilien, le `by the case` est anglo-saxon, et ni l un ni l autre
+ne se transpose. **Un zero obtenu sur une formule qu on n emploie pas la-bas ne dit rien du
+marche** — c est la lecon du jeton de filtre, prise cette fois sur la langue du COMMERCE et non sur
+celle du registre. Vocabulaire corrige au paragraphe 5.
+
+**UN NOM ECARTE EN UN APPEL, ET C EST LE CAS ALCRISTAL A L IDENTIQUE :** *Plasticos y Laminas del
+Norte* (Saltillo) vend de la lamine galvanisee, de l acrylique, du polycarbonate et de la fibre de
+verre. **Elle importe et vend de la FEUILLE, mais pas de la feuille de VERRE.** Verdict consigne
+dans la note de CEYCO, avec celui d *El Cristal* qui attend — nom pris sur `vidrioperfil`, dont les
+rubriques de negoce sont mesurees a un confirme pour quatre dementis, donc metier ET pays a
+reetablir pour une esperance faible.
