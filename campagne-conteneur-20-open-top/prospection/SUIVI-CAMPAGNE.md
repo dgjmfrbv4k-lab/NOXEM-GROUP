@@ -9686,3 +9686,41 @@ la conduite prudente dans les deux cas**.
 relever le standard de Conyers.
 
 **Registre : 1958 fiches.**
+
+## 20/10 a 13h42 — la meilleure fiche de la journee sort du DEVERROUILLAGE, pas de la decouverte
+
+**Recherches : 2. Envois confirmes : 0. Fiches creees : 0. Fiches DEVERROUILLEES : 1. Verdicts
+consignes : 1. Textes rediges : 1.**
+
+**VERRAGE GLASS AND MIRROR (Thornhill, Ontario) — deverrouillee, texte 335 redige, et
+`classe-file.py` la met au RANG 3 SUR 98.** C'est la meilleure fiche de la journee, **et elle n'a
+coute QU'UN SEUL appel** parce que son domaine etait deja au champ. **Le deverrouillage revient donc
+moins cher que la decouverte** — un appel contre deux — **et il porte sur des fiches deja
+qualifiees.**
+
+**LE DOSSIER S'EST CONSTRUIT EN DEUX TEMPS SUR DEUX JOURS**, et c'est exemplaire : le 19/10 le
+**recensement douanier** a donne le nom et le fait d'importation, le 20/10 **un appel restreint** a
+donne l'adresse, les telephones et les epaisseurs.
+
+**⚠️⚠️ ET LE FAIT DOUANIER REPOND A LA QUESTION PRODIESA, CE QUI EST RARE.** Ils vendent du miroir
+clair, teinte, antique et acide, **et rien ne disait s'ils l'ARGENTENT**. **La douane les donne
+importateurs de miroir NON ENCADRE — or un argenteur importe du float NU, pas du miroir.** Donc ils
+achetent la feuille argentee et la decoupent, **et notre miroir sans cuivre ni plomb est OFFRABLE**.
+⚠️ **Le texte le propose sans asserter** : la presomption est forte, elle n'est pas une certitude, et
+le texte dit en toutes lettres *tell me which and I will stop guessing*.
+
+**Et leur gamme nomme leur fournisseur : OPTIWHITE, la marque d'extra-clair de PILKINGTON.** Le texte
+le dit ouvertement — *I know exactly what I am being compared against, and I would rather say so*.
+
+**⚠️ DISCORDANCE DE TELEPHONE LEVEE, ET DANS LE BON SENS.** Le 19/10 le champ avait ete laisse
+**vide a dessein**, deux numeros circulant en annuaire sans concorder. **Leur propre page porte les
+DEUX**, plus un numero vert : ce sont deux lignes de la meme maison. **C'est exactement ce que la
+note demandait — que leur domaine tranche.**
+
+**⚠️ ET UN VERDICT NEGATIF CONSIGNE DANS LE MEME LOT : MAIS VIDROS SALVADOR est une *vidracaria***,
+donc la classe **verrier + pose, mesuree a ZERO pour cent**. Ses pages de service sont des chantiers
+quartier par quartier. **Et sa plage de 8 a 12 mm ne la sauve pas** : ce sont les epaisseurs de ses
+**cloisons**, donc du produit qui SORT. ⚠️ Son telephone porte l'indicatif **11, celui de Sao Paulo**,
+sur une maison de **Salvador**. **Declassee en dernier rang, pas fermee.**
+
+**Registre : 1958 fiches. 346 textes. File prete : 98.**

@@ -24355,3 +24355,124 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 335. Verrage Glass and Mirror Inc. (Thornhill / Vaughan, Ontario, Canada) — `sales@verrage.com` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. ⚠️ `classe-file.py` la met au RANG 3 sur 98 — c est la meilleure
+fiche deverrouillee de la journee.**
+
+- **DOSSIER LE PLUS COMPLET DU LOT, ET IL S EST CONSTRUIT EN DEUX TEMPS SUR DEUX JOURS.** Le 19/10,
+  le **recensement douanier canadien** a donne le nom et le fait d importation. Le 20/10, **un seul
+  appel restreint** a donne l adresse, les telephones et la plage d epaisseurs — parce que le
+  domaine etait deja au champ.
+- **FAIT DOUANIER, ET IL EST DOUBLE** : la douane la donne importatrice de **verre plat** et de
+  **MIROIR NON ENCADRE**, fraction 7009910000. **C est le signal d achat le plus fort possible**,
+  parce que ce n est pas elle qui le dit.
+- **⚠️⚠️ ET LE FAIT DOUANIER REPOND A LA QUESTION PRODIESA, CE QUI EST RARE ET PRECIEUX.** Ils
+  vendent du miroir clair, teinte, antique et acide, **et rien ne disait s ils l ARGENTENT**.
+  **Or la douane les donne importateurs de miroir NON ENCADRE — un argenteur importe du float NU,
+  pas du miroir.** Donc ils achetent la feuille argentee et la decoupent. **Notre miroir sans cuivre
+  ni plomb est donc OFFRABLE**, et c est le produit le plus differenciant de la gamme.
+  ⚠️ Le texte le propose **sans asserter** qu ils n argentent pas : la presomption est forte, elle
+  n est pas une certitude.
+- **METIER : VERRIER PUR, la meilleure classe a 12,8 pour cent.** Maison familiale **depuis 1989**,
+  **35 000 pieds carres**, troisieme generation. **Ils TREMPENT de 3 a 19 mm et ils FEUILLETENT**,
+  plus collage UV pour vitrines et **bombage**.
+- **SIGNAL D ENTREE SUR SES DEUX TERMES** : la plage de trempe **3 a 19 mm** est celle qu ils
+  **achetent**, et leur page de decoupe annonce **du verre clair de 3 a 12 mm disponible**, donc du
+  **stock**. Low-E en 3 et 5 mm.
+- **⚠️ LA MARQUE DANS LEUR GAMME NOMME LEUR FOURNISSEUR : OPTIWHITE est la marque d extra-clair de
+  PILKINGTON, donc de NSG.** Une marque dans une **gamme** dit qu on **achete**. **Notre extra-clair
+  est le meme produit sous un autre nom, et le texte le dit dans leur vocabulaire.**
+- **REGLE PRODIESA : trempe, feuillete et bombe SORTENT de l offre.** Entrent le float clair,
+  **l extra-clair en premier**, le teinte, le low-E et le miroir.
+- **⚠️ INTERDIT CANADIEN DU §6 : le texte n ecrit NULLE PART que le float est taxe** — le SH 7005
+  n est pas sur les listes de riposte et l ecrire serait **faux**. Ce qu il dit est ce que le §6
+  etablit : plus de ligne float, la large majorite du verre venue d un seul pays, et des
+  **procedures et delais** supplementaires. **Gestion du risque, jamais de prix, aucun taux cite.**
+- **AUCUN PRIX ANNONCE** : le mot *price* n apparait pas dans le corps. **Verifie par relevé.**
+- **⚠️ ET AUCUNE ANNEE DOUANIERE N EST CITEE** : la page de presentation de la base annonce 2023
+  quand ses pages de rapport portent 2024. **Le fait d importation est atteste, le millesime ne
+  l est pas.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port **demande** — Toronto
+  ou Montreal. **`sales@` est de la colonne CLIENT**, donc transmission demandee en ouverture.
+
+**Objet :** `Optiwhite, and what sits under your tempering line`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I will be specific about why I am writing to you, because a general email to a
+glass company is worth nobody's time.
+
+You temper from 3 to 19 mm in your own plant and you hold clear glass from 3 to
+12 mm for cutting. A tempering furnace only runs if sheet goes into it, and
+glass held for cutting is stock rather than a job bought in. So unlike most of
+the companies I write to, you are already buying flat glass by the sheet and
+carrying it. That is the only buying pattern a full container fits.
+
+And your range names your supplier for me: you list Optiwhite. That is
+Pilkington's low-iron, so I know exactly what I am being compared against, and
+I would rather say so than pretend otherwise. Our extra-clear is the same
+product under a different name - that is the comparison I am asking for, not a
+leap of faith.
+
+So, what I am NOT offering: tempered, laminated or bent glass. You make all
+three, and a supplier who offers a fabricator its own processes has not read
+the page. What I am offering is what goes in underneath:
+
+- extra-clear float first, because it is what you are already buying
+  https://noxemgroup.com/en/float-glass/
+- low-E, for the 3 and 5 mm you list
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and copper- and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+A word on that last one, because it is the one I am least certain about. You
+sell clear, tinted, antique and acid-etched mirror, and I could not tell from
+your pages whether you silver it yourselves or buy it already silvered and cut
+it. If you silver it, ignore that line entirely - I would be offering you your
+own process. If you buy the silvered sheet, then copper- and lead-free is worth
+a look, particularly for anything going into a bathroom or a humid room, and it
+is the product we differentiate most on. Tell me which and I will stop guessing.
+
+On why a second origin is worth five minutes. Canada has not had a float line
+for years and takes the large majority of its flat glass from a single
+neighbouring country. I am not going to tell you flat glass is caught by this
+year's tariff measures, because it is not and you would know if I were wrong.
+What is documented is the extra paperwork and transit time at that border. One
+route with a customs process attached is a risk whether or not a duty applies
+to the product itself.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR sizes or as standard jumbo 3210 x 2550 mm with the length cut to
+order. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - Toronto or Montreal, I would guess, but
+tell me rather than let me assume.
+
+What I need back is short: which thicknesses actually move through Racco
+Parkway, in what sheet size you take them, roughly how much clear and
+extra-clear in a year, whether the mirror is silvered in-house, and the port.
+
+And the honest part. A third-generation business with a supply line that has
+worked since 1989 does not change it because of an email from France, and I am
+not asking you to. I am asking to be a qualified second name for the month when
+a thickness is out of programme. If there is no room for that, say so plainly
+and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
