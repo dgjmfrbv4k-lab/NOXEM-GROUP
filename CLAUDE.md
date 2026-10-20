@@ -3513,7 +3513,31 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
      il a rendu un zéro, et j'ai dépensé l'appel au lieu de douter du zéro.**
   **Et le point commun avec la leçon Brocanelli du matin est le même que partout : le contrôle a
   tourné, il a rendu un zéro, et j'ai dépensé l'appel au lieu de douter du zéro.** Un zéro obtenu sur
-  un champ non vérifié ne dit rien du registre, il dit que le champ est faux — c'est la leçon Lahey du
+  un champ non vérifié ne dit rien du registre, il dit que le champ est faux
+  **⚠️⚠️ SIXIÈME CAS LE 20/10 À 12h02, ET IL EST ARRIVÉ DIX MINUTES APRÈS QUE LE CHIFFRE FAUX SOIT
+  PARTI DANS UN FICHIER DESTINÉ À KEVIN — c'est la même famille que le faux QUATORZE de 10h53, et
+  encore une fois dans MON PROPRE OUTIL DE MESURE.**
+  Pour compter les fiches prêtes à partir, j'appariais le nom du registre au titre du texte en
+  **tronquant les deux à quatorze caractères** après aplatissement. **La troncature n'apparie que si
+  les deux chaînes commencent pareil sur toute la longueur coupée** — or le registre porte
+  `PL-Glass Oy — PLG` et le titre du texte porte `PL-Glass Oy`, le registre porte
+  `MTX Glass — Marcetex Vidros` et le titre `MTX Glass`. **`plglassoyplg` contre `plglassoy` : pas
+  d'appariement, alors que le texte existe et qu'il est contrôlé.**
+  **LE CHIFFRE PUBLIÉ ÉTAIT DONC FAUX DANS LE SENS DE LA SOUS-ESTIMATION — 81 prêtes et 8 à rédiger,
+  quand la vérité est 84 et 5.** Moins dangereux qu'une surestimation, et faux quand même : corrigé
+  dans `DECISIONS-AARON.md` dix minutes après, et dit ici plutôt que réécrit en silence.
+  **LE REMÈDE EST CELUI DE `grep-nom.py` ET IL AURAIT DÛ ÊTRE REPRIS DÈS LE DÉBUT : on n'apparie pas
+  deux noms en les TRONQUANT, on les apparie par INCLUSION dans les deux sens, sur les chaînes
+  aplaties entières**, avec un plancher de longueur contre les tokens trop courts :
+```python
+def a_un_texte(nom, titres):
+    n = plat(nom)
+    return len(n) >= 5 and any(n == p or (len(p) >= 5 and (n in p or p in n)) for p in titres)
+```
+  **ET LA RÈGLE GÉNÉRALE QUI COUVRE LES SIX CAS : un outil de MESURE se vérifie exactement comme un
+  `grep` de nom, et sur les mêmes pièges** — séparateurs, suffixes de raison sociale, troncature,
+  frontière de mot, accent, langue du registre. **La différence est qu'un `grep` faux coûte un appel
+  ou un message, tandis qu'une mesure fausse part dans un bilan et devient une décision.** — c'est la leçon Lahey du
   §13, prise cette fois sur mes propres outils de mesure et non sur un domaine de prospect.
   **⚠️⚠️ CINQUIÈME CAS LE 20/10 À 10h53, ET IL MENT DANS L'AUTRE SENS — PAS UN FAUX ZÉRO, UN FAUX
   QUATORZE. C'est la preuve que la règle n'est pas « se méfier des zéros » mais « vérifier le

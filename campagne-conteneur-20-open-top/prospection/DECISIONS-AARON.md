@@ -17,8 +17,8 @@ Les anciennetes ci-dessous sont donc des anciennetes **de registre**, pas des pr
 |---|---|
 | Fiches au registre | **1947** |
 | Contactees, premier envoi ou relance | **719** |
-| **Pretes a partir** — adresse verifiee, texte ecrit, controle passe | **81** |
-| **plus** 8 autres dont l adresse est verifiee mais le texte reste a rediger | 8 |
+| **Pretes a partir** — adresse verifiee, texte ecrit, controle passe | **84** |
+| **plus** 5 autres, adresse verifiee et texte a rediger — toutes volontairement de dernier rang | 5 |
 | En attente d un APPEL, toutes avec un numero | **286** |
 | En attente d un ARBITRAGE de votre part | **41** |
 | Reponses recues a traiter | **5** |
