@@ -40,3 +40,57 @@ manque, c'est le temps des Ameriques et le telephone.
 
 ---
 
+
+---
+
+# 20/10/2026 — 10h53 — LA FENETRE AMERICAINE DE 14 H EST DEJA ARMEE, ET LE GOULOT N EST PLUS LA MATIERE
+
+**MESURE FAITE SANS DEPENSER UN SEUL APPEL DE RECHERCHE, ET ELLE CHANGE LA PRIORITE DE L APRES-MIDI :
+sur les 81 fiches americaines envoyables, 72 ONT DEJA LEUR TEXTE REDIGE ET CONTROLE.** Etats-Unis 27
+sur 31, Bresil 24 sur 31, Mexique 12 sur 13, Canada 4 sur 6.
+
+**Donc la fenetre de 14 h ne demande aucune redaction. Le seul facteur limitant est le VOLUME du
+paragraphe 10**, et la journee est deja a 19 envois, soit le haut de la bande de 15 a 20 retenue pour
+un domaine neuf sans DMARC et partage. **Ce n est plus la matiere qui manque, c est la reputation du
+domaine.**
+
+## LE TRI EST FAIT, PAR LE CRITERE QUE LE PARAGRAPHE 6 MESURE COMME LE PLUS PREDICTIF — LE METIER
+
+Sur ces 72 fiches : **58 sont dans les DEUX MEILLEURES CLASSES**, 6 en negoce + verrier et 52 en
+verrier pur. Seulement 3 en aluminium-facade, 3 en verrier + pose, 4 non qualifiees.
+
+**LES SIX DE LA CLASSE LA PLUS FORTE — negoce ET verrier, donc les deux raisons d acheter un
+conteneur a la fois, le stock et le four :**
+
+| Societe | Pays | Texte | Pourquoi elle est en tete |
+|---|---|---|---|
+| **Syracuse Glass Company** | Etats-Unis | 295 | distributeur **independant** et faconneur, **et la seule du lot a porter une cote de stock en 96 x 130 pouces** |
+| **Southern Wholesale Glass** | Etats-Unis | 245 | grossiste **et** faconneur de verre plat |
+| **Mid-American Glass** | Etats-Unis | 251 | fabricant d unites isolantes **et** distributeur |
+| **Insulite Glass Co.** | Etats-Unis | 248 | grossiste exclusif **et** fabricant d unites |
+| **Central Valley Glass & Screen** | Etats-Unis | 236 | grossiste en isolant, trempe et moustiquaire |
+| **CristalTemper** | Bresil | 274 | distributeur **et** trempeur |
+
+**Plus DC GLASS DISTRIBUTORS (texte 237), la seule autre fiche du lot a porter un signal d entree
+EXPLICITE dans sa note — la vente de feuille en stock aux professionnels.**
+
+**VAGUE PROPOSEE POUR 14 H, cinq fiches, toutes americaines parce que 14 h de Paris est 8 h a New
+York et 11 h sur la cote Ouest :** Syracuse Glass · DC Glass Distributors · Southern Wholesale Glass ·
+Insulite Glass Co. · Mid-American Glass. **Avec un controle de rebonds refait juste avant**, et
+l arret immediat si un `5.7.1` tombe d un serveur neuf.
+
+## ⚠️ ET UNE FAUTE DE MESURE A CONSIGNER, PARCE QU ELLE EST DANS MON PROPRE OUTIL ET NON DANS LE REGISTRE
+
+Mon premier classement cherchait les signaux d entree du §5 par une expression reguliere **sans
+frontiere de mot**, et il a rendu **quatorze fiches « DOUANE »**. **Zero etait vraie.** Le motif
+portait le sigle `CID` — la base des importateurs canadiens — et il s accrochait a l interieur des
+mots francais **decide, acide, lucide**, qui sont dans la prose de la moitie des notes.
+
+**C est exactement le quatorzieme cas du paragraphe 5, celui de `devidros` et de `y glas`, applique
+cette fois a mon propre outil de MESURE et non a un `grep` de nom.** Repris a la frontiere de mot :
+**deux** fiches portent un signal explicite, pas quatorze. Et c est la meme famille que les faux zeros
+du paragraphe 13 sur Hawai et la Nouvelle-Zelande — **un filtre tape a la main ment dans les deux
+sens, par exces comme par defaut.**
+
+**Conduite : un motif de mesure se verifie sur un cas connu avant d etre cru**, exactement comme une
+formule d heure. Ici il suffisait de lire le fragment declencheur d une seule des quatorze.

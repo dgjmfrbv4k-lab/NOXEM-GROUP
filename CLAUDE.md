@@ -3356,6 +3356,25 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   tourné, il a rendu un zéro, et j'ai dépensé l'appel au lieu de douter du zéro.** Un zéro obtenu sur
   un champ non vérifié ne dit rien du registre, il dit que le champ est faux — c'est la leçon Lahey du
   §13, prise cette fois sur mes propres outils de mesure et non sur un domaine de prospect.
+  **⚠️⚠️ CINQUIÈME CAS LE 20/10 À 10h53, ET IL MENT DANS L'AUTRE SENS — PAS UN FAUX ZÉRO, UN FAUX
+  QUATORZE. C'est la preuve que la règle n'est pas « se méfier des zéros » mais « vérifier le
+  motif ».** Je classais les 72 fiches américaines prêtes à partir en cherchant dans leurs notes les
+  signaux d'entrée du §5, par une expression régulière **sans frontière de mot**. Elle a rendu
+  **quatorze fiches portant le signal « DOUANE »**, c'est-à-dire le fait d'importation attesté par
+  le recensement canadien — le signal le plus fort du §6. **Zéro était vraie.**
+  **La cause est d'une bêtise exemplaire : mon motif portait le sigle `CID`**, le nom de la base des
+  importateurs canadiens, **et `cid` vit à l'intérieur de *déCIDe*, *aCIDe*, *luCIDe***, qui sont
+  dans la prose de la moitié des notes du registre.
+  **C'EST LE QUATORZIÈME CAS DU §5 — `devidros`, `y glas` — MAIS APPLIQUÉ À UN OUTIL DE MESURE ET NON
+  À UN `grep` DE NOM**, et c'est pour cela qu'il mérite sa place ici plutôt que là : un `grep` de nom
+  faux coûte un appel ou un message de trop, **un classement faux oriente une journée entière
+  d'envois**. Repris à la frontière de mot : **deux** fiches sur 72 portent un signal explicite.
+  **Et le tri utile était ailleurs, sur le critère que le §6 mesure comme le plus prédictif — le
+  MÉTIER :** 58 des 72 sont dans les deux meilleures classes, 6 en négoce **et** verrier, 52 en
+  verrier pur. **Un bon critère mal codé vaut moins qu'un critère ordinaire bien lu.**
+  **RÈGLE : un motif de mesure se vérifie sur un cas connu avant d'être cru**, exactement comme une
+  formule d'heure depuis le 14/10 — et le contrôle coûte une seconde, il suffit de **lire le fragment
+  déclencheur d'un seul** des résultats avant d'agir sur la liste entière.
   **⚠️⚠️ ET LA RÈGLE A ÉTÉ ENFREINTE DE NOUVEAU LE 15/10, DANS UNE SESSION QUI L'APPLIQUAIT CORRECTEMENT
   À CÔTÉ — ET C'EST CETTE SIMULTANÉITÉ QUI EST LA LEÇON, PAS LA RÉCIDIVE.** Trois notes de registre ont
   été horodatées **09h06** et **10h20** alors que toute la matinée tient entre **08h19 et 08h49** : deux
