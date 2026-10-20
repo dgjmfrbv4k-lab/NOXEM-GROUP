@@ -23757,3 +23757,112 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 329. Sierra Pacific Windows (Red Bluff, Californie, Etats-Unis) — `windows@spi-ind.com` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye — la journee est a 19, haut de la bande du paragraphe 10. Couvert par
+l accord de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS, et presente
+quand meme avant depart vu la taille du compte.**
+
+- **⚠️⚠️ C EST LA PREMIERE FICHE OUVERTE SUR LA REGLE ECRITE CE JOUR : UNE LICENCE DE CERTIFICATION
+  EST UN CERTIFICAT DU COTE ENTREE ET PRIME SUR LE METIER DECLARE.** Leur metier declare est la
+  **fenetre**, classe a 3,6 pour cent. **Et ils ecrivent eux-memes *we are one of the very few
+  companies that insulate our own glass*.** Une maison qui exploite sa propre ligne d isolant
+  **achete de la feuille, par definition** — et le texte s ouvre sur cette phrase, la leur, parce
+  qu aucun argument de notre part ne vaut une citation de leur propre page.
+- **TEST D ECHELLE PASSE LARGEMENT** : l un des plus gros fabricants mondiaux de fenetres sur mesure,
+  division de Sierra Pacific Industries, plusieurs usines. ⚠️ **Le nombre d usines est discordant
+  entre leurs propres documents — cinq sur une page, trois sur une brochure plus ancienne — donc le
+  texte NE CITE AUCUN CHIFFRE**, ni d usines, ni de surface, ni d investissement. Il dit *plants*
+  au pluriel et rien de plus. **C est la regle Intervidro : ce qui est etabli est l existence, pas
+  le tonnage.**
+- **L ANGLE N EST PAS LE VOLUME, C EST LA CONSTANCE, et il sort d un detail technique de leur
+  gamme :** leurs unites emploient un intercalaire **polymere sans metal**, le No-Metal TrueWarm
+  Edge, contre la rupture de joint. **Une maison qui va jusqu a developper son intercalaire ne juge
+  pas son substrat au prix, elle le juge a la planeite et a la constance.** C est le meme angle que
+  celui retenu pour Commercial Insulating Glass le matin meme, et il est bien plus juste pour eux
+  qu une promesse de volume.
+- **REGLE PRODIESA : la fenetre, la porte et L UNITE ISOLANTE sortent de l offre.** Le low-E, lui,
+  **entre** — ils montent l isolant, ils ne couchent pas le verre. La distinction est faite en toutes
+  lettres dans le texte, et c est exactement ce qui la separe du cas CIG ou le low-E etait retire.
+- **⚠️ INTERDIT AMERICAIN DU §6 : le texte n ecrit NULLE PART qu il n y a pas de production locale**
+  — Vitro et les sept sites float de Cardinal. **Angle DOUANIER**, ordres du 06/04/2026, **donne
+  comme un fait douanier et jamais comme une annonce de tarif**, et sans citer un seul taux.
+- **⚠️⚠️ PORTE DE SORTIE OBLIGATOIRE ET BRUTALE, §9 point 7.** Une maison de cette taille a des
+  contrats annuels avec un producteur float americain. **Le texte le dit lui-meme avant que le
+  lecteur ne le pense** — c est la seule facon d etre credible sur un compte pareil.
+- **AUCUN PRIX ANNONCE** : le mot *price* n apparait pas dans le corps. **Verifie par relevé.**
+- **Port DEMANDE et non choisi** : trois implantations sur trois cotes differentes, donc la question
+  se pose au lieu de se deviner. **Formule imposee et signature une fois.**
+
+**Objet :** `The sheet behind your own insulating line`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I am writing because of one sentence on your own pages: that you are one of the
+very few companies that insulate your own glass.
+
+That sentence is the whole reason for this email. A window company that buys
+finished units has nothing to discuss with me. A window company that runs its
+own insulating line buys flat glass by the sheet, continuously, and across
+several plants. That is the only kind of buyer a full container makes sense
+for.
+
+So I am not offering you windows, doors, or insulating units. You make all
+three. I am offering what goes in before any of that:
+
+- clear and extra-clear float glass, the base of the range
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass - and this one belongs in the list precisely
+  because you assemble the unit rather than coat the glass yourselves
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- the full range in one place, if that is easier
+  https://noxemgroup.com/en/catalog/
+
+And a word on what I think actually matters to you, rather than what usually
+gets offered. A company that went as far as developing its own no-metal polymer
+spacer to keep seals from failing is not buying its substrate on headline terms.
+It is buying flatness, freedom from inclusions, and the same glass arriving in
+March as in September. A seal failure traced back to the glass costs more than
+the glass ever did. That is the ground I would want to be judged on.
+
+One thing worth knowing, stated as a customs fact and nothing more: since the
+orders of 6 April 2026, Chinese and Malaysian float arriving in the United
+States carries antidumping and countervailing duties. European float is covered
+by neither. I am not making any claim about what that means commercially -
+you will have worked that out before I did - but it does change which origins
+are worth a second look this year.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR sizes or as standard jumbo 3210 x 2550 mm, with the length cut to
+order. We can put together an offer for delivery to your port of destination,
+subject to validation on our side. With plants on different coasts I would
+rather you told me which port than guess it.
+
+What I need back is short: which thicknesses actually run through your
+insulating line, in what sheet size you take them, roughly what annual volume
+of clear, extra-clear and low-E that represents, and the port.
+
+And the honest part, which on a company your size I would rather say first than
+be told. You almost certainly have annual contracts with a domestic float
+producer, and one email is not going to change that, nor should it. What I am
+asking for is to be a qualified second name on the list - the one you call when
+a thickness is out of programme or a plant is short. If there is no room for
+that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

@@ -9228,3 +9228,39 @@ commentaire du texte 327 affirmait que le mot *price* apparaissait dans la repri
 faute du texte 321 une seconde fois, et elle dit que l'annotation se VERIFIE comme le corps.**
 
 **Registre : 1950 fiches. 339 textes.**
+
+## 20/10 a 12h49 — la regle de la licence paie sur son premier essai, et c'est un gros compte
+
+**Recherches : 2. Envois confirmes : 0. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0.
+Fiches creees : 1. Textes rediges : 1.**
+
+**SIERRA PACIFIC WINDOWS (Red Bluff, Californie) — creee, adressee, texte 329 redige.** C'est la
+premiere fiche ouverte sur la regle ecrite il y a une heure : **une licence de certification est un
+certificat du cote ENTREE et prime sur le metier declare.** Son metier declare est la **fenetre**,
+classe a 3,6 pour cent — et **ils ecrivent eux-memes *we are one of the very few companies that
+insulate our own glass*.** Une maison qui exploite sa propre ligne d'isolant achete de la feuille,
+par definition. **Le fait vient de leur propre page et la licence IGCC le corrobore.**
+
+**TEST D'ECHELLE PASSE LARGEMENT** : l'un des plus gros fabricants mondiaux de fenetres sur mesure,
+division de Sierra Pacific Industries, plusieurs usines. ⚠️ **Le nombre d'usines est discordant entre
+leurs propres documents — cinq sur une page, trois sur une brochure ancienne — donc aucun chiffre ne
+se cite**, ni usines, ni surface, ni investissement. Regle Intervidro : ce qui est etabli est
+l'existence, pas le tonnage.
+
+**L'ANGLE N'EST PAS LE VOLUME, C'EST LA CONSTANCE**, et il sort d'un detail de leur gamme : un
+intercalaire **polymere sans metal** developpe par eux contre la rupture de joint. **Une maison qui va
+jusqu'a developper son intercalaire ne juge pas son substrat au prix, elle le juge a la planeite et a
+la constance.**
+
+**⚠️ ET L'ADRESSE PORTE TROIS RESERVES, TOUTES ECRITES DANS LA FICHE.** Le domaine `spi-ind.com`
+differe de celui du site, donc c'est **l'exception du paragraphe 5** et elle est notee — c'est le
+domaine de la maison mere, lecon SOREMIR prise a l'endroit. La boite est de la **colonne CLIENT**,
+donnee pour l'equipe architecturale, donc le premier paragraphe demande la transmission. Et une
+version archivee de 2022 porte la meme adresse, ce qui corrobore **et** signale qu'elle est ancienne.
+
+**⚠️ PORTE DE SORTIE BRUTALE ET ASSUMEE** : une maison de cette taille a des contrats annuels avec un
+producteur float americain, et **le texte le dit lui-meme avant que le lecteur ne le pense**. C'est la
+seule facon d'etre credible sur un compte pareil.
+
+**Garde-fous :** doublons **8 groupes**, noyaux **19 paires**, `verif-texte.py` **0 a corriger** sur
+295 textes. **Registre : 1951 fiches, dont 247 aux Etats-Unis. 340 textes.**
