@@ -24,6 +24,63 @@ Les anciennetes ci-dessous sont donc des anciennetes **de registre**, pas des pr
 | Reponses recues a traiter | **3** — deux de moins apres verification, voir plus bas |
 | **Demandes de prix ouvertes** | **5** · plus **3** devis envoyes sans reponse et **3** en negociation |
 
+## 0. 🔴 AJOUTE A 12h45 APRES RELECTURE DES TROIS FILS DE DEVIS — UNE QUESTION A TRANCHER ET DEUX FAITS QUI CHANGENT LE DIAGNOSTIC
+
+**Les trois dossiers ou un devis est parti ont ete relus message par message dans la boite. Les
+trois sont silencieux, et les trois silences n ont PAS la meme cause.**
+
+### 🔴 SAN SIMON (Guatemala) — UNE QUESTION POUR VOUS, ET ELLE PASSE AVANT TOUTE RELANCE
+
+**Ce que le client a demande, mot pour mot, le 14/10 :** *enviame precios del cuadro de abajo,
+**CIF Y FOB**, Puerto Quetzal Guatemala* — c est-a-dire les prix **du tableau de notre propre
+offre**, et **sur les DEUX incoterms**.
+**Ce que le message d accompagnement du devis annonce le 16/10 :** *nuestra cotizacion de **vidrio
+laminado**, **CIF** Guatemala*.
+
+**DEUX ECARTS APPARENTS, ET JE NE LES AFFIRME PAS** — la piece jointe n est pas lisible depuis cette
+session, **seul son texte d accompagnement l est**, et c est peut-etre le texte qui est incomplet et
+non le devis.
+1. Le client demande **CIF ET FOB**. Le message n annonce que le **CIF**.
+2. Le client demande les prix **du tableau de notre offre**. Le message annonce du **feuillete**.
+   Si l offre de depart portait sur du **float**, le client a demande du float et recu du feuillete.
+
+**POURQUOI CELA PASSE AVANT LA RELANCE, et c est tout l objet de cette entree :** un client qui
+recoit un devis a cote de sa demande ne repond pas, il passe a autre chose. **Les quatre jours de
+silence s expliquent peut-etre entierement par la, et une relance qui se contente de redemander une
+reponse ne reparerait rien** — elle confirmerait seulement qu on n a pas vu l ecart.
+
+**LA QUESTION, EN UNE LIGNE : le devis D envoye a San Simon couvre-t-il le FOB, et porte-t-il sur les
+references que le client a pointees ?** Si oui, je redige une relance ordinaire. Si non, le bon
+message n est pas une relance mais un devis corrige, et il vaut mieux le dire nous-memes que
+d attendre qu il le remarque.
+**Aucun texte n est ecrit pour ce dossier tant que vous n avez pas repondu** — c est la regle du
+12/10 : ce que je crois devoir ajouter se pose a vous AVANT, jamais au client.
+
+### ✅ UNITED GLASS (Canada) — LE DIAGNOSTIC ETAIT FAUX, ET DANS LE BON SENS
+
+**Le registre portait `DEVIS ENVOYE 2026-10-08`, donc douze jours de silence sur notre plus gros
+dossier. C est faux, et c est le client qui le dit.** Le **15/10 a 14h06** John ecrit, mot pour mot :
+*Never received your quote for the jumbo sheet sizes.* **La proposition du 08/10 n est jamais
+arrivee.** Elle a ete renvoyee le 15/10 a 14h14.
+**Statut corrige en `DEVIS ENVOYE 2026-10-15`** — la date du statut pilote la cohorte de relance, et
+le dossier passe de douze jours a **cinq**, c est-a-dire de perdu a vivant.
+**⚠️ Et rien ne prouve que le renvoi soit arrive non plus.** D ou le texte **327**, qui ne redemande
+pas une reponse mais propose un **autre canal** — les chiffres dans le corps du message, ou WhatsApp.
+**Il attend votre accord.**
+
+### ⏳ AVGOUSTI (Chypre) — RIEN DE NEUF, MAIS UNE PRECAUTION A CONNAITRE
+
+Devis envoye le 14/10, **et vous avez deja relance vous-meme le 15/10**. Silence depuis le 13/10.
+**Une relance de notre part serait donc la troisieme touche apres le devis**, et le texte **328** en
+tient compte : il ne redemande pas si le devis est arrive, il pose une **question de chargement** —
+laquelle des deux cotes qu elle a citees, et la repartition entre 5, 6 et 4 mm.
+**⚠️ Et un element a peser qui n est pas dans ce dossier-ci : la campagne destockage a ecrit a
+`info@` de cette meme maison les 07/10 et 12/10.** La boite du devis est `stella@` et elle est
+distincte, **mais c est la meme maison, et le texte 328 serait son cinquieme message de NOXEM en
+quinze jours.** A vous de dire s il part.
+
+---
+
 ## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
 
 **⚠️⚠️ CETTE SECTION A ETE CORRIGEE TROIS FOIS CE MATIN ET JE LE DIS PLUTOT QUE DE LA LISSER.**

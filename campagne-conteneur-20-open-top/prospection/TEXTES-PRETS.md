@@ -23621,3 +23621,139 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 327. United Glass (Mississauga, Ontario, Canada) — `john@unitedglass.ca` — ANGLAIS — RELANCE sur devis
+
+**Redige le 20/10. ⚠️⚠️ NON ENVOYE ET NON COUVERT PAR L ACCORD PERMANENT DU 19/10 : une RELANCE n est
+pas un premier contact a un prospect neuf. Attend l accord expres de Kevin.**
+
+- **C EST LE DOSSIER LE PLUS AVANCE DE LA CAMPAGNE** — proposition sur DIX CONTENEURS, base ecrite
+  et acceptee par les deux parties dans le fil : jumbo 3210 x 2550 mm, ses NEUF references, CIF
+  Toronto, conteneur complet.
+- **⚠️⚠️ ET LE FIL RELU AUJOURD HUI CHANGE LE DIAGNOSTIC : LE DEVIS DU 08/10 N EST JAMAIS ARRIVE.**
+  John ecrit le 15/10 a 14h06, mot pour mot, *Never received your quote for the jumbo sheet sizes*.
+  Aaron l a renvoye le 15/10 a 14h14. **Donc le silence n est pas un silence de douze jours sur une
+  offre lue, c est un silence de cinq jours sur un renvoi dont rien ne prouve qu il soit arrive.**
+  Statut du registre corrige en consequence.
+- **⚠️ ET C EST CE QUI DICTE LE CONTENU DU TEXTE, qui serait sinon une relance ordinaire : LA PIECE
+  JOINTE A DEJA ECHOUE UNE FOIS DE FACON DEMONTREE.** Le texte ne redemande donc pas poliment une
+  reponse — **il propose un AUTRE CANAL** : les chiffres dans le corps du message, ou WhatsApp.
+  C est operationnel et cela n engage aucune condition commerciale nouvelle.
+- **TON : JOHN ECRIT EN UNE LIGNE.** *You can quote based on jumbo sheet size 3210 x 2550 mm.*
+  *Never received your quote.* **Un long message serait une faute de registre** — le texte fait
+  quinze lignes et pose UNE question fermee.
+- **⚠️ ET UN FAIT GENANT DANS LE FIL A NE PAS REPETER : le 08/10 a 13h18 une REPONSE AUTOMATIQUE EN
+  FRANCAIS est partie vers lui depuis la boite**, intercalee entre deux de nos messages anglais.
+  Rien ne la repare, mais une relance ne doit surtout pas sonner une seconde fois comme un automate.
+- **AUCUN PRIX ANNONCE** : le texte ne cite aucun chiffre et le mot *price* n apparait **nulle
+  part** dans le corps, qui emploie *quotation* et *proposal*. **Verifie par relevé du corps.**
+  ⚠️ **Cette ligne disait d abord que le mot apparaissait dans la reprise de *your quote*, ce qui
+  etait faux et incoherent** — *your quote* ne contient pas *price*, et le relevé rend zero.
+  **Corrige avant le commit, par le relevé et non par relecture** : c est la faute d annotation
+  du texte 321 une seconde fois, et elle dit que l annotation se VERIFIE comme le corps.
+- **⚠️ INTERDIT CANADIEN DU §6 RESPECTE : rien n est ecrit sur une taxation du float.** Le SH 7005
+  n est PAS sur les listes de riposte et l ecrire serait faux. **Aucun argument douanier dans ce
+  texte** — il n en a pas besoin, la base est deja acceptee.
+- **Formule imposee et porte de sortie presentes. Signature une fois.**
+
+**Objet :** `Re: NOXEM GROUP - the quotation, another way`
+
+```
+Hello John,
+
+Short one.
+
+I re-sent the proposal on 15 October, after you told me the first one had never
+reached you. I have had nothing back since, and I would rather find out why
+than send it a third time the same way.
+
+So, one closed question: did the 15 October email arrive?
+
+- If it did, take the time you need. I am not chasing an answer, I am chasing a
+  delivery.
+- If it did not, say the word and I will put the whole thing in the body of a
+  plain email with no attachment at all, or send it to you on WhatsApp at
+  +33 6 86 13 12 71, whichever is easier at your end. Twice is enough for an
+  attachment to go missing.
+
+Nothing has changed on our side. The basis is the one you set yourself: jumbo
+sheet 3210 x 2550 mm, your nine references, CIF Toronto, full container, and we
+can confirm the offer for delivery to your port, subject to validation on our
+side.
+
+And if the answer is simply that this is not going ahead, tell me plainly and I
+will not push.
+
+Best regards,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+## 328. Christakis Avgousti Ltd (Limassol, Chypre) — `stella@avgoustiglass.com` — ANGLAIS — RELANCE sur devis
+
+**Redige le 20/10. ⚠️⚠️ NON ENVOYE ET NON COUVERT PAR L ACCORD PERMANENT DU 19/10 : une RELANCE n est
+pas un premier contact. Attend l accord expres de Kevin.**
+
+- **CE QUI EST ACQUIS, ET IL FAUT LE DIRE PARCE QUE C EST UNE MESURE SUR NOTRE PROPRE GABARIT :
+  Stella a repondu au message de CLOTURE**, celui qui annonce qu on n insistera plus — la ou deux
+  messages commerciaux n avaient rien rendu. Sa reponse du 13/10 donne tout : *We do buy flat glass
+  in full containers, CIF Limassol. We mostly buy 5mm, 6mm and less 4mm, 3210 x 2550 or 3210 x 2250.*
+- **DEVIS N D-20260010203 ENVOYE LE 14/10** avec piece jointe, float clair 4, 5 et 6 mm, CIF
+  Limassol. **ET AARON A DEJA RELANCE LUI-MEME LE 15/10** pour verifier la bonne reception.
+- **⚠️⚠️ CE SERAIT DONC LA TROISIEME TOUCHE APRES LE DEVIS, ET C EST CE QUI DICTE LE TEXTE : IL NE
+  REDEMANDE PAS SI LE DEVIS EST ARRIVE.** Aaron l a deja demande, et une question sans reponse ne se
+  repose pas — la reposer dit seulement qu on n ecoute pas. **Le texte apporte autre chose :** il
+  pose la question du CHARGEMENT, qui est concrete, qui n a pas encore ete posee, et a laquelle on
+  repond en une ligne. Laquelle des DEUX cotes qu elle a citees, et dans quelle proportion entre le
+  5, le 6 et le 4 — parce que cela decide du plan de calage d un conteneur et de rien d autre.
+- **POURQUOI CETTE QUESTION PLUTOT QU UNE AUTRE : elle est technique et non commerciale**, donc elle
+  ne demande pas au client de se decider. Elle donne une raison d ecrire qui n est pas *alors, ce
+  devis*. Et la reponse, quelle qu elle soit, fait avancer le dossier.
+- **⚠️ CONTEXTE A CONNAITRE ET QUI PESE DANS LA BALANCE : l autre campagne, le destockage, a ecrit a
+  info@ de cette meme maison les 07/10 et 12/10.** La boite du devis est stella@ et elle est
+  distincte, **mais c est la MEME MAISON qui aurait recu cinq messages de NOXEM en quinze jours sur
+  deux offres differentes.** C est un argument pour que Kevin tranche, pas contre le texte.
+- **AUCUN PRIX ANNONCE** : le mot *price* n apparait pas dans le corps. **Verifie par relevé.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.**
+
+**Objet :** `Re: Closing your file - one question on the loading`
+
+```
+Dear Stella,
+
+I am not writing to ask about the quotation. You have it, and you will come
+back to it when it suits you.
+
+I am writing because there is one thing I would rather get right now than
+later, and it takes you one line to settle.
+
+You told me you buy in 3210 x 2550 or 3210 x 2250. Those two sizes do not load
+the same way in a container, so before anything else moves I would like to know
+which of the two you actually take, and roughly how your volume splits between
+5 mm, 6 mm and 4 mm.
+
+That is all. It is a loading question, not a commercial one, and the answer
+changes nothing you have already told me.
+
+Whatever we end up shipping, we can confirm the offer for delivery to Limassol,
+subject to validation on our side.
+
+And if the timing has simply turned out wrong on your side, say so plainly and
+I will not push.
+
+Kind regards,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

@@ -9184,3 +9184,47 @@ jamais en le reecrivant silencieusement.**
 **⚠️ Et ce qui N'EST PAS corrige, parce qu'on ne reecrit pas une branche poussee : les deux commits de
 la matinee ne portent pas ces heures, mais les notes qu'ils contenaient les portaient.** C'est ce
 paragraphe et le commit suivant qui le disent.
+
+## 20/10 a 12h45 — relire les trois fils de devis, et trouver que le plus gros n'avait jamais ete lu
+
+**Recherches : 0. Envois confirmes : 0. Reponses qualifiees : 0 de neuves. Demandes de devis : 0.
+Commandes : 0. Textes rediges : 2, tous deux EN ATTENTE DE L'ACCORD DE KEVIN.**
+
+**J'ai fait le point 2 du paragraphe 2 — les relances echues — et la premiere chose a faire etait de
+LIRE LES FILS plutot que les statuts. Les trois dossiers ou un devis est parti sont silencieux, et
+les trois silences n'ont pas la meme cause.**
+
+**⚠️⚠️ UNITED GLASS : LE DIAGNOSTIC ETAIT FAUX, ET DANS LE BON SENS. Le registre portait
+`DEVIS ENVOYE 2026-10-08`, donc douze jours de silence sur notre plus gros dossier — dix conteneurs.
+C'est faux, et c'est le client qui le dit.** Le 15/10 a 14h06 John ecrit mot pour mot *Never received
+your quote for the jumbo sheet sizes*. **La proposition du 08/10 n'est jamais arrivee.** Renvoyee le
+15/10 a 14h14. **Statut corrige en `DEVIS ENVOYE 2026-10-15`**, et la correction n'est pas cosmetique :
+la date du statut pilote la cohorte de relance, et le dossier passe de **douze jours a cinq**,
+c'est-a-dire de perdu a vivant. **C'est la regle du paragraphe 12 — le statut doit porter ce qu'un
+comptage voit.**
+**Texte 327 redige en consequence, et son contenu decoule du fait : la piece jointe a DEJA echoue une
+fois de facon demontree, donc le texte ne redemande pas une reponse, il propose un AUTRE CANAL** —
+les chiffres dans le corps, ou WhatsApp. Quinze lignes, une question fermee, parce que John ecrit en
+une ligne.
+
+**AVGOUSTI : rien de neuf, mais une precaution.** Devis le 14/10, **et Aaron a deja relance lui-meme
+le 15/10**. Une relance de notre part serait **la troisieme touche apres le devis**, donc le texte
+**328** ne redemande pas si le devis est arrive — il pose une **question de chargement**, laquelle des
+deux cotes et la repartition entre 5, 6 et 4 mm. ⚠️ **Et la campagne destockage a ecrit a `info@` de
+la meme maison les 07/10 et 12/10 : ce serait son cinquieme message de NOXEM en quinze jours.** Dit a
+Kevin, c'est a lui de trancher.
+
+**🔴 SAN SIMON : UNE QUESTION A KEVIN AVANT TOUTE RELANCE, ET AUCUN TEXTE ECRIT.** Le client a demande
+*precios del cuadro de abajo, **CIF Y FOB**, Puerto Quetzal*. Le message d'accompagnement du devis
+annonce *cotizacion de **vidrio laminado**, **CIF** Guatemala*. **Deux ecarts apparents — l'incoterm
+manquant et le produit — que je n'affirme PAS**, la piece jointe n'etant pas lisible d'ici. **Mais un
+client qui recoit un devis a cote de sa demande ne repond pas, il passe a autre chose, et une relance
+qui redemande une reponse ne reparerait rien.** La question va a Kevin, pas au client : c'est la regle
+du 12/10.
+
+**⚠️ ET UNE FAUTE D'ANNOTATION CORRIGEE AVANT LE COMMIT, par le relevé et non par relecture.** Le
+commentaire du texte 327 affirmait que le mot *price* apparaissait dans la reprise de *your quote* —
+**c'est faux et incoherent**, *your quote* ne contient pas *price* et le relevé rend zero. **C'est la
+faute du texte 321 une seconde fois, et elle dit que l'annotation se VERIFIE comme le corps.**
+
+**Registre : 1950 fiches. 339 textes.**
