@@ -8353,3 +8353,75 @@ ecrit avant correction.
 
 **SUITE.** Fenetre americaine a partir de 14h de Paris, 89 fiches envoyables y attendent. D ici la,
 decouverte sur la Finlande et l Islande, qui ont 1 et 0 fiche pour le meme fait de marche.
+
+---
+
+## 20/10/2026 — 09h24 — LE NORD EN ENTIER : NORVEGE, SUEDE, DANEMARK, FINLANDE, ISLANDE
+
+**Les cinq chiffres du paragraphe 3, distincts :**
+- recherches de decouverte : 5 — Suede, Danemark, Finlande, Islande, plus trois rubriques de la
+  federation finlandaise — et 9 seconds temps
+- envois confirmes : **14**, tous des PREMIERS CONTACTS vers des prospects neufs, aucune relance
+- reponses qualifiees : 0 a cette heure
+- demandes de devis : 0
+- commandes : 0
+
+**UNE SEULE IDEE A TENU TOUTE LA MATINEE : IL N Y A PLUS AUCUNE LIGNE FLOAT EN SCANDINAVIE.** Halmstad
+arrete en 2013, Lahti en 2009, Drammens en 1977, et l Islande n en a jamais eu. Cinq pays qui
+importent CENT POUR CENT de leur verre plat, dans le seul fuseau horaire ouvert a 9 h de Paris quand
+les Etats-Unis et le Bresil dorment. C est la raison du choix, et elle est horaire autant que
+commerciale.
+
+**PAYS PAR PAYS.**
+- **Norvege** : 8 des 9 fiches envoyables sont parties, la neuvieme etant de la classe facade a
+  3,6 pour cent. Le pays est fait.
+- **Suede** : 4 fiches neuves. La meilleure est **Y GLAS**, qui vend le planglas **EMBALLE EN
+  CAISSES** — le critere du mode de vente, celui qui a predit United Glass.
+- **Danemark** : 2 fiches neuves. **MIRIT GLAS** declare un **reseau de fabricants internationaux**
+  et tient le float **en stock de 1 a 25 mm**.
+- **Finlande** : 5 fiches neuves et 5 envois. **ESLA LASI** est la meilleure d Europe du matin —
+  import et negoce declares, et **la premiere BOITE D ACHATS NOMMEE de la campagne**. **SELOY** est la
+  meilleure cible low-E — ses triples 4K sont donnes a **U = 0,3**, donc deux faces a couche.
+- **Islande** : **premier message de la campagne vers ce pays**, qui n avait aucune fiche. **SAMVERK**
+  est la seule usine du pays a avoir un four de trempe.
+
+**LA METHODE QUI A PORTE EST CELLE DE L ANNUAIRE DE FEDERATION, ET LA GRILLE DU PARAGRAPHE 6 A PREDIT
+LE RESULTAT AVANT DE DEPENSER L APPEL.** La **SUOMEN TASOLASIYHDISTYS RY** publie ses ~150 membres
+**par groupe de produit** : le nom annonce le verre PLAT donc la bonne classe, et c est un annuaire de
+MEMBRES et non un conseil. Trois rubriques lues — grossistes, trempe, isolant — ont rendu une
+vingtaine de noms, tous grepes un par un.
+
+**ET LA TROUVAILLE QUI COMPTE LE PLUS N EST PAS COMMERCIALE.** Cette meme federation **ECRIT LA REGLE
+DU PARAGRAPHE 4 MOT POUR MOT** : formats de stock courants **3210 x 6000 et 3210 x 5100**, et sur
+commande speciale **le maximum de L UNE des deux dimensions est 3210**. Avec le Glarmesterlauget
+danois, Glasjouren et Fasadglas, cela fait **quatre sources publiques scandinaves qui atteignent le
+PLF STRICT de 6000 x 3210** que **RAKOSY UVEG** demandait et qui attend depuis le 08/10. Le volet
+industriel est regle. **Le volet qui reste est pour Aaron — nos usines le livrent-elles — et rien ne
+s en ecrit a un client.** Porte dans `DECISIONS-AARON.md`.
+
+**QUATRE GARDE-FOUS ONT TRAVAILLE, ET DEUX ONT EVITE LA FAUTE SHIBAAM.**
+- `grep-nom.py` a rendu **FS Glass = Forserum Safety Glass**, deja relancee le 13/10, par sa ligne
+  « present AILLEURS » qu il fallait lire ; et **Suomen Lasiposti = Lasiposti**, deja relancee, par
+  l inclusion inverse **reparee hier soir sur le cas KOMO** — le correctif s est rembourse en moins de
+  vingt-quatre heures.
+- **GLASTON FINLAND** n a pas de fiche : c est un **equipementier**, il vend des fours.
+- **TAMBEST GLASS SOLUTIONS** n en a pas non plus : meme adresse que Tambest Oy, un seul compte.
+- Et l `assert` du point-virgule a refuse une ecriture, **sixieme fois**, avant tout degat.
+
+**UN SEUL REBOND SUR 14 ENVOIS, ET IL A DONNE UNE REGLE.** `postmaster@vgi.no` a rendu un **5.4.1
+Exchange Online**, donc un refus de DESTINATAIRE et **pas** un verdict de filtrage : la regle d arret
+du paragraphe 10 ne se declenche pas. **La cause est que `postmaster@` est une boite TECHNIQUE de
+norme et non une boite commerciale**, couramment fermee a l exterieur. Le tableau des boites du
+paragraphe 13 gagne une troisieme colonne, et la preference s inverse : **entre une boite technique et
+une boite client, on prend la boite CLIENT et on demande la transmission.** Meme texte reparti vers
+`tilbud@vgi.no`.
+
+**RYTHME.** 14 envois en une quarantaine de minutes est dense pour un domaine neuf **sans DMARC et
+partage avec l autre campagne**. Les envois s arretent donc ici pour la matinee, conformement au
+paragraphe 10, et le travail continue sans envoyer — seconds temps, registre, garde-fous.
+
+**SUITE.** Fenetre americaine a partir de 14 h de Paris, ou **89 fiches envoyables** attendent.
+D ici la : les neuf noms finlandais consignes dans la note de Seloy, les deux danois et deux islandais
+consignes dans celles de Mirit et de Samverk, et les trois suedois non encore qualifies.
+
+Registre : 1933 fiches.

@@ -21275,3 +21275,94 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 303. Seloy Oy (Huittinen, Satakunta) — `henri.kiuru@seloy.fi` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 09h23. Envoi couvert par l accord expres de Kevin du 19/10 a 23h30.**
+
+- **⚠️⚠️ LA MEILLEURE CIBLE LOW-E DU LOT NORDIQUE, ET C EST UN FAIT DE PRODUIT :** leurs unités
+  **triples 4K** sont annoncées **jusqu à U = 0,3 W/m²K**. Un triple est **trois** feuilles et un U
+  de 0,3 suppose **deux** faces à couche. Une maison qui fait cela achète du **low-E en continu**.
+  C est la cible de la page low-E du §8, dans le marché où l argument porte.
+- **⚠️ L ADRESSE EST NOMINATIVE ET C EST LE CAS QUE LE §5 AUTORISE :** Henri Kiuru, **CEO** sur leur
+  propre page, donc la **DIRECTION**. Les cinq autres sont écartées — et il faut le dire parce que
+  l une d elles **sonnait juste** : Antti Nurminen est *vente technique, choix du verre et devis*,
+  donc celui qui conseille **leurs** clients, colonne CLIENT. `myynti@` est la vente.
+- **⚠️⚠️ ET LA RÉSERVE TECHNIQUE EST TENUE, C EST LE POINT LE PLUS DÉLICAT DU TEXTE.** La question du
+  **low-E dur contre mou** et de la **durée de stockage avant assemblage** est **ouverte** au dossier
+  d Aaron depuis le 19/10 — un couché mou ne se stocke pas indéfiniment avant d être scellé, et c est
+  exactement ce qu un transit maritime impose. **Le texte PROPOSE et DEMANDE, il n affirme rien**, et
+  il pose la question comme une question. §5 : aucune garantie technique non validée.
+- **Règle Prodiesa :** isolant, TPS-BU et 4K **hors offre**. Seul le substrat.
+- **L argument du float absent est VRAI** et servi **au passé**. Rien sur les droits. Formule imposée,
+  porte de sortie, signature une seule fois.
+
+**Objet :** `Low-E and clear float for the units you build at Huittinen`
+
+```
+Dear Mr Kiuru,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. I am writing to you directly because yours is the only role on
+the contact page that would decide something like this - if I have that wrong,
+I would be grateful if you passed it to whoever buys the glass.
+
+I am writing because of one number on your own product page. Your 4K units
+are given at a U-value down to 0.3. Getting there means three panes and two
+coated surfaces, which means your works does not buy a little coated glass
+occasionally - it buys it continuously, and the coating is not an accessory to
+your product, it is the product. That is an unusual thing for a supplier to be
+able to say precisely, and it is why I am writing to you rather than to a
+glazier.
+
+So I am not offering sealed units, TPS spacers or anything you assemble. You
+make those, and you guarantee them for twenty years. I am offering the glass
+that goes into them:
+
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- clear and extra-clear, low-iron float
+  https://noxemgroup.com/en/float-glass/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+One fact shapes the rest, and you know it better than I do: the last float
+furnace in Finland was shut down at Lahti and nothing has replaced it, nor is
+there one anywhere in the Nordic countries since Halmstad closed. Every pane
+that reaches Loimijoentie crossed a border already. The question is not
+whether to import. It is how many origins you can call on.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order, so the format your line is set to is not an obstacle. We can put
+together an offer for delivery to your port of destination, subject to
+validation on our side - Rauma or Helsinki, whichever your forwarder uses.
+
+And I would rather ask you something than tell you something, because on
+coated glass the buyer knows more than the seller's first letter can. Which
+coating do you actually run - hard coat or soft coat, and which product? How
+long does a coated pane sit between arriving and being sealed into a unit in
+your works? Which thicknesses move, and in what sheet size? A rough annual
+volume with how often you buy, and the port. Your answers decide whether sea
+freight suits your coated glass at all, and I would rather know that from you
+than guess at it.
+
+And the honest part. A works that guarantees a unit for twenty years
+qualifies its glass carefully and does not change supplier on a first email. I
+understand that completely. All I am proposing is to be a second source,
+qualified in advance, for the week the first one cannot deliver. If that is of
+no interest, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
