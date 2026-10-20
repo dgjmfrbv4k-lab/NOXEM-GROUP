@@ -174,6 +174,32 @@ avant ce matin. **Je le signale au titre du paragraphe 16 plutot que de laisser 
 s installer en silence.** Detail et recommandation plus bas, section *Question de perimetre*.
 **Si la reponse est non, dites-le et j arrete le jour meme.**
 
+**⚠️⚠️ ET UN ARGUMENT NEUF TROUVE A 12h51 QUI CHANGE L ENJEU DE CETTE QUESTION, trouve en cherchant
+tout autre chose : LE ROYAUME-UNI EST, AVEC LE CANADA, LE SEUL PAYS AU MONDE OU L ETAT PUBLIE LE NOM
+DES IMPORTATEURS PAR CODE DOUANIER.**
+Le **HMRC** publie sous *UK Trade Info* des donnees de traders **interrogeables par code SH**, avec
+**le nom de la societe, sa ville et son district postal**, sous **Open Government Licence v3.0**.
+C est une publication d Etat, donc permise au meme titre que la base canadienne — et la base
+canadienne nous a rendu **quinze fiches a ZERO appel de recherche** le 19/10, en nommant des
+acheteurs qu aucun annuaire ne designe.
+
+**POURQUOI CELA PESE SUR VOTRE ARBITRAGE ET PAS SEULEMENT SUR LA METHODE.** La question du perimetre
+europeen se posait jusqu ici en termes de **marche** — faut-il y vendre. Elle se pose desormais aussi
+en termes de **cout d acquisition** : sur le Royaume-Uni, trouver des acheteurs qualifies coute
+presque rien, alors qu ailleurs il faut deux appels de recherche par fiche et qu un tiers des
+adresses trouvees rebondit. **C est le marche le moins cher a prospecter de toute la campagne, et il
+est actuellement ferme par le mandat.**
+
+**⚠️ CE QUE JE N AFFIRME PAS :** je n ai pas interroge cette base, puisque le perimetre l interdit, et
+je ne sais donc pas combien de noms elle rend sur le verre plat. **Les limites connues sont ecrites :**
+ni valeurs ni fournisseurs, et les entreprises individuelles en sont absentes. **Et on irait a la
+source du HMRC, jamais aux outils commerciaux qui l enrobent**, lesquels tombent sous l interdit des
+courtiers.
+
+**LA QUESTION RESTE LA MEME ET ELLE EST POUR VOUS :** ouvre-t-on l Europe, et si oui, en totalite ou
+sur quelques marches. **Ce paragraphe ajoute seulement que si la reponse est oui, le Royaume-Uni est
+par ou commencer**, et pas pour une raison de marche mais pour une raison de cout.
+
 ## 4. 🟠 LE DOSSIER RIOU — 41 fiches attendent un arbitrage, et quatre d entre elles sont Riou
 
 Groupe francais de transformation du verre avec **quatre societes dans notre perimetre** — SOREMIR

@@ -2473,6 +2473,35 @@ publiées**. Le Mexique et la Colombie nomment les **parties intéressées** d'u
 plus étroit. **Donc la piste est à tester pays par pays, et elle dépend entièrement de ce que
 l'autorité PUBLIE** — c'est la conclusion du 12/10 confirmée par un cinquième pays, et le Canada en
 est le meilleur cas au monde à ma connaissance.
+**⚠️⚠️ ET LE 20/10 RÉPOND À CETTE QUESTION-LÀ POUR DEUX PAYS DE PLUS, EN UNE SEULE RECHERCHE — UN OUI
+ET UN NON DÉFINITIF. Le « meilleur cas au monde » ci-dessus devient « l'un des deux ».**
+· **ROYAUME-UNI : OUI, ET C'EST LA MÊME CLASSE DE SOURCE QUE LE CANADA.** Le **HMRC** publie, sous
+  *UK Trade Info*, des **données de traders interrogeables par code SH**, donnant le **nom de la
+  société, sa ville et son district postal**, sous **Open Government Licence v3.0**. C'est une
+  publication d'État, donc permise au même titre que la CID canadienne. **Limites à connaître :**
+  ni valeurs ni fournisseurs, et **les entreprises individuelles en sont absentes**. ⚠️ Et il faut
+  distinguer la **donnée du HMRC**, qui est la source, des **outils commerciaux qui l'enrobent** —
+  ces derniers vendent un accès et tombent sous l'interdit du §5 : on va à la source, jamais au
+  revendeur.
+  **⚠️⚠️ MAIS ELLE N'EST PAS EXPLOITABLE AUJOURD'HUI, ET IL FAUT LE DIRE DANS LA MÊME PHRASE QUE LA
+  TROUVAILLE : le §6 ferme l'Europe à toute NOUVELLE prospection.** Donc cette source ne peut pas
+  ouvrir une seule fiche en l'état. **Elle devient un argument pour la question du périmètre
+  européen portée à Aaron**, et un bon : si le périmètre s'ouvre, le Royaume-Uni est le seul marché
+  européen où l'État nomme les acheteurs. Portée dans `DECISIONS-AARON.md`.
+· **ÉTATS-UNIS : NON, ET CETTE FOIS C'EST DÉFINITIF — la question est close, qu'on cesse d'y
+  dépenser des appels.** Le §6 l'avait déjà mesuré deux fois par l'USITC (les 42 importateurs de la
+  Pub. 5579 sont *business-proprietary*). Ce relevé ajoute la voie douanière : **USA Trade Online du
+  Census Bureau ne donne que des AGRÉGATS par code SH et par pays**, et les noms d'importateurs
+  vivent dans les **connaissements de la CBP, qui ne sont pas publiés en répertoire** — ils ne
+  s'obtiennent que par les plateformes commerciales, **que le §5 interdit**, ou par une demande FOIA.
+  **Et un importateur peut en plus déposer une demande de confidentialité** qui retire son nom des
+  relevés publics. **Trois voies, trois impasses : la piste américaine est fermée.**
+**CE QUE LE BILAN DE LA QUESTION DEVIENT, pour ne plus la rouvrir à l'aveugle :** Canada **oui**
+(CID, open data, exploitée, 15 fiches) · Royaume-Uni **oui** (HMRC, hors périmètre) · États-Unis
+**non** (trois voies fermées) · Brésil **non** (Receita Federal, données non publiées) · Mexique et
+Colombie **partiellement** (parties intéressées d'une enquête seulement). **Et la règle générale se
+confirme pour la sixième fois : la piste dépend entièrement de ce que l'autorité PUBLIE, et cela se
+teste pays par pays.**
 
 **⚠️⚠️ UN CRITÈRE QUI VAUT MIEUX QUE CETTE LISTE, DÉGAGÉ LE 14/10 À 13h20 APRÈS QUATRE ÉCARTS EN UNE
 MATINÉE : LE FRAGMENT DE MARQUE DANS UNE RAISON SOCIALE. C'est le frère du critère Pasabahçe du 09/10,
