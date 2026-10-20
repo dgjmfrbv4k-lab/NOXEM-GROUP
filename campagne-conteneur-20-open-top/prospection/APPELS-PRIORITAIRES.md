@@ -1,102 +1,98 @@
 # APPELS PRIORITAIRES — les 15 qui valent le temps de Kevin
 
-**Régénéré le 15/10 à 08h58.** Remplace la version du 14/10.
+**Regenere le 20/10 a 11h33.** Remplace la version du 15/10, qui avait **cinq jours** et ne voyait ni
+les fiches creees depuis ni les verdicts ecrits depuis.
 
-**Pourquoi cette liste existe :** le registre porte **183 fiches en `A APPELER`, toutes avec un numéro,
-et aucun appel n'a jamais été passé.** C'est le point 1 de `DECISIONS-AARON.md` depuis le 12/10, et la
-mesure du 13/10 l'a confirmé par l'autre bout : la découverte par moteur de recherche sature sur nos
-meilleurs marchés, alors que ces numéros dorment. **Personne ne passe 183 appels — ceux-ci sont les
-quinze qui comptent.**
+**Pourquoi cette liste existe :** le registre porte **285 fiches en `A APPELER`, toutes avec un
+numero, et aucun appel n a jamais ete passe.** C est le point 1 de `DECISIONS-AARON.md` depuis le
+12/10, et la mesure du 13/10 le confirme par l autre bout : la decouverte par moteur de recherche
+sature sur nos meilleurs marches, alors que ces numeros dorment. **Personne ne passe 285 appels —
+ceux-ci sont les quinze qui comptent.**
 
-**Comment elles ont été choisies.** Classe de métier d'abord (§6 : verrier pur 12,8 %, négoce 10 %,
-poseur 3,6 %), marché ensuite, et **priorité absolue aux fiches dont l'e-mail est définitivement
-clos** — une maison bien qualifiée que le courrier ne peut plus atteindre ne vaut que par le téléphone.
-Huit des quinze sont dans ce cas.
+**COMMENT ELLES ONT ETE CHOISIES, ET LE TRI EST MESURE ET NON INTUITIF.**
+1. **Classe de metier d abord**, §6 : verrier pur **12,8 %**, negoce **10,0 %**, poseur **3,6 %**,
+   verrier + pose **0 %**. Les quinze sont toutes dans les deux premieres.
+2. **E-mail DEFINITIVEMENT CLOS ensuite.** **141 des 285** fiches ont un courriel mort — rebond
+   dur, domaine introuvable, Null MX, boite inexistante. **Une maison bien qualifiee que le
+   courrier ne peut plus atteindre ne vaut plus que par le telephone**, et les quinze sont toutes
+   dans ce cas. C est le seul endroit ou un appel ne double pas un envoi.
+3. **Marche ensuite**, §6 : Bresil, Etats-Unis, Canada, Mexique et Colombie, ou l argument douanier
+   est vrai.
+4. **84 fiches satisfont les trois criteres**, dont **32 dans les marches prioritaires**. Les
+   quinze ci-dessous sont le haut de ces 32.
 
-**⚠️ LES HEURES SONT CALCULÉES, PAS DEVINÉES.** Formule : *heure de Paris = heure locale + 2 − décalage
-UTC local*, vérifiée sur deux cas connus (14h de Paris = 9h à São Paulo, 16h30 de Paris = 8h30 à
-Mexico). C'est la faute du 14/10, où un signe inversé annonçait 10h de Paris pour le Brésil, soit 5h du
-matin sur place.
+**⚠️ LES HEURES SONT CALCULEES, PAS DEVINEES.** Formule : **heure de Paris = heure locale voulue
++ 2 − decalage UTC local**, **reverifiee ce jour sur les deux cas connus** que la version
+precedente cite — 14h de Paris = 9h a Sao Paulo, et 16h30 de Paris = 8h30 a Mexico. C est la faute
+du 14/10, ou un signe inverse annoncait 10h de Paris pour le Bresil, soit 5h du matin sur place.
+**⚠️ ET ELLES CHANGENT LE 25/10 :** Paris quitte l heure d ete ce jour-la et l Amerique du Nord le
+2 novembre. **Entre les deux, retrancher une heure a toutes les fenetres americaines.**
 
-## Fenêtres d'appel, heure de Paris
+## Fenetres d appel, heure de Paris
 
-| Pour 9h locales | Pays | Sociétés |
+| Pour 9h locales | Pays / zone | Societes |
 |---|---|---|
-| **18h00** | USA Pacifique | Crone Wholesale Glass |
-| **17h00** | Mexique | Vitromatic, Fortavidrio, Vidrios y Cristales Guadal |
-| **16h00** | Colombie | Importadora C&C SAS, Vidriosur Colombia |
-| **15h00** | USA Est / Canada | Saand Inc., The Glenny Glass Company, Glass Enterprises Inc |
-| **14h00** | Brésil | Fast Vidros Distribuidora, Cyberglass, Grupo Araujo, Brastemper Industria de Vi, VidroFlex |
-| **01h00** | Australie (Brisbane) | G.James Glass & Aluminium — ⚠️ **inutilisable, voir ci-dessous** |
+| **17h00** | Mexique · Edmonton | Vitromatic, Grupo Vitropanel, Vidrios y Cristales Guadalajara, Glassbuilt |
+| **16h00** | Colombie · Houston | Importadora C&C, Vidriosur, Texas Glass Group |
+| **15h00** | Manaus · USA Est · Ontario | Amazon Temper, Glenny Glass, Adriatic Glass |
+| **14h00** | Bresil Sud-Est | GlassecViracon, Cyberglass, Grupo Araujo, LM Vidros, DVB Vidros, Ramires |
+| **08h00** | Finlande | V.E. Lipponen — appel de trente secondes, voir en bas |
 
-**⚠️ L'AUSTRALIE SE RATTRAPE PAR L'AUTRE BOUT DE LEUR JOURNÉE.** 9h à Brisbane fait 1h du matin à
-Paris, ce qui est exact et sans usage. Mais Brisbane est à **Paris + 8** et ne change pas d'heure :
-**8h de Paris y font 16h, et 9h de Paris y font 17h.** C'est donc le tout début de la matinée
-parisienne qu'il faut viser, sur la fin de leur après-midi — et G.James est le plus gros groupe
-verre-aluminium du Queensland, ce qui vaut de se lever pour lui. **À appeler demain matin à 8h.**
+**⚠️ JOUR OUVRE : aucun ferie national ce jour-la au Bresil, au Mexique, en Colombie, aux
+Etats-Unis ni au Canada.** La Colombie reporte ses feries au **lundi** par la Ley Emiliani — le
+prochain est le **2 novembre**, et c est un lundi, donc **ne pas appeler la Colombie ce jour-la**.
 
 ## Les quinze, par ordre de valeur
 
-| Pays | Société | Ville | Téléphone | Objectif de l'appel |
+| # | Pays | Societe | Telephone | Objectif de l appel, en une phrase |
 |---|---|---|---|---|
-| Australie | **G.James Glass & Aluminium** | Brisbane (Eagle Farm, 1084 Kingsfo | `+61 7 3877 2844` | Le plus gros groupe verre-aluminium du Queensland, six sites. Aucune adresse publiee, deux numeros divergents selon les annuaires. **Objectif : obtenir la boite du service achats**, rien d'autre. |
-| Canada | **Saand Inc.** | Toronto (250 Brockport Drive et 35 | `+1 416 798 2345` | Faconnier ET distributeur pour des tiers - double classe, la meilleure du registre. Dix pages rendues sur leur domaine, **aucune** adresse publiee, et un courtier proposait un schema prenom.nom que le §5 interdit. **Objectif : la boite des achats.** |
-| États-Unis | **The Glenny Glass Company** | Milford (209 Castleberry Ct), Ohio | `+1 513 489 2233` | Distributeur de gros **independant** - leur propre mot. Email epuise : `sales@` refuse en 5.4.1 par leur locataire Exchange, et la regle MunnWorks interdit d'essayer une troisieme boite. **Objectif : un interlocuteur achats, par telephone uniquement.** Horaires locaux 7h30-16h30. |
-| Mexique | **Vitromatic** | Ciudad Valles et San Luis Potosi ( | `+52 481 113 9953` | Plus de vingt succursales annoncees. **Objectif : confirmer qu'ils achetent de la feuille et obtenir la boite achats.** |
-| Brésil | **Fast Vidros Distribuidora** | Sorocaba (Sao Paulo) | `+55 15 3342 4260` | **Un seul appel, une seule question**, et elle ferme ou ouvre la fiche : *achetez-vous de la feuille de verre, et en quelles epaisseurs ?* Leur catalogue de 150 000 articles est de la quincaillerie, pas de la feuille - c'est la seule chose a lever. |
-| Brésil | **Cyberglass — Industria e Comercio de Vidros Ltda** | Sao Paulo (Av. Henry Ford 1268, Pa | `+55 11 2914 7211` | 75 ans, vente en gros, feuilleteur certifie, quatre fournisseurs nommes - une des meilleures fiches bresiliennes. **Deux** boites refusees en 5.4.1 par le meme locataire, donc l'email est clos. **Objectif : la boite achats ou un nom.** |
-| Brésil | **Grupo Araujo** | Nova Iguacu (Rua Freitas Braga 188 | `+55 21 3745 3836` | Piege du domaine voisin etabli : le site est en `grupoaraujorio.com` et l'adresse publiee en `garaujorio.com`, qui rebondit. **Leur propre site designe le WhatsApp comme canal de devis** - c'est par la qu'il faut passer. |
-| Brésil | **Brastemper Industria de Vidros Temperados** | Belo Horizonte, Minas Gerais | `+55 31 3458 9126` | Creee aujourd'hui. Trois numeros publies, **aucune adresse**. ⚠️ Chercher *brastemper vidros* et jamais *brastemper* seul : c'est aussi la marque d'electromenager de Whirlpool. |
-| Brésil | **VidroFlex** | Jundiai (Rua Antonio Prado Junior  | `+55 11 4607 0132` | Creee aujourd'hui. Vaste stock de chapes annonce et flotte propre, mais **formulaire seul**. Pages vieilles de quatre ans, donc confirmer les coordonnees. |
-| Mexique | **Fortavidrio** | Monterrey (Col. Acero) | `+52 81 8355 3412` | Passee au telephone **aujourd'hui** : deux avis de delai 4.4.1, serveur muet, la relance du 12/10 ne sera pas delivree. Signature definitive malgre un code temporaire, et chercher une autre boite serait inutile. |
-| Colombie | **Importadora C&C SAS** | Palmira (Valle del Cauca) | `+57 318 372 9621` | Se declare **importatrice** de float, miroirs et verres speciaux - le profil le plus direct de Colombie. Boite pleine par quota d'hebergement epuise, donc l'email est mort et un second envoi est exclu. |
-| Colombie | **Vidriosur Colombia** | Bogota (Av. Carrera 27) | `+57 601 567 6388` | Classe negoce avec signal de taille. **Objectif : volumes, epaisseurs et port.** |
-| États-Unis | **Glass Enterprises Inc** | Bensalem (Pennsylvanie) et Norwich | `+1 215 638 1007` | Classe verrier et negoce, Philadelphie. Marche ou l'argument douanier est le plus fort. |
-| États-Unis | **Crone Wholesale Glass** | Sepulveda (Californie du Sud) | `+1 818 894 3644` | Grossiste, Los Angeles. ⚠️ Fiche deja signalee le 13/10 comme ayant un verdict - **lire la note avant d'appeler**. |
-| Mexique | **Vidrios y Cristales Guadalajara** | Guadalajara (Jalisco) | `+52 33 2212 1941` | Rebond pour boite pleine. Le §13 interdit le second envoi : le telephone est le seul canal restant. |
+| 1 | Bresil | **Amazon Temper** (Manaus, Aquiraz, Cariri, Lucas) | +55 92 3611 2832 | **Le plus gros acheteur industriel de la liste : huit usines de trempe et une neuvieme en construction a Salvador.** Objectif : savoir qui achete pour le groupe — un bureau central ou chaque usine — et si Vivix les approvisionne, ce que le §6 soupconne sans l avoir etabli. |
+| 2 | Bresil | **GlassecViracon** (Nazare Paulista, SP) | +55 11 4597 8100 | Faconneur architectural de premier plan, isolant, feuillete, trempe et serigraphie. Objectif : le nom et la ligne directe de l acheteur de substrat. |
+| 3 | Etats-Unis | **The Glenny Glass Company** (Milford, Ohio) | +1 513 489 2233 | **Le mot qui la place ici est INDEPENDANTE**, §6 : un distributeur qui n appartient a aucun producteur est le seul pour qui une origine de plus est une option et non une rupture de contrat. Objectif : volumes, epaisseurs, et si l origine europeenne les interesse depuis les ordres d avril 2026. |
+| 4 | Bresil | **Cyberglass** (Sao Paulo) | +55 11 2914 7211 | 75 ans, grossiste **et** feuilleteur certifie, **distributrice de Guardian, Cebrace, Saint-Gobain et UBV** — donc elle ACHETE, et l on sait a qui. Objectif : la part importee de son approvisionnement. |
+| 5 | Mexique | **Vitromatic** (Ciudad Valles et San Luis Potosi) | +52 481 113 9953 | **Distribution de verre national ET IMPORTE**, plus de vingt succursales. Un importateur declare dans un marche de 130 millions d habitants. Objectif : origines actuelles et qui decide des achats. |
+| 6 | Colombie | **Importadora C&C SAS** (Palmira) | +57 318 372 9621 | Importatrice et grossiste, float incolore, **miroirs** et verres speciaux. **Le miroir est le bon angle colombien**, §6 : le miroir chinois y porte un plancher de 0,77 USD/kg depuis octobre 2025. Objectif : volumes de miroir et origines. |
+| 7 | Canada | **Glassbuilt Manufacturing** (Edmonton) | +1 780 455 0440 | Trempe et vitrages isolants pour **cinq provinces et territoires**. Le Canada n a plus de ligne float et tire ~90 % de son verre d un seul pays. Objectif : d ou vient leur feuille et ce que leur coute la dependance. |
+| 8 | Bresil | **Grupo Araujo** (Nova Iguacu, RJ) | +55 21 3745 3836 | Distributeur **et** trempeur — float, trempe, feuillete, reflechissant, isolant. Objectif : volumes et port d entree, Rio etant a cote. |
+| 9 | Mexique | **Grupo Vitropanel** (Naucalpan) | +52 55 5358 3444 | Trempe architectural **avec four propre**, trois succursales. Un four ne tourne que si de la feuille entre. Objectif : epaisseurs et cadence d approvisionnement. |
+| 10 | Bresil | **LM Vidros** (Campo Grande, MS) | +55 67 3303 2400 | Transformateur **et** distributeur, feuillete, trempe, thermodurci, reseau de representants. Objectif : le substrat, et si le reseau achete groupe. |
+| 11 | Colombie | **Vidriosur Colombia** (Bogota) | +57 601 567 6388 | Gros de verre plat et de **miroirs nationaux ET IMPORTES**. Meme angle miroir que la 6. |
+| 12 | Canada | **Adriatic Glass and Mirrors** (Concord, Ontario) | +1 905 738 1587 | Fabrication commerciale, **lignes recuit et feuillete**. Objectif : origine de la feuille et volumes. |
+| 13 | Bresil | **DVB Vidros** (Ribeirao Preto, SP) | +55 16 4009 1500 | Grossiste servant **les petites vitreries de trois Etats, avec sa propre flotte**. C est le profil du stockiste : il tient pour revendre. Objectif : rotation et epaisseurs. |
+| 14 | Bresil | **Distribuidora Ramires Vidros** (Sorocaba, SP) | +55 15 3329 6025 | **Elle annonce des chapas en TOUTES EPAISSEURS EN STOCK** — c est le critere d entree du §6, cote entree. Objectif : confirmer le stock et la cote de feuille. |
+| 15 | Etats-Unis | **Texas Glass Group** (Houston) | +1 832 295 3075 | Grossiste **miroir et float avec livraison**, taille a etablir — et c est precisement l objet de l appel. Houston est un port. |
 
----
+## UNE RESERVE ECARTEE DE LA LISTE, ET IL FAUT DIRE POURQUOI
 
-**⚠️ DEUX RÈGLES QUI S'APPLIQUENT À CHAQUE APPEL.**
-1. **Aucun prix, aucun délai, aucune condition** (§5). La formule reste « nous pouvons établir une
-   offre pour la livraison à votre port de destination, **sous réserve de validation de notre côté** ».
-2. **L'objectif d'un premier appel n'est pas de vendre, c'est d'obtenir la boîte des achats et un
-   nom.** Huit de ces quinze fiches sont ici précisément parce que l'e-mail générique ne passe plus —
-   un contact nommé au service achats vaut plus que la conversation elle-même.
+**DIVIDRIOS (Colombie)** aurait sa place au titre du metier — et mieux : elle est **nommee dans la
+Resolution 284 du MinCIT** comme ayant presente des commentaires devant la SPC, donc elle importait
+du miroir chinois en volume suffisant pour defendre sa position, **ce qu aucun annuaire ne prouve**.
+**Elle est hors des quinze pour une raison materielle : son numero au registre est `3138831969`,
+sans indicatif pays ni indicatif de ville.** Composer un numero incomplet fait perdre l appel. **A
+completer avant de la rappeler**, et elle entrera alors en tres bon rang.
 
+## ⚠️ ET UN SEIZIEME APPEL QUI NE DURE PAS TRENTE SECONDES ET QUI DEBLOQUE UNE FICHE
 
----
+**V.E. LIPPONEN OY (Oulu, Finlande) — +358 8 535 5300, a 8h00 de Paris.** La fiche est en
+`A QUALIFIER` et **non envoyable**, pour une seule raison : un agregateur donne son inscription au
+registre du commerce comme **cessee au 28/02/2025** quand toutes les autres sources la donnent
+active. **Cela ne se leve pas par une recherche** — ni le registre PRH ni la console ne sont
+atteignables d ici. **Une question au standard suffit : etes-vous toujours en activite.** Si oui,
+la fiche part le jour meme avec son adresse deja relevee.
 
-## MISE A JOUR DU 15/10 A 13h26 — CE QUI A CHANGE DEPUIS LA VERSION DE 08h58
+## CE QUE CES APPELS NE DOIVENT PAS FAIRE
 
-La liste ci-dessus reste valable. **Trois corrections la touchent directement, et la premiere change
-le numero a composer.**
+- **Aucun prix, aucun delai, aucun certificat, aucune condition** — §5, exactement comme a l ecrit.
+  La formule tient au telephone aussi : *une offre pour la livraison a votre port, sous reserve de
+  validation de notre cote.*
+- **Ne jamais nommer nos usines partenaires**, ni leur pays, ni leur nombre.
+- **Ne jamais dire qu il n y a pas de production locale** au Bresil, au Mexique, aux Etats-Unis, en
+  Colombie ni au Chili — c est faux dans les cinq, et un acheteur le sait mieux que nous.
+- **Rien sur les droits de douane au Mexique** : le taux applicable a l origine UE n est pas etabli.
+  Au Bresil et aux Etats-Unis l argument douanier est vrai, mais il se dit comme un **fait** et
+  jamais comme une annonce de tarif.
+- **Regle Prodiesa : ce que la maison FABRIQUE sort de l offre, ce qu elle ACHETE y entre.** A un
+  trempeur on ne propose pas de trempe ; a un argenteur on ne propose jamais de miroir fini.
 
-### 1. SAAND INC. — composer le 416 674 3931 et NON le 416 798 2345
-La liste de 08h58 le donne dans la fenetre **15h00 de Paris**, avec le numero du **siege**. Le second
-temps du 15/10 a etabli que Saand a **quatre lignes** et qu elles ne se valent pas pour nous : siege
-et fabrication 416 798 2345, Londres 519 659 0819, Ottawa 613 838 3373, **et la DISTRIBUTION a sa
-propre ligne, le 416 674 3931**. C est leur page distribution qui annonce la gestion de stock de
-verre et l execution de commande pour des tiers, donc **le seul des quatre numeros qui arrive sur la
-bonne personne**. Le champ du registre est corrige. **Aucune adresse electronique n existe sur ce
-domaine**, verifie sur dix pages : cette fiche ne vaut QUE par le telephone.
-
-### 2. TRISTAR GLASS SORT DE LA LISTE D APPELS — elle est passee en file d envoi
-Deverrouillee le 15/10, `sales@tristarglass.com`, **texte 178 redige**. Classe verrier pur, trois
-usines. Elle n a plus besoin d un appel, elle a besoin de l accord de Kevin.
-
-### 3. DEUX ENTREES A AJOUTER EN HAUT DE LA FENETRE 15h00, USA EST ET CANADA
-- **Atlantic Glass Systems** (Charlottetown, Ile-du-Prince-Edouard, **+1 902 892 2791**, et Moncton
-  au 506 854 5220). **Courrier definitivement clos** : la seule adresse publiee est une boite de
-  **recrutement**, que le §5 interdit — c est le cas Lahey a l identique. Elle remplit donc le
-  critere qui a fait entrer huit des quinze dans la liste.
-- **Dixon Mirror and Glass** (South Salt Lake, **+1 801 486 2079**, fenetre **17h00 de Paris**).
-  **Un annuaire industriel ecrit qu elle n est PAS equipee pour recevoir du courrier electronique.**
-  Classe atelier, donc valeur moyenne, mais le telephone est son seul canal possible.
-
-### 4. ETAT
-Le registre porte desormais **N fiches en `A APPELER`, toutes avec un numero**, contre 183 ce matin.
-**Vingt-et-une y sont passees aujourd hui**, presque toutes parce que le second temps a etabli
-qu aucune adresse n existe — ce qui est un verdict et non un echec. **La proportion de fiches que
-seul le telephone peut atteindre AUGMENTE a mesure que la methode de deverrouillage epuise ce
-qu elle peut rendre**, et c est l argument le plus concret pour le creneau d appels demande a Kevin.
+**Le seul objectif de ces quinze appels est d obtenir UN NOM, UNE LIGNE DIRECTE et UNE ADRESSE
+VIVANTE.** Tout le reste vient apres, par ecrit, et avec l accord de Kevin.

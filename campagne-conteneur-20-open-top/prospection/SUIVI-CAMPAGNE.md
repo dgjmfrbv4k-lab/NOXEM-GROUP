@@ -8627,3 +8627,46 @@ descendu a 310 pour couvrir la journee.
 
 **SUITE :** demain 8h30 Lasiluoto et PLG, demain 14 h les cinq americaines. Les six textes ecrits
 aujourd hui entrent dans la file derriere elles.
+
+---
+
+### 20/10 — 11h34 · la liste d appels refaite apres cinq jours, et le gisement enfin chiffre
+
+**Les cinq chiffres du paragraphe 3 :** recherches **0** · envois confirmes **20 sur la journee,
+0 dans ce bloc** · reponses qualifiees **0** · demandes de devis **0** · commandes **0**.
+
+**`LISTE-APPELS.md` regeneree** par son script, comme le paragraphe 12 l impose apres chaque lot, et
+**`APPELS-PRIORITAIRES.md` entierement refaite — elle datait du 15/10, soit cinq jours, et ne voyait
+ni les fiches creees depuis ni les verdicts ecrits depuis.**
+
+**ET LE GISEMENT EST ENFIN CHIFFRE PLUTOT QU EVOQUE, ce qui est le vrai apport du bloc :**
+- **285 fiches en `A APPELER`, toutes avec un numero, et aucun appel jamais passe.**
+- **141 d entre elles ont un courriel DEFINITIVEMENT CLOS** — rebond dur, domaine introuvable,
+  Null MX, boite inexistante. **Ce sont celles ou un appel ne double aucun envoi**, et c est le seul
+  critere qui rende un appel strictement additif.
+- **84 cumulent les deux meilleures classes du paragraphe 6 ET un courriel mort.**
+- **32 d entre elles sont dans les marches ou l argument douanier est vrai** — Bresil, Etats-Unis,
+  Canada, Mexique, Colombie.
+**Les quinze retenues sont le haut de ces 32**, chacune avec un objectif d appel en une phrase.
+
+**EN TETE : Amazon Temper**, huit usines de trempe et une neuvieme en construction, le plus gros
+acheteur industriel de la liste ; **GlassecViracon** ; et **Glenny Glass**, retenue pour un seul mot
+de sa propre page — **INDEPENDANTE** — qui est au paragraphe 6 le marqueur du distributeur
+n appartenant a aucun producteur, donc le seul pour qui une origine de plus est une option et non
+une rupture de contrat.
+
+**UN SEIZIEME APPEL AJOUTE, ET IL DURE TRENTE SECONDES : V.E. Lipponen**, dont la fiche est bloquee
+parce qu un agregateur la donne radiee au 28/02/2025 quand les autres la donnent active. **Cela ne
+se leve pas par une recherche**, seulement par une question au standard.
+
+**ET UNE RESERVE ECARTEE EN DISANT POURQUOI : Dividrios**, nommee dans la Resolution 284 du MinCIT
+comme ayant defendu sa position d importatrice de miroir chinois — donc un fait d import atteste par
+une source de premier rang — **est hors liste parce que son numero au registre est incomplet**, sans
+indicatif. Un numero incomplet fait perdre l appel.
+
+**LES HEURES SONT RECALCULEES ET LA FORMULE REVERIFIEE sur les deux cas connus** que le fichier cite
+lui-meme — 14h de Paris egale 9h a Sao Paulo, 16h30 egale 8h30 a Mexico. **Et l avertissement du
+changement d heure est pose** : Paris quitte l heure d ete le 25/10 et l Amerique du Nord le
+2 novembre, donc entre les deux il faut retrancher une heure aux fenetres americaines.
+
+**SUITE :** la liste attend un creneau de Kevin. Rien d autre ne la debloque.
