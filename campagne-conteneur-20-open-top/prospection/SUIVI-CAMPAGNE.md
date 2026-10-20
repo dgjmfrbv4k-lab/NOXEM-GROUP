@@ -10017,3 +10017,32 @@ l'appui. **Pretendre l'inverse aurait ete un faux.**
 
 **ET LA REGLE QUI SORT EST PLUS LARGE QUE L'OUTIL : quand on veut TRIER une liste qu'un script
 produit deja, on trie SA SORTIE — on ne refait pas son filtrage.**
+
+## 20/10 a 14h08 — premiere fiche travaillee depuis la liste ordonnee, et le mot *independant* y est
+
+**Recherches : 2. Envois confirmes : 0. Fiches qualifiees : 1.**
+
+**LAMIVER (Pointe-aux-Trembles, Montreal) — metier ETABLI, fiche passee en `A APPELER`.** Elle etait
+en `A QUALIFIER` avec une note honnete : *le metier est DEDUIT DU NOM et donc non etabli*. Il l'est
+maintenant : **fabricant INDEPENDANT de verre de securite feuillete**, marches architectural et
+automobile.
+
+**⚠️⚠️ ET LE MOT QUI COMPTE EST *INDEPENDANT*** — celui que le paragraphe 6 prise le plus, celui de
+Glenny Glass et d'Intraco : **un faconneur qui n'appartient a aucun producteur float est le seul
+pour qui une origine de plus est une OPTION et non une rupture de contrat.**
+**Et elle FEUILLETTE, donc elle achete du float clair par paires** : c'est l'axe des procedes, ou
+l'achat de substrat est une **necessite industrielle** et non un choix commercial.
+
+**⚠️ RESERVE DE GAMME, ET C'EST LA PREMIERE QUESTION DE L'APPEL : une part de son activite est le
+PARE-BRISE**, sous la marque Lamilite. **Le verre automobile est hors gamme** pour cette campagne.
+Ce qui nous concerne est la part **architecturale**, et sa proportion n'est pas etablie.
+
+**⚠️ Second temps tente et NEGATIF** — la recherche restreinte a `lamiver.com` ne rend aucune page.
+**Et la lecon Lahey interdit d'en conclure quoi que ce soit** : le domaine vient d'un annuaire, donc
+un negatif dit que le domaine est peut-etre faux. **Fiche telephonique, et c'est un verdict.**
+
+**Elle vient du RANG 4 de la liste ordonnee ecrite il y a une heure**, et c'est la premiere fois que
+cette liste sert. ⚠️ **Et elle a au passage montre une limite du classement : le rang 3,
+*Vidracaria Marinho*, porte le mot VIDRACARIA — donc la classe verrier + pose a ZERO pour cent** que
+le verdict Mais Vidros Salvador a etablie ce matin. **Le classement lit le champ activite, pas le
+nom** : a corriger a l'oeil avant de depenser l'appel.
