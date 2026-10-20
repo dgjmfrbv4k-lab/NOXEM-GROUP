@@ -9647,3 +9647,42 @@ depuis le 15/10**, sept sites float americains ; **OLDCASTLE BUILDINGENVELOPE es
 Cinq autres consignes.
 
 **Registre : 1958 fiches. 345 textes.**
+
+## 20/10 a 13h38 — la question de la couche trouve sa reponse americaine, et elle est defavorable
+
+**Recherches : 1. Envois confirmes : 0. Fiches creees : 0 — et c'est la bonne decision. Fiche
+enrichie : 1.**
+
+**`candidats-deverrouillage.py` passe AVANT d'ouvrir le lot, comme la regle du 13/10 l'impose :
+420 fiches a travailler, dont HUIT avec un site connu en tete** — ce sont les moins cheres, un seul
+appel restreint chacune. **ANTHONY INTERNATIONAL etait de loin la meilleure des huit**, et son siege
+etait justement la question laissee ouverte ce matin.
+
+**⚠️⚠️ ET LE SECOND TEMPS REPOND A LA QUESTION DE LA COUCHE POUR LES ETATS-UNIS — MAL POUR NOUS, MAIS
+IL VAUT MIEUX LE SAVOIR QUE DE LE DECOUVRIR APRES DIX FICHES.** Anthony est bien la couche
+**composant**, celle qui achete le verre, comme Refricomp au Bresil et ART Maslen en Australie.
+**Mais elle appartient a DOVER CORPORATION**, siege a Conyers en Georgie, **avec HILLPHOENIX dans le
+meme groupe** — et Hillphoenix est l'un des plus gros fabricants de **meubles** refrigeres des
+Etats-Unis. **Aux Etats-Unis, le fabricant de PORTES et le fabricant de MEUBLES sont donc la meme
+maison mere**, et l'approvisionnement est vraisemblablement centralise.
+**Consequence consignee pour que l'axe ne soit pas retravaille a l'aveugle aux Etats-Unis : la
+probabilite y est faible et la porte de sortie obligatoire.**
+
+**⚠️ ET LE SEUL ANGLE REEL DE LA FICHE EST UN FAIT INDUSTRIEL RECENT : la fabrication de portes et de
+cadres a ete DEPLACEE de Sylmar en Californie vers les operations verrieres de Dover Food Retail en
+Virginie.** Une operation verriere qu'on vient de regrouper est une operation dont les flux
+**se renegocient** — c'est le seul moment ou un second nom a une chance d'entrer. ⚠️ **Le communique
+n'est pas date dans ce que la recherche rend, donc l'etat du site de Sylmar n'est pas etabli et ne
+se cite pas.**
+
+**⚠️ ET LA QUESTION DU NOMBRE DE COMPTES EST POSEE ET NON TRANCHEE** — regle Extralum contre regle
+Saint Lu. Hillphoenix, Advansor et The AMS Group sont **tous absents** du registre et **aucune fiche
+n'est creee**. La question n'est pas *est-ce le meme groupe*, c'est **est-ce le meme bureau d'achat**.
+La presomption penche vers la centralisation, **mais ce n'est pas etabli**, et **un seul compte est
+la conduite prudente dans les deux cas**.
+
+**⚠️ Aucune adresse ni aucun telephone publies : formulaires uniquement. La fiche RESTE en
+`A QUALIFIER`** — le registre interdit `A APPELER` sans numero — et la prochaine action est de
+relever le standard de Conyers.
+
+**Registre : 1958 fiches.**
