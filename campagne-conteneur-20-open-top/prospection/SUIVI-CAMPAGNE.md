@@ -10431,3 +10431,43 @@ montre que le tableau des colonnes du paragraphe 13 sert tous les jours. Chez Gl
 donnee pour les NOUVEAUX CLIENTS — piege MunnWorks, colonne client — et `hector@` est donnee pour
 l EMPLOI sur une page et pour les services sur une autre, donc fonction non verifiee. Chez M and M
 Glass ce matin, la directrice MARKETING. **Aucune des trois n est pertinente pour les achats.**
+
+
+---
+
+## 20/10 — 14h54 · L AXE DU MIROIR CANADIEN, ET UN FAIT DOUANIER QUI TRANCHE LA QUESTION PRODIESA
+
+**Recherches : 2 appels. Deverrouillages : 2, plus une fiche enrichie sans appel. Fiches creees :
+0. Envois confirmes : 0 sur ce lot. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0.
+Registre a 1967 fiches, file a 105.**
+
+**AQUA MIRRORS** (Mississauga) est la bonne prise, et ce qu elle apporte depasse l adresse.
+Miroirs decoratifs et LED pour l HOTELLERIE, plus de 300 chantiers nord-americains.
+**⚠️⚠️ ET LE FAIT DOUANIER TRANCHE LA QUESTION PRODIESA, CE QUI EST RARE :** la base des
+importateurs canadiens les donne importatrices de **MIROIR NON ENCADRE**. Or **un argenteur importe
+du float NU, pas du miroir**. Donc ils achetent la feuille deja argentee — **notre miroir sans
+cuivre ni plomb leur est OFFRABLE**, et d autant plus que leur marche est l hotellerie, c est-a-dire
+la salle de bain et l humidite, qui est exactement l argument de cette reference. Meme raisonnement
+que sur Verrage ce matin.
+**⚠️ UN COURTIER INTERDIT EST REMONTE DANS LE MEME RELEVE, `importkey.com`, ET RIEN NE LUI A ETE
+PRIS.** Le fait d importation vient de la base d Etat et de nulle part ailleurs. **Et il donnait la
+MAUVAISE adresse** — celle d un ancien site, quand leur propre page en publie une autre. Deuxieme
+demonstration en deux jours, apres les numeros faux d informacolombia le 19/10, qu un vendeur de
+donnees ne verifie pas ce qu il vend.
+
+**MIROR WORKS** (Ottawa) deverrouillee aussi, et son verdict est honnete : trente ans de metier,
+mais miroirs sur mesure, parois de douche et garde-corps, **zone de service Ottawa et environs**.
+Classe verrier plus pose, zero pour cent. **Le fait douanier la garde ouverte** — elle dedouane du
+miroir non encadre, ce qu un poseur ordinaire ne fait pas — **mais une zone d une seule ville borne
+le volume**, et elle passe apres tout le reste.
+**⚠️ Deux dirigeants nommes et NON retenus**, president et vice-president, donnes par un annuaire de
+notation. La fonction serait pertinente, **mais elle vient d un tiers et non de la societe**, et le
+paragraphe 5 exige une fonction VERIFIEE.
+
+**ET UNE FICHE ENRICHIE A ZERO APPEL, par le consignement du paragraphe 13 :** le meme releve a
+rendu **ADRIATIC GLASS AND MIRRORS** (Concord, 1969, float et miroir), deja au registre en
+`A APPELER` sans rien. Elle a desormais son **domaine, son adresse et son telephone**, donc elle
+entre dans le gisement a **UN SEUL appel** au lieu de deux.
+**⚠️ Et trois fiches du registre sont maintenant a CONCORD** — Adriatic, Universal Glass Tech et
+Toro Glasswall, les deux dernieres nees du recensement douanier ce jour. Aucun lien etabli, le
+paragraphe 12 tranche sur le siege et non sur la rue.
