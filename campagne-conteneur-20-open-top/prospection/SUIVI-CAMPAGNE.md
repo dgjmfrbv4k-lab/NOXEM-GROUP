@@ -10076,3 +10076,70 @@ champ activite n'a jamais ete etabli.** On lit sa note avant de depenser l'appel
 **Troisieme correctif rejete sur mesure**, apres celui des initiales — 29 faux positifs — et le
 motif *aucune ligne float* — 8 faux positifs. **Le rejet est consigne dans le code lui-meme**, pour
 qu'une session future ne reessaie pas la meme bonne idee.
+
+
+---
+
+## 20/10 — 14h24 · LE NORDESTE BRESILIEN ET L AXE DES INDUSTRIES EN COUCHES
+
+**Recherches : 9 appels. Envois confirmes : 0 sur ce lot — 19 pour la journee, tous ce matin en
+Scandinavie. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0.**
+**Registre a 1961 fiches. File d envoi a 100. Textes a 337.**
+
+**TROIS FICHES NEUVES, DEUX DEVERROUILLAGES, QUATRE VERDICTS NEGATIFS CONSIGNES.**
+
+**Les deux deverrouillages.** **Sergipe Vidros** — et son second temps corrige DEUX champs en plus de
+rendre l adresse : le siege est a **Lagarto** et non a Aracaju, et leur propre page dit qu ils
+**fabriquent** le trempe, ce que le code d activite seul ne disait pas. Trempeur **et** comercio
+atacadista : les deux meilleures classes du paragraphe 6 reunies sur une fiche.
+**Marvite Maranhao** — creee et deverrouillee dans le meme appel, la plus grande usine de trempe de
+son Etat **et associee d ABRAVIDRO**. **Troisieme nom de ce gisement absent du registre** apres
+Pestana Vidros et Sao Cristovao Temper, ce qui confirme une troisieme fois la correction du 19/10 :
+la mesure du 16/10 qui le donnait pour pris portait sur une **tranche de l alphabet**.
+**Et elle n a rien coute** : son nom etait consigne dans la note de Marvidros avant d etre travaille.
+
+**UN PIEGE DE NOM QUI AURAIT COUTE UN ENVOI A LA MAUVAISE MAISON.** Le seul domaine *marvidros* du
+Bresil, `marvidros-al.com.br`, appartient a une **autre societe, a Maceio en Alagoas** — le suffixe
+`-AL` est le code de l Etat. La porter au champ site de la fiche de Sao Luis aurait ete la faute
+Glass Market. Celle de Maceio est ecartee sur son metier et le verdict est consigne.
+**Et Vidracaria Marinho rend l inverse d un piege** : sa raison sociale legale complete est
+*Vidracaria Marinho **DISTRIBUIDORA** de Vidros Planos e Temperados*. Le cas CSVM dans l autre sens,
+pour la deuxieme fois — le mot annoncait la pire classe, le nom legal dit le negoce.
+
+**L AXE DES INDUSTRIES QUI NE S APPELLENT PAS VERRE A RENDU DEUX CHOSES, ET LA SECONDE VAUT MIEUX
+QUE LA PREMIERE.** La requete portait sur les fabricants bresiliens de portes de vitrine refrigeree.
+Elle a rendu **Temperex Vidros** (Paulo Lopes, SC), qui fabrique des verres courbes et plats pour la
+refrigeration — fiche creee, formulaire uniquement, verdict consigne.
+**Mais elle a surtout qualifie une fiche DEJA au registre : ROHDEN VIDROS se declare la premiere
+industrie bresilienne a tremper le PLANITHERM ONE II.** Planitherm est la marque de couche a faible
+emissivite de **Saint-Gobain**. Une marque dans une **gamme** dit qu on **achete** : leur substrat
+low-E vient de Saint-Gobain et nous savons contre qui nous nous placons. **Un appel qui ne rend pas
+d adresse peut rendre le fournisseur**, ce qui vaut davantage.
+
+**TAUX DE RECOUVREMENT DU LOT : 5 noms sur 9 deja au registre.** C est le **bon** signe, et la regle
+est ecrite depuis le 19/10 — une requete dont la majorite des resultats sont deja des fiches a nous
+vise la population que des semaines de tri a la main ont deja selectionnee.
+
+**UNE FICHE CREEE AVEC SON VERDICT DEFAVORABLE PLUTOT QUE SANS.** *A Cutting Edge* (Las Vegas) est
+deverrouillee et elle est de la classe **verrier + pose, zero pour cent**. Son seul signal d entree
+est du float recuit en stock **a l echelle d un plateau de table** — la lecon Valleywide. Elle est
+creee quand meme, l appel etant depense, et elle passe apres tout le Nevada.
+
+**DEUX FAUTES DE MA PART, CONSIGNEES AU TITRE DU PARAGRAPHE 16.**
+**Un, une annotation fausse sur le texte 336** : j avais ecrit que le mot *preco* n apparaissait pas
+dans le corps. Il y apparait deux fois, dans la phrase qui dit justement qu on n annonce pas de prix.
+La phrase est conforme, l annotation ne l etait pas, et **c est `verif-texte.py` qui l a vu, pas
+moi**. Troisieme fois apres les textes 321 et 327, et toujours la meme faute : affirmer avant d avoir
+lu.
+**Deux, un douzieme point-virgule de prose** dans une note — *hors perimetre **;** GLASSPRO TAMPA*.
+L assert amont a nomme la cle ET le champ, rien n a ete ecrit, et la reecriture a coute dix secondes.
+**Le remede du 14/10 fonctionne, c est la plume qui ne suit pas.**
+
+**ET UNE DECOUVERTE QUI NE VIENT PAS DE LA PROSPECTION, PORTEE AU POINT 14 DE `DECISIONS-AARON.md` :
+LA TACHE AUTOMATIQUE DE 8h22 NE STOCKE AUCUN CONNECTEUR.** Celle de la campagne inloader en stocke
+sept, dont Gmail. Les deux ont ete creees le meme soir a quinze minutes d intervalle. Et ce matin la
+tache inloader a tourne **treize minutes et demie** quand la tache conteneur a tourne **trente-huit
+secondes**. **Je ne peux pas prouver d ici qu elle n a rien envoye** — 19 premiers contacts sont
+bien partis aujourd hui — mais trente-huit secondes pour un tour complet est invraisemblable.
+**La seule facon d y attacher Gmail est de la supprimer et de la recreer, ce qui efface son
+historique : c est au paragraphe 11, donc a Kevin.** Verification gratuite demain a 9h.

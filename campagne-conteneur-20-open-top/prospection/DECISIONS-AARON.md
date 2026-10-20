@@ -20,6 +20,7 @@ VOUS avez a faire et combien de temps cela vous prend.** Le detail est dans la s
 | 11 | 🟡 **LE MIROIR** — notre produit le plus differenciant, **et il ne l est peut-etre plus** | Qu est-ce qui distingue **reellement** notre miroir ? | 5 min | ce jour |
 | 12 | 🟡 **QUATRE QUESTIONS TECHNIQUES** — PLF 6000 x 3210, autoclave, EUR.1, groupage | Ce que **NOS usines** font | — | jusqu a 12 j |
 | 13 | ⚪ **DEUX FERMETURES QUE JE RECOMMANDE** | **Alanees** (Yemen, risque de guerre) et **City Glass** (Zimbabwe, faute du 13/10) | 1 min | — |
+| 14 | 🟠 **LA TACHE AUTOMATIQUE DE 8h22 N A PEUT-ETRE PAS DE QUOI ENVOYER** | Me dire si je la **recree avec le connecteur Gmail** — elle perdrait son historique de runs | 1 min | ce jour |
 
 **⚠️ ET LE POINT 1 EST LE PLUS URGENT DE TOUS POUR UNE RAISON QUI N EST PAS SA TAILLE : c est la
 SEULE chose de cette campagne qui soit venue a nous sans un envoi, et elle a neuf jours.** Elle
@@ -29,6 +30,34 @@ avait de plus **disparu de ce fichier** entre-temps, ce que je signale au titre 
 sont couvertes par votre accord permanent du 19/10 sur les premiers contacts a des prospects
 NEUFS.** Elles partent au rythme de 15 a 20 par jour sans rien vous demander. **Seuls les
 RELANCES et les REPONSES ont besoin de votre mot**, et ce sont les trois du point 6.
+
+**⚠️ ET LE POINT 14 EST A LIRE AUJOURD HUI PARCE QU IL PORTE SUR DEMAIN MATIN, et je dis d abord
+ce qui est ETABLI et ce qui ne l est pas, parce que la difference compte.**
+
+**CE QUI EST ETABLI, et c est verifiable :** la tache automatique que vous avez demandee le 19/10 a
+23h30 existe, elle est active, elle tire du lundi au vendredi a 8h22 heure de Paris, et sa prochaine
+execution est demain matin. **Mais elle ne stocke AUCUN connecteur** — la liste de ses connecteurs
+est vide. **La tache de prospection inloader, elle, en stocke sept, dont Gmail.** Les deux ont ete
+creees le meme soir, a quinze minutes d intervalle, et une seule porte Gmail.
+
+**ET LE SECOND FAIT VA DANS LE MEME SENS :** la tache inloader a tourne ce matin pendant **treize
+minutes et demie**. La tache conteneur a tourne **trente-huit secondes**. Les deux sont rapportees
+comme ayant reussi.
+
+**CE QUI N EST PAS ETABLI, et il faut le dire :** je ne peux pas prouver depuis ici qu elle n a rien
+envoye. **Dix-neuf premiers contacts sont bien partis aujourd hui** — toute la Scandinavie, et ils
+sont au registre avec leur horodatage. Je ne peux simplement pas dire s ils sont partis de la tache
+automatique ou de ma session de travail. **Trente-huit secondes pour un tour de prospection complet
+est neanmoins invraisemblable.**
+
+**CE QUE JE RECOMMANDE, ET POURQUOI JE NE L AI PAS FAIT SEUL :** la seule facon d attacher Gmail a
+une tache existante est de la **supprimer et de la recreer**, ce qui **efface son historique
+d executions**. C est une action irreversible sur quelque chose que vous avez demande vous-meme, donc
+elle releve du paragraphe 11 et elle vous revient. **Un mot de vous et je la recree a l identique,
+avec le connecteur.**
+
+**Et la verification qui ne coute rien : demain a 9h je regarde si des envois conteneur sont partis
+entre 8h22 et 9h.** S il n y en a aucun, la reponse est tranchee sans vous.
 
 ---
 
