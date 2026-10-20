@@ -3885,6 +3885,35 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   interdisent d'en essayer une troisième** sur ce domaine — c'est un blocage de maison, pas une boîte
   morte. La fiche part au téléphone, ce que la règle des deux échecs du §13 imposait déjà.
 
+  **⚠️⚠️ ET LE 20/10 À 08h53 LA MÊME SIGNATURE REVIENT, SUR UN AUTRE CONTINENT ET CHEZ UN AUTRE
+  LOCATAIRE, ET ELLE AJOUTE LA CAUSE QUE LE CAS MUNNWORKS NE DONNAIT PAS : LA BOÎTE ÉTAIT
+  `postmaster@`.** `postmaster@vgi.no` — **Vikeså Glassindustri**, Norvège — a rendu **`550 5.4.1
+  Recipient address rejected: Access denied`** depuis `vgi-no.mail.protection.outlook.com`, donc
+  **Exchange Online**, **cinq secondes** après l'envoi. Diagnostic lu en entier, comme le §13
+  l'impose : le refus vient du **MX du destinataire**, ce n'est **pas** un `5.7.1`, **la règle
+  d'arrêt du §10 ne se déclenche pas**, et l'envoi **ne compte pas**.
+  **CE QUI EST NEUF, ET C'EST UNE RÈGLE DE CHOIX DE BOÎTE ET NON DE DIAGNOSTIC : `postmaster@` N'EST
+  PAS UNE BOÎTE COMMERCIALE, C'EST UNE BOÎTE TECHNIQUE IMPOSÉE PAR LES NORMES DU COURRIER.** Tout
+  domaine doit en publier une ; elle sert aux rapports d'incident, pas aux clients. Un locataire
+  Exchange Online la ferme couramment à l'extérieur, et c'est très probablement ce qui s'est passé
+  ici.
+  **À AJOUTER AU TABLEAU DES BOÎTES DU §13, dans une TROISIÈME colonne qui n'existait pas — ni
+  acheteur, ni client, mais TECHNIQUE, et à n'employer qu'en dernier recours en sachant que le refus
+  est probable :** `postmaster`, `hostmaster`, `webmaster`, `abuse`, `noreply`, `no-reply`,
+  `admin`, `root`.
+  **Et le cas montre aussi la limite de ce qu'une page peut dire :** la page de contact de vgi.no ne
+  publie que **deux** boîtes, `postmaster@` et `tilbud@` — *tilbud* veut dire **devis**, donc la
+  colonne CLIENT. La fiche avait choisi `postmaster@` précisément pour éviter la colonne client, et
+  c'était le meilleur raisonnement possible **depuis la page**. Il faut l'inverser : **entre une
+  boîte technique et une boîte client, on prend la boîte CLIENT et on demande la transmission** —
+  une boîte client est relevée par un humain, une boîte technique ne l'est pas forcément et peut
+  être fermée de l'extérieur.
+  **Conduite appliquée le jour même, précédents MunnWorks et Caribbean Glass :** le **même** texte
+  est reparti vers `tilbud@vgi.no`, avec une première ligne disant que le premier envoi a été refusé
+  au serveur. **Le message n'ayant pas été reçu, ce n'est pas un second message et ce n'est pas la
+  faute Shibaam.** Et la limite est posée d'avance : **un second `5.4.1` sur ce domaine serait un
+  blocage de locataire et interdirait une troisième boîte** — la fiche irait au téléphone.
+
   **SIXIÈME SIGNATURE, TROUVÉE LE 12/10 À 13h38, ET C'EST LA SEULE DES SIX QU'AUCUN CODE SMTP NE
   SIGNALE : LA BOÎTE ACCEPTE, PUIS PRÉVIENT QU'ELLE N'EST PLUS RELEVÉE.** Cas réel : **Caribbean Glass
   Co Ltd** (Jamaïque). La seconde relance part à 13h11 vers `caribbeanglasscoltd@gmail.com`, le serveur
