@@ -129,3 +129,58 @@ en majorite de la classe aluminium** — a lire avant de s y lancer.
 
 **Registre a 1869 fiches au moment de cette regeneration. AUCUN ENVOI N A ETE FAIT le 19/10 : la
 file attend l accord expres de Kevin, message par message.**
+
+
+---
+
+# 🎯 OU DEPENSER LES APPELS DE DEMAIN — liste refaite a 14h06
+
+**⚠️⚠️ ET LA FACON DONT CETTE LISTE EST CONSTRUITE EST LA MOITIE DE SA VALEUR, parce que je me suis
+trompe une heure plus tot en la faisant autrement. ELLE TRIE LA SORTIE DE
+`candidats-deverrouillage.py`, ELLE NE REFAIT PAS SON FILTRAGE.** Mon premier essai etait une regex
+maison qui rendait **Brocanelli** — c est-a-dire exactement la fiche qui avait coute un appel le
+15/10 — alors que le script, lui, l excluait deja. **Quand un script produit une liste, on trie SA
+SORTIE.**
+
+**LE CONTEXTE QUI REND CETTE LISTE NECESSAIRE AUJOURD HUI : le gisement a UN appel est epuise.**
+Les huit fiches a site connu ont toutes ete traitees ce jour. **Les 412 restantes coutent DEUX
+appels chacune** — la methode en deux temps du paragraphe 13 — **donc l ordre compte desormais.**
+
+**LE TRI :** classe de metier d abord, marche ensuite, **plus 3 points si un site est deja connu et
+1 si un telephone l est**, puisque ces deux-la reduisent le cout.
+⚠️ **Honnetement : 395 des 412 fiches ont pu etre relues et classees automatiquement**, les 17 autres
+ayant un nom ou un site trop long pour le format de sortie du script. **Elles ne sont pas perdues,
+elles ne sont simplement pas classees ici.** ⚠️ Et j avais d abord ecrit **397**, chiffre tape de
+memoire entre deux executions : **corrige par substitution avant le commit**, parce que le
+paragraphe 13 interdit de taper un comptage a la main et que c est la faute du jour.
+
+| # | Pays | Societe | Site | Motifs |
+|---|---|---|---|---|
+| 1 | Brésil | **Distribuidora Tec Vidros** | — | verrier · tel |
+| 2 | Brésil | **Sergipe Vidros** | — | verrier · tel |
+| 3 | Brésil | **Vidraçaria Marinho** | — | verrier · tel |
+| 4 | Canada | **Lamiver** | — | verrier · tel |
+| 5 | Australie | **Glass Market Vic Pty Ltd** | — | verrier |
+| 6 | Australie | **Glass Surface Coatings WA** | — | verrier |
+| 7 | Brésil | **Marvidros** | — | negoce · tel |
+| 8 | Brésil | **Maxx Distribuidora de Vidros** | — | verrier |
+| 9 | Brésil | **Raiol Vidros Ltda** | — | verrier |
+| 10 | Brésil | **TVT Vidros Temperados** | — | verrier |
+| 11 | Brésil | **Tempermat** | — | verrier |
+| 12 | Brésil | **Vidrosistemas** | — | verrier |
+| 13 | Canada | **Aqua Mirrors** | — | verrier |
+| 14 | Canada | **Mirror Works** | — | verrier |
+| 15 | États-Unis | **Bent Glass Design Inc.** | — | verrier |
+| 16 | États-Unis | **Gardner Glass Products Denver** | — | verrier |
+| 17 | États-Unis | **GlassTemp Inc.** | — | verrier |
+| 18 | États-Unis | **Innovative Glass Corp** | — | verrier |
+| 19 | États-Unis | **M and M Glass Company** | — | verrier |
+| 20 | États-Unis | **NY Tempering** | — | verrier |
+
+**⚠️ ET CE QUE CETTE LISTE NE DIT PAS, parce qu elle ne peut pas : elle ordonne, elle ne qualifie
+pas.** Chaque nom garde son second temps, et le premier geste reste **le `grep-nom.py` sur le
+RADICAL COURT** — la lecon Vitrum du jour, ou le nom d une source n etait pas celui de la societe.
+
+**⚠️ RAPPEL DE BUDGET : la methode en deux temps coute DEUX appels par fiche, parfois trois.** Le
+plafond de la session est de 200 appels par tour, soit **70 a 90 fiches** au maximum, et il se
+partage avec la decouverte. **Vingt fiches de cette liste, c est une quarantaine d appels.**
