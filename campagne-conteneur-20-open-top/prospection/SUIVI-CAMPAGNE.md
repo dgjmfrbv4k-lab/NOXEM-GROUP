@@ -8757,3 +8757,44 @@ depenser l appel**, et il a paye le jour meme : **Verrage Glass and Mirror a ete
 au seul vu de son nom**, *Glass and Mirror* etant l archetype du verrier plus pose nord-americain.
 
 **Controles : 0 ligne malformee, 8 groupes au balayage, 0 fiche `A APPELER` sans telephone.**
+
+---
+
+### 20/10 — 11h50 · l axe des portes tranche en deux, et le test d echelle se valide sur quatre cas
+
+**Les cinq chiffres du paragraphe 3 :** recherches **2** · envois confirmes **20 sur la journee,
+0 dans ce bloc** · reponses qualifiees **0** · demandes de devis **0** · commandes **0**.
+**Textes : 322.**
+
+**DEUX APPELS, DEUX VERDICTS OPPOSES, ET C EST LE TEST D ECHELLE ECRIT CE MATIN QUI LES SEPARE.**
+
+**⚠️⚠️ ENERGY DOOR COMPANY — MEILLEURE PRISE DE LA MATINEE, ET LE PAYS ETAIT FAUX.** La fiche etait
+classee aux **Etats-Unis, ville a etablir**. Elle est **CANADIENNE** : siege a L Assomption au
+Quebec, avec des operations a **Montreal et a Irving au Texas**. Lecon Arquetipo — un fait de
+localisation lu ailleurs que sur le domaine de la societe n est pas un fait. **Corrige.**
+Fabricant **en serie** de portes vitrees refrigerees : quatre gammes reach-in, trois de
+pass-through, des coulissantes automatiques, plus son eclairage LED et ses etageres. **Deux usines,
+aucun rayon de pose : le test d echelle passe largement.**
+**Pourquoi le profil d achat est excellent** — une porte de vitrine refrigeree est un vitrage
+isolant a couche, double ou triple, souvent chauffant, et **une ligne de serie fabrique la meme
+cote pendant des annees**. C est l unite naturelle du conteneur. **Et ils produisent des deux cotes
+de la frontiere, donc DEUX angles douaniers** : au Canada l absence de ligne float, au Texas les
+ordres du 06/04/2026. **Texte 322 ecrit, en francais.**
+⚠️ **Leur rang de *second fabricant d Amerique du Nord* est une autodescription et le texte ne le
+reprend pas** — on s appuie sur les deux usines, verifiables, jamais sur le classement.
+
+**AMERIDOOR USA — FERMEE, et elle cochait pourtant l axe a la lettre.** Enseigne *Walk In Cooler
+and Freezer Glass Doors*, premier item de la liste du paragraphe 6. Et tout le reste dit le
+contraire : **etablie en 2020**, site en **boutique en ligne**, pour seule adresse une **suite** du
+Missouri citee dans la politique de confidentialite, et surtout **un delai publie de 30 a 45 jours
+sur un panneau standard** — qui est un delai d import et de revente, pas de production.
+
+**⚠️⚠️ ET LE TEST D ECHELLE EST DESORMAIS VALIDE SUR QUATRE CAS, DANS LES DEUX SENS : il les predit
+tous les quatre.** Perficom et Energy Door du bon cote — cadence, parc machine, deux usines ; Raves
+et AmeriDoor du mauvais — rayon de pose, salle d exposition, boutique en ligne. **Et le DELAI
+PUBLIE est ajoute au test comme le signal le moins falsifiable des quatre** : une ligne de serie
+annonce des jours, un revendeur annonce des semaines.
+
+**Controles : 0 ligne malformee, 0 a corriger sur 288 textes.** L annotation *aucun prix annonce*
+du texte 322 a ete **verifiee par relevé du corps et non de memoire** — un seul *prix*, celui de
+l ouverture imposee du paragraphe 9.

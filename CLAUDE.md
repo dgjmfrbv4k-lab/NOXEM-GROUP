@@ -2172,6 +2172,26 @@ du **composant fini**.
 **C'est mot pour mot la leçon Valleywide du §6 transposée**, celle du format d'entrée de 48 × 60
 pouces qui satisfaisait le critère et restait le cinquième d'un jumbo : **de quel côté de l'atelier,
 ET à quelle échelle.** Les deux questions, toujours, et la seconde est celle qu'on oublie.
+**⚠️⚠️ ET LE TEST A ÉTÉ VALIDÉ DANS L'HEURE QUI A SUIVI, SUR QUATRE CAS ET DANS LES DEUX SENS —
+IL LES PRÉDIT TOUS LES QUATRE, ce qui est plus que ce qu'on peut demander à une heuristique écrite
+le matin même.**
+· **PERFICOM** (Querétaro) — *deux des plus grosses machines de trempe du Mexique*, *plus de 2000
+  portes par jour*. **Cadence + parc machine → ligne de série. BONNE.**
+· **ENERGY DOOR COMPANY** (L'Assomption, Québec) — **deux usines**, Montréal et Irving au Texas,
+  **sept gammes** de portes réfrigérées, plus son propre éclairage LED et ses étagères. Aucun rayon
+  de pose, aucune salle d'exposition. **Couverture continentale → ligne de série. BONNE**, et c'est
+  la meilleure fiche de la matinée.
+· **RAVES COOLER DOORS** (Michigan) — **pose dans le sud-est du Michigan**, oriente ailleurs vers un
+  **poseur agréé**, salle d'exposition. **Assembleur régional. ÉCARTÉE.**
+· **AMERIDOOR USA** — enseigne *Walk In Cooler and Freezer Glass Doors*, donc le premier item de la
+  liste coché à la lettre. Et : **société établie en 2020**, site en **boutique en ligne**, pour
+  seule adresse une **suite** du Missouri donnée dans la politique de confidentialité, et surtout
+  **un délai publié de 30 à 45 jours sur un panneau standard** — qui est un délai d'**import et de
+  revente**, pas de production. **Revendeur. FERMÉE.**
+**LE DÉLAI PUBLIÉ EST À AJOUTER AU TEST, parce qu'il est le signal le moins falsifiable des
+quatre :** une ligne de série annonce des jours, un revendeur annonce des semaines. Six semaines sur
+un article standard veut dire qu'il traverse un océan avant d'arriver chez lui — **ce qui en fait
+d'ailleurs un concurrent potentiel plutôt qu'un client**, exactement comme Glass Overseas au §6.
 **⚠⚠ ET UNE HUITIEME INDUSTRIE, AJOUTEE LE 19/10 AU SOIR, QUI SE CHERCHE DANS UNE SOURCE QU'AUCUNE
 AUTRE REGLE DE CE MANDAT N'EMPLOIE : LE RAYON VERRE ET MIROIR D'UNE CHAINE DE BRICOLAGE.**
 Cas **GARDNER GLASS PRODUCTS**, ex *Gardner Mirror Corporation*, siege a North Wilkesboro en Caroline

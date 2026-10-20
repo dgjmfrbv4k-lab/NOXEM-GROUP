@@ -23070,3 +23070,126 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 322. Energy Door Company (L Assomption, Quebec, Canada) — `sales@energydoorco.com` — FRANCAIS — premier contact
+
+**Redige le 20/10 a 11h49. Non envoye — bande du paragraphe 10 atteinte pour la journee. Couvert par
+l accord de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS.**
+
+- **⚠️⚠️ MEILLEURE FICHE DE LA MATINEE, ET ELLE VIENT DE L AXE DES INDUSTRIES CONSOMMATRICES DU §6
+  — celui dont le metier declare n est pas *verre*.** Fabricant **en serie** de portes vitrees
+  refrigerees : quatre gammes reach-in, trois gammes pass-through, portes coulissantes
+  automatiques, plus eclairage LED et etageres en propre. **Deux implantations industrielles,
+  Montreal et Irving au Texas.**
+- **LE TEST D ECHELLE AJOUTE AU §6 CE MATIN EST PASSE, et c est lui qui separe cette fiche de
+  Raves Cooler Doors, ecartee une heure plus tot :** deux usines, sept gammes, aucune mention de
+  rayon de pose, de salle d exposition ni de reseau d installateurs agrees.
+- **⚠️ LEUR RANG EST UNE AUTODESCRIPTION ET LE TEXTE NE LE REPREND PAS.** Ils se disent *second
+  fabricant de portes refrigerees d Amerique du Nord* et aucune source tierce ne le confirme. **Le
+  message s appuie sur les deux usines et les gammes, qui sont verifiables, jamais sur le
+  classement** — reprendre la vitrine d un client est une flatterie, pas un argument.
+- **L ACCROCHE EST LA REPETITION DES COTES, et c est un fait de procede :** une porte de vitrine
+  refrigeree est un vitrage isolant a couche, double ou triple, souvent chauffant, **et une ligne
+  de serie fabrique la meme cote pendant des annees**. C est exactement ce qu un conteneur sert
+  bien et qu une commande au coup par coup sert mal — le §6 le dit en comparant la ligne de serie
+  au facadier.
+- **⚠️ DEUX ANGLES DOUANIERS AU LIEU D UN, PARCE QU ILS PRODUISENT DES DEUX COTES DE LA
+  FRONTIERE**, et les deux sont donnes comme des **faits** : au Canada, plus de ligne float et
+  environ 90 pour cent du verre venu d un seul pays voisin — **le float n est PAS sur les listes
+  de riposte et le texte ne dit nulle part qu il est taxe** ; au Texas, les ordres americains du
+  06/04/2026, **l Europe visee par aucun**.
+- **⚠️ Le texte n ecrit NULLE PART qu il n y a pas de production locale aux Etats-Unis** — Vitro et
+  les sept sites de Cardinal. **Au Canada l absence de ligne float est VRAIE** et sert sans
+  millesime.
+- **AUCUN PRIX ANNONCE** : le mot *prix* n apparait que dans l ouverture imposee du §9, ou il sert
+  a refuser d en demander un. **Verifie par relevé du corps.**
+- **Regle Prodiesa : portes, unites isolantes, eclairage et etageres SORTENT de l offre.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port Montreal.
+
+**Objet :** `Le verre a couche d une porte qu on fabrique mille fois`
+
+```
+Bonjour,
+
+Je m appelle Aaron Harfi et je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat etabli pres de Lyon, en France. Ceci est une offre de fourniture et
+non une demande de prix. Si vous n etes pas la personne qui achete le verre, je
+vous serais reconnaissant de transmettre.
+
+Je vous ecris parce que vous fabriquez en serie, et c est plus rare qu il n y
+parait dans ce metier. Vous produisez quatre gammes de portes reach-in, trois de
+pass-through et des coulissantes automatiques, depuis deux usines, a Montreal et
+a Irving. La plupart des maisons a qui j ecris achetent au chantier, en cotes
+qui changent a chaque commande. Vous, non : une ligne de serie fabrique la meme
+cote pendant des annees.
+
+C est pour cela que je vous ecris plutot qu a un poseur. Un approvisionnement
+par conteneur n a de sens que pour un acheteur dont les references se repetent,
+et c est exactement votre cas.
+
+Et ce que vous achetez est la partie la plus exigeante du verre plat. Une porte
+de vitrine refrigeree est un vitrage isolant a couche, double ou triple, souvent
+chauffant. Le verre a couche est ce qui fait sa performance, et la constance
+d une livraison a l autre est ce qui fait qu une porte montee en janvier
+ressemble a une porte montee en juin.
+
+Deux choses de contexte, que je donne comme des faits et rien de plus.
+
+Au Canada, il n y a plus de ligne float. Chaque feuille que vous montez a ete
+importee par quelqu un, et pres de neuf dixiemes du verre utilise par les
+fabricants canadiens vient d un seul pays voisin. Le verre plat ne figure pas
+sur les listes de represailles et je ne vais pas pretendre le contraire. Le
+point est plus etroit : un fabricant qui tire neuf dixiemes de sa matiere d une
+seule frontiere a interet a connaitre une seconde origine avant d en avoir
+besoin.
+
+Au Texas, c est l autre sens. Depuis le 6 avril 2026, les Etats-Unis appliquent
+des ordres antidumping et compensateurs sur le verre float : 181,52 pour cent
+d antidumping pour l entite chinoise nationale, plus des droits compensateurs,
+et pour la Malaisie des droits compensateurs de 17,3 a 102 pour cent selon
+l exportateur. Le verre europeen n est vise par aucun de ces ordres. Cela ne dit
+rien de nos propres chiffres, que je ne suis pas en mesure de vous avancer avant
+validation de notre cote. Cela dit seulement quelles origines restent dans la
+comparaison.
+
+Je ne vous propose ni portes, ni unites scellees, ni eclairage, ni etageres.
+C est votre metier sur sept gammes. Je vous propose ce qui entre :
+
+- verre a faible emissivite, le low-E, celui qui fait la performance de la porte
+  https://noxemgroup.com/service/verre-a-faible-emissivite/
+- float clair et extra-clair, la base de la gamme
+  https://noxemgroup.com/en/float-glass/
+- et la gamme complete, si c est plus simple a voir d un bloc
+  https://noxemgroup.com/en/catalog/
+
+Nous expedions en CONTENEURS COMPLETS, en caisses bois traitees NIMP-15, soit a
+VOS cotes, soit en jumbo standard de 3210 x 2550 mm, la longueur etant coupee a
+la demande. Pour une ligne de serie, la coupe a vos cotes est en general ce qui
+simplifie le plus. Nous pouvons etablir une offre pour la livraison a votre port
+de destination, sous reserve de validation de notre cote — Montreal, je suppose,
+mais dites-le moi.
+
+Ce dont j ai besoin en retour est court. Quelles couches vous travaillez et quel
+volume de verre couche par an, approximativement. Quelles cotes se repetent
+assez pour valoir une coupe a la demande. Si Montreal et Irving achetent
+ensemble ou chacun pour soi — cela change tout ce que je peux proposer. Et le
+port.
+
+Et la partie honnete. Un fabricant qui monte sept gammes a son approvisionnement
+organise depuis longtemps et ne le reorganise pas sur un premier courriel. Ce
+n est pas ce que je demande. Je demande a etre un second nom qualifie, pret pour
+le trimestre ou le premier sera court. S il n y a pas de place pour cela,
+dites-le franchement et je n insisterai pas.
+
+Cordialement,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
