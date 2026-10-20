@@ -2880,6 +2880,29 @@ l'activité du prospect et dire en une ligne pourquoi.
 | Verre trempé | `https://noxemgroup.com/en/tempered-glass/` · FR `…/service/verre-trempe/` | trempeurs, fabricants de garde-corps et de façade |
 | Low-E | `https://noxemgroup.com/en/low-e-glass-low-emissivity/` · FR `…/service/verre-a-faible-emissivite/` | fabricants de vitrage isolant, menuiserie, climats froids |
 | Miroir sans cuivre ni plomb | `https://noxemgroup.com/en/copper-and-lead-free-mirror/` · FR `…/service/miroir-sans-cuivre-ni-plomb/` | miroitiers, hôtellerie, salles de bain, climats humides et insulaires |
+
+**⚠️⚠️ RÉSERVE DE MARCHÉ SUR CETTE LIGNE-CI, TROUVÉE LE 20/10 ET ELLE TOUCHE 40 TEXTES : AU BRÉSIL,
+LE *COPPER-FREE* EST VRAISEMBLABLEMENT DÉJÀ LA NORME, DONC LA MOITIÉ DE NOTRE DIFFÉRENCIATION N'Y
+DIFFÉRENCIE PLUS RIEN.**
+Une recherche sur les lignes d'argenture brésiliennes rend deux faits concordants. Un, **le miroir
+brésilien est fait par les QUATRE producteurs float eux-mêmes** — AGC, Cebrace, Guardian, Vivix —
+et un distributeur du registre, **Cyberglass**, les nomme comme ses fournisseurs de substrat, en
+incolore, fumé, bronze et **extra-clair**. Deux, et c'est le point : **une revue professionnelle du
+secteur écrit que les fabricants brésiliens ont adopté le procédé *copper-free*.**
+**MESURE DE L'EXPOSITION : 167 textes de la campagne lient la page miroir, DONT 40 BRÉSILIENS.**
+**⚠️⚠️ MAIS LA DIFFÉRENCIATION N'EST PAS MORTE, ELLE SE DÉPLACE — ET C'EST LA DISTINCTION QUI COMPTE :
+notre produit est SANS CUIVRE **NI PLOMB**, et l'affirmation brésilienne ne porte QUE SUR LE CUIVRE.**
+Le *lead-free* est une seconde promesse, et une plus difficile : la peinture de dos européenne est
+sans plomb de longue date sous REACH, ce qui n'est pas le cas partout. **Donc au Brésil on
+n'argumente plus sur le cuivre — on argumente sur le PLOMB, ou sur rien.**
+**⚠️ ET CE N'EST PAS ÉTABLI : la source est une revue de filière, donc de second rang**, et le §6
+interdit d'affirmer un fait de marché sans avoir lu la source du pays. **Ce qui change tout de
+suite est l'ACCENT, pas l'offre** — lier la page reste permis, affirmer que le sans-cuivre nous
+distingue au Brésil ne l'est plus sans vérification.
+**ET LA RÈGLE GÉNÉRALE QUE CE CAS DONNE : un argument de DIFFÉRENCIATION se vérifie PAR MARCHÉ, pas
+une fois pour toutes.** Le §6 impose déjà de vérifier la production locale et les droits pays par
+pays ; **ce qui distingue notre produit se vérifie de la même façon**, et un différenciateur vrai
+en Colombie peut être la norme au Brésil.
 | Verre laqué | `https://noxemgroup.com/en/lacquered-glass/` | agencement, mobilier, crédences, back-painted |
 | Vitrage technique | `https://noxemgroup.com/en/technical-glazing/` | coupe-feu, anti-balle, projets spéciaux |
 | Double vitrage | FR `https://noxemgroup.com/service/double-vitrage/` | fabricants d'unités scellées |

@@ -9814,3 +9814,40 @@ dormir trois mois** — une troisieme lettre ne ferait qu'attirer l'attention su
 
 **Les 41 sont desormais groupees par QUESTION dans une seule section, avec une recommandation pour
 chacune.** Elles se tranchent en une passe.
+
+## 20/10 a 13h54 — chercher des argenteurs bresiliens, et trouver que notre meilleur argument y est peut-etre deja la norme
+
+**Recherches : 1. Envois confirmes : 0. Fiches creees : 0. Et la recherche a rendu bien mieux qu'une
+fiche.**
+
+**J'ai applique l'axe des PROCEDES au Bresil — `linha de espelhacao` — pour trouver des argenteurs,
+puisqu'un argenteur ne peut argenter que ce qu'il achete. La recherche n'a pas rendu d'argenteur
+independant. ELLE A RENDU DEUX FAITS QUI VALENT PLUS.**
+
+**UN : le miroir bresilien est fabrique par les QUATRE PRODUCTEURS FLOAT eux-memes** — AGC, Cebrace,
+Guardian, Vivix — et **Cyberglass, qui est au registre et au rang 4 de la liste d'appels, les nomme
+comme ses fournisseurs de substrat**, en incolore, fume, bronze et extra-clair. C'est la methode de
+la page fournisseurs qui paie une fois de plus.
+
+**DEUX, ET C'EST CELUI QUI COMPTE : une revue de filiere ecrit que les fabricants bresiliens ont
+adopte le procede COPPER-FREE.** Or **le miroir sans cuivre ni plomb est, au paragraphe 8, notre
+produit le plus differenciant.** ⚠️ **Mesure de l'exposition : 167 textes lient la page miroir, DONT
+40 BRESILIENS.**
+
+**⚠️⚠️ MAIS L'ARGUMENT NE MEURT PAS, IL SE DEPLACE, ET LA DISTINCTION EST TOUT : notre produit est
+sans cuivre NI PLOMB, et l'affirmation bresilienne ne porte QUE SUR LE CUIVRE.** Le sans-plomb est
+une seconde promesse et une plus rare. **Donc au Bresil on n'argumente plus sur le cuivre, on
+argumente sur le plomb — ou sur rien.**
+**⚠️ Et ce n'est PAS etabli : la source est une revue de filiere, donc de second rang**, et le
+paragraphe 6 interdit d'affirmer un fait de marche sans avoir lu la source du pays.
+
+**CE QUE JE FAIS SANS ATTENDRE** — aucun texte bresilien neuf ne presentera le sans-cuivre comme une
+singularite. **CE QUE JE NE FAIS PAS** : reecrire les 40, ni envoyer le moindre correctif sur ceux
+qui sont partis. **CE QUE JE DEMANDE A KEVIN** : notre miroir est-il garanti **sans plomb**, et
+peut-on l'ecrire.
+
+**ET LA REGLE GENERALE QUE CE CAS DONNE : un argument de DIFFERENCIATION se verifie PAR MARCHE, pas
+une fois pour toutes.** Le mandat impose deja de verifier la production locale et les droits pays par
+pays — ce qui distingue notre produit se verifie de la meme facon.
+
+**Registre : 1958 fiches.**

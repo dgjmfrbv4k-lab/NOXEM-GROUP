@@ -276,6 +276,39 @@ sur le nom — et je n ai pas acces au registre colombien.
 
 ---
 
+## 0 quater. 🟠 AJOUTE A 13h54 — NOTRE ARGUMENT MIROIR EST PEUT-ETRE DEJA LA NORME AU BRESIL, ET 40 TEXTES EN DEPENDENT
+
+**LE FAIT, ET IL EST DE SECOND RANG DONC JE NE L AFFIRME PAS.** Une recherche sur les lignes
+d argenture bresiliennes rend deux choses concordantes. Un, **le miroir bresilien est fabrique par
+les QUATRE producteurs float eux-memes** — AGC, Cebrace, Guardian, Vivix — et l un de nos propres
+prospects, **Cyberglass**, les nomme comme ses fournisseurs de substrat. Deux, **une revue de
+filiere ecrit que les fabricants bresiliens ont adopte le procede *copper-free*.**
+
+**L EXPOSITION, MESUREE : 167 textes de la campagne lient la page miroir, DONT 40 BRESILIENS.**
+
+**⚠️⚠️ MAIS L ARGUMENT NE MEURT PAS, IL SE DEPLACE, ET C EST LA DISTINCTION QUI COMPTE : notre
+produit est sans cuivre **NI PLOMB**, et l affirmation bresilienne ne porte QUE SUR LE CUIVRE.** Le
+*sans plomb* est une seconde promesse, et une plus rare : la peinture de dos europeenne est sans
+plomb de longue date, ce qui n est pas le cas partout. **Donc au Bresil on n argumente plus sur le
+cuivre — on argumente sur le PLOMB, ou sur rien.**
+
+**CE QUE JE VOUS DEMANDE, ET C EST UNE QUESTION A UNE LIGNE : notre miroir est-il garanti sans
+PLOMB, et pouvons-nous l ecrire ?** Le paragraphe 5 m interdit toute garantie technique non validee,
+donc je ne peux pas le dire a un client tant que vous ne l avez pas confirme — **et c est desormais
+la seule moitie de l argument qui vaille sur ce marche.**
+
+**CE QUE JE FAIS EN ATTENDANT, ET ce qui ne demande pas votre accord : je ne retire pas la page des
+textes** — elle reste une reference de gamme legitime — **mais aucun texte bresilien neuf ne
+presentera plus le sans-cuivre comme une singularite.** Les 40 deja ecrits ne se reecrivent pas, et
+**ceux qui sont deja partis ne se corrigent pas**, le paragraphe 5 interdisant l envoi correctif.
+
+**ET LA REGLE QUE CE CAS DONNE, au-dela du miroir : un argument de DIFFERENCIATION se verifie PAR
+MARCHE.** Le mandat impose deja de verifier la production locale et les droits pays par pays. **Ce
+qui distingue notre produit se verifie de la meme facon** — un differenciateur vrai en Colombie peut
+etre la norme au Bresil.
+
+---
+
 ## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
 
 **⚠️⚠️ CETTE SECTION A ETE CORRIGEE TROIS FOIS CE MATIN ET JE LE DIS PLUTOT QUE DE LA LISSER.**
