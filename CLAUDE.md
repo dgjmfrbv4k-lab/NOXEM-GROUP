@@ -3450,6 +3450,20 @@ décrire en mots, vérifier que son STATUT le dirait tout seul. Si la phrase du 
 que le statut, c'est le statut qu'il faut corriger — pas le bilan qu'il faut enrichir.
 **Et le vocabulaire du §12 le permettait déjà : `REPONSE` dit qu'une réponse est arrivée,
 `DEMANDE DE PRIX` dit qu'un chiffrage est DÛ.** Le second était le bon depuis le 09/10.
+**⚠️ ET L'AUDIT A ÉTÉ PASSÉ SUR TOUT LE REGISTRE DANS LA FOULÉE, parce qu'un cas pareil ne se
+cherche pas à l'unité : 16 fiches signalées, LUES UNE PAR UNE, et ZÉRO vraie.** Nepal était le seul.
+C'est une bonne nouvelle et elle se dit — **un contrôle qui rend zéro n'est rassurant qu'une fois
+qu'on a vérifié qu'il regarde**, et celui-ci regardait bien puisqu'il avait attrapé Nepal.
+**ET LES 16 FAUX POSITIFS SONT TOUS DE LA MÊME FAMILLE, CELLE DU TOKEN CONTAMINÉ PAR LA PROSE :
+`DEMANDE DE PRIX` est un MOT DE STATUT, et il vit désormais dans la prose de dizaines de notes.**
+Onze des seize portent la même phrase consignée — *« dont Industrial Mercantil San Simón en DEMANDE
+DE PRIX, la plus rapide de la campagne »* — recopiée dans tout un relevé guatémaltèque, hondurien
+et salvadorien. Les cinq autres décrivent le **formulaire de devis DU CLIENT** (*Request A Quote*
+chez Adriatic, *botón de cotización* chez Vidriería Italiana, l'invitation de Venster Egypt) ou une
+demande faite **par un tiers** (Miro Est citée dans la note de PIECESMENUISERIE).
+**C'est `prodiesa` et `DOUBLON` une troisième fois, et la liste du §5 s'allonge des mots de STATUT
+eux-mêmes : `DEMANDE DE PRIX`, `DEVIS`, `REPONSE`, `RELANCE`, `NE PAS DEMARCHER`.** Un audit qui
+cherche un statut dans la prose d'une note doit donc **lire chaque ligne**, et jamais compter.
 Un refus courtois se note `REFUS` **avec la date de reprise dans la note**, et non
 `NE PAS DEMARCHER`, qui surtraduit : Glass Jet n'a pas demandé qu'on le laisse tranquille,
 il a dit ne pas avoir de besoin actuellement.
