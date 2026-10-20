@@ -9411,3 +9411,45 @@ SH 7005 n'est pas sur les listes de riposte. Ce qu'il dit est vrai et documente 
 
 **Garde-fous :** doublons **8 groupes**, noyaux **19 paires**, float **0 a corriger**, `verif-texte.py`
 **0 a corriger** sur 297 textes. **Registre : 1954 fiches. 342 textes.**
+
+## 20/10 a 13h16 — analyser ce qui marche, trouver que le taux a baisse de moitie, et refuser de publier le graphique qui disait le contraire
+
+**Recherches : 2. Envois confirmes : 0. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0.
+Fiches creees : 1 (ART Maslen). Textes rediges : 1.**
+
+**C'est le point 5 du paragraphe 2 — analyser ce qui marche — et il etait du.**
+
+**LE FAIT, QUI NE DEPEND D'AUCUN CLASSEMENT : sur les fiches mures a quatre jours, le taux de reponse
+est passe de 6,7 pour cent le 13/10 (13 reponses sur 193) a 2,9 pour cent aujourd'hui (21 sur 720).**
+**527 contacts murs de plus ont rendu HUIT reponses de plus**, soit un rendement marginal de l'ordre
+de **1,5 pour cent**.
+
+**⚠️⚠️ ET J'AI PRODUIT UN TABLEAU QUI MONTRAIT L'INVERSE — UNE PENTE ASCENDANTE RASSURANTE — ET JE NE
+LE PUBLIE PAS, PARCE QU'IL EST FAUX PAR CONSTRUCTION.** Il decoupait par **date de statut**. Or la
+date d'un statut est celle de la **derniere action** : une fiche qui repond passe en
+`REPONSE 2026-10-15`, **donc toutes les reponses se rangent mecaniquement dans les dates tardives.**
+Le tableau ne mesurait pas une amelioration, il mesurait sa propre construction.
+**Un graphique dont le mecanisme produit exactement le resultat qu'on espere doit etre suspecte AVANT
+d'etre montre, pas apres.**
+
+**⚠️ ET LE TRI PAR METIER N'EST PAS COMPARABLE NON PLUS.** Mon classement trouve **376** verriers purs
+murs la ou celui du 13/10 en trouvait **39**. Un facteur dix ne vient pas d'une semaine de croissance :
+**ce ne sont pas les memes classes.** Le tableau du paragraphe 6 — 12,8 / 10 / 3,6 / 2,6 / 0 — **reste
+la reference et n'est ni confirme ni infirme aujourd'hui.**
+
+**🔧 ET LA VRAIE TROUVAILLE EST STRUCTURELLE : LE REGISTRE N'A PAS DE CHAMP DATE DE PREMIER CONTACT.**
+Elle n'existe que **dans la prose des notes**, et un relevé automatique ne la retrouve que sur **438
+des 742 fiches contactees, soit 59 pour cent**. **Donc aucune analyse de cohorte n'est possible**, et
+on ne saura pas si un changement de message, de ciblage ou de signature a marche. **C'est la regle du
+paragraphe 12 une fois de plus : ce qu'un comptage doit voir ne se met pas en prose.**
+**REMEDE APPLIQUE A PARTIR DE CE JOUR SANS ATTENDRE** — toute fiche passant en `ENVOYE` portera
+`1ER CONTACT AAAA-MM-JJ` **en tete de note, en format fixe**. C'est une convention de registre, donc
+de mon ressort. **Seule la reprise retroactive des 742 fiches est portee a Kevin.**
+
+**QUATRE HYPOTHESES POUR LA BAISSE, AUCUNE TRANCHEE, et elles sont dans `DECISIONS-AARON.md` :** la
+**maturite** (si c'est elle, 2,9 est un plancher qui remontera seul) · la **dilution du ciblage** · la
+**reputation d'expediteur**, domaine neuf sans DMARC et boite partagee, **Apple filtrant sans rebond** ·
+et **les 616 messages partis sans aucune signature avant le 12/10**, qui est la plus probable des
+quatre **et que la mesure ne peut pas tester**, faute du champ ci-dessus.
+
+**Registre : 1955 fiches.**

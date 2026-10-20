@@ -119,6 +119,65 @@ l industrie sait faire, la question est de savoir si NOUS le faisons.**
 
 ---
 
+
+## 📉 LE CHIFFRE QU'IL FAUT REGARDER AUJOURD'HUI, MESURE A 13h15 : LE TAUX DE REPONSE A BAISSE DE 6,7 A 2,9 POUR CENT PENDANT QUE LE VOLUME ETAIT MULTIPLIE PAR QUATRE
+
+**LE FAIT, ET IL NE DEPEND D'AUCUN CLASSEMENT NI D'AUCUNE HYPOTHESE.** Sur les fiches contactees
+depuis assez longtemps pour avoir pu repondre — seuil de **quatre jours**, le meme que celui du
+13/10 :
+| | 13/10 | 20/10 |
+|---|---|---|
+| Fiches mures | **193** | **720** |
+| Reponses | **13** | **21** |
+| Taux | **6,7 %** | **2,9 %** |
+**Autrement dit : 527 contacts murs de plus ont rendu HUIT reponses de plus. Le rendement marginal
+de la semaine ecoulee est de l'ordre de 1,5 pour cent.**
+
+**⚠️⚠️ CE QUE JE NE PEUX PAS CONCLURE, ET JE PREFERE LE DIRE QUE DE PRESENTER UN GRAPHIQUE FAUX.**
+J'ai tente deux decoupages et **les deux sont inexploitables, pour des raisons que j'ai trouvees en
+les lisant** :
+1. **Le tri par METIER n'est PAS comparable a celui du 13/10.** Mon classement trouve **376**
+   verriers purs murs la ou celui du 13/10 en trouvait **39**. Un facteur dix ne s'explique pas par
+   une semaine de croissance : **les deux classements ne sont pas le meme**, et comparer leurs taux
+   n'aurait aucun sens. Le tableau du paragraphe 6 — 12,8 / 10 / 3,6 / 2,6 / 0 — **reste donc la
+   reference et n'est NI confirme NI infirme aujourd'hui.**
+2. **Le decoupage par DATE n'est pas un decoupage par cohorte, et c'est une faute de construction de
+   ma part.** La date d'un statut est celle de la **derniere action**, pas du premier contact : une
+   fiche qui repond passe en `REPONSE 2026-10-15`, donc **toutes les reponses se rangent dans les
+   dates tardives par construction**. Le tableau que j'avais produit montrait une pente ascendante
+   qui est un pur artefact. **Il n'est pas reproduit ici.**
+
+**TROIS HYPOTHESES POUR LA BAISSE, ET JE NE TRANCHE AUCUNE.**
+- **La maturite.** Une grande partie des 527 ont ete contactees il y a quatre a huit jours, quand la
+  cohorte de depart a eu deux a trois semaines. **Si c'est la cause principale, les 2,9 pour cent
+  sont un PLANCHER et le chiffre remontera tout seul.**
+- **La dilution du ciblage.** Les cibles les mieux ajustees ont ete contactees en premier ; le volume
+  recent est plus marginal par construction.
+- **La reputation d'expediteur.** Domaine neuf **sans DMARC**, boite **partagee** avec une autre
+  campagne, et des journees a plus de cent envois. **Apple filtre sans renvoyer de rebond** — un
+  message non delivre ressemble exactement a un message ignore.
+
+**⚠️⚠️ ET IL Y A UNE QUATRIEME HYPOTHESE QUE LA MESURE NE PEUT PAS TESTER, ALORS QU'ELLE EST LA PLUS
+PROBABLE DE TOUTES : LES QUELQUE 616 MESSAGES PARTIS AVANT LE 12/10 N'AVAIENT AUCUNE SIGNATURE.**
+Ni nom, ni societe, ni telephone. Si cet effet est reel, **il joue dans l'autre sens** — la cohorte
+ancienne devrait etre la plus mauvaise, pas la meilleure. **Je ne peux pas le verifier, pour la
+raison du point suivant.**
+
+**🔧 ET LE VRAI PROBLEME EST STRUCTUREL, PAS STATISTIQUE : LE REGISTRE N'A PAS DE CHAMP DATE DE
+PREMIER CONTACT.** La date du premier envoi n'existe que **dans la prose de la note**, et un relevé
+automatique ne la retrouve que sur **438 des 742 fiches contactees, soit 59 pour cent**. **C'est la
+regle du paragraphe 12 une fois de plus : une information ecrite en prose n'est pas comptee.**
+**TANT QU'ELLE N'EXISTE PAS, AUCUNE ANALYSE DE COHORTE N'EST POSSIBLE** — donc on ne saura jamais si
+un changement de message, de ciblage ou de signature a marche.
+
+**CE QUE JE RECOMMANDE, ET C'EST PEU COUTEUX :** ajouter la date du premier contact **au debut de la
+note, dans un format fixe**, pour toute fiche contactee desormais — `1ER CONTACT 2026-10-21`. Un
+format fixe se compte ; une phrase ne se compte pas. **Je ne le fais pas retroactivement sur 742
+fiches sans votre accord**, mais a partir d'aujourd'hui cela ne coute rien et dans deux semaines on
+saura enfin ce qui marche.
+
+---
+
 ## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
 
 **⚠️⚠️ CETTE SECTION A ETE CORRIGEE TROIS FOIS CE MATIN ET JE LE DIS PLUTOT QUE DE LA LISSER.**

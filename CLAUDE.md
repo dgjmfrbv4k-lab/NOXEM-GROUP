@@ -3911,6 +3911,35 @@ def a_un_texte(nom, titres):
   toujours une substitution ratée.
   **Le commit reste faux dans l'historique** — on ne réécrit pas une branche poussée — et c'est ce
   paragraphe, plus le commit suivant, qui le disent.
+
+  **⚠️⚠️ ET UNE LIMITE DE MESURE DECOUVERTE LE 20/10, PLUS GENANTE QUE TOUTES LES PRECEDENTES PARCE
+  QU'ELLE REND UNE QUESTION ENTIERE INCALCULABLE : LE REGISTRE N'A PAS DE CHAMP *DATE DE PREMIER
+  CONTACT*.** La date d'un statut est celle de la **derniere action** — une fiche qui repond passe
+  en `REPONSE 2026-10-15` et perd la trace de son envoi d'origine.
+  **DEUX CONSEQUENCES, ET LA SECONDE EST UNE FAUTE QUE J'AI FAILLI PUBLIER.**
+  1. **Aucune analyse de COHORTE n'est possible.** On ne peut donc pas savoir si un changement de
+     message, de ciblage ou de signature a marche — ce qui est exactement ce que le §2 point 5
+     demande d'analyser. La date du premier envoi n'existe que **dans la prose des notes**, et un
+     relevé automatique ne la retrouve que sur **438 des 742 fiches contactees, soit 59 %**.
+     **C'est la regle du §12 une fois de plus : une information ecrite en prose n'est pas comptee.**
+  2. **⚠️ Et un decoupage par date de statut DONNE UNE PENTE ASCENDANTE QUI EST UN PUR ARTEFACT**,
+     puisque **toutes les reponses se rangent par construction dans les dates tardives**. J'ai
+     produit ce tableau, il montrait une amelioration encourageante, **et il est faux**. Il n'a pas
+     ete publie. **Un graphique dont le mecanisme produit le resultat qu'on espere doit etre
+     suspecte AVANT d'etre montre.**
+  **CE QUI RESTE CALCULABLE ET QUI SUFFIT A ALERTER : le taux GLOBAL sur les fiches mures a quatre
+  jours est passe de 6,7 % le 13/10 (13 reponses sur 193) a 2,9 % le 20/10 (21 sur 720).** Donc
+  **527 contacts murs de plus ont rendu HUIT reponses de plus**, soit un rendement marginal de
+  l'ordre de **1,5 %**. ⚠️ **Et le tri par METIER n'est PAS comparable d'une date a l'autre** — mon
+  classement trouve 376 verriers purs la ou celui du 13/10 en trouvait 39, donc **ce ne sont pas les
+  memes classes** et le tableau du §6 n'est ni confirme ni infirme.
+  **REMEDE, ET IL EST APPLIQUE A PARTIR DE CE JOUR SANS ATTENDRE : toute fiche passee en `ENVOYE`
+  desormais porte EN TETE DE SA NOTE la mention `1ER CONTACT AAAA-MM-JJ`, en format fixe.** C'est
+  une convention de registre, donc de mon ressort au titre du §11. **Seule la reprise RETROACTIVE
+  des 742 fiches deja contactees est portee a Aaron**, parce qu'elle demande de relire 742 notes et
+  que 41 % d'entre elles ne portent pas la date du tout. Un format fixe se compte, une
+  phrase ne se compte pas. **C'est la meme lecon que le statut `RELANCE DIFFEREE` du §12 : ce qu'un
+  comptage doit voir ne se met pas en prose.**
   Deux envois d'ecart ne changent rien a un dossier, mais un chiffre invente dans un suivi qui sert
   de preuve est un faux au sens du paragraphe 16 — et c'est le meme defaut qui faisait annoncer
   « aucun rebond » sur une fenetre d'observation trop courte : affirmer avant d'avoir lu.
