@@ -10361,3 +10361,35 @@ n a pas. Les deux fiches portent le renvoi.
 meme outil.** Les **dix-neuf noms crees aujourd hui** ont ete regrepes avec l outil repare —
 Marvite, Temperex, A Cutting Edge, Tradeways, Al Intethar, Fenergic, Universal Glass Tech, Toro
 Glasswall, et les onze du matin. **Aucun doublon neuf revele.**
+
+
+---
+
+## 20/10 — 14h49 · DEUX DEVERROUILLAGES AMERICAINS, ET LE MEILLEUR EST UN FABRICANT QUI NE SE DIT PAS VERRIER
+
+**Recherches : 3 appels. Fiches creees : 0. Deverrouillages : 2. Envois confirmes : 0 sur ce lot.
+Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0. Registre a 1967 fiches, file a
+102, textes a 339.**
+
+**INNOVATIVE GLASS CORP** (Plainview, New York) est la meilleure des deux et elle vient de l axe
+Perficom — **une industrie consommatrice de verre plat dont le metier declare n est pas le verre
+plat**. Leur produit est le verre COMMUTABLE et de confidentialite. Adresse `info@eglass.com`,
+⚠️ **exception du paragraphe 5 notee** : le domaine de l adresse n est pas celui du site, et elle
+n est employee que parce qu ils la publient eux-memes sur leur page de contact.
+**L ARGUMENT DE PRODUIT EST L EXTRA-CLAIR, ET IL EST OPTIQUE ET NON COMMERCIAL :** un verre de
+confidentialite passe du transparent au **blanc opaque**, et la teinte verte du float ordinaire se
+lit d autant mieux contre un fond blanc. **Le low-iron n y est pas un luxe, c est une contrainte.**
+**⚠️ ET LA QUESTION QUI DECIDE DU VOLUME RESTE EN QUESTION DANS LE TEXTE 339 :** un commutable est
+*normalement* un feuillete a film intercale, donc DEUX feuilles par unite — **mais aucune de leurs
+pages ne le dit**. Le texte DEMANDE au lieu d affirmer. C est la frontiere exacte de la faute STADIP
+du 12/10.
+
+**M AND M GLASS** (Baton Rouge) est deverrouillee aussi, et son verdict est moins bon que son
+adresse. `sales@mmglass.net` est bien sur leur domaine — **mais la page qui le porte a environ
+3686 jours, soit DIX ANS**, record de la campagne, le precedent etant 659 jours chez Tradeways. Et
+leur site les decrit en maison FAMILIALE de faconnage sur mesure, parois de douche et cloisons :
+**classe verrier plus pose, zero pour cent**, aucun programme de gros annonce. Elle passe apres
+toutes les fiches de negoce de son Etat.
+**⚠️ Et une adresse nominative relevee et NON retenue :** leur directrice MARKETING. Le paragraphe 5
+n autorise un nom que si la fonction est pertinente pour les ACHATS, et leur propre page precise que
+c est pour la publicite et la presse.

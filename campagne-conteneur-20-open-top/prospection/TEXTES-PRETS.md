@@ -24766,3 +24766,108 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 339. Innovative Glass Corp (Plainview, New York, États-Unis) — `info@eglass.com` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-23`.**
+
+- **AXE DES INDUSTRIES QUI NE S APPELLENT PAS VERRE**, celui de Perficom : leur metier declare est
+  le **verre commutable et de confidentialite**, pas le verre plat. Aucun annuaire verrier ne les
+  range comme acheteurs de feuille, et ils le sont par necessite industrielle.
+- **⚠️⚠️ LE POINT LE PLUS DELICAT DU TEXTE, ET IL EST TENU VOLONTAIREMENT EN QUESTION :** un verre
+  commutable est **normalement** un feuillete a film actif intercale, donc **deux feuilles de float
+  par unite**. **Aucune de leurs pages ne le dit**, et la recherche ne l a pas confirme. **Le texte
+  DEMANDE, il n affirme pas.** C est la frontiere exacte de la faute STADIP du 12/10 — on ne va pas
+  apprendre a un fabricant comment son propre produit est construit.
+- **L ARGUMENT DE PRODUIT EST L EXTRA-CLAIR, ET IL EST LOGIQUE ET NON COMMERCIAL :** un verre de
+  confidentialite passe du transparent au **blanc opaque**, et la teinte verte du float ordinaire se
+  lit d autant mieux contre un fond blanc. **Le low-iron n est pas un luxe sur ce produit, c est une
+  contrainte optique.** C est le meilleur angle de la fiche.
+- **REGLE PRODIESA : le commutable, le film CoolVu et le SPD sortent de l offre** — ce sont leurs
+  produits et pour partie des licences. Entre le **substrat**.
+- **⚠️ INTERDIT DU §6 TENU : rien sur l absence de production locale aux Etats-Unis**, Vitro et
+  Cardinal y produisent. L angle est **douanier** — ordres du 06/04/2026 contre la Chine et la
+  Malaisie, l Europe visee par aucun — et aucun taux n est cite comme une promesse de prix.
+- **⚠️ EXCEPTION DU §5 SUR L ADRESSE, NOTEE DANS LA FICHE :** le domaine `eglass.com` n est pas celui
+  du site `innovativeglasscorp.com`. Elle est employee parce que la societe la publie elle-meme sur
+  **sa** page de contact.
+- **AUCUN PRIX ANNONCE.** Formule imposee, porte de sortie, signature une fois. **Port demande.**
+
+**Objet :** `The low-iron question behind switchable glass`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the raw glass, I would be
+grateful if you passed this on to whoever does.
+
+I am writing to you rather than to a glass distributor, and the reason is the
+whole point of this email.
+
+Your product is switchable privacy glass - LC Privacy, SPD, SolarSmart. That is
+not a glass business in the way a distributor is a glass business, which is
+exactly why nobody in my trade writes to you. But a switchable panel starts as
+flat glass, and a company that makes them buys sheet on a repeating schedule
+rather than job by job. That is the buying pattern a full container fits, and a
+shopfitter's is not.
+
+So I will be clear about what I am NOT offering. Not switchable glass, not
+film, not SPD. Those are your product and in part your licences, and a supplier
+who offers a manufacturer its own process has not read the page. What I am
+offering is what sits underneath:
+
+- extra-clear low-iron float, which is the real subject of this email
+  https://noxemgroup.com/en/float-glass/
+- and standard clear float
+  https://noxemgroup.com/en/float-glass/
+
+Here is why low-iron and not clear. Your glass switches from transparent to
+opaque WHITE. Ordinary float carries a green cast in the edge and across the
+pane, and green reads far more plainly against a white field than against a
+view. On a privacy panel, low-iron is not an upgrade, it is an optical
+constraint. If you are already specifying low-iron throughout, then we are
+talking about the same product and only about origin. If you are not, it may be
+worth a sample.
+
+And a question rather than an assumption, because I would rather ask than tell
+you about your own product: I could not establish from your pages whether the
+LC panel is a laminated construction with the film between two lites, or a
+single lite with a surface-applied layer. The difference matters only to me -
+one buys two sheets per unit and the other buys one - and it changes what a
+container should hold. Tell me which and I will size the proposal properly.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR sizes or as standard jumbo 3210 x 2550 mm with the length cut to
+order. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - New York or Newark, I would guess, but tell
+me rather than let me assume.
+
+One fact about origins, and it is a customs fact rather than a price claim.
+Since April 2026 float glass from China carries US antidumping and
+countervailing duties, and Malaysian float carries countervailing duties.
+European origin is covered by neither. That does not make our glass cheap - it
+changes which origins are comparable, and that is all I am claiming.
+
+What I need back is short: which thicknesses you run, in what sheet size, clear
+or low-iron or both, roughly how much in a year, and the port.
+
+And the honest part. A manufacturer with a qualified substrate does not requalify
+one because of an email, and I am not asking you to. I am asking to be a name
+you can call when a thickness is out of programme. If there is no room for that,
+say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
