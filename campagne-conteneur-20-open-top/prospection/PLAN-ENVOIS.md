@@ -193,3 +193,40 @@ ensuite, fenetre horaire enfin.**
 **ET LA CONSEQUENCE POUR UNE SESSION FUTURE : une date passee dans un `A ENVOYER` n est PAS un
 signal d alarme et ne demande aucune action.** Le seul vrai signal serait une fiche prete qui
 n apparaitrait dans aucune vague de ce fichier.
+
+
+---
+
+## 📅 VAGUES DU 21/10 — arbitrage fait le 20/10 a 13h13, QUINZE envois dans la bande du paragraphe 10
+
+**La file compte 95 fiches pretes et la cadence est de 15 a 20 par jour. Ce plan en choisit QUINZE
+et dit pourquoi**, en melangeant les plus anciennes en attente et les meilleures des nouvelles.
+
+**⚠️ LES HEURES SONT CALCULEES PAR LA FORMULE DU PARAGRAPHE 13 : heure de Paris = heure locale voulue
++ 2 − decalage UTC local. Reverifiee sur les deux cas connus** — 14h Paris = 9h a Sao Paulo, et
+16h30 Paris = 8h30 a Mexico. **⚠️ Et elles changent le 25/10**, quand Paris quitte l heure d ete.
+
+| Fenetre Paris | Pays, heure locale | Fiches | Pourquoi maintenant |
+|---|---|---|---|
+| **08h00** | Finlande, 9h | **Lasiluoto Oy** · **PL-Glass Oy (PLG)** | Verriers purs, meilleure classe a 12,8 pour cent, acheteurs de low-E. Deja armees hier. |
+| **08h00** | Australie, **16h** | **ART Maslen** | ⚠️ **Le Queensland est a UTC+10, donc 9h locales font 1h du matin a Paris — impossible.** A 8h de Paris le message arrive a **16h chez eux**, donc en fin de journee, et sera lu le lendemain matin. **C est assume et c est le moins mauvais creneau.** |
+| **14h00** | Bresil, 9h | **Refricomp** | Couche COMPOSANT — fournit les portes de verre a l industrie de l expositeur, donc c est elle qui achete la feuille. |
+| **15h00** | Etats-Unis Est et Ontario, 9h | **Syracuse Glass** · **DC Glass Distributors** · **Southern Wholesale Glass** · **Insulite Glass Co.** · **Mid-American Glass** · **Unicel Architectural** · **Energy Door** | Les cinq premieres etaient armees hier et reportees faute de bande. ⚠️ **Recontroler les rebonds juste avant**, et arret immediat sur un `5.7.1` venu d un serveur NOUVEAU. |
+| **16h00** | Colombie, 9h | **Supernordico** | Neuve. ⚠️ Vidrio Andino est a 20 km — angle ORIGINE et SECONDE SOURCE, jamais disponibilite, jamais douane. |
+| **17h00** | Mexique, 9h | **Refrigeracion Ojeda** | Neuve. ⚠️ Rien sur les droits, jamais d absence de production locale. |
+| **18h00** | Etats-Unis Ouest et Colombie-Britannique, 9h | **Sierra Pacific Windows** · **BC Greenhouse Builders** | Neuves. Sierra Pacific est le plus gros compte du lot — **porte de sortie brutale obligatoire**. |
+
+**⚠️⚠️ ET LA REGLE QUI A COUTE UNE VAGUE HIER : ON COMPTE LES ENVOIS DU JOUR AVANT DE COMPOSER LA
+VAGUE, PAS APRES.**
+```bash
+awk -F';' 'NR>1 && $10=="ENVOYE 2026-10-21"' liste-prospects.csv | wc -l
+```
+**Classer avant de compter fait armer une vague qui ne peut pas partir.**
+
+**⚠️ ET LE CONTROLE DU PARAGRAPHE 10 AVANT LE PREMIER ENVOI, SANS EXCEPTION :** lire l expediteur
+dans `in:sent`. **Si ce n est pas `aaron.harfi@noxem-group.com`, aucun envoi**, et la reponse mot
+pour mot que Kevin a dictee.
+
+**⚠️ JOUR OUVRE : le 21/10 est un mercredi, aucun ferie national connu dans les sept pays concernes.**
+A reverifier pour la Colombie avant tout **lundi**, la Ley Emiliani y reportant les feries au lundi —
+le prochain est le **2 novembre**.

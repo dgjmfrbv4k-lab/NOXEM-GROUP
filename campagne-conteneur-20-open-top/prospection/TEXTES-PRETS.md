@@ -24068,3 +24068,99 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 332. ART Maslen — Advanced Refrigeration Technology (Tin Can Bay, Queensland, Australie) — `enquiries@ARTmaslen.com.au` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye — la journee est a 19, haut de la bande du paragraphe 10. Couvert par
+l accord de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS.**
+
+- **⚠️⚠️ LA MEILLEURE POSITION DE TOUT L AXE, ET DEUX RAISONS SE CUMULENT.** Un, **elle est sur la
+  BONNE COUCHE** : Maslen se declare *specialist glass door insert manufacturer*, donc la couche qui
+  **achete le verre** et le monte pour les fabricants de meubles — exactement la position de
+  Refricomp au Bresil, et la regle de la couche dit que **c est lui le client, pas les maisons en
+  aval**. Deux, **l Australie n a plus aucune ligne float** depuis l arret d Oceania Glass.
+- **ET LE TEXTE SERT L ARGUMENT AU PASSE, comme le §6 l impose** : la derniere ligne *a ete
+  arretee*, jamais *il n y en aura plus jamais*.
+- **⚠️ AUCUN ARGUMENT DOUANIER, ET C EST UN PIEGE FACILE EN AUSTRALIE.** Verifie le 13/10 sur le
+  dossier 575 de l Anti-Dumping Commission : l **Indonesie** est frappee de 15,3 a 28,3 pour cent,
+  mais **la Chine et la Thailande ont vu l enquete TERMINEE sans droit**, et l echeance 2026 des
+  droits indonesiens n est pas verifiee. **Le float chinois entre sans antidumping.** Le texte
+  n ecrit donc rien sur les droits.
+- **REGLE PRODIESA : la porte d insert finie et le meuble sortent de l offre.** Ce qui entre est le
+  **substrat**. ⚠️ **Et le low-E est PROPOSE ET DEMANDE, jamais affirme** — une porte de froid est un
+  probleme thermique, mais ce n est pas a nous d asserter leur specification. Frontiere de la faute
+  STADIP.
+- **⚠️⚠️ ET CE QUE LE TEXTE NE DIT SURTOUT PAS : la reserve de groupe.** Un second domaine au sigle
+  ART annonce une usine a **Yantai, en Chine**, et le lien n est pas etabli. **C est une question
+  pour nous, pas pour eux** — la soulever serait la faute STADIP exactement : fabriquer un doute que
+  le client n a pas. Elle reste dans la fiche.
+- **AUCUN PRIX ANNONCE** : le mot *price* n apparait pas dans le corps. **Verifie par relevé.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port suppose **Brisbane** et
+  **demande**. ⚠️ Et l adresse postale etant discordante entre leurs propres pages, **le texte
+  n affirme aucune ville** — il dit *your plant* et rien de plus.
+
+**Objet :** `The flat glass behind an insert door`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I am writing to you rather than to a cabinet maker, and the distinction is the
+whole point. Most refrigeration companies buy their doors finished. You
+describe yourselves as a specialist glass door insert manufacturer, which means
+the glass stops at your plant rather than passing through it. That makes you
+one of the few businesses in this trade who actually buy flat glass, and in
+repeatable sizes, because an insert door range is built to fixed dimensions
+rather than to each job.
+
+So I am not offering you insert doors, cabinets or cases. You make them. I am
+offering what goes in before:
+
+- clear and extra-clear float glass, the base of the range
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- the full range in one place, if that is easier
+  https://noxemgroup.com/en/catalog/
+
+On the low-E I would rather ask than assume. A refrigerated door is a thermal
+problem before it is anything else, so I would guess some of your inserts carry
+a coated pane - but that is my guess, not a fact, and the answer decides
+whether I have anything useful for you.
+
+On why a second origin is worth five minutes. The last float line in
+Australasia was shut down, and nothing has replaced it. Every square metre you
+glaze has crossed an ocean before it reaches you, so the question at your end
+was never local or imported - it is which origin, and how many you can call on
+when the one you use is short or a thickness is out of programme. I am not
+asking to replace anyone. I am asking to be the second name.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR insert sizes or as standard jumbo 3210 x 2550 mm with the length
+cut to order. We can put together an offer for delivery to your port of
+destination, subject to validation on our side - I would assume Brisbane, but
+tell me rather than let me guess.
+
+What I need back is short: which thicknesses go into your inserts, in what
+sheet or pane size you take them, roughly what annual volume that represents,
+whether any of it is coated, and the port.
+
+And the honest part. You have a supply line that works and you have been doing
+this a long time. A cold email from France does not change that, and I am not
+pretending it should. If there is no room for a second name on the list, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
