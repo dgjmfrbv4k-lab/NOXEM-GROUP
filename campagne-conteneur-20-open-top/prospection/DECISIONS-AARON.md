@@ -20,7 +20,7 @@ VOUS avez a faire et combien de temps cela vous prend.** Le detail est dans la s
 | 11 | 🟡 **LE MIROIR** — notre produit le plus differenciant, **et il ne l est peut-etre plus** | Qu est-ce qui distingue **reellement** notre miroir ? | 5 min | ce jour |
 | 12 | 🟡 **QUATRE QUESTIONS TECHNIQUES** — PLF 6000 x 3210, autoclave, EUR.1, groupage | Ce que **NOS usines** font | — | jusqu a 12 j |
 | 13 | ⚪ **DEUX FERMETURES QUE JE RECOMMANDE** | **Alanees** (Yemen, risque de guerre) et **City Glass** (Zimbabwe, faute du 13/10) | 1 min | — |
-| 14 | 🟠 **LA TACHE AUTOMATIQUE DE 8h22 N A PEUT-ETRE PAS DE QUOI ENVOYER** | Me dire si je la **recree avec le connecteur Gmail** — elle perdrait son historique de runs | 1 min | ce jour |
+| 14 | 🔴 **LA TACHE AUTOMATIQUE DE 8h22 A DEUX PROBLEMES, ET LE SECOND EST PIRE** | Un, la **recreer avec Gmail** ? Deux, et surtout : **96 des 101 fiches pretes sont en AMERIQUE, et 8h30 a Paris c est la NUIT chez elles.** M autoriser une **seconde tache a 14h30** | 2 min | ce jour |
 
 **⚠️ ET LE POINT 1 EST LE PLUS URGENT DE TOUS POUR UNE RAISON QUI N EST PAS SA TAILLE : c est la
 SEULE chose de cette campagne qui soit venue a nous sans un envoi, et elle a neuf jours.** Elle
@@ -58,6 +58,37 @@ avec le connecteur.**
 
 **Et la verification qui ne coute rien : demain a 9h je regarde si des envois conteneur sont partis
 entre 8h22 et 9h.** S il n y en a aucun, la reponse est tranchee sans vous.
+
+**⚠️⚠️ ET LE SECOND PROBLEME DE CETTE TACHE EST PLUS GRAVE QUE LE PREMIER, PARCE QU IL TIENT A
+L HEURE ET PAS A UN REGLAGE. VOTRE CONSIGNE DIT, MOT POUR MOT, « contacte ceux sue c le matin chez
+eux ». C est la bonne regle. ELLE EST INCOMPATIBLE AVEC UN DEMARRAGE A 8h30 POUR 96 FICHES SUR 101.**
+
+**Le compte de la file prete, aujourd hui :** Etats-Unis 30, Bresil 30, Mexique 13, Canada 9,
+Colombie 5, Equateur 2, et une chacun pour la Republique dominicaine, Porto Rico, Haiti, le Chili et
+l Argentine. **Soit 94 fiches dans les Ameriques.** Le reste est la Finlande (4), l Australie (2) et
+les Emirats (1).
+
+**OR LE MATIN D UN AMERICAIN N EST PAS LE NOTRE.** 9 h du matin a Sao Paulo, c est **14 h a Paris**.
+9 h a New York et Toronto, c est **15 h**. 9 h a Bogota, **16 h**. 9 h a Mexico, **17 h**. 9 h a
+Vancouver, **18 h**.
+**A 8h30 heure de Paris, il est 3 h 30 du matin a Sao Paulo et minuit 30 a Vancouver.**
+
+**CE QUE LA TACHE DE 8h30 PEUT REELLEMENT SERVIR AUJOURD HUI : CINQ FICHES.** Les quatre
+finlandaises (9 h 30 a Helsinki) et l emirienne (10 h 30 a Dubai). **Apres quoi elle n a plus rien
+a faire** — et tout ce qui reste doit attendre l apres-midi.
+
+**CE QUE JE RECOMMANDE, ET C EST UNE LIGNE A AJOUTER, PAS UN REGLAGE A CHANGER : une SECONDE tache
+automatique a 14h30 heure de Paris, consacree aux AMERIQUES**, avec les memes consignes que la
+premiere. La tache de 8h30 garde alors son vrai domaine — Europe, Golfe, Afrique, Asie — et les deux
+se completent au lieu de se gener.
+
+**POURQUOI JE NE L AI PAS CREEE SEUL :** vous avez fixe une heure, et en ajouter une seconde revient
+a modifier le rythme d envoi que vous avez arrete. C est le paragraphe 11. **Un mot de vous et elle
+existe en deux minutes.**
+
+**ET EN ATTENDANT, LA FILE NE DORT PAS :** je sors les vagues americaines a la main depuis ma
+session, aux bonnes heures locales. C est ce qui s est passe aujourd hui pour les 19 envois nordiques
+du matin. **Mais cela suppose qu une session tourne l apres-midi, et ce n est pas garanti.**
 
 ---
 

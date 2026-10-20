@@ -1,3 +1,72 @@
+# 🗓 MERCREDI 21/10 — LA FILE DU JOUR, TIREE DU CLASSEMENT ET NON DE LA DATE DU STATUT
+
+**Refaite le 20/10 a 14h36. Tout ce qui est sous le trait est l historique, conserve pour la trace.**
+
+## ⚠️⚠️ D ABORD LE FAIT QUI COMMANDE TOUT LE RESTE : LA DATE DANS LE STATUT N EST PLUS UN CALENDRIER
+
+Relevé du jour sur les 101 fiches pretes : **8 portent `A ENVOYER 2026-10-16`, SOIXANTE portent
+`2026-10-19`, 11 portent le 20, 10 le 21, 7 le 22, 1 le 23 et 4 le 27.** Soit **79 fiches dont la
+date est deja passee**.
+
+**Ce n est pas une faute, c est de l arithmetique :** la bande du paragraphe 10 est de 15 a 20 envois
+par jour et la file en compte 101. **Soixante fiches datees du meme jour ne programment rien, elles
+etiquettent un arriere.**
+
+**CONSEQUENCE : L ORDRE NE SE LIT PLUS DANS LE STATUT, IL SE LIT DANS `classe-file.py`.** La date du
+statut ne sert plus qu a dire *a partir de quand c est permis*. **On ne reecrit pas les 79 dates** —
+ce serait du brassage sans gain. On lance le classement et on prend le haut.
+
+```bash
+python3 campagne-conteneur-20-open-top/prospection/outils/classe-file.py | head -30
+```
+
+## ⚠️⚠️ ET LE SECOND FAIT, QUI DECIDE DES HEURES : 96 FICHES SUR 101 SONT DANS LES AMERIQUES
+
+Etats-Unis 30 · Bresil 30 · Mexique 13 · Canada 9 · Colombie 5 · Equateur 2 · et une chacun pour la
+Republique dominicaine, Porto Rico, Haiti, le Chili et l Argentine. **Reste la Finlande (4),
+l Australie (2) et les Emirats (1).**
+
+**DONC LA TACHE AUTOMATIQUE DE 8h22 NE PEUT SERVIR QUE CINQ DE CES FICHES** — les quatre
+finlandaises et l emirienne. **Tout le reste attend l apres-midi**, et c est porte au point 14 de
+`DECISIONS-AARON.md` avec la demande d une seconde tache a 14h30.
+
+**LA FORMULE, ET ELLE SE VERIFIE SUR UN CAS CONNU AVANT DE SERVIR — faute du 14/10 :**
+`heure de Paris = heure locale voulue + 2 − decalage UTC du pays`.
+Controle : 9 h a Brasilia, UTC−3, donne 9 + 2 + 3 = **14 h a Paris**. Juste.
+
+## LA FILE DU 21/10 — 18 ENVOIS, EN QUATRE VAGUES DE CINQ OU MOINS
+
+**⚠️ AVANT LA PREMIERE VAGUE, DANS L ORDRE, ET AUCUNE N EST FACULTATIVE :**
+1. **Expediteur** lu dans `in:sent` — si ce n est pas `aaron.harfi@noxem-group.com`, rien ne part.
+2. **Compter ce qui est DEJA parti du domaine aujourd hui** (`in:sent newer_than:1d`). La boite est
+   partagee et l autre campagne en a sorti une trentaine ce matin meme.
+3. **Jour ferie** verifie **pays par pays** — Bresil, Etats-Unis, Canada, Colombie, Mexique. Le 21/10
+   est un mercredi, donc la ley Emiliani colombienne ne joue pas, mais cela se **verifie** et ne se
+   suppose pas : c est la faute du 12/10, ou j avais etendu a la Colombie une verification faite pour
+   le Canada.
+4. **Relire les rebonds** des envois nordiques du 20/10 — la fenetre du paragraphe 13 est de
+   **72 heures**, donc aucun des 19 n est confirme avant le 23.
+
+| Heure Paris | Local | Fiches, dans l ordre du classement |
+|---|---|---|
+| **14h00** | 09h Bresil | Indiana Glass · Vidrus Distribuidora · **Marvite Maranhao** · MTX Glass · Fantastico Vidros |
+| **15h00** | 09h cote est | Verrage Glass and Mirror (CA) · Syracuse Glass (US) · DC Glass Distributors (US) · Dulles Glass (US) · RGT Glass America (US) |
+| **16h00** | 09h Colombie | Vidrios Mas Vidrios y Aluminios · Vitelco de Colombia · Templacol |
+| **17h00** | 09h Mexique | Cristacurva · El Mundo del Vidrio · Grupo Vicon · Temperados Mexico · Perficom |
+
+**Soit 18, dans la bande.** Western Pacific Glass (Colombie-Britannique) tombe a **18h de Paris** et
+sort de la journee de travail : elle passe au 22.
+
+**⚠️ ET MARVITE EST AU RANG 3 SUR 101 LE JOUR MEME DE SA CREATION** — trempeur qui se dit la plus
+grande usine de son Etat, associee d ABRAVIDRO. C est la justification du travail de qualification
+de l apres-midi : une fiche neuve bien qualifiee passe devant quatre-vingt-dix-huit fiches anciennes.
+
+**⚠️ CE QUI N EST PAS DANS CETTE FILE ET NE DOIT PAS Y ENTRER : les trois textes qui attendent le mot
+de Kevin** — 327 United Glass, 328 Avgousti, 325 Lasimyynti Tammela. Ce sont des **relances** et des
+**reponses**, que l accord permanent du 19/10 ne couvre pas. Elles attendent, message par message.
+
+---
+
 # ⏱ MARDI 13/10, 09h52 — CE QUI RESTE A ENVOYER AUJOURD'HUI, ET LA FILE DE DEMAIN EST PRETE
 
 **La vague du matin est faite : 97 envois**, 95 relances et 2 premiers contacts, tous enregistres avec

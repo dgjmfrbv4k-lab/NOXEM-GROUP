@@ -10232,3 +10232,47 @@ verre. **Elle importe et vend de la FEUILLE, mais pas de la feuille de VERRE.** 
 dans la note de CEYCO, avec celui d *El Cristal* qui attend — nom pris sur `vidrioperfil`, dont les
 rubriques de negoce sont mesurees a un confirme pour quatre dementis, donc metier ET pays a
 reetablir pour une esperance faible.
+
+
+---
+
+## 20/10 — 14h36 · LE PLAN DE DEMAIN REFAIT, ET IL REVELE QUE L HEURE DE LA TACHE AUTOMATIQUE NE COLLE PAS A LA FILE
+
+**Recherches : 2 appels. Fiches creees : 0. Envois confirmes : 0 sur ce lot. Reponses qualifiees :
+0. Demandes de devis : 0. Commandes : 0.**
+
+**DEUX RELEVES ONT SUFFI A FERMER DEUX MARCHES DE PLUS, ET LE TAUX EST LE MEME QU A LA CARAIBE :
+SEPT NOMS, SEPT DEJA AU REGISTRE.** Aux Philippines, Chain Glass, Kima Glass et Comglasco sont
+toutes trois la et toutes trois deja contactees. Au Mexique, Ceyco, Prodiesa, Aluviacsa, Navisa,
+El Mundo del Vidrio et Verra Glass aussi.
+**Et la requete mexicaine refaite avec la BONNE formule — `mayoreo` au lieu de `caja completa` — a
+bien mieux marche en qualite** : elle rend des grilles d epaisseurs completes, 2 a 19 mm chez Ceyco
+et chez Navisa. **La correction de vocabulaire de l heure precedente est donc validee dans
+l heure.**
+
+**MAIS LE RESULTAT UTILE DE CE LOT N EST PAS UNE FICHE, C EST UN RELEVE SUR NOTRE PROPRE FILE.**
+
+**UN, LA DATE DANS LE STATUT N EST PLUS UN CALENDRIER.** Sur 101 fiches pretes : 8 datees du 16/10,
+**SOIXANTE du 19/10**, 11 du 20, 10 du 21, 7 du 22, 1 du 23 et 4 du 27. **Soixante-dix-neuf dates
+deja passees.** Ce n est pas une faute, c est de l arithmetique — 15 a 20 par jour contre 101 en
+file. **Mais cela veut dire que l ordre ne se lit plus dans le statut : il se lit dans
+`classe-file.py`**, et le plan de demain est tire de lui. Les 79 dates ne sont PAS reecrites, ce
+serait du brassage sans gain.
+
+**DEUX, ET C EST LE PLUS IMPORTANT : 96 DES 101 FICHES SONT DANS LES AMERIQUES, ET 8h30 A PARIS Y
+EST LA NUIT.** Etats-Unis 30, Bresil 30, Mexique 13, Canada 9, Colombie 5, plus des unites ailleurs.
+Reste la Finlande (4), l Australie (2) et les Emirats (1).
+**La consigne de Kevin dit « contacte ceux sue c le matin chez eux ». C est la bonne regle, et elle
+est incompatible avec un demarrage a 8h30 pour 96 fiches sur 101 :** 9 h a Sao Paulo c est 14 h a
+Paris, 9 h a Toronto 15 h, 9 h a Bogota 16 h, 9 h a Mexico 17 h, 9 h a Vancouver 18 h.
+**La tache de 8h22 peut donc servir CINQ fiches** — les quatre finlandaises et l emirienne — **et
+apres cela elle n a plus rien a faire.**
+**Recommandation portee au point 14 de `DECISIONS-AARON.md` : une SECONDE tache a 14h30, consacree
+aux Ameriques.** Je ne la cree pas seul, ajouter une heure revient a modifier le rythme d envoi que
+Kevin a arrete — paragraphe 11.
+
+**`PLAN-ENVOIS.md` est refait en consequence** : 18 envois en quatre vagues, 14h Bresil, 15h cote
+est, 16h Colombie, 17h Mexique, avec les quatre controles avant-vol en tete et la formule d heure
+reverifiee sur un cas connu.
+**Et Marvite, creee il y a deux heures, sort au RANG 3 SUR 101.** C est la justification de
+l apres-midi : une fiche neuve bien qualifiee passe devant quatre-vingt-dix-huit fiches anciennes.
