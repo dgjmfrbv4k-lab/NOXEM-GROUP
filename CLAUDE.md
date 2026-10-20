@@ -2899,6 +2899,23 @@ n'argumente plus sur le cuivre — on argumente sur le PLOMB, ou sur rien.**
 interdit d'affirmer un fait de marché sans avoir lu la source du pays. **Ce qui change tout de
 suite est l'ACCENT, pas l'offre** — lier la page reste permis, affirmer que le sans-cuivre nous
 distingue au Brésil ne l'est plus sans vérification.
+**⚠️⚠️⚠️ ET JE ME CORRIGE DANS L'HEURE, PARCE QUE LA VÉRIFICATION SUIVANTE M'A DONNÉ TORT : LE
+REPLI « ON ARGUMENTE SUR LE PLOMB » NE TIENT PROBABLEMENT PAS.** Une recherche sur l'histoire du
+procédé rend ceci : la construction traditionnelle est **argent, puis CUIVRE protecteur, puis
+peinture AU PLOMB** — les brevets des années 1990 décrivent l'abandon du plomb pour raisons
+sanitaires — et **une source de filière écrit qu'une ligne *copper-free* emploie une autre chimie
+de passivation et est NORMALEMENT SANS PLOMB AUSSI.**
+**Autrement dit *sans cuivre* et *sans plomb* ne sont vraisemblablement PAS deux promesses mais UNE
+SEULE**, et mon « on argumente sur le plomb » était **un repli inventé dans l'heure pour sauver
+l'argument, sans vérification.** ⚠️ La source est un blog de filière, donc rien n'est établi dans
+un sens ni dans l'autre — **et c'est précisément pour cela que rien ne s'affirme.**
+**CE QUI RESTE VRAI ET UTILISABLE : lier la page reste légitime, c'est une référence de notre
+gamme. Ce qui ne l'est plus est de PRÉSENTER le sans-cuivre-ni-plomb comme une singularité, nulle
+part, tant que ce n'est pas vérifié par marché.**
+**ET LA SECONDE RÈGLE, QUI VAUT MIEUX QUE LA PREMIÈRE : quand un différenciateur tombe, on ne lui
+cherche pas un remplaçant dans l'heure.** Un repli trouvé en cinq minutes pour sauver un argument
+est un argument de plus à vérifier, pas une réponse — c'est la faute STADIP par un autre chemin,
+celle d'ajouter ce que personne n'a demandé.
 **ET LA RÈGLE GÉNÉRALE QUE CE CAS DONNE : un argument de DIFFÉRENCIATION se vérifie PAR MARCHÉ, pas
 une fois pour toutes.** Le §6 impose déjà de vérifier la production locale et les droits pays par
 pays ; **ce qui distingue notre produit se vérifie de la même façon**, et un différenciateur vrai

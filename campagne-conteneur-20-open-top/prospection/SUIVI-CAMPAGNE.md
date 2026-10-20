@@ -9851,3 +9851,30 @@ une fois pour toutes.** Le mandat impose deja de verifier la production locale e
 pays — ce qui distingue notre produit se verifie de la meme facon.
 
 **Registre : 1958 fiches.**
+
+## 20/10 a 13h55 — je me corrige dans l'heure : le repli que je venais d'inventer ne tient pas
+
+**Recherches : 1. Envois confirmes : 0.**
+
+**Il y a une heure j'ecrivais que le *copper-free* etant probablement la norme au Bresil, il fallait
+« argumenter sur le PLOMB ». VERIFICATION FAITE ENSUITE, ET ELLE ME DONNE TORT.** La construction
+traditionnelle est **argent, puis CUIVRE protecteur, puis peinture AU PLOMB** — les brevets des
+annees 1990 decrivent l'abandon du plomb pour raisons sanitaires — **et une source de filiere ecrit
+qu'une ligne copper-free emploie une autre chimie de passivation et est NORMALEMENT SANS PLOMB
+AUSSI.**
+**Donc *sans cuivre* et *sans plomb* ne sont vraisemblablement pas DEUX promesses mais UNE SEULE**,
+et mon « on argumente sur le plomb » etait **un repli invente dans l'heure pour sauver l'argument,
+sans la moindre verification.**
+⚠️ **La source est un blog de filiere, donc rien n'est etabli dans un sens ni dans l'autre** — et
+c'est exactement pour cela que rien ne s'affirme.
+
+**CE QUI RESTE VRAI : lier la page reste legitime, c'est une reference de notre gamme. Ce qui ne
+l'est plus est de PRESENTER le sans-cuivre-ni-plomb comme une singularite, NULLE PART, tant que ce
+n'est pas verifie par marche.** La question posee a Kevin est reecrite en consequence, et elle est
+plus simple : **qu'est-ce qui distingue reellement notre miroir de celui que ces marches fabriquent
+deja ?**
+
+**⚠️⚠️ ET LA SECONDE REGLE VAUT MIEUX QUE LA PREMIERE : QUAND UN DIFFERENCIATEUR TOMBE, ON NE LUI
+CHERCHE PAS UN REMPLACANT DANS L'HEURE.** Un repli trouve en cinq minutes pour sauver un argument
+est **un argument de plus a verifier**, pas une reponse. **C'est la faute STADIP par un autre
+chemin** — celle d'ajouter de soi-meme ce que personne n'a demande.

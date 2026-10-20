@@ -292,8 +292,18 @@ produit est sans cuivre **NI PLOMB**, et l affirmation bresilienne ne porte QUE 
 plomb de longue date, ce qui n est pas le cas partout. **Donc au Bresil on n argumente plus sur le
 cuivre — on argumente sur le PLOMB, ou sur rien.**
 
-**CE QUE JE VOUS DEMANDE, ET C EST UNE QUESTION A UNE LIGNE : notre miroir est-il garanti sans
-PLOMB, et pouvons-nous l ecrire ?** Le paragraphe 5 m interdit toute garantie technique non validee,
+**⚠️⚠️⚠️ ET JE ME CORRIGE DANS L HEURE, AVANT MEME QUE VOUS AYEZ LU CECI : LE REPLI SUR LE PLOMB NE
+TIENT PROBABLEMENT PAS.** Verification faite ensuite : la construction traditionnelle est argent, puis
+CUIVRE, puis peinture AU PLOMB, et une source de filiere ecrit qu une ligne *copper-free* emploie une
+autre chimie et est **normalement sans plomb aussi**. **Donc sans cuivre et sans plomb ne sont
+vraisemblablement pas DEUX promesses mais UNE SEULE**, et mon repli etait un argument invente dans
+l heure pour sauver le premier. ⚠️ La source est un blog de filiere, donc rien n est etabli — et c est
+pour cela que rien ne s affirme.
+
+**CE QUE JE VOUS DEMANDE DONC, ET LA QUESTION EST PLUS SIMPLE QUE CELLE QUE J ALLAIS POSER : qu est-ce
+qui distingue REELLEMENT notre miroir de celui que ces marches fabriquent deja ?** Si c est la
+composition, dites-la-moi et je l ecris. Si c est autre chose — la regularite, le substrat extra-clair,
+le delai — c est cela qu il faut dire, et le sans-cuivre redevient une simple ligne de gamme. Le paragraphe 5 m interdit toute garantie technique non validee,
 donc je ne peux pas le dire a un client tant que vous ne l avez pas confirme — **et c est desormais
 la seule moitie de l argument qui vaille sur ce marche.**
 
