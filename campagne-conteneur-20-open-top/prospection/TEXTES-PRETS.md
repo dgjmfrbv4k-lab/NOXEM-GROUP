@@ -25358,3 +25358,112 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 345. FGS Glass (Bangholme, Melbourne, Australie) — `glass@fgs.com.au` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-26`.**
+
+- **LA MEILLEURE FICHE AUSTRALIENNE DE LA CAMPAGNE, ET LE MOTIF TIENT EN UNE PHRASE DE LEUR PROPRE
+  PAGE : faconneur qui fournit EXCLUSIVEMENT le marche des VITRIERS.** Il ne pose pas, il ne vend
+  pas au particulier — **il alimente la classe a zero pour cent au lieu d en faire partie.**
+- **GRILLE DE STOCK PUBLIEE SUR LES DEUX TERMES DU CRITERE DU 15/10 :** clair en 4, 5, 6, 8, 10, 12
+  et 15 mm, gris et bronze, **et le format de feuille standard 3660 x 2440 mm**.
+- **⚠️ ET LE TEXTE S APPUIE SUR CE FORMAT PARCE QUE C EST LA HUITIEME PREUVE DE LA REGLE DU §4 :**
+  2440 est la **petite** dimension et elle tient largement dans le ruban, 3660 est une **longueur**
+  qui se coupe. **Rien de ce qu ils achetent n est un hors-format pour nous, et c est exactement ce
+  qu un fournisseur europeen doit dire d entree** — c est la crainte qui a fait rater Rubex et
+  Caribbean Glass, prise par l endroit.
+- **⚠️ ET LEUR PROPRE LIMITE EST CITEE DANS LE TEXTE PARCE QU ELLE LES CONCERNE ET NON NOUS :** ils
+  declarent *oversize* au-dela de 3650 et plafonnent le trempe a 3875. **C est la contrainte de leur
+  FOUR**, et la nommer montre qu on a lu leurs pages.
+- **⚠️ AUCUN ARGUMENT DOUANIER — LE §6 L INTERDIT EN AUSTRALIE.** Le dossier 575 de
+  l Anti-Dumping Commission a proroge les droits contre l **Indonesie seule** et **termine**
+  l enquete contre la Chine et la Thailande. Le float chinois entre sans antidumping.
+- **L ARGUMENT EST DONC CELUI DE L ORIGINE ET DE LA SECURITE D APPROVISIONNEMENT**, et il est fort :
+  **plus aucune ligne float en Australasie** depuis l arret d Oceania Glass. ⚠ **Servi AU PASSE** —
+  la ligne a ete arretee — jamais comme une prediction.
+- **REGLE PRODIESA : trempe, feuillete, double vitrage, acide, peint et miroir sortent de l offre.**
+- **AUCUN PRIX ANNONCE.** Formule imposee, porte de sortie, signature une fois. **Port demande.**
+
+**Objet :** `2440 x 3660 - and where it comes from now`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I will say why I am writing to you specifically, because a general email to a
+glass company is worth nobody's time.
+
+Your own pages say you supply the glazier trade exclusively. That is an unusual
+thing to find and it is the whole reason for this email: most of the companies
+in my list install glass, which means they buy it cut, job by job, and a
+container is no use to them. You sit one step upstream. You buy sheet, you hold
+it, and you process it for the people who install. That is the only buying
+pattern a full container fits.
+
+And your pages tell me what you hold: clear in 4, 5, 6, 8, 10, 12 and 15 mm,
+grey and bronze alongside, in a standard sheet of 3660 x 2440.
+
+Let me deal with that sheet size straight away, because it is the thing that
+makes buyers hesitate with a European supplier. Our ribbon is constrained in
+WIDTH, not in length - the practical limit is about 3210 mm, and the other
+dimension is cut to order. Your 2440 is the short side and it sits well inside
+that. Your 3660 is a length. So 2440 x 3660 is a standard cut for us, not a
+special, and nothing in your stock range is an awkward size. I would rather say
+that in the first email than have it be an unspoken doubt.
+
+I also noticed you class anything over 3650 as oversized and cap toughened
+panels at 3875. I read that as your furnace rather than your glass, and it
+does not change anything above - but it tells me which sizes actually move.
+
+What I am NOT offering: toughened, laminated, double glazed, acid etched,
+painted or silvered glass. You make all of those. What I am offering is what
+goes in first:
+
+- clear float, in the thicknesses you stock
+  https://noxemgroup.com/en/float-glass/
+- extra-clear low-iron, which you already use for your Crystal Frost etch
+  https://noxemgroup.com/en/float-glass/
+- and tinted, if grey and bronze move in volume
+  https://noxemgroup.com/en/float-glass/
+
+On why a second origin is worth five minutes, and I will be careful here
+because you would catch me out otherwise. Australia no longer has a float
+line - the last one was shut down, and every sheet in the country now arrives
+by ship. I am not going to wave a tariff at you either: as far as I can
+establish, Chinese float is not subject to Australian antidumping duty, so I am
+not pretending to a cost advantage I do not have. What I am offering is simply
+a different origin, on a different shipping route, for a market where every
+origin is an import.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+in your 3660 x 2440 or as standard jumbo with the length cut to order. We can
+put together an offer for delivery to your port of destination, subject to
+validation on our side - Melbourne, I would guess, but tell me rather than let
+me assume.
+
+What I need back is short: which thicknesses actually move, roughly how much in
+a year, whether low-iron and tinted are in the mix, and the port.
+
+And the honest part. A processor supplying the trade has an import programme
+that works, and an email from France does not change that. I am asking to be a
+second qualified origin for the month when a thickness is short. If there is no
+room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

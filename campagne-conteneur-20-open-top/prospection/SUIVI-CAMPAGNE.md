@@ -10635,3 +10635,38 @@ zero pour cent.
 ⚠️ Adresse `gscwa@live.com.au` : **boite gratuite, exception du paragraphe 5 notee**, employable
 parce qu ils la publient eux-memes. ⚠️ Reserve d echelle : comptoir et credences, **cas Valleywide**
 — acheteur reel, echelle a etablir. Elle passe apres les faconneurs de Melbourne.
+
+
+---
+
+## 20/10 — 15h08 · LA RESERVE LEVEE DANS L HEURE, ET UNE HUITIEME PREUVE POUR LE PARAGRAPHE 4
+
+**Recherches : 2 appels. Deverrouillages : 2. Envois confirmes : 0. Reponses qualifiees : 0.
+Demandes de devis : 0. Commandes : 0. Registre a 1969 fiches, file a 106, textes a 345.**
+
+**FGS GLASS : L EXCEPTION DU PARAGRAPHE 5 EST ETABLIE ET LA FICHE PASSE EN FILE.** Leur page de
+contact publie bien `glass@fgs.com.au`, sur un domaine different du site. **La conduite Cristaleria
+Amigo a donc ete tenue de bout en bout dans la meme journee : fiche creee HORS file le matin faute
+de preuve, mise en file l apres-midi APRES verification.** C est la premiere fois que ce reflexe
+joue en prevention.
+
+**⚠️⚠️ ET LE SECOND TEMPS DONNE AU PARAGRAPHE 4 SA HUITIEME PREUVE, QUI CONFIRME LA SEPTIEME SUR LE
+MEME MARCHE : LE 2440 x 3660 EST LE FORMAT NATIONAL AUSTRALIEN, PAS LA COTE D UNE MAISON.**
+FGS publie sa grille — clair de 4 a 15 mm, gris, bronze — **avec un format de feuille standard de
+3660 x 2440**, exactement celui de **Glass Australia a Perth**, a l autre bout du continent.
+**Deux maisons, deux Etats, la meme cote, et toujours aucune ligne float dans le pays** : cette
+feuille a traverse un ocean en conteneur dans les deux cas. 2440 est la petite dimension et elle
+tient largement dans le ruban, 3660 est une longueur.
+**Et ils publient leur PROPRE limite, ce qui est plus utile qu une cote de ligne** : *oversize*
+au-dela de 3650, trempe plafonne a 3875. **C est la contrainte de leur FOUR et non de notre ruban**,
+meme distinction que pour l autoclave.
+
+**Le texte 345 s appuie la-dessus d entree**, parce que c est exactement la crainte qui a fait
+rater Rubex et Caribbean Glass — prise cette fois par l endroit, et dite au client plutot que tue.
+⚠ **Et il ne contient AUCUN argument douanier** : le paragraphe 6 l interdit en Australie, le
+dossier 575 ayant proroge les droits contre l Indonesie seule et **termine** l enquete contre la
+Chine. **Le texte le dit au client plutot que de le cacher.**
+
+**GLASS MARKET VIC** deverrouillee aussi, `info@glassmarket.com.au`. ⚠ Et sa qualification se
+precise **par ses propres MARQUES** — Vibra, Mirage Epoxy, SanctaGuard, avec declarations de
+garantie publiees. **On ne depose pas une marque sur du verre qu on se contente de revendre.**

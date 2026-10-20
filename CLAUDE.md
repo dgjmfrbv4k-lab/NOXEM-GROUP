@@ -120,6 +120,17 @@ FLOAT depuis l'arrêt d'Oceania Glass.** Donc ces cotes ne peuvent pas être des
 depuis une usine voisine : **ce sont nécessairement des cotes qui ont traversé un océan en
 conteneur.** C'est la démonstration que le format n'est pas seulement produisible, mais
 **transportable** — ce qui est exactement ce que cette campagne doit savoir.
+**⚠️⚠️ ET UNE HUITIÈME SOURCE CONFIRME LA SEPTIÈME SUR LE MÊME MARCHÉ, TROUVÉE LE 20/10 — LE 2440 × 3660 N'EST PAS LA COTE D'UNE MAISON, C'EST LE FORMAT NATIONAL AUSTRALIEN.**
+**FGS Glass**, façonneur de Bangholme près de Melbourne qui fournit exclusivement les vitriers,
+publie sa grille de stock — clair de 4 à 15 mm, gris et bronze — avec un **format de feuille
+standard de 3660 × 2440 mm**, exactement celui de Glass Australia à Perth, à l'autre bout du
+continent. **Deux maisons, deux États, la même cote, et toujours aucune ligne float dans le
+pays** : cette feuille a donc traversé un océan en conteneur dans les deux cas. La petite
+dimension, 2440, tient largement dans le ruban ; le 3660 est une longueur.
+**ET ILS PUBLIENT AU PASSAGE OÙ EST LEUR PROPRE LIMITE, ce qui est plus utile qu'une cote de
+ligne :** panneau trempé maximum **3875 mm**, et toute cote dont une dimension dépasse **3650**
+est déclarée *oversize* avec supplément et délai. **C'est la contrainte de leur FOUR, pas celle
+de notre ruban** — et la distinction est la même que celle de l'autoclave au point 2 ci-dessous.
 **BILAN DE LA RÈGLE : ONZE sources, HUIT pays, QUATRE continents, aucun contre-exemple — et la
 onzième ÉNONCE la règle au lieu de l'illustrer.** Devis
 d'Aaron 3300 · Intervidro 3210/3300/3600 · TSJ Vidros 2400 de large · Prodiesa 2600 × 3660 · Metro
