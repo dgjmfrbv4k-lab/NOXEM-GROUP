@@ -283,3 +283,37 @@ signaux. **Les deux fiches finlandaises remontent du rang 90 au rang 68.**
 **REGLE : un classement se fait sur un CHAMP CURATE, jamais sur la prose d une note.** C est la
 quatrieme fois que cette famille mord — apres le marqueur `DOUBLON` ecrit en prose, le `;` de
 ponctuation et le `grep` sur la ligne entiere.
+
+
+---
+
+## ⚠️⚠️ REGLE DE SAISIE NOUVELLE, A APPLIQUER A PARTIR DE DEMAIN SUR **TOUT** ENVOI — ajoutee a 13h52
+
+**TOUTE FICHE QUI PASSE EN `ENVOYE` PORTE DESORMAIS, EN TETE DE SA NOTE ET EN FORMAT FIXE :**
+
+```
+1ER CONTACT 2026-10-21
+```
+
+**POURQUOI, ET CE N EST PAS une formalite : LE REGISTRE N A PAS DE CHAMP DATE DE PREMIER CONTACT, ET
+C EST CE QUI REND L ANALYSE DE COHORTE IMPOSSIBLE.** Mesure du 20/10 : la date d un statut est celle
+de la **derniere action** — une fiche qui repond passe en `REPONSE 2026-10-15` et **perd la trace de
+son envoi d origine**. La date du premier envoi n existe que **dans la prose des notes**, et un
+relevé automatique ne la retrouve que sur **438 des 742 fiches contactees, soit 59 pour cent**.
+
+**CE QUE CELA COUTE AUJOURD HUI : on ne peut PAS savoir si un changement de message, de ciblage ou
+de signature a marche.** Le taux global est tombe de 6,7 a 2,9 pour cent en une semaine et **les
+quatre hypotheses qui l expliqueraient sont intestables** faute de pouvoir decouper par cohorte.
+C est la regle du paragraphe 12 une fois de plus : **ce qu un comptage doit voir ne se met pas en
+prose.**
+
+**UN FORMAT FIXE SE COMPTE, UNE PHRASE NE SE COMPTE PAS.** Donc : `1ER CONTACT` en majuscules,
+suivi de la date ISO, **en tete de note, avant tout le reste**, et jamais autrement.
+
+**⚠️ ET LA COHORTE D ESSAI DE DEMAIN EN DEPEND ENTIEREMENT.** Les cinq fiches de l axe des industries
+qui ne s appellent pas verre — ART Maslen, Refricomp, Ojeda, Supernordico, BC Greenhouse — ne valent
+comme essai **que si l on peut les retrouver dans deux semaines**. Sans ce champ, on saura qu il y a
+eu des reponses sans pouvoir dire d ou elles viennent.
+
+**La reprise RETROACTIVE des 742 fiches deja contactees n est PAS faite** : elle demande de relire
+742 notes dont 41 pour cent ne portent pas la date du tout, et elle est portee a Kevin.
