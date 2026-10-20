@@ -22,13 +22,16 @@ Les anciennetes ci-dessous sont donc des anciennetes **de registre**, pas des pr
 | En attente d un APPEL, toutes avec un numero | **286** |
 | En attente d un ARBITRAGE de votre part | **41** |
 | Reponses recues a traiter | **5** |
-| **Demandes de prix ouvertes** | **7** · plus **1** devis envoye et **3** en negociation |
+| **Demandes de prix ouvertes** | **5** · plus **3** devis envoyes sans reponse et **3** en negociation |
 
 ## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
 
-**SEPT societes ont demande un prix et attendent**, et les sept portent ce statut au registre.
-**La septieme est tombee ce matin a 12h02 et c est la meilleure nouvelle de la journee** — voir
-juste apres le tableau.
+**⚠️⚠️ CETTE SECTION A ETE CORRIGEE TROIS FOIS CE MATIN ET JE LE DIS PLUTOT QUE DE LA LISSER.**
+En relisant la boite a 12h15 — ce que le paragraphe 2 me demandait de faire EN PREMIER et que
+j avais remis a plus tard — **j ai decouvert que DEUX des societes que je vous presentais comme
+attendant un prix EN ONT DEJA UN.** La liste ci-dessous est la bonne.
+
+### A. CINQ attendent reellement un chiffrage
 
 | Societe | Pays | Demande depuis | Attente |
 |---|---|---|---|
@@ -36,47 +39,42 @@ juste apres le tableau.
 | **Rubex** (Nada Hassan) | Egypte | 29/09 | **21 jours** |
 | **Nepal Glass Udyog** (Amir Shrestha) | Nepal | 09/10 | **11 jours** |
 | **Unionglass** (Teresa Lonardelli) | Argentine | 13/10 | **7 jours** |
-| **Christakis Avgousti** (Stella Stylianidou) | Chypre | 13/10 | **7 jours** |
-| **Industrial Mercantil San Simon** | Guatemala | 14/10 | **6 jours** |
 | **Lasimyynti Tammela** (Kai Tammela) | Finlande | **20/10** | **aujourd hui** |
 
-**⚠️⚠️ ET LE SEPTIEME EST TOMBE CE MATIN, EN MOINS DE TROIS HEURES APRES UN PREMIER CONTACT A
-FROID — LASIMYYNTI TAMMELA, A VANTAA PRES D HELSINKI.** Kai Tammela nous ecrit de lui-meme qu ils
-sont un petit grossiste **et qu ils achetent deja leur verre en CONTENEURS OT MIXTES depuis
-l Europe ET LA CHINE**. *OT* est l open top : **c est exactement le conteneur de cette campagne, et
-c est lui qui le dit.** Ce n est pas un prospect a convaincre d importer, c est un importateur qui
-compare des origines.
-**Il demande des prix indicatifs pour SIX references en 2550 x 3210 — notre jumbo standard — rendu
-port d Helsinki** : feuillete 33.1 et 44.1, miroir argent et miroir aluminium en 4 mm, et de
-l extra-clair 4 mm laque fond RAL 9003, clair et depoli. Le detail est dans
+**⚠️ ET LE DOSSIER NEPALAIS EST CELUI A REGARDER EN PREMIER.** C est **le plus gros volume declare
+de toute la campagne**, et **un prix lui a ete promis PAR ECRIT le 09/10 pour *early next week***.
+Son statut au registre disait seulement `REPONSE` jusqu a ce matin, de sorte qu il etait invisible
+a tout comptage. ⚠️ **Reserve honnete : deux pieces jointes lui sont parties le 16/10 et je n ai
+pas pu les ouvrir — je ne peux donc pas affirmer qu aucune cotation ne lui a ete envoyee.** A
+confirmer par vous.
+
+**⚠️⚠️ ET LE DOSSIER FINLANDAIS EST TOMBE CE MATIN, EN MOINS DE TROIS HEURES APRES UN PREMIER
+CONTACT A FROID.** Kai Tammela ecrit de lui-meme qu ils sont un petit grossiste **et qu ils
+achetent deja leur verre en CONTENEURS OT MIXTES depuis l Europe ET LA CHINE** — *OT* est l open
+top, exactement le conteneur de cette campagne. **Six references en 2550 x 3210, rendu Helsinki**,
+detaillees dans `GRILLE-DE-PRIX-A-FAIRE.md`. **Et il demande de lui-meme si nous livrons des verres
+FINIS dans un conteneur complet** : voir le point 6.
+
+### B. TROIS ONT DEJA LEUR DEVIS ET NE REPONDENT PAS — l action y est une RELANCE, pas un prix
+
+| Societe | Devis parti le | Silence depuis | Ce qu il faut savoir |
+|---|---|---|---|
+| **United Glass** (John) | 08/10, **renvoye le 15/10** | **5 jours** | Il avait ecrit *never received your quote*. Renvoye avec piece jointe le 15/10 a 14h14. |
+| **Christakis Avgousti** (Stella) | **14/10**, ref. D-20260010203 | **6 jours** | Relance deja faite le 15/10 a 09h53, sans reponse. |
+| **Industrial Mercantil San Simon** | **16/10** | **4 jours** | ⚠️ Il demandait un TABLEAU en **CIF ET FOB** ; la cotation partie porte sur du **laminado en CIF seul**. Je n ai pas pu ouvrir les pieces jointes et **je ne peux pas dire si cela correspond**. |
+
+**⚠️ POURQUOI CES TROIS FICHES ETAIENT FAUSSES, ET LA CAUSE N EST PAS UNE NEGLIGENCE DE SAISIE :
+les devis sont partis DE VOTRE MAIN, depuis votre propre client, et le registre ne le voit pas.**
+C est l angle mort decrit depuis le 08/10. **Le remede est une reconciliation boite-registre, et je
+la ferai desormais au debut de chaque journee** — c est d ailleurs ce que le paragraphe 2 impose
+deja et que je n avais pas fait ce matin.
+
+### C. Ce qu il faut, au minimum
+
+**Float clair au m2, par epaisseur de 4 a 12 mm, en 20 pieds complet, rendu port**, plus deux
+conditions — **l incoterm** (trois clients ont ecrit CIF) et les **conditions de paiement**. Le
+detail dossier par dossier, avec cotes, epaisseurs, ports et volumes confirmes, est dans
 `GRILLE-DE-PRIX-A-FAIRE.md`.
-**⚠️⚠️ ET IL POSE DE LUI-MEME LA QUESTION DU GROUPAGE, ce qui en fait le DEUXIEME client a la poser
-apres Miro Est** : *livrez-vous des verres FINIS inclus dans un conteneur complet, par exemple du
-trempe et du feuillete poli ?* **Voir le point 6 ci-dessous — ce n est plus une hypothese de
-marche, c est une demande client repetee.**
-**Rien ne lui est parti**, paragraphe 5 : le texte de reponse est prepare et attend votre mot.
-
-**⚠️ ET LE DOSSIER NEPALAIS EST CELUI QU IL FAUT REGARDER EN PREMIER, pour deux raisons.** C est
-**le plus gros volume declare de toute la campagne**, et **un prix lui a ete promis PAR ECRIT le
-09/10 pour *early next week*** — nous sommes onze jours plus tard.
-**Son statut au registre disait seulement `REPONSE` jusqu a ce matin**, de sorte qu un comptage
-automatique des demandes de prix en rendait cinq au lieu de six et que ce dossier etait invisible.
-**Corrige, et la cause est consignee** : un comptage ne voit que le statut, jamais une decision
-ecrite en prose.
-
-**S y ajoutent, et ils attendent le meme chiffrage : United Glass au Canada**, a qui un devis est
-parti le 08/10 mais **pas sur la cote qu il avait demandee**, et les trois dossiers en negociation
-— **Caribbean Glass Specialists**, **Miro Est** et **Carlen Glass**, ce dernier etant un compte
-protege traite a part. **Cela fait les NEUF que `GRILLE-DE-PRIX-A-FAIRE.md` detaille**, dossier par
-dossier, avec les cotes, les epaisseurs, les ports et les volumes deja confirmes par le client.
-
-**Une seule grille les debloque toutes.** Le detail — cotes, epaisseurs, ports, volumes confirmes —
-est dans `GRILLE-DE-PRIX-A-FAIRE.md`. **Le minimum utile : float clair au m2, par epaisseur de 4 a
-12 mm, en 20 pieds complet, rendu port**, plus deux conditions — **l incoterm** (trois clients ont
-ecrit CIF) et les **conditions de paiement**.
-
-**Pourquoi c est le premier point : ce sont les seuls prospects de toute la campagne qui ont demande
-a acheter.** Tout le reste de ce fichier sert a en fabriquer d autres.
 
 ## 2. 🔴 LE CRENEAU D APPELS — 286 fiches, un numero chacune, zero appel jamais passe
 

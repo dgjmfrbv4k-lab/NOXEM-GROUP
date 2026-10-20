@@ -9,19 +9,35 @@ Ce ne sont pas des prospects : ce sont des gens qui ont DEMANDE un prix et qui a
 ## ⚠️ ANCIENNETES RECALCULEES LE 20/10 — le fichier datait du 16/10 et ses chiffres avaient
 quatre jours de retard. **Substituees depuis la date de chaque demande, jamais tapees.**
 
+## ⚠️⚠️ CORRECTION MAJEURE DU 20/10 A 12h16 — TROIS DE CES DOSSIERS ONT DEJA LEUR DEVIS
+
+**En relisant la boite ce midi j ai decouvert que TROIS des dossiers listes ici comme attendant un
+chiffrage ONT DEJA RECU LEUR COTATION**, partie de la main de Kevin depuis son propre client :
+**United Glass** le 08/10 puis renvoyee le 15/10, **Christakis Avgousti** le 14/10 sous la
+reference D-20260010203, et **Industrial Mercantil San Simon** le 16/10. **Aucun des trois n a
+repondu depuis.**
+
+**Leur action n est donc PAS un prix, c est une RELANCE** — et elles sont barrees dans le tableau
+ci-dessous plutot que supprimees, pour que la trace reste. **La grille reste necessaire pour les
+CINQ autres**, dont le Nepal, qui est le plus gros volume de la campagne.
+
+**La cause de l erreur est l angle mort du paragraphe 13 : je ne vois pas ce qui part de votre
+propre client de messagerie.** Desormais la reconciliation boite-registre se fait au debut de
+chaque journee.
+
 ## Les neuf, par anciennete de la demande
 
 | # | Societe | Pays | Demande depuis | Attente | Ce qu'il faut chiffrer | Port |
 |---|---|---|---|---|---|---|
 | 1 | **PG Glass** (Willem Heunis) | Namibie | 28/09 | **22 j** | 4 conteneurs 20' fermes, un par reference | CIF Walvis Bay, fret ligne separee |
 | 2 | **Rubex** (Nada Hassan) | Egypte | 29/09 | **21 j** | float clair 6 et 10 mm, 3300 x 2140 | Alexandrie |
-| 3 | **United Glass** (John) | Canada | 06/10 | **14 j** | 9 references au pied carre, **en 3210 x 2550** | CIF Toronto |
+| ~~3~~ | ~~**United Glass**~~ **DEVIS DEJA PARTI** — renvoye le 15/10 | Canada | — | **relance** | 9 references au pied carre, **en 3210 x 2550** | CIF Toronto |
 | 4 | **Caribbean Glass Specialists** (Akeeda) | Trinite | 07/10 | **13 j** | 5 references, prix ET fret rendu | Port of Spain |
 | 5 | **Nepal Glass Udyog** (Amir Shrestha) | Nepal | 09/10 | **11 j** | **float clair 12 mm** d'abord | CIF Kolkata ou Haldia, a confirmer |
 | 6 | **Miro Est** (Graziella Virassamy) | La Reunion | 12/10 | **8 j** | clair 6 et 8 mm, plus feuillete 33/1 44/2 55/2 | Port-Reunion |
 | 7 | **Unionglass** (Teresa Lonardelli) | Argentine | 13/10 | **7 j** | feuillete incolore 3+3, 4+4, 5+5 en 3660 x 2550 | Buenos Aires |
-| 8 | **Christakis Avgousti** (Stella Stylianidou) | Chypre | 13/10 | **7 j** | float clair 4, 5 et 6 mm en 3210 x 2550 et 3210 x 2250 | CIF Limassol |
-| 9 | **Industrial Mercantil San Simon** | Guatemala | 14/10 | **6 j** | cotizacion promise **sous 24 h**, echue | Puerto Quetzal ou Santo Tomas |
+| ~~8~~ | ~~**Christakis Avgousti**~~ **DEVIS DEJA PARTI le 14/10**, ref. D-20260010203 | Chypre | — | **relance** | float clair 4, 5 et 6 mm en 3210 x 2550 et 3210 x 2250 | CIF Limassol |
+| ~~9~~ | ~~**Industrial Mercantil San Simon**~~ **COTATION DEJA PARTIE le 16/10** | Guatemala | — | **relance** | cotizacion promise **sous 24 h**, echue | Puerto Quetzal ou Santo Tomas |
 
 ---
 

@@ -8995,3 +8995,41 @@ texte, en raisonnant qu elle n a pas de sens face a quelqu un qui vient de deman
 demandes de prix, textes 68 et 69, en portent une. **La convention existait et je ne l avais pas
 regardee.** Ajoutee, et adaptee a lui — la sortie porte sur **les chiffres** et non sur la methode,
 puisqu il achete deja ainsi.
+
+---
+
+### 20/10 — 12h17 · ⚠️ TROIS DOSSIERS ANNONCES EN ATTENTE DE PRIX AVAIENT DEJA LEUR DEVIS
+
+**Les cinq chiffres du paragraphe 3, corriges :** recherches **0** · envois confirmes **20** ·
+reponses qualifiees **1** · **demandes de prix reellement ouvertes : 5, et non 7** · **devis
+envoyes sans reponse : 3** · commandes **0**.
+
+**CE BLOC EST UNE CORRECTION ET IL FAUT COMMENCER PAR LA FAUTE.** En relisant la boite a midi — ce
+que le paragraphe 2 met en **priorite absolue** et que j avais remis apres une matinee entiere de
+prospection — j ai decouvert que **trois des dossiers que je presentais a Kevin comme attendant un
+chiffrage ONT DEJA RECU LEUR DEVIS** :
+- **United Glass**, devis parti le 08/10 et **renvoye le 15/10** apres qu il eut ecrit *never
+  received your quote*. **Cinq jours de silence depuis.**
+- **Christakis Avgousti**, devis **D-20260010203 parti le 14/10 a 08h22**, relance deja faite le
+  15/10 a 09h53. **Cinq jours de silence.** L erreur courait donc depuis **six jours**.
+- **Industrial Mercantil San Simon**, **cotation partie le 16/10 a 08h40**. **Quatre jours.**
+  ⚠ Et un ecart signale sans etre tranche : il demandait un tableau **en CIF ET FOB**, la cotation
+  porte sur du **laminado en CIF seul**. Je ne peux pas ouvrir les pieces jointes, donc je ne dis
+  pas que cela ne correspond pas — je dis que **je ne peux pas l affirmer**, et c est une question
+  pour Kevin avant toute relance.
+
+**LEUR ACTION EST DONC L INVERSE DE CE QUE J ANNONCAIS : pas un prix, une RELANCE.**
+
+**LA CAUSE N EST PAS UNE NEGLIGENCE DE SAISIE : les trois devis sont partis DE LA MAIN DE KEVIN
+depuis son propre client**, et une fiche ne se met pas a jour toute seule. C est l angle mort du
+paragraphe 13, connu depuis le 08/10 — mais jusqu ici il avait coute un doute sur un dossier, pas
+une erreur dans trois.
+
+**LE REMEDE EST UNE ROUTINE ET NON UNE VIGILANCE : la reconciliation boite-registre se fera au
+DEBUT de chaque journee, avant la premiere recherche.** Et la requete qui les a trouves vaut
+mieux qu une relecture fiche par fiche : **`in:sent newer_than:12d has:attachment`** — un devis a
+une piece jointe, une prospection n en a pas.
+
+**Statuts corriges, `GRILLE-DE-PRIX-A-FAIRE.md` corrige avec les trois lignes barrees plutot que
+supprimees, et le tableau de bord refait.** Il porte desormais deux sections : **cinq qui
+attendent un chiffrage**, et **trois qui attendent une relance**.
