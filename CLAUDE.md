@@ -120,7 +120,8 @@ FLOAT depuis l'arrêt d'Oceania Glass.** Donc ces cotes ne peuvent pas être des
 depuis une usine voisine : **ce sont nécessairement des cotes qui ont traversé un océan en
 conteneur.** C'est la démonstration que le format n'est pas seulement produisible, mais
 **transportable** — ce qui est exactement ce que cette campagne doit savoir.
-**BILAN DE LA RÈGLE : DIX sources, SEPT pays, QUATRE continents, aucun contre-exemple.** Devis
+**BILAN DE LA RÈGLE : ONZE sources, HUIT pays, QUATRE continents, aucun contre-exemple — et la
+onzième ÉNONCE la règle au lieu de l'illustrer.** Devis
 d'Aaron 3300 · Intervidro 3210/3300/3600 · TSJ Vidros 2400 de large · Prodiesa 2600 × 3660 · Metro
 Glass 5100 × 3210 en tableau · Glass Australia 2440 × 3660 sur un marché sans four · **et les trois
 scandinaves du 20/10, qui atteignent la cote maximale : Glasjouren 3210 × 6000 EN STOCK, Fasadglas
@@ -155,6 +156,30 @@ petite dimension tient-elle dans 3210 ?**
    **La question change donc de nature et se rétrécit exactement comme celle de l'autoclave : elle
    n'est plus technique mais factuelle, et elle est pour Aaron.** Rien ne s'en écrit à un client
    dans l'intervalle, le §5 interdisant toute garantie technique non validée.
+   **⚠️⚠️⚠️ ET UNE HEURE PLUS TARD LA FINLANDE DONNE LA SOURCE QUI CLÔT LE VOLET « EST-CE QUE CETTE
+   COTE EXISTE » : LA *SUOMEN TASOLASIYHDISTYS RY*, L'ASSOCIATION FINLANDAISE DU VERRE PLAT, ÉCRIT
+   LA RÈGLE DU §4 MOT POUR MOT DANS SON PROPRE GLOSSAIRE DE MÉTIER.** Mot pour mot :
+   *« Yleisimmät varastokoot : **3210 mm × 6000 mm** ja **3210 mm × 5100 mm**. Erikoistilauksesta
+   saadaan muitakin mittoja, mutta **toisen mitan maksimi käytännössä 3210 mm**. »* — soit : **les
+   formats de STOCK les plus courants sont 3210 × 6000 et 3210 × 5100 ; d'autres cotes s'obtiennent
+   sur commande spéciale, mais en pratique le maximum de L'UNE des deux dimensions est 3210 mm.**
+   **C'EST LA RÈGLE ELLE-MÊME, ÉNONCÉE PAR UNE ASSOCIATION PROFESSIONNELLE NATIONALE**, et non plus
+   déduite d'une série de cotes : *une* dimension est plafonnée à 3210, l'autre se décline. Metro
+   Performance Glass l'avait mise en tableau pour son propre catalogue ; ici c'est la profession qui
+   la définit.
+   **ET LEUR SUPPORT DE FORMATION VA PLUS LOIN QUE TOUT CE QUE LA CAMPAGNE AVAIT VU :** *« Tyypillinen
+   valmistuskoko **3210 × 6000 mm** ja 0,4–19 mm paksuisena. Nykyään myös mahdollista
+   **3210 × 18000 mm**. »* — cote de **fabrication typique 3210 × 6000 en 0,4 à 19 mm**, et
+   **aujourd'hui le 3210 × 18 000 mm est également possible**. Dix-huit mètres.
+   **CE QUE CELA RÈGLE ET CE QUE CELA NE RÈGLE PAS, et la distinction ne bouge pas d'un pouce :** le
+   volet **industriel** de la question n°1 est réglé — le 6000 × 3210 n'est pas une cote exotique,
+   c'est le **format de stock courant** d'un marché entier, et la demande de Rákosy Üveg était donc
+   parfaitement ordinaire. Le volet qui reste est le seul qui compte pour nous et il est **factuel
+   et pour Aaron** : **nos usines partenaires livrent-elles le 6000 × 3210 ?** Tant qu'il ne l'a pas
+   dit, **rien ne s'en écrit à un client** (§5) — un glossaire de fédération n'est pas une validation
+   de notre capacité, exactement comme un catalogue d'équipementier ne l'était pas pour l'autoclave.
+   **Et la liste des épaisseurs nominales qu'ils publient se garde comme repère de vocabulaire :**
+   2, 3, 4, 5, 6, 8, 10, 12, 19 et 25 mm.
    **Et le §4 gagne une règle de méthode au passage : les cotes les plus grandes se trouvent là où
    le camion ne va pas.** Les sept premières preuves venaient du Brésil, du Mexique, de
    Nouvelle-Zélande et d'Australie ; ces trois-là viennent de Scandinavie. **Un marché servi par

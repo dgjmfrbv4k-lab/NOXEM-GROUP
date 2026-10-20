@@ -20821,3 +20821,186 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 298. Esla Lasi Oy (Espoo, region d Helsinki) — `jarmo.granqvist@eslalasi.fi` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 09h05. Envoi couvert par l accord expres de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS, aucune relance.**
+
+- **⚠️⚠️ POURQUOI CELLE-CI MAINTENANT :** il est 09h05 a Paris, donc une heure de plus a Helsinki, en
+  pleine matinee ouvree. La Finlande n a aucun ferie en octobre et mardi 20 est ouvre.
+- **⚠️⚠️ L ADRESSE EST NOMINATIVE ET C EST LE CAS QUE LE §5 AUTORISE EXPRESSEMENT, pas une
+  exception.** Leur page de contact donne **Jarmo Granqvist pour les ACHATS** (*hankinta*), la vente
+  et les offres. Le §5 nomme « achats, import, direction » : la fonction est **vérifiée et
+  pertinente**, et elle est publiée **par la société sur son propre domaine**. C est l équivalent
+  nommé du `inkoop@` de Vandaglas, et c est **la première boîte d achats nommée de la campagne**.
+  Les autres sont écartées : Jaana Sorri est **vente et offres**, `laskut@` et `reskontra@` sont la
+  **facturation**. La générale `eslalasi@eslalasi.fi` reste en second essai.
+- **⚠️ LE TEXTE EST BÂTI SUR CE QU ILS DISENT D EUX-MÊMES ET SUR RIEN D AUTRE** : société d **import
+  et de négoce de gros**, qui fait venir des produits de fabricants **du monde entier** et qui
+  **coopère avec plusieurs grossistes européens et nord-américains**. C est le critère du
+  **vocabulaire d import** du §5, celui qui passe avant l épaisseur et le format.
+- **⚠️ CE QUE LE TEXTE NE FAIT PAS, ET C EST VOULU : il n affirme AUCUNE épaisseur et AUCUN format.**
+  Ils n en publient pas, donc le critère d entrée du 15/10 n est pas vérifiable — les deux questions
+  se **posent** au lieu de s affirmer. Et la mention qu ils vendraient aussi du verre finlandais vient
+  d un **annuaire**, pas d eux : elle n est pas dans le texte, leçon Imporex.
+- **⚠️ RIEN SUR LES DROITS DE DOUANE ni sur la fiscalité**, §5 et §6. Rien non plus sur le délai, le
+  prix ou un certificat. La formule imposée est présente.
+- **L argument du float absent est VRAI en Finlande** — le four de **Lahti** a été arrêté en **2009** —
+  et il est servi **au passé**, règle Australie. **Pilkington Lahti n est pas nommé**, et le texte ne
+  laisse pas entendre que la Finlande produise : le site de Lahti est de la **transformation**.
+- **Règle Prodiesa :** ce sont des négociants purs, donc rien ne sort de l offre — mais le texte reste
+  sur le **substrat** et ne leur propose aucun produit transformé qu ils feraient faire.
+- **Porte de sortie du §9 présente. Signature du §10 une seule fois.**
+
+**Objet :** `A second European origin, in full containers - Helsinki`
+
+```
+Hello Mr Granqvist,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. I am writing to you rather than to the general address because
+your own contact page lists purchasing among your responsibilities - if that
+has changed, I would be grateful if you passed this to whoever buys today.
+
+I am writing because of how you describe your own business, and it is an
+unusually exact fit. You are an import and wholesale house. You bring glass in
+from well-known manufacturers around the world, and you already work with
+several European and North American wholesalers. So I do not have to persuade
+you that glass arrives by sea, or that having more than one source is worth
+something - you organised your company around both of those facts.
+
+What I am is one more European origin, direct from the works rather than
+through another wholesaler's stock:
+
+- clear and extra-clear float glass, the base of the range
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order, so a size your customers already work to is not an obstacle. We
+can put together an offer for delivery to your port of destination, subject to
+validation on our side - Helsinki or Kotka, whichever your forwarder uses.
+
+What I need back is short, and it is the part only you can answer. Which
+thicknesses actually move through your warehouse, and in what sheet sizes.
+Which of them you would rather not depend on a single origin for. An
+approximate annual volume with how often you buy. And the port you clear
+through today. I would rather work from what you tell me than from what I can
+read about you.
+
+And the honest part, since you buy for a living and will have heard this
+before. An importer with working supply lines does not change them on a first
+email, and I am not asking you to. What I am asking is to be a qualified name
+on the list, for the month when one of the others is short or an unusual
+thickness is on back order. If there is no room for another origin, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 299. K ja R Tammela Oy — Lasimyynti Tammela (Vantaa, region d Helsinki) — `myynti@lasimyynti.fi` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 09h07. Envoi couvert par l accord expres de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS, aucune relance.**
+
+- **⚠️ LA BOÎTE EST DU MAUVAIS CÔTÉ DU TABLEAU DU §13 ET C EST ASSUMÉ :** `myynti` veut dire **vente**
+  en finnois, donc c est la boîte où **leurs** clients achètent. C est la **seule** publiée, et le
+  mandat autorise alors de l employer **en sachant** que le premier paragraphe doit demander la
+  transmission. Il la demande, en toutes lettres et en première phrase.
+- **Le texte est bâti sur leur propre page** : *tukkuliike* — grossiste — de verre et de quincaillerie
+  de vitrage, **et** transformateur, servant **les magasins de verre** et les entreprises de
+  construction. Vendre au **métier** et non au chantier est le signal de la classe négoce.
+- **⚠️ TROIS CHOSES NE SONT PAS ÉTABLIES ET LE TEXTE LES POSE AU LIEU DE LES AFFIRMER :** aucune
+  **épaisseur**, aucun **format de feuille** et **aucune mention d import** n a été trouvée chez eux.
+  Le critère d entrée du 15/10 n est donc pas vérifiable, et le texte ne fait semblant de rien.
+- **⚠️ RIEN SUR LES DROITS ni sur la fiscalité**, §5 et §6. Rien sur le prix, le délai ou un
+  certificat. La formule imposée est présente.
+- **L argument du float absent est VRAI en Finlande** — four de **Lahti** arrêté en **2009** — servi
+  **au passé**. Pilkington n est pas nommé.
+- **Règle Prodiesa :** ils transforment, donc le texte reste sur le **substrat** et ne leur propose
+  rien de transformé.
+- **Porte de sortie du §9 présente. Signature du §10 une seule fois.**
+
+**Objet :** `Flat glass by the container - a second origin for the Vantaa warehouse`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation, and I am writing to your sales address because it is the only one
+you publish. If you are not the person who BUYS the glass, I would be grateful
+if you passed this on to whoever does - it will mean nothing to a colleague
+who sells.
+
+I am writing because of what you say you are: a wholesaler of glass and
+glazing hardware, and a processor, serving glass shops and the building and
+renovation trades. A house that supplies other glass shops buys sheet by the
+load and keeps the balance on its own racks. That is the house a container is
+built for, and it is not the case for a glazier whose sizes change with every
+job.
+
+And there is the plain fact about your market, which you know better than I
+do: the last float furnace in Finland was shut down at Lahti and nothing has
+replaced it, so every sheet that reaches Kuriirikuja arrived from abroad. The
+question was never local or imported. It is which origins you can call on.
+
+What we supply, with the pages rather than my word for it:
+
+- clear and extra-clear float glass, the base of the range
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order, so a size your customers already work to is not an obstacle. We
+can put together an offer for delivery to your port of destination, subject to
+validation on our side - Helsinki or Kotka, whichever your forwarder uses.
+
+I will not pretend to know your figures, because you do not publish them, so I
+am asking rather than assuming. Which thicknesses actually move through the
+warehouse. What sheet sizes you stock them in. Whether you import directly
+today or buy from an importer here. An approximate annual volume with how
+often you replenish. And the port.
+
+And the honest part. A wholesaler with a working supply line does not change
+it on the strength of a first email, and I am not asking you to. What I am
+asking is to be a second name, qualified in advance, for the month when the
+first one is short or a thickness is on back order. If you are committed to
+the supply you have, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

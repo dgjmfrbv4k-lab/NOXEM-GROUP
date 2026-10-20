@@ -991,3 +991,55 @@ meilleur gisement de prospects identifié depuis le début de la campagne, et il
 **Et une question de méthode qui en découle, à poser à un transitaire ou à une chambre de commerce :
 quels AUTRES pays publient cela ?** Les États-Unis ne le font pas, le Brésil ne le fait pas — je l'ai
 vérifié. Si un seul autre grand marché le fait, le gisement double.
+
+---
+
+## ✅ LE PLF DE 6000 x 3210 N'EST PLUS UNE QUESTION OUVERTE SUR L'INDUSTRIE — ELLE L'EST SEULEMENT SUR NOUS. Releve du 20/10 a 09h02
+
+**Rappel de ce qui etait ouvert depuis le 08/10, section 4 ter.** RAKOSY UVEG nous a ecrit que ses
+formats d'achat standard sont des feuilles jumbo, **typiquement 6000 x 3210 mm**, et qu'il ne peut pas
+travailler economiquement autrement. Nous n'avions **qu'un seul fait**, le sien, et le mandat
+plafonnait a **5100 x 3210** chez Metro Performance Glass en Nouvelle-Zelande. Je n'ai donc jamais pu
+lui repondre sur ce point.
+
+**CE QUE LA MATINEE DU 20/10 A TROUVE, EN CHERCHANT DES PROSPECTS SCANDINAVES ET PAS CELA DU TOUT —
+QUATRE SOURCES PUBLIQUES, DEUX PAYS, ET LA DERNIERE EST UNE FEDERATION DE METIER.**
+
+1. **SUOMEN TASOLASIYHDISTYS RY**, l'association finlandaise du verre plat, ecrit dans son glossaire
+   que **les formats de STOCK les plus courants sont 3210 x 6000 et 3210 x 5100 mm**, et que sur
+   commande speciale d'autres cotes s'obtiennent, **le maximum de l'UNE des deux dimensions etant en
+   pratique 3210 mm**. Son support de formation ajoute que la **cote de fabrication typique est
+   3210 x 6000 en 0,4 a 19 mm**, et **qu'aujourd'hui le 3210 x 18000 mm est egalement possible**.
+2. **GLARMESTERLAUGET**, la corporation danoise des vitriers, ecrit que le verre **se coupe
+   normalement au format 3210 x 6000 mm**.
+3. **GLASJOUREN I STOR-STOCKHOLM** (Suede) dit tenir **EN STOCK** les epaisseurs courantes au format
+   **3210 x 6000**, et fabriquer des miroirs **jusqu'a 6000 x 3210**.
+4. **FASADGLAS BACKLIN** (Suede) donne son float de 2 a 19 mm **jusqu'a 3 x 6 metres**.
+
+**CE QUE CELA REGLE.** Le 6000 x 3210 n'est pas une cote exotique ni une demande difficile : c'est le
+**format de stock courant** de marches entiers, defini comme tel par **deux federations de metier** et
+non par des vendeurs. La demande de Rakosy etait donc parfaitement ordinaire, et ma prudence de
+l'epoque — la meme qui m'avait fait ecrire a tort a Rubex et a Caribbean Glass — etait excessive une
+fois de plus.
+
+**CE QUE CELA NE REGLE PAS, ET C'EST LA SEULE QUESTION QUI RESTE, ELLE EST POUR VOUS.**
+**Nos usines partenaires livrent-elles le 6000 x 3210 ?** Savoir que la profession le tient en stock
+ne dit rien de ce que les notres font, exactement comme savoir que LiSEC vend des autoclaves de 3300
+ne disait rien de l'autoclave des notres. **Rien n'en est ecrit a un client tant que vous ne l'avez
+pas dit**, paragraphe 5.
+
+**ET LA QUESTION EST PLUS ETROITE QU'AVANT, DONC PLUS FACILE A POSER A UNE USINE :**
+- livrez-vous le **6000 x 3210** ? et si oui, en quelles **epaisseurs** ?
+- et jusqu'ou allez-vous au-dela — le **5100 x 3210** au minimum, le **18000** etant annonce possible
+  par la federation finlandaise ?
+
+**CE QUE LA REPONSE DEBLOQUE IMMEDIATEMENT :** le dossier **Rakosy Uveg**, en attente depuis le 08/10,
+et avec lui tout prospect europeen de l'Est et du Nord qui achete en PLF plutot qu'en jumbo de vente.
+Les quatre sources ci-dessus montrent que ce profil d'acheteur est courant et non marginal.
+
+**⚠️ ET UNE RESERVE DE TRANSPORT QUE JE NE PEUX PAS LEVER D'ICI, elle rejoint la question du 19/10 a
+18h46 :** une feuille de 6000 mm **ne rentre pas** dans un conteneur de 20 pieds, dont la longueur
+interieure est d'environ 5,90 m, et elle tient de justesse dans un 40 pieds. **Donc meme si nos usines
+la font, l'offre PLF n'est peut-etre pas compatible avec le format de conteneur de cette campagne.**
+C'est a trancher avec le transitaire en meme temps que le reste, et c'est une raison de plus de poser
+la question maintenant plutot qu'au moment d'un devis.
