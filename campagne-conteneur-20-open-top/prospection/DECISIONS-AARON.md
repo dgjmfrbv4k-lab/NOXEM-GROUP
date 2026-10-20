@@ -1,3 +1,90 @@
+# 🧭 TABLEAU DE BORD DU 20/10 A 11h59 — CE QUI EST OUVERT AUJOURD HUI, DANS L ORDRE DU COUT D ATTENTE
+
+**Ce bandeau est refait ce jour. Tout ce qui suit en dessous est l historique, conserve pour la
+trace** — et il faut le dire franchement : **les deux encadres juste apres celui-ci datent du 15/10
+et l un porte encore une echeance a 14h00 qui est passee depuis cinq jours.** Ils ne sont plus
+d actualite. Je ne les efface pas, je les date.
+
+**⚠️ CE QUE JE PEUX ET NE PEUX PAS CONFIRMER, parce que la distinction change ce que vaut cette
+liste.** Les statuts viennent du registre, qui est a jour. **Mais je ne vois pas ce qui part de
+votre propre client de messagerie** — le paragraphe 13 l etablit depuis le 08/10. Si vous avez
+repondu a l un de ces dossiers depuis votre poste, **le registre ne le sait pas et moi non plus**.
+Les anciennetes ci-dessous sont donc des anciennetes **de registre**, pas des preuves de silence.
+
+## L ETAT, EN SEPT CHIFFRES
+
+| | |
+|---|---|
+| Fiches au registre | **1947** |
+| Contactees, premier envoi ou relance | **719** |
+| **Pretes a partir** — adresse verifiee, texte ecrit, controle passe | **81** |
+| **plus** 8 autres dont l adresse est verifiee mais le texte reste a rediger | 8 |
+| En attente d un APPEL, toutes avec un numero | **286** |
+| En attente d un ARBITRAGE de votre part | **41** |
+| Reponses recues a traiter | **5** |
+| **Demandes de prix ouvertes** | **5** · plus **1** devis envoye et **3** en negociation |
+
+## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
+
+**CINQ societes ont demande un prix et attendent**, et les cinq sont au registre sous ce statut.
+Trois sont datees — **Christakis Avgousti** a Chypre et **Unionglass** en Argentine depuis le
+**13/10**, soit **sept jours**, et **Industrial Mercantil San Simon** au Guatemala depuis le
+**14/10**. Les deux autres sont anterieures et non datees au statut : **Rubex** en Egypte, et
+**PG Glass Namibia**, dont les specifications sont deja confirmees.
+
+**Une seule grille les debloque toutes.** Le detail — cotes, epaisseurs, ports, volumes confirmes —
+est dans `GRILLE-DE-PRIX-A-FAIRE.md`. **Le minimum utile : float clair au m2, par epaisseur de 4 a
+12 mm, en 20 pieds complet, rendu port**, plus deux conditions — **l incoterm** (trois clients ont
+ecrit CIF) et les **conditions de paiement**.
+
+**Pourquoi c est le premier point : ce sont les seuls prospects de toute la campagne qui ont demande
+a acheter.** Tout le reste de ce fichier sert a en fabriquer d autres.
+
+## 2. 🔴 LE CRENEAU D APPELS — 286 fiches, un numero chacune, zero appel jamais passe
+
+**`APPELS-PRIORITAIRES.md` a ete entierement refait ce matin** et ne demande plus qu un creneau.
+Les quinze retenues cumulent les deux meilleures classes de metier **et** un courriel
+definitivement mort — donc **un appel n y double aucun envoi**, c est le seul endroit ou il est
+strictement additif. Chacune porte un objectif en une phrase. **Une demi-heure suffit pour les cinq
+premieres.**
+
+## 3. 🟠 LE PERIMETRE EUROPEEN — question posee le 15/10, non tranchee, et son echelle a change
+
+Le paragraphe 6 du mandat dit : *Europe, pas de nouvelle prospection*. **La campagne en fait tous
+les jours** — 43 fiches nordiques, dont 20 envoyees le 20/10, et l Islande qui n avait aucune fiche
+avant ce matin. **Je le signale au titre du paragraphe 16 plutot que de laisser la pratique
+s installer en silence.** Detail et recommandation plus bas, section *Question de perimetre*.
+**Si la reponse est non, dites-le et j arrete le jour meme.**
+
+## 4. 🟠 LE DOSSIER RIOU — 41 fiches attendent un arbitrage, et quatre d entre elles sont Riou
+
+Groupe francais de transformation du verre avec **quatre societes dans notre perimetre** — SOREMIR
+et SOFAVI a La Reunion, Riou Ocean Glass a Maurice, Euroglas-De Landtsheer en Belgique, cette
+derniere **deja contactee avant que le lien ne soit vu**. Ni concurrent ni prospect tant que vous
+n avez pas tranche.
+
+## 5. 🟠 L AFRIQUE DU SUD EST GELEE — 13 fiches, et c est la plus grosse poche bloquee
+
+Elles attendent parce que **PG Group, avec qui vous negociez, possede PFG Building Glass**, premier
+producteur float de la zone. Tant que la negociation Willem Heunis court, rien ne part en SACU.
+**Un mot de votre part les debloque ou les ferme** — en l etat elles ne font ni l un ni l autre.
+
+## 6. 🟡 QUATRE QUESTIONS TECHNIQUES, toutes du meme genre : je sais ce que l INDUSTRIE fait, pas ce que NOS usines font
+
+Aucune ne s ecrit a un client avant votre reponse, le paragraphe 5 interdisant toute garantie
+technique non validee.
+- **Le grand format 6000 x 3210.** Etabli comme **format de stock courant** par quatre sources
+  publiques, dont **deux federations professionnelles** — suedoise, danoise et finlandaise. La
+  question n est plus *est-ce que cette cote existe* mais **est-ce que nos usines la livrent**.
+- **La cote maximale de l autoclave de feuilletage.** Les equipementiers construisent en 3300, donc
+  l industrie sait faire. **Et les notres ?**
+- **L EUR.1 et le statut d exportateur agree.** **Sans cette piece, toute preference tarifaire
+  europeenne est nulle**, partout ou elle existe. C est le point qui conditionne tous les autres.
+- **Le groupage multi-references dans un meme conteneur.** Un concurrent francais le fait depuis
+  1989 et **Miro Est nous a demande cinq references**.
+
+---
+
 # 🔴 LA GRILLE DE PRIX BLOQUE NEUF DOSSIERS — FEUILLE UNIQUE : `GRILLE-DE-PRIX-A-FAIRE.md`
 
 Neuf societes ont **demande un prix** et attendent. La plus ancienne depuis le **28/09**, soit dix-huit
