@@ -3355,7 +3355,20 @@ Statuts. **Aucune fiche ne doit avoir un statut vide** : le 08/10 onze fiches en
 ce qui les rendait invisibles aux pools de relance comme au décompte des fiches jamais contactées.
 
 Prospection : `ENVOYE YYYY-MM-DD` · `RELANCE YYYY-MM-DD` · `A ENVOYER YYYY-MM-DD` (ajouté le
-08/10 : adresse déverrouillée, envoi daté et programmé — à ne pas confondre avec `A RENVOYER`,
+08/10 : adresse déverrouillée, envoi daté et programmé. **⚠️⚠️ ET LA SECONDE MOITIÉ DE CETTE
+DÉFINITION NE TIENT PLUS, constaté le 20/10 à 11h36 par le contrôle n°6 de l'audit : 81 fiches
+portent une date PASSÉE, et ce n'est ni un oubli ni une négligence. LA CAUSE EST ARITHMÉTIQUE —
+la file compte 85 fiches et le plafond du §10 est de 15 à 20 par jour, donc elle est QUATRE FOIS
+plus profonde que la cadence.** Une date posée le jour du déverrouillage est forcément dépassée
+quelques jours plus tard, quoi qu'on fasse. **LA DATE SIGNIFIE DÉSORMAIS *le jour où la fiche est
+DEVENUE PRÊTE*, et non une promesse d'envoi** — on garde la première moitié de la définition,
+« adresse déverrouillée », et on abandonne la seconde. **ET ON NE LES REDATE PAS EN BLOC À DEMAIN :
+ce serait un faux au sens du §16**, puisqu'elles ne peuvent pas toutes partir le même jour, et une
+date qu'on sait fausse en l'écrivant est pire qu'une date périmée parce qu'elle a l'air juste.
+**L'ORDRE D'ENVOI EST DONNÉ PAR `PLAN-ENVOIS.md`, PAS PAR LA DATE DU STATUT** — classe de métier
+d'abord, marché ensuite, fenêtre horaire enfin. **Conséquence pour une session future : une date
+passée dans un `A ENVOYER` n'est PAS un signal d'alarme et ne demande aucune action.** Le seul vrai
+signal serait une fiche prête n'apparaissant dans aucune vague du plan — à ne pas confondre avec `A RENVOYER`,
 qui vise une adresse ayant rebondi) · `A APPELER` · `A RENVOYER` ·
 `A QUALIFIER` · `NE PAS DEMARCHER` · `A VALIDER AARON` · `ADRESSE INVALIDE` ·
 `ECARTE — PETITE STRUCTURE` · `ECARTE — HORS PERIMETRE` (ajouté le 08/10 : le métier ne correspond

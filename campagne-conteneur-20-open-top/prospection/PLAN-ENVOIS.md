@@ -161,3 +161,35 @@ comptage se fait quand meme, avant de composer, et il tranche. Et la regle du pa
 **NE PAS Y METTRE :** Raahen Lasi et Maakunnan Lasi, datees au 27/10 et de dernier rang — ce sont des
 vitriers-poseurs, classe a ZERO pour cent, et elles ne doivent jamais prendre la place d un verrier
 pur dans une vague.
+
+
+## ⚠️⚠️ CE QUE LA DATE D UN STATUT `A ENVOYER` VEUT DIRE AUJOURD HUI, ET CE QU ELLE NE VEUT PLUS DIRE
+
+Constate le 20/10 a 11h36 par le controle n°6 de l audit du paragraphe 12, celui qui demande de lire a
+l oeil les `A ENVOYER` dont la date est passee.
+
+**LE FAIT : 81 fiches portent une date des 16, 19 ou 20 octobre, donc PASSEE.** Ce n est pas un
+oubli et il ne faut surtout pas les redater en bloc.
+
+**LA CAUSE EST ARITHMETIQUE : la file compte 85 fiches et le plafond du paragraphe 10 est de 15 a
+20 envois par jour.** La file est donc environ **quatre fois plus profonde que la cadence**. Une
+date posee le jour ou la fiche a ete deverrouillee est forcement depassee quelques jours plus tard,
+quoi qu on fasse.
+
+**CE QUE LA DATE SIGNIFIE DESORMAIS, ET C EST UNE DERIVE DE CONVENTION QU IL VAUT MIEUX ECRIRE QUE
+LAISSER DECOUVRIR :** elle est **la date a laquelle la fiche est DEVENUE PRETE**, pas une promesse
+d envoi. Le paragraphe 12 la definissait comme « adresse deverrouillee, envoi **date et
+programme** » — la premiere moitie tient, la seconde ne tient plus.
+
+**POURQUOI ON NE LES REDATE PAS A DEMAIN :** ce serait un faux au sens du paragraphe 16. Elles ne
+peuvent pas toutes partir demain, puisque vingt seulement le peuvent. **Une date qu on sait fausse
+en l ecrivant ne vaut pas mieux qu une date perimee**, et elle est pire parce qu elle a l air juste.
+
+**CONDUITE : L ORDRE D ENVOI EST DONNE PAR CE FICHIER, PAS PAR LA DATE DU STATUT.** La date sert a
+savoir depuis quand une fiche attend — ce qui est une information utile et qu il faut garder. Le
+classement, lui, se fait sur les criteres du paragraphe 6 : **classe de metier d abord, marche
+ensuite, fenetre horaire enfin.**
+
+**ET LA CONSEQUENCE POUR UNE SESSION FUTURE : une date passee dans un `A ENVOYER` n est PAS un
+signal d alarme et ne demande aucune action.** Le seul vrai signal serait une fiche prete qui
+n apparaitrait dans aucune vague de ce fichier.
