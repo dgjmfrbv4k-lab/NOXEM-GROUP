@@ -10595,3 +10595,43 @@ Mat, une coordonnee trouvee sur une page tierce et appartenant a un tiers.
 repertoire etait **moissonne**, trois noms sur cinq deja au registre. **Celui-ci ajoute que le peu
 qui reste est difficile a JOINDRE** — la source identifie des trempeurs reels et ne donne aucune
 coordonnee. **Ne pas y redepenser d appel.**
+
+
+---
+
+## 20/10 — 15h06 · MELBOURNE ET PERTH, ET UNE RESERVE LEVEE DANS LE BON SENS
+
+**Recherches : 2 appels. Fiches creees : 2. Fiches qualifiees : 2. Envois confirmes : 0. Reponses
+qualifiees : 0. Demandes de devis : 0. Commandes : 0. Registre a 1969 fiches.**
+
+**FGS GLASS** (Bangholme, Melbourne) est la trouvaille du lot, et le motif tient en une phrase de
+leur propre description : **faconneur de verre qui fournit EXCLUSIVEMENT le marche des VITRIERS
+locaux.** Il ne pose pas, il ne vend pas au particulier — **il ALIMENTE la classe a zero pour cent
+au lieu d en faire partie.** C est exactement la place dans la chaine que le paragraphe 6 cherche,
+celle de Marvidros au Maranhao.
+**⚠️⚠️ ET ELLE EST CREEE EN `A QUALIFIER` ET NON EN FILE, DELIBEREMENT :** le domaine de son adresse,
+`fgs.com.au`, **n est pas celui du site** `fgsglass.com.au`, et il ne figure pas dans les URL de
+resultats. **C est vraisemblablement publie par eux, mais ce n est pas ETABLI.** Un appel restreint
+le confirmera, et rien ne part avant. **C est la conduite Cristaleria Amigo appliquee en PREVENTION
+le jour meme ou elle a ete apprise en correction** — et c est exactement ce que le nouveau
+`verif-anti-rebond.py` aurait exige.
+
+**GLASSWORKS AUST.** creee aussi, Dandenong South, domaine etabli, donc un seul appel a venir.
+⚠️ **Et une remarque de geographie : Dandenong South concentre GlassCo Australia, deja relancee, et
+celle-ci — c est la ville ou Oceania Glass avait sa ligne float, arretee en 2025.** Le bassin
+verrier de Melbourne y est, et il est desormais sans four.
+
+**GLASS MARKET VIC** : domaine etabli, adresse et telephone releves, **pas d e-mail** — elle passe
+du gisement a deux appels au gisement a un. ⚠ Et le suffixe `Vic` reste indispensable, **trois
+societes sans rapport portent ce nom sur trois continents.**
+
+**⚠️⚠️ GLASS SURFACE COATINGS WA : LA RESERVE DU 15/10 EST LEVEE, ET DANS LE BON SENS.** On craignait
+que le mot COATINGS designe un **applicateur de FILMS**, cas Ingesob au Chili. **C est faux : ils
+COLORENT le verre** — plus de 20 000 formulations de couleur, credences, plateaux, miroirs.
+**Un laqueur achete de la feuille de float pour la peindre**, c est un vrai acheteur de substrat, et
+la page *verre laque* du paragraphe 8 lui correspond. Ils annoncent de plus un **tarif
+professionnel au comptoir** et **ne posent pas pour le particulier**, ce qui les sort de la classe a
+zero pour cent.
+⚠️ Adresse `gscwa@live.com.au` : **boite gratuite, exception du paragraphe 5 notee**, employable
+parce qu ils la publient eux-memes. ⚠️ Reserve d echelle : comptoir et credences, **cas Valleywide**
+— acheteur reel, echelle a etablir. Elle passe apres les faconneurs de Melbourne.
