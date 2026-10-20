@@ -24979,3 +24979,288 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 341. Cristalados (Santo Domingo Oeste, République dominicaine) — `info@cristalados.com` — ESPAGNOL — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-22`.**
+
+- **L ENSEIGNE DIT POSEUR, LA GAMME DIT TRANSFORMATEUR, ET C EST LA GAMME QUI DECIDE** — regle du
+  mot *verrerie* prise au niveau du produit. Ils annoncent **trempe de 4 a 15 mm jusqu a
+  2400 x 3300 mm** et **verre fixe de 6 a 19 mm jusqu a 3200 x 3200 mm**, en monolithique, feuillete
+  et double vitrage.
+- **⚠️ ET LA REGLE DU §4 S APPLIQUE A LEURS DEUX COTES, CE QUI VAUT D ETRE DIT DANS LE TEXTE :**
+  2400 et 3200 sont des **petites dimensions** qui tiennent dans le ruban de 3210. **Aucune des deux
+  n est un hors-format**, et le 3300 comme le 3200 sont des **longueurs**, donc coupees a la demande.
+  C est exactement l erreur que le §4 a faite trois fois en un jour sur Rubex et Caribbean Glass, et
+  elle ne se refera pas.
+- **REGLE PRODIESA : trempe, feuillete et double vitrage sortent de l offre.** Entrent le float
+  clair, l extra-clair et le **low-E**, candidat evident puisqu ils montent des DVH — mais le texte
+  le **propose et le demande**, il ne l asserte pas.
+- **⚠️ DEUX SILENCES IMPOSES PAR LE §6, ET ILS SONT TENUS :** rien sur l absence de production locale,
+  le §6 n etablissant **rien** sur la Republique dominicaine — et **rien du tout sur les droits**.
+  L angle est donc **l origine et la seconde source**, sans aucun appui douanier.
+- **AUCUN PRIX ANNONCE.** Formule imposee en espagnol, porte de sortie, signature une fois.
+  **Ports demandes** — Rio Haina ou Puerto Plata, on ne suppose pas.
+- **⚠️ CLASSE 3,6 POUR CENT A L ORIGINE**, remontee par la gamme. Elle reste derriere les fiches de
+  negoce et de verrier pur, et le texte ne surinvestit pas.
+
+**Objet :** `Lo que entra antes del horno - proveedor frances de vidrio plano`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedora y exportadora de vidrio
+plano cerca de Lyon, en Francia. Esto es una oferta de suministro, no una
+solicitud de cotizacion. Si no es usted quien compra el vidrio, le agradeceria
+que lo pasara a quien lo haga.
+
+Escribo por un motivo concreto, porque un correo generico a una empresa de
+vidrio no vale el tiempo de nadie.
+
+El nombre de la casa habla de puertas, ventanas y fachadas, pero su propia
+pagina dice algo mas: templan de 4 a 15 mm hasta 2400 x 3300 mm, y trabajan
+vidrio fijo de 6 a 19 mm hasta 3200 x 3200, en monolitico, laminado y doble
+acristalamiento. Eso no es un instalador que compra cortado. Eso es un taller
+que mete lamina en un horno, y la lamina es lo unico que yo vendo.
+
+Dos notas sobre esas medidas, porque suelen generar dudas con un proveedor
+europeo y conviene quitarlas de en medio desde el principio. Nuestro jumbo
+estandar es 3210 x 2550 mm, y el largo se corta a pedido. Sus 2400 y sus 3200
+son el lado CORTO, y los dos caben de sobra. Y 3300 es un largo, no un ancho.
+Ninguna de sus medidas es un formato especial para nosotros.
+
+Lo que NO les ofrezco: templado, laminado ni doble acristalamiento. Eso lo
+hacen ustedes, y un proveedor que le ofrece a un transformador sus propios
+procesos no ha leido la pagina. Lo que ofrezco es lo que entra antes:
+
+- float incoloro, la base de todo
+  https://noxemgroup.com/en/float-glass/
+- extra claro, para las piezas donde se nota el canto verde
+  https://noxemgroup.com/en/float-glass/
+- y vidrio de baja emisividad, si lo usan en sus unidades dobles
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+(la web existe solo en frances y en ingles)
+
+Sobre el low-E prefiero preguntar que suponer: no pude saber por sus paginas si
+sus unidades dobles llevan capa o si son vidrio claro por las dos caras. En el
+Caribe la diferencia es de aire acondicionado, no de calefaccion, asi que si ya
+lo especifican hablamos del mismo producto y solo de origen. Digamelo y dejo de
+adivinar.
+
+Como embarcamos: CONTENEDORES COMPLETOS, en cajas de madera tratada conforme
+NIMP-15, en jumbo o en las medidas de ustedes. Podemos preparar una oferta para
+la entrega en su puerto de destino, sujeta a validacion por nuestra parte - Rio
+Haina o Puerto Plata, supongo, pero prefiero que me lo digan.
+
+Lo que necesito de vuelta es corto: que espesores mueven de verdad, en que
+medida de lamina los reciben, cuanto al ano aproximadamente, si entra extra
+claro o low-E, y el puerto.
+
+Y la parte honesta. Una casa con horno propio ya tiene proveedor, y no les pido
+que lo cambien. Pido ser un segundo nombre calificado, para el mes en que falte
+un espesor. Si no hay sitio para eso, diganmelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 342. Aqua Mirrors Inc. (Mississauga, Ontario, Canada) — `info@aquamirrors.com` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-26`.**
+
+- **⚠️⚠️ C EST LA FICHE OU LE FAIT DOUANIER TRANCHE LA QUESTION PRODIESA, ET CELA CHANGE TOUT LE
+  TEXTE.** Ils vendent du miroir — donc la question est de savoir s ils l **argentent**, auquel cas
+  notre miroir ne leur est JAMAIS propose. **La base des importateurs canadiens les donne
+  importatrices de MIROIR NON ENCADRE**, et un argenteur importe du **float nu**, pas du miroir.
+  Ils achetent donc la feuille deja argentee. **Le miroir sans cuivre ni plomb leur est offrable.**
+  ⚠ La presomption est forte, pas certaine : le texte **propose sans asserter**, et laisse la ligne
+  de sortie si jamais ils argentent.
+- **ET LEUR MARCHE REND CETTE REFERENCE PERTINENTE PLUTOT QUE GENERIQUE : L HOTELLERIE.** Donc la
+  salle de bain, donc l humidite, qui est exactement l argument du sans-cuivre-ni-plomb. ⚠ Et la
+  reserve bresilienne du 19/10 au soir est tenue : **on ne surjoue pas la differenciation**, on dit
+  ce que le produit evite et on demande ce qu ils emploient.
+- **AXE DES INDUSTRIES QUI NE S APPELLENT PAS VERRE** — leur metier declare est le miroir LED et le
+  verre commutable, pas le verre plat. Aucun annuaire verrier ne les range comme acheteurs.
+- **REGLE PRODIESA : le miroir LED, le cadre et le verre commutable sortent de l offre.**
+- **⚠️ DEUX INTERDITS CANADIENS DU §6, TENUS LES DEUX.** Un, plus de ligne float est **vrai** mais se
+  sert **sans millesime**. Deux, **le float de la position 7005 n est PAS sur les listes de riposte**
+  — le texte ne dit nulle part qu il est taxe, ce serait faux et un acheteur le saurait. L angle est
+  la **procedure et le delai a la frontiere**, donc la gestion du risque.
+- **AUCUN PRIX ANNONCE.** Formule imposee, porte de sortie, signature une fois. **Port demande.**
+
+**Objet :** `The sheet behind a hotel mirror`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the raw mirror, I would be
+grateful if you passed this on to whoever does.
+
+I am writing to you rather than to a glass distributor, and that is the point.
+
+Your business is LED and decorative mirrors for hotels - three hundred odd
+projects across North America, by your own count. Nobody in my trade writes to
+you, because you are not listed as a glass company. But a lit mirror starts as
+a sheet of silvered glass, and a company doing hospitality work at that volume
+buys that sheet on a repeating schedule, in sizes that repeat. That is the
+buying pattern a full container fits.
+
+So, what I am NOT offering: LED mirrors, frames, or switchable glass. You make
+those. What I am offering is the sheet underneath - and specifically one
+version of it:
+
+- copper- and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- plus clear and extra-clear float, if you cut your own glass for anything
+  https://noxemgroup.com/en/float-glass/
+
+A word on the first one, since it is the only reason this email is worth
+reading. Conventional silvered mirror carries a copper layer under the paint,
+and in a hotel bathroom - steam, cleaning chemicals, twenty years of it - the
+edge is where it shows first. Copper- and lead-free construction is made for
+exactly that environment. I am not going to tell you it is unique, because it
+is not: several mills now build mirror this way, and you may already be
+specifying it. If you are, then we are talking about origin and nothing else,
+which is a shorter conversation. If you are not, it is worth a sample.
+
+And one thing I should ask rather than assume. If you silver your own glass
+in-house, ignore the mirror line entirely - I would be offering you your own
+process, which would be embarrassing for me and a waste of your time. If you
+buy the silvered sheet and cut, polish and light it, then this is the right
+conversation. Tell me which.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR sizes or as standard jumbo with the length cut to order. We can put
+together an offer for delivery to your port of destination, subject to
+validation on our side - Toronto or Montreal, I would guess, but tell me rather
+than let me assume.
+
+On why a second origin is worth five minutes here. Canada no longer has a float
+line, and the large majority of its flat glass comes from one neighbouring
+country. I want to be careful about this: flat glass itself is not caught by
+this year's tariff measures, and I am not going to pretend it is. What is
+documented is the extra customs process and transit time at that border. A
+single route with paperwork attached is a risk whether or not a duty applies to
+the product.
+
+What I need back is short: which mirror thicknesses you run, in what sheet size
+you take them, roughly how much in a year, whether the silvering is in-house,
+and the port.
+
+And the honest part. A manufacturer with three hundred completed projects has a
+supply line that works, and an email from France does not change that. I am
+asking to be a second qualified name for the month when a size is short. If
+there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 343. Bent Glass Design, Inc. (Hatboro, Pennsylvanie, États-Unis) — `info@bentglassdesign.com` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-26`.**
+
+- **VERRIER PUR, la meilleure classe du §6**, et depuis **1988**. Fabricant de verre **courbe**
+  architectural, expeditions internationales annoncees.
+- **⚠️ C EST LA FICHE LA PLUS MAIGRE EN SIGNAUX D ENTREE DE LA JOURNEE, ET LE TEXTE EN TIENT COMPTE :
+  aucune epaisseur, aucun format de feuille publie.** Leurs pages classent les formes par **angle
+  d arc**, pas par cote. Le critere du 15/10 n est satisfait sur **aucun** de ses deux termes.
+  **Donc le texte DEMANDE le volume au lieu de le supposer**, et il est plus court que les autres —
+  on n investit pas en rhetorique ce qu on n a pas en fait.
+- **MAIS LE RAISONNEMENT DE FOND TIENT SANS CHIFFRE : on ne cintre que ce qu on a achete PLAT.** Un
+  bombeur est un acheteur de feuille par necessite industrielle, exactement comme un trempeur.
+- **REGLE PRODIESA : le bombage sort de l offre** — c est leur procede et c est dans leur nom.
+  Entrent le float plat, clair et extra-clair.
+- **⚠️ SOCIETE SOEUR CONNUE ET NON CONTACTEE : PROCURVE GLASS TECHNOLOGY**, pour le verre de
+  transport. Le §12 demande si c est le **meme bureau d achat**, et rien ne le dit. **Aucune fiche
+  ProCurve, aucun second envoi**, et le texte n y fait aucune allusion.
+- **⚠️ INTERDIT DU §6 : rien sur l absence de production locale aux Etats-Unis**, Vitro et Cardinal
+  y produisent. Angle **douanier**, sans taux cite comme promesse de prix.
+- **AUCUN PRIX ANNONCE.** Formule imposee, porte de sortie, signature une fois. **Port demande.**
+
+**Objet :** `Flat glass for a company that does not sell it`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the raw glass, I would be
+grateful if you passed this on to whoever does.
+
+I will keep this short, because I know less about your buying than I would
+like.
+
+You have been bending architectural glass since 1988. What I know from that is
+simple and it does not need a brochure: nothing gets bent that was not bought
+flat. A company shaping glass for thirty-seven years buys sheet as a matter of
+course, and that is the only reason I am writing.
+
+What I could not find anywhere on your site is what you buy - thicknesses,
+sheet sizes, volumes. Your pages describe shapes by arc, which makes sense for
+your customers and tells a supplier nothing. So rather than guess, I am asking.
+
+What I am NOT offering: bent or curved glass. That is your process and it is
+your name. What I am offering is the flat stock that goes into it:
+
+- clear float
+  https://noxemgroup.com/en/float-glass/
+- and extra-clear low-iron, where the green edge would show on a curve
+  https://noxemgroup.com/en/float-glass/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+as standard jumbo 3210 x 2550 mm with the length cut to order, or cut to YOUR
+sizes. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - Philadelphia or New York, I would guess,
+but tell me rather than let me assume.
+
+One fact about origins, and it is customs rather than price. Since April 2026
+float glass from China carries US antidumping and countervailing duties, and
+Malaysian float carries countervailing duties. European origin is covered by
+neither. I am not claiming our glass is cheap - I am saying the set of origins
+worth comparing changed this year.
+
+Four things would let me put a real proposal in front of you: the thicknesses
+you run, the sheet size you take them in, roughly how much in a year, and the
+port.
+
+And the honest part. A shop with thirty-seven years behind it has a supplier it
+trusts, and I am not asking you to replace one. I am asking to be a second
+qualified name for the month when a thickness is out of programme. If there is
+no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

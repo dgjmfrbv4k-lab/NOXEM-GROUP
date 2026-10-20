@@ -10471,3 +10471,32 @@ entre dans le gisement a **UN SEUL appel** au lieu de deux.
 **⚠️ Et trois fiches du registre sont maintenant a CONCORD** — Adriatic, Universal Glass Tech et
 Toro Glasswall, les deux dernieres nees du recensement douanier ce jour. Aucun lien etabli, le
 paragraphe 12 tranche sur le siege et non sur la rue.
+
+
+---
+
+## 20/10 — 14h57 · MESURER LA FILE AU LIEU DE L ALLONGER, ET COMBLER LES TROUS
+
+**Recherches : 0 appel. Textes rediges : 3. Envois confirmes : 0 sur ce lot. Reponses qualifiees :
+0. Demandes de devis : 0. Commandes : 0. Registre a 1967 fiches, file a 105, textes a 343.**
+
+**UNE MESURE QUE JE N AVAIS JAMAIS FAITE, ET ELLE ETAIT DUE : COMBIEN DE FICHES EN FILE N ONT PAS
+DE TEXTE ?** Une fiche en `A ENVOYER` sans texte redige n est pas prete, elle en a seulement l air.
+**Reponse : 7 sur 105.** La file est donc bien couverte, ce qui est une bonne nouvelle et qui ne
+se savait pas.
+
+**TROIS DES SEPT COMBLES, DANS L ORDRE DE LEUR DATE.**
+· **Cristalados** (Saint-Domingue), le plus urgent puisqu il part le 22. ⚠ Et il porte la regle du
+  §4 dans le texte lui-meme : leurs cotes de 2400 x 3300 et 3200 x 3200 ont une **petite dimension
+  qui tient dans le ruban**, donc **aucune n est un hors-format**. C est l erreur Rubex et Caribbean
+  Glass prise par l endroit, et dite au client plutot que crainte en silence.
+· **Aqua Mirrors** (Mississauga), ou **le fait douanier tranche la question Prodiesa** et autorise
+  le miroir sans cuivre ni plomb — avec la ligne de sortie si jamais ils argentent.
+· **Bent Glass Design** (Hatboro), **la fiche la plus maigre en signaux de la journee** : aucune
+  epaisseur, aucun format publie, leurs pages classant les formes par angle d arc. **Le texte est
+  donc plus court et il DEMANDE le volume au lieu de le supposer** — on n investit pas en rhetorique
+  ce qu on n a pas en fait. Le raisonnement de fond tient quand meme sans chiffre : **on ne cintre
+  que ce qu on a achete plat.**
+
+**RESTENT QUATRE TEXTES A ECRIRE**, tous dates du 27 : Maakunnan Lasi et Raahen Lasi en Finlande,
+Cristaleria Amigo a Porto Rico, Raves Cooler Doors aux Etats-Unis.
