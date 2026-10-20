@@ -8838,3 +8838,43 @@ paragraphe 13 a donc economise trois seconds temps que j allais payer.**
 
 **Controles : 0 ligne malformee, 8 groupes au balayage, 18 paires aux noyaux, 0 fiche `A APPELER`
 sans telephone.**
+
+---
+
+### 20/10 — 11h57 · l axe porte au Bresil et au Mexique, et il paie dans les deux sens
+
+**Les cinq chiffres du paragraphe 3 :** recherches **4** · envois confirmes **20 sur la journee,
+0 dans ce bloc** · reponses qualifiees **0** · demandes de devis **0** · commandes **0**.
+**Registre 1947 fiches, textes 323.**
+
+**L axe des portes refrigerees porte sur les deux marches ou l argument douanier est reel.**
+
+**BRESIL — et le recouvrement est a nouveau le bon signe : TROIS des quatre noms rendus etaient
+deja au registre**, Rohden Vidros, Linde Vidros et Vidrolar, ces deux dernieres **deja envoyees le
+15/10**. Un seul nom neuf, et il est bon.
+- **REFRICOMP (Lajeado, RS) — fiche creee et texte 323 ecrit.** Industrie de **composants** pour la
+  refrigeration, marche national **et international**, lignes Full Vision, Infinity Door, Slim
+  Premium, plus frames et composants. **Le test d echelle passe sans discussion.** ⚠⚠ **Et
+  l accroche est dans leur propre gamme : les portes Full Vision sont annoncees en verres DOUBLES
+  OU TRIPLES CHAUFFES.** Un triple chauffe ne se monte pas en verre commun — il faut du low-E, et
+  plusieurs lignes en serie en achetent en continu.
+- **ROHDEN enrichie sans etre deverrouillee, et le verdict est ecrit pour que personne ne
+  redepense l appel.** Le groupe a **quatre unites** et sa ligne de refrigeration **annonce du
+  LOW-E et des insules doubles et triples** — la fiche vaut donc bien plus que son statut
+  `A APPELER` ne le laissait croire. **Mais leur page de contact affiche l adresse sous forme
+  protegee anti-spam**, donc illisible : ce n est ni un domaine parque, ni un domaine repris, ni
+  une absence de page, et **il n y a rien a reconstruire** — le paragraphe 5 interdit d inventer.
+  Telephone et formulaire sont les deux portes. **Un seul compte pour les quatre unites.**
+
+**MEXIQUE — aucune fiche creee, et c est volontaire : CINQ NOMS CONSIGNES dans la note de
+PERFICOM**, qui est leur place naturelle puisque c est elle qui a ouvert cet axe. Tous grepes,
+tous absents. **Ojeda Refrigeracion** en tete, le seul qui fabrique clairement des vitrines et des
+congelateurs **a porte de cristal** ; **Refripuertas** et ses reach-in ; puis **Aislopuertas**,
+**Infraca** et **Jamison**, avec la meme reserve pour les trois — **leur gamme est la porte
+ISOTHERME et le panneau isole, pas forcement la porte VITREE**, et c est le test a faire avant
+tout. **Friocell est ecartee d avance** : elle se presente comme representant de Zanotti, donc
+distributeur, et le test d echelle la classe du mauvais cote sans depenser un appel.
+
+**Controles : 0 ligne malformee, 8 groupes au balayage, 0 fiche `A APPELER` sans telephone,
+0 a corriger sur 289 textes.** L annotation du texte 323 a ete verifiee par relevé : **aucun mot
+de prix dans le corps**, l ouverture portugaise employant *orcamento*.

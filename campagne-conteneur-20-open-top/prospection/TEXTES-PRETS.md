@@ -23193,3 +23193,104 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 323. Refricomp (Lajeado, Rio Grande do Sul, Bresil) — `comercial@refricomp.com.br` — PORTUGAIS — premier contact
+
+**Redige le 20/10 a 11h57. Non envoye — bande du paragraphe 10 atteinte pour la journee. Couvert par
+l accord de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS.**
+
+- **AXE DES PORTES REFRIGEREES DU §6, ET LE TEST D ECHELLE PASSE SANS DISCUSSION :** industrie de
+  **composants** pour la refrigeration, marche national **et international**, plusieurs lignes de
+  portes — Full Vision, Infinity Door, Slim Premium, profil PVC et aluminium — plus frames,
+  cremailleres et composants. **Aucun rayon de pose, aucune salle d exposition.** C est l inverse
+  de Raves Cooler Doors et le pendant bresilien d Energy Door.
+- **⚠️⚠️ L ACCROCHE EST DANS LEUR PROPRE GAMME : les portes FULL VISION sont annoncees en VERRES
+  DOUBLES OU TRIPLES CHAUFFES, et ils ont une ligne VIDRO INSULADO.** Un double et un triple
+  chauffes supposent du **low-E**, et plusieurs lignes en serie supposent un achat **continu**.
+  C est la cible exacte de la page low-E du §8 — et c est le profil Perficom transpose au Bresil.
+- **⚠️ BOITE DE LA COLONNE CLIENT, ASSUMEE ET COMPENSEE :** `comercial@` et `atendimento@` sont les
+  deux seules publiees, toutes deux du cote client au sens du tableau du §13. **Aucune boite
+  d achats.** `comercial@` est prise parce qu elle a le plus de chances de router une offre de
+  fournisseur, **et le texte demande la transmission des la premiere ligne**, ce que le §9 impose.
+- **⚠️ INTERDIT BRESILIEN DU §6 : le texte n ecrit NULLE PART qu il n y a pas de production
+  locale** — AGC, Cebrace, Guardian et Vivix. **Angle douanier limite au float CLAIR**, Gecex 833,
+  Europe visee par aucune mesure, **aucun taux cite**, rien sur le droit ordinaire non etabli.
+- **AUCUN PRIX ANNONCE** : l ouverture portugaise emploie *orcamento* et non *preco*, et le mot
+  n apparait nulle part ailleurs. **Verifie par relevé du corps.**
+- **Regle Prodiesa : portes, frames, insules et composants SORTENT de l offre.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port Rio Grande ou Porto
+  Alegre.
+
+**Objet :** `O low-E que entra numa porta tripla aquecida`
+
+```
+Bom dia,
+
+Chamo-me Aaron Harfi e dirijo a NOXEM GROUP, fornecedora e exportadora de vidro
+plano sediada perto de Lyon, em Franca. Esta e uma proposta de fornecimento, nao
+um pedido de orcamento. Sei que este endereco e o comercial, por isso agradeco
+desde ja que encaminhem a quem compra o vidro.
+
+Escrevo-lhes porque os senhores fabricam em serie, e isso e mais raro neste
+ramo do que parece. Varias linhas de portas — Full Vision, Infinity Door, Slim
+Premium, perfil PVC e perfil aluminio — mais frames, cremalheiras e componentes,
+para o mercado nacional e para fora. A maior parte das casas a quem escrevo no
+Brasil compra por obra, em medidas que mudam a cada pedido. Uma linha de serie
+nao: ela fabrica a mesma medida durante anos.
+
+E e exatamente por isso que lhes escrevo. Um abastecimento por contentor so faz
+sentido para quem tem referencias que se repetem.
+
+O que me chamou a atencao na vossa gama foi um detalhe tecnico. As portas Full
+Vision sao anunciadas em vidro duplo ou triplo AQUECIDO, e os senhores tem uma
+linha de vidro insulado para congelados e resfriados. Um triplo aquecido nao se
+monta com vidro comum: precisa de capa de baixa emissividade, e quem monta
+varias linhas dessas compra capa de forma continua, nao pontual. E a capa e
+justamente onde a constancia de origem se nota — uma porta montada em janeiro
+tem de parecer a mesma que uma porta montada em junho.
+
+Ha ainda um ponto de comercio exterior que vale a pena ter em conta, e digo-o
+como facto aduaneiro e nada mais. A Resolucao Gecex 833 aplica direitos
+antidumping ao float INCOLOR de 1,8 a 20 mm originario da Malasia, do Paquistao
+e da Turquia, e a Uniao Europeia nao e visada por nenhuma dessas medidas. Nao
+vale para o espelho nem para o fume, que a propria resolucao exclui.
+
+Nao lhes ofereco portas, frames, insulados nem componentes: e o que os senhores
+fabricam, e com mais linhas do que a maioria. Ofereco o que entra:
+
+- vidro de baixa emissividade, o low-E, que e o que faz a performance da porta
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- float incolor e extra-claro, a base de tudo
+  https://noxemgroup.com/en/float-glass/
+- e a gama completa, se for mais facil ver tudo junto
+  https://noxemgroup.com/en/catalog/
+
+Trabalhamos em CONTENTORES COMPLETOS, em caixas de madeira tratada conforme
+IPPC/ISPM-15, nas VOSSAS medidas ou em chapa jumbo padrao de 3210 x 2550 mm,
+com o comprimento cortado sob encomenda. Para uma linha de serie, o corte nas
+vossas medidas costuma ser o que mais simplifica. Podemos preparar uma oferta
+para entrega no vosso porto de destino, sob reserva de validacao da nossa parte
+— Rio Grande ou Porto Alegre, mas digam-me qual usam.
+
+O que preciso de volta e curto. Que capas trabalham e que volume de vidro com
+capa por ano, aproximadamente. Que medidas se repetem o suficiente para valer um
+corte sob encomenda. Com que frequencia repoem. E o porto.
+
+E a parte honesta. Uma industria de componentes tem o abastecimento organizado
+ha muito tempo e nao o reorganiza por causa de um primeiro e-mail. Nao e isso
+que peco. Peco para ser um segundo nome qualificado, pronto para o mes em que o
+primeiro faltar. Se nao houver espaco para isso, diga-o com franqueza e nao
+insistirei.
+
+Com os melhores cumprimentos,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
