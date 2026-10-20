@@ -9453,3 +9453,35 @@ et **les 616 messages partis sans aucune signature avant le 12/10**, qui est la 
 quatre **et que la mesure ne peut pas tester**, faute du champ ci-dessus.
 
 **Registre : 1955 fiches.**
+
+## 20/10 a 13h21 — un outil de plus, et il est ne d'une faute que j'ai trouvee avant de m'en servir
+
+**Recherches : 1. Envois confirmes : 0. Fiches creees : 1 (Complete Display Equipment, Melbourne).
+Outil ajoute : 1.**
+
+**`outils/classe-file.py` ordonne la file des fiches PRETES.** C'est devenu le vrai probleme :
+**96 fiches pretes pour une cadence de 15 a 20 par jour**, donc **l'ordre decide plus que le
+contenu**. Il note sur les criteres mesures du paragraphe 6 — classe de metier, marche, et
+**signaux d'entree ponderes par leur force mesuree**, vocabulaire d'import 5 points, mode de vente 4,
+fait douanier 4, epaisseur plus format 2.
+
+**⚠️⚠️ ET SA REGLE DE CONSTRUCTION EST NEE D'UNE FAUTE QUE J'AI MESUREE AVANT DE M'EN SERVIR.** Ma
+premiere version classait sur **l'activite ET la note reunies**, et rangeait **23 fiches sur 96 en
+*verrier + pose*, la classe a ZERO pour cent** — parce que le mot **pose** est partout dans la prose
+francaise des notes : *verdict de deverrouillage **pose***, *la question se **pose***, *le
+paragraphe 5 **pose***. **Le cas le plus net est Refricomp, dont la note dit `aucun rayon de pose`,
+c'est-a-dire exactement le contraire, et que l'outil classait en poseur.**
+**C'est le faux positif Klingshield du 09/10, reproduit a l'identique une semaine plus tard dans un
+outil NEUF — et c'est la QUATRIEME fois que la prose d'une note empoisonne un outil**, apres le
+marqueur `DOUBLON`, le `;` de ponctuation et le `grep` sur la ligne entiere.
+**Corrige en classant sur le CHAMP ACTIVITE SEUL** ; la note ne sert plus qu'a reperer des
+expressions **techniques**, qui n'ont pas d'homonyme courant. **Les deux fiches finlandaises
+remontent du rang 90 au rang 68.**
+
+**COMPLETE DISPLAY EQUIPMENT (Rowville, Melbourne) — creee.** Nom consigne le matin meme dans la note
+d'ART Maslen, donc repris **sans redepenser le premier temps**. Vitrines chaudes, froides et
+ambiantes **australian-made**, usine a Melbourne. Bonne fraction de verre. ⚠️ **Reserve d'echelle
+dite** : maison moyenne, une seule usine, et elle **source aussi** une gamme mondiale, donc une part
+de distribution. **Rang modeste assume.**
+
+**Registre : 1956 fiches.**
