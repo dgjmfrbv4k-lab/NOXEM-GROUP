@@ -21788,3 +21788,116 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 309. Ispan Glerborg (Kopavogur, Islande) — `ispan@ispan.is` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 11h00. SECONDE FICHE ISLANDAISE, et le second temps qui manquait est fait :
+l adresse est publiee par la societe ELLE-MEME dans le pied de page de son propre domaine.
+Envoi couvert par l accord expres de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des
+prospects NEUFS, aucune relance.**
+
+- **LE SECOND TEMPS QUI MANQUAIT EST RENDU, ET IL A COUTE UN SEUL APPEL.** La fiche du 20/10 a
+  09h11 disait en toutes lettres ce qu il fallait viser — la section **UM ISPAN GLERBORG** — et
+  le verdict etait ecrit dans la fiche plutot que seulement dans ma tete. Resultat :
+  **`ispan@ispan.is`** et **`bokhald@ispan.is`**, plus le **+354 54 54 300** et **Smidjuvegur 7,
+  Kopavogur**, lus dans le pied de page de leur propre domaine. **C est la regle du verdict
+  consigne qui paie, celle qui a fait naitre `candidats-deverrouillage.py`.**
+- **`bokhald` veut dire COMPTABILITE et il est ecarte** — tableau des boites du §13, ce n est ni
+  la colonne acheteur ni meme la colonne client, c est une boite administrative. `ispan@` est la
+  generale et c est la seule utilisable.
+- **CLASSE VERRIER PUR, la meilleure du §6 a 12,8 pour cent** : ils fabriquent du vitrage isolant,
+  du verre de securite, du verre trempe et du verre laque.
+- **L ANGLE EST LE VERRE LAQUE, ET C EST LA REGLE PRODIESA PRISE PAR L ENDROIT.** Ils annoncent le
+  laque **EN STOCK DANS DE NOMBREUSES COULEURS** et laquable a la demande. **Donc ils ne vendent
+  pas du laque, ils le FABRIQUENT — et ce qu ils achetent pour cela est le float clair et
+  l extra-clair qui est dessous.** Le laque **SORT de l offre**, le substrat y entre. C est la
+  faute Prodiesa du 12/10 evitee a l endroit exact ou elle se presentait.
+- **⚠️ ET LE MIROIR EST VOLONTAIREMENT ABSENT DU MESSAGE, alors que c est notre produit le plus
+  differenciant.** Leur page annonce des miroirs sans dire s ils les ARGENTENT ou s ils coupent du
+  miroir achete. **Dans le doute, la regle Prodiesa impose la marge** : on ne propose pas a une
+  maison le produit qu elle fabrique peut-etre. La question se POSE dans la demande finale, elle
+  ne s affirme pas.
+- **⚠️ ET CE QUE LE TEXTE NE FAIT PAS, FAUTE STADIP DU 12/10 :** il ne leur apprend pas que leur
+  gamme ressemble a celle de Samverk, il ne nomme aucun concurrent islandais, et il ne fabrique
+  aucun doute qu ils n ont pas souleve.
+- **L argument du float absent est VRAI en Islande** et il est servi comme un fait de geographie.
+  **Et il est servi au PASSE pour la Scandinavie** — Lahti arretee en 2009, Halmstad en 2013,
+  regle Australie — jamais comme une prophetie.
+- **⚠️ RESERVE D AGE DE LA PAGE, §5 :** leur page est datee d environ 862 jours, donc la gamme se
+  **pose** dans le message au lieu de s affirmer. Le texte dit « as your pages describe it » et
+  demande confirmation.
+- **⚠️ RIEN SUR LES DROITS ni sur la fiscalite islandaise**, non etablis. Rien sur le prix, le
+  delai, un certificat. **La formule imposee est presente.** Porte de sortie du §9 presente.
+  Signature du §10 une seule fois.
+- **Aucun dirigeant nomme** — aucune fonction d achats publiee, §5.
+- **Jour ouvre verifie, aucun ferie islandais le 20 octobre. Envoi vise vers 11 h de Paris, soit
+  9 h a Reykjavik** — la fenetre islandaise est Paris moins deux, donc elle est ouverte maintenant
+  et elle se referme en debut d apres-midi. **PORT REYKJAVIK ou Thorlakshofn.**
+
+**Objet :** `The clear and extra-clear behind your lacquered glass`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing to you because of one line on your own pages. You keep lacquered
+glass in stock in a range of colours, and you lacquer to order on top of that.
+A house that holds finished colours on the shelf is a house that has bought
+the clear glass behind them in advance, in quantity, and is carrying it. That
+is a buying pattern a container fits, and it is not the pattern of a works
+that orders each job in as it comes.
+
+The same is true of the rest of what you do. Sealed units, safety glass and
+toughened glass all start as plain sheet, and the sheet has to come from
+somewhere. There is no float furnace in Iceland - the last ones in the Nordic
+countries were shut, Lahti in 2009 and Halmstad in 2013 - so every square
+metre you cut has crossed the sea before you touch it. The question is not
+whether to import. It is how many origins you can call on when the one you use
+is short, or when a thickness is out of programme that month.
+
+So I am not offering you sealed units, toughened glass, safety glass or
+lacquered panels. You make all four. I am offering what goes in underneath:
+
+- clear and extra-clear float glass, the base of the range, and the extra-clear
+  is what gives a lacquered colour its true tone instead of a green cast
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass, for the sealed units
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order, so the size your cutting table is set to is not an obstacle. We
+can put together an offer for delivery to your port of destination, subject to
+validation on our side - Reykjavik or Thorlakshofn, whichever you clear
+through.
+
+What I need back is short, and I would rather have it from you than guess it
+from your website, which has not been updated in a while. Which thicknesses
+actually move through Kopavogur, and in what sheet size you take them. Roughly
+how much clear and extra-clear float in a year, and how often you replenish.
+Whether you buy your mirror as finished sheet or silver it yourselves - that
+changes what I would and would not put in front of you. And the port.
+
+And the honest part. A works on an island plans its supply carefully and does
+not change it on a first email. I am not asking you to. I am asking to be a
+qualified second name, ready for the month when the first one is short. If
+there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

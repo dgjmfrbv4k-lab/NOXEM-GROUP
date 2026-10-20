@@ -961,6 +961,41 @@ hits = [c for c in R if 'prodiesa' in c[3].lower()]
   C'est la famille du caractère unique — `newSglassind`, `glasscorplnt`, `index-gabon`,
   `laheyglass.ca`, `ABRAVIDRO`/`ABIVIDRO`, `SITIVESP`/`SINCAVESP` — et le §12 impose de trancher sur
   une **coordonnée**, jamais sur le nom.
+  **⚠️⚠️ DIX-HUITIÈME CAS LE 20/10 À 11h02, ET IL OUVRE UNE QUATRIÈME FAMILLE D'ALIAS QUE LES
+  DIX-SEPT AUTRES NE COUVRAIENT PAS : LE NOM N'EST NI UN SIGLE, NI UNE CONTRACTION, NI UN PLURIEL —
+  C'EST UNE MARQUE DE SITE, ET AUCUNE COMPARAISON DE CHAÎNES NE PEUT LA VOIR.**
+  `SUOMEN TURVALASI` était consigné dans la note de Tambest comme nom à reprendre, greppé **ABSENT**
+  par le script, et le second temps l'a tranché : **la page `yhteystiedot` de `suomenturvalasi.fi`
+  porte en toutes lettres `Tambest Oy, Ravikatu 2, 30420 Forssa`** — l'adresse exacte de la fiche
+  Tambest — **et toutes ses boîtes sont en `@tambest.com`, `tilaukset@` comprise, qui est l'adresse
+  à laquelle le message du matin était parti.** Une fiche créée aurait été un **second message à une
+  maison écrite trois heures plus tôt**.
+  **ET LE `grep` AVAIT RAISON DE DIRE ABSENT, comme dans le onzième cas et pour une raison encore
+  plus radicale :** `suomenturvalasi` et `tambest` n'ont **aucune sous-chaîne commune**, aucune
+  initiale commune, aucun pluriel et aucun séparateur en jeu. **Les cinq correctifs du script —
+  séparateurs, initiales, accent, lettre doublée, pluriel — sont tous inopérants par construction,
+  parce qu'il n'y a rien à rapprocher.** Un nom de domaine commercial n'est pas une orthographe de
+  la raison sociale, c'est un **nom de marque sans parenté lexicale**.
+  **CE QUI A TRANCHÉ EST UNE COORDONNÉE, ET C'EST LA MÉCANIQUE AGNORA ET SOFAVI POUR LA TROISIÈME
+  FOIS :** l'**adresse postale partagée**, lue sur la page de contact, plus le **domaine des boîtes**.
+  C'est exactement ce que le §12 impose — on tranche sur le siège, jamais sur le nom — et c'est ce
+  que le §6 écrit depuis le 08/10 : *le domaine de l'adresse e-mail trahit l'appartenance à un groupe
+  là où la raison sociale ne dit rien*.
+  **RÈGLE : un nom consigné qui ressemble à un SLOGAN DE MÉTIER plutôt qu'à une raison sociale —
+  `Suomen Turvalasi` veut dire *verre de sécurité finlandais* — est un candidat marque-de-site, et
+  son second temps se lit D'ABORD sur le pied de page et la mention légale, pas sur la gamme.** Une
+  page qui nomme une AUTRE société dans ses mentions ferme la fiche avant qu'on cherche son métier.
+  **Et c'est le troisième nom de cette même maison**, après `Tambest Glass Solutions`, déjà écarté le
+  matin par l'adresse partagée lui aussi.
+  **⚠️ ET LA MÉTHODE DE CONSIGNATION DU §13 A UN EFFET DE BORD QU'IL FAUT CONNAÎTRE POUR NE PAS S'EN
+  ALARMER, mesuré sur ce même lot : elle fait tirer la ligne « présent AILLEURS » du dix-septième cas
+  sur CHACUN des noms qu'elle consigne.** Les dix noms nordiques repris ce matin ont tous rendu
+  « ABSENT du champ raison sociale, ⚠ mais N ligne(s) le portent AILLEURS », et **les dix fois la
+  ligne était la note de consignation elle-même** — Seloy, Tambest, Samverk. **Ce n'est pas un faux
+  positif du script, c'est le script qui fonctionne** : il ne peut pas savoir qu'une note est une
+  réserve plutôt qu'une fiche. **Conduite : la ligne se lit quand même, à chaque fois et en entier**
+  — c'est en la lisant qu'on voit si le nom est consigné ou s'il est une vraie fiche, et le
+  dix-septième cas, FS Glass, est précisément celui où elle disait la seconde chose.
   **⚠️⚠️ ONZIÈME CAS LE 19/10 À 11h23, ET CELUI-LÀ A RÉELLEMENT CRÉÉ LE DOUBLON AU LIEU DE L'ÉVITER —
   UN ACRONYME N'EST PAS UNE VARIANTE D'ÉCRITURE, C'EST UNE AUTRE CHAÎNE.** J'ai passé
   **`Infinity Glass Group`** au `grep-nom.py`, obtenu **ABSENT**, et créé la fiche. **Le registre
@@ -3448,6 +3483,36 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
   Deux envois d'ecart ne changent rien a un dossier, mais un chiffre invente dans un suivi qui sert
   de preuve est un faux au sens du paragraphe 16 — et c'est le meme defaut qui faisait annoncer
   « aucun rebond » sur une fenetre d'observation trop courte : affirmer avant d'avoir lu.
+  **⚠️⚠️ ET LE 20/10 À 11h00 DONNE LA VARIANTE QUI COÛTE LE PLUS CHER DE TOUTE CETTE FAMILLE, PARCE
+  QU'ELLE NE PORTE PAS SUR UN CHIFFRE ÉCRIT MAIS SUR UN CHIFFRE QU'ON N'A PAS COMPTÉ DU TOUT :
+  J'AI ARMÉ UNE VAGUE DE CINQ ENVOIS SANS COMPTER CE QUI ÉTAIT DÉJÀ PARTI DANS LA JOURNÉE.**
+  À 10h53 j'ai inscrit dans `PLAN-ENVOIS.md` une vague américaine de **cinq** fiches pour la fenêtre
+  de 14 h, classées par métier, textes vérifiés, rebonds à recontrôler — **tout était juste sauf le
+  volume**. Le registre portait **19 envois confirmés** le même jour, et la bande du §10 est de
+  **15 à 20**. La vague armée aurait porté la journée à **24**, sur un domaine neuf **sans DMARC**
+  et **partagé avec une autre campagne**.
+  **LA CAUSE EST PRÉCISE ET CE N'EST NI UN OUBLI NI UNE MAUVAISE LECTURE : j'ai classé avant de
+  compter.** Le travail de ciblage — quelles fiches, dans quel ordre, avec quel texte — est
+  indépendant du volume, donc il se fait volontiers en premier ; et une fois la vague écrite, elle
+  a l'autorité d'une décision prise. **Le chiffre qui l'autorise, lui, n'avait jamais été produit.**
+  C'est la faute du §13 prise par son angle mort : la règle dit de ne jamais TAPER un comptage, elle
+  ne disait pas de le PRODUIRE avant d'en avoir besoin.
+  **RÈGLE : le comptage du jour se fait AVANT de composer une vague, jamais après l'avoir classée**,
+  et il décide de sa taille :
+```bash
+awk -F';' -v j="$(TZ=Europe/Paris date '+%Y-%m-%d')" \
+  'NR>1 && $10=="ENVOYE "j {n++} END {print "deja parti aujourd hui: "n+0}' liste-prospects.csv
+```
+  **Et la bande du §10 n'est pas indicative : `dans les limites disponibles` est le mot de Kevin
+  lui-même dans l'accord du 19/10 à 23h30.** Une autorisation d'envoyer sans demander n'est pas une
+  autorisation d'envoyer sans compter — c'est exactement l'inverse, puisque personne d'autre ne
+  tient le compte à ma place.
+  **CE QUE LA CORRECTION A DONNÉ, parce qu'elle ne consiste pas à ne rien faire : un seul envoi au
+  lieu de cinq, et choisi sur un critère que la vague de cinq ne regardait pas — la FENÊTRE.**
+  L'Islande est à Paris moins deux, donc sa matinée était ouverte **à cet instant** et se refermait ;
+  l'Amérique rouvre tous les jours à 14 h. **La contrainte de volume a donc amélioré le ciblage au
+  lieu de le réduire** : à une seule cartouche, on la tire sur le marché dont la fenêtre ne revient
+  pas. Les quatre américaines sont reportées, pas perdues.
 
 - **DIAGNOSTIC CORRIGÉ LE 08/10 — ce n'est pas une panne, c'est une liste blanche DNS.**
   Mesuré : `github.com` résout normalement, mais `gmail.com`, `example.com` et

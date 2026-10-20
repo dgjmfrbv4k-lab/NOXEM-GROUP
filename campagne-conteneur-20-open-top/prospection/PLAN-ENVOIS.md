@@ -94,3 +94,42 @@ sens, par exces comme par defaut.**
 
 **Conduite : un motif de mesure se verifie sur un cas connu avant d etre cru**, exactement comme une
 formule d heure. Ici il suffisait de lire le fragment declencheur d une seule des quatorze.
+
+
+## ⚠️⚠️ CORRECTION DE LA VAGUE CI-DESSUS, 11h04 — ELLE ETAIT SUR-ARMEE ET JE NE M EN ETAIS PAS APERCU
+
+**La vague de cinq proposee pour 14 h est ANNULEE et remplacee par ce qui suit. Le ciblage etait
+juste, le VOLUME ne l etait pas, et je ne l avais pas compte.**
+
+Au moment ou je l ai ecrite, le registre portait **19 envois confirmes dans la journee**. La bande
+retenue au paragraphe 10 est de **15 a 20** sur un domaine neuf, **sans DMARC**, et **partage avec
+une autre campagne**. Cinq de plus auraient porte la journee a **24**.
+
+**La cause est d avoir CLASSE avant de COMPTER.** Choisir les fiches, les ranger par metier et
+verifier leurs textes est un travail qui se fait volontiers en premier, et une fois la vague ecrite
+elle a l autorite d une decision prise — alors que le chiffre qui l autorisait n avait jamais ete
+produit. Consigne au paragraphe 13 du mandat.
+
+**CE QUI A ETE FAIT A LA PLACE, ET LA CONTRAINTE A AMELIORE LE CIBLAGE AU LIEU DE LE REDUIRE :**
+un seul envoi, **ISPAN GLERBORG en Islande**, texte 309, a 11h02. Le critere qui l a emporte n est
+pas celui de la vague de cinq, c est la **FENETRE** : l Islande est a Paris moins deux, donc sa
+matinee etait ouverte a cet instant et se refermait en debut d apres-midi, tandis que **l Amerique
+rouvre tous les jours a 14 h**. A une seule cartouche, on la tire sur le marche dont la fenetre ne
+revient pas.
+
+**ETAT DU JOUR : 20 envois confirmes, soit le HAUT de la bande. Plus aucun envoi aujourd hui**,
+quelle que soit la qualite des fiches restantes.
+
+**REPORT, ET LES QUATRE NE SONT PAS PERDUES :** Syracuse Glass (295), DC Glass Distributors (237),
+Southern Wholesale Glass (245), Insulite Glass Co. (248) et Mid-American Glass (251) partent
+**demain 21/10 a la fenetre de 14 h**, textes deja rediges et controles, avec un controle de rebonds
+refait juste avant et l arret immediat si un `5.7.1` tombe d un serveur neuf.
+
+**ET LA REGLE POUR DEMAIN, A APPLIQUER AVANT DE COMPOSER QUOI QUE CE SOIT :**
+
+```bash
+awk -F';' -v j="$(TZ=Europe/Paris date '+%Y-%m-%d')" \
+  'NR>1 && $10=="ENVOYE "j {n++} END {print "deja parti aujourd hui: "n+0}' liste-prospects.csv
+```
+
+Le comptage decide de la taille de la vague. Il se fait **avant** le classement, jamais apres.

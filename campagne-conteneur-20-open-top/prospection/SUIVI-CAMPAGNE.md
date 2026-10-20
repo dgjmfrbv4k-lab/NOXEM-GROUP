@@ -8425,3 +8425,53 @@ D ici la : les neuf noms finlandais consignes dans la note de Seloy, les deux da
 consignes dans celles de Mirit et de Samverk, et les trois suedois non encore qualifies.
 
 Registre : 1933 fiches.
+
+---
+
+### 20/10 — 11h04 · deux seconds temps consignes, un envoi islandais, une vague sur-armee corrigee
+
+**Les cinq chiffres du paragraphe 3, distincts :**
+
+| | |
+|---|---|
+| **Recherches** | **2 appels**, les deux sur des noms **deja consignes** dans une note, donc a cout reduit |
+| **Envois confirmes** | **20 sur la journee**, dont **1 dans ce bloc** — Ispan Glerborg, texte 309, identifiant `1a1588b671d6d77f` |
+| **Reponses qualifiees** | 0 |
+| **Demandes de devis** | 0 |
+| **Commandes** | 0 |
+
+**Registre : 1936 fiches. Aucune fiche creee dans ce bloc, et c est le resultat et non un manque.**
+
+**CE QUE LES DEUX APPELS ONT RENDU, ET LE SECOND VAUT MIEUX QUE LE PREMIER :**
+
+**Un. ISPAN GLERBORG (Kopavogur, Islande) — deverrouillee et envoyee.** Le second temps qui manquait
+depuis 09h11 a coute **un seul appel** parce que la fiche disait elle-meme quoi viser. Le pied de page
+de leur propre domaine rend `ispan@ispan.is`, le `+354 54 54 300` et Smidjuvegur 7. Regle anti-rebond
+satisfaite. `bokhald@`, la comptabilite, est ecartee au titre du tableau des boites. **Angle : le verre
+LAQUE tenu en stock en couleurs, donc le float clair et extra-clair qui est dessous** — regle Prodiesa
+prise par l endroit. **Le miroir est volontairement absent du message** parce que leur page ne dit pas
+s ils argentent, et la question est posee au lieu d etre tranchee.
+
+**Deux. SUOMEN TURVALASI — AUCUNE FICHE, ET C EST UNE FAUTE SHIBAAM EVITEE.** Le nom etait consigne
+dans la note de Tambest. Verification faite : **`suomenturvalasi.fi` EST un site de Tambest Oy**, meme
+adresse Ravikatu 2 a Forssa, toutes les boites en `@tambest.com` dont `tilaukset@`, **celle a laquelle
+le message du matin est parti**. Une fiche aurait ete un second message a trois heures d intervalle.
+**Et `grep-nom.py` ne pouvait structurellement pas l attraper** : les deux noms n ont aucune
+sous-chaine commune. **C est l ADRESSE PARTAGEE qui a tranche**, mecanique AGNORA et SOFAVI pour la
+troisieme fois. Consigne au paragraphe 5 comme **dix-huitieme cas** et quatrieme famille d alias, la
+marque de site.
+
+**UNE FAUTE DE MA PART, CORRIGEE AVANT D AVOIR COUTE QUOI QUE CE SOIT.** A 10h53 j avais arme une
+vague de **cinq** envois americains pour 14 h. Le registre portait deja **19 envois** et la bande du
+paragraphe 10 est de **15 a 20** : la vague aurait porte la journee a 24, sur un domaine neuf sans
+DMARC et partage. **J avais classe avant de compter.** Vague annulee, un seul envoi fait, les cinq
+americaines reportees a demain 14 h avec leurs textes deja prets. La correction est ecrite dans
+`PLAN-ENVOIS.md` et la regle au paragraphe 13.
+
+**Controles passes apres ecriture, tous a leur niveau de reference :** 0 ligne malformee ·
+`detecte-doublons` 8 groupes · `noyaux-voisins` 18 paires · `verif-argument-float` 0 a corriger ·
+`verif-texte` 0 a corriger sur 275 textes · 0 fiche `A APPELER` sans telephone.
+
+**SUITE :** plus aucun envoi aujourd hui. Le temps restant va aux seconds temps des noms consignes —
+les neuf finlandais de la rubrique isolant, les cinq de la rubrique trempe, et `jarngler.is` en
+Islande — pour que la fenetre de 8h30 de demain ait des fiches pretes au lieu d avoir a les chercher.
