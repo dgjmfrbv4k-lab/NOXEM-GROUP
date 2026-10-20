@@ -8911,3 +8911,39 @@ s affirme pas.
 
 **Controles : 0 ligne malformee, 0 fiche `A APPELER` sans telephone, 0 a corriger sur 290 textes**,
 et l annotation du 324 verifiee par relevé — aucun mot de prix dans le corps.
+
+---
+
+### 20/10 — 12h07 · le plus gros dossier de la campagne etait invisible aux comptages
+
+**Les cinq chiffres du paragraphe 3 :** recherches **0** · envois confirmes **20 sur la journee,
+0 dans ce bloc** · reponses qualifiees **0** · **demandes de prix ouvertes : 6, et non 5** ·
+commandes **0**.
+
+**⚠️⚠️ LA TROUVAILLE DU BLOC EST UNE ERREUR DE REGISTRE, ET ELLE PORTE SUR LE PLUS GROS DOSSIER
+DE LA CAMPAGNE. NEPAL GLASS UDYOG portait le statut `REPONSE 2026-10-09`** — alors qu un prix lui
+a ete **promis par ecrit** le 09/10 pour *early next week*, et que le dossier figure depuis le
+16/10 parmi les neuf de `GRILLE-DE-PRIX-A-FAIRE.md`. **Son statut ne disait rien de cet
+engagement**, donc un comptage des demandes de prix en rendait **cinq au lieu de six** — y compris
+le comptage que je venais de publier dans le tableau de bord destine a Kevin, une heure plus tot.
+**Statut corrige, tableau de bord corrige, et la cause consignee au paragraphe 12.**
+
+**LA REGLE QUI EN SORT COMPLETE CELLE DE STAKLO BAKAR PAR L AUTRE BOUT :** la-bas une decision
+ecrite en prose faisait ressortir une fiche en retard **a tort** ; ici un engagement ecrit en prose
+faisait qu une fiche **ne ressortait pas du tout**. **Un statut doit porter ce qu un comptage doit
+voir.** Le test coute une seconde avant chaque bilan : si la phrase du bilan est plus riche que le
+statut, **c est le statut qu il faut corriger, pas le bilan qu il faut enrichir**.
+
+**ET DEUX FICHIERS ONT ETE REMIS A JOUR POUR QUE LE TRAVAIL DE LA SEMAINE SOIT ACTIONNABLE EN UNE
+MINUTE :**
+- **`DECISIONS-AARON.md`** porte desormais en tete un **tableau de bord date**, dans l ordre du
+  cout d attente, chiffres substitues depuis le registre. Il dit aussi d emblee **ce que je ne peux
+  PAS confirmer** — les anciennetes sont des anciennetes de registre et non des preuves de silence,
+  puisque je ne vois pas ce qui part du client de messagerie de Kevin.
+- **`GRILLE-DE-PRIX-A-FAIRE.md`** avait quatre jours et ses anciennetes etaient fausses d autant.
+  **Recalculees et substituees** : PG Glass attend **22 jours**, Rubex **21**, le Nepal **11**.
+
+**⚠️ ET UNE FAUTE DE PLUME, DIXIEME DE SA FAMILLE : un ` ; ` employe comme ponctuation de prose**
+dans la note du Nepal — et, comme sur Eurover le 14/10, **dans une phrase qui expliquait une
+regle**. L assert en amont a nomme la cle et le champ, **rien n a ete ecrit**, la phrase est
+coupee en deux.

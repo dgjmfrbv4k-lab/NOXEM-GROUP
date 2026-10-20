@@ -3432,6 +3432,24 @@ porte la date à laquelle elle doit partir, ce qui la rend invisible aux comptag
 jusqu'à cette date — et visible le jour voulu. Même logique que `A ENVOYER YYYY-MM-DD`.
 **Et la règle générale, qui vaut au-delà de ce statut : avant de compter une fiche en retard, lire
 sa note.** Un comptage automatique sur les statuts ne voit pas une décision écrite en prose.
+**⚠️⚠️ ET LE 20/10 À 12h06 PREND CETTE RÈGLE PAR L'AUTRE BOUT, SUR LE DOSSIER LE PLUS GROS DE LA
+CAMPAGNE : LÀ OÙ STAKLO BAKAR RESSORTAIT EN RETARD À TORT, CELUI-CI NE RESSORTAIT PAS DU TOUT.**
+**NEPAL GLASS UDYOG** — *le plus gros volume déclaré de toute la campagne* — portait le statut
+`REPONSE 2026-10-09`. Or un prix lui avait été **promis par écrit** le 09/10 pour *early next
+week*, et le dossier figurait depuis le 16/10 parmi les neuf de `GRILLE-DE-PRIX-A-FAIRE.md`.
+**Mais son STATUT ne disait rien de cet engagement** : un `awk` sur `DEMANDE DE PRIX` en rendait
+**cinq au lieu de six**, et le plus gros dossier de la campagne était **invisible à tout comptage
+automatique** — y compris à celui que je venais de publier dans le tableau de bord destiné à Kevin.
+**LA RÈGLE SE COMPLÈTE DONC DANS LES DEUX SENS : un statut doit porter CE QU'UN COMPTAGE DOIT
+VOIR.** Une décision ou un engagement qui vit seulement dans la prose d'une note est invisible à
+l'outil, et la prose n'est pas un endroit où ranger un fait structurant — c'est exactement ce que
+le §12 dit déjà du mot `DOUBLON` écrit en prose, pris à l'envers : **là, de la prose déclenchait un
+mécanisme ; ici, de la prose en prive un.**
+**LE TEST, ET IL COÛTE UNE SECONDE AVANT CHAQUE BILAN :** pour chaque dossier que je m'apprête à
+décrire en mots, vérifier que son STATUT le dirait tout seul. Si la phrase du bilan est plus riche
+que le statut, c'est le statut qu'il faut corriger — pas le bilan qu'il faut enrichir.
+**Et le vocabulaire du §12 le permettait déjà : `REPONSE` dit qu'une réponse est arrivée,
+`DEMANDE DE PRIX` dit qu'un chiffrage est DÛ.** Le second était le bon depuis le 09/10.
 Un refus courtois se note `REFUS` **avec la date de reprise dans la note**, et non
 `NE PAS DEMARCHER`, qui surtraduit : Glass Jet n'a pas demandé qu'on le laisse tranquille,
 il a dit ne pas avoir de besoin actuellement.

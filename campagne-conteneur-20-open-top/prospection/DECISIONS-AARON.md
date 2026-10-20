@@ -22,15 +22,35 @@ Les anciennetes ci-dessous sont donc des anciennetes **de registre**, pas des pr
 | En attente d un APPEL, toutes avec un numero | **286** |
 | En attente d un ARBITRAGE de votre part | **41** |
 | Reponses recues a traiter | **5** |
-| **Demandes de prix ouvertes** | **5** · plus **1** devis envoye et **3** en negociation |
+| **Demandes de prix ouvertes** | **6** · plus **1** devis envoye et **3** en negociation |
 
 ## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
 
-**CINQ societes ont demande un prix et attendent**, et les cinq sont au registre sous ce statut.
-Trois sont datees — **Christakis Avgousti** a Chypre et **Unionglass** en Argentine depuis le
-**13/10**, soit **sept jours**, et **Industrial Mercantil San Simon** au Guatemala depuis le
-**14/10**. Les deux autres sont anterieures et non datees au statut : **Rubex** en Egypte, et
-**PG Glass Namibia**, dont les specifications sont deja confirmees.
+**SIX societes ont demande un prix et attendent**, et les six portent desormais ce statut au
+registre — **la sixieme y a ete corrigee ce matin**, voir plus bas.
+
+| Societe | Pays | Demande depuis | Attente |
+|---|---|---|---|
+| **PG Glass** (Willem Heunis) | Namibie | 28/09 | **22 jours** |
+| **Rubex** (Nada Hassan) | Egypte | 29/09 | **21 jours** |
+| **Nepal Glass Udyog** (Amir Shrestha) | Nepal | 09/10 | **11 jours** |
+| **Unionglass** (Teresa Lonardelli) | Argentine | 13/10 | **7 jours** |
+| **Christakis Avgousti** (Stella Stylianidou) | Chypre | 13/10 | **7 jours** |
+| **Industrial Mercantil San Simon** | Guatemala | 14/10 | **6 jours** |
+
+**⚠️ ET LE DOSSIER NEPALAIS EST CELUI QU IL FAUT REGARDER EN PREMIER, pour deux raisons.** C est
+**le plus gros volume declare de toute la campagne**, et **un prix lui a ete promis PAR ECRIT le
+09/10 pour *early next week*** — nous sommes onze jours plus tard.
+**Son statut au registre disait seulement `REPONSE` jusqu a ce matin**, de sorte qu un comptage
+automatique des demandes de prix en rendait cinq au lieu de six et que ce dossier etait invisible.
+**Corrige, et la cause est consignee** : un comptage ne voit que le statut, jamais une decision
+ecrite en prose.
+
+**S y ajoutent, et ils attendent le meme chiffrage : United Glass au Canada**, a qui un devis est
+parti le 08/10 mais **pas sur la cote qu il avait demandee**, et les trois dossiers en negociation
+— **Caribbean Glass Specialists**, **Miro Est** et **Carlen Glass**, ce dernier etant un compte
+protege traite a part. **Cela fait les NEUF que `GRILLE-DE-PRIX-A-FAIRE.md` detaille**, dossier par
+dossier, avec les cotes, les epaisseurs, les ports et les volumes deja confirmes par le client.
 
 **Une seule grille les debloque toutes.** Le detail — cotes, epaisseurs, ports, volumes confirmes —
 est dans `GRILLE-DE-PRIX-A-FAIRE.md`. **Le minimum utile : float clair au m2, par epaisseur de 4 a

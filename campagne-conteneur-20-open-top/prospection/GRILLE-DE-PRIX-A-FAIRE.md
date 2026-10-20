@@ -5,19 +5,22 @@ Ce ne sont pas des prospects : ce sont des gens qui ont DEMANDE un prix et qui a
 
 ---
 
+## ⚠️ ANCIENNETES RECALCULEES LE 20/10 — le fichier datait du 16/10 et ses chiffres avaient
+quatre jours de retard. **Substituees depuis la date de chaque demande, jamais tapees.**
+
 ## Les neuf, par anciennete de la demande
 
 | # | Societe | Pays | Demande depuis | Attente | Ce qu'il faut chiffrer | Port |
 |---|---|---|---|---|---|---|
-| 1 | **PG Glass** (Willem Heunis) | Namibie | 28/09 | **18 j** | 4 conteneurs 20' fermes, un par reference | CIF Walvis Bay, fret ligne separee |
-| 2 | **Rubex** (Nada Hassan) | Egypte | 29/09 | **17 j** | float clair 6 et 10 mm, 3300 x 2140 | Alexandrie |
-| 3 | **United Glass** (John) | Canada | 06/10 | **10 j** | 9 references au pied carre, **en 3210 x 2550** | CIF Toronto |
-| 4 | **Caribbean Glass Specialists** (Akeeda) | Trinite | 07/10 | **9 j** | 5 references, prix ET fret rendu | Port of Spain |
-| 5 | **Nepal Glass Udyog** (Amir Shrestha) | Nepal | 09/10 | **7 j** | **float clair 12 mm** d'abord | CIF Kolkata ou Haldia, a confirmer |
-| 6 | **Miro Est** (Graziella Virassamy) | La Reunion | 12/10 | **4 j** | clair 6 et 8 mm, plus feuillete 33/1 44/2 55/2 | Port-Reunion |
-| 7 | **Unionglass** (Teresa Lonardelli) | Argentine | 13/10 | **3 j** | feuillete incolore 3+3, 4+4, 5+5 en 3660 x 2550 | Buenos Aires |
-| 8 | **Christakis Avgousti** (Stella Stylianidou) | Chypre | 13/10 | **3 j** | float clair 4, 5 et 6 mm en 3210 x 2550 et 3210 x 2250 | CIF Limassol |
-| 9 | **Industrial Mercantil San Simon** | Guatemala | 14/10 | **2 j** | cotizacion promise **sous 24 h**, echue | Puerto Quetzal ou Santo Tomas |
+| 1 | **PG Glass** (Willem Heunis) | Namibie | 28/09 | **22 j** | 4 conteneurs 20' fermes, un par reference | CIF Walvis Bay, fret ligne separee |
+| 2 | **Rubex** (Nada Hassan) | Egypte | 29/09 | **21 j** | float clair 6 et 10 mm, 3300 x 2140 | Alexandrie |
+| 3 | **United Glass** (John) | Canada | 06/10 | **14 j** | 9 references au pied carre, **en 3210 x 2550** | CIF Toronto |
+| 4 | **Caribbean Glass Specialists** (Akeeda) | Trinite | 07/10 | **13 j** | 5 references, prix ET fret rendu | Port of Spain |
+| 5 | **Nepal Glass Udyog** (Amir Shrestha) | Nepal | 09/10 | **11 j** | **float clair 12 mm** d'abord | CIF Kolkata ou Haldia, a confirmer |
+| 6 | **Miro Est** (Graziella Virassamy) | La Reunion | 12/10 | **8 j** | clair 6 et 8 mm, plus feuillete 33/1 44/2 55/2 | Port-Reunion |
+| 7 | **Unionglass** (Teresa Lonardelli) | Argentine | 13/10 | **7 j** | feuillete incolore 3+3, 4+4, 5+5 en 3660 x 2550 | Buenos Aires |
+| 8 | **Christakis Avgousti** (Stella Stylianidou) | Chypre | 13/10 | **7 j** | float clair 4, 5 et 6 mm en 3210 x 2550 et 3210 x 2250 | CIF Limassol |
+| 9 | **Industrial Mercantil San Simon** | Guatemala | 14/10 | **6 j** | cotizacion promise **sous 24 h**, echue | Puerto Quetzal ou Santo Tomas |
 
 ---
 
