@@ -9778,3 +9778,39 @@ attente d'arbitrage · 3 reponses · 5 demandes de prix, 3 devis sans reponse, 3
 cadence de 15 a 20 par jour, soit une file CINQ A SIX FOIS plus profonde que la cadence.**
 **Trouver des prospects n'est plus le goulot. L'ORDRE et la CADENCE le sont** — et c'est tout
 l'objet de `classe-file.py`, ecrit aujourd'hui.
+
+## 20/10 a 13h51 — compter les fiches en arbitrage, et trouver que la demande entrante avait disparu du tableau de bord
+
+**Recherches : 0. Envois confirmes : 0. Fiches debloquees : 0 — elles attendent Kevin. Trou de
+suivi trouve et repare : 1, et il est serieux.**
+
+**J'ai compte les 41 fiches en `A VALIDER AARON` et verifie, une par une, lesquelles
+`DECISIONS-AARON.md` mentionne. IL N'EN COUVRAIT QUE LA MOITIE.** Les gros blocs y etaient —
+Afrique du Sud, Riou, perimetre europeen — **et les questions isolees etaient invisibles.**
+Verification par relevé : **Arabian Glass, Espejos S.A., Alanees et PG Centre n'y figuraient PAS DU
+TOUT.**
+
+**🔴🔴 ET LA PLUS GRAVE EST LA PREMIERE : OVER HEAD ASIA, LA SEULE DEMANDE DE PRIX ENTRANTE DE TOUTE
+LA CAMPAGNE, N'APPARAISSAIT PLUS DANS CE FICHIER.** Elle est arrivee le **11/10**, elle a **neuf
+jours**, elle y figurait a sa creation, **et un remaniement ulterieur l'a fait sortir.** `git log -S`
+le confirme. **C'est une faute de tenue du fichier et je la signale au titre du paragraphe 16** —
+d'autant qu'elle est la seule chose de la campagne qui soit venue a nous sans un envoi.
+
+**ET LE DOSSIER MERITE MIEUX QUE L'OUBLI** : un negociant bresilien **qui a DEUX bureaux d'achat en
+Chine, a Pekin et a Dongguan, EXCLUT la Chine** a cause de l'antidumping bresilien et demarche
+l'Europe. **C'est le mecanisme du paragraphe 6 qui se produit en direct.** ⚠️ Mais la question est
+**technique et non commerciale** — ses quatre cotes sont des panneaux d'**electromenager**, metier
+d'equipementier OEM — et **les quantites sont dans quatre PDF que cette session ne peut pas ouvrir.**
+**Kevin doit les lire dans Gmail.**
+
+**LE RESTE DE LA SECTION, en une ligne chacun.** **ARABIAN GLASS** : metier tranche favorablement le
+09/10, **plus d'un million de m2 de decoupe par an**, fiche prete — **et bloquee par une question a
+une ligne**, de quelle boite le fil est parti. **ESPEJOS S.A. / S.A.S.** : une lettre separe un
+prospect d'un concurrent, et le paragraphe 12 tranche sur l'immatriculation que je n'ai pas.
+**PG CENTRE ZIMBABWE** : le Zimbabwe n'est pas dans la liste du paragraphe 7 mais le sigle et le
+metier concordent trop. **ALANEES Yemen** : prime de risque de guerre, **je recommande de fermer**.
+**CITY GLASS Zimbabwe** : c'est la fiche de la faute Shibaam du 13/10, **je recommande de la laisser
+dormir trois mois** — une troisieme lettre ne ferait qu'attirer l'attention sur l'incoherence.
+
+**Les 41 sont desormais groupees par QUESTION dans une seule section, avec une recommandation pour
+chacune.** Elles se tranchent en une passe.

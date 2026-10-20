@@ -183,6 +183,99 @@ saura enfin ce qui marche.
 
 ---
 
+## 0 ter. 🔴🔴 AJOUTE A 13h51 — LES 41 FICHES QUI ATTENDENT VOTRE ARBITRAGE, GROUPEES PAR QUESTION. ET LA PREMIERE A NEUF JOURS.
+
+**Pourquoi cette section existe : j ai compte les fiches en `A VALIDER AARON` et verifie, une par
+une, lesquelles ce tableau de bord mentionne. CE FICHIER N EN COUVRAIT QUE LA MOITIE.** Les gros
+blocs y etaient — Afrique du Sud, Riou, perimetre europeen — **et les questions isolees etaient
+invisibles, dont la plus importante.** Les voici toutes, groupees, avec ma recommandation.
+
+### 🔴🔴 1. OVER HEAD ASIA (Bresil) — LA SEULE DEMANDE DE PRIX ENTRANTE DE LA CAMPAGNE, ET ELLE N APPARAISSAIT PLUS DANS CE FICHIER
+
+**LE FAIT LE PLUS GENANT D ABORD : elle est arrivee le 11/10, elle a NEUF JOURS, et elle avait
+disparu de ce tableau de bord.** Elle y figurait le 11/10 et un remaniement ulterieur l a fait
+sortir. **C est une faute de tenue de ce fichier, et je la signale au titre du paragraphe 16.**
+
+**CE QUE C EST.** Bruno Pancotte, *International Buyer* — fonction verifiee dans sa propre signature,
+donc nommable — de **Over Head Asia**, negociant bresilien a Novo Hamburgo. **Il demande du verre
+TREMPE** en quatre cotes : 738 x 608 x 6, 760 x 898 x 6, 760 x 1088 x 6 et 448 x 500 x 4 mm.
+NCM 7007.19.00. Il veut **FOB ou EXW**, le MOQ, les conditions de paiement et le delai.
+
+**ET C EST LE MECANISME DU PARAGRAPHE 6 QUI SE PRODUIT EN DIRECT, c est ce qui rend le dossier
+remarquable : cette maison a DEUX BUREAUX D ACHAT EN CHINE, a Pekin et a Dongguan — et elle EXCLUT
+la Chine elle-meme**, a cause de l enquete antidumping bresilienne sur le verre trempe
+d electromenager. **Un importateur qui a ses propres acheteurs en Chine se detourne de la Chine et
+demarche l Europe. Sans un seul envoi de notre part.**
+
+**⚠️ ET LA QUESTION EST TECHNIQUE, PAS COMMERCIALE, C EST POURQUOI JE NE PEUX PAS LA TRANCHER.** Les
+quatre cotes — porte de four, clayette de refrigerateur, plan de cuisson — sont des **panneaux
+d electromenager**, pas du verre de batiment. **Le trempe est dans notre gamme publiee et le sur
+mesure aussi**, mais du petit panneau d electromenager est un metier d **equipementier OEM**.
+**Sait-on le faire ?** Paragraphe 11 : garantie technique et engagement contractuel.
+
+**DEUX RESERVES QUI CHANGENT LA LECTURE, et je les dis plutot que de les arrondir.** UN, **LES
+QUANTITES NE SONT PAS DANS LE MESSAGE** : elles sont dans quatre PDF joints — 72404, 72358, 72339,
+73455 — **que cette session ne peut pas ouvrir. VOUS DEVEZ LES LIRE DANS GMAIL.** Sans quantite,
+rien n est chiffrable. DEUX, **le champ destinataire porte sa propre adresse : nous sommes en copie
+cachee avec d autres fournisseurs. C est un appel d offres diffuse, pas un contact exclusif.**
+
+**POINT FAVORABLE SUR LA FORME : il demande du FOB ou de l EXW, donc IL PREND LE FRET.** C est plus
+simple que le rendu port habituel de la campagne.
+
+**MA RECOMMANDATION : ouvrez les quatre PDF et dites-moi seulement si le panneau d electromenager
+trempe en petite cote est faisable.** Si oui, le texte part le jour meme. Si non, une reponse
+courte et honnete vaut mieux que neuf jours de silence de plus — **un negociant qui nous a ecrit
+spontanement se souviendra de la reponse, pas de l offre.**
+
+### 🟠 2. ARABIAN GLASS (Riyad) — UNE QUESTION A UNE LIGNE QUI DEBLOQUE UNE TRES GROSSE CIBLE
+
+**Le metier est tranche depuis le 09/10 et FAVORABLEMENT** : ce n est **pas** le producteur float
+saoudien dont le nom ressemble, c est **Arabian Processing Glass**, transformateur. **Capacite de
+decoupe annoncee a PLUS D UN MILLION DE METRES CARRES PAR AN — soit, a pleine charge, un conteneur
+de substrat tous les deux jours ouvres.** Vitrage isolant, low-E, trempe, feuillete, bombe, laque.
+**La fiche est prete, les pages sont choisies.**
+
+**CE QUI BLOQUE N EST PLUS LE METIER, C EST L HISTORIQUE.** La note affirme un envoi debut octobre
+et une relance le 08/10. **Recherche faite dans la boite Workspace : AUCUN message vers eux.** Deux
+lectures, et je ne tranche pas : soit les envois sont partis de l **ancienne boite** et sont
+invisibles d ici, soit ils n ont pas eu lieu.
+**MA RECOMMANDATION : dites-moi de quelle boite le fil est parti.** Je refuse d envoyer avant, parce
+que si les deux messages sont partis, un troisieme serait la faute Shibaam **sur la plus grosse
+cible saoudienne du registre**.
+
+### 🟠 3. ESPEJOS S.A. / ESPEJOS S.A.S. (Palmira, Colombie) — UNE LETTRE SEPARE UN PROSPECT D UN CONCURRENT
+
+**Le mandat se contredit sur cette maison et ce n est pas a moi de trancher.** Le paragraphe 6 nomme
+**Espejos S.A.S.** comme **concurrent** sur le miroir — c est le demandeur de la Resolution 284 du
+MinCIT. **Et la recherche a rendu DEUX noms a une lettre pres, tous deux a Palmira** : *Espejos
+S.A.*, marque **Radiant**, avec un train d argenture en ligne, et *Espejos S.A.S.*, 35 ans.
+**Si c est la meme maison, c est un concurrent et la fiche se ferme. Si ce sont deux maisons, l une
+est peut-etre un prospect.** Le paragraphe 12 tranche sur **le siege et l immatriculation**, jamais
+sur le nom — et je n ai pas acces au registre colombien.
+
+### 🟡 4. LES BLOCS DEJA CONNUS, RAPPELES POUR QUE LE COMPTE SOIT JUSTE
+- **AFRIQUE DU SUD, 13 fiches** — gelees par la negociation PG Glass. Section 5 plus bas.
+- **⚠️ ET UNE QUATORZIEME QUI N Y ETAIT PAS : PG CENTRE — PG INDUSTRIES ZIMBABWE.** Le domaine est
+  `pgiz.co.zw`. **Le Zimbabwe ne figure PAS dans la liste du paragraphe 7**, mais le nom, le sigle
+  et le metier concordent trop. **Un mot de vous la rattache au compte protege ou la libere.**
+- **GROUPE RIOU, 4 fiches** — SOREMIR, SOFAVI, Riou Ocean Glass, Euroglas-De Landtsheer. Section 4.
+- **PERIMETRE EUROPEEN, 13 fiches en `A VALIDER`** — Belgique 3, Pays-Bas 3, plus Luxembourg,
+  Espagne, Royaume-Uni, Norvege, Suede, Serbie. Section 3, et **l argument britannique neuf** y est.
+- **CAMEROUN, 6 fiches** — en attente depuis le 08/10.
+- **GLASS OVERSEAS (Marseille)** — le negociant qui fait notre metier depuis 1989 vers les DOM.
+  Ni concurrent ni prospect tant que vous n avez pas tranche.
+
+### ⚪ 5. LES DEUX DERNIERES, ET ELLES SE TRANCHENT EN DIX SECONDES
+- **ALANEES (Yemen)** — **prime de risque de guerre** sur l assurance CIF, a chiffrer avant toute
+  offre, et adresse en `hotmail`. **Ma recommandation : fermer.** Le cout de l assurance et le
+  risque de recouvrement sont hors de ce que la campagne peut porter.
+- **CITY GLASS (Zimbabwe)** — c est la fiche de **la faute Shibaam du 13/10** : elle a recu le
+  gabarit de **cloture** le 12/10 puis un **premier contact commercial** le 13/10, qui le
+  contredisait. **Ma recommandation : la laisser dormir trois mois.** Ecrire une troisieme fois
+  pour s excuser ne ferait qu attirer l attention sur l incoherence.
+
+---
+
 ## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
 
 **⚠️⚠️ CETTE SECTION A ETE CORRIGEE TROIS FOIS CE MATIN ET JE LE DIS PLUTOT QUE DE LA LISSER.**
