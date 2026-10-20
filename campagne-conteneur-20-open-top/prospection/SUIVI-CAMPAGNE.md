@@ -10670,3 +10670,34 @@ Chine. **Le texte le dit au client plutot que de le cacher.**
 **GLASS MARKET VIC** deverrouillee aussi, `info@glassmarket.com.au`. ⚠ Et sa qualification se
 precise **par ses propres MARQUES** — Vibra, Mirage Epoxy, SanctaGuard, avec declarations de
 garantie publiees. **On ne depose pas une marque sur du verre qu on se contente de revendre.**
+
+
+---
+
+## 20/10 — 15h10 · DEUX VERDICTS, ET SAO PAULO REJOINT LA LISTE DES BASSINS FAITS
+
+**Recherches : 2 appels. Deverrouillages : 0. Fiches creees : 0. Envois confirmes : 0. Reponses
+qualifiees : 0. Demandes de devis : 0. Commandes : 0. Registre a 1969 fiches.**
+
+**GLASSWORKS AUST. : adresse OBFUSQUEE sur toutes leurs pages, fiche telephonique, pas d appel de
+plus a y depenser.** Mais la qualification est excellente et elle tient en une phrase de leur site :
+**ils se declarent FABRICANT DE VERRE et NON vitrier ni fenetrier, et fournissent LE SECTEUR
+UNIQUEMENT.** C est mot pour mot la formulation de FGS Glass — **deux faconneurs de Melbourne qui
+refusent le particulier et alimentent les vitriers.** Marques deposees ArchiLam et EnerSave, donc
+ils transforment.
+
+**VIDROSISTEMAS : LE NOM NE RESOUT PAS.** Aucun resultat, ni site ni annuaire. Ce n est pas que la
+societe n existe pas, c est que **le nom releve sur la liste ABRAVIDRO ne se retrouve nulle part
+ailleurs** — vraisemblablement une variante d orthographe ou une raison sociale differente du nom
+d usage, **dix-huitieme cas du paragraphe 5, celui de Suomen Turvalasi.** Ne pas y redepenser
+d appel sur ce nom : elle se debloquera par la page ABRAVIDRO, qui publie ses associes un par un
+avec leurs coordonnees.
+
+**⚠️⚠️ ET LE VRAI RESULTAT DE CET APPEL EST UNE MESURE DE SATURATION : SAO PAULO EST FAIT.** Sur six
+noms rendus, **CINQ etaient deja au registre ET DEJA CONTACTES** — Divinal relancee le 08/10, Space
+Glass envoyee le 12, Conlumi le 09, Xanglass relancee le 08, WegaVidros envoyee le 13. Seul
+**Vitraltec** est absent, et sa classe est melee.
+**C est le meme taux qu a la Caraibe, aux Philippines et au Mexique aujourd hui**, et la conclusion
+est la meme : **ne plus depenser d appel de DECOUVERTE LARGE sur Sao Paulo.** Ce qui reste s y
+trouve par la liste d ABRAVIDRO, lettre par lettre — et le 19/10 a etabli qu elle n est PAS
+moissonnee.
