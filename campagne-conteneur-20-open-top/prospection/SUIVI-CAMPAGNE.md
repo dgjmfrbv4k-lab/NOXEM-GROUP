@@ -10276,3 +10276,39 @@ est, 16h Colombie, 17h Mexique, avec les quatre controles avant-vol en tete et l
 reverifiee sur un cas connu.
 **Et Marvite, creee il y a deux heures, sort au RANG 3 SUR 101.** C est la justification de
 l apres-midi : une fiche neuve bien qualifiee passe devant quatre-vingt-dix-huit fiches anciennes.
+
+
+---
+
+## 20/10 — 14h39 · UNE TROISIEME PAGE DU RECENSEMENT DOUANIER CANADIEN, QUATRE FICHES A ZERO APPEL
+
+**Recherches : 2 appels. Fiches creees : 4. Envois confirmes : 0 sur ce lot. Reponses qualifiees :
+0. Demandes de devis : 0. Commandes : 0. Registre a 1967 fiches.**
+
+**LA REGLE DU 19/10 — une source ne se mesure pas, ce sont ses PAGES qui se mesurent — EST
+APPLIQUEE A LA LETTRE ET ELLE PAIE.** Les passes du 19/10 avaient lu le float 7005 et le miroir
+7009 de la base des importateurs canadiens. **Elle publie aussi le verre de securite TREMPE**, et sa
+ligne la plus fournie, **7007190032, nomme environ 80 importateurs** avec leur ville et leur
+province.
+
+**NEUF NOMS RELEVES, DEUX DEJA AU REGISTRE — dont DOUBLE SEAL INSULATING GLASS, creee ce matin meme
+par un tout autre chemin.** La source se confirme donc par recoupement avec le travail a la main,
+exactement comme au 19/10 ou sept des vingt-deux noms etaient deja la.
+
+**QUATRE FICHES CREEES A ZERO APPEL DE RECHERCHE :** Produits Verriers International IGP (Anjou),
+qui est la meilleure des quatre par sa seule raison sociale · Fenergic (Warwick), fenetrier, donc
+une industrie consommatrice au sens de l axe Perficom · Universal Glass Tech et Toro Glasswall, les
+deux a Concord.
+
+**⚠️ UNE NUANCE QUE LA PAGE FLOAT N IMPOSAIT PAS, ET ELLE EST ECRITE DANS LES QUATRE FICHES : CES
+MAISONS IMPORTENT DU TREMPE, PAS DU FLOAT.** Cela prouve qu elles achetent du verre plat outre-mer
+par conteneur et qu elles ont la machinerie douaniere pour le faire — ce qui prime sur le metier
+declare, et c est pour cela que **Toro Glasswall est gardee malgre le mot GLASSWALL** qui annonce la
+classe a 3,6 pour cent. **Mais cela ne prouve pas qu elles achetent de la feuille RECUITE**, et la
+question se pose dans le message au lieu de s y asserter.
+
+**TROIS NOMS ECARTES SANS FICHE, verdicts consignes :** RONA, chaine de distribution · GENTEC
+INTERNATIONAL, produits de consommation · REN-WIL, decoration et miroirs decoratifs. **Les trois
+achetent du produit FINI en cotes de rayon, et c est la lecon Gardner Glass.** Un recensement
+douanier recense tout le monde, y compris l acheteur de produit fini — meme reserve que sur la
+fraction miroir le 19/10.

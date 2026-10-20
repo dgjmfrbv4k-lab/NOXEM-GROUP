@@ -2575,6 +2575,26 @@ voir. **Trois noms ont été écartés d'emblée comme concurrents du §6** — 
 Vitro Flat Glass Canada, Schott North America — ce qui est logique, un producteur float important
 aussi, et c'est la liste du §6 qui a travaillé avant la main. **Quinze fiches créées à ZÉRO appel de
 recherche.**
+**⚠️⚠️ ET LE 20/10 OUVRE UNE TROISIÈME PAGE DE CETTE MÊME SOURCE, CE QUI EST L APPLICATION LITTÉRALE
+DE LA RÈGLE « UNE SOURCE NE SE MESURE PAS, CE SONT SES PAGES QUI SE MESURENT ».** Les passes du
+19/10 avaient lu le **float 7005** et le **miroir 7009**. La base publie aussi le **verre de sécurité
+trempé**, et sa ligne la plus fournie est **7007190032 — trempé incolore de 6 mm ou moins, environ
+80 importateurs nommés avec leur ville et leur province**, exportable en tableur. S'y ajoutent
+7007190020 (trempé coloré dans la masse, ~14 noms), 7007210000 (feuilleté de véhicule, ~18) et
+7006 (bombé et façonné). **Chacune est une page à mesurer séparément.**
+**MESURE SUR LA PREMIÈRE : 9 noms relevés, 2 déjà au registre** — Fenplast, et **Double Seal
+Insulating Glass créée le matin même par un tout autre chemin**, ce qui confirme la source par
+recoupement. **Quatre fiches créées à zéro appel** : Produits Verriers International IGP (Anjou),
+Fenergic (Warwick), Universal Glass Tech et Toro Glasswall (Concord).
+**⚠️ ET UNE NUANCE QUE LA PAGE FLOAT N'IMPOSAIT PAS, À TENIR DANS LE MESSAGE : CES MAISONS IMPORTENT
+DU TREMPÉ, PAS DU FLOAT.** Cela prouve qu'elles achètent du verre plat outre-mer par conteneur et
+qu'elles ont la machinerie douanière pour le faire — ce qui est déjà énorme et prime sur le métier
+déclaré. **Cela ne prouve PAS qu'elles achètent de la feuille recuite.** La question se pose dans le
+message, elle ne s'y asserte pas.
+**⚠️ ET LA MÊME RÉSERVE QUE SUR LA FRACTION MIROIR SE LIT ICI : un recensement douanier recense TOUT
+LE MONDE.** Trois noms de la liste ont été écartés sans fiche — **Rona**, chaîne de distribution,
+**Gentec International**, produits de consommation, et **Ren-Wil**, décoration et miroirs décoratifs.
+Les trois achètent du **produit fini en cotes de rayon**, et c'est la leçon Gardner Glass.
 **⚠️ ET UNE RÉSERVE DE CIBLAGE QUI SE LIT DANS LA MÊME LISTE : la fraction MIROIR mêle des miroitiers
 et des ENSEIGNES DE GRANDE DISTRIBUTION** — Costco, Home Depot, Dollarama, Crate and Barrel, Wayfair.
 **Celles-là ne sont pas des cibles de conteneur de jumbo** : elles achètent du miroir **fini en cotes
