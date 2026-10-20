@@ -22,12 +22,13 @@ Les anciennetes ci-dessous sont donc des anciennetes **de registre**, pas des pr
 | En attente d un APPEL, toutes avec un numero | **286** |
 | En attente d un ARBITRAGE de votre part | **41** |
 | Reponses recues a traiter | **5** |
-| **Demandes de prix ouvertes** | **6** · plus **1** devis envoye et **3** en negociation |
+| **Demandes de prix ouvertes** | **7** · plus **1** devis envoye et **3** en negociation |
 
 ## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
 
-**SIX societes ont demande un prix et attendent**, et les six portent desormais ce statut au
-registre — **la sixieme y a ete corrigee ce matin**, voir plus bas.
+**SEPT societes ont demande un prix et attendent**, et les sept portent ce statut au registre.
+**La septieme est tombee ce matin a 12h02 et c est la meilleure nouvelle de la journee** — voir
+juste apres le tableau.
 
 | Societe | Pays | Demande depuis | Attente |
 |---|---|---|---|
@@ -37,6 +38,23 @@ registre — **la sixieme y a ete corrigee ce matin**, voir plus bas.
 | **Unionglass** (Teresa Lonardelli) | Argentine | 13/10 | **7 jours** |
 | **Christakis Avgousti** (Stella Stylianidou) | Chypre | 13/10 | **7 jours** |
 | **Industrial Mercantil San Simon** | Guatemala | 14/10 | **6 jours** |
+| **Lasimyynti Tammela** (Kai Tammela) | Finlande | **20/10** | **aujourd hui** |
+
+**⚠️⚠️ ET LE SEPTIEME EST TOMBE CE MATIN, EN MOINS DE TROIS HEURES APRES UN PREMIER CONTACT A
+FROID — LASIMYYNTI TAMMELA, A VANTAA PRES D HELSINKI.** Kai Tammela nous ecrit de lui-meme qu ils
+sont un petit grossiste **et qu ils achetent deja leur verre en CONTENEURS OT MIXTES depuis
+l Europe ET LA CHINE**. *OT* est l open top : **c est exactement le conteneur de cette campagne, et
+c est lui qui le dit.** Ce n est pas un prospect a convaincre d importer, c est un importateur qui
+compare des origines.
+**Il demande des prix indicatifs pour SIX references en 2550 x 3210 — notre jumbo standard — rendu
+port d Helsinki** : feuillete 33.1 et 44.1, miroir argent et miroir aluminium en 4 mm, et de
+l extra-clair 4 mm laque fond RAL 9003, clair et depoli. Le detail est dans
+`GRILLE-DE-PRIX-A-FAIRE.md`.
+**⚠️⚠️ ET IL POSE DE LUI-MEME LA QUESTION DU GROUPAGE, ce qui en fait le DEUXIEME client a la poser
+apres Miro Est** : *livrez-vous des verres FINIS inclus dans un conteneur complet, par exemple du
+trempe et du feuillete poli ?* **Voir le point 6 ci-dessous — ce n est plus une hypothese de
+marche, c est une demande client repetee.**
+**Rien ne lui est parti**, paragraphe 5 : le texte de reponse est prepare et attend votre mot.
 
 **⚠️ ET LE DOSSIER NEPALAIS EST CELUI QU IL FAUT REGARDER EN PREMIER, pour deux raisons.** C est
 **le plus gros volume declare de toute la campagne**, et **un prix lui a ete promis PAR ECRIT le
@@ -100,8 +118,12 @@ technique non validee.
   l industrie sait faire. **Et les notres ?**
 - **L EUR.1 et le statut d exportateur agree.** **Sans cette piece, toute preference tarifaire
   europeenne est nulle**, partout ou elle existe. C est le point qui conditionne tous les autres.
-- **Le groupage multi-references dans un meme conteneur.** Un concurrent francais le fait depuis
-  1989 et **Miro Est nous a demande cinq references**.
+- **⚠️ Le groupage multi-references dans un meme conteneur — ET CE N EST PLUS UNE QUESTION
+  THEORIQUE.** Un concurrent francais le fait depuis 1989, **Miro Est nous a demande cinq
+  references**, et **Lasimyynti Tammela vient d en demander six ce matin en posant la question en
+  clair** : livrez-vous des verres finis inclus dans un conteneur complet. **Deux clients sur deux
+  qui achetent par conteneur posent la meme question.** Un conteneur mono-produit ne repond ni a
+  l un ni a l autre.
 
 ---
 

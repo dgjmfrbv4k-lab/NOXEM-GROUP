@@ -23397,3 +23397,115 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 325. Lasimyynti Tammela (Vantaa, Finlande) — `kai@lasimyynti.fi` — ANGLAIS — REPONSE A UNE DEMANDE DE PRIX
+
+**⚠️⚠️ TEXTE PREPARE LE 20/10 A 12h11 ET NON ENVOYE. CE N EST PAS UN PREMIER CONTACT, C EST UNE
+REPONSE A UN CLIENT — l accord de Kevin du 19/10 a 23h30 ne couvre QUE les premiers contacts a des
+prospects neufs et **ne couvre pas celui-ci**. Il attend un accord expres, message par message,
+consigne du 15/10 a 09h41.**
+
+- **CE QUI EST ARRIVE :** Kai Tammela repond le 20/10 a 12h02 heure de Paris, **moins de trois
+  heures apres notre premier contact a froid** parti a 09h08. Reponse la plus rapide de la campagne
+  apres San Simon.
+- **IL DEMANDE SIX REFERENCES EN 2550 x 3210 RENDU HELSINKI** — feuillete 33.1 et 44.1, miroir
+  argent et miroir aluminium en 4 mm, extra-clair 4 mm laque RAL 9003 clair et depoli — **et il
+  demande en plus si nous livrons des verres FINIS dans un conteneur complet.**
+- **⚠️⚠️ CE QUE LE TEXTE NE FAIT PAS, ET C EST TOUT L ENJEU : IL NE DONNE AUCUN PRIX ET N EN PROMET
+  AUCUN POUR UNE DATE.** Le §5 est absolu, et le §13 rappelle qu une promesse de delai sur un prix
+  est exactement ce qui a coute le dossier San Simon. **Le texte dit d ou viendra le chiffre et ce
+  qu il faut pour le produire — rien d autre.**
+- **⚠️⚠️ ET IL NE PROMET RIEN SUR LE GROUPAGE, qui est une question ouverte portee a Kevin.** Il
+  dit que la question est la bonne et qu il revient dessus. **Ne pas repondre oui serait une faute
+  de prudence ; repondre oui serait une faute du §5.** La troisieme voie est de le dire.
+- **⚠️ ET IL NE FABRIQUE AUCUN DOUTE — faute STADIP du 12/10.** Le client n a souleve aucune
+  difficulte, donc le texte n en invente pas : pas un mot sur le format, qui tombe juste, pas un
+  mot sur la faisabilite d une reference, pas de reserve technique non demandee. **Les seules
+  questions posees sont celles sans lesquelles un prix ne peut pas exister** — volumes, type de
+  PVB, et le sens exact de *polished*.
+- **⚠️ RIEN SUR LES DROITS DE DOUANE.** Ils achetent chinois, donc la tentation est reelle — mais
+  **aucun droit antidumping finlandais n est etabli** et le §6 interdit d affirmer sans source du
+  pays. L argument reste l **origine** et la **seconde source**.
+- **AUCUN PRIX ANNONCE** : le mot *price* apparait **parce que le client l emploie** et que le
+  texte reprend sa demande pour la confirmer. Il n y a **aucun chiffre**, aucune fourchette, aucune
+  promesse. **Verifie par relevé du corps.**
+- **⚠️ ET UNE CORRECTION DE MON PROPRE JUGEMENT, FAITE AVANT LE COMMIT : j avais d abord OMIS la
+  porte de sortie**, en raisonnant que le §9 la reserve aux gros comptes en premier contact et
+  qu elle n a pas de sens face a un client qui vient de demander un prix. **`verif-texte.py` a
+  refuse le texte, et il avait raison contre moi.** Verification faite sur les reponses
+  anterieures aux demandes de prix — textes 68 Avgousti et 69 Unionglass — **la campagne a deja
+  une forme pour ce cas** : *« and if the timing is wrong or your supply is settled for now, say
+  so plainly and I will not push »*. **La convention existait, je ne l avais pas regardee.**
+  Forme retenue ici et adaptee a lui : il achete deja ainsi et nous comparera a des gens qu il
+  connait, donc la sortie porte sur **les chiffres** et non sur la methode.
+- **Formule imposee presente. Signature une fois. Porte de sortie presente.**
+
+**Objet :** `Re: Flat glass by the container - a second origin for the Vantaa warehouse`
+
+```
+Hello Kai,
+
+Thank you for coming back so quickly, and for telling me plainly what you are
+and how you buy. That saves us both a round.
+
+Two things in your message make this straightforward from my side.
+
+The first is that 2550 x 3210 is our standard jumbo, so your six references are
+on the format we ship anyway. Nothing has to be cut down for you, and nothing
+gets trimmed away.
+
+The second is that you already buy in mixed OT containers. That means I am not
+trying to persuade you of the method, only to be judged on the origin - which
+is the conversation I wanted.
+
+On your six references, I have them noted exactly as you wrote them:
+
+  33.1 clear laminated
+  44.1 clear laminated
+  4 mm clear silver mirror
+  4 mm clear aluminium mirror
+  4 mm low iron, RAL 9003 painted back
+  4 mm low iron etched, RAL 9003 painted back
+
+Three questions before I can put anything in front of you, and they are the
+three that decide the figures rather than polite ones:
+
+1. Roughly what quantity per reference, in square metres or in cases, for a
+   full container? A mixed load prices very differently depending on how the
+   six split.
+2. On the two laminates, clear PVB or acoustic?
+3. When you say polished - is that polished edges, or a polished surface?
+
+On your question about ready-made glass in the same container - tempered,
+laminated, polished - it is a good question and it is the right one to ask
+early. I am confirming internally exactly what we can combine in a single load
+before I answer it precisely, because I would rather tell you once and be
+right than tell you now and correct it later.
+
+We can put together an offer for delivery to your port of destination, subject
+to validation on our side - Helsinki Harbour, as you say.
+
+And the honest part, since you buy this way already and will compare us against
+people you know: if the figures turn out not to be worth your time, say so
+plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+**⚠️ DEUX VARIANTES SI KEVIN PREFERE, et elles ne changent qu un paragraphe :**
+- **S il veut annoncer un delai pour le prix**, la phrase se place apres les trois questions et
+  **c est lui qui donne la date** — je n en invente aucune, le §5 l interdit et le precedent San
+  Simon le rappelle.
+- **S il a deja tranche le groupage**, le paragraphe correspondant se remplace par la reponse
+  ferme, dans un sens ou dans l autre. **Un non clair vaut mieux qu un flou** devant un acheteur
+  qui, lui, achete deja en conteneur mixte.

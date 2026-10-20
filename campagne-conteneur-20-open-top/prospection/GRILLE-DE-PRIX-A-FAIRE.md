@@ -1,6 +1,7 @@
 # GRILLE DE PRIX — CE QU'ELLE DEBLOQUE
 
-Feuille etablie le 16/10/2026 a 10h18. **Une seule grille debloque NEUF dossiers.**
+Feuille etablie le 16/10/2026 a 10h18. **Une seule grille debloque DIX dossiers** — le dixieme
+est tombe le 20/10 a 12h10 et il est en bas de cette feuille.
 Ce ne sont pas des prospects : ce sont des gens qui ont DEMANDE un prix et qui attendent.
 
 ---
@@ -119,8 +120,54 @@ Et **deux conditions a trancher** qui reviennent dans presque tous :
 
 ---
 
+## ⚠️⚠️ DIXIEME DOSSIER, TOMBE LE 20/10 A 12h10 — LASIMYYNTI TAMMELA, Vantaa, Finlande
+
+**Repondu en MOINS DE TROIS HEURES apres un premier contact a froid parti le matin meme a 09h08.**
+C est la reponse la plus rapide de la campagne apres celle d Industrial Mercantil San Simon.
+
+**Kai Tammela**, `kai@lasimyynti.fi`, Kuriirikuja 1, 01300 Vantaa, +358 400 633 744.
+⚠️ **Le message etait parti sur la boite generale `myynti@` et c est LUI qui repond depuis sa boite
+nominative** : la demande de transmission a fonctionne, et la bonne adresse pour la suite est la
+sienne.
+
+**CE QU IL DIT DE LUI, ET C EST LE MEILLEUR PROFIL QU UNE REPONSE PUISSE DONNER :** petit
+grossiste de la region d Helsinki, et **ils achetent deja le verre en CONTENEURS OT MIXTES depuis
+l Europe ET LA CHINE**. *OT* est l open top, c est-a-dire exactement le conteneur de cette
+campagne, et il l ecrit spontanement. **Ce n est donc pas un prospect a convaincre d importer :
+c est un importateur qui compare des origines.**
+
+**CE QU IL DEMANDE — prix indicatifs pour six references INCLUSES DANS UN CONTENEUR COMPLET, en
+2550 x 3210 mm, qui est notre jumbo standard :**
+
+| # | Reference demandee |
+|---|---|
+| 1 | Feuillete clair **33.1** |
+| 2 | Feuillete clair **44.1** |
+| 3 | Miroir **argent** clair **4 mm** |
+| 4 | Miroir **aluminium** clair **4 mm** |
+| 5 | **Extra-clair 4 mm laque fond RAL 9003** |
+| 6 | **Extra-clair 4 mm DEPOLI laque fond RAL 9003** |
+
+**RENDU PORT D HELSINKI.**
+
+**⚠️⚠️ ET IL POSE EN PLUS, DE LUI-MEME, LA QUESTION QUI ATTEND UN ARBITRAGE DEPUIS LE 13/10 :**
+*« do You deliver ready made glasses when included to a full container? For ex tempered, laminated
+polished glasses? »* — **c est le GROUPAGE MULTI-REFERENCES, et c est le DEUXIEME client a le
+demander** apres Miro Est et ses cinq references. **Un conteneur mono-produit ne repond ni a l un
+ni a l autre.** Rien ne lui en est promis tant que vous n avez pas tranche.
+
+**CE QUI MANQUE POUR CHIFFRER, et que je demanderai dans la reponse des que vous me le direz :**
+les **volumes par reference**, le **PVB clair ou acoustique** sur les deux feuilletes, et ce que
+**poli** recouvre exactement — chant poli ou surface polie.
+
+**⚠️ ET UNE PRECAUTION DE CIBLAGE : ils achetent deja chinois, donc l argument de l ORIGINE porte.
+Mais la Finlande n applique aucun droit antidumping que nous ayons etabli — RIEN SUR LES DROITS**,
+l argument est la seconde source et l origine, jamais la douane.
+
+---
+
 ## Ce que je ne peux pas faire
 
-Aucun de ces neuf messages ne part sans votre mot, et aucun chiffre ne sort de moi. Les textes sont
+Aucun de ces dix messages ne part sans votre mot, et aucun chiffre ne sort de moi. Les textes sont
 prets ou se redigent en dix minutes des que la grille existe — mais **c'est la grille qui manque,
 pas les textes**.

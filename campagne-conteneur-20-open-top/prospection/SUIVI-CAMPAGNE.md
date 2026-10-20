@@ -8947,3 +8947,51 @@ MINUTE :**
 dans la note du Nepal — et, comme sur Eurover le 14/10, **dans une phrase qui expliquait une
 regle**. L assert en amont a nomme la cle et le champ, **rien n a ete ecrit**, la phrase est
 coupee en deux.
+
+---
+
+### 20/10 — 12h13 · ⚠️⚠️ UNE DEMANDE DE PRIX FERME EN MOINS DE TROIS HEURES — LASIMYYNTI TAMMELA
+
+**Les cinq chiffres du paragraphe 3 :** recherches **0** · envois confirmes **20 sur la journee,
+0 dans ce bloc** · **reponses qualifiees : 1, et c est une demande de prix** · **demandes de prix
+ouvertes : 7** · commandes **0**.
+
+**ET IL FAUT COMMENCER PAR DIRE CE QUE J AI MAL FAIT : je n avais pas releve la boite ce matin.**
+Le paragraphe 2 met le traitement des reponses en **priorite absolue, AVANT toute prospection**, et
+j ai passe la matinee a prospecter. **La reponse etait arrivee a 12h02 et je l ai vue a 12h09.**
+Sept minutes, donc sans consequence ici — mais la routine n a pas ete suivie, et c est le genre
+d ecart qui coute un jour quand la reponse tombe a 9 h.
+
+**LA REPONSE. Kai Tammela, de LASIMYYNTI TAMMELA a Vantaa pres d Helsinki, repond MOINS DE TROIS
+HEURES apres notre premier contact a froid parti a 09h08.** C est la reponse la plus rapide de la
+campagne apres Industrial Mercantil San Simon.
+
+**CE QU IL DIT DE LUI, ET C EST LE MEILLEUR PROFIL QU UNE REPONSE PUISSE DONNER :** petit grossiste
+de la region d Helsinki, et **ils achetent deja leur verre en CONTENEURS OT MIXTES depuis l Europe
+ET LA CHINE**. *OT* est l open top — **c est exactement le conteneur de cette campagne, et c est
+lui qui l ecrit, spontanement.** Il n y a donc rien a lui demontrer sur la methode : il compare des
+origines, ce qui est la seule conversation que nous voulions.
+
+**CE QU IL DEMANDE : des prix indicatifs pour SIX references incluses dans un conteneur complet, en
+2550 x 3210 — notre jumbo standard — RENDU PORT D HELSINKI.** Feuillete clair 33.1 et 44.1, miroir
+argent et miroir aluminium en 4 mm, extra-clair 4 mm laque fond RAL 9003 en version claire et en
+version depolie.
+
+**⚠️⚠️ ET IL POSE DE LUI-MEME LA QUESTION DU GROUPAGE : livrons-nous des verres FINIS dans un
+conteneur complet, trempe et feuillete poli par exemple. C EST LE DEUXIEME CLIENT A LA POSER** apres
+Miro Est et ses cinq references. **Ce n est donc plus une hypothese de marche tiree du site d un
+concurrent, c est une demande client repetee** — et c est verse en tete de `DECISIONS-AARON.md`.
+
+**CE QUI A ETE FAIT :** fiche passee en `DEMANDE DE PRIX 2026-10-20` avec l adresse **nominative**
+de Kai — l envoi etait parti sur la boite generale et **la demande de transmission du paragraphe 9
+a fonctionne exactement comme prevu** ; dossier ajoute comme **dixieme** a
+`GRILLE-DE-PRIX-A-FAIRE.md` avec ses six lignes ; tableau de bord mis a jour.
+**ET LE TEXTE DE REPONSE EST PREPARE, NUMERO 325, ET N EST PAS PARTI** — l accord du 19/10 ne
+couvre que les premiers contacts a des prospects neufs, **jamais une reponse a un client**.
+
+**⚠️ UNE CORRECTION DE MON PROPRE JUGEMENT AVANT LE COMMIT.** J avais omis la porte de sortie du
+texte, en raisonnant qu elle n a pas de sens face a quelqu un qui vient de demander un prix.
+**`verif-texte.py` a refuse, et il avait raison contre moi** : les reponses anterieures aux
+demandes de prix, textes 68 et 69, en portent une. **La convention existait et je ne l avais pas
+regardee.** Ajoutee, et adaptee a lui — la sortie porte sur **les chiffres** et non sur la methode,
+puisqu il achete deja ainsi.
