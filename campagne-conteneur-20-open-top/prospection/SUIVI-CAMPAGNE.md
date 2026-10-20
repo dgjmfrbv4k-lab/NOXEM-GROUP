@@ -9073,3 +9073,46 @@ a connaitre avant toute relance : **elle repond depuis `secglass.com` quand nous
 ete envoye, Qays Mohammed a repondu que **notre ton etait inapproprie**, et Kevin s est excuse le
 jour meme. **Conduite consignee : ne pas relancer vite.** Une maison qui a reproche un ton ne se
 relance pas a huit jours comme une autre.
+
+## 20/10 a 12h30 — mesurer la requete avant d'y redepenser, et la douzieme preuve du PLF
+
+**Recherches : 2. Envois confirmes : 0 (la journee est a 19, haut de la bande du paragraphe 10).
+Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0. Fiches creees : 1.**
+
+**DEUX VERDICTS DE METHODE CONSIGNES, ET ILS SONT DE NATURE DIFFERENTE.**
+- **Nouvelle-Zelande : la requete du vocabulaire de stock rend SIX noms, SIX deja au registre et
+  deja travailles.** Pacific Glass, Glasslines, Metro Performance Glass, Woods Glass, Glass Market,
+  Stake Glass. **Cent pour cent de recouvrement.** Le paragraphe 6 dit qu'un taux eleve est le bon
+  signe ; a cent pour cent il dit que **le filon est epuise pour ce pays**. On n'y redepense plus
+  un appel sur cette formulation.
+- **Australie : la meme requete ne rend QUE DU VERRE CREUX D'EMBALLAGE.** Bocaux, bouteilles, pots,
+  zero verrier plat. **La cause est linguistique et non commerciale** : en anglais `by the case` et
+  `wholesale` sont les mots du negoce d'emballage avant d'etre ceux du verre plat. C'est la regle du
+  token non distinctif du paragraphe 5, prise au niveau de la **requete** au lieu du `grep` — un mot
+  qui appartient a deux metiers n'est pas un mot de ciblage.
+
+**ET LE CORRECTIF A PAYE DANS LA DEMI-HEURE, ce qui est la seule validation qui compte.** Passee sur
+l'Australie avec les mots du **FORMAT** — `stock sheet`, `jumbo`, `3210` — la meme recherche rend
+cinq marchands de verre plat. Quatre deja au registre, **un absent : NATIONAL GLASS AUSTRALIA**,
+premier grossiste de verre plat du pays, quatre succursales, deux sites de fabrication. Fiche creee.
+Le registre compte 35 fiches australiennes.
+**Second temps fait : aucune adresse publiee, formulaires uniquement. Fiche telephonique, et c'est un
+verdict et non une absence de recherche.**
+
+**⚠️⚠️ ET LE MEME RELEVE A RENDU LA PREUVE QUI MANQUAIT A LA QUESTION OUVERTE N°1 DU PARAGRAPHE 4.**
+**SYDNEY GLASS tient le 3210 x 6000 mm en cote de stock — et l'Australie n'a plus aucun four.** Les
+trois scandinaves du matin prouvaient que cette cote se **produit** et se **stocke** ; Glass Australia
+prouvait qu'une grande cote **traverse un ocean**. **Celle-ci est les deux a la fois : six metres sur
+3210, en stock, dans un pays ou rien ne peut l'avoir livree par camion.**
+**Consequence sur DECISIONS-AARON.md : la reserve de transport est levee empiriquement.** La question
+n'est plus *est-ce que cela se transporte* mais *par quel contenant et a quel surcout*, ce qui se
+demande au transitaire en une phrase. **Et la question a Aaron ne bouge pas : nos usines livrent-elles
+le 6000 x 3210 ? Rien ne s'en ecrit a un client tant qu'il ne l'a pas dit.**
+
+**Garde-fous au passage apres les ecritures :** forme 10 champs OK · doublons 8 groupes, la ligne de
+reference · noyaux 19 paires contre 18, **la paire neuve lue et tranchee le jour meme** — National
+Glass Australia contre Glass Australia Pty Ltd est un **faux positif** de la famille Espejos SAS, les
+domaines et les Etats different, aucune fusion · argument float 0 a corriger · `A APPELER` sans
+telephone 0.
+
+**Registre : 1948 fiches.**

@@ -180,6 +180,27 @@ petite dimension tient-elle dans 3210 ?**
    de notre capacité, exactement comme un catalogue d'équipementier ne l'était pas pour l'autoclave.
    **Et la liste des épaisseurs nominales qu'ils publient se garde comme repère de vocabulaire :**
    2, 3, 4, 5, 6, 8, 10, 12, 19 et 25 mm.
+   **⚠️⚠️⚠️ ET LE 20/10 À 12h30 LA DOUZIÈME PREUVE CLÔT LE VOLET INDUSTRIEL ET LOGISTIQUE DE CETTE
+   QUESTION-CI, PARCE QU'ELLE JOINT LES DEUX MOITIÉS QUE LES ONZE AUTRES TENAIENT SÉPARÉES —
+   **SYDNEY GLASS** (Bankstown) LISTE LE **3210 × 6000 mm** PARMI SES COTES DE VERRE RECUIT, AVEC LE
+   3210 × 5100 ET LE 2440 × 3660, ET VEND DU JUMBO DEPUIS SON SITE. **ET L'AUSTRALIE N'A PLUS AUCUN
+   FOUR.**
+   Les trois scandinaves du matin établissaient que le 6000 × 3210 est une cote de **stock courant**
+   et le format **normal** d'une profession entière — mais toutes trois sont dans des pays voisins
+   de lignes float européennes. Glass Australia établissait qu'une cote de 2440 × 3660 **traverse un
+   océan**. **Celle-ci est les deux à la fois : une feuille de SIX MÈTRES sur 3210, tenue en stock,
+   dans un pays où aucune usine ne peut l'avoir livrée par camion.** Elle est arrivée par la mer, en
+   conteneur, à la cote PLF exacte que Rákosy Üveg demande.
+   **CE QUE CELA RÈGLE ET CE QUE CELA NE RÈGLE PAS — la distinction ne bouge pas d'un pouce, et
+   c'est la même que pour l'autoclave.** Le volet **industriel et logistique** est clos : le
+   6000 × 3210 se produit, se stocke, se vend et **se transporte par conteneur sur un océan**. Le
+   volet qui reste est le seul qui compte pour nous, il est **factuel et pour Aaron** : **nos usines
+   partenaires livrent-elles cette cote ?** Tant qu'il ne l'a pas dit, **rien ne s'en écrit à un
+   client** (§5). Une grille de stock australienne n'est pas une validation de notre capacité, pas
+   plus qu'un catalogue d'équipementier ne l'était pour l'autoclave.
+   **Et la règle de méthode du paragraphe suivant s'en trouve confirmée par son cas le plus pur :**
+   les plus grandes cotes se trouvent là où le camion ne va pas — et le marché **sans aucun four**
+   est le cas limite de cette règle.
    **Et le §4 gagne une règle de méthode au passage : les cotes les plus grandes se trouvent là où
    le camion ne va pas.** Les sept premières preuves venaient du Brésil, du Mexique, de
    Nouvelle-Zélande et d'Australie ; ces trois-là viennent de Scandinavie. **Un marché servi par
@@ -502,6 +523,32 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
   **Et ce quart l'a prouvé le même soir** : Indiana Glass, dont l'argument de vente *est* la demi-chapa,
   et Dulles Glass, dont le stock vaut quatre conteneurs — deux fiches qu'aucune recherche par ville
   n'avait rendues en trois passages sur leurs États.
+  **⚠️⚠️ ET LE 20/10 À MIDI MESURE LA LIMITE DE CETTE REQUÊTE, SUR DEUX MARCHÉS LE MÊME QUART
+  D'HEURE, ET LES DEUX VERDICTS SONT DE NATURE DIFFÉRENTE — L'UN DIT QUE LE FILON EST PRIS, L'AUTRE
+  QUE LA MÉTHODE NE S'Y TRANSPOSE PAS.**
+  · **NOUVELLE-ZÉLANDE : six noms rendus, SIX DÉJÀ AU REGISTRE ET DÉJÀ TRAVAILLÉS** — Pacific Glass,
+    Glasslines, Metro Performance Glass, Woods Glass, Glass Market, Stake Glass. **Cent pour cent de
+    recouvrement.** Le §6 dit déjà qu'un taux élevé est le BON signe, parce que la requête vise la
+    population que le travail à la main a sélectionnée. **À cent pour cent il dit autre chose, et de
+    plus net : le filon est ÉPUISÉ pour ce pays.** Douze fiches couvrent la Nouvelle-Zélande et la
+    couche que ce vocabulaire atteint est prise en entier. **On n'y redépense plus un appel sur cette
+    formulation** — s'il faut y revenir, c'est par une **autre page** au sens de la règle du 19/10,
+    jamais par une reformulation de la même requête.
+  · **AUSTRALIE : la requête ne rend QUE DES FOURNISSEURS D'EMBALLAGE EN VERRE CREUX** — bocaux,
+    bouteilles, pots. **Zéro verrier plat.** Et la cause n'est pas le marché, **elle est
+    LINGUISTIQUE** : en anglais, `by the case`, `full case`, `bulk` et `wholesale` sont les mots du
+    **négoce d'emballage** avant d'être ceux du verre plat, et le marché australien de l'emballage
+    est gros et bien référencé. La requête n'y discrimine donc rien. Elle marchait aux États-Unis et
+    au Canada parce que `stock sheets` et `half sheet` y sont des termes de **métier verrier**, et au
+    Brésil et au Mexique parce que `meia chapa` et `media lámina` n'ont **aucun autre usage**.
+    **Conduite : sur l'Australie, les mots qui discriminent sont ceux du FORMAT — `stock sheet
+    sizes`, `jumbo`, `3210` — et ceux de l'IMPORT, `indent` et `mixed container`, qui n'ont pas
+    d'homonyme dans l'emballage.**
+  **ET C'EST LA RÈGLE DU TOKEN NON DISTINCTIF DU §5, PRISE AU NIVEAU DE LA REQUÊTE AU LIEU DU
+  `grep` :** `de vidros` rendait vingt-quatre fiches parce que la phrase est dans toutes les raisons
+  sociales du métier ; `by the case` rend des bocaux parce que la phrase est dans deux métiers.
+  **Un mot qui appartient à deux métiers n'est pas un mot de ciblage**, et cela se vérifie sur la
+  langue du marché avant de dépenser l'appel, pas après.
   **⚠️⚠️ ET VOICI LA VALIDATION QUI VAUT MIEUX QUE TOUTES LES MESURES DE RENDEMENT, TROUVÉE LE 19/10
   AU SOIR EN APPLIQUANT LA REQUÊTE AU CANADA : LE CRITÈRE A PRÉDIT, RÉTROSPECTIVEMENT, NOTRE SEUL
   DOSSIER DE DEVIS DE LA CAMPAGNE.**

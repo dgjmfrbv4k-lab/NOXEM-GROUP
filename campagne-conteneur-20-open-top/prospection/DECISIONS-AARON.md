@@ -1232,3 +1232,22 @@ interieure est d'environ 5,90 m, et elle tient de justesse dans un 40 pieds. **D
 la font, l'offre PLF n'est peut-etre pas compatible avec le format de conteneur de cette campagne.**
 C'est a trancher avec le transitaire en meme temps que le reste, et c'est une raison de plus de poser
 la question maintenant plutot qu'au moment d'un devis.
+
+**⚠️⚠️ ET CETTE RESERVE DE TRANSPORT EST LEVEE EMPIRIQUEMENT LE 20/10 A 12h30 — PAS PAR UN RAISONNEMENT
+MAIS PAR UN MARCHE QUI LE FAIT DEJA. SYDNEY GLASS (Bankstown, Australie) TIENT LE 3210 x 6000 mm PARMI
+SES COTES DE VERRE RECUIT EN STOCK, ET L'AUSTRALIE N'A PLUS AUCUN FOUR DEPUIS L'ARRET D'OCEANIA GLASS.**
+Donc cette feuille de six metres n'a pas pu arriver par camion depuis une usine voisine : **elle a
+traverse un ocean.** Les quatre sources scandinaves etablissaient que la cote se PRODUIT et se STOCKE ;
+celle-ci etablit qu'elle se TRANSPORTE par mer, et en routine puisqu'elle est au stock d'un marchand.
+
+**CE QUE CELA CHANGE POUR LA QUESTION POSEE ICI, et il faut etre precis parce que la reserve n'est pas
+entierement annulee.** Ce n'est plus *« est-ce que cela se transporte »* — la reponse est oui. C'est
+devenu une question d'**UNITE DE TRANSPORT ET DE COUT**, beaucoup plus etroite et qui se pose au
+transitaire en une phrase : **par quel contenant le 3210 x 6000 part-il, 40 pieds, open top ou flat
+rack, et qu'est-ce que cela change au fret par rapport a un jumbo de 3210 x 2550 ?** Le chiffre du
+surcout, lui, decide tout seul si l'offre PLF a un sens commercial.
+
+**ET LA QUESTION A AARON NE BOUGE PAS D'UN POUCE : nos usines partenaires livrent-elles le
+6000 x 3210, et en quelles epaisseurs ?** Savoir que le monde entier le fait et le transporte ne dit
+toujours rien de ce que NOUS pouvons livrer, et **rien ne s'en ecrit a Rakosy Uveg ni a personne tant
+qu'il ne l'a pas dit** (§5).
