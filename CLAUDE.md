@@ -4727,6 +4727,37 @@ awk -F';' 'NR>1 && ($10=="A APPELER"||$10=="A QUALIFIER") && $7=="" && $9 !~ /TE
 ```bash
 python3 campagne-conteneur-20-open-top/prospection/outils/candidats-deverrouillage.py
 ```
+  **⚠️⚠️ ET LE 20/10 MESURE CE QUE SA PREMIÈRE LIGNE VAUT, PARCE QU'ELLE EST LA PLUS RENTABLE DE
+  TOUTE LA CAMPAGNE ET QUE PERSONNE NE L'AVAIT CHIFFRÉE : LES FICHES À **SITE CONNU** QU'IL MET EN
+  TÊTE NE COÛTENT QU'**UN SEUL APPEL**, LÀ OÙ UNE DÉCOUVERTE EN COÛTE DEUX — ET ELLES PORTENT SUR
+  DES MAISONS **DÉJÀ QUALIFIÉES**.**
+  Le domaine étant déjà au champ, **le premier temps est fait** : il ne reste que la recherche
+  restreinte. **Mesure du jour : trois travaillées, trois résultats nets** — **Verrage Glass and
+  Mirror** déverrouillée et classée **rang 3 sur 98** par `classe-file.py`, c'est-à-dire **la
+  meilleure fiche de la journée pour un appel** ; **Anthony International** qualifiée, dont le
+  verdict ferme la question de la couche américaine ; **Mais Vidros Salvador** verdictée en
+  *vidraçaria*, donc classe à 0 %, **et c'est un bon résultat aussi** puisqu'il évite de la
+  retravailler.
+  **ET IL N'Y EN A QUE HUIT SUR 420, c'est pour cela qu'elles se font EN PREMIER, toujours.** La
+  découverte rend des noms non qualifiés à deux appels pièce ; celles-ci rendent des fiches
+  qualifiées à un appel. **Quand le budget de recherche est serré, c'est par là qu'on commence, et
+  la liste se relit après chaque journée de déverrouillage puisqu'elle se régénère.**
+  **⚠️⚠️ ET L'OUTIL A GAGNÉ UN VERDICT QU'IL NE CONNAISSAIT PAS LE 20/10 : LE VERDICT DE CLASSE.**
+  Tous ses verdicts disaient *il n'y a rien à trouver* — pas d'adresse, formulaire, domaine mort.
+  **Il manquait le cas inverse, et il est fréquent : ON A TROUVÉ L'ADRESSE, et la fiche reste hors
+  file parce que son MÉTIER la met dans une classe que le §6 traite en dernier** — façade à 3,6 %,
+  verrier + pose à **0 %**. Ces fiches-là n'ont rien à déverrouiller non plus : **elles attendent
+  que la file des deux bonnes classes soit vide, pas un appel.** Deux cas le même jour —
+  **Mais Vidros Salvador**, *vidraçaria*, et **Alugav**, façadier dominicain **dont l'adresse est
+  portée au champ** — ressortaient en tête de liste après avoir été entièrement travaillées.
+  **⚠️ MESURE AVANT ADOPTION, comme pour le correctif d'initiales rejeté à 29 faux positifs : le
+  radical nu `\bdeclass` rend 137 FICHES**, la prose du registre étant pleine de *marché
+  déclassé*, *fiches déclassées*, *reclasser*. **Inutilisable.** Les **phrases exactes**
+  `declassee en dernier rang`, `volontairement hors file` et `declassee par classe` en rendent
+  **une chacune, zéro faux positif**.
+  **ET LA CONVENTION QUI VA AVEC SE TIENT À LA PLUME : un verdict de classe s'écrit avec l'une de
+  ces trois phrases et jamais autrement**, sinon il est invisible — **c'est exactement ce qui était
+  arrivé aux verdicts téléphoniques, qui se disaient de douze façons.**
   Il écarte toute fiche dont la note porte un verdict, **en prose comme en marqueur**, et imprime à
   part la liste des écartées avec leur motif — pour qu'on voie ce qu'il retire et qu'on puisse le
   contredire. Mesure du 13/10 : **185 fiches écartées, 147 à travailler**, là où mon filtre en

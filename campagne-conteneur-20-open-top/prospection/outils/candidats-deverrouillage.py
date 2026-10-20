@@ -45,6 +45,28 @@ VERDICTS = [
     # des fiches ou chaque appel de recherche est perdu d avance. C est la faute du
     # 13/10 qui a fait naitre cet outil, reapparue par un autre bout : le registre
     # portait deja la reponse, sous une formulation que les verdicts ne couvraient pas.
+    # ⚠️⚠️ AJOUTE LE 20/10 : LE VERDICT DE CLASSE. Les verdicts ci-dessus disent tous
+    # qu il n y a RIEN A TROUVER - pas d adresse, formulaire, domaine mort. Il manquait
+    # le cas inverse et il est frequent : ON A TROUVE L ADRESSE, et la fiche reste hors
+    # file parce que son METIER la met dans une classe que le paragraphe 6 traite en
+    # dernier - facade a 3,6 pour cent, verrier + pose a ZERO. Ces fiches-la n ont rien
+    # a deverrouiller non plus : elles attendent que la file des deux bonnes classes
+    # soit vide, pas un appel de recherche.
+    # CAS QUI L ONT FAIT NAITRE, le meme jour : MAIS VIDROS SALVADOR, vidracaria donc
+    # classe a zero, et ALUGAV, facadier dominicain dont l adresse EST portee au champ.
+    # Les deux ressortaient en tete de liste apres avoir ete entierement travaillees.
+    # ⚠️ MESURE AVANT ADOPTION, comme pour le correctif d initiales rejete pour 29 faux
+    # positifs et le motif « aucune ligne float » rejete pour 8 : le radical nu
+    # `\bdeclass` rend **137 fiches**, parce que la prose du registre est pleine de
+    # « marche declasse », « fiches declassees », « reclasse ». INUTILISABLE.
+    # Les deux PHRASES EXACTES ci-dessous rendent **une fiche chacune**, soit zero faux
+    # positif. C est la regle du token non distinctif appliquee a un marqueur de verdict.
+    # ⚠️ CONVENTION A TENIR A LA PLUME : un verdict de classe s ecrit avec l une de ces
+    # phrases, jamais autrement, sinon il est invisible ici - c est exactement ce qui est
+    # arrive aux verdicts telephoniques, qui se disaient de douze facons.
+    r'declassee en dernier rang',
+    r'volontairement hors file',
+    r'declassee par classe',
     r'adresse disponible',
     r'adresses disponibles',
     r'deliberement non portee',

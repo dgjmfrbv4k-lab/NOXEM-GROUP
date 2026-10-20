@@ -9724,3 +9724,31 @@ quartier par quartier. **Et sa plage de 8 a 12 mm ne la sauve pas** : ce sont le
 sur une maison de **Salvador**. **Declassee en dernier rang, pas fermee.**
 
 **Registre : 1958 fiches. 346 textes. File prete : 98.**
+
+## 20/10 a 13h45 — apprendre a l'outil le verdict qui lui manquait, et le mesurer avant de le garder
+
+**Recherches : 1. Envois confirmes : 0. Fiches qualifiees : 1. Outil corrige : 1.**
+
+**ALUGAV (Saint-Domingue) — adresse trouvee et portee au champ, ET LA FICHE N'ENTRE PAS DANS LA
+FILE.** Metier etabli : **cerramientos y fachadas de aluminio y vidrio**, references en chantiers
+d'hotels et de tours. **Classe aluminium facade pose, 3,6 pour cent.** ⚠️ Et le critere du 14/10
+confirme le classement du bon cote : **aucune epaisseur ni format de feuille publie**, ce qui est la
+signature du facadier. **C'est une decision de CLASSE, pas un manque de recherche**, et la note le
+dit en toutes lettres pour qu'une session future ne redepense pas l'appel.
+
+**⚠️⚠️ ET CELA A REVELE UN TROU DANS `candidats-deverrouillage.py` : IL NE CONNAIT QUE LES VERDICTS
+D'ADRESSE.** Tous ses motifs disent *il n'y a rien a trouver*. **Il manquait le cas inverse : on a
+TROUVE l'adresse, et la fiche reste hors file par son METIER.** Resultat, **Alugav et Mais Vidros
+Salvador ressortaient en TETE de liste apres avoir ete entierement travaillees** — exactement la
+faute du 13/10 qui a fait naitre cet outil, revenue par un autre bout.
+
+**⚠️ MESURE AVANT ADOPTION, comme le mandat l'impose depuis le correctif d'initiales rejete a 29 faux
+positifs :** le radical nu `declass` rend **137 FICHES**, la prose du registre etant pleine de
+*marche declasse* et de *fiches declassees*. **Inutilisable.** Les **trois phrases exactes** retenues
+en rendent **une chacune, zero faux positif**. **Verifie dans les deux sens : la liste passe de 420 a
+416 et les deux fiches travaillees en sortent.**
+**Et la convention se tient a la plume : un verdict de classe s'ecrit avec l'une de ces trois
+phrases et jamais autrement** — c'est ce qui etait arrive aux verdicts telephoniques, qui se
+disaient de douze facons.
+
+**Registre : 1958 fiches. Candidats au deverrouillage : 416, dont QUATRE a site connu.**
