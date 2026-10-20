@@ -10560,3 +10560,38 @@ Chaque envoi a une fiche de la pire classe **en deplace un** vers une fiche de l
 elles relevent en plus du point 8**, le perimetre europeen non arbitre. **Elles restent en file au
 dernier rang, sans texte**, et la raison est ecrite dans `PLAN-ENVOIS.md` pour qu une session future
 ne prenne pas ce vide pour un oubli.
+
+
+---
+
+## 20/10 — 15h03 · UNE FICHE QUI NOMME DEUX CONCURRENTS A LA FOIS, ET UN VERDICT NEGATIF QUI FERME UNE SOURCE
+
+**Recherches : 2 appels. Deverrouillages : 0 — les deux appels rendent une qualification et un
+verdict, pas une adresse. Envois confirmes : 0. Reponses qualifiees : 0. Demandes de devis : 0.
+Commandes : 0. Registre a 1967 fiches.**
+
+**ADRIATIC GLASS AND MIRRORS** (Concord) : **adresse non obtenue, obfusquee sur toutes leurs pages,
+contact par formulaire** — donc fiche telephonique et pas d appel de plus a y depenser. **Mais la
+qualification est l une des meilleures de la journee.**
+**Le titre d une de leurs pages est `WHOLESALE ANNEALED GLASS`**, ils se declarent specialistes du
+float recuit, et **ils publient leur STOCK : clair de 3 a 19 mm, gris et bronze en 5, 6, 10 et 12.**
+Une maison qui intitule une page *gros* et publie un stock d epaisseurs sur trois teintes est du
+cote ENTREE, sur le terme le plus fort du critere du 15/10.
+**⚠️⚠️ ET DEUX MARQUES DE LEUR GAMME NOMMENT LEURS DEUX FOURNISSEURS — OPTIWHITE, qui est Pilkington
+donc NSG, et STARPHIRE, qui est Vitro.** Une marque lue du cote de la gamme dit qu on ACHETE.
+**C est la premiere fiche de la campagne qui nomme DEUX producteurs float mondiaux a la fois**, et
+nous savons donc exactement contre qui nous nous placons.
+⚠ La question Prodiesa reste ouverte sur le miroir : citer une norme de miroir argente ne dit pas
+s ils argentent. **Elle se pose dans l echange.**
+
+**NY TEMPERING : VERDICT NEGATIF, ET IL FERME UNE SOURCE PLUS QU UNE FICHE.** Aucun site, aucune
+adresse, aucun telephone. La societe n existe sur le web que dans les repertoires du **SGCC**, sous
+`NY Tempering LLC`, avec quatre references certifiees.
+⚠️ **Un nom de personne y figure comme correspondant du dossier de certification et il n est PAS
+utilisable** — ce n est ni une fonction verifiee ni une fonction d achat. ⚠️ **Et la seule adresse
+postale rendue est celle de l ORGANISME**, a Sackets Harbor : la confondre serait la faute Leader
+Mat, une coordonnee trouvee sur une page tierce et appartenant a un tiers.
+**CE QUE CELA AJOUTE A LA MESURE DU 19/10 SUR LE SGCC :** le paragraphe 5 avait deja etabli que ce
+repertoire etait **moissonne**, trois noms sur cinq deja au registre. **Celui-ci ajoute que le peu
+qui reste est difficile a JOINDRE** — la source identifie des trempeurs reels et ne donne aucune
+coordonnee. **Ne pas y redepenser d appel.**
