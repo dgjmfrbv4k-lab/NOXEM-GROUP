@@ -4508,6 +4508,27 @@ python3 campagne-conteneur-20-open-top/prospection/outils/candidats-deverrouilla
   partie vers la boîte d'où l'offre est sortie. **Avant d'écrire « pas de réponse » sur un dossier
   chaud, demander à Aaron de quelle boîte son dernier message est parti.** C'est noté sur la fiche
   United Glass.
+  **⚠️⚠️ ET LE 20/10 À 12h15 MESURE CE QUE CET ANGLE MORT COÛTE, PARCE QU'IL NE S'AGIT PLUS D'UN
+  DOUTE SUR UN DOSSIER MAIS D'UNE ERREUR DANS TROIS, PARTIE DANS UN FICHIER DESTINÉ À KEVIN.**
+  En relisant la boîte à midi — **ce que le §2 met en PRIORITÉ ABSOLUE et que j'avais remis après
+  une matinée entière de prospection** — j'ai découvert que **trois des dossiers que
+  `GRILLE-DE-PRIX-A-FAIRE.md` et le tableau de bord présentaient comme *en attente d'un
+  chiffrage* AVAIENT DÉJÀ REÇU LEUR DEVIS** : **United Glass** le 08/10 puis renvoyé le 15/10,
+  **Christakis Avgousti** le 14/10 sous la référence D-20260010203 avec une relance le 15/10, et
+  **Industrial Mercantil San Simón** le 16/10. **Aucun des trois n'a répondu depuis.**
+  **LEUR ACTION ÉTAIT DONC L'INVERSE DE CE QUE J'ANNONÇAIS : pas un prix, une RELANCE** — et
+  l'erreur sur Avgousti courait depuis **six jours**.
+  **LA CAUSE N'EST PAS UNE NÉGLIGENCE DE SAISIE : les trois devis sont partis DE LA MAIN DE KEVIN
+  depuis son propre client**, et une fiche ne se met pas à jour toute seule.
+  **LE REMÈDE EST UNE ROUTINE ET NON UNE VIGILANCE : la RÉCONCILIATION BOÎTE-REGISTRE se fait au
+  DÉBUT de chaque journée, avant la première recherche.** Pour chaque fiche en aval — `REPONSE`,
+  `DEMANDE DE PRIX`, `DEVIS ENVOYE`, `EN NEGOCIATION` — relire son fil et vérifier que le statut
+  dit ce que le fil montre. **C'est le §2 point 1 pris au sérieux**, et le §10 donne l'outil qui
+  le rend possible : **la signature distingue un envoi de Kevin d'un envoi par connecteur**, donc
+  je reconstitue ce qu'il a fait sans avoir à le lui demander.
+  **ET LA REQUÊTE QUI LES A TROUVÉS VAUT MIEUX QU'UNE RELECTURE FICHE PAR FICHE :
+  `in:sent newer_than:12d has:attachment`.** Un devis porte une pièce jointe, une prospection
+  n'en porte pas. **Trente résultats, et les trois dossiers en sont sortis.**
 
 ## 14. Commits
 
