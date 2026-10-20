@@ -9967,3 +9967,26 @@ seraient ressorties en tete demain.
 **CE QUI RESTE : 412 fiches a deverrouiller, toutes SANS SITE, donc a DEUX appels chacune** — la
 methode en deux temps du paragraphe 13. **Le gisement a un appel est epuise, et c'est une
 information de planification** : le cout unitaire du deverrouillage vient de doubler.
+
+## 20/10 a 14h01 — mettre un index d'une page en tete du tableau de bord, parce qu'il a grossi de cinq sections aujourd'hui
+
+**Recherches : 0. Envois confirmes : 0.**
+
+**`DECISIONS-AARON.md` a gagne CINQ sections dans la journee** — les trois dossiers de devis, la
+page catalogue inemployee, la mesure du taux de reponse, les 41 fiches en arbitrage, le miroir
+bresilien. **Un fichier que Kevin doit parcourir pour trouver ce qu'il a a trancher est un fichier
+qui ne sera pas lu.**
+
+**J'ai donc mis en tete un INDEX D'UNE PAGE, en treize lignes, avec pour chaque point CE QU'IL A A
+FAIRE et COMBIEN DE TEMPS CELA LUI PREND.** Huit des treize se tranchent en **moins de cinq
+minutes** : de quelle boite est parti un fil, si un devis couvre le FOB, si on ouvre l'Europe.
+
+**ET L'INDEX DIT AUSSI CE QUI N'A PAS BESOIN DE LUI**, parce que c'est la moitie utile de
+l'information : **les 98 fiches pretes sont couvertes par son accord permanent du 19/10** et partent
+au rythme de 15 a 20 par jour sans rien demander. **Seuls les RELANCES et les REPONSES ont besoin
+de son mot** — trois textes, les 327, 328 et 325.
+
+**⚠️ ET LE POINT 1 EST OVER HEAD ASIA, pour une raison qui n'est pas sa taille : c'est la SEULE
+chose de la campagne venue a nous sans un envoi, elle a NEUF JOURS, et elle avait disparu de ce
+fichier entre-temps.** Dix minutes de sa part — ouvrir quatre PDF — et le dossier repart ou se
+ferme proprement.

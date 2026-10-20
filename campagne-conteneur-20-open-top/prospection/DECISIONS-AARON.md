@@ -1,4 +1,37 @@
-# 🧭 TABLEAU DE BORD DU 20/10 A 11h59 — CE QUI EST OUVERT AUJOURD HUI, DANS L ORDRE DU COUT D ATTENTE
+# 🧭 TABLEAU DE BORD DU 20/10 — CE QUI EST OUVERT, DANS L ORDRE DU COUT D ATTENTE
+
+## ⏱️ CE QU IL Y A A DECIDER, EN UNE PAGE — index refait a 14h01
+
+**Ce fichier a grossi de cinq sections aujourd hui. Voici l index, avec pour chaque point ce que
+VOUS avez a faire et combien de temps cela vous prend.** Le detail est dans la section indiquee.
+
+| # | Dossier | Ce que vous avez a faire | Votre temps | Depuis |
+|---|---|---|---|---|
+| 1 | 🔴🔴 **OVER HEAD ASIA** — la **seule demande de prix entrante** de la campagne | **Ouvrir 4 PDF dans Gmail** et me dire si le **panneau d electromenager trempe en petite cote** est faisable | 10 min | **9 jours** |
+| 2 | 🔴 **LA GRILLE DE PRIX** — 5 dossiers de prix ouverts | Un prix, ou une fourchette, ou un refus | — | jusqu a **22 j** |
+| 3 | 🔴 **CARIBBEAN GLASS** — le dossier **le plus avance** | Un **prix de fret** | — | 1 j |
+| 4 | 🔴 **SAN SIMON** (Guatemala) | Le devis envoye couvre-t-il le **FOB** et les **references demandees** ? | 2 min | 4 j |
+| 5 | 🟠 **ARABIAN GLASS** (Riyad) — **1 M m2 de decoupe par an** | De **quelle boite** le fil est-il parti ? | 1 min | 11 j |
+| 6 | 🟠 **TROIS TEXTES PRETS QUI ATTENDENT VOTRE MOT** | Accord d envoi : **327** United Glass, **328** Avgousti, **325** reponse Lasimyynti | 10 min | 1 j |
+| 7 | 🟠 **LE CRENEAU D APPELS** — 292 fiches, un numero chacune, **zero appel jamais passe** | Me dire si vous prenez les **15 appels** de `APPELS-PRIORITAIRES.md` | — | 8 j |
+| 8 | 🟠 **LE PERIMETRE EUROPEEN** | Ouvre-t-on l Europe ? ⚠️ **Argument neuf : le Royaume-Uni est, avec le Canada, le seul pays ou l Etat PUBLIE le nom des importateurs** | 5 min | 5 j |
+| 9 | 🟠 **LE DOSSIER RIOU** — 4 societes dans le perimetre | Concurrent ou prospect ? | 2 min | 12 j |
+| 10 | 🟠 **L AFRIQUE DU SUD** — 13 fiches gelees + PG Centre Zimbabwe | On ouvre ou on ferme | 2 min | 12 j |
+| 11 | 🟡 **LE MIROIR** — notre produit le plus differenciant, **et il ne l est peut-etre plus** | Qu est-ce qui distingue **reellement** notre miroir ? | 5 min | ce jour |
+| 12 | 🟡 **QUATRE QUESTIONS TECHNIQUES** — PLF 6000 x 3210, autoclave, EUR.1, groupage | Ce que **NOS usines** font | — | jusqu a 12 j |
+| 13 | ⚪ **DEUX FERMETURES QUE JE RECOMMANDE** | **Alanees** (Yemen, risque de guerre) et **City Glass** (Zimbabwe, faute du 13/10) | 1 min | — |
+
+**⚠️ ET LE POINT 1 EST LE PLUS URGENT DE TOUS POUR UNE RAISON QUI N EST PAS SA TAILLE : c est la
+SEULE chose de cette campagne qui soit venue a nous sans un envoi, et elle a neuf jours.** Elle
+avait de plus **disparu de ce fichier** entre-temps, ce que je signale au titre du paragraphe 16.
+
+**⚠️ CE QUI N A PAS BESOIN DE VOUS, pour que la liste soit juste : les 98 fiches pretes a partir
+sont couvertes par votre accord permanent du 19/10 sur les premiers contacts a des prospects
+NEUFS.** Elles partent au rythme de 15 a 20 par jour sans rien vous demander. **Seuls les
+RELANCES et les REPONSES ont besoin de votre mot**, et ce sont les trois du point 6.
+
+---
+
 
 **Ce bandeau est refait ce jour. Tout ce qui suit en dessous est l historique, conserve pour la
 trace** — et il faut le dire franchement : **les deux encadres juste apres celui-ci datent du 15/10
