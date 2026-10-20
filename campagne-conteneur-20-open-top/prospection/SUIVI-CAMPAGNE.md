@@ -10534,3 +10534,29 @@ que l exception est CONSIGNEE, pas qu elle est VRAIE.** Il attrape l oubli, pas 
 `verif-texte.py` attrape le mot interdit et non l argument faux.
 **Verifie dans les deux sens**, comme le mandat l impose : **zero sur le registre reel**, et **deux
 fautes injectees retrouvees** sur un jeu d essai, une boite gratuite et un domaine etranger.
+
+
+---
+
+## 20/10 — 15h01 · LA FILE EST TEXTEE A DEUX FICHES PRES, ET LES DEUX RESTANTES SONT UN CHOIX
+
+**Recherches : 0 appel. Textes rediges : 1. Envois confirmes : 0. Reponses qualifiees : 0.
+Demandes de devis : 0. Commandes : 0. Registre a 1967 fiches, file a 104, textes a 344.**
+
+**RAVES COOLER DOORS** (Highland, Michigan) est texte. C est la **premiere des huit industries de
+l axe Perficom** — la porte de chambre froide — et le texte dit pourquoi j ecris a un fabricant de
+PORTES plutot qu a un verrier : **une ligne en serie achete en continu dans des cotes qui se
+repetent, un poseur achete au chantier.** Le low-E y est le candidat evident puisqu une porte de
+froid est un probleme thermique, **et le texte le PROPOSE et le DEMANDE au lieu de l asserter** —
+frontiere exacte de la faute STADIP.
+
+**ET LES DEUX DERNIERES FICHES SANS TEXTE RESTENT SANS TEXTE, DELIBEREMENT.** `Maakunnan Lasi` et
+`Raahen Lasi`, finlandaises, datees du 27/10, portent le meme verdict : **classe verrier plus pose,
+ZERO pour cent sur onze fiches.** Maakunnan exploite une **ligne de depannage payante**, signature
+par laquelle le paragraphe 6 avait ecarte Carl Abel et Glastechnik Engels. Raahen **achete ses
+vitrages isolants finis** et vend de l acrylique a cote du verre.
+**L ARITHMETIQUE DECIDE : la bande est de 15 a 20 par jour et la file en compte plus de cent.**
+Chaque envoi a une fiche de la pire classe **en deplace un** vers une fiche de la meilleure. **Et
+elles relevent en plus du point 8**, le perimetre europeen non arbitre. **Elles restent en file au
+dernier rang, sans texte**, et la raison est ecrite dans `PLAN-ENVOIS.md` pour qu une session future
+ne prenne pas ce vide pour un oubli.

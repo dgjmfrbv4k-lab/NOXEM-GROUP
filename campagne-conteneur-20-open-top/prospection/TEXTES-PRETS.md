@@ -25264,3 +25264,97 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 344. Raves Cooler Doors (Highland, Michigan, États-Unis) — `info@ravescoolerdoors.com` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-27`.**
+
+- **AXE DES INDUSTRIES QUI NE S APPELLENT PAS VERRE, premiere des huit : la PORTE DE CHAMBRE FROIDE.**
+  Aucun annuaire verrier ne range ces maisons comme verrieres, et c est exactement pourquoi le tri
+  par metier ne pouvait pas les voir.
+- **POURQUOI LE PROFIL D ACHAT EST MEILLEUR QUE CELUI D UN FACADIER, et c est la raison que le §6
+  donne aux 3,6 pour cent de la classe facade :** un poseur achete **au coup par coup en cotes qui
+  changent a chaque chantier**, une **ligne en serie** achete **en continu en cotes qui se
+  repetent**. Le conteneur complet est l unite naturelle du second et pas du premier.
+- **⚠️ LE LOW-E EST LE CANDIDAT EVIDENT PUISQU UNE PORTE DE FROID EST UN PROBLEME THERMIQUE — MAIS
+  IL SE PROPOSE ET SE DEMANDE, IL NE S ASSERTE PAS.** C est la frontiere exacte de la faute STADIP
+  du 12/10, et le §6 l ecrit nommement pour cet axe : **ces maisons ne sont pas des verriers et on
+  ne leur asserte pas leur specification.**
+- **REGLE PRODIESA : la porte, le chassis, l unite isolante et le trempe sortent de l offre.**
+  Entre le **substrat**.
+- **⚠️ INTERDIT DU §6 : rien sur l absence de production locale aux Etats-Unis.** Angle douanier.
+- **AUCUN PRIX ANNONCE.** Formule imposee, porte de sortie, signature une fois. **Port demande.**
+
+**Objet :** `What goes into a cooler door, before it is a door`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I will say why I am writing to a door company rather than a glass company,
+because that is the whole of it.
+
+You build and assemble cooler and freezer doors. That is a production line, not
+a jobbing shop - and a line buys glass in a way a contractor never does: the
+same sizes, continuously, to a schedule. In my trade almost everyone writes to
+glaziers and curtain-wall contractors, who buy cut glass job by job and have no
+use for a container. A company making doors in series is the opposite case, and
+it is the one a full container actually fits.
+
+What I am NOT offering: doors, frames, sealed units or tempered glass. You make
+those, and a supplier who offers a manufacturer its own product has not read the
+page. What I am offering is what goes in before any of that:
+
+- clear float, the base of the lite
+  https://noxemgroup.com/en/float-glass/
+- extra-clear, where the green edge would show through a display door
+  https://noxemgroup.com/en/float-glass/
+- and low-emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+
+On that last one I want to ask rather than tell, because you know your own
+product and I do not. A cooler door is a thermal problem before it is a glazing
+problem, so low-E is the obvious candidate - but whether you specify a coating,
+on which surface, and to what emissivity is your engineering and not mine. If
+you already buy coated glass, tell me which and we are talking about origin
+only. If you do not, I am not going to argue you should.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+as standard jumbo 3210 x 2550 mm with the length cut to order, or cut to YOUR
+sizes. Since your sizes repeat, cut-to-size is usually the version that makes
+sense. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - an East Coast port with rail to Michigan, I
+would guess, but tell me rather than let me assume.
+
+One fact about origins, and it is customs rather than price. Since April 2026
+float glass from China carries US antidumping and countervailing duties, and
+Malaysian float carries countervailing duties. European origin is covered by
+neither. That does not make our glass cheap - it changes which origins are
+worth comparing.
+
+What I need back is short: the lite sizes you run and how much they repeat,
+the thicknesses, clear or coated or both, roughly how much in a year, and the
+port or inland point you clear through.
+
+And the honest part. A production line does not change a qualified glass supply
+because of an email from France, and I am not asking you to. I am asking to be
+a second qualified name for the month when a size is short. If there is no room
+for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

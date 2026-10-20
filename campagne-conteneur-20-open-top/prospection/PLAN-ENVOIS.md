@@ -61,6 +61,22 @@ sort de la journee de travail : elle passe au 22.
 grande usine de son Etat, associee d ABRAVIDRO. C est la justification du travail de qualification
 de l apres-midi : une fiche neuve bien qualifiee passe devant quatre-vingt-dix-huit fiches anciennes.
 
+**⚠️⚠️ ET DEUX FICHES DE LA FILE MERITENT D EN SORTIR, LA QUESTION EST POSEE PLUTOT QUE TRANCHEE
+SEULE.** `MAAKUNNAN LASI` et `RAAHEN LASI`, toutes deux finlandaises, datees du 27/10, sont **les
+deux seules fiches de la file restees sans texte apres le comblement du 20/10 — et c est delibere.**
+**Leurs deux notes portent le meme verdict, etabli au second temps du 20/10 : classe VERRIER PLUS
+POSE, ZERO pour cent sur onze fiches.** Maakunnan exploite une **ligne de depannage payante**, qui
+est la signature exacte par laquelle le §6 a ecarte les maitres-vitriers allemands Carl Abel et
+Glastechnik Engels. Raahen **achete ses vitrages isolants finis** — *eristyslasit toimitetaan
+tilauksesta*, dit leur propre page — et vend de l acrylique et du polycarbonate a cote du verre.
+**L ARITHMETIQUE DECIDE : la bande est de 15 a 20 par jour et la file en compte plus de cent.**
+Chaque envoi a une fiche de la pire classe **en deplace un** vers une fiche de la meilleure. Ce
+n est pas le cout du message qui compte, c est la place qu il prend.
+**ET ELLES RELEVENT EN PLUS DU POINT 8 DE `DECISIONS-AARON.md`**, le perimetre europeen, qui n est
+pas arbitre. **Conduite retenue : elles restent en file, au dernier rang, SANS texte**, et leur
+texte ne s ecrira que si la file s eclaircit ou si Kevin ouvre l Europe. **Le travail de redaction
+va aux fiches qui partiront.**
+
 **⚠️ CE QUI N EST PAS DANS CETTE FILE ET NE DOIT PAS Y ENTRER : les trois textes qui attendent le mot
 de Kevin** — 327 United Glass, 328 Avgousti, 325 Lasimyynti Tammela. Ce sont des **relances** et des
 **reponses**, que l accord permanent du 19/10 ne couvre pas. Elles attendent, message par message.
