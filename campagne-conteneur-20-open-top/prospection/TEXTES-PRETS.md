@@ -23866,3 +23866,109 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 330. Supernordico (Bogota, Colombie) — `info@supernordico.com` — ESPAGNOL — premier contact
+
+**Redige le 20/10. Non envoye — la journee est a 19, haut de la bande du paragraphe 10. Couvert par
+l accord de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS.**
+
+- **AXE DES INDUSTRIES QUI CONSOMMENT DU VERRE PLAT SANS S APPELER VERRE**, troisieme pays apres le
+  Mexique et le Bresil. Environ **quatre-vingts ans**, **usine propre** a Bogota, quatre points de
+  vente. Vitrines, congelateurs, verticales et chambres froides — **tous a porte de verre**.
+- **⚠️⚠️ ET LE TEXTE S OUVRE EN DESARMANT L OBJECTION AU LIEU DE L ATTENDRE, parce que c est la seule
+  chose credible a faire ici : VIDRIO ANDINO EXPLOITE LA SEULE LIGNE FLOAT DE COLOMBIE A SOACHA,
+  c est-a-dire a une vingtaine de kilometres de leur usine.** Un prospect qui a un four float a sa
+  porte sait mieux que nous que la disponibilite n est pas son probleme. **Le texte le dit en
+  premier, nommement**, et enchaine sur ce qui reste vrai : une seconde origine n est pas une
+  question de disponibilite, c est une question de ce qu on fait le jour ou la premiere manque.
+- **DONC AUCUN ARGUMENT DE DISPONIBILITE, ET AUCUN ARGUMENT DOUANIER NON PLUS.** La Resolution 284
+  du MinCIT ne porte que sur le **miroir** chinois non encadre, et cette maison n achete pas de
+  miroir. **Rien sur les droits.** ⚠️ Et **nulle part** le texte n ecrit qu il n y a pas de
+  production locale — ce serait faux et ils le verraient de leur fenetre.
+- **⚠️ LA QUESTION DE LA COUCHE EST POSEE ET NON TRANCHEE, et le texte la DEMANDE.** Aucune page ne
+  dit si le verre entre chez eux en feuille ou en porte finie. Au Mexique Perficom trempe elle-meme
+  et le dit ; au Bresil Refricomp fournit les portes a toute l industrie. **En Colombie aucun
+  fournisseur de composant n est apparu dans le relevé, ce qui rend plus probable qu ils vitrent
+  eux-memes — mais c est une presomption.** Le texte demande, il n affirme pas. **Faute STADIP
+  evitee.**
+- **REGLE PRODIESA : la vitrine, le congelateur et la chambre froide sortent de l offre.** Seul le
+  substrat entre.
+- **Site en FR et EN seulement, donc liens EN et explication en espagnol**, §8. **Port DEMANDE** —
+  Carthagene, Barranquilla ou Buenaventura — **et non choisi**, Bogota etant a mille kilometres de
+  la cote. **Reserve ABRAVID assumee dans le texte plutot que cachee.**
+- **AUCUN PRIX ANNONCE** : le mot *precio* n apparait pas dans le corps. **Verifie par relevé.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.**
+
+**Objet :** `El vidrio que entra, no el mueble que sale`
+
+```
+Buenos dias,
+
+Me llamo Aaron Harfi y dirijo NOXEM GROUP, proveedor y exportador de vidrio
+plano con sede cerca de Lyon, en Francia. Esto es una oferta de suministro, no
+una solicitud de cotizacion. Si usted no es la persona que compra el vidrio, le
+agradeceria que lo hiciera llegar a quien corresponda.
+
+Empiezo por lo que juega en su contra, porque usted lo sabe mejor que yo y no
+tendria sentido escribirle sin decirlo: ustedes tienen un horno de vidrio
+flotado a veinte kilometros de su planta. La disponibilidad no es su problema,
+y no voy a fingir que lo sea.
+
+Lo que escribo, entonces, es otra cosa. Una segunda origen no sirve para los
+meses en que todo va bien. Sirve el mes en que un espesor sale de programa, o
+en que una entrega se atrasa y hay una linea de produccion esperando. Eso es
+todo lo que pido ser.
+
+Le escribo a ustedes y no a una vidrieria por una razon precisa. Ochenta anos,
+planta propia en la Zona Industrial, cuatro puntos de venta, y una gama
+—vitrinas, verticales, congeladores, exhibidoras— en la que practicamente todo
+lleva vidrio. Eso no es vidrio comprado obra por obra: es vidrio que entra por
+modelo, en medidas que se repiten. Ese es el unico patron de compra al que un
+contenedor completo se ajusta.
+
+No les ofrezco vitrinas, ni congeladores, ni cuartos frios. Ustedes los
+fabrican. Les ofrezco lo que va antes:
+
+- vidrio float claro y extra-claro, la base de la gama, y el extra-claro es el
+  que da transparencia real a un frente de exhibicion en lugar del tono verdoso
+  del float comun
+  https://noxemgroup.com/en/float-glass/
+- vidrio de baja emisividad, low-E, si alguna de sus puertas lo lleva
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- la gama completa, si prefiere verla de una vez
+  https://noxemgroup.com/en/catalog/
+
+Nuestro sitio esta en frances e ingles unicamente, le pido disculpas. Si
+prefiere que le detalle alguna referencia en espanol, lo hago con gusto.
+
+Y una pregunta que decide si tengo algo util que ofrecerle o no, porque no la
+puedo contestar desde afuera: el vidrio les entra en lamina, que ustedes cortan
+y templan, o les entra ya como puerta terminada de un proveedor? Si es lo
+segundo, mi oferta no le sirve de nada y prefiero saberlo ahora.
+
+Enviamos CONTENEDORES COMPLETOS, embalados en cajas de madera tratada segun
+NIMP-15, cortado a SUS medidas o en formato jumbo estandar de 3210 x 2550 mm,
+con el largo cortado a pedido. Podemos preparar una oferta para la entrega en
+su puerto de destino, sujeta a validacion por nuestra parte. Bogota esta lejos
+de la costa y el flete terrestre no es un detalle, asi que prefiero que me diga
+usted por donde despacha —Cartagena, Barranquilla o Buenaventura— en lugar de
+suponerlo.
+
+Lo que necesito de vuelta es corto: que espesores pasan por su planta, en que
+medida de lamina los reciben, aproximadamente cuanto consumen al ano, y el
+puerto.
+
+Y la parte honesta. Con un productor nacional a la vuelta de la esquina, lo
+mas probable es que no haya lugar para nosotros, y lo entiendo perfectamente.
+Si es asi, digamelo con franqueza y no insisto.
+
+Atentamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

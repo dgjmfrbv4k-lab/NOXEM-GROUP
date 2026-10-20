@@ -9298,3 +9298,34 @@ post-acheminement terrestre s'applique.
 
 **Garde-fous :** doublons **8 groupes**, noyaux **19 paires**, `A APPELER` sans telephone **0**.
 **Registre : 1952 fiches, dont 291 en attente d'appel.**
+
+## 20/10 a 12h57 — l'axe tient sur un troisieme pays, et le texte desarme l'objection au lieu de l'attendre
+
+**Recherches : 2. Envois confirmes : 0. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0.
+Fiches creees : 1. Noms consignes sans fiche : 3, plus 2 ecartes. Textes rediges : 1.**
+
+**SUPERNORDICO (Bogota) — creee, adressee sur son propre domaine, texte 330 redige.** Environ
+**quatre-vingts ans**, usine propre en Zona Industrial, quatre points de vente, et une gamme ou
+pratiquement tout porte du verre. **Quatre noms colombiens releves, les quatre absents du registre** —
+l'axe tient sur un troisieme pays apres le Mexique et le Bresil.
+
+**⚠️⚠️ ET LE TEXTE S'OUVRE EN DESARMANT L'OBJECTION, parce que c'est la seule chose credible ici :
+VIDRIO ANDINO EXPLOITE LA SEULE LIGNE FLOAT DE COLOMBIE A SOACHA, a une vingtaine de kilometres de
+leur usine.** Un prospect qui a un four a sa porte sait mieux que nous que la disponibilite n'est pas
+son probleme. **Le texte le dit EN PREMIER** et enchaine sur ce qui reste vrai : une seconde origine
+ne sert pas les mois ou tout va bien, elle sert le mois ou une epaisseur sort de programme.
+**Donc aucun argument de disponibilite, et aucun argument douanier non plus** — la Resolution 284 ne
+porte que sur le **miroir** et ils n'en achetent pas.
+
+**⚠️ LA QUESTION DE LA COUCHE EST POSEE ET NON TRANCHEE, ET LE TEXTE LA DEMANDE** : le verre leur
+entre-t-il en lamina ou en porte finie. Aucun fournisseur de composant n'est apparu dans le relevé
+colombien, ce qui rend plus probable qu'ils vitrent eux-memes — **mais c'est une presomption, et le
+texte demande au lieu d'affirmer.** Faute STADIP evitee.
+
+**Trois noms consignes sans fiche** — Comercial de Refrigeracion, Refriartic dont les portes sont
+annoncees **en verre a cadre aluminium**, et Friomax qui construit **sur mesure**, donc en dernier.
+**Et deux ecartes d'emblee** : Luma et Fuller Machinery sont des **revendeurs** de marques tierces,
+ils n'achetent pas de verre.
+
+**Garde-fous :** doublons **8 groupes**, noyaux **19 paires**, float **0 a corriger**, `verif-texte.py`
+**0 a corriger** sur 296 textes. **Registre : 1953 fiches. 341 textes.**
