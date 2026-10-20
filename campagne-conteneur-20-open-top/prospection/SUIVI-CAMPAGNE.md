@@ -9507,3 +9507,42 @@ Nouvelle-Orleans — C'EST QUE J'AI REGARDE LES VALEURS DISTINCTES DU CHAMP PAYS
 PREMIER APPEL**, et non apres. Une passe entiere economisee sur un marche deja travaille.
 
 **Registre : 1956 fiches. 344 textes.**
+
+## 20/10 a 13h28 — ouvrir une page neuve du recensement douanier, et manquer de creer un doublon sur un nom que la source ecrit autrement
+
+**Recherches : 2. Envois confirmes : 0. Fiches creees : 0 — et c'est un bon resultat, voir ci-dessous.
+Fiche enrichie : 1. Noms consignes : 7.**
+
+**LA REGLE DU 19/10 — on ne mesure pas une source, on mesure la PAGE qu'on lit — A PAYE SUR LE
+RECENSEMENT DOUANIER CANADIEN.** La passe du 19/10 avait lu les codes **7005** (float) et **7009**
+(miroir). **Le code 700719, verre de securite TREMPE autre que de vehicule, n'avait jamais ete
+ouvert.**
+**ET LE RENDEMENT LE PROUVE : UN seul nom deja au registre sur HUIT, contre sept sur vingt-deux pour
+la page 7005.** Meme source, meme pays, rendements opposes.
+
+**⚠️⚠️ ET J'AI FAILLI CREER UN DOUBLON — DIX-HUITIEME CAS DE LA FAMILLE DU GREP, ET IL AJOUTE UNE
+FAMILLE QUE LES DIX-SEPT AUTRES N'AVAIENT PAS : LE NOM QUE LA SOURCE DONNE N'EST PAS LE NOM QUE LA
+SOCIETE PORTE.** La base douaniere ecrit **`Vitrum Industries`**. J'ai passe ce nom-la au script, qui
+a repondu **ABSENT** — **et il avait raison**. Le registre porte **`Vitrum Glass Group`**, a Langley,
+**en RELANCE 2026-10-12**, avec le meme telephone.
+**Le token juste etait `vitrum`, le plus court element distinctif, que le paragraphe 5 impose depuis
+le 11/10 et que j'avais sous les yeux.** Grepe ainsi il rend **trois fiches d'un coup** — le Canada,
+Grupo Vitrum au Guatemala, Vitrum Vidrio en Equateur.
+**Ce qui est neuf : les dix-sept precedents venaient d'un token MAL FORME. Ici le token etait une
+transcription FIDELE de ce que la source ecrit — un recensement douanier enregistre le nom du
+DECLARANT, pas le nom commercial.** Lecon Imporex appliquee au NOM au lieu du metier.
+**C'est l'assert d'unicite du script de creation qui a arrete le coup, cinquieme fois.**
+
+**LA FICHE EXISTANTE EST ENRICHIE DE DEUX FAITS QU'ELLE N'AVAIT PAS**, et ils valent mieux qu'une
+fiche neuve : **elle est IMPORTATRICE ATTESTEE de verre trempe**, dit par l'Etat et non par elle ; et
+**elle se declare fabricant certifie PPG et GUARDIAN**, donc **on sait contre qui l'on se place** —
+Guardian est sur la liste des concurrents et le verre plat de PPG est passe a Vitro.
+⚠️ **Et un piege de nom consigne : VITRUM n'est pas VITRO.**
+
+**Sept noms consignes sans fiche** — Hartung Glass Canada, Double Seal Insulating Glass, Newmar, KML
+Windows, Golden Windows, JELD-WEN. **⛔ Deux sous-codes ecartes en entier**, le 700711 et le 700721
+etant le verre de securite **pour vehicules** — AGC Automotive, Honda, Mercedes, Magna. **Hors gamme.**
+**⛔ Et un nom de la page a ne jamais toucher : PFG GLASS INDUSTRIES y figure, compte protege du
+paragraphe 7.**
+
+**Registre : 1956 fiches.**

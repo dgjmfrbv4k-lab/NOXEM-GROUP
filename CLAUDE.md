@@ -1027,6 +1027,23 @@ hits = [c for c in R if 'prodiesa' in c[3].lower()]
   norvégienne du groupe **Glasshuset Norge**, sur `glassgrossisten.com`, envoyée le 20/10 ;
   **`Glasgrossisten`** avec UN s est une maison **suédoise de Malmö**, sur `glasgrossisten.com`,
   fournisseur de l'**encadrement**. Deux pays, deux domaines à une lettre près, aucun lien établi.
+  **⚠️⚠️ DIX-HUITIÈME CAS LE 20/10, ET IL AJOUTE UNE FAMILLE QUE LES DIX-SEPT AUTRES N'AVAIENT PAS :
+  LE NOM QU'UNE SOURCE DONNE N'EST PAS LE NOM QUE LA SOCIÉTÉ PORTE.** La base des importateurs
+  canadiens nomme **`Vitrum Industries`**. J'ai passé **ce nom-là** au script, qui a répondu
+  **ABSENT** — et il avait raison, `vitrumindustries` n'est pas `vitrumglassgroup`. **Le registre
+  porte `Vitrum Glass Group`, à Langley, en `RELANCE 2026-10-12`, avec le même téléphone.**
+  **LE TOKEN JUSTE ÉTAIT `vitrum`, LE PLUS COURT ÉLÉMENT DISTINCTIF**, que le §5 impose depuis le
+  11/10 et que j'avais sous les yeux. Grepé ainsi il rend **TROIS fiches d'un coup** — celle du
+  Canada, `Grupo Vitrum` au Guatemala et `Vitrum Vidrio` en Équateur.
+  **CE QUI EST NEUF PAR RAPPORT AUX DIX-SEPT AUTRES :** les précédents venaient d'un token mal formé
+  — séparateur, pluriel, accent, sigle, lettre doublée, seuil de longueur. **Ici le token était une
+  transcription fidèle de ce que la SOURCE écrit**, et c'est la source qui n'écrit pas comme la
+  société. **UN RECENSEMENT DOUANIER ENREGISTRE LE NOM DU DÉCLARANT, PAS LE NOM COMMERCIAL** —
+  l'État inscrit la raison sociale qui dédouane, la maison se présente autrement.
+  **C'est la leçon Imporex appliquée au NOM au lieu du métier : la source IDENTIFIE, et jusqu'à
+  l'orthographe il faut réétablir.** Donc **un nom pris dans un recensement, un annuaire ou un
+  dossier se grepe TOUJOURS sur son radical court**, jamais sur la chaîne que la source imprime.
+  **Et c'est l'`assert` d'unicité du script de création qui a arrêté le doublon, cinquième fois.**
   C'est la famille du caractère unique — `newSglassind`, `glasscorplnt`, `index-gabon`,
   `laheyglass.ca`, `ABRAVIDRO`/`ABIVIDRO`, `SITIVESP`/`SINCAVESP` — et le §12 impose de trancher sur
   une **coordonnée**, jamais sur le nom.
