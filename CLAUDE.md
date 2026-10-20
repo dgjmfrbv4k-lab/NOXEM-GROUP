@@ -233,6 +233,28 @@ Dakar, Tema, Aktau, Poti, Arica, Kolkata, Montevideo).
 - **Jamais de prix, délai, certificat ou condition non validée.** Formule imposée :
   « nous pouvons établir une offre pour la livraison à votre port de destination,
   **sous réserve de validation de notre côté** ».
+  **⚠️⚠️ ET LE 20/10 À 11h20 DONNE LA FORME DE FAUTE QUE CET INTERDIT N'AVAIT JAMAIS ATTRAPÉE, PARCE
+  QU'ELLE SE PRÉSENTE COMME UNE PRÉCAUTION : J'AI ÉCRIT LE MOT *PRICES* DANS UNE PHRASE DONT TOUT
+  L'OBJET ÉTAIT DE DIRE QU'IL NE S'AGISSAIT PAS DE PRIX.** Le texte 314, vers Dulles Glass, portait
+  — à propos des droits antidumping américains — *« I give it as a customs fact, not as a claim about
+  my prices »*. **C'est `verif-texte.py` qui l'a refusé, en MOT INTERDIT et non en mot conditionnel**,
+  et il a eu raison contre moi.
+  **POURQUOI LA PHRASE ÉTAIT FAUTIVE ALORS QU'ELLE NIAIT :** le §6 impose de servir un taux douanier
+  *« comme un fait douanier, pas notre tarif »*, et ma phrase faisait exactement cela — **mais en
+  INSTALLANT le mot dans la tête du lecteur.** Un acheteur qui lit « ce n'est pas une annonce de
+  prix » comprend qu'il est question de prix, et la phrase suivante est lue comme un chiffrage
+  implicite. **Une dénégation n'est pas une abstention : elle met le sujet sur la table en se
+  donnant l'air de l'en retirer.**
+  **RÈGLE : l'interdit porte sur le SUJET, pas sur l'affirmation. On ne nie pas un prix, on n'en
+  parle pas.** La bonne formulation est celle qui a remplacé l'autre : *« I give it as a customs
+  fact and nothing more »*, puis, pour la conclusion, le renvoi à la **formule imposée** elle-même —
+  *« that says nothing about our own figures, which I am in no position to put to you before we have
+  validated them on our side »*. **La formule du §5 est la seule chose qui doive se dire sur ce
+  terrain**, et elle suffit.
+  **Et c'est la première fois que ce garde-fou attrape un mot interdit dans un texte écrit avec toute
+  l'attention voulue** — les prises antérieures portaient sur la forme, la signature ou une porte de
+  sortie manquante. **Un garde-fou ne sert pas qu'à rattraper l'inattention ; il rattrape aussi le
+  raisonnement qui se croit prudent.**
 - **Jamais nommer nos usines partenaires**, ni leur pays, ni leur nombre.
 - **« Verrerie » n'est pas une activité** (ajouté le 08/10 après une faute de ciblage). En français
   le mot désigne aussi bien une usine de verre plat qu'une fabrique de bouteilles ou un magasin de

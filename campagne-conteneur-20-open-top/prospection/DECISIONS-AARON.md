@@ -566,6 +566,43 @@ non par la géographie.
 **MA RECOMMANDATION : la 1.** Elle rend explicite ce que la pratique fait déjà, elle garde le
 gisement allemand, et elle donne un critère net — **le mode de livraison, pas la frontière.**
 
+### ⚠️⚠️ MISE À JOUR DU 20/10 À 11h18 — LA QUESTION A CINQ JOURS, ELLE N'EST PAS TRANCHÉE, ET SON ÉCHELLE A CHANGÉ D'UN ORDRE DE GRANDEUR
+
+**Je le dis au titre du §16 plutôt que de laisser la pratique s'installer en silence : ce qui valait
+« une douzaine de fiches » le 15/10 en vaut désormais 43 — tout le bloc nordique — dont 20 envoyées
+aujourd'hui même.** Norvège, Suède, Danemark, Finlande et Islande, cette dernière étant un pays que
+la campagne n'avait jamais touché avant ce matin.
+
+**ET IL FAUT DIRE HONNÊTEMENT CE QUI M'A FAIT CONTINUER, parce que ce n'est pas une décision que
+j'ai prise ce matin :** le bloc nordique **existait déjà et avait déjà été contacté** — Lasiposti en
+Finlande, Forserum, Osby Glas et Glasgruppen en Suède, Friva en Norvège, Svane Glas au Danemark sont
+toutes en `RELANCE 2026-10-13`. Une session antérieure avait donc ouvert cette ligne il y a une
+semaine. **Je l'ai poursuivie, ce qui est la conduite du §0, et je n'ai pas remarqué sur le moment
+que j'en changeais l'échelle.**
+
+**POURQUOI LE CAS NORDIQUE EST UN ARGUMENT PLUS FORT QUE LE CAS NÉERLANDAIS ET ALLEMAND, et c'est le
+seul élément vraiment neuf à verser à votre décision :**
+- **L'Islande est une île.** Zéro pour cent de son verre plat arrive par la route. La frontière
+  *camion / conteneur* que je proposais comme critère n'y est pas discutable, elle est matérielle.
+- **Il n'y a plus AUCUNE ligne float en Scandinavie** — Lahti arrêtée en 2009, Halmstad en 2013.
+  C'est l'argument le plus fort de la campagne, et il y est vrai au présent, ce qui n'est le cas ni
+  en Allemagne (Euroglas, quatre fours) ni en Belgique.
+- **Et la Scandinavie se sert par ferry et par mer**, pas par camion depuis une usine voisine — ce
+  que le §4 note déjà par un autre bout en observant que *les cotes les plus grandes se trouvent là
+  où le camion ne va pas*.
+
+**CE QUE LA PRATIQUE A PRODUIT, pour que vous jugiez sur des faits et pas sur un principe :** le bloc
+nordique a rendu, en deux jours, des fiches de la **meilleure classe du §6** — Seloy et PLG, qui
+construisent des triples à U 0,3 et 0,5 donc achètent du low-E en continu, Lasiluoto dont la ligne
+avale du 3210 de large, Mirit Glas qui tient huit épaisseurs en stock. **Aucune réponse à ce jour,
+ce qui est normal à deux jours.**
+
+**LES OPTIONS SONT INCHANGÉES ET MA RECOMMANDATION AUSSI — la 1, le mode de livraison plutôt que la
+frontière.** Mais j'ajoute ceci : **si c'est la 2 que vous voulez, dites-le et j'arrête le jour
+même**, le bloc nordique passe en `NE PAS DEMARCHER` et les 20 messages partis sont assumés comme
+une erreur de ma part et non comme un précédent. **Ce qui ne peut pas continuer, c'est l'état
+actuel : une ligne du mandat qui dit non pendant que la campagne fait oui tous les jours.**
+
 
 ---
 

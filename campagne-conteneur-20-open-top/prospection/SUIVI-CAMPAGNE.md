@@ -8537,3 +8537,43 @@ vaut pour le champ activite aussi, et c est consigne.
 
 **SUITE :** plus aucun envoi aujourd hui. Demain 8h30, Lasiluoto et PLG, textes prets. Demain 14 h,
 les cinq americaines reportees, textes prets. **Et le comptage du jour se fait AVANT de composer.**
+
+---
+
+### 20/10 — 11h22 · trois textes de plus, et un mot interdit attrape par le garde-fou
+
+**Les cinq chiffres du paragraphe 3, distincts :** recherches **0** · envois confirmes **20 sur la
+journee, 0 dans ce bloc** · reponses qualifiees **0** · demandes de devis **0** · commandes **0**.
+**Bloc entierement sans appel de recherche** — c est du travail de pipeline, pas de decouverte.
+
+**MESURE DU POOL, FAITE AVANT DE REDIGER QUOI QUE CE SOIT, parce que c est elle qui dit ou est le
+goulot : 111 fiches ont une adresse et n ont jamais ete contactees, et 73 d entre elles ONT DEJA
+LEUR TEXTE.** A vingt envois par jour, le pool deja redige couvre pres de quatre jours.
+**Le goulot n est donc plus la matiere ni la redaction, c est le plafond d envoi du paragraphe 10** —
+domaine neuf, sans DMARC, partage avec une autre campagne. Bresil 31 et Etats-Unis 31 dominent le
+pool, ce qui est le bon equilibre : ce sont les deux marches ou l argument douanier est vrai.
+
+**TROIS TEXTES ECRITS SUR LES 38 FICHES SANS TEXTE, choisis dans les deux meilleures classes :**
+- **312 Indiana Glass** (Agudos, SP) — leur argument de vente est de ne vendre QUE la **demi-chapa**,
+  et on ne refend que ce qu on tient entier. Angle : **seconde origine**, jamais l absence d offre
+  locale, leur float etant annonce **nacional**. Argument douanier servi sur le **float clair seul**.
+- **313 MTX Glass** (Barueri) — angle **CEKAL transpose** : un feuilleteur certifie Ibelq-INMETRO
+  doit justifier ce qui entre dans son autoclave lot apres lot, donc l origine du substrat est chez
+  eux une question de **dossier** et pas seulement de prix. **Un seul message**, la maison portant
+  deux noms a la meme adresse.
+- **314 Dulles Glass** (Manassas, VA) — **plus de 100 000 pieds carres en stock, soit environ quatre
+  conteneurs**, et un four en propre. Le piege Knight Industries est evite dans la fiche : leurs
+  epaisseurs publiees sont celles de la **sortie**, c est le stock et le four qui gardent la fiche.
+
+**UNE FAUTE A CONSIGNER, ET ELLE EST INSTRUCTIVE PARCE QU ELLE SE DEGUISAIT EN PRECAUTION.**
+`verif-texte.py` a refuse le texte 314 pour **MOT INTERDIT** : j avais ecrit *« I give it as a
+customs fact, not as a claim about my prices »*. **La phrase niait le prix et le mettait pourtant
+sur la table.** Un acheteur qui lit « ceci n est pas une annonce de prix » comprend qu il est
+question de prix. **L interdit du paragraphe 5 porte sur le SUJET et non sur l affirmation : on ne
+nie pas un prix, on n en parle pas.** Corrige, et consigne au paragraphe 5. Le controle a aussi
+exige les deux marqueurs manquants sur le texte 313 — justification du paragraphe 6 pour le mot
+antidumping, et marqueur **certification du client** pour le mot certification, qui designe la leur
+et jamais la notre. **0 a corriger sur 280 textes apres correction.**
+
+**SUITE :** plus aucun envoi aujourd hui. Demain 8h30, Lasiluoto et PLG. Demain 14 h, les cinq
+americaines reportees. Les trois textes de ce bloc entrent dans la file derriere elles.
