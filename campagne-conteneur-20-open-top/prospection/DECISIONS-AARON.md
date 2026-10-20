@@ -11,18 +11,23 @@ votre propre client de messagerie** — le paragraphe 13 l etablit depuis le 08/
 repondu a l un de ces dossiers depuis votre poste, **le registre ne le sait pas et moi non plus**.
 Les anciennetes ci-dessous sont donc des anciennetes **de registre**, pas des preuves de silence.
 
-## L ETAT, EN SEPT CHIFFRES
+## L ETAT, EN CHIFFRES — REFAIT A 13h47, LES PRECEDENTS DATAIENT DE CE MATIN
 
 | | |
 |---|---|
-| Fiches au registre | **1947** |
-| Contactees, premier envoi ou relance | **719** |
-| **Pretes a partir** — adresse verifiee, texte ecrit, controle passe | **84** |
+| Fiches au registre | **1958** |
+| Contactees, premier envoi ou relance | **742** |
+| **Pretes a partir** — adresse verifiee et texte ecrit | **93** |
 | **plus** 5 autres, adresse verifiee et texte a rediger — toutes volontairement de dernier rang | 5 |
-| En attente d un APPEL, toutes avec un numero | **286** |
+| En attente d un APPEL, toutes avec un numero | **292** |
 | En attente d un ARBITRAGE de votre part | **41** |
-| Reponses recues a traiter | **3** — deux de moins apres verification, voir plus bas |
+| Reponses recues a traiter | **3** |
 | **Demandes de prix ouvertes** | **5** · plus **3** devis envoyes sans reponse et **3** en negociation |
+
+**⚠️ ET LE CHIFFRE QUI COMPTE N EST AUCUN DE CEUX-LA, C EST LEUR RAPPORT : 98 FICHES SONT PRETES
+A PARTIR ET LA CADENCE DU PARAGRAPHE 10 EST DE 15 A 20 PAR JOUR.** La file est donc **cinq a six
+jours** plus profonde que la cadence. **Trouver des prospects n est plus le goulot — l ORDRE et la
+CADENCE le sont**, et c est pour cela que `outils/classe-file.py` a ete ecrit aujourd hui.
 
 ## 0. 🔴 AJOUTE A 12h45 APRES RELECTURE DES TROIS FILS DE DEVIS — UNE QUESTION A TRANCHER ET DEUX FAITS QUI CHANGENT LE DIAGNOSTIC
 

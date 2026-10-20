@@ -9752,3 +9752,29 @@ phrases et jamais autrement** — c'est ce qui etait arrive aux verdicts telepho
 disaient de douze facons.
 
 **Registre : 1958 fiches. Candidats au deverrouillage : 416, dont QUATRE a site connu.**
+
+## 20/10 a 13h48 — declasser une deuxieme facadiere, et refaire les chiffres du tableau de bord
+
+**Recherches : 1. Envois confirmes : 0. Fiches qualifiees : 1.**
+
+**GLAZING SYSTEMS LTD (Maurice) — adresse trouvee et portee au champ, fiche DECLASSEE PAR CLASSE.**
+Specialiste **aluminium et verre** : garde-corps, murs-rideaux, pergolas, parois de douche, fixations
+araignee, puits de lumiere, cloisons. **Classe facade, 3,6 pour cent**, et le critere du 14/10
+confirme du bon cote — **aucune epaisseur publiee**.
+**⚠️ DEUX RESERVES SUR SON ADRESSE.** Son domaine differe de celui du site, donc **exception du
+paragraphe 5** notee. Et surtout **`intnet.mu` est le domaine du FOURNISSEUR D'ACCES NATIONAL
+mauricien, donc un domaine MUTUALISE** au sens du cinquieme signal de `detecte-doublons.py` —
+**c'est le cas `moov.mg` du 13/10**, qui rapprochait a tort deux maisons malgaches. ⚠️ Balayage
+passe apres l'ecriture : **toujours 8 groupes, aucune collision creee.** La reserve est consignee
+pour le jour ou une seconde fiche mauricienne portera une adresse en `intnet.mu`.
+**⚠️ Et la question Riou est rappelee dans la fiche** : Riou Ocean Glass exploite une usine a
+Port-Louis et le groupe attend un arbitrage depuis le 08/10. **Rien n'etablit de lien ici**, mais la
+regle du paragraphe 6 veut qu'on lise le domaine avant de qualifier une maison d'independante.
+
+**📊 ET LE TABLEAU DE BORD DE `DECISIONS-AARON.md` EST REFAIT, ses chiffres datant de ce matin.**
+1958 fiches · 742 contactees · **93 pretes avec texte** plus 5 sans · 292 en attente d'appel · 41 en
+attente d'arbitrage · 3 reponses · 5 demandes de prix, 3 devis sans reponse, 3 en negociation.
+**⚠️ ET LE CHIFFRE QUI COMPTE N'EST AUCUN DE CEUX-LA, C'EST LEUR RAPPORT : 98 fiches pretes pour une
+cadence de 15 a 20 par jour, soit une file CINQ A SIX FOIS plus profonde que la cadence.**
+**Trouver des prospects n'est plus le goulot. L'ORDRE et la CADENCE le sont** — et c'est tout
+l'objet de `classe-file.py`, ecrit aujourd'hui.
