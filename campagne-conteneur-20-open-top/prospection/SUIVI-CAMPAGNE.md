@@ -9939,3 +9939,31 @@ les separe.**
 **non comme une mesure**, deux cas ne faisant pas une mesure.
 
 **Registre : 1958 fiches. Candidats au deverrouillage : 413, dont UNE a site connu.**
+
+## 20/10 a 14h00 — LA LISTE DES FICHES A SITE CONNU EST VIDE. Huit travaillees, huit verdicts.
+
+**Recherches : 1. Envois confirmes : 0. Fiches declassees : 1.**
+
+**LE SEUIL EST FRANCHI ET IL MERITE D'ETRE DIT : `candidats-deverrouillage.py` NE MET PLUS AUCUNE
+FICHE A SITE CONNU EN TETE.** Elles etaient **HUIT** ce matin — le gisement le moins cher de toute
+la campagne, **un appel chacune au lieu de deux** — et **les huit sont traitees.**
+
+**LE BILAN DES HUIT, ET IL EST HONNETE : UNE SEULE ENTRE EN FILE.**
+- **✅ VERRAGE GLASS AND MIRROR (Ontario)** — deverrouillee, texte 335, **rang 3 sur 98**. La
+  meilleure fiche de la journee, pour un appel.
+- **🟠 ANTHONY INTERNATIONAL (Georgie)** — qualifiee, et son verdict **ferme la question de la
+  couche americaine** : groupe Dover, avec Hillphoenix dans la meme maison mere.
+- **⛔ CORPORACION MARIN (Lima)** — **fermee**, quincaillerie de vitrier, pas une feuille de verre.
+- **🟠 MAIS VIDROS SALVADOR · ALUGAV · GLAZING SYSTEMS · GRE OCEAN CONCEPT · VAB ALUMINIUM** —
+  **declassees par classe**, vidracaria ou facade, trois d'entre elles avec leur **adresse portee au
+  champ** pour le jour ou la file des bonnes classes sera vide.
+
+**⚠️⚠️ ET CE RESULTAT N'EST PAS UN ECHEC, C'EST CE QUE L'OUTIL EST FAIT POUR PRODUIRE. Sept verdicts
+ecrits sont sept appels qu'une session future ne depensera pas** — c'est exactement la faute du
+13/10 qui a fait naitre cet outil, prise par le bon bout. **Et le verdict de classe, que l'outil ne
+connaissait pas ce matin, a ete ajoute et mesure dans la foulee**, sans quoi cinq de ces sept
+seraient ressorties en tete demain.
+
+**CE QUI RESTE : 412 fiches a deverrouiller, toutes SANS SITE, donc a DEUX appels chacune** — la
+methode en deux temps du paragraphe 13. **Le gisement a un appel est epuise, et c'est une
+information de planification** : le cout unitaire du deverrouillage vient de doubler.
