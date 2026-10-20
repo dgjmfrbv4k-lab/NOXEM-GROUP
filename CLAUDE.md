@@ -1044,6 +1044,20 @@ hits = [c for c in R if 'prodiesa' in c[3].lower()]
   l'orthographe il faut réétablir.** Donc **un nom pris dans un recensement, un annuaire ou un
   dossier se grepe TOUJOURS sur son radical court**, jamais sur la chaîne que la source imprime.
   **Et c'est l'`assert` d'unicité du script de création qui a arrêté le doublon, cinquième fois.**
+  **⚠️⚠️⚠️ ET LE MÊME TOKEN MAL FORMÉ A FAUSSÉ UNE MESURE DANS LE QUART D'HEURE QUI A SUIVI — C'EST
+  PIRE QUE LE DOUBLON, ET C'EST LA VRAIE LEÇON DU CAS.** J'avais annoncé, ici et dans un message de
+  commit poussé, que la page douanière **700719** rendait **1 nom déjà au registre sur 8** et que son
+  rendement était donc **opposé** à celui de la page 7005. **Les deux affirmations sont fausses.**
+  Le vrai compte est **3 sur 8** : j'avais grepé **`Hartung Glass Canada`**, le nom tel que la base
+  douanière l'écrit, au lieu du radical **`hartung`** — et **Hartung Glass Industries Canada est au
+  registre, à Burnaby, envoyée le 12/10**.
+  **LE VRAI RAPPORT EST DONC 3 SUR 8, soit 38 %, CONTRE 7 SUR 22 POUR LA PAGE 7005, soit 32 % : LES
+  DEUX PAGES SE VALENT.** La règle du 19/10 sur les pages reste juste, **mais ce cas-ci ne la
+  démontre pas**, et j'en avais tiré une conclusion de méthode qui aurait orienté les passes
+  suivantes.
+  **RÈGLE : UN TOKEN MAL FORMÉ NE MENACE PAS SEULEMENT DE CRÉER UNE FICHE EN TROP, IL FAUSSE LE TAUX
+  DE RECOUVREMENT QU'ON MESURE SUR LE RELEVÉ — ET DONC LA DÉCISION D'Y RETOURNER OU NON.** Un
+  comptage de recouvrement ne vaut que si **chacun** de ses noms a été grepé sur son radical court.
   C'est la famille du caractère unique — `newSglassind`, `glasscorplnt`, `index-gabon`,
   `laheyglass.ca`, `ABRAVIDRO`/`ABIVIDRO`, `SITIVESP`/`SINCAVESP` — et le §12 impose de trancher sur
   une **coordonnée**, jamais sur le nom.

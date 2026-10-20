@@ -9546,3 +9546,35 @@ etant le verre de securite **pour vehicules** — AGC Automotive, Honda, Mercede
 paragraphe 7.**
 
 **Registre : 1956 fiches.**
+
+## 20/10 a 13h30 — CORRECTION : le « 1 sur 8 » que je viens de publier est faux, et la cause est la faute que je venais de consigner
+
+**Recherches : 0. Envois confirmes : 0.**
+
+**CE QUE J'AI ECRIT il y a un quart d'heure, dans la fiche Vitrum, dans l'entree de suivi
+precedente ET dans un message de commit DEJA POUSSE : la page douaniere 700719 rendait UN seul nom
+deja au registre sur HUIT, donc un rendement OPPOSE a celui de la page 7005.**
+**LES DEUX AFFIRMATIONS SONT FAUSSES.**
+
+**LE VRAI COMPTE EST TROIS SUR HUIT.** Multiver, Vitrum Glass Group, **et HARTUNG GLASS INDUSTRIES
+CANADA**, a Burnaby, `info@hartung-glass.com`, **deja envoyee le 12/10**.
+
+**ET LA CAUSE EST EXACTEMENT LA FAUTE QUE JE VENAIS DE CONSIGNER UNE MINUTE PLUS TOT** : j'avais
+grepe **`Hartung Glass Canada`**, le nom tel que la base douaniere l'ecrit, au lieu du radical court
+**`hartung`**. Le script a repondu ABSENT et **il avait raison**. Regrepe sur le radical, il rend la
+fiche immediatement. **J'ai ecrit la regle et je l'ai enfreinte dans la meme commande.**
+
+**⚠️⚠️ ET CE QUE CELA AJOUTE EST PIRE QUE LE RISQUE DE DOUBLON, C'EST LA VRAIE LECON : UN TOKEN MAL
+FORME FAUSSE LA MESURE QU'ON TIRE DU RELEVE.** J'ai bati sur ce « 1 sur 8 » une **conclusion de
+methode** — que cette page etait vierge la ou l'autre etait moissonnee — **et elle aurait oriente
+les prochaines passes**. Le vrai rapport est **3 sur 8, soit 38 pour cent, contre 7 sur 22 pour la
+page 7005, soit 32 pour cent : LES DEUX PAGES SE VALENT.** La regle du 19/10 sur les pages reste
+juste, **mais ce cas-ci ne la demontre pas.**
+
+**Les cinq noms restants ont ete REGREPES sur leur radical court** — Double Seal, Newmar, KML,
+Golden Windows, Jeld — **et les cinq sont bien absents**, les seules lignes rendues etant ma propre
+note qui les nomme.
+
+**⚠️ Le commit precedent reste faux dans l'historique**, on ne reecrit pas une branche poussee.
+**C'est cette entree et le commit suivant qui le disent.** Et la fiche Hartung gagne au passage le
+fait qu'elle n'avait pas : **importatrice attestee de verre trempe.**
