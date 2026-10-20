@@ -10500,3 +10500,37 @@ se savait pas.
 
 **RESTENT QUATRE TEXTES A ECRIRE**, tous dates du 27 : Maakunnan Lasi et Raahen Lasi en Finlande,
 Cristaleria Amigo a Porto Rico, Raves Cooler Doors aux Etats-Unis.
+
+
+---
+
+## 20/10 — 15h00 · UNE FICHE ALLAIT PARTIR SUR UNE ADRESSE QUI N EN ETAIT PAS UNE, ET LE GARDE-FOU QUI MANQUAIT
+
+**Recherches : 1 appel. Envois confirmes : 0. Reponses qualifiees : 0. Demandes de devis : 0.
+Commandes : 0. Registre a 1967 fiches, file a 104 apres retrait d une fiche.**
+
+**L APPEL DEVAIT TRANCHER UN VERDICT BINAIRE ET IL EN A TRANCHE DEUX.** La note de **Cristaleria
+Amigo** (Porto Rico) disait depuis le 19/10 qu **un seul appel trancherait** : le mot *cristaleria*
+etant toute sa raison sociale, elle etait soit un verrier soit un marchand de verres a pied.
+**Verdict un, favorable : ce n est PAS du verre creux.** Portes coulissantes en verre et en miroir,
+fixes en trempe, facades commerciales, murs de miroir, a Bayamon. **Le piege du mot est leve, cas
+CSVM — le mot protege dans l autre sens.**
+**⚠️⚠️ VERDICT DEUX, ET IL ARRETE UN ENVOI : LEUR PAGE DE CONTACT NE PUBLIE QU UN FORMULAIRE.** Or
+le champ portait `cr.amigo@hotmail.com`, **dont le domaine n est pas celui du site**. Le paragraphe
+5 exige alors que la societe publie elle-meme l adresse. **Elle ne la publie pas.** Elle venait d un
+annuaire. **Adresse retiree du champ et conservee dans la note, fiche sortie de la file et passee en
+`A APPELER`.**
+
+**⚠️⚠️ ET LA VRAIE QUESTION ETAIT : COMBIEN D AUTRES ? AUDIT FAIT SUR TOUTE LA FILE, ET LA REPONSE
+EST RASSURANTE.** Sur les fiches en `A ENVOYER`, **dix ont un domaine d adresse different de celui
+du site** — boites gratuites comprises — **et les DIX portent l exception du paragraphe 5 dans leur
+note**. Cristaleria Amigo etait la onzieme et la seule en defaut.
+
+**MAIS LE CONTROLE N EXISTAIT PAS, ET C EST CE QUI COMPTE.** `verif-anti-rebond.py` est ecrit, et
+c est la doctrine du paragraphe 12 appliquee une fois de plus : **quand une note voit ce que le code
+ne voit pas, on repare le code.**
+**⚠️ Et ce qu il ne peut PAS faire est ecrit dans son entete plutot que laisse croire : il verifie
+que l exception est CONSIGNEE, pas qu elle est VRAIE.** Il attrape l oubli, pas l erreur — comme
+`verif-texte.py` attrape le mot interdit et non l argument faux.
+**Verifie dans les deux sens**, comme le mandat l impose : **zero sur le registre reel**, et **deux
+fautes injectees retrouvees** sur un jeu d essai, une boite gratuite et un domaine etranger.
