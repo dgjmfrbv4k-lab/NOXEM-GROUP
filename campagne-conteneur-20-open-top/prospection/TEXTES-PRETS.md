@@ -21366,3 +21366,425 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 304. BestGlass Oy (Nivala, Ostrobotnie du Nord) — `tilaus@bestglass.fi` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 10h15. Accord expres de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS neufs.**
+
+- **La plus grosse cible finlandaise du relevé** : ils ont **racheté à Pilkington** son usine de
+  vitrage isolant de Nivala en **2014** et annoncent depuis **plus de 20 % du marché finlandais de
+  l isolant**. L usine produit pour les **fabricants de fenêtres et de portes et les usines de
+  maisons** — grande série, cotes qui se répètent.
+- **⚠️ LE RACHAT SE LIT DANS LE BON SENS : PILKINGTON A VENDU**, donc ce n est pas une filiale de NSG
+  et c est un prospect. **Mais la réserve n est pas levée** : un rachat d usine s accompagne souvent
+  d un contrat d approvisionnement avec le vendeur. **La porte de sortie du §9 est obligatoire** et
+  l angle est la **seconde origine**, jamais le remplacement — le texte le dit en toutes lettres.
+- **⚠️ MÊME REFUS QUE SUR TAMBEST : leur site publie un SCHÉMA d adresse et je ne l emploie pas.**
+  Une adresse déduite d un schéma est **inventée** au §5. Et `teemu.ohtamaa@` circule bien mais vient
+  d un **annuaire**, donc anti-rebond non satisfaite — **non retenue**. Reste `tilaus@`, les
+  commandes, colonne CLIENT, **avec demande de transmission en première phrase**.
+- **Règle Prodiesa :** isolant et coupe-feu **hors offre**. Low-E en tête, c est la référence
+  évidente pour un fabricant d isolant en climat froid.
+- **Rien sur les droits.** Float absent **au passé**. Formule imposée, porte de sortie, signature une
+  fois.
+
+**Objet :** `Low-E and clear float for the Nivala line - full containers`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. I am writing to your orders address because it is the only one
+you publish as an address rather than as a pattern - if you are not the person
+who BUYS the glass, I would be grateful if you passed this on to whoever does.
+
+I am writing because of the scale of one thing you do. You took over the
+Nivala insulating glass plant in 2014 and you supply window makers, door
+makers and house factories across Finland. That is series production in sizes
+that repeat, not job-by-job work, and it is the only kind of buying a full
+container actually suits. A plant like that does not buy sheet occasionally -
+it buys it continuously, and what arrives at the loading end decides what
+leaves the other.
+
+So I am not offering insulating units or fire glass. You make both. I am
+offering the glass that goes into them:
+
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- clear and extra-clear, low-iron float
+  https://noxemgroup.com/en/float-glass/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+One fact shapes the rest, and you know it better than I do: the last float
+furnace in Finland was shut down at Lahti and nothing has replaced it, nor is
+there one anywhere in the Nordic countries since Halmstad closed. Every pane
+that reaches Lastaustie crossed a border already. The question is not whether
+to import. It is how many origins you can call on.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order, so the format your line is set to is not an obstacle. We can put
+together an offer for delivery to your port of destination, subject to
+validation on our side - Oulu or Kokkola, whichever your forwarder uses.
+
+What I need back is short. Which thicknesses actually move through Nivala,
+and in what sheet size. Which coating you run on the low-E side, and how long
+a coated pane sits between arriving and being sealed into a unit - that one
+decides whether sea freight suits your coated glass at all, and I would
+rather hear it from you than guess. A rough annual volume with how often you
+buy. And the port.
+
+And I will be straightforward about the odds, because you will have thought of
+it before I say it. A plant bought from a glassmaker often keeps buying from
+that glassmaker, and if that is your case I am not asking you to break it.
+What I am asking is to be a second name, qualified in advance, for the month
+when the first one is short or a thickness is out of programme. If there is no
+room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 305. Y GLAS AB (Tumba, sud de Stockholm) — `info@y-glas.se` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 10h15. Accord expres de Kevin du 19/10 a 23h30.**
+
+- **⚠️⚠️ LE CRITÈRE DU MODE DE VENTE DU §5 PRIS MOT POUR MOT — celui qui a prédit United Glass.**
+  Le titre de leur propre page de planglas dit *många sorter alltid på lager, **paketerade i
+  lådor/endcaps*** — de nombreuses sortes toujours en stock, **emballées en caisses**. Une maison
+  qui revend **en caisse** achète la feuille **entière**.
+- **⚠️ RÉSERVE DE FRAÎCHEUR TENUE : la page endcaps date de 2018** et le site semble exploré il y a
+  deux ans. **Le texte ne cite donc pas le stock comme un fait d aujourd hui** — il dit ce que leur
+  page dit, et **pose** la question.
+- **Règle Prodiesa :** härdat et laminerat **hors offre**. Seul le substrat.
+- Float absent **au passé**. Rien sur les droits. Formule imposée, porte de sortie, signature une
+  fois.
+
+**Objet :** `Flat glass by the container - a second origin for Tumba`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing to you rather than to anyone else around Stockholm because of one
+line on your own pages: flat glass, many kinds always in stock, packed in
+cases. That sentence says more about how a house buys than a page of
+description would. Selling by the case means buying by the whole sheet and
+carrying the balance yourself, and that is the house a container is built
+for - not a glazier whose sizes change with every job. Your own production and
+your own warehouse say the same thing twice.
+
+So I am not offering toughened or laminated glass. You make those. I am
+offering the sheet that goes in, and the sheet you resell:
+
+- clear and extra-clear, low-iron float
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+And there is the plain fact about your market: the last float furnace in
+Scandinavia was shut down at Halmstad and nothing has replaced it, so every
+sheet on your racks arrived from abroad. The question was never local or
+imported. It is which origins you can call on.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order. We can put together an offer for delivery to your port of
+destination, subject to validation on our side - Stockholm or Norrkoping,
+whichever your forwarder uses.
+
+I am working from pages that are a few years old, so rather than assume I will
+ask. Which thicknesses actually move through the warehouse today, and in what
+sheet size do they arrive. Do you still sell by the case. A rough annual
+volume with how often you replenish. And the port.
+
+And the honest part. A wholesaler with a working supply line does not change
+it on a first email, and I am not asking you to. I am asking to be a second
+name, qualified in advance, for the month when the first one is short. If you
+are committed to the supply you have, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 306. Mirit Glas A/S (Herlev et Vojens) — `post@mirit.dk` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 10h15. Accord expres de Kevin du 19/10 a 23h30.**
+
+- **⚠️⚠️ LE CRITÈRE DU VOCABULAIRE D IMPORT, celui que le §5 place au-dessus de tous les autres** :
+  leur page *raw materials* dit qu ils tiennent un gros stock et travaillent avec **un réseau établi
+  de sous-traitants et de fabricants internationaux** qui les aident à **se procurer ce qu ils n ont
+  pas en stock**. C est notre transaction, dans leur vocabulaire.
+- **Et la plage d épaisseurs est la plus large de Scandinavie, côté entrée** : float **en stock** de
+  **1 à 6, 8, 10, 12, 15, 19 et 25 mm**.
+- **⚠️ RÉSERVE DE PÉRIMÈTRE POSÉE DANS LE MESSAGE, famille GLS Spezialglas :** leur gamme porte aussi
+  du **borosilicate, du quartz, du verre céramique et des tubes**, donc du verre **technique**. Le
+  texte **demande** quelle part le float représente, au lieu de supposer.
+- **⚠️ PIÈGE DU DOMAINE VOISIN ET CHANGEMENT D EXTENSION** : site `miritglas.com`, adresse
+  `post@mirit.dk`. Exception du §5 notée, relue caractère par caractère.
+- **Boîte nominative écartée** : Johan Stenfeldt Hansen est **sales manager**.
+- **Règle Prodiesa :** ils trempent, thermiquement et chimiquement — **le trempé sort de l offre**.
+- Float absent **au passé**. Rien sur les droits. Formule imposée, porte de sortie, signature une
+  fois.
+
+**Objet :** `One more origin for the stock at Vojens - full containers`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing because of a sentence on your own raw materials page. You hold a
+large stock of glass, and you work with an established network of
+international subcontractors and manufacturers who help you source what you do
+not already have. That is an unusually exact description of what I am offering
+to be - one more name in that network - and it means I do not have to explain
+why glass arrives by sea or why a second source is worth having. You organised
+your company around both of those facts.
+
+Your float list says the same thing from the other side: stock in 1 to 6, 8,
+10, 12, 15, 19 and 25 mm. A house that carries 25 mm in stock is not buying
+by the job.
+
+- clear and extra-clear, low-iron float
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+I am not offering toughened glass. You temper, thermally and chemically, and I
+am offering the sheet that goes into the furnace rather than what comes out.
+
+One fact shapes the rest, and you know it better than I do: the last float
+furnace in Scandinavia was shut down at Halmstad and nothing has replaced it,
+so every sheet that reaches Vojens crossed a border already.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order. We can put together an offer for delivery to your port of
+destination, subject to validation on our side - Aarhus or Copenhagen,
+whichever your forwarder uses.
+
+And here is the question that decides whether I am any use to you, which I
+would rather ask than assume. Your range also runs to borosilicate, quartz,
+ceramic glass and tubing, and none of that is my trade. So: how much of what
+moves through Vojens is ordinary soda-lime float, in square metres a year? In
+which thicknesses, and in what sheet size? If the float is a small part of a
+largely technical business, tell me and I will leave it there rather than take
+your time.
+
+And the honest part. An importer with working supply lines does not change
+them on a first email. I am asking to be a qualified name on the list, for the
+month when one of the others is short. If there is no room for another origin,
+say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 307. Fasadglas Backlin AB — division grossiste (Bromma, Stockholm) — `grossist@fasadglas.se` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 10h16. Accord expres de Kevin du 19/10 a 23h30.**
+
+- **On écrit à la DIVISION, pas au façadier, et c est tout le raisonnement de la fiche.** Fasadglas
+  Bäcklin est d abord un **façadier** — classe à 3,6 % — mais sa division de gros a sa **propre
+  boîte** `grossist@` et sa **propre clientèle de métier** : leur page annonce servir les **ateliers
+  verriers, les entreprises d agencement, les encadreurs et les plus gros transformateurs**. Vendre
+  au métier et non au chantier est le signal de la classe négoce.
+- **⚠️ PIÈGE DU DOMAINE VOISIN, exception du §5 notée** : le site est en `.com`, **toutes leurs
+  adresses sont en `.se`**. Retenue parce que la société la publie elle-même. Relue caractère par
+  caractère.
+- **⚠️ DEUX BOÎTES ÉCARTÉES, et il faut dire pourquoi la seconde est tentante :** `kalkyl@` est la
+  boîte des **devis**, donc la colonne CLIENT du §13 — c est là que **leurs** clients demandent
+  **leurs** prix. Et `tommy.petersson@` est donné comme **contact grossiste**, donc une fonction de
+  **vente** : le §5 l interdit, la fonction devant être pertinente pour les **achats**.
+- **⚠️ Aucune épaisseur n est affirmée** — ils n en publient pas sur la page lue. La question se pose.
+- Float absent **au passé**. Rien sur les droits. Formule imposée, porte de sortie, signature une fois.
+
+**Objet :** `A second origin for the wholesale division - full containers into Stockholm`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. I am writing to the wholesale address rather than the general one
+because it is the wholesale side this concerns - if the buying is done
+elsewhere in the house, I would be grateful if you passed this on.
+
+I am writing because of who your wholesale division says it sells to: glass
+workshops, interior fitters, frame makers and the larger processors. A house
+that supplies the trade rather than the site buys sheet by the load and keeps
+the balance on its own racks, and the load is the only thing I deal in. It is
+also a different business from the facade work the rest of the company does,
+which is why I am writing to this address and not to that one.
+
+What we supply, with the pages rather than my word for it:
+
+- clear and extra-clear, low-iron float
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+And there is the plain fact about your market, which you know better than I
+do: the last float furnace in Scandinavia was shut down at Halmstad and
+nothing has replaced it, so every sheet that reaches Karlsbodavagen arrived
+from abroad. The question was never local or imported. It is which origins you
+can call on when one of them is short.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order. We can put together an offer for delivery to your port of
+destination, subject to validation on our side - Stockholm, in your case.
+
+What I need back is short, and it is the part only you can answer. Which
+thicknesses and qualities actually move through the wholesale side, and in
+what sheet sizes you stock them. Which of them you would rather not depend on
+a single origin for. A rough annual volume with how often you replenish. And
+the port.
+
+And the honest part. A wholesale operation with a settled supply does not
+change it on the strength of a first email, and I am not asking you to. I am
+asking to be a second name, qualified in advance, for the month when the first
+one is short or a thickness is on back order. If there is no room for that,
+say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 308. GlasGiganten AB (Spanga, Stockholm) — `info@glasgiganten.se` — ANGLAIS — premier contact
+
+**Redige le 20/10 a 10h16. Accord expres de Kevin du 19/10 a 23h30.**
+
+- **⚠️⚠️ ET CE TEXTE OMET DÉLIBÉRÉMENT L ARGUMENT DU FLOAT ABSENT, QUI EST POURTANT VRAI — c est la
+  seule fiche des cinq où il est retiré, et il faut dire pourquoi.** Leur page dit que leur float est
+  livré par **Emmaboda Saint-Gobain**, un site **suédois**. Leur écrire que « plus aucune ligne float
+  ne tourne en Scandinavie » reviendrait à **corriger ce qu ils croient de leur propre fournisseur**
+  — la distinction four/transformation est juste, mais elle n est **pas** à leur apprendre dans un
+  premier message. **C est exactement la faute STADIP du 12/10 : fabriquer un doute que le client n a
+  pas soulevé.** L angle retenu est la **concentration de fournisseur**, qui est vraie, utile et ne
+  corrige personne.
+- **Saint-Gobain n est nommé qu une fois, en passant**, pour dire que nous nous plaçons **à côté** et
+  non contre — même traitement que l AGC de Samverk.
+- **⚠️ RÉSERVE DE VOLUME POSÉE DANS LE MESSAGE, leçon Gómez Lotero :** leur argument de vente est le
+  *mått beställ online* avec livraison express, donc de la **coupe à la pièce**, côté **sortie**. Ce
+  qui maintient la fiche est l **entrepôt** et le fait qu ils achètent de la feuille. **La question
+  du volume est posée avant toute offre, et le texte dit qu une réponse négative clôt le sujet.**
+- Rien sur les droits. Formule imposée, porte de sortie, signature une fois.
+
+**Objet :** `A second origin alongside your current one - full containers`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for
+a quotation. If you are not the person who buys the glass, I would be grateful
+if you passed this on to whoever does.
+
+I am writing for one reason, and it is visible on your own product pages: your
+float comes from Saint-Gobain, and your frosted and toughened glass from
+AGC and Saint-Gobain. That is a perfectly good programme and I am not
+suggesting otherwise. What I am is one more European origin, independent of
+either of them, for the month when a thickness is out of programme or a
+delivery slips. Having a second name costs nothing until the day it is worth
+everything.
+
+What we supply, with the pages rather than my word for it:
+
+- clear and extra-clear, low-iron float
+  https://noxemgroup.com/en/float-glass/
+- low-E, low emissivity glass
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- copper-free and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+- and the full range, if it is easier to see in one place
+  https://noxemgroup.com/en/catalog/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15,
+either cut to YOUR sizes or as standard jumbo 3210 x 2550 mm. The length is
+cut to order. We can put together an offer for delivery to your port of
+destination, subject to validation on our side - Stockholm, in your case.
+
+And I will ask the thing that decides it rather than assume it, because your
+pages are built around cut-to-size ordering and express delivery, which is a
+different trade from buying by the load. You list an office and a warehouse at
+Domnarvsgatan, so you do hold stock. The question is how much: how many square
+metres of float a year actually pass through it, in which thicknesses, and in
+what sheet size do they arrive? A full container is twenty-odd tonnes on one
+reference. If your turnover sits mostly on cut pieces rather than on whole
+sheets, tell me plainly and I will leave it there - that is a useful answer
+and it costs you one line.
+
+And if your supply is settled and there is no room for another name, say so
+just as plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
