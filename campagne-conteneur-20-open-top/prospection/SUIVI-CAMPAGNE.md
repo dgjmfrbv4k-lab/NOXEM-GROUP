@@ -9033,3 +9033,43 @@ une piece jointe, une prospection n en a pas.
 **Statuts corriges, `GRILLE-DE-PRIX-A-FAIRE.md` corrige avec les trois lignes barrees plutot que
 supprimees, et le tableau de bord refait.** Il porte desormais deux sections : **cinq qui
 attendent un chiffrage**, et **trois qui attendent une relance**.
+
+---
+
+### 20/10 — 12h20 · la reconciliation finie, et elle trouve le dossier le plus avance de la campagne
+
+**Les cinq chiffres du paragraphe 3, apres verification :** recherches **0** · envois confirmes
+**20** · **reponses qualifiees : 3, et non 5** · demandes de prix **5** · devis envoyes sans
+reponse **3** · commandes **0**.
+
+**La routine ecrite il y a vingt minutes a ete appliquee tout de suite au reste des dossiers en
+aval, et elle a rendu quatre corrections.**
+
+**⚠️⚠️ CARIBBEAN GLASS SPECIALISTS EST LE DOSSIER LE PLUS AVANCE DE LA CAMPAGNE, PLUS QUE UNITED
+GLASS, et le registre ne le montrait pas.** Dix-sept messages au fil. Une offre complete est
+partie — six references, **33 caisses, quatre conteneurs 20 pieds OPEN TOP**. **Akeeda a tranche
+l incoterm elle-meme : FOB, son Option A.** Le paiement est regle, dollar accepte. Et surtout, le
+19/10 a 14h16, mot pour mot : ***your prices are competitive with other suppliers***.
+**C est la premiere fois de la campagne qu un acheteur compare nos prix aux siens et les trouve
+tenables.**
+**CE QUI MANQUE EST UN SEUL CHIFFRE : LE PRIX DU FRET**, demande le 17/10, redemande le 19/10, et
+promis. **Ce dossier n attend plus ni grille de prix, ni incoterm, ni conditions de paiement.**
+Porte en **1 bis** du tableau de bord. Je ne peux pas le produire — le fret n est pas de mon
+ressort et le paragraphe 5 interdit tout chiffre non valide.
+
+**DURAVIDRIO : statut corrige de `REPONSE` a `A APPELER`, et c est un chiffre du paragraphe 3 qui
+etait faux.** Ce qui etait compte comme une reponse qualifiee depuis le 07/10 est un **accuse de
+reception AUTOMATIQUE** — *muchas gracias por contactar... favor escribir al WhatsApp*. Aucun
+humain n a lu notre message. **Une reponse automatique comptee comme reponse qualifiee gonfle le
+seul chiffre qui mesure si la campagne marche.** Le message rend tout de meme un **WhatsApp
+publie**, porte au champ.
+
+**SECURITY GLASS PRODUCTS : le message A ETE transmis en interne** — Silvana Kyliuk l a passe a
+son patron le 13/10 — **et le patron n a pas ecrit depuis, sept jours**. ⚠ Et un piege de domaine
+a connaitre avant toute relance : **elle repond depuis `secglass.com` quand nous avons ecrit a
+`securityglassproducts.com`.** Deux domaines pour la meme maison.
+
+**SAFA TAIBA : huit jours de silence apres nos excuses.** Le 12/10 un gabarit de cloture leur a
+ete envoye, Qays Mohammed a repondu que **notre ton etait inapproprie**, et Kevin s est excuse le
+jour meme. **Conduite consignee : ne pas relancer vite.** Une maison qui a reproche un ton ne se
+relance pas a huit jours comme une autre.

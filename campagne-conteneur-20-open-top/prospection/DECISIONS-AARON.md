@@ -21,7 +21,7 @@ Les anciennetes ci-dessous sont donc des anciennetes **de registre**, pas des pr
 | **plus** 5 autres, adresse verifiee et texte a rediger — toutes volontairement de dernier rang | 5 |
 | En attente d un APPEL, toutes avec un numero | **286** |
 | En attente d un ARBITRAGE de votre part | **41** |
-| Reponses recues a traiter | **5** |
+| Reponses recues a traiter | **3** — deux de moins apres verification, voir plus bas |
 | **Demandes de prix ouvertes** | **5** · plus **3** devis envoyes sans reponse et **3** en negociation |
 
 ## 1. 🔴 LA GRILLE DE PRIX — c est le blocage le plus cher, et de loin
@@ -75,6 +75,31 @@ deja et que je n avais pas fait ce matin.
 conditions — **l incoterm** (trois clients ont ecrit CIF) et les **conditions de paiement**. Le
 detail dossier par dossier, avec cotes, epaisseurs, ports et volumes confirmes, est dans
 `GRILLE-DE-PRIX-A-FAIRE.md`.
+
+## 1 bis. 🔴 CARIBBEAN GLASS ATTEND UN PRIX DE FRET — et c est le dossier le PLUS AVANCE de la campagne
+
+**Trouve ce midi en reconciliant la boite avec le registre. Le fil porte dix-sept messages et il
+est bien plus avance que ce que le registre laissait voir.**
+
+| Ou en est le dossier | |
+|---|---|
+| Offre complete envoyee | six references, **33 caisses, QUATRE conteneurs 20 pieds open top** |
+| Incoterm | **TRANCHE PAR ELLE : FOB, son Option A** — *definitely much more lucrative* |
+| Prix du verre | **ACCEPTE.** Le 19/10, mot pour mot : ***your prices are competitive with other suppliers*** |
+| Paiement | traite — dollar accepte, mode a son choix |
+| **CE QUI MANQUE** | **LE PRIX DU FRET, promis et attendu depuis le 19/10** |
+
+**⚠️ C est la premiere fois de la campagne qu un acheteur compare nos prix aux siens et les trouve
+tenables.** Le dossier n attend plus de grille de prix, plus de negociation d incoterm et plus de
+discussion de paiement. **Il attend un chiffre de fret, et rien d autre.**
+
+**Akeeda l a demande le 17/10 et redemande le 19/10** — *I look forward to hearing from you*. Un
+engagement a ete pris de le lui envoyer. **Il court depuis maintenant.**
+
+⚠️ **Je ne peux pas le produire** : le fret n est pas de mon ressort et le §5 m interdit tout
+chiffre non valide. ⚠️ Et une reserve de lecture honnete : **le dernier message d Akeeda est
+tronque dans ce que ce connecteur me montre**, donc il peut contenir autre chose apres la phrase
+sur les prix — a relire en entier avant de repondre.
 
 ## 2. 🔴 LE CRENEAU D APPELS — 286 fiches, un numero chacune, zero appel jamais passe
 
