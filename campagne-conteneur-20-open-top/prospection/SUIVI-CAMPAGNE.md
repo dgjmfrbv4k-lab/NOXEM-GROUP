@@ -8798,3 +8798,43 @@ annonce des jours, un revendeur annonce des semaines.
 **Controles : 0 ligne malformee, 0 a corriger sur 288 textes.** L annotation *aucun prix annonce*
 du texte 322 a ete **verifiee par relevé du corps et non de memoire** — un seul *prix*, celui de
 l ouverture imposee du paragraphe 9.
+
+---
+
+### 20/10 — 11h53 · l axe des portes refrigerees moissonne, trois fiches neuves
+
+**Les cinq chiffres du paragraphe 3 :** recherches **2** · envois confirmes **20 sur la journee,
+0 dans ce bloc** · reponses qualifiees **0** · demandes de devis **0** · commandes **0**.
+**Registre 1946 fiches, soit TROIS de plus.**
+
+**L axe etant valide ce matin sur quatre cas, il est desormais moissonne au lieu d etre teste nom
+par nom.** Une requete sur les fabricants nord-americains de portes vitrees de refrigeration a
+rendu dix noms.
+
+**ET LE RECOUVREMENT EST LE BON SIGNE, comme pour la requete de vocabulaire de stock : la session
+du 19/10 avait deja ouvert ce filon sans que je le sache.** `Styleline Glass Door Systems` etait
+deja au registre, et `Cisaplast USA`, `SHHAG` et `Powers Equipment` etaient deja **consignes dans
+la note d AmeriDoor** avec leurs reserves — domaine sans rapport pour la premiere, origine
+asiatique pour la deuxieme, un cran trop loin pour la troisieme. **La methode de consignation du
+paragraphe 13 a donc economise trois seconds temps que j allais payer.**
+
+**TROIS NOMS GENUINEMENT NEUFS, et le premier est le meilleur :**
+- **THERMOSEAL INDUSTRIES** — un annuaire industriel lui attribue **environ 200 000 unites par
+  an**. Le test d echelle demande une cadence, un parc machine ou une couverture nationale : **une
+  cadence a six chiffres est le plus net des trois signaux.** ⚠ Mais le chiffre vient d un
+  annuaire et **ne s affirme pas**. ⚠ Et **le siege n est pas etabli** — un annuaire la donne dans
+  le New Jersey, un autre au Texas, ce qui n est pas le meme port ni le meme dossier. A trancher
+  sur le siege, jamais sur le nom.
+- **COMMERCIAL INSULATING GLASS** (Sarasota) — ils fabriquent **l unite isolante elle-meme** pour
+  la refrigeration, avec un **procede de couche brevete** et du verre chauffant. ⚠ Et ce brevet est
+  la question qui decide de la reference a proposer : **s ils couchent eux-memes, ils achetent du
+  float NU et non du low-E deja couche.** ⚠ Voisinage a lever : **Styleline est aussi a Sarasota**
+  et deja au registre — deux maisons du meme metier dans la meme ville se tranchent sur une
+  coordonnee avant d ecrire a l une ou a l autre.
+- **ANTHONY INTERNATIONAL** — la plus grosse et la plus incertaine, pour une raison de **structure**
+  et non de metier : filiale annoncee du **segment climat de Dover**. Dover n est pas un concurrent,
+  donc la fiche reste un prospect, **mais les achats d une filiale de groupe cote sont le plus
+  souvent centralises** — meme question que pour Unicel et Allegion.
+
+**Controles : 0 ligne malformee, 8 groupes au balayage, 18 paires aux noyaux, 0 fiche `A APPELER`
+sans telephone.**
