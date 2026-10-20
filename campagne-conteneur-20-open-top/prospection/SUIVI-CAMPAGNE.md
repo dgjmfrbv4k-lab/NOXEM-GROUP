@@ -8708,3 +8708,52 @@ note qu un envoi automatique aurait transformee en faute.
 **Controles : 0 ligne malformee, 0 fiche `A APPELER` sans telephone, 0 a corriger sur 286 textes.**
 
 **SUITE :** demain 8h30 Lasiluoto et PLG, demain 14 h les cinq americaines.
+
+---
+
+### 20/10 — 11h47 · six seconds temps sur la tete de la liste de deverrouillage, deux utilisables
+
+**Les cinq chiffres du paragraphe 3 :** recherches **6** · envois confirmes **20 sur la journee,
+0 dans ce bloc** · reponses qualifiees **0** · demandes de devis **0** · commandes **0**.
+**Registre 1943 fiches, textes 321.**
+
+**`candidats-deverrouillage.py` passe AVANT d ouvrir le lot, comme le paragraphe 12 l impose :
+426 fiches a travailler, dont 14 a site connu en tete.** Six travaillees, **deux utilisables** —
+le rendement normal de la campagne.
+
+- **UNICEL ARCHITECTURAL (Longueuil) — la bonne.** Ils fabriquent des **unites isolantes a stores
+  integres**, donc ils achetent du float et du low-E en continu. Texte **321** ecrit, et son
+  accroche est leur contrainte propre : **un store vit DANS la cavite, donc la cavite ne se rouvre
+  jamais** — tout defaut du substrat devient definitif a la seconde ou l unite est scellee. Angle
+  CEKAL pris par un troisieme chemin. **Et le domaine de leur adresse, `allegion.com`, etablit
+  l appartenance au groupe la ou la raison sociale ne disait rien** — regle du paragraphe 6, apres
+  SOREMIR et SOFAVI.
+- **CRISTALADOS (Saint-Domingue) — la moyenne-bonne, et elle vaut mieux que son enseigne.**
+  *Puertas, ventanas y fachadas* en facade, mais une vraie gamme derriere : trempe de 4 a 15 mm
+  **jusqu a 2400 x 3300 mm**, fixe de 6 a 19 mm **jusqu a 3200 x 3200**, en monolithique, feuillete
+  et DVH. Ce sont des cotes de sortie, **mais elles disent l echelle de la ligne** — qui livre du
+  2400 x 3300 manipule du jumbo. ⚠ **Reserve d hygiene : une page de leur domaine porte du spam de
+  casino en turc**, donc un site injecte, donc peut-etre peu surveille. Dit dans la fiche.
+- **MAVHISA (Guadalajara) — FERMEE, et c est la prise la plus nette : CE N EST PAS UN VERRIER,
+  C EST UN EQUIPEMENTIER.** Tables de coupe, **fours de trempe**, biseauteuses, outils diamantes.
+  Famille Glaston, LiSEC et Benteler, que le mandat dit de ne jamais ouvrir. **Elle vend des fours,
+  elle n achete pas de feuille.** ⚠ Et un fait garde pour le paragraphe 4 : **leurs tables de coupe
+  vont jusqu a 3,30 x 6,10 m**, donc des ateliers mexicains manipulent couramment cette cote.
+- **RAVES COOLER DOORS — dernier rang, ET ELLE FAIT GAGNER UNE REGLE.** Elle cochait l axe des
+  industries consommatrices du paragraphe 6 a la lettre. Son site la disqualifie : elle **pose**
+  dans le sud-est du Michigan. **Ce qui faisait la valeur de Perficom n etait pas son SECTEUR mais
+  son ECHELLE** — 2000 portes par jour et deux des plus grosses machines de trempe du Mexique.
+  **Le test de l echelle est ajoute au paragraphe 6** : cadence, parc machine ou couverture
+  nationale font une ligne de serie ; rayon de pose, salle d exposition ou reseau d installateurs
+  agrees font un assembleur regional.
+- **GLAZING SYSTEMS (Maurice)** — facade et pose, et **aucune coordonnee publiee**. Dernier rang.
+- **SOFT VIDROS (Salvador)** — fermee, verrier plus pose double de quincaillerie et de design
+  d interieur, aucune chapa ni epaisseur sur son domaine.
+
+**⚠️ ET UNE MESURE SUR L OUTIL LUI-MEME, consignee au paragraphe 12 : sa tete de liste est un ordre
+de COUT et non de VALEUR.** Un site connu coute un appel au lieu de deux, voila tout — il ne dit
+rien du metier, qui n est justement pas encore etabli. **Le tri du paragraphe 6 s applique AVANT de
+depenser l appel**, et il a paye le jour meme : **Verrage Glass and Mirror a ete ecartee sans appel
+au seul vu de son nom**, *Glass and Mirror* etant l archetype du verrier plus pose nord-americain.
+
+**Controles : 0 ligne malformee, 8 groupes au balayage, 0 fiche `A APPELER` sans telephone.**
