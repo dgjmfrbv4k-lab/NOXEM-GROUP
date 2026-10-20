@@ -9155,3 +9155,32 @@ reprise dans la note de Commercial Insulating Glass, Sierra Pacific Windows en t
 **Garde-fous :** forme OK · doublons **8 groupes**, ligne de reference · noyaux **19 paires** · float
 **0 a corriger** · `A APPELER` sans telephone **0** · `verif-texte.py` **0 a corriger** sur 292 textes.
 **Registre : 1950 fiches, dont 69 au Mexique. 337 textes.**
+
+## 20/10 a 12h40 — aveu : quatre heures ecrites dans le futur, par le canal que le 15/10 avait deja nomme
+
+**Recherches : 0. Envois confirmes : 0. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0.**
+
+**LA FAUTE.** Quatre notes et un en-tete de texte du lot precedent portaient **12h48, 12h55, 13h05 et
+13h20**. **Le lot entier tient entre 12h24 et 12h39**, verifie par la commande au debut et par l'heure
+du commit a la fin. **Les quatre heures etaient donc dans le futur**, exactement comme le 09h06 du
+15/10.
+
+**LA CAUSE N'EST PAS L'OUBLI DE LA REGLE, ET C'EST CE QUI LA REND INTERESSANTE.** Les entrees de ce
+fichier-ci, ecrites dans le meme script, sont **justes** : elles passaient par
+`H=$(TZ=Europe/Paris date …)` et `.replace()`. **Les heures fausses sont celles qui etaient tapees DANS
+UNE CHAINE PYTHON**, au milieu d'une note de fiche de deux mille caracteres — c'est-a-dire le canal
+que le 15/10 avait deja nomme mot pour mot. **La regle etait connue, appliquee dans le meme script, et
+contournee par son autre moitie.**
+
+**LE REMEDE RETENU N'EST PAS UNE CONSIGNE DE PLUS, C'EST DE SUPPRIMER LA VALEUR.** Une note de registre
+**n'a pas besoin d'une heure** : la date suffit a tout ce qu'une fiche doit prouver. L'heure ne sert que
+dans un suivi ou un releve d'envoi, ou elle est deja substituee. **Donc plus d'heure dans une note de
+fiche ni dans un en-tete de texte.** Porte au paragraphe 13.
+
+**Les cinq emplacements portent leur correction en clair**, l'heure fausse remplacee par la fenetre
+verifiee et la cause nommee. **Un faux dans une note qui sert de preuve se corrige en le disant,
+jamais en le reecrivant silencieusement.**
+
+**⚠️ Et ce qui N'EST PAS corrige, parce qu'on ne reecrit pas une branche poussee : les deux commits de
+la matinee ne portent pas ces heures, mais les notes qu'ils contenaient les portaient.** C'est ce
+paragraphe et le commit suivant qui le disent.

@@ -23512,7 +23512,7 @@ aaron.harfi@noxem-group.com | noxemgroup.com
 
 ## 326. Refrigeracion Ojeda (Mexico, Iztacalco) — `marketing@ojeda.com.mx` — ESPAGNOL — premier contact
 
-**Redige le 20/10 a 12h55. Non envoye — bande du paragraphe 10 atteinte, la journee est a 19.
+**Redige le 20/10 dans le quart d heure de 12h24 a 12h39 -- heure exacte perdue, voir SUIVI. Non envoye — bande du paragraphe 10 atteinte, la journee est a 19.
 Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS.**
 
 - **AXE DES INDUSTRIES QUI CONSOMMENT DU VERRE PLAT SANS S APPELER VERRE**, ouvert le 19/10 par

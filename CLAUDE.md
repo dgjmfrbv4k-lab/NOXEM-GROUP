@@ -2193,7 +2193,7 @@ interroger sont donc `SGCC`, `IGCC` et `NAMI`**, et la lecon s'ajoute a la prece
 certification ne sert pas seulement a DECOUVRIR un nom hors secteur, **il sert aussi a QUALIFIER un nom
 qu'on a deja et dont le metier est introuvable autrement** — une fiche muette au moteur de recherche
 peut etre bavarde chez son certificateur. A essayer avant de classer une fiche en « metier a etablir ».
-**⚠️⚠️ ET LE 20/10 À 13h20 AJOUTE LES DEUX MOITIÉS QUI MANQUAIENT À CET AXE, MESURÉES SUR LA LISTE
+**⚠️⚠️ ET LE 20/10 ENTRE 12h24 ET 12h39 AJOUTE LES DEUX MOITIÉS QUI MANQUAIENT À CET AXE, MESURÉES SUR LA LISTE
 IGCC-IGMA DES FABRICANTS CERTIFIÉS DE VITRAGE ISOLANT. LA PREMIÈRE RENVERSE LE TRI MÉTIER, LA SECONDE
 EMPÊCHE D'EN ABUSER.**
 1. **UNE LICENCE DE CERTIFICATION EST UN CERTIFICAT DU CÔTÉ ENTRÉE, ET ELLE PRIME SUR LE MÉTIER
@@ -3678,6 +3678,25 @@ def a_un_texte(nom, titres):
   les heures écrites contre `date` AVANT de commiter**, par
   `grep -o '<jour> [AÀ] [0-9][0-9]h[0-9][0-9]' <fichiers>`. C'est ce `grep` qui a trouvé les trois, et il
   les aurait trouvées avant le commit aussi bien qu'après.
+  **⚠️⚠️ ET LA MÊME FAUTE EST REVENUE LE 20/10, PAR LE MÊME CANAL, UNE HEURE APRÈS QUE LA SESSION
+  AIT SUBSTITUÉ CORRECTEMENT AILLEURS — DONC LE CAS DU 15/10 N'ÉTAIT PAS UN ACCIDENT, C'EST LE
+  COMPORTEMENT PAR DÉFAUT DE CE CANAL-LÀ.** Quatre notes et un en-tête de texte ont été horodatés
+  **12h48, 12h55, 13h05 et 13h20** alors que le lot entier tient entre **12h24 et 12h39**, vérifié
+  par la commande au début et par l'heure du commit à la fin. **Les quatre heures étaient donc dans
+  le FUTUR**, comme le 09h06 du 15/10.
+  **ET LE CANAL EST EXACTEMENT CELUI QUE LE 15/10 AVAIT NOMMÉ : la prose écrite DANS UNE CHAÎNE
+  PYTHON.** Les entrées de `SUIVI-CAMPAGNE.md` du même lot, elles, sont justes — elles passaient par
+  `H=$(TZ=Europe/Paris date …)` et `.replace()`. **La règle était connue, appliquée dans le même
+  script, et contournée par l'autre moitié du même script**, parce qu'une note de fiche de deux
+  mille caractères se tape comme de la prose et qu'on n'y pense plus.
+  **LE REMÈDE N'EST DONC PAS UNE CONSIGNE DE PLUS, C'EST DE SUPPRIMER LA VALEUR : une note de
+  registre N'A PAS BESOIN D'UNE HEURE.** La date suffit à tout ce qu'une fiche doit prouver, et
+  l'heure ne sert que dans un suivi ou un relevé d'envoi, où elle est déjà substituée. **Donc : pas
+  d'heure dans une note de fiche ni dans un en-tête de texte — la date, et rien d'autre.** Quand
+  l'heure est réellement utile, elle vient d'une variable comme partout ailleurs.
+  **Les cinq emplacements portent leur correction en clair** — l'heure fausse remplacée par la
+  fenêtre vérifiée et la cause nommée. **Un faux dans une note qui sert de preuve se corrige en le
+  disant, jamais en le réécrivant silencieusement** (§16).
   **Les trois fiches portent leur correction en clair** — l'heure fausse remplacée par « dans la
   matinée », bornes 08h19-08h49 vérifiées, et la cause nommée. **Un faux dans une note qui sert de
   preuve se corrige en le disant, jamais en le réécrivant silencieusement** (§16).
