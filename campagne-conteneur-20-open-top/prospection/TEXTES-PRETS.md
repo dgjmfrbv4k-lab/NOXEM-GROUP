@@ -24252,3 +24252,106 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 334. Western Pacific Glass Inc. (Surrey, Colombie-Britannique, Canada) — `sales@westernpacificglass.com` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Rang modeste assume, file au 23/10.**
+
+- **⚠️⚠️ C EST LE PREMIER TEXTE DE LA CAMPAGNE BATI SUR LA PAGE DOUBLE VITRAGE, ET LA RENCONTRE DE
+  DEUX TROUVAILLES DU JOUR.** Le comptage du matin a montre que **la page double vitrage n a servi
+  que DEUX fois en 330 textes**, et que l exception a chercher etait **le negociant pur qui revend
+  de l isolant tout fait**. **Le recensement douanier canadien NOMME ces maisons-la.** L audit a
+  predit ou etait le marche de la page inemployee, la source d Etat a donne le nom.
+- **LE FAIT SOLIDE EST DOUANIER ET C EST LE SEUL : elle a dedouane des UNITES ISOLANTES A PAROIS
+  MULTIPLES**, code 700800. Donc **elle ACHETE de l isolant fini** — sinon elle importerait du
+  substrat.
+- **⚠️ REGLE PRODIESA INVERSEE, ET C EST CE QUI REND LA FICHE INTERESSANTE :** comme elle n assemble
+  pas ses unites, **l isolant NE SORT PAS de l offre, il y ENTRE**. C est l un des rares cas ou les
+  pages double et triple vitrage se lient legitimement. ⚠️ **Mais le texte DEMANDE confirmation au
+  lieu de l affirmer** — le fait douanier dit qu elle importe, pas qu elle n assemble jamais.
+- **⚠️⚠️ ET LE TEXTE DIT D OU VIENT LE FAIT, EN UNE LIGNE ET SANS CHIFFRE.** C est une base publique
+  d un Etat, donc le dire est honnete et montre le travail fait. **Aucun millesime et aucun volume
+  ne sont cites** — les instantanes de la page portent des totaux differents, donc ils sont de
+  millesimes differents. **Et le texte offre immediatement la sortie si le fait est perime.**
+- **⚠️ METIER NON ETABLI, ET LE TEXTE NE FAIT PAS SEMBLANT DE LE CONNAITRE** : leur site se decrit en
+  termes generaux et les annuaires se contredisent, l un les rangeant en **verre automobile** et
+  l autre en **fournisseur de fenetres**. Le texte pose la question au lieu de supposer.
+- **⚠️ INTERDIT CANADIEN DU §6 : le texte n ecrit NULLE PART que le float est taxe** — le SH 7005
+  n est pas sur les listes de riposte canadiennes et l ecrire serait **faux**. Ce que le corps dit
+  est ce que le §6 etablit : plus de ligne float au Canada, la large majorite du verre venue d un
+  seul pays, et des **procedures et delais** supplementaires documentes depuis les mesures de 2026.
+  **Argument de gestion du risque, jamais de prix**, et **aucun taux n est cite**.
+- **`sales@` est de la COLONNE CLIENT**, c est la seule boite publiee, donc **le premier paragraphe
+  demande la transmission**.
+- **AUCUN PRIX ANNONCE** : le mot *price* n apparait pas dans le corps. **Verifie par relevé.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port suppose **Vancouver**
+  et **demande**.
+
+**Objet :** `Sealed units - a second origin, and one question`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I will tell you plainly where I got your name, because it is the reason I am
+writing rather than a guess. Canada publishes an open database of the companies
+that clear each product through customs, and your company appears on the entry
+for multiple-walled insulating units. I have no figures and no dates beyond
+that, and if it is out of date, say so and I will stop here.
+
+If it is current, it tells me something useful: you buy sealed units finished
+rather than assembling them. That makes this email unusual for me, because most
+of the companies I write to make their own units and the last thing they want
+from me is more of them. You are the opposite case, so here is what is actually
+relevant:
+
+- double glazed units
+  https://noxemgroup.com/service/double-vitrage/
+- triple glazed units, which matter more in Canada than almost anywhere else
+  https://noxemgroup.com/service/triple-vitrage/
+- and the full range in one place, in case I have misread what you do
+  https://noxemgroup.com/en/catalog/
+
+And if I have misread it - if you do assemble some of your own units and the
+imports are only part of the picture - then it is the glass underneath you
+would want instead, clear, extra-clear and low-E, and I would rather you told
+me than let me keep guessing:
+  https://noxemgroup.com/en/float-glass/
+
+On why a second origin is worth five minutes. Canada has not had a float line
+for years and takes the large majority of its flat glass from a single
+neighbouring country. I am not going to tell you that flat glass is caught by
+this year's tariff measures, because it is not and you would know if I were
+wrong. What is documented is the additional paperwork and transit time at that
+border. One supply route with a customs process attached is a risk whether or
+not a duty applies.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, cut to
+YOUR sizes. We can put together an offer for delivery to your port of
+destination, subject to validation on our side - Vancouver, I would assume,
+given where you are, but tell me rather than let me guess.
+
+Three short things would tell me whether there is anything here: whether you
+buy units finished or assemble any yourself, which sizes and glass make-ups go
+through Surrey, and roughly what volume that is in a year.
+
+And the honest part. You have a supply route that works, and one email from
+France does not change it. I am asking to be a qualified second name for the
+month when it matters. If there is no room for that, say so plainly and I will
+not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

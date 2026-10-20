@@ -9607,3 +9607,43 @@ l'assert en amont a rendu la cle et le champ au lieu d'une ligne de deux mille c
 
 **Garde-fous :** forme OK · doublons **8 groupes** · noyaux **19 paires** · float **0 a corriger** ·
 `A APPELER` sans telephone **0**. **Registre : 1957 fiches.**
+
+## 20/10 a 13h36 — l'audit du matin predit ou est le marche de la page inemployee, et la douane en donne le nom
+
+**Recherches : 2. Envois confirmes : 0. Fiches creees : 1. Textes rediges : 1.**
+
+**C'est la rencontre de deux trouvailles du jour, et c'est ce qui rend cette fiche interessante
+malgre ses faiblesses.** Le comptage des pages produit du paragraphe 8, ce matin, a montre que **la
+page DOUBLE VITRAGE n'a servi que DEUX fois en 330 textes**, et que l'exception a chercher etait **le
+negociant pur qui revend de l'isolant tout fait**. **Le recensement douanier canadien NOMME ces
+maisons-la.** L'audit a predit ou etait le marche de la page inemployee, la source d'Etat a donne le
+nom.
+
+**TROISIEME PAGE DE CETTE SOURCE OUVERTE** apres le 7005 et le 7009 le 19/10 et le 700719 ce matin :
+**le 700800, unites isolantes a parois multiples, 71 importateurs.**
+
+**WESTERN PACIFIC GLASS (Surrey, C.-B.) — creee, adressee, texte 334 redige.** **Le fait solide est
+le seul : elle a dedouane des unites isolantes, et c'est l'Etat qui l'atteste.** Donc **elle ACHETE
+de l'isolant FINI**, sinon elle importerait du substrat.
+**⚠️ REGLE PRODIESA INVERSEE, et c'est l'interet : comme elle n'assemble pas, l'isolant NE SORT PAS
+de l'offre, il y ENTRE.** C'est l'un des rares cas ou les pages double et triple vitrage se lient
+legitimement — **et c'est le premier texte de la campagne bati dessus.**
+**⚠️ Mais le texte DEMANDE confirmation au lieu de l'affirmer** : le fait douanier dit qu'elle
+importe, pas qu'elle n'assemble jamais. Et **le metier reste non etabli** — son site se decrit en
+termes generaux et les annuaires se contredisent, l'un la rangeant en **verre automobile**.
+
+**⚠️ LE TEXTE DIT D'OU VIENT LE FAIT, EN UNE LIGNE ET SANS CHIFFRE**, parce que c'est une base
+publique d'Etat et que le dire est honnete. **Aucun millesime, aucun volume** — les instantanes de la
+page portent des totaux differents, donc ils sont de millesimes differents. **Et le texte offre la
+sortie immediatement si le fait est perime.**
+
+**⚠️⚠️ ET `verif-texte.py` A REFUSE LE TEXTE AU PREMIER PASSAGE, A JUSTE TITRE.** Le corps emploie
+*tariff* et *duty*, et mon commentaire ne portait **aucune mention du §6** pour le justifier. Le
+contrôleur exige cette mention precisement pour qu'on ne serve pas un argument douanier sans avoir
+verifie qu'il est vrai. **Commentaire complete, controle repasse : 0 a corriger sur 300 textes.**
+
+**⛔ Et deux noms de la page ecartes d'emblee : CARDINAL IG COMPANY est un concurrent du paragraphe 6
+depuis le 15/10**, sept sites float americains ; **OLDCASTLE BUILDINGENVELOPE est deja au registre.**
+Cinq autres consignes.
+
+**Registre : 1958 fiches. 345 textes.**
