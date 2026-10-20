@@ -9578,3 +9578,32 @@ note qui les nomme.
 **⚠️ Le commit precedent reste faux dans l'historique**, on ne reecrit pas une branche poussee.
 **C'est cette entree et le commit suivant qui le disent.** Et la fiche Hartung gagne au passage le
 fait qu'elle n'avait pas : **importatrice attestee de verre trempe.**
+
+## 20/10 a 13h32 — une fiche creee sur un SEUL fait solide, et le onzieme point-virgule de prose
+
+**Recherches : 2. Envois confirmes : 0. Fiches creees : 1.**
+
+**DOUBLE SEAL INSULATING GLASS (North York, Toronto) — creee, telephonique.** Nom grepe sur son
+**radical court**, comme la lecon de l'heure precedente l'impose.
+
+**⚠️⚠️ ET ELLE EST CREEE SUR UN SEUL FAIT SOLIDE, QUI SUFFIT : ELLE A DEDOUANE DU VERRE TREMPE, ET
+C'EST L'ETAT QUI L'ATTESTE.** Page 700719 de la base des importateurs canadiens. **Le signal d'achat
+le plus fort qu'une fiche puisse porter, parce que ce n'est pas la societe qui le dit.**
+
+**ET TOUT LE RESTE EST FAIBLE, DIT PLUTOT QU'ARRONDI** : adresse, telephone, domaine et metier
+declare **viennent tous d'annuaires tiers**. ⚠️ **Second temps tente et NEGATIF** — la recherche
+restreinte a `doubleseal.ca` ne rend aucune page. **Et la lecon Lahey interdit d'en conclure quoi que
+ce soit sur la societe** : un resultat negatif sur un domaine **lui-meme non verifie** dit que le
+domaine est peut-etre faux, pas que la maison n'existe pas. **Le domaine vient d'un annuaire, donc il
+est suspect par construction.**
+**L'objet de l'appel est double et se tranche en trente secondes : confirmer le domaine reel, et
+savoir si le trempe qu'elle importe arrive FINI ou si elle trempe elle-meme.** Si elle trempe, elle
+achete du float. Sinon, c'est notre page trempe qu'il faut lier et non le substrat.
+
+**⚠️ ONZIEME POINT-VIRGULE DE PROSE, ET LE GARDE-FOU L'A REFUSE AVANT TOUTE ECRITURE.** La phrase
+etait *« c'est un prospect de premiere classe **;** si elle importe du trempe fini... »* — exactement
+la tournure d'opposition que le paragraphe 12 nomme depuis le 13/10. **Rien n'a ete ecrit**, et
+l'assert en amont a rendu la cle et le champ au lieu d'une ligne de deux mille caracteres a fouiller.
+
+**Garde-fous :** forme OK · doublons **8 groupes** · noyaux **19 paires** · float **0 a corriger** ·
+`A APPELER` sans telephone **0**. **Registre : 1957 fiches.**
