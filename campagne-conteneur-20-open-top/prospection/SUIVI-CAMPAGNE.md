@@ -9485,3 +9485,25 @@ dite** : maison moyenne, une seule usine, et elle **source aussi** une gamme mon
 de distribution. **Rang modeste assume.**
 
 **Registre : 1956 fiches.**
+
+## 20/10 a 13h24 — la file est a 94 textes sur 96, et un zero de pays qui n'a rien coute
+
+**Recherches : 0. Envois confirmes : 0. Textes rediges : 1.**
+
+**MESURE DE L'ETAT DE LA FILE : sur les 96 fiches pretes, SIX seulement n'avaient pas de texte.** Le
+texte **333** en retire une — Complete Display Equipment — et les cinq autres sont **toutes
+volontairement de dernier rang**, avec un second temps ecrit dans leur note : Maakunnan Lasi et
+Raahen Lasi au rang 87-88, Cristaleria Amigo dont le mot *cristaleria* doit etre leve en premier,
+Cristalados en classe poseur, Raves Cooler Doors au 27/10. **La file est donc prete a plus de 94
+pour cent et ce n'est plus le goulot.**
+
+**⚠️⚠️ ET UN ZERO DE PAYS QUI, POUR LA PREMIERE FOIS DE LA SERIE, N'A RIEN COUTE.** Une mesure de
+couverture de l'Amerique centrale a rendu **zero fiche salvadorienne** et j'allais ouvrir le pays
+comme vierge. **Le registre en porte NEUF, dont CINQ deja contactees** — Centro de Vidrio, Almacenes
+Vidri, INCO, Vidrieria Los Angeles, Vidrieria Jerusalen. **Le zero venait du libelle tape a la
+main : le registre ecrit `Salvador`, pas `El Salvador`.**
+**CE QUI A CHANGE PAR RAPPORT AUX QUATRE CAS PRECEDENTS — Hawai, Nouvelle-Zelande, La
+Nouvelle-Orleans — C'EST QUE J'AI REGARDE LES VALEURS DISTINCTES DU CHAMP PAYS AVANT DE DEPENSER LE
+PREMIER APPEL**, et non apres. Une passe entiere economisee sur un marche deja travaille.
+
+**Registre : 1956 fiches. 344 textes.**

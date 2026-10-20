@@ -24164,3 +24164,91 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 333. Complete Display Equipment (Rowville, Melbourne, Australie) — `info@completedisplay.com.au` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye, et **DELIBEREMENT PLACE APRES LA COHORTE D ESSAI** : `classe-file.py`
+la range en bas de file, et la raison est ecrite dans sa fiche. Couvert par l accord de Kevin du
+19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS.**
+
+- **AXE DES INDUSTRIES QUI NE S APPELLENT PAS VERRE, et bonne FRACTION DE VERRE** : une vitrine de
+  boulangerie est pour l essentiel du verre monte sur un bati. **Nom consigne le matin meme dans la
+  note d ART Maslen**, donc repris sans redepenser le premier temps.
+- **⚠️⚠️ RESERVE D ECHELLE DITE DANS LE TEXTE, ET C EST CE QUI LE REND HONNETE :** maison moyenne,
+  une seule usine, et elle annonce **aussi sourcer une gamme mondiale**, donc une part de son
+  activite est de la **distribution**. **La part reellement fabriquee est la premiere question, et
+  le texte la pose en premier au lieu de supposer.**
+- **ANGLE AUSTRALIEN : plus aucune ligne float**, servi **au passe** comme le §6 l impose.
+  ⚠️ **AUCUN ARGUMENT DOUANIER** — dossier 575 de l Anti-Dumping Commission, la Chine et la Thailande
+  ont vu l enquete **terminee sans droit**.
+- **REGLE PRODIESA** : la vitrine finie sort de l offre, et **le verre BOMBE aussi** s il y en a,
+  etant une piece faconnee achetee finie. Ce qui entre est le **float plat**.
+- **AUCUN PRIX ANNONCE** : le mot *price* n apparait pas dans le corps. **Verifie par relevé.**
+- **⚠️ FENETRE DIFFICILE, la meme qu ART Maslen** : Victoria est a UTC+11 en heure d ete, donc 9h
+  locales tombent a minuit a Paris. **Un envoi a 8h de Paris arrive en fin de journee chez eux.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port **demande** —
+  Melbourne est evident mais le texte ne l affirme pas.
+
+**Objet :** `The flat glass in a bakery cabinet`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+Let me start with the question that decides whether this email is worth your
+time, because I would rather ask it than assume the answer. You say your hot,
+cold and ambient cabinets are Australian-made and precision-built in Melbourne,
+and you also say you source a range of equipment from overseas. Which side does
+the glass fall on? If the cabinets you build in Rowville are glazed with sheet
+that arrives at your door, there is a conversation here. If the glazed units
+come in finished, there is not, and I would rather know in one line than send
+you a proposal you cannot use.
+
+Assuming the first, here is what I am offering - and it is not cabinets, which
+you make:
+
+- clear and extra-clear float glass, and the extra-clear matters more in your
+  trade than in most, because what a baker is paying you for is how the product
+  looks through the glass, and ordinary float puts a green cast on everything
+  behind it
+  https://noxemgroup.com/en/float-glass/
+- the full range in one place, if that is easier
+  https://noxemgroup.com/en/catalog/
+
+If any of your cabinets use curved glass, that is a formed piece and you will
+be buying it finished - I am not pretending to compete on it.
+
+On why a second origin is worth five minutes. The last float line in
+Australasia was shut down and nothing has replaced it, so every square metre
+you glaze has crossed an ocean before it reaches you. The question at your end
+was never local or imported. It is how many origins you can call on when the
+one you use is short or a thickness is out of programme.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR panel sizes or as standard jumbo 3210 x 2550 mm with the length cut
+to order. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - tell me which port rather than let me guess.
+
+So, three short things: whether the glass arrives as sheet or as finished
+units, which thicknesses and panel sizes go into the cabinets if it is sheet,
+and roughly what that comes to in a year.
+
+And the honest part. You have a supply line that works, and one email from
+France does not change that. I am asking to be a qualified second name for the
+month when it matters. If there is no room for that, say so plainly and I will
+not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

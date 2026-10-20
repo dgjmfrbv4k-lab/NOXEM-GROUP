@@ -3776,6 +3776,18 @@ N=$(awk -F';' 'NR>1 && $10 ~ /^A ENVOYER/ {n++} END {print n}' liste-prospects.c
      distinctif, appliquée cette fois au problème de la langue.
      **Et le point commun avec les trois cas précédents est toujours le même : le contrôle a tourné,
      il a rendu un zéro, et j'ai dépensé l'appel au lieu de douter du zéro.**
+  5. **⚠️⚠️ CINQUIÈME CAS LE 20/10, ET C'EST LE PREMIER QUI NE COÛTE RIEN — PARCE QUE LA RÈGLE A ÉTÉ
+     APPLIQUÉE. LE REGISTRE ÉCRIT `Salvador`, PAS `El Salvador`.** Une mesure de couverture de
+     l'Amérique centrale a rendu **zéro fiche salvadorienne**, et j'allais ouvrir le pays comme
+     vierge. **Il en porte NEUF, dont CINQ déjà contactées** — Centro de Vidrio, Almacenes Vidri,
+     INCO, Vidrieria Los Angeles, Vidrieria Jerusalen. Le zéro venait du **libellé tapé à la main**,
+     comme `Hawaii` contre `Hawai` et `new orleans` contre `La Nouvelle-Orleans`.
+     **CE QUI A CHANGÉ PAR RAPPORT AUX QUATRE AUTRES : j'ai regardé les VALEURS DISTINCTES du champ
+     pays AVANT de dépenser le premier appel**, et non après. C'est exactement la conduite que la
+     règle prescrit, et elle a économisé une passe entière sur un marché déjà travaillé.
+     **Le réflexe à garder, et il coûte une seconde :** devant un zéro sur un pays, la première
+     commande n'est pas une recherche, c'est
+     `awk -F';' 'NR>1{print $1}' liste-prospects.csv | sort -u | grep -i <racine>`.
   **Et le point commun avec la leçon Brocanelli du matin est le même que partout : le contrôle a
   tourné, il a rendu un zéro, et j'ai dépensé l'appel au lieu de douter du zéro.** Un zéro obtenu sur
   un champ non vérifié ne dit rien du registre, il dit que le champ est faux
