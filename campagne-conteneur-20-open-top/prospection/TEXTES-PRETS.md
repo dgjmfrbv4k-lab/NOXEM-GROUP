@@ -24476,3 +24476,198 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 336. Marvite Maranhão Vidros Temperados Ltda (São Luís, Maranhão, Brésil) — `contato@marvite.com.br` — PORTUGAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-22`, la file du 21/10 etant deja pleine.**
+
+- **DEUX QUALIFICATIONS INDEPENDANTES, ET C EST RARE.** Leur propre site les dit **la plus grande
+  usine de verre trempe du Maranhao** ; et ils sont **associes d ABRAVIDRO**, l association des
+  **distributeurs et transformateurs** de verre **plat**. Verrier pur **et** negoce : les deux
+  meilleures classes du §6, a 12,8 et 10 pour cent.
+- **⚠️ REGLE PRODIESA APPLIQUEE A LA LETTRE : le TREMPE ne leur est PAS propose.** C est leur
+  metier, et le §6 punit nommement la faute inverse. Ce qui entre est le **substrat** — float clair
+  et extra-clair dans les epaisseurs qu ils trempent.
+- **⚠️ LE MIROIR EST PROPOSE EN DEMANDANT, JAMAIS EN AFFIRMANT.** Rien ne dit s ils argentent. Le
+  texte pose la question au lieu de supposer la reponse — faute Prodiesa du 12/10.
+  **Et il ne surjoue pas la differenciation du sans-cuivre**, la reserve bresilienne du 19/10 au soir
+  n etant pas levee : plusieurs lignes bresiliennes sont deja sans cuivre.
+- **⚠️ INTERDIT DU §6 TENU : le texte n ecrit NULLE PART qu il n y a pas de production locale au
+  Bresil.** AGC, Cebrace, Guardian et Vivix y produisent. L angle est **douanier**, et il est borne
+  a ce que la Gecex 833 couvre reellement — **float clair de 1,8 a 20 mm**, contre la **Malaisie, le
+  Pakistan et la Turquie**, l Europe visee par aucune mesure. **Miroir et teinte expressement exclus
+  de la mesure, donc l argument ne leur est pas servi sur ces references.**
+- **AUCUN PRIX ANNONCE**, aucun delai, aucun certificat. ⚠️ **ET MON ANNOTATION D ABORD ECRITE ICI
+  ETAIT FAUSSE, consignee au titre du §16 plutot que reecrite en silence :** j avais ecrit que le mot
+  *preco* n apparaissait pas dans le corps. **Il y apparait deux fois** — « isso nao e uma oferta de
+  preco » — et c est `verif-texte.py` qui l a vu, pas moi. **La phrase dit qu on n annonce PAS de prix,
+  donc elle est conforme**, et le §5 interdit d en annoncer un, pas de dire qu on n en annonce pas.
+  Mais l annotation, elle, affirmait un relevé qui n avait pas été fait. C est la troisième fois après
+  les textes 321 et 327, et c est toujours la même faute : **affirmer avant d avoir lu.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port **demande** — Itaqui
+  est le leur, mais on ne le suppose pas.
+
+**Objet :** `O que entra no forno de tempera - fornecedor frances de vidro plano`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e exportadora de vidro
+plano perto de Lyon, na Franca. Isto e uma oferta de fornecimento, nao um pedido
+de orcamento. Se nao e voce quem compra o vidro, agradeco se repassar a quem
+compra.
+
+Escrevo por um motivo preciso, porque um e-mail generico para uma empresa de
+vidro nao vale o tempo de ninguem.
+
+Voces se apresentam como a maior fabrica de vidro temperado do Maranhao, e sao
+associados da ABRAVIDRO, a associacao dos distribuidores e processadores de
+vidro plano. Essas duas coisas juntas dizem o essencial para mim: um forno de
+tempera so funciona se chapa entrar nele, e quem e associado de uma entidade de
+distribuidores trabalha com estoque. Essa e exatamente a forma de comprar em que
+um conteiner completo faz sentido - e e a unica.
+
+Entao, o que eu NAO estou oferecendo: vidro temperado. Voces temperam, e um
+fornecedor que oferece a um transformador o proprio processo dele nao leu a
+pagina. O que eu ofereco e o que entra antes:
+
+- float incolor, a base de tudo que sai do forno
+  https://noxemgroup.com/en/float-glass/
+- extra clear, para quando a tonalidade verde da borda aparece
+  https://noxemgroup.com/en/float-glass/
+- e vidro de baixa emissividade, se voces montam insulado
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+(o site existe apenas em frances e ingles)
+
+Sobre espelho, uma pergunta em vez de uma afirmacao: nao consegui saber pelas
+paginas de voces se espelho entra no mix, e muito menos se voces mesmos fazem a
+prateacao. Se fazem, ignorem a linha - eu estaria oferecendo o processo de
+voces. Se compram a chapa ja prateada, temos espelho sem cobre e sem chumbo e
+vale uma conversa, principalmente para ambiente umido:
+https://noxemgroup.com/en/copper-and-lead-free-mirror/
+Me digam qual dos dois e eu paro de adivinhar.
+
+Um fato aduaneiro, e nada alem disso: desde 2025 o float incolor de 1,8 a 20 mm
+originario da Malasia, do Paquistao e da Turquia paga direito antidumping no
+Brasil, e a origem europeia nao e alcancada por essas medidas. Isso nao e uma
+oferta de preco, e nao vale para espelho nem para vidro colorido na massa, que a
+medida exclui expressamente. E um fato que muda a comparacao entre origens, so
+isso.
+
+Como embarcamos: CONTEINERES COMPLETOS, em caixas de madeira tratada conforme
+NIMP-15, em medida jumbo 3210 x 2550 mm ou nas medidas de voces, com o
+comprimento cortado sob encomenda. Podemos elaborar uma oferta para entrega no
+porto de destino de voces, sujeita a validacao do nosso lado.
+
+O que eu preciso de volta e curto: quais espessuras realmente giram no forno, em
+que medida de chapa voces as recebem, o volume aproximado por ano, se espelho
+entra, e qual porto - imagino Itaqui, mas prefiro que voces digam a supor.
+
+E a parte honesta. Uma fabrica que e a maior do Estado ja tem fornecedor, e nao
+e um e-mail vindo da Franca que vai mudar isso. O que eu peco e ser um segundo
+nome qualificado, para o mes em que uma espessura falta. Se nao ha espaco para
+isso, digam com franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
+
+---
+
+## 337. Sergipe Vidros (Lagarto et Aracaju, Sergipe, Brésil) — `contato@sergipevidros.com.br` — PORTUGAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-22`.**
+
+- **LE MOTIF EST UN CODE D ACTIVITE, ET C EST LE MEILLEUR QUE LA CAMPAGNE CONNAISSE :** leur
+  activite principale declaree est le **comercio atacadista de vidros, espelhos, vitrais e
+  molduras** — mot pour mot le CNAE que le §5 retient comme critere reutilisable depuis la lecon
+  econodata. **Plus** la trempe, qu ils annoncent eux-memes.
+- **⚠️ REGLE PRODIESA : le TREMPE sort de l offre.** Entrent le float clair, l extra-clair et le
+  miroir.
+- **⚠️ ILS VENDENT LE MIROIR PAR LEUR CODE D ACTIVITE, RIEN NE DIT QU ILS L ARGENTENT.** Meme
+  conduite que sur Marvite : on demande.
+- **⚠️ CORRECTION DE VILLE FAITE AVANT D ECRIRE :** le siege est a **LAGARTO**, pas a Aracaju. Le
+  texte ne nomme donc aucune ville comme si elle etait la leur.
+- **⚠️ INTERDIT DU §6 TENU**, meme traitement que Marvite : rien sur l absence de production locale,
+  angle douanier borne au float clair de 1,8 a 20 mm.
+- **⚠️ RESERVE DE SOURCE DITE DANS LA FICHE : le pied de page de leur site porte un copyright 2015.**
+  L adresse est publiee par eux, donc utilisable, mais si elle rebondit la fiche part au telephone
+  et non a une seconde adresse devinee.
+- **AUCUN PRIX ANNONCE** — le mot *preco* figure bien dans le corps, dans la phrase « nao e uma oferta
+  de preco », qui dit l inverse d une annonce. Relevé fait cette fois, et non supposé. Formule imposee,
+  porte de sortie, signature une fois. Port **demande**.
+
+**Objet :** `Antes do forno: float incolor e extra clear por conteiner`
+
+```
+Bom dia,
+
+Meu nome e Aaron Harfi, dirijo a NOXEM GROUP, fornecedora e exportadora de vidro
+plano perto de Lyon, na Franca. Isto e uma oferta de fornecimento, nao um pedido
+de orcamento. Se nao e voce quem compra o vidro, agradeco se repassar a quem
+compra.
+
+Escrevo por um motivo que esta no registro de voces e nao em um elogio: a
+atividade principal declarada e o COMERCIO ATACADISTA DE VIDROS, ESPELHOS,
+VITRAIS E MOLDURAS. Quem vende no atacado compra em chapa e carrega estoque, e
+essa e a unica forma de comprar em que um conteiner completo faz sentido. E
+voces ainda temperam, o que significa que a chapa nao so passa pelo deposito,
+ela entra no forno.
+
+Entao, o que eu NAO ofereco: vidro temperado, nem ferragem de vidraceiro. Voces
+fazem os dois. O que eu ofereco e o que entra antes:
+
+- float incolor, a base de tudo
+  https://noxemgroup.com/en/float-glass/
+- extra clear, para pecas em que a tonalidade da borda aparece
+  https://noxemgroup.com/en/float-glass/
+- e espelho sem cobre e sem chumbo
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+(o site existe apenas em frances e ingles)
+
+Sobre o espelho, uma pergunta e nao uma suposicao: o codigo de atividade de
+voces diz que espelho passa pela casa, mas nao diz se voces compram a chapa ja
+prateada ou se fazem a prateacao. Se fazem, ignorem a linha. Se compram, o sem
+cobre e sem chumbo vale uma conversa, sobretudo para banheiro e ambiente umido.
+
+Um fato aduaneiro, e nada alem disso: desde 2025 o float incolor de 1,8 a 20 mm
+originario da Malasia, do Paquistao e da Turquia paga direito antidumping no
+Brasil, e a origem europeia nao e alcancada por essas medidas. Nao vale para
+espelho nem para vidro colorido na massa, que a medida exclui. Nao e uma oferta
+de preco - e um fato que muda a comparacao entre origens.
+
+Como embarcamos: CONTEINERES COMPLETOS, em caixas de madeira tratada conforme
+NIMP-15, em medida jumbo 3210 x 2550 mm ou nas medidas de voces, com o
+comprimento cortado sob encomenda. Podemos elaborar uma oferta para entrega no
+porto de destino de voces, sujeita a validacao do nosso lado.
+
+Quatro informacoes bastam para comecar: as espessuras de maior giro, a medida de
+chapa em que voces as recebem, o volume aproximado por ano, e o porto que voces
+usam.
+
+E a parte honesta. Uma casa que ja atende o atacado do Estado tem fornecedor, e
+eu nao estou pedindo que troquem. Estou pedindo para ser um segundo nome
+qualificado, para o mes em que uma espessura falta. Se nao ha espaco para isso,
+digam com franqueza e eu nao insisto.
+
+Atenciosamente,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
