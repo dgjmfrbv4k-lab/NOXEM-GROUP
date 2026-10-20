@@ -4795,6 +4795,22 @@ python3 campagne-conteneur-20-open-top/prospection/outils/candidats-deverrouilla
   déclassé*, *fiches déclassées*, *reclasser*. **Inutilisable.** Les **phrases exactes**
   `declassee en dernier rang`, `volontairement hors file` et `declassee par classe` en rendent
   **une chacune, zéro faux positif**.
+  **⚠️⚠️ ET UNE HEURE PLUS TARD J'AI REFAIT LA MÊME FAUTE QUE LE 15/10 AU MATIN, DANS LA MÊME
+  JOURNÉE OÙ JE VENAIS D'AMÉLIORER L'OUTIL : J'AI TRIÉ LES CANDIDATS AVEC UN FILTRE À LA MAIN
+  PLUTÔT QU'AVEC LE SCRIPT.** Voulant classer les 412 restants par classe et par marché, j'ai écrit
+  une **regex d'une ligne** reprenant de mémoire les motifs de verdict — **et elle a rendu
+  Brocanelli en candidate**, c'est-à-dire **exactement la fiche qui avait coûté un appel le 15/10**.
+  **MESURE FAITE AVANT DE CONCLURE, ET ELLE M'A DONNÉ TORT : le script, lui, l'excluait déjà.**
+  412 candidats avant mon correctif, **412 après** — Brocanelli, Trulite et MunnWorks étaient déjà
+  écartées. **Mon filtre était plus pauvre que le script**, qui coupe phrase par phrase et
+  neutralise les négations là où ma regex cherchait des mots.
+  **C'EST LA LEÇON DU 15/10 MOT POUR MOT — *quand un script existe pour ce contrôle, c'est LUI
+  qu'on lance et pas un filtre improvisé* — ET JE L'AI ENFREINTE EN AYANT LE SCRIPT SOUS LA MAIN.**
+  **Le correctif de phrases a été gardé quand même**, parce qu'il couvre un verdict réel — l'adresse
+  existe et elle est de la mauvaise colonne — **mais son commentaire dit qu'il ne répare rien à ce
+  jour**, et prétendre l'inverse aurait été un faux (§16).
+  **LA RÈGLE À RETENIR EST PLUS LARGE QUE L'OUTIL : quand on veut TRIER une liste qu'un script
+  produit déjà, on trie SA SORTIE — on ne refait pas son filtrage.**
   **ET LA CONVENTION QUI VA AVEC SE TIENT À LA PLUME : un verdict de classe s'écrit avec l'une de
   ces trois phrases et jamais autrement**, sinon il est invisible — **c'est exactement ce qui était
   arrivé aux verdicts téléphoniques, qui se disaient de douze façons.**

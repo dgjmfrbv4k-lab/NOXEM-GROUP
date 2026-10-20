@@ -64,6 +64,36 @@ VERDICTS = [
     # ⚠️ CONVENTION A TENIR A LA PLUME : un verdict de classe s ecrit avec l une de ces
     # phrases, jamais autrement, sinon il est invisible ici - c est exactement ce qui est
     # arrive aux verdicts telephoniques, qui se disaient de douze facons.
+    # ⚠️⚠️ AJOUTE LE 20/10, TROISIEME FAMILLE DE VERDICT : L ADRESSE EXISTE MAIS ELLE EST DE LA
+    # MAUVAISE COLONNE. Le paragraphe 13 oppose la boite ACHETEUR a la boite CLIENT - inkoop,
+    # einkauf, compras, achats d un cote ; quotes, presupuestos, orders, ventas de l autre - et
+    # cinq fiches ont bute dessus le 15/10 : MunnWorks, Brocanelli, Maryland Glass, Trulite et
+    # Alugama. Dans ces cas-la l adresse est TROUVEE, elle est PUBLIEE par la societe, et elle
+    # est DELIBEREMENT non portee au champ parce qu elle mene au mauvais bureau.
+    # ⚠️⚠️ ET IL FAUT DIRE LA VERITE SUR CE CORRECTIF : MESURE FAITE AVANT ET APRES, IL NE CHANGE
+    # RIEN AUJOURD HUI. 412 candidats avant, 412 apres. Brocanelli, Trulite et MunnWorks etaient
+    # DEJA ecartees par les motifs existants.
+    # CE QUI M A FAIT CROIRE LE CONTRAIRE EST UNE FAUTE DE METHODE, ET C EST LA VRAIE LECON :
+    # j avais bati un filtre A LA MAIN, en une regex d une ligne, pour trier les candidats par
+    # classe et par marche - et C EST LUI qui rendait Brocanelli, parce que son vocabulaire de
+    # verdict est bien plus pauvre que celui de ce script, qui coupe phrase par phrase et
+    # neutralise les negations. C est MOT POUR MOT la lecon du 15/10 : « quand un script existe
+    # pour ce controle, c est LUI qu on lance et pas un filtre improvise ».
+    # CES TROIS PHRASES SONT GARDEES QUAND MEME, parce qu elles couvrent un verdict reel - l adresse
+    # existe et elle est de la mauvaise colonne - et qu une note future peut l ecrire ainsi sans
+    # porter aucun des autres marqueurs. Mais elles ne reparent rien a ce jour, et le pretendre
+    # serait un faux au sens du paragraphe 16.
+    # ⚠️ MESURE AVANT ADOPTION, comme pour le verdict de classe quelques heures plus tot :
+    # `piege munnworks` rend 16 fiches dont SEULEMENT DEUX sans adresse au champ, Brocanelli et
+    # Trulite, et ce sont precisement les deux a ecarter. `boite de commandes entrantes` en rend
+    # 3 dont une, MunnWorks. ZERO faux positif, puisque les autres portent deja une adresse et ne
+    # sont donc pas candidates. ⛔ `colonne client` a ete ESSAYE ET REJETE : 58 fiches, parce que
+    # la phrase sert aussi a EXPLIQUER la regle au lieu de rendre un verdict.
+    # ⚠️ CONVENTION A TENIR A LA PLUME : un verdict de mauvaise colonne s ecrit avec l une de ces
+    # phrases, sinon il est invisible ici.
+    r'piege munnworks',
+    r'boite de commandes entrantes',
+    r'boite de mauvaise colonne',
     r'declassee en dernier rang',
     r'volontairement hors file',
     r'declassee par classe',

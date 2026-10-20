@@ -9990,3 +9990,30 @@ de son mot** — trois textes, les 327, 328 et 325.
 chose de la campagne venue a nous sans un envoi, elle a NEUF JOURS, et elle avait disparu de ce
 fichier entre-temps.** Dix minutes de sa part — ouvrir quatre PDF — et le dossier repart ou se
 ferme proprement.
+
+## 20/10 a 14h05 — j'ai refait la faute du 15/10, le script sous la main, et la mesure m'a arrete
+
+**Recherches : 0. Envois confirmes : 0. Correctif garde mais SANS EFFET, et c'est dit.**
+
+**CE QUE JE VOULAIS FAIRE :** trier les 412 candidats au deverrouillage restants par classe et par
+marche, pour choisir les meilleurs. **CE QUE J'AI FAIT : une regex d'une ligne reprenant de memoire
+les motifs de verdict** — **et elle a rendu BROCANELLI en candidate, c'est-a-dire EXACTEMENT la
+fiche qui avait coute un appel le 15/10 au matin.**
+
+**J'allais corriger le script. MESURE FAITE AVANT, ET ELLE M'A DONNE TORT : le script l'excluait
+deja.** 412 candidats avant mon correctif, **412 apres**. Brocanelli, Trulite et MunnWorks etaient
+deja ecartees. **Mon filtre etait plus pauvre que le script**, qui coupe phrase par phrase et
+neutralise les negations la ou ma regex cherchait des mots.
+
+**C'EST LA LECON DU 15/10 MOT POUR MOT — *quand un script existe pour ce controle, c'est LUI qu'on
+lance et pas un filtre improvise* — ET JE L'AI ENFREINTE EN AYANT LE SCRIPT SOUS LA MAIN, le jour
+meme ou je venais de l'ameliorer.**
+
+**CE QUE JE GARDE ET CE QUE JE DIS.** Les trois phrases du verdict de **mauvaise colonne** —
+`piege munnworks`, `boite de commandes entrantes`, `boite de mauvaise colonne` — **sont gardees**,
+parce qu'elles couvrent un verdict reel et qu'une note future peut l'ecrire ainsi sans porter les
+autres marqueurs. **Mais leur commentaire dit qu'elles ne reparent RIEN a ce jour**, chiffre a
+l'appui. **Pretendre l'inverse aurait ete un faux.**
+
+**ET LA REGLE QUI SORT EST PLUS LARGE QUE L'OUTIL : quand on veut TRIER une liste qu'un script
+produit deja, on trie SA SORTIE — on ne refait pas son filtrage.**
