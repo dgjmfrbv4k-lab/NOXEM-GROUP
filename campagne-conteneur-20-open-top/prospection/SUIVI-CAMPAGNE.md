@@ -9371,3 +9371,43 @@ aussi la peine d'etre obtenu** — une page de catalogue qu'on ne peut pas honor
 frontiere de mot sur le nom non aplati : zero.** La societe est bien absente.
 
 **Registre : 1953 fiches. 341 textes.**
+
+## 20/10 a 13h09 — la fraction de verre designe la serre, et deux fiches se ferment sur la parole des societes
+
+**Recherches : 4. Envois confirmes : 0. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0.
+Fiches creees : 1. Fermees sur leur propre parole : 2. Consignees : 8. Textes rediges : 1.**
+
+**LA REGLE DE LA FRACTION DE VERRE, ECRITE CE MATIN, A DESIGNE L'INDUSTRIE LA PLUS VITREE DE TOUTES :
+LA SERRE.** Une serre vitree est un **batiment en verre** — au-dessus de la vitrine refrigeree et
+sans commune mesure avec la porte coupe-feu, dont le verre n'est qu'un hublot.
+
+**⚠️ ET UNE MESURE DE GEOGRAPHIE QUI REDIT LA REGLE DU 19/10 SUR LES PAGES : le registre ne portait
+que QUATRE fiches de serre, dont TROIS canadiennes TOUTES A LEAMINGTON** — SEF, Ruthven, SkyHigh, les
+trois deja contactees. **La Colombie-Britannique n'avait jamais ete regardee, et ses CINQ noms sont
+tous absents.** Un filon pris sur un cluster ne dit rien du cluster voisin.
+
+**⚠️⚠️ MAIS LE PREMIER TEST DE CET AXE N'EST NI L'ECHELLE NI LA SERIE : C'EST LA COUVERTURE, VERRE OU
+POLYCARBONATE — ET DEUX DES CINQ SE FERMENT DESSUS, SUR LEUR PROPRE PAROLE.**
+- **BW Global Structures** (Abbotsford), qui se dit le plus gros fabricant de serres de l'Ouest
+  canadien depuis quarante ans : **sa propre FAQ dit que BW Greenhouse n'emploie AUCUN VERRE**, pour
+  des raisons de cout, de poids, de lumiere et de securite.
+- **Cascade Greenhouse Construction** : polyurethane, polycarbonate et *dynaglass*. Aucun verre.
+**Le test coute ZERO appel puisque les maisons le disent elles-memes.** Et le piege est dans le mot :
+***dynaglass* est un POLYCARBONATE** — un nom qui contient *glass* ne dit rien de la matiere, c'est la
+regle du mot *verrerie* prise sur un materiau au lieu d'un metier.
+
+**BC GREENHOUSE BUILDERS (Surrey) — creee, adressee sur son propre domaine, texte 331 redige.**
+Specialiste des serres **en verre** et polycarbonate, verre trempe bombe, options double et teinte.
+⚠️ **Reserve d'echelle dite dans la fiche ET dans le texte** : leur marche est la serre de **jardin**,
+pas la serre maraichere. **Ce qui la sauve est un calcul et non un fait** — quelques milliers d'unites
+a dix ou vingt metres carres font deux a quatre conteneurs par an — **donc le texte pose la question
+du volume en premier et sans detour.**
+**Regle Prodiesa appliquee finement : le verre trempe BOMBE sort de l'offre**, c'est une piece
+faconnee achetee finie ; **ce qui entre est le verre PLAT des panneaux droits.**
+**⚠️ Et l'interdit canadien est tenu : le texte n'ecrit NULLE PART que le float est taxe** — le
+SH 7005 n'est pas sur les listes de riposte. Ce qu'il dit est vrai et documente : plus de ligne float,
+90 pour cent d'un seul pays, et **des procedures et des delais** supplementaires. Argument de
+**gestion du risque**, pas de prix.
+
+**Garde-fous :** doublons **8 groupes**, noyaux **19 paires**, float **0 a corriger**, `verif-texte.py`
+**0 a corriger** sur 297 textes. **Registre : 1954 fiches. 342 textes.**

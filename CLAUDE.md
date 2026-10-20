@@ -2347,6 +2347,51 @@ verre. La reponse decide du sort des huit autres d un coup**, et les huit sont c
 note avec leur ordre de reprise. **Un appel qui tranche huit fiches vaut mieux que huit seconds
 temps qui ne tranchent rien.**
 
+**⚠️⚠️ ET UN SECOND CRITERE DE TRI SUR CET AXE, MESURE LE 20/10 SUR UN RELEVE NEGATIF : IL FAUT
+CLASSER PAR LA FRACTION DE VERRE DU PRODUIT, ET PAS SEULEMENT PAR LA SERIE.**
+J'ai cherche les fabricants mexicains de **portes coupe-feu**, pour servir la page *vitrage
+technique* dont le comptage du jour montre qu'elle n'a servi que **cinq fois sur 330 textes**. Six
+noms rendus, tous absents du registre — **et aucune fiche creee.**
+**LA RAISON : une VITRINE REFRIGEREE est PRESQUE ENTIEREMENT EN VERRE, une PORTE COUPE-FEU est une
+porte en ACIER avec une ventanilla.** La meme logique de serie joue, mais sur **un centieme du
+volume** : un conteneur de vitrage coupe-feu represente des annees de hublots.
+**DONC LA GRILLE DE CET AXE EST A DEUX ENTREES : la SERIE dit que l'achat est repetable, la FRACTION
+DE VERRE dit si cela fait un conteneur.** Le froid commercial, la vitrine d'agencement et la guerite
+blindee sont du bon cote ; la porte coupe-feu, l'ascenseur et la porte de four le sont beaucoup
+moins. **C'est la lecon Valleywide une troisieme fois — de quel cote de l'atelier, ET a quelle
+echelle — transposee du format au PRODUIT.**
+**⚠️ ET LA REGLE DE LA COUCHE S'EST CONFIRMEE DANS LE MEME RELEVE, sur un troisieme pays :** il a
+rendu **dasVent**, distributeur autorise et installateur certifie de **TGP Fire-rated glass** au
+Mexique. La couche du verre coupe-feu mexicain est donc tenue par un importateur **lie a une
+marque**, et les portiers achetent chez lui. ⚠️ **Et un distributeur AUTORISE d'une marque est un
+mauvais prospect** — c'est le contraire exact du mot *independent* de Glenny Glass et d'Intraco.
+**Un seul nom du lot merite d'etre repris un jour, et pas pour ses portes : SIVICON**, cinquante et
+un ans, fabrication propre, et surtout du **verre blinde pour guerites et banques**. Une guerite
+blindee est presque entierement vitree — **bonne fraction de verre** — et le feuillete epais est un
+vrai volume. **A reprendre par l'angle ANTI-BALLE, jamais par le coupe-feu.**
+
+**⚠️⚠️ ET LA FRACTION DE VERRE APPLIQUEE A L'ENDROIT DESIGNE L'INDUSTRIE LA PLUS VITREE DE TOUTES :
+LA SERRE. Une serre vitree est un BATIMENT EN VERRE** — au-dessus de la vitrine refrigeree, et sans
+commune mesure avec la porte coupe-feu dont le verre n'est qu'un hublot.
+**⚠️ MESURE DE GEOGRAPHIE DU 20/10, ET ELLE REDIT LA REGLE DU 19/10 SUR LES PAGES :** le registre ne
+portait que **quatre fiches de serre**, dont **trois canadiennes TOUTES A LEAMINGTON** en Ontario —
+SEF, Ruthven, SkyHigh, les trois deja contactees. **La Colombie-Britannique n'avait jamais ete
+regardee**, et ses **cinq** noms sont tous absents. *Un filon pris sur un cluster ne dit rien du
+cluster voisin*, exactement comme une rubrique moissonnee ne dit rien de la rubrique d'a cote.
+**⚠️⚠️ MAIS LE PREMIER TEST DE CET AXE N'EST NI L'ECHELLE NI LA SERIE, C'EST LA COUVERTURE — VERRE
+OU POLYCARBONATE — ET DEUX DES CINQ SE FERMENT DESSUS, SUR LEUR PROPRE PAROLE.**
+· **BW Global Structures** (Abbotsford), qui se dit le plus gros fabricant de serres de l'Ouest
+  canadien depuis quarante ans : **sa propre foire aux questions dit que BW Greenhouse n'emploie
+  AUCUN VERRE dans ses serres**, pour des raisons de cout, de poids, de controle de la lumiere et de
+  securite. Polycarbonate et polyethylene.
+· **Cascade Greenhouse Construction** : polyurethane, polycarbonate et *dynaglass*. Aucun verre.
+**En Amerique du Nord, le polycarbonate et le polyethylene ont largement remplace le verre, PAR
+CHOIX EXPLICITE.** Donc l'axe de la serre n'est **pas** uniformement bon, et **la couverture
+s'etablit AVANT tout le reste — elle coute ZERO appel, les maisons le disent elles-memes.**
+**ET LE PIEGE INVERSE EST DANS LE MOT : *dynaglass* est un POLYCARBONATE.** Un nom qui contient
+*glass* ne dit rien de la matiere — c'est la regle du mot *verrerie* prise sur un materiau au lieu
+d'un metier.
+
 **⚠️⚠️ LE CRITERE DE CIBLAGE LE PLUS PREDICTIF N'EST PAS LA GEOGRAPHIE, C'EST LE METIER — mesure du
 13/10, et c'est le resultat le plus utile de la journee.** Tout ce paragraphe raisonne par **pays**.
 Mesure faite sur les fiches assez anciennes pour avoir pu repondre, seuil de quatre jours, en classant

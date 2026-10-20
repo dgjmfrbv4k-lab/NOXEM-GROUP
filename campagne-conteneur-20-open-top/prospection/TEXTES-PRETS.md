@@ -23972,3 +23972,99 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+## 331. BC Greenhouse Builders Ltd (Surrey, Colombie-Britannique, Canada) — `hello@bcgreenhouses.com` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye — la journee est a 19, haut de la bande du paragraphe 10. Couvert par
+l accord de Kevin du 19/10 a 23h30 sur les PREMIERS CONTACTS a des prospects NEUFS.**
+
+- **L INDUSTRIE LA PLUS VITREE DE TOUT L AXE, et c est la regle de la FRACTION DE VERRE ecrite ce
+  jour : une serre vitree est un BATIMENT EN VERRE.** Au-dessus de la vitrine refrigeree, et sans
+  commune mesure avec la porte coupe-feu dont le verre n est qu un hublot.
+- **⚠️ LE REGISTRE NE PORTAIT QUE TROIS SERRES CANADIENNES, TOUTES A LEAMINGTON EN ONTARIO** — SEF,
+  Ruthven, SkyHigh, les trois deja contactees. **La Colombie-Britannique n avait jamais ete
+  regardee.** Un filon pris sur un cluster ne dit rien du cluster voisin.
+- **⚠️⚠️ RESERVE D ECHELLE DITE DANS LE TEXTE PLUTOT QUE CACHEE : leur marche est la serre de JARDIN
+  et d AGREMENT**, pas la serre maraichere de type Venlo. Ce n est pas le profil de SEF. **Ce qui la
+  sauve est un calcul et non un fait** — quelques milliers d unites a dix ou vingt metres carres de
+  verre font deux a quatre conteneurs par an. **Le texte pose donc la question du volume en premier
+  et sans detour**, parce que c est elle qui decide s il y a un dossier.
+- **REGLE PRODIESA, ET ELLE COUPE PRECISEMENT ICI : le VERRE TREMPE BOMBE de leur gamme Pacific sort
+  de l offre** — c est une piece faconnee qu ils achetent finie. **Ce qui entre est le verre PLAT de
+  leurs panneaux droits**, et le texte fait la distinction en toutes lettres.
+- **⚠️⚠️ INTERDIT CANADIEN DU §6, ET C EST LE PIEGE LE PLUS FACILE A COMMETTRE : LE FLOAT, SH 7005,
+  N EST PAS SUR LES LISTES DE RIPOSTE CANADIENNES.** Ecrire qu il est taxe serait **faux**, et un
+  acheteur canadien le sait. **Le texte n ecrit nulle part que le verre est taxe.** Ce qu il dit est
+  vrai et documente : plus de ligne float au Canada, environ 90 pour cent du verre venu d un seul
+  pays, et des **procedures douanieres et des delais** supplementaires depuis les mesures de 2026.
+  **C est un argument de GESTION DU RISQUE, pas de prix.** ⚠️ Et **aucune faillite de facadier
+  canadien n est citee** — c est un fait interne.
+- **AUCUN PRIX ANNONCE** : le mot *price* n apparait pas dans le corps. **Verifie par relevé.**
+- **Formule imposee et porte de sortie presentes. Signature une fois.** Port suppose **Vancouver**
+  et **demande** plutot qu affirme, bien qu ils soient a Surrey.
+
+**Objet :** `The flat glass behind a glasshouse`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I am writing to you rather than to a glazing shop for a simple reason. Most of
+the companies I deal with use glass as a component. You build structures that
+are made of it. A greenhouse is, in material terms, a glass building with a
+frame holding it up, and that puts your glass purchasing in a different
+category from almost anyone else's.
+
+To be precise about what I am and am not offering. The bent tempered glass in
+your Pacific series is a formed piece and you will be buying it finished - I am
+not going to pretend otherwise, and it is not what this email is about. What I
+am offering is the flat glass behind the straight panels:
+
+- clear and extra-clear float glass, and the extra-clear is the one worth a
+  conversation here, because what a grower is buying from you is light
+  transmission and the iron content of ordinary float is what takes it away
+  https://noxemgroup.com/en/float-glass/
+- low-E, for the double-glazed and high-performance options you already offer
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- the full range in one place, if that is easier
+  https://noxemgroup.com/en/catalog/
+
+On why a second origin might be worth a conversation at all. Canada has not had
+a float line for years and takes the large majority of its flat glass from a
+single neighbouring country. I am not going to tell you that flat glass itself
+is caught by the tariff measures of this year, because it is not and you would
+know if I were wrong. What is documented is the paperwork and the added transit
+time at the border. A single supply route with a customs process attached to it
+is a risk whether or not a duty applies to the product.
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR panel sizes or as standard jumbo 3210 x 2550 mm with the length cut
+to order. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - I would assume Vancouver given where you
+are, but tell me rather than let me guess.
+
+And let me put the blunt question first, because it decides whether there is
+anything here. Roughly how many square metres of flat glass go through Surrey
+in a year, in which thicknesses, and in what panel sizes? A container is about
+twenty-five tonnes. If your annual figure is well under that, I would rather
+know now and stop wasting your time than send you a proposal you cannot use.
+
+And the honest part. You have a supply route that works and a showroom full of
+finished product, so a cold email from France is not going to change anything
+this quarter. I am asking to be a qualified second name for the year when it
+matters. If there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```
