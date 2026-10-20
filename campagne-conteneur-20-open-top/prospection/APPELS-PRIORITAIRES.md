@@ -80,6 +80,26 @@ active. **Cela ne se leve pas par une recherche** — ni le registre PRH ni la c
 atteignables d ici. **Une question au standard suffit : etes-vous toujours en activite.** Si oui,
 la fiche part le jour meme avec son adresse deja relevee.
 
+## ⚠️⚠️ ET UN DIX-SEPTIEME APPEL AJOUTE A 12h54, QUI TRANCHE HUIT FICHES D UN COUP
+
+**METALFRIO SOLUTIONS (Tres Lagoas, Mato Grosso do Sul) — +55 67 2105 3000, a 14h00 de Paris.**
+Premier fabricant bresilien de refrigeration commerciale, cote en bourse, quatre usines dont trois
+a l etranger. Cervejeiras, freezers et expositeurs **a porte de verre**, en tres grande serie.
+**L OBJET DE L APPEL EST UNE SEULE QUESTION, ET ELLE NE SE TRANCHE PAR AUCUNE RECHERCHE : ACHETEZ-
+VOUS VOS PORTES FINIES, OU MONTEZ-VOUS VOTRE VERRE ?**
+**Pourquoi elle vaut huit fiches.** Un relevé du 20/10 a rendu **neuf fabricants bresiliens
+d expositeurs refrigeres, les neuf absents du registre** — et, dans le meme relevé, **REFRICOMP, qui
+FOURNIT LES PORTES DE VERRE a cette industrie**. Il existe donc au Bresil une couche intermediaire
+de fabricants de portes, et les fabricants de meubles achetent peut-etre la porte **finie**. **Si
+c est le cas, les huit autres noms ne sont pas des cibles et on economise seize seconds temps. Si ce
+n est pas le cas, on ouvre huit fiches dans nos deux meilleures classes.**
+Les huit sont consignes dans la note de la fiche Metalfrio avec leur ordre de reprise — Eletrofrio
+et Sul Frio en tete.
+**⚠️ ET DEUX INTERDITS PROPRES A CE COMPTE, a lire avant de composer.** Un, **AUCUN ARGUMENT
+DOUANIER** : l avantage bresilien repose sur la Gecex 833, qui frappe le float **turc** a 409,19
+dollars la tonne hors Sisecam — **et ce groupe a une usine en Turquie**. Deux, **jamais d absence de
+production locale au Bresil**, AGC, Cebrace, Guardian et Vivix y produisent.
+
 ## CE QUE CES APPELS NE DOIVENT PAS FAIRE
 
 - **Aucun prix, aucun delai, aucun certificat, aucune condition** — §5, exactement comme a l ecrit.

@@ -9264,3 +9264,37 @@ seule facon d'etre credible sur un compte pareil.
 
 **Garde-fous :** doublons **8 groupes**, noyaux **19 paires**, `verif-texte.py` **0 a corriger** sur
 295 textes. **Registre : 1951 fiches, dont 247 aux Etats-Unis. 340 textes.**
+
+## 20/10 a 12h54 — un axe vierge au Bresil, et la raison de n'y creer qu'UNE fiche sur neuf
+
+**Recherches : 2. Envois confirmes : 0. Reponses qualifiees : 0. Demandes de devis : 0. Commandes : 0.
+Fiches creees : 1. Noms consignes sans fiche : 8.**
+
+**L'axe des industries qui consomment du verre plat sans s'appeler verre, applique au Bresil, a rendu
+NEUF fabricants d'expositeurs refrigeres — ET LES NEUF SONT ABSENTS DU REGISTRE.** Filon entierement
+vierge, ce qui confirme que cet axe trouve ce qu'aucune recherche verriere ne rend.
+
+**⚠️⚠️ ET JE N'EN AI CREE QU'UNE, POUR UNE RAISON QUI EST LA MEILLEURE TROUVAILLE DU LOT : CET AXE A
+UNE STRUCTURE EN COUCHES, ET ELLE DIFFERE D'UN PAYS A L'AUTRE.** Le dixieme nom du meme relevé etait
+**REFRICOMP, creee ce matin, qui FOURNIT LES PORTES DE VERRE a cette industrie.** Il existe donc au
+Bresil une couche intermediaire de fabricants de **portes**, et les fabricants de **meubles** achetent
+vraisemblablement la porte **finie** et non la feuille.
+**C'est le test du *de quel cote de l'atelier* applique un etage plus haut.** Au Mexique, Perficom
+**trempe elle-meme** et sa page le dit, donc elle achete de la feuille. Au Bresil, rien de tel n'est
+etabli pour aucun des neuf.
+**Et le controle ne coute rien : le fournisseur de composant remonte DANS LA MEME REQUETE que les
+fabricants**, parce qu'il se declare dans le meme secteur. Il suffit de lire la liste en cherchant le
+nom qui **fournit les autres**. Refricomp y etait, en sixieme position.
+
+**CONDUITE : une seule fiche, METALFRIO — la plus grosse, cotee, quatre usines — et l'objet de son
+appel EST cette question.** La reponse decide du sort des huit autres d'un coup. **Un appel qui
+tranche huit fiches vaut mieux que huit seconds temps qui ne tranchent rien.** Ajoute a
+`APPELS-PRIORITAIRES.md` en dix-septieme.
+
+**⚠️ DEUX INTERDITS PROPRES A CE COMPTE.** Un, **aucun argument douanier** : l'avantage bresilien
+repose sur la Gecex 833 qui frappe le float **turc**, **et ce groupe a une usine en Turquie**. Deux,
+Tres Lagoas est a environ **neuf cents kilometres de Santos**, donc la reserve ABRAVID du
+post-acheminement terrestre s'applique.
+
+**Garde-fous :** doublons **8 groupes**, noyaux **19 paires**, `A APPELER` sans telephone **0**.
+**Registre : 1952 fiches, dont 291 en attente d'appel.**

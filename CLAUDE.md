@@ -2322,6 +2322,31 @@ de l'offre — et il ne faut pas leur **asserter** leur specification. Sur Perfi
 candidat evident puisqu'une porte de froid est un probleme thermique : **le texte le PROPOSE et
 DEMANDE, il ne l'affirme pas.** C'est la frontiere de la faute STADIP du 12/10.
 
+**⚠️⚠️ ET LE 20/10 TROUVE LA CHOSE LA PLUS IMPORTANTE A SAVOIR SUR CET AXE, EN L APPLIQUANT AU
+BRESIL : IL A UNE STRUCTURE EN COUCHES, ELLE DIFFERE D UN PAYS A L AUTRE, ET ON PEUT DONC Y ENTRER
+AU MAUVAIS ETAGE.**
+La requete sur les fabricants bresiliens d expositeurs refrigeres a rendu **NEUF noms, les neuf
+absents du registre** — un filon vierge, ce qui confirme que cet axe trouve ce qu aucune recherche
+verriere ne rend. **Et le dixieme nom du meme relevé etait REFRICOMP, deja creee le matin, qui
+FOURNIT LES PORTES DE VERRE A L INDUSTRIE DE L EXPOSITEUR.**
+**Donc il existe au Bresil une couche intermediaire de fabricants de PORTES, et les fabricants de
+MEUBLES achetent vraisemblablement la porte FINIE et non la feuille.** C est le test du *de quel
+cote de l atelier* applique a un etage plus haut : **au Mexique, Perficom TREMPE ELLE-MEME et sa
+page le dit, donc elle achete de la feuille ; au Bresil, rien de tel n est etabli pour aucun des
+neuf, et l existence de Refricomp rend l hypothese inverse la plus probable.**
+**LA REGLE : AVANT DE TRAVAILLER UNE LISTE D INDUSTRIE, CHERCHER SI UN FOURNISSEUR DE COMPOSANT
+VITRE EXISTE DANS CE PAYS. S il existe, c est LUI le client et les maisons en aval ne le sont
+pas.** Un fabricant de meubles frigorifiques n est une cible que la ou il monte son propre verre.
+**ET LE CONTROLE NE COUTE RIEN, c est ce qui le rend utilisable : le fournisseur de composant
+remonte DANS LA MEME REQUETE que les fabricants**, parce qu il se declare dans le meme secteur. Il
+suffit de lire la liste en cherchant le nom qui **fournit les autres** au lieu de les compter tous
+comme des cibles. Refricomp etait la, en sixieme position, et sa description le disait.
+**CONDUITE APPLIQUEE : une seule fiche creee sur les neuf — Metalfrio, la plus grosse — et l objet
+de l appel est PRECISEMENT cette question : achetez-vous vos portes finies ou montez-vous votre
+verre. La reponse decide du sort des huit autres d un coup**, et les huit sont consignes dans sa
+note avec leur ordre de reprise. **Un appel qui tranche huit fiches vaut mieux que huit seconds
+temps qui ne tranchent rien.**
+
 **⚠️⚠️ LE CRITERE DE CIBLAGE LE PLUS PREDICTIF N'EST PAS LA GEOGRAPHIE, C'EST LE METIER — mesure du
 13/10, et c'est le resultat le plus utile de la journee.** Tout ce paragraphe raisonne par **pays**.
 Mesure faite sur les fiches assez anciennes pour avoir pu repondre, seuil de quatre jours, en classant
