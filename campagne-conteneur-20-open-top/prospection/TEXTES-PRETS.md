@@ -22960,3 +22960,113 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 321. Unicel Architectural Corp. (Longueuil, Quebec, Canada) — `unicel.general@allegion.com` — FRANCAIS — premier contact
+
+**Redige le 20/10 a 11h43 pour la file canadienne. Non envoye — bande du paragraphe 10 atteinte.
+Couvert par l accord de Kevin du 19/10 a 23h30 sur les premiers contacts a des prospects NEUFS.**
+
+- **CLASSE VERRIER PUR : ils fabriquent des UNITES ISOLANTES**, et des unites particulieres — leur
+  produit brevete **Vision Control** est un vitrage isolant a **stores integres entre les verres**,
+  et **ViuLite** un store scelle dans la cavite d un double vitrage. Leur mur-rideau 700S, certifie
+  HVHZ Floride, integre leurs unites ou des unites standard. **Une ligne d unites scellees consomme
+  du float clair et du low-E en continu.**
+- **⚠️⚠️ ET L ACCROCHE EST LEUR CONTRAINTE PROPRE, QUI EST PLUS FORTE QUE CELLE D UN ISOLATEUR
+  ORDINAIRE : un store vit DANS la cavite, donc la cavite ne se rouvre jamais.** Tout defaut du
+  substrat — ondulation, inclusion, variation de teinte entre deux feuilles — devient definitif a
+  la seconde ou l unite est scellee. **La regularite du verre entrant n est pas un confort chez eux,
+  c est une condition.** C est l angle CEKAL de Med Glass et l angle Ibelq de MTX, pris par un
+  troisieme chemin.
+- **⚠️ EXCEPTION DU §5 INVOQUEE ET NOTEE : l adresse est sur `allegion.com` et non sur leur propre
+  domaine.** Retenue parce que la societe la publie **elle-meme** sur sa page. **Et c est la regle
+  du domaine du §6 qui paie une fois de plus**, comme SOREMIR et SOFAVI : le domaine etablit
+  l appartenance au groupe **ALLEGION** la ou la raison sociale ne disait rien.
+- **⚠️ ALLEGION N EST PAS UN CONCURRENT** — quincaillerie de porte et securite, pas un producteur
+  float, absent de toutes les listes du §6. **La fiche reste un prospect. Mais la consequence
+  d achat va dans le message : la PREMIERE QUESTION est de savoir si Longueuil achete son verre ou
+  si le groupe le fait pour lui.** Le §9 impose deja de demander la transmission ; ici il faut en
+  plus demander **ou se decide l achat**.
+- **⚠️ ANGLE CANADIEN DU §6, DE GESTION DU RISQUE : plus de ligne float au Canada, sans millesime,
+  et 90 pour cent du verre d un seul pays. LE FLOAT N EST PAS SUR LES LISTES DE RIPOSTE** et le
+  texte ne dit nulle part qu il est taxe.
+- **AUCUN PRIX ANNONCE** : le mot *prix* n apparait que dans l ouverture imposee par le §9 —
+  *ceci est une offre de fourniture et non une demande de prix* — ou il sert a REFUSER d en
+  demander un. Nulle part ailleurs, et jamais pour nier. **Verifie par relevé du corps et non
+  de memoire** : ma premiere redaction de cette ligne affirmait que le mot etait absent, ce qui
+  etait faux, et le relevé l a montre avant le commit.
+- **Regle Prodiesa : unites isolantes, stores integres et mur-rideau SORTENT de l offre.**
+- **Francais**, siege quebecois. **Formule imposee et porte de sortie presentes.** Port Montreal.
+
+**Objet :** `Le verre qui entre dans une cavite qu on ne rouvre jamais`
+
+```
+Bonjour,
+
+Je m appelle Aaron Harfi et je dirige NOXEM GROUP, fournisseur et exportateur de
+verre plat etabli pres de Lyon, en France. Ceci est une offre de fourniture et
+non une demande de prix. Si vous n etes pas la personne qui achete le verre, je
+vous serais reconnaissant de transmettre.
+
+Je vous ecris a cause d une contrainte qui vous est propre et que peu de vos
+confreres partagent. Vos stores vivent DANS la cavite de l unite. Une fois
+l unite scellee, cette cavite ne se rouvre jamais. Tout ce qui ne va pas dans le
+verre entrant au moment du montage — une ondulation, une inclusion, un ecart de
+teinte entre deux feuilles d un meme ouvrage — devient definitif a cette
+seconde-la, et se voit d autant mieux qu il y a un mecanisme derriere.
+
+Autrement dit, la regularite du substrat n est pas un confort chez vous, c est
+une condition de fabrication. C est pour cela que je vous ecris plutot qu a un
+poseur.
+
+Le contexte canadien fait le reste. Il n y a plus de ligne float au Canada, donc
+chaque feuille que vous montez a ete importee par quelqu un, et pres de neuf
+dixiemes du verre utilise par les fabricants canadiens vient d un seul pays
+voisin. Je ne vais pas vous annoncer que cela va encherir : je n en sais rien, et
+le verre plat ne figure pas sur les listes de represailles. Le point est plus
+etroit : un fabricant qui tire neuf dixiemes de sa matiere d une seule frontiere
+a interet a connaitre une seconde origine avant d en avoir besoin.
+
+Je ne vous propose ni unites isolantes, ni stores integres, ni mur-rideau. C est
+exactement ce que vous fabriquez, et le Vision Control est a vous. Je vous
+propose ce qui entre :
+
+- verre a faible emissivite, le low-E
+  https://noxemgroup.com/service/verre-a-faible-emissivite/
+- float clair et extra-clair, la base de la gamme — l extra-clair comptant
+  particulierement quand on regarde a travers un mecanisme
+  https://noxemgroup.com/en/float-glass/
+- et la gamme complete, si c est plus simple a voir d un bloc
+  https://noxemgroup.com/en/catalog/
+
+Nous expedions en CONTENEURS COMPLETS, en caisses bois traitees NIMP-15, soit a
+VOS cotes, soit en jumbo standard de 3210 x 2550 mm, la longueur etant coupee a
+la demande. Nous pouvons etablir une offre pour la livraison a votre port de
+destination, sous reserve de validation de notre cote — Montreal, qui est a
+vingt minutes de chez vous.
+
+Et une question avant toutes les autres, parce que la reponse decide a qui je
+dois m adresser : est-ce Longueuil qui achete son verre, ou le groupe le
+fait-il pour vous ? Si c est le groupe, dites-le moi et je n insisterai pas de
+ce cote-ci.
+
+Pour le reste, j ai besoin de peu. Quelles couches vous travaillez et quel
+volume de verre couche par an, approximativement. Quelles epaisseurs de float
+clair, et en quelle cote de feuille. A quelle frequence vous reapprovisionnez.
+
+Et la partie honnete. Un fabricant qui monte un produit brevete ne change pas de
+substrat sur un premier courriel, et il aurait tort de le faire. Je demande a
+etre un second nom qualifie, pret pour le trimestre ou le premier sera court.
+S il n y a pas de place pour cela, dites-le franchement et je n insisterai pas.
+
+Cordialement,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

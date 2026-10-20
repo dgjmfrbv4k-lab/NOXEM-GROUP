@@ -2151,6 +2151,27 @@ porte et vitrine **de refrigeration** et de froid commercial · **electromenager
 clayettes) · **agencement de magasin** et presentoirs · **mobilier** (plateaux, etageres) ·
 **ascenseurs** · **solaire** (et la page verre photovoltaique du §8 existe pour cela) ·
 **equipement medical et laboratoire**.
+**⚠️⚠️ ET LE 20/10 À 11h41 AJOUTE À CET AXE LE TEST QUI LUI MANQUAIT, MESURÉ SUR UN CAS QUI
+SATISFAISAIT LE CRITÈRE DE SECTEUR À LA LETTRE ET QUI NE VAUT RIEN : L'ÉCHELLE.**
+**RAVES COOLER DOORS** (Highland, Michigan) est **exactement** ce que la liste ci-dessus décrit —
+fabricant de **portes vitrées de chambre froide et de congélation**, avec atelier d'assemblage,
+page de châssis de porte vitrée et catalogue produits. Premier item de la liste, coché.
+**Et son propre site dit ce qui la disqualifie : elle POSE dans le sud-est du Michigan et oriente
+ailleurs vers un poseur agréé.** C'est un **assembleur régional avec salle d'exposition**, pas une
+ligne de série. Une porte de chambre froide est un vitrage isolant à couche, souvent chauffant :
+**elle l'achète montée, elle n'achète pas de la feuille.**
+**CE QUI FAISAIT LA VALEUR DE PERFICOM N'ÉTAIT DONC PAS SON SECTEUR MAIS SON ÉCHELLE** — *deux des
+plus grosses machines de trempe du Mexique* et *plus de 2000 portes par jour*, deux chiffres que sa
+propre page publie. **Le secteur dit seulement où regarder ; c'est le chiffre qui décide.**
+**LE TEST À APPLIQUER AVANT D'OUVRIR UNE FICHE DE CET AXE, et il ne coûte aucun appel de plus
+puisqu'on lit déjà la page :** la maison publie-t-elle une **cadence** (portes/jour, unités/an), un
+**parc machine** (four, ligne d'assemblage, autoclave), ou une **couverture nationale** ? Si oui,
+c'est une ligne de série et l'axe tient. Si elle publie un **rayon de pose**, une **salle
+d'exposition** ou un **réseau d'installateurs agréés**, c'est un assembleur régional et il achète
+du **composant fini**.
+**C'est mot pour mot la leçon Valleywide du §6 transposée**, celle du format d'entrée de 48 × 60
+pouces qui satisfaisait le critère et restait le cinquième d'un jumbo : **de quel côté de l'atelier,
+ET à quelle échelle.** Les deux questions, toujours, et la seconde est celle qu'on oublie.
 **⚠⚠ ET UNE HUITIEME INDUSTRIE, AJOUTEE LE 19/10 AU SOIR, QUI SE CHERCHE DANS UNE SOURCE QU'AUCUNE
 AUTRE REGLE DE CE MANDAT N'EMPLOIE : LE RAYON VERRE ET MIROIR D'UNE CHAINE DE BRICOLAGE.**
 Cas **GARDNER GLASS PRODUCTS**, ex *Gardner Mirror Corporation*, siege a North Wilkesboro en Caroline
