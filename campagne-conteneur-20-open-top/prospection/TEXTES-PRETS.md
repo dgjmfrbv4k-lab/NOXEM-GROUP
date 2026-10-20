@@ -24671,3 +24671,98 @@ Tel. pro : +33 2 59 50 84 59
 aaron.harfi@noxem-group.com | noxemgroup.com
 5 chemin du Jubin, 69570 Dardilly - France
 ```
+
+---
+
+## 338. Tradeways Impex (Al Sajaah, Sharjah, Émirats arabes unis) — `info@tradewaysimpex.ae` — ANGLAIS — premier contact
+
+**Redige le 20/10. Non envoye. Couvert par l accord de Kevin du 19/10 a 23h30 sur les PREMIERS
+CONTACTS a des prospects NEUFS. Fiche en `A ENVOYER 2026-10-22`.**
+
+- **TROUVEE PAR LA REQUETE DU VOCABULAIRE DE L IMPORT** appliquee au Golfe, l axe ouvert le 19/10
+  sur Pacific Glass. **Classe NEGOCE, 10 pour cent.**
+- **⚠️⚠️ ILS NOMMENT LEURS TROIS ORIGINES EUX-MEMES — Chine, Turquie, Iran.** C est la methode de la
+  page fournisseurs du §13, et elle donne l angle entier : **on ne leur propose pas une premiere
+  origine lointaine, on leur en propose une QUATRIEME**, et le texte le dit ainsi.
+- **⚠️ INTERDIT DU §6 TENU DEUX FOIS.** Un, **rien sur l absence de production locale** : Emirates
+  Float Glass produit 600 t/jour a Abou Dabi et Guardian y produit aussi. Deux, **AUCUN argument
+  douanier** : aucune mesure emirienne contre la Chine ni la Turquie n est etablie, donc le texte
+  n en souffle pas un mot. Il n y a ici ni parapluie de prix ni droit a invoquer.
+- **L ANGLE EST DONC ETROIT ET IL EST ASSUME TEL QUEL :** l origine, la seconde source, et le fait
+  que les Emirats sont une place de **reexport** — ou une origine de plus est un produit a vendre et
+  non un secours.
+- **REGLE PRODIESA : ils ne transforment pas, donc TOUTE la gamme entre.** C est rare, et c est ce
+  qui fait la valeur de la classe negoce. Seul le sable est a eviter d asserter, faute STADIP.
+- **AUCUN PRIX ANNONCE.** Formule imposee, porte de sortie, signature une fois. **Port demande** —
+  Jebel Ali ou Khalid, on ne suppose pas.
+- **⚠️ SECONDE ADRESSE EN RESERVE, PAS EN REMPLACEMENT :** `tradewaysimpex.ae@gmail.com`, publiee sur
+  leur page de contact, releve de l exception du §5. Elle ne sert que si le `info@` rebondit.
+
+**Objet :** `A fourth origin, not a first one`
+
+```
+Hello,
+
+My name is Aaron Harfi and I run NOXEM GROUP, a flat glass supplier and
+exporter based near Lyon in France. This is a supply offer, not a request for a
+quotation. If you are not the person who buys the glass, I would be grateful if
+you passed this on to whoever does.
+
+I will be direct about why I am writing to you rather than to the hundred other
+glass companies in the Emirates, because a general email is worth nobody's
+time.
+
+Your own pages say where your glass comes from: China, Turkey and Iran. That
+tells me two things. First, you already buy by the container from far away, so
+I am not asking you to change how you work - only who is on the list. Second,
+and this is the part that matters, I am not offering you a first overseas
+origin. I am offering a fourth one.
+
+I will also say plainly what I am NOT going to argue, because you would see
+through it immediately. I am not going to tell you the UAE has no local float -
+it has, and more of it every year. And I am not going to wave a tariff at you,
+because as far as I can establish there is no Emirati duty on the origins you
+currently buy. Neither of the two arguments that work in North and South
+America works here. What is left is the thing itself: another origin, from a
+different continent, for a trader whose business is having more than one.
+
+Since you trade rather than fabricate, the whole range is open rather than just
+the substrate:
+
+- clear float, the base
+  https://noxemgroup.com/en/float-glass/
+- extra-clear, which you already list as low iron
+  https://noxemgroup.com/en/float-glass/
+- tinted, which you also list
+  https://noxemgroup.com/en/float-glass/
+- low-E, for insulated units
+  https://noxemgroup.com/en/low-e-glass-low-emissivity/
+- and copper- and lead-free mirror
+  https://noxemgroup.com/en/copper-and-lead-free-mirror/
+
+We ship FULL CONTAINERS, packed in treated timber cases to IPPC/ISPM-15, either
+cut to YOUR sizes or as standard jumbo 3210 x 2550 mm with the length cut to
+order. We can put together an offer for delivery to your port of destination,
+subject to validation on our side - Jebel Ali or Khalid, I would guess, but
+tell me rather than let me assume.
+
+What I need back is short: which thicknesses and references actually move, in
+what sheet size you take them, roughly how much in a year, and the port. If
+re-export rather than local sale is part of what you do, say so - it changes
+how a container should be made up.
+
+And the honest part. A trader with three working origins does not need a
+fourth, and I am not pretending otherwise. I am asking to be a quoted name, so
+that when one of the three is slow or short you have somewhere else to look.
+If there is no room for that, say so plainly and I will not push.
+
+Yours sincerely,
+
+Aaron Harfi
+President - NOXEM GROUP SAS
+Distribution internationale de verre plat & materiaux de construction
+Mobile / WhatsApp : +33 6 86 13 12 71
+Tel. pro : +33 2 59 50 84 59
+aaron.harfi@noxem-group.com | noxemgroup.com
+5 chemin du Jubin, 69570 Dardilly - France
+```

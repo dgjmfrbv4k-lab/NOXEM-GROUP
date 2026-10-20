@@ -10143,3 +10143,55 @@ secondes**. **Je ne peux pas prouver d ici qu elle n a rien envoye** — 19 prem
 bien partis aujourd hui — mais trente-huit secondes pour un tour complet est invraisemblable.
 **La seule facon d y attacher Gmail est de la supprimer et de la recreer, ce qui efface son
 historique : c est au paragraphe 11, donc a Kevin.** Verification gratuite demain a 9h.
+
+
+---
+
+## 20/10 — 14h29 · LE GOLFE PAR LE VOCABULAIRE DE L IMPORT, ET UNE COLLISION QUI ARRETE UN ENVOI
+
+**Recherches : 4 appels. Envois confirmes : 0 sur ce lot. Reponses qualifiees : 0. Demandes de
+devis : 0. Commandes : 0. Registre a 1963 fiches, file a 101, textes a 338.**
+
+**DEUX FICHES EMIRIENNES, ET UNE SEULE PARTIRA.**
+
+**TRADEWAYS IMPEX** (Sharjah) est la meilleure trouvaille du lot, et le motif tient en une ligne :
+**ils nomment leurs trois origines eux-memes — Chine, Turquie, Iran.** C est la methode de la page
+fournisseurs du paragraphe 13 par un autre chemin, et elle donne l angle entier sans rien demander.
+**On ne leur propose pas une premiere origine lointaine, on leur en propose une QUATRIEME**, et le
+texte 338 est bati la-dessus.
+**Et il assume ce qu il ne peut PAS dire** : pas un mot sur l absence de production locale, Emirates
+Float Glass produisant 600 t/jour a Abou Dabi, ni le moindre argument douanier, aucune mesure
+emirienne contre la Chine ou la Turquie n etant etablie. **Les deux arguments qui portent en Amerique
+ne valent rien ici, et le texte le dit au client plutot que de le cacher.**
+
+**⚠️⚠️ ET `detecte-doublons.py` A ARRETE LE SECOND ENVOI DANS LA MINUTE QUI A SUIVI LA CREATION.**
+**AL INTETHAR GLASS** (Dubai Deira) porte le mobile **+971 50 228 3822** — et ce numero est deja au
+registre, sur **OSCAR GLASS FACTORY** (Ajman), **relancee le 13/10 au gabarit de CLOTURE**. Si c est
+la meme maison, un premier contact serait un **troisieme message en une semaine**, apres un second
+qui annoncait qu on n ecrirait plus : la faute Shibaam doublee de la contradiction City Glass.
+**Ce qui penche pour la meme maison : un MOBILE n est pas un standard.** Le precedent Mirodec, ou
+deux entites reelles partageaient un numero, portait sur un standard de societe. Un 50 emirien est un
+portable, donc une personne.
+**Ce qui penche contre : deux emirats, deux domaines, deux boites sur deux domaines encore
+differents, deux metiers decrits differemment.**
+**Donc rien ne part.** Al Intethar passe en `A QUALIFIER` et le lien est ecrit dans les deux fiches.
+**La question se leve en trente secondes au telephone, sur un numero qu on a deja** — une raison de
+plus pour le creneau d appels demande a Kevin.
+**Et l autre hypothese est envisagee, celle de la faute de saisie Patagonia du 14/10 :** le numero
+d Al Intethar vient d etre lu sur LEUR page, a cote d un second en 55 228 3822. Celui d Oscar Glass
+est au registre depuis le debut sans que son origine soit dite. **C est donc celui d Oscar Glass qui
+est a reverifier en premier.**
+
+**CINQUIEME FOIS QUE CE BALAYAGE RATTRAPE QUELQUE CHOSE APRES UN LOT DE CREATIONS**, apres IGG,
+Dialum, AGI Mauritius et Millet. La regle du 14/10 — il se passe APRES CHAQUE LOT, sans exception —
+se paie une fois de plus toute seule.
+
+**ET UN VERDICT CENTRAMERICAIN A COUT NUL.** La meme famille de requete, en espagnol, a **confirme
+par une seconde source independante** le metier d *Importadora de Vidrios y Espejos del Cid*
+(Panama), qui ne reposait que sur un annuaire. Elle reste telephonique et elle merite son appel.
+Et trois noms sont ecartes sans fiche, verdicts consignes dans la sienne : **Distincomer**, envases
+et cristaleria donc verre creux, **Herrajes Tecnicos**, quincaillerie, et **Extralum** qui est deja
+au registre sous deux fiches.
+**Un fait douanier costaricien releve et NON utilisable** : un droit NPF de 5 pour cent sur le verre
+trempe plat et le miroir non encadre, dans un document de 2022. Le paragraphe 6 impose la source du
+pays et une date. **Garde comme piste, pas comme argument.**
