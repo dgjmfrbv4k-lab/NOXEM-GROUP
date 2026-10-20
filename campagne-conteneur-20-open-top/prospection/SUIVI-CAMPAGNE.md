@@ -9878,3 +9878,33 @@ deja ?**
 CHERCHE PAS UN REMPLACANT DANS L'HEURE.** Un repli trouve en cinq minutes pour sauver un argument
 est **un argument de plus a verifier**, pas une reponse. **C'est la faute STADIP par un autre
 chemin** — celle d'ajouter de soi-meme ce que personne n'a demande.
+
+## 20/10 a 13h56 — mesurer l'exposition reelle des textes bresiliens, et decider de ne PAS les reecrire
+
+**Recherches : 0. Envois confirmes : 0. Textes modifies : 0 — et c'est la decision, pas l'inaction.**
+
+**Apres la reserve sur le *copper-free* bresilien, la question etait : combien de textes ENCORE EN
+FILE en dependent, et faut-il les reprendre ?** Mesure faite : **17 textes bresiliens encore en file
+lient la page miroir.**
+
+**ET LA LECTURE DU CORPS CHANGE LA REPONSE.** Je m'attendais a des affirmations de singularite. Ce
+que je trouve est presque toujours **une ligne de LISTE DE PRODUITS** — *« - espelho sem cobre e sem
+chumbo »* — parfois suivie d'un usage, *« para area umida »*, *« que resiste melhor em clima
+humido »*. **AUCUN des 17 ne fait du miroir son argument principal**, et aucun n'ecrit que nous
+serions les seuls.
+
+**DONC JE NE LES REECRIS PAS, ET VOICI POURQUOI PLUTOT QUE DE LE FAIRE PAR REFLEXE.** Un, **lier la
+page et nommer le produit est permis par le paragraphe 8** — c'est une reference de notre gamme.
+Deux, la phrase incriminee serait **une affirmation de SINGULARITE**, et il n'y en a pas. Trois,
+**reecrire dix-sept textes testes pour retirer une ligne de liste est disproportionne et casse plus
+qu'il ne repare** — chaque reecriture repasse par le controle et chaque passage est une occasion de
+faute.
+
+**CE QUI CHANGE EST POUR LA SUITE, ET SEULEMENT POUR ELLE : aucun texte neuf, bresilien ou non, ne
+presentera le sans-cuivre-ni-plomb comme une singularite tant que Kevin n'aura pas dit ce qui
+distingue reellement notre miroir.** C'est la discipline du paragraphe 5 : on ne retire pas ce qui
+est deja ecrit et conforme, on cesse d'en ecrire d'autres.
+
+**Et la mesure valait d'etre faite plutot que supposee, dans les deux sens** : supposer que les 17
+etaient fautifs aurait declenche une reecriture inutile, supposer qu'ils etaient sains sans lire
+aurait pu couvrir un vrai probleme.
