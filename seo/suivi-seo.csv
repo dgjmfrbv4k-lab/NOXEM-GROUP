@@ -1,0 +1,24 @@
+id;date_maj;action;categorie;priorite;statut;responsable;cout;resultat_attendu;resultat_mesure;source_detail
+1;2026-11-09;Audit public et crawl de 309 URL;Audit;Haute;Réalisé;Claude;0 €;État des lieux chiffré;309 URL en 200, 25 sans description, 3 pages dupliquées de l'accueil, fiches produits isolées;02-audit.md
+2;2026-11-09;Passer en brouillon la page vide Avis clients;Technique;Basse;Réalisé;Claude;0 €;Supprimer une page vide indexable;Page 11080 en brouillon le 09/11/2026;02-audit.md M11
+3;2026-11-09;Accès Search Console (export ou accès), sitemap, Bing;Mesure;Haute;Bloqué (accès);Vous;0 €;Requêtes et indexation réelles;—;01-acces.md A
+4;2026-11-09;GA4 et GTM : événements devis, WhatsApp, téléphone, e-mail, catalogue;Mesure;Haute;Bloqué (accès);Claude + vous;0 €;Compter les demandes de devis SEO;—;01-acces.md B
+5;2026-11-09;Tester l'adresse aaronharfi@noxem-group.com et choisir le téléphone unique;Conversion;Haute;À décider;Vous;0 €;Aucune demande perdue, coordonnées cohérentes;—;03-top10 #2
+6;2026-11-09;Unifier les coordonnées sur toutes les pages et dans le schéma Yoast;Conversion;Haute;Préparé;Claude;0 €;0 incohérence;—;03-top10 #2
+7;2026-11-09;Contenu propre pour /produits/, /qui-sommes-nous/, /contact/;Contenu;Haute;Préparé;Claude + vous;0 €;Fin du contenu dupliqué, positionnement sur catalogue, importateur, devis;—;05-strategie-contenu.md B
+8;2026-11-09;Décision multilingue : noindex de 16 langues, redirection des pages stock vendu, noindex de l'actualité éphémère;Contenu;Haute;À décider;Vous;0 €;Site recentré, risque de contenu produit en masse réduit;—;03-top10 #4
+9;2026-11-09;Titres et descriptions Yoast des 18 fiches produits;On-page;Haute;Préparé;Vous (collage) ou Claude (accès);0 €;CTR et impressions sur les requêtes produit;—;04-meta-produits.csv
+10;2026-11-09;Liens internes vers les fiches produits (accueil, Produits, articles);Maillage;Haute;Préparé;Claude;0 €;Au moins 10 liens entrants par fiche;—;03-top10 #5
+11;2026-11-09;Associer les fiches FR et EN dans Polylang (hreflang);Technique;Moyenne;À planifier;Claude ou administrateur;0 €;hreflang valide;—;02-audit.md I1
+12;2026-11-09;Page C1 Fournisseur de verre plat en France;Contenu;Haute;Préparé (rédigé);Claude + vous;0 €;Positionnement sur fournisseur / grossiste verre plat;—;05-strategie-contenu.md C1
+13;2026-11-09;Page C2 Verre pour serres professionnelles;Contenu;Moyenne;Préparé (rédigé, faits à confirmer);Claude + vous;0 €;Captation des constructeurs de serres, base pour la presse horticole;—;05-strategie-contenu.md C2
+14;2026-11-09;Pages C3 Menuiseries et façades, C4 Miroiteries, C5 Transformateurs;Contenu;Moyenne;À faire;Claude;0 €;Requêtes métier;—;05-strategie-contenu.md C3-C5
+15;2026-11-09;Navigation unique et retrait de « prix le plus bas du marché »;UX;Moyenne;Préparé;Claude ou intégrateur;À confirmer (si intégrateur);Parcours cohérent vers les fiches et le devis;—;03-top10 #7
+16;2026-11-09;Alléger les pages (de 433 Ko vers moins de 150 Ko de HTML);Performance;Moyenne;À planifier;Intégrateur;À confirmer;LCP mobile sous 2,5 s;—;03-top10 #8
+17;2026-11-09;Corrections mineures : H1, redirections, http, archives à passer en noindex;Technique;Basse;Préparé;Claude;0 €;Site propre;—;02-audit.md M
+18;2026-11-09;Désactiver l'inscription ouverte et faire les mises à jour d'extensions;Sécurité;Moyenne;À décider;Vous;0 €;Moins de spam, site à jour;—;01-acces.md
+19;2026-11-09;Décision sur le site GitHub Pages panneaux composites (noindex, sous-domaine ou suppression);Marque;Basse;À décider;Vous;0 €;Marque cohérente;—;03-top10 #10
+20;2026-11-09;Confirmer les affirmations : paiement 30/60 j, prix usine, CE, 600 références, J+3, 50 ports, FFPV;Conformité;Haute;À décider;Vous;0 €;Contenus exacts et opposables;—;02-audit.md §4
+21;2026-11-09;Netlinking vague 1 : UDTVP, Europages, Lyon Entreprises, Windoorexpert, Glassonweb, V&MA, Verre & Protections;Netlinking;Moyenne;Préparé (rien envoyé);Vous + Claude;0 € (options payantes à confirmer);3 à 5 liens ou mentions pertinents;—;06-netlinking.md
+22;2026-11-09;Netlinking vague 2 : Hortidaily, SIVAL, UFME, SNFA, FFPV, Zepros, Glass International;Netlinking;Basse;À planifier;Vous + Claude;À confirmer;Liens dans les médias des métiers;—;06-netlinking.md
+23;2026-11-09;Relevé mensuel : devis SEO (total et qualifiés), clics, impressions, pages indexées;Mesure;Haute;Bloqué (mesure non configurée);Claude;0 €;Suivi des résultats commerciaux;Référence Jetpack : 212 vues sur 30 j, 70 visites moteurs sur 90 j;07-plan-90-jours.md
