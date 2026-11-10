@@ -1,0 +1,1850 @@
+<!-- wp:html -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;600;800&display=swap" rel="stylesheet">
+<style>/* Neutralise les styles du thème Tombuild pour cette page */ html body{overflow:visible;overflow-x:clip} h1,h2,h3,h4,h5,h6{color:inherit;font-family:inherit;margin:0;padding:0;line-height:inherit;text-transform:none;letter-spacing:normal} p,ul,ol,li,figure,blockquote,table{margin:0;padding:0} ul,ol{list-style:none} #qf input,#qf textarea{height:auto;min-height:0;background:#fff;box-shadow:none;margin:0;font-size:15px;line-height:1.4;border-radius:6px} #qf textarea{min-height:110px} #qf label{margin:0;font-weight:600} button.btn{height:auto;line-height:1.2;text-transform:none;letter-spacing:normal} 
+  :root{
+    --red:#c1272d; --red-dark:#9e1f24; --orange:#d98a3a; --sand:#e9e1d3;
+    --ink:#1f2a37; --ink-2:#4a5565; --line:#e3e6ea; --bg:#ffffff; --bg-2:#f6f5f2;
+    --wa:#25d366; --wa-dark:#1da851;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:Inter,system-ui,-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;color:var(--ink);background:var(--bg);line-height:1.55;font-size:16px}
+  html[lang=ar] body{font-family:"Noto Sans Arabic",Inter,system-ui,sans-serif}
+  img{max-width:100%;display:block}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+
+  .mock{background:#111;color:#fff;font-size:13px;text-align:center;padding:8px 16px}
+  .mock b{color:#ffd24d}
+
+  header{border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:5}
+  header .wrap{display:flex;align-items:center;justify-content:space-between;height:78px;gap:20px}
+  header img{height:46px;width:auto}
+  nav{display:flex;gap:16px;font-size:14px;font-weight:500;color:var(--ink-2)}
+  nav a,.btn{white-space:nowrap}
+  nav a:hover{color:var(--red)}
+  .hdr-r{display:flex;align-items:center;gap:12px}
+  .lang{font:inherit;font-size:14px;font-weight:600;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:6px;padding:9px 10px;cursor:pointer}
+  .btn{display:inline-flex;align-items:center;gap:8px;background:var(--red);color:#fff;font-weight:600;padding:13px 22px;border-radius:6px;font-size:15px;border:2px solid var(--red);cursor:pointer;font-family:inherit}
+  .btn:hover{background:var(--red-dark);border-color:var(--red-dark)}
+  html[dir=rtl] .arr{display:inline-block;transform:scaleX(-1)}
+  .btn.ghost{background:transparent;border-color:#fff;color:#fff}
+  .btn.ghost:hover{background:rgba(255,255,255,.12)}
+
+  .hero{position:relative;color:#fff;background:#1a2230 url("https://noxemgroup.com/wp-content/uploads/2026/07/wide-angle-abstract-background-with-stack-of-flat-2026-03-19-04-29-13-utc-scaled.jpg") center/cover}
+  .hero::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(15,21,31,.94) 0%,rgba(15,21,31,.84) 50%,rgba(15,21,31,.4) 100%)}
+  html[dir=rtl] .hero::before{background:linear-gradient(270deg,rgba(15,21,31,.94) 0%,rgba(15,21,31,.84) 50%,rgba(15,21,31,.4) 100%)}
+  .hero .wrap{position:relative;padding-top:96px;padding-bottom:84px}
+  .eyebrow{display:inline-block;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--orange);margin-bottom:18px}
+  .hero h1{font-size:clamp(34px,5vw,56px);line-height:1.1;font-weight:800;max-width:760px;letter-spacing:-.02em}
+  .hero h1 em{font-style:normal;color:#ffb27a}
+  .hero p.lead{font-size:19px;max-width:620px;margin:22px 0 32px;color:#dfe4ea}
+  .ctas{display:flex;gap:14px;flex-wrap:wrap}
+  .facts{background:#fff;border-bottom:1px solid var(--line)}
+  .facts .wrap{display:grid;grid-template-columns:repeat(5,1fr)}
+  .facts div{padding:22px 18px;border-inline-start:1px solid var(--line)}
+  .facts div:first-child{border-inline-start:0}
+  .facts b{display:block;font-size:20px;font-weight:800}
+  .facts span{font-size:13px;color:var(--ink-2)}
+
+  /* bandeau défilant */
+  .ticker{background:var(--red);color:#fff;overflow:hidden;white-space:nowrap;font-size:14.5px;font-weight:600;display:flex;align-items:stretch}
+  .ticker .lbl{flex:none;background:var(--ink);padding:10px 16px;font-size:12.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;display:flex;align-items:center;gap:8px;position:relative;z-index:1}
+  .ticker .lbl i{width:8px;height:8px;border-radius:50%;background:#ffd24d;animation:blink 1.2s infinite}
+  .ticker .rail{flex:1;overflow:hidden;display:flex;align-items:center}
+  .ticker .track{display:inline-flex;animation:scroll var(--dur,40s) linear infinite;padding-inline-start:24px}
+  .ticker:hover .track{animation-play-state:paused}
+  .ticker a{display:inline-flex;align-items:center;gap:10px;padding:10px 0;margin-inline-end:56px}
+  .ticker a:hover{text-decoration:underline}
+  .ticker b{background:#fff;color:var(--red);font-size:11.5px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:2px 7px;border-radius:3px}
+  @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  html[dir=rtl] .ticker .track{animation-name:scroll-rtl}
+  @keyframes scroll-rtl{from{transform:translateX(0)}to{transform:translateX(50%)}}
+  @keyframes blink{50%{opacity:.25}}
+  @media (prefers-reduced-motion:reduce){.ticker .track{animation:none}.ticker .rail{overflow-x:auto}}
+
+  /* actualités */
+  .news{padding:56px 0 64px;background:var(--bg-2);border-bottom:1px solid var(--line)}
+  .news .top{display:flex;justify-content:space-between;align-items:end;gap:16px;flex-wrap:wrap}
+  .news .upd{font-size:13.5px;color:var(--ink-2)}
+  .news-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;margin-top:28px}
+  .ncard{background:#fff;border:1px solid var(--line);border-radius:12px;padding:24px;display:flex;flex-direction:column;gap:10px;border-top:4px solid var(--ink-2)}
+  .ncard.urgent{border-top-color:var(--red);box-shadow:0 8px 28px rgba(193,39,45,.12)}
+  .ncard.stock{border-top-color:var(--orange)}
+  .ncard .meta{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--ink-2)}
+  .ncard .pill{font-size:11.5px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:4px;background:var(--ink);color:#fff}
+  .ncard.urgent .pill{background:var(--red)}
+  .ncard.stock .pill{background:var(--orange)}
+  .ncard h3{font-size:19px;line-height:1.3}
+  .ncard p{font-size:15px;color:var(--ink-2)}
+  .ncard .acts{margin-top:auto;padding-top:10px;display:flex;gap:10px;flex-wrap:wrap}
+  .ncard .acts a{font-size:14px;font-weight:700;padding:9px 14px;border-radius:6px}
+  .ncard .acts .q{background:var(--red);color:#fff}
+  .ncard .acts .q:hover{background:var(--red-dark)}
+  .ncard .cover{display:block;height:170px;margin:-24px -24px 6px;border-radius:8px 8px 0 0;background-size:cover;background-position:center}
+  .ncard .acts .r{background:var(--ink);color:#fff}
+  .ncard .acts .r:hover{background:#000}
+  .ncard .acts .w{background:#e8f9ee;color:#12733a}
+  .ncard .acts .w:hover{background:#d3f3de}
+
+  section{padding:88px 0}
+  section.alt{background:var(--bg-2)}
+  .kicker{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:10px}
+  h2{font-size:clamp(28px,3.4vw,40px);line-height:1.18;font-weight:800;letter-spacing:-.015em;max-width:800px}
+  .sub{font-size:18px;color:var(--ink-2);max-width:720px;margin-top:14px}
+
+  .is{display:grid;grid-template-columns:1.1fr 1fr;gap:56px;align-items:center}
+  .quote{border-inline-start:4px solid var(--red);padding-block:6px;padding-inline-start:22px;font-size:21px;font-weight:600;line-height:1.45;margin-top:28px}
+  .quote small{display:block;font-size:14px;font-weight:500;color:var(--ink-2);margin-top:10px}
+  .roles{display:grid;gap:14px}
+  .role{background:#fff;border:1px solid var(--line);border-radius:10px;padding:20px 22px;display:flex;gap:16px}
+  .role .n{flex:none;width:36px;height:36px;border-radius:8px;background:var(--sand);color:var(--red);font-weight:800;display:grid;place-items:center}
+  .role h3{font-size:17px;margin-bottom:4px}
+  .role p{font-size:15px;color:var(--ink-2)}
+  .not{margin-top:14px;font-size:14.5px;color:var(--ink-2);background:#fff;border:1px dashed #cfd4da;border-radius:10px;padding:14px 18px}
+  .not b{color:var(--ink)}
+
+  .nxa{margin-top:36px}
+  .nxa-stage{position:relative;border-radius:14px;overflow:hidden;background:#f6f1e8;box-shadow:0 10px 36px rgba(0,0,0,.12);cursor:pointer;aspect-ratio:16/9}
+  .nxa-stage svg{display:block;width:100%;height:100%}
+  .nxa-cap{position:absolute;inset-inline-start:24px;top:22px;transition:opacity .2s}
+  .nxa-cap-t{display:inline-block;background:var(--ink);color:#fff;font-weight:800;font-size:clamp(15px,2.2vw,24px);padding:10px 18px;border-radius:8px;box-shadow:0 4px 14px rgba(0,0,0,.2)}
+  .nxa-bar{position:absolute;left:0;right:0;bottom:0;height:5px;background:rgba(0,0,0,.08)}
+  .nxa-bar i{display:block;height:100%;width:0;background:var(--red)}
+  .nxa-play{position:absolute;inset-inline-end:20px;bottom:20px;display:none;align-items:center;gap:8px;background:var(--red);color:#fff;border:0;border-radius:999px;padding:10px 18px 10px 12px;font:inherit;font-weight:700;font-size:15px;cursor:pointer}
+  .nxa-play svg{width:22px;height:22px}
+  .nxa.ended .nxa-play{display:inline-flex}
+  .steps{display:grid;grid-template-columns:repeat(5,1fr);gap:18px;margin-top:48px}
+  .step{background:#fff;border-radius:10px;padding:24px 20px;border-top:4px solid var(--red)}
+  .step .num{font-size:13px;font-weight:800;color:var(--orange);letter-spacing:.08em}
+  .step h3{font-size:17px;margin:8px 0;line-height:1.3}
+  .step p{font-size:14.5px;color:var(--ink-2)}
+
+  .offers{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:44px}
+  .offer{border:1px solid var(--line);border-radius:12px;overflow:hidden;background:#fff;display:flex;flex-direction:column}
+  .offer .ph{height:220px;background-size:cover;background-position:center}
+  .offer .bd{padding:28px;flex:1;display:flex;flex-direction:column}
+  .tag{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:#fff;padding:4px 10px;border-radius:4px;margin-bottom:14px;align-self:flex-start}
+  .offer h3{font-size:24px;line-height:1.2;margin-bottom:10px}
+  .offer p{color:var(--ink-2)}
+  .offer ul{list-style:none;margin:18px 0 0;display:grid;gap:8px}
+  .offer li{padding-inline-start:24px;position:relative;font-size:15px}
+  .offer li::before{content:"";position:absolute;inset-inline-start:0;top:10px;width:12px;height:2px;background:var(--red)}
+  .offer .for{margin-top:auto;padding-top:20px;font-size:14px;color:var(--ink-2);border-top:1px solid var(--line)}
+  .offer ul + .for{margin-top:22px}
+  .offer .for b{color:var(--ink)}
+
+  .who{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:40px}
+  .who div{background:#fff;border:1px solid var(--line);border-radius:10px;padding:22px}
+  .who h3{font-size:17px;margin-bottom:6px}
+  .who p{font-size:14.5px;color:var(--ink-2)}
+
+  .prod{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start;margin-top:40px}
+  .chips{display:flex;flex-wrap:wrap;gap:10px}
+  .chips span{border:1px solid var(--line);background:#fff;border-radius:999px;padding:9px 16px;font-size:15px;font-weight:500}
+  .prod h3{font-size:18px;margin-bottom:14px}
+  .prod .note{font-size:14.5px;color:var(--ink-2);margin-top:18px}
+
+  table.spec{width:100%;border-collapse:collapse;margin-top:36px;background:#fff;border-radius:12px;overflow:hidden;border:1px solid var(--line)}
+  .spec th,.spec td{text-align:start;padding:16px 22px;border-bottom:1px solid var(--line);vertical-align:top;font-size:15.5px}
+  .spec th{width:30%;font-weight:600;color:var(--ink-2)}
+  .spec tr:last-child th,.spec tr:last-child td{border-bottom:0}
+
+  .wide{margin-top:36px;border-radius:12px;overflow:hidden;aspect-ratio:1024/461;background:url("https://noxemgroup.com/wp-content/uploads/2026/09/noxem-stock-5.jpg") center/cover}
+  .vids{display:grid;grid-template-columns:1fr 280px;gap:14px;margin-top:14px}
+  .vids figure{margin:0;position:relative;border-radius:10px;overflow:hidden;background:#000}
+  .vids img,.vids video{width:100%;height:100%;object-fit:cover;display:block;aspect-ratio:16/9}
+  .vids .tall video{aspect-ratio:auto}
+  .vids figcaption{position:absolute;inset-inline:0;bottom:0;padding:28px 16px 12px;font-size:13.5px;font-weight:600;color:#fff;background:linear-gradient(transparent,rgba(0,0,0,.7))}
+  .gal{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:14px}
+  .gal div{border-radius:10px;min-height:220px;background-size:cover;background-position:center}
+
+  .quoteform{background:var(--ink);color:#fff;padding:84px 0}
+  .quoteform .wrap{display:grid;grid-template-columns:1fr 1.25fr;gap:56px;align-items:start}
+  .quoteform h2{color:#fff}
+  .quoteform .sub{color:#c9d0d8}
+  .quoteform .tel{margin-top:22px;font-size:15px;color:#c9d0d8}
+  .quoteform .tel b{color:#fff;display:block;font-size:20px;margin-top:4px}
+  .quoteform .wa-inline{margin-top:22px;background:var(--wa);border-color:var(--wa);color:#fff}
+  .quoteform .wa-inline:hover{background:var(--wa-dark);border-color:var(--wa-dark)}
+  form{background:#fff;color:var(--ink);border-radius:12px;padding:28px;display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  form label{display:grid;gap:6px;font-size:13.5px;font-weight:600;color:var(--ink-2)}
+  form label.full{grid-column:1/-1}
+  form input,form textarea{font:inherit;font-size:15px;color:var(--ink);border:1px solid #cfd4da;border-radius:6px;padding:11px 12px;width:100%}
+  form input:focus,form textarea:focus{outline:2px solid var(--red);outline-offset:0;border-color:var(--red)}
+  form textarea{min-height:110px;resize:vertical}
+  form .btn{grid-column:1/-1;justify-content:center;font-size:16px;padding:15px}
+  form .msg{grid-column:1/-1;font-size:14px;min-height:1em}
+  form .msg.ok{color:#1d7a3a}
+  form .msg.err{color:var(--red)}
+
+  .blog-top{display:flex;justify-content:space-between;align-items:end;gap:20px;flex-wrap:wrap}
+  .blog-btns{display:flex;gap:10px;flex-wrap:wrap}
+  .btn.line{background:transparent;color:var(--ink);border-color:var(--ink)}
+  .btn.line:hover{background:var(--ink);color:#fff}
+  .posts{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:32px}
+  .post{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+  .post .im{aspect-ratio:16/10;background:#e9e6e0 center/cover}
+  .post .bd{padding:18px 20px 20px;display:flex;flex-direction:column;gap:8px;flex:1}
+  .post time{font-size:13px;color:var(--ink-2)}
+  .post h3{font-size:16.5px;line-height:1.35}
+  .post:hover h3{color:var(--red)}
+  footer a:hover{color:#fff}
+  footer{background:#141b25;color:#8f99a6;font-size:13.5px;padding:28px 0}
+  footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+
+  .wa-float{position:fixed;bottom:22px;inset-inline-end:22px;z-index:20;display:flex;align-items:center;gap:10px;background:var(--wa);color:#fff;font-weight:700;font-size:15px;padding:12px 18px 12px 14px;border-radius:999px;box-shadow:0 6px 22px rgba(0,0,0,.22)}
+  .wa-float:hover{background:var(--wa-dark)}
+  .wa-float svg,.wa-inline svg{width:26px;height:26px;flex:none}
+
+  @media (max-width:1380px){ nav{display:none} }
+  @media (max-width:960px){
+    .facts .wrap{grid-template-columns:repeat(2,1fr)}
+    .facts div{border-inline-start:0;border-top:1px solid var(--line)}
+    .is,.offers,.prod,.quoteform .wrap{grid-template-columns:1fr}
+    .steps{grid-template-columns:1fr 1fr}
+    .who{grid-template-columns:1fr 1fr}
+    .gal{grid-template-columns:1fr 1fr}
+    .news-grid{grid-template-columns:1fr}
+    .posts{grid-template-columns:1fr 1fr}
+  }
+  @media (max-width:640px){
+    .wrap{padding:0 16px}
+    header .wrap{height:66px;gap:10px}
+    header img{height:36px}
+    header .btn{display:none}
+    section{padding:64px 0}
+    .steps,.who,.gal,.vids,.posts{grid-template-columns:1fr}
+    .vids .tall video{aspect-ratio:9/12}
+    .hero .wrap{padding-top:60px;padding-bottom:56px}
+    form{grid-template-columns:1fr;padding:20px}
+    .spec th,.spec td{display:block;width:100%;padding:10px 16px}
+    .spec th{border-bottom:0;padding-bottom:0}
+    .wa-float span{display:none}
+    .wa-float{padding:14px}
+    .nxa-cap{inset-inline-start:10px;top:10px}
+    .nxa-cap-t{font-size:12.5px;padding:6px 10px}
+    .ticker .lbl #tickLbl{display:none}
+    .nxa{margin-inline:-16px}
+    .nxa-stage{border-radius:0}
+  }
+</style>
+<style>
+/* Page « Contact » : seuls les blocs utiles sont affichés */
+.hero,.facts,#actus,#monde,#metier,#offres,section:has(#who),#produits,section:has(#spec),#terrain,#blog{display:none!important}
+#devis{padding-top:48px}
+</style>
+<header>
+  <div class="wrap">
+    <img decoding="async" src="https://noxemgroup.com/wp-content/uploads/2023/09/LOGO-1.png" alt="Noxem Group">
+    <nav id="nav"><a href="#actus">Actualités du moment</a><a href="#comment">Comment ça marche</a><a href="#offres">Nos offres</a><a href="#produits">Produits</a><a href="#terrain">Sur le terrain</a><a href="#devis">Contact</a></nav>
+    <div class="hdr-r">
+      <select class="lang" id="lang" aria-label="Language"><option value="fr">Français</option><option value="en">English</option><option value="es">Español</option><option value="pt">Português</option><option value="de">Deutsch</option><option value="it">Italiano</option><option value="nl">Nederlands</option><option value="pl">Polski</option><option value="ar">العربية</option><option value="tr">Türkçe</option><option value="ru">Русский</option><option value="zh">中文</option></select>
+      <a class="btn" href="#devis" data-t="cta">Demander un prix</a>
+    </div>
+  </div>
+  <div class="ticker" id="ticker"><span class="lbl"><i></i><span id="tickLbl">Actualités du moment</span></span><div class="rail"><div class="track" id="track" style="--dur: 28s;"><a href="#actus"><b>Info</b>Demande de prix : réponse sous 24 h, en 12 langues</a><a href="#actus"><b>Info</b>Demande de prix : réponse sous 24 h, en 12 langues</a></div></div></div>
+</header>
+<div class="hero">
+  <div class="wrap">
+    <span class="eyebrow" data-t="eyebrow">Importateur &amp; négociant de verre plat</span>
+    <h1 data-h="h1">Votre verre plat <em>en direct usine</em>, à prix extrêmement compétitifs.</h1>
+    <p class="lead" data-t="lead">Float, feuilleté, Low-E, miroirs : du verre plat de qualité, certifié CE, livré directement sur votre site en France, en Europe et à l'international.</p>
+    <div class="ctas">
+      <a class="btn" href="#devis"><span data-t="cta">Demander un prix</span> <span class="arr">→</span></a>
+      <a class="btn ghost" href="#comment" data-t="ctaHow">Comment ça marche</a>
+    </div>
+  </div>
+</div>
+<div class="facts"><div class="wrap" id="facts"><div><b>600+</b><span>références de verre plat</span></div><div><b>EN · CE</b><span>verres certifiés aux normes</span></div><div><b>Prix usine</b><span>sans intermédiaire</span></div><div><b>24 h</b><span>pour recevoir votre prix</span></div><div><b>Europe &amp; monde</b><span>livraison sur votre site</span></div></div></div>
+<section class="news" id="actus">
+  <div class="wrap">
+    <div class="top">
+      <div><p class="kicker" id="newsK">Actualités du moment</p><h2 id="newsH">Cette semaine chez Noxem</h2></div>
+      <span class="upd" id="newsUpd">Mis à jour le 25 septembre 2026</span>
+    </div>
+    <div class="news-grid" id="newsGrid"><article class="ncard info"><div class="meta"><span class="pill">Info</span><span>25 septembre 2026</span></div><h3>Votre prix sous 24 h, dans votre langue</h3><p>Notre site est maintenant disponible en 12 langues. Écrivez-nous dans la vôtre : nous répondons sous 24 h.</p><div class="acts"><a class="q" href="#devis">Demander le prix</a><a class="w" href="https://wa.me/33686131271?text=Bonjour%20Aaron%2C%20je%20vous%20contacte%20au%20sujet%20de%20%3A%20Votre%20prix%20sous%2024%20h%2C%20dans%20votre%20langue" target="_blank" rel="noopener">En parler sur WhatsApp</a></div></article></div>
+  </div>
+</section>
+<style>
+  .nxt{background:#0d1520;padding:56px 0}
+  .nxt .wrap{max-width:1180px;margin:0 auto;padding:0 24px;display:grid;grid-template-columns:1.2fr 1fr;gap:18px}
+  .nxt a.c{display:flex;flex-direction:column;gap:10px;border-radius:14px;padding:28px;text-decoration:none;color:#fff;border:1px solid rgba(255,255,255,.12);background:rgba(255,255,255,.05);transition:background .2s}
+  .nxt a.c:hover{background:rgba(255,255,255,.1);color:#fff}
+  .nxt a.c.w{background:linear-gradient(120deg,rgba(193,39,45,.35),rgba(13,21,32,.2));border-color:rgba(255,178,122,.45)}
+  .nxt .t{font-size:22px;font-weight:800;line-height:1.25;color:#fff}
+  .nxt .d{font-size:15.5px;color:#c9d0d8}
+  .nxt .g{margin-top:auto;font-weight:700;color:#ffb27a}
+  .nxt .ports{display:flex;flex-wrap:wrap;gap:6px}
+  .nxt .ports span{font-size:12.5px;background:rgba(255,255,255,.08);border-radius:999px;padding:3px 9px;color:#e6eaef}
+  .nxt .orgs{display:flex;gap:10px}
+  .nxt .orgs b{font-size:20px;letter-spacing:.04em;background:#fff;color:#1f2a37;border-radius:8px;padding:8px 14px}
+  @media (max-width:800px){.nxt .wrap{grid-template-columns:1fr}}
+  @media (max-width:560px){.nxt .wrap{padding:0 16px}}
+</style>
+<section class="nxt" id="monde">
+  <div class="wrap">
+    <a class="c w" href="/livraison-monde/"><span class="t" data-nxt="t1">Livraison dans le monde entier</span><span class="d" data-nxt="d1">Moyen-Orient et Golfe, Maghreb, Afrique, Europe, DOM-TOM : nous livrons vos conteneurs dans les grands ports du monde.</span><span class="ports"><span>Jebel Ali – Dubaï</span><span>Djeddah</span><span>Hamad – Doha</span><span>Dammam</span><span>Casablanca</span><span>Alger</span><span>Abidjan</span><span>Anvers</span></span><span class="g"><span data-nxt="c1">Voir les ports</span> →</span></a>
+    <a class="c" href="/partenaires/"><span class="t" data-nxt="t2">Partenaires de la filière verre</span><span class="d" data-nxt="d2">Noxem Group est partenaire de l'UDTVP et de la FFPV, les organisations professionnelles du verre plat en France.</span><span class="orgs" data-logos="1"><b style="padding:6px 10px"><img src="https://noxemgroup.com/wp-content/uploads/2026/09/logo-partenaire-udtvp.gif" alt="UDTVP" style="height:40px;width:auto;display:block"></b><b style="padding:6px 10px"><img src="https://noxemgroup.com/wp-content/uploads/2026/09/logo-partenaire-ffpv.gif" alt="FFPV" style="height:40px;width:auto;display:block;clip-path:polygon(6% 0,100% 0,100% 100%,0 100%,0 20%,6% 20%)"></b></span><span class="g"><span data-nxt="c2">Nos partenaires</span> →</span></a>
+  </div>
+</section>
+<script>
+/* Encarts Livraison monde / Partenaires + onglets du menu. Aucun chevron dans ce script (WordPress le reformaterait). */
+(function(){
+  var T = {
+    fr:["Livraison dans le monde entier","Moyen-Orient et Golfe, Maghreb, Afrique, Europe, DOM-TOM : nous livrons vos conteneurs dans les grands ports du monde.","Voir les ports","Partenaires de la filière verre","Noxem Group est partenaire de l'UDTVP et de la FFPV, les organisations professionnelles du verre plat en France.","Nos partenaires","Livraison monde","Partenaires"],
+    en:["Worldwide delivery","Middle East and Gulf, North Africa, Africa, Europe, overseas territories: we deliver your containers to the world's major ports.","See the ports","Partners of the glass industry","Noxem Group is a partner of UDTVP and FFPV, the French flat glass professional organisations.","Our partners","Worldwide delivery","Partners"],
+    es:["Entrega en todo el mundo","Oriente Medio y Golfo, Magreb, África, Europa, ultramar: entregamos sus contenedores en los grandes puertos del mundo.","Ver los puertos","Socios del sector del vidrio","Noxem Group es socio de UDTVP y FFPV, las organizaciones profesionales del vidrio plano en Francia.","Nuestros socios","Entrega mundial","Socios"],
+    pt:["Entrega em todo o mundo","Médio Oriente e Golfo, Magrebe, África, Europa, ultramar: entregamos os seus contentores nos grandes portos do mundo.","Ver os portos","Parceiros do setor do vidro","A Noxem Group é parceira da UDTVP e da FFPV, as organizações profissionais do vidro plano em França.","Os nossos parceiros","Entrega mundial","Parceiros"],
+    de:["Weltweite Lieferung","Naher Osten und Golf, Maghreb, Afrika, Europa, Überseegebiete: Wir liefern Ihre Container in die großen Häfen der Welt.","Häfen ansehen","Partner der Glasbranche","Noxem Group ist Partner von UDTVP und FFPV, den französischen Berufsverbänden für Flachglas.","Unsere Partner","Weltweite Lieferung","Partner"],
+    it:["Consegna in tutto il mondo","Medio Oriente e Golfo, Maghreb, Africa, Europa, oltremare: consegniamo i tuoi container nei grandi porti del mondo.","Vedi i porti","Partner della filiera del vetro","Noxem Group è partner di UDTVP e FFPV, le organizzazioni professionali del vetro piano in Francia.","I nostri partner","Consegna nel mondo","Partner"],
+    nl:["Wereldwijde levering","Midden-Oosten en Golf, Maghreb, Afrika, Europa, overzeese gebieden: wij leveren uw containers in de grote havens van de wereld.","Bekijk de havens","Partners van de glassector","Noxem Group is partner van UDTVP en FFPV, de Franse beroepsorganisaties voor vlakglas.","Onze partners","Wereldwijde levering","Partners"],
+    pl:["Dostawy na cały świat","Bliski Wschód i Zatoka, Maghreb, Afryka, Europa, terytoria zamorskie: dostarczamy kontenery do największych portów świata.","Zobacz porty","Partnerzy branży szklarskiej","Noxem Group jest partnerem UDTVP i FFPV, francuskich organizacji branży szkła płaskiego.","Nasi partnerzy","Dostawy na świat","Partnerzy"],
+    ar:["الشحن إلى جميع أنحاء العالم","الشرق الأوسط والخليج، المغرب العربي، أفريقيا، أوروبا، ما وراء البحار: نوصل حاوياتكم إلى أكبر موانئ العالم.","عرض الموانئ","شركاء قطاع الزجاج","نوكسم جروب شريك لـ UDTVP و FFPV، المنظمات المهنية للزجاج المسطح في فرنسا.","شركاؤنا","الشحن حول العالم","الشركاء"],
+    tr:["Dünyanın her yerine teslimat","Orta Doğu ve Körfez, Mağrip, Afrika, Avrupa, denizaşırı bölgeler: konteynerlerinizi dünyanın büyük limanlarına teslim ediyoruz.","Limanları gör","Cam sektörünün ortakları","Noxem Group, Fransa'daki düz cam meslek kuruluşları UDTVP ve FFPV'nin ortağıdır.","Ortaklarımız","Dünyaya teslimat","Ortaklar"],
+    ru:["Доставка по всему миру","Ближний Восток и Залив, Магриб, Африка, Европа, заморские территории: доставляем ваши контейнеры в крупнейшие порты мира.","Смотреть порты","Партнёры стекольной отрасли","Noxem Group — партнёр UDTVP и FFPV, профессиональных организаций листового стекла во Франции.","Наши партнёры","Доставка по миру","Партнёры"],
+    zh:["全球配送","中东与海湾、马格里布、非洲、欧洲、海外领地：我们将您的集装箱运往全球主要港口。","查看港口","玻璃行业合作伙伴","Noxem Group 是法国平板玻璃行业组织 UDTVP 和 FFPV 的合作伙伴。","我们的合作伙伴","全球配送","合作伙伴"]
+  };
+  var K = {t1:0,d1:1,c1:2,t2:3,d2:4,c2:5};
+  function code(){ return (document.documentElement.getAttribute('lang') || 'fr').slice(0,2).toLowerCase(); }
+  function apply(){
+    var t = T[code()] || T.fr, root = document.getElementById('monde'); if (!root) return;
+    root.querySelectorAll('[data-nxt]').forEach(function(el){ el.textContent = t[K[el.getAttribute('data-nxt')]]; });
+    var nav = document.getElementById('nav'); if (!nav) return;
+    [['/livraison-monde/',6],['/partenaires/',7]].forEach(function(p){
+      var a = nav.querySelector('a[data-extra="' + p[0] + '"]');
+      if (!a) { a = document.createElement('a'); a.setAttribute('data-extra', p[0]); a.href = p[0]; nav.appendChild(a); }
+      if (a.textContent !== t[p[1]]) a.textContent = t[p[1]];
+    });
+  }
+  apply();
+  new MutationObserver(apply).observe(document.documentElement, {attributes:true, attributeFilter:['lang']});
+  var navEl = document.getElementById('nav'); if (navEl) new MutationObserver(function(){ if (!navEl.querySelector('a[data-extra]')) apply(); }).observe(navEl, {childList:true});
+})();
+</script>
+<section id="metier">
+  <div class="wrap is">
+    <div>
+      <p class="kicker" data-t="k1">Notre métier</p>
+      <h2 data-t="h2a">Nous importons et livrons votre verre plat, en grands volumes, au meilleur prix.</h2>
+      <p class="sub" data-t="subA">Noxem Group est importateur et négociant de verre plat : stock en Belgique, export en conteneur jusqu'à votre port et livraison sur votre site, avec un seul interlocuteur.</p>
+      <p class="quote"><span data-t="quote">« Avec Noxem Group, vous avez un seul interlocuteur, des prix extrêmement compétitifs et une réponse sous 24 h avec un devis détaillé. »</span><small data-t="quoteBy">Aaron Harfi, PDG de Noxem Group</small></p>
+    </div>
+    <div>
+      <div class="roles" id="roles"><div class="role"><div class="n">1</div><div><h3>Grands volumes</h3><p>Du camion complet à plusieurs conteneurs par commande, à prix extrêmement compétitifs.</p></div></div><div class="role"><div class="n">2</div><div><h3>Qualité certifiée</h3><p>Verres conformes aux normes EN et CE, certificats fournis avec chaque commande.</p></div></div><div class="role"><div class="n">3</div><div><h3>Logistique de A à Z</h3><p>Transport, dédouanement et livraison finale : un seul interlocuteur.</p></div></div></div>
+      <p class="not" data-h="note"><b>Ce que ça change pour vous :</b> vous payez le prix usine, sans monter votre propre service import et sans financer l'entrepôt d'un grossiste.</p>
+    </div>
+  </div>
+</section>
+<section class="alt" id="comment">
+  <div class="wrap">
+    <p class="kicker" data-t="k2">Comment ça marche</p>
+    <h2 data-t="h2b">De votre demande à votre livraison, en 5 étapes.</h2>
+    <div id="anim"></div>
+    <div class="steps" id="steps"><div class="step"><span class="num">01</span><h3>Votre demande</h3><p>Références, épaisseurs, quantités, lieu de livraison. Une liste Excel suffit.</p></div><div class="step"><span class="num">02</span><h3>Votre prix sous 24 h</h3><p>Un devis détaillé, rendu chez vous, avec le délai annoncé.</p></div><div class="step"><span class="num">03</span><h3>Commande &amp; contrôle</h3><p>Commande confirmée par écrit, contrôle de conformité EN.</p></div><div class="step"><span class="num">04</span><h3>Emballage &amp; transport</h3><p>Caisses bois sécurisées, sanglage, cales et intercalaires.</p></div><div class="step"><span class="num">05</span><h3>Livraison</h3><p>Dédouané et livré sur votre site, prêt à décharger.</p></div></div>
+  </div>
+</section>
+<section id="offres">
+  <div class="wrap">
+    <p class="kicker" data-t="k3">Nos offres</p>
+    <h2 data-t="h2c">Deux façons d'acheter, selon vos volumes.</h2>
+    <div class="offers" id="offers"><div class="offer"><div class="ph" style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/05/12730f12-3363-4533-9319-0a609d800b79.jpg')"></div><div class="bd"><span class="tag">Import direct</span><h3>Conteneur complet, prix usine</h3><p>Le prix le plus bas, pour les gros volumes.</p><ul><li>Conteneur complet en caisses bois sécurisées</li><li>Livré dédouané sur votre site</li><li>Prix usine, sans intermédiaire</li></ul><p class="for"><b>Pour :</b> transformateurs, négociants, distributeurs, stockistes, importateurs.</p></div></div><div class="offer"><div class="ph" style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/09/noxem-stock-3.jpg')"></div><div class="bd"><span class="tag">Livraison panachée</span><h3>Plusieurs références, un seul transport</h3><p>Pour des volumes plus souples, sans remplir un conteneur.</p><ul><li>Piles panachées : plusieurs références et épaisseurs</li><li>Plateaux panachés dans un même camion</li><li>Petites et moyennes quantités</li></ul><p class="for"><b>Pour :</b> miroiteries, petits et moyens transformateurs.</p></div></div></div>
+  </div>
+</section>
+<section class="alt">
+  <div class="wrap">
+    <p class="kicker" data-t="k4">Pour qui</p>
+    <h2 data-t="h2d">Nous travaillons avec les professionnels qui achètent le verre en volume.</h2>
+    <div class="who" id="who"><div><h3>Transformateurs &amp; trempeurs</h3><p>Float et feuilleté en grands formats pour alimenter vos lignes.</p></div><div><h3>Miroiteries</h3><p>Miroirs et verres décoratifs en direct, complets ou panachés.</p></div><div><h3>Négociants &amp; distributeurs</h3><p>Des volumes et des prix compétitifs, sans service import.</p></div><div><h3>Stockistes</h3><p>Des approvisionnements réguliers en volume, à prix maîtrisé.</p></div><div><h3>Industriels</h3><p>Du verre plat pour vos fabrications : mobilier, agencement, électroménager.</p></div><div><h3>Importateurs internationaux</h3><p>Une chaîne d'achat et de transport coordonnée pour vous.</p></div></div>
+  </div>
+</section>
+<section id="produits">
+  <div class="wrap">
+    <p class="kicker" data-t="k5">Produits</p>
+    <h2 data-t="h2e">Plus de 600 références de verre plat, aux normes EN.</h2>
+    <div class="prod">
+      <div><h3 data-t="prodA">En direct usine</h3><div class="chips" id="chipsA"><span>Float clair</span><span>Float teinté</span><span>Extra-clair</span><span>Miroirs</span><span>Feuilleté</span><span>Feuilleté opale</span><span>Feuilleté acoustique</span><span>Low-E</span><span>Contrôle solaire</span><span>Verre trempable</span><span>Verre décoratif</span></div><p class="note" data-t="noteA">Une référence manque ? Nous la trouvons pour vous.</p></div>
+      <div><h3 data-t="prodB">Transformés sur demande</h3><div class="chips" id="chipsB"><span>Trempé / trempé HST</span><span>Feuilleté trempé</span><span>Double vitrage</span><span>Garde-corps</span><span>Façonnage &amp; perçage</span></div><p class="note" data-t="noteB">Réalisés sur plan, pour vos projets spécifiques ou vos pics d'activité.</p>
+        <p style="margin-top:22px"><a class="btn" id="catalog" href="https://noxemgroup.com/wp-content/uploads/2026/09/NOXEM-GROUP-Catalogue-2026-FR.pdf" target="_blank" rel="noopener" data-t="catalog">Télécharger le catalogue (PDF)</a></p></div>
+    </div>
+  </div>
+</section>
+<section class="alt">
+  <div class="wrap">
+    <p class="kicker" data-t="k6">Infos pratiques</p>
+    <h2 data-t="h2f">Ce qu'on nous demande avant chaque commande.</h2>
+    <table class="spec" id="spec"><tbody><tr><th>Livraison</th><td>Dédouané et livré sur votre site, en France, en Europe et à l'international</td></tr><tr><th>Conditionnement</th><td>Caisses bois sécurisées, sanglage, cales et papier intercalaire entre chaque feuille</td></tr><tr><th>Formats</th><td>Standard 3210 × 2550 mm, autres dimensions sur demande</td></tr><tr><th>Normes</th><td>CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279</td></tr><tr><th>Réponse</th><td>Sous 24 h ouvrées, avec un appel et un devis détaillé</td></tr></tbody></table>
+  </div>
+</section>
+<section id="terrain">
+  <div class="wrap">
+    <p class="kicker" data-t="k7">Sur le terrain</p>
+    <h2 data-t="h2g">Vos commandes, avant le départ.</h2>
+    <p class="sub" data-t="subG">Vos verres sont contrôlés, mis en caisses et chargés avec soin. Nous vous envoyons photos et vidéos à chaque étape.</p>
+    <div class="wide" role="img" aria-label="Noxem"></div>
+    <div class="vids">
+      <figure><img src="https://noxemgroup.com/wp-content/uploads/2026/06/87f72f2c-cd0d-47a1-bcac-ac7eb62866c3-1.jpg" alt="Conteneur prêt au chargement, Noxem Group" loading="lazy"><figcaption id="cap0">Conteneur prêt au chargement</figcaption></figure>
+      <figure class="tall"><img src="https://noxemgroup.com/wp-content/uploads/2026/09/noxem-stock-2.jpg" alt="Chargement de verre plat en camion à Mollem, Noxem Group" loading="lazy"><figcaption id="cap1">Chargement en camion à Mollem</figcaption></figure>
+    </div>
+    <div class="gal">
+      <div style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/09/noxem-stock-4.jpg')"></div>
+      <div style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/05/e04f8880-9c1f-4297-9e1a-c44881800b5b.jpg')"></div>
+      <div style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/09/noxem-stock-3.jpg')"></div>
+    </div>
+  </div>
+</section>
+<section class="alt" id="blog">
+  <div class="wrap">
+    <div class="blog-top">
+      <div><p class="kicker" id="blogK">Le blog Noxem</p><h2 id="blogH">Nos derniers articles</h2><p class="sub" id="blogNote" style="display: none;"></p></div>
+      <div class="blog-btns"><a class="btn" id="blogAll" href="/actualites/">Voir tous nos articles (36)</a><a class="btn line" id="blogPress" href="/presse/">Espace presse</a></div>
+    </div>
+    <div class="posts" id="posts"><a class="post" href="/le-hub-du-verre-une-nouvelle-vision-du-marche/" target="_blank" rel="noopener"><div class="im" style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/07/modern-glass-building-with-blue-sky-2026-03-25-22-46-39-utc-768x512.jpg')"></div><div class="bd"><time>21 juillet 2026</time><h3>Le Hub du Verre : une nouvelle vision du marché</h3></div></a><a class="post" href="/le-marche-du-verre-plat-en-2026-entre-ralentissement-conjoncturel-et-profondes-opportunites-de-transformation/" target="_blank" rel="noopener"><div class="im" style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/07/wide-angle-abstract-background-with-stack-of-flat-2026-03-19-04-29-13-utc-768x307.jpg')"></div><div class="bd"><time>21 juillet 2026</time><h3>Le marché du verre plat en 2026 : entre ralentissement conjoncturel et profondes opportunités de transformation</h3></div></a><a class="post" href="/importer-du-verre-plat-en-containers-la-solution-economique-devenue-le-standard-europeen/" target="_blank" rel="noopener"><div class="im" style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/05/12730f12-3363-4533-9319-0a609d800b79-768x461.jpg')"></div><div class="bd"><time>12 juillet 2026</time><h3>Importer du verre plat en containers : la solution économique devenue le standard européen</h3></div></a><a class="post" href="/noxem-group-votre-solution-de-sous-traitance-pour-tous-vos-projets-verriers/" target="_blank" rel="noopener"><div class="im" style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/07/Projet-verre-768x512.jpg')"></div><div class="bd"><time>12 juillet 2026</time><h3>Noxem Group, votre solution de sous-traitance pour tous vos projets verriers</h3></div></a><a class="post" href="/noxem-group-partenaire-de-ludtvp-un-acteur-de-confiance-au-service-des-professionnels-du-verre/" target="_blank" rel="noopener"><div class="im" style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/07/1769691923731-768x576.jpg')"></div><div class="bd"><time>12 juillet 2026</time><h3>Noxem Group, partenaire de l’UDTVP : un acteur de confiance au service des professionnels du verre</h3></div></a><a class="post" href="/noxem-group-lance-son-service-de-stockage-et-de-livraison-j3-pour-les-professionnels-du-verre-en-france-et-en-belgique/" target="_blank" rel="noopener"><div class="im" style="background-image:url('https://noxemgroup.com/wp-content/uploads/2026/03/building-exterior-wall-closeup-2026-01-07-06-57-43-utc-768x512.jpg')"></div><div class="bd"><time>11 mars 2026</time><h3>Noxem Group lance son service de stockage et de livraison J+3 pour les professionnels du verre en France et en Belgique</h3></div></a></div>
+  </div>
+</section>
+<div class="quoteform" id="devis">
+  <div class="wrap">
+    <div>
+      <h2 data-t="f.h">Demander un prix</h2>
+      <p class="sub" data-t="f.sub">Envoyez vos références et votre lieu de livraison. Réponse sous 24 h.</p>
+      <p class="tel"><span data-t="hours">Du lundi au vendredi, 9h–18h</span><b><a href="tel:+33259508459">+33 (0)2 59 50 84 59</a></b></p>
+      <a class="btn wa-inline" id="waInline" target="_blank" rel="noopener" href="https://wa.me/33686131271?text=Bonjour%20Aaron%2C%20peut-on%20parler%20au%20sujet%20de%20Noxem%20%3F"><svg viewBox="0 0 32 32" aria-hidden="true"><path fill="#fff" d="M16 3C8.8 3 3 8.8 3 16c0 2.3.6 4.5 1.7 6.5L3 29l6.7-1.7c1.9 1 4.1 1.6 6.3 1.6 7.2 0 13-5.8 13-13S23.2 3 16 3zm0 23.7c-2 0-4-.6-5.7-1.6l-.4-.2-4 1 1.1-3.9-.3-.4A10.7 10.7 0 1 1 16 26.7zm5.9-8c-.3-.2-1.9-1-2.2-1.1-.3-.1-.5-.2-.7.2-.2.3-.8 1.1-1 1.3-.2.2-.4.2-.7.1-.3-.2-1.4-.5-2.6-1.6-1-.9-1.6-1.9-1.8-2.2-.2-.3 0-.5.1-.7l.5-.6c.2-.2.2-.4.3-.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.1-1.2 2.8s1.2 3.2 1.4 3.4c.2.2 2.4 3.6 5.7 5 .8.3 1.4.5 1.9.7.8.3 1.5.2 2.1.1.6-.1 1.9-.8 2.2-1.5.3-.7.3-1.4.2-1.5-.1-.2-.3-.3-.6-.4z"></path></svg><span>Discuter sur WhatsApp</span></a>
+    </div>
+    <form id="qf" novalidate="">
+      <label><span data-t="f.name">Nom *</span><input name="nom" autocomplete="name" required=""></label>
+      <label><span data-t="f.company">Société</span><input name="societe" autocomplete="organization"></label>
+      <label><span data-t="f.email">E-mail *</span><input name="email" type="email" autocomplete="email" required=""></label>
+      <label><span data-t="f.phone">Téléphone</span><input name="tel" type="tel" autocomplete="tel"></label>
+      <label class="full"><span data-t="f.country">Pays de livraison</span><input name="pays" autocomplete="country-name"></label>
+      <label class="full"><span data-t="f.msg">Produits, épaisseurs et quantités *</span><textarea name="produits" required="" placeholder="Ex. : Float clair 4 mm, 3210 × 2550, 10 conteneurs"></textarea></label>
+      <button class="btn" type="submit" data-t="f.send">Envoyer ma demande</button>
+      <p class="msg" id="fmsg" role="status"></p>
+    </form>
+  </div>
+</div>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://noxemgroup.com/#noxem-organization","name":"Noxem Group","legalName":"NOXEM GROUP SAS","url":"https://noxemgroup.com/","logo":"https://noxemgroup.com/wp-content/uploads/2023/09/LOGO-1.png","description":"Fournisseur de verre plat pour professionnels : float, feuilleté, Low-E, miroirs, verre certifié CE livré en France, en Europe et à l'international.","email":"contact@noxemgroup.com","telephone":"+33 2 59 50 84 59","address":{"@type":"PostalAddress","streetAddress":"5 chemin du Jubin","postalCode":"69570","addressLocality":"Dardilly","addressCountry":"FR"},"founder":{"@type":"Person","name":"Aaron Harfi","jobTitle":"CEO"},"contactPoint":[{"@type":"ContactPoint","contactType":"sales","email":"aaronharfi@noxem-group.com","telephone":"+33 2 59 50 84 59","areaServed":["FR","BE","EU"],"availableLanguage":["fr","en","es","pt","de","it","nl","pl","ar","tr","ru","zh"]},{"@type":"ContactPoint","contactType":"customer service","email":"contact@noxemgroup.com","telephone":"+33 2 59 50 84 59"}],"sameAs":["https://www.instagram.com/noxemgroup","https://www.linkedin.com/company/noxem-group","https://www.youtube.com/@NoxemGroup"],"knowsAbout":["verre plat","float","verre feuilleté","verre Low-E","miroir","flat glass","laminated glass"]}</script>
+<script>
+/* Lecture des vidéos : démarre quand la vidéo est visible ; si le navigateur bloque la lecture automatique, affiche les boutons. Aucun chevron dans ce script. */
+(function(){
+  function prep(v){
+    v.muted = true; v.defaultMuted = true; v.setAttribute('muted', ''); v.setAttribute('playsinline', ''); v.playsInline = true;
+    if (v.getAttribute('preload') !== 'auto') v.setAttribute('preload', 'auto');
+  }
+  function tryPlay(v){
+    var p = v.play();
+    if (p && p.catch) p.catch(function(){ v.controls = true; });
+    setTimeout(function(){ if (v.paused) v.controls = true; }, 2500);
+  }
+  function init(){
+    var vids = [].slice.call(document.querySelectorAll('video[autoplay]'));
+    vids.forEach(prep);
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting) tryPlay(e.target); else e.target.pause(); }); }, {threshold: 0.25});
+      vids.forEach(function(v){ io.observe(v); });
+    } else vids.forEach(tryPlay);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
+  window.addEventListener('load', init);
+})();
+</script>
+<style>
+  .nxf{background:#141b25;color:#b7c0cb;font-size:15px;line-height:1.6;padding:56px 0 0}
+  .nxf .wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+  .nxf .wrap.nxf-grid{display:grid;grid-template-columns:1.6fr 1fr 1fr;gap:36px}
+  .nxf h4{color:#fff;font-size:14px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;margin:0 0 14px}
+  .nxf ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+  .nxf a{color:#dfe4ea;text-decoration:none}
+  .nxf a:hover{color:#fff;text-decoration:underline}
+  .nxf-logo{display:inline-block;background:#fff;border-radius:8px;padding:8px 12px;margin-bottom:16px}
+  .nxf-logo img{height:40px;width:auto;display:block}
+  .nxf-mails{display:grid;gap:10px;margin:16px 0}
+  .nxf-mails a{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:16.5px;word-break:break-all}
+  .nxf-mails a::before{content:"";flex:none;width:30px;height:30px;border-radius:50%;background:#c1272d url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2'%3E%3Crect x='3' y='5' width='18' height='14' rx='2'/%3E%3Cpath d='M3 7l9 6 9-6'/%3E%3C/svg%3E") center/16px no-repeat}
+  .nxf-mails small{display:block;color:#8f99a6;font-weight:500;font-size:12.5px;margin-top:-6px;padding-inline-start:40px}
+  .nxf-tel{color:#fff;font-weight:700}
+  .nxf-soc{display:flex;gap:10px;margin-top:14px}
+  .nxf-soc a{width:38px;height:38px;border-radius:50%;background:#253041;display:grid;place-items:center}
+  .nxf-soc a:hover{background:#c1272d}
+  .nxf-soc svg{width:18px;height:18px;fill:#fff}
+  .nxf-cookie{background:none;border:0;padding:0;font:inherit;color:#dfe4ea;cursor:pointer;text-align:start}
+  .nxf-cookie:hover{color:#fff;text-decoration:underline}
+  .nxf-bar{border-top:1px solid #253041;margin-top:44px;padding:18px 0 22px;font-size:13.5px;color:#8f99a6}
+  .nxf .nxf-bar .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+
+  .nxf-partners{margin:4px 0 14px}
+  .nxf-partners > span{display:block;font-size:12px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:#8f99a6;margin-bottom:8px}
+  .nxf-pl{display:flex;gap:10px;flex-wrap:wrap}
+  .nxf-pl a{display:inline-flex;align-items:center;justify-content:center;background:#fff;border-radius:8px;padding:8px 12px;height:56px;min-width:110px;text-decoration:none}
+  .nxf-pl img{height:44px;width:auto;display:block}
+  .nxf-pl b{color:#1f2a37;font-size:18px;font-weight:800;letter-spacing:.04em}
+  .pl-ffpv{clip-path:polygon(6% 0,100% 0,100% 100%,0 100%,0 20%,6% 20%)}
+  .nxpb{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid #e3e6ea;border-radius:8px;padding:4px 10px;height:46px;text-decoration:none;color:#4a5565;white-space:nowrap}
+  .nxpb:hover{border-color:#c1272d}
+  .nxpb small{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+  .nxpb .rot{position:relative;width:84px;height:34px;display:inline-block}
+  .nxpb .rot span{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;opacity:0;animation:nxpbf 6s infinite}
+  .nxpb .rot span + span{animation-delay:3s}
+  .nxpb img{max-height:32px;max-width:84px;width:auto;display:block}
+  .nxpb b{color:#1f2a37;font-size:15px;font-weight:800;letter-spacing:.04em}
+  @keyframes nxpbf{0%{opacity:0;transform:translateY(6px)}8%,42%{opacity:1;transform:none}50%,100%{opacity:0;transform:translateY(-6px)}}
+  @media (prefers-reduced-motion:reduce){.nxpb .rot span{animation:none;opacity:1;position:static}.nxpb .rot{width:auto;display:inline-flex;gap:6px}}
+  @media (max-width:640px){.nxpb small{display:none}.nxpb{padding:3px 8px;height:40px}.nxpb .rot{width:64px}}
+  @media (max-width:900px){.nxf .wrap.nxf-grid{grid-template-columns:1fr 1fr}}
+  @media (max-width:560px){.nxf .wrap.nxf-grid{grid-template-columns:1fr}.nxf .wrap{padding:0 16px}}
+</style>
+<footer class="nxf" id="nxFooter">
+  <div class="wrap nxf-grid">
+    <div>
+      <a class="nxf-logo" href="/"><img src="https://noxemgroup.com/wp-content/uploads/2023/09/LOGO-1.png" alt="Noxem Group"></a><div class="nxf-partners"><span data-nxf="partners">Partenaires</span><div class="nxf-pl"><a href="/partenaires/"><img src="https://noxemgroup.com/wp-content/uploads/2026/09/logo-partenaire-udtvp.gif" alt="UDTVP — Union des Transformateurs de Verre Plat" class="pl-udtvp"></a><a href="/partenaires/"><img src="https://noxemgroup.com/wp-content/uploads/2026/09/logo-partenaire-ffpv.gif" alt="FFPV — Fédération Française des Professionnels du Verre" class="pl-ffpv"></a></div></div>
+      <div>5 chemin du Jubin, 69570 Dardilly, France</div>
+      <div class="nxf-mails">
+        <a href="mailto:contact@noxemgroup.com">contact@noxemgroup.com</a>
+        <a href="mailto:aaronharfi@noxem-group.com">aaronharfi@noxem-group.com</a>
+        <small data-nxf="ceo">Aaron Harfi, PDG</small>
+      </div>
+      <div><a class="nxf-tel" href="tel:+33259508459">+33 (0)2 59 50 84 59</a></div>
+      <div data-nxf="hours">Du lundi au vendredi, 9h–18h</div>
+    </div>
+    <div>
+      <h4 data-nxf="legal">Informations légales</h4>
+      <ul>
+        <li><a data-nxl="legalnotice" href="/mentions-legales/">Mentions légales</a></li>
+        <li><a data-nxl="privacy" href="/politique-de-confidentialite/">Politique de confidentialité</a></li>
+        <li><a data-nxl="terms" href="/cgv/">Conditions générales de vente (CGV)</a></li>
+        <li><button type="button" class="nxf-cookie cmplz-manage-consent" data-nxf="cookies">Gérer les cookies</button></li>
+      </ul>
+    </div>
+    <div>
+      <h4 data-nxf="contact">Contact</h4>
+      <ul>
+        <li><a data-nxl="quote" href="/#devis">Demander un devis</a></li>
+        <li><a data-nxl="wa" href="https://wa.me/33686131271" target="_blank" rel="noopener">WhatsApp</a></li>
+      </ul>
+      <div class="nxf-soc">
+        <a href="https://www.instagram.com/noxemgroup" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24"><path d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm0 8.2a3.2 3.2 0 1 1 0-6.4 3.2 3.2 0 0 1 0 6.4zM17.3 5.5a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4zM12 2c-2.7 0-3 0-4.1.1C4.2 2.3 2.3 4.2 2.1 7.9 2 9 2 9.3 2 12s0 3 .1 4.1c.2 3.7 2.1 5.6 5.8 5.8 1.1.1 1.4.1 4.1.1s3 0 4.1-.1c3.7-.2 5.600-2.1 5.8-5.8.1-1.1.1-1.4.1-4.1s0-3-.1-4.1c-.2-3.7-2.1-5.6-5.8-5.8C15 2 14.7 2 12 2z"/></svg></a>
+        <a href="https://www.linkedin.com/company/noxem-group" target="_blank" rel="noopener" aria-label="LinkedIn"><svg viewBox="0 0 24 24"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.5h4V21H3zM9.5 9.5h3.8v1.6h.1c.5-1 1.8-2 3.8-2 4 0 4.8 2.6 4.8 6V21h-4v-5.2c0-1.2 0-2.8-1.7-2.8s-2 1.3-2 2.7V21h-4z"/></svg></a>
+        <a href="https://www.youtube.com/@NoxemGroup" target="_blank" rel="noopener" aria-label="YouTube"><svg viewBox="0 0 24 24"><path d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .5 12a31 31 0 0 0 .5 4.8 3 3 0 0 0 2.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8zM9.7 15.1V8.9l5.8 3.1z"/></svg></a>
+      </div>
+    </div>
+  </div>
+  <div class="nxf-bar">
+    <div class="wrap">
+      <span>© Noxem Group 2026 — <span data-nxf="rights">Tous droits réservés.</span></span>
+      <span>NOXEM GROUP SAS · <span data-nxf="capital">capital social de 100 000 €</span> · RCS Lyon 945 290 310</span><span id="footLinks" hidden></span>
+    </div>
+  </div>
+</footer>
+<script>
+/* Pied de page : traductions. Aucun chevron dans ce script (WordPress le reformaterait). */
+(function(){
+  var T = {
+    fr:{partners:"Partenaires",quick:"Liens rapides",legal:"Informations légales",contact:"Contact",ceo:"Aaron Harfi, PDG",hours:"Du lundi au vendredi, 9h–18h",cookies:"Gérer les cookies",rights:"Tous droits réservés.",capital:"capital social de 100 000 €",about:"À propos",catalog:"Catalogue",logistics:"Logistique",outsourcing:"Sous-traitance",blog:"Blog",press:"Presse",legalnotice:"Mentions légales",privacy:"Politique de confidentialité",terms:"Conditions générales de vente (CGV)",contactl:"Nous contacter",quote:"Demander un devis"},
+    en:{partners:"Partners",quick:"Quick links",legal:"Legal information",contact:"Contact",ceo:"Aaron Harfi, CEO",hours:"Monday to Friday, 9am–6pm (CET)",cookies:"Manage cookies",rights:"All rights reserved.",capital:"share capital €100,000",about:"About us",catalog:"Catalogue",logistics:"Logistics",outsourcing:"Outsourcing",blog:"Blog",press:"Press",legalnotice:"Legal notice",privacy:"Privacy policy",terms:"Terms and conditions of sale",contactl:"Contact us",quote:"Request a quote"},
+    es:{partners:"Socios",quick:"Enlaces rápidos",legal:"Información legal",contact:"Contacto",ceo:"Aaron Harfi, CEO",hours:"De lunes a viernes, 9:00–18:00 (CET)",cookies:"Gestionar cookies",rights:"Todos los derechos reservados.",capital:"capital social de 100 000 €",about:"Quiénes somos",catalog:"Catálogo",logistics:"Logística",outsourcing:"Subcontratación",blog:"Blog",press:"Prensa",legalnotice:"Aviso legal",privacy:"Política de privacidad",terms:"Condiciones generales de venta",contactl:"Contáctenos",quote:"Solicitar presupuesto"},
+    pt:{partners:"Parceiros",quick:"Ligações rápidas",legal:"Informações legais",contact:"Contacto",ceo:"Aaron Harfi, CEO",hours:"De segunda a sexta, 9h–18h (CET)",cookies:"Gerir cookies",rights:"Todos os direitos reservados.",capital:"capital social de 100 000 €",about:"Sobre nós",catalog:"Catálogo",logistics:"Logística",outsourcing:"Subcontratação",blog:"Blog",press:"Imprensa",legalnotice:"Aviso legal",privacy:"Política de privacidade",terms:"Condições gerais de venda",contactl:"Contacte-nos",quote:"Pedir orçamento"},
+    de:{partners:"Partner",quick:"Schnellzugriff",legal:"Rechtliche Hinweise",contact:"Kontakt",ceo:"Aaron Harfi, CEO",hours:"Montag bis Freitag, 9–18 Uhr (MEZ)",cookies:"Cookie-Einstellungen",rights:"Alle Rechte vorbehalten.",capital:"Stammkapital 100.000 €",about:"Über uns",catalog:"Katalog",logistics:"Logistik",outsourcing:"Lohnfertigung",blog:"Blog",press:"Presse",legalnotice:"Impressum",privacy:"Datenschutz",terms:"Allgemeine Verkaufsbedingungen",contactl:"Kontakt aufnehmen",quote:"Angebot anfordern"},
+    it:{partners:"Partner",quick:"Link rapidi",legal:"Informazioni legali",contact:"Contatti",ceo:"Aaron Harfi, CEO",hours:"Dal lunedì al venerdì, 9–18 (CET)",cookies:"Gestisci cookie",rights:"Tutti i diritti riservati.",capital:"capitale sociale 100.000 €",about:"Chi siamo",catalog:"Catalogo",logistics:"Logistica",outsourcing:"Subfornitura",blog:"Blog",press:"Stampa",legalnotice:"Note legali",privacy:"Privacy",terms:"Condizioni generali di vendita",contactl:"Contattaci",quote:"Richiedi un preventivo"},
+    nl:{partners:"Partners",quick:"Snelle links",legal:"Juridische informatie",contact:"Contact",ceo:"Aaron Harfi, CEO",hours:"Maandag tot vrijdag, 9–18 u (CET)",cookies:"Cookies beheren",rights:"Alle rechten voorbehouden.",capital:"maatschappelijk kapitaal € 100.000",about:"Over ons",catalog:"Catalogus",logistics:"Logistiek",outsourcing:"Uitbesteding",blog:"Blog",press:"Pers",legalnotice:"Juridische kennisgeving",privacy:"Privacybeleid",terms:"Algemene verkoopvoorwaarden",contactl:"Contact opnemen",quote:"Offerte aanvragen"},
+    pl:{partners:"Partnerzy",quick:"Szybkie linki",legal:"Informacje prawne",contact:"Kontakt",ceo:"Aaron Harfi, prezes",hours:"Od poniedziałku do piątku, 9:00–18:00 (CET)",cookies:"Ustawienia cookies",rights:"Wszelkie prawa zastrzeżone.",capital:"kapitał zakładowy 100 000 €",about:"O nas",catalog:"Katalog",logistics:"Logistyka",outsourcing:"Podwykonawstwo",blog:"Blog",press:"Prasa",legalnotice:"Informacje prawne",privacy:"Polityka prywatności",terms:"Ogólne warunki sprzedaży",contactl:"Skontaktuj się",quote:"Poproś o wycenę"},
+    ar:{partners:"الشركاء",quick:"روابط سريعة",legal:"معلومات قانونية",contact:"اتصل بنا",ceo:"آرون حرفي، الرئيس التنفيذي",hours:"من الاثنين إلى الجمعة، 9:00–18:00 (بتوقيت باريس)",cookies:"إدارة ملفات تعريف الارتباط",rights:"جميع الحقوق محفوظة.",capital:"رأس المال 100000 يورو",about:"من نحن",catalog:"الكتالوج",logistics:"الخدمات اللوجستية",outsourcing:"التصنيع بالتعاقد",blog:"المدونة",press:"الصحافة",legalnotice:"إشعار قانوني",privacy:"سياسة الخصوصية",terms:"الشروط العامة للبيع",contactl:"تواصل معنا",quote:"اطلب عرض سعر"},
+    tr:{partners:"Ortaklar",quick:"Hızlı bağlantılar",legal:"Yasal bilgiler",contact:"İletişim",ceo:"Aaron Harfi, CEO",hours:"Pazartesi–Cuma, 09:00–18:00 (CET)",cookies:"Çerezleri yönet",rights:"Tüm hakları saklıdır.",capital:"sermaye 100.000 €",about:"Hakkımızda",catalog:"Katalog",logistics:"Lojistik",outsourcing:"Fason üretim",blog:"Blog",press:"Basın",legalnotice:"Yasal uyarı",privacy:"Gizlilik politikası",terms:"Genel satış koşulları",contactl:"Bize ulaşın",quote:"Teklif isteyin"},
+    ru:{partners:"Партнёры",quick:"Быстрые ссылки",legal:"Правовая информация",contact:"Контакты",ceo:"Аарон Харфи, генеральный директор",hours:"С понедельника по пятницу, 9:00–18:00 (CET)",cookies:"Настройки cookies",rights:"Все права защищены.",capital:"уставный капитал 100 000 €",about:"О компании",catalog:"Каталог",logistics:"Логистика",outsourcing:"Субподряд",blog:"Блог",press:"Пресса",legalnotice:"Правовая информация",privacy:"Политика конфиденциальности",terms:"Общие условия продажи",contactl:"Связаться с нами",quote:"Запросить предложение"},
+    zh:{partners:"合作伙伴",quick:"快速链接",legal:"法律信息",contact:"联系我们",ceo:"Aaron Harfi，首席执行官",hours:"周一至周五 9:00–18:00（欧洲中部时间）",cookies:"管理 Cookie",rights:"版权所有。",capital:"注册资本 100,000 欧元",about:"关于我们",catalog:"产品目录",logistics:"物流",outsourcing:"代加工",blog:"博客",press:"新闻",legalnotice:"法律声明",privacy:"隐私政策",terms:"销售条款",contactl:"联系我们",quote:"获取报价"}
+  };
+  var FR = {blog:"/actualites/",press:"/presse/",legalnotice:"/mentions-legales/",privacy:"/politique-de-confidentialite/",terms:"/cgv/",contact:"/#devis"};
+  var EN = {blog:"/actualites/",press:"/presse/",legalnotice:"/en/legal-notice/",privacy:"/en/privacy-policy/",terms:"/en/terms-conditions/",contact:"/#devis"};
+  function apply(){
+    var code = (document.documentElement.getAttribute('lang') || 'fr').slice(0,2).toLowerCase();
+    var t = T[code] || T.fr, links = code === 'fr' ? FR : EN;
+    var root = document.getElementById('nxFooter'); if (!root) return;
+    document.querySelectorAll('#nxFooter [data-nxf], .nxpb [data-nxf]').forEach(function(el){ var k = el.getAttribute('data-nxf'); if (t[k]) el.textContent = t[k]; });
+    root.querySelectorAll('[data-nxl]').forEach(function(el){
+      var k = el.getAttribute('data-nxl');
+      var label = k === 'contact' ? t.contactl : t[k];
+      if (label) el.textContent = label;
+      if (links[k]) el.setAttribute('href', links[k]);
+    });
+  }
+  apply();
+  new MutationObserver(apply).observe(document.documentElement, {attributes:true, attributeFilter:['lang']});
+})();
+</script>
+
+<a class="wa-float" id="waFloat" target="_blank" rel="noopener"></a>
+<script>
+// Traductions de la maquette d'accueil Noxem Group.
+// Chaque langue a exactement la même structure que "fr".
+window.NOXEM_LANGS = ["fr","en","es","pt","de","it","nl","pl","ar","tr","ru","zh"];
+window.NOXEM_I18N = {
+
+fr: {
+  name: "🇫🇷 Français", dir: "ltr",
+  mock: ["MAQUETTE — non publiée.", "Aperçu de la nouvelle page d'accueil."],
+  nav: ["Comment ça marche","Nos offres","Produits","Sur le terrain","Contact"],
+  cta: "Demander un prix",
+  eyebrow: "Importateur & négociant de verre plat",
+  h1: "Votre verre plat \x3cem>en direct usine\x3c/em>, à prix extrêmement compétitifs.",
+  lead: "Float, feuilleté, Low-E, miroirs : du verre plat de qualité, certifié CE, livré directement sur votre site en France, en Europe et à l'international.",
+  ctaHow: "Comment ça marche",
+  facts: [["600+","références de verre plat"],["EN · CE","verres certifiés aux normes"],["Prix usine","sans intermédiaire"],["24 h","pour recevoir votre prix"],["Europe & monde","livraison sur votre site"]],
+  k1: "Notre métier",
+  h2a: "Nous importons et livrons votre verre plat, en grands volumes, au meilleur prix.",
+  subA: "Noxem Group est importateur et négociant de verre plat : stock en Belgique, export en conteneur jusqu'à votre port et livraison sur votre site, avec un seul interlocuteur.",
+  quote: "« Avec Noxem Group, vous avez un seul interlocuteur, des prix extrêmement compétitifs et une réponse sous 24 h avec un devis détaillé. »",
+  quoteBy: "Aaron Harfi, PDG de Noxem Group",
+  roles: [["Grands volumes","Du camion complet à plusieurs conteneurs par commande, à prix extrêmement compétitifs."],["Qualité certifiée","Verres conformes aux normes EN et CE, certificats fournis avec chaque commande."],["Logistique de A à Z","Transport, dédouanement et livraison finale : un seul interlocuteur."]],
+  note: "\x3cb>Ce que ça change pour vous :\x3c/b> vous payez le prix usine, sans monter votre propre service import et sans financer l'entrepôt d'un grossiste.",
+  k2: "Comment ça marche",
+  h2b: "De votre demande à votre livraison, en 5 étapes.",
+  steps: [["Votre demande","Références, épaisseurs, quantités, lieu de livraison. Une liste Excel suffit."],["Votre prix sous 24 h","Un devis détaillé, rendu chez vous, avec le délai annoncé."],["Commande & contrôle","Commande confirmée par écrit, contrôle de conformité EN."],["Emballage & transport","Caisses bois sécurisées, sanglage, cales et intercalaires."],["Livraison","Dédouané et livré sur votre site, prêt à décharger."]],
+  k3: "Nos offres",
+  h2c: "Deux façons d'acheter, selon vos volumes.",
+  offers: [
+    {tag:"Import direct", t:"Conteneur complet, prix usine", p:"Le prix le plus bas, pour les gros volumes.", li:["Conteneur complet en caisses bois sécurisées","Livré dédouané sur votre site","Prix usine, sans intermédiaire"], for:"transformateurs, négociants, distributeurs, stockistes, importateurs."},
+    {tag:"Livraison panachée", t:"Plusieurs références, un seul transport", p:"Pour des volumes plus souples, sans remplir un conteneur.", li:["Piles panachées : plusieurs références et épaisseurs","Plateaux panachés dans un même camion","Petites et moyennes quantités"], for:"miroiteries, petits et moyens transformateurs."}
+  ],
+  forLabel: "Pour :",
+  k4: "Pour qui",
+  h2d: "Nous travaillons avec les professionnels qui achètent le verre en volume.",
+  who: [["Transformateurs & trempeurs","Float et feuilleté en grands formats pour alimenter vos lignes."],["Miroiteries","Miroirs et verres décoratifs en direct, complets ou panachés."],["Négociants & distributeurs","Des volumes et des prix compétitifs, sans service import."],["Stockistes","Des approvisionnements réguliers en volume, à prix maîtrisé."],["Industriels","Du verre plat pour vos fabrications : mobilier, agencement, électroménager."],["Importateurs internationaux","Une chaîne d'achat et de transport coordonnée pour vous."]],
+  k5: "Produits",
+  h2e: "Plus de 600 références de verre plat, aux normes EN.",
+  prodA: "En direct usine",
+  chipsA: ["Float clair","Float teinté","Extra-clair","Miroirs","Feuilleté","Feuilleté opale","Feuilleté acoustique","Low-E","Contrôle solaire","Verre trempable","Verre décoratif"],
+  noteA: "Une référence manque ? Nous la trouvons pour vous.",
+  prodB: "Transformés sur demande",
+  chipsB: ["Trempé / trempé HST","Feuilleté trempé","Double vitrage","Garde-corps","Façonnage & perçage"],
+  noteB: "Réalisés sur plan, pour vos projets spécifiques ou vos pics d'activité.",
+  catalog: "Télécharger le catalogue (PDF)",
+  k6: "Infos pratiques",
+  h2f: "Ce qu'on nous demande avant chaque commande.",
+  spec: [["Livraison","Dédouané et livré sur votre site, en France, en Europe et à l'international"],["Conditionnement","Caisses bois sécurisées, sanglage, cales et papier intercalaire entre chaque feuille"],["Formats","Standard 3210 × 2550 mm, autres dimensions sur demande"],["Normes","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Réponse","Sous 24 h ouvrées, avec un appel et un devis détaillé"]],
+  k7: "Sur le terrain",
+  h2g: "Vos commandes, avant le départ.",
+  subG: "Vos verres sont contrôlés, mis en caisses et chargés avec soin. Nous vous envoyons photos et vidéos à chaque étape.",
+  cap: ["Conteneur prêt au chargement","Chargement en camion à Mollem"],
+  f: {h:"Demander un prix", sub:"Envoyez vos références et votre lieu de livraison. Réponse sous 24 h.", name:"Nom *", company:"Société", email:"E-mail *", phone:"Téléphone", country:"Pays de livraison", msg:"Produits, épaisseurs et quantités *", msgPh:"Ex. : Float clair 4 mm, 3210 × 2550, 10 conteneurs", send:"Envoyer ma demande", ok:"Merci ! Votre demande a bien été envoyée. Nous vous répondons sous 24 h.", err:"L'envoi n'a pas abouti. Écrivez-nous à aaronharfi@noxem-group.com ou sur WhatsApp.", req:"Merci de remplir le nom, l'e-mail et les produits."},
+  hours: "Du lundi au vendredi, 9h–18h",
+  wa: {label:"Discuter sur WhatsApp", msg:"Bonjour Aaron, peut-on parler au sujet de Noxem ?"},
+  foot: "Mentions légales · Confidentialité · CGV"
+},
+
+en: {
+  name: "🇬🇧 English", dir: "ltr",
+  mock: ["MOCKUP — not published.", "Preview of the new home page."],
+  nav: ["How it works","Our offers","Products","In the field","Contact"],
+  cta: "Request a price",
+  eyebrow: "Flat glass importer & trader",
+  h1: "Your flat glass \x3cem>direct from the factory\x3c/em>, at extremely competitive prices.",
+  lead: "Float, laminated, Low-E, mirrors: quality CE-certified flat glass, delivered straight to your site in France, across Europe and worldwide.",
+  ctaHow: "How it works",
+  facts: [["600+","flat glass references"],["EN · CE","certified to standards"],["Factory price","no middleman"],["24 h","to get your price"],["Europe & worldwide","delivered to your site"]],
+  k1: "What we do",
+  h2a: "We import and deliver your flat glass, in large volumes, at the best price.",
+  subA: "Noxem Group is an importer and trader of flat glass: stock in Belgium, export by container to your port and delivery to your site, with a single contact.",
+  quote: "“With Noxem Group, you get a single contact, extremely competitive prices and a reply within 24 hours with a detailed quote.”",
+  quoteBy: "Aaron Harfi, CEO of Noxem Group",
+  roles: [["Large volumes","From a full truck to several containers per order, at extremely competitive prices."],["Certified quality","Glass compliant with EN and CE standards, certificates supplied with every order."],["End-to-end logistics","Transport, customs clearance and final delivery: one single contact."]],
+  note: "\x3cb>What it means for you:\x3c/b> you pay the factory price, without building your own import department or funding a wholesaler's warehouse.",
+  k2: "How it works",
+  h2b: "From your request to your delivery, in 5 steps.",
+  steps: [["Your request","References, thicknesses, quantities, delivery address. An Excel list is enough."],["Your price within 24 h","A detailed quote, delivered to you, with the lead time stated."],["Order & inspection","Order confirmed in writing, EN compliance check."],["Packing & transport","Secured wooden crates, strapping, spacers and interleaving."],["Delivery","Customs-cleared and delivered to your site, ready to unload."]],
+  k3: "Our offers",
+  h2c: "Two ways to buy, depending on your volumes.",
+  offers: [
+    {tag:"Direct import", t:"Full container, factory price", p:"The lowest price, for large volumes.", li:["Full container in secured wooden crates","Delivered customs-cleared to your site","Factory price, no middleman"], for:"glass processors, traders, distributors, stockists, importers."},
+    {tag:"Mixed delivery", t:"Several references, one shipment", p:"For more flexible volumes, without filling a container.", li:["Mixed stacks: several references and thicknesses","Mixed racks in the same truck","Small and medium quantities"], for:"mirror makers, small and medium glass processors."}
+  ],
+  forLabel: "For:",
+  k4: "Who we serve",
+  h2d: "We work with professionals who buy glass in volume.",
+  who: [["Processors & tempering plants","Float and laminated glass in jumbo sizes to feed your lines."],["Mirror makers","Mirrors and decorative glass direct, full or mixed loads."],["Traders & distributors","Competitive volumes and prices, without an import department."],["Stockists","Regular volume supply at a controlled price."],["Manufacturers","Flat glass for your production: furniture, interiors, appliances."],["International importers","A purchasing and shipping chain coordinated for you."]],
+  k5: "Products",
+  h2e: "Over 600 flat glass references, to EN standards.",
+  prodA: "Direct from the factory",
+  chipsA: ["Clear float","Tinted float","Extra-clear","Mirrors","Laminated","Opal laminated","Acoustic laminated","Low-E","Solar control","Temperable glass","Decorative glass"],
+  noteA: "Missing a reference? We will find it for you.",
+  prodB: "Processed on request",
+  chipsB: ["Tempered / HST","Tempered laminated","Double glazing","Balustrades","Edgework & drilling"],
+  noteB: "Made to drawing, for specific projects or production peaks.",
+  catalog: "Download the catalogue (PDF)",
+  k6: "Practical info",
+  h2f: "What customers ask us before every order.",
+  spec: [["Delivery","Customs-cleared and delivered to your site, in France, Europe and worldwide"],["Packing","Secured wooden crates, strapping, spacers and paper between every sheet"],["Sizes","Standard 3210 × 2550 mm, other sizes on request"],["Standards","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Response","Within 24 working hours, with a call and a detailed quote"]],
+  k7: "In the field",
+  h2g: "Your orders, before departure.",
+  subG: "Your glass is inspected, crated and loaded with care. We send you photos and videos at every step.",
+  cap: ["Container ready for loading","Truck loading in Mollem"],
+  f: {h:"Request a price", sub:"Send your references and delivery location. Reply within 24 hours.", name:"Name *", company:"Company", email:"Email *", phone:"Phone", country:"Delivery country", msg:"Products, thicknesses and quantities *", msgPh:"E.g. clear float 4 mm, 3210 × 2550, 10 containers", send:"Send my request", ok:"Thank you! Your request has been sent. We will reply within 24 hours.", err:"Sending failed. Please write to aaronharfi@noxem-group.com or contact us on WhatsApp.", req:"Please fill in name, email and products."},
+  hours: "Monday to Friday, 9am–6pm (CET)",
+  wa: {label:"Chat on WhatsApp", msg:"Hello Aaron, can we talk about Noxem?"},
+  foot: "Legal notice · Privacy · Terms"
+},
+
+es: {
+  name: "🇪🇸 Español", dir: "ltr",
+  mock: ["MAQUETA — no publicada.", "Vista previa de la nueva página de inicio."],
+  nav: ["Cómo funciona","Nuestras ofertas","Productos","Sobre el terreno","Contacto"],
+  cta: "Solicitar precio",
+  eyebrow: "Importador y comerciante de vidrio plano",
+  h1: "Su vidrio plano \x3cem>directo de fábrica\x3c/em>, a precios extremadamente competitivos.",
+  lead: "Float, laminado, Low-E, espejos: vidrio plano de calidad con certificación CE, entregado directamente en su destino en Francia, Europa y todo el mundo.",
+  ctaHow: "Cómo funciona",
+  facts: [["600+","referencias de vidrio plano"],["EN · CE","vidrios certificados"],["Precio de fábrica","sin intermediarios"],["24 h","para recibir su precio"],["Europa y mundo","entrega en su destino"]],
+  k1: "Nuestro oficio",
+  h2a: "Importamos y entregamos su vidrio plano, en grandes volúmenes, al mejor precio.",
+  subA: "Noxem Group es importador y comerciante de vidrio plano: stock en Bélgica, exportación en contenedor hasta su puerto y entrega en su obra, con un único interlocutor.",
+  quote: "«Con Noxem Group tiene un único interlocutor, precios extremadamente competitivos y una respuesta en 24 h con un presupuesto detallado.»",
+  quoteBy: "Aaron Harfi, CEO de Noxem Group",
+  roles: [["Grandes volúmenes","Desde un camión completo hasta varios contenedores por pedido, a precios extremadamente competitivos."],["Calidad certificada","Vidrios conformes a las normas EN y CE, certificados entregados con cada pedido."],["Logística de principio a fin","Transporte, despacho aduanero y entrega final: un único interlocutor."]],
+  note: "\x3cb>Lo que cambia para usted:\x3c/b> paga el precio de fábrica, sin crear su propio departamento de importación ni financiar el almacén de un mayorista.",
+  k2: "Cómo funciona",
+  h2b: "De su solicitud a su entrega, en 5 pasos.",
+  steps: [["Su solicitud","Referencias, espesores, cantidades, lugar de entrega. Basta con una lista en Excel."],["Su precio en 24 h","Un presupuesto detallado, puesto en destino, con el plazo indicado."],["Pedido y control","Pedido confirmado por escrito, control de conformidad EN."],["Embalaje y transporte","Cajas de madera seguras, flejado, calzos e intercalarios."],["Entrega","Despachado en aduana y entregado en su destino, listo para descargar."]],
+  k3: "Nuestras ofertas",
+  h2c: "Dos formas de comprar, según sus volúmenes.",
+  offers: [
+    {tag:"Importación directa", t:"Contenedor completo, precio de fábrica", p:"El precio más bajo, para grandes volúmenes.", li:["Contenedor completo en cajas de madera seguras","Entregado con aduana despachada en su destino","Precio de fábrica, sin intermediarios"], for:"transformadores, comerciantes, distribuidores, almacenistas, importadores."},
+    {tag:"Entrega combinada", t:"Varias referencias, un solo transporte", p:"Para volúmenes más flexibles, sin llenar un contenedor.", li:["Pilas combinadas: varias referencias y espesores","Caballetes combinados en un mismo camión","Cantidades pequeñas y medianas"], for:"cristalerías, pequeños y medianos transformadores."}
+  ],
+  forLabel: "Para:",
+  k4: "Para quién",
+  h2d: "Trabajamos con profesionales que compran vidrio en volumen.",
+  who: [["Transformadores y templadores","Float y laminado en grandes formatos para abastecer sus líneas."],["Cristalerías","Espejos y vidrios decorativos directos, completos o combinados."],["Comerciantes y distribuidores","Volúmenes y precios competitivos, sin departamento de importación."],["Almacenistas","Suministros regulares en volumen, a precio controlado."],["Industriales","Vidrio plano para su producción: mobiliario, interiorismo, electrodomésticos."],["Importadores internacionales","Una cadena de compra y transporte coordinada para usted."]],
+  k5: "Productos",
+  h2e: "Más de 600 referencias de vidrio plano, según normas EN.",
+  prodA: "Directo de fábrica",
+  chipsA: ["Float incoloro","Float coloreado","Extraclaro","Espejos","Laminado","Laminado opal","Laminado acústico","Bajo emisivo (Low-E)","Control solar","Vidrio templable","Vidrio decorativo"],
+  noteA: "¿Falta una referencia? La encontramos para usted.",
+  prodB: "Transformados a pedido",
+  chipsB: ["Templado / HST","Laminado templado","Doble acristalamiento","Barandillas","Canteado y taladrado"],
+  noteB: "Fabricados según plano, para sus proyectos específicos o sus picos de actividad.",
+  catalog: "Descargar el catálogo (PDF)",
+  k6: "Información práctica",
+  h2f: "Lo que nos preguntan antes de cada pedido.",
+  spec: [["Entrega","Con aduana despachada y entregado en su destino, en Francia, Europa y a nivel internacional"],["Embalaje","Cajas de madera seguras, flejado, calzos y papel entre cada hoja"],["Formatos","Estándar 3210 × 2550 mm, otras medidas a pedido"],["Normas","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Respuesta","En 24 horas laborables, con una llamada y un presupuesto detallado"]],
+  k7: "Sobre el terreno",
+  h2g: "Sus pedidos, antes de la salida.",
+  subG: "Sus vidrios se controlan, se embalan en cajas y se cargan con cuidado. Le enviamos fotos y vídeos en cada etapa.",
+  cap: ["Contenedor listo para la carga","Carga en camión en Mollem"],
+  f: {h:"Solicitar precio", sub:"Envíe sus referencias y lugar de entrega. Respuesta en 24 h.", name:"Nombre *", company:"Empresa", email:"Correo electrónico *", phone:"Teléfono", country:"País de entrega", msg:"Productos, espesores y cantidades *", msgPh:"Ej.: Float incoloro 4 mm, 3210 × 2550, 10 contenedores", send:"Enviar mi solicitud", ok:"¡Gracias! Su solicitud ha sido enviada. Le respondemos en 24 h.", err:"El envío ha fallado. Escríbanos a aaronharfi@noxem-group.com o por WhatsApp.", req:"Por favor, indique nombre, correo y productos."},
+  hours: "De lunes a viernes, 9:00–18:00 (CET)",
+  wa: {label:"Hablar por WhatsApp", msg:"Hola Aaron, ¿podemos hablar sobre Noxem?"},
+  foot: "Aviso legal · Privacidad · Condiciones"
+},
+
+pt: {
+  name: "🇵🇹 Português", dir: "ltr",
+  mock: ["MAQUETE — não publicada.", "Pré-visualização da nova página inicial."],
+  nav: ["Como funciona","Nossas ofertas","Produtos","No terreno","Contacto"],
+  cta: "Pedir preço",
+  eyebrow: "Importador e comerciante de vidro plano",
+  h1: "O seu vidro plano \x3cem>direto da fábrica\x3c/em>, a preços extremamente competitivos.",
+  lead: "Float, laminado, Low-E, espelhos: vidro plano de qualidade, certificado CE, entregue diretamente no seu local em França, na Europa e em todo o mundo.",
+  ctaHow: "Como funciona",
+  facts: [["600+","referências de vidro plano"],["EN · CE","vidros certificados"],["Preço de fábrica","sem intermediários"],["24 h","para receber o seu preço"],["Europa e mundo","entrega no seu local"]],
+  k1: "O nosso trabalho",
+  h2a: "Importamos e entregamos o seu vidro plano, em grandes volumes, ao melhor preço.",
+  subA: "A Noxem Group é importadora e comerciante de vidro plano: stock na Bélgica, exportação em contentor até ao seu porto e entrega na sua obra, com um único interlocutor.",
+  quote: "«Com a Noxem Group tem um único interlocutor, preços extremamente competitivos e uma resposta em 24 h com um orçamento detalhado.»",
+  quoteBy: "Aaron Harfi, CEO da Noxem Group",
+  roles: [["Grandes volumes","De um camião completo a vários contentores por encomenda, a preços extremamente competitivos."],["Qualidade certificada","Vidros conformes às normas EN e CE, certificados fornecidos com cada encomenda."],["Logística de ponta a ponta","Transporte, desalfandegamento e entrega final: um único interlocutor."]],
+  note: "\x3cb>O que muda para si:\x3c/b> paga o preço de fábrica, sem criar o seu próprio departamento de importação nem financiar o armazém de um grossista.",
+  k2: "Como funciona",
+  h2b: "Do seu pedido à sua entrega, em 5 etapas.",
+  steps: [["O seu pedido","Referências, espessuras, quantidades, local de entrega. Basta uma lista em Excel."],["O seu preço em 24 h","Um orçamento detalhado, entregue no destino, com o prazo indicado."],["Encomenda e controlo","Encomenda confirmada por escrito, controlo de conformidade EN."],["Embalagem e transporte","Caixas de madeira seguras, cintagem, calços e intercalares."],["Entrega","Desalfandegado e entregue no seu local, pronto a descarregar."]],
+  k3: "Nossas ofertas",
+  h2c: "Duas formas de comprar, conforme os seus volumes.",
+  offers: [
+    {tag:"Importação direta", t:"Contentor completo, preço de fábrica", p:"O preço mais baixo, para grandes volumes.", li:["Contentor completo em caixas de madeira seguras","Entregue desalfandegado no seu local","Preço de fábrica, sem intermediários"], for:"transformadores, comerciantes, distribuidores, armazenistas, importadores."},
+    {tag:"Entrega mista", t:"Várias referências, um só transporte", p:"Para volumes mais flexíveis, sem encher um contentor.", li:["Pilhas mistas: várias referências e espessuras","Cavaletes mistos no mesmo camião","Quantidades pequenas e médias"], for:"vidrarias, pequenos e médios transformadores."}
+  ],
+  forLabel: "Para:",
+  k4: "Para quem",
+  h2d: "Trabalhamos com profissionais que compram vidro em volume.",
+  who: [["Transformadores e têmpera","Float e laminado em grandes formatos para abastecer as suas linhas."],["Vidrarias","Espelhos e vidros decorativos diretos, completos ou mistos."],["Comerciantes e distribuidores","Volumes e preços competitivos, sem departamento de importação."],["Armazenistas","Abastecimento regular em volume, a preço controlado."],["Indústria","Vidro plano para a sua produção: mobiliário, decoração, eletrodomésticos."],["Importadores internacionais","Uma cadeia de compra e transporte coordenada para si."]],
+  k5: "Produtos",
+  h2e: "Mais de 600 referências de vidro plano, segundo as normas EN.",
+  prodA: "Direto da fábrica",
+  chipsA: ["Float incolor","Float colorido","Extra-claro","Espelhos","Laminado","Laminado opalino","Laminado acústico","Baixo emissivo (Low-E)","Controlo solar","Vidro temperável","Vidro decorativo"],
+  noteA: "Falta uma referência? Encontramo-la para si.",
+  prodB: "Transformados por encomenda",
+  chipsB: ["Temperado / HST","Laminado temperado","Vidro duplo","Guardas","Lapidação e furação"],
+  noteB: "Fabricados por medida, para os seus projetos específicos ou picos de atividade.",
+  catalog: "Descarregar o catálogo (PDF)",
+  k6: "Informações práticas",
+  h2f: "O que nos perguntam antes de cada encomenda.",
+  spec: [["Entrega","Desalfandegado e entregue no seu local, em França, na Europa e a nível internacional"],["Embalagem","Caixas de madeira seguras, cintagem, calços e papel entre cada folha"],["Formatos","Padrão 3210 × 2550 mm, outras medidas por encomenda"],["Normas","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Resposta","Em 24 horas úteis, com uma chamada e um orçamento detalhado"]],
+  k7: "No terreno",
+  h2g: "As suas encomendas, antes da partida.",
+  subG: "Os seus vidros são controlados, embalados em caixas e carregados com cuidado. Enviamos-lhe fotos e vídeos em cada etapa.",
+  cap: ["Contentor pronto para carregamento","Carregamento em camião em Mollem"],
+  f: {h:"Pedir preço", sub:"Envie as suas referências e o local de entrega. Resposta em 24 h.", name:"Nome *", company:"Empresa", email:"E-mail *", phone:"Telefone", country:"País de entrega", msg:"Produtos, espessuras e quantidades *", msgPh:"Ex.: Float incolor 4 mm, 3210 × 2550, 10 contentores", send:"Enviar o meu pedido", ok:"Obrigado! O seu pedido foi enviado. Respondemos em 24 h.", err:"O envio falhou. Escreva-nos para aaronharfi@noxem-group.com ou pelo WhatsApp.", req:"Preencha o nome, o e-mail e os produtos."},
+  hours: "De segunda a sexta, 9h–18h (CET)",
+  wa: {label:"Falar no WhatsApp", msg:"Olá Aaron, podemos falar sobre a Noxem?"},
+  foot: "Aviso legal · Privacidade · Condições"
+},
+
+de: {
+  name: "🇩🇪 Deutsch", dir: "ltr",
+  mock: ["ENTWURF — nicht veröffentlicht.", "Vorschau der neuen Startseite."],
+  nav: ["So funktioniert's","Angebote","Produkte","Vor Ort","Kontakt"],
+  cta: "Preis anfragen",
+  eyebrow: "Importeur & Händler für Flachglas",
+  h1: "Ihr Flachglas \x3cem>direkt ab Werk\x3c/em>, zu äußerst wettbewerbsfähigen Preisen.",
+  lead: "Float, VSG, Low-E, Spiegel: hochwertiges, CE-zertifiziertes Flachglas, direkt an Ihren Standort geliefert – in Frankreich, Europa und weltweit.",
+  ctaHow: "So funktioniert's",
+  facts: [["600+","Flachglas-Referenzen"],["EN · CE","normgerecht zertifiziert"],["Werkspreis","ohne Zwischenhändler"],["24 Std.","bis zu Ihrem Preis"],["Europa & weltweit","Lieferung an Ihren Standort"]],
+  k1: "Was wir tun",
+  h2a: "Wir importieren und liefern Ihr Flachglas – in großen Mengen, zum besten Preis.",
+  subA: "Noxem Group ist Importeur und Händler von Flachglas: Lager in Belgien, Export per Container bis zu Ihrem Hafen und Lieferung auf Ihre Baustelle – mit einem einzigen Ansprechpartner.",
+  quote: "„Mit Noxem Group haben Sie einen einzigen Ansprechpartner, äußerst wettbewerbsfähige Preise und eine Antwort innerhalb von 24 Stunden mit detailliertem Angebot.“",
+  quoteBy: "Aaron Harfi, CEO von Noxem Group",
+  roles: [["Große Mengen","Vom Komplett-LKW bis zu mehreren Containern pro Auftrag, zu äußerst wettbewerbsfähigen Preisen."],["Zertifizierte Qualität","Glas nach EN- und CE-Normen, Zertifikate bei jeder Bestellung."],["Logistik aus einer Hand","Transport, Verzollung und Endlieferung: ein einziger Ansprechpartner."]],
+  note: "\x3cb>Ihr Vorteil:\x3c/b> Sie zahlen den Werkspreis, ohne eigene Importabteilung und ohne das Lager eines Großhändlers mitzufinanzieren.",
+  k2: "So funktioniert's",
+  h2b: "Von Ihrer Anfrage bis zur Lieferung in 5 Schritten.",
+  steps: [["Ihre Anfrage","Referenzen, Stärken, Mengen, Lieferort. Eine Excel-Liste genügt."],["Ihr Preis in 24 Std.","Ein detailliertes Angebot frei Haus, mit genannter Lieferzeit."],["Auftrag & Kontrolle","Schriftlich bestätigter Auftrag, Prüfung der EN-Konformität."],["Verpackung & Transport","Gesicherte Holzkisten, Umreifung, Keile und Zwischenlagen."],["Lieferung","Verzollt und an Ihren Standort geliefert, bereit zum Entladen."]],
+  k3: "Unsere Angebote",
+  h2c: "Zwei Einkaufswege, je nach Menge.",
+  offers: [
+    {tag:"Direktimport", t:"Voller Container, Werkspreis", p:"Der niedrigste Preis für große Mengen.", li:["Voller Container in gesicherten Holzkisten","Verzollt an Ihren Standort geliefert","Werkspreis, ohne Zwischenhändler"], for:"Glasverarbeiter, Händler, Distributoren, Lagerhalter, Importeure."},
+    {tag:"Gemischte Lieferung", t:"Mehrere Referenzen, ein Transport", p:"Für flexiblere Mengen, ohne einen Container zu füllen.", li:["Gemischte Stapel: mehrere Referenzen und Stärken","Gemischte Gestelle im selben Lkw","Kleine und mittlere Mengen"], for:"Glasereien, kleine und mittlere Verarbeiter."}
+  ],
+  forLabel: "Für:",
+  k4: "Für wen",
+  h2d: "Wir arbeiten mit Profis, die Glas in großen Mengen kaufen.",
+  who: [["Verarbeiter & Härtereien","Float- und VSG-Glas in Bandmaßen für Ihre Linien."],["Glasereien & Spiegelhersteller","Spiegel und Dekorglas direkt, voll oder gemischt."],["Händler & Distributoren","Wettbewerbsfähige Mengen und Preise, ohne eigene Importabteilung."],["Lagerhalter","Regelmäßige Versorgung in Menge, zu kalkulierbaren Preisen."],["Industrie","Flachglas für Ihre Fertigung: Möbel, Innenausbau, Haushaltsgeräte."],["Internationale Importeure","Eine für Sie koordinierte Einkaufs- und Transportkette."]],
+  k5: "Produkte",
+  h2e: "Über 600 Flachglas-Referenzen nach EN-Normen.",
+  prodA: "Direkt ab Werk",
+  chipsA: ["Klares Floatglas","Getöntes Floatglas","Extraweiß","Spiegel","VSG","VSG opal","Schallschutz-VSG","Low-E","Sonnenschutz","Vorspannbares Glas","Dekorglas"],
+  noteA: "Eine Referenz fehlt? Wir finden sie für Sie.",
+  prodB: "Auf Anfrage verarbeitet",
+  chipsB: ["ESG / ESG-H","VSG aus ESG","Isolierglas","Glasgeländer","Kantenbearbeitung & Bohrungen"],
+  noteB: "Nach Zeichnung gefertigt, für Ihre speziellen Projekte oder Auftragsspitzen.",
+  catalog: "Katalog herunterladen (PDF)",
+  k6: "Praktische Infos",
+  h2f: "Was man uns vor jeder Bestellung fragt.",
+  spec: [["Lieferung","Verzollt und an Ihren Standort geliefert, in Frankreich, Europa und weltweit"],["Verpackung","Gesicherte Holzkisten, Umreifung, Keile und Papier zwischen jeder Scheibe"],["Formate","Standard 3210 × 2550 mm, andere Maße auf Anfrage"],["Normen","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Antwort","Innerhalb von 24 Arbeitsstunden, mit Anruf und detailliertem Angebot"]],
+  k7: "Vor Ort",
+  h2g: "Ihre Aufträge vor der Abfahrt.",
+  subG: "Ihr Glas wird geprüft, in Kisten verpackt und sorgfältig verladen. Wir senden Ihnen Fotos und Videos bei jedem Schritt.",
+  cap: ["Container bereit zur Beladung","LKW-Verladung in Mollem"],
+  f: {h:"Preis anfragen", sub:"Senden Sie uns Ihre Referenzen und den Lieferort. Antwort innerhalb von 24 Std.", name:"Name *", company:"Firma", email:"E-Mail *", phone:"Telefon", country:"Lieferland", msg:"Produkte, Stärken und Mengen *", msgPh:"z. B. Floatglas klar 4 mm, 3210 × 2550, 10 Container", send:"Anfrage senden", ok:"Vielen Dank! Ihre Anfrage wurde gesendet. Wir antworten innerhalb von 24 Std.", err:"Senden fehlgeschlagen. Schreiben Sie uns an aaronharfi@noxem-group.com oder per WhatsApp.", req:"Bitte Name, E-Mail und Produkte angeben."},
+  hours: "Montag bis Freitag, 9–18 Uhr (MEZ)",
+  wa: {label:"Per WhatsApp schreiben", msg:"Hallo Aaron, können wir über Noxem sprechen?"},
+  foot: "Impressum · Datenschutz · AGB"
+},
+
+it: {
+  name: "🇮🇹 Italiano", dir: "ltr",
+  mock: ["BOZZA — non pubblicata.", "Anteprima della nuova home page."],
+  nav: ["Come funziona","Le nostre offerte","Prodotti","Sul campo","Contatti"],
+  cta: "Richiedi un prezzo",
+  eyebrow: "Importatore e commerciante di vetro piano",
+  h1: "Il tuo vetro piano \x3cem>direttamente dalla fabbrica\x3c/em>, a prezzi estremamente competitivi.",
+  lead: "Float, stratificato, Low-E, specchi: vetro piano di qualità certificato CE, consegnato direttamente presso di te in Francia, in Europa e nel mondo.",
+  ctaHow: "Come funziona",
+  facts: [["600+","referenze di vetro piano"],["EN · CE","vetri certificati"],["Prezzo di fabbrica","senza intermediari"],["24 h","per ricevere il prezzo"],["Europa e mondo","consegna presso di te"]],
+  k1: "Il nostro mestiere",
+  h2a: "Importiamo e consegniamo il vostro vetro piano, in grandi volumi, al miglior prezzo.",
+  subA: "Noxem Group è importatore e commerciante di vetro piano: stock in Belgio, export in container fino al vostro porto e consegna in cantiere, con un unico interlocutore.",
+  quote: "«Con Noxem Group avete un unico interlocutore, prezzi estremamente competitivi e una risposta entro 24 ore con un preventivo dettagliato.»",
+  quoteBy: "Aaron Harfi, CEO di Noxem Group",
+  roles: [["Grandi volumi","Da un camion completo a più container per ordine, a prezzi estremamente competitivi."],["Qualità certificata","Vetri conformi alle norme EN e CE, certificati forniti con ogni ordine."],["Logistica completa","Trasporto, sdoganamento e consegna finale: un unico interlocutore."]],
+  note: "\x3cb>Cosa cambia per te:\x3c/b> paghi il prezzo di fabbrica, senza creare un tuo ufficio import e senza finanziare il magazzino di un grossista.",
+  k2: "Come funziona",
+  h2b: "Dalla richiesta alla consegna, in 5 passaggi.",
+  steps: [["La tua richiesta","Referenze, spessori, quantità, luogo di consegna. Basta un elenco Excel."],["Il prezzo entro 24 h","Un preventivo dettagliato, reso a destino, con i tempi indicati."],["Ordine e controllo","Ordine confermato per iscritto, controllo di conformità EN."],["Imballo e trasporto","Casse in legno sicure, reggiatura, spessori e interfogli."],["Consegna","Sdoganato e consegnato presso la tua sede, pronto da scaricare."]],
+  k3: "Le nostre offerte",
+  h2c: "Due modi di acquistare, secondo i tuoi volumi.",
+  offers: [
+    {tag:"Importazione diretta", t:"Container completo, prezzo di fabbrica", p:"Il prezzo più basso, per grandi volumi.", li:["Container completo in casse di legno sicure","Consegnato sdoganato presso la tua sede","Prezzo di fabbrica, senza intermediari"], for:"trasformatori, commercianti, distributori, grossisti, importatori."},
+    {tag:"Consegna mista", t:"Più referenze, un solo trasporto", p:"Per volumi più flessibili, senza riempire un container.", li:["Pile miste: più referenze e spessori","Cavalletti misti nello stesso camion","Quantità piccole e medie"], for:"vetrerie, piccoli e medi trasformatori."}
+  ],
+  forLabel: "Per:",
+  k4: "Per chi",
+  h2d: "Lavoriamo con i professionisti che acquistano vetro in volume.",
+  who: [["Trasformatori e tempere","Float e stratificato in grandi formati per alimentare le vostre linee."],["Vetrerie","Specchi e vetri decorativi diretti, completi o misti."],["Commercianti e distributori","Volumi e prezzi competitivi, senza un ufficio import."],["Grossisti","Forniture regolari in volume, a prezzo controllato."],["Industria","Vetro piano per la vostra produzione: arredo, interni, elettrodomestici."],["Importatori internazionali","Una catena di acquisto e trasporto coordinata per voi."]],
+  k5: "Prodotti",
+  h2e: "Oltre 600 referenze di vetro piano, secondo le norme EN.",
+  prodA: "Direttamente dalla fabbrica",
+  chipsA: ["Float chiaro","Float colorato","Extrachiaro","Specchi","Stratificato","Stratificato opale","Stratificato acustico","Basso emissivo (Low-E)","Controllo solare","Vetro temprabile","Vetro decorativo"],
+  noteA: "Manca una referenza? La troviamo per te.",
+  prodB: "Lavorati su richiesta",
+  chipsB: ["Temprato / HST","Stratificato temprato","Vetrocamera","Parapetti","Molatura e foratura"],
+  noteB: "Realizzati su disegno, per i vostri progetti specifici o i picchi di attività.",
+  catalog: "Scarica il catalogo (PDF)",
+  k6: "Info pratiche",
+  h2f: "Cosa ci chiedono prima di ogni ordine.",
+  spec: [["Consegna","Sdoganato e consegnato presso la tua sede, in Francia, in Europa e nel mondo"],["Imballo","Casse di legno sicure, reggiatura, spessori e carta tra ogni lastra"],["Formati","Standard 3210 × 2550 mm, altre misure su richiesta"],["Norme","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Risposta","Entro 24 ore lavorative, con una chiamata e un preventivo dettagliato"]],
+  k7: "Sul campo",
+  h2g: "I vostri ordini, prima della partenza.",
+  subG: "I vostri vetri vengono controllati, imballati in casse e caricati con cura. Vi inviamo foto e video a ogni fase.",
+  cap: ["Container pronto per il carico","Carico su camion a Mollem"],
+  f: {h:"Richiedi un prezzo", sub:"Inviaci le referenze e il luogo di consegna. Risposta entro 24 h.", name:"Nome *", company:"Azienda", email:"E-mail *", phone:"Telefono", country:"Paese di consegna", msg:"Prodotti, spessori e quantità *", msgPh:"Es.: Float chiaro 4 mm, 3210 × 2550, 10 container", send:"Invia la richiesta", ok:"Grazie! La tua richiesta è stata inviata. Rispondiamo entro 24 ore.", err:"Invio non riuscito. Scrivici a aaronharfi@noxem-group.com o su WhatsApp.", req:"Compila nome, e-mail e prodotti."},
+  hours: "Dal lunedì al venerdì, 9–18 (CET)",
+  wa: {label:"Scrivici su WhatsApp", msg:"Ciao Aaron, possiamo parlare di Noxem?"},
+  foot: "Note legali · Privacy · Condizioni"
+},
+
+nl: {
+  name: "🇳🇱 Nederlands", dir: "ltr",
+  mock: ["ONTWERP — niet gepubliceerd.", "Voorbeeld van de nieuwe homepage."],
+  nav: ["Hoe het werkt","Ons aanbod","Producten","In de praktijk","Contact"],
+  cta: "Prijs aanvragen",
+  eyebrow: "Importeur & handelaar in vlakglas",
+  h1: "Uw vlakglas \x3cem>rechtstreeks uit de fabriek\x3c/em>, tegen uiterst scherpe prijzen.",
+  lead: "Float, gelaagd, Low-E, spiegels: kwalitatief CE-gecertificeerd vlakglas, rechtstreeks geleverd op uw locatie in Frankrijk, Europa en wereldwijd.",
+  ctaHow: "Hoe het werkt",
+  facts: [["600+","vlakglasreferenties"],["EN · CE","gecertificeerd glas"],["Fabrieksprijs","zonder tussenpersoon"],["24 u","voor uw prijs"],["Europa & wereldwijd","levering op uw locatie"]],
+  k1: "Wat wij doen",
+  h2a: "Wij importeren en leveren uw vlakglas, in grote volumes, tegen de beste prijs.",
+  subA: "Noxem Group is importeur en handelaar in vlakglas: voorraad in België, export per container tot in uw haven en levering op uw werf, met één aanspreekpunt.",
+  quote: "„Met Noxem Group hebt u één aanspreekpunt, uiterst concurrerende prijzen en binnen 24 uur een antwoord met een gedetailleerde offerte.”",
+  quoteBy: "Aaron Harfi, CEO van Noxem Group",
+  roles: [["Grote volumes","Van een volle vrachtwagen tot meerdere containers per bestelling, tegen uiterst concurrerende prijzen."],["Gecertificeerde kwaliteit","Glas volgens EN- en CE-normen, certificaten bij elke bestelling."],["Logistiek van A tot Z","Transport, inklaring en eindlevering: één aanspreekpunt."]],
+  note: "\x3cb>Wat het voor u betekent:\x3c/b> u betaalt de fabrieksprijs, zonder eigen importafdeling en zonder het magazijn van een groothandel te financieren.",
+  k2: "Hoe het werkt",
+  h2b: "Van aanvraag tot levering, in 5 stappen.",
+  steps: [["Uw aanvraag","Referenties, diktes, aantallen, leveradres. Een Excel-lijst volstaat."],["Uw prijs binnen 24 u","Een gedetailleerde offerte, geleverd bij u, met vermelde levertijd."],["Bestelling & controle","Schriftelijk bevestigde bestelling, controle op EN-conformiteit."],["Verpakking & transport","Beveiligde houten kisten, omsnoering, wiggen en tussenlagen."],["Levering","Ingeklaard en geleverd op uw locatie, klaar om te lossen."]],
+  k3: "Ons aanbod",
+  h2c: "Twee manieren om te kopen, afhankelijk van uw volumes.",
+  offers: [
+    {tag:"Directe import", t:"Volle container, fabrieksprijs", p:"De laagste prijs, voor grote volumes.", li:["Volle container in beveiligde houten kisten","Ingeklaard geleverd op uw locatie","Fabrieksprijs, zonder tussenpersoon"], for:"glasverwerkers, handelaren, distributeurs, stockisten, importeurs."},
+    {tag:"Gemengde levering", t:"Meerdere referenties, één transport", p:"Voor flexibelere volumes, zonder een container te vullen.", li:["Gemengde stapels: meerdere referenties en diktes","Gemengde bokken in dezelfde vrachtwagen","Kleine en middelgrote hoeveelheden"], for:"glashandels, kleine en middelgrote verwerkers."}
+  ],
+  forLabel: "Voor:",
+  k4: "Voor wie",
+  h2d: "Wij werken met professionals die glas in volume kopen.",
+  who: [["Verwerkers & hardingsbedrijven","Float- en gelaagd glas in grote formaten voor uw lijnen."],["Glashandels & spiegelmakers","Spiegels en decoratief glas rechtstreeks, vol of gemengd."],["Handelaren & distributeurs","Concurrerende volumes en prijzen, zonder eigen importafdeling."],["Stockisten","Regelmatige volumeleveringen tegen een beheerste prijs."],["Industrie","Vlakglas voor uw productie: meubels, interieur, huishoudtoestellen."],["Internationale importeurs","Een inkoop- en transportketen die voor u wordt gecoördineerd."]],
+  k5: "Producten",
+  h2e: "Meer dan 600 vlakglasreferenties, volgens EN-normen.",
+  prodA: "Rechtstreeks uit de fabriek",
+  chipsA: ["Helder floatglas","Gekleurd floatglas","Extra helder","Spiegels","Gelaagd","Gelaagd opaal","Akoestisch gelaagd","Low-E","Zonwerend","Hardbaar glas","Decoratief glas"],
+  noteA: "Ontbreekt er een referentie? Wij vinden ze voor u.",
+  prodB: "Op aanvraag verwerkt",
+  chipsB: ["Gehard / HST","Gehard gelaagd","Dubbel glas","Glazen balustrades","Randbewerking & boren"],
+  noteB: "Op maat gemaakt volgens tekening, voor uw specifieke projecten of piekmomenten.",
+  catalog: "Catalogus downloaden (PDF)",
+  k6: "Praktische info",
+  h2f: "Wat men ons vraagt vóór elke bestelling.",
+  spec: [["Levering","Ingeklaard en geleverd op uw locatie, in Frankrijk, Europa en wereldwijd"],["Verpakking","Beveiligde houten kisten, omsnoering, wiggen en papier tussen elke plaat"],["Formaten","Standaard 3210 × 2550 mm, andere maten op aanvraag"],["Normen","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Antwoord","Binnen 24 werkuren, met een telefoontje en een gedetailleerde offerte"]],
+  k7: "In de praktijk",
+  h2g: "Uw bestellingen, vóór vertrek.",
+  subG: "Uw glas wordt gecontroleerd, in kisten verpakt en zorgvuldig geladen. We sturen u foto's en video's bij elke stap.",
+  cap: ["Container klaar om te laden","Laden van de vrachtwagen in Mollem"],
+  f: {h:"Prijs aanvragen", sub:"Stuur uw referenties en leveradres. Antwoord binnen 24 u.", name:"Naam *", company:"Bedrijf", email:"E-mail *", phone:"Telefoon", country:"Land van levering", msg:"Producten, diktes en aantallen *", msgPh:"Bijv. helder float 4 mm, 3210 × 2550, 10 containers", send:"Aanvraag versturen", ok:"Bedankt! Uw aanvraag is verzonden. Wij antwoorden binnen 24 uur.", err:"Verzenden mislukt. Schrijf ons op aaronharfi@noxem-group.com of via WhatsApp.", req:"Vul naam, e-mail en producten in."},
+  hours: "Maandag tot vrijdag, 9–18 u (CET)",
+  wa: {label:"Chat via WhatsApp", msg:"Hallo Aaron, kunnen we praten over Noxem?"},
+  foot: "Juridische info · Privacy · Voorwaarden"
+},
+
+pl: {
+  name: "🇵🇱 Polski", dir: "ltr",
+  mock: ["MAKIETA — nieopublikowana.", "Podgląd nowej strony głównej."],
+  nav: ["Jak to działa","Nasza oferta","Produkty","W terenie","Kontakt"],
+  cta: "Zapytaj o cenę",
+  eyebrow: "Importer i dystrybutor szkła płaskiego",
+  h1: "Twoje szkło płaskie \x3cem>prosto z fabryki\x3c/em>, w wyjątkowo konkurencyjnych cenach.",
+  lead: "Float, laminowane, Low-E, lustra: wysokiej jakości szkło płaskie z certyfikatem CE, dostarczane bezpośrednio na miejsce we Francji, w Europie i na świecie.",
+  ctaHow: "Jak to działa",
+  facts: [["600+","pozycji szkła płaskiego"],["EN · CE","szkło certyfikowane"],["Cena fabryczna","bez pośredników"],["24 h","na otrzymanie ceny"],["Europa i świat","dostawa na miejsce"]],
+  k1: "Czym się zajmujemy",
+  h2a: "Importujemy i dostarczamy Twoje szkło płaskie – w dużych ilościach, w najlepszej cenie.",
+  subA: "Noxem Group to importer i dystrybutor szkła płaskiego: magazyn w Belgii, eksport w kontenerze do Twojego portu i dostawa na budowę – z jednym opiekunem.",
+  quote: "„Z Noxem Group masz jednego opiekuna, wyjątkowo konkurencyjne ceny i odpowiedź w ciągu 24 h ze szczegółową ofertą.”",
+  quoteBy: "Aaron Harfi, prezes Noxem Group",
+  roles: [["Duże wolumeny","Od pełnej ciężarówki do kilku kontenerów na zamówienie, w wyjątkowo konkurencyjnych cenach."],["Certyfikowana jakość","Szkło zgodne z normami EN i CE, certyfikaty do każdego zamówienia."],["Logistyka od A do Z","Transport, odprawa celna i dostawa końcowa: jeden opiekun."]],
+  note: "\x3cb>Co to oznacza dla Ciebie:\x3c/b> płacisz cenę fabryczną, bez własnego działu importu i bez finansowania magazynu hurtownika.",
+  k2: "Jak to działa",
+  h2b: "Od zapytania do dostawy w 5 krokach.",
+  steps: [["Twoje zapytanie","Pozycje, grubości, ilości, miejsce dostawy. Wystarczy lista w Excelu."],["Cena w 24 h","Szczegółowa oferta z dostawą do Ciebie i podanym terminem."],["Zamówienie i kontrola","Zamówienie potwierdzone na piśmie, kontrola zgodności z EN."],["Pakowanie i transport","Zabezpieczone skrzynie drewniane, taśmy, kliny i przekładki."],["Dostawa","Po odprawie celnej, dostarczone na miejsce, gotowe do rozładunku."]],
+  k3: "Nasza oferta",
+  h2c: "Dwa sposoby zakupu, zależnie od wolumenu.",
+  offers: [
+    {tag:"Import bezpośredni", t:"Pełny kontener, cena fabryczna", p:"Najniższa cena przy dużych wolumenach.", li:["Pełny kontener w zabezpieczonych skrzyniach drewnianych","Dostawa na miejsce po odprawie celnej","Cena fabryczna, bez pośredników"], for:"przetwórcy szkła, handlowcy, dystrybutorzy, hurtownie, importerzy."},
+    {tag:"Dostawa mieszana", t:"Wiele pozycji, jeden transport", p:"Dla elastycznych wolumenów, bez zapełniania kontenera.", li:["Stosy mieszane: różne pozycje i grubości","Stojaki mieszane w jednej ciężarówce","Małe i średnie ilości"], for:"zakłady szklarskie, mali i średni przetwórcy."}
+  ],
+  forLabel: "Dla:",
+  k4: "Dla kogo",
+  h2d: "Współpracujemy z firmami, które kupują szkło w dużych ilościach.",
+  who: [["Przetwórcy i hartownie","Float i szkło laminowane w dużych formatach dla Twoich linii."],["Zakłady szklarskie","Lustra i szkło dekoracyjne bezpośrednio, w pełnych lub mieszanych dostawach."],["Handlowcy i dystrybutorzy","Konkurencyjne wolumeny i ceny, bez własnego działu importu."],["Hurtownie","Regularne dostawy w dużych ilościach, w kontrolowanej cenie."],["Przemysł","Szkło płaskie do produkcji: meble, wnętrza, AGD."],["Importerzy międzynarodowi","Łańcuch zakupów i transportu koordynowany dla Ciebie."]],
+  k5: "Produkty",
+  h2e: "Ponad 600 pozycji szkła płaskiego, zgodnych z normami EN.",
+  prodA: "Prosto z fabryki",
+  chipsA: ["Float bezbarwny","Float barwiony","Extra clear","Lustra","Laminowane","Laminowane opal","Laminowane akustyczne","Low-E","Przeciwsłoneczne","Szkło do hartowania","Szkło dekoracyjne"],
+  noteA: "Brakuje pozycji? Znajdziemy ją dla Ciebie.",
+  prodB: "Przetwarzane na zamówienie",
+  chipsB: ["Hartowane / HST","Laminowane hartowane","Szyby zespolone","Balustrady","Obróbka krawędzi i wiercenie"],
+  noteB: "Wykonywane według rysunku, na potrzeby konkretnych projektów lub szczytów produkcji.",
+  catalog: "Pobierz katalog (PDF)",
+  k6: "Informacje praktyczne",
+  h2f: "O co pytają nas klienci przed każdym zamówieniem.",
+  spec: [["Dostawa","Po odprawie celnej, na miejsce, we Francji, w Europie i na świecie"],["Pakowanie","Zabezpieczone skrzynie drewniane, taśmy, kliny i papier między taflami"],["Formaty","Standard 3210 × 2550 mm, inne wymiary na zamówienie"],["Normy","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Odpowiedź","W ciągu 24 godzin roboczych, z telefonem i szczegółową ofertą"]],
+  k7: "W terenie",
+  h2g: "Twoje zamówienia przed wysyłką.",
+  subG: "Twoje szkło jest kontrolowane, pakowane w skrzynie i starannie ładowane. Wysyłamy Ci zdjęcia i filmy na każdym etapie.",
+  cap: ["Kontener gotowy do załadunku","Załadunek ciężarówki w Mollem"],
+  f: {h:"Zapytaj o cenę", sub:"Wyślij pozycje i miejsce dostawy. Odpowiedź w ciągu 24 h.", name:"Imię i nazwisko *", company:"Firma", email:"E-mail *", phone:"Telefon", country:"Kraj dostawy", msg:"Produkty, grubości i ilości *", msgPh:"Np. float bezbarwny 4 mm, 3210 × 2550, 10 kontenerów", send:"Wyślij zapytanie", ok:"Dziękujemy! Zapytanie zostało wysłane. Odpowiemy w ciągu 24 godzin.", err:"Wysyłanie nie powiodło się. Napisz na aaronharfi@noxem-group.com lub przez WhatsApp.", req:"Uzupełnij imię, e-mail i produkty."},
+  hours: "Od poniedziałku do piątku, 9:00–18:00 (CET)",
+  wa: {label:"Napisz na WhatsApp", msg:"Dzień dobry Aaron, czy możemy porozmawiać o Noxem?"},
+  foot: "Informacje prawne · Prywatność · Warunki"
+},
+
+ar: {
+  name: "🇸🇦 العربية", dir: "rtl",
+  mock: ["نموذج أولي — غير منشور.", "معاينة للصفحة الرئيسية الجديدة."],
+  nav: ["كيف نعمل","عروضنا","المنتجات","من الميدان","اتصل بنا"],
+  cta: "اطلب عرض سعر",
+  eyebrow: "مستورد وتاجر للزجاج المسطح",
+  h1: "زجاجك المسطح \x3cem>مباشرة من المصنع\x3c/em>، بأسعار تنافسية للغاية.",
+  lead: "فلوت، مصفح، Low-E، مرايا: زجاج مسطح عالي الجودة ومعتمد CE، يُسلَّم مباشرة إلى موقعك في فرنسا وأوروبا وحول العالم.",
+  ctaHow: "كيف نعمل",
+  facts: [["+600","صنف من الزجاج المسطح"],["EN · CE","زجاج معتمد وفق المعايير"],["سعر المصنع","بدون وسطاء"],["24 ساعة","لتلقي عرض السعر"],["أوروبا والعالم","توصيل إلى موقعك"]],
+  k1: "ما نقوم به",
+  h2a: "نستورد زجاجكم المسطح ونسلّمه، بكميات كبيرة وبأفضل سعر.",
+  subA: "Noxem Group مستورد وتاجر للزجاج المسطح: مخزون في بلجيكا، وتصدير في حاويات حتى مينائكم، وتسليم إلى موقعكم، مع محاور واحد.",
+  quote: "« مع Noxem Group لديكم محاور واحد، وأسعار تنافسية للغاية، ورد خلال 24 ساعة مع عرض سعر مفصل. »",
+  quoteBy: "آرون حرفي، الرئيس التنفيذي لنوكسم جروب",
+  roles: [["كميات كبيرة","من شاحنة كاملة إلى عدة حاويات في الطلب الواحد، بأسعار تنافسية للغاية."],["جودة معتمدة","زجاج مطابق لمعايير EN وCE، مع شهادات مرفقة بكل طلبية."],["خدمات لوجستية متكاملة","النقل والتخليص الجمركي والتسليم النهائي: جهة اتصال واحدة."]],
+  note: "\x3cb>ما الذي يعنيه ذلك لك:\x3c/b> تدفع سعر المصنع، دون إنشاء قسم استيراد خاص بك ودون تمويل مستودع تاجر جملة.",
+  k2: "كيف نعمل",
+  h2b: "من طلبك إلى التسليم، في 5 خطوات.",
+  steps: [["طلبك","الأصناف والسماكات والكميات ومكان التسليم. تكفي قائمة Excel."],["سعرك خلال 24 ساعة","عرض سعر مفصل شامل التوصيل، مع مدة التسليم."],["الطلب والفحص","طلب مؤكد كتابياً، وفحص المطابقة لمعايير EN."],["التغليف والنقل","صناديق خشبية مؤمنة، وأحزمة، ودعامات وفواصل."],["التسليم","مخلّص جمركياً ومسلّم إلى موقعك، جاهز للتفريغ."]],
+  k3: "عروضنا",
+  h2c: "طريقتان للشراء، حسب الكميات.",
+  offers: [
+    {tag:"استيراد مباشر", t:"حاوية كاملة بسعر المصنع", p:"أدنى سعر للكميات الكبيرة.", li:["حاوية كاملة في صناديق خشبية مؤمنة","تسليم مخلّص جمركياً إلى موقعك","سعر المصنع، بدون وسطاء"], for:"مصانع تحويل الزجاج، التجار، الموزعون، أصحاب المخازن، المستوردون."},
+    {tag:"شحنة مختلطة", t:"أصناف متعددة في شحنة واحدة", p:"لكميات أكثر مرونة، دون الحاجة لملء حاوية.", li:["رزم مختلطة: أصناف وسماكات متعددة","حوامل مختلطة في الشاحنة نفسها","كميات صغيرة ومتوسطة"], for:"محلات الزجاج والمرايا، ومصانع التحويل الصغيرة والمتوسطة."}
+  ],
+  forLabel: "مناسب لـ:",
+  k4: "لمن نعمل",
+  h2d: "نعمل مع المهنيين الذين يشترون الزجاج بكميات كبيرة.",
+  who: [["مصانع التحويل والتقسية","زجاج فلوت ومصفح بمقاسات كبيرة لتغذية خطوط إنتاجكم."],["محلات الزجاج والمرايا","مرايا وزجاج ديكور مباشرة، بشحنات كاملة أو مختلطة."],["التجار والموزعون","كميات وأسعار تنافسية، دون قسم استيراد."],["أصحاب المخازن","إمدادات منتظمة بكميات كبيرة وبسعر مضبوط."],["الصناعيون","زجاج مسطح لإنتاجكم: أثاث، ديكور داخلي، أجهزة منزلية."],["المستوردون الدوليون","سلسلة شراء ونقل منسقة من أجلكم."]],
+  k5: "المنتجات",
+  h2e: "أكثر من 600 صنف من الزجاج المسطح، وفق معايير EN.",
+  prodA: "مباشرة من المصنع",
+  chipsA: ["فلوت شفاف","فلوت ملون","فائق الشفافية","مرايا","مصفح","مصفح أوبال","مصفح عازل للصوت","منخفض الانبعاثية Low-E","عاكس للحرارة","زجاج قابل للتقسية","زجاج ديكور"],
+  noteA: "هل ينقصك صنف؟ نجده لك.",
+  prodB: "معالجة حسب الطلب",
+  chipsB: ["مقسّى / HST","مصفح مقسّى","زجاج مزدوج","درابزين زجاجي","تشطيب الحواف والثقب"],
+  noteB: "مصنوعة حسب المخطط، لمشاريعكم الخاصة أو لفترات الذروة.",
+  catalog: "تحميل الكتالوج (PDF)",
+  k6: "معلومات عملية",
+  h2f: "ما يسألنا عنه العملاء قبل كل طلبية.",
+  spec: [["التسليم","مخلّص جمركياً ومسلّم إلى موقعك، في فرنسا وأوروبا وحول العالم"],["التغليف","صناديق خشبية مؤمنة، أحزمة، دعامات وورق فاصل بين كل لوح"],["المقاسات","القياس القياسي 3210 × 2550 ملم، ومقاسات أخرى حسب الطلب"],["المعايير","CE · EN 572، EN 1096، EN 12150، EN 12600، EN ISO 12543، EN 14449، EN 1279"],["الرد","خلال 24 ساعة عمل، مع اتصال هاتفي وعرض سعر مفصل"]],
+  k7: "من الميدان",
+  h2g: "طلباتكم قبل الشحن.",
+  subG: "يتم فحص زجاجكم وتعبئته في صناديق وتحميله بعناية. نرسل لكم صوراً وفيديوهات في كل مرحلة.",
+  cap: ["حاوية جاهزة للتحميل","تحميل الشاحنة في مولم"],
+  f: {h:"اطلب عرض سعر", sub:"أرسل الأصناف ومكان التسليم. الرد خلال 24 ساعة.", name:"الاسم *", company:"الشركة", email:"البريد الإلكتروني *", phone:"الهاتف", country:"بلد التسليم", msg:"المنتجات والسماكات والكميات *", msgPh:"مثال: فلوت شفاف 4 ملم، 3210 × 2550، 10 حاويات", send:"إرسال طلبي", ok:"شكراً! تم إرسال طلبك. سنرد عليك خلال 24 ساعة.", err:"تعذّر الإرسال. راسلنا على aaronharfi@noxem-group.com أو عبر واتساب.", req:"يرجى إدخال الاسم والبريد الإلكتروني والمنتجات."},
+  hours: "من الاثنين إلى الجمعة، 9:00–18:00 (بتوقيت باريس)",
+  wa: {label:"تواصل عبر واتساب", msg:"مرحباً آرون، هل يمكننا التحدث بخصوص نوكسم؟"},
+  foot: "إشعار قانوني · الخصوصية · الشروط"
+},
+
+tr: {
+  name: "🇹🇷 Türkçe", dir: "ltr",
+  mock: ["TASLAK — yayınlanmadı.", "Yeni ana sayfanın önizlemesi."],
+  nav: ["Nasıl çalışır","Tekliflerimiz","Ürünler","Sahadan","İletişim"],
+  cta: "Fiyat iste",
+  eyebrow: "Düz cam ithalatçısı ve tüccarı",
+  h1: "Düz camınız \x3cem>doğrudan fabrikadan\x3c/em>, son derece rekabetçi fiyatlarla.",
+  lead: "Float, lamine, Low-E, ayna: CE sertifikalı kaliteli düz cam, Fransa'da, Avrupa'da ve dünyada doğrudan tesisinize teslim.",
+  ctaHow: "Nasıl çalışır",
+  facts: [["600+","düz cam çeşidi"],["EN · CE","sertifikalı cam"],["Fabrika fiyatı","aracısız"],["24 saat","fiyatınızı almak için"],["Avrupa ve dünya","tesisinize teslim"]],
+  k1: "Ne yapıyoruz",
+  h2a: "Düz camınızı büyük hacimlerde, en iyi fiyata ithal ediyor ve teslim ediyoruz.",
+  subA: "Noxem Group bir düz cam ithalatçısı ve tüccarıdır: Belçika'da stok, limanınıza kadar konteynerle ihracat ve şantiyenize teslimat — tek bir muhatapla.",
+  quote: "“Noxem Group ile tek bir muhatabınız, son derece rekabetçi fiyatlarınız ve 24 saat içinde ayrıntılı bir teklifiniz olur.”",
+  quoteBy: "Aaron Harfi, Noxem Group CEO'su",
+  roles: [["Büyük hacimler","Tam bir kamyondan sipariş başına birkaç konteynere kadar, son derece rekabetçi fiyatlarla."],["Sertifikalı kalite","EN ve CE standartlarına uygun cam, her siparişle sertifikalar."],["Uçtan uca lojistik","Nakliye, gümrükleme ve son teslimat: tek muhatap."]],
+  note: "\x3cb>Sizin için anlamı:\x3c/b> kendi ithalat departmanınızı kurmadan ve bir toptancının deposunu finanse etmeden fabrika fiyatı ödersiniz.",
+  k2: "Nasıl çalışır",
+  h2b: "Talebinizden teslimata 5 adımda.",
+  steps: [["Talebiniz","Ürünler, kalınlıklar, miktarlar, teslim yeri. Bir Excel listesi yeterli."],["24 saatte fiyat","Teslim süresi belirtilmiş, kapınıza teslim ayrıntılı teklif."],["Sipariş ve kontrol","Yazılı olarak onaylanan sipariş, EN uygunluk kontrolü."],["Ambalaj ve nakliye","Güvenli ahşap sandıklar, çemberleme, takozlar ve ara kâğıtlar."],["Teslimat","Gümrüğü yapılmış ve tesisinize teslim edilmiş, boşaltmaya hazır."]],
+  k3: "Tekliflerimiz",
+  h2c: "Hacminize göre iki satın alma yolu.",
+  offers: [
+    {tag:"Doğrudan ithalat", t:"Tam konteyner, fabrika fiyatı", p:"Büyük hacimler için en düşük fiyat.", li:["Güvenli ahşap sandıklarda tam konteyner","Gümrüğü yapılmış olarak tesisinize teslim","Fabrika fiyatı, aracısız"], for:"cam işleyiciler, tüccarlar, distribütörler, stokçular, ithalatçılar."},
+    {tag:"Karma teslimat", t:"Birden çok ürün, tek sevkiyat", p:"Konteyner doldurmadan, daha esnek hacimler için.", li:["Karma yığınlar: farklı ürün ve kalınlıklar","Aynı kamyonda karma sehpalar","Küçük ve orta miktarlar"], for:"camcılar, küçük ve orta ölçekli işleyiciler."}
+  ],
+  forLabel: "Kimler için:",
+  k4: "Kimlerle çalışıyoruz",
+  h2d: "Cam alımını hacimli yapan profesyonellerle çalışıyoruz.",
+  who: [["İşleyiciler ve temperleme","Hatlarınızı beslemek için büyük ebatlı float ve lamine cam."],["Camcılar ve aynacılar","Doğrudan ayna ve dekoratif cam, tam veya karma yükler."],["Tüccarlar ve distribütörler","İthalat departmanı olmadan rekabetçi hacim ve fiyatlar."],["Stokçular","Kontrollü fiyatla düzenli hacimli tedarik."],["Sanayi","Üretiminiz için düz cam: mobilya, iç mekân, beyaz eşya."],["Uluslararası ithalatçılar","Sizin için koordine edilen satın alma ve nakliye zinciri."]],
+  k5: "Ürünler",
+  h2e: "EN standartlarına uygun 600'den fazla düz cam çeşidi.",
+  prodA: "Doğrudan fabrikadan",
+  chipsA: ["Şeffaf float","Renkli float","Ekstra şeffaf","Aynalar","Lamine","Opal lamine","Akustik lamine","Low-E","Güneş kontrol","Temperlenebilir cam","Dekoratif cam"],
+  noteA: "Aradığınız ürün yok mu? Sizin için buluruz.",
+  prodB: "Talep üzerine işlenen",
+  chipsB: ["Temperli / HST","Temperli lamine","Isıcam","Cam korkuluk","Kenar işleme ve delik"],
+  noteB: "Çizime göre üretilir, özel projeleriniz veya yoğun dönemleriniz için.",
+  catalog: "Kataloğu indir (PDF)",
+  k6: "Pratik bilgiler",
+  h2f: "Her siparişten önce bize sorulanlar.",
+  spec: [["Teslimat","Gümrüğü yapılmış, tesisinize teslim; Fransa, Avrupa ve dünya genelinde"],["Ambalaj","Güvenli ahşap sandıklar, çemberleme, takozlar ve her levha arasında kâğıt"],["Ebatlar","Standart 3210 × 2550 mm, diğer ebatlar talep üzerine"],["Standartlar","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Yanıt","24 iş saati içinde, bir telefon ve ayrıntılı teklifle"]],
+  k7: "Sahadan",
+  h2g: "Siparişleriniz, yola çıkmadan önce.",
+  subG: "Camlarınız kontrol edilir, kasalara yerleştirilir ve özenle yüklenir. Her aşamada size fotoğraf ve video gönderiyoruz.",
+  cap: ["Yüklemeye hazır konteyner","Mollem'de kamyon yüklemesi"],
+  f: {h:"Fiyat iste", sub:"Ürünlerinizi ve teslim yerini gönderin. 24 saat içinde yanıt.", name:"Ad Soyad *", company:"Şirket", email:"E-posta *", phone:"Telefon", country:"Teslim ülkesi", msg:"Ürünler, kalınlıklar ve miktarlar *", msgPh:"Örn. şeffaf float 4 mm, 3210 × 2550, 10 konteyner", send:"Talebimi gönder", ok:"Teşekkürler! Talebiniz gönderildi. 24 saat içinde yanıt veriyoruz.", err:"Gönderilemedi. Bize aaronharfi@noxem-group.com adresinden veya WhatsApp'tan yazın.", req:"Lütfen ad, e-posta ve ürünleri doldurun."},
+  hours: "Pazartesi–Cuma, 09:00–18:00 (CET)",
+  wa: {label:"WhatsApp'tan yazın", msg:"Merhaba Aaron, Noxem hakkında konuşabilir miyiz?"},
+  foot: "Yasal bilgiler · Gizlilik · Koşullar"
+},
+
+ru: {
+  name: "🇷🇺 Русский", dir: "ltr",
+  mock: ["МАКЕТ — не опубликован.", "Предпросмотр новой главной страницы."],
+  nav: ["Как мы работаем","Предложения","Продукция","На месте","Контакты"],
+  cta: "Запросить цену",
+  eyebrow: "Импортёр и трейдер листового стекла",
+  h1: "Листовое стекло \x3cem>напрямую с завода\x3c/em> по исключительно конкурентным ценам.",
+  lead: "Флоат, триплекс, Low-E, зеркала: качественное листовое стекло с сертификатом CE с доставкой прямо на ваш объект во Франции, Европе и по всему миру.",
+  ctaHow: "Как мы работаем",
+  facts: [["600+","позиций листового стекла"],["EN · CE","сертифицированное стекло"],["Цена завода","без посредников"],["24 ч","на расчёт цены"],["Европа и мир","доставка на объект"]],
+  k1: "Чем мы занимаемся",
+  h2a: "Мы импортируем и доставляем ваше листовое стекло — большими объёмами и по лучшей цене.",
+  subA: "Noxem Group — импортёр и трейдер листового стекла: склад в Бельгии, экспорт в контейнерах до вашего порта и доставка на ваш объект — с одним контактным лицом.",
+  quote: "«С Noxem Group у вас одно контактное лицо, исключительно конкурентные цены и ответ в течение 24 часов с подробным предложением.»",
+  quoteBy: "Аарон Харфи, генеральный директор Noxem Group",
+  roles: [["Большие объёмы","От полного грузовика до нескольких контейнеров на заказ — по исключительно конкурентным ценам."],["Сертифицированное качество","Стекло по нормам EN и CE, сертификаты к каждому заказу."],["Логистика под ключ","Перевозка, таможенное оформление и доставка: один контакт."]],
+  note: "\x3cb>Что это даёт вам:\x3c/b> вы платите цену завода без собственного отдела импорта и без оплаты склада оптовика.",
+  k2: "Как мы работаем",
+  h2b: "От запроса до доставки за 5 шагов.",
+  steps: [["Ваш запрос","Позиции, толщины, количества, место доставки. Достаточно списка в Excel."],["Цена за 24 ч","Подробное предложение с доставкой до вас и указанным сроком."],["Заказ и контроль","Заказ подтверждается письменно, проверка соответствия EN."],["Упаковка и перевозка","Надёжные деревянные ящики, обвязка, клинья и прокладки."],["Доставка","Растаможено и доставлено на объект, готово к разгрузке."]],
+  k3: "Наши предложения",
+  h2c: "Два способа закупки в зависимости от объёмов.",
+  offers: [
+    {tag:"Прямой импорт", t:"Полный контейнер по цене завода", p:"Самая низкая цена для больших объёмов.", li:["Полный контейнер в надёжных деревянных ящиках","Доставка на объект с таможенным оформлением","Цена завода, без посредников"], for:"переработчики стекла, трейдеры, дистрибьюторы, складские компании, импортёры."},
+    {tag:"Сборная поставка", t:"Несколько позиций — одна перевозка", p:"Для гибких объёмов, без заполнения контейнера.", li:["Сборные пачки: разные позиции и толщины","Сборные пирамиды в одном грузовике","Малые и средние объёмы"], for:"стекольные мастерские, малые и средние переработчики."}
+  ],
+  forLabel: "Для кого:",
+  k4: "Наши клиенты",
+  h2d: "Мы работаем с профессионалами, которые закупают стекло в объёме.",
+  who: [["Переработчики и закалка","Флоат и триплекс крупного формата для ваших линий."],["Стекольные и зеркальные мастерские","Зеркала и декоративное стекло напрямую, полными или сборными партиями."],["Трейдеры и дистрибьюторы","Конкурентные объёмы и цены без собственного отдела импорта."],["Складские компании","Регулярные поставки в объёме по контролируемой цене."],["Промышленность","Листовое стекло для производства: мебель, интерьеры, бытовая техника."],["Международные импортёры","Цепочка закупок и перевозок, скоординированная для вас."]],
+  k5: "Продукция",
+  h2e: "Более 600 позиций листового стекла по нормам EN.",
+  prodA: "Напрямую с завода",
+  chipsA: ["Прозрачный флоат","Тонированный флоат","Осветлённое","Зеркала","Триплекс","Триплекс опал","Акустический триплекс","Low-E","Солнцезащитное","Под закалку","Декоративное стекло"],
+  noteA: "Нет нужной позиции? Мы найдём её для вас.",
+  prodB: "Обработка под заказ",
+  chipsB: ["Закалённое / HST","Закалённый триплекс","Стеклопакеты","Стеклянные ограждения","Обработка кромки и сверление"],
+  noteB: "Изготавливаются по чертежам — для ваших особых проектов или пиковых нагрузок.",
+  catalog: "Скачать каталог (PDF)",
+  k6: "Практическая информация",
+  h2f: "О чём нас спрашивают перед каждым заказом.",
+  spec: [["Доставка","Растаможено и доставлено на объект: во Франции, в Европе и по всему миру"],["Упаковка","Надёжные деревянные ящики, обвязка, клинья и бумага между листами"],["Форматы","Стандарт 3210 × 2550 мм, другие размеры по запросу"],["Нормы","CE · EN 572, EN 1096, EN 12150, EN 12600, EN ISO 12543, EN 14449, EN 1279"],["Ответ","В течение 24 рабочих часов, со звонком и подробным предложением"]],
+  k7: "На месте",
+  h2g: "Ваши заказы перед отправкой.",
+  subG: "Ваше стекло проверяется, упаковывается в ящики и аккуратно загружается. Мы присылаем вам фото и видео на каждом этапе.",
+  cap: ["Контейнер готов к погрузке","Погрузка грузовика в Моллеме"],
+  f: {h:"Запросить цену", sub:"Пришлите позиции и место доставки. Ответ в течение 24 ч.", name:"Имя *", company:"Компания", email:"E-mail *", phone:"Телефон", country:"Страна доставки", msg:"Продукция, толщины и количества *", msgPh:"Напр.: прозрачный флоат 4 мм, 3210 × 2550, 10 контейнеров", send:"Отправить запрос", ok:"Спасибо! Ваш запрос отправлен. Мы ответим в течение 24 часов.", err:"Не удалось отправить. Напишите нам на aaronharfi@noxem-group.com или в WhatsApp.", req:"Укажите имя, e-mail и продукцию."},
+  hours: "С понедельника по пятницу, 9:00–18:00 (CET)",
+  wa: {label:"Написать в WhatsApp", msg:"Здравствуйте, Аарон! Можем поговорить о Noxem?"},
+  foot: "Правовая информация · Конфиденциальность · Условия"
+},
+
+zh: {
+  name: "🇨🇳 中文", dir: "ltr",
+  mock: ["样稿 — 未发布。", "新首页预览。"],
+  nav: ["合作流程","服务方案","产品","现场实拍","联系我们"],
+  cta: "获取报价",
+  eyebrow: "平板玻璃进口商与贸易商",
+  h1: "平板玻璃\x3cem>工厂直供\x3c/em>，价格极具竞争力。",
+  lead: "浮法、夹胶、Low-E、镜子：优质 CE 认证平板玻璃，直接送达您在法国、欧洲及全球的现场。",
+  ctaHow: "合作流程",
+  facts: [["600+","平板玻璃品种"],["EN · CE","符合标准认证"],["出厂价","无中间商"],["24 小时","内获取报价"],["欧洲及全球","送货到您的现场"]],
+  k1: "我们做什么",
+  h2a: "我们进口并配送您的平板玻璃——大批量，最优价格。",
+  subA: "Noxem Group 是平板玻璃进口商和贸易商：比利时现货库存、集装箱出口至您的港口、送货到您的工地，全程一个联系人。",
+  quote: "“选择 Noxem Group，您只需对接一个联系人，享受极具竞争力的价格，24 小时内收到详细报价。”",
+  quoteBy: "Aaron Harfi，Noxem Group 首席执行官",
+  roles: [["大批量","从整车到每单多个集装箱，价格极具竞争力。"],["认证品质","玻璃符合 EN 与 CE 标准，每笔订单附带证书。"],["全程物流","运输、清关和最终交付：只需一个联系人。"]],
+  note: "\x3cb>对您意味着什么：\x3c/b>您支付的是出厂价，无需自建进口部门，也不用为批发商的仓库买单。",
+  k2: "合作流程",
+  h2b: "从询价到交付，只需 5 步。",
+  steps: [["提交需求","品种、厚度、数量、交货地点。一份 Excel 清单即可。"],["24 小时内报价","详细的到货价报价，并注明交期。"],["下单与检验","书面确认订单，按 EN 标准进行合规检验。"],["包装与运输","加固木箱、打包带、垫块和隔纸。"],["交付","完成清关，送达您的现场，随时卸货。"]],
+  k3: "服务方案",
+  h2c: "两种采购方式，按您的采购量选择。",
+  offers: [
+    {tag:"直接进口", t:"整柜采购，出厂价", p:"大批量采购的最低价格。", li:["整柜加固木箱包装","清关后送达您的现场","出厂价，无中间商"], for:"玻璃深加工厂、贸易商、经销商、库存商、进口商。"},
+    {tag:"拼货配送", t:"多个品种，一次运输", p:"采购量更灵活，无需装满一整柜。", li:["混合垛：多个品种和厚度","同一辆卡车装载混合玻璃架","中小批量"], for:"玻璃店、中小型深加工厂。"}
+  ],
+  forLabel: "适合：",
+  k4: "服务对象",
+  h2d: "我们服务于大批量采购玻璃的专业客户。",
+  who: [["深加工与钢化厂","大板浮法玻璃与夹胶玻璃，保障您的产线供应。"],["玻璃店与镜子厂","镜子与装饰玻璃直供，整柜或拼货皆可。"],["贸易商与经销商","无需进口部门，也能获得有竞争力的批量和价格。"],["库存商","价格可控的定期批量供货。"],["工业客户","用于生产的平板玻璃：家具、室内装饰、家电。"],["国际进口商","为您统筹协调的采购与运输链。"]],
+  k5: "产品",
+  h2e: "600 多个平板玻璃品种，符合 EN 标准。",
+  prodA: "工厂直供",
+  chipsA: ["透明浮法玻璃","着色浮法玻璃","超白玻璃","镜子","夹胶玻璃","乳白夹胶玻璃","隔音夹胶玻璃","Low-E 玻璃","阳光控制玻璃","可钢化玻璃","装饰玻璃"],
+  noteA: "没有您要的品种？我们为您寻找。",
+  prodB: "按需深加工",
+  chipsB: ["钢化 / HST 均质","钢化夹胶","中空玻璃","玻璃栏杆","磨边与钻孔"],
+  noteB: "按图纸定制，满足您的特殊项目或业务高峰需求。",
+  catalog: "下载产品目录（PDF）",
+  k6: "实用信息",
+  h2f: "客户下单前最常问的问题。",
+  spec: [["交付","清关后送达您的现场，覆盖法国、欧洲及全球"],["包装","加固木箱、打包带、垫块，每片玻璃之间加隔纸"],["规格","标准尺寸 3210 × 2550 mm，其他尺寸可定制"],["标准","CE · EN 572、EN 1096、EN 12150、EN 12600、EN ISO 12543、EN 14449、EN 1279"],["响应","24 个工作小时内电话联系并提供详细报价"]],
+  k7: "现场实拍",
+  h2g: "您的订单，发运之前。",
+  subG: "您的玻璃经过检验、装箱并精心装载。每个环节我们都会向您发送照片和视频。",
+  cap: ["集装箱准备装货","在莫勒姆装车"],
+  f: {h:"获取报价", sub:"发送您的品种和交货地点，24 小时内回复。", name:"姓名 *", company:"公司", email:"电子邮箱 *", phone:"电话", country:"交货国家", msg:"产品、厚度和数量 *", msgPh:"例：透明浮法 4 mm，3210 × 2550，10 个集装箱", send:"发送询价", ok:"谢谢！您的询价已发送，我们将在 24 小时内回复。", err:"发送失败。请发邮件至 aaronharfi@noxem-group.com 或通过 WhatsApp 联系我们。", req:"请填写姓名、邮箱和产品。"},
+  hours: "周一至周五 9:00–18:00（欧洲中部时间）",
+  wa: {label:"WhatsApp 联系", msg:"你好 Aaron，我们可以聊聊 Noxem 吗？"},
+  foot: "法律声明 · 隐私 · 条款"
+}
+
+};
+
+// Actualités du moment — c'est le seul fichier à modifier chaque semaine.
+// Pour chaque actu : type ("urgent", "stock" ou "info"), date, puis le texte dans chaque langue.
+// "ticker" = la phrase courte qui défile dans le bandeau en haut du site.
+window.NOXEM_NEWS = {
+  items: [
+    {
+      type: "info", date: "2026-09-28",
+      link: "/conteneurs-verre-plat-export-cette-semaine/",
+      cover: "https://noxemgroup.com/wp-content/uploads/2026/05/frank-mckenna-tjX_sniNzgQ-unsplash.jpg",
+      t: {
+        fr: {title:"Cette semaine : plusieurs conteneurs de verre plat partent à l'export", text:"Nos équipes préparent les commandes clients de la semaine : plusieurs conteneurs de verre plat partent à l'export, livrés jusqu'au port de nos clients.", ticker:"Cette semaine : plusieurs conteneurs de verre plat partent à l'export"},
+        en: {title:"This week: several containers of flat glass leave for export", text:"Our teams are preparing this week's customer orders: several containers of flat glass are leaving for export, delivered to our customers' ports.", ticker:"This week: several containers of flat glass leave for export"},
+        es: {title:"Esta semana: varios contenedores de vidrio plano salen para la exportación", text:"Nuestros equipos preparan los pedidos de la semana: varios contenedores de vidrio plano salen para la exportación, entregados en el puerto de nuestros clientes.", ticker:"Esta semana: varios contenedores de vidrio plano salen para la exportación"},
+        pt: {title:"Esta semana: vários contentores de vidro plano partem para exportação", text:"As nossas equipas preparam as encomendas da semana: vários contentores de vidro plano partem para exportação, entregues no porto dos nossos clientes.", ticker:"Esta semana: vários contentores de vidro plano partem para exportação"},
+        de: {title:"Diese Woche: mehrere Container Flachglas gehen in den Export", text:"Unsere Teams bereiten die Kundenaufträge der Woche vor: Mehrere Container Flachglas gehen in den Export, geliefert bis in den Hafen unserer Kunden.", ticker:"Diese Woche: mehrere Container Flachglas gehen in den Export"},
+        it: {title:"Questa settimana: diversi container di vetro piano partono per l'export", text:"I nostri team preparano gli ordini della settimana: diversi container di vetro piano partono per l'export, consegnati al porto dei nostri clienti.", ticker:"Questa settimana: diversi container di vetro piano partono per l'export"},
+        nl: {title:"Deze week: meerdere containers vlakglas vertrekken voor export", text:"Onze teams bereiden de klantbestellingen van deze week voor: meerdere containers vlakglas vertrekken voor export, geleverd tot in de haven van onze klanten.", ticker:"Deze week: meerdere containers vlakglas vertrekken voor export"},
+        pl: {title:"W tym tygodniu: kilka kontenerów szkła płaskiego wyrusza na eksport", text:"Nasze zespoły przygotowują zamówienia klientów z tego tygodnia: kilka kontenerów szkła płaskiego wyrusza na eksport, z dostawą do portu klienta.", ticker:"W tym tygodniu: kilka kontenerów szkła płaskiego wyrusza na eksport"},
+        ar: {title:"هذا الأسبوع: عدة حاويات من الزجاج المسطح تنطلق للتصدير", text:"تجهّز فرقنا طلبات العملاء لهذا الأسبوع: عدة حاويات من الزجاج المسطح تنطلق للتصدير حتى موانئ عملائنا.", ticker:"هذا الأسبوع: عدة حاويات من الزجاج المسطح تنطلق للتصدير"},
+        tr: {title:"Bu hafta: birkaç konteyner düz cam ihracata çıkıyor", text:"Ekiplerimiz bu haftanın müşteri siparişlerini hazırlıyor: birkaç konteyner düz cam, müşterilerimizin limanlarına teslim edilmek üzere ihracata çıkıyor.", ticker:"Bu hafta: birkaç konteyner düz cam ihracata çıkıyor"},
+        ru: {title:"На этой неделе: несколько контейнеров листового стекла уходят на экспорт", text:"Наши команды готовят заказы клиентов этой недели: несколько контейнеров листового стекла уходят на экспорт с доставкой до порта клиента.", ticker:"На этой неделе: несколько контейнеров листового стекла уходят на экспорт"},
+        zh: {title:"本周：多个平板玻璃集装箱即将出口", text:"我们的团队正在为本周客户订单备货：多个平板玻璃集装箱即将出口，送达客户港口。", ticker:"本周：多个平板玻璃集装箱即将出口"}
+      }
+    },
+    {
+      type: "info", date: "2026-09-28",
+      link: "/noxem-group-filiale-montaugem/",
+      cover: "https://noxemgroup.com/wp-content/uploads/2025/07/glass-wall-2025-03-14-02-06-17-utc-scaled.jpg",
+      t: {
+        fr: {title:"Noxem Group, filiale de MONTAUGEM au capital de 5 177 000 €", text:"NOXEM GROUP (SAS au capital de 100 000 €) est une filiale de MONTAUGEM, au capital de 5 177 000 €. Plus de solidité pour vos commandes en grand volume.", ticker:"Noxem Group, filiale de MONTAUGEM — capital de 5 177 000 €"},
+        en: {title:"Noxem Group, a subsidiary of MONTAUGEM (share capital €5,177,000)", text:"NOXEM GROUP (SAS, share capital €100,000) is a subsidiary of MONTAUGEM, share capital €5,177,000. More strength behind your large-volume orders.", ticker:"Noxem Group, a subsidiary of MONTAUGEM — share capital €5,177,000"},
+        es: {title:"Noxem Group, filial de MONTAUGEM (capital de 5.177.000 €)", text:"NOXEM GROUP (SAS con capital de 100.000 €) es filial de MONTAUGEM, con un capital de 5.177.000 €. Más solidez para sus pedidos de gran volumen.", ticker:"Noxem Group, filial de MONTAUGEM — capital de 5.177.000 €"},
+        pt: {title:"Noxem Group, filial da MONTAUGEM (capital de 5 177 000 €)", text:"A NOXEM GROUP (SAS com capital de 100 000 €) é filial da MONTAUGEM, com capital de 5 177 000 €. Mais solidez para as suas encomendas de grande volume.", ticker:"Noxem Group, filial da MONTAUGEM — capital de 5 177 000 €"},
+        de: {title:"Noxem Group, Tochter der MONTAUGEM (Kapital 5.177.000 €)", text:"NOXEM GROUP (SAS, Kapital 100.000 €) ist eine Tochtergesellschaft der MONTAUGEM mit einem Kapital von 5.177.000 €. Mehr Sicherheit für Ihre Großaufträge.", ticker:"Noxem Group, Tochtergesellschaft der MONTAUGEM — Kapital 5.177.000 €"},
+        it: {title:"Noxem Group, controllata di MONTAUGEM (capitale 5.177.000 €)", text:"NOXEM GROUP (SAS, capitale 100.000 €) è una controllata di MONTAUGEM, con capitale di 5.177.000 €. Più solidità per i vostri ordini di grandi volumi.", ticker:"Noxem Group, controllata di MONTAUGEM — capitale 5.177.000 €"},
+        nl: {title:"Noxem Group, dochter van MONTAUGEM (kapitaal € 5.177.000)", text:"NOXEM GROUP (SAS, kapitaal € 100.000) is een dochteronderneming van MONTAUGEM, met een kapitaal van € 5.177.000. Meer zekerheid voor uw grote bestellingen.", ticker:"Noxem Group, dochteronderneming van MONTAUGEM — kapitaal € 5.177.000"},
+        pl: {title:"Noxem Group – spółka zależna MONTAUGEM (kapitał 5 177 000 €)", text:"NOXEM GROUP (SAS, kapitał 100 000 €) jest spółką zależną MONTAUGEM o kapitale 5 177 000 €. Większe bezpieczeństwo dużych zamówień.", ticker:"Noxem Group – spółka zależna MONTAUGEM, kapitał 5 177 000 €"},
+        ar: {title:"Noxem Group، شركة تابعة لـ MONTAUGEM (رأس مال 5,177,000 يورو)", text:"NOXEM GROUP (شركة SAS برأس مال 100,000 يورو) شركة تابعة لـ MONTAUGEM برأس مال 5,177,000 يورو. ضمان أكبر لطلباتكم بالكميات الكبيرة.", ticker:"Noxem Group شركة تابعة لـ MONTAUGEM — رأس مال 5,177,000 يورو"},
+        tr: {title:"Noxem Group, MONTAUGEM iştiraki (sermaye 5.177.000 €)", text:"NOXEM GROUP (SAS, sermaye 100.000 €), 5.177.000 € sermayeli MONTAUGEM'in bir iştirakidir. Büyük hacimli siparişleriniz için daha fazla güvence.", ticker:"Noxem Group, MONTAUGEM iştiraki — sermaye 5.177.000 €"},
+        ru: {title:"Noxem Group — дочерняя компания MONTAUGEM (капитал 5 177 000 €)", text:"NOXEM GROUP (SAS, капитал 100 000 €) — дочерняя компания MONTAUGEM с капиталом 5 177 000 €. Больше надёжности для ваших крупных заказов.", ticker:"Noxem Group — дочерняя компания MONTAUGEM, капитал 5 177 000 €"},
+        zh: {title:"Noxem Group 是 MONTAUGEM 的子公司（资本 5,177,000 欧元）", text:"NOXEM GROUP（SAS，资本 100,000 欧元）是 MONTAUGEM 的子公司，MONTAUGEM 资本 5,177,000 欧元。为您的大批量订单提供更多保障。", ticker:"Noxem Group 是 MONTAUGEM 的子公司 — 资本 5,177,000 欧元"}
+      }
+    },
+    
+    {
+      type: "info", date: "2026-09-25",
+      link: "/logistique-verre-plat-mollem-belgique/",
+      cover: "https://noxemgroup.com/wp-content/uploads/2026/09/noxem-stock-1.jpg",
+      t: {
+        fr: {title:"Notre logistique à Mollem : décharger et livrer le verre plat en grand volume", text:"Conteneurs open-top déchargés au camion-grue, stock à l'abri en Belgique, livraison en camion inloader : découvrez notre logistique en photos.", ticker:"Nouvel article : notre logistique verre plat à Mollem, Belgique"},
+        en: {title:"Our logistics in Mollem: unloading and delivering flat glass in large volumes", text:"Open-top containers unloaded by crane truck, sheltered stock in Belgium, delivery by inloader truck: discover our logistics in pictures.", ticker:"New article: our flat glass logistics in Mollem, Belgium"},
+        es: {title:"Nuestra logística en Mollem: descargar y entregar vidrio plano en gran volumen", text:"Contenedores open-top descargados con camión grúa, stock a cubierto en Bélgica, entrega en camión inloader: descubra nuestra logística en fotos.", ticker:"Nuevo artículo: nuestra logística de vidrio plano en Mollem, Bélgica"},
+        pt: {title:"A nossa logística em Mollem: descarregar e entregar vidro plano em grande volume", text:"Contentores open-top descarregados com camião-grua, stock ao abrigo na Bélgica, entrega em camião inloader: descubra a nossa logística em fotos.", ticker:"Novo artigo: a nossa logística de vidro plano em Mollem, Bélgica"},
+        de: {title:"Unsere Logistik in Mollem: Flachglas in großen Mengen entladen und liefern", text:"Open-Top-Container per Kranwagen entladen, überdachtes Lager in Belgien, Lieferung per Innenlader: unsere Logistik in Bildern.", ticker:"Neuer Artikel: unsere Flachglas-Logistik in Mollem, Belgien"},
+        it: {title:"La nostra logistica a Mollem: scaricare e consegnare vetro piano in grandi volumi", text:"Container open-top scaricati con autogru, stock al coperto in Belgio, consegna con camion inloader: scopri la nostra logistica in foto.", ticker:"Nuovo articolo: la nostra logistica del vetro piano a Mollem, Belgio"},
+        nl: {title:"Onze logistiek in Mollem: vlakglas in grote volumes lossen en leveren", text:"Open-top containers gelost met kraanwagen, overdekte voorraad in België, levering met inloader: ontdek onze logistiek in beeld.", ticker:"Nieuw artikel: onze vlakglaslogistiek in Mollem, België"},
+        pl: {title:"Nasza logistyka w Mollem: rozładunek i dostawa szkła płaskiego w dużych ilościach", text:"Kontenery open-top rozładowywane dźwigiem, zapas pod dachem w Belgii, dostawa samochodem inloader: zobacz naszą logistykę na zdjęciach.", ticker:"Nowy artykuł: nasza logistyka szkła płaskiego w Mollem, Belgia"},
+        ar: {title:"لوجستياتنا في مولم: تفريغ وتسليم الزجاج المسطح بكميات كبيرة", text:"حاويات مفتوحة السقف تُفرَّغ بشاحنة رافعة، ومخزون مسقوف في بلجيكا، وتسليم بشاحنة إنلودر: اكتشف لوجستياتنا بالصور.", ticker:"مقال جديد: لوجستيات الزجاج المسطح في مولم، بلجيكا"},
+        tr: {title:"Mollem'deki lojistiğimiz: büyük hacimde düz cam boşaltma ve teslimat", text:"Vinçli kamyonla boşaltılan open-top konteynerler, Belçika'da kapalı depo, inloader kamyonla teslimat: lojistiğimizi fotoğraflarla keşfedin.", ticker:"Yeni yazı: Mollem, Belçika'daki düz cam lojistiğimiz"},
+        ru: {title:"Наша логистика в Моллеме: разгрузка и доставка листового стекла большими объёмами", text:"Контейнеры open-top разгружаются краном-манипулятором, склад под крышей в Бельгии, доставка стекловозом-инлоадером: наша логистика в фото.", ticker:"Новая статья: наша логистика листового стекла в Моллеме, Бельгия"},
+        zh: {title:"我们在莫勒姆的物流：大批量平板玻璃的卸货与配送", text:"随车吊卸载开顶集装箱，比利时室内仓储，内装式运输车配送：图片带您了解我们的物流。", ticker:"新文章：我们在比利时莫勒姆的平板玻璃物流"}
+      }
+    },
+    {
+      type: "info", date: "2026-09-25",
+      t: {
+        fr: {title:"Votre prix sous 24 h, dans votre langue", text:"Notre site est maintenant disponible en 12 langues. Écrivez-nous dans la vôtre : nous répondons sous 24 h.", ticker:"Demande de prix : réponse sous 24 h, en 12 langues"},
+        en: {title:"Your price within 24 h, in your language", text:"Our website is now available in 12 languages. Write to us in yours: we reply within 24 hours.", ticker:"Price requests: reply within 24 h, in 12 languages"},
+        es: {title:"Su precio en 24 h, en su idioma", text:"Nuestra web ya está disponible en 12 idiomas. Escríbanos en el suyo: respondemos en 24 h.", ticker:"Solicitud de precio: respuesta en 24 h, en 12 idiomas"},
+        pt: {title:"O seu preço em 24 h, na sua língua", text:"O nosso site já está disponível em 12 línguas. Escreva-nos na sua: respondemos em 24 h.", ticker:"Pedido de preço: resposta em 24 h, em 12 línguas"},
+        de: {title:"Ihr Preis in 24 Std., in Ihrer Sprache", text:"Unsere Website gibt es jetzt in 12 Sprachen. Schreiben Sie uns in Ihrer: Wir antworten innerhalb von 24 Std.", ticker:"Preisanfrage: Antwort in 24 Std., in 12 Sprachen"},
+        it: {title:"Il tuo prezzo in 24 h, nella tua lingua", text:"Il nostro sito è ora disponibile in 12 lingue. Scrivici nella tua: rispondiamo entro 24 h.", ticker:"Richiesta di prezzo: risposta in 24 h, in 12 lingue"},
+        nl: {title:"Uw prijs binnen 24 u, in uw taal", text:"Onze website is nu beschikbaar in 12 talen. Schrijf ons in de uwe: wij antwoorden binnen 24 u.", ticker:"Prijsaanvraag: antwoord binnen 24 u, in 12 talen"},
+        pl: {title:"Cena w 24 h, w Twoim języku", text:"Nasza strona jest już dostępna w 12 językach. Napisz do nas w swoim: odpowiadamy w ciągu 24 h.", ticker:"Zapytanie o cenę: odpowiedź w 24 h, w 12 językach"},
+        ar: {title:"سعرك خلال 24 ساعة وبلغتك", text:"موقعنا متاح الآن بـ 12 لغة. راسلنا بلغتك: نرد خلال 24 ساعة.", ticker:"طلب عرض سعر: رد خلال 24 ساعة وبـ 12 لغة"},
+        tr: {title:"24 saatte fiyatınız, kendi dilinizde", text:"Sitemiz artık 12 dilde. Bize kendi dilinizde yazın: 24 saat içinde yanıt veriyoruz.", ticker:"Fiyat talebi: 24 saatte yanıt, 12 dilde"},
+        ru: {title:"Цена за 24 часа на вашем языке", text:"Наш сайт теперь доступен на 12 языках. Пишите нам на своём: отвечаем в течение 24 часов.", ticker:"Запрос цены: ответ за 24 часа, на 12 языках"},
+        zh: {title:"24 小时内报价，使用您的语言", text:"我们的网站现已支持 12 种语言。用您的语言联系我们，24 小时内回复。", ticker:"询价：24 小时内回复，支持 12 种语言"}
+      }
+    }
+  ],
+
+  // Textes fixes de la section (ne pas modifier chaque semaine)
+  ui: {
+    fr: {read:"Lire l'article", back:"Retour à l'accueil", todo:"À COMPLÉTER", kicker:"Actualités du moment", h:"Cette semaine chez Noxem", updated:"Mis à jour le", cta:"Demander le prix", wa:"En parler sur WhatsApp", waMsg:"Bonjour Aaron, je vous contacte au sujet de :", tags:{urgent:"Urgent", stock:"Stock", info:"Info"}},
+    en: {read:"Read the article", back:"Back to home", todo:"TO FILL IN", kicker:"Latest news", h:"This week at Noxem", updated:"Updated on", cta:"Request the price", wa:"Talk on WhatsApp", waMsg:"Hello Aaron, I'm contacting you about:", tags:{urgent:"Urgent", stock:"Stock", info:"Info"}},
+    es: {read:"Leer el artículo", back:"Volver al inicio", todo:"POR COMPLETAR", kicker:"Novedades", h:"Esta semana en Noxem", updated:"Actualizado el", cta:"Solicitar precio", wa:"Hablar por WhatsApp", waMsg:"Hola Aaron, le contacto por:", tags:{urgent:"Urgente", stock:"Stock", info:"Info"}},
+    pt: {read:"Ler o artigo", back:"Voltar ao início", todo:"A COMPLETAR", kicker:"Novidades", h:"Esta semana na Noxem", updated:"Atualizado a", cta:"Pedir preço", wa:"Falar no WhatsApp", waMsg:"Olá Aaron, contacto-o sobre:", tags:{urgent:"Urgente", stock:"Stock", info:"Info"}},
+    de: {read:"Artikel lesen", back:"Zur Startseite", todo:"AUSZUFÜLLEN", kicker:"Aktuelles", h:"Diese Woche bei Noxem", updated:"Aktualisiert am", cta:"Preis anfragen", wa:"Per WhatsApp sprechen", waMsg:"Hallo Aaron, ich melde mich wegen:", tags:{urgent:"Dringend", stock:"Lager", info:"Info"}},
+    it: {read:"Leggi l'articolo", back:"Torna alla home", todo:"DA COMPLETARE", kicker:"Novità", h:"Questa settimana da Noxem", updated:"Aggiornato il", cta:"Richiedi il prezzo", wa:"Parliamone su WhatsApp", waMsg:"Ciao Aaron, ti contatto per:", tags:{urgent:"Urgente", stock:"Stock", info:"Info"}},
+    nl: {read:"Lees het artikel", back:"Terug naar home", todo:"IN TE VULLEN", kicker:"Nieuws", h:"Deze week bij Noxem", updated:"Bijgewerkt op", cta:"Prijs aanvragen", wa:"Bespreek via WhatsApp", waMsg:"Hallo Aaron, ik neem contact op over:", tags:{urgent:"Dringend", stock:"Voorraad", info:"Info"}},
+    pl: {read:"Czytaj artykuł", back:"Powrót do strony głównej", todo:"DO UZUPEŁNIENIA", kicker:"Aktualności", h:"W tym tygodniu w Noxem", updated:"Aktualizacja:", cta:"Zapytaj o cenę", wa:"Porozmawiaj na WhatsApp", waMsg:"Dzień dobry Aaron, piszę w sprawie:", tags:{urgent:"Pilne", stock:"Magazyn", info:"Info"}},
+    ar: {read:"اقرأ المقال", back:"العودة إلى الصفحة الرئيسية", todo:"يُستكمل", kicker:"آخر الأخبار", h:"هذا الأسبوع في نوكسم", updated:"آخر تحديث", cta:"اطلب السعر", wa:"تحدث عبر واتساب", waMsg:"مرحباً آرون، أتواصل معك بخصوص:", tags:{urgent:"عاجل", stock:"مخزون", info:"معلومة"}},
+    tr: {read:"Yazıyı oku", back:"Ana sayfaya dön", todo:"DOLDURULACAK", kicker:"Güncel haberler", h:"Bu hafta Noxem'de", updated:"Güncelleme:", cta:"Fiyat iste", wa:"WhatsApp'tan konuşalım", waMsg:"Merhaba Aaron, şu konuda yazıyorum:", tags:{urgent:"Acil", stock:"Stok", info:"Bilgi"}},
+    ru: {read:"Читать статью", back:"На главную", todo:"ЗАПОЛНИТЬ", kicker:"Новости", h:"На этой неделе в Noxem", updated:"Обновлено", cta:"Запросить цену", wa:"Обсудить в WhatsApp", waMsg:"Здравствуйте, Аарон! Пишу по поводу:", tags:{urgent:"Срочно", stock:"Склад", info:"Инфо"}},
+    zh: {read:"阅读全文", back:"返回首页", todo:"待补充", kicker:"最新动态", h:"Noxem 本周动态", updated:"更新于", cta:"获取报价", wa:"WhatsApp 咨询", waMsg:"你好 Aaron，我想咨询：", tags:{urgent:"紧急", stock:"现货", info:"资讯"}}
+  }
+};
+
+// Derniers articles du blog existant (repris tels quels depuis noxemgroup.com — rien n'est supprimé).
+// Sur le vrai site, WordPress affichera automatiquement les derniers articles publiés.
+window.NOXEM_POSTS = {
+ "fr": [
+ {
+   "t": "Cette semaine chez Noxem Group : plusieurs conteneurs de verre plat partent à l'export",
+   "d": "2026-09-28",
+   "u": "https://noxemgroup.com/conteneurs-verre-plat-export-cette-semaine/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/05/frank-mckenna-tjX_sniNzgQ-unsplash.jpg"
+  },
+ {
+   "t": "Noxem Group, filiale de MONTAUGEM au capital de 5 177 000 €",
+   "d": "2026-09-28",
+   "u": "https://noxemgroup.com/noxem-group-filiale-montaugem/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2025/07/glass-wall-2025-03-14-02-06-17-utc-scaled.jpg"
+  },
+ {
+   "t": "Notre logistique à Mollem (Belgique) : décharger et livrer le verre plat en grand volume",
+   "d": "2026-09-25",
+   "u": "https://noxemgroup.com/logistique-verre-plat-mollem-belgique/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/09/noxem-stock-1.jpg"
+  },
+   {
+   "t": "Le Hub du Verre : une nouvelle vision du marché",
+   "d": "2026-07-21",
+   "u": "https://noxemgroup.com/le-hub-du-verre-une-nouvelle-vision-du-marche/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/07/modern-glass-building-with-blue-sky-2026-03-25-22-46-39-utc-768x512.jpg"
+  },
+  {
+   "t": "Le marché du verre plat en 2026 : entre ralentissement conjoncturel et profondes opportunités de transformation",
+   "d": "2026-07-21",
+   "u": "https://noxemgroup.com/le-marche-du-verre-plat-en-2026-entre-ralentissement-conjoncturel-et-profondes-opportunites-de-transformation/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/07/wide-angle-abstract-background-with-stack-of-flat-2026-03-19-04-29-13-utc-768x307.jpg"
+  },
+  {
+   "t": "Importer du verre plat en containers : la solution économique devenue le standard européen",
+   "d": "2026-07-12",
+   "u": "https://noxemgroup.com/importer-du-verre-plat-en-containers-la-solution-economique-devenue-le-standard-europeen/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/05/12730f12-3363-4533-9319-0a609d800b79-768x461.jpg"
+  },
+  {
+   "t": "Noxem Group, votre solution de sous-traitance pour tous vos projets verriers",
+   "d": "2026-07-12",
+   "u": "https://noxemgroup.com/noxem-group-votre-solution-de-sous-traitance-pour-tous-vos-projets-verriers/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/07/Projet-verre-768x512.jpg"
+  },
+  {
+   "t": "Noxem Group, partenaire de l’UDTVP : un acteur de confiance au service des professionnels du verre",
+   "d": "2026-07-12",
+   "u": "https://noxemgroup.com/noxem-group-partenaire-de-ludtvp-un-acteur-de-confiance-au-service-des-professionnels-du-verre/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/07/1769691923731-768x576.jpg"
+  },
+  {
+   "t": "Noxem Group lance son service de stockage et de livraison J+3 pour les professionnels du verre en France et en Belgique",
+   "d": "2026-03-11",
+   "u": "https://noxemgroup.com/noxem-group-lance-son-service-de-stockage-et-de-livraison-j3-pour-les-professionnels-du-verre-en-france-et-en-belgique/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/03/building-exterior-wall-closeup-2026-01-07-06-57-43-utc-768x512.jpg"
+  }
+ ],
+ "en": [
+ {
+   "t": "This week at Noxem Group: several containers of flat glass are leaving for export",
+   "d": "2026-09-28",
+   "u": "https://noxemgroup.com/conteneurs-verre-plat-export-cette-semaine/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/05/frank-mckenna-tjX_sniNzgQ-unsplash.jpg"
+  },
+ {
+   "t": "Noxem Group, a subsidiary of MONTAUGEM with a share capital of €5,177,000",
+   "d": "2026-09-28",
+   "u": "https://noxemgroup.com/noxem-group-filiale-montaugem/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2025/07/glass-wall-2025-03-14-02-06-17-utc-scaled.jpg"
+  },
+  {
+   "t": "20-Feet Open Top Containers : The International Standard For Glass Trading",
+   "d": "2026-06-01",
+   "u": "https://noxemgroup.com/en/20-feet-open-top-containers-the-international-standard-for-glass-trading/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/06/87f72f2c-cd0d-47a1-bcac-ac7eb62866c3-1-768x576.jpg"
+  },
+  {
+   "t": "What Glass Should You Choose For Conservatories In Very Hot Climates ?",
+   "d": "2026-05-20",
+   "u": "https://noxemgroup.com/en/what-glass-should-you-choose-for-conservatories-in-very-hot-climates/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/05/transparent-glass-roof-on-top-of-a-modern-building-2026-03-17-20-14-50-utc-768x512.jpg"
+  },
+  {
+   "t": "Functional and Decorative Mirrors in Interior Design : Trends, Inspiration and Architectural Elegance for 2025",
+   "d": "2026-05-19",
+   "u": "https://noxemgroup.com/en/functional-and-decorative-mirrors-in-interior-design-trends-inspiration-and-architectural-elegance-for-2025/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/05/stylish-modern-interior-design-with-large-windows-2026-03-18-14-34-35-utc-768x512.jpg"
+  },
+  {
+   "t": "The Advantages of Outsourcing Technical Flat Glass Parts: Performance, Expertise, and Industrial Flexibility",
+   "d": "2026-05-12",
+   "u": "https://noxemgroup.com/en/the-advantages-of-outsourcing-technical-flat-glass-parts-performance-expertise-and-industrial-flexibility/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/05/modern-spiral-staircase-with-glass-railing-and-lig-2026-01-11-09-49-40-utc-768x512.jpg"
+  },
+  {
+   "t": "Glass balustrades: DTU, standards, minimum dimensions and recommended thicknesses",
+   "d": "2026-03-26",
+   "u": "https://noxemgroup.com/en/glass-balustrades-dtu-standards-minimum-dimensions-and-recommended-thicknesses/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2026/03/vertical-shot-of-glass-surfaces-forming-a-sharp-an-2026-01-07-07-18-26-utc-768x543.jpeg"
+  },
+  {
+   "t": "Vacuum Double Glazing: The New Revolution in Insulating Glass",
+   "d": "2025-09-06",
+   "u": "https://noxemgroup.com/en/verre-vacuum-double-glazing-the-new-revolution-in-insulating-glass/",
+   "i": "https://noxemgroup.com/wp-content/uploads/2025/09/Design-sans-titre-16-768x432.png"
+  }
+ ]
+};
+window.NOXEM_POSTS_TOTAL = 37;
+
+// Animation « Comment se passe votre commande » (≈ 30 s), dessinée en SVG et animée en JavaScript.
+// Usage : NoxemAnim.mount(element, codeLangue) puis NoxemAnim.setLang(code).
+(function(){
+
+var TXT = {
+  fr:{k:"En 30 secondes", h:"Comment se passe votre commande", replay:"Revoir", cap:["1. Vous passez commande","2. On prépare et on charge vos caisses","3. Départ du conteneur","4. Traversée en mer","5. Livraison à destination"], slogan:"Toujours à votre disposition", sub:"Votre verre plat en direct usine, au meilleur prix.", scr:["Demande de prix","10 conteneurs — 50 caisses","Commande validée ✓"]},
+  en:{k:"In 30 seconds", h:"How your order works", replay:"Watch again", cap:["1. You place your order","2. We prepare and load your crates","3. The container sets off","4. Crossing the sea","5. Delivered to destination"], slogan:"Always at your service", sub:"Your flat glass direct from the factory, at the best price.", scr:["Price request","10 containers — 50 crates","Order confirmed ✓"]},
+  es:{k:"En 30 segundos", h:"Cómo funciona su pedido", replay:"Ver de nuevo", cap:["1. Usted hace su pedido","2. Preparamos y cargamos sus cajas","3. Sale el contenedor","4. Travesía por mar","5. Entrega en destino"], slogan:"Siempre a su disposición", sub:"Su vidrio plano directo de fábrica, al mejor precio.", scr:["Solicitud de precio","10 contenedores — 50 cajas","Pedido confirmado ✓"]},
+  pt:{k:"Em 30 segundos", h:"Como funciona a sua encomenda", replay:"Ver outra vez", cap:["1. Faz a sua encomenda","2. Preparamos e carregamos as suas caixas","3. Partida do contentor","4. Travessia por mar","5. Entrega no destino"], slogan:"Sempre ao seu dispor", sub:"O seu vidro plano direto da fábrica, ao melhor preço.", scr:["Pedido de preço","10 contentores — 50 caixas","Encomenda confirmada ✓"]},
+  de:{k:"In 30 Sekunden", h:"So läuft Ihre Bestellung ab", replay:"Nochmal ansehen", cap:["1. Sie bestellen","2. Wir bereiten Ihre Kisten vor und laden sie","3. Der Container startet","4. Überfahrt auf See","5. Lieferung am Zielort"], slogan:"Immer für Sie da", sub:"Ihr Flachglas direkt ab Werk, zum besten Preis.", scr:["Preisanfrage","10 Container — 50 Kisten","Bestellung bestätigt ✓"]},
+  it:{k:"In 30 secondi", h:"Come funziona il tuo ordine", replay:"Rivedi", cap:["1. Fai il tuo ordine","2. Prepariamo e carichiamo le tue casse","3. Partenza del container","4. Traversata in mare","5. Consegna a destinazione"], slogan:"Sempre a vostra disposizione", sub:"Il tuo vetro piano direttamente dalla fabbrica, al miglior prezzo.", scr:["Richiesta di prezzo","10 container — 50 casse","Ordine confermato ✓"]},
+  nl:{k:"In 30 seconden", h:"Zo verloopt uw bestelling", replay:"Opnieuw bekijken", cap:["1. U plaatst uw bestelling","2. Wij bereiden en laden uw kisten","3. De container vertrekt","4. Overtocht over zee","5. Levering op bestemming"], slogan:"Altijd tot uw dienst", sub:"Uw vlakglas rechtstreeks uit de fabriek, tegen de beste prijs.", scr:["Prijsaanvraag","10 containers — 50 kisten","Bestelling bevestigd ✓"]},
+  pl:{k:"W 30 sekund", h:"Jak przebiega Twoje zamówienie", replay:"Obejrzyj ponownie", cap:["1. Składasz zamówienie","2. Przygotowujemy i ładujemy Twoje skrzynie","3. Kontener wyrusza","4. Transport morski","5. Dostawa na miejsce"], slogan:"Zawsze do Twojej dyspozycji", sub:"Twoje szkło płaskie prosto z fabryki, w najlepszej cenie.", scr:["Zapytanie o cenę","10 kontenerów — 50 skrzyń","Zamówienie potwierdzone ✓"]},
+  ar:{k:"في 30 ثانية", h:"كيف يتم تنفيذ طلبك", replay:"إعادة المشاهدة", cap:["1. تقدّم طلبك","2. نجهّز صناديقك ونحمّلها","3. انطلاق الحاوية","4. العبور بحراً","5. التسليم في الوجهة"], slogan:"دائماً في خدمتكم", sub:"زجاجك المسطح مباشرة من المصنع وبأفضل سعر.", scr:["طلب عرض سعر","10 حاويات — 50 صندوقاً","تم تأكيد الطلب ✓"]},
+  tr:{k:"30 saniyede", h:"Siparişiniz nasıl ilerler", replay:"Tekrar izle", cap:["1. Siparişinizi veriyorsunuz","2. Sandıklarınızı hazırlayıp yüklüyoruz","3. Konteyner yola çıkıyor","4. Deniz yolculuğu","5. Varış noktasına teslimat"], slogan:"Her zaman hizmetinizde", sub:"Düz camınız doğrudan fabrikadan, en iyi fiyata.", scr:["Fiyat talebi","10 konteyner — 50 sandık","Sipariş onaylandı ✓"]},
+  ru:{k:"За 30 секунд", h:"Как проходит ваш заказ", replay:"Смотреть снова", cap:["1. Вы делаете заказ","2. Мы готовим и грузим ваши ящики","3. Контейнер отправляется","4. Морская перевозка","5. Доставка в пункт назначения"], slogan:"Всегда к вашим услугам", sub:"Листовое стекло напрямую с завода по лучшей цене.", scr:["Запрос цены","10 контейнеров — 50 ящиков","Заказ подтверждён ✓"]},
+  zh:{k:"30 秒了解", h:"您的订单如何进行", replay:"重新播放", cap:["1. 您下单","2. 我们备货并装箱","3. 集装箱发运","4. 海上运输","5. 送达目的地"], slogan:"随时为您服务", sub:"平板玻璃工厂直供，价格最优。", scr:["询价","10 个集装箱 — 50 箱","订单已确认 ✓"]}
+};
+if (window.NX_EXTRA) { var nxa = window.NX_EXTRA.anim || {}; for (var nxk in nxa) TXT[nxk] = nxa[nxk]; }
+
+var DUR = 30;
+// Découpage des scènes (secondes)
+var S = [[0,5],[5,11],[11,15],[15,21.5],[21.5,26.2],[26.2,DUR]];
+
+var RED="#c1272d", INK="#1f2a37", ORANGE="#d98a3a", WOOD="#d8b07a", WOOD2="#b98d55", GLASS="#bfe3e6";
+var LOGO = "https://noxemgroup.com/wp-content/uploads/2023/09/LOGO-1.png";
+
+function clamp(x,a,b){ return Math.max(a, Math.min(b, x)); }
+function ease(x){ x = clamp(x,0,1); return x</*>*/.5 ? 2*x*x : 1-Math.pow(-2*x+2,2)/2; }
+function seg(t,a,b){ return ease((t-a)/(b-a)); }
+function lin(t,a,b){ return clamp((t-a)/(b-a),0,1); }
+function lerp(a,b,k){ return a+(b-a)*k; }
+
+function container(id, w, h, color, label){
+  var ribs = ''; for (var x = 18; x </*>*/ w-10; x += 22) ribs += '\x3cline x1="'+x+'" y1="10" x2="'+x+'" y2="'+(h-10)+'" stroke="rgba(0,0,0,.14)" stroke-width="5"/>';
+  return '\x3cg id="'+id+'">\x3crect width="'+w+'" height="'+h+'" rx="4" fill="'+color+'"/>'+ribs
+    + '\x3crect width="'+w+'" height="12" fill="rgba(0,0,0,.25)"/>\x3crect y="'+(h-12)+'" width="'+w+'" height="12" fill="rgba(0,0,0,.3)"/>'
+    + '\x3crect x="0" y="0" width="14" height="'+h+'" fill="rgba(0,0,0,.25)"/>\x3crect x="'+(w-14)+'" y="0" width="14" height="'+h+'" fill="rgba(0,0,0,.25)"/>'
+    + (label ? '\x3ctext x="'+(w/2)+'" y="'+(h/2+16)+'" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="'+Math.round(h*0.2)+'" fill="#fff" letter-spacing="3">NOXEM GROUP\x3c/text>' : '')
+    + '\x3c/g>';
+}
+function crate(id){
+  return '\x3cg id="'+id+'">\x3crect x="-70" y="-190" width="140" height="190" rx="3" fill="'+WOOD+'"/>'
+    + '\x3crect x="-58" y="-200" width="116" height="14" fill="'+GLASS+'" opacity=".9"/>'
+    + '\x3cline x1="-35" y1="-190" x2="-35" y2="0" stroke="'+WOOD2+'" stroke-width="3"/>\x3cline x1="0" y1="-190" x2="0" y2="0" stroke="'+WOOD2+'" stroke-width="3"/>\x3cline x1="35" y1="-190" x2="35" y2="0" stroke="'+WOOD2+'" stroke-width="3"/>'
+    + '\x3crect x="-70" y="-190" width="140" height="16" fill="'+WOOD2+'"/>\x3crect x="-70" y="-16" width="140" height="16" fill="'+WOOD2+'"/>'
+    + '\x3cline x1="-66" y1="-176" x2="66" y2="-18" stroke="'+WOOD2+'" stroke-width="7"/>'
+    + '\x3crect x="-24" y="-118" width="48" height="30" rx="3" fill="#fff"/>\x3ctext x="0" y="-97" text-anchor="middle" font-family="Inter,Arial" font-size="13" font-weight="800" fill="'+RED+'">NX\x3c/text>\x3c/g>';
+}
+function wheel(cx, cy, cls){ return '\x3cg class="'+cls+'" transform="translate('+cx+' '+cy+')">\x3ccircle r="30" fill="#222"/>\x3ccircle r="14" fill="#9aa3ad"/>\x3crect x="-3" y="-14" width="6" height="28" fill="#555"/>\x3c/g>'; }
+function truck(id){
+  return '\x3cg id="'+id+'">'
+    + '\x3crect x="0" y="238" width="560" height="22" fill="#39424e"/>'
+    + container(id+'-c', 540, 230, RED, true).replace('\x3cg id="'+id+'-c">', '\x3cg id="'+id+'-c" transform="translate(10 6)">')
+    + '\x3cpath d="M570 110 h110 q30 0 44 30 l30 70 v60 h-184z" fill="'+INK+'"/>'
+    + '\x3cpath d="M590 128 h82 q18 0 26 18 l22 52 h-130z" fill="#bfe3f2"/>'
+    + '\x3crect x="570" y="232" width="184" height="18" fill="#111"/>'
+    + wheel(80, 270, 'wh') + wheel(150, 270, 'wh') + wheel(470, 270, 'wh') + wheel(660, 270, 'wh')
+    + '\x3c/g>';
+}
+
+function build(){
+  var waves = function(id, y, col, amp){ var d = 'M-200 '+y; for (var x = -200; x <=/*>*/ 2000; x += 100) d += ' q25 '+(-amp)+' 50 0 t50 0'; d += ' V900 H-200Z'; return '\x3cpath id="'+id+'" d="'+d+'" fill="'+col+'"/>'; };
+  var stack = ''; var cols = [ORANGE,'#2f6db5','#8a96a3',RED,'#2f8f5b','#d6b33b',ORANGE,'#8a96a3'];
+  for (var r = 0; r </*>*/ 2; r++) for (var c = 0; c </*>*/ 4; c++) { var k = r*4+c; var isN = (r===1 && c===1);
+    stack += '\x3cg transform="translate('+(170+c*150)+' '+(-140 - r*72)+')">' + container('sc'+k, 140, 68, isN ? RED : cols[k], false) + (isN ? '\x3ctext x="70" y="44" text-anchor="middle" font-family="Inter,Arial" font-weight="800" font-size="17" fill="#fff">NOXEM\x3c/text>' : '') + '\x3c/g>'; }
+
+  return '\x3csvg viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Noxem Group">'
+  + '\x3cdefs>\x3clinearGradient id="sky" x1="0" y1="0" x2="0" y2="1">\x3cstop offset="0" stop-color="#bfe2f5"/>\x3cstop offset="1" stop-color="#eaf6fb"/>\x3c/linearGradient>'
+  + '\x3clinearGradient id="sea" x1="0" y1="0" x2="0" y2="1">\x3cstop offset="0" stop-color="#2c7fb8"/>\x3cstop offset="1" stop-color="#16507d"/>\x3c/linearGradient>'
+  + '\x3cclipPath id="scr">\x3crect x="470" y="170" width="660" height="400" rx="8"/>\x3c/clipPath>\x3c/defs>'
+
+  // Scène 1 : la commande
+  + '\x3cg id="s1">\x3crect width="1600" height="900" fill="#f6f1e8"/>'
+  + '\x3ccircle cx="1320" cy="190" r="120" fill="#efe4d2"/>\x3ccircle cx="250" cy="720" r="160" fill="#efe4d2"/>'
+  + '\x3crect x="440" y="140" width="720" height="460" rx="24" fill="'+INK+'"/>\x3crect x="470" y="170" width="660" height="400" rx="8" fill="#fff"/>'
+  + '\x3cpath d="M360 600 h880 l-40 44 h-800z" fill="#9aa3ad"/>\x3crect x="700" y="600" width="200" height="12" rx="6" fill="#7b848e"/>'
+  + '\x3cg clip-path="url(#scr)">\x3crect x="470" y="170" width="660" height="64" fill="#fff"/>\x3crect x="470" y="230" width="660" height="5" fill="'+RED+'"/>'
+  + '\x3cimage href="'+LOGO+'" x="492" y="182" width="120" height="40" preserveAspectRatio="xMinYMid meet"/>'
+  + '\x3ctext id="s1t" x="800" y="300" text-anchor="middle" font-family="Inter,Arial" font-size="34" font-weight="800" fill="'+INK+'">\x3c/text>'
+  + '\x3crect x="540" y="340" width="520" height="70" rx="10" fill="#f2f4f6" stroke="#cfd4da" stroke-width="3"/>'
+  + '\x3ctext id="s1in" x="566" y="386" font-family="Inter,Arial" font-size="28" fill="'+INK+'">\x3c/text>'
+  + '\x3crect id="s1caret" x="566" y="356" width="3" height="40" fill="'+RED+'"/>'
+  + '\x3cg id="s1btn">\x3crect x="690" y="440" width="220" height="70" rx="10" fill="'+RED+'"/>\x3ctext x="800" y="486" text-anchor="middle" font-family="Inter,Arial" font-size="30" font-weight="800" fill="#fff">→\x3c/text>\x3c/g>'
+  + '\x3cg id="s1ok" opacity="0">\x3crect x="470" y="170" width="660" height="400" fill="rgba(255,255,255,.96)"/>\x3ccircle cx="800" cy="330" r="70" fill="#1d9a52"/>\x3cpath d="M765 332 l25 25 l48 -52" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>'
+  + '\x3ctext id="s1okt" x="800" y="460" text-anchor="middle" font-family="Inter,Arial" font-size="36" font-weight="800" fill="'+INK+'">\x3c/text>\x3c/g>'
+  + '\x3c/g>'
+  + '\x3cg id="s1hand">\x3cpath d="M0 0 l0 58 l16 -14 l12 28 l14 -6 l-12 -28 l22 -2z" fill="#fff" stroke="'+INK+'" stroke-width="4" stroke-linejoin="round"/>\x3c/g>'
+  + '\x3c/g>'
+
+  // Scène 2 : chargement des caisses dans le conteneur open-top
+  + '\x3cg id="s2">\x3crect width="1600" height="900" fill="#e9ecef"/>'
+  + '\x3crect y="0" width="1600" height="620" fill="#dfe3e7"/>'
+  + '\x3cg fill="#cdd3d9">' + [140,420,700,980,1260].map(function(x){ return '\x3crect x="'+x+'" y="60" width="200" height="120" rx="6"/>'; }).join('') + '\x3c/g>'
+  + '\x3crect y="620" width="1600" height="280" fill="#b9c0c7"/>\x3crect y="620" width="1600" height="8" fill="#a3abb3"/>'
+  + '\x3crect x="0" y="210" width="1600" height="26" fill="#f0b429"/>\x3crect x="0" y="236" width="1600" height="8" fill="#c9921a"/>'
+  + '\x3cg id="s2crane">\x3crect x="-60" y="196" width="120" height="44" rx="6" fill="'+INK+'"/>\x3cline id="s2cable" x1="0" y1="240" x2="0" y2="300" stroke="#333" stroke-width="5"/>\x3crect id="s2hook" x="-80" y="296" width="160" height="12" rx="4" fill="#333"/>\x3c/g>'
+  + '\x3cg transform="translate(860 400)">' + container('s2box', 620, 230, RED, false) + '\x3c/g>'
+  + '\x3cg id="s2crates">' + crate('cr0') + crate('cr1') + crate('cr2') + '\x3c/g>'
+  + '\x3cg id="s2front" transform="translate(860 400)" opacity=".35">\x3crect width="620" height="230" fill="'+RED+'"/>\x3c/g>'
+  + '\x3ctext id="s2lbl" x="1170" y="540" text-anchor="middle" font-family="Inter,Arial" font-weight="800" font-size="46" fill="#fff" letter-spacing="4" opacity="0">NOXEM GROUP\x3c/text>'
+  + '\x3c/g>'
+
+  // Scène 3 : le camion part
+  + '\x3cg id="s3">\x3crect width="1600" height="900" fill="url(#sky)"/>'
+  + '\x3cg id="s3bg">\x3cpath d="M-200 560 q300 -140 600 0 t600 0 t600 0 t600 0 V640 H-200z" fill="#cfe6c8"/>'
+  + '\x3cg transform="translate(160 330)">\x3crect width="420" height="230" fill="#dfe3e7"/>\x3cpath d="M0 0 l70 -60 l70 60 l70 -60 l70 60 l70 -60 l70 60z" fill="#c4cad0"/>\x3crect x="40" y="70" width="340" height="56" rx="6" fill="#fff"/>\x3cimage href="'+LOGO+'" x="60" y="76" width="300" height="44"/>\x3crect x="170" y="150" width="80" height="80" fill="#9aa3ad"/>\x3c/g>\x3c/g>'
+  + '\x3crect y="640" width="1600" height="260" fill="#4a525c"/>'
+  + '\x3cg id="s3dash">' + Array.apply(null, Array(24)).map(function(_, i){ return '\x3crect x="'+(i*120 - 200)+'" y="760" width="70" height="10" rx="5" fill="#f5f5f5"/>'; }).join('') + '\x3c/g>'
+  + '\x3cg id="s3truck">' + truck('tk') + '\x3c/g>'
+  + '\x3c/g>'
+
+  // Scène 4 : traversée en mer
+  + '\x3cg id="s4">\x3crect width="1600" height="900" fill="url(#sky)"/>'
+  + '\x3ccircle cx="1300" cy="170" r="80" fill="#ffd66b"/>'
+  + '\x3cg id="s4clouds" fill="#fff">\x3cellipse cx="300" cy="170" rx="110" ry="36"/>\x3cellipse cx="380" cy="150" rx="80" ry="40"/>\x3cellipse cx="900" cy="120" rx="130" ry="34"/>\x3cellipse cx="980" cy="104" rx="70" ry="32"/>\x3c/g>'
+  + '\x3cg id="s4birds" fill="none" stroke="'+INK+'" stroke-width="4" stroke-linecap="round">\x3cpath d="M600 260 q14 -14 28 0 q14 -14 28 0"/>\x3cpath d="M680 230 q10 -10 20 0 q10 -10 20 0"/>\x3c/g>'
+  + waves('s4w1', 560, '#3d93cc', 18)
+  + '\x3cg id="s4ship">\x3cpath d="M100 0 h820 l-60 150 h-700z" fill="'+INK+'"/>\x3cpath d="M130 110 h760 l-16 40 h-728z" fill="'+RED+'"/>'
+  + '\x3crect x="760" y="-150" width="120" height="150" fill="#f4f4f4"/>\x3crect x="780" y="-130" width="80" height="26" fill="#9fd0e6"/>\x3crect x="800" y="-210" width="30" height="60" fill="'+RED+'"/>'
+  + '\x3ctext x="470" y="80" text-anchor="middle" font-family="Inter,Arial" font-weight="800" font-size="40" fill="#fff" letter-spacing="3">NOXEM\x3c/text>'
+  + stack + '\x3c/g>'
+  + waves('s4w2', 640, 'url(#sea)', 22)
+  + '\x3c/g>'
+
+  // Scène 5 : arrivée au port et livraison
+  + '\x3cg id="s5">\x3crect width="1600" height="900" fill="url(#sky)"/>'
+  + '\x3crect y="600" width="1600" height="300" fill="#2c7fb8"/>'
+  + '\x3cg transform="translate(-260 470)">\x3cg transform="translate(560 -72)">' + container('s5o1', 150, 72, '#2f6db5', false) + '\x3c/g>\x3cg transform="translate(250 -72)">' + container('s5o2', 150, 72, ORANGE, false) + '\x3c/g>\x3cpath d="M100 0 h820 l-60 150 h-700z" fill="'+INK+'"/>\x3cpath d="M130 110 h760 l-16 40 h-728z" fill="'+RED+'"/>\x3crect x="760" y="-150" width="120" height="150" fill="#f4f4f4"/>\x3c/g>'
+  + '\x3crect x="620" y="560" width="1000" height="340" fill="#9aa3ad"/>\x3crect x="620" y="560" width="1000" height="18" fill="#7b848e"/>'
+  + '\x3cg fill="#f0b429">\x3crect x="560" y="120" width="30" height="460"/>\x3crect x="1060" y="120" width="30" height="460"/>\x3crect x="200" y="110" width="990" height="36"/>\x3c/g>'
+  + '\x3cg id="s5trolley">\x3crect x="-60" y="140" width="120" height="30" fill="'+INK+'"/>\x3cline id="s5cable" x1="0" y1="170" x2="0" y2="300" stroke="#333" stroke-width="5"/>\x3c/g>'
+  + '\x3cg id="s5box">' + container('s5c', 300, 110, RED, true) + '\x3c/g>'
+  + '\x3cg id="s5truck">\x3crect x="0" y="0" width="330" height="18" fill="#39424e"/>\x3cpath d="M340 -80 h70 q22 0 32 22 l20 50 v36 h-122z" fill="'+INK+'"/>\x3cpath d="M352 -66 h52 q12 0 18 12 l14 34 h-84z" fill="#bfe3f2"/>' + wheel(60, 36, 'wh5') + wheel(250, 36, 'wh5') + wheel(400, 36, 'wh5') + '\x3c/g>'
+  + '\x3cg id="s5pin" opacity="0">\x3cpath d="M1440 330 c0 -50 -80 -50 -80 0 c0 40 40 90 40 90 s40 -50 40 -90z" fill="'+RED+'"/>\x3ccircle cx="1400" cy="330" r="16" fill="#fff"/>\x3c/g>'
+  + '\x3c/g>'
+
+  // Scène 6 : logo et slogan
+  + '\x3cg id="s6">\x3crect width="1600" height="900" fill="#fff"/>'
+  + '\x3cg id="s6logo">\x3cimage href="'+LOGO+'" x="440" y="220" width="720" height="240" preserveAspectRatio="xMidYMid meet"/>\x3c/g>'
+  + '\x3crect id="s6line" x="700" y="500" width="200" height="6" rx="3" fill="'+RED+'"/>'
+  + '\x3ctext id="s6slo" x="800" y="590" text-anchor="middle" font-family="Inter,Arial" font-size="58" font-weight="800" fill="'+INK+'">\x3c/text>'
+  + '\x3ctext id="s6sub" x="800" y="650" text-anchor="middle" font-family="Inter,Arial" font-size="30" fill="#4a5565">\x3c/text>'
+  + '\x3c/g>'
+  + '\x3c/svg>';
+}
+
+function mount(root, code){
+  root.classList.add('nxa');
+  root.innerHTML = '\x3cdiv class="nxa-stage">' + build() + '\x3cdiv class="nxa-cap">\x3cspan class="nxa-cap-t">\x3c/span>\x3c/div>'
+    + '\x3cbutton class="nxa-play" type="button" aria-label="Play">\x3csvg viewBox="0 0 24 24">\x3cpath d="M8 5v14l11-7z" fill="#fff"/>\x3c/svg>\x3cspan>\x3c/span>\x3c/button>'
+    + '\x3cdiv class="nxa-bar">\x3ci>\x3c/i>\x3c/div>\x3c/div>';
+  var svg = root.querySelector('svg'), q = function(id){ return svg.getElementById ? svg.getElementById(id) : svg.querySelector('#'+id); };
+  var cap = root.querySelector('.nxa-cap'), capT = root.querySelector('.nxa-cap-t'), bar = root.querySelector('.nxa-bar i'), play = root.querySelector('.nxa-play');
+  var scenes = [1,2,3,4,5,6].map(function(i){ return q('s'+i); });
+  var st = {t:0, playing:false, last:0, lang:code, visible:false, done:false};
+
+  function setLang(c){
+    st.lang = TXT[c] ? c : 'fr'; var x = TXT[st.lang];
+    q('s1t').textContent = x.scr[0]; q('s1okt').textContent = x.scr[2];
+    q('s6slo').textContent = x.slogan; q('s6sub').textContent = x.sub;
+    var rtl = st.lang === 'ar';
+    ['s1t','s1okt','s6slo','s6sub','s1in'].forEach(function(id){ q(id).setAttribute('direction', rtl ? 'rtl' : 'ltr'); });
+    q('s1in').setAttribute('text-anchor', 'start'); q('s1in').setAttribute('x', rtl ? 1034 : 566);
+    play.querySelector('span').textContent = x.replay;
+    draw(st.t);
+  }
+
+  function draw(t){
+    var x = TXT[st.lang];
+    // visibilité des scènes (fondu)
+    scenes.forEach(function(g, i){
+      var a = S[i][0], b = S[i][1], o = 0;
+      if (t >= a && t <=/*>*/ b){
+        var fin = i === 0 ? 1 : lin(t, a, a + .45);
+        var fout = i === 5 ? 1 : 1 - lin(t, b - .35, b);
+        o = Math.min(fin, fout);
+      }
+      g.setAttribute('opacity', o.toFixed(3));
+      g.style.display = o > 0 ? '' : 'none';
+    });
+
+    // Scène 1
+    var typed = x.scr[1], n = Math.round(typed.length * lin(t, .9, 2.8));
+    q('s1in').textContent = typed.slice(0, n);
+    var w = 0; try { w = q('s1in').getComputedTextLength(); } catch(e){}
+    q('s1caret').setAttribute('x', st.lang === 'ar' ? 1034 - w - 4 : 566 + w + 4);
+    q('s1caret').setAttribute('opacity', (t </*>*/ 3.1 && Math.floor(t * 3) % 2 === 0) ? 1 : 0);
+    var hk = seg(t, 2.6, 3.2);
+    q('s1hand').setAttribute('transform', 'translate(' + lerp(1250, 830, hk) + ' ' + lerp(720, 470, hk) + ') scale(' + (t > 3.2 && t </*>*/ 3.45 ? .9 : 1) + ')');
+    q('s1btn').setAttribute('transform', 'translate(800 475) scale(' + (t > 3.2 && t </*>*/ 3.45 ? .94 : 1) + ') translate(-800 -475)');
+    q('s1ok').setAttribute('opacity', lin(t, 3.45, 3.8));
+
+    // Scène 2 : 3 caisses soulevées par le pont roulant et posées dans le conteneur
+    var start = [[200, 620], [360, 620], [520, 620]], slot = [[990, 600], [1170, 600], [1350, 600]];
+    var hookX = 200, hookY = 300;
+    for (var i = 0; i </*>*/ 3; i++){
+      var t0 = 5.4 + i * 1.8, p = start[i].slice();
+      var up = seg(t, t0 + .25, t0 + .55), mv = seg(t, t0 + .55, t0 + 1.05), dn = seg(t, t0 + 1.05, t0 + 1.35);
+      p[0] = lerp(start[i][0], slot[i][0], mv);
+      p[1] = start[i][1] - 240 * up + (slot[i][1] - start[i][1] + 240) * dn;
+      q('cr' + i).setAttribute('transform', 'translate(' + p[0] + ' ' + p[1] + ')');
+      if (t >= t0 - .3 && t </*>*/ t0 + 1.4){
+        var go = seg(t, t0 - .3, t0 + .2);
+        var prevX = i === 0 ? 200 : slot[i-1][0], prevY = i === 0 ? 300 : slot[i-1][1] - 380;
+        hookX = t </*>*/ t0 + .25 ? lerp(prevX, start[i][0], go) : p[0];
+        hookY = t </*>*/ t0 + .25 ? lerp(prevY, start[i][1] - 200, go) : p[1] - 200;
+      } else if (t >= t0 + 1.4) { hookX = slot[i][0]; hookY = slot[i][1] - 200 - 180 * seg(t, t0 + 1.4, t0 + 1.7); }
+    }
+    q('s2crane').setAttribute('transform', 'translate(' + hookX + ' 0)');
+    q('s2cable').setAttribute('y2', hookY); q('s2hook').setAttribute('y', hookY - 4);
+    var close = lin(t, 10.2, 10.7);
+    q('s2front').setAttribute('opacity', (.35 + .65 * close).toFixed(3));
+    q('s2lbl').setAttribute('opacity', close);
+
+    // Scène 3 : le camion démarre et sort de l'écran
+    var drive = Math.pow(lin(t, 11.4, 14.9), 1.6);
+    var tx = lerp(420, 1900, drive);
+    q('s3truck').setAttribute('transform', 'translate(' + tx + ' 420) scale(.95)');
+    q('s3dash').setAttribute('transform', 'translate(' + (-(drive * 900) % 120) + ' 0)');
+    q('s3bg').setAttribute('transform', 'translate(' + (-drive * 380) + ' 0)');
+    var rot = drive * 2600;
+    svg.querySelectorAll('.wh').forEach(function(g){ var m = g.getAttribute('transform').match(/translate\(([-\d.]+) ([-\d.]+)\)/); g.setAttribute('transform', 'translate(' + m[1] + ' ' + m[2] + ') rotate(' + rot + ')'); });
+
+    // Scène 4 : le bateau traverse
+    var sail = lin(t, 15, 21.5), bob = Math.sin(t * 2.4) * 8;
+    q('s4ship').setAttribute('transform', 'translate(' + lerp(-900, 1700, sail) + ' ' + (520 + bob) + ') rotate(' + (Math.sin(t * 2.4 + 1) * 1.2) + ' 500 60)');
+    q('s4w1').setAttribute('transform', 'translate(' + (-(t * 60) % 100) + ' 0)');
+    q('s4w2').setAttribute('transform', 'translate(' + (-(t * 110) % 100) + ' ' + (Math.sin(t * 2) * 4) + ')');
+    q('s4clouds').setAttribute('transform', 'translate(' + (-(t - 15) * 18) + ' 0)');
+    q('s4birds').setAttribute('transform', 'translate(' + ((t - 15) * 40) + ' ' + (Math.sin(t * 3) * 10) + ')');
+
+    // Scène 5 : la grue décharge le conteneur sur le camion, qui repart
+    var a5 = 21.7, lift = seg(t, a5 + .2, a5 + .9), move = seg(t, a5 + .9, a5 + 2.1), lower = seg(t, a5 + 2.1, a5 + 2.7);
+    var bx = lerp(260, 820, move), by = 360 - 180 * lift + 198 * lower;
+    var leave = Math.pow(lin(t, a5 + 3, a5 + 4.4), 1.5), truckX = lerp(800, 1700, leave);
+    if (t > a5 + 2.9) bx = 820 + (truckX - 800);
+    q('s5box').setAttribute('transform', 'translate(' + (bx - 150) + ' ' + by + ')');
+    q('s5trolley').setAttribute('transform', 'translate(' + (t > a5 + 2.9 ? 820 : bx) + ' 0)');
+    q('s5cable').setAttribute('y2', t > a5 + 2.9 ? 300 - 130 * seg(t, a5 + 2.9, a5 + 3.4) : by);
+    q('s5truck').setAttribute('transform', 'translate(' + (truckX - 180) + ' 488)');
+    svg.querySelectorAll('.wh5').forEach(function(g){ var m = g.getAttribute('transform').match(/translate\(([-\d.]+) ([-\d.]+)\)/); g.setAttribute('transform', 'translate(' + m[1] + ' ' + m[2] + ') rotate(' + (leave * 1400) + ')'); });
+    q('s5pin').setAttribute('opacity', lin(t, a5 + 2.7, a5 + 3.1));
+
+    // Scène 6 : logo + slogan
+    var a6 = S[5][0], lg = seg(t, a6 + .1, a6 + 1);
+    q('s6logo').setAttribute('transform', 'translate(800 340) scale(' + lerp(.7, 1, lg) + ') translate(-800 -340)');
+    q('s6logo').setAttribute('opacity', lg);
+    q('s6line').setAttribute('width', 200 * seg(t, a6 + .8, a6 + 1.4)); q('s6line').setAttribute('x', 800 - 100 * seg(t, a6 + .8, a6 + 1.4));
+    q('s6slo').setAttribute('opacity', lin(t, a6 + 1.1, a6 + 1.7));
+    q('s6sub').setAttribute('opacity', lin(t, a6 + 1.7, a6 + 2.3));
+
+    // Légende
+    var idx = -1; for (var j = 0; j </*>*/ 5; j++) if (t >= S[j][0] && t </*>*/ S[j][1]) idx = j;
+    if (idx >= 0){ if (capT.textContent !== x.cap[idx]) capT.textContent = x.cap[idx]; cap.style.opacity = Math.min(lin(t, S[idx][0] + .2, S[idx][0] + .6), 1 - lin(t, S[idx][1] - .3, S[idx][1])); }
+    else cap.style.opacity = 0;
+    bar.style.width = (100 * t / DUR) + '%';
+  }
+
+  function frame(now){
+    if (!st.playing) return;
+    var dt = st.last ? (now - st.last) / 1000 : 0; st.last = now;
+    st.t = Math.min(DUR, st.t + dt);
+    draw(st.t);
+    if (st.t >= DUR){ st.playing = false; st.done = true; root.classList.add('ended'); return; }
+    requestAnimationFrame(frame);
+  }
+  function start(){ if (st.playing) return; if (st.done){ st.t = 0; st.done = false; } root.classList.remove('ended'); st.playing = true; st.last = 0; requestAnimationFrame(frame); }
+  function stop(){ st.playing = false; }
+
+  play.addEventListener('click', start);
+  root.querySelector('.nxa-stage').addEventListener('click', function(e){ if (e.target.closest('.nxa-play')) return; st.playing ? stop() : start(); });
+
+  var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if ('IntersectionObserver' in window && !reduce){
+    new IntersectionObserver(function(es){ es.forEach(function(e){ st.visible = e.isIntersecting; if (e.isIntersecting && !st.done) start(); else if (!e.isIntersecting) stop(); }); }, {threshold: .45}).observe(root);
+  } else { st.t = DUR; st.done = true; root.classList.add('ended'); }
+
+  setLang(code);
+  root.nxa = {setLang:setLang, start:start, stop:stop, seek:function(t){ st.t = t; draw(t); }};
+  return root.nxa;
+}
+
+window.NoxemAnim = {mount:mount, TXT:TXT};
+})();
+
+
+(function(){
+  var MAIL = "aaronharfi@noxem-group.com";
+  var WA = "33686131271";
+  var WA_ICON = '\x3csvg viewBox="0 0 32 32" aria-hidden="true">\x3cpath fill="#fff" d="M16 3C8.8 3 3 8.8 3 16c0 2.3.6 4.5 1.7 6.5L3 29l6.7-1.7c1.9 1 4.1 1.6 6.3 1.6 7.2 0 13-5.8 13-13S23.2 3 16 3zm0 23.7c-2 0-4-.6-5.7-1.6l-.4-.2-4 1 1.1-3.9-.3-.4A10.7 10.7 0 1 1 16 26.7zm5.9-8c-.3-.2-1.9-1-2.2-1.1-.3-.1-.5-.2-.7.2-.2.3-.8 1.1-1 1.3-.2.2-.4.2-.7.1-.3-.2-1.4-.5-2.6-1.6-1-.9-1.6-1.9-1.8-2.2-.2-.3 0-.5.1-.7l.5-.6c.2-.2.2-.4.3-.6.1-.2 0-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.1-1.2 2.8s1.2 3.2 1.4 3.4c.2.2 2.4 3.6 5.7 5 .8.3 1.4.5 1.9.7.8.3 1.5.2 2.1.1.6-.1 1.9-.8 2.2-1.5.3-.7.3-1.4.2-1.5-.1-.2-.3-.3-.6-.4z"/>\x3c/svg>';
+  var L = window.NOXEM_I18N, order = window.NOXEM_LANGS, cur;
+
+  function get(o, path){ return path.split('.').reduce(function(a,k){ return a && a[k]; }, o); }
+  function esc(s){ return String(s).replace(/[&\x3c>"]/g, function(c){ return {'&':'&amp;','\x3c':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function pair(tag, a, b){ return '\x3cdiv>\x3c'+tag+'>'+esc(a)+'\x3c/'+tag+'>\x3cp>'+esc(b)+'\x3c/p>\x3c/div>'; }
+
+  function render(code){
+    var t = L[code] || L.fr; cur = code;
+    document.documentElement.lang = code;
+    document.documentElement.dir = t.dir || 'ltr';
+    document.querySelectorAll('[data-t]').forEach(function(el){ el.textContent = get(t, el.dataset.t) || get(L.fr, el.dataset.t); });
+    document.querySelectorAll('[data-h]').forEach(function(el){ el.innerHTML = get(t, el.dataset.h); });
+    var mk = document.getElementById('mock'); if (mk) mk.innerHTML = '\x3cb>' + esc(t.mock[0]) + '\x3c/b> ' + esc(t.mock[1]);
+    var ids = ['#comment','#offres','#produits','#terrain','#devis'];
+    var newsLbl = window.NOXEM_NEWS ? (NOXEM_NEWS.ui[code] || NOXEM_NEWS.ui.fr).kicker : '';
+    document.getElementById('nav').innerHTML = (newsLbl ? '\x3ca href="#actus">' + esc(newsLbl) + '\x3c/a>' : '') + t.nav.map(function(n,i){ return '\x3ca href="'+ids[i]+'">'+esc(n)+'\x3c/a>'; }).join('');
+    document.getElementById('facts').innerHTML = t.facts.map(function(f){ return '\x3cdiv>\x3cb>'+esc(f[0])+'\x3c/b>\x3cspan>'+esc(f[1])+'\x3c/span>\x3c/div>'; }).join('');
+    document.getElementById('roles').innerHTML = t.roles.map(function(r,i){ return '\x3cdiv class="role">\x3cdiv class="n">'+(i+1)+'\x3c/div>\x3cdiv>\x3ch3>'+esc(r[0])+'\x3c/h3>\x3cp>'+esc(r[1])+'\x3c/p>\x3c/div>\x3c/div>'; }).join('');
+    document.getElementById('steps').innerHTML = t.steps.map(function(s,i){ return '\x3cdiv class="step">\x3cspan class="num">0'+(i+1)+'\x3c/span>\x3ch3>'+esc(s[0])+'\x3c/h3>\x3cp>'+esc(s[1])+'\x3c/p>\x3c/div>'; }).join('');
+    var photos = ['https://noxemgroup.com/wp-content/uploads/2026/05/12730f12-3363-4533-9319-0a609d800b79.jpg','https://noxemgroup.com/wp-content/uploads/2026/05/e04f8880-9c1f-4297-9e1a-c44881800b5b.jpg'];
+    document.getElementById('offers').innerHTML = t.offers.map(function(o,i){
+      return '\x3cdiv class="offer">\x3cdiv class="ph" style="background-image:url(\''+photos[i]+'\')">\x3c/div>\x3cdiv class="bd">\x3cspan class="tag">'+esc(o.tag)+'\x3c/span>\x3ch3>'+esc(o.t)+'\x3c/h3>\x3cp>'+esc(o.p)+'\x3c/p>\x3cul>'+o.li.map(function(l){return '\x3cli>'+esc(l)+'\x3c/li>';}).join('')+'\x3c/ul>\x3cp class="for">\x3cb>'+esc(t.forLabel)+'\x3c/b> '+esc(o.for)+'\x3c/p>\x3c/div>\x3c/div>';
+    }).join('');
+    document.getElementById('who').innerHTML = t.who.map(function(w){ return pair('h3', w[0], w[1]); }).join('');
+    document.getElementById('chipsA').innerHTML = t.chipsA.map(function(c){ return '\x3cspan>'+esc(c)+'\x3c/span>'; }).join('');
+    document.getElementById('chipsB').innerHTML = t.chipsB.map(function(c){ return '\x3cspan>'+esc(c)+'\x3c/span>'; }).join('');
+    document.getElementById('spec').innerHTML = t.spec.map(function(s){ return '\x3ctr>\x3cth>'+esc(s[0])+'\x3c/th>\x3ctd>'+esc(s[1])+'\x3c/td>\x3c/tr>'; }).join('');
+    document.getElementById('cap0').textContent = t.cap[0];
+    document.getElementById('cap1').textContent = t.cap[1];
+    document.querySelector('#qf textarea').placeholder = t.f.msgPh;
+    var waUrl = 'https://wa.me/' + WA + '?text=' + encodeURIComponent(t.wa.msg);
+    ['waFloat','waInline'].forEach(function(id){ var a = document.getElementById(id); a.href = waUrl; a.innerHTML = WA_ICON + '\x3cspan>' + esc(t.wa.label) + '\x3c/span>'; });
+    renderNews(code);
+    renderBlog(code);
+    var cat = document.getElementById('catalog'); if (cat) cat.href = 'https://noxemgroup.com/wp-content/uploads/2026/09/NOXEM-GROUP-Catalogue-2026-' + (code === 'fr' ? 'FR' : 'EN') + '.pdf';
+    if (window.NoxemAnim) { var an = document.getElementById('anim'); (an.nxa || NoxemAnim.mount(an, code)).setLang(code); }
+    document.getElementById('fmsg').textContent = '';
+    document.getElementById('lang').value = code;
+    try { localStorage.setItem('noxem-lang', code); } catch(e){}
+  }
+
+  function renderNews(code){
+    var N = window.NOXEM_NEWS; if (!N) return;
+    var u = N.ui[code] || N.ui.fr;
+    var fmt = function(d){ try { return new Intl.DateTimeFormat(code, {day:'numeric', month:'long', year:'numeric'}).format(new Date(d + 'T12:00:00')); } catch(e){ return d; } };
+    var items = N.items.map(function(n){ return {n:n, x:n.t[code] || n.t.fr}; });
+    var one = items.map(function(it){
+      var href = it.n.link ? it.n.link + '?langue=' + code : '#actus';
+      return '\x3ca href="' + href + '">\x3cb>' + esc(u.tags[it.n.type]) + '\x3c/b>' + esc(it.x.ticker) + '\x3c/a>';
+    }).join('');
+    var track = document.getElementById('track');
+    track.innerHTML = one + one;
+    track.style.setProperty('--dur', Math.max(25, items.length * 14) + 's');
+    document.getElementById('tickLbl').textContent = u.kicker;
+    document.getElementById('newsK').textContent = u.kicker;
+    document.getElementById('newsH').textContent = u.h;
+    var last = N.items.map(function(n){ return n.date; }).sort().pop();
+    document.getElementById('newsUpd').textContent = u.updated + ' ' + fmt(last);
+    document.getElementById('newsGrid').innerHTML = items.map(function(it){
+      var wa = 'https://wa.me/' + WA + '?text=' + encodeURIComponent(u.waMsg + ' ' + it.x.title);
+      var art = it.n.link ? it.n.link + '?langue=' + code : '';
+      return '\x3carticle class="ncard ' + it.n.type + '">'
+        + (it.n.cover ? '\x3ca class="cover" href="' + art + '" style="background-image:url(\'' + it.n.cover + '\')">\x3c/a>' : '')
+        + '\x3cdiv class="meta">\x3cspan class="pill">' + esc(u.tags[it.n.type]) + '\x3c/span>\x3cspan>' + esc(fmt(it.n.date)) + '\x3c/span>\x3c/div>'
+        + '\x3ch3>' + esc(it.x.title) + '\x3c/h3>\x3cp>' + esc(it.x.text) + '\x3c/p>'
+        + '\x3cdiv class="acts">' + (art ? '\x3ca class="r" href="' + art + '">' + esc(u.read) + ' →\x3c/a>' : '') + '\x3ca class="q" href="#devis">' + esc(u.cta) + '\x3c/a>\x3ca class="w" href="' + wa + '" target="_blank" rel="noopener">' + esc(u.wa) + '\x3c/a>\x3c/div>\x3c/article>';
+    }).join('');
+  }
+
+  // Blog, espace presse et pages légales : ce sont les pages existantes du site, conservées telles quelles.
+  var BLOG = {
+    fr:["Le blog Noxem","Nos derniers articles","Voir tous nos articles","Espace presse","Blog","Contact",""],
+    en:["Noxem blog","Our latest articles","See all articles","Press room","Blog","Contact",""],
+    es:["Blog de Noxem","Nuestros últimos artículos","Ver todos los artículos","Sala de prensa","Blog","Contacto","Artículos en inglés"],
+    pt:["Blog da Noxem","Os nossos últimos artigos","Ver todos os artigos","Imprensa","Blog","Contacto","Artigos em inglês"],
+    de:["Noxem Blog","Unsere neuesten Artikel","Alle Artikel ansehen","Pressebereich","Blog","Kontakt","Artikel auf Englisch"],
+    it:["Blog Noxem","I nostri ultimi articoli","Vedi tutti gli articoli","Area stampa","Blog","Contatti","Articoli in inglese"],
+    nl:["Noxem blog","Onze nieuwste artikelen","Alle artikelen bekijken","Pers","Blog","Contact","Artikelen in het Engels"],
+    pl:["Blog Noxem","Nasze najnowsze artykuły","Zobacz wszystkie artykuły","Dla prasy","Blog","Kontakt","Artykuły w języku angielskim"],
+    ar:["مدونة نوكسم","أحدث مقالاتنا","عرض كل المقالات","المركز الإعلامي","المدونة","اتصل بنا","مقالات باللغة الإنجليزية"],
+    tr:["Noxem blog","Son yazılarımız","Tüm yazıları gör","Basın odası","Blog","İletişim","İngilizce yazılar"],
+    ru:["Блог Noxem","Наши последние статьи","Все статьи","Для прессы","Блог","Контакты","Статьи на английском языке"],
+    zh:["Noxem 博客","最新文章","查看全部文章","新闻中心","博客","联系我们","英文文章"]
+  };
+  var SITE = "https://noxemgroup.com";
+  var PAGES = {
+    fr:{blog:"/actualites/", press:"/presse/", contact:"/#devis", legal:"/mentions-legales/", privacy:"/politique-de-confidentialite/", terms:"/cgv/"},
+    en:{blog:"/actualites/", press:"/presse/", contact:"/#devis", legal:"/en/legal-notice/", privacy:"/en/privacy-policy/", terms:"/en/terms-conditions/"}
+  };
+  function renderBlog(code){
+    var b = BLOG[code] || BLOG.fr, pg = PAGES[code === 'fr' ? 'fr' : 'en'];
+    var list = (window.NOXEM_POSTS || {})[code === 'fr' ? 'fr' : 'en'] || []; list = list.slice(0, 6);
+    document.getElementById('blogK').textContent = b[0];
+    document.getElementById('blogH').textContent = b[1];
+    document.getElementById('blogNote').textContent = b[6];
+    document.getElementById('blogNote').style.display = b[6] ? '' : 'none';
+    var all = document.getElementById('blogAll'); all.href = SITE + pg.blog; all.textContent = b[2] + ' (' + (window.NOXEM_POSTS_TOTAL || '') + ')';
+    var pr = document.getElementById('blogPress'); pr.href = SITE + pg.press; pr.textContent = b[3];
+    var fmt = function(d){ try { return new Intl.DateTimeFormat(code, {day:'numeric', month:'long', year:'numeric'}).format(new Date(d + 'T12:00:00')); } catch(e){ return d; } };
+    document.getElementById('posts').innerHTML = list.map(function(p){
+      return '\x3ca class="post" href="' + p.u + '" target="_blank" rel="noopener">\x3cdiv class="im" style="background-image:url(\'' + p.i + '\')">\x3c/div>\x3cdiv class="bd">\x3ctime>' + esc(fmt(p.d)) + '\x3c/time>\x3ch3>' + esc(p.t) + '\x3c/h3>\x3c/div>\x3c/a>';
+    }).join('');
+    var t = L[code] || L.fr, legal = t.foot.split(' · ');
+    var links = [[b[4], pg.blog], [b[3], pg.press], [b[5], pg.contact], [legal[0], pg.legal], [legal[1], pg.privacy], [legal[2], pg.terms]];
+    document.getElementById('footLinks').innerHTML = links.map(function(l){ return '\x3ca href="' + SITE + l[1] + '" target="_blank" rel="noopener">' + esc(l[0]) + '\x3c/a>'; }).join(' · ');
+  }
+
+  var sel = document.getElementById('lang');
+  sel.innerHTML = order.map(function(c){ return '\x3coption value="'+c+'">'+L[c].name+'\x3c/option>'; }).join('');
+  sel.addEventListener('change', function(){ render(sel.value); });
+
+  var start = new URLSearchParams(location.search).get('langue');
+  if (!L[start]) { try { start = localStorage.getItem('noxem-lang'); } catch(e){ start = null; } }
+  if (!L[start]) { start = (navigator.language || 'fr').slice(0,2).toLowerCase(); }
+  render(L[start] ? start : 'fr');
+
+  // Demande de prix : envoyée par Contact Form 7 (formulaire n° 9313) à aaronharfi@noxem-group.com.
+  var CF7 = 9313;
+  document.getElementById('qf').addEventListener('submit', function(e){
+    e.preventDefault();
+    var f = e.target, t = L[cur], msg = document.getElementById('fmsg'), btn = f.querySelector('button');
+    var v = function(n){ return f.elements[n].value.trim(); };
+    if (!v('nom') || !v('email') || !v('produits')) { msg.className = 'msg err'; msg.textContent = t.f.req; return; }
+    var fd = new FormData();
+    fd.append('_wpcf7', CF7); fd.append('_wpcf7_version', '6.1.7'); fd.append('_wpcf7_locale', 'fr_FR');
+    fd.append('_wpcf7_unit_tag', 'wpcf7-f' + CF7 + '-o1'); fd.append('_wpcf7_container_post', '0');
+    ['nom','societe','email','tel','pays','produits'].forEach(function(n){ fd.append(n, v(n)); });
+    fd.append('langue', L[cur].name);
+    btn.disabled = true; msg.className = 'msg'; msg.textContent = '…';
+    fetch('/wp-json/contact-form-7/v1/contact-forms/' + CF7 + '/feedback', {method:'POST', body:fd})
+      .then(function(r){ return r.json(); })
+      .then(function(j){
+        if (j.status === 'mail_sent') { msg.className = 'msg ok'; msg.textContent = t.f.ok; f.reset(); }
+        else if (j.status === 'validation_failed') { msg.className = 'msg err'; msg.textContent = t.f.req; }
+        else { msg.className = 'msg err'; msg.textContent = t.f.err; }
+      })
+      .catch(function(){ msg.className = 'msg err'; msg.textContent = t.f.err; })
+      .then(function(){ btn.disabled = false; });
+  });
+})();
+
+</script>
+<!-- /wp:html -->

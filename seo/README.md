@@ -26,6 +26,13 @@ Dossier de travail du référencement de noxemgroup.com. Premier bilan au 9 nove
 - Crawl des 309 URL des sitemaps Yoast, puis vérification de 369 liens internes supplémentaires.
 - Une correction appliquée en ligne : la page vide « Avis clients » (`/avis-clients/`) est passée **en brouillon**. Elle ne contenait qu'un formulaire de commentaire, aucun avis, et aucune page n'y renvoyait. Pour annuler : WordPress, Pages, Avis clients, Publier.
 
+### Réalisé en ligne le 9 novembre 2026 (suite à votre feu vert)
+- `/produits/`, `/qui-sommes-nous/` et `/contact/` : chaque page a désormais son propre contenu, son propre titre principal et un menu qui mène aux vraies pages. Ce ne sont plus des copies de l'accueil. Le code HTML de chaque page passe d'environ 200 Ko à environ 25 Ko. Le formulaire de devis est conservé (Contact Form 7 n° 9313, même destinataire). Les anciennes versions sont sauvegardées dans `backups/`.
+- Nouvelle page publiée : `/fournisseur-verre-plat-france/`. Elle est déjà dans le sitemap.
+- Toutes les pages ont été vérifiées en ligne : code 200, aucune erreur JavaScript, formulaire présent.
+- Titres et descriptions Yoast des articles anglais qui doublaient des articles français, corrigés via l'API : articles 7599 et 7609.
+- Vérification DNS : `noxem-group.com` reçoit bien les e-mails (serveurs Google Workspace). Les demandes de devis ne sont donc pas perdues. Le site affiche cependant deux domaines différents, ce qui reste à harmoniser.
+
 ### Préparé, en attente de votre validation
 - Titres et descriptions des 18 fiches produits françaises (`04-meta-produits.csv`).
 - Nouveau contenu pour `/produits/`, `/qui-sommes-nous/` et `/contact/`, qui sont aujourd'hui des copies de la page d'accueil (`05-strategie-contenu.md`).
