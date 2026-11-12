@@ -19,6 +19,15 @@ Dossier de travail du référencement de noxemgroup.com. Premier bilan au 9 nove
 | `data/crawl-2026-11-09.csv` | Données brutes du crawl, une ligne par URL (309 URL) |
 | `data/recherche-concurrents-netlinking-2026-11-09.md` | Recherche documentaire brute sur les concurrents et les liens |
 
+## 🔴 Incident en cours, constaté le 12 novembre 2026 vers 10 h 20 UTC
+Le site entier renvoie une erreur 500 « Il y a eu une erreur critique sur ce site » : accueil, toutes les pages, `/wp-json/` et `/wp-login.php`. Jetpack ne peut plus joindre le site, donc aucune action à distance n'est possible (ni désactiver une extension, ni activer la surveillance Jetpack).
+- Dernière modification réussie de ma part : le 10 novembre à 07 h 17 UTC (méta Yoast de l'article 7609). Le site fonctionnait le 9 novembre au soir, après la publication des pages.
+- Le journal d'activité ne montre aucune mise à jour d'extension entre le 10 et le 12 novembre (seulement « mise à jour disponible » pour WP Mail SMTP le 12 à 04 h 38). La cause est donc à lire dans les journaux du serveur.
+- Pour réparer (accès hébergement nécessaire, serveur Plesk, PHP 8.2) :
+  1. Cherchez dans la boîte **aaron.harfi@noxemgroup.com** l'e-mail WordPress « Votre site rencontre un problème technique ». Il nomme l'extension ou le thème en cause et donne un lien de mode de récupération.
+  2. Sinon, dans Plesk : Sites web, noxemgroup.com, **Journaux** (error_log PHP). La ligne « PHP Fatal error » indique le fichier en cause.
+  3. Remède rapide : dans le gestionnaire de fichiers, renommez `wp-content/plugins/<extension-en-cause>`. Si l'extension est inconnue, renommez tout le dossier `plugins`, puis réactivez les extensions une par une.
+
 ## Bilan au 9 novembre 2026
 
 ### Réalisé
