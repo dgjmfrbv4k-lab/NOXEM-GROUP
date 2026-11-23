@@ -19,14 +19,13 @@ Dossier de travail du référencement de noxemgroup.com. Premier bilan au 9 nove
 | `data/crawl-2026-11-09.csv` | Données brutes du crawl, une ligne par URL (309 URL) |
 | `data/recherche-concurrents-netlinking-2026-11-09.md` | Recherche documentaire brute sur les concurrents et les liens |
 
-## 🔴 Incident en cours, constaté le 12 novembre 2026 vers 10 h 20 UTC
-Le site entier renvoie une erreur 500 « Il y a eu une erreur critique sur ce site » : accueil, toutes les pages, `/wp-json/` et `/wp-login.php`. Jetpack ne peut plus joindre le site, donc aucune action à distance n'est possible (ni désactiver une extension, ni activer la surveillance Jetpack).
-- Dernière modification réussie de ma part : le 10 novembre à 07 h 17 UTC (méta Yoast de l'article 7609). Le site fonctionnait le 9 novembre au soir, après la publication des pages.
-- Le journal d'activité ne montre aucune mise à jour d'extension entre le 10 et le 12 novembre (seulement « mise à jour disponible » pour WP Mail SMTP le 12 à 04 h 38). La cause est donc à lire dans les journaux du serveur.
-- Pour réparer (accès hébergement nécessaire, serveur Plesk, PHP 8.2) :
-  1. Cherchez dans la boîte **aaron.harfi@noxemgroup.com** l'e-mail WordPress « Votre site rencontre un problème technique ». Il nomme l'extension ou le thème en cause et donne un lien de mode de récupération.
-  2. Sinon, dans Plesk : Sites web, noxemgroup.com, **Journaux** (error_log PHP). La ligne « PHP Fatal error » indique le fichier en cause.
-  3. Remède rapide : dans le gestionnaire de fichiers, renommez `wp-content/plugins/<extension-en-cause>`. Si l'extension est inconnue, renommez tout le dossier `plugins`, puis réactivez les extensions une par une.
+## Incident du 12 novembre 2026 : résolu, avec des séquelles à traiter
+- Le site est revenu en ligne le 12 novembre. Pour le rétablir, 9 extensions ont été mises hors service (dossiers renommés `.OFF-20261112`), dont **Masterlayer Addons**, Speed Optimizer, Site Kit et EWWW. Elementor, Complianz et AIOS ont été mis à jour.
+- Contrôle du 23 novembre : toutes les pages répondent en 200, l'API WordPress fonctionne, et le **formulaire de devis aussi** (testé avec des champs vides, réponse de validation normale).
+- **Séquelle 1 : les 18 fiches produits `/service/...` ont disparu.** Masterlayer déclarait ce type de contenu. Les adresses redirigent maintenant vers l'accueil. Les fiches anglaises `/en/...-glass/` ont perdu leurs tableaux techniques et n'affichent plus que leur description.
+  → 17 fiches françaises de remplacement, indépendantes de Masterlayer, sont prêtes dans `pages/produits/`. Elles seront publiées aux mêmes adresses `/service/<fiche>/`, sous une page parente « service ». Titres et descriptions Yoast : `pages/produits/index.csv`.
+- **Séquelle 2 : Site Kit est désactivé.** La liaison avec Google (Search Console, Analytics) est coupée : il faudra le réactiver quand le site sera stable.
+- **Bloquant : la connexion WordPress (Jetpack, WordPress.com) a été refusée le 23 novembre.** Il faut la réautoriser dans les réglages de connecteurs de claude.ai, puis je publie les 17 fiches.
 
 ## Bilan au 9 novembre 2026
 
