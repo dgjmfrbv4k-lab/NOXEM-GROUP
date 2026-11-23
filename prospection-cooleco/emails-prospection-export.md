@@ -193,6 +193,148 @@ Best regards,
 
 ---
 
+## 6. Hôtels, centres commerciaux, cliniques (confort et climatisation)
+
+**Objet FR :** {Entreprise} : moins de chaleur, une facture de climatisation plus légère
+
+Bonjour {Prénom},
+
+Dans un hôtel, un centre commercial ou une clinique, la climatisation est souvent le premier poste d'électricité. Une grande partie de la chaleur entre par les toits et les vitrages.
+
+NOXEM GROUP, distributeur officiel de Cooleco, propose des solutions qui renvoient la chaleur du soleil vers le ciel, sans électricité :
+- **films pour vitrages et verrières** : jusqu'à 83 % de l'énergie solaire rejetée (données fabricant) ;
+- **films pour toitures** (Polar 90) : 87,7 % du soleil réfléchi, mesuré par le LNE ;
+- **textiles rafraîchissants** pour stores, voiles d'ombrage et parasols.
+
+Sur des passerelles climatisées de l'aéroport de Changi, ces films ont permis 44 % d'économie annuelle de climatisation (documentation partenaire).
+
+Puis-je vous proposer une **étude gratuite** d'un de vos établissements ?
+
+Bien cordialement,
+
+**Objet EN:** {Company}: less heat, lower air-conditioning bills
+
+Dear {First name},
+
+In hotels, malls and clinics, air-conditioning is often the largest electricity cost, and much of the heat comes through roofs and glazing.
+
+NOXEM GROUP, official distributor of Cooleco, offers solutions that send the sun's heat back to the sky, with no electricity:
+- **window and skylight films**: up to 83% of solar energy rejected (manufacturer data);
+- **roof films** (Polar 90): 87.7% solar reflectance, measured by LNE;
+- **cooling textiles** for awnings, shade sails and parasols.
+
+On air-conditioned jet bridges at Changi Airport, these films delivered 44% annual AC savings (partner documentation).
+
+May I offer a **free assessment** of one of your sites?
+
+Best regards,
+
+---
+
+## 7. Élevage, industrie, hangars métalliques
+
+**Objet FR :** Bâtiments d'élevage et hangars : faire baisser la chaleur sous la tôle
+
+Bonjour {Prénom},
+
+Sous un toit en tôle, la chaleur stresse les animaux, fatigue les équipes, abîme les produits et fait tourner les ventilateurs et la climatisation à plein.
+
+NOXEM GROUP, distributeur officiel de Cooleco, propose le **Polar 90**, un film blanc posé directement sur la tôle, qui renvoie le soleil vers le ciel :
+- **87,7 % du soleil réfléchi**, mesuré par le LNE ;
+- **6,3 °C de moins** en surface qu'une tôle peinte en blanc (calcul TESA SE) ;
+- sans électricité, sans travaux lourds.
+
+Pour l'acier et la tôle galvanisée, nous proposons aussi un **revêtement anticorrosion** réfléchissant.
+
+Puis-je vous proposer un **essai sur un bâtiment**, avec mesure avant/après ?
+
+Bien cordialement,
+
+**Objet EN:** Livestock buildings and industrial sheds: bring down the heat under the roof
+
+Dear {First name},
+
+Under a metal roof, heat stresses animals and staff, damages products, and keeps fans and AC running at full power.
+
+NOXEM GROUP, official distributor of Cooleco, offers **Polar 90**, a white film applied directly on the metal sheet that sends sunlight back to the sky:
+- **87.7% solar reflectance**, measured by LNE;
+- **6.3 °C cooler** surface than white-painted steel (TESA SE calculation);
+- no electricity, no heavy works.
+
+For steel and galvanised sheet we also offer a reflective **anti-corrosion coating**.
+
+May I propose a **trial on one building**, with before/after measurement?
+
+Best regards,
+
+---
+
+## 8. Transport, conteneurs, bâtiments modulaires
+
+**Objet FR :** Bus, camions, conteneurs : jusqu'à 30 % de climatisation en moins
+
+Bonjour {Prénom},
+
+Des bus pilotes traités avec un film de refroidissement radiatif ont consommé **30 % de climatisation en moins**, avec 6 à 12 °C de moins dans l'habitacle. Dans un conteneur traité, la température intérieure a baissé de plus de 25 °C (cas présentés par le fabricant SolCold).
+
+NOXEM GROUP, distributeur officiel de Cooleco, propose ce film : le **Glacier 110**.
+- **89,5 % du soleil réfléchi**, mesuré par le LNE ;
+- une surface qui reste à la température de l'air, même au soleil (calcul TESA SE) ;
+- autocollant : il se pose sur des véhicules, conteneurs ou modules existants, ou en usine.
+
+Seriez-vous ouvert à un **test sur quelques véhicules ou modules** ?
+
+Bien cordialement,
+
+**Objet EN:** Buses, trucks, containers: up to 30% less air-conditioning
+
+Dear {First name},
+
+Pilot buses treated with a radiative cooling film used **30% less air-conditioning**, with cabins 6–12 °C cooler. A treated container was more than 25 °C cooler inside (cases presented by the manufacturer, SolCold).
+
+NOXEM GROUP, official distributor of Cooleco, offers this film: **Glacier 110**.
+- **89.5% solar reflectance**, measured by LNE;
+- a surface that stays at air temperature, even in full sun (TESA SE calculation);
+- self-adhesive: applied on existing vehicles, containers or modules, or at the factory.
+
+Would you be open to a **trial on a few vehicles or units**?
+
+Best regards,
+
+---
+
+## 9. Tentes, stores, voiles d'ombrage, housses
+
+**Objet FR :** Textiles rafraîchissants pour vos stores, tentes et voiles d'ombrage
+
+Bonjour {Prénom},
+
+NOXEM GROUP, distributeur officiel de Cooleco, propose une gamme de **textiles techniques rafraîchissants** : ils réfléchissent jusqu'à 85 % du soleil (données fabricant), bloquent plus de 99 % des UV et sont imperméables.
+
+Ils sont faits pour les stores, tentes, structures événementielles, parasols, voiles d'ombrage et housses de véhicules. Sous la toile, il fait nettement moins chaud qu'avec un tissu classique.
+
+Vous pourriez les proposer à vos clients comme une **option « anti-chaleur »**. Nous livrons en rouleaux, partout dans le monde.
+
+Puis-je vous envoyer des échantillons de tissu ?
+
+Bien cordialement,
+
+**Objet EN:** Cooling textiles for your awnings, tents and shade sails
+
+Dear {First name},
+
+NOXEM GROUP, official distributor of Cooleco, offers a range of **cooling technical textiles**: they reflect up to 85% of sunlight (manufacturer data), block over 99% of UV and are waterproof.
+
+They are made for awnings, tents, event structures, parasols, shade sails and car covers, and stay noticeably cooler underneath than standard fabric.
+
+You could offer them to your customers as an **anti-heat option**. We supply rolls worldwide.
+
+May I send you fabric samples?
+
+Best regards,
+
+---
+
 ## Signature (FR / EN)
 
 {Nom Prénom}
