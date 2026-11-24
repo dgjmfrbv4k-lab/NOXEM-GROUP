@@ -1,5 +1,28 @@
 # E-mail de prospection France : NOXEM Solar Control × Cooleco
 
+## VERSION COURTE (à utiliser)
+
+**Objet :** {Entreprise} : moins de chaleur sous vos toitures, sans électricité
+
+Bonjour {Civilité Nom},
+
+NOXEM GROUP, à Lyon, est distributeur officiel de Cooleco. Nous posons sur vos toitures, cuves et équipements un film qui **renvoie la chaleur du soleil vers le ciel, sans électricité**.
+
+- **6,3 °C de moins** qu'une tôle peinte en blanc (calcul TESA SE)
+- **87,7 % du soleil réfléchi** (mesure LNE)
+- **Fourniture et pose par nos équipes, partout en France**
+
+👉 Vidéo et fiches produits : https://noxemgroup.com/controle-solaire/
+
+Une **étude gratuite** de votre site vous intéresse ? Répondez simplement à ce message.
+
+Aaron Harfi · NOXEM GROUP
++33 2 59 50 84 59 · WhatsApp +33 6 86 13 12 71
+
+---
+
+## Version longue (archive)
+
 Règles : pas de prix, pas de délai, lien https://noxemgroup.com. Chiffres uniquement avec leur source.
 Variables : {Civilité Nom} (dirigeant du registre officiel) ou « Madame, Monsieur », {Entreprise}, {Ville}, {Accroche secteur}.
 
