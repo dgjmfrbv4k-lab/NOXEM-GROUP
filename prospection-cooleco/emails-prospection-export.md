@@ -22,6 +22,8 @@ Nous cherchons un partenaire revendeur à {Ville}. Nous fournissons la marchandi
 
 Puis-je vous envoyer des échantillons et la fiche technique ? Un appel de 15 minutes cette semaine vous conviendrait-il ?
 
+👉 La solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/
+
 Bien cordialement,
 
 **Objet EN:** Cooleco heat-reflective films in {Country}: partnership with {Company}?
@@ -38,6 +40,8 @@ In {Country}, your customers want cooler buildings and lower air-conditioning bi
 We are looking for a reseller partner in {City}. We supply by container, with full technical documentation and installer training.
 
 May I send you samples and the data sheet? Would a 15-minute call this week suit you?
+
+👉 See the solution, video and data sheets: https://noxemgroup.com/solar-control/
 
 Best regards,
 
@@ -60,6 +64,8 @@ Il se pose sur l'existant, sans travaux ni électricité. Nous livrons partout d
 
 Seriez-vous ouvert à un **test sur quelques sites**, avec mesure avant/après ? Je peux vous envoyer des échantillons et les rapports de mesure.
 
+👉 La solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/
+
 Bien cordialement,
 
 **Objet EN:** Telecom cabinets and battery containers: less heat, less AC, no electricity
@@ -76,6 +82,8 @@ NOXEM GROUP, official distributor of Cooleco, offers **Glacier 110**, a self-adh
 It is applied on existing equipment: no works, no power. We deliver worldwide.
 
 Would you be open to a **trial on a few sites**, with before/after measurement? I can send samples and the test reports.
+
+👉 See the solution, video and data sheets: https://noxemgroup.com/solar-control/
 
 Best regards,
 
@@ -97,6 +105,8 @@ Sans électricité, sur l'existant. Nous livrons en conteneur partout dans le mo
 
 Pourrions-nous en parler 15 minutes ? Nous pouvons proposer un **essai sur un bac**, avec mesure des températures.
 
+👉 La solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/
+
 Bien cordialement,
 
 **Objet EN:** Storage tanks: less heat build-up, evaporation and pressure
@@ -112,6 +122,8 @@ NOXEM GROUP, official distributor of Cooleco, offers radiative cooling films and
 No electricity, applied on existing assets. We ship by container worldwide.
 
 Could we talk for 15 minutes? We can offer a **trial on one tank** with temperature monitoring.
+
+👉 See the solution, video and data sheets: https://noxemgroup.com/solar-control/
 
 Best regards,
 
@@ -134,6 +146,8 @@ Il se pose directement sur la tôle existante, sans électricité. Nous livrons 
 
 Seriez-vous intéressé par une **étude gratuite** d'un de vos sites ? Il me suffit de la surface de toiture et de votre consommation de climatisation.
 
+👉 La solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/
+
 Bien cordialement,
 
 **Objet EN:** Warehouse roofs: bring down the heat under the metal sheet
@@ -150,6 +164,8 @@ NOXEM GROUP, official distributor of Cooleco, offers **Polar 90**, a white self-
 It is applied directly on the existing roof, with no electricity. We deliver worldwide.
 
 Would you like a **free assessment** of one of your sites? I just need the roof area and your air-conditioning consumption.
+
+👉 See the solution, video and data sheets: https://noxemgroup.com/solar-control/
 
 Best regards,
 
@@ -172,6 +188,8 @@ Mesures indépendantes : 87,7 à 89,5 % du soleil réfléchi selon le film (LNE)
 
 Puis-je vous envoyer des échantillons et vous proposer un **essai sur un silo ou une cuve** ?
 
+👉 La solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/
+
 Bien cordialement,
 
 **Objet EN:** {Company}'s silos and tanks: −31% energy at AB InBev
@@ -188,6 +206,8 @@ NOXEM GROUP is the official distributor of Cooleco, which distributes these film
 Independent measurements: 87.7 to 89.5% solar reflectance depending on the film (LNE).
 
 May I send you samples and propose a **trial on one silo or tank**?
+
+👉 See the solution, video and data sheets: https://noxemgroup.com/solar-control/
 
 Best regards,
 
@@ -210,6 +230,8 @@ Sur des passerelles climatisées de l'aéroport de Changi, ces films ont permis 
 
 Puis-je vous proposer une **étude gratuite** d'un de vos établissements ?
 
+👉 La solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/
+
 Bien cordialement,
 
 **Objet EN:** {Company}: less heat, lower air-conditioning bills
@@ -226,6 +248,8 @@ NOXEM GROUP, official distributor of Cooleco, offers solutions that send the sun
 On air-conditioned jet bridges at Changi Airport, these films delivered 44% annual AC savings (partner documentation).
 
 May I offer a **free assessment** of one of your sites?
+
+👉 See the solution, video and data sheets: https://noxemgroup.com/solar-control/
 
 Best regards,
 
@@ -248,6 +272,8 @@ Pour l'acier et la tôle galvanisée, nous proposons aussi un **revêtement anti
 
 Puis-je vous proposer un **essai sur un bâtiment**, avec mesure avant/après ?
 
+👉 La solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/
+
 Bien cordialement,
 
 **Objet EN:** Livestock buildings and industrial sheds: bring down the heat under the roof
@@ -264,6 +290,8 @@ NOXEM GROUP, official distributor of Cooleco, offers **Polar 90**, a white film 
 For steel and galvanised sheet we also offer a reflective **anti-corrosion coating**.
 
 May I propose a **trial on one building**, with before/after measurement?
+
+👉 See the solution, video and data sheets: https://noxemgroup.com/solar-control/
 
 Best regards,
 
@@ -284,6 +312,8 @@ NOXEM GROUP, distributeur officiel de Cooleco, propose ce film : le **Glacier 11
 
 Seriez-vous ouvert à un **test sur quelques véhicules ou modules** ?
 
+👉 La solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/
+
 Bien cordialement,
 
 **Objet EN:** Buses, trucks, containers: up to 30% less air-conditioning
@@ -298,6 +328,8 @@ NOXEM GROUP, official distributor of Cooleco, offers this film: **Glacier 110**.
 - self-adhesive: applied on existing vehicles, containers or modules, or at the factory.
 
 Would you be open to a **trial on a few vehicles or units**?
+
+👉 See the solution, video and data sheets: https://noxemgroup.com/solar-control/
 
 Best regards,
 
@@ -317,6 +349,8 @@ Vous pourriez les proposer à vos clients comme une **option « anti-chaleur »*
 
 Puis-je vous envoyer des échantillons de tissu ?
 
+👉 La solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/
+
 Bien cordialement,
 
 **Objet EN:** Cooling textiles for your awnings, tents and shade sails
@@ -330,6 +364,8 @@ They are made for awnings, tents, event structures, parasols, shade sails and ca
 You could offer them to your customers as an **anti-heat option**. We supply rolls worldwide.
 
 May I send you fabric samples?
+
+👉 See the solution, video and data sheets: https://noxemgroup.com/solar-control/
 
 Best regards,
 

@@ -19,9 +19,11 @@ NOXEM GROUP, entreprise lyonnaise spécialisée dans le verre et la façade, est
 - **fourniture et pose par nos équipes, partout en France métropolitaine, depuis Lyon** : vous n'avez rien à gérer ;
 - **stock disponible** pour démarrer rapidement.
 
+👉 **Voyez la solution en vidéo, avec les fiches produits : https://noxemgroup.com/controle-solaire/**
+
 Je vous propose une **étude gratuite** de votre site : avec la surface de toiture et votre consommation de climatisation, nous estimons le gain possible. Nous pouvons aussi faire un **essai sur une zone**, avec mesure avant/après.
 
-Seriez-vous disponible 15 minutes cette semaine ?
+Vous pouvez la demander directement ici : https://noxemgroup.com/controle-solaire/#etude, ou me répondre simplement. Seriez-vous disponible 15 minutes cette semaine ?
 
 Bien cordialement,
 
