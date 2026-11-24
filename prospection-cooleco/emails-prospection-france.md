@@ -16,7 +16,7 @@ Les étés sont de plus en plus chauds à {Ville}, et vos bâtiments le subissen
 NOXEM GROUP, entreprise lyonnaise spécialisée dans le verre et la façade, est distributeur officiel de **Cooleco**, une marque française de films et revêtements de **refroidissement radiatif**. Posés sur vos toitures, cuves ou équipements, ils renvoient la chaleur du soleil vers le ciel, **sans aucune électricité** :
 - **87,7 % du soleil réfléchi** par notre film Polar 90, mesuré par le LNE (Laboratoire national de métrologie et d'essais) ;
 - **6,3 °C de moins** en surface qu'une tôle peinte en blanc (calcul TESA SE) ;
-- **fourniture et pose par nos équipes, partout en France** : vous n'avez rien à gérer ;
+- **fourniture et pose par nos équipes, partout en France métropolitaine, depuis Lyon** : vous n'avez rien à gérer ;
 - **stock disponible** pour démarrer rapidement.
 
 Je vous propose une **étude gratuite** de votre site : avec la surface de toiture et votre consommation de climatisation, nous estimons le gain possible. Nous pouvons aussi faire un **essai sur une zone**, avec mesure avant/après.
