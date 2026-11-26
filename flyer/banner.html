@@ -2,98 +2,89 @@
 <html lang="en"><head><meta charset="utf-8">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-:root{--slate:#3d4a57;--dark:#1f2a35;--red:#c1272d;--orange:#d0873d;--beige:#d8c9b5;--light:#f4f1ec}
-body{width:1200px;font-family:"Helvetica Neue",Arial,sans-serif;background:#fff;color:var(--dark)}
-.head{display:flex;align-items:center;justify-content:space-between;padding:26px 50px;background:#fff;border-bottom:6px solid var(--red)}
-.head img{height:92px}
-.tag{background:var(--red);color:#fff;font-weight:800;letter-spacing:1.5px;font-size:20px;line-height:1.35;padding:14px 22px;text-align:right;border-radius:4px}
-.hero{position:relative;height:640px;background:url(ph/noxem-stock-3.jpg) center 60%/cover}
-.hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(20,28,36,.92) 0%,rgba(20,28,36,.72) 48%,rgba(20,28,36,.15) 100%)}
-.hin{position:absolute;left:50px;top:56px;width:720px;color:#fff}
-.pill{display:inline-block;background:var(--red);font-weight:800;font-size:18px;letter-spacing:2px;padding:9px 18px;border-radius:30px;margin-bottom:26px}
-.hin h1{font-size:68px;line-height:1.04;font-weight:900;margin-bottom:22px}
+:root{--navy:#1e3a5f;--slate:#2b3e55;--red:#c1272d;--orange:#d0873d;--ice:#eef4fa}
+body{width:1100px;font-family:"Helvetica Neue",Arial,sans-serif;background:#fff;color:#1f2a35;padding:30px 0 20px}
+.w{width:1000px;margin:0 auto}
+.head{display:flex;align-items:center;justify-content:space-between;padding:0 50px 26px}
+.head img{height:70px}
+.ht{text-align:right;font-weight:800;font-size:19px;letter-spacing:1.5px;line-height:1.45;color:var(--slate)}
+.ht span{color:var(--red)}
+.hero{position:relative;height:660px;background:url(ph/noxem-stock-3.jpg) center 55%/cover}
+.hero:before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(30,58,95,.35) 0%,rgba(30,58,95,.78) 45%,rgba(24,46,76,.96) 100%)}
+.hin{position:absolute;left:52px;top:170px;right:52px;color:#fff}
+.pill{display:inline-block;background:var(--red);font-weight:800;font-size:17px;letter-spacing:2px;padding:8px 18px;border-radius:30px;margin-bottom:20px}
+.hin h1{font-size:66px;line-height:1.06;font-weight:900;margin-bottom:18px;text-shadow:0 2px 12px rgba(0,0,0,.25)}
 .hin h1 span{color:var(--orange)}
-.hin p{font-size:25px;line-height:1.45;color:#e6e9ec}
-.kpis{position:absolute;left:0;right:0;bottom:0;display:flex;background:rgba(193,39,45,.95)}
-.kpi{flex:1;text-align:center;color:#fff;padding:20px 8px;border-right:1px solid rgba(255,255,255,.3)}
+.hin p{font-size:24px;color:#e3eaf2}
+.kpis{position:absolute;left:0;right:0;bottom:0;display:flex;padding:22px 20px 26px;border-top:1px solid rgba(255,255,255,.18)}
+.kpi{flex:1;text-align:center;color:#fff;border-right:1px solid rgba(255,255,255,.22)}
 .kpi:last-child{border:none}
-.kpi b{display:block;font-size:44px;font-weight:900}
-.kpi span{font-size:18px;letter-spacing:.5px}
-.duo{display:flex;gap:0}
-.duo div{flex:1;height:360px;position:relative;background-size:cover;background-position:center}
-.duo div span{position:absolute;left:0;bottom:0;right:0;background:linear-gradient(0deg,rgba(20,28,36,.9),rgba(20,28,36,0));color:#fff;font-size:24px;font-weight:700;padding:50px 30px 22px}
-.sec{background:var(--light);padding:50px 50px 40px}
-.sec h2{font-size:40px;font-weight:900;margin-bottom:8px}
-.sec h2 span{color:var(--red)}
-.sub{font-size:21px;color:#5b6773;margin-bottom:30px}
-.prods{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
-.prod{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 4px 16px rgba(0,0,0,.08)}
-.prod .ph{height:220px;background-size:cover;background-position:center}
-.prod .tx{padding:22px 22px 24px}
-.prod h3{font-size:25px;margin-bottom:12px;color:var(--dark)}
-.prod ul{list-style:none;font-size:18px;color:#45515c;line-height:1.6}
-.prod li:before{content:"◆ ";color:var(--red);font-size:14px}
-.tags{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;padding:34px 50px 10px;background:#fff}
-.tags span{border:2px solid var(--slate);color:var(--slate);font-weight:700;font-size:19px;padding:9px 20px;border-radius:30px}
-.price{margin:30px 50px 40px;border:4px solid var(--red);border-radius:12px;display:flex;align-items:center;overflow:hidden}
-.price .l{background:var(--red);color:#fff;font-weight:900;font-size:24px;padding:34px 30px;letter-spacing:1px;line-height:1.3;text-align:center}
-.price .r{padding:20px 34px}
-.price .r b{font-size:46px;font-weight:900;color:var(--dark)}
-.price .r b span{color:var(--red)}
-.price .r p{font-size:20px;color:#45515c;margin-top:6px}
-.cta{background:var(--dark);color:#fff;padding:44px 50px;display:flex;align-items:center;justify-content:space-between}
-.cta h2{font-size:44px;font-weight:900;line-height:1.1}
-.cta h2 span{color:var(--orange)}
-.cta p{font-size:19px;color:#b9c2ca;margin-top:10px}
-.ct{text-align:right;font-size:23px;line-height:1.75}
-.ct b{color:var(--orange)}
-.note{background:var(--dark);color:#8592a0;font-size:15px;text-align:center;padding:0 50px 22px}
-</style></head><body>
+.kpi b{display:block;font-size:46px;font-weight:900}
+.kpi span{font-size:15px;color:#c9d6e4;line-height:1.3;display:block;margin-top:4px}
+.duo{display:flex;gap:22px;padding:26px 52px 0}
+.duo div{flex:1;height:250px;border-radius:12px;position:relative;background-size:cover;background-position:center;box-shadow:0 4px 14px rgba(0,0,0,.12)}
+.duo span{position:absolute;left:14px;top:14px;background:#fff;color:#1f2a35;font-weight:800;font-size:16px;padding:7px 14px;border-radius:20px;box-shadow:0 2px 6px rgba(0,0,0,.2)}
+.duo span.r{color:var(--red)}
+.prods{display:flex;gap:22px;padding:22px 52px 0}
+.prod{flex:1;background:var(--ice);border-radius:12px;overflow:hidden}
+.prod .ph{height:200px;background-size:cover;background-position:center}
+.prod .tx{padding:20px 24px 24px}
+.prod h3{font-size:30px;font-weight:900;color:var(--navy)}
+.prod .cat{font-size:14px;font-weight:800;letter-spacing:1.5px;color:var(--red);margin:4px 0 12px}
+.prod ul{list-style:none;font-size:18px;color:#3c4a58;line-height:1.65}
+.prod li:before{content:"◆ ";color:var(--orange);font-size:14px}
+.tags{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;padding:26px 70px 0}
+.tags span{border:1.5px solid #d3dbe4;color:#2b3e55;font-weight:700;font-size:16px;padding:8px 18px;border-radius:20px}
+.price{margin:26px 52px 0;border:2px solid #f0dcc6;background:#fffaf4;border-radius:12px;display:flex;align-items:center;justify-content:space-between;padding:22px 30px}
+.price small{display:block;font-size:17px;color:#6b7785;margin-bottom:4px}
+.price b{font-size:44px;font-weight:900;color:var(--red)}
+.price .rt{text-align:right;font-size:19px;font-weight:700;color:#2b3e55;line-height:1.5}
+.cta{margin-top:30px;background:linear-gradient(90deg,var(--slate),var(--navy));color:#fff;padding:36px 52px;display:flex;align-items:center;justify-content:space-between}
+.cta h2{font-size:38px;font-weight:900;line-height:1.15}
+.cta p{font-size:17px;color:#b9c8d8;margin-top:10px}
+.ct{text-align:right;font-size:20px;line-height:1.65}
+.ct b{font-size:23px}
+.note{font-size:13px;color:#9aa5b1;text-align:center;padding:12px 40px 0}
+</style></head><body><div class="w">
 <div class="head">
   <img src="logo.png" alt="NOXEM GROUP">
-  <div class="tag">FLAT GLASS BY THE CONTAINER<br>CIF YOUR PORT · WORLDWIDE</div>
+  <div class="ht">NOXEM GROUP · FLAT GLASS<br><span>BY THE FULL CONTAINER · CIF YOUR PORT</span></div>
 </div>
 <div class="hero">
   <div class="hin">
     <div class="pill">DIRECT FROM 54 PARTNER FACTORIES</div>
-    <h1>Your glass,<br><span>delivered to your port.</span></h1>
-    <p>Float, tempered, laminated and insulated glass, louvre blades — made to order, shipped by full container, CIF your port.</p>
+    <h1>Your glass, made to order,<br><span>delivered to your port.</span></h1>
+    <p>Float, tempered, laminated, insulated glass and louvre blades — by full container.</p>
   </div>
   <div class="kpis">
-    <div class="kpi"><b>54</b><span>partner factories</span></div>
-    <div class="kpi"><b>100+</b><span>containers / month</span></div>
-    <div class="kpi"><b>CIF</b><span>delivered to your port</span></div>
-    <div class="kpi"><b>0%</b><span>deposit*</span></div>
+    <div class="kpi"><b>54</b><span>partner<br>factories</span></div>
+    <div class="kpi"><b>100+</b><span>containers<br>every month</span></div>
+    <div class="kpi"><b>CIF</b><span>delivered<br>to your port</span></div>
+    <div class="kpi"><b>0 %</b><span>deposit –<br>pay at 30 days*</span></div>
   </div>
 </div>
 <div class="duo">
-  <div style="background-image:url(ph/noxem-chargement-03.jpg)"><span>Loaded with care, secured for the sea</span></div>
-  <div style="background-image:url(ph/porte-conteneurs-quai-grue-depart.jpg)"><span>Shipped to your port, insurance included</span></div>
+  <div style="background-image:url(ph/noxem-chargement-03.jpg)"><span>Loading at the factory</span></div>
+  <div style="background-image:url(ph/porte-conteneurs-quai-grue-depart.jpg)"><span class="r">Shipped CIF to your port</span></div>
 </div>
-<div class="sec">
-  <h2>Our <span>products</span></h2>
-  <div class="sub">Cut to size, made to your specifications — priced per m², by full container.</div>
-  <div class="prods">
-    <div class="prod"><div class="ph" style="background-image:url(ph/noxem-stock-1.jpg)"></div>
-      <div class="tx"><h3>Float &amp; tempered glass</h3><ul><li>Clear &amp; extra-clear, 3–19 mm</li><li>Tinted, reflective, mirror</li><li>Tempered &amp; laminated safety glass</li></ul></div></div>
-    <div class="prod"><div class="ph" style="background-image:url(ph/modern-glass-building-with-blue-sky-2026-03-25-22-46-39-utc-scaled.jpg)"></div>
-      <div class="tx"><h3>Insulated glass units</h3><ul><li>4/16/4 and custom builds</li><li>Argon filling, Low-E coating</li><li>For windows &amp; façades</li></ul></div></div>
-    <div class="prod"><div class="ph" style="background-image:url(ph/wide-angle-abstract-background-with-stack-of-flat-2026-03-19-04-29-13-utc-scaled.jpg)"></div>
-      <div class="tx"><h3>Glass louvre blades</h3><ul><li>Clear, frosted, reflective</li><li>All lengths, edges ground</li><li>Ready for your frames</li></ul></div></div>
-  </div>
+<div class="prods">
+  <div class="prod"><div class="ph" style="background-image:url(ph/noxem-stock-1.jpg)"></div>
+    <div class="tx"><h3>Flat glass</h3><div class="cat">FLOAT · TEMPERED · LAMINATED</div>
+    <ul><li>Clear &amp; extra-clear, 3–19 mm</li><li>Tinted, reflective, mirror</li><li>Cut to size, edges ground</li><li>Jumbo or custom sheets</li></ul></div></div>
+  <div class="prod"><div class="ph" style="background-image:url(ph/modern-glass-building-with-blue-sky-2026-03-25-22-46-39-utc-scaled.jpg)"></div>
+    <div class="tx"><h3>Insulated glass &amp; louvres</h3><div class="cat">DOUBLE GLAZING · LOUVRE BLADES</div>
+    <ul><li>4/16/4 and custom builds</li><li>Argon filling, Low-E coating</li><li>Louvre blades: clear, frosted</li><li>All lengths, ready to fit</li></ul></div></div>
 </div>
 <div class="tags">
-  <span>Glaziers</span><span>Window makers</span><span>Façade contractors</span><span>Greenhouses</span><span>Distributors</span><span>Industry</span>
+  <span>Glaziers</span><span>Window &amp; door makers</span><span>Façade contractors</span><span>Greenhouses</span><span>Distributors</span><span>Building projects</span>
 </div>
 <div class="price">
-  <div class="l">FROM</div>
-  <div class="r"><b>€[PRICE]<span>/m²</span> — CIF your port</b>
-    <p>Full container · 0% deposit · pay on delivery or at 30 days*</p></div>
+  <div><small>Clear float glass, from</small><b>€[PRICE] / m²</b></div>
+  <div class="rt">CIF your port<br>full container</div>
 </div>
 <div class="cta">
-  <div><h2>Ask for your<br><span>free quote.</span></h2>
-    <p>Send us your products, quantities and destination port.</p></div>
-  <div class="ct"><b>aaron.harfi@noxem-group.com</b><br>WhatsApp +33 6 86 13 12 71<br>noxemgroup.com</div>
+  <div><h2>Free quote<br>for your project</h2><p>Products, quantities, destination port: we reply fast.</p></div>
+  <div class="ct"><b>Aaron Harfi</b><br>+33 2 59 50 84 59<br>WhatsApp +33 6 86 13 12 71<br>noxemgroup.com</div>
 </div>
-<div class="note">*Payment terms subject to our credit insurer's approval of your company.</div>
-</body></html>
+<div class="note">*Payment terms subject to our credit insurer's approval of your company. Indicative price, full container. NOXEM GROUP SAS, Lyon, France.</div>
+</div></body></html>
