@@ -121,7 +121,7 @@ T['fr'] = dict(
 PRICE_BOX['fr'] = ('Votre meilleur prix, livré', 'Demandez votre devis<br>conteneur complet · 0 % d\'acompte')
 
 
-def build(c):
+def build(c, raw=False):
     l = c['lang'] if c['lang'] in T else 'en'
     t = T[l]
     e = lambda s: html.escape(s, quote=False)
@@ -151,6 +151,8 @@ def build(c):
             h = h.replace(o, n)
     h = h.replace('👉 Full catalogue:', f'👉 {t["cat"]}' + (' :' if l == 'fr' else ':')).replace('Best regards,', t['regards']).replace('– President, NOXEM', f'– {t["pres"]}, NOXEM')
     h = h.replace('One-time B2B trade message. If you would prefer not to receive further communications from us, simply reply "UNSUBSCRIBE" and we will remove you from our list.', t['unsub'])
+    if raw:
+        return h
     h = re.sub(r'<!--.*?-->\n?', '', h)
     assert '{' not in h and 'PRICE' not in h, 'placeholder left'
     txt = re.sub(r'<br>', '\n', intro)
@@ -166,3 +168,32 @@ if __name__ == '__main__':
     q = [build(c) for c in json.load(open(inp))]
     json.dump(q, open(out, 'w'), ensure_ascii=False, indent=1)
     print(len(q), 'emails')
+
+
+# ===== Format validé : texte + UNE seule grande image flyer (dans la langue du prospect) =====
+import hashlib as _h
+def _sha(p):
+    return _h.sha256(open(p, 'rb').read()).hexdigest()
+FLYIMG = {l: FL + f'NOXEM_GROUP_Flyer_{l}.jpg' for l in ['en', 'es', 'pt', 'fr']}
+ALT = {'en': 'NOXEM GROUP – flat glass by the full container, CIF your port', 'es': 'NOXEM GROUP – vidrio plano por contenedor completo, CIF su puerto',
+       'pt': 'NOXEM GROUP – vidro plano por contêiner completo, CIF no seu porto', 'fr': 'NOXEM GROUP – verre plat par conteneur complet, CIF votre port'}
+
+
+def build_single(c):
+    l = c['lang'] if c['lang'] in T else 'en'
+    full = build(c)
+    h = full['htmlBody']
+    a = h.index('<tr><td style="padding:10px 20px 14px;border-bottom:4px solid #c1272d">')
+    b = h.index('<tr><td style="padding:22px 4px 0;font-size:15px;line-height:1.55;color:#202124">')
+    img = (f'<tr><td style="padding:4px 0 6px"><img src="cid:att0" width="640" alt="{ALT[l]}" '
+           'style="display:block;width:100%;max-width:640px;height:auto;border:0"></td></tr>\n')
+    full['htmlBody'] = h[:a] + img + h[b:]
+    p = FLYIMG[l]
+    full['attachments'] = [{"content": f"sha256:{_sha(p)}:{p}", "filename": f"NOXEM_GROUP_Flyer.jpg", "mimeType": "image/jpeg", "inline": True}]
+    return full
+
+
+if __name__ == '__main__' and len(sys.argv) > 3 and sys.argv[3] == 'single':
+    q = [build_single(c) for c in json.load(open(sys.argv[2]))]
+    json.dump(q, open(sys.argv[1], 'w'), ensure_ascii=False, indent=1)
+    print(len(q), 'emails (single image)')
