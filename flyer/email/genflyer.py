@@ -92,6 +92,34 @@ PRICE_BOX = {'en': ('Your best price, delivered', 'Ask for your quote<br>full co
              'pt': ('O seu melhor preço, entregue', 'Peça o seu orçamento<br>contêiner completo · 0% de entrada'),
              'es': ('Su mejor precio, entregado', 'Pida su cotización<br>contenedor completo · 0% de anticipo')}
 
+SEG['fr'] = {'menuiserie': ('la fabrication de fenêtres et de portes', 'double vitrage (4/16/4, Low-E, argon) et lames de verre pour persiennes'),
+             'miroiterie': ('la transformation et la pose de vitrages', 'verre float clair et extra-clair, verre trempé et feuilleté, coupé sur mesure'),
+             'negoce': ('la distribution de matériaux de construction', 'verre float, double vitrage et lames pour la revente'),
+             'btp': ('le bâtiment et les travaux publics', 'verre plat et double vitrage pour vos chantiers')}
+T['fr'] = dict(
+  subj='Verre plat par conteneur complet – CIF {port} – NOXEM GROUP',
+  bold='Verre plat, double vitrage et lames de persiennes – livrés CIF {port}, conteneur complet, 0 % d\'acompte',
+  hello='Bonjour,',
+  p1='J\'ai découvert {co}, à {city}, et votre activité dans {seg}, et je pense que notre verre peut vous intéresser.',
+  p2='NOXEM GROUP, basée à Lyon, fournit du verre plat, du double vitrage et des lames de verre pour persiennes fabriqués sur commande, par conteneur complet, livrés CIF {port}. Nous travaillons avec 54 usines partenaires, expédions plus de 100 conteneurs chaque mois et proposons le paiement à la livraison ou à 30 jours (sous réserve de l\'accord de notre assureur-crédit). Pour vous : {focus}.',
+  p3='Notre présentation est ci-dessous.',
+  q='Une seule question : quels produits et quels volumes vous faut-il pour vos prochaines commandes ?',
+  cat='Catalogue complet', regards='Cordialement,', pres='Président',
+  unsub='Message professionnel ponctuel. Si vous ne souhaitez plus recevoir nos communications, répondez simplement « STOP » et nous vous retirerons de notre liste.',
+  f=[('NOXEM GROUP · FLAT GLASS', 'NOXEM GROUP · VERRE PLAT'), ('BY THE FULL CONTAINER · CIF YOUR PORT', 'PAR CONTENEUR COMPLET · CIF VOTRE PORT'),
+     ('DIRECT FROM 54 PARTNER FACTORIES', 'EN DIRECT DE 54 USINES PARTENAIRES'), ('Your glass, made to order,', 'Votre verre, sur commande,'),
+     ('delivered to your port.', 'livré à votre port.'), ('Float, tempered, laminated, insulated glass and louvre blades — by full container.', 'Verre float, trempé, feuilleté, double vitrage et lames de persiennes — par conteneur complet.'),
+     ('partner<br>factories', 'usines<br>partenaires'), ('containers<br>every month', 'conteneurs<br>par mois'), ('delivered<br>to your port', 'livré<br>à votre port'),
+     ('deposit –<br>pay at 30 days*', 'd\'acompte –<br>paiement à 30 jours*'), ('Loading at the factory', 'Chargement à l\'usine'), ('Shipped CIF to your port', 'Expédié CIF à votre port'),
+     ('>Flat glass<', '>Verre plat<'), ('FLOAT · TEMPERED · LAMINATED', 'FLOAT · TREMPÉ · FEUILLETÉ'), ('Clear &amp; extra-clear, 3–19 mm', 'Clair et extra-clair, 3–19 mm'),
+     ('Tinted, reflective, mirror', 'Teinté, réfléchissant, miroir'), ('Cut to size, edges ground', 'Coupé sur mesure, bords façonnés'), ('Jumbo or custom sheets', 'Plateaux jumbo ou sur mesure'),
+     ('Insulated glass &amp; louvres', 'Double vitrage et lames'), ('DOUBLE GLAZING · LOUVRE BLADES', 'DOUBLE VITRAGE · LAMES DE PERSIENNES'), ('4/16/4 and custom builds', '4/16/4 et compositions sur mesure'),
+     ('Argon filling, Low-E coating', 'Gaz argon, couche Low-E'), ('Louvre blades: clear, frosted', 'Lames : claires, dépolies'), ('All lengths, ready to fit', 'Toutes longueurs, prêtes à poser'),
+     ('>Glaziers<', '>Miroitiers<'), ('Window &amp; door makers', 'Menuisiers'), ('Façade contractors', 'Façadiers'), ('>Greenhouses<', '>Serres<'), ('>Distributors<', '>Négociants<'), ('Building projects', 'Entreprises du BTP'),
+     ('Free quote<br>for your project', 'Devis gratuit<br>pour votre projet'), ('Products, quantities, destination port: we reply fast.', 'Produits, quantités, port de destination : on vous répond vite.'),
+     ("*Payment terms subject to our credit insurer's approval of your company. Indicative price, full container. NOXEM GROUP SAS, Lyon, France.", '*Conditions de paiement sous réserve de l\'accord de notre assureur-crédit sur votre société. Conteneur complet. NOXEM GROUP SAS, Lyon, France.')])
+PRICE_BOX['fr'] = ('Votre meilleur prix, livré', 'Demandez votre devis<br>conteneur complet · 0 % d\'acompte')
+
 
 def build(c):
     l = c['lang'] if c['lang'] in T else 'en'
@@ -121,13 +149,13 @@ def build(c):
         for o, n in t['f']:
             assert o in h or o.startswith("alt="), o
             h = h.replace(o, n)
-    h = h.replace('👉 Full catalogue:', f'👉 {t["cat"]}:').replace('Best regards,', t['regards']).replace('– President, NOXEM', f'– {t["pres"]}, NOXEM')
+    h = h.replace('👉 Full catalogue:', f'👉 {t["cat"]}' + (' :' if l == 'fr' else ':')).replace('Best regards,', t['regards']).replace('– President, NOXEM', f'– {t["pres"]}, NOXEM')
     h = h.replace('One-time B2B trade message. If you would prefer not to receive further communications from us, simply reply "UNSUBSCRIBE" and we will remove you from our list.', t['unsub'])
     h = re.sub(r'<!--.*?-->\n?', '', h)
     assert '{' not in h and 'PRICE' not in h, 'placeholder left'
     txt = re.sub(r'<br>', '\n', intro)
     body = (re.sub(r'<[^>]+>', '', re.sub(r'</p>', '\n\n', txt)).strip() + '\n\n'
-            + f'{t["cat"]}: https://noxemgroup.com/en/catalog/\n\n{t["regards"]}\nAaron Harfi – {t["pres"]}, NOXEM GROUP SAS, Lyon, France\n+33 2 59 50 84 59 · WhatsApp +33 6 86 13 12 71\naaron.harfi@noxem-group.com\n\n{t["unsub"]}')
+            + f'{t["cat"]}' + (' :' if l == 'fr' else ':') + f' https://noxemgroup.com/en/catalog/\n\n{t["regards"]}\nAaron Harfi – {t["pres"]}, NOXEM GROUP SAS, Lyon, France\n+33 2 59 50 84 59 · WhatsApp +33 6 86 13 12 71\naaron.harfi@noxem-group.com\n\n{t["unsub"]}')
     body = re.sub(r'\n{3,}', '\n\n', html.unescape(body))
     return {"to": c['email'], "company": c['company'], "zone": c.get('zone'), "subject": html.unescape(t['subj'].format(port=c['port'])),
             "htmlBody": h, "body": body, "attachments": ATTACH}
