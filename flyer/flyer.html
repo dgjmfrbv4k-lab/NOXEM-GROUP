@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1500px;font-family:"Helvetica Neue",Arial,sans-serif;background:#f4f7fa;color:#0d2236}
+.top{height:150px;background:#0d2236;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 60px}
+.logo{font-size:56px;font-weight:800;letter-spacing:4px}
+.logo span{color:#4fc3e8}
+.tag{font-size:22px;text-align:right;line-height:1.4;color:#cfe6f3}
+.hero{position:relative;height:500px;background:linear-gradient(160deg,#1d5b86 0%,#0d2236 100%);overflow:hidden}
+.hero svg{position:absolute;right:30px;top:30px}
+.hero h1{position:absolute;left:60px;top:60px;color:#fff;font-size:54px;line-height:1.08;font-weight:800;width:560px}
+.hero p{position:absolute;left:60px;top:300px;color:#cfe6f3;font-size:26px;width:520px;line-height:1.4}
+.price{margin:-50px 60px 0;position:relative;background:#ffb703;color:#0d2236;border-radius:18px;padding:26px 36px;font-size:34px;font-weight:800;box-shadow:0 10px 30px rgba(0,0,0,.18)}
+.price small{display:block;font-size:22px;font-weight:600;margin-top:6px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:26px;padding:40px 60px 10px}
+.card{background:#fff;border-radius:18px;padding:26px;display:flex;gap:22px;align-items:center;box-shadow:0 4px 14px rgba(13,34,54,.08)}
+.card h3{font-size:28px;margin-bottom:6px}
+.card p{font-size:20px;color:#4a6175;line-height:1.35}
+.strip{display:flex;justify-content:space-between;margin:30px 60px 0;background:#0d2236;border-radius:18px;padding:28px 34px;color:#fff}
+.k{text-align:center;width:24%}
+.k b{display:block;font-size:42px;color:#4fc3e8}
+.k span{font-size:19px;color:#cfe6f3}
+.cta{margin:30px 60px 0;font-size:25px;font-weight:700;text-align:center}
+.foot{position:absolute;bottom:0;width:1080px;height:110px;background:#0d2236;color:#fff;display:flex;align-items:center;justify-content:space-around;font-size:20px;padding:0 30px}
+.foot b{color:#4fc3e8}
+</style></head><body>
+<div class="top">
+  <div class="logo">NOXEM<span>GROUP</span></div>
+  <div class="tag">Flat glass by the container<br>Lyon, France</div>
+</div>
+<div class="hero">
+  <h1>Glass for your projects, delivered to your port</h1>
+  <p>Float, tempered, laminated, insulated glass and louvre blades — made to order, by full container.</p>
+  <svg width="430" height="440" viewBox="0 0 430 440">
+    <defs>
+      <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8f7ff" stop-opacity=".95"/><stop offset="1" stop-color="#7fd0ee" stop-opacity=".55"/></linearGradient>
+      <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#bfe9f8"/><stop offset="1" stop-color="#5bb8de"/></linearGradient>
+    </defs>
+    <!-- window frame with louvres -->
+    <rect x="30" y="20" width="230" height="400" rx="10" fill="#0b1a28" opacity=".55"/>
+    <rect x="44" y="34" width="202" height="372" rx="6" fill="none" stroke="#9fb4c4" stroke-width="6"/>
+    <g fill="url(#g2)" stroke="#ffffff" stroke-opacity=".6">
+      <rect x="54" y="50" width="182" height="34" rx="4" transform="skewY(-4)"/>
+      <rect x="54" y="98" width="182" height="34" rx="4" transform="skewY(-4)"/>
+      <rect x="54" y="146" width="182" height="34" rx="4" transform="skewY(-4)"/>
+      <rect x="54" y="194" width="182" height="34" rx="4" transform="skewY(-4)"/>
+      <rect x="54" y="242" width="182" height="34" rx="4" transform="skewY(-4)"/>
+      <rect x="54" y="290" width="182" height="34" rx="4" transform="skewY(-4)"/>
+      <rect x="54" y="338" width="182" height="34" rx="4" transform="skewY(-4)"/>
+    </g>
+    <!-- stacked glass sheets -->
+    <g>
+      <rect x="250" y="120" width="150" height="270" rx="6" fill="url(#g)" stroke="#fff" stroke-width="2" transform="rotate(8 325 255)"/>
+      <rect x="240" y="110" width="150" height="270" rx="6" fill="url(#g)" stroke="#fff" stroke-width="2" transform="rotate(3 315 245)"/>
+      <rect x="230" y="100" width="150" height="270" rx="6" fill="url(#g)" stroke="#fff" stroke-width="2"/>
+      <path d="M250 130 L300 130 L250 200 Z" fill="#fff" opacity=".55"/>
+      <path d="M330 300 L370 250 L370 300 Z" fill="#fff" opacity=".3"/>
+    </g>
+  </svg>
+</div>
+<div class="price">From €[PRICE]/m² — CIF your port
+  <small>Full container · 0% deposit · pay on delivery or at 30 days*</small>
+</div>
+<div class="grid">
+  <div class="card">
+    <svg width="78" height="78" viewBox="0 0 78 78"><rect x="8" y="8" width="62" height="62" rx="6" fill="#dff3fb" stroke="#1d5b86" stroke-width="4"/><path d="M18 30 L34 14 M18 46 L50 14" stroke="#1d5b86" stroke-width="4" stroke-linecap="round"/></svg>
+    <div><h3>Float glass</h3><p>Clear & extra-clear, 3–19 mm, tinted, reflective, mirror</p></div>
+  </div>
+  <div class="card">
+    <svg width="78" height="78" viewBox="0 0 78 78"><rect x="8" y="14" width="50" height="56" rx="5" fill="#dff3fb" stroke="#1d5b86" stroke-width="4"/><rect x="20" y="8" width="50" height="56" rx="5" fill="#fff" fill-opacity=".7" stroke="#1d5b86" stroke-width="4"/><path d="M44 26 l6 10 h-12z" fill="#ffb703"/></svg>
+    <div><h3>Tempered & laminated</h3><p>Safety glass, cut to size, edges ground</p></div>
+  </div>
+  <div class="card">
+    <svg width="78" height="78" viewBox="0 0 78 78"><rect x="6" y="10" width="20" height="58" rx="3" fill="#dff3fb" stroke="#1d5b86" stroke-width="4"/><rect x="52" y="10" width="20" height="58" rx="3" fill="#dff3fb" stroke="#1d5b86" stroke-width="4"/><path d="M26 20 h26 M26 58 h26" stroke="#1d5b86" stroke-width="4"/><circle cx="39" cy="39" r="6" fill="#4fc3e8"/></svg>
+    <div><h3>Insulated glass</h3><p>4/16/4, argon, Low-E — priced per m²</p></div>
+  </div>
+  <div class="card">
+    <svg width="78" height="78" viewBox="0 0 78 78"><rect x="10" y="6" width="58" height="66" rx="5" fill="none" stroke="#1d5b86" stroke-width="4"/><g fill="#4fc3e8"><rect x="16" y="14" width="46" height="8" rx="2"/><rect x="16" y="28" width="46" height="8" rx="2"/><rect x="16" y="42" width="46" height="8" rx="2"/><rect x="16" y="56" width="46" height="8" rx="2"/></g></svg>
+    <div><h3>Louvre blades</h3><p>Clear, frosted, reflective — all lengths</p></div>
+  </div>
+</div>
+<div class="strip">
+  <div class="k"><b>54</b><span>partner factories</span></div>
+  <div class="k"><b>100+</b><span>containers / month</span></div>
+  <div class="k"><b>CIF</b><span>delivered to your port</span></div>
+  <div class="k"><b>0%</b><span>deposit*</span></div>
+</div>
+<div class="cta">Send us your quantities & destination port — we reply with our best price.</div>
+<div class="foot">
+  <div><b>aaron.harfi@noxem-group.com</b></div>
+  <div>WhatsApp +33 6 86 13 12 71</div>
+  <div><b>noxemgroup.com</b></div>
+</div>
+<div style="position:absolute;bottom:132px;width:1080px;text-align:center;font-size:16px;color:#6b7f90">*Payment terms subject to our credit insurer's approval of your company.</div>
+</body></html>
